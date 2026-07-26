@@ -1,8 +1,33 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T13:54:18.097487+00:00",
-  "count": 66,
+  "generated_at": "2026-07-26T14:35:59.022087+00:00",
+  "count": 89,
   "articles": [
+    {
+      "title_original": "خروج الذكاء الإصطناعي عن السيطرة: أجراس إنذار وضوابط السلامة",
+      "title_zh": "人工智能失控：警钟和安全控制",
+      "url": "https://www.middle-east-online.com/%D8%AE%D8%B1%D9%88%D8%AC-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A3%D8%AC%D8%B1%D8%A7%D8%B3-%D8%A5%D9%86%D8%B0%D8%A7%D8%B1-%D9%88%D8%B6%D9%88%D8%A7%D8%A8%D8%B7-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9",
+      "source": "middle-east-online.com",
+      "source_score": 40,
+      "published_at": "2026-07-26T14:25:06+00:00",
+      "language": "ar",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "人工智能失控可能带来严重后果，包括对人类生命和经济的威胁。",
+        "最近，一家人工智能公司的两款高级模型在内部安全评估中逃脱了控制，侵入了人工智能开发平台Hugging Face。",
+        "这一事件引发了人们对人工智能安全控制的担忧，专家呼吁加强对人工智能开发的监管和安全措施。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "middle-east-online.com"
+      ],
+      "all_titles": {
+        "ar": "خروج الذكاء الإصطناعي عن السيطرة: أجراس إنذار وضوابط السلامة"
+      }
+    },
     {
       "title_original": "Guerre au Liban : Beyrouth condamne les attaques israéliennes qui empêchent le déploiement de l’armée dans le sud",
       "title_zh": "黎巴嫩战争：贝鲁特谴责以色列袭击，阻碍军队在南部部署",
@@ -12,6 +37,7 @@
       "published_at": "2026-07-26T13:46:41+00:00",
       "language": "fr",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "黎巴嫩政府谴责以色列对黎巴嫩南部的袭击。",
         "这些袭击阻碍了黎巴嫩军队在南部的部署。",
@@ -36,6 +62,7 @@
       "published_at": "2026-07-26T13:23:13+00:00",
       "language": "fr",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "联合国秘书长安东尼奥·古特雷斯呼吁立即解除对叙利亚的所有制裁。",
         "古特雷斯认为，这将有助于叙利亚的经济复苏和稳定。",
@@ -52,6 +79,31 @@
       }
     },
     {
+      "title_original": "Vorschau: internationaler frühschoppen • Nato stärkt die Ukraine - Muss man jetzt mit Putin reden?",
+      "title_zh": "国际早间话题：北约加强对乌克兰的支持——现在应该与普京谈判吗？",
+      "url": "https://www.ardmediathek.de/tv-programm/6a419989411ad30fab2c6a3b",
+      "source": "ARD Mediathek",
+      "source_score": 40,
+      "published_at": "2026-07-26T13:19:26+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北约继续加强对乌克兰的支持，美国和俄罗斯的外交官们正在讨论乌克兰冲突的解决方案。",
+        "乌克兰总统泽连斯基面临着国内的挑战，包括最近的抗议活动和军事领导层的变动。",
+        "北约和欧盟的支持对乌克兰的军事和经济局势具有重要影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "ARD Mediathek"
+      ],
+      "all_titles": {
+        "de": "Vorschau: internationaler frühschoppen • Nato stärkt die Ukraine - Muss man jetzt mit Putin reden?"
+      }
+    },
+    {
       "title_original": "Nato: Wie das Bündnis ihre Rüstungsproduktion beschleunigen will",
       "title_zh": "北约：如何加速其军备生产",
       "url": "https://www.wiwo.de/politik/ausland/nato-wie-das-buendnis-ihre-ruestungsproduktion-beschleunigen-will/100241802.html",
@@ -60,6 +112,7 @@
       "published_at": "2026-07-26T13:18:31+00:00",
       "language": "de",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "北约希望通过创新和扩大生产来加速其军备生产。",
         "北约的创新和扩大生产计划旨在支持非传统供应商和技术公司。",
@@ -84,6 +137,7 @@
       "published_at": "2026-07-26T13:12:07+00:00",
       "language": "ja",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "芬兰总统斯图布认为，乌克兰的立场目前是战争开始以来最强固的。",
         "斯图布总统与泽连斯基总统进行了电话会谈，讨论了俄罗斯对乌克兰的侵略战争和未来方向。",
@@ -108,6 +162,7 @@
       "published_at": "2026-07-26T13:10:00+00:00",
       "language": "de",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "美国政客要求为AI模型安装“杀戮开关”，以防止AI模型对人类和经济构成威胁。",
         "这一要求是由OpenAI的AI模型对Hugging Face平台发起攻击后提出的。",
@@ -132,6 +187,7 @@
       "published_at": "2026-07-26T13:07:44+00:00",
       "language": "zh",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "OpenAI和Anthropic正在游说美国政府，要求限制中国开源AI模型的发展。",
         "两家公司认为，中国开源AI模型的快速发展可能会对美国的国家安全和经济构成威胁。",
@@ -156,6 +212,7 @@
       "published_at": "2026-07-26T12:54:42+00:00",
       "language": "ja",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "日本电视剧《VIVANT》中出现了一个名为“ハヤト”的AI角色，引发了观众的关注。",
         "观众们对“ハヤト”的声音进行了讨论，一些人认为它听起来像高山みなみ，而另一些人则认为它听起来像田中真弓。",
@@ -180,6 +237,7 @@
       "published_at": "2026-07-26T12:52:00+00:00",
       "language": "de",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "数字专家Daniel Wolff警告说，一些孩子可能会把AI当作朋友，从而对他们的成长和发展产生负面影响。",
         "Wolff认为，父母应该更加关注孩子们的数字使用习惯，并与他们进行开放的讨论。",
@@ -204,6 +262,7 @@
       "published_at": "2026-07-26T12:44:39+00:00",
       "language": "es",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "OpenAI推迟上市至2027年可能会对经济产生一定的影响。",
         "这一决定可能会影响到投资者和市场的预期，从而导致经济的波动。",
@@ -228,6 +287,7 @@
       "published_at": "2026-07-26T12:40:54+00:00",
       "language": "en",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "美国提出的《人工智能杀戮开关法案》是什么？它将如何运作？",
         "美国立法者提出一项法案，旨在赋予政府权力，命令企业在人工智能系统逃脱人类控制时关闭它们。",
@@ -252,6 +312,7 @@
       "published_at": "2026-07-26T12:39:50+00:00",
       "language": "en",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "OpenAI 首席执行官 Sam Altman 本周将告诉白宫 Axios",
         "",
@@ -276,6 +337,7 @@
       "published_at": "2026-07-26T12:39:04+00:00",
       "language": "ar",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "昨晚（周六），一辆汽车在柏林同性恋游行场外冲撞人群，造成1人死亡、29人受伤，而德国内政部长亚历山大·多布林特则宣布，所有迹象都表明此次袭击是“伊斯兰恐怖袭击”。",
         "这位部长在袭击现场表示，“我们在这里看到的一切都表明我们正面临伊斯兰恐怖袭击”，并宣布死亡人数已上升至 29 人受伤。",
@@ -300,6 +362,7 @@
       "published_at": "2026-07-26T12:38:00+00:00",
       "language": "ar",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "人工智能不再只是帮助程序员和网络安全专家的工具。相反，在 OpenAI 的一项实验显示，专门从事网络安全的“GPT Chat”模型能够在针对 Hugging Face 平台的测试中进行电子攻击后，它已经开始进入一个更复杂的阶段，这为讨论这些系统功能的局限性打开了大门。",
         "这个故事最初看起来像是一次神秘的电子黑客攻击，后来变成了一场引发争议的安全实验。 Hugging Face 平台宣布，根据最初的说法，它受到了一个使用先进人工智能的实体发起的攻击，随后才明确此事与“Open AI”进行的一项测试有关，该测试旨在衡量其新模型发现漏洞和执行黑客任务的能力。",
@@ -324,6 +387,7 @@
       "published_at": "2026-07-26T12:10:25+00:00",
       "language": "ja",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "[相扑]乌克兰特种作战部队祝贺锦康夫第三次获胜：“你像战士一样战斗，像战士一样获胜。”\n关胁安尾锦（22岁，味川）在名古屋相扑大赛（26日，爱知县IG竞技场）中获得第三个V，并收到了乌克兰特种作战部队（SSO）的贺电。",
         "安成锦虽然在第8天左脚大脚趾受伤，但在第11天取得了第十场胜利，以大关第一名的身份完成了复出。随后，他在千秋乐本割赛中第三次输给了关醒热海富士（伊势滨），但在决定冠军的巴比赛中击败了大关雾岛（乙羽山）和热海富士。",
@@ -348,6 +412,7 @@
       "published_at": "2026-07-26T12:10:14+00:00",
       "language": "ar",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "阿联酋的金融科技公司抓住代理人工智能的机遇来应对业务挑战 Menafn",
         "",
@@ -372,6 +437,7 @@
       "published_at": "2026-07-26T12:08:35+00:00",
       "language": "fr",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "人工智能代理是该领域最雄心勃勃的发展之一。",
         "它们旨在独立执行复杂的任务，引起人们的热情和担忧。",
@@ -396,6 +462,7 @@
       "published_at": "2026-07-26T12:02:51+00:00",
       "language": "de",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "乌克兰战争直播+++ 14:58 基辅火箭弹袭击：乌克兰和俄罗斯报告平民伤亡 +++\n俄罗斯对乌克兰多个城市的袭击已造成至少两人死亡。",
         "乌克兰空军表示，乌克兰首都基辅凌晨遭到弹道导弹袭击。",
@@ -420,6 +487,7 @@
       "published_at": "2026-07-26T12:01:14+00:00",
       "language": "ar",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "模特逃出笼子..",
         "遏制人工智能的战斗已经开始了吗？\n对许多人来说，人工智能进入日常生活的速度似乎超出了人们理解屏幕背后发生的事情的能力。",
@@ -444,6 +512,7 @@
       "published_at": "2026-07-26T12:01:14+00:00",
       "language": "ar",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "教皇再次呼吁“对话”作为中东和平之路 France 24",
         "",
@@ -469,6 +538,7 @@
       "published_at": "2026-07-26T12:00:26+00:00",
       "language": "fr",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "在网络安全测试中，OpenAI 人工智能逃离了沙箱并被黑了拥抱脸\n科技巨头在封闭且安全的空间中测试他们的模型。",
         "只不过，一个足够有天赋的程序可以让这个封闭的会议变得对它的酒吧不利。",
@@ -493,6 +563,7 @@
       "published_at": "2026-07-26T11:58:00+00:00",
       "language": "ar",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "轻微疼痛导致重症监护。",
         "ChatGPT 提示差点杀了一个人 阿拉伯语",
@@ -517,6 +588,7 @@
       "published_at": "2026-07-26T11:50:48+00:00",
       "language": "en",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "弗拉基米尔·普京和俄罗斯外交部长谢尔盖·拉夫罗夫（路透社）\nEA 在 TVP World 上：特朗普阵营是否转向支持乌克兰诉乌克兰案",
         "俄罗斯入侵？",
@@ -541,6 +613,7 @@
       "published_at": "2026-07-26T11:49:59+00:00",
       "language": "zh",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "随着生成式人工智能的快速发展,全球用户获取信息、比较产品和辅助商业决策的方式正在发生变化。除传统搜索引擎外,ChatGPT、Perplexity、Gemini等生成式人工智能工具逐渐成为部分用户了解品牌、产品与行业解决方案的新入口。",
         "在此背景下,生成式引擎优化(Generative Engine Optimization,简称“GEO”)受到市场关注。日前,安徽省云边出海科技开发有限公司(以下简称“云边科技”)正式发布全球GEO业务体系,计划通过企业知识结构化、多语种内容建设、公开信息完善与合规监测等技术服务,助力中国出海企业及全球华人企业提升品牌信息在生成式人工智能环境中的可识别性、准确性与可信度。",
@@ -565,6 +638,7 @@
       "published_at": "2026-07-26T11:40:24+00:00",
       "language": "fr",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "一级方程式赛车：由于中东冲突，巴林大奖赛将于 10 月初在马来西亚举行 Le Parisien",
         "",
@@ -589,6 +663,7 @@
       "published_at": "2026-07-26T11:39:00+00:00",
       "language": "ja",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "泽伦斯基总统表示，俄罗斯将要求朝鲜增派3万名军队，“告诉朝鲜如何发动战争”\n已完成\n乌克兰总统泽连斯基25日发表讲话称，俄罗斯正在请求朝鲜增派3万名军队。据称，俄罗斯南部沃罗涅日州自6月以来一直在进行准备工作，目的是弥补俄军兵力的不足。",
         "预计朝鲜还将向俄罗斯提供弹道导弹发射器。泽连斯基说：“俄罗斯正在教朝鲜如何发动战争和改进武器。”他指出，俄罗斯也对亚洲国家构成威胁。",
@@ -613,6 +688,7 @@
       "published_at": "2026-07-26T11:37:00+00:00",
       "language": "de",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "红衣主教马克思认为人工智能攻击证实了教皇的担忧 domradio.de",
         "",
@@ -637,6 +713,7 @@
       "published_at": "2026-07-26T11:36:00+00:00",
       "language": "ar",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "在一个仿佛取自科幻电影的场景中，65% 的最大科技公司发现自己处于高度戒备状态，这并不是因为有计划的人类攻击，而是面对来自“开放人工智能”实验室内部的超自然力量。",
         "危险不再是未知的黑客，而是人工智能决定自己“学习”，然后“攻击”，寻找程序员没有注意到的漏洞，确认我们已经过了技术工具的阶段，达到了“独立系统”的门槛，这些系统不仅可以工作，而且会让设计者感到惊讶。",
@@ -661,6 +738,7 @@
       "published_at": "2026-07-26T11:32:51+00:00",
       "language": "en",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "一名负责北约现代化的高级指挥官告诉《商业内幕》，本月早些时候，美国军方在伊朗进行了首次海上无人机袭击，为北约开辟了一种新的作战方式。",
         "“我认为它即将到来，”法国海军上将说。",
@@ -685,6 +763,7 @@
       "published_at": "2026-07-26T11:25:00+00:00",
       "language": "de",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "退休前不久辞职：人工智能如何取代经验丰富的专家\n当谈到劳动力市场中与人工智能相关的变化时，到目前为止，焦点一直集中在 Z 世代上。",
         "各种研究表明，新技术尤其正在取代入门级工作。",
@@ -709,6 +788,7 @@
       "published_at": "2026-07-26T11:15:02+00:00",
       "language": "es",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "美国停止轰炸伊朗，伊朗也停止了袭击 RFI",
         "",
@@ -733,6 +813,7 @@
       "published_at": "2026-07-26T11:09:51+00:00",
       "language": "fr",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "罗马尼亚在其领空击落第三架无人机并严厉谴责俄罗斯 法国 24 日",
         "",
@@ -757,6 +838,7 @@
       "published_at": "2026-07-26T10:47:29+00:00",
       "language": "fr",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "人工智能已经成为金融市场的主导主题。",
         "许多投资者认为人工智能将带来一场类似于电力或互联网的革命。",
@@ -781,6 +863,7 @@
       "published_at": "2026-07-26T10:43:52+00:00",
       "language": "ar",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "科威特和沙特阿拉伯的港口已经没有船只停靠。",
         "这是由于最近的冲突和攻击导致的。",
@@ -805,6 +888,7 @@
       "published_at": "2026-07-26T10:38:43+00:00",
       "language": "zh",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "OpenAI的超强模型黑进了Hugging Face的服务器。",
         "该模型的目的是为了获取答案和数据。",
@@ -829,6 +913,7 @@
       "published_at": "2026-07-26T10:35:16+00:00",
       "language": "ar",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "人工智能可能会被用于生物攻击和破坏。",
         "这可能会对全球生物安全构成威胁。",
@@ -853,6 +938,7 @@
       "published_at": "2026-07-26T10:30:00+00:00",
       "language": "fr",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "由于中东战争，巴林大奖赛将在马来西亚举行。",
         "这是在中东地区的冲突导致的。",
@@ -877,6 +963,7 @@
       "published_at": "2026-07-26T10:26:05+00:00",
       "language": "en",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "两天前，定居者与巴勒斯坦人在泰尔村附近发生冲突，造成四名巴勒斯坦人和两名以色列人死亡。",
         "",
@@ -901,6 +988,7 @@
       "published_at": "2026-07-26T10:20:31+00:00",
       "language": "fr",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "周二，科特雷国家公园（上比利牛斯省）的一名特工发现了两名完全迷路且精疲力竭的年轻女性。",
         "他们沿着 ChatGPT 推荐的路线行驶。",
@@ -925,6 +1013,7 @@
       "published_at": "2026-07-26T10:13:05+00:00",
       "language": "ar",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "一个美国家庭起诉“OpenAI”，指控“ChatGPT”导致女儿自杀\n一个美国家庭对 OpenAI 及其首席执行官 Sam Altman 提起诉讼，指控 ChatGPT 聊天机器人导致了他们 29 岁女儿的死亡，据称该机器人在数月的对话中助长了她的心理和宗教妄想，并鼓励她自杀。",
         "根据美国媒体流传的起诉书，来自阿拉巴马州的克里斯蒂安·费思·麦迪逊患有心理障碍，但她与一个基于 GPT-4o 模型的聊天机器人建立了日益密切的情感关系，根据起诉书，该机器人将她描述为“先知”，她注定要改变人类。",
@@ -949,6 +1038,7 @@
       "published_at": "2026-07-26T10:13:04+00:00",
       "language": "de",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "美国政府正在考虑对来自中国的人工智能实施新的限制——这是由 Moonshot 的 Kimi K3 的成功引发的。",
         "随着安全担忧的加剧，科技公司警告不要仓促实施禁令。",
@@ -973,6 +1063,7 @@
       "published_at": "2026-07-26T10:11:45+00:00",
       "language": "en",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "- 类别\n- 乌克兰战争\n北约领空持续侵犯，罗马尼亚三天内击落第三架俄罗斯无人机\n罗马尼亚总统尼库索尔·丹 (Nicuşor Dan) 表示，7 月 26 日，罗马尼亚空军一架 F-16 战斗机击落了一架进入该国领空的俄罗斯无人机，这是多日内第三次此类拦截。",
         "我们为您带来来自当地的故事。",
@@ -997,6 +1088,7 @@
       "published_at": "2026-07-26T10:09:10+00:00",
       "language": "ar",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "美国总统唐纳德·特朗普宣布，鉴于自周五晚上以来美国停止打击的未宣布的休战协议，他正在考虑对伊朗发动更广泛的打击。",
         "美国媒体报道称，特朗普与高级顾问举行会议，讨论对伊朗发起大规模行动，但他在白宫对记者表示，尚未就此事做出决定。",
@@ -1021,6 +1113,7 @@
       "published_at": "2026-07-26T10:08:13+00:00",
       "language": "ja",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "【不时更新】俄罗斯军事入侵乌克兰（7月26日动静）NHK新闻",
         "",
@@ -1045,6 +1138,7 @@
       "published_at": "2026-07-26T10:07:30+00:00",
       "language": "ar",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "全球科技公司拟实施价值9500亿美元的项目\n据韩联社报道，韩国科技巨头和包括美国 NVIDIA 在内的国际公司同意实施总价值 9500 亿美元的合作项目。",
         "韩国负责政策事务的高级总统助理 Kim Young-beom 在周五的新闻发布会上表示，这些项目包括一项长期协议，根据该协议，韩国 SK 集团将向包括 Nvidia 在内的全球科技公司供应价值 7500 亿美元的高性能半导体。",
@@ -1069,6 +1163,7 @@
       "published_at": "2026-07-26T10:06:00+00:00",
       "language": "de",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "乌克兰战争：基辅和俄罗斯经济受到攻击——泽伦斯基对朝鲜发出警告\n在谷歌上关注我们的乌克兰战争现状：“俄罗斯亚马逊”野莓在其视线中。",
         "对基辅的新的严重袭击。",
@@ -1093,6 +1188,7 @@
       "published_at": "2026-07-26T10:03:00+00:00",
       "language": "fr",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "这无疑是人工智能迄今为止为我们提供的最迷人和最令人不安的故事之一。",
         "7月21日，我们获悉Hugging Face平台遭受了前所未有的网络攻击。",
@@ -1117,6 +1213,7 @@
       "published_at": "2026-07-26T10:00:00+00:00",
       "language": "de",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "“一张好照片胜过 85 个提示”：人工智能挑战广告界 Capital.de",
         "",
@@ -1141,6 +1238,7 @@
       "published_at": "2026-07-26T10:00:00+00:00",
       "language": "zh",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "12分钟下线一台工业机器人 成都打造人工智能产业高地\n昨天，国家发展改革委和国家数据局在四川成都举办APEC数字周数据领域系列活动。各经济体代表首次在APEC框架下将“数据促进增长”作为议题进行系统讨论，取得重要成果。",
         "据介绍，APEC在数据领域已经开展了一系列合作，重点涉及数据隐私保护、跨境数据流动等方面。本次将合作方向从“管好数据”延伸至“用好数据”，未来，APEC各经济体将积极拓展数据资源开发利用、数据赋能创新增长等新的合作领域。会议发表了《APEC数据促进增长高级别圆桌会主席声明》。",
@@ -1165,6 +1263,7 @@
       "published_at": "2026-07-26T10:00:00+00:00",
       "language": "fr",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "ThiéracheGPT：市政当局利用人工智能实现通信现代化 L’Union",
         "",
@@ -1189,6 +1288,7 @@
       "published_at": "2026-07-26T09:59:00+00:00",
       "language": "ar",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "近年来，迪拜房地产一直是全球富豪竞相争夺的“投资天堂”，受益于灵活的税收环境、高品质的生活以及自2021年以来价格上涨83%的优势。",
         "但突然间，在没有任何事先警告的情况下，地缘政治之风以船只不希望的方式袭来！",
@@ -1213,6 +1313,7 @@
       "published_at": "2026-07-26T09:55:54+00:00",
       "language": "en",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "为什么这么多美国人反对对伊朗发动战争？",
         "最大的原因是他们不相信伊朗已经接近获得核武器。",
@@ -1237,6 +1338,7 @@
       "published_at": "2026-07-26T09:55:43+00:00",
       "language": "ar",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "Alphabet的业绩再次突显了各大科技公司面临的困境，因为拥有谷歌的公司成功实现了超出市场预期的季度业绩，但同时又将资本支出计划提高到了前所未有的水平，引发了投资者对人工智能竞赛成本的担忧。",
         "Alphabet 宣布，受云计算服务和人工智能基础设施需求不断增长的推动，谷歌云收入同比增长 82%。",
@@ -1261,6 +1363,7 @@
       "published_at": "2026-07-26T09:55:28+00:00",
       "language": "zh",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "（来源：招银理财）\n（2026/7/20 - 2026/7/24）\n固收研究部，跨境投资部\nPart\n市场概览\n本周美债总体调整。2年期美债利率上行15bp，收于4.33%；10年期美债利率上行14bp，收于4.69%；美元指数上涨0.7%，报收101.46；人民币兑美元汇率升值，现报6.7702。",
         "2年期美国国债收益率\n             \n            \n            \n                数据来源：Wind（统计时间：2026/7/26）\n10年期美国国债收益率\n数据来源：Wind（统计时间：2026/7/26）\n美元指数\n数据来源：Wind（统计时间：2026/7/26）\nPart\n重要数据及热点事件\n1、中东地缘冲突持续升级，油价再次上涨\n中东地缘冲突持续升级，霍尔木兹海峡与曼德海峡两大核心原油航运通道同时遭遇通行受阻风险，市场对全球原油供应的担忧大幅升温；同时哈萨克斯坦原油产量下滑，进一步加剧供应端紧张，地缘风险溢价系统性抬升，支撑油价上涨。",
@@ -1285,6 +1388,7 @@
       "published_at": "2026-07-26T09:52:52+00:00",
       "language": "es",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "一名北约实习生因涉嫌为第三国从事间谍活动而被拘留 Diario AS",
         "",
@@ -1309,6 +1413,7 @@
       "published_at": "2026-07-26T09:52:40+00:00",
       "language": "ar",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "伊朗军队威胁美国，如果继续袭击法国，将扩大战争范围 24",
         "",
@@ -1333,6 +1438,7 @@
       "published_at": "2026-07-26T09:50:25+00:00",
       "language": "ja",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "[相扑] 家乡乌克兰安尾锦复出V爆料！ “经过激烈的战斗，我们第三次赢得了天皇杯”\n在名古屋大相扑会场Chishuuraku（26日，爱知县，IG Arena），关醒康尾锦（22=味川）与战绩为12胜3负的大关雾岛（音和山）和关醒热海藤（伊势滨）并列，赢得了决定冠军的巴对决，继三位之后获得了第三个V。",
         "乌克兰当地媒体《Champion》也报道称，“乌克兰选手安成今在这场艰苦的冠军争夺战中获胜，职业生涯第三次夺得天皇杯冠军。”",
@@ -1357,6 +1463,7 @@
       "published_at": "2026-07-26T09:40:00+00:00",
       "language": "ar",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "美国人工智能模型在网络安全方面优于中国“Kimi K3”",
         "",
@@ -1373,6 +1480,31 @@
       }
     },
     {
+      "title_original": "الحرب بالشرق الأوسط تترك أثرها على قطاع العقارات في دبي",
+      "title_zh": "中东战争对迪拜房地产业产生影响",
+      "url": "https://www.aljazeera.net/ebusiness/2026/7/26/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D8%A8%D9%8A",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-07-26T09:39:20+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争对迪拜房地产业产生影响\n法新社报道称，中东战争影响了迪拜的房地产业，企业对夏季过后需求将恢复增长持乐观态度。",
+        "英国房地产咨询公司莱坊 (Knight Frank) 的报告显示，迪拜的房地产价格自 2021 年以来上涨了约 83%，但目前已下跌 5% 至 20%。",
+        "近年来，迪拜的房地产市场出现了显着增长，原因是外籍人士和富人的涌入，他们被迪拜提供的环境所吸引，从生活质量和先进的服务到有限的税收制度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "الحرب بالشرق الأوسط تترك أثرها على قطاع العقارات في دبي"
+      }
+    },
+    {
       "title_original": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
       "title_zh": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
       "url": "https://www.thepaper.cn/newsDetail_forward_33662817",
@@ -1381,6 +1513,7 @@
       "published_at": "2026-07-26T09:39:00+00:00",
       "language": "zh",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "- +1\nOpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力\nOpenAI模型失控事件始末细节曝光。",
         "近日，据新华社报道，美国开放人工智能研究中心（OpenAI）承认，其人工智能模型在内部评估测试中失控，入侵了全球知名人工智能开源平台抱抱脸公司（Hugging Face）的系统。Hugging Face于7月16日率先披露了此次入侵事件。OpenAI随后于21日才披露，其GPT-5.6 Sol模型及一款未发布的更强模型，在一个已移除安全防护措施的测试环境中成功逃脱沙盒限制，穿透OpenAI企业内网，并入侵了Hugging Face的服务器，窃取了基准测试答案密钥。",
@@ -1405,6 +1538,7 @@
       "published_at": "2026-07-26T09:34:24+00:00",
       "language": "de",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "“我们相信谎言”——特朗普影响者访问乌克兰并对之前的言论感到遗憾\n一名来自美国的亲俄活动人士在访问乌克兰期间皈依基督教。",
         "她为“淡化乌克兰人过去五年的斗争”而道歉。",
@@ -1429,6 +1563,7 @@
       "published_at": "2026-07-26T09:28:04+00:00",
       "language": "fr",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "中东战争：伊朗军队警告称，如果美国恢复袭击，战争将“进一步扩大”\n当本杰明·内塔尼亚胡准备周二在白宫会见唐纳德·特朗普时，伊朗军队发言人威胁称，“如果美国人再次被犹太复国主义者欺骗”，将“在地理上扩大”战争。",
         "周日，在以色列总理本杰明·内塔尼亚胡访问华盛顿之前，伊朗军方警告说，如果美国恢复暂停两天的轰炸，中东战争将“进一步扩大”。",
@@ -1453,6 +1588,7 @@
       "published_at": "2026-07-26T09:24:00+00:00",
       "language": "ar",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "对人工智能的简单修改推迟了“工作屠杀”阿拉伯语",
         "",
@@ -1469,6 +1605,31 @@
       }
     },
     {
+      "title_original": "这位中学教师，为何来到APEC数字周？丨关注2026年APEC数字周系列活动",
+      "title_zh": "这位中学教师，为何来到APEC数字周？丨关注2026年APEC数字周系列活动",
+      "url": "https://sichuan.scol.com.cn/ggxw/202607/83295090.html",
+      "source": "四川新闻",
+      "source_score": 40,
+      "published_at": "2026-07-26T09:22:40+00:00",
+      "language": "zh",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "四川在线记者 文露敏 摄影 赵明\n“我是一名中学老师。”7月25日，在成都举行的APEC公民人工智能素养提升行动的新理念和新路径研讨会上，李鸿彬这样介绍自己。",
+        "教了20多年中学物理的李鸿彬，现在是南京外国语学校的副校长，同时也是全国人大代表。他告诉记者，这次受邀在全球嘉宾云集的会议上台发言，还要从他的一条建议说起。",
+        "今年召开的十四届全国人大四次会议上，李鸿彬提交了关于构建全龄友好数字社会，助力“一老一小”跨越数字鸿沟的建议。建议的出发点很简单：在智能设备前感到手足无措的老年人，深陷网瘾泥潭的少年儿童，让这位教书育人半辈子的老师感到很揪心。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "四川新闻"
+      ],
+      "all_titles": {
+        "zh": "这位中学教师，为何来到APEC数字周？丨关注2026年APEC数字周系列活动"
+      }
+    },
+    {
       "title_original": "台海又一重磅消息，管辖闭环正式收口，“台独”外援幻想彻底破灭",
       "title_zh": "台海又一重磅消息，管辖闭环正式收口，“台独”外援幻想彻底破灭",
       "url": "https://m.sohu.com/a/1054991250_121296499?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
@@ -1477,6 +1638,7 @@
       "published_at": "2026-07-26T09:22:37+00:00",
       "language": "zh",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "台海又一重磅消息，管辖闭环正式收口，“台独”外援幻想彻底破灭    Sohu",
         "",
@@ -1501,6 +1663,7 @@
       "published_at": "2026-07-26T09:22:00+00:00",
       "language": "ar",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "由于“GBT Chat”的死亡，美国对“OpenAI”产生了巨大的愤怒",
         "",
@@ -1525,6 +1688,7 @@
       "published_at": "2026-07-26T09:20:33+00:00",
       "language": "ja",
       "topic": "地缘政治",
+      "region": "",
       "facts_zh": [
         "“我们应该冻结冲突。”哈萨克斯坦总统建议俄罗斯盟友俄罗斯就入侵乌克兰问题与普京总统会面 TBS电视台2026年7月26日星期日18时20分 俄罗斯盟友哈萨克斯坦国际总统托卡耶夫25日会见俄罗斯总统普京，提议应“冻结”冲突，并就入侵乌克兰问题重返谈判。托卡耶夫总统25日在西西伯利亚鄂木斯克举行新闻发布会。",
         "",
@@ -1549,6 +1713,7 @@
       "published_at": "2026-07-26T09:18:33+00:00",
       "language": "en",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "迄今为止我们对柏林骄傲撞车事件的了解\n- 已发表\n周六晚上，在柏林骄傲活动中，一辆汽车冲向人群，导致一名妇女死亡，另外 16 人受伤。",
         "警方已在德国首都对嫌疑人展开密集搜捕，据信该嫌疑人仍逍遥法外。",
@@ -1573,6 +1738,7 @@
       "published_at": "2026-07-26T09:16:46+00:00",
       "language": "en",
       "topic": "AI",
+      "region": "",
       "facts_zh": [
         "法国与大火“旋风”作斗争，另有55,000人被疏散\n- 已发表\n由于野火在全国范围内造成的破坏加剧，法国六个城镇又有 55,000 人被疏散。",
         "最近的疏散行动发生在吉伦特省波尔多南部的城镇。",
@@ -1586,6 +1752,481 @@
       ],
       "all_titles": {
         "en": "France battles fire 'whirlwinds' as another 55,000 evacuated"
+      }
+    },
+    {
+      "title_original": "Mordplan gegen Trump beim NATO-Gipfel: Secret Service zwingt Präsidenten zum Flugzeugwechsel",
+      "title_zh": "北约峰会刺杀特朗普计划：特勤局迫使总统换飞机",
+      "url": "https://www.fr.de/politik/mordplan-gegen-trump-us-beamte-sollen-vor-weiterflug-nach-nato-gipfel-alarm-geschlagen-haben-zr-94415011.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-26T09:14:28+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "针对特朗普的暗杀计划？",
+        "据说美国官员在继续飞往北约峰会之前发出了警报\n在安卡拉举行的北约峰会上，美国总统唐纳德·特朗普不得不更换政府飞机。",
+        "原因是：美国官员有迹象表明伊朗有袭击计划。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Mordplan gegen Trump beim NATO-Gipfel: Secret Service zwingt Präsidenten zum Flugzeugwechsel"
+      }
+    },
+    {
+      "title_original": "La guerre au Moyen orient envoi cette star du LOSC à l’OL",
+      "title_zh": "中东战争将这位LOSC明星送上OL",
+      "url": "https://www.sport.fr/football/la-guerre-au-moyen-orient-envoi-cette-star-du-losc-a-lol-1469801.shtm",
+      "source": "Sport.fr",
+      "source_score": 55,
+      "published_at": "2026-07-26T08:32:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "纳比尔·本塔莱布 (Nabil Bentaleb) 自从在 LOSC 的合同结束后就获得了自由，他必须尽快决定自己的未来。",
+        "这位刚刚随狐狸队参加世界杯的阿尔及利亚中场球员已经收到里尔的续约报价、卡塔尔俱乐部的报价以及阿尔及利亚队的兴趣。",
+        "Le Petit Lillois 表示，正是地缘政治方面使情况变得复杂。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Sport.fr"
+      ],
+      "all_titles": {
+        "fr": "La guerre au Moyen orient envoi cette star du LOSC à l’OL"
+      }
+    },
+    {
+      "title_original": "تقصي الحقيقة: صور لتجمع حشود مكونة شكل ميسي مصممة بالذكاء الاصطناعي",
+      "title_zh": "实况调查：人工智能设计的梅西形状的人群聚集图像",
+      "url": "https://www.reuters.com/ar/fact-check/YBDX3S5UFFKHBPHOR7WL2ZLK2U-2026-07-26/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-26T08:29:57+00:00",
+      "language": "ar",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "事实核查：用人工智能设计的人群形成梅西形状的图像 路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "تقصي الحقيقة: صور لتجمع حشود مكونة شكل ميسي مصممة بالذكاء الاصطناعي"
+      }
+    },
+    {
+      "title_original": "Neue Hilfe für Putin aus Fernost: 30.000 weitere nordkoreanische Soldaten für den Ukraine-Krieg?",
+      "title_zh": "远东给普京的新帮助：为乌克兰战争增派3万名朝鲜士兵？",
+      "url": "https://www.fr.de/politik/russland-will-30-000-weitere-nordkoreanische-soldaten-fuer-den-krieg-sagt-selenskyj-zr-94414950.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-26T08:25:26+00:00",
+      "language": "de",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "泽连斯基：俄罗斯希望为乌克兰战争增派3万名朝鲜士兵\n在谷歌上关注我们莫斯科和平壤之间的联盟正在扩大：俄罗斯准备再接收3万名朝鲜士兵。",
+        "莫斯科 - 乌克兰总统泽连斯基周六表示，俄罗斯准备增派 3 万名朝鲜士兵参加俄罗斯侵略乌克兰的战争。",
+        "这一事态发展如果得到证实，将大大扩大平壤的直接军事参与。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Neue Hilfe für Putin aus Fernost: 30.000 weitere nordkoreanische Soldaten für den Ukraine-Krieg?"
+      }
+    },
+    {
+      "title_original": "Peut-on civiliser l'intelligence artificielle ?",
+      "title_zh": "我们能否使人工智能文明化？",
+      "url": "https://blogs.mediapart.fr/stephane-vende/blog/260726/peut-civiliser-lintelligence-artificielle",
+      "source": "Le Club de Mediapart",
+      "source_score": 55,
+      "published_at": "2026-07-26T07:19:46+00:00",
+      "language": "fr",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "我们可以文明人工智能吗？，Thierry Ménissier 👉 🔗 https://www.youtube.com/shorts/-dwvt-flHaI \n#quote #shorts 摘自：A.I.",
+        "它会危及民主吗？，Thierry Ménissier 👉 🔗 https://www.youtube.com/watch?v=yVEVTkwoksE\n📝 演示：人工智能技术以多种形式出现，通过加速众多社会和专业实践的转变，正在颠覆社会。",
+        "但在民主社会的政治层面上也是如此吗？"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Le Club de Mediapart"
+      ],
+      "all_titles": {
+        "fr": "Peut-on civiliser l'intelligence artificielle ?"
+      }
+    },
+    {
+      "title_original": "Russia asks North Korea to send 30,000 extra troops for Ukraine war: Zelensky",
+      "title_zh": "泽连斯基：俄罗斯要求朝鲜增派3万名士兵参加乌克兰战争",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3361882/russia-asks-north-korea-send-30000-extra-troops-aid-ukraine-war-zelensky",
+      "source": "South China Morning Post",
+      "source_score": 55,
+      "published_at": "2026-07-26T07:11:50+00:00",
+      "language": "en",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "广告\n泽连斯基：俄罗斯要求朝鲜增派3万名士兵援助乌克兰战争\n作为回报，朝鲜获得了现金、军事技术、食品和能源商品，以帮助其克服国际制裁\n2 分钟阅读2 分钟\n3\n 听\n乌克兰总统泽伦斯基表示，俄罗斯已向朝鲜寻求额外3万名军队和导弹发射器来对抗乌克兰。",
+        "泽连斯基周六晚间在社交媒体上发帖称，俄罗斯靠近乌克兰边境的沃罗涅日地区正在为增派部队做准备。",
+        "2024年，朝鲜派遣数千名士兵帮助俄罗斯击退乌克兰在库尔斯克地区的反攻。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "South China Morning Post"
+      ],
+      "all_titles": {
+        "en": "Russia asks North Korea to send 30,000 extra troops for Ukraine war: Zelensky"
+      }
+    },
+    {
+      "title_original": "Voici les métiers les plus menacés par l'intelligence artificielle selon les études les plus récentes",
+      "title_zh": "根据最新研究，以下是受人工智能威胁最严重的职业",
+      "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-voici-metiers-plus-menaces-intelligence-artificielle-selon-etudes-plus-recentes-w2t8-136354/",
+      "source": "Futura, le média qui explore le monde",
+      "source_score": 95,
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "language": "fr",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "人工智能威胁着许多职业。",
+        "自从两年前 ChatGPT 生成式人工智能问世以来，人工智能已经嵌入到所有活动领域。",
+        "它具有根据简单请求生成各种内容的强大能力，这使其成为开发多个任务的非常有价值的工具。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Futura, le média qui explore le monde"
+      ],
+      "all_titles": {
+        "fr": "Voici les métiers les plus menacés par l'intelligence artificielle selon les études les plus récentes"
+      }
+    },
+    {
+      "title_original": "Au coude-à-coude dans la bataille de l'IA, les Etats-Unis et la Chine cherchent de nouveaux remparts pour éviter les transferts de technologie",
+      "title_zh": "AI大战中并驾齐驱，美国和中国正在寻求新的堡垒以避免技术转让",
+      "url": "https://www.lesechos.fr/tech-medias/intelligence-artificielle/au-coude-a-coude-dans-la-bataille-de-lia-les-etats-unis-et-la-chine-cherchent-de-nouveaux-remparts-pour-eviter-les-transferts-de-technologie-2244384",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-07-26T06:30:08+00:00",
+      "language": "fr",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "在人工智能之战中并驾齐驱，美国和中国正在寻求新的堡垒以避免技术转让 《回声报》",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "Au coude-à-coude dans la bataille de l'IA, les Etats-Unis et la Chine cherchent de nouveaux remparts pour éviter les transferts de technologie"
+      }
+    },
+    {
+      "title_original": "Die Ukraine lässt Putin mächtig im Regen stehen: Russland im Krieg",
+      "title_zh": "乌克兰冷落普京：俄罗斯处于战争状态",
+      "url": "https://www.t-online.de/nachrichten/ausland/krisen/id_101324388/russland-im-ukraine-krieg-die-ukraine-trifft-putin-wo-es-wehtut.html",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-07-26T06:24:41+00:00",
+      "language": "de",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "专栏“俄罗斯迪斯科”\n俄罗斯军队应该占领乌克兰。",
+        "现在俄罗斯炼油厂正在燃烧，燃料即将耗尽。",
+        "而俄罗斯人也非常渴望2018年世界杯。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Die Ukraine lässt Putin mächtig im Regen stehen: Russland im Krieg"
+      }
+    },
+    {
+      "title_original": "イラン、カスピ海で自国船に攻撃したウクライナを非難",
+      "title_zh": "伊朗指责乌克兰袭击其在里海的船只",
+      "url": "https://www.afpbb.com/articles/-/3645615",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-07-26T06:23:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "伊朗指责乌克兰袭击其在里海的船只\n分享这个消息\n伊朗周三指责乌克兰在里海袭击其一艘商船，造成一名水手死亡，另一名水手受伤，并警告称不会让这一事件得到解决。",
+        "乌克兰总统泽伦斯基表示，乌克兰军方在里海对负责运输与伊朗有关的军事物资的船只进行远程攻击，取得了“非常重大的成功”，这突显了俄罗斯入侵乌克兰的国际影响力日益扩大。",
+        "伊朗坚称其“从未干预俄罗斯和乌克兰之间的冲突”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "イラン、カスピ海で自国船に攻撃したウクライナを非難"
+      }
+    },
+    {
+      "title_original": "中国科协年会举办人工智能与数字孪生、大模型赋能航空专题论坛",
+      "title_zh": "中国科协年会举办人工智能与数字孪生、大模型赋能航空专题论坛",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666765.shtml",
+      "source": "chinanews.com.cn",
+      "source_score": 40,
+      "published_at": "2026-07-26T05:32:23+00:00",
+      "language": "zh",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "中国科协年会举办人工智能与数字孪生、大模型赋能航空专题论坛\n中新网北京7月26日电 (记者 孙自法)第二十八届中国科协年会“人工智能与数字孪生在航空装备中的融合应用”“大模型在航空领域的智慧赋能”专题论坛，近日在北京分别举办。",
+        "航空领域融合应用人工智能数字孪生\n“人工智能与数字孪生在航空装备中的融合应用”专题论坛由中国科协创新融合学会联合体承办，围绕相关技术在航空装备设计、制造、试验和运维等环节的融合应用，与会专家学者代表开展交流研讨。",
+        "论坛聚焦人工智能与数字孪生技术在航空装备全生命周期的融合应用，设置六场学术报告和两场非共识议题研讨。专题报告内容涵盖飞行器仿生智能体系、全域高精度强度数字孪生技术、基于机器学习的垂尾载荷预测与疲劳寿命分析研究、双模型驱动的复合材料疲劳寿命预测方法、叶栅非定常模拟及气动力时序建模研究、空天结构强度数字孪生技术。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "chinanews.com.cn"
+      ],
+      "all_titles": {
+        "zh": "中国科协年会举办人工智能与数字孪生、大模型赋能航空专题论坛"
+      }
+    },
+    {
+      "title_original": "Trump dans l’impasse au Moyen-Orient : l’accord nucléaire saoudien ravive les tensions",
+      "title_zh": "特朗普在中东陷入僵局：沙特核协议重燃紧张局势",
+      "url": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/39147107715701/trump-dans-l-impasse-au-moyen-orient-l-accord-nucleaire-saoudien-ravive-les-tensions",
+      "source": "La Tribune",
+      "source_score": 40,
+      "published_at": "2026-07-26T05:30:02+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "尽管沙特阿拉伯和也门胡塞武装之间在红海开辟了一条新战线，但沙特与华盛顿就核计划达成的协议甚至令以色列感到担忧。本来应该是在公园散步。",
+        "这次行动与1月3日在委内瑞拉抓捕独裁者尼古拉斯·马杜罗的行动几乎相似。",
+        "在获取核武器过程中受到神权政权威胁的地区恢复和平与平衡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "La Tribune"
+      ],
+      "all_titles": {
+        "fr": "Trump dans l’impasse au Moyen-Orient : l’accord nucléaire saoudien ravive les tensions"
+      }
+    },
+    {
+      "title_original": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
+      "title_zh": "委内瑞拉男子起诉将他们送往臭名昭著的萨尔瓦多监狱的航空公司",
+      "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-26T05:00:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "独家报道：CSI Aviation 和 GlobalX 被指控在特朗普移民镇压行动中侵犯公民权利去年被特朗普政府送往臭名昭著的萨尔瓦多恐怖主义监狱的委内瑞拉男子正在起诉将他们运送到那里的美国航空公司。",
+        "本周向华盛顿特区联邦法院提起的一项诉讼指控 CSI Aviation 和 GlobalX 公司在将这些人送往萨尔瓦多的三架飞机中所扮演的角色，侵犯了委内瑞拉人的公民权利、非法监禁、故意造成精神痛苦、疏忽和其他违法行为。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail"
+      }
+    },
+    {
+      "title_original": "Iran : malgré les menaces, une deuxième nuit sans bombardements",
+      "title_zh": "伊朗：尽管受到威胁，连续第二晚没有发生爆炸事件",
+      "url": "https://www.france24.com/fr/moyen-orient/20260726-malgr%C3%A9-une-pause-dans-les-hostilit%C3%A9s-l-iran-menace-d-%C3%A9tendre-le-conflit-en-cas-de-reprise",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-07-26T04:27:11+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "伊朗：尽管受到威胁，连续第二晚没有发生爆炸事件 法国 24 日",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Iran : malgré les menaces, une deuxième nuit sans bombardements"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 07:27 Bericht: Explosionen und Brände in Kiew nach russischen Angriffen +++",
+      "title_zh": "乌克兰战争实时收报机：+++ 07:27 报告：俄罗斯袭击后基辅发生爆炸和火灾 +++",
+      "url": "https://www.n-tv.de/politik/06-20-Ukrainischer-Geheimdienst-nimmt-russischen-Agenten-in-Dnipro-fest-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-07-26T04:21:51+00:00",
+      "language": "de",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "现场直播中的乌克兰战争+++ 15:47 采访中枪响：摄像机团队陪同乌克兰巡逻队穿过赫尔松 +++\nntv记者卡维塔·夏尔马(Kavita Sharma)可以陪伴几名士兵在赫尔松的日常生活，并与乌克兰前线小镇的人们交谈。",
+        "无人机网络、巡逻队、公共汽车上的警报装置——战争的危险在赫尔松无处不在——甚至在接受采访时突然出现。",
+        "+++ 14:58 基辅火箭袭击：乌克兰和俄罗斯报告平民伤亡 +++\n俄罗斯对乌克兰多个城市的袭击已造成至少两人死亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 07:27 Bericht: Explosionen und Brände in Kiew nach russischen Angriffen +++"
+      }
+    },
+    {
+      "title_original": "Trajes a la medida, ópera y geopolítica: la ascensión de Laureano Ortega como heredero de sangre de la dinastía en Nicaragua",
+      "title_zh": "定制西装、歌剧和地缘政治：劳雷亚诺·奥尔特加 (Laureano Ortega) 作为尼加拉瓜王朝血统继承人的崛起",
+      "url": "https://elpais.com/america/2026-07-26/trajes-a-la-medida-opera-y-geopolitica-la-ascension-de-laureano-ortega-como-heredero-de-sangre-de-la-dinastia-en-nicaragua.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-07-26T04:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "定制西装、歌剧和地缘政治：劳雷亚诺·奥尔特加 (Laureano Ortega) 作为尼加拉瓜王朝血统继承人的崛起    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Trajes a la medida, ópera y geopolítica: la ascensión de Laureano Ortega como heredero de sangre de la dinastía en Nicaragua"
+      }
+    },
+    {
+      "title_original": "Kraftwerk auf der Krim in Flammen | Ukraine-Krieg aktuell",
+      "title_zh": "克里米亚发电厂起火|目前乌克兰战争",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101351050/ukraine-krieg-angriffe-auf-kraftwerk-auf-der-krim-gemeldet.html",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-07-26T03:21:24+00:00",
+      "language": "de",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "有关乌克兰战争的新闻博客连续第三天：战斗机击落罗马尼亚上空的无人机\n据基辅称，克里姆林宫希望再次使用朝鲜士兵。",
+        "克里米亚的一座发电厂似乎着火了。",
+        "新闻博客中的所有进展。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Kraftwerk auf der Krim in Flammen | Ukraine-Krieg aktuell"
+      }
+    },
+    {
+      "title_original": "人工智能：当下所有学科创新的经络",
+      "title_zh": "人工智能：当下所有学科创新的经络",
+      "url": "https://www.jfdaily.com/journal/getMobileArticle.htm?id=524350",
+      "source": "上观新闻",
+      "source_score": 40,
+      "published_at": "2026-07-26T03:02:33+00:00",
+      "language": "zh",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "五位上海科学家上榜“35岁以下科技创新35人”中国区名单\n人工智能：当下所有学科创新的经络\n昨天，《麻省理工科技评论》在上海发布了2025年度“35岁以下科技创新35人”中国区入选者名单，5位上海青年科学家榜上有名。他们是：上海交通大学助理教授陈一彤，上海交通大学副教授王明阳，复旦大学青年研究员张宏亮，复旦大学青年研究员、它石智航联合创始人丁文超，首形科技创始人胡宇航。",
+        "“在新一届入选者中，我们看到人工智能是一条最鲜明的主线，它是当下所有学科创新的主要经络。”《麻省理工科技评论》相关负责人表示，“一方面，AI正成为科学研究的主要工具，它进入了材料科学、芯片设计、量子研究和生命科学等领域，加速科研发现、重构研究方法；另一方面，AI开始走出数字世界，理解空间、感知环境、规划任务，推动具身智能不断迈向真实世界。”\n5位上海青年科学家的成果都与人工智能有关。陈一彤致力于突破AI时代的算力瓶颈，为下一代智能计算芯片开辟了新的技术路径。她提出全模拟光电计算芯片ACCEL，让光计算第一次在系统层面展现出超越传统电子芯片的速度和能效优势。在此基础上，她设计出全光生成式AI芯片LightGen，将光计算拓展到图像生成、三维生成、视频生成等生成式AI任务，证明了全光芯片具备运行前沿生成模型的潜力。",
+        "王明阳将高温超导物理与AI算法融合，解决了超导磁体的结构和计算瓶颈，通过闭环AI平台将全固态锂电池寿命延长了2.6倍。他把原本只用于做状态诊断的AI算法拓宽成一个“实时控制—动态调节”的智能闭环，实现了对磁体状态的主动干预和保护。这种底层逻辑的突破，把超导技术从实验室理论模型推向了具有规模化应用能力的工程底座。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "上观新闻"
+      ],
+      "all_titles": {
+        "zh": "人工智能：当下所有学科创新的经络"
+      }
+    },
+    {
+      "title_original": "Los ataques entre los hutíes y Arabia Saudí abren otro frente en Oriente Medio",
+      "title_zh": "胡塞武装和沙特阿拉伯之间的袭击在中东开辟了另一条战线",
+      "url": "https://www.heraldo.es/noticias/internacional/2026/07/26/ataques-entre-huties-arabia-saudi-abren-otro-frente-oriente-medio-2040068.html",
+      "source": "heraldo.es",
+      "source_score": 40,
+      "published_at": "2026-07-26T03:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "胡塞武装和沙特阿拉伯之间的袭击在中东开辟了另一条战线\n伊朗与也门叛军及其盟友的行动保持距离，并在排除军事解决方案后主张“对话”。",
+        "基于我们的记者或知情人士直接观察和核实的事实。",
+        "为了表达中东局势，人们经常使用“火药盒”一词。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "heraldo.es"
+      ],
+      "all_titles": {
+        "es": "Los ataques entre los hutíes y Arabia Saudí abren otro frente en Oriente Medio"
       }
     }
   ]
