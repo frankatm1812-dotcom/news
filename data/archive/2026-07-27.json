@@ -1,0 +1,882 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-26T23:49:36.626010+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "イラン外相、ウクライナの商船攻撃「看過できず」（ロイター）",
+      "title_zh": "伊朗外长：乌克兰攻击伊朗商船“不能忽视”",
+      "url": "https://news.yahoo.co.jp/articles/0eb0d9e4f6ea083fb973fac053402a83a74b1b06",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-07-26T23:09:56+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "伊朗外长阿拉格奇表示，乌克ライナ攻击伊朗商船“不能忽视”。",
+        "伊朗商船在卡斯皮海遭到乌克ライナ攻击，导致船员1人死亡，1人受伤。",
+        "阿拉格奇外长与欧盟外交安全政策高级代表和俄罗斯外长拉ブロ夫进行了电话会谈，讨论了此事。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "イラン外相、ウクライナの商船攻撃「看過できず」（ロイター）"
+      }
+    },
+    {
+      "title_original": "ウクライナ カスピ海で「イラン関与の貨物船を攻撃」",
+      "title_zh": "乌克兰在卡斯皮海攻击“涉及伊朗的货物船”",
+      "url": "https://newsdig.tbs.co.jp/articles/-/2827803",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-07-26T23:05:31+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰宣布在卡斯皮海攻击了一艘涉及伊朗的货物船。",
+        "这艘货物船据称在俄罗斯和伊朗之间运输军事物资。",
+        "乌克兰总统泽连斯基表示，乌克兰还攻击了俄罗斯中部的一个物流设施。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ カスピ海で「イラン関与の貨物船を攻撃」"
+      }
+    },
+    {
+      "title_original": "ロシア軍がキーウなどウクライナ各地を攻撃、少なくとも6人死亡",
+      "title_zh": "俄罗斯军队攻击乌克兰各地，至少6人死亡",
+      "url": "https://jp.reuters.com/world/ukraine/MIVICYKS3NIOZIUON72ZKMSDCI-2026-07-26/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-07-26T22:58:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯军队攻击了乌克兰的几个城市，包括基辅，导致至少6人死亡。",
+        "攻击导致了人员伤亡和基础设施损坏。",
+        "乌克兰方面表示，俄罗斯军队的攻击是对乌克兰领土的侵犯。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍がキーウなどウクライナ各地を攻撃、少なくとも6人死亡"
+      }
+    },
+    {
+      "title_original": "日経平均株価、中東の緊張緩和が支え（先読み株式相場）",
+      "title_zh": "日经平均股价因中东紧张局势缓解而得到支撑",
+      "url": "https://www.nikkei.com/article/DGXZQOFL260QR0W6A720C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-07-26T22:37:31+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "日经平均股价预计将因中东紧张局势缓解而得到支撑。",
+        "美国总统特朗普表示不打算对伊朗进行大规模攻击，这缓解了中东紧张局势。",
+        "日经平均股价预计将在64500至65500日元之间波动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "日経平均株価、中東の緊張緩和が支え（先読み株式相場）"
+      }
+    },
+    {
+      "title_original": "هدوء حذر بين واشنطن وطهران واستمرار التصعيد بين الحوثيين والسعودية",
+      "title_zh": "华盛顿和德黑兰之间谨慎的平静，胡塞和沙特之间的紧张局势持续",
+      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20260726-%D9%87%D8%AF%D9%88%D8%A1-%D8%AD%D8%B0%D8%B1-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AD%D9%88%D8%AB%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-07-26T22:35:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国和伊朗之间的紧张局势暂时缓解，但胡塞和沙特之间的紧张局势仍在持续。",
+        "美国和伊朗之间的关系仍然复杂，两国之间的紧张局势可能会再次升级。",
+        "胡塞和沙特之间的冲突导致了人员伤亡和基础设施损坏。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "هدوء حذر بين واشنطن وطهران واستمرار التصعيد بين الحوثيين والسعودية"
+      }
+    },
+    {
+      "title_original": "美股本周关注中东局势 联储局议息及科技股业绩等",
+      "title_zh": "美股本周关注中东局势 联储局议息及科技股业绩等",
+      "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1863851-20260727.htm?spTabChangeable=0",
+      "source": "香港電台",
+      "source_score": 40,
+      "published_at": "2026-07-26T21:55:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美股本周将关注中东局势、联储局议息、美国经济数据及科技股业绩。",
+        "美国联储局将于本周四公布议息结果，市场预期维持利率不变。",
+        "本周多只大型科技股将公布季度业绩，包括微软、Meta、苹果和亚马逊。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "香港電台"
+      ],
+      "all_titles": {
+        "zh": "美股本周关注中东局势 联储局议息及科技股业绩等"
+      }
+    },
+    {
+      "title_original": "美联储领衔“央行超级周”，中东局势能否降温？",
+      "title_zh": "美联储领衔“央行超级周”，中东局势能否降温？",
+      "url": "https://finance.sina.cn/2026-07-26/detail-inikawyr1072224.d.html?oid=WA%200859%203970%200884%20Bengkel%20Las%20Kanopi%20Teras%20Rumah%20Mewah%20Murah%20Ungaran%20Barat%20Kab%20Semarang&vt=4",
+      "source": "finance.sina.com.cn",
+      "source_score": 40,
+      "published_at": "2026-07-26T21:37:04+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美联储将于本周公布利率决议，市场预期维持利率不变。",
+        "中东局势持续紧张，国际油价冲高，布兰特原油一度突破100美元大关。",
+        "本周多只大型科技股将公布季度业绩，包括微软、Meta、苹果和亚马逊。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "finance.sina.com.cn"
+      ],
+      "all_titles": {
+        "zh": "美联储领衔“央行超级周”，中东局势能否降温？"
+      }
+    },
+    {
+      "title_original": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "title_zh": "英国首相承诺继续支持乌克兰，泽连斯基将访问英国",
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-26T21:30:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "英国首相安迪·伯恩哈姆承诺继续支持乌克兰，泽连斯基将于周一访问英国。",
+        "伯恩哈姆表示，英国将与乌克兰站在一起，支持乌克兰的安全和独立。",
+        "泽连斯基的访问是他自从俄罗斯入侵乌克兰以来首次访问英国。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "PM pledges continued support for Ukraine ahead of Zelensky visit"
+      }
+    },
+    {
+      "title_original": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "title_zh": "以色列定居者在西岸点燃清真寺、汽车和农田，巴勒斯坦人称",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-26T21:23:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列定居者在西岸点燃清真寺、汽车和农田，巴勒斯坦人称。",
+        "此次袭击发生在以色列定居者和巴勒斯坦人之间的冲突之后，造成四名巴勒斯坦人和两名以色列人死亡。",
+        "巴勒斯坦人指责以色列定居者进行暴力袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say"
+      }
+    },
+    {
+      "title_original": "What we know so far about the Berlin Pride ramming attack",
+      "title_zh": "柏林自豪游行撞人事件：我们目前所知",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-26T20:34:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "柏林自豪游行发生撞人事件，一名妇女死亡，至少29人受伤。",
+        "嫌疑人21岁的阿卜杜勒·巴卢特被警察击毙，据信他有伊斯兰主义背景。",
+        "事件发生在柏林的同性恋自豪游行中，数千人参加。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "What we know so far about the Berlin Pride ramming attack"
+      }
+    },
+    {
+      "title_original": "ウクライナ“ロシア・イラン間の輸送船を攻撃” イランは反発",
+      "title_zh": "乌克兰“袭击俄罗斯-伊朗间的运输船” 伊朗反击",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015186911000",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-07-26T20:30:26+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰袭击了俄罗斯和伊朗之间的运输船，伊朗对此表示反击。",
+        "伊朗方面表示，这一袭击是对伊朗利益的严重侵犯，伊朗将采取必要的措施进行反击。",
+        "这一事件可能会导致俄罗斯和伊朗之间的关系进一步紧张，甚至可能引发更大的冲突。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ“ロシア・イラン間の輸送船を攻撃” イランは反発"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Kiew und Russlands Wirtschaft unter Beschuss – harte Drohnenkämpfe",
+      "title_zh": "乌克兰战争：基辅和俄罗斯经济受到攻击——激烈的无人机战斗",
+      "url": "https://www.fr.de/politik/ticker-ukraine-krieg-aktuell-russland-wirtschaft-wildberries-drohnen-verluste-news-zr-94414580.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-26T19:54:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争持续激烈，基辅和俄罗斯经济受到攻击，双方进行了激烈的无人机战斗。",
+        "俄罗斯对基辅进行了多次无人机袭击，造成人员伤亡和财产损失。",
+        "乌克兰方面表示，将采取一切必要措施进行反击，保护国家安全和利益。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Kiew und Russlands Wirtschaft unter Beschuss – harte Drohnenkämpfe"
+      }
+    },
+    {
+      "title_original": "الشرق الأوسط... حروب أم بداية حلول؟",
+      "title_zh": "中东... 战争还是解决方案的开始？",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5298320-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%AD%D8%B1%D9%88%D8%A8-%D8%A3%D9%85-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%AD%D9%84%D9%88%D9%84%D8%9F",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-07-26T19:45:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东地区正在经历一场严重的危机，多个国家之间的关系紧张，战争的风险日益增加。",
+        "美国和伊朗之间的关系尤其紧张，两国之间的对话和谈判受到影响。",
+        "中东地区的局势复杂，多个因素影响着该地区的未来，包括政治、经济和宗教等因素。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "الشرق الأوسط... حروب أم بداية حلول؟"
+      }
+    },
+    {
+      "title_original": "Tensions au Moyen-Orient : ce que les résidents de Dubaï doivent savoir aujourd’hui",
+      "title_zh": "中东紧张局势：迪拜居民今天需要知道什么",
+      "url": "https://lepetitjournal.com/dubai/actualites/tensions-moyen-orient-residents-dubai-doivent-savoir-aujourdhui-449957",
+      "source": "Lepetitjournal.com",
+      "source_score": 40,
+      "published_at": "2026-07-26T19:42:20+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东地区的紧张局势正在升级，迪拜居民需要了解最新的信息和发展动态。",
+        "美国和伊朗之间的关系紧张，导致中东地区的局势不稳定，影响到当地居民的生活和工作。",
+        "迪拜居民需要注意安全问题，遵守当地政府的指示和建议，避免不必要的风险和危险。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Lepetitjournal.com"
+      ],
+      "all_titles": {
+        "fr": "Tensions au Moyen-Orient : ce que les résidents de Dubaï doivent savoir aujourd’hui"
+      }
+    },
+    {
+      "title_original": "Berlin Pride attack suspect shot and killed during police operation",
+      "title_zh": "柏林自豪游行袭击嫌疑人在警察行动中被射杀",
+      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-26T19:21:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "柏林自豪游行发生袭击事件，嫌疑人在警察行动中被射杀。",
+        "袭击事件造成多人伤亡，嫌疑人被确认为一名21岁的德国公民，具有黎巴嫩血统。",
+        "德国当局表示，将采取一切必要措施确保公共安全和秩序，防止类似事件再次发生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Berlin Pride attack suspect shot and killed during police operation"
+      }
+    },
+    {
+      "title_original": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "title_zh": "波尔多附近的野火使数万人撤离",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-26T18:40:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "法国波尔多附近发生野火，数万人被撤离。",
+        "法国内政部长劳伦特·努涅斯表示，情况“非常不利”，火势“朝波尔多方向移动”。",
+        "欧洲多个国家近期发生野火，法国和西班牙受灾最严重，超过33万人被撤离。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux"
+      }
+    },
+    {
+      "title_original": "Romania summons Russian envoy as it shoots down third intruding drone",
+      "title_zh": "罗马尼亚击落第三架入侵无人机，召见俄罗斯大使",
+      "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-07-26T18:27:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "罗马尼亚击落第三架入侵无人机，召见俄罗斯大使，抗议无人机入侵领空。",
+        "罗马尼亚防长表示，入侵无人机是俄罗斯制造的“Shahed”型号，无人机入侵事件引发了人们对俄乌冲突扩散到北约国家的担忧。",
+        "近期，多个北约国家报告了无人机入侵事件，北约表示将采取措施保护领空。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Romania summons Russian envoy as it shoots down third intruding drone"
+      }
+    },
+    {
+      "title_original": "Romania scrambles F-16 jets to shoot down a suspected Russian 'Shahed type' drone",
+      "title_zh": "罗马尼亚出动F-16战机击落疑似俄罗斯“Shahed”型无人机",
+      "url": "https://fortune.com/2026/07/26/romania-f16-jets-russian-shahed-type-drone-violation-nato-airspace/",
+      "source": "Fortune",
+      "source_score": 55,
+      "published_at": "2026-07-26T18:16:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "罗马尼亚出动F-16战机击落疑似俄罗斯“Shahed”型无人机，事件发生在黑海上空。",
+        "罗马尼亚总统表示，击落的无人机是俄罗斯制造的“Shahed”型号，无人机入侵事件引发了人们对俄乌冲突扩散到北约国家的担忧。",
+        "北约表示将采取措施保护领空，防止类似事件再次发生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Fortune"
+      ],
+      "all_titles": {
+        "en": "Romania scrambles F-16 jets to shoot down a suspected Russian 'Shahed type' drone"
+      }
+    },
+    {
+      "title_original": "حرب الشرق الأوسط تدفع فورمولا 1 لنقل سباق البحرين إلى ماليزيا",
+      "title_zh": "中东战争导致一号方程式将巴林赛事转移到马来西亚",
+      "url": "https://www.alaraby.co.uk/sport/%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%AA%D8%AF%D9%81%D8%B9-%D9%81%D9%88%D8%B1%D9%85%D9%88%D9%84%D8%A7-1-%D9%84%D9%86%D9%82%D9%84-%D8%B3%D8%A8%D8%A7%D9%82-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A5%D9%84%D9%89-%D9%85%D8%A7%D9%84%D9%8A%D8%B2%D9%8A%D8%A7",
+      "source": "العربي الجديد",
+      "source_score": 40,
+      "published_at": "2026-07-26T17:47:08+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于中东战争，一号方程式赛事将巴林赛事转移到马来西亚举行。",
+        "马来西亚政府同意在塞パン国际赛道举办巴林大奖赛，赛事将于10月2日至4日举行。",
+        "一号方程式赛事组织方表示，赛事将按照原计划进行，马来西亚将承办巴林大奖赛。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "العربي الجديد"
+      ],
+      "all_titles": {
+        "ar": "حرب الشرق الأوسط تدفع فورمولا 1 لنقل سباق البحرين إلى ماليزيا"
+      }
+    },
+    {
+      "title_original": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war",
+      "title_zh": "“冻结冲突”：无人机减缓哈萨克斯坦石油流动，俄乌战争持续",
+      "url": "https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-07-26T17:20:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "哈萨克斯坦石油出口受无人机袭击影响，石油流动减缓，经济和能源市场面临风险。",
+        "哈萨克斯坦总统卡西姆-若马尔特·托卡耶夫表示，希望“冻结”俄乌冲突，返回伊斯坦布尔协议2.0。",
+        "俄乌战争已持续五年，哈萨克斯坦是欧盟第二大原油供应国，石油流动减缓将对能源市场产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war"
+      }
+    },
+    {
+      "title_original": "How Republicans plan to conquer Troy Jackson",
+      "title_zh": "共和党如何计划征服特洛伊·杰克逊",
+      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-07-26T12:10:59-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "共和党计划在100天内击败新晋的民主党缅因州参议院提名人特洛伊·杰克逊",
+        "他们将竭尽全力对付他",
+        "特洛伊·杰克逊是缅因州民主党的新任参议院提名人"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "How Republicans plan to conquer Troy Jackson"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Donald Trump laisse «de la place» pour les négociations, assure l'ambassadeur américain à l'ONU",
+      "title_zh": "中东战争：特朗普为谈判留下空间，美国驻联合国大使称",
+      "url": "https://www.europe1.fr/international/guerre-au-moyen-orient-donald-trump-laisse-de-la-place-pour-les-negociations-assure-lambassadeur-americain-a-lonu-988128",
+      "source": "Europe 1",
+      "source_score": 40,
+      "published_at": "2026-07-26T16:47:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国驻联合国大使表示，特朗普为中东战争谈判留下了空间",
+        "特朗普没有放弃对伊朗采取新的军事行动",
+        "美国驻联合国大使称，特朗普正在等待谈判的机会"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Europe 1"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Donald Trump laisse «de la place» pour les négociations, assure l'ambassadeur américain à l'ONU"
+      }
+    },
+    {
+      "title_original": "نتنياهو يطلق يد الجيش في الضفة... وتلويح بإخلاء بلدات كاملة",
+      "title_zh": "内塔尼亚胡授权军队在约旦河西岸行动... 并威胁要清空整个城镇",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5300258-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D8%B7%D9%84%D9%82-%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%81%D9%8A-%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D9%88%D8%AA%D9%84%D9%88%D9%8A%D8%AD-%D8%A8%D8%A5%D8%AE%D9%84%D8%A7%D8%A1-%D8%A8%D9%84%D8%AF%D8%A7%D8%AA-%D9%83%D8%A7%D9%85%D9%84%D8%A9",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-07-26T16:37:58+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列总理内塔尼亚胡授权军队在约旦河西岸采取行动",
+        "以色列军队可能会清空整个城镇",
+        "内塔尼亚胡要求军队扩大行动范围，逮捕巴勒斯坦人，没收武器"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "نتنياهو يطلق يد الجيش في الضفة... وتلويح بإخلاء بلدات كاملة"
+      }
+    },
+    {
+      "title_original": "乌克兰袭击伊朗船只 伊朗战事和俄乌冲突罕见联动",
+      "title_zh": "乌克兰袭击伊朗船只 伊朗战事和俄乌冲突罕见联动",
+      "url": "https://finance.sina.cn/2026-07-27/detail-inikeetx0217243.d.html?vt=4",
+      "source": "finance.sina.com.cn",
+      "source_score": 40,
+      "published_at": "2026-07-26T16:12:50+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队袭击了伊朗船只，伊朗战事和俄乌冲突出现罕见的联动",
+        "伊朗外交部谴责乌克兰的袭击行为",
+        "乌克兰总统泽连斯基表示，乌军的袭击目标包括俄军舰艇和伊朗船只"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "finance.sina.com.cn"
+      ],
+      "all_titles": {
+        "zh": "乌克兰袭击伊朗船只 伊朗战事和俄乌冲突罕见联动"
+      }
+    },
+    {
+      "title_original": "La ASEAN refleja la inestabilidad de la geopolítica mundial",
+      "title_zh": "东南亚国家联盟反映出全球地缘政治的不稳定性",
+      "url": "https://asianortheast.com/asean-refleja-inestabilidad-geopolitica-mundial/",
+      "source": "ASIAnortheast.com",
+      "source_score": 55,
+      "published_at": "2026-07-26T16:04:19+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "东南亚国家联盟的会议反映出全球地缘政治的不稳定性",
+        "中国和美国在会议上都展现了自己的实力",
+        "会议讨论了伊朗、乌克兰和南海等问题"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "ASIAnortheast.com"
+      ],
+      "all_titles": {
+        "es": "La ASEAN refleja la inestabilidad de la geopolítica mundial"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient : répit forcé après treize jours de bombardements ?",
+      "title_zh": "中东：十三天的轰炸后强制休战？",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260726-moyen-orient-r%C3%A9pit-forc%C3%A9-apr%C3%A8s-treize-jours-de-bombardements",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-07-26T15:23:03+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "法国24报道，中东地区在十三天的轰炸后可能进入强制休战状态。",
+        "此次休战是由于多方努力达成的协议，旨在结束暴力冲突。",
+        "相关各方正在努力维持休战状态，防止进一步的暴力爆发。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient : répit forcé après treize jours de bombardements ?"
+      }
+    },
+    {
+      "title_original": "البابا ليون يجدد دعوته إلى الدبلوماسية للسلام في الشرق الأوسط",
+      "title_zh": "教皇利昂重申呼吁东方中东地区通过外交实现和平",
+      "url": "https://www.alkhaleej.ae/2026-07-26/%D8%B9%D8%B1%D8%A8-%D9%88%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%D8%A7-%D9%84%D9%8A%D9%88%D9%86-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%AF%D8%B9%D9%88%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-07-26T15:00:40+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "教皇利昂在其讲话中重申呼吁东方中东地区各方通过外交手段实现和平。",
+        "他强调，当前的暴力冲突已经导致许多平民伤亡，呼吁各方立即停止攻击，寻求和平解决方案。",
+        "教皇利昂表示，外交和对话是实现东方中东地区和平的关键，各方应共同努力，寻求公正和持久的解决方案。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "البابا ليون يجدد دعوته إلى الدبلوماسية للسلام في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Los vínculos de Turquía con China amenazan la seguridad del F-35 y la OTAN, advierte un experto",
+      "title_zh": "土耳其与中国的关系威胁到F-35和北约的安全，专家警告",
+      "url": "https://www.moncloa.com/2026/07/26/turquia-china-amenaza-f35-otan-3405927/",
+      "source": "moncloa.com",
+      "source_score": 40,
+      "published_at": "2026-07-26T14:55:47+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "专家指出，土耳其与中国的关系可能对F-35战机和北约的安全构成威胁。",
+        "土耳其的电信网络已经对中国公司开放，这可能会导致北约战机的机密信息被泄露。",
+        "专家呼吁土耳其和北约采取措施，防止中国公司对北约战机的安全构成威胁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "moncloa.com"
+      ],
+      "all_titles": {
+        "es": "Los vínculos de Turquía con China amenazan la seguridad del F-35 y la OTAN, advierte un experto"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : le chef de l'ONU appelle à lever «immédiatement» toutes les sanctions contre la Syrie",
+      "title_zh": "中东战争：联合国秘书长呼吁立即解除对叙利亚的所有制裁",
+      "url": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-chef-de-l-onu-appelle-a-lever-immediatement-toutes-les-sanctions-contre-la-syrie-20260726",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-07-26T13:23:13+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "联合国秘书长安东尼奥·古特雷斯呼吁立即解除对叙利亚的所有制裁。",
+        "古特雷斯表示，解除制裁将有助于叙利亚的经济复苏和和平进程。",
+        "他强调，联合国将继续努力促进叙利亚的和平解决，呼吁各方合作，实现持久的和平。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : le chef de l'ONU appelle à lever «immédiatement» toutes les sanctions contre la Syrie"
+      }
+    },
+    {
+      "title_original": "Vorschau: internationaler frühschoppen • Nato stärkt die Ukraine - Muss man jetzt mit Putin reden?",
+      "title_zh": "预告：国际早间讨论•北约加强对乌克兰的支持——现在应该与普京谈判吗？",
+      "url": "https://www.ardmediathek.de/tv-programm/6a419989411ad30fab2c6a3b",
+      "source": "ARD Mediathek",
+      "source_score": 40,
+      "published_at": "2026-07-26T13:19:26+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北约正在加强对乌克兰的支持，引发了人们对是否应该与俄罗斯总统普京谈判的讨论。",
+        "美国和俄罗斯的外交官们最近进行了会谈，讨论了乌克兰冲突的解决方案。",
+        "专家们认为，北约和俄罗斯之间的谈判可能是解决乌克兰冲突的关键一步。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "ARD Mediathek"
+      ],
+      "all_titles": {
+        "de": "Vorschau: internationaler frühschoppen • Nato stärkt die Ukraine - Muss man jetzt mit Putin reden?"
+      }
+    },
+    {
+      "title_original": "Nato: Wie das Bündnis ihre Rüstungsproduktion beschleunigen will",
+      "title_zh": "北约：如何加速联盟的武器生产",
+      "url": "https://www.wiwo.de/politik/ausland/nato-wie-das-buendnis-ihre-ruestungsproduktion-beschleunigen-will/100241802.html",
+      "source": "WiWo",
+      "source_score": 40,
+      "published_at": "2026-07-26T13:18:31+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约在安卡拉举行了峰会，尽管受到外界的压力，但各国仍通过了一份共同声明，旨在扩大生产和采购。",
+        "北约创新和混合威胁主任尼科斯·卢塔斯在采访中解释了如何实现这一目标。",
+        "北约希望通过支持非传统供应商和技术公司来扩大其武器生产能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "WiWo"
+      ],
+      "all_titles": {
+        "de": "Nato: Wie das Bündnis ihre Rüstungsproduktion beschleunigen will"
+      }
+    },
+    {
+      "title_original": "【大相撲】安青錦の３度目Ｖをウクライナ特殊作戦軍が祝福「君は戦士として戦い、戦士として勝利した」",
+      "title_zh": "【大相撲】安青锦第三次夺冠，乌克兰特种作战部队祝贺：你作为战士战斗，作为战士胜利",
+      "url": "https://news.yahoo.co.jp/articles/c3d1e63fa93aa20d711d5f567d151c51d18762e8",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:10:25+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰出生的相扑选手安青锦在名古屋場所大相撲比赛中取得第三次胜利。",
+        "乌克兰特种作战部队向安青锦发送祝贺消息，赞扬他作为战士的精神。",
+        "安青锦的胜利在日本和乌克兰都引起了广泛关注。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "【大相撲】安青錦の３度目Ｖをウクライナ特殊作戦軍が祝福「君は戦士として戦い、戦士として勝利した」"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 14:58 Raketenangriff auf Kiew: Ukraine und Russland berichten von zivilen Opfern +++",
+      "title_zh": "乌克兰战争直播：14:58 基辅遭到导弹袭击，乌克兰和俄罗斯报告有平民伤亡",
+      "url": "https://www.n-tv.de/politik/14-02-Kasachstans-Praesident-trifft-Putin-Kreml-Verbuendeter-ueberrascht-mit-klarer-Ukraine-Forderung-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:02:51+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰和俄罗斯报告称，基辅遭到导弹袭击，造成平民伤亡。",
+        "英国新任首相安迪·伯恩汉姆邀请乌克兰总统泽连斯基作为首位国事访问客人访问英国。",
+        "俄罗斯对乌克兰的军事行动仍在继续，双方都在寻求外界的支持。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 14:58 Raketenangriff auf Kiew: Ukraine und Russland berichten von zivilen Opfern +++"
+      }
+    },
+    {
+      "title_original": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
+      "title_zh": "叙利亚的复兴希望寄托于重建信任、生命和生计",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168028",
+      "source": "UN News - Global perspective Human stories",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "叙利亚经历了多年的战争和毁灭，联合国秘书长安东尼奥·古特雷斯访问了叙利亚，呼吁重建信任和支持叙利亚人民。",
+        "古特雷斯会见了叙利亚总统阿赫马德·阿尔-沙拉赫，并重申了联合国支持叙利亚人民的承诺。",
+        "叙利亚的未来取决于重建信任、支持经济发展和保护人权。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "all_titles": {
+        "en": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods"
+      }
+    },
+    {
+      "title_original": "After war took her leg, this Ukrainian gymnast refused to give up",
+      "title_zh": "战争夺走了她的腿，这位乌克兰体操运动员拒绝放弃",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168020",
+      "source": "UN News - Global perspective Human stories",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "10岁的乌克兰体操运动员萨莎·帕斯卡尔在战争中失去了她的腿，但她拒绝放弃体操事业。",
+        "萨莎在纽约时代广场进行了表演，传递了一个比她的体操动作更大的信息。",
+        "萨莎的故事是对人类精神的坚韧和毅力的见证。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "all_titles": {
+        "en": "After war took her leg, this Ukrainian gymnast refused to give up"
+      }
+    }
+  ]
+}
