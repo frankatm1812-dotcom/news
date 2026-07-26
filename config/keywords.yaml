@@ -1,0 +1,98 @@
+topics:
+  - name: AI
+    keywords:
+      zh:
+        - 人工智能
+        - 大模型
+        - OpenAI
+        - ChatGPT
+        - 生成式AI
+        - 深度学习
+      en:
+        - artificial intelligence
+        - large language model
+        - OpenAI
+        - ChatGPT
+        - generative AI
+        - machine learning
+      fr:
+        - intelligence artificielle
+        - IA générative
+        - OpenAI
+        - ChatGPT
+        - apprentissage automatique
+      de:
+        - künstliche Intelligenz
+        - KI
+        - OpenAI
+        - ChatGPT
+        - generative KI
+      ja:
+        - 人工知能
+        - 生成AI
+        - OpenAI
+        - ChatGPT
+        - 大規模言語モデル
+      es:
+        - inteligencia artificial
+        - IA generativa
+        - OpenAI
+        - ChatGPT
+        - aprendizaje automático
+      ar:
+        - الذكاء الاصطناعي
+        - OpenAI
+        - ChatGPT
+        - نماذج اللغة الكبيرة
+
+  - name: 地缘政治
+    keywords:
+      zh:
+        - 地缘政治
+        - 中美关系
+        - 俄乌冲突
+        - 台海
+        - 中东局势
+        - 北约
+      en:
+        - geopolitics
+        - US China relations
+        - Ukraine war
+        - Taiwan strait
+        - Middle East conflict
+        - NATO
+      fr:
+        - géopolitique
+        - relations sino-américaines
+        - guerre Ukraine
+        - Taïwan
+        - Moyen-Orient
+        - OTAN
+      de:
+        - Geopolitik
+        - US-China-Beziehungen
+        - Ukraine-Krieg
+        - Taiwan
+        - Naher Osten
+        - NATO
+      ja:
+        - 地政学
+        - 米中関係
+        - ウクライナ
+        - 台湾海峡
+        - 中東
+        - NATO
+      es:
+        - geopolítica
+        - relaciones EE.UU.-China
+        - guerra Ucrania
+        - Taiwán
+        - Oriente Medio
+        - OTAN
+      ar:
+        - الجغرافيا السياسية
+        - العلاقات الأمريكية الصينية
+        - حرب أوكرانيا
+        - تايوان
+        - الشرق الأوسط
+        - حلف الناتو

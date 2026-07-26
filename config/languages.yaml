@@ -1,0 +1,43 @@
+languages:
+  zh:
+    name: 中文
+    google_hl: zh-CN
+    google_gl: CN
+    google_ceid: CN:zh-Hans
+    gdelt_lang: chinese
+  en:
+    name: English
+    google_hl: en-US
+    google_gl: US
+    google_ceid: US:en
+    gdelt_lang: english
+  fr:
+    name: Français
+    google_hl: fr
+    google_gl: FR
+    google_ceid: FR:fr
+    gdelt_lang: french
+  de:
+    name: Deutsch
+    google_hl: de
+    google_gl: DE
+    google_ceid: DE:de
+    gdelt_lang: german
+  ja:
+    name: 日本語
+    google_hl: ja
+    google_gl: JP
+    google_ceid: JP:ja
+    gdelt_lang: japanese
+  es:
+    name: Español
+    google_hl: es-419
+    google_gl: ES
+    google_ceid: ES:es
+    gdelt_lang: spanish
+  ar:
+    name: العربية
+    google_hl: ar
+    google_gl: AE
+    google_ceid: AE:ar
+    gdelt_lang: arabic

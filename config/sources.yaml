@@ -1,0 +1,105 @@
+# Source authority tiers (higher = more authoritative)
+# Used for dedup ranking and credibility scoring
+
+tiers:
+  S:
+    score: 95
+    sources:
+      - Reuters
+      - Associated Press
+      - AP News
+      - AFP
+      - Agence France-Presse
+      - BBC
+      - BBC News
+      - 新华社
+      - Xinhua
+      - NHK
+      - NHK WORLD
+      - 人民日报
+      - Le Monde
+      - Deutsche Welle
+      - DW
+      - El País
+      - Al Jazeera
+      - الجزيرة
+      - 日本経済新聞
+      - Nikkei
+      - The Guardian
+      - 华尔街日报
+      - Wall Street Journal
+      - The New York Times
+      - New York Times
+      - CNN
+      - Bloomberg
+
+  A:
+    score: 75
+    sources:
+      - CNBC
+      - TechCrunch
+      - The Verge
+      - Wired
+      - Ars Technica
+      - MIT Technology Review
+      - Politico
+      - Foreign Affairs
+      - Foreign Policy
+      - The Economist
+      - Financial Times
+      - 财新
+      - Caixin
+      - 澎湃新闻
+      - 环球时报
+      - Global Times
+      - Spiegel
+      - Der Spiegel
+      - France 24
+      - Euronews
+      - El Mundo
+      - ABC News
+      - CBS News
+      - NBC News
+      - Washington Post
+      - The Washington Post
+
+  B:
+    score: 55
+    sources:
+      - Yahoo News
+      - MSN
+      - Google News
+      - Business Insider
+      - Forbes
+      - Fortune
+      - VentureBeat
+      - The Register
+      - ZDNet
+      - CNET
+      - South China Morning Post
+      - SCMP
+      - Times of India
+      - Hindustan Times
+      - Daily Mail
+      - The Independent
+      - RT
+      - Sputnik
+
+  C:
+    score: 30
+    sources: []
+
+default_score: 40
+
+# Official/government sources that boost credibility to confirmed
+official_patterns:
+  - '\.gov'
+  - '\.gov\.'
+  - 'whitehouse\.gov'
+  - 'state\.gov'
+  - 'europa\.eu'
+  - 'un\.org'
+  - 'nato\.int'
+  - '\.mil'
+  - 'gov\.cn'
+  - 'mfa\.gov'
