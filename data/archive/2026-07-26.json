@@ -1,8 +1,33 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T14:51:10.729756+00:00",
-  "count": 98,
+  "generated_at": "2026-07-26T15:06:03.924244+00:00",
+  "count": 110,
   "articles": [
+    {
+      "title_original": "Los vínculos de Turquía con China amenazan la seguridad del F-35 y la OTAN, advierte un experto",
+      "title_zh": "土耳其与中国的联系威胁到F-35和北约的安全，专家警告",
+      "url": "https://www.moncloa.com/2026/07/26/turquia-china-amenaza-f35-otan-3405927/",
+      "source": "moncloa.com",
+      "source_score": 40,
+      "published_at": "2026-07-26T14:55:47+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "土耳其与中国的联系可能威胁到F-35和北约的安全，因为中国公司可能会获取敏感信息。",
+        "美国专家Endy Zemenides警告说，土耳其的电信网络已经对中国公司开放，这可能会导致安全漏洞。",
+        "美国政府要求土耳其放弃俄罗斯的S-400防空系统，并满足其他条件，才能获得F-35战机。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "moncloa.com"
+      ],
+      "all_titles": {
+        "es": "Los vínculos de Turquía con China amenazan la seguridad del F-35 y la OTAN, advierte un experto"
+      }
+    },
     {
       "title_original": "中東情勢「直接影響」5割超 県内企業調査 「規模の小さい企業は非常に厳しい」 ぶぎん地域経済研究所（埼玉新聞）",
       "title_zh": "县内50%以上企业受到中东局势“直接影响”：“小企业非常困难” 布仁地方经济研究所（埼玉新闻）",
@@ -301,6 +326,31 @@
       ],
       "all_titles": {
         "de": "Digitalexperte warnt: \"Manche Kinder halten KI für einen Freund\""
+      }
+    },
+    {
+      "title_original": "البابا ليون يجدد دعوته إلى الدبلوماسية للسلام في الشرق الأوسط",
+      "title_zh": "教皇利奥再次呼吁通过外交手段实现中东和平",
+      "url": "https://www.alkhaleej.ae/2026-07-26/%D8%B9%D8%B1%D8%A8-%D9%88%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%D8%A7-%D9%84%D9%8A%D9%88%D9%86-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%AF%D8%B9%D9%88%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:44:40+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "周日，教皇利奥十四日在冈多菲堡总部再次呼吁在约旦河西岸和加沙地带进行谈判“达成公平的政治解决方案”，并敦促中东战争各方通过“对话和外交”实现和平。",
+        "教皇在位于冈多菲堡的教皇夏宫表示：“我关切地关注圣地暴力事件的持续和恶化，最近在约旦河西岸和加沙地带夺走了许多平民受害者的生命。”",
+        "他补充道：“我强烈呼吁重返谈判，以在每个人的尊严和权利的基础上实现公平的政治解决方案。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "البابا ليون يجدد دعوته إلى الدبلوماسية للسلام في الشرق الأوسط"
       }
     },
     {
@@ -927,6 +977,31 @@
       ],
       "all_titles": {
         "fr": "L’IA va tout changer… mais pas forcément les rendements boursiers"
+      }
+    },
+    {
+      "title_original": "الشرق الأوسط... حروب أم بداية حلول؟",
+      "title_zh": "中东……战争还是解决方案的开始？",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5298320-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%AD%D8%B1%D9%88%D8%A8-%D8%A3%D9%85-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%AD%D9%84%D9%88%D9%84%D8%9F",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-07-26T10:45:25+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "看来，美伊谅解备忘录和旨在缓解紧张局势并为华盛顿与德黑兰之间的谈判创造有利条件的60天过渡期正处于严重摇摇欲坠的状态。",
+        "一些人认为，鉴于海湾“前线”的军事升级以及双方之间的言语升级，这是致命一击。",
+        "不止一位巴基斯坦和美国消息来源指出，伊朗的“文职”三驾马车（总统、议会议长，特别是外交部长）和激进的“革命卫队”之间存在分歧，前者的政策以实用主义为特征，而激进的“革命卫队”据这些消息来源称，掌握着实际决定权，立场强硬。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "الشرق الأوسط... حروب أم بداية حلول؟"
       }
     },
     {
@@ -1880,6 +1955,31 @@
       }
     },
     {
+      "title_original": "Géopolitique des mers. En Indo-Pacifique, les petits États insulaires au centre de grands enjeux maritimes",
+      "title_zh": "海洋地缘政治。在印太地区，小岛国是重大海洋问题的中心",
+      "url": "https://lemarin.ouest-france.fr/defense/geopolitique-des-mers-en-indo-pacifique-les-petits-etats-insulaires-au-centre-de-grands-enjeux-maritimes-65e7c1dc-7aa6-11f1-a705-e1977a1c2ed8",
+      "source": "Le marin",
+      "source_score": 40,
+      "published_at": "2026-07-26T09:03:01+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "海洋地缘政治。",
+        "在印度-太平洋地区，小岛屿国家处于重大海事问题的中心",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Le marin"
+      ],
+      "all_titles": {
+        "fr": "Géopolitique des mers. En Indo-Pacifique, les petits États insulaires au centre de grands enjeux maritimes"
+      }
+    },
+    {
       "title_original": "La guerre au Moyen orient envoi cette star du LOSC à l’OL",
       "title_zh": "中东战争将这位LOSC明星送上OL",
       "url": "https://www.sport.fr/football/la-guerre-au-moyen-orient-envoi-cette-star-du-losc-a-lol-1469801.shtm",
@@ -1955,6 +2055,56 @@
       }
     },
     {
+      "title_original": "郑丽文：只有中国国民党可以确保台海和平",
+      "title_zh": "郑丽文：只有中国国民党可以确保台海和平",
+      "url": "https://news.ifeng.com/c/8v36WP0WL44",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-07-26T07:58:59+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "据凤凰卫视报道，国民党今天（7月25日）举行“全代会”，党主席郑丽文与党内提名的县市长参选人一同造势，宣示要全面胜利，进而完成2028年下架民进党的目标。",
+        "郑丽文在致词时强调，她要向全世界证明，只有国民党可以确保台海和平，保障台湾安全。",
+        "凤凰卫视蓝竟图、柯志强 台北报道\n您当前使用的浏览器版本过低，导致网站不能正常访问，建议升级浏览器\n谷歌(Chrome)浏览器 下载\n360安全浏览器 下载"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "郑丽文：只有中国国民党可以确保台海和平"
+      }
+    },
+    {
+      "title_original": "Russia Ukraine War",
+      "title_zh": "俄罗斯乌克兰战争",
+      "url": "https://www.journal-news.com/nation-world/russia-ukraine-war/image_643ffe10-02ac-5bfe-b661-d5029846735e.html",
+      "source": "Journal-News.com",
+      "source_score": 40,
+      "published_at": "2026-07-26T07:40:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美联社俄罗斯乌克兰战争 Dan Bashakov - 美联社 2026 年 7 月 26 日 5 小时前 Facebook Twitter WhatsApp SMS 电子邮件 打印 复制文章链接 保存 2026 年 7 月 25 日星期六，乌克兰伊久姆，一名妇女在一座被战斗损坏的建筑后面种花。",
+        "Dan Bashakov - 美联社 Facebook Twitter WhatsApp SMS 电子邮件 打印 复制文章链接 保存最新地区新闻 当地发明家、工程师 James W.",
+        "见汉密尔顿地方合作伙伴启动记忆支持计划留下的持久印记 俄亥俄州改变了高中提供的证书，以更好地与劳动力保持一致 犯罪 路怒事件中开枪，米德尔敦政治 俄亥俄州州长竞选：阿克顿、拉马斯瓦米财产税计划如何叠加 最多阅读的犯罪 特伦顿妇女被指控从米德尔敦公司偷窃超过 200 万美元 犯罪 路怒事件中开枪，米德尔敦发生车祸 辛辛那提基督教学校从费尔菲尔德搬到西切斯特Twp。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Journal-News.com"
+      ],
+      "all_titles": {
+        "en": "Russia Ukraine War"
+      }
+    },
+    {
       "title_original": "Peut-on civiliser l'intelligence artificielle ?",
       "title_zh": "我们能否使人工智能文明化？",
       "url": "https://blogs.mediapart.fr/stephane-vende/blog/260726/peut-civiliser-lintelligence-artificielle",
@@ -2005,6 +2155,31 @@
       }
     },
     {
+      "title_original": "EN DIRECT - Moyen-Orient: l'Iran dit avoir arrêté les frappes sur ses voisins du Golfe depuis deux jours",
+      "title_zh": "直播 - 中东：伊朗表示两天前已停止对其海湾邻国的袭击",
+      "url": "https://fr.news.yahoo.com/direct-moyen-orient-progr%C3%A8s-lors-070110073.html",
+      "source": "Yahoo Actualités",
+      "source_score": 40,
+      "published_at": "2026-07-26T07:01:10+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "直播 - 中东：伊朗表示两天前已停止对其海湾邻国的袭击\n要记住什么\n► 7月26日星期日，伊朗军方发言人表示，伊朗两天前已停止袭击其海湾邻国，因为美国已停止轰炸其领土。",
+        "► 7 月 25 日星期六，胡塞叛军声称对针对沙特阿拉伯的袭击负责。",
+        "前一天，在叛军袭击了红海地区的船只后，后者领导的联军瞄准了威胁红海航运的胡塞武装军事基地。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Yahoo Actualités"
+      ],
+      "all_titles": {
+        "fr": "EN DIRECT - Moyen-Orient: l'Iran dit avoir arrêté les frappes sur ses voisins du Golfe depuis deux jours"
+      }
+    },
+    {
       "title_original": "Voici les métiers les plus menacés par l'intelligence artificielle selon les études les plus récentes",
       "title_zh": "根据最新研究，以下是受人工智能威胁最严重的职业",
       "url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-voici-metiers-plus-menaces-intelligence-artificielle-selon-etudes-plus-recentes-w2t8-136354/",
@@ -2027,6 +2202,56 @@
       ],
       "all_titles": {
         "fr": "Voici les métiers les plus menacés par l'intelligence artificielle selon les études les plus récentes"
+      }
+    },
+    {
+      "title_original": "NATO-Praktikantin wegen mutmaßlicher Spionage für eine ausländische Macht in Belgien festgenommen",
+      "title_zh": "北约实习生因涉嫌为外国势力从事间谍活动在比利时被捕",
+      "url": "https://euractiv.com/de/news/nato-praktikant-wegen-mutmaslicher-spionage-fur-eine-auslandische-macht-in-belgien-festgenommen/",
+      "source": "euractiv.com",
+      "source_score": 40,
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约实习生因涉嫌为外国势力从事间谍活动在比利时被捕\n嫌疑人是一名华裔加拿大实习生，曾在蒙斯附近的欧洲盟军最高司令部（SHAPE）工作。",
+        "比利时当局周六表示，一名在比利时北约战略军事总部完成实习的加拿大公民因涉嫌为外国势力从事间谍活动和参与犯罪组织而被捕。",
+        "嫌疑人是一名华裔实习生，在蒙斯附近的欧洲盟军最高指挥部（SHAPE）工作，于 3 月 24 日被捕。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "euractiv.com"
+      ],
+      "all_titles": {
+        "de": "NATO-Praktikantin wegen mutmaßlicher Spionage für eine ausländische Macht in Belgien festgenommen"
+      }
+    },
+    {
+      "title_original": "侵攻に苦しむウクライナに「使い捨てカイロ」40万個 原発事故で避難した福島の男性、支援の記録を冊子に",
+      "title_zh": "40万个“一次性暖手器”将运往遭受入侵的乌克兰；核电站事故后撤离的福岛男子在小册子中记录支持",
+      "url": "https://www.tokyo-np.co.jp/article/503681",
+      "source": "東京新聞デジタル",
+      "source_score": 40,
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "福岛市居民竹田彻（85 岁）因东京电力福岛第一核电站事故而在山形县米泽市经历了自愿疏散，他写了一本小册子，讲述了他为向遭受俄罗斯入侵的乌克兰人民发送未使用的“一次性取暖器”所做的努力。武田说：“我不仅想以有形的形式留下福岛和山形朋友的参与，还想留下来自全国各地的许多人的参与。”",
+        "（佐久间弘康）\n\t\t\n\t\t\t\n\t\t◆“如果有人有困难，我想尽我所能。”\n\t\t\t武田先生曾是一名高中教师，担任“向乌克兰派遣一次性取暖器协会”的代表，该协会由来自福岛县和山形县的志愿者组成。 2011年3月12日，核事故发生后不久，他带着妻子、女儿以及宠物狗和猫，开着自己的车离开了福岛市的家。直到2022年回到福岛市的家为止……",
+        "剩余 461/781 个字符\n本文仅供会员阅读。您可以通过注册为入门会员（免费）来阅读其余部分。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "東京新聞デジタル"
+      ],
+      "all_titles": {
+        "ja": "侵攻に苦しむウクライナに「使い捨てカイロ」40万個 原発事故で避難した福島の男性、支援の記録を冊子に"
       }
     },
     {
@@ -2130,6 +2355,31 @@
       }
     },
     {
+      "title_original": "رفض عربي وإسلامي قاطع لتهديد أمن الملاحة وحرية الممرات المائية",
+      "title_zh": "阿拉伯和伊斯兰明确拒绝航行安全和水道自由受到的威胁",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/5300002-%D8%B1%D9%81%D8%B6-%D8%B9%D8%B1%D8%A8%D9%8A-%D9%88%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A-%D9%82%D8%A7%D8%B7%D8%B9-%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%85%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-07-26T06:00:39+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "周六，各国、国际组织和伊斯兰组织再次全面声援沙特阿拉伯，明确拒绝和谴责针对沙特船只的袭击，以及所有针对民用设施和运输工具、或威胁红海和国际水道安全和航行自由的袭击。",
+        "埃及在其外交部发表的声明中强调，根据国际法和《联合国宪章》的规定，尊重、确保和保护该地区所有海峡和国际走廊的国际航行自由极为重要，以保障国际贸易和全球供应链的流动。",
+        "约旦政府谴责胡塞民兵对穿越红海的沙特船只发动袭击，认为此举公然违反国际法和1982年《联合国海洋法公约》，对海上航行安全构成威胁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "رفض عربي وإسلامي قاطع لتهديد أمن الملاحة وحرية الممرات المائية"
+      }
+    },
+    {
       "title_original": "生成ＡＩ「業務で活用」秋田県内企業は約３割 「情報の正確性に懸念」の声も",
       "title_zh": "秋田县约 30% 的公司在工作中使用生成式人工智能，其中一些公司对信息的准确性表示担忧。",
       "url": "https://www.aab-tv.co.jp/news/aabnews-26072614320087/",
@@ -2205,6 +2455,31 @@
       }
     },
     {
+      "title_original": "北约最高指挥部爆\"实习生间谍\"!加拿大华裔女被捕",
+      "title_zh": "北约最高指挥部爆\"实习生间谍\"!加拿大华裔女被捕",
+      "url": "https://www.wenxuecity.com/news/2026/07/25/126721075.html",
+      "source": "文学城",
+      "source_score": 40,
+      "published_at": "2026-07-26T05:24:01+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "▲ 位于比利时布鲁塞尔的北约总部。",
+        "比利时联邦检察官办公室25日宣布，一名在北约欧洲盟军最高司令部（SHAPE）担任实习生的加拿大籍华裔女性，因涉嫌为第三国从事间谍活动，已于24日被捕。",
+        "综合《路透》等外媒，根据检察官办公室声明，该名女子同时被怀疑是某犯罪组织成员，但未披露其身分、为哪个国家工作或相关犯罪组织详细资讯。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "文学城"
+      ],
+      "all_titles": {
+        "zh": "北约最高指挥部爆\"实习生间谍\"!加拿大华裔女被捕"
+      }
+    },
+    {
       "title_original": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
       "title_zh": "委内瑞拉男子起诉将他们送往臭名昭著的萨尔瓦多监狱的航空公司",
       "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
@@ -2252,6 +2527,31 @@
       ],
       "all_titles": {
         "zh": "APEC观察｜面向人工智能时代，经济体部长们都谈些什么？"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : l’Iran épargnée à nouveau, des opérations « en pause »… Le point sur la nuit",
+      "title_zh": "中东战争：伊朗再次幸免，行动“暂停”……晚间更新",
+      "url": "https://www.ouest-france.fr/monde/proche-orient/guerre-au-moyen-orient-liran-epargnee-a-nouveau-des-operations-en-pause-le-point-sur-la-nuit-70831d86-88a1-11f1-abec-0816624751ff",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-07-26T04:44:59+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争：伊朗再次幸免，行动“暂停”……法国西部夜间更新",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : l’Iran épargnée à nouveau, des opérations « en pause »… Le point sur la nuit"
       }
     },
     {
