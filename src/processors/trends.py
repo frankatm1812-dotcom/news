@@ -141,7 +141,7 @@ def analyze_trends(articles: list[ProcessedArticle], days: int = 7) -> dict:
         prompt = f"""你是新闻分析编辑。根据以下过去{days}天的新闻统计数据，撰写中文「趋势分析」。
 
 要求：
-1. 4-6 句，覆盖 AI 与地缘政治两大主题
+1. 4-6 句，聚焦地缘政治热点
 2. 指出升温/降温/持续热点
 3. 客观陈述，不加评论
 4. 直接输出分析段落，不要标题、不要 markdown

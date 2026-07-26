@@ -108,13 +108,13 @@ def generate_html(
     window_start = now_bj - timedelta(hours=window_hours)
     grouped: dict[str, list[ProcessedArticle]] = defaultdict(list)
     for art in articles:
-        topic = art.topic if art.topic in ("AI", "地缘政治") else "其他"
+        topic = art.topic if art.topic == "地缘政治" else "其他"
         grouped[topic].append(art)
 
     for topic in grouped:
         grouped[topic].sort(key=lambda a: a.published_at, reverse=True)
 
-    topic_order = ["AI", "地缘政治", "其他"]
+    topic_order = ["地缘政治", "其他"]
     sections_html = ""
     for topic in topic_order:
         items = grouped.get(topic, [])

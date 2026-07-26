@@ -176,7 +176,7 @@ def extract_batch_llm(
 1. title_original: 保留原文标题
 2. title_zh: 中文标题（若原文为中文则与原文相同）
 3. facts_zh: 恰好3句中文核心事实，客观、无评论
-4. topic: 从 ["AI", "地缘政治"] 中选择最匹配的一个
+4. topic: 固定为 "地缘政治"
 5. 仅基于提供的正文/摘要，不要编造
 
 输入：
@@ -189,7 +189,7 @@ def extract_batch_llm(
     "title_original": "...",
     "title_zh": "...",
     "facts_zh": ["...", "...", "..."],
-    "topic": "AI"
+    "topic": "地缘政治"
   }}
 ]"""
 

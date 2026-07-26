@@ -54,7 +54,7 @@ def generate_highlights(articles: list[ProcessedArticle]) -> str:
 
 要求：
 1. 用中文，3-5 句，每句一句
-2. 覆盖 AI 和地缘政治两个主题的重要进展
+2. 覆盖地缘政治主题的重要进展
 3. 客观陈述，不加评论
 4. 直接输出要点文本，不要标题、不要 markdown
 

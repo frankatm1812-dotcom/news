@@ -131,11 +131,11 @@ def generate_weekly_html(
     top_events = trends.get("top_events", articles[:10])
     grouped: dict[str, list[ProcessedArticle]] = defaultdict(list)
     for art in articles:
-        topic = art.topic if art.topic in ("AI", "地缘政治") else "其他"
+        topic = art.topic if art.topic == "地缘政治" else "其他"
         grouped[topic].append(art)
 
     sections = ""
-    for topic in ["AI", "地缘政治", "其他"]:
+    for topic in ["地缘政治", "其他"]:
         items = grouped.get(topic, [])
         if not items:
             continue
