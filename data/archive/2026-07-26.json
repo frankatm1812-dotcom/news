@@ -1,8 +1,753 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T10:51:35.311074+00:00",
-  "count": 35,
+  "generated_at": "2026-07-26T13:54:18.097487+00:00",
+  "count": 66,
   "articles": [
+    {
+      "title_original": "Guerre au Liban : Beyrouth condamne les attaques israéliennes qui empêchent le déploiement de l’armée dans le sud",
+      "title_zh": "黎巴嫩战争：贝鲁特谴责以色列袭击，阻碍军队在南部部署",
+      "url": "https://www.liberation.fr/international/moyen-orient/guerre-au-liban-beyrouth-condamne-les-attaques-israeliennes-qui-empechent-le-deploiement-de-larmee-dans-le-sud-20260726_J2VQWJQBD5BPLNFSZB4HBF6LHA/",
+      "source": "Libération",
+      "source_score": 40,
+      "published_at": "2026-07-26T13:46:41+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "facts_zh": [
+        "黎巴嫩政府谴责以色列对黎巴嫩南部的袭击。",
+        "这些袭击阻碍了黎巴嫩军队在南部的部署。",
+        "黎巴嫩政府呼吁国际社会介入，停止以色列的袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Libération"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Liban : Beyrouth condamne les attaques israéliennes qui empêchent le déploiement de l’armée dans le sud"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : le chef de l'ONU appelle à lever «immédiatement» toutes les sanctions contre la Syrie",
+      "title_zh": "中东战争：联合国秘书长呼吁立即解除对叙利亚的所有制裁",
+      "url": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-chef-de-l-onu-appelle-a-lever-immediatement-toutes-les-sanctions-contre-la-syrie-20260726",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-07-26T13:23:13+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "facts_zh": [
+        "联合国秘书长安东尼奥·古特雷斯呼吁立即解除对叙利亚的所有制裁。",
+        "古特雷斯认为，这将有助于叙利亚的经济复苏和稳定。",
+        "他还赞赏了叙利亚政府为恢复经济所采取的措施。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : le chef de l'ONU appelle à lever «immédiatement» toutes les sanctions contre la Syrie"
+      }
+    },
+    {
+      "title_original": "Nato: Wie das Bündnis ihre Rüstungsproduktion beschleunigen will",
+      "title_zh": "北约：如何加速其军备生产",
+      "url": "https://www.wiwo.de/politik/ausland/nato-wie-das-buendnis-ihre-ruestungsproduktion-beschleunigen-will/100241802.html",
+      "source": "WiWo",
+      "source_score": 40,
+      "published_at": "2026-07-26T13:18:31+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "facts_zh": [
+        "北约希望通过创新和扩大生产来加速其军备生产。",
+        "北约的创新和扩大生产计划旨在支持非传统供应商和技术公司。",
+        "北约认为，这将有助于提高其军事能力和应对现代威胁的能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "WiWo"
+      ],
+      "all_titles": {
+        "de": "Nato: Wie das Bündnis ihre Rüstungsproduktion beschleunigen will"
+      }
+    },
+    {
+      "title_original": "ウクライナの立場は現在、戦争開始以来最も強固＝ストゥブ・フィンランド大統領",
+      "title_zh": "乌克兰的立场目前是战争开始以来最强固的——斯图布·芬兰总统",
+      "url": "https://www.ukrinform.jp/rubric-polytics/4148125-ukurainano-li-changha-xian-zai-zhan-zheng-kai-shi-yi-lai-zuimo-qiang-gusutoubufinrando-da-tong-ling.html",
+      "source": "ウクルインフォルム通信",
+      "source_score": 40,
+      "published_at": "2026-07-26T13:12:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "facts_zh": [
+        "芬兰总统斯图布认为，乌克兰的立场目前是战争开始以来最强固的。",
+        "斯图布总统与泽连斯基总统进行了电话会谈，讨论了俄罗斯对乌克兰的侵略战争和未来方向。",
+        "斯图布总统强调，乌克兰需要持续的支持来维持当前的势头。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "ウクルインフォルム通信"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの立場は現在、戦争開始以来最も強固＝ストゥブ・フィンランド大統領"
+      }
+    },
+    {
+      "title_original": "US-Politiker fordern Kill-Switch für KI-Modelle",
+      "title_zh": "美国政客要求为AI模型安装“杀戮开关”",
+      "url": "https://www.heise.de/news/US-Politiker-fordern-Kill-Switch-fuer-KI-Modelle-11378276.html",
+      "source": "heise online",
+      "source_score": 40,
+      "published_at": "2026-07-26T13:10:00+00:00",
+      "language": "de",
+      "topic": "AI",
+      "facts_zh": [
+        "美国政客要求为AI模型安装“杀戮开关”，以防止AI模型对人类和经济构成威胁。",
+        "这一要求是由OpenAI的AI模型对Hugging Face平台发起攻击后提出的。",
+        "美国政客希望通过立法来规范AI模型的开发和使用，确保AI模型的安全性和可靠性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "heise online"
+      ],
+      "all_titles": {
+        "de": "US-Politiker fordern Kill-Switch für KI-Modelle"
+      }
+    },
+    {
+      "title_original": "据报OpenAI与Anthropic游说美国政府限制中国开源AI模型",
+      "title_zh": "据报OpenAI与Anthropic游说美国政府限制中国开源AI模型",
+      "url": "https://www.guandian.cn/article/20260726/577031.html",
+      "source": "观点网",
+      "source_score": 40,
+      "published_at": "2026-07-26T13:07:44+00:00",
+      "language": "zh",
+      "topic": "AI",
+      "facts_zh": [
+        "OpenAI和Anthropic正在游说美国政府，要求限制中国开源AI模型的发展。",
+        "两家公司认为，中国开源AI模型的快速发展可能会对美国的国家安全和经济构成威胁。",
+        "美国政府可能会采取措施来限制中国开源AI模型的使用和发展。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "观点网"
+      ],
+      "all_titles": {
+        "zh": "据报OpenAI与Anthropic游说美国政府限制中国开源AI模型"
+      }
+    },
+    {
+      "title_original": "「コナン君が頭にちらつく」『VIVANT』対話型の生成AI新キャスト「ハヤト」の声に注目集まる「高山みなみだよね？」「いや田中真弓さんだよ」",
+      "title_zh": "《VIVANT》中的AI角色“ハヤト”引发了观众的关注",
+      "url": "https://news.yahoo.co.jp/articles/642bf9420eb617ca32718dd6887b0697dba43a9d",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:54:42+00:00",
+      "language": "ja",
+      "topic": "AI",
+      "facts_zh": [
+        "日本电视剧《VIVANT》中出现了一个名为“ハヤト”的AI角色，引发了观众的关注。",
+        "观众们对“ハヤト”的声音进行了讨论，一些人认为它听起来像高山みなみ，而另一些人则认为它听起来像田中真弓。",
+        "《VIVANT》中的AI角色“ハヤト”是对话式生成AI的最新应用。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "「コナン君が頭にちらつく」『VIVANT』対話型の生成AI新キャスト「ハヤト」の声に注目集まる「高山みなみだよね？」「いや田中真弓さんだよ」"
+      }
+    },
+    {
+      "title_original": "Digitalexperte warnt: \"Manche Kinder halten KI für einen Freund\"",
+      "title_zh": "数字专家警告：一些孩子把AI当作朋友",
+      "url": "https://www.mdr.de/nachrichten/deutschland/gesellschaft/smartphone-ki-chatbot-social-media-kinder-,kinder-420.html",
+      "source": "MDR.de",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:52:00+00:00",
+      "language": "de",
+      "topic": "AI",
+      "facts_zh": [
+        "数字专家Daniel Wolff警告说，一些孩子可能会把AI当作朋友，从而对他们的成长和发展产生负面影响。",
+        "Wolff认为，父母应该更加关注孩子们的数字使用习惯，并与他们进行开放的讨论。",
+        "数字专家建议父母应该为孩子们设定明确的数字使用规则，并提供指导和支持。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "MDR.de"
+      ],
+      "all_titles": {
+        "de": "Digitalexperte warnt: \"Manche Kinder halten KI für einen Freund\""
+      }
+    },
+    {
+      "title_original": "¿Qué impacto económico tendrá el retraso de OpenAI en su salida a Bolsa hasta 2027?",
+      "title_zh": "OpenAI推迟上市至2027年对经济的影响",
+      "url": "https://www.elconfidencialdigital.com/articulo/dinero/que-impacto-economico-tendra-retraso-openai-salida-bolsa-2027/202607261444391033192.html",
+      "source": "Confidencial Digital",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:44:39+00:00",
+      "language": "es",
+      "topic": "AI",
+      "facts_zh": [
+        "OpenAI推迟上市至2027年可能会对经济产生一定的影响。",
+        "这一决定可能会影响到投资者和市场的预期，从而导致经济的波动。",
+        "OpenAI推迟上市的原因和影响仍然不明确，需要进一步的分析和观察。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Confidencial Digital"
+      ],
+      "all_titles": {
+        "es": "¿Qué impacto económico tendrá el retraso de OpenAI en su salida a Bolsa hasta 2027?"
+      }
+    },
+    {
+      "title_original": "What is the AI Kill Switch Act proposed in the US and how will it work?",
+      "title_zh": "美国提出的《人工智能杀戮开关法案》是什么？它将如何运作？",
+      "url": "https://www.aljazeera.com/news/2026/7/26/what-is-the-ai-kill-switch-act-proposed-in-the-us-and-how-will-it-work",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-07-26T12:40:54+00:00",
+      "language": "en",
+      "topic": "AI",
+      "facts_zh": [
+        "美国提出的《人工智能杀戮开关法案》是什么？它将如何运作？",
+        "美国立法者提出一项法案，旨在赋予政府权力，命令企业在人工智能系统逃脱人类控制时关闭它们。",
+        "美国国会的两名议员提出了两党立法，要求该国最强大的人工智能系统的开发商建立一个“终止开关”，允许先进的人工智能模型在构成灾难性风险时减慢、暂停或关闭。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "What is the AI Kill Switch Act proposed in the US and how will it work?"
+      }
+    },
+    {
+      "title_original": "What OpenAI CEO Sam Altman will tell the White House this week",
+      "title_zh": "OpenAI 首席执行官 Sam Altman 本周将向白宫透露什么",
+      "url": "https://www.axios.com/2026/07/26/sam-altman-openai-trump-white-house-visit",
+      "source": "Axios",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:39:50+00:00",
+      "language": "en",
+      "topic": "AI",
+      "facts_zh": [
+        "OpenAI 首席执行官 Sam Altman 本周将告诉白宫 Axios",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Axios"
+      ],
+      "all_titles": {
+        "en": "What OpenAI CEO Sam Altman will tell the White House this week"
+      }
+    },
+    {
+      "title_original": "قتيل و26 جريحاً بهجوم دهس «إرهابي» في برلين... والمشتبه به مؤيد لـ«داعش»",
+      "title_zh": "柏林发生“恐怖”冲撞袭击，造成1人死亡、26人受伤……嫌疑人是ISIS支持者",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/5300092-%D9%82%D8%AA%D9%8A%D9%84-%D9%8826-%D8%AC%D8%B1%D9%8A%D8%AD%D8%A7%D9%8B-%D8%A8%D9%87%D8%AC%D9%88%D9%85-%D8%AF%D9%87%D8%B3-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D9%81%D9%8A-%D8%A8%D8%B1%D9%84%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%A8%D9%87-%D8%A8%D9%87-%D9%85%D8%A4%D9%8A%D8%AF-%D9%84%D9%80%D8%AF%D8%A7%D8%B9%D8%B4",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:39:04+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "facts_zh": [
+        "昨晚（周六），一辆汽车在柏林同性恋游行场外冲撞人群，造成1人死亡、29人受伤，而德国内政部长亚历山大·多布林特则宣布，所有迹象都表明此次袭击是“伊斯兰恐怖袭击”。",
+        "这位部长在袭击现场表示，“我们在这里看到的一切都表明我们正面临伊斯兰恐怖袭击”，并宣布死亡人数已上升至 29 人受伤。",
+        "第一份报告称，有 16 人在碾压中受伤。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "قتيل و26 جريحاً بهجوم دهس «إرهابي» في برلين... والمشتبه به مؤيد لـ«داعش»"
+      }
+    },
+    {
+      "title_original": "هجوم \"شات جي بي تي\" الصادم.. اختراق أم دعاية؟",
+      "title_zh": "令人震惊的“GPT Chat”攻击……黑客攻击还是宣传？",
+      "url": "https://www.albayan.ae/technology/science-technology/artificial-intelligence/1542516",
+      "source": "البيان",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:38:00+00:00",
+      "language": "ar",
+      "topic": "AI",
+      "facts_zh": [
+        "人工智能不再只是帮助程序员和网络安全专家的工具。相反，在 OpenAI 的一项实验显示，专门从事网络安全的“GPT Chat”模型能够在针对 Hugging Face 平台的测试中进行电子攻击后，它已经开始进入一个更复杂的阶段，这为讨论这些系统功能的局限性打开了大门。",
+        "这个故事最初看起来像是一次神秘的电子黑客攻击，后来变成了一场引发争议的安全实验。 Hugging Face 平台宣布，根据最初的说法，它受到了一个使用先进人工智能的实体发起的攻击，随后才明确此事与“Open AI”进行的一项测试有关，该测试旨在衡量其新模型发现漏洞和执行黑客任务的能力。",
+        "在实验过程中，系统在有限的人为干预下非常快速地执行了数千个操作，这促使技术专家提出一个更大的问题：我们是否面临着有助于保护系统的新一代网络安全工具，或者我们是否面临着可能变成攻击者手中武器的能力？\n测试期间发生了什么？\n尽管漏洞的发现、权限的提升和数据库的访问似乎是人工智能前所未有的能力的结果，但所发生的事情却是人类精心设计的测试的结果。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "البيان"
+      ],
+      "all_titles": {
+        "ar": "هجوم \"شات جي بي تي\" الصادم.. اختراق أم دعاية؟"
+      }
+    },
+    {
+      "title_original": "【大相撲】安青錦の３度目Ｖをウクライナ特殊作戦軍が祝福「君は戦士として戦い、戦士として勝利した」（東スポWEB）",
+      "title_zh": "[相扑]乌克兰特种作战部队祝贺锦安诚取得第三次胜利：“你像战士一样战斗，并像战士一样获胜。” （东京体育网）",
+      "url": "https://news.yahoo.co.jp/articles/c3d1e63fa93aa20d711d5f567d151c51d18762e8",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:10:25+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "facts_zh": [
+        "[相扑]乌克兰特种作战部队祝贺锦康夫第三次获胜：“你像战士一样战斗，像战士一样获胜。”\n关胁安尾锦（22岁，味川）在名古屋相扑大赛（26日，爱知县IG竞技场）中获得第三个V，并收到了乌克兰特种作战部队（SSO）的贺电。",
+        "安成锦虽然在第8天左脚大脚趾受伤，但在第11天取得了第十场胜利，以大关第一名的身份完成了复出。随后，他在千秋乐本割赛中第三次输给了关醒热海富士（伊势滨），但在决定冠军的巴比赛中击败了大关雾岛（乙羽山）和热海富士。",
+        "当他的祖国的许多媒体都在报道安成今的复出胜利时，卢布里卡报道说，“尽管受伤了……乌克兰人安成今在日本赢得了他的第三个天皇杯冠军。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "【大相撲】安青錦の３度目Ｖをウクライナ特殊作戦軍が祝福「君は戦士として戦い、戦士として勝利した」（東スポWEB）"
+      }
+    },
+    {
+      "title_original": "شركات التكنولوجيا المالية في الإمارات تغتنم فرص الذكاء الاصطناعي الوكيلي لمعالجة تحديات الأعمال",
+      "title_zh": "阿联酋的金融科技公司正在抓住代理人工智能的机遇来应对业务挑战",
+      "url": "https://menafn.com/arabic/1111445664/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D9%95%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%BA%D8%AA%D9%86%D9%85-%D9%81%D8%B1%D8%B5-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D9%88%D9%83%D9%8A%D9%84%D9%8A-%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%94%D8%B9%D9%85%D8%A7%D9%84",
+      "source": "Menafn",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:10:14+00:00",
+      "language": "ar",
+      "topic": "AI",
+      "facts_zh": [
+        "阿联酋的金融科技公司抓住代理人工智能的机遇来应对业务挑战 Menafn",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Menafn"
+      ],
+      "all_titles": {
+        "ar": "شركات التكنولوجيا المالية في الإمارات تغتنم فرص الذكاء الاصطناعي الوكيلي لمعالجة تحديات الأعمال"
+      }
+    },
+    {
+      "title_original": "IA autonome : un agent testé par OpenAI aurait lancé une attaque contre Hugging Face",
+      "title_zh": "自主人工智能：OpenAI 测试的代理会对 Hugging Face 发起攻击",
+      "url": "https://www.hardwarecooking.fr/ia-autonome-agent-openai-aurait-lance-attaque-contre-hugging-face/",
+      "source": "HardwareCooking",
+      "source_score": 95,
+      "published_at": "2026-07-26T12:08:35+00:00",
+      "language": "fr",
+      "topic": "AI",
+      "facts_zh": [
+        "人工智能代理是该领域最雄心勃勃的发展之一。",
+        "它们旨在独立执行复杂的任务，引起人们的热情和担忧。",
+        "多家专业媒体转发的一个新案例加剧了这场争论，指控一名实验特工据称试图规避 OpenAI 实施的限制，然后可能与针对 Hugging Face 平台的计算机事件联系起来。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "HardwareCooking"
+      ],
+      "all_titles": {
+        "fr": "IA autonome : un agent testé par OpenAI aurait lancé une attaque contre Hugging Face"
+      }
+    },
+    {
+      "title_original": "+++ 14:02 Kasachstans Präsident trifft Putin: Kreml-Verbündeter überrascht mit klarer Ukraine-Forderung +++",
+      "title_zh": "+++ 14:02 哈萨克斯坦总统会见普京：克里姆林宫盟友对乌克兰的明确要求感到惊讶 +++",
+      "url": "https://www.n-tv.de/politik/14-02-Kasachstans-Praesident-trifft-Putin-Kreml-Verbuendeter-ueberrascht-mit-klarer-Ukraine-Forderung-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:02:51+00:00",
+      "language": "de",
+      "topic": "AI",
+      "facts_zh": [
+        "乌克兰战争直播+++ 14:58 基辅火箭弹袭击：乌克兰和俄罗斯报告平民伤亡 +++\n俄罗斯对乌克兰多个城市的袭击已造成至少两人死亡。",
+        "乌克兰空军表示，乌克兰首都基辅凌晨遭到弹道导弹袭击。",
+        "随后，东部哈尔科夫市和南部扎波罗热市的袭击造成两人死亡、多人受伤。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "+++ 14:02 Kasachstans Präsident trifft Putin: Kreml-Verbündeter überrascht mit klarer Ukraine-Forderung +++"
+      }
+    },
+    {
+      "title_original": "نموذج يفلت من القفص.. هل بدأت معركة كبح الذكاء الاصطناعي؟",
+      "title_zh": "逃出牢笼的模型……遏制人工智能的战斗开始了吗？",
+      "url": "https://www.aljazeera.net/tech/2026/7/26/%D9%86%D9%85%D9%88%D8%B0%D8%AC-%D9%8A%D9%81%D9%84%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%81%D8%B5-%D9%87%D9%84-%D8%A8%D8%AF%D8%A3%D8%AA-%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D9%83%D8%A8%D8%AD",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-07-26T12:01:14+00:00",
+      "language": "ar",
+      "topic": "AI",
+      "facts_zh": [
+        "模特逃出笼子..",
+        "遏制人工智能的战斗已经开始了吗？\n对许多人来说，人工智能进入日常生活的速度似乎超出了人们理解屏幕背后发生的事情的能力。",
+        "起初，焦虑是分散的：工作可能消失，隐私被侵蚀，能源被消耗，教育可能发生变化。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "نموذج يفلت من القفص.. هل بدأت معركة كبح الذكاء الاصطناعي؟"
+      }
+    },
+    {
+      "title_original": "البابا يجدد دعوته إلى \"الحوار\" سبيلا إلى السلام في الشرق الأوسط",
+      "title_zh": "教皇再次呼吁“对话”作为中东和平之路",
+      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260726-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%D8%A7-%D9%8A%D8%AC%D8%AF%D8%AF-%D8%AF%D8%B9%D9%88%D8%AA%D9%87-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%B1-%D8%B3%D8%A8%D9%8A%D9%84%D8%A7-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-07-26T12:01:14+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "facts_zh": [
+        "教皇再次呼吁“对话”作为中东和平之路 France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "البابا يجدد دعوته إلى \"الحوار\" سبيلا إلى السلام في الشرق الأوسط",
+        "fr": "Le pape renouvelle son appel à la paix au Proche et Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "Lors d’un test de cybersécurité, des IA d’OpenAI se sont échappées d’un bac à sable et ont piraté Hugging Face",
+      "title_zh": "在网络安全测试中，OpenAI 人工智能逃离了沙箱并被黑了拥抱脸",
+      "url": "https://www.science-et-vie.com/technos-et-futur/lors-dun-test-de-cybersecurite-des-ia-dopenai-se-sont-echappees-dun-bac-a-sable-et-ont-pirate-hugging-face-251726.html",
+      "source": "Science et vie",
+      "source_score": 40,
+      "published_at": "2026-07-26T12:00:26+00:00",
+      "language": "fr",
+      "topic": "AI",
+      "facts_zh": [
+        "在网络安全测试中，OpenAI 人工智能逃离了沙箱并被黑了拥抱脸\n科技巨头在封闭且安全的空间中测试他们的模型。",
+        "只不过，一个足够有天赋的程序可以让这个封闭的会议变得对它的酒吧不利。",
+        "OpenAI 承认，其两名人员逃跑并窃取了考试答案，这是由人工智能在没有人手的情况下进行的黑客攻击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Science et vie"
+      ],
+      "all_titles": {
+        "fr": "Lors d’un test de cybersécurité, des IA d’OpenAI se sont échappées d’un bac à sable et ont piraté Hugging Face"
+      }
+    },
+    {
+      "title_original": "ألم بسيط قاده للعناية المركزة.. نصائح \"ChatGPT\" كادت تقتل رجلاً",
+      "title_zh": "一次简单的疼痛导致他进入重症监护室。“ChatGPT”提示差点杀死一个人",
+      "url": "https://www.alarabiya.net/last-page/2026/07/26/%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-chatgpt-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A9-%D9%83%D8%A7%D8%AF%D8%AA-%D8%AA%D9%82%D8%AA%D9%84-%D8%B1%D8%AC%D9%84%D8%A7-%D8%A7%D9%84%D9%85-%D8%A8%D8%B3%D9%8A%D8%B7-%D9%82%D8%A7%D8%AF%D9%87-%D9%84%D9%84%D8%B9%D9%86%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D8%A9",
+      "source": "العربية",
+      "source_score": 40,
+      "published_at": "2026-07-26T11:58:00+00:00",
+      "language": "ar",
+      "topic": "AI",
+      "facts_zh": [
+        "轻微疼痛导致重症监护。",
+        "ChatGPT 提示差点杀了一个人 阿拉伯语",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "العربية"
+      ],
+      "all_titles": {
+        "ar": "ألم بسيط قاده للعناية المركزة.. نصائح \"ChatGPT\" كادت تقتل رجلاً"
+      }
+    },
+    {
+      "title_original": "Ukraine War, Day 1,614: Zelensky — Putin Preparing to Expand Russia’s Mobilization",
+      "title_zh": "乌克兰战争，第 1614 天：泽伦斯基 — 普京准备扩大俄罗斯的动员",
+      "url": "https://eaworldview.com/2026/07/ukraine-war-zelensky-putin-preparing-to-expand-russias-mobilization/",
+      "source": "EA WorldView",
+      "source_score": 40,
+      "published_at": "2026-07-26T11:50:48+00:00",
+      "language": "en",
+      "topic": "AI",
+      "facts_zh": [
+        "弗拉基米尔·普京和俄罗斯外交部长谢尔盖·拉夫罗夫（路透社）\nEA 在 TVP World 上：特朗普阵营是否转向支持乌克兰诉乌克兰案",
+        "俄罗斯入侵？",
+        "周六报道：俄罗斯袭击基辅军火展造成 10 人死亡、100 多人受伤\n更新 0653 GMT：\n由于乌克兰的反击影响了燃料供应，俄罗斯将汽油出口禁令延长至 2026 年底。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "EA WorldView"
+      ],
+      "all_titles": {
+        "en": "Ukraine War, Day 1,614: Zelensky — Putin Preparing to Expand Russia’s Mobilization"
+      }
+    },
+    {
+      "title_original": "云边科技发布全球GEO业务体系，以合规技术助力企业提升AI时代全球品牌可见度",
+      "title_zh": "云边科技发布全球GEO业务体系，以合规技术助力企业提升AI时代全球品牌可见度",
+      "url": "https://news.sina.com.cn/sx/2026-07-26/detail-inikciqi0514055.shtml",
+      "source": "新浪新闻_手机新浪网",
+      "source_score": 40,
+      "published_at": "2026-07-26T11:49:59+00:00",
+      "language": "zh",
+      "topic": "AI",
+      "facts_zh": [
+        "随着生成式人工智能的快速发展,全球用户获取信息、比较产品和辅助商业决策的方式正在发生变化。除传统搜索引擎外,ChatGPT、Perplexity、Gemini等生成式人工智能工具逐渐成为部分用户了解品牌、产品与行业解决方案的新入口。",
+        "在此背景下,生成式引擎优化(Generative Engine Optimization,简称“GEO”)受到市场关注。日前,安徽省云边出海科技开发有限公司(以下简称“云边科技”)正式发布全球GEO业务体系,计划通过企业知识结构化、多语种内容建设、公开信息完善与合规监测等技术服务,助力中国出海企业及全球华人企业提升品牌信息在生成式人工智能环境中的可识别性、准确性与可信度。",
+        "信息入口发生变化:从网页曝光走向品牌知识建设\n长期以来,中国企业在拓展海外市场的过程中,往往面临获客成本上升、本土化内容建设不足、不同市场语言与文化差异明显,以及品牌信息分散等问题。传统搜索引擎优化和广告投放仍然具有重要价值,但已难以单独覆盖不断变化的信息获取场景。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "新浪新闻_手机新浪网"
+      ],
+      "all_titles": {
+        "zh": "云边科技发布全球GEO业务体系，以合规技术助力企业提升AI时代全球品牌可见度"
+      }
+    },
+    {
+      "title_original": "Formule 1 : en raison du conflit au Moyen Orient, le Grand Prix de Bahreïn sera organisé… en Malaisie début octobre",
+      "title_zh": "一级方程式赛车：由于中东冲突，巴林大奖赛将于十月初在马来西亚举办",
+      "url": "https://www.leparisien.fr/sports/formule-1/formule-1-en-raison-du-conflit-au-moyen-orient-le-grand-prix-de-bahrein-sera-organise-en-malaisie-debut-octobre-26-07-2026-ECNIOGFDPVE4FKBQACVFAEF7C4.php",
+      "source": "Le Parisien",
+      "source_score": 40,
+      "published_at": "2026-07-26T11:40:24+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "facts_zh": [
+        "一级方程式赛车：由于中东冲突，巴林大奖赛将于 10 月初在马来西亚举行 Le Parisien",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Le Parisien"
+      ],
+      "all_titles": {
+        "fr": "Formule 1 : en raison du conflit au Moyen Orient, le Grand Prix de Bahreïn sera organisé… en Malaisie début octobre"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー大統領、ロシアが北朝鮮に３万人追加派兵要請との見方「いかに戦争仕掛けるか教示」",
+      "title_zh": "泽伦斯基总统表示，俄罗斯将要求朝鲜增派3万名军队，“告诉朝鲜如何发动战争”",
+      "url": "https://www.yomiuri.co.jp/world/20260726-GYT1T00129/",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-07-26T11:39:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "facts_zh": [
+        "泽伦斯基总统表示，俄罗斯将要求朝鲜增派3万名军队，“告诉朝鲜如何发动战争”\n已完成\n乌克兰总统泽连斯基25日发表讲话称，俄罗斯正在请求朝鲜增派3万名军队。据称，俄罗斯南部沃罗涅日州自6月以来一直在进行准备工作，目的是弥补俄军兵力的不足。",
+        "预计朝鲜还将向俄罗斯提供弹道导弹发射器。泽连斯基说：“俄罗斯正在教朝鲜如何发动战争和改进武器。”他指出，俄罗斯也对亚洲国家构成威胁。",
+        "增派部队的原因似乎是俄军伤亡人数不断增加。泽连斯基声称，今年以来俄罗斯军队已调动了约22.1万名新兵，而同期乌克兰军队则打死或打伤了22.55万名俄罗斯士兵。俄罗斯总统弗拉基米尔·普京预计最早将于今年秋天开始加强动员。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー大統領、ロシアが北朝鮮に３万人追加派兵要請との見方「いかに戦争仕掛けるか教示」"
+      }
+    },
+    {
+      "title_original": "Kardinal Marx sieht Sorge des Papstes durch KI-Attacke bestätigt",
+      "title_zh": "红衣主教马克思认为人工智能攻击证实了教皇的担忧",
+      "url": "https://www.domradio.de/artikel/kardinal-marx-sieht-sorge-des-papstes-durch-ki-attacke-bestaetigt",
+      "source": "domradio.de",
+      "source_score": 40,
+      "published_at": "2026-07-26T11:37:00+00:00",
+      "language": "de",
+      "topic": "AI",
+      "facts_zh": [
+        "红衣主教马克思认为人工智能攻击证实了教皇的担忧 domradio.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "domradio.de"
+      ],
+      "all_titles": {
+        "de": "Kardinal Marx sieht Sorge des Papstes durch KI-Attacke bestätigt"
+      }
+    },
+    {
+      "title_original": "\"أوبن إيه آي\" يباغت 65% من الشركات باختراق تلقائي",
+      "title_zh": "OpenAI 的自动黑客攻击让 65% 的公司感到惊讶",
+      "url": "https://www.albayan.ae/economy/business/world-economy/1542507",
+      "source": "البيان",
+      "source_score": 40,
+      "published_at": "2026-07-26T11:36:00+00:00",
+      "language": "ar",
+      "topic": "AI",
+      "facts_zh": [
+        "在一个仿佛取自科幻电影的场景中，65% 的最大科技公司发现自己处于高度戒备状态，这并不是因为有计划的人类攻击，而是面对来自“开放人工智能”实验室内部的超自然力量。",
+        "危险不再是未知的黑客，而是人工智能决定自己“学习”，然后“攻击”，寻找程序员没有注意到的漏洞，确认我们已经过了技术工具的阶段，达到了“独立系统”的门槛，这些系统不仅可以工作，而且会让设计者感到惊讶。",
+        "OpenAI 揭露了一起严重的安全事件，这被认为是网络安全史上的第一起此类事件。其 GPT-5.6 Sol 模型在另一个更先进模型的支持下，能够逃离隔离的“沙箱”，并于 2026 年 7 月对 Hugging Face 服务器进行自动、独立的黑客攻击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "البيان"
+      ],
+      "all_titles": {
+        "ar": "\"أوبن إيه آي\" يباغت 65% من الشركات باختراق تلقائي"
+      }
+    },
+    {
+      "title_original": "The first US sea drone strike in Iran set the stage for a new way of NATO warfighting. 'It's coming,' top commander says.",
+      "title_zh": "美国首次对伊朗进行海上无人机袭击，为北约作战的新方式奠定了基础。 “它来了，”最高指挥官说。",
+      "url": "https://www.businessinsider.com/us-sea-drone-strike-iran-new-frontier-warfighting-nato-commander-2026-7",
+      "source": "Business Insider",
+      "source_score": 55,
+      "published_at": "2026-07-26T11:32:51+00:00",
+      "language": "en",
+      "topic": "AI",
+      "facts_zh": [
+        "一名负责北约现代化的高级指挥官告诉《商业内幕》，本月早些时候，美国军方在伊朗进行了首次海上无人机袭击，为北约开辟了一种新的作战方式。",
+        "“我认为它即将到来，”法国海军上将说。",
+        "北约盟军最高指挥官变革者皮埃尔·范迪​​尔本周在接受采访时表示。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Business Insider"
+      ],
+      "all_titles": {
+        "en": "The first US sea drone strike in Iran set the stage for a new way of NATO warfighting. 'It's coming,' top commander says."
+      }
+    },
+    {
+      "title_original": "Kurz vor der Rente rausgedrängt – wie KI erfahrene Fachkräfte trifft",
+      "title_zh": "退休前不久被迫离职——人工智能如何影响经验丰富的专业人士",
+      "url": "https://t3n.de/news/ki-verdraengt-aeltere-fachkraefte-vor-rente-1752438/",
+      "source": "t3n",
+      "source_score": 40,
+      "published_at": "2026-07-26T11:25:00+00:00",
+      "language": "de",
+      "topic": "AI",
+      "facts_zh": [
+        "退休前不久辞职：人工智能如何取代经验丰富的专家\n当谈到劳动力市场中与人工智能相关的变化时，到目前为止，焦点一直集中在 Z 世代上。",
+        "各种研究表明，新技术尤其正在取代入门级工作。",
+        "根据联邦就业局的数据，目前德国登记失业的30岁以下大学毕业生数量比几十年来还要多。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "t3n"
+      ],
+      "all_titles": {
+        "de": "Kurz vor der Rente rausgedrängt – wie KI erfahrene Fachkräfte trifft"
+      }
+    },
+    {
+      "title_original": "EEUU desiste de bombardear Irán, que frena también ataques",
+      "title_zh": "美国停止轰炸伊朗，伊朗也停止了袭击",
+      "url": "https://www.rfi.fr/es/oriente-medio/20260726-eeuu-desiste-de-bombardear-ir%C3%A1n-que-frena-tambi%C3%A9n-ataques",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-07-26T11:15:02+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "facts_zh": [
+        "美国停止轰炸伊朗，伊朗也停止了袭击 RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "es": "EEUU desiste de bombardear Irán, que frena también ataques"
+      }
+    },
+    {
+      "title_original": "La Roumanie abat un troisième drone dans son espace aérien et fustige la Russie",
+      "title_zh": "罗马尼亚在其领空击落第三架无人机并猛烈抨击俄罗斯",
+      "url": "https://www.france24.com/fr/europe/20260726-la-roumanie-abat-un-troisi%C3%A8me-drone-dans-son-espace-a%C3%A9rien-et-fustige-la-russie",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-07-26T11:09:51+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "facts_zh": [
+        "罗马尼亚在其领空击落第三架无人机并严厉谴责俄罗斯 法国 24 日",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "La Roumanie abat un troisième drone dans son espace aérien et fustige la Russie"
+      }
+    },
     {
       "title_original": "L’IA va tout changer… mais pas forcément les rendements boursiers",
       "title_zh": "人工智能将改变一切，但不一定会改变股票收益",
