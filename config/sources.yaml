@@ -38,11 +38,23 @@ tiers:
     sources:
       - CNBC
       - TechCrunch
+      - TechCrunch AI
       - The Verge
-      - Wired
-      - Ars Technica
+      - The Verge AI
       - MIT Technology Review
+      - BBC Technology
+      - BBC World
+      - arXiv
+      - Wired AI
+      - The Guardian World
+      - The Guardian
       - Politico
+      - Xinhua English
+      - US State Department
+      - EU Council
+      - NATO News
+      - 新华网国际
+      - 新华网科技
       - Foreign Affairs
       - Foreign Policy
       - The Economist

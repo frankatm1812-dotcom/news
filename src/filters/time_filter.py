@@ -18,6 +18,30 @@ def _to_utc(dt: datetime) -> datetime:
     return dt.astimezone(timezone.utc)
 
 
+def filter_last_n_days(articles: list[RawArticle], days: int, now: datetime | None = None) -> list[RawArticle]:
+    if now is None:
+        now = datetime.now(timezone.utc)
+    else:
+        now = _to_utc(now)
+
+    cutoff = now - timedelta(days=days)
+    kept: list[RawArticle] = []
+
+    for article in articles:
+        pub = _to_utc(article.published_at)
+        if cutoff <= pub <= now:
+            kept.append(article)
+
+    logger.info(
+        "Time filter: %d -> %d (%dd window ending %s UTC)",
+        len(articles),
+        len(kept),
+        days,
+        now.strftime("%Y-%m-%d %H:%M"),
+    )
+    return kept
+
+
 def filter_last_12_hours(articles: list[RawArticle], now: datetime | None = None) -> list[RawArticle]:
     if now is None:
         now = datetime.now(timezone.utc)

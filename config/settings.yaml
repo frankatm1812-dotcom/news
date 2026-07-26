@@ -2,6 +2,8 @@ collection:
   # 每个「主题+语种」Google News 低于此数量时，才请求 GDELT 补充
   gdelt_min_google_news: 8
   gdelt_delay_sec: 3.0
+  rss_enabled: true
+  rss_workers: 6
 
 processing:
   max_articles: 35
@@ -16,3 +18,9 @@ processing:
   # 节省 Groq 配额：提取用 LLM，去重/要点默认走规则引擎
   use_llm_dedup: false
   use_llm_highlights: false
+
+weekly:
+  archive_days: 7
+  max_articles: 50
+  min_articles_from_archive: 10
+  use_llm_analysis: true

@@ -8,6 +8,9 @@ on:
     - cron: "0 10 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   briefing:
     runs-on: ubuntu-latest
@@ -30,6 +33,15 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           SMTP_RECIPIENT: ${{ secrets.SMTP_RECIPIENT }}
         run: python src/main.py
+
+      - name: Commit daily archive
+        continue-on-error: true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/archive/
+          git diff --staged --quiet || git commit -m "Archive daily briefing $(date -u +%Y-%m-%d)"
+          git push
 
       - name: Failure notification hint
         if: failure()

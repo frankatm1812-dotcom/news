@@ -1,0 +1,79 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T10:10:00.536278+00:00",
+  "count": 3,
+  "articles": [
+    {
+      "title_original": "„Ein gutes Foto ist besser als 85 Prompts“: KI fordert die Werbewelt heraus",
+      "title_zh": "“一张好照片胜过85条提示”：AI挑战广告界",
+      "url": "https://www.capital.de/leben/was-ki-fuer-die-werbebranche-und-kreativberufe-bedeutet-37960528.html",
+      "source": "Capital.de",
+      "source_score": 40,
+      "published_at": "2026-07-26T10:00:00+00:00",
+      "language": "de",
+      "topic": "AI",
+      "facts_zh": [
+        "“一张好照片胜过 85 个提示”：人工智能挑战广告界 Capital.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Capital.de"
+      ],
+      "all_titles": {
+        "de": "„Ein gutes Foto ist besser als 85 Prompts“: KI fordert die Werbewelt heraus"
+      }
+    },
+    {
+      "title_original": "هل ضربت حرب الشرق الأوسط سوق العقارات في دبي؟",
+      "title_zh": "中东战争是否冲击了迪拜的房地产市场？",
+      "url": "https://www.okaz.com.sa/variety/na/2258624",
+      "source": "عكاظ",
+      "source_score": 40,
+      "published_at": "2026-07-26T09:59:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "facts_zh": [
+        "近年来，迪拜房地产一直是全球富豪竞相争夺的“投资天堂”，受益于灵活的税收环境、高品质的生活以及自2021年以来价格上涨83%的优势。",
+        "但突然间，在没有任何事先警告的情况下，地缘政治之风以船只不希望的方式袭来！",
+        "据法新社报道，中东地区战争的影响给这个迷人的酋长国蒙上了沉重的阴影，市场价格下跌了 5% 至 20%。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "عكاظ"
+      ],
+      "all_titles": {
+        "ar": "هل ضربت حرب الشرق الأوسط سوق العقارات في دبي؟"
+      }
+    },
+    {
+      "title_original": "ELDER: On the Iran war, NATO chief agrees with Trump — the media buried the lede",
+      "title_zh": "艾德：在伊朗战争问题上，北约主席同意特朗普的观点——媒体埋葬了莱德",
+      "url": "https://nsjonline.com/article/2026/07/elder-on-the-iran-war-nato-chief-agrees-with-trump-the-media-buried-the-lede/",
+      "source": "The North State Journal",
+      "source_score": 55,
+      "published_at": "2026-07-26T09:55:54+00:00",
+      "language": "en",
+      "topic": "AI",
+      "facts_zh": [
+        "为什么这么多美国人反对对伊朗发动战争？",
+        "最大的原因是他们不相信伊朗已经接近获得核武器。",
+        "如果伊朗远非炸弹，那么唐纳德·特朗普总统使用军事力量的决定看起来就没有必要，甚至是鲁莽的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The North State Journal"
+      ],
+      "all_titles": {
+        "en": "ELDER: On the Iran war, NATO chief agrees with Trump — the media buried the lede"
+      }
+    }
+  ]
+}

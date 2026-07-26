@@ -1,0 +1,35 @@
+name: Weekly Deep Report
+
+on:
+  schedule:
+    # 北京时间周日 09:00 = UTC 周日 01:00
+    - cron: "0 1 * * 0"
+  workflow_dispatch:
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run weekly deep report
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          SMTP_EMAIL: ${{ secrets.SMTP_EMAIL }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_RECIPIENT: ${{ secrets.SMTP_RECIPIENT }}
+        run: python src/main.py --weekly
+
+      - name: Failure notification hint
+        if: failure()
+        run: |
+          echo "::error::Weekly report failed. Check Actions logs."
