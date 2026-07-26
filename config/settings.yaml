@@ -1,0 +1,8 @@
+collection:
+  # 每个「主题+语种」Google News 低于此数量时，才请求 GDELT 补充
+  gdelt_min_google_news: 8
+  gdelt_delay_sec: 3.0
+
+processing:
+  max_articles: 35
+  pre_dedup_similarity: 85

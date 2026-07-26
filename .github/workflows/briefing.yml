@@ -30,3 +30,8 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           SMTP_RECIPIENT: ${{ secrets.SMTP_RECIPIENT }}
         run: python src/main.py
+
+      - name: Failure notification hint
+        if: failure()
+        run: |
+          echo "::error::Briefing pipeline failed. A failure email is sent when SMTP secrets are configured."

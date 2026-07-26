@@ -117,6 +117,49 @@ def extract_batch_rules(articles: list[RawArticle], bodies: dict[int, str] | Non
     return [extract_article_rules(art, bodies.get(i, "")) for i, art in enumerate(articles)]
 
 
+def _pick_raw_representative(articles: list[RawArticle], member_ids: list[int]) -> int:
+    return max(
+        member_ids,
+        key=lambda i: (get_source_score(articles[i].source), articles[i].published_at),
+    )
+
+
+def pre_deduplicate_raw(articles: list[RawArticle], threshold: int | None = None) -> list[RawArticle]:
+    """Rule-based pre-dedup on raw titles before LLM extraction."""
+    if len(articles) <= 1:
+        return articles
+
+    if threshold is None:
+        cfg = load_yaml("settings.yaml")
+        threshold = cfg.get("processing", {}).get("pre_dedup_similarity", SIMILARITY_THRESHOLD)
+
+    logger.info("Pre-dedup (raw): %d articles, threshold=%d", len(articles), threshold)
+    clusters: list[list[int]] = []
+    assigned: set[int] = set()
+
+    for i, art in enumerate(articles):
+        if i in assigned:
+            continue
+        cluster = [i]
+        assigned.add(i)
+        for j, other in enumerate(articles):
+            if j in assigned or art.topic_hint != other.topic_hint:
+                continue
+            score = fuzz.token_set_ratio(art.title.lower(), other.title.lower())
+            if score >= threshold:
+                cluster.append(j)
+                assigned.add(j)
+        clusters.append(cluster)
+
+    result: list[RawArticle] = []
+    for member_ids in clusters:
+        rep_id = _pick_raw_representative(articles, member_ids)
+        result.append(articles[rep_id])
+
+    logger.info("Pre-dedup (raw): %d -> %d articles", len(articles), len(result))
+    return result
+
+
 def _pick_representative(articles: list[ProcessedArticle], member_ids: list[int]) -> int:
     return max(member_ids, key=lambda i: (articles[i].source_score, len(articles[i].facts_zh[0])))
 
