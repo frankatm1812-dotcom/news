@@ -28,6 +28,7 @@ class ProcessedArticle:
     facts_zh: list[str]
     credibility: str  # red, yellow, green
     credibility_label: str
+    region: str = ""
     cluster_id: Optional[str] = None
     cluster_sources: list[str] = field(default_factory=list)
     all_titles: dict[str, str] = field(default_factory=dict)

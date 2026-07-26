@@ -19,6 +19,8 @@ LANG_LABELS = {
     "ar": "العربية",
 }
 
+GEO_REGION_ORDER = ["东亚", "中东", "俄乌", "欧洲", "美国", "非洲", "其他"]
+
 
 def _format_beijing_time(dt: datetime) -> str:
     if dt.tzinfo is None:
@@ -42,11 +44,15 @@ def _render_article(art: ProcessedArticle) -> str:
     sources_note = ""
     if len(art.cluster_sources) > 1:
         sources_note = f"<br><small>报道来源: {', '.join(art.cluster_sources)}</small>"
+    region_note = ""
+    if art.region:
+        region_note = f'<span style="color:#0369a1;font-size:12px;margin-right:6px;">[{art.region}]</span>'
 
     return f"""
     <div style="margin-bottom:20px;padding:12px;border-left:4px solid #2563eb;background:#f8fafc;">
       <p style="margin:0 0 6px;font-size:15px;">
         {art.credibility_label}
+        {region_note}
         <strong>[{art.source}]</strong> {art.title_zh}
       </p>
       <p style="margin:0 0 6px;color:#64748b;font-size:13px;">
@@ -58,6 +64,24 @@ def _render_article(art: ProcessedArticle) -> str:
       <p style="margin:0;"><a href="{art.url}" style="color:#2563eb;">阅读原文</a></p>
     </div>
     """
+
+
+def _render_geo_section(items: list[ProcessedArticle]) -> str:
+    by_region: dict[str, list[ProcessedArticle]] = defaultdict(list)
+    for art in items:
+        by_region[art.region or "其他"].append(art)
+
+    html = ""
+    for region in GEO_REGION_ORDER:
+        region_items = by_region.get(region, [])
+        if not region_items:
+            continue
+        region_items.sort(key=lambda a: a.published_at, reverse=True)
+        html += f"""
+        <h3 style="color:#334155;margin:16px 0 8px;font-size:15px;">🌏 {region} ({len(region_items)}条)</h3>
+        {''.join(_render_article(a) for a in region_items)}
+        """
+    return html
 
 
 def _render_highlights(highlights: str) -> str:
@@ -78,8 +102,10 @@ def generate_html(
     raw_count: int,
     filtered_count: int,
     highlights: str = "",
+    window_hours: int = 12,
 ) -> str:
     now_bj = datetime.now(BEIJING_TZ)
+    window_start = now_bj - timedelta(hours=window_hours)
     grouped: dict[str, list[ProcessedArticle]] = defaultdict(list)
     for art in articles:
         topic = art.topic if art.topic in ("AI", "地缘政治") else "其他"
@@ -94,7 +120,10 @@ def generate_html(
         items = grouped.get(topic, [])
         if not items:
             continue
-        articles_html = "".join(_render_article(a) for a in items)
+        if topic == "地缘政治":
+            articles_html = _render_geo_section(items)
+        else:
+            articles_html = "".join(_render_article(a) for a in items)
         sections_html += f"""
         <h2 style="color:#1e293b;border-bottom:2px solid #e2e8f0;padding-bottom:6px;">
           📂 {topic} ({len(items)}条)
@@ -116,6 +145,7 @@ def generate_html(
   <h1 style="color:#0f172a;">📰 新闻简报</h1>
   <p style="color:#64748b;">
     {now_bj.strftime("%Y-%m-%d %H:%M")} (北京时间)<br>
+    时间窗口: {window_start.strftime("%m-%d %H:%M")} ~ {now_bj.strftime("%m-%d %H:%M")} (近{window_hours}小时)<br>
     本次共收录 <strong>{len(articles)}</strong> 条 |
     去重前 {filtered_count} 条 |
     采集 {raw_count} 条 |

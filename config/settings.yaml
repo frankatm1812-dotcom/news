@@ -7,6 +7,8 @@ collection:
 
 processing:
   max_articles: 35
+  cap_strategy: time_spread   # time_spread=覆盖12h各时段 | recent=仅保留最新
+  cap_window_hours: 12
   pre_dedup_similarity: 85
   cross_lang_dedup_similarity: 78
   google_news_decode_interval: 0.3

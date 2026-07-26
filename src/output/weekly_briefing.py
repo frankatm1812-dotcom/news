@@ -6,7 +6,7 @@ from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 
 from src.models import ProcessedArticle
-from src.output.briefing import LANG_LABELS, _format_beijing_time, _render_titles
+from src.output.briefing import GEO_REGION_ORDER, LANG_LABELS, _format_beijing_time, _render_titles
 
 BEIJING_TZ = timezone(timedelta(hours=8))
 
@@ -79,10 +79,11 @@ def _render_trend_section(trends: dict) -> str:
 def _render_weekly_article(art: ProcessedArticle) -> str:
     fact = next((f for f in art.facts_zh if f.strip()), art.title_zh)
     titles_html = _render_titles(art.all_titles)
+    region_note = f"[{art.region}] " if art.region else ""
     return f"""
     <div style="margin-bottom:14px;padding:10px;border-left:3px solid #16a34a;background:#fafafa;">
       <p style="margin:0 0 4px;font-size:14px;">
-        {art.credibility_label} <strong>[{art.source}]</strong> {art.title_zh}
+        {art.credibility_label} {region_note}<strong>[{art.source}]</strong> {art.title_zh}
       </p>
       <p style="margin:0 0 4px;color:#64748b;font-size:12px;">
         {_format_beijing_time(art.published_at)} (北京时间)
@@ -92,6 +93,29 @@ def _render_weekly_article(art: ProcessedArticle) -> str:
       <p style="margin:4px 0 0;"><a href="{art.url}" style="color:#2563eb;font-size:12px;">阅读原文</a></p>
     </div>
     """
+
+
+def _render_weekly_geo_section(items: list[ProcessedArticle], limit: int = 12) -> str:
+    by_region: dict[str, list[ProcessedArticle]] = defaultdict(list)
+    for art in items:
+        by_region[art.region or "其他"].append(art)
+
+    html = ""
+    remaining = limit
+    for region in GEO_REGION_ORDER:
+        if remaining <= 0:
+            break
+        region_items = by_region.get(region, [])
+        if not region_items:
+            continue
+        region_items.sort(key=lambda a: (len(a.cluster_sources or []), a.source_score), reverse=True)
+        picked = region_items[:remaining]
+        remaining -= len(picked)
+        html += f"""
+        <h3 style="color:#334155;margin:12px 0 6px;font-size:14px;">🌏 {region} ({len(picked)}条)</h3>
+        {''.join(_render_weekly_article(a) for a in picked)}
+        """
+    return html
 
 
 def generate_weekly_html(
@@ -116,11 +140,15 @@ def generate_weekly_html(
         if not items:
             continue
         items.sort(key=lambda a: (len(a.cluster_sources or []), a.source_score), reverse=True)
+        if topic == "地缘政治":
+            body = _render_weekly_geo_section(items, limit=12)
+        else:
+            body = "".join(_render_weekly_article(a) for a in items[:12])
         sections += f"""
         <h2 style="color:#1e293b;border-bottom:2px solid #e2e8f0;padding-bottom:6px;">
           📂 {topic} 精选 ({min(len(items), 12)}条)
         </h2>
-        {''.join(_render_weekly_article(a) for a in items[:12])}
+        {body}
         """
 
     trend_html = _render_trend_section(trends)

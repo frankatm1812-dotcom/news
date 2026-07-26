@@ -1,0 +1,156 @@
+# 地缘政治新闻地区分类关键词
+# 匹配标题、摘要、核心事实；多地区命中时按 priority 顺序取更具体分类
+
+priority:
+  - 俄乌
+  - 中东
+  - 东亚
+  - 美国
+  - 非洲
+  - 欧洲
+  - 其他
+
+regions:
+  东亚:
+    - 东亚
+    - 东北亚
+    - 东南亚
+    - 中国
+    - 中华
+    - 台湾
+    - 台海
+    - 日本
+    - 韩国
+    - 朝鲜
+    - 印度
+    - 越南
+    - 菲律宾
+    - 印尼
+    - 马来西亚
+    - 新加坡
+    - 南海
+    - 东海
+    - 钓鱼岛
+    - 中美
+    - 中日
+    - 半岛
+    - China
+    - Taiwan
+    - Japan
+    - Korea
+    - India
+    - ASEAN
+    - Southeast Asia
+    - East Asia
+    - Indo-Pacific
+    - South China Sea
+    - Beijing
+    - Tokyo
+    - Seoul
+    - New Delhi
+
+  中东:
+    - 中东
+    - 伊朗
+    - 以色列
+    - 巴勒斯坦
+    - 加沙
+    - 沙特
+    - 叙利亚
+    - 也门
+    - 黎巴嫩
+    - 伊拉克
+    - 土耳其
+    - 卡塔尔
+    - 阿联酋
+    - 胡塞
+    - Middle East
+    - Iran
+    - Israel
+    - Palestine
+    - Gaza
+    - Saudi
+    - Syria
+    - Yemen
+    - Hezbollah
+    - Hamas
+
+  俄乌:
+    - 俄乌
+    - 乌克兰
+    - 俄罗斯
+    - 普京
+    - 泽连斯基
+    - 顿巴斯
+    - 克里米亚
+    - 基辅
+    - 莫斯科
+    - Ukraine
+    - Russia
+    - Putin
+    - Zelensky
+    - Kyiv
+    - Moscow
+    - Crimea
+    - Donbas
+
+  欧洲:
+    - 欧洲
+    - 欧盟
+    - 北约
+    - 英国
+    - 法国
+    - 德国
+    - 意大利
+    - 西班牙
+    - 波兰
+    - 北欧
+    - Europe
+    - European Union
+    - EU
+    - NATO
+    - UK
+    - Britain
+    - France
+    - Germany
+    - Italy
+    - Spain
+    - Poland
+
+  美国:
+    - 美国
+    - 美方
+    - 华盛顿
+    - 白宫
+    - 五角大楼
+    - 国会
+    - 特朗普
+    - 拜登
+    - 华盛顿特区
+    - United States
+    - U.S.
+    - US
+    - America
+    - Washington
+    - White House
+    - Pentagon
+    - Congress
+
+  非洲:
+    - 非洲
+    - 苏丹
+    - 尼日利亚
+    - 南非
+    - 埃塞俄比亚
+    - 萨赫勒
+    - 刚果
+    - 肯尼亚
+    - Africa
+    - Sudan
+    - Nigeria
+    - South Africa
+    - Ethiopia
+    - Sahel
+    - Congo
+
+  其他: []

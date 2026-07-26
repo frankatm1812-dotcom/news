@@ -21,6 +21,7 @@ from src.collectors import collect_all
 from src.config_loader import load_yaml
 from src.models import ProcessedArticle
 from src.filters.time_filter import filter_last_12_hours, filter_last_n_days
+from src.filters.time_sampler import cap_articles
 from src.output.briefing import generate_html, generate_subject
 from src.output.email_sender import send_email, send_failure_notification
 from src.output.highlights import generate_highlights
@@ -28,6 +29,7 @@ from src.output.weekly_briefing import generate_weekly_html, generate_weekly_sub
 from src.processors.credibility import assign_credibility
 from src.processors.deduplicator import deduplicate
 from src.processors.extractor import extract_all
+from src.processors.geo_region import assign_geo_regions
 from src.processors.rule_engine import pre_deduplicate_raw
 from src.processors.trends import analyze_trends
 from src.storage.archive import (
@@ -55,12 +57,11 @@ def _max_articles(limit: int | None, weekly: bool = False) -> int:
 def _process_raw(pre_deduped: list, limit: int | None) -> list:
     cap = _max_articles(limit)
     if len(pre_deduped) > cap:
-        pre_deduped = sorted(pre_deduped, key=lambda a: a.published_at, reverse=True)[:cap]
-        logger.info("Capped to %d most recent articles", cap)
+        pre_deduped = cap_articles(pre_deduped, cap)
 
     processed = extract_all(pre_deduped)
     deduped = deduplicate(processed)
-    return assign_credibility(deduped)
+    return assign_geo_regions(assign_credibility(deduped))
 
 
 def run(dry_run: bool = False, limit: int | None = None, skip_archive: bool = False) -> None:
@@ -144,6 +145,7 @@ def run_weekly(dry_run: bool = False, limit: int | None = None) -> None:
         return
 
     trends = analyze_trends(final, days=days)
+    final = assign_geo_regions(final)
     html = generate_weekly_html(final, trends, days, list(by_day.keys()))
     subject = generate_weekly_subject(final, days=days)
 
