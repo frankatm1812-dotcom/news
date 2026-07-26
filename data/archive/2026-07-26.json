@@ -1,8 +1,58 @@
 {
   "date": "2026-07-26",
-  "generated_at": "2026-07-26T14:35:59.022087+00:00",
-  "count": 89,
+  "generated_at": "2026-07-26T14:51:10.729756+00:00",
+  "count": 98,
   "articles": [
+    {
+      "title_original": "中東情勢「直接影響」5割超 県内企業調査 「規模の小さい企業は非常に厳しい」 ぶぎん地域経済研究所（埼玉新聞）",
+      "title_zh": "县内50%以上企业受到中东局势“直接影响”：“小企业非常困难” 布仁地方经济研究所（埼玉新闻）",
+      "url": "https://news.yahoo.co.jp/articles/a234f05e06b6fadafd15b1982d53e28aff254812",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-07-26T14:42:02+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势“直接影响”超过50% 县企业调查“小企业非常困难” 布金地区经济研究所\n25日，布仁地方经济研究所公布了关于中东局势日益紧张对埼玉县企业影响的问卷调查结果。 20.3%的企业表示“销售原油及相关产品/大宗商品”，39.1%的企业表示“购买（进口）原油及相关产品作为原材料”，50.3%的企业回答两者或其中之一，约一半的企业指出自己受到中东局势的直接影响。",
+        "随着中东局势恶化，原油价格飙升，埼玉县的商业活动受到影响。原材料短缺、医疗用品、工业品涨价等问题日益严重，有人称之为“巨大打击”。96%的企业表示将产生负面影响，对生命的担忧也在增加。\n当被问及什么会影响他们时，最常见的答案是“原材料价格上涨”（79.7%），其次是“对商业伙伴趋势的焦虑”（38.3%）和“汇率波动成本增加”（31.6%）。对于目前正在考虑和实施的措施，最常见的反应是“转嫁价格”（52.6%），其次是“确保库存”（42.9%）和“降低成本”（34.6%）。",
+        "对于未来中东局势对企业业绩的影响，95.6%的受访者表示感到“非常担心”（57.7%）和“有些担心”（37.9%）。小企业（员工100人以下）的63.1%回答“非常担心”，比大企业（员工100人以上）的50.8%高出12.3个百分点。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "中東情勢「直接影響」5割超 県内企業調査 「規模の小さい企業は非常に厳しい」 ぶぎん地域経済研究所（埼玉新聞）"
+      }
+    },
+    {
+      "title_original": "L’Iran épargné par les bombardements américains pour la deuxième nuit consécutive",
+      "title_zh": "伊朗连续第二晚免受美国轰炸",
+      "url": "https://www.ledevoir.com/monde/moyen-orient/997385/iran-epargne-bombardements-americains-deuxieme-nuit-consecutive",
+      "source": "Le Devoir",
+      "source_score": 40,
+      "published_at": "2026-07-26T14:31:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "周日黎明时分，伊朗没有发生美国轰炸的报道，这是敌对行动连续第二个晚上暂停，而此时美国媒体报道称，经过近五个月的战争，可能出现弹药短缺的情况。",
+        "尽管唐纳德·特朗普总统周五表示，他不排除发生更大规模的爆炸事件，但自 4 月份停火以来，在经历了两周史无前例的袭击之后，这种平静仍然值得注意。",
+        "就伊朗而言，伊朗尚未声称其海湾邻国、华盛顿盟友遭受了任何袭击，华盛顿也没有报告任何夜间警报。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Le Devoir"
+      ],
+      "all_titles": {
+        "fr": "L’Iran épargné par les bombardements américains pour la deuxième nuit consécutive"
+      }
+    },
     {
       "title_original": "خروج الذكاء الإصطناعي عن السيطرة: أجراس إنذار وضوابط السلامة",
       "title_zh": "人工智能失控：警钟和安全控制",
@@ -830,6 +880,31 @@
       }
     },
     {
+      "title_original": "Le pape renouvelle son appel à la paix au Proche et Moyen-Orient",
+      "title_zh": "教皇再次呼吁中东和平",
+      "url": "https://www.france24.com/fr/info-en-continu/20260726-le-pape-renouvelle-son-appel-%C3%A0-la-paix-au-proche-et-moyen-orient",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-07-26T11:09:11+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "教皇再次呼吁中东和平 France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Le pape renouvelle son appel à la paix au Proche et Moyen-Orient"
+      }
+    },
+    {
       "title_original": "L’IA va tout changer… mais pas forcément les rendements boursiers",
       "title_zh": "人工智能将改变一切，但不一定会改变股票收益",
       "url": "https://www.letemps.ch/economie/finance/l-ia-va-tout-changer-mais-pas-forcement-les-rendements-boursiers",
@@ -1455,6 +1530,31 @@
       }
     },
     {
+      "title_original": "Guerre au Moyen-Orient : la guerre va «s'étendre encore» si les attaques américaines reprennent, prévient l'armée iranienne",
+      "title_zh": "中东战争：伊朗军队警告称，如果美国恢复袭击，战争将“进一步扩大”",
+      "url": "https://www.cnews.fr/monde/2026-07-26/guerre-au-moyen-orient-la-guerre-va-setendre-encore-si-les-attaques-americaines",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-07-26T09:49:23+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "黎巴嫩军队周日谴责以色列在黎巴嫩南部继续进行军事行动，称这阻碍了以色列按照两国6月份在华盛顿签署的结束战争协议的计划部署在那里。",
+        "以色列军队在一份声明中表示：“以色列占领军继续发动袭击，违反协议和国际法，有系统地摧毁和推平房屋，用自动武器轰炸和扫荡该国南部的几个地区。”",
+        "伊朗军方周日表示，由于美国已停止轰炸其领土，伊朗已停止袭击其海湾邻国两天，并确保德黑兰的战略基于“回应”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : la guerre va «s'étendre encore» si les attaques américaines reprennent, prévient l'armée iranienne"
+      }
+    },
+    {
       "title_original": "نماذج ذكاء اصطناعي أميركية تتفوق على \"Kimi K3\" الصيني في الأمن السيبراني",
       "title_zh": "美国人工智能模型在网络安全方面胜过中国“基米K3”",
       "url": "https://www.alarabiya.net/technology/ai/2026/07/26/%D9%86%D9%85%D8%A7%D8%B0%D8%AC-%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%A7%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%AA%D9%81%D9%88%D9%82-%D8%B9%D9%84%D9%89-kimi-k3-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D8%A7%D9%86%D9%8A",
@@ -2005,6 +2105,56 @@
       }
     },
     {
+      "title_original": "نتفليكس تستخدم الذكاء الاصطناعي لتوليد مشاهد الحشود والمعارك",
+      "title_zh": "Netflix 使用人工智能生成人群和战斗场景",
+      "url": "https://www.albayan.ae/technology/science-technology/artificial-intelligence/1542472",
+      "source": "البيان",
+      "source_score": 40,
+      "published_at": "2026-07-26T06:11:00+00:00",
+      "language": "ar",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "美国直接数字流媒体服务巨头 Netflix 宣布仅今年就在约 300 件艺术作品中使用人工智能，联合首席执行官特德·萨兰多斯 (Ted Sarandos) 在该公司的财报中表示，人工智能目前被用来制作“极其复杂的场景”，包括人群场景和历史战斗镜头。",
+        "萨兰多斯补充说，如果没有人工智能，就不可能拍摄这样的场景，因为它们的成本很高，而且使用正常方法拍摄它们需要大量时间，同时强调人工智能只是创作者手中的工具。",
+        "“电影制片人是创造它们的人，但人工智能为他们提供了更好的工具来改进他们的工作，”他说。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "البيان"
+      ],
+      "all_titles": {
+        "ar": "نتفليكس تستخدم الذكاء الاصطناعي لتوليد مشاهد الحشود والمعارك"
+      }
+    },
+    {
+      "title_original": "生成ＡＩ「業務で活用」秋田県内企業は約３割 「情報の正確性に懸念」の声も",
+      "title_zh": "秋田县约 30% 的公司在工作中使用生成式人工智能，其中一些公司对信息的准确性表示担忧。",
+      "url": "https://www.aab-tv.co.jp/news/aabnews-26072614320087/",
+      "source": "AAB秋田朝日放送",
+      "source_score": 40,
+      "published_at": "2026-07-26T05:37:00+00:00",
+      "language": "ja",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "2026 年 7 月 26 日 14:37\n一家私人研究公司对县内企业进行的一项调查显示，超过 30% 的企业回答说他们在运营中使用了生成式人工智能。",
+        "帝国数据库秋田支行于3月份进行了一项关于生成式人工智能的调查，收到了县内90家企业的有效答复。调查结果显示，32.2%的企业回答说他们正在工作中使用人工智能。",
+        "31% 的人最常使用的任务是“收集信息”和“创建、总结和校对文本”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "AAB秋田朝日放送"
+      ],
+      "all_titles": {
+        "ja": "生成ＡＩ「業務で活用」秋田県内企業は約３割 「情報の正確性に懸念」の声も"
+      }
+    },
+    {
       "title_original": "中国科协年会举办人工智能与数字孪生、大模型赋能航空专题论坛",
       "title_zh": "中国科协年会举办人工智能与数字孪生、大模型赋能航空专题论坛",
       "url": "https://www.chinanews.com.cn/gn/2026/07-26/10666765.shtml",
@@ -2080,6 +2230,31 @@
       }
     },
     {
+      "title_original": "APEC观察｜面向人工智能时代，经济体部长们都谈些什么？",
+      "title_zh": "APEC观察｜面向人工智能时代，经济体部长们都谈些什么？",
+      "url": "https://www.thepaper.cn/newsDetail_forward_33661422",
+      "source": "thepaper.cn",
+      "source_score": 40,
+      "published_at": "2026-07-26T04:49:00+00:00",
+      "language": "zh",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "- +1\nAPEC观察｜面向人工智能时代，经济体部长们都谈些什么？",
+        "2026年亚太经合组织数字和人工智能部长会议在成都举行。图源：工信微报\n时隔24年，APEC电信部长会议再回中国。只不过，会议名称已经从“电信”调整为“数字和人工智能”。",
+        "24年前的电信部长会议聚焦“铺光缆、通网络”，主要解决基础数字连接问题；在人工智能时代呼啸而至的今天，人们开始探讨如何让数字和人工智能技术真正赋能经济普惠发展。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "thepaper.cn"
+      ],
+      "all_titles": {
+        "zh": "APEC观察｜面向人工智能时代，经济体部长们都谈些什么？"
+      }
+    },
+    {
       "title_original": "Iran : malgré les menaces, une deuxième nuit sans bombardements",
       "title_zh": "伊朗：尽管受到威胁，连续第二晚没有发生爆炸事件",
       "url": "https://www.france24.com/fr/moyen-orient/20260726-malgr%C3%A9-une-pause-dans-les-hostilit%C3%A9s-l-iran-menace-d-%C3%A9tendre-le-conflit-en-cas-de-reprise",
@@ -2152,6 +2327,56 @@
       ],
       "all_titles": {
         "es": "Trajes a la medida, ópera y geopolítica: la ascensión de Laureano Ortega como heredero de sangre de la dinastía en Nicaragua"
+      }
+    },
+    {
+      "title_original": "ついに始まったChatGPT広告【対策編】運用の課題解決と「親密なデータ」に対する新たなマナー (1/3)",
+      "title_zh": "ChatGPT广告终于开始了【对策】解决“私密数据”的操作问题和新礼仪（1/3）",
+      "url": "https://markezine.jp/article/detail/77163",
+      "source": "MarkeZine",
+      "source_score": 40,
+      "published_at": "2026-07-26T03:46:44+00:00",
+      "language": "ja",
+      "topic": "AI",
+      "region": "",
+      "facts_zh": [
+        "★点击此处查看第一部分\nChatGPT 广告的“操作问题”和“解决方案”\n在第一部分中，我指出如何在ChatGPT广告中输入“Context Hints”来设计对话上下文将是未来广告运营中最大的差异化因素。那么，在实际实施这一新广告时，现场会出现什么样的问题，又该如何解决呢？",
+        "研讨会结束后，Shirofune的Mitsunaga Kikuchi先生提出了有关ChatGPT广告运营的三个具体问题。",
+        "首先是招标和预算管理。据解释，目前每个广告组都需要手动调整出价，并且出价有可能最多使用每日预算的两倍。二是报告和分析。存在的问题是，管理屏幕不允许进行足够的分析，例如每日、每周、每月、期间比较等，并且可以分析的角度有限。三是账户结构。为每个广告组设计和进行上下文提示的详细设置需要花费时间。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "MarkeZine"
+      ],
+      "all_titles": {
+        "ja": "ついに始まったChatGPT広告【対策編】運用の課題解決と「親密なデータ」に対する新たなマナー (1/3)"
+      }
+    },
+    {
+      "title_original": "Las claves: el mercado decide ignorar la geopolítica y pone toda su atención en los beneficios",
+      "title_zh": "关键：市场决定忽略地缘政治，将所有注意力放在利润上",
+      "url": "https://cincodias.elpais.com/opinion/2026-07-26/las-claves-el-mercado-decide-ignorar-la-geopolitica-y-pone-toda-su-atencion-en-los-beneficios.html",
+      "source": "Cinco Días",
+      "source_score": 40,
+      "published_at": "2026-07-26T03:40:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "关键：市场决定忽略地缘政治并将所有注意力放在利润上 Cinco Días",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Cinco Días"
+      ],
+      "all_titles": {
+        "es": "Las claves: el mercado decide ignorar la geopolítica y pone toda su atención en los beneficios"
       }
     },
     {
