@@ -22,6 +22,7 @@ from src.config_loader import load_yaml
 from src.filters.time_filter import filter_last_12_hours
 from src.output.briefing import generate_html, generate_subject
 from src.output.email_sender import send_email, send_failure_notification
+from src.output.highlights import generate_highlights
 from src.processors.credibility import assign_credibility
 from src.processors.deduplicator import deduplicate
 from src.processors.extractor import extract_all
@@ -52,7 +53,7 @@ def run(dry_run: bool = False, limit: int | None = None) -> None:
 
     if not filtered:
         logger.warning("No articles in 12h window")
-        html = generate_html([], raw_count, 0)
+        html = generate_html([], raw_count, 0, highlights="过去12小时内未找到符合条件的新闻。")
         subject = generate_subject([])
         if dry_run:
             out = ROOT / "briefing_preview.html"
@@ -74,8 +75,9 @@ def run(dry_run: bool = False, limit: int | None = None) -> None:
     processed = extract_all(pre_deduped)
     deduped = deduplicate(processed)
     final = assign_credibility(deduped)
+    highlights = generate_highlights(final)
 
-    html = generate_html(final, raw_count, filtered_count)
+    html = generate_html(final, raw_count, filtered_count, highlights=highlights)
     subject = generate_subject(final)
 
     if dry_run:

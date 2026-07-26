@@ -164,10 +164,34 @@ def _pick_representative(articles: list[ProcessedArticle], member_ids: list[int]
     return max(member_ids, key=lambda i: (articles[i].source_score, len(articles[i].facts_zh[0])))
 
 
+def _similarity_threshold(art: ProcessedArticle, other: ProcessedArticle) -> int:
+    cfg = load_yaml("settings.yaml")
+    proc = cfg.get("processing", {})
+    if art.language != other.language:
+        return proc.get("cross_lang_dedup_similarity", 78)
+    return proc.get("post_dedup_similarity", proc.get("pre_dedup_similarity", SIMILARITY_THRESHOLD))
+
+
+def _title_similarity(a: ProcessedArticle, b: ProcessedArticle) -> int:
+    scores = [
+        fuzz.token_set_ratio(a.title_zh, b.title_zh),
+        fuzz.token_set_ratio(a.title_original.lower(), b.title_original.lower()),
+    ]
+    if a.facts_zh and b.facts_zh and a.facts_zh[0] and b.facts_zh[0]:
+        scores.append(fuzz.token_set_ratio(a.facts_zh[0], b.facts_zh[0]))
+    if a.language != b.language:
+        # Cross-language: compare translated titles and shared keywords
+        scores.append(fuzz.partial_ratio(a.title_zh, b.title_zh))
+        for fact_a, fact_b in zip(a.facts_zh[:2], b.facts_zh[:2]):
+            if fact_a.strip() and fact_b.strip():
+                scores.append(fuzz.token_set_ratio(fact_a, fact_b))
+    return max(scores)
+
+
 def deduplicate_rules(articles: list[ProcessedArticle]) -> list[ProcessedArticle]:
     if len(articles) <= 1:
         if articles:
-            articles[0].cluster_sources = [articles[0].source]
+            articles[0].cluster_sources = articles[0].cluster_sources or [articles[0].source]
         return articles
 
     logger.info("Rule engine: deduplicating %d articles", len(articles))
@@ -182,8 +206,8 @@ def deduplicate_rules(articles: list[ProcessedArticle]) -> list[ProcessedArticle
         for j, other in enumerate(articles):
             if j in assigned or art.topic != other.topic:
                 continue
-            score = fuzz.token_set_ratio(art.title_zh, other.title_zh)
-            if score >= SIMILARITY_THRESHOLD:
+            threshold = _similarity_threshold(art, other)
+            if _title_similarity(art, other) >= threshold:
                 cluster.append(j)
                 assigned.add(j)
         clusters.append(cluster)
@@ -192,7 +216,7 @@ def deduplicate_rules(articles: list[ProcessedArticle]) -> list[ProcessedArticle
     for idx, member_ids in enumerate(clusters):
         rep_id = _pick_representative(articles, member_ids)
         rep = articles[rep_id]
-        rep.cluster_id = f"r{idx}"
+        rep.cluster_id = rep.cluster_id or f"r{idx}"
         rep.cluster_sources = list(dict.fromkeys(articles[m].source for m in member_ids))
         rep.all_titles = {}
         for m in member_ids:

@@ -1,4 +1,4 @@
-"""Event deduplication: Groq LLM primary, rule engine fallback."""
+"""Event deduplication: rule engine primary, optional Groq refinement."""
 
 from __future__ import annotations
 
@@ -6,6 +6,7 @@ import json
 import logging
 import re
 
+from src.config_loader import load_yaml
 from src.models import ProcessedArticle
 from src.processors import llm_client
 from src.processors.rule_engine import deduplicate_rules
@@ -23,7 +24,7 @@ def _parse_json_response(text: str):
 
 def _apply_llm_clusters(articles: list[ProcessedArticle], clusters: list) -> list[ProcessedArticle]:
     if not clusters:
-        return deduplicate_rules(articles)
+        return articles
 
     kept_ids: set[int] = set()
     result: list[ProcessedArticle] = []
@@ -75,7 +76,7 @@ def deduplicate_llm(articles: list[ProcessedArticle]) -> list[ProcessedArticle]:
     prompt = f"""你是新闻去重助手。将以下新闻按"同一事件"聚类。
 
 规则：
-1. 描述同一事件的新闻归入同一 cluster
+1. 描述同一事件的新闻归入同一 cluster（包括不同语言报道同一事件）
 2. 每个 cluster 选出一条代表新闻：优先权威来源（source_score 高），其次信息更完整
 3. 合并同一事件的不同语言标题到 all_titles 字段
 4. cluster_sources 列出该事件所有独立来源名称（去重）
@@ -98,19 +99,27 @@ def deduplicate_llm(articles: list[ProcessedArticle]) -> list[ProcessedArticle]:
 
     response_text = llm_client.generate_text(prompt)
     data = _parse_json_response(response_text)
-    return _apply_llm_clusters(articles, data.get("clusters", []))
+    llm_result = _apply_llm_clusters(articles, data.get("clusters", []))
+    return llm_result if llm_result else articles
 
 
 def deduplicate(articles: list[ProcessedArticle]) -> list[ProcessedArticle]:
     if len(articles) <= 1:
         if articles:
-            articles[0].cluster_sources = [articles[0].source]
+            articles[0].cluster_sources = articles[0].cluster_sources or [articles[0].source]
         return articles
 
-    if llm_client.is_available():
-        try:
-            return deduplicate_llm(articles)
-        except Exception as exc:
-            logger.warning("Groq dedup failed, falling back to rules: %s", exc)
+    for a in articles:
+        if not a.cluster_sources:
+            a.cluster_sources = [a.source]
 
-    return deduplicate_rules(articles)
+    use_llm = load_yaml("settings.yaml").get("processing", {}).get("use_llm_dedup", False)
+    if use_llm and llm_client.is_available():
+        try:
+            articles = deduplicate_llm(articles)
+        except Exception as exc:
+            logger.warning("Groq dedup failed, using rules only: %s", exc)
+
+    refined = deduplicate_rules(articles)
+    logger.info("Final dedup: %d articles", len(refined))
+    return refined

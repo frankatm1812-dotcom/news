@@ -6,3 +6,13 @@ collection:
 processing:
   max_articles: 35
   pre_dedup_similarity: 85
+  cross_lang_dedup_similarity: 78
+  google_news_decode_interval: 0.3
+  url_resolve_workers: 4
+  fetch_workers: 4
+  fetch_timeout_sec: 10
+  skip_fetch_min_summary_len: 150
+  extract_batch_size: 5
+  # 节省 Groq 配额：提取用 LLM，去重/要点默认走规则引擎
+  use_llm_dedup: false
+  use_llm_highlights: false

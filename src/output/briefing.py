@@ -60,10 +60,24 @@ def _render_article(art: ProcessedArticle) -> str:
     """
 
 
+def _render_highlights(highlights: str) -> str:
+    if not highlights.strip():
+        return ""
+    paragraphs = [p.strip() for p in highlights.replace("\n\n", "\n").split("\n") if p.strip()]
+    body = "".join(f"<p style='margin:0 0 8px;font-size:14px;line-height:1.6;'>{p}</p>" for p in paragraphs)
+    return f"""
+  <div style="background:#eff6ff;border-radius:8px;padding:16px;margin-bottom:20px;">
+    <h2 style="margin:0 0 10px;font-size:16px;color:#1e40af;">📌 今日要点</h2>
+    {body}
+  </div>
+  """
+
+
 def generate_html(
     articles: list[ProcessedArticle],
     raw_count: int,
     filtered_count: int,
+    highlights: str = "",
 ) -> str:
     now_bj = datetime.now(BEIJING_TZ)
     grouped: dict[str, list[ProcessedArticle]] = defaultdict(list)
@@ -93,6 +107,8 @@ def generate_html(
 
     langs = sorted({a.language for a in articles})
 
+    highlights_html = _render_highlights(highlights)
+
     return f"""<!DOCTYPE html>
 <html lang="zh">
 <head><meta charset="utf-8"><title>新闻简报</title></head>
@@ -105,6 +121,7 @@ def generate_html(
     采集 {raw_count} 条 |
     覆盖语种: {", ".join(LANG_LABELS.get(l, l) for l in langs) or "无"}
   </p>
+  {highlights_html}
   <hr style="border:none;border-top:1px solid #e2e8f0;">
   {sections_html}
   <hr style="border:none;border-top:1px solid #e2e8f0;">
