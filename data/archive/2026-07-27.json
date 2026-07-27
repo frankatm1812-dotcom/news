@@ -1,8 +1,812 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-26T23:49:36.626010+00:00",
-  "count": 35,
+  "generated_at": "2026-07-27T10:25:23.042856+00:00",
+  "count": 67,
   "articles": [
+    {
+      "title_original": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
+      "title_zh": "中国芯片制造商股价在首次公开募股中飙升近470%",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T10:19:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国最大的内存芯片制造商在上海证券交易所科技板块首次公开募股，股价飙升近470%。",
+        "该公司的市值达到约3.3万亿元人民币（4870亿美元），成为中国大陆最有价值的上市公司。",
+        "该公司计划使用首次公开募股的资金增加内存芯片的生产和研发。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut"
+      }
+    },
+    {
+      "title_original": "Argentine leader calls Brazilian president a 'thief' and a 'convict'",
+      "title_zh": "阿根廷领导人称巴西总统为“小偷”和“罪犯”",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T10:19:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "阿根廷总统哈维尔·米莱伊在巴西访问期间称巴西总统卢拉为“小偷”和“罪犯”。",
+        "巴西政府对此表示不满，召回了驻阿根廷大使。",
+        "米莱伊的言论被视为对巴西总统的个人攻击，可能会影响两国关系。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Argentine leader calls Brazilian president a 'thief' and a 'convict'"
+      }
+    },
+    {
+      "title_original": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "title_zh": "内塔尼亚胡指责纽约市长曼达尼“煽动仇恨”",
+      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T09:59:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列总理内塔尼亚胡指责纽约市长曼达尼“煽动仇恨”，原因是曼达尼曾威胁要逮捕内塔尼亚胡。",
+        "曼达尼后来撤回了他的威胁，承认自己没有逮捕内塔尼亚胡的法律权力。",
+        "内塔尼亚胡的指责可能会加剧中东地区的紧张局势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat"
+      }
+    },
+    {
+      "title_original": "Millions see leaked copy of The Odyssey movie on X",
+      "title_zh": "数百万人在X上观看了《奥德赛》电影的泄露版",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T09:21:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "数百万人在社交媒体平台X上观看了《奥德赛》电影的泄露版。",
+        "电影导演克里斯托弗·诺兰希望观众在大屏幕上观看电影，但泄露版的出现可能会影响电影的票房表现。",
+        "电影公司已经采取措施删除泄露版，并将追究泄露者的责任。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Millions see leaked copy of The Odyssey movie on X"
+      }
+    },
+    {
+      "title_original": "León XIV pide reabrir el diálogo en Oriente Medio: “suspendan los ataques”",
+      "title_zh": "教皇利奥十四呼吁重新开放中东对话： “停止攻击”",
+      "url": "https://www.romereports.com/2026/07/27/leon-xiv-pide-reabrir-el-dialogo-en-oriente-medio-suspendan-los-ataques/",
+      "source": "Rome Reports",
+      "source_score": 55,
+      "published_at": "2026-07-27T08:48:01+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "教皇利奥十四呼吁中东各方停止攻击，重新开放对话。",
+        "教皇表示，中东地区的暴力和紧张局势正在加剧，许多平民的生命处于危险之中。",
+        "教皇的呼吁是希望能够尽快实现中东地区的和平。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Rome Reports"
+      ],
+      "all_titles": {
+        "es": "León XIV pide reabrir el diálogo en Oriente Medio: “suspendan los ataques”"
+      }
+    },
+    {
+      "title_original": "Taktiken in der „Todeszone“: So sieht die Realität an der Front im Ukraine-Krieg aus",
+      "title_zh": "乌克兰战争中的“死亡区”战术：现实情况如何",
+      "url": "https://www.fr.de/politik/taktiken-in-der-todeszone-so-sieht-die-realitaet-an-der-front-im-ukraine-krieg-aus-zr-94415733.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-27T08:48:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争已经持续了1614天，俄罗斯仍然占领着乌克兰的20%的领土。",
+        "2025年，俄罗斯的占领面积增加了5000平方公里，但在2024年，俄罗斯的军队首次失去了更多的领土。",
+        "乌克兰军队继续使用无人机攻击俄罗斯的油库和军事基础设施，俄罗斯的军队也在调整战术。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Taktiken in der „Todeszone“: So sieht die Realität an der Front im Ukraine-Krieg aus"
+      }
+    },
+    {
+      "title_original": "Infantino tells Fifa critics to 'meditate, pray or watch football'",
+      "title_zh": "国际足联主席告诉批评者“冥想、祈祷或观看足球比赛”",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cz0515973gpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T08:07:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "国际足联主席告诉批评者不要传播关于他的仇恨和虚假谣言。",
+        "他建议批评者可以通过冥想、祈祷或观看足球比赛来缓解压力。",
+        "国际足联主席的言论引发了争议和批评。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Infantino tells Fifa critics to 'meditate, pray or watch football'"
+      }
+    },
+    {
+      "title_original": "Autoindustrie: Probleme China und Naher Osten: Audi kappt die Prognose",
+      "title_zh": "汽车行业：中国和中东问题，奥迪降低预期",
+      "url": "https://www.tagesspiegel.de/wirtschaft/autoindustrie-probleme-china-und-naher-osten-audi-kappt-die-prognose-15884760.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-07-27T07:38:27+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "奥迪由于中国市场下滑和中东问题，降低了2026年的预期。",
+        "奥迪的第二季度利润下降了21%，至563 triệu欧元。",
+        "奥迪的销售额预计将在58-63亿欧元之间，低于之前的预期。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Autoindustrie: Probleme China und Naher Osten: Audi kappt die Prognose"
+      }
+    },
+    {
+      "title_original": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape",
+      "title_zh": "说唱歌手Yung Filly在审判中称与指控他强奸的女性“气氛很好”",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g044ydl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T07:37:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "说唱歌手Yung Filly在澳大利亚西部地区法院接受审判，面临强奸指控。",
+        "他否认强奸指控，称与指控他的女性“气氛很好”。",
+        "指控他的女性称Yung Filly在酒店房间中强奸了她。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Rapper Yung Filly tells trial 'vibes were good' with woman who accuses him of rape"
+      }
+    },
+    {
+      "title_original": "ارتفاع الذهب مع تراجع الدولار ووقف التصعيد في الشرق الأوسط",
+      "title_zh": "金价上涨，美元走低，中东紧张局势缓解",
+      "url": "https://sa.investing.com/news/commodities-news/article-3314515",
+      "source": "Investing.com",
+      "source_score": 40,
+      "published_at": "2026-07-27T07:21:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "金价上涨，主要由于美元走低和中东紧张局势缓解。",
+        "中东紧张局势的缓解使得投资者对黄金的需求减少。",
+        "美元走低也使得黄金对其他货币的持有者更具吸引力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Investing.com"
+      ],
+      "all_titles": {
+        "ar": "ارتفاع الذهب مع تراجع الدولار ووقف التصعيد في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Uganda begins emergency food handouts after 19 die from hunger",
+      "title_zh": "乌干达开始紧急食品发放，19人因饥饿死亡",
+      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-27T07:00:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "乌干达在东部的一个地区由于长期干旱和作物歉收，导致19人因饥饿死亡。",
+        "乌干达政府已启动紧急食品救济分发。",
+        "卡拉莫贾地区的150万人面临严重的食物短缺和营养不良。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Uganda begins emergency food handouts after 19 die from hunger"
+      }
+    },
+    {
+      "title_original": "Australian court upholds racial discrimination ruling against Pauline Hanson",
+      "title_zh": "澳大利亚法院维持针对保琳·汉森的种族歧视裁决",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k5v9202wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T06:14:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "澳大利亚法院维持了针对保琳·汉森的种族歧视裁决，汉森曾在推特上发表了针对穆斯林参议员的种族歧视言论。",
+        "法院裁定汉森的言论违反了种族歧视法，并要求她删除推文并支付相关费用。",
+        "汉森表示她对裁决感到“失望”，并将考虑向高等法院提出上诉。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Australian court upholds racial discrimination ruling against Pauline Hanson"
+      }
+    },
+    {
+      "title_original": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+      "title_zh": "西雅图太空针塔附近美食节枪击事件造成三人死亡，多人受伤",
+      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T06:11:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西雅图太空针塔附近的美食节发生枪击事件，造成三人死亡，多人受伤。",
+        "警方表示，一名嫌疑人被拘留，另一名嫌疑人逃跑。",
+        "事件发生在周日晚上，多人被送往医院，包括一名两岁的男孩。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Three dead and several injured in shooting at food festival near Seattle's Space Needle"
+      }
+    },
+    {
+      "title_original": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
+      "title_zh": "“这才刚刚开始”：印度Z世代抗议者迫使一名部长辞职，但接下来会怎样？",
+      "url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T05:59:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "印度教育部长达尔门德拉·普拉德汉在学生抗议活动后辞职，抗议活动是由一场医疗入学考试丑闻引发的。",
+        "学生们要求普拉德汉辞职，并呼吁教育改革和对丑闻受害者的家庭进行补偿。",
+        "抗议活动最初遭到警方镇压，但随后引发了更广泛的公众愤怒和支持。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'This is just the start': India's Gen Z protesters force out a minister, but what next?"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー氏の訪英を前にウクライナ支援の継続を約束　バーナム首相",
+      "title_zh": "泽连斯基访英前，英国承诺继续支持乌克兰",
+      "url": "https://www.bbc.com/japanese/articles/c0jlz2ge528o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-07-27T05:18:24+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "英国首相安迪·巴纳姆在泽连斯基访英前表示，英国将继续对乌克兰提供坚定的支持。",
+        "巴纳姆首相和泽连斯基将在海军基地会面，并讨论英国新型电子战系统的合作。",
+        "英国已经向乌克兰提供了大量的军事援助，包括数千个电子战设备。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World",
+        "BBC"
+      ],
+      "all_titles": {
+        "en": "UK PM pledges continued support for Ukraine ahead of Zelensky visit",
+        "ja": "ゼレンスキー氏の訪英を前にウクライナ支援の継続を約束　バーナム首相"
+      }
+    },
+    {
+      "title_original": "The Kremlin’s Easy Money Is Gone",
+      "title_zh": "克里姆林宫的轻松资金已经消失",
+      "url": "https://foreignpolicy.com/2026/07/27/russia-ukraine-war-money-spending-defense-budget-taxes-asset-confiscation-sanctions-finance/",
+      "source": "Foreign Policy",
+      "source_score": 75,
+      "published_at": "2026-07-27T05:01:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯财政部宣布支持一项将近400亿美元的私人养老金转移到政府账户的草案。",
+        "俄罗斯共产党领导人根纳季·朱加诺夫鼓励普京利用俄罗斯公司和个人在银行账户中的近1.8万亿美元来支持国家财政。",
+        "俄罗斯的军事开支正在增加，但其经济却面临着日益增长的压力和挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Foreign Policy"
+      ],
+      "all_titles": {
+        "en": "The Kremlin’s Easy Money Is Gone"
+      }
+    },
+    {
+      "title_original": "中東危機再燃も上がらぬアルミ 中国輸出急増、欧米で再稼働機運",
+      "title_zh": "中东危机再燃，但铝价没有上涨，中国出口急增，欧美有重启生产的趋势",
+      "url": "https://www.nikkei.com/article/DGXZQOUB221B50S6A720C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-07-27T05:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "尽管中东危机再燃，但铝价没有上涨，因为中国的出口急增和欧美有重启生产的趋势。",
+        "中国的铝出口量大幅增加，导致全球铝市场供应充足。",
+        "欧美一些铝厂有重启生产的计划，这将进一步增加全球铝的供应。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "中東危機再燃も上がらぬアルミ 中国輸出急増、欧米で再稼働機運"
+      }
+    },
+    {
+      "title_original": "Fed likely to hold as geopolitics limits Warsh's room to maneuver: Peter Boockvar",
+      "title_zh": "美联储可能会保持利率不变，因为地缘政治限制了沃什的行动空间：彼得·布克瓦",
+      "url": "https://www.cnbc.com/video/2026/07/27/fed-likely-to-hold-as-geopolitics-constrains-warsh-peter-boockvar.html",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-07-27T04:16:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "彼得·布克瓦认为，美联储可能会保持利率不变，因为地缘政治限制了沃什的行动空间。",
+        "美联储面临着地缘政治风险、财政政策限制和经济数据不确定性的挑战。",
+        "布克瓦认为，美联储可能会保持当前的货币政策，因为地缘政治因素限制了其行动空间。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "Fed likely to hold as geopolitics limits Warsh's room to maneuver: Peter Boockvar"
+      }
+    },
+    {
+      "title_original": "\"Jugendlichen Kraft für den Alltag mitgeben\": Ferien in Deutschland trotz Krieg in der Ukraine",
+      "title_zh": "“给年轻人带来力量和快乐的假期”：尽管乌克兰战争，德国仍然欢迎年轻的乌克兰人",
+      "url": "https://www.zdfheute.de/panorama/ukraine-krieg-ferien-in-deutschland-100.html",
+      "source": "ZDFheute",
+      "source_score": 40,
+      "published_at": "2026-07-27T04:09:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "一些乌克兰年轻人尽管战争仍在继续，但仍然来到德国度假。",
+        "这些年轻人来自乌克兰的不同城市，包括敖德萨，他们的家庭都受到战争的影响。",
+        "德国的一些组织为这些年轻人提供了假期和支持，帮助他们暂时忘记战争的创伤。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "ZDFheute"
+      ],
+      "all_titles": {
+        "de": "\"Jugendlichen Kraft für den Alltag mitgeben\": Ferien in Deutschland trotz Krieg in der Ukraine"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Kiew und Russlands Wirtschaft unter Beschuss – harte Drohnenkämpfe",
+      "title_zh": "乌克兰战争：基辅和俄罗斯经济受到攻击——激烈的无人机战斗",
+      "url": "https://www.fr.de/politik/news-ticker-ukraine-krieg-aktuell-russland-wirtschaft-wildberries-drohnen-verluste-zr-94414580.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-27T03:59:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争中，基辅和俄罗斯经济受到攻击，双方进行激烈的无人机战斗。",
+        "据报道，俄罗斯对基辅发动了弹道导弹袭击，造成多处火灾。",
+        "乌克兰方面表示，已对俄罗斯境内目标进行了打击，造成重大损害。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Kiew und Russlands Wirtschaft unter Beschuss – harte Drohnenkämpfe"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Iran accuses Kyiv of deadly attack on Iranian vessel in Caspian Sea",
+      "title_zh": "乌克兰战争简报：伊朗指责基辅在里海对伊朗船只进行致命攻击",
+      "url": "https://www.theguardian.com/world/2026/jul/26/ukraine-war-briefing-iran-accuses-kyiv-vessel-caspian-sea",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-07-27T03:19:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "伊朗指责乌克兰在里海对伊朗船只进行致命攻击，造成一名水手死亡，另一名水手受伤。",
+        "乌克兰总统泽连斯基表示，俄罗斯正在将其在中东的卫星观测数据提供给伊朗，以便伊朗能够在该地区发动攻击。",
+        "据报道，俄罗斯和乌克兰在乌克兰的扎波罗热地区发生冲突，造成多人死亡，包括儿童。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Iran accuses Kyiv of deadly attack on Iranian vessel in Caspian Sea"
+      }
+    },
+    {
+      "title_original": "午前のドルは163円半ば、中東の懸念後退 日米中銀会合前に手掛けづらさ",
+      "title_zh": "日元汇率：163円半，中东局势缓和，日美中银会合前市场谨慎",
+      "url": "https://jp.reuters.com/opinion/MKZXU7S5W5OZ7DN5D6TX36LE3U-2026-07-27/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-07-27T03:16:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "日元汇率为163円半，中东局势缓和，市场对日美中银会合前谨慎。",
+        "市场担心中东局势可能导致油价上涨，影响全球经济。",
+        "日美中银会合前，市场预期各国央行将讨论货币政策和经济问题。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "午前のドルは163円半ば、中東の懸念後退 日米中銀会合前に手掛けづらさ"
+      }
+    },
+    {
+      "title_original": "El oro sube por la debilidad del dólar; traders sopesan la pausa en Oriente Medio y la Fed",
+      "title_zh": "金价上涨因美元走弱，交易员权衡中东局势和美联储决策",
+      "url": "https://es.investing.com/news/commodities-news/el-oro-sube-por-la-debilidad-del-dolar-traders-sopesan-la-pausa-en-oriente-medio-y-la-fed-3759648",
+      "source": "Investing.com España",
+      "source_score": 40,
+      "published_at": "2026-07-27T03:13:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "金价上涨，因美元走弱，交易员关注中东局势和美联储决策。",
+        "中东局势缓和，油价下跌，市场预期美联储将维持利率不变。",
+        "交易员正在权衡中东局势和美联储决策对金价和美元的影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Investing.com España"
+      ],
+      "all_titles": {
+        "es": "El oro sube por la debilidad del dólar; traders sopesan la pausa en Oriente Medio y la Fed"
+      }
+    },
+    {
+      "title_original": "北约一名加拿大华裔实习生因涉嫌从事间谍活动被捕",
+      "title_zh": "北约一名加拿大华裔实习生因涉嫌从事间谍活动被捕",
+      "url": "https://cn.nytimes.com/world/20260727/nato-canada-china-arrest-spying/",
+      "source": "纽约时报中文网",
+      "source_score": 40,
+      "published_at": "2026-07-27T02:15:33+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约一名加拿大华裔实习生因涉嫌从事间谍活动被捕，目前正在接受调查。",
+        "比利时当局表示，这名实习生涉嫌代表第三国从事间谍活动，并涉嫌参与犯罪组织。",
+        "北约方面表示，正在与比利时当局合作，调查此案。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "纽约时报中文网"
+      ],
+      "all_titles": {
+        "zh": "北约一名加拿大华裔实习生因涉嫌从事间谍活动被捕"
+      }
+    },
+    {
+      "title_original": "Shein swings to $99m loss as Trump tariffs hit sales",
+      "title_zh": "Shein 因特朗普关税影响而亏损 9900 万美元",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T02:08:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Shein 公司因特朗普关税影响而在第一季度亏损 9900 万美元。",
+        "该公司的销售额因关税而减少，导致公司财务状况恶化。",
+        "Shein 公司正在寻找解决方案，包括提高美国市场的价格以抵消部分增加的成本。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Shein swings to $99m loss as Trump tariffs hit sales"
+      }
+    },
+    {
+      "title_original": "تحديثات حرب الشرق الأوسط: الهدنة بين الولايات المتحدة وإيران تضغط على النفط وتخفف رهانات الفيدرالي",
+      "title_zh": "中东战争更新：美国和伊朗的停火协议对油价产生影响，降低了美联储加息的预期",
+      "url": "https://ar.fxstreet.com/news/thdytht-hrb-lshrq-lwst-lwlyt-lmthd-wyrn-twqfn-ldrbt-bynm-ydrs-trmb-lkhyrt-ldblwmsy-202607270102",
+      "source": "FXStreet",
+      "source_score": 40,
+      "published_at": "2026-07-27T01:02:46+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国和伊朗的停火协议导致油价下跌，降低了美联储加息的预期。",
+        "美国停止了对伊朗的空袭，伊朗也停止了对美国盟友的报复攻击。",
+        "中东战争的发展对全球油价和金融市场产生了影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "FXStreet"
+      ],
+      "all_titles": {
+        "ar": "تحديثات حرب الشرق الأوسط: الهدنة بين الولايات المتحدة وإيران تضغط على النفط وتخفف رهانات الفيدرالي"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Air ceasefire talk ahead of Trump-Zelenskyy meeting",
+      "title_zh": "乌克兰战争简报：特朗普和泽连斯基会谈前，空中停火方案被提出",
+      "url": "https://www.theguardian.com/world/2026/jul/27/ukraine-war-briefing-air-ceasefire-talk-ahead-of-trump-zelenskyy-meeting",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-07-27T00:54:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国和乌克兰官员讨论了向俄罗斯提出空中停火方案的可能性。",
+        "乌克兰总统泽连斯基将于 28 日与特朗普总统会谈，讨论和平解决乌克兰冲突的方案。",
+        "俄罗斯方面表示，如果美国提出和平方案，俄罗斯将根据自身利益进行考虑。"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Yahoo!ニュース",
+        "The Guardian"
+      ],
+      "all_titles": {
+        "ja": "ロシアに空中攻撃停止案を提示か 米が協議、ウクライナ和平仲介（共同通信）",
+        "en": "Ukraine war briefing: Air ceasefire talk ahead of Trump-Zelenskyy meeting"
+      }
+    },
+    {
+      "title_original": "الدولار الأسترالي يرتفع مع تراجع التوترات في الشرق الأوسط وارتفاع توقعات أسعار الفائدة لدى بنك الاحتياطي الأسترالي",
+      "title_zh": "澳元上涨，中东紧张局势缓解，澳大利亚储备银行加息预期上升",
+      "url": "https://ar.fxstreet.com/news/ldwlr-lstrly-yrtf-m-trj-ltwtrt-fy-lshrq-lwst-wrtf-twqt-sr-lfyd-ld-bnk-lhtyty-lstrly-202607270043",
+      "source": "FXStreet",
+      "source_score": 40,
+      "published_at": "2026-07-27T00:43:08+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "澳元上涨，中东紧张局势缓解，澳大利亚储备银行加息预期上升。",
+        "美国停止了对伊朗的空袭，伊朗也停止了对美国盟友的报复攻击。",
+        "澳大利亚的就业数据强劲，预计澳大利亚储备银行将继续加息。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "FXStreet"
+      ],
+      "all_titles": {
+        "ar": "الدولار الأسترالي يرتفع مع تراجع التوترات في الشرق الأوسط وارتفاع توقعات أسعار الفائدة لدى بنك الاحتياطي الأسترالي"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient : troisième nuit sans frappes pour laisser \"de la place\" à la diplomatie",
+      "title_zh": "中东：第三个夜晚没有袭击，以便为外交留出空间",
+      "url": "https://www.france24.com/fr/moyen-orient/20260727-troisi%C3%A8me-nuit-sans-frappes-au-moyen-orient-pour-laisser-de-la-place-%C3%A0-la-diplomatie",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-07-27T00:11:13+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东地区已经连续第三个夜晚没有发生袭击事件。",
+        "这一举动被认为是为了给外交谈判留出空间。",
+        "相关事件的详细情况尚不明确。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient : troisième nuit sans frappes pour laisser \"de la place\" à la diplomatie"
+      }
+    },
+    {
+      "title_original": "+++ 07:38 Russisches Militär greift Hafen in Mykolajiw an - drei zivile Schiffe beschädigt +++",
+      "title_zh": "+++ 07:38 俄罗斯军队袭击尼古拉耶夫港，三艘民用船只受损 +++",
+      "url": "https://www.n-tv.de/politik/02-03-Russland-will-wohl-weitere-30-000-Soldaten-aus-Nordkorea-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-07-27T00:04:38+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯军队袭击了乌克兰的尼古拉耶夫港口。",
+        "袭击导致三艘民用船只受损。",
+        "事件发生在07:38左右。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "+++ 07:38 Russisches Militär greift Hafen in Mykolajiw an - drei zivile Schiffe beschädigt +++"
+      }
+    },
+    {
+      "title_original": "カザフ大統領、プーチン氏に侵略の凍結を直言 ロシア「不可能」",
+      "title_zh": "哈萨克斯坦总统直接告诉普京要停止侵略，俄罗斯称“不可能”",
+      "url": "https://www.nikkei.com/article/DGXZQOCB270CY0X20C26A7000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-07-26T23:33:57+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "哈萨克斯坦总统托卡耶夫与俄罗斯总统普京会面，讨论乌克兰问题。",
+        "托卡耶夫建议俄罗斯停止在乌克兰的军事行动，转向谈判。",
+        "俄罗斯方面表示停止军事行动“不可能”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "カザフ大統領、プーチン氏に侵略の凍結を直言 ロシア「不可能」"
+      }
+    },
+    {
+      "title_original": "محمد بن سلمان وبيرنهام يبحثان القضايا الإقليمية والدولية",
+      "title_zh": "穆罕默德·本·萨勒曼和伯恩哈姆讨论区域和国际问题",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/5300361-%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B3%D9%84%D9%85%D8%A7%D9%86-%D9%88%D8%A8%D9%8A%D8%B1%D9%86%D9%87%D8%A7%D9%85-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-07-26T23:21:54+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特阿拉伯王储穆罕默德·本·萨勒曼与英国首相伯恩哈姆进行了通话。",
+        "两人讨论了区域和国际问题，包括安全和合作等方面。",
+        "伯恩哈姆对胡塞武装在红海的攻击表示谴责，并重申支持沙特阿拉伯的安全和主权。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "محمد بن سلمان وبيرنهام يبحثان القضايا الإقليمية والدولية"
+      }
+    },
     {
       "title_original": "イラン外相、ウクライナの商船攻撃「看過できず」（ロイター）",
       "title_zh": "伊朗外长：乌克兰攻击伊朗商船“不能忽视”",
