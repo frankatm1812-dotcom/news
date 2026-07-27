@@ -2,11 +2,16 @@ name: News Briefing
 
 on:
   schedule:
-    # 北京时间 06:00 = UTC 22:00 (前一天)
-    - cron: "0 22 * * *"
-    # 北京时间 18:00 = UTC 10:00
-    - cron: "0 10 * * *"
+    # 北京时间 06:45 = UTC 22:45（前一天）
+    - cron: "45 22 * * *"
+    # 北京时间 18:45 = UTC 10:45
+    - cron: "45 10 * * *"
   workflow_dispatch:
+
+# 同一 cron 重复入队时取消旧任务，避免一晚多发
+concurrency:
+  group: news-briefing-${{ github.event.schedule || format('manual-{0}', github.run_id) }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -17,6 +22,37 @@ jobs:
     timeout-minutes: 30
 
     steps:
+      - name: Validate run window
+        id: window
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "send=true" >> "$GITHUB_OUTPUT"
+            echo "Manual trigger — always send"
+            exit 0
+          fi
+
+          H=$((10#$(TZ=Asia/Shanghai date +%H)))
+          M=$((10#$(TZ=Asia/Shanghai date +%M)))
+          echo "Beijing time: ${H}:$(printf '%02d' "$M")"
+
+          # 允许定时任务在目标时段 ±90 分钟内执行（应对 GitHub 排队延迟）
+          morning=false
+          evening=false
+          if { [ "$H" -eq 6 ] && [ "$M" -ge 15 ]; } || { [ "$H" -eq 7 ]; } || { [ "$H" -eq 8 ] && [ "$M" -lt 15 ]; }; then
+            morning=true
+          fi
+          if { [ "$H" -eq 18 ] && [ "$M" -ge 15 ]; } || { [ "$H" -eq 19 ]; } || { [ "$H" -eq 20 ] && [ "$M" -lt 15 ]; }; then
+            evening=true
+          fi
+
+          if [ "$morning" = true ] || [ "$evening" = true ]; then
+            echo "send=true" >> "$GITHUB_OUTPUT"
+            echo "Within briefing window — proceed"
+          else
+            echo "send=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::Delayed scheduled run outside briefing window — skip email to avoid duplicate/off-hours push"
+          fi
+
       - uses: actions/checkout@v6
 
       - uses: actions/setup-python@v6
@@ -24,9 +60,11 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
+        if: steps.window.outputs.send == 'true'
         run: pip install -r requirements.txt
 
       - name: Run briefing pipeline
+        if: steps.window.outputs.send == 'true'
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           SMTP_EMAIL: ${{ secrets.SMTP_EMAIL }}
@@ -35,6 +73,7 @@ jobs:
         run: python src/main.py
 
       - name: Commit daily archive
+        if: steps.window.outputs.send == 'true'
         continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
@@ -44,6 +83,6 @@ jobs:
           git push
 
       - name: Failure notification hint
-        if: failure()
+        if: failure() && steps.window.outputs.send == 'true'
         run: |
           echo "::error::Briefing pipeline failed. A failure email is sent when SMTP secrets are configured."
