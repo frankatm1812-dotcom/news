@@ -2,10 +2,10 @@ name: News Briefing
 
 on:
   schedule:
-    # 北京时间 06:45 = UTC 22:45（前一天）
-    - cron: "45 22 * * *"
-    # 北京时间 18:45 = UTC 10:45
-    - cron: "45 10 * * *"
+    # 北京时间 07:15 = UTC 23:15（前一天）
+    - cron: "15 23 * * *"
+    # 北京时间 19:15 = UTC 11:15
+    - cron: "15 11 * * *"
   workflow_dispatch:
 
 # 同一 cron 重复入队时取消旧任务，避免一晚多发
@@ -38,10 +38,10 @@ jobs:
           # 允许定时任务在目标时段 ±90 分钟内执行（应对 GitHub 排队延迟）
           morning=false
           evening=false
-          if { [ "$H" -eq 6 ] && [ "$M" -ge 15 ]; } || { [ "$H" -eq 7 ]; } || { [ "$H" -eq 8 ] && [ "$M" -lt 15 ]; }; then
+          if { [ "$H" -eq 5 ] && [ "$M" -ge 45 ]; } || { [ "$H" -eq 6 ]; } || { [ "$H" -eq 7 ]; } || { [ "$H" -eq 8 ] && [ "$M" -lt 15 ]; }; then
             morning=true
           fi
-          if { [ "$H" -eq 18 ] && [ "$M" -ge 15 ]; } || { [ "$H" -eq 19 ]; } || { [ "$H" -eq 20 ] && [ "$M" -lt 15 ]; }; then
+          if { [ "$H" -eq 17 ] && [ "$M" -ge 45 ]; } || { [ "$H" -eq 18 ]; } || { [ "$H" -eq 19 ]; } || { [ "$H" -eq 20 ] && [ "$M" -lt 15 ]; }; then
             evening=true
           fi
 
