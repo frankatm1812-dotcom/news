@@ -1,0 +1,882 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-27T17:24:02.341580+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Shots fired at US consulate in Toronto for a second time this year",
+      "title_zh": "多伦多美国领事馆今年第二次遭枪击",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T16:56:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "多伦多美国领事馆今年第二次遭枪击。",
+        "警方进行了一次高速车追逐，但未能逮捕嫌疑人，嫌疑人仍然在逃。",
+        "六月份，三人因类似袭击被逮捕。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Shots fired at US consulate in Toronto for a second time this year"
+      }
+    },
+    {
+      "title_original": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+      "title_zh": "乌克兰驳斥伊朗威胁，里海袭击直接将战争联系起来",
+      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T16:33:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰驳斥伊朗威胁，称伊朗的威胁是没有根据的。",
+        "乌克兰外交部长安德烈·西比哈表示，伊朗是俄罗斯侵略乌克兰的直接帮凶，伊朗的武器已在2022年开始杀害乌克兰人。",
+        "乌克兰总统泽连斯基宣布，乌克兰军队在里海取得了良好的长距离打击效果，包括针对伊朗运输军事货物的船只。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars"
+      }
+    },
+    {
+      "title_original": "Austria plans to extend military service in light of Ukraine war",
+      "title_zh": "奥地利计划延长军事服务以应对乌克兰战争",
+      "url": "https://www.reuters.com/world/austria-plans-extend-military-service-light-ukraine-war-2026-07-27/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-27T16:18:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "奥地利计划延长军事服务以应对乌克兰战争。",
+        "奥地利政府认为，乌克兰战争使得欧洲安全形势更加不确定。",
+        "延长军事服务是奥地利为应对安全挑战而采取的措施之一。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Austria plans to extend military service in light of Ukraine war"
+      }
+    },
+    {
+      "title_original": "الذكاء الاصطناعي يدعم ارتفاع طلبيات السلع الرأسمالية بأمريكا في يونيو",
+      "title_zh": "人工智能支持美国六月资本品订单增加",
+      "url": "https://www.reuters.com/ar/business/VRIDFHWG5FIXDKLVN67LYCLWXM-2026-07-27/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-27T15:47:03+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "人工智能支持美国六月资本品订单增加。",
+        "美国六月资本品订单增加，主要是由于人工智能技术的应用。",
+        "人工智能在美国经济中发挥着越来越重要的作用。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الذكاء الاصطناعي يدعم ارتفاع طلبيات السلع الرأسمالية بأمريكا في يونيو"
+      }
+    },
+    {
+      "title_original": "بروكفيلد الكندية تجمع ملياري دولار لصندوق استثمار يركّز على الشرق الأوسط",
+      "title_zh": "加拿大布鲁克菲尔德公司为中东投资基金筹集20亿美元",
+      "url": "https://www.aljazeera.net/ebusiness/2026/7/27/brookfield-investment-fund",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-07-27T15:44:31+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "加拿大布鲁克菲尔德公司为中东投资基金筹集20亿美元。",
+        "该基金将重点投资于沙特阿拉伯和中东的公司。",
+        "布鲁克菲尔德公司表示，中东地区具有巨大的投资潜力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "بروكفيلد الكندية تجمع ملياري دولار لصندوق استثمار يركّز على الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Oil price dives as US and Iran pause attacks",
+      "title_zh": "油价暴跌，美国和伊朗暂停攻击",
+      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T15:08:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于美国和伊朗暂停攻击，油价大幅下跌，希望此举能帮助缓解冲突。",
+        "布伦特原油价格一度下跌超过9%，至每桶87.59美元，较上周大幅回调，上周曾一度升至100美元以上。",
+        "美国驻联合国大使表示，美国已经连续第二个夜晚停止对伊朗的攻击，以便“给谈判留出空间”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Oil price dives as US and Iran pause attacks"
+      }
+    },
+    {
+      "title_original": "أمازون ليو تقترح شبكة من 5 آلاف قمر صناعي لإتاحة الاتصال المباشر بالهواتف",
+      "title_zh": "亚马逊Leo提出5000颗卫星网络实现手机直接通信",
+      "url": "https://www.reuters.com/ar/business/BGPG6Y7DCRNOZI6EWI5I2ETDKE-2026-07-27/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-27T15:08:14+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "亚马逊Leo提出了一项计划，旨在建立一个由5000颗卫星组成的网络，以实现手机直接通信。",
+        "该网络将为全球各地的手机用户提供通信服务，尤其是在没有传统通信基础设施的地区。",
+        "亚马逊Leo的这一计划旨在解决全球通信不平等问题，尤其是在偏远和发展中国家"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "أمازون ليو تقترح شبكة من 5 آلاف قمر صناعي لإتاحة الاتصال المباشر بالهواتف"
+      }
+    },
+    {
+      "title_original": "South Africa investigates death of Nigerian who collapsed during arrest",
+      "title_zh": "南非调查一名尼日利亚人在被捕过程中死亡事件",
+      "url": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T14:26:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "南非当局正在调查一名尼日利亚人在被捕过程中死亡的事件，该事件发生在开普敦。",
+        "死者名叫Ibeh Chika Simon，42岁，据称他在被警察逮捕时突然病倒并死亡。",
+        "尼日利亚外交官对此事件表示“深深的愤怒”，并要求进行“透明”的调查"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "South Africa investigates death of Nigerian who collapsed during arrest"
+      }
+    },
+    {
+      "title_original": "Carly Simon reveals Parkinson's diagnosis",
+      "title_zh": "卡莉·西蒙透露自己患有帕金森病",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T14:04:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国歌手兼词曲作者卡莉·西蒙透露自己被诊断出患有帕金森病。",
+        "西蒙表示，她的病情“不可预测”，有些日子她会感到非常疲倦，无法进行任何活动。",
+        "她还表示自己已经接受了手术治疗，并正在学习如何与这种疾病共处"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Carly Simon reveals Parkinson's diagnosis"
+      }
+    },
+    {
+      "title_original": "During Talks With Putin, Kazakh Leader Urges Freeze in Ukraine War",
+      "title_zh": "哈萨克斯坦领导人在与普京会谈中敦促暂停乌克兰战争",
+      "url": "https://www.rferl.org/a/toqaev-tells-putin-to-freeze-ukraine-war/33816013.html",
+      "source": "Radio Free Europe/Radio Liberty",
+      "source_score": 55,
+      "published_at": "2026-07-27T14:01:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "哈萨克斯坦总统卡西姆-若马尔特·托卡耶夫在与俄罗斯总统普京会谈中敦促暂停乌克兰战争。",
+        "托卡耶夫表示，暂停战争是解决冲突的必要步骤，但普京的发言人德米特里·佩斯科夫表示“暂停战争是不可能的”。",
+        "乌克兰外交部长安德烈·西比哈欢迎哈萨克斯坦领导人的努力，称其为“现实、及时和明智的信息”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Radio Free Europe/Radio Liberty"
+      ],
+      "all_titles": {
+        "en": "During Talks With Putin, Kazakh Leader Urges Freeze in Ukraine War"
+      }
+    },
+    {
+      "title_original": "More than 600 US military service members injured since Iran War began in February",
+      "title_zh": "伊朗战争开始以来，超过600名美国军事人员受伤",
+      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T13:31:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "伊朗战争开始以来，已有624名美国军事人员受伤，其中417人归因于“史诗般的愤怒行动”，207人归因于“海外行动”。",
+        "美国和伊朗于四月达成停火协议，并于六月签署谅解备忘录，但双方仍然发生了多次袭击。",
+        "五角大楼最近修订了战争中受伤和死亡的人数，移除了四名在“史诗般的愤怒行动”中死亡的士兵的名字，并将他们加入到“海外行动”的死亡名单中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "More than 600 US military service members injured since Iran War began in February"
+      }
+    },
+    {
+      "title_original": "北朝鮮 ロシアへ2万人追加派兵とウクライナ東部展開を議論か",
+      "title_zh": "北朝鮮可能向俄罗斯追加派遣2万人并在乌克兰东部展开行动",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015187481000",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-07-27T13:15:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北朝鮮可能向俄罗斯追加派遣2万人，并在乌克兰东部展开行动。",
+        "此事目前尚在讨论中，尚未得到官方确认。",
+        "如果此事属实，将可能对乌克兰东部局势产生重大影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "北朝鮮 ロシアへ2万人追加派兵とウクライナ東部展開を議論か"
+      }
+    },
+    {
+      "title_original": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier",
+      "title_zh": "柏林自豪游行袭击者被揭露几周前曾被释放",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T12:33:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "柏林自豪游行袭击者阿卜杜勒·巴卢特（Abdul Ballout）几周前曾被释放出狱。",
+        "巴卢特曾因多次犯罪和激进化而被关押，但被判处缓刑并被释放。",
+        "此事件引发了人们对德国司法系统的质疑和愤怒。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Anger as Berlin Pride attacker revealed to have been freed weeks earlier"
+      }
+    },
+    {
+      "title_original": "'Dr Death', Body Worlds creator Gunther von Hagens, dies at 81",
+      "title_zh": "'死亡博士'，人体世界创始人冈瑟·冯·哈根斯逝世，享年81岁",
+      "url": "https://www.bbc.co.uk/news/articles/czjlnrn47lwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T12:28:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "冈瑟·冯·哈根斯，人体世界展览的创始人，于81岁时逝世。",
+        "哈根斯因其创新的防腐技术和人体展览而闻名，但也引发了争议和批评。",
+        "他生前曾表示希望自己的尸体被用于防腐和展览。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Dr Death', Body Worlds creator Gunther von Hagens, dies at 81"
+      }
+    },
+    {
+      "title_original": "جراندفوس تطلق مضخة SP47 الجديدة لتعزيز البنية التحتية للمياه الجوفية وجعلها أكثر كفاءة في استهلاك الطاقة في منطقة الشرق الأوسط وشمال أفريقيا",
+      "title_zh": "格兰福斯推出新型水泵SP47，以提高中东和北非地区地下水基础设施的效率和节能",
+      "url": "https://www.zawya.com/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9/%D8%A7%D9%94%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%83%D8%A7%D8%AA/%D8%AC%D8%B1%D8%A7%D9%86%D8%AF%D9%81%D9%88%D8%B3-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D8%B6%D8%AE%D8%A9-sp47-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%A8%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AA%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D8%AC%D9%88%D9%81%D9%8A%D8%A9-%D9%88%D8%AC%D8%B9%D9%84%D9%87%D8%A7-%D8%A7%D9%94%D9%83%D8%AB%D8%B1-%D9%83%D9%81%D8%A7%D8%A1%D8%A9-%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D9%84%D8%A7%D9%83-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%81%D9%8A-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%94%D9%88%D8%B3%D8%B7-%D9%88%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%94%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-410812",
+      "source": "Zawya",
+      "source_score": 40,
+      "published_at": "2026-07-27T12:21:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "格兰福斯公司推出新型水泵SP47，以提高中东和北非地区地下水基础设施的效率和节能。",
+        "SP47水泵设计用于提高水泵的效率和可靠性，并且可以与现有的水泵系统兼容。",
+        "该水泵适用于各种应用，包括市政供水、农业灌溉、矿业和工业用水。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Zawya"
+      ],
+      "all_titles": {
+        "ar": "جراندفوس تطلق مضخة SP47 الجديدة لتعزيز البنية التحتية للمياه الجوفية وجعلها أكثر كفاءة في استهلاك الطاقة في منطقة الشرق الأوسط وشمال أفريقيا"
+      }
+    },
+    {
+      "title_original": "Cyberattacks and the digital divide are creating new barriers to HIV services",
+      "title_zh": "网络攻击和数字鸿沟正在为艾滋病服务制造新的障碍",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168030",
+      "source": "UN News - Global perspective Human stories",
+      "source_score": 40,
+      "published_at": "2026-07-27T12:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "网络攻击、数据泄露、在线骚扰和其他形式的技术促进的暴力正在成为艾滋病预防和治疗的重大障碍。",
+        "数字安全已经成为与艾滋病疫情斗争的不可分割的一部分。",
+        "艾滋病服务面临的数字挑战需要紧急关注和解决。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "all_titles": {
+        "en": "Cyberattacks and the digital divide are creating new barriers to HIV services"
+      }
+    },
+    {
+      "title_original": "Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports",
+      "title_zh": "安理会直播：关于俄罗斯袭击乌克兰城市和港口的简报",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168029",
+      "source": "UN News - Global perspective Human stories",
+      "source_score": 40,
+      "published_at": "2026-07-27T12:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰请求安理会召开会议，讨论最近俄罗斯对乌克兰城市和港口的袭击。",
+        "至少有一名平民在袭击中丧生，多人受伤，民用基础设施也遭到损害。",
+        "乌克兰当局称，这是自入侵开始以来最大的和最激烈的袭击之一。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "all_titles": {
+        "en": "Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports"
+      }
+    },
+    {
+      "title_original": "Bombardier Sees NATO GlobalEye Buy As ‘Catalyst’ For More Orders",
+      "title_zh": "庞巴迪认为北约的GlobalEye采购将成为更多订单的催化剂",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/bombardier-sees-nato-globaleye-buy-catalyst-more-orders",
+      "source": "Aviation Week",
+      "source_score": 40,
+      "published_at": "2026-07-27T11:13:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约决定购买多达10架萨布GlobalEye空中预警机，这可能会促进更多的订单。",
+        "庞巴迪公司认为，这将成为欧洲其他国家采购类似系统的催化剂。",
+        "北约的采购将为其他国家提供价格优势，即使他们只采购少量飞机。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Aviation Week"
+      ],
+      "all_titles": {
+        "en": "Bombardier Sees NATO GlobalEye Buy As ‘Catalyst’ For More Orders"
+      }
+    },
+    {
+      "title_original": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+      "title_zh": "巴厘岛禁止荷兰外籍人士参加跑步俱乐部，原因是该俱乐部涉嫌排斥印尼人",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T10:59:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "印尼当局禁止两名荷兰外籍人士进入巴厘岛，因为他们组织的跑步俱乐部涉嫌排斥印尼人。",
+        "该跑步俱乐部由Entourage Bali组织，引发了当地人的强烈反对和愤怒。",
+        "巴厘岛州长誓言将采取严厉措施，防止此类事件再次发生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Bali bans Dutch expats whose run club allegedly excluded Indonesians"
+      }
+    },
+    {
+      "title_original": "US deports Kenyan former NFL player Daniel Adongo",
+      "title_zh": "美国遣返肯尼亚前NFL球员丹尼尔·阿东戈",
+      "url": "https://www.bbc.co.uk/news/articles/c74gzg27v8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T10:56:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国移民和海关执法局（ICE）遣返了肯尼亚前NFL球员丹尼尔·阿东戈，因为他逾期居留和多次被捕。",
+        "阿东戈曾是印第安纳波利斯小马队的球员，后来因多次犯罪和精神疾病问题而被监禁。",
+        "ICE将阿东戈描述为“危险个体”，认为他的遣返使社区变得更加安全。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US deports Kenyan former NFL player Daniel Adongo"
+      }
+    },
+    {
+      "title_original": "Convocation de l’ambassadeur de France en Iran, menace iranienne sur l’Ukraine, navires stoppés dans le détroit d’Ormuz… L’actu du conflit au Moyen-Orient ce lundi 27 juillet",
+      "title_zh": "法国驻伊朗大使被召见，伊朗对乌克兰发出威胁，霍尔木兹海峡的船只被停靠… 7月27日中东冲突最新消息",
+      "url": "https://www.liberation.fr/international/moyen-orient/convocation-de-lambassadeur-de-france-en-iran-menace-iranienne-sur-lukraine-navires-stoppes-dans-le-detroit-dormuz-lactu-du-conflit-au-moyen-orient-ce-lundi-27-juillet-20260727_ZGLGCLIIKNFMDA4HU6Y2Q5QLSA/",
+      "source": "Libération",
+      "source_score": 40,
+      "published_at": "2026-07-27T10:18:38+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "法国驻伊朗大使被召见，伊朗对乌克兰发出威胁，霍尔木兹海峡的船只被停靠。",
+        "伊朗对乌克兰的威胁是由于最近的紧张局势所致。",
+        "霍尔木兹海峡的船只被停靠，这可能会影响全球贸易。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Libération"
+      ],
+      "all_titles": {
+        "fr": "Convocation de l’ambassadeur de France en Iran, menace iranienne sur l’Ukraine, navires stoppés dans le détroit d’Ormuz… L’actu du conflit au Moyen-Orient ce lundi 27 juillet"
+      }
+    },
+    {
+      "title_original": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "title_zh": "内塔尼亚胡指责纽约市长曼达尼“煽动仇恨”",
+      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T09:59:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "内塔尼亚胡指责纽约市长曼达尼“煽动仇恨”是因为曼达尼曾威胁要逮捕他。",
+        "曼达尼曾威胁要逮捕内塔尼亚胡，但后来撤回了这一威胁。",
+        "内塔尼亚胡和曼达尼之间的紧张关系可能会影响以色列和美国之间的关系。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat"
+      }
+    },
+    {
+      "title_original": "Satellitenbilder zeigen, wie China an riesigen Modellen den Krieg mit Taiwan trainiert",
+      "title_zh": "卫星图片显示中国如何使用巨型模型训练与台湾的战争",
+      "url": "https://www.businessinsider.de/politik/wie-china-an-modellen-den-krieg-mit-taiwan-trainiert/",
+      "source": "Business Insider Deutschland",
+      "source_score": 55,
+      "published_at": "2026-07-27T09:40:18+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "卫星图片显示中国使用巨型模型训练与台湾的战争。",
+        "这些模型可能被用来模拟各种战争场景。",
+        "中国的军事训练可能会影响台湾海峡的局势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Business Insider Deutschland"
+      ],
+      "all_titles": {
+        "de": "Satellitenbilder zeigen, wie China an riesigen Modellen den Krieg mit Taiwan trainiert"
+      }
+    },
+    {
+      "title_original": "Millions see leaked copy of The Odyssey movie on X",
+      "title_zh": "数百万人在X上观看了《奥德赛》电影的泄露版",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T09:21:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "数百万人在X上观看了《奥德赛》电影的泄露版。",
+        "这部电影的泄露可能会影响其票房表现。",
+        "电影公司已经采取措施删除泄露的版本。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Millions see leaked copy of The Odyssey movie on X"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : la guerre va «s'étendre encore» si les attaques américaines reprennent, prévient l'armée iranienne",
+      "title_zh": "中东战争：如果美国攻击继续，战争将“进一步扩大”，伊朗军方警告",
+      "url": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-la-guerre-va-s-etendre-encore-si-les-attaques-americaines-reprennent-previent-l-armee-iranienne-20260726",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-07-27T09:10:17+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗军方警告，如果美国攻击继续，战争将“进一步扩大”。",
+        "伊朗军方发言人表示，如果美国继续攻击，战争将扩大到其他地区。",
+        "美国和伊朗之间的紧张关系可能会影响中东的局势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : la guerre va «s'étendre encore» si les attaques américaines reprennent, prévient l'armée iranienne"
+      }
+    },
+    {
+      "title_original": "Taktiken in der „Todeszone“: So sieht die Realität an der Front im Ukraine-Krieg aus",
+      "title_zh": "乌克兰战争中的“死亡区”战术：前线的现实是什么",
+      "url": "https://www.fr.de/politik/taktiken-in-der-todeszone-so-sieht-die-realitaet-an-der-front-im-ukraine-krieg-aus-zr-94415733.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-27T08:48:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争已经持续了1614天，俄罗斯仍然占领着近20%的乌克兰领土。",
+        "2025年，俄罗斯占领的乌克兰领土增加了近5000平方公里。",
+        "乌克兰军队继续使用无人机攻击俄罗斯的油库和军事基础设施，俄罗斯也在调整其战术。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Taktiken in der „Todeszone“: So sieht die Realität an der Front im Ukraine-Krieg aus"
+      }
+    },
+    {
+      "title_original": "全球瞭望：央行决策 企业财报与地缘政治多重共振 全球资本市场真正考验即将到来？",
+      "title_zh": "全球瞭望：央行决策 企业财报与地缘政治多重共振 全球资本市场真正考验即将到来？",
+      "url": "https://www.yicai.com/video/103293570.html",
+      "source": "第一财经",
+      "source_score": 40,
+      "published_at": "2026-07-27T08:12:08+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "全球资本市场面临央行决策、企业财报和地缘政治的多重影响。",
+        "这些因素可能导致市场波动和不确定性。",
+        "投资者需要密切关注这些因素，以应对潜在的风险和机遇。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "第一财经"
+      ],
+      "all_titles": {
+        "zh": "全球瞭望：央行决策 企业财报与地缘政治多重共振 全球资本市场真正考验即将到来？"
+      }
+    },
+    {
+      "title_original": "+++ 09:56 Selenskyj: Putin will nach Duma-Wahlen bis zu 500.000 Menschen für Kriegsdienst mobilisieren +++",
+      "title_zh": "泽连斯基：普京计划在杜马选举后动员多达50万人参军",
+      "url": "https://www.n-tv.de/politik/09-56-Selenskyj-Putin-will-nach-Duma-Wahlen-bis-zu-500-000-Menschen-fuer-Kriegsdienst-mobilisieren-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-07-27T07:58:43+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基称，俄罗斯总统普京计划在杜马选举后动员多达50万人参军。",
+        "俄罗斯和乌克兰之间的冲突仍在持续，双方都在调整战术。",
+        "冲突的走向和结果仍然不确定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "+++ 09:56 Selenskyj: Putin will nach Duma-Wahlen bis zu 500.000 Menschen für Kriegsdienst mobilisieren +++"
+      }
+    },
+    {
+      "title_original": "Saltan las alarmas en la OTAN: detienen a una becaria acusada de espiar para una potencia extranjera",
+      "title_zh": "北约处于高度戒备：一名实习生被指控为外国势力进行间谍活动",
+      "url": "https://www.huffingtonpost.es/global/saltan-alarmas-otan-detienen-becaria-acusada-espiar-potencia-extranjera-f202607.html",
+      "source": "El HuffPost",
+      "source_score": 40,
+      "published_at": "2026-07-27T07:36:52+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "北约的一名实习生被指控为外国势力进行间谍活动。",
+        "该实习生是一名加拿大籍华人，正在北约总部实习。",
+        "北约已经展开调查，事件仍在发展中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "El HuffPost"
+      ],
+      "all_titles": {
+        "es": "Saltan las alarmas en la OTAN: detienen a una becaria acusada de espiar para una potencia extranjera"
+      }
+    },
+    {
+      "title_original": "中东局势推高国际油价 美欧等主要央行面临通胀及加息压力",
+      "title_zh": "中东局势推高国际油价 美欧等主要央行面临通胀及加息压力",
+      "url": "https://finance.sina.cn/usstock/mggd/2026-07-27/detail-inikfnpa8469412.d.html?oid=WA%200821%207001%200763%20(FORTRESS)%20Pintu%20Rumah%20Minimalis%201%20Pintu%20Sepauk%20Sintang&vt=4",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-07-27T07:05:05+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势的紧张导致国际油价上涨。",
+        "美欧等主要央行面临通胀和加息的压力。",
+        "这些因素可能导致全球经济的不确定性和波动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "中东局势推高国际油价 美欧等主要央行面临通胀及加息压力"
+      }
+    },
+    {
+      "title_original": "El IBEX 35 se aferra al optimismo sobre Oriente Medio a la espera de cifras empresariales y la Fed",
+      "title_zh": "IBEX 35 持续看好中东局势，等待企业数据和美联储决策",
+      "url": "https://es.marketscreener.com/noticias/el-ibex-35-se-aferra-al-optimismo-sobre-oriente-medio-a-la-espera-de-cifras-empresariales-y-la-fed-ce7f51dcdb80f226",
+      "source": "MarketScreener España",
+      "source_score": 40,
+      "published_at": "2026-07-27T07:04:19+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "IBEX 35 指数对中东局势持乐观态度",
+        "投资者正在等待企业数据和美联储的决策",
+        "中东局势的发展将对全球市场产生影响"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "MarketScreener España"
+      ],
+      "all_titles": {
+        "es": "El IBEX 35 se aferra al optimismo sobre Oriente Medio a la espera de cifras empresariales y la Fed"
+      }
+    },
+    {
+      "title_original": "Uganda begins emergency food handouts after 19 die from hunger",
+      "title_zh": "乌干达开始紧急食品配给，19人因饥饿死亡",
+      "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-27T07:00:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "乌干达由于干旱和作物歉收，导致19人因饥饿死亡",
+        "政府开始紧急食品配给，以缓解饥饿问题",
+        "乌干达东部的卡拉莫亚地区面临严重的饥饿问题"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Uganda begins emergency food handouts after 19 die from hunger"
+      }
+    },
+    {
+      "title_original": "午後3時のドルは163円半ば、中東懸念後退で小幅安 日米中銀会合前に手控え",
+      "title_zh": "下午3点美元汇率为163円半，中东局势缓和导致小幅下跌，日美中央银行会议前谨慎",
+      "url": "https://jp.reuters.com/opinion/LJJMB7MJBFLOZNDQLTLPKZZZ4E-2026-07-27/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-07-27T06:21:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "下午3点美元汇率为163円半",
+        "中东局势的缓和导致美元汇率小幅下跌",
+        "投资者正在谨慎等待日美中央银行会议的结果"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "午後3時のドルは163円半ば、中東懸念後退で小幅安 日米中銀会合前に手控え"
+      }
+    },
+    {
+      "title_original": "中东局势缓和推动油价回落，黄金小幅反弹，维持区间震荡",
+      "title_zh": "中东局势缓和推动油价回落，黄金小幅反弹，维持区间震荡",
+      "url": "https://finance.sina.cn/forex/whzx/2026-07-27/detail-inikfhfp0773697.d.html?vt=4&cid=76576&node_id=76576",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-07-27T06:16:08+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势的缓和导致油价回落",
+        "黄金价格小幅反弹",
+        "黄金价格维持在区间震荡状态"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "中东局势缓和推动油价回落，黄金小幅反弹，维持区间震荡"
+      }
+    },
+    {
+      "title_original": "ウクライナによるカスピ海での船舶攻撃を受け、イランが「予期せぬ」結果に警告",
+      "title_zh": "乌克兰在里海发动船舶攻击，伊朗警告可能会有“意外”的后果",
+      "url": "https://www.arabnews.jp/article/middle-east/article_182771/",
+      "source": "arabnews.jp",
+      "source_score": 40,
+      "published_at": "2026-07-27T06:07:57+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰在里海发动船舶攻击",
+        "伊朗对此次攻击提出警告，称可能会有“意外”的后果",
+        "伊朗外交部表示，这次攻击是对伊朗的挑衅"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "arabnews.jp"
+      ],
+      "all_titles": {
+        "ja": "ウクライナによるカスピ海での船舶攻撃を受け、イランが「予期せぬ」結果に警告"
+      }
+    }
+  ]
+}
