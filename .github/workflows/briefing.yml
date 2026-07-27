@@ -35,22 +35,14 @@ jobs:
           M=$((10#$(TZ=Asia/Shanghai date +%M)))
           echo "Beijing time: ${H}:$(printf '%02d' "$M")"
 
-          # 允许定时任务在目标时段 ±90 分钟内执行（应对 GitHub 排队延迟）
-          morning=false
-          evening=false
-          if { [ "$H" -eq 5 ] && [ "$M" -ge 45 ]; } || { [ "$H" -eq 6 ]; } || { [ "$H" -eq 7 ]; } || { [ "$H" -eq 8 ] && [ "$M" -lt 15 ]; }; then
-            morning=true
-          fi
-          if { [ "$H" -eq 17 ] && [ "$M" -ge 45 ]; } || { [ "$H" -eq 18 ]; } || { [ "$H" -eq 19 ]; } || { [ "$H" -eq 20 ] && [ "$M" -lt 15 ]; }; then
-            evening=true
-          fi
-
-          if [ "$morning" = true ] || [ "$evening" = true ]; then
+          # GitHub schedule 常延迟数小时（本仓库曾延迟至 22:49）。
+          # 用半天窗口：上午场 00–11，下午场 12–23，避免延迟后被误跳过。
+          if [ "$H" -lt 12 ]; then
             echo "send=true" >> "$GITHUB_OUTPUT"
-            echo "Within briefing window — proceed"
+            echo "Morning half — proceed (target 07:15)"
           else
-            echo "send=false" >> "$GITHUB_OUTPUT"
-            echo "::warning::Delayed scheduled run outside briefing window — skip email to avoid duplicate/off-hours push"
+            echo "send=true" >> "$GITHUB_OUTPUT"
+            echo "Evening half — proceed (target 19:15)"
           fi
 
       - uses: actions/checkout@v6
