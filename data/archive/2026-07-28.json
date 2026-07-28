@@ -1,8 +1,858 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-27T17:24:02.341580+00:00",
-  "count": 35,
+  "generated_at": "2026-07-28T08:09:19.364456+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "普京自曝“沉迷”，看网络博主分析俄乌冲突帖子，并为他们“说到点子上”而高兴，也会从网络论坛、博主处了解战况",
+      "title_zh": "普京自曝“沉迷”，看网络博主分析俄乌冲突帖子，并为他们“说到点子上”而高兴，也会从网络论坛、博主处了解战况",
+      "url": "https://m.sohu.com/a/1055764247_114986?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-07-28T08:05:43+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京自曝会看网络博主分析俄乌冲突帖子，并为他们“说到点子上”而高兴",
+        "他也会从网络论坛、博主处了解战况",
+        "这表明普京对网络舆论和民间分析有一定的关注"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "普京自曝“沉迷”，看网络博主分析俄乌冲突帖子，并为他们“说到点子上”而高兴，也会从网络论坛、博主处了解战况"
+      }
+    },
+    {
+      "title_original": "中东局势扰动令航油价格暴涨，美国各大航司紧急下调盈利预期",
+      "title_zh": "中东局势扰动令航油价格暴涨，美国各大航司紧急下调盈利预期",
+      "url": "http://futures.cnfol.com/qishidongtai/20260728/32319615.shtml",
+      "source": "cnfol",
+      "source_score": 40,
+      "published_at": "2026-07-28T07:59:01+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势紧张导致航油价格暴涨",
+        "美国各大航司因此紧急下调盈利预期",
+        "航油价格的波动对航空公司的盈利预期产生了重大影响"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "cnfol"
+      ],
+      "all_titles": {
+        "zh": "中东局势扰动令航油价格暴涨，美国各大航司紧急下调盈利预期"
+      }
+    },
+    {
+      "title_original": "北约峰会开完仅2周，同一城市17国喊话：中俄伊土联盟取代北约",
+      "title_zh": "北约峰会开完仅2周，同一城市17国喊话：中俄伊土联盟取代北约",
+      "url": "https://m.sohu.com/a/1055737144_121296499?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-07-28T07:00:28+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约峰会结束仅两周",
+        "17国在同一城市发表声明，提议中俄伊土联盟取代北约",
+        "这一声明可能对国际关系和地区安全产生重大影响"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "北约峰会开完仅2周，同一城市17国喊话：中俄伊土联盟取代北约"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Putin erhöht Truppenstärke deutlich – selbst Verwundete sollen schneller zurück an die Front",
+      "title_zh": "乌克兰战争：普京大幅增加军队规模，甚至伤员也将更快地返回前线",
+      "url": "https://www.welt.de/politik/ausland/article6a68413ac435b807339bcbb9/ukraine-krieg-putin-erhoeht-truppenstaerke-deutlich-selbst-verwundete-sollen-schneller-zurueck-an-die-front.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-07-28T06:58:14+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京大幅增加俄罗斯军队规模",
+        "伤员也将更快地返回前线",
+        "这一决定可能对乌克兰战争的进展产生重大影响"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Putin erhöht Truppenstärke deutlich – selbst Verwundete sollen schneller zurück an die Front"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Drohnen-Nachtangriff auf Moskau – Flughäfen lahmgelegt",
+      "title_zh": "乌克兰战争最新消息：无人机夜袭莫斯科，机场瘫痪",
+      "url": "https://www.fr.de/politik/news-ukraine-krieg-aktuell-selenskyj-russland-hinterland-putin-wirtschaft-ticker-zr-94415991.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-28T06:29:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰无人机对莫斯科发动夜袭",
+        "莫斯科多个机场被迫关闭",
+        "这一事件可能对俄罗斯的军事战略和城市安全产生重大影响"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Drohnen-Nachtangriff auf Moskau – Flughäfen lahmgelegt"
+      }
+    },
+    {
+      "title_original": "L'Europe attendue en baisse, les résultats trimestriels et la géopolitique au menu",
+      "title_zh": "欧洲市场预计下跌，季度业绩和地缘政治将成为焦点",
+      "url": "https://www.abcbourse.com/marches/l-europe-attendue-en-baisse-les-resultats-trimestriels-et-la-geopolitique-au-me_700430",
+      "source": "ABC Bourse",
+      "source_score": 40,
+      "published_at": "2026-07-28T06:05:40+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧洲市场预计因地缘政治紧张和季度业绩报告而下跌。",
+        "法国公司Safran和Orange分别公布了2026年的业绩预期和增长计划。",
+        "欧洲市场的走势将受到地缘政治事件和公司季度业绩报告的影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "ABC Bourse"
+      ],
+      "all_titles": {
+        "fr": "L'Europe attendue en baisse, les résultats trimestriels et la géopolitique au menu"
+      }
+    },
+    {
+      "title_original": "イギリスのバーナム首相がゼレンスキー氏と初会談…「１００％ウクライナと」",
+      "title_zh": "英国首相伯南与泽连斯基首次会谈：100%支持乌克兰",
+      "url": "https://www.yomiuri.co.jp/world/20260728-GYT1T00238/",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-07-28T06:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "英国首相伯南与乌克兰总统泽连斯基举行了首次会谈。",
+        "伯南表示英国将100%支持乌克兰。",
+        "会谈内容未详，但预计将讨论乌克兰冲突和英国对乌克兰的支持。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "イギリスのバーナム首相がゼレンスキー氏と初会談…「１００％ウクライナと」"
+      }
+    },
+    {
+      "title_original": "ترامب يستضيف نتنياهو وزيلينسكي مع دخول حربي أوكرانيا وإيران مرحلة حاسمة",
+      "title_zh": "特朗普将接待内塔尼亚胡和泽连斯基，乌克兰和伊朗冲突进入关键阶段",
+      "url": "https://www.reuters.com/ar/world/5Q6Q7CAAIRJBJP5K6JCBY7EMKE-2026-07-28/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-28T05:56:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国前总统特朗普将接待以色列总理内塔尼亚胡和乌克兰总统泽连斯基。",
+        "乌克兰和伊朗冲突正在升级，进入关键阶段。",
+        "会谈内容未详，但预计将讨论中东和乌克兰冲突。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "ترامب يستضيف نتنياهو وزيلينسكي مع دخول حربي أوكرانيا وإيران مرحلة حاسمة"
+      }
+    },
+    {
+      "title_original": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+      "title_zh": "在厄瓜多尔的毒品战争前线，警察与帮派、枪支和腐败作斗争",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T05:01:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "厄瓜多尔警察在与毒品帮派和腐败的斗争中面临巨大挑战。",
+        "警察队长Jean Carlos Bustamante表示，内部腐败是他们面临的最大威胁之一。",
+        "厄瓜多尔是全球毒品贸易的重要通道，警察的工作难度很大。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Disastrous drone expo’s organiser appears in Kyiv court",
+      "title_zh": "乌克兰战争简报：无人机展览组织者出现在基辅法庭",
+      "url": "https://www.theguardian.com/world/2026/jul/28/ukraine-war-briefing-disastrous-drone-expos-organiser-appears-in-kyiv-court",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-07-28T04:52:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰基辅法庭审理了一起与无人机展览相关的案件。",
+        "展览组织者Vasyl Goncharuk被指控疏忽职守，导致11人死亡。",
+        "俄罗斯方面承认对展览场所进行了袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Disastrous drone expo’s organiser appears in Kyiv court"
+      }
+    },
+    {
+      "title_original": "Russia and North Korea finalising first road crossing amid concerns it serves as Ukraine war supply route",
+      "title_zh": "俄罗斯和朝鲜正在建设两国首条公路，引发人们对其可能成为乌克兰战争物资供应路线的担忧",
+      "url": "https://www.theguardian.com/world/2026/jul/28/russia-north-korea-road-bridge",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-07-28T04:12:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯和朝鲜正在建设两国首条公路，预计将于近期完成。",
+        "该公路跨越图们江，连接俄罗斯远东地区的哈桑和朝鲜的豆满江，目的是为了扩大两国之间的贸易和旅游。",
+        "然而，有人担心该公路可能被用作乌克兰战争的物资供应路线，尤其是考虑到朝鲜和俄罗斯在军事合作方面的密切关系。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Russia and North Korea finalising first road crossing amid concerns it serves as Ukraine war supply route"
+      }
+    },
+    {
+      "title_original": "‘We have lost everything’: extreme rainfall across Asia brings flash floods and typhoons",
+      "title_zh": "亚洲极端降雨引发山洪和台风，许多人失去一切",
+      "url": "https://www.theguardian.com/environment/2026/jul/28/extreme-rainfall-asia-flash-floods-typhoons-climate-change",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-28T04:00:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "亚洲多个国家近期遭遇极端降雨，导致山洪和台风，给当地居民带来巨大损失。",
+        "阿富汗东部地区的一位居民表示，连续10天的降雨导致其房屋倒塌，邻居的房屋也遭到严重损坏。",
+        "专家认为，气候变化是导致极端降雨事件频发的主要原因之一，未来这种情况可能会更加频繁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘We have lost everything’: extreme rainfall across Asia brings flash floods and typhoons"
+      }
+    },
+    {
+      "title_original": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+      "title_zh": "乌克兰总统泽连斯基将与特朗普会面，伊朗和乌克兰战争交织在一起",
+      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-07-28T03:26:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基计划与美国总统特朗普会面，讨论乌克兰战争和伊朗问题。",
+        "乌克兰近期在卡斯皮海攻击了一艘伊朗货船，伊朗方面表示将对此进行报复。",
+        "美国参议院计划对俄罗斯实施新的制裁，泽连斯基表示支持这一决定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge"
+      }
+    },
+    {
+      "title_original": "ウクライナがカスピ海でイラン船攻撃、二つの戦争が直接結びつく　報復の脅しは一蹴",
+      "title_zh": "乌克兰在卡斯皮海攻击伊朗船只，两场战争直接交织，伊朗的报复威胁被驳回",
+      "url": "https://www.bbc.com/japanese/articles/c1d1e47x4e2o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-07-28T03:08:32+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰在卡斯皮海攻击了一艘伊朗货船，伊朗方面表示将对此进行报复，但乌克兰驳回了这一威胁。",
+        "乌克兰总统泽连斯基表示，伊朗是俄罗斯侵略乌克兰的直接共犯，伊朗的行为是对乌克兰的挑衅。",
+        "乌克兰方面认为，伊朗的货船正在运输军事物资给俄罗斯，乌克兰的攻击是为了防止这些物资落入俄罗斯手中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ウクライナがカスピ海でイラン船攻撃、二つの戦争が直接結びつく　報復の脅しは一蹴"
+      }
+    },
+    {
+      "title_original": "Ukraine: Warum Anastasia ihr Luxusleben aufgab, um Kriegshunde zu retten",
+      "title_zh": "乌克兰：为什么阿纳斯塔西娅放弃奢侈生活来救助战争中受困的狗",
+      "url": "https://www.mdr.de/nachrichten/welt/osteuropa/land-leute/hunde-adoptieren-tierheim-tierschutz-krieg-,ukraine-2710.html",
+      "source": "MDR.de",
+      "source_score": 40,
+      "published_at": "2026-07-28T03:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "阿纳斯塔西娅是一位成功的企业家，但她放弃了奢侈的生活来救助乌克兰战争中受困的狗。",
+        "她在乌克兰建立了一个私人动物庇护所，目前已经收容了60多只狗。",
+        "阿纳斯塔西娅表示，她的目标是为这些狗提供一个安全的家园，并帮助它们找到新的主人。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "MDR.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine: Warum Anastasia ihr Luxusleben aufgab, um Kriegshunde zu retten"
+      }
+    },
+    {
+      "title_original": "Deutsche Bank lo tiene claro: estos activos pueden salir reforzados tras la tensión geopolítica",
+      "title_zh": "德意志银行认为：这些资产可能会在地缘政治紧张局势后得到加强",
+      "url": "https://www.vozpopuli.com/economia/mercados/deutsche-bank-lo-tiene-claro-estos-activos-pueden-salir-reforzados-tras-la-tension-geopolitica.html",
+      "source": "Vozpopuli",
+      "source_score": 40,
+      "published_at": "2026-07-28T02:45:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德意志银行首席投资官罗莎·杜斯认为，地缘政治紧张局势可能会使某些资产得到加强。",
+        "由于中东局势紧张，油价上涨，通货膨胀风险增加，欧洲央行可能会维持高利率更长时间。",
+        "德意志银行建议投资者在债券市场中选择中期债券，因为长期债券存在较高的风险。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Vozpopuli"
+      ],
+      "all_titles": {
+        "es": "Deutsche Bank lo tiene claro: estos activos pueden salir reforzados tras la tensión geopolítica"
+      }
+    },
+    {
+      "title_original": "Otan : les États-Unis lancent l’examen de leur présence militaire en Europe",
+      "title_zh": "北约：美国开始审查其在欧洲的军事存在",
+      "url": "https://www.lefigaro.fr/international/otan-les-etats-unis-lancent-l-examen-de-leur-presence-militaire-en-europe-20260728",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-07-28T02:14:38+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "美国宣布开始审查其在欧洲的军事存在，这是对北约防御战略的重新评估。",
+        "此举是对伊朗战争期间欧洲国家拒绝让美国军队使用北约基地的回应。",
+        "美国希望北约能够承担更多的防御责任，减少对美国军事存在的依赖。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Otan : les États-Unis lancent l’examen de leur présence militaire en Europe"
+      }
+    },
+    {
+      "title_original": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
+      "title_zh": "强生公司提出最高 55 亿美元和解婴儿粉诉讼",
+      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T01:53:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "强生公司提出最高 55 亿美元和解数万件关于其婴儿粉产品可能导致卵巢癌的诉讼。",
+        "该公司否认其产品存在安全问题，但希望通过和解结束长期的法律纠纷。",
+        "和解方案需要得到 95% 的原告的同意，才能最终确定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits"
+      }
+    },
+    {
+      "title_original": "US singer D4vd to go on trial for murder in death of 14-year-old",
+      "title_zh": "美国歌手 D4vd 将因 14 岁女孩死亡而受审",
+      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T01:39:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国歌手 D4vd 被指控谋杀一名 14 岁女孩，尸体在其住所附近的一辆特斯拉汽车中被发现。",
+        "歌手否认所有指控，称自己与女孩的关系是自愿的，女孩曾威胁要揭露他们的关系并毁掉他的音乐事业。",
+        "审判将于 8 月 31 日开始，检方将出示证据证明歌手的罪行。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US singer D4vd to go on trial for murder in death of 14-year-old"
+      }
+    },
+    {
+      "title_original": "Asia ‘scraping the bottom of the barrel’ as Red Sea oil blockade worsens energy crisis",
+      "title_zh": "亚太地区能源危机加剧，红海石油封锁使情况更加恶化",
+      "url": "https://www.theguardian.com/world/2026/jul/28/asia-energy-oil-crisis-red-sea-blockade-houthis",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-28T01:37:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "也门胡塞武装对沙特阿拉伯石油出口的威胁使亚太地区能源危机加剧。",
+        "日本、韩国和菲律宾等国家正努力寻找替代能源来源，以减少对中东石油的依赖。",
+        "红海封锁使得亚太地区的能源供应更加紧张，可能会导致油价上涨和经济损失。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Asia ‘scraping the bottom of the barrel’ as Red Sea oil blockade worsens energy crisis"
+      }
+    },
+    {
+      "title_original": "カスピ海でのウクライナによるイラン船への攻撃が、2つの戦争の境界線を曖昧にした経緯",
+      "title_zh": "乌克兰在里海对伊朗船只的攻击使两场战争的界限变得模糊",
+      "url": "https://www.arabnews.jp/article/middle-east/article_182892/",
+      "source": "arabnews.jp",
+      "source_score": 40,
+      "published_at": "2026-07-28T01:07:33+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰在里海对伊朗船只进行了攻击，导致两场战争的界限变得模糊。",
+        "乌克兰总统泽连斯基表示，这次攻击取得了很大的成果，击沉了多艘船只和军舰。",
+        "这次攻击的时机与乌克兰总统即将与美国总统会谈有关，乌克兰希望通过这次攻击来证明自己的能力和价值。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "arabnews.jp"
+      ],
+      "all_titles": {
+        "ja": "カスピ海でのウクライナによるイラン船への攻撃が、2つの戦争の境界線を曖昧にした経緯"
+      }
+    },
+    {
+      "title_original": "'I've never lost:' Rahm Emanuel makes his case for the White House",
+      "title_zh": "拉姆·伊曼纽尔为自己竞选白宫提出理由",
+      "url": "https://www.politico.com/video/2026/07/27/ive-never-lost-rahm-emanuel-makes-his-case-for-the-white-house-2123533",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-07-27T20:04:49-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "拉姆·伊曼纽尔宣布竞选白宫，并为自己提出理由。",
+        "伊曼纽尔表示，他有丰富的政治经验和成功的记录。",
+        "他希望通过自己的竞选活动赢得选民的支持，成为下一任美国总统。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "'I've never lost:' Rahm Emanuel makes his case for the White House"
+      }
+    },
+    {
+      "title_original": "لبنان ينتظر ضغطاً أميركياً على إسرائيل في «روما 2»",
+      "title_zh": "黎巴嫩期待美国在“罗马2”会议上对以色列施压",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5300700-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D9%86%D8%AA%D8%B8%D8%B1-%D8%B6%D8%BA%D8%B7%D8%A7%D9%8B-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%81%D9%8A-%D8%B1%D9%88%D9%85%D8%A7-2",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-07-28T00:03:59+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "黎巴嫩期待美国在“罗马2”会议上对以色列施压，以稳定南黎巴嫩局势。",
+        "黎巴嫩政府希望通过此次会议扩大实验区，缓解与以色列的紧张关系。",
+        "黎巴嫩军方警告以色列不要阻碍会议的进展。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "لبنان ينتظر ضغطاً أميركياً على إسرائيل في «روما 2»"
+      }
+    },
+    {
+      "title_original": "今日のFX予想：焦点は中東情勢 FOMC控えサプライズに警戒 2026/7/28",
+      "title_zh": "今日的外汇预测：中东局势成为焦点，FOMC会议前谨慎应对",
+      "url": "https://www.gaitame.com/media/entry/2026/07/28/085955",
+      "source": "外為どっとコム",
+      "source_score": 40,
+      "published_at": "2026-07-28T00:00:38+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "外汇市场预测中东局势将成为焦点，尤其是美伊关系的发展。",
+        "FOMC会议前，市场谨慎应对，预计美联储可能会宣布利率决策。",
+        "美元对日元的走势将受到中东局势和FOMC会议的影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "外為どっとコム"
+      ],
+      "all_titles": {
+        "ja": "今日のFX予想：焦点は中東情勢 FOMC控えサプライズに警戒 2026/7/28"
+      }
+    },
+    {
+      "title_original": "Number of suspects in fatal Seattle food festival shooting rises to three",
+      "title_zh": "西雅图美食节枪击案嫌疑人数量增加到三人",
+      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T23:36:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "西雅图警察表示，他们现在相信至少有三人参与了周日在西雅图美食节上的致命枪击事件。",
+        "枪击事件中三人死亡，至少四人受伤，包括一名两岁男孩。",
+        "警方目前正在寻找至少一名其他未知嫌疑人。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Number of suspects in fatal Seattle food festival shooting rises to three"
+      }
+    },
+    {
+      "title_original": "ウクライナ支援、支出完了は29年度 米政権が議会に通知＝関係筋",
+      "title_zh": "ウクライナ支援、支出完了は29年度 米政権が議会に通知＝関係筋",
+      "url": "https://jp.reuters.com/world/ukraine/ISHTYGBZ3BJPZLHIHY4EYLHAIM-2026-07-27/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-07-27T23:05:31+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国政府已通知国会，乌克兰援助支出将在2029年度完成。",
+        "这一消息由相关人士透露。",
+        "目前尚不清楚这一通知的具体细节。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ支援、支出完了は29年度 米政権が議会に通知＝関係筋"
+      }
+    },
+    {
+      "title_original": "La Marina de Taiwán incorpora su nueva corbeta Dan Chiang de cara a reforzar su defensa frente a China",
+      "title_zh": "台湾海军正式编入新型护卫舰“丹江”以加强对中国的防御",
+      "url": "https://www.escenariomundial.com/2026/07/27/la-marina-de-taiwan-incorpora-su-nueva-corbeta-dan-chiang-de-cara-a-reforzar-su-defensa-frente-a-china/",
+      "source": "Escenario Mundial",
+      "source_score": 40,
+      "published_at": "2026-07-27T22:12:08+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾海军正式编入新型护卫舰“丹江”，以加强对中国的防御。",
+        "这艘舰艇是台湾海军“沱江”级护卫舰的第八艘。",
+        "台湾政府计划在今年年底前完成十二艘“沱江”级护卫舰的交付。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Escenario Mundial"
+      ],
+      "all_titles": {
+        "es": "La Marina de Taiwán incorpora su nueva corbeta Dan Chiang de cara a reforzar su defensa frente a China"
+      }
+    },
+    {
+      "title_original": "A Japanese town wrestles with identity after protests over its first mosque",
+      "title_zh": "日本小镇因首座清真寺引发抗议而陷入身份认同危机",
+      "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T22:08:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本小镇藤沢因首座清真寺的建设引发抗议而陷入身份认同危机。",
+        "当地居民对清真寺的建设持有不同意见，一些人担心社区将会发生变化。",
+        "藤沢镇的辩论反映了日本对移民和社会变化的担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "A Japanese town wrestles with identity after protests over its first mosque"
+      }
+    },
+    {
+      "title_original": "China's new challenge as natural disasters strike - fake AI videos",
+      "title_zh": "中国面临自然灾害新挑战——假AI视频",
+      "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T22:07:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国正在应对自然灾害的同时，还面临着假AI视频的挑战。",
+        "这些假视频使用人工智能技术制作，能够令人信服地模拟灾害场景。",
+        "中国政府已经采取措施打击假视频的制作和传播。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "China's new challenge as natural disasters strike - fake AI videos"
+      }
+    },
+    {
+      "title_original": "Así frena la recuperación del sector aéreo la reactivación del conflicto en Oriente Medio",
+      "title_zh": "中东冲突重燃如何阻碍航空业的复苏",
+      "url": "https://www.hosteltur.com/177701_asi-frena-la-recuperacion-del-sector-aereo-la-reactivacion-del-conflicto-en-oriente-medio.html",
+      "source": "Hosteltur, noticias de turismo",
+      "source_score": 40,
+      "published_at": "2026-07-27T22:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东冲突的重燃导致航空业的复苏受到阻碍，国际航空运输开始出现下滑。",
+        "欧洲航空安全局发布新的警告，建议飞机避免飞越伊朗、伊拉克、黎巴嫩和约旦等地区。",
+        "由于冲突的影响，航空公司的航班安排和运营受到严重影响，部分航班被取消或改道。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Hosteltur, noticias de turismo"
+      ],
+      "all_titles": {
+        "es": "Así frena la recuperación del sector aéreo la reactivación del conflicto en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Trump says Iran war talks taking place during lull in strikes",
+      "title_zh": "特朗普称伊朗战争谈判在暂停攻击期间进行",
+      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-27T21:10:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国总统特朗普表示，美国和伊朗之间的战争谈判正在进行，尽管双方之间仍然存在紧张关系。",
+        "特朗普表示，他已经决定暂停对伊朗的攻击，以便让谈判有机会进行。",
+        "伊朗方面否认与美国进行直接谈判，但表示愿意通过第三方进行沟通。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump says Iran war talks taking place during lull in strikes"
+      }
+    },
+    {
+      "title_original": "Au Moyen-Orient, l’Iran réconcilie malgré lui les frères ennemis du Golfe",
+      "title_zh": "伊朗在中东无意中使湾岸敌对兄弟重逢",
+      "url": "https://www.lorientlejour.com/article/1542586/au-moyen-orient-liran-reconcilie-malgre-lui-les-freres-ennemis-du-golfe.html",
+      "source": "L'Orient-Le Jour",
+      "source_score": 40,
+      "published_at": "2026-07-27T21:00:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗在中东的行为无意中使湾岸的敌对国家重新走到了一起。",
+        "湾岸国家之间的紧张关系因伊朗的行为而加剧，导致地区局势更加复杂。",
+        "伊朗的行为也使得美国和其他西方国家在中东的利益受到了影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "L'Orient-Le Jour"
+      ],
+      "all_titles": {
+        "fr": "Au Moyen-Orient, l’Iran réconcilie malgré lui les frères ennemis du Golfe"
+      }
+    },
+    {
+      "title_original": "Selenskyj weitet Schläge auf Russlands Hinterland aus – Russland tötet Caritas-Mitarbeiterin",
+      "title_zh": "泽连斯基扩大对俄罗斯后方的打击，俄罗斯杀死卡里塔斯工作人员",
+      "url": "https://www.fr.de/politik/ukraine-krieg-aktuell-selenskyj-russland-hinterland-putin-wirtschaft-ticker-news-zr-94415991.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-27T20:37:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基下令扩大对俄罗斯后方的打击，导致俄罗斯多个地区受到影响。",
+        "俄罗斯军队杀死了一名卡里塔斯组织的工作人员，引发国际社会的强烈谴责。",
+        "冲突双方之间的紧张关系继续加剧，局势仍然不稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Selenskyj weitet Schläge auf Russlands Hinterland aus – Russland tötet Caritas-Mitarbeiterin"
+      }
+    },
+    {
+      "title_original": "El Dow Jones retrata la retirada de Trump ante Irán",
+      "title_zh": "道琼斯指数反映特朗普在伊朗问题上的退让",
+      "url": "https://www.negocios.com/articulo/mercados/estados-unidos-apuros-agotamiento-militar-tensiones-oriente-medio-asia-central/20260727222746491165.html",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-07-27T20:27:46+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "道琼斯指数因特朗普在伊朗问题上的退让而上涨，投资者认为此举将减少中东地区的紧张局势。",
+        "特朗普的退让被视为对伊朗的让步，可能会导致美国在中东地区的影响力减弱。",
+        "此举也引发了人们对美国军事实力的担忧，特别是在与中国和朝鲜等国家的竞争中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "El Dow Jones retrata la retirada de Trump ante Irán"
+      }
+    },
     {
       "title_original": "Shots fired at US consulate in Toronto for a second time this year",
       "title_zh": "多伦多美国领事馆今年第二次遭枪击",
