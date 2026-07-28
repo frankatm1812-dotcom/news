@@ -1,0 +1,882 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-28T16:56:22.696041+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Deaths feared after ‘many people’ trapped inside Japanese shopping centre following earthquake – live updates",
+      "title_zh": "日本地震：多人被困购物中心，可能有人员死亡",
+      "url": "https://www.theguardian.com/world/live/2026/jul/28/people-trapped-japan-earthquake-kumamoto-aeon-shopping-centre-mall-latest-news-updates",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-28T16:40:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本熊本县发生6.8级地震，导致多人被困购物中心。",
+        "地震造成4.8万户家庭断电，铁路公司JR九州停运了包括新干线在内的所有列车。",
+        "熊本机场关闭了跑道，航空公司纷纷取消或改道航班。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Deaths feared after ‘many people’ trapped inside Japanese shopping centre following earthquake – live updates"
+      }
+    },
+    {
+      "title_original": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
+      "title_zh": "肯尼亚14头大象神秘死亡，促使紧急调查",
+      "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T16:37:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "肯尼亚南部的安博塞利国家公园附近发现了14头大象的尸体，肯尼亚野生动物服务机构（KWS）对此事进行了紧急调查。",
+        "专家正在检查尸体，并将组织样本送往实验室，以确定死亡原因是否是疾病、毒素或其他因素。",
+        "安博塞利生态系统是跨越坦桑尼亚边境的一个大面积区域，以其野生动物闻名，这次大象死亡事件在该地区是几十年来首次发生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry"
+      }
+    },
+    {
+      "title_original": "Japan earthquake injures at least 100 and traps many inside shopping mall",
+      "title_zh": "日本地震：至少100人受伤，多人被困购物中心",
+      "url": "https://www.theguardian.com/world/2026/jul/28/japan-earthquake-traps-people-collapsed-shopping-mall",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-28T15:43:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本南部九州岛发生6.8级地震，造成至少100人受伤，多人被困购物中心。",
+        "地震导致数千户家庭断电，道路、桥梁和建筑物受损。",
+        "购物中心部分坍塌，预计可能有人员死亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Japan earthquake injures at least 100 and traps many inside shopping mall"
+      }
+    },
+    {
+      "title_original": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders",
+      "title_zh": "无人机入侵北约波罗的海和芬兰边境，引起恐慌和混乱",
+      "url": "https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-07-28/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-28T15:38:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约波罗的海和芬兰边境地区发生无人机入侵事件，引起了当地居民的恐慌和混乱。",
+        "相关事件的具体细节和原因尚不清楚。",
+        "北约和芬兰当局可能会对此事进行调查和应对。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders"
+      }
+    },
+    {
+      "title_original": "Uefa reacts with fury to Infantino World Cup plan",
+      "title_zh": "欧足联对英菲尼托世界杯计划感到愤怒",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T15:36:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧足联对国际足联主席英菲尼托的世界杯计划感到愤怒，该计划涉及寻求私人投资。",
+        "欧足联认为这一计划可能会损害欧洲足球的利益和竞争力。",
+        "欧足联和国际足联之间可能会就这一问题进行谈判和讨论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Uefa reacts with fury to Infantino World Cup plan"
+      }
+    },
+    {
+      "title_original": "Ukraine könnte Moskau noch im Herbst mit selbst entwickelten ballistischen Raketen angreifen",
+      "title_zh": "乌克兰可能在秋季使用自主开发的弹道导弹袭击莫斯科",
+      "url": "https://www.fr.de/politik/news-ukraine-krieg-aktuell-selenskyj-russland-hinterland-putin-wirtschaft-ticker-zr-94415991.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-28T14:53:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰可能在秋季使用自主开发的弹道导弹袭击莫斯科。",
+        "乌克兰分析集团DeepState报告称，俄罗斯军队在哈尔科夫地区的库皮扬斯克附近取得进展。",
+        "美国总统特朗普和乌克兰总统泽连斯基将在白宫举行会谈，讨论结束俄乌冲突等问题。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine könnte Moskau noch im Herbst mit selbst entwickelten ballistischen Raketen angreifen"
+      }
+    },
+    {
+      "title_original": "美国：结束俄乌冲突时机已到！乌克兰主动搅局中东为哪般？",
+      "title_zh": "美国：结束俄乌冲突时机已到！乌克兰主动搅局中东为哪般？",
+      "url": "https://m.sohu.com/a/1055929087_121737026?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-07-28T14:52:44+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "白宫官员表示，当前是结束乌克兰冲突的最佳时机，特朗普将与泽连斯基会晤讨论俄乌和平谈判。",
+        "乌克兰袭击了里海的一艘伊朗货船，造成一死一伤，乌方称船只运输援俄军事物资。",
+        "乌克兰此举意在切断里海俄伊军援运输通道，并向特朗普证明自身在地缘博弈中的利用价值。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "美国：结束俄乌冲突时机已到！乌克兰主动搅局中东为哪般？"
+      }
+    },
+    {
+      "title_original": "Taïwan va déployer des navires de guerre dans un exercice de simulation d’un blocus chinois",
+      "title_zh": "台湾将部署战舰进行模拟中国封锁演习",
+      "url": "https://lemarin.ouest-france.fr/defense/taiwan-va-deployer-des-navires-de-guerre-dans-un-exercice-de-simulation-dun-blocus-chinois-2d7122ce-8a8e-11f1-ae39-071763a6d211",
+      "source": "Le marin",
+      "source_score": 40,
+      "published_at": "2026-07-28T14:51:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾将部署战舰进行模拟中国封锁演习。",
+        "此次演习意在模拟中国对台湾的封锁行动。",
+        "台湾此举是为了应对中国日益增长的军事压力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Le marin"
+      ],
+      "all_titles": {
+        "fr": "Taïwan va déployer des navires de guerre dans un exercice de simulation d’un blocus chinois"
+      }
+    },
+    {
+      "title_original": "Mancini reappointed Italy boss after Pirlo controversy",
+      "title_zh": "曼奇尼重返意大利队主教练职位",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T13:54:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "曼奇尼重返意大利队主教练职位。",
+        "此前，皮尔洛宣布不再竞争该职位，技术总监马尔迪尼也辞职。",
+        "曼奇尼此次重返意大利队，意在带领球队走出低谷。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Mancini reappointed Italy boss after Pirlo controversy"
+      }
+    },
+    {
+      "title_original": "米ウクライナ首脳会談へ 迎撃ミサイルのライセンス生産協議か",
+      "title_zh": "美乌首脑会谈将讨论防御导弹的许可生产协议",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188951000",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-07-28T13:06:16+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美乌首脑会谈将讨论防御导弹的许可生产协议。",
+        "此次会谈意在加强美乌合作，共同应对俄罗斯的军事压力。",
+        "乌克兰希望通过此次会谈获得更多的军事支持。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "米ウクライナ首脳会談へ 迎撃ミサイルのライセンス生産協議か"
+      }
+    },
+    {
+      "title_original": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "title_zh": "过去的火灾表明，欧洲和北美野火的影响可能会持续数年",
+      "url": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-28T13:00:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北美和欧洲的野火已经烧毁了房屋和森林，并迫使数千人逃离。",
+        "研究表明，过去的火灾对环境和人类健康的影响可能会持续数年。",
+        "加拿大和美国的城市已经受到来自加拿大森林火灾的有毒烟雾的影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Past fires suggest effects of Europe and North America wildfires may linger for years"
+      }
+    },
+    {
+      "title_original": "Actualización: Los futuros de renta variable estadounidense presentan resultados mixtos antes de la apertura del mercado, mientras se mantiene la suspensión de las hostilidades en Oriente Medio y caen las acciones de semiconductores.",
+      "title_zh": "更新：美国可变收益期货在市场开盘前表现出混合结果，东中情势暂停，半导体股票下跌",
+      "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-renta-variable-estadounidense-124848261.html",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-07-28T12:48:48+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国可变收益期货在市场开盘前表现出混合结果。",
+        "东中情势暂停，半导体股票下跌。",
+        "此消息可能对全球金融市场产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "es": "Actualización: Los futuros de renta variable estadounidense presentan resultados mixtos antes de la apertura del mercado, mientras se mantiene la suspensión de las hostilidades en Oriente Medio y caen las acciones de semiconductores."
+      }
+    },
+    {
+      "title_original": "'A narcissist': Victim's family hits out at Kohberger for challenging murder conviction",
+      "title_zh": "受害者家属批评科伯格挑战谋杀定罪是“自恋”",
+      "url": "https://www.bbc.co.uk/news/articles/cgewg57rq2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T12:27:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "布莱恩·科伯格因谋杀四名大学生而被判处四个连续的无期徒刑。",
+        "科伯格现在正在挑战他的定罪，称其基于“虚假承诺和明显的虚假信息”。",
+        "受害者家属批评科伯格的行为是“自恋”和“没有悔意”的表现。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'A narcissist': Victim's family hits out at Kohberger for challenging murder conviction"
+      }
+    },
+    {
+      "title_original": "El WEC cancela sus rondas en Oriente Medio por la guerra y irá a Barcelona y Monza",
+      "title_zh": "WEC 因战争取消在中东的比赛，将改为在巴塞罗那和蒙扎举行",
+      "url": "https://lat.motorsport.com/wec/news/wec-sustituye-oriente-medio-por-barcelona-y-monza/10842610/",
+      "source": "Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally",
+      "source_score": 55,
+      "published_at": "2026-07-28T12:16:02+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "WEC 因中东战争取消了原定的在中东的比赛。",
+        "比赛将改为在巴塞罗那和蒙扎举行，以确保参赛者的安全。",
+        "这一变化将影响到WEC的赛程和参赛者的准备。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally"
+      ],
+      "all_titles": {
+        "es": "El WEC cancela sus rondas en Oriente Medio por la guerra y irá a Barcelona y Monza"
+      }
+    },
+    {
+      "title_original": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+      "title_zh": "西雅图为美食节枪击案受害者致敬：一位“热爱生活”的人",
+      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T11:50:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西雅图的美食节上发生枪击案，造成三人死亡，四人受伤。",
+        "受害者包括一名19岁的年轻人，一名44岁的丈夫和父亲，以及一名56岁的女性。",
+        "社区为受害者举行了烛光守夜和筹款活动，以表达哀悼和支持。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'A lover of life' - Seattle pays tribute to food festival shooting victims"
+      }
+    },
+    {
+      "title_original": "70 Prozent weniger Schiffsverkehr: Ukraines Drohnenoffensive zwingt Russland, Truppen von der Krim abzuziehen",
+      "title_zh": "乌克兰无人机攻势迫使俄罗斯从克里米亚撤军",
+      "url": "https://www.fr.de/politik/ukraine-krieg-kiew-legt-russlands-schattenflotte-mit-drohnen-lahm-zr-94418231.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-28T11:45:21+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰对俄罗斯在克里米亚的补给线发动了无人机攻势，重点针对油轮、渡轮和影子舰队。",
+        "据报道，自7月初以来，已有170多艘俄罗斯船只在黑海和亚速海被攻击，许多属于影子舰队或用于克里米亚的军事补给。",
+        "由于乌克兰的无人机攻势，俄罗斯的交通能力大大减少，目前只有四列货运列车每天过桥，远远少于以前的94列。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "70 Prozent weniger Schiffsverkehr: Ukraines Drohnenoffensive zwingt Russland, Truppen von der Krim abzuziehen"
+      }
+    },
+    {
+      "title_original": "US-Militär in Europa: Trump-Regierung startet Überprüfung",
+      "title_zh": "特朗普政府对美国在欧洲的军事存在进行审查",
+      "url": "https://www.dw.com/de/usa-europa-truppenstationierung-nato-pete-hegseth-donald-trump-deutschland-iran-krieg-pentagon-armee/a-78143478",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-07-28T11:42:23+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "美国国防部开始对其在欧洲的军事存在进行审查，包括驻扎在欧洲的美军人数和装备。",
+        "审查的目的是确保美国在欧洲的军事存在符合当前的美国战略，并加速北约向更强大、更公平和更可持续的联盟的转变。",
+        "美国国防部长皮特·赫格塞斯表示，审查将在六个月内完成，并将评估各个国家的贡献，包括德国。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "de": "US-Militär in Europa: Trump-Regierung startet Überprüfung"
+      }
+    },
+    {
+      "title_original": "+++ 12:52 Ukraine: Erfolgreicher Angriff auf russisches \"Öldepot von nationaler Bedeutung\" +++",
+      "title_zh": "乌克兰成功袭击俄罗斯的重要油库",
+      "url": "https://www.n-tv.de/politik/12-52-Ukraine-Erfolgreicher-Angriff-auf-russisches-Oeldepot-von-nationaler-Bedeutung-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-07-28T10:54:10+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰对俄罗斯的一个重要油库发动了成功的袭击，油库被认为对俄罗斯的军事行动至关重要。",
+        "乌克兰总统泽连斯基表示，他与美国总统特朗普讨论了乌克兰生产美国爱国者导弹的许可证以及与俄罗斯重启和平谈判的问题。",
+        "乌克兰的军事行动得到了美国的支持，美国提供了军事援助和武器。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "+++ 12:52 Ukraine: Erfolgreicher Angriff auf russisches \"Öldepot von nationaler Bedeutung\" +++"
+      }
+    },
+    {
+      "title_original": "توترات الشرق الأوسط محور اجتماعات «آسيان»",
+      "title_zh": "中东紧张局势是东盟会议的焦点",
+      "url": "https://www.alarabiya.net/politics/2026/07/28/%D8%AA%D9%88%D8%AA%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%88%D8%B3%D8%B7-%D9%85%D8%AD%D9%88%D8%B1-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D8%A7%D9%86-",
+      "source": "العربية",
+      "source_score": 40,
+      "published_at": "2026-07-28T10:53:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "东盟会议的焦点是中东的紧张局势，各国领导人讨论了该地区的安全问题和挑战。",
+        "会议旨在加强地区合作和应对中东的安全挑战，包括恐怖主义和极端主义的威胁。",
+        "东盟成员国呼吁加强地区合作和对话，以解决中东的紧张局势和促进地区的稳定与安全。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "العربية"
+      ],
+      "all_titles": {
+        "ar": "توترات الشرق الأوسط محور اجتماعات «آسيان»"
+      }
+    },
+    {
+      "title_original": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
+      "title_zh": "哈维尔·米莱伊指责美国民主党在世界杯期间资助反阿根廷运动",
+      "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-28T10:21:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "阿根廷总统哈维尔·米莱伊指责美国民主党在世界杯期间资助反阿根廷运动，称其目的是破坏阿根廷的形象和利益。",
+        "米莱伊还指责巴西和墨西哥参与了这场运动，称这些国家试图破坏阿根廷的足球队和国家形象。",
+        "米莱伊的指责遭到了美国民主党的否认，后者称这些指责毫无根据且不负责任。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup"
+      }
+    },
+    {
+      "title_original": "Pentagon launches review that could reshape US military presence in Europe",
+      "title_zh": "五角大楼启动审查，可能重塑美国在欧洲的军事存在",
+      "url": "https://www.stripes.com/theaters/europe/2026-07-28/pentagon-europe-force-posture-review-22386853.html",
+      "source": "stripes.com",
+      "source_score": 40,
+      "published_at": "2026-07-28T09:53:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "五角大楼启动了对美国在欧洲军事使命的审查，这可能会导致对美国在欧洲的军事存在进行重大调整。",
+        "审查的目标是确保北约能够快速和不可逆转地转变为欧洲承担主要的传统防御责任。",
+        "审查将考虑地缘政治和军事现实，并将提供一系列选项，包括可能的军事存在调整。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "stripes.com"
+      ],
+      "all_titles": {
+        "en": "Pentagon launches review that could reshape US military presence in Europe"
+      }
+    },
+    {
+      "title_original": "US walks out of UN Security Council meeting during France's remarks",
+      "title_zh": "美国在法国发言期间退出联合国安理会会议",
+      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T09:32:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "美国代表团在法国大使发言期间退出了联合国安理会会议，原因是法国批评美国在人权问题上的投票行为。",
+        "法国批评美国与北韩和俄罗斯一起投票反对延长联合国人权高级专员的任期。",
+        "美国代表团表示，将继续进行类似的抗议，直到法国“放弃其居高临下的和不尊重的言论”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US walks out of UN Security Council meeting during France's remarks"
+      }
+    },
+    {
+      "title_original": "Zidane confirmed as France head coach",
+      "title_zh": "齐达内确认成为法国国家队主教练",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T09:03:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "齐达内被确认成为法国国家队的新主教练，接替德尚的位置。",
+        "齐达内曾是法国国家队的球员，并在1998年世界杯中获得冠军。",
+        "他将签署一份合同，领导法国队参加2030年世界杯的预选赛。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zidane confirmed as France head coach"
+      }
+    },
+    {
+      "title_original": "Zoo staff rescue near-extinct snails from remote rock",
+      "title_zh": "动物园工作人员从偏远岩石中救出近绝灭的蜗牛",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq7e5d1gko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T08:50:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "动物园工作人员从葡萄牙的一个偏远岩石中救出了近绝灭的蜗牛，并将它们重新引入野外。",
+        "这些蜗牛被认为是最后的幸存者，动物园工作人员不得不在险恶的条件下攀爬悬崖来找到它们。",
+        "蜗牛被重新引入野外后，将被监测以确保它们的生存。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zoo staff rescue near-extinct snails from remote rock"
+      }
+    },
+    {
+      "title_original": "تايوان توقف موظفا في إنفيديا بتهمة تهريب رقائق متقدمة الى الصين",
+      "title_zh": "台湾逮捕英伟达员工，涉嫌将先进芯片偷运到中国",
+      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260728-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%AA%D9%88%D9%82%D9%81-%D9%85%D9%88%D8%B8%D9%81%D8%A7-%D9%81%D9%8A-%D8%A5%D9%86%D9%81%D9%8A%D8%AF%D9%8A%D8%A7-%D8%A8%D8%AA%D9%87%D9%85%D8%A9-%D8%AA%D9%87%D8%B1%D9%8A%D8%A8-%D8%B1%D9%82%D8%A7%D8%A6%D9%82-%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D9%8A%D9%86",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-07-28T08:39:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾当局逮捕了一名英伟达员工，涉嫌将先进芯片偷运到中国。",
+        "该员工被指控违反了台湾的出口管制规定，并可能面临严重的处罚。",
+        "此事件凸显了台湾和中国之间的紧张关系，以及对高科技产品出口的严格管制。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "تايوان توقف موظفا في إنفيديا بتهمة تهريب رقائق متقدمة الى الصين"
+      }
+    },
+    {
+      "title_original": "Ariana Grande sues hackers who leaked music and videos",
+      "title_zh": "爱莉安娜·格兰德起诉泄露音乐和视频的黑客",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T08:37:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "爱莉安娜·格兰德对两名未知黑客提起诉讼，指控他们泄露了未发行的音乐和工作室录像。",
+        "黑客通过入侵格兰德的合作者电脑，获得了未发行的音乐和录像，并将其出售在暗网上。",
+        "格兰德的律师表示，她正在采取法律行动来揭露黑客的身份，并要求赔偿。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ariana Grande sues hackers who leaked music and videos"
+      }
+    },
+    {
+      "title_original": "Was würde auf einen Waffenstillstand in der Ukraine folgen? General Bühler sieht Europa in der Nato-Falle",
+      "title_zh": "乌克兰停火后会发生什么？布勒将军认为欧洲陷入了北约困境",
+      "url": "https://www.mdr.de/nachrichten/deutschland/politik/ukraine-russland--waffenstillstand-europa-nato-falle,general-briefing-100.html",
+      "source": "MDR.de",
+      "source_score": 40,
+      "published_at": "2026-07-28T07:52:45+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "前北约将军布勒认为，欧洲需要为乌克兰停火做好准备，但这将使欧洲陷入北约困境。",
+        "布勒表示，欧洲需要建立自己的安全结构，但这将面临挑战，因为欧洲不能利用北约的优势。",
+        "他还指出，欧洲需要考虑可能的场景，并在停火后采取行动，而不是等待停火后才开始计划。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "MDR.de"
+      ],
+      "all_titles": {
+        "de": "Was würde auf einen Waffenstillstand in der Ukraine folgen? General Bühler sieht Europa in der Nato-Falle"
+      }
+    },
+    {
+      "title_original": "Ukraine’s ‘volunteer army’ helps rebuild what Russia destroys",
+      "title_zh": "乌克兰的“志愿军”帮助重建俄罗斯摧毁的地区",
+      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-volunteer-army-helps-rebuild-what-russia-destroys",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-07-28T07:48:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰的志愿军组织“Dobrobat”正在帮助重建俄罗斯摧毁的地区，包括住宅和基础设施。",
+        "该组织由当地人和一些外国志愿者组成，已经帮助超过一百万乌克兰人重建家园。",
+        "志愿军的工作包括清除瓦砾、安装临时窗户和修复房屋，以帮助乌克兰人恢复正常生活。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Ukraine’s ‘volunteer army’ helps rebuild what Russia destroys"
+      }
+    },
+    {
+      "title_original": "バーナム首相、ゼレンスキー大統領と英海軍基地を訪問　ウクライナ支持を強調",
+      "title_zh": "英国首相与泽连斯基总统访问英国海军基地，强调对乌克兰的支持",
+      "url": "https://www.bbc.com/japanese/articles/cdx8k5e01p8o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-07-28T07:13:32+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "英国首相与乌克兰总统泽连斯基访问了英国海军基地，强调了英国对乌克兰的支持。",
+        "英国首相表示，英国将继续支持乌克兰，并将与乌克兰合作，共同应对俄罗斯的侵略。",
+        "泽连斯基总统对英国的支持表示感谢，并表示乌克兰将继续与英国合作，共同维护地区安全。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "バーナム首相、ゼレンスキー大統領と英海軍基地を訪問　ウクライナ支持を強調"
+      }
+    },
+    {
+      "title_original": "Taiwán emprende una nueva ola de registros en el caso de contrabando de chips de IA a China",
+      "title_zh": "台湾展开新一轮调查，涉及向中国走私人工智能芯片",
+      "url": "https://efe.com/economia/2026-07-28/taiwan-contrabando-chips-ia-china/",
+      "source": "EFE - Agencia de noticias",
+      "source_score": 40,
+      "published_at": "2026-07-28T06:46:49+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾展开新一轮调查，涉及向中国走私人工智能芯片，多名嫌疑人被拘留。",
+        "调查人员表示，嫌疑人涉嫌违反出口管制法，向中国出售高科技产品。",
+        "台湾政府表示，将继续加强对高科技产品的出口管制，防止敏感技术流向中国。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "EFE - Agencia de noticias"
+      ],
+      "all_titles": {
+        "es": "Taiwán emprende una nueva ola de registros en el caso de contrabando de chips de IA a China"
+      }
+    },
+    {
+      "title_original": "Rôle des Etats-Unis dans l'Otan : Washington lance l'examen de sa présence militaire en Europe",
+      "title_zh": "美国在北约中的角色：华盛顿启动对其在欧洲的军事存在的审查",
+      "url": "https://www.franceinfo.fr/monde/otan/role-des-etats-unis-dans-l-otan-washington-lance-l-examen-de-sa-presence-militaire-en-europe_8124905.html",
+      "source": "franceinfo",
+      "source_score": 40,
+      "published_at": "2026-07-28T06:45:40+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "美国宣布启动对其在欧洲的军事存在的审查，以确保北约能够快速和不可逆转地朝着欧洲承担其防御责任的方向发展。",
+        "这一审查是对六月份北约防务部长会议上美国官员的声明的回应，美国官员当时表示需要重新评估其在欧洲的军事存在。",
+        "审查的结果将是北约向更加坚实、更加公平和更加可持续的联盟的转变。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "franceinfo"
+      ],
+      "all_titles": {
+        "fr": "Rôle des Etats-Unis dans l'Otan : Washington lance l'examen de sa présence militaire en Europe"
+      }
+    },
+    {
+      "title_original": "中东局势扰动令航油价格暴涨，美国各大航司紧急下调盈利预期",
+      "title_zh": "中东局势扰动令航油价格暴涨，美国各大航司紧急下调盈利预期",
+      "url": "https://news.fx678.com/202607281420281715.shtml",
+      "source": "汇通网 Fx678",
+      "source_score": 40,
+      "published_at": "2026-07-28T06:23:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势的紧张导致航油价格大幅上涨，美国各大航空公司因此紧急下调了盈利预期。",
+        "航油价格的上涨使得航空公司的成本大幅增加，难以通过提高票价来抵消这一影响。",
+        "美国航空公司、联合航空公司和西南航空公司等都下调了盈利预期，预计航油成本将继续上涨。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "汇通网 Fx678"
+      ],
+      "all_titles": {
+        "zh": "中东局势扰动令航油价格暴涨，美国各大航司紧急下调盈利预期"
+      }
+    },
+    {
+      "title_original": "普京：西方国家对俄长期制裁无效",
+      "title_zh": "普京：西方国家对俄长期制裁无效",
+      "url": "https://finance.sina.cn/2026-07-28/detail-inikivty8072990.d.html?vt=4&wm=4007,4007,4007,4007////?vt",
+      "source": "finance.sina.com.cn",
+      "source_score": 40,
+      "published_at": "2026-07-28T05:36:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯总统普京表示，西方国家对俄罗斯的长期制裁是无效的，俄罗斯经济具有很强的韧性。",
+        "普京指出，西方国家无法在战场上击败俄罗斯，现在转而使用“公开的恐怖主义手段”来对付俄罗斯人民。",
+        "他强调，俄罗斯人民不会被击垮，这种情况从未发生过，也永远不会发生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "finance.sina.com.cn"
+      ],
+      "all_titles": {
+        "zh": "普京：西方国家对俄长期制裁无效"
+      }
+    },
+    {
+      "title_original": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+      "title_zh": "从厄瓜多尔到欧洲的可卡因超级高速公路——BBC报道了帮派和警察的反击",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T05:01:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "厄瓜多尔的警察正在与帮派和腐败作斗争，以打击可卡因的贩运。",
+        "据厄瓜多尔总统称，约70%的可卡因是从厄瓜多尔运往欧洲和美国的。",
+        "警察正在努力打击帮派和腐败官员，以减少可卡因的流通。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback"
+      }
+    },
+    {
+      "title_original": "Hong Kong activist allowed to stay in UK after deportation threat",
+      "title_zh": "香港活动人士在被威胁遣返后获准留在英国",
+      "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T04:59:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "香港前反对派领袖吴志辉在被英国边境局威胁遣返后获准留在英国六个月。",
+        "吴志辉是所谓的“香港47人”之一，这是一群因国家安全罪被判入狱的知名民主活动人士。",
+        "他于六月份出狱后，希望与在英国的家人团聚。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hong Kong activist allowed to stay in UK after deportation threat"
+      }
+    }
+  ]
+}
