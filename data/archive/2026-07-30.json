@@ -1,0 +1,882 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-29T16:14:22.256535+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "中東駐留米兵の一部、携帯電話禁止も 対イラン作戦の保全強化で＝関係筋",
+      "title_zh": "中東駐留米兵的一部分，禁止使用手機，也是為了加強對伊朗行動的保密",
+      "url": "https://jp.reuters.com/world/security/FGMFUBB32RKZHJ6MHRDPV34KHI-2026-07-29/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-29T15:48:01+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中東駐留的部分美國軍人被禁止使用手機",
+        "這是為了加強對伊朗行動的保密",
+        "這一措施是為了防止情報洩露"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "中東駐留米兵の一部、携帯電話禁止も 対イラン作戦の保全強化で＝関係筋"
+      }
+    },
+    {
+      "title_original": "تحت نيران القصف وأزمات الخدمات: العراق يشهد احتجاجات شعبية جراء قطع الكهرباء واستهدافاً أمريكيا سعوديا لمواقع الحشد الشعبي.",
+      "title_zh": "伊拉克在炮火和服务危机下爆发抗议",
+      "url": "https://www.bbc.com/arabic/bbc_arabic_radio/w1730n3zr7tfmdw",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-07-29T15:46:54+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊拉克爆发抗议，原因是停電和美國、沙特阿拉伯針對民兵組織的襲擊",
+        "抗議活動是由於民眾對服務和安全的不滿",
+        "伊拉克政府面臨著重大的挑戰"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "تحت نيران القصف وأزمات الخدمات: العراق يشهد احتجاجات شعبية جراء قطع الكهرباء واستهدافاً أمريكيا سعوديا لمواقع الحشد الشعبي."
+      }
+    },
+    {
+      "title_original": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
+      "title_zh": "安東尼·福奇拒絕在美國參議院聽證會上回答關於新冠病毒起源的問題",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T15:40:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "安東尼·福奇拒絕在美國參議院聽證會上回答關於新冠病毒起源的問題",
+        "福奇援引第五修正案，認為他有權保持沉默",
+        "這一事件引發了爭議和關注"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Drohnen legen russische Mega-Raffinerie in Brand",
+      "title_zh": "烏克蘭戰爭最新消息：無人機襲擊俄羅斯大型煉油廠",
+      "url": "https://www.fr.de/politik/ukraine-krieg-aktuell-drohnen-setzen-in-hinterland-russlands-amazon-in-brand-zr-94419254.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-29T14:59:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "烏克蘭無人機襲擊俄羅斯的一個大型煉油廠",
+        "這次襲擊是烏克蘭戰爭的一部分",
+        "俄羅斯的能源產業面臨著嚴重的挑戰"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Drohnen legen russische Mega-Raffinerie in Brand"
+      }
+    },
+    {
+      "title_original": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – as it happened",
+      "title_zh": "日本地震：救援隊伍面臨時間競賽，搜尋被困倖存者",
+      "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-29T14:27:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本地震造成至少13人死亡",
+        "救援隊伍正在搜尋被困的倖存者",
+        "地震造成了嚴重的破壞和影響"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – as it happened"
+      }
+    },
+    {
+      "title_original": "Thousands in Spain return home but new heatwave raises wildfire fears",
+      "title_zh": "西班牙数千人返回家园，但新一轮热浪引发野火担忧",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T14:27:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙当局允许数千名因野火而撤离的人返回家园，托莱多、马德里、阿维拉和卡斯特利翁等地区的限制已被解除。",
+        "仅马德里地区就有24,000人被告知可以返回，另有20,000人的封锁已被解除。",
+        "西班牙和法国都在为本夏天的第四次热浪做准备，一些火灾仍在继续燃烧，包括马德里以西150公里的布尔戈洪多发生的火灾。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Thousands in Spain return home but new heatwave raises wildfire fears"
+      }
+    },
+    {
+      "title_original": "NATO Scrambles F-16s Over Aerial Threat Near Snake Island",
+      "title_zh": "北约在蛇岛附近的空中威胁下出动F-16战机",
+      "url": "https://www.newsweek.com/nato-romania-scrambles-f16-ukraine-russia-war-12258699",
+      "source": "Newsweek",
+      "source_score": 40,
+      "published_at": "2026-07-29T14:11:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北约成员国罗马尼亚在蛇岛附近发现空中威胁后出动了战机，之前三架无人机曾违反罗马尼亚的空域。",
+        "罗马尼亚国防部表示，雷达监测系统发现了一群空中目标，距离蛇岛约12英里，随后两架罗马尼亚空军的F-16战机从罗马尼亚的86号空军基地起飞进行监视。",
+        "空中目标继续进入乌克兰的空域，随后在罗马尼亚河边境附近发生了爆炸。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Newsweek"
+      ],
+      "all_titles": {
+        "en": "NATO Scrambles F-16s Over Aerial Threat Near Snake Island"
+      }
+    },
+    {
+      "title_original": "An alleged spy at NATO’s doorstep: What happened at SHAPE?",
+      "title_zh": "北约门口的间谍：SHAPE发生了什么?",
+      "url": "https://www.euronews.com/my-europe/2026/07/29/euronews-explains-why-a-belgian-probe-into-an-alleged-spy-at-nato-could-have-far-reaching-",
+      "source": "euronews.com",
+      "source_score": 75,
+      "published_at": "2026-07-29T14:08:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "一名加拿大籍的中国血统实习生在北约最高司令部被指控为外国势力进行间谍活动，案件引发了人们对外国势力在北约内部渗透的担忧。",
+        "加拿大电视网CTV报道称，这名实习生被拒绝保释，并被关押在比利时的一所监狱中，案件正在进一步调查中。",
+        "北约方面尚未对此事进行公开评论，但案件的发展引发了人们对北约内部安全的担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "euronews.com"
+      ],
+      "all_titles": {
+        "en": "An alleged spy at NATO’s doorstep: What happened at SHAPE?"
+      }
+    },
+    {
+      "title_original": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
+      "title_zh": "沙特阿拉伯加入美国对伊拉克伊朗支持的民兵组织进行打击",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T13:48:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特阿拉伯和美国对伊拉克的伊朗支持的民兵组织进行了打击，这可能是中东冲突的升级。",
+        "美国中央司令部表示，打击目标是伊朗支持的恐怖组织，伊朗革命卫队曾指示这些组织攻击美国军队和沙特阿拉伯的能源基础设施。",
+        "伊拉克的准军事组织——人民动员力量表示，他们的基地遭到了美国和沙特阿拉伯的空袭，至少20名成员被杀。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq"
+      }
+    },
+    {
+      "title_original": "(وسائط متعددة) البر الرئيسي الصيني: مسح مصايد الأسماك في المياه شرق تايوان الصينية \"مشروع وله أسباب وجيهة \"",
+      "title_zh": "中国大陆：在台湾东部海域进行渔业资源调查是有理由的",
+      "url": "https://arabic.news.cn/20260729/56fdeffd32b74bbaa907840fba002479/c.html",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-07-29T13:07:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国大陆表示，在台湾东部海域进行渔业资源调查是有理由的，目的是评估该区域的渔业资源并为可持续发展提供科学依据。",
+        "中国大陆方面称，这次调查是正常的科学研究活动，有利于两岸渔业资源的可持续发展。",
+        "台湾方面则认为，这次调查是中国大陆试图在该区域施加主权的行为，并要求增加海上巡逻和防御的预算。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "ar": "(وسائط متعددة) البر الرئيسي الصيني: مسح مصايد الأسماك في المياه شرق تايوان الصينية \"مشروع وله أسباب وجيهة \""
+      }
+    },
+    {
+      "title_original": "Actualización: Los futuros de las acciones estadounidenses bajan antes de la apertura del mercado ante la reanudación de las hostilidades en Oriente Medio y el aumento de los precios del petróleo.",
+      "title_zh": "美国股市期货下跌，中东冲突升级，油价上涨",
+      "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-bajan-125355374.html",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-07-29T12:53:55+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东地区的冲突升级导致美国股市期货下跌。",
+        "油价上涨也是影响股市的因素之一。",
+        "此次冲突升级对全球经济和能源市场产生了影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "es": "Actualización: Los futuros de las acciones estadounidenses bajan antes de la apertura del mercado ante la reanudación de las hostilidades en Oriente Medio y el aumento de los precios del petróleo."
+      }
+    },
+    {
+      "title_original": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+      "title_zh": "泽连斯基和内塔尼亚胡会见特朗普，乌克兰和伊朗战争仍在继续",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T12:17:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基和以色列总理内塔尼亚胡分别会见了美国总统特朗普。",
+        "会谈中讨论了乌克兰和伊朗的战争问题，以及美国对乌克兰的支持。",
+        "泽连斯基和特朗普还讨论了乌克兰的防空系统和美国的军事援助。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on"
+      }
+    },
+    {
+      "title_original": "Ghana hit by nationwide blackout as power plants fail",
+      "title_zh": "加纳全国范围内停电，电厂故障",
+      "url": "https://www.bbc.co.uk/news/articles/crmrkgr4z0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T12:10:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "加纳全国范围内发生停电，影响了多个地区和城市。",
+        "停电的原因是电厂故障，导致电网系统出现问题。",
+        "加纳政府和电力公司正在努力恢复电力供应。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ghana hit by nationwide blackout as power plants fail"
+      }
+    },
+    {
+      "title_original": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+      "title_zh": "日本强烈地震后发生100余次余震，造成13人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T11:47:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本九州地区发生强烈地震，造成13人死亡，多人受伤。",
+        "地震后发生了100余次余震，导致部分地区出现了新的损害。",
+        "日本政府和救援人员正在努力进行救援和恢复工作。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "More than 100 aftershocks hit Japan after powerful quake that killed 13"
+      }
+    },
+    {
+      "title_original": "Russian industrial sites on fire after Ukrainian drone attacks",
+      "title_zh": "乌克兰无人机袭击后，俄罗斯工业场所着火",
+      "url": "https://www.aljazeera.com/news/2026/7/29/russian-industrial-sites-on-fire-after-ukrainian-drone-attacks",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-07-29T11:15:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰无人机袭击了俄罗斯的工业场所，导致多处着火。",
+        "俄罗斯的在线零售商Wildberries被迫撤离其仓库。",
+        "乌克兰和俄罗斯之间的冲突仍在继续，双方都在进行军事行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russian industrial sites on fire after Ukrainian drone attacks"
+      }
+    },
+    {
+      "title_original": "La F1 2026 acabará en Europa si no puede en Oriente Medio: ¿dónde?",
+      "title_zh": "2026年F1赛季可能因中东局势不稳定而在欧洲结束",
+      "url": "https://es.motorsport.com/f1/news/planes-final-temporada-2026/10842811/",
+      "source": "Motorsport.com España",
+      "source_score": 55,
+      "published_at": "2026-07-29T11:09:20+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "2026年F1赛季可能因中东局势不稳定而在欧洲结束",
+        "F1赛事组织者将在九月中旬决定是否取消卡塔尔和阿布扎比的比赛",
+        "如果取消，这两场比赛将被欧洲的比赛所取代"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Motorsport.com España"
+      ],
+      "all_titles": {
+        "es": "La F1 2026 acabará en Europa si no puede en Oriente Medio: ¿dónde?"
+      }
+    },
+    {
+      "title_original": "Tributes paid to DJ ​and electronic ‌musician Kavinsky who has died",
+      "title_zh": "Tributes paid to DJ ​and electronic ‌musician Kavinsky who has died",
+      "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T10:35:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "法国DJ和电子音乐家Kavinsky去世，享年50岁",
+        "Kavinsky的音乐曾被用于多部电影和电视剧的配乐",
+        "他被认为是法国电子音乐界的重要人物"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Tributes paid to DJ ​and electronic ‌musician Kavinsky who has died"
+      }
+    },
+    {
+      "title_original": "Russia charges Telegram founder Durov with facilitating terrorism",
+      "title_zh": "俄罗斯指控Telegram创始人Durov涉嫌协助恐怖主义",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T10:23:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯指控Telegram创始人Durov涉嫌协助恐怖主义",
+        "Durov被指控允许乌克兰秘密服务使用Telegram进行招募",
+        "俄罗斯要求Durov关闭相关账户和频道"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia charges Telegram founder Durov with facilitating terrorism"
+      }
+    },
+    {
+      "title_original": "استئناف الضربات في الشرق الأوسط وأسعار النفط ترتفع مجدداً",
+      "title_zh": "中东局势再度升级，油价再次上涨",
+      "url": "https://sharjah24.ae/ar/Articles/2026/07/29/gh-13",
+      "source": "Sharjah24",
+      "source_score": 40,
+      "published_at": "2026-07-29T10:12:02+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势再度升级，油价再次上涨",
+        "美国和沙特阿拉伯对伊朗支持的民兵组织进行了空袭",
+        "伊朗被指控向沙特阿拉伯发射导弹"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Sharjah24"
+      ],
+      "all_titles": {
+        "ar": "استئناف الضربات في الشرق الأوسط وأسعار النفط ترتفع مجدداً"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : après des attaques iraniennes, des Jordaniens dénoncent la présence des troupes américaines sur leur sol",
+      "title_zh": "中东战争：伊朗袭击后，约旦人抗议美军驻扎",
+      "url": "https://www.leparisien.fr/international/guerre-au-moyen-orient-apres-des-attaques-iraniennes-des-jordaniens-denoncent-la-presence-des-troupes-americaines-sur-leur-sol-29-07-2026-43BTW35WUZDAZBMSMEI24Y4WPM.php",
+      "source": "Le Parisien",
+      "source_score": 40,
+      "published_at": "2026-07-29T10:06:09+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争：伊朗袭击后，约旦人抗议美军驻扎",
+        "约旦人要求美军撤出该国",
+        "伊朗被指控对沙特阿拉伯和其他中东国家发动袭击"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Le Parisien"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : après des attaques iraniennes, des Jordaniens dénoncent la présence des troupes américaines sur leur sol"
+      }
+    },
+    {
+      "title_original": "Tschechien: Präsident gegen Premier beim NATO-Gipfel",
+      "title_zh": "捷克：总统与总理在北约峰会上的对立",
+      "url": "https://www.dw.com/de/tschechiens-verfassungsgericht-ermoeglichte-pavel-teilnahme-am-nato-gipfel-gegen-willen-von-babis/a-78143248",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-07-29T09:55:12+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "捷克总统彼得·帕维尔和总理安德烈·巴比什在北约峰会上的对立引发了争议。",
+        "捷克宪法法院做出决定，允许帕维尔参加北约峰会，尽管巴比什政府反对。",
+        "这场争议凸显了捷克政府内部在对待北约和欧盟问题上的分歧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Tschechien: Präsident gegen Premier beim NATO-Gipfel"
+      }
+    },
+    {
+      "title_original": "'The shaking was terrifying': stories of survival and loss emerge after Japan earthquake",
+      "title_zh": "日本地震后幸存者和遇难者故事浮现：'摇晃令人恐惧'",
+      "url": "https://www.theguardian.com/world/2026/jul/29/japan-earthquake-stories-people-survival-loss-hikawa-uki",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-29T09:08:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本发生6.8级地震，造成人员伤亡和房屋倒塌。",
+        "救援人员正在搜索幸存者和遇难者，许多居民在汽车里度过夜以避免余震。",
+        "地震对日本南部地区造成了严重影响，许多老旧房屋倒塌。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "'The shaking was terrifying': stories of survival and loss emerge after Japan earthquake"
+      }
+    },
+    {
+      "title_original": "景気判断「緩やかに回復」維持、中東情勢引き続き注視＝7月月例報告",
+      "title_zh": "经济判断“缓慢回复”维持，中东局势继续受到关注——7月月度报告",
+      "url": "https://jp.reuters.com/markets/japan/ZME6RUYRPVMEPA6G5ZK7YHVHHU-2026-07-29/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-29T08:42:17+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本经济判断维持“缓慢回复”的状态，中东局势继续受到关注。",
+        "报告指出，中东局势的变化可能会影响全球经济和金融市场。",
+        "日本政府将继续关注中东局势的发展，并采取必要的措施应对可能的影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "景気判断「緩やかに回復」維持、中東情勢引き続き注視＝7月月例報告"
+      }
+    },
+    {
+      "title_original": "決算:ANAとJAL、中東の逆風はね返す 4〜6月客数維持し赤字回避",
+      "title_zh": "全日空和日本航空公司：中东逆风东山再起，4-6月客运量维持，避免亏损",
+      "url": "https://www.nikkei.com/article/DGXZQOUB2904D0Z20C26A7000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-07-29T08:24:50+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "全日空和日本航空公司在4-6月期间维持了客运量，避免了亏损。",
+        "两家航空公司通过提高燃油价格和增加货运业务来应对中东局势的影响。",
+        "公司的财务报告显示，尽管面临挑战，但仍然保持了盈利状态。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "決算:ANAとJAL、中東の逆風はね返す 4〜6月客数維持し赤字回避"
+      }
+    },
+    {
+      "title_original": "Fed, Oriente Medio y la gran prueba de la IA: claves en Bolsa | Resumen diario de mercados",
+      "title_zh": "美联储、 中东和人工智能的大考验：股市关键点|每日市场摘要",
+      "url": "https://www.finect.com/usuario/davidcarmona/articulos/fed-oriente-medio-y-la-gran-prueba-de-la-ia-claves-en-bolsa-resumen-diario-de-mercados",
+      "source": "Finect",
+      "source_score": 40,
+      "published_at": "2026-07-29T08:08:09+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美联储的货币政策决定和中东局势的变化是当前股市的两个关键因素。",
+        "美联储的决策可能会影响全球金融市场，中东局势的变化也可能对油价和股市产生影响。",
+        "人工智能的发展也成为股市的重要关注点，投资者正在寻找相关的投资机会。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Finect"
+      ],
+      "all_titles": {
+        "es": "Fed, Oriente Medio y la gran prueba de la IA: claves en Bolsa | Resumen diario de mercados"
+      }
+    },
+    {
+      "title_original": "CMA CGM : bond du bénéfice net au 2e trimestre malgré la guerre au Moyen-Orient",
+      "title_zh": "CMA CGM：尽管中东战争，第二季度净利润大幅增加",
+      "url": "https://www.latribune.fr/article/economie/27234241750317/cma-cgm-bond-du-benefice-net-au-2e-trimestre-malgre-la-guerre-au-moyen-orient",
+      "source": "La Tribune",
+      "source_score": 40,
+      "published_at": "2026-07-29T08:05:25+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "法国航运公司CMA CGM宣布，尽管中东战争，第二季度净利润大幅增加。",
+        "公司的净利润从去年的同期增加了48%，达到770万美元。",
+        "公司的营业收入也增加了19%，达到15.7亿美元。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "La Tribune"
+      ],
+      "all_titles": {
+        "fr": "CMA CGM : bond du bénéfice net au 2e trimestre malgré la guerre au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : les Etats-Unis et l’Arabie saoudite franchissent une étape inédite en frappant l’Irak de manière conjointe",
+      "title_zh": "中东战争：美国和沙特阿拉伯联合袭击伊拉克，开启新篇章",
+      "url": "https://www.lemonde.fr/international/article/2026/07/29/guerre-au-moyen-orient-les-etats-unis-et-l-arabie-saoudite-franchissent-une-etape-inedite-en-frappant-l-irak-de-maniere-conjointe_6736214_3210.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-07-29T07:38:47+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国和沙特阿拉伯联合袭击伊拉克，标志着中东战争的新篇章。",
+        "这是两国首次联合军事行动，旨在打击伊拉克的恐怖组织。",
+        "此次袭击是对伊拉克安全局势的回应，旨在稳定该地区。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : les Etats-Unis et l’Arabie saoudite franchissent une étape inédite en frappant l’Irak de manière conjointe"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Selenskyj berichtet von Patriot-Versprechen – „Trump hat zugesagt“",
+      "title_zh": "乌克兰战争：泽连斯基报告称特朗普承诺提供爱国者导弹",
+      "url": "https://www.fr.de/politik/ticker-news-ukraine-krieg-aktuell-selenskyj-russland-hinterland-putin-wirtschaft-zr-94415991.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-29T06:56:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基称，美国总统特朗普承诺提供爱国者导弹。",
+        "泽连斯基表示，特朗普在白宫会谈中做出了这一承诺。",
+        "爱国者导弹是乌克兰军队急需的武器，用于抵御俄罗斯的攻击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Selenskyj berichtet von Patriot-Versprechen – „Trump hat zugesagt“"
+      }
+    },
+    {
+      "title_original": "التكامل الاقتصادي في الشرق الأوسط وهم زائف",
+      "title_zh": "中东经济一体化只是一个幻觉",
+      "url": "https://www.majalla.com/node/332254/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88%D8%A3%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%88%D9%87%D9%85-%D8%B2%D8%A7%D8%A6%D9%81",
+      "source": "مجلة المجلة",
+      "source_score": 40,
+      "published_at": "2026-07-29T06:55:04+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东经济一体化计划遭到质疑，认为其只是一个幻觉。",
+        "该计划旨在将中东国家与印度和欧洲连接起来，但面临着重大的挑战。",
+        "中东国家之间的紧张关系和冲突使得该计划的实施变得困难。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "مجلة المجلة"
+      ],
+      "all_titles": {
+        "ar": "التكامل الاقتصادي في الشرق الأوسط وهم زائف"
+      }
+    },
+    {
+      "title_original": "ウクライナ無人機、ロシア各地の製油所など攻撃 小売り大手も被害",
+      "title_zh": "乌克兰无人机袭击俄罗斯各地的炼油厂和零售商",
+      "url": "https://jp.reuters.com/world/ukraine/NENUEH4I55OK7EBRNT4VYZYVT4-2026-07-29/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-29T06:38:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰无人机袭击了俄罗斯各地的炼油厂和零售商。",
+        "袭击造成了重大损害和人员伤亡。",
+        "此次袭击是乌克兰军队对俄罗斯发动的最新攻击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ無人機、ロシア各地の製油所など攻撃 小売り大手も被害"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（7月29日の動き）",
+      "title_zh": "【实时更新】俄罗斯对乌克兰进行军事侵略（7月29日动态）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141211000",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-07-29T06:12:18+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰进行军事侵略",
+        "乌克兰方面正在抵抗俄罗斯的侵略",
+        "冲突导致大量人员伤亡和流离失所"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（7月29日の動き）"
+      }
+    },
+    {
+      "title_original": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
+      "title_zh": "日本地震后展开救援行动",
+      "url": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T06:10:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本九州岛发生6.8级地震",
+        "地震导致至少13人死亡，多人失踪",
+        "救援人员正在努力救出被困人员"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake"
+      }
+    },
+    {
+      "title_original": "ウクライナ、イラン貨物船を攻撃 ロシアへの軍事支援を警告",
+      "title_zh": "乌克兰攻击伊朗货船，警告俄罗斯不要提供军事支援",
+      "url": "https://www.nikkei.com/article/DGXZQOGR290850Z20C26A7000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-07-29T05:50:55+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰攻击伊朗货船，原因是该船涉嫌运输军需品给俄罗斯",
+        "伊朗对此事表示强烈不满，警告可能会进行报复",
+        "事件导致乌克兰和伊朗之间的紧张关系加剧"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、イラン貨物船を攻撃 ロシアへの軍事支援を警告"
+      }
+    },
+    {
+      "title_original": "Four women accuse Jared Leto of criminal sexual conduct",
+      "title_zh": "四名女性指控杰瑞德·莱托涉及刑事性行为",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T05:00:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "四名女性指控杰瑞德·莱托在她们年轻时对其进行了性侵犯或不当性行为",
+        "指控发生在2002年至2016年之间，莱托当时三十多岁到四十多岁",
+        "事件引发了人们对名人性侵犯问题的关注"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Four women accuse Jared Leto of criminal sexual conduct"
+      }
+    },
+    {
+      "title_original": "الجيش الأميركي يعلن اعتراض صواريخ إيرانية استهدفت قواته بالشرق الأوسط",
+      "title_zh": "美国军方宣布拦截了伊朗针对其在中东的部队发射的导弹",
+      "url": "https://asharq.com/iran/191360/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%AA%D9%87-%D8%A8%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9/",
+      "source": "الشرق للأخبار",
+      "source_score": 40,
+      "published_at": "2026-07-29T04:54:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国军方宣布成功拦截了伊朗发射的导弹",
+        "导弹目标是美国在中东的部队",
+        "事件可能导致美国和伊朗之间的紧张关系进一步加剧"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "الشرق للأخبار"
+      ],
+      "all_titles": {
+        "ar": "الجيش الأميركي يعلن اعتراض صواريخ إيرانية استهدفت قواته بالشرق الأوسط"
+      }
+    }
+  ]
+}
