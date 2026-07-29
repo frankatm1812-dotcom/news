@@ -1,8 +1,608 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T03:36:52.466038+00:00",
-  "count": 67,
+  "generated_at": "2026-07-29T08:20:04.844108+00:00",
+  "count": 93,
   "articles": [
+    {
+      "title_original": "Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – live updates",
+      "title_zh": "日本地震死亡人数升至至少13人，救援队伍面临时间紧迫的挑战",
+      "url": "https://www.theguardian.com/world/live/2026/jul/29/sanae-takaichi-rescue-trapped-shopping-centre-mall-japan-earthquake-latest-news-updates",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-29T07:41:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本南部地区发生强烈地震，造成至少13人死亡，数百人受伤，数万人失去电力和水供应。",
+        "救援队伍正在进行搜救工作，试图找到被困的幸存者。",
+        "日本政府动员了数千名人员参与救援工作，包括军队和应急人员。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘Race against time’: Japan earthquake death toll rises as rescue teams search for missing"
+      }
+    },
+    {
+      "title_original": "ASEAN nuclear choices , geopolitical consequences",
+      "title_zh": "东南亚核能选择与地缘政治后果",
+      "url": "http://www.bignewsnetwork.com/news/279214476/asean-nuclear-choices-geopolitical-consequences",
+      "source": "bignewsnetwork.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:04:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "东南亚国家联盟（ASEAN）成员国中，超过半数正在重新考虑核能，包括越南、印度尼西亚和菲律宾。",
+        "核能被视为解决能源需求和气候变化问题的方案，但也带来地缘政治后果，包括对供应商的依赖和战略对齐。",
+        "主要供应商包括俄罗斯、美国及其盟国日本和韩国，以及中国。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "bignewsnetwork.com"
+      ],
+      "all_titles": {
+        "en": "ASEAN nuclear choices , geopolitical consequences"
+      }
+    },
+    {
+      "title_original": "Indian markets open sharply higher on positive global cues ; Sensex up 650 points , Nifty above 175 points",
+      "title_zh": "印度市场在积极的全球信号下大幅走高，Sensex 上涨 650 点，Nifty 超过 175 点",
+      "url": "http://www.indiagazette.com/news/279214367/indian-markets-open-sharply-higher-on-positive-global-cues-sensex-up-650-points-nifty-above-175-points",
+      "source": "indiagazette.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:04:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "印度股市在积极的全球信号下大幅走高，Sensex 上涨 653.82 点，Nifty 上涨 175.60 点。",
+        "此次上涨是由于全球大宗商品价格的变化和新关税措施的实施，投资者正在密切关注其对贸易和市场情绪的影响。",
+        "亚洲市场表现出显著的分化，恒生指数上涨 1.37%，韩国 KOSPI 指数下跌 8.90%。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "indiagazette.com"
+      ],
+      "all_titles": {
+        "en": "Indian markets open sharply higher on positive global cues ; Sensex up 650 points , Nifty above 175 points"
+      }
+    },
+    {
+      "title_original": "Readers sound off on Trump base , Black unemployment and Adrienne Adams",
+      "title_zh": "读者对特朗普的支持者、黑人失业率和阿德里安·亚当斯发表意见",
+      "url": "https://www.nydailynews.com/2026/07/29/readers-sound-off-on-trumps-base-black-unemployment-and-adrienne-adams/",
+      "source": "nydailynews.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:03:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普的支持者们对他的政策持有不同的看法，一些人认为他正在利用他们的不满情绪来维持自己的权力。",
+        "特朗普的支持者们也对他的经济政策持有不同的看法，一些人认为他正在帮助美国的工人阶级，而另一些人则认为他正在伤害他们的利益。",
+        "特朗普的支持者们对他的外交政策也持有不同的看法，一些人认为他正在使美国更加强大，而另一些人则认为他正在使美国更加孤立。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "nydailynews.com"
+      ],
+      "all_titles": {
+        "en": "Readers sound off on Trump base , Black unemployment and Adrienne Adams"
+      }
+    },
+    {
+      "title_original": "AP News Summary at 1 : 16 a . m . EDT",
+      "title_zh": "美联社新闻摘要（东部时间 1:16）",
+      "url": "http://www.gazettextra.com/news/nation_world/ap-news-summary-at-1-16-a-m-edt/article_a22ea8f1-02c3-5648-8127-235d08f278a0.html",
+      "source": "gazettextra.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:03:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "约旦军方称其拦截了来自伊朗的五枚导弹，导弹已被销毁，没有人员伤亡报告。",
+        "美国军方称其击落了伊朗发射的导弹，并与沙特阿拉伯军队合作打击伊拉克境内的伊朗支持的武装组织。",
+        "日本发生 7.1 级地震，造成至少 13 人死亡，救援工作正在进行。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "gazettextra.com"
+      ],
+      "all_titles": {
+        "en": "AP News Summary at 1 : 16 a . m . EDT"
+      }
+    },
+    {
+      "title_original": "Iran Missile Attack and US - Saudi Strikes Raise Regional Tensions",
+      "title_zh": "伊朗导弹袭击和美沙军事打击升级地区紧张局势",
+      "url": "https://www.1090kaay.com/2026/07/29/iran-missile-attack-and-us-saudi-strikes-raise-regional-tensions/",
+      "source": "1090kaay.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:03:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗向美国军事目标在约旦发射了弹道导弹，约旦空军拦截了导弹，没有人员伤亡报告。",
+        "美国和沙特阿拉伯军队对伊拉克境内的伊朗支持的武装组织进行了联合打击。",
+        "霍尔木兹海峡地区的紧张局势升级，伊朗当局称三艘油轮因涉嫌违反航行规定而被拦截。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "1090kaay.com"
+      ],
+      "all_titles": {
+        "en": "Iran Missile Attack and US - Saudi Strikes Raise Regional Tensions"
+      }
+    },
+    {
+      "title_original": "AP News in Brief at 12 : 04 a . m . EDT",
+      "title_zh": "美联社新闻简报（东部时间 12:04）",
+      "url": "http://www.hngnews.com/nation_world/ap-news-in-brief-at-12-04-a-m-edt/article_1ff9dcf1-74cd-5901-acd6-bb3d59d32e9a.html",
+      "source": "hngnews.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:03:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国军方称其击落了伊朗发射的导弹，并与沙特阿拉伯军队合作打击伊拉克境内的伊朗支持的武装组织。",
+        "日本发生 7.1 级地震，造成至少 13 人死亡，救援工作正在进行。",
+        "美国参议院确认 Jay Clayton 为国家情报局局长。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "hngnews.com"
+      ],
+      "all_titles": {
+        "en": "AP News in Brief at 12 : 04 a . m . EDT"
+      }
+    },
+    {
+      "title_original": "China puts the squeeze on Taiwan with new maritime patrols - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+      "title_zh": "中国对台湾施加压力，展开新海上巡逻",
+      "url": "https://dominicanrepublicpost.com/china-puts-the-squeeze-on-taiwan-with-new-maritime-patrols/",
+      "source": "dominicanrepublicpost.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:03:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国的海岸警卫队和民用船队正在台湾东部海域扩大存在，引发人们担忧北京可能正在排练一种包围战略，切断台湾与外界的贸易和援助。",
+        "中国的海事安全管理局和海岸警卫队在六月和七月份进行了多次巡逻和“特殊海事执法行动”",
+        "这是中国巡逻队首次在台湾东部海域如此快速地展开巡逻"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "dominicanrepublicpost.com"
+      ],
+      "all_titles": {
+        "en": "China puts the squeeze on Taiwan with new maritime patrols - Dominican Republic Post – Caribbean News , Business , Travel & Culture"
+      }
+    },
+    {
+      "title_original": "Electrolux Group Interim report Q2 2026",
+      "title_zh": "伊莱克斯集团2026年第二季度中期报告",
+      "url": "https://www.itnewsonline.com/PRNewswire/Electrolux-Group-Interim-report-Q2-2026/1139385",
+      "source": "itnewsonline.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:01:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "伊莱克斯集团发布2026年第二季度中期报告，净销售额为31.569亿瑞典克朗，同比增长2.0%。",
+        "营业收入为1.202亿瑞典克朗，同比增长3.8%。",
+        "公司正在执行战略计划，包括与美的集团在北美的合作"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "itnewsonline.com"
+      ],
+      "all_titles": {
+        "en": "Electrolux Group Interim report Q2 2026"
+      }
+    },
+    {
+      "title_original": "NZX hits record close as Fisher and Paykel Healthcare shares at all - time high – Market close",
+      "title_zh": "新西兰交易所创下历史新高，费舍尔和派克医疗保健公司股价创下历史新高",
+      "url": "https://www.nzherald.co.nz/business/markets/shares/nzx-hits-record-close-as-fisher-and-paykel-healthcare-shares-at-all-time-high-market-close/premium/USSMX6PVMBHQ5J7FOXC6TBEQQU/",
+      "source": "nzherald.co.nz",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:01:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "新西兰交易所创下历史新高，费舍尔和派克医疗保健公司股价创下历史新高",
+        "费舍尔和派克医疗保健公司股价上涨2.45%，达到41.75新西兰元",
+        "市场领先者费舍尔和派克医疗保健公司的股价上涨，推动了新西兰交易所的历史新高"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "nzherald.co.nz"
+      ],
+      "all_titles": {
+        "en": "NZX hits record close as Fisher and Paykel Healthcare shares at all - time high – Market close"
+      }
+    },
+    {
+      "title_original": "June inflation drops to 3 . 8 per cent , pushes down interest rate rise fears",
+      "title_zh": "六月通胀率下降到3.8%，降低了加息担忧",
+      "url": "https://www.watoday.com.au/politics/federal/unexpected-drop-in-inflation-squashes-rate-rise-fears-20260729-p60jh4.html",
+      "source": "watoday.com.au",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:01:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "澳大利亚六月通胀率下降到3.8%，低于预期",
+        "核心通胀率保持不变，仍然高于预期",
+        "澳大利亚储备银行可能不会在近期加息"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "watoday.com.au"
+      ],
+      "all_titles": {
+        "en": "June inflation drops to 3 . 8 per cent , pushes down interest rate rise fears"
+      }
+    },
+    {
+      "title_original": "Russia FSB charges Telegram founder Durov with facilitating terrorism",
+      "title_zh": "俄罗斯联邦安全局指控Telegram创始人杜洛夫涉嫌支持恐怖主义",
+      "url": "https://www.yahoo.com/news/articles/russias-fsb-charges-telegram-founder-055758645.html",
+      "source": "yahoo.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:01:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯联邦安全局指控Telegram创始人杜洛夫涉嫌支持恐怖主义",
+        "杜洛夫被指控通过Telegram平台支持恐怖主义活动",
+        "俄罗斯政府一直试图限制Telegram在俄罗斯的使用"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "yahoo.com"
+      ],
+      "all_titles": {
+        "en": "Russia FSB charges Telegram founder Durov with facilitating terrorism"
+      }
+    },
+    {
+      "title_original": "國際現勢 -- 開欄文 - 時事論壇",
+      "title_zh": "國際現勢",
+      "url": "https://city.udn.com/2976/7291863?raid=7297423",
+      "source": "city.udn.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:01:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "俄羅斯可能對波蘭發動攻擊，以測試北約的決心，美國發出警告。",
+        "北約東翼國家正在準備應對俄羅斯的潛在攻擊，同時美國的承諾受到質疑。",
+        "俄羅斯已經在其與芬蘭和其他歐盟國家的邊境地區建立了軍事存在，引發了歐洲的安全擔憂。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "city.udn.com"
+      ],
+      "all_titles": {
+        "en": "國際現勢 -- 開欄文 - 時事論壇"
+      }
+    },
+    {
+      "title_original": "How Zelenskyy united kingdom visit could shape Europe next security chapter",
+      "title_zh": "澤連斯基訪問英國如何影響歐洲下一章安全",
+      "url": "https://news.az/news/how-zelenskyy-s-uk-visit-could-shape-europe-s-next-security-chapter",
+      "source": "news.az",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "澤連斯基的英國訪問可能對歐洲的安全局勢產生影響。",
+        "訪問的具體內容和結果尚不清楚。",
+        "歐洲的安全局勢正在受到多方因素的影響，包括俄羅斯的行動和北約的應對。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "news.az"
+      ],
+      "all_titles": {
+        "en": "How Zelenskyy united kingdom visit could shape Europe next security chapter"
+      }
+    },
+    {
+      "title_original": "StanChart unveils fresh US$1 billion buyback as Q2 earnings beat estimates",
+      "title_zh": "渣打銀行宣布新一輪100億美元股份回購計劃，第二季度盈利超出預期",
+      "url": "https://www.businesstimes.com.sg/international/global/stanchart-unveils-fresh-us1-billion-buyback-q2-earnings-beat-estimates",
+      "source": "businesstimes.com.sg",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "渣打銀行宣布新一輪100億美元股份回購計劃。",
+        "銀行的第二季度盈利超出預期，達到23.3億美元。",
+        "銀行的業績受到中東衝突的影響，同時也面臨著中國對跨境資產的監管。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "businesstimes.com.sg"
+      ],
+      "all_titles": {
+        "en": "StanChart unveils fresh US$1 billion buyback as Q2 earnings beat estimates"
+      }
+    },
+    {
+      "title_original": "Canadian NATO intern arrested on espionage charges by Belgian police",
+      "title_zh": "加拿大北約實習生被比利時警察以間諜罪名逮捕",
+      "url": "https://theprovince.com/news/canadian-nato-intern-espionage/wcm/b97db6db-7900-4f46-8b2d-b02104d2d373",
+      "source": "theprovince.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T07:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "一名加拿大北約實習生被比利時警察以間諜罪名逮捕。",
+        "實習生被懷疑為第三國從事間諜活動，並且是犯罪組織的一員。",
+        "北約的安全局勢受到影響，正在調查此事。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "theprovince.com"
+      ],
+      "all_titles": {
+        "en": "Canadian NATO intern arrested on espionage charges by Belgian police"
+      }
+    },
+    {
+      "title_original": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
+      "title_zh": "日本地震后面临时间紧迫的挑战，救援队伍努力营救被困人员",
+      "url": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T06:10:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本南部地区发生6.8级地震，造成至少13人死亡，数百人受伤。",
+        "救援队伍正在进行搜救工作，试图找到被困的幸存者。",
+        "日本政府表示，将全力以赴进行救援工作，优先考虑安全。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'I thought I would die': Survivors describe the shock and horror of powerful Japan earthquake"
+      }
+    },
+    {
+      "title_original": "ICE arrests at US airports are happening more frequently , attorneys say . Here what we know",
+      "title_zh": "美國律師稱美國機場的ICE逮捕事件發生頻率增加，以下是目前的情況",
+      "url": "https://abc17news.com/news/national-world/cnn-national/2026/07/28/ice-arrests-at-us-airports-are-happening-more-frequently-attorneys-say-heres-what-we-know/",
+      "source": "abc17news.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T06:04:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美國機場的ICE逮捕事件發生頻率增加。",
+        "律師稱此事與移民政策和執法相關。",
+        "具體的逮捕事件和原因尚不清楚。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "abc17news.com"
+      ],
+      "all_titles": {
+        "en": "ICE arrests at US airports are happening more frequently , attorneys say . Here what we know"
+      }
+    },
+    {
+      "title_original": "[ Editorial ] The alarming prospect of more North Korean troops for Russia",
+      "title_zh": "令人担忧的北韩向俄罗斯增派兵力",
+      "url": "https://english.hani.co.kr/arti/english_edition/english_editorials/1270453.html",
+      "source": "english.hani.co.kr",
+      "source_score": 40,
+      "published_at": "2026-07-29T06:01:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基声称俄罗斯希望从北韩获得另外3万名士兵。",
+        "如果北韩决定再次派遣大量部队，俄罗斯和北韩的联盟将进一步加强，北韩获得威胁韩国国家安全的军事技术的风险将增加。",
+        "俄罗斯总统普京邀请北韩外交部长崔善慧访问莫斯科，讨论两国的战略合作。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "english.hani.co.kr"
+      ],
+      "all_titles": {
+        "en": "[ Editorial ] The alarming prospect of more North Korean troops for Russia"
+      }
+    },
+    {
+      "title_original": "America Nuclear Contradiction in West Asia - The Times of India",
+      "title_zh": "美国在西亚的核矛盾",
+      "url": "https://timesofindia.indiatimes.com/toi-blogs/beyond-borders/americas-nuclear-contradiction-in-west-asia/articleshow/132701186.cms",
+      "source": "timesofindia.indiatimes.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T06:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国与沙特阿拉伯签署了民用核能合作协议，尽管美国与伊朗在伊朗铀浓缩计划问题上存在军事对峙。",
+        "这一协议引发了人们对美国核不扩散政策的一致性的质疑，因为沙特阿拉伯可能会获得铀浓缩能力。",
+        "这一发展可能会加剧伊朗的不满，因为伊朗认为美国的核不扩散政策是为了限制伊朗的影响力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "timesofindia.indiatimes.com"
+      ],
+      "all_titles": {
+        "en": "America Nuclear Contradiction in West Asia - The Times of India"
+      }
+    },
+    {
+      "title_original": "The new nuclear terror",
+      "title_zh": "新的核恐怖",
+      "url": "https://www.newstatesman.com/cover-story/2026/07/the-new-nuclear-terror",
+      "source": "newstatesman.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T06:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "没有提供相关信息，因为正文为空。",
+        "无法提供具体的事实内容。",
+        "请提供完整的正文以便进行分析。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "newstatesman.com"
+      ],
+      "all_titles": {
+        "en": "The new nuclear terror"
+      }
+    },
+    {
+      "title_original": "'No safe options' for thousands sheltering in key Sudan city as RSF fighters advance",
+      "title_zh": "苏丹关键城市成千上万人无处可躲，RSF战斗人员推进",
+      "url": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T05:01:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "苏丹城市el-Obeid成千上万人无处可躲，RSF战斗人员推进，人们表示他们没有安全的选择。",
+        "联合国表示，el-Obeid已成为逃离周边地区暴力的人们的重要避难所。",
+        "RSF战斗人员已对el-Obeid市发动了无人机袭击，人们表示他们担心类似于el-Fasher大屠杀的暴力事件可能会再次发生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'No safe options' for thousands sheltering in key Sudan city as RSF fighters advance"
+      }
+    },
+    {
+      "title_original": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+      "title_zh": "以色列定居者围攻我们的家：巴勒斯坦村庄每周遭到攻击",
+      "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T05:01:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "巴勒斯坦村庄al-Mughayyir每周遭到以色列定居者的攻击，村民们表示他们的家园被围攻。",
+        "以色列军队和边境警察已进入村庄，村民们表示他们受到威胁和恐惧。",
+        "以色列定居者已在巴勒斯坦土地上建立了100多个定居点，巴勒斯坦人表示这是对他们领土的侵犯。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack"
+      }
+    },
+    {
+      "title_original": "Four women accuse Jared Leto of criminal sexual conduct",
+      "title_zh": "四名女性指控杰瑞德·莱托犯有刑事性行为",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T05:00:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "四名女性指控杰瑞德·莱托犯有刑事性行为，包括强奸和性骚扰，事件发生在她们还是青少年时。",
+        "这些女性的指控均发生在2002年至2016年间，莱托当时三十多岁到四十多岁。",
+        "BBC已核实了部分指控的细节，并采访了多名证人，包括莱托的前同事和受害者的家人。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Four women accuse Jared Leto of criminal sexual conduct"
+      }
+    },
     {
       "title_original": "Taiwán: la isla que desafía a China, explicada en mapas",
       "title_zh": "台湾：挑战中国的岛屿，以地图解释",
@@ -78,6 +678,31 @@
       ],
       "all_titles": {
         "en": "Trump administration bans new Chinese humanoid robots"
+      }
+    },
+    {
+      "title_original": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+      "title_zh": "泽连斯基和内塔尼亚胡会见特朗普，乌克兰和伊朗战争仍在继续",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T02:24:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基和以色列总理内塔尼亚胡分别会见了美国总统特朗普，讨论了乌克兰和中东的安全问题。",
+        "泽连斯基希望美国能够提供更多的军事援助，包括爱国者导弹，以帮助乌克兰抵御俄罗斯的攻击。",
+        "内塔尼亚胡的访问旨在改善以色列与美国的关系，尤其是在伊朗问题上的合作。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on"
       }
     },
     {
@@ -178,6 +803,31 @@
       ],
       "all_titles": {
         "ja": "ゼレンスキー氏、トランプ氏と会談 防空体制と外交の再開について協議"
+      }
+    },
+    {
+      "title_original": "Kenya investigating unexpected deaths of 15 elephants in national park",
+      "title_zh": "肯尼亚调查安博塞利国家公园15头大象意外死亡事件",
+      "url": "https://www.theguardian.com/world/2026/jul/29/elephant-deaths-kenya-amboseli-national-park",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-29T00:48:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "肯尼亚安博塞利国家公园内15头大象在过去一个月内死亡，肯尼亚野生动物服务机构正在调查此事。",
+        "10头大象在死亡前显示出部分瘫痪的症状，两天内死亡。",
+        "有关部门正在检测可能的有毒物质，试图确定大象死亡的原因。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Kenya investigating unexpected deaths of 15 elephants in national park"
       }
     },
     {
