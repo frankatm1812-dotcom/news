@@ -1,8 +1,735 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-28T16:56:22.696041+00:00",
-  "count": 35,
+  "generated_at": "2026-07-29T03:36:52.466038+00:00",
+  "count": 67,
   "articles": [
+    {
+      "title_original": "Taiwán: la isla que desafía a China, explicada en mapas",
+      "title_zh": "台湾：挑战中国的岛屿，以地图解释",
+      "url": "https://elpais.com/videos/2026-07-29/taiwan-la-isla-que-desafia-a-china-explicada-en-mapas.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-07-29T03:15:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾是位于中国东部海岸的一座岛屿，长期以来一直是中国和美国之间的地缘政治紧张点。",
+        "台湾的政治地位复杂，中国认为台湾是其领土的一部分，而台湾则认为自己是一个独立的国家。",
+        "近年来，台湾和中国之间的紧张关系加剧，美国也在该地区增加了军事存在。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Taiwán: la isla que desafía a China, explicada en mapas"
+      }
+    },
+    {
+      "title_original": "Iran and US trade strikes, shattering brief lull in fighting",
+      "title_zh": "伊朗和美国交换打击，短暂的停火结束",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T02:47:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗和美国在中东地区交换打击，伊朗发射了多枚弹道导弹，美国军队成功拦截了这些导弹。",
+        "美国和沙特阿拉伯军队对伊拉克东部的伊朗支持的恐怖组织发动了打击，伊朗方面尚未对此作出评论。",
+        "此次交换打击结束了伊朗和美国之间短暂的停火，两国之间的紧张关系加剧。"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World",
+        "La Presse"
+      ],
+      "all_titles": {
+        "en": "Iran and US trade strikes, shattering brief lull in fighting",
+        "fr": "Après la rencontre Trump-Nétanyahou | Reprise des frappes au Moyen-Orient, le pétrole repart à la hausse"
+      }
+    },
+    {
+      "title_original": "Trump administration bans new Chinese humanoid robots",
+      "title_zh": "特朗普政府禁止进口新的中国人形机器人",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T02:30:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普政府宣布禁止进口新的中国制造的人形机器人，理由是担心国家安全风险。",
+        "这一禁令也适用于其他高级机器人和设备，包括用于数据中心和太阳能板的逆变器。",
+        "中国驻华盛顿大使馆对这一决定表示反对，称美国的做法是“无理的”和“不公平的”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump administration bans new Chinese humanoid robots"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Selenskyj: Trump hat uns Patriot-Lizenzen zugesagt",
+      "title_zh": "乌克兰战争：泽连斯基称特朗普承诺提供爱国者导弹许可",
+      "url": "https://www.tagesspiegel.de/internationales/ukraine-krieg-selenskyj-trump-hat-uns-patriot-lizenzen-zugesagt-15891188.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-07-29T02:19:57+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基称，美国总统特朗普承诺提供爱国者导弹许可，帮助乌克兰加强防御能力。",
+        "泽连斯基表示，这将有助于乌克兰更快地增加爱国者导弹的生产，以抵御俄罗斯的攻击。",
+        "特朗普政府尚未对此作出评论，爱国者导弹是乌克兰抵御俄罗斯攻击的重要武器。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Selenskyj: Trump hat uns Patriot-Lizenzen zugesagt"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Wildberries attacks shake Russian economy and banking",
+      "title_zh": "乌克兰战争简报：野莓攻击震撼俄罗斯经济和银行",
+      "url": "https://www.theguardian.com/world/2026/jul/29/ukraine-war-briefing-wildberries-attacks-shake-russian-economy-and-banking",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-07-29T01:35:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "克里姆林宫承认可能需要支持在线零售商Wildberries，因为它在乌克兰无人机袭击中损失了10%的仓储容量和大量库存。",
+        "基辅方面表示，他们的部队正在攻击“俄罗斯的亚马逊”，因为它在为莫斯科的军队提供物资方面发挥了作用。",
+        "克里姆林宫发言人德米特里·佩斯科夫赞扬Wildberries为其仓库被毁的第三方卖家提供了援助。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Wildberries attacks shake Russian economy and banking"
+      }
+    },
+    {
+      "title_original": "الدولار يتمسك بمستوياته المرتفعة مع اقتراب قرار الاتحادي",
+      "title_zh": "美元坚持在联邦决策临近时的高位",
+      "url": "https://www.reuters.com/ar/business/MQH7XSI2FRNAHGDS72W3EDA2CQ-2026-07-29/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-29T01:09:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美元在联邦决策临近时保持高位。",
+        "此前，美元已连续走高，市场预期联邦将会采取进一步的货币政策措施。",
+        "美元的走势将对全球金融市场产生重要影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الدولار يتمسك بمستوياته المرتفعة مع اقتراب قرار الاتحادي"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー氏、トランプ氏と会談 防空体制と外交の再開について協議",
+      "title_zh": "泽连斯基与特朗普会谈，讨论防空体系和外交关系重启",
+      "url": "https://www.cnn.co.jp/world/35251051.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-07-29T01:08:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基与美国总统特朗普会谈，讨论了防空体系和外交关系重启的问题。",
+        "泽连斯基表示，乌克兰需要美国的支持，以维护国家安全和防御能力。",
+        "会谈中，双方还讨论了乌克兰冲突的解决方案和地区安全问题。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー氏、トランプ氏と会談 防空体制と外交の再開について協議"
+      }
+    },
+    {
+      "title_original": "12 NATO Members Agree To Strengthen High North Maritime Security",
+      "title_zh": "12个北约成员国同意加强北极海上安全",
+      "url": "https://www.eurasiareview.com/29072026-12-nato-members-agree-to-strengthen-high-north-maritime-security/",
+      "source": "Eurasia Review",
+      "source_score": 40,
+      "published_at": "2026-07-29T00:35:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "12个北约成员国同意加强北极海上安全合作。",
+        "此举是为了应对北极地区日益增长的安全挑战和潜在威胁。",
+        "北约成员国将加强在北极地区的军事存在和合作，确保该地区的稳定和安全。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Eurasia Review"
+      ],
+      "all_titles": {
+        "en": "12 NATO Members Agree To Strengthen High North Maritime Security"
+      }
+    },
+    {
+      "title_original": "L’armée américaine affirme avoir déjoué une attaque de missiles iraniens",
+      "title_zh": "美国军方称挫败了伊朗导弹袭击",
+      "url": "https://www.ledevoir.com/monde/moyen-orient/998015/armee-americaine-affirme-avoir-dejoue-attaque-missiles-iraniens",
+      "source": "Le Devoir",
+      "source_score": 40,
+      "published_at": "2026-07-29T00:34:37+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国军方称，他们挫败了伊朗对中东美国军事目标的导弹袭击。",
+        "此次袭击是伊朗最近对美国在中东的军事存在采取的挑衅行为之一。",
+        "美国军方表示，他们将继续保持高度警惕和应对准备，以应对伊朗的任何潜在威胁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Le Devoir"
+      ],
+      "all_titles": {
+        "fr": "L’armée américaine affirme avoir déjoué une attaque de missiles iraniens"
+      }
+    },
+    {
+      "title_original": "中东局势升温，油价跳涨结束三连跌，亚太股市迎来反弹，韩国股指一度超3%",
+      "title_zh": "中东局势升温，油价跳涨结束三连跌，亚太股市迎来反弹，韩国股指一度超3%",
+      "url": "https://m.sohu.com/a/1056028628_130887?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-07-29T00:30:29+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势重燃推动油价大幅反弹，亚太股市在半导体板块带动下整体走强。",
+        "美国中央司令部宣布成功拦截伊朗对驻中东美军发动的弹道导弹袭击，布伦特原油随即跳涨逾3%。",
+        "韩国首尔综指涨幅扩大至逾3%，SK海力士凭借季度利润557%的爆发式增长成为最大贡献者。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "中东局势升温，油价跳涨结束三连跌，亚太股市迎来反弹，韩国股指一度超3%"
+      }
+    },
+    {
+      "title_original": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+      "title_zh": "墨西哥贩毒集团如何将甲基苯丙胺实验室外包给尼日利亚",
+      "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T23:25:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "墨西哥贩毒集团将甲基苯丙胺实验室外包给尼日利亚，尼日利亚当局抓获多名涉案人员。",
+        "被抓获的嫌疑人包括三名墨西哥人和七名尼日利亚人，据称他们使用先进设备生产甲基苯丙胺。",
+        "尼日利亚国家禁毒局表示，这是该国历史上最大的一次甲基苯丙胺缉获行动，价值约360万美元。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "How Mexican drug cartels have outsourced meth labs to Nigeria"
+      }
+    },
+    {
+      "title_original": "FCC bans humanoid robots from China, citing ‘unacceptable risks’",
+      "title_zh": "美国联邦通信委员会禁止中国人形机器人，理由是存在不可接受的风险",
+      "url": "https://www.theguardian.com/us-news/2026/jul/28/fcc-ban-humanoid-robots-china",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-28T23:24:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国联邦通信委员会（FCC）宣布禁止中国人形机器人进入美国市场，理由是存在不可接受的风险。",
+        "FCC将被禁止的机器人定义为“高级机器人设备”，包括人形和四足机器人。",
+        "这一决定是特朗普政府为限制中国技术进入美国市场而采取的最新措施。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "FCC bans humanoid robots from China, citing ‘unacceptable risks’"
+      }
+    },
+    {
+      "title_original": "الجيش الأمريكي يعلن \"اعتراض صواريخ أطلقها الحرس الثوري على القوات المتمركزة في الشرق الأوسط\"",
+      "title_zh": "美国军方宣布拦截伊朗革命卫队对中东驻军发动的导弹袭击",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/07/29/us-military-says-it-intercepted-iranian-surprise-attack",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-07-28T22:54:24+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国军方宣布成功拦截伊朗革命卫队对中东驻军发动的导弹袭击。",
+        "伊朗革命卫队宣布对美国在约旦的军事目标发动导弹袭击。",
+        "美国军方表示，所有伊朗发动的导弹都被成功拦截。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "الجيش الأمريكي يعلن \"اعتراض صواريخ أطلقها الحرس الثوري على القوات المتمركزة في الشرق الأوسط\""
+      }
+    },
+    {
+      "title_original": "El petróleo Brent cae un 4,83%, hasta 84,09 dólares, ante la desescalada en Oriente Medio",
+      "title_zh": "布伦特原油价格下跌4.83%，至84.09美元，中东局势缓和",
+      "url": "https://elperiodicodelaenergia.com/el-petroleo-brent-cae-un-4-83-hasta-84-09-dolares-ante-la-desescalada-en-oriente-medio/",
+      "source": "El Periódico de la Energía",
+      "source_score": 40,
+      "published_at": "2026-07-28T22:32:33+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "布伦特原油价格下跌4.83%，至84.09美元，主要是由于中东局势缓和。",
+        "美国和伊朗之间的紧张局势有所缓解，导致油价下跌。",
+        "尽管油价下跌，但伊朗仍警告可能会阻止某些国家的船只通过霍尔木兹海峡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "El Periódico de la Energía"
+      ],
+      "all_titles": {
+        "es": "El petróleo Brent cae un 4,83%, hasta 84,09 dólares, ante la desescalada en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient: Benjamin Netanyahu affirme avoir eu \"la meilleure des conversations\" avec Donald Trump",
+      "title_zh": "中东战争：内塔尼亚胡称与特朗普进行了“最好的对话”",
+      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/donald-trump/guerre-au-moyen-orient-benjamin-netanyahu-affirme-avoir-eu-la-meilleure-des-conversations-avec-donald-trump_AD-202607280589.html",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-07-28T21:46:39+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列总理内塔尼亚胡表示，他与美国总统特朗普进行了“最好的对话”",
+        "两人讨论了伊朗核计划等问题",
+        "这次会谈是内塔尼亚胡和特朗普自中东战争开始以来第一次会面"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: Benjamin Netanyahu affirme avoir eu \"la meilleure des conversations\" avec Donald Trump"
+      }
+    },
+    {
+      "title_original": "José María Lerma avisa al Dow Jones: Irán cambia la geopolítica y sacude mercados",
+      "title_zh": "何塞·马里亚·勒尔马警告道琼斯指数：伊朗改变地缘政治并震撼市场",
+      "url": "https://www.negocios.com/articulo/programas/giro-geopolitico-iran-que-revoluciona-mercados-analisis-jose-maria-lerma/20260728231236491257.html",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-07-28T21:12:36+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "分析师何塞·马里亚·勒尔马表示，伊朗的行动改变了地缘政治并震撼了市场",
+        "道琼斯指数上涨1%，标普500指数持平，纳斯达克指数下跌",
+        "伊朗的行动导致油价下跌，目前油价为每桶83.68美元"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "José María Lerma avisa al Dow Jones: Irán cambia la geopolítica y sacude mercados"
+      }
+    },
+    {
+      "title_original": "‘I’m tired’: Lindsey Graham in never-before-seen video as he tried to secure deal to end Ukraine war",
+      "title_zh": "林赛·格雷厄姆在从未见过的视频中表示：“我很累”",
+      "url": "https://www.nbcnews.com/meet-the-press/video/-i-m-tired-lindsey-graham-in-never-before-seen-video-as-he-tried-to-secure-deal-to-end-ukraine-war-267409477647",
+      "source": "NBC News",
+      "source_score": 75,
+      "published_at": "2026-07-28T21:03:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "林赛·格雷厄姆在从未见过的视频中表示，他试图达成协议以结束乌克兰战争",
+        "格雷厄姆表示他“很累”，并希望找到结束战争的办法",
+        "视频显示格雷厄姆与他的妹妹达琳·格雷厄姆讨论他的政治生涯"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "NBC News"
+      ],
+      "all_titles": {
+        "en": "‘I’m tired’: Lindsey Graham in never-before-seen video as he tried to secure deal to end Ukraine war"
+      }
+    },
+    {
+      "title_original": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, ya que los fabricantes de chips se muestran cautelosos antes de la publicación de los resultados de Mag-7, y el petróleo crudo cae en medio de la suspensión de los ataques",
+      "title_zh": "更新：美国股市指数表现出混合结果，芯片制造商在发布Mag-7结果之前谨慎行事，原油价格在攻击暂停期间下跌",
+      "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-205435493.html",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-07-28T20:54:35+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国股市指数表现出混合结果",
+        "芯片制造商在发布Mag-7结果之前谨慎行事",
+        "原油价格在攻击暂停期间下跌"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "es": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, ya que los fabricantes de chips se muestran cautelosos antes de la publicación de los resultados de Mag-7, y el petróleo crudo cae en medio de la suspensión de los ataques"
+      }
+    },
+    {
+      "title_original": "Doscientos militares españoles se despliegan como policía área de la OTAN en Rumanía",
+      "title_zh": "西班牙200名军人部署到罗马尼亚担任北约空中警察",
+      "url": "https://www.abc.es/espana/doscientos-militares-espanoles-despliegan-policia-area-otan-20260728223112-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-07-28T20:31:16+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙将派出200名军人、F-18战斗机和NH90直升机到罗马尼亚，担任北约空中警察。",
+        "他们的任务是从8月初到12月底，负责罗马尼亚的空中安全。",
+        "西班牙军队拥有针对无人机的特殊训练，因为无人机是当前最令人担忧的威胁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Doscientos militares españoles se despliegan como policía área de la OTAN en Rumanía"
+      }
+    },
+    {
+      "title_original": "WEC Reshuffles Calendar Amid Middle East Conflict",
+      "title_zh": "世界耐力锦标赛因中东冲突调整赛程",
+      "url": "https://www.autoweek.com/racing/more-racing/a73287190/wec-reshuffles-calendar-amid-middle-east-conflict/",
+      "source": "Autoweek",
+      "source_score": 40,
+      "published_at": "2026-07-28T20:31:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "世界耐力锦标赛（WEC）由于中东冲突，将原定在卡塔尔和巴林举行的比赛改为在西班牙巴塞罗那和意大利蒙扎举行。",
+        "WEC计划在2027年返回中东，卡塔尔和巴林已被列入2027年的赛程中。",
+        "由于中东冲突，包括法拉利在内的几支车队面临着运输设备的挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Autoweek"
+      ],
+      "all_titles": {
+        "en": "WEC Reshuffles Calendar Amid Middle East Conflict"
+      }
+    },
+    {
+      "title_original": "ウクライナ外相、商船攻撃巡り事態悪化回避をイランに要請",
+      "title_zh": "乌克兰外交部长要求伊朗避免因商船攻击而恶化局势",
+      "url": "https://jp.reuters.com/world/ukraine/OH4P5S46CBIJHMP37XCMKLTI4I-2026-07-28/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-07-28T20:26:11+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰外交部长要求伊朗避免因商船攻击而恶化局势。",
+        "乌克兰外交部长呼吁伊朗采取措施防止事态进一步恶化。",
+        "伊朗和乌克兰之间的紧张关系因商船攻击而加剧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ外相、商船攻撃巡り事態悪化回避をイランに要請"
+      }
+    },
+    {
+      "title_original": "Tariffs, geopolitics, uncertain cargo demand cloud H2 outlook: CMA CGM",
+      "title_zh": "关税、地缘政治和不确定的货物需求使CMA CGM的下半年前景不明",
+      "url": "https://www.joc.com/article/tariffs-geopolitics-uncertain-cargo-demand-cloud-h2-outlook-cma-cgm-6260633",
+      "source": "Journal of Commerce",
+      "source_score": 40,
+      "published_at": "2026-07-28T19:32:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "CMA CGM表示，关税、地缘政治和不确定的货物需求使得公司的下半年前景不明。",
+        "尽管CMA CGM在第二季度取得了良好的财务表现，但公司仍然面临着挑战。",
+        "CMA CGM的下半年前景因多种因素而变得不确定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Journal of Commerce"
+      ],
+      "all_titles": {
+        "en": "Tariffs, geopolitics, uncertain cargo demand cloud H2 outlook: CMA CGM"
+      }
+    },
+    {
+      "title_original": "Le pétrole poursuit sa chute avec la pause des hostilités au Moyen-Orient",
+      "title_zh": "中东停火后油价继续下跌",
+      "url": "https://www.zonebourse.com/actualite-bourse/le-petrole-poursuit-sa-chute-avec-la-pause-des-hostilites-au-moyen-orient-ce7f51d2d98ff526",
+      "source": "Zonebourse",
+      "source_score": 40,
+      "published_at": "2026-07-28T19:08:27+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东停火后，油价继续下跌。",
+        "油价的下跌是由于中东停火后市场预期的变化。",
+        "中东的局势变化对全球油价产生了影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Zonebourse"
+      ],
+      "all_titles": {
+        "fr": "Le pétrole poursuit sa chute avec la pause des hostilités au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "وزير خارجية أوكرانيا يحذر نظيره الإيراني من التصعيد ودعم روسيا",
+      "title_zh": "乌克兰外长警告伊朗外长不要升级和支持俄罗斯",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/5301045-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%86%D8%B8%D9%8A%D8%B1%D9%87-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%88%D8%AF%D8%B9%D9%85-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-07-28T18:50:42+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰外长安德烈·西比哈与伊朗外长通话，警告伊朗不要升级和支持俄罗斯。",
+        "西比哈强调了停止任何升级行动和结束对俄罗斯战争的支持的必要性。",
+        "这次通话是在伊朗谴责乌克兰对伊朗船只的无人机袭击之后进行的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "وزير خارجية أوكرانيا يحذر نظيره الإيراني من التصعيد ودعم روسيا"
+      }
+    },
+    {
+      "title_original": "米国がウクライナ支援強化へ 首脳会談、パトリオットの現地生産協議",
+      "title_zh": "美国加强对乌克兰的支持 首脑会谈，讨论爱国者导弹的本地生产",
+      "url": "https://www.nikkei.com/article/DGXZQOGN28BM00Y6A720C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-07-28T18:30:23+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国总统特朗普和乌克兰总统泽连斯基在白宫举行会谈，讨论加强对乌克兰的支持。",
+        "会谈中讨论了在乌克兰生产爱国者导弹的可能性，以加强乌克兰的防御能力。",
+        "泽连斯基总统对会谈表示满意，并称其为“良好的会谈”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "米国がウクライナ支援強化へ 首脳会談、パトリオットの現地生産協議"
+      }
+    },
+    {
+      "title_original": "Ghana mourns its tallest man - a 'generous and popular giant'",
+      "title_zh": "加纳哀悼其最高男人 - 一个“慷慨和受欢迎的巨人”",
+      "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T18:19:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "加纳的最高男人苏莱曼·阿卜杜勒·萨梅德去世，引发了全国的哀悼。",
+        "萨梅德身高7英尺4英寸，曾被诊断出患有巨人症，并长期与马凡综合征的并发症作斗争。",
+        "他曾获得加纳总统约翰·马哈马兄弟伊卜拉欣·马哈马的帮助，后者承诺支付他的医疗费用。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ghana mourns its tallest man - a 'generous and popular giant'"
+      }
+    },
+    {
+      "title_original": "Senate sets up votes to sanction Russia for Ukraine war",
+      "title_zh": "参议院设立投票以制裁俄罗斯因乌克兰战争",
+      "url": "https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-07-28T18:17:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国参议院同意就一项针对俄罗斯的制裁法案进行投票，旨在阻碍俄罗斯在乌克兰的战争努力。",
+        "该法案包括一系列针对俄罗斯官员、寡头和金融机构的制裁，以及对购买俄罗斯石油的国家和支持俄罗斯逃避制裁的国家的关税。",
+        "参议员们表示，这项法案是为了纪念已故参议员林赛·格雷厄姆的遗产，他一直是支持乌克兰的坚定拥护者。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "Senate sets up votes to sanction Russia for Ukraine war"
+      }
+    },
+    {
+      "title_original": "NATO Seeks Counter-Drone Technologies Jointly With Ukraine",
+      "title_zh": "北约与乌克兰联合寻求反无人机技术",
+      "url": "https://aviationweek.com/defense/budget-policy-operations/nato-seeks-counter-drone-technologies-jointly-ukraine",
+      "source": "Aviation Week",
+      "source_score": 40,
+      "published_at": "2026-07-28T17:24:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北约与乌克兰的勇气1号防御技术计划合作，共同开发反无人机和其他空防技术。",
+        "北约的联合勇气计划于去年成立，旨在寻找反无人机技术的解决方案，以应对俄罗斯在乌克兰的无人机威胁。",
+        "北约目前正在寻找第一批提案，以启动该计划的实施。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Aviation Week"
+      ],
+      "all_titles": {
+        "en": "NATO Seeks Counter-Drone Technologies Jointly With Ukraine"
+      }
+    },
+    {
+      "title_original": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+      "title_zh": "加拿大人在2025年特朗普重返办公室后减少了33亿美元的美国旅行支出",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-28T16:46:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "2025年，加拿大人在美国的旅行支出比前一年减少了33亿美元。",
+        "数据显示，加拿大人正在用其他国际旅行取代美国度假，以此来对特朗普的政策进行反击。",
+        "研究表明，加拿大人并没有减少整体的旅行，而是选择了其他国际目的地。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office"
+      }
+    },
     {
       "title_original": "Deaths feared after ‘many people’ trapped inside Japanese shopping centre following earthquake – live updates",
       "title_zh": "日本地震：多人被困购物中心，可能有人员死亡",
@@ -51,6 +778,81 @@
       ],
       "all_titles": {
         "en": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry"
+      }
+    },
+    {
+      "title_original": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+      "title_zh": "法国西南部野火复燃，地区为新的40度高温热浪做准备",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T16:14:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "法国西南部的野火已经复燃，消防员正在努力控制火势。",
+        "该地区正为新的40度高温热浪做准备，预计温度将在周三达到40度。",
+        "数十个社区仍然受到野火的威胁，超过7万人在过去一周内被迫撤离家园。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Wildfires in south-west France flare up as region braces for new 40C heatwave"
+      }
+    },
+    {
+      "title_original": "French Navy carries out 'shooting drill' mid interview",
+      "title_zh": "法国海军在采访中进行“实弹演习”",
+      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-28T16:12:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "法国海军的一艘巡逻艇在英吉利海峡进行了一次“实弹演习”，距离一艘英国船只只有三英里。",
+        "英国影子内政大臣克里斯·菲尔普正在接受BBC采访时，法国海军的巡逻艇突然开火，发射了17枪。",
+        "法国当局称，这次演习是正常的训练活动，与英国船只的存在无关。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "French Navy carries out 'shooting drill' mid interview"
+      }
+    },
+    {
+      "title_original": "Géopolitique des hôtels de luxe",
+      "title_zh": "豪华酒店的地缘政治",
+      "url": "https://www.monde-diplomatique.fr/2026/08/CELA/69814",
+      "source": "Le Monde diplomatique",
+      "source_score": 95,
+      "published_at": "2026-07-28T16:06:41+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "在塞舌尔群岛的阿尔达布拉环礁附近，印度曾计划建立一个军事基地，以对抗中国的影响力。",
+        "然而，塞舌尔政府最终决定在该岛上建造一个六星级的酒店综合体，包括37个别墅和4个餐厅。",
+        "这一项目由叙利亚-卡塔尔的亿万富翁投资，他们还参与了其他类似的项目，旨在将战略位置转化为私人资产。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Le Monde diplomatique"
+      ],
+      "all_titles": {
+        "fr": "Géopolitique des hôtels de luxe"
       }
     },
     {
