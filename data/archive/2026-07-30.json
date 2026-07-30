@@ -1,8 +1,784 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-29T16:14:22.256535+00:00",
-  "count": 35,
+  "generated_at": "2026-07-30T07:58:01.993492+00:00",
+  "count": 66,
   "articles": [
+    {
+      "title_original": "مبيعات السيارات الكهربائية تقفز إثر الحرب بالشرق الأوسط",
+      "title_zh": "中东战争导致电动汽车销量激增",
+      "url": "https://www.aljazeera.net/ebusiness/2026/7/30/%D9%85%D8%A8%D9%8A%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A%D8%A9-%D8%AA%D9%82%D9%81%D8%B2-%D8%A5%D8%AB%D8%B1",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-07-30T07:34:59+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争导致全球油价大幅上涨，电动汽车销量在第二季度大幅增加，达到50个国家的历史新高。",
+        "国际能源署报告显示，电动汽车销量在第二季度同比增长35%，创下历史新高。",
+        "电动汽车销量的增长主要是由于中东战争导致的油价上涨，许多国家的政府也出台了相关政策来鼓励电动汽车的发展。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "مبيعات السيارات الكهربائية تقفز إثر الحرب بالشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "500 ألف جندي جديد.. هل تستعد روسيا لإطالة حرب أوكرانيا بتعبئة غير مسبوقة؟",
+      "title_zh": "俄罗斯是否准备通过史无前例的动员来延长乌克兰战争？",
+      "url": "https://www.aljazeera.net/politics/2026/7/30/500-%D8%A3%D9%84%D9%81-%D8%AC%D9%86%D8%AF%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%87%D9%84-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%84%D8%A5%D8%B7%D8%A7%D9%84%D8%A9",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-07-30T07:26:24+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯可能正在准备动员多达50万名新兵，这可能会使俄罗斯能够延长乌克兰战争的时间，但不一定能改变战争的结果。",
+        "乌克兰总统泽连斯基警告说，俄罗斯可能会在9月份的议会选举后动员30万到50万名新兵，以继续战争。",
+        "专家认为，俄罗斯的动员可能会使其能够维持长期的战争，但也会带来巨大的经济和社会成本。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "500 ألف جندي جديد.. هل تستعد روسيا لإطالة حرب أوكرانيا بتعبئة غير مسبوقة؟"
+      }
+    },
+    {
+      "title_original": "Woolworths flags slower profit growth as Middle East conflict, higher rates weigh on consumers",
+      "title_zh": "伍尔沃斯公司预计利润增长放缓，中东冲突和高利率影响消费者",
+      "url": "https://www.reuters.com/world/africa/woolworths-flags-slower-profit-growth-middle-east-conflict-higher-rates-weigh-2026-07-30/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-30T07:24:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伍尔沃斯公司预计由于中东冲突和高利率的影响，消费者支出将减少，公司的利润增长将放缓。",
+        "中东冲突导致全球油价上涨，消费者支出减少，伍尔沃斯公司的销售额也受到影响。",
+        "伍尔沃斯公司预计公司的利润增长将低于预期，主要是由于中东冲突和高利率的影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Woolworths flags slower profit growth as Middle East conflict, higher rates weigh on consumers"
+      }
+    },
+    {
+      "title_original": "Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts",
+      "title_zh": "日本地震死亡人数上升至30人，余震和高温阻碍救援工作",
+      "url": "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-30T06:49:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本地震造成至少30人死亡，超过60人受伤，救援工作因余震和高温而受到阻碍。",
+        "地震发生在日本九州岛，造成大量建筑物倒塌，救援人员正在努力寻找幸存者。",
+        "日本政府已派出军队和紧急救援人员到灾区进行救援工作。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（7月30日の動き）",
+      "title_zh": "俄罗斯对乌克兰的军事入侵（7月30日最新动态）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141221000",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-07-30T06:47:52+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯继续对乌克兰进行军事入侵，冲突仍在持续。",
+        "乌克兰军队正在抵抗俄罗斯的入侵，双方都遭受了重大损失。",
+        "国际社会对俄罗斯的入侵行为进行了广泛的谴责，呼吁立即停止军事行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（7月30日の動き）"
+      }
+    },
+    {
+      "title_original": "ウクライナ、ポーランドと軍事協力の交渉再開 関係修復に一歩",
+      "title_zh": "乌克兰与波兰重启军事合作谈判",
+      "url": "https://www.nikkei.com/article/DGXZQOGR3009I0Q6A730C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-07-30T06:07:53+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基与波兰总理图斯克会谈，讨论历史问题和军事合作",
+        "这是泽连斯基5月以来首次访问波兰",
+        "两国关系因历史问题而紧张，军事合作事实上已停滞"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、ポーランドと軍事協力の交渉再開 関係修復に一歩"
+      }
+    },
+    {
+      "title_original": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "title_zh": "美国对伊朗发动大规模袭击",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-30T05:36:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国军方称已对伊朗发动大规模袭击，作为对伊朗试图攻击美国军队的回应",
+        "袭击目标包括伊朗革命卫队的军事设施和导弹基地",
+        "伊朗官方媒体称袭击造成至少3人死亡，包括一名2岁儿童"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US launches 'heavy' strikes on Iran after attempted attack on American troops"
+      }
+    },
+    {
+      "title_original": "النفط يتراجع مع استمرار تدفق الإمدادات من الشرق الأوسط",
+      "title_zh": "油价下跌，中东供应持续",
+      "url": "https://www.cnbcarabia.com/155070/2026/30/07/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%85%D8%B9-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%AA%D8%AF%D9%81%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "CNBC عربية",
+      "source_score": 75,
+      "published_at": "2026-07-30T05:04:06+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "油价下跌，因中东供应持续，市场担忧减少",
+        "布伦特原油价格下跌2%，至92.87美元每桶",
+        "分析师认为，尽管供应量下降，但油价仍可能保持稳定"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "CNBC عربية"
+      ],
+      "all_titles": {
+        "ar": "النفط يتراجع مع استمرار تدفق الإمدادات من الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "A quarter of young Africans believe USAID cuts could be positive, survey finds",
+      "title_zh": "四分之一的年轻非洲人认为美国援助削减可能带来积极影响",
+      "url": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-30T05:00:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "一项调查发现，四分之一的年轻非洲人认为美国援助削减可能带来积极影响",
+        "他们认为，这将迫使非洲领导人解决自己的问题",
+        "调查还发现，许多年轻非洲人担心外国影响力增加"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "A quarter of young Africans believe USAID cuts could be positive, survey finds"
+      }
+    },
+    {
+      "title_original": "إطلاق صواريخ \"هيمارس\" من الكويت باتجاه إيران",
+      "title_zh": "从科威特向伊朗发射“海马斯”导弹",
+      "url": "https://www.tasnimnews.ir/ar/news/2026/07/30/3659859/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%B5%D9%88%D8%A7%D8%B1%DB%8C%D8%AE-%D9%87%DB%8C%D9%85%D8%A7%D8%B1%D8%B3-%D9%85%D9%86-%D8%A7%D9%84%DA%A9%D9%88%DB%8C%D8%AA-%D8%A8%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A5%DB%8C%D8%B1%D8%A7%D9%86",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-07-30T04:54:56+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "科威特向伊朗发射“海马斯”导弹，具体情况不明",
+        "伊朗和科威特关系紧张，两国多次发生冲突",
+        "此次事件可能进一步加剧中东地区紧张局势"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "إطلاق صواريخ \"هيمارس\" من الكويت باتجاه إيران"
+      }
+    },
+    {
+      "title_original": "الإطار التنسيقي يدين العدوان الأمريكي السعودي الذي استهدف الأراضي العراقية",
+      "title_zh": "协调框架谴责针对伊拉克领土的美国沙特进攻",
+      "url": "https://www.tasnimnews.ir/ar/news/2026/07/30/3659863/%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%DB%8C%D9%82%DB%8C-%DB%8C%D8%AF%DB%8C%D9%86-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%DB%8C%DA%A9%DB%8C-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D8%A7%D9%84%D8%B0%DB%8C-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%DB%8C-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%DB%8C%D8%A9",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-07-30T04:54:55+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊拉克总理办公室发表声明，谴责针对伊拉克领土的美国沙特进攻",
+        "伊拉克政府表示，这次进攻违反了国际法和伊拉克的主权",
+        "伊拉克方面呼吁国际社会谴责这一行为，并要求美国和沙特阿拉伯尊重伊拉克的主权"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "الإطار التنسيقي يدين العدوان الأمريكي السعودي الذي استهدف الأراضي العراقية"
+      }
+    },
+    {
+      "title_original": "Mindestens acht Tote nach russischer Angriffswelle in der Ukraine",
+      "title_zh": "俄罗斯对乌克兰发动攻击，至少8人死亡",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-mindestens-acht-tote-nach-russischer-angriffswelle-a-4a478c01-3a5a-403a-a4a3-77b164e066b3",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-07-30T04:28:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰遭到俄罗斯的大规模攻击，至少8人死亡，多人受伤",
+        "攻击主要集中在乌克兰西部城市，包括利沃夫和基辅",
+        "乌克兰总统泽连斯基呼吁西方国家提供更多的军事援助，以帮助乌克兰抵御俄罗斯的攻击"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Mindestens acht Tote nach russischer Angriffswelle in der Ukraine"
+      }
+    },
+    {
+      "title_original": "イランとウクライナ、二つの戦争がカスピ海で衝突 知っておきたい背景は(1/3)",
+      "title_zh": "伊朗和乌克兰，两场战争在里海发生冲突，了解背景",
+      "url": "https://www.cnn.co.jp/world/35251109.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-07-30T03:16:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰对伊朗和俄罗斯的船只进行了无人机攻击，导致伊朗船只受损",
+        "伊朗指责乌克兰的行为是对其主权的侵犯，并召见了乌克兰驻伊朗大使",
+        "里海地区的紧张局势加剧，伊朗和俄罗斯加强了在该地区的军事存在"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "イランとウクライナ、二つの戦争がカスピ海で衝突 知っておきたい背景は(1/3)"
+      }
+    },
+    {
+      "title_original": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
+      "title_zh": "澳大利亚起诉Telegram，指控其未能删除“支持恐怖主义”的内容",
+      "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-30T03:03:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "澳大利亚政府指控Telegram未能删除支持恐怖主义的内容，包括基督城枪击案的视频",
+        "澳大利亚电信监管机构表示，Telegram可能面临高达5400万澳元的罚款",
+        "Telegram否认了这些指控，并表示将在法庭上辩护"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Warum Kiew Russlands Online-Händler Wildberries attackiert",
+      "title_zh": "乌克兰战争：为什么基辅攻击俄罗斯的在线零售商Wildberries",
+      "url": "https://www.tagesspiegel.de/internationales/ukraine-krieg-warum-kiew-russlands-online-handler-wildberries-attackiert-15895906.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-07-30T03:01:34+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队攻击了俄罗斯在线零售商Wildberries的仓库，导致大规模损失",
+        "乌克兰指控Wildberries销售用于军事目的的商品，包括无人机和防弹衣",
+        "Wildberries否认了这些指控，并表示其业务是合法的"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Warum Kiew Russlands Online-Händler Wildberries attackiert"
+      }
+    },
+    {
+      "title_original": "Singapore fines French teen $465 for viral straw-licking stunt",
+      "title_zh": "新加坡对法国青少年因吸管舔吸事件罚款465美元",
+      "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-30T02:54:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "新加坡法院因法国青少年在自动售货机中吸管舔吸事件罚款600新加坡元（约465美元）",
+        "该青少年名叫迪迪埃·加斯帕德·欧文·马克西米利安，19岁，承认了一项扰乱公共秩序的指控",
+        "事件发生在新加坡，一名青少年在自动售货机中吸管舔吸后将其放回原处，引发了网友的愤怒"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Singapore fines French teen $465 for viral straw-licking stunt"
+      }
+    },
+    {
+      "title_original": "Putin gerät im Ukraine-Krieg unter Druck: Kreml könnte Mobilisierung von 500.000 Russen vorbereiten",
+      "title_zh": "普京在乌克兰战争中面临压力：克里姆林宫可能准备动员50万俄罗斯人",
+      "url": "https://www.fr.de/politik/ukraine-krieg-putin-plant-mobilisierung-von-500-000-russen-im-zr-94419123.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-30T02:46:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "据报道，俄罗斯总统普京可能准备动员50万俄罗斯人参与乌克兰战争",
+        "这一举动可能会加剧俄罗斯国内的不满情绪，因为许多俄罗斯人已经开始反对这场战争",
+        "乌克兰总统泽连斯基警告说，俄罗斯可能会在10月份开始动员新的士兵"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Putin gerät im Ukraine-Krieg unter Druck: Kreml könnte Mobilisierung von 500.000 Russen vorbereiten"
+      }
+    },
+    {
+      "title_original": "ウクライナ、「ロシアのAmazon」狙い撃ち 市民生活打撃で厭戦醸成",
+      "title_zh": "乌克兰针对“俄罗斯亚马逊”市民生活受打击可能导致厌战情绪",
+      "url": "https://www.nikkei.com/article/DGXZQOCB288M10Y6A720C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-07-30T02:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队针对俄罗斯最大在线零售商“野蛮草莓”进行无人机袭击",
+        "袭击导致物流中心受损，可能会影响俄罗斯市民的生活",
+        "乌克兰军队的目标是通过破坏俄罗斯的民生基础设施来削弱俄罗斯的战斗力"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、「ロシアのAmazon」狙い撃ち 市民生活打撃で厭戦醸成"
+      }
+    },
+    {
+      "title_original": "What we know about Canadian NATO intern arrested in Belgium on espionage charges | CBC News",
+      "title_zh": "加拿大北约实习生在比利时被捕涉嫌间谍活动",
+      "url": "https://www.cbc.ca/news/investigates/canadian-nato-intern-espionage-arrest-biwei-zhang-9.7290088",
+      "source": "CBC",
+      "source_score": 40,
+      "published_at": "2026-07-30T01:55:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "一名加拿大北约实习生在比利时被捕，涉嫌间谍活动",
+        "该实习生名叫张碧薇，曾在加拿大太空机构和统计加拿大工作",
+        "比利时当局指控她从事间谍活动和参与犯罪组织"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "CBC"
+      ],
+      "all_titles": {
+        "en": "What we know about Canadian NATO intern arrested in Belgium on espionage charges | CBC News"
+      }
+    },
+    {
+      "title_original": "CNBC Daily Open: From geopolitics to monetary policy, fighting takes center stage",
+      "title_zh": "CNBC 每日开盘：从地缘政治到货币政策，冲突占据中心舞台",
+      "url": "https://www.cnbc.com/2026/07/30/cnbc-daily-open-geopolitics-monetary-policy-fight.html",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-07-30T01:33:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东地区的紧张局势再次升级，人们担心冲突可能会长期持续，尤其是在特朗普总统威胁要对伊朗进行打击之后。",
+        "美国联邦储备局在最近的会议上决定保持利率不变，但内部存在分歧，主席表示这是一个“家庭内部的争论”。",
+        "特朗普总统对伊朗的威胁和中东地区的冲突升级导致油价大幅上涨，布兰特原油期货价格飙升至每桶90.74美元。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "CNBC Daily Open: From geopolitics to monetary policy, fighting takes center stage"
+      }
+    },
+    {
+      "title_original": "EUR/USD forecast: Growth and geopolitics to decide breakout fate",
+      "title_zh": "EUR/USD 预测：增长和地缘政治将决定突破命运",
+      "url": "https://www.forex.com/en-us/news-and-analysis/eur-usd-forecast-growth-and-geopolitics-to-decide-breakout-fate/",
+      "source": "FOREX.com",
+      "source_score": 40,
+      "published_at": "2026-07-30T00:22:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "欧元兑美元的汇率预测受到经济增长和地缘政治因素的影响。",
+        "地缘政治紧张局势可能会影响货币市场和经济增长。",
+        "汇率预测需要考虑多种因素，包括经济指标、货币政策和地缘政治事件。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "FOREX.com"
+      ],
+      "all_titles": {
+        "en": "EUR/USD forecast: Growth and geopolitics to decide breakout fate"
+      }
+    },
+    {
+      "title_original": "〔JPXエネルギー〕ドバイ原油、WTI高受け大幅上伸＝中東で攻撃再開（30日朝）(時事通信)",
+      "title_zh": "JPX 能源：迪拜原油、WTI 价格大幅上涨，中东地区冲突再次升级（30 日早晨）",
+      "url": "https://finance.yahoo.co.jp/news/detail/eb76b03c9c683f2adbc1e16d77f2979b0be17cf6",
+      "source": "finance.yahoo.co.jp",
+      "source_score": 40,
+      "published_at": "2026-07-29T23:54:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "迪拜原油和 WTI 价格大幅上涨，受中东地区冲突再次升级的影响。",
+        "中东地区的军事攻击导致油价上涨，投资者对冲突的影响表示担忧。",
+        "日本商品交易所的迪拜原油期货价格大幅上涨，中心限月价格达到 7 万 7450 日元。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "finance.yahoo.co.jp"
+      ],
+      "all_titles": {
+        "ja": "〔JPXエネルギー〕ドバイ原油、WTI高受け大幅上伸＝中東で攻撃再開（30日朝）(時事通信)"
+      }
+    },
+    {
+      "title_original": "ロシアのウクライナ攻撃で13人死亡、ポーランドは戦闘機緊急発進",
+      "title_zh": "俄罗斯对乌克兰的攻击导致 13 人死亡，波兰紧急派出战机",
+      "url": "https://jp.reuters.com/world/ukraine/IXVVFWFSJRPM5N4XT4TYFZ22WI-2026-07-29/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-07-29T23:49:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰的攻击导致 13 人死亡，波兰紧急派出战机应对可能的威胁。",
+        "冲突导致多人伤亡，波兰为应对紧急情况而采取行动。",
+        "俄罗斯的攻击行为引发了国际社会的关注，波兰等国对可能的威胁保持警惕。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ロシアのウクライナ攻撃で13人死亡、ポーランドは戦闘機緊急発進"
+      }
+    },
+    {
+      "title_original": "Nasdaq pierde 434 puntos ante la escalada en Oriente Medio",
+      "title_zh": "纳斯达克因中东局势升级而下跌434点",
+      "url": "https://www.negocios.com/articulo/geopolitica/choque-geopolitico-alianza-trump-zelenski-bloqueo-ormuz-tensionan-oriente-medio/20260730011301491330.html",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-07-29T23:13:01+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "纳斯达克综合指数于2026年7月29日收盘下跌433.97点，跌幅为1.7%，至24442.94点。",
+        "美国和沙特阿拉伯对伊朗支持的民兵在伊拉克进行了联合袭击，导致油价上涨。",
+        "纳斯达克综合指数接近10%的修正区间，投资者担心地缘政治局势将阻止美联储放松货币政策。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "Nasdaq pierde 434 puntos ante la escalada en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Salman Rushdie attacker convicted of terror offences",
+      "title_zh": "萨尔曼·拉什迪袭击者被判恐怖主义罪",
+      "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T22:15:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "哈迪·马塔尔因袭击萨尔曼·拉什迪被判恐怖主义罪，并被判处25年监禁。",
+        "马塔尔被指控为真主党提供支持，真主党被美国、英国和其他国家认定为恐怖组织。",
+        "萨尔曼·拉什迪在袭击中受伤，包括脸部、胸部、眼睛、颈部和大腿被刺伤15次。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Salman Rushdie attacker convicted of terror offences"
+      }
+    },
+    {
+      "title_original": "Aerolíneas de todo el mundo aplazan hasta otoño la recuperación de sus vuelos a Oriente Medio",
+      "title_zh": "全球航空公司推迟到秋季恢复中东航班",
+      "url": "https://www.hosteltur.com/177709_aerolineas-de-todo-el-mundo-aplazan-hasta-otono-la-recuperacion-de-sus-vuelos-a-oriente-medio.html",
+      "source": "Hosteltur, noticias de turismo",
+      "source_score": 40,
+      "published_at": "2026-07-29T22:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于中东局势不稳定，全球航空公司推迟到秋季恢复中东航班。",
+        "航空公司包括汉莎航空、英国航空和伊比利亚航空等，预计将在9月和10月恢复部分航班。",
+        "中东局势的不稳定影响了全球航空交通，导致航班取消和调整。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Hosteltur, noticias de turismo"
+      ],
+      "all_titles": {
+        "es": "Aerolíneas de todo el mundo aplazan hasta otoño la recuperación de sus vuelos a Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Drone hits U.S. tanker at Egyptian port as Middle East conflict escalates",
+      "title_zh": "无人机袭击埃及港口的美国油轮，中东冲突升级",
+      "url": "https://www.staradvertiser.com/2026/07/29/breaking-news/drone-hits-u-s-tanker-at-egyptian-port-as-middle-east-conflict-escalates/",
+      "source": "Honolulu Star-Advertiser",
+      "source_score": 55,
+      "published_at": "2026-07-29T21:57:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "一架无人机袭击了停靠在埃及港口的美国油轮，导致中东冲突升级。",
+        "此事件发生在中东局势紧张之际，美国和其他国家都在呼吁降低紧张局势。",
+        "油轮袭击事件可能会导致油价上涨和全球能源市场的不稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Honolulu Star-Advertiser"
+      ],
+      "all_titles": {
+        "en": "Drone hits U.S. tanker at Egyptian port as Middle East conflict escalates"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: F-16 im Luftkampf abgestürzt",
+      "title_zh": "乌克兰战争：F-16战机在空战中坠毁",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-f-16-im-luftkampf-abgestuerzt-a-e54ae415-0d11-4d6f-a5ad-e4ea77e4298e",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-07-29T21:53:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰的一架F-16战机在空战中坠毁，飞行员成功弹射逃生。",
+        "这架战机是乌克兰从西方国家获得的，用于抵御俄罗斯的攻击。",
+        "F-16战机的坠毁是乌克兰军队的一次重大损失，可能会影响乌克兰的防御能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: F-16 im Luftkampf abgestürzt"
+      }
+    },
+    {
+      "title_original": "أسعار النفط ترتفع 7.15% بعد تصاعد اضطرابات الشرق الأوسط",
+      "title_zh": "中东紧张局势加剧，油价上涨7.15%",
+      "url": "https://www.alkhaleej.ae/2026-07-29/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-715-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-07-29T21:52:26+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东紧张局势加剧，油价上涨7.15%。",
+        "美国总统宣布将对中东地区的攻击做出强烈回应，导致投资者担心能源供应可能受到干扰。",
+        "布伦特原油价格上涨7.15%，至每桶90.10美元，西德克萨斯中质原油价格上涨6.33%，至每桶84.29美元。"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "صحيفة الخليج",
+        "البيان"
+      ],
+      "all_titles": {
+        "ar": "تجدد توترات الشرق الأوسط يقفز بأسعار النفط 7 %"
+      }
+    },
+    {
+      "title_original": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+      "title_zh": "赞达亚谈与汤姆·赫兰德合作：当你是最好的朋友时，很容易",
+      "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-29T20:21:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "赞达亚和汤姆·赫兰德在《蜘蛛侠：新纪元》中合作，两人是现实生活中的夫妻。",
+        "赞达亚表示，与汤姆·赫兰德合作很容易，因为他们是最好的朋友。",
+        "汤姆·赫兰德表示，扮演蜘蛛侠是一个有趣的角色，他很享受这个过程。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’"
+      }
+    },
+    {
+      "title_original": "Un hombre, a favor de que España salga de la OTAN: \"Nos cuesta dinero y, al final, ¿para qué?\"",
+      "title_zh": "一名男子支持西班牙退出北约：这耗费了我们的钱，到底为了什么？",
+      "url": "https://www.lasexta.com/programas/el-intermedio/hombre-favor-que-espana-salga-otan-nos-cuesta-dinero-final-que_202607296a6a5eb2a046ad6ebc8f61ed.html",
+      "source": "LaSexta",
+      "source_score": 40,
+      "published_at": "2026-07-29T20:12:34+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "一名男子表示，西班牙应该退出北约，因为这耗费了西班牙的钱，但并没有带来任何好处。",
+        "他认为，北约是一个战争和金钱的工具，西班牙不应该参与其中。",
+        "另一名男子表示，西班牙应该留在北约，但应该明确自己的立场和利益。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "LaSexta"
+      ],
+      "all_titles": {
+        "es": "Un hombre, a favor de que España salga de la OTAN: \"Nos cuesta dinero y, al final, ¿para qué?\""
+      }
+    },
     {
       "title_original": "中東駐留米兵の一部、携帯電話禁止も 対イラン作戦の保全強化で＝関係筋",
       "title_zh": "中東駐留米兵的一部分，禁止使用手機，也是為了加強對伊朗行動的保密",
