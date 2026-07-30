@@ -1,0 +1,834 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-30T16:59:21.613335+00:00",
+  "count": 33,
+  "articles": [
+    {
+      "title_original": "NATO jets scramble as Russian missile detonates in Poland",
+      "title_zh": "北约战机紧急起飞，俄罗斯导弹在波兰爆炸",
+      "url": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-07-30T16:38:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "俄罗斯发射的一枚导弹进入波兰领空并爆炸，引发北约战机紧急起飞。",
+        "这枚导弹是俄罗斯对乌克兰发动的弹道导弹和无人机袭击的一部分，造成至少8名平民死亡，50多人受伤。",
+        "北约成员国，包括波兰，出动F-16战机应对导弹入侵，并表示将采取一切必要措施保护领土。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "NATO jets scramble as Russian missile detonates in Poland"
+      }
+    },
+    {
+      "title_original": "Rusia pone a prueba las defensas de la OTAN en el flanco oriental de Europa",
+      "title_zh": "俄罗斯测试北约东翼欧洲防御",
+      "url": "https://elpais.com/internacional/2026-07-30/rusia-pone-a-prueba-las-defensas-de-la-otan-en-el-flanco-oriental-de-europa.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-07-30T16:31:47+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "俄罗斯对乌克兰发动的弹道导弹和无人机袭击导致一枚导弹进入波兰领空并爆炸。",
+        "北约成员国，包括波兰，出动战机应对导弹入侵，并表示将采取一切必要措施保护领土。",
+        "俄罗斯的行动引发了人们对俄乌冲突升级的担忧，北约东翼欧洲国家加强了防御措施。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "EL PAÍS",
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "La OTAN, en alerta tras caer en Polonia un misil ruso de un ataque sobre Ucrania"
+      }
+    },
+    {
+      "title_original": "Iran- und Ukraine-Krieg: Ufert die Krise aus?",
+      "title_zh": "伊朗和乌克兰战争：危机是否升级？",
+      "url": "https://www.dw.com/de/iran-und-ukraine-krieg-ufert-die-krise-aus/a-78175942",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-07-30T15:15:43+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "伊朗指责乌克兰攻击了一艘伊朗货船，导致一名水手死亡，一名水手受伤。",
+        "乌克兰否认攻击伊朗货船，称该船可能被用来运输军事物资。",
+        "伊朗和乌克兰之间的紧张关系加剧，两国外交部长进行了通话，讨论了当前局势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Iran- und Ukraine-Krieg: Ufert die Krise aus?"
+      }
+    },
+    {
+      "title_original": "تراجع معظم أسواق الخليج مع استئناف الهجمات بين أمريكا وإيران",
+      "title_zh": "波斯湾大多数市场因美伊冲突升级而下跌",
+      "url": "https://www.reuters.com/ar/business/L3O7FRHNW5MBNNVYPWMW6LWD5A-2026-07-30/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-30T15:13:46+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美伊冲突升级导致波斯湾大多数市场下跌，投资者担忧局势进一步恶化。",
+        "美国和伊朗之间的紧张关系加剧，两国领导人进行了互相指责的发言。",
+        "波斯湾市场的下跌反映了投资者对美伊冲突升级的担忧，可能会影响全球能源市场。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "تراجع معظم أسواق الخليج مع استئناف الهجمات بين أمريكا وإيران"
+      }
+    },
+    {
+      "title_original": "北约成员国领空再遭侵犯 波兰境内留下巨大弹坑",
+      "title_zh": "北约成员国领空再遭侵犯 波兰境内留下巨大弹坑",
+      "url": "https://www.dw.com/zh/%E5%8C%97%E7%BA%A6%E6%88%90%E5%91%98%E5%9B%BD%E9%A2%86%E7%A9%BA%E5%86%8D%E9%81%AD%E4%BE%B5%E7%8A%AF-%E6%B3%A2%E5%85%B0%E5%A2%83%E5%86%85%E7%95%99%E4%B8%8B%E5%B7%A8%E5%A4%A7%E5%BC%B9%E5%9D%91/a-78179513",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-07-30T14:26:17+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "波兰当局表示，他们正在勘查卢布林市附近的一处弹坑，以厘清一起领空遭侵犯事件的情况。",
+        "波兰警方和军方表示，这处弹坑直径达10米，是在俄罗斯连夜对邻国乌克兰发动大规模轰炸期间，由一枚很可能是俄罗斯发射的导弹撞击形成的。",
+        "波兰总理图斯克表示，迹象表明这是一枚俄罗斯Kh-101巡航导弹，但他们不希望抢在彻底调查结果出炉之前下结论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "zh": "北约成员国领空再遭侵犯 波兰境内留下巨大弹坑"
+      }
+    },
+    {
+      "title_original": "„Nato hat Abwehr aktiviert“ Mutmaßliche russische Rakete schlägt in Polen ein – nur zwei Kilometer von Wohngebiet entfernt",
+      "title_zh": "北约成员国领空再遭侵犯，疑似俄罗斯导弹击中波兰",
+      "url": "https://www.tagesspiegel.de/internationales/nato-hat-abwehr-aktiviert-mutmassliche-russische-rakete-schlagt-in-polen-ein--nur-zwei-kilometer-von-wohngebiet-entfernt-15896664.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-07-30T14:06:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "波兰当局报告称，一枚不明物体在波兰领空被探测到，并在卢布林附近的一个田野中形成了一个巨大的弹坑。",
+        "乌克兰外交部长表示，这枚导弹很可能是俄罗斯发射的Kh-101巡航导弹，侵犯了北约领空。",
+        "波兰军方表示，他们已在导弹撞击前紧急出动了一架F-16战斗机，并且北约表示正与波兰当局保持密切联系。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "„Nato hat Abwehr aktiviert“ Mutmaßliche russische Rakete schlägt in Polen ein – nur zwei Kilometer von Wohngebiet entfernt"
+      }
+    },
+    {
+      "title_original": "US government map of Africa mislabels every country at global conference",
+      "title_zh": "美国政府地图在全球会议上错误标注了每个非洲国家",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-30T13:59:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国政府在巴西举行的全球会议上展示了一张错误标注了每个非洲国家的非洲地图。",
+        "这张地图是在美国国务院的一次演讲中展示的，引起了与会者的注意和批评。",
+        "美国国务院对此事表示遗憾，并承担了全部责任。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "US government map of Africa mislabels every country at global conference"
+      }
+    },
+    {
+      "title_original": "\"Lourde série\" de bombardements, \"attaque surprise\"... Cinq mois après le début de la guerre au Moyen-Orient, où en est-on de la situation entre Washington et l'Iran ?",
+      "title_zh": "五个月后，中东战争的最新情况：华盛顿和伊朗的关系如何?",
+      "url": "https://www.rtl.fr/actu/international/lourde-serie-de-bombardements-attaque-surprise-cinq-mois-apres-le-debut-de-la-guerre-au-moyen-orient-ou-en-est-on-de-la-situation-entre-washington-et-l-iran-7900658367",
+      "source": "RTL",
+      "source_score": 55,
+      "published_at": "2026-07-30T13:46:27+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争已经持续了五个月，华盛顿和伊朗之间的关系仍然紧张。",
+        "最近的报告称，中东地区发生了一系列大规模的轰炸和突然袭击。",
+        "当前的局势表明，冲突仍在继续，各方之间的紧张关系仍然高涨。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "RTL"
+      ],
+      "all_titles": {
+        "fr": "\"Lourde série\" de bombardements, \"attaque surprise\"... Cinq mois après le début de la guerre au Moyen-Orient, où en est-on de la situation entre Washington et l'Iran ?"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Neue russische Angriffswelle fordert Tote und Verletzte – auch Kiew setzt Attacken fort",
+      "title_zh": "乌克兰战争最新：俄罗斯新一波攻击造成人员伤亡，基辅继续发动反击",
+      "url": "https://www.fr.de/politik/brand-ukraine-krieg-aktuell-drohnen-setzen-in-hinterland-russlands-amazon-in-zr-94419254.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-07-30T13:30:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰发动了新一波攻击，造成多人死亡和受伤。",
+        "乌克兰总统表示，俄罗斯使用了70多枚巡航导弹和弹道导弹，并派出了280多架无人机进行攻击。",
+        "乌克兰军队表示，他们已经击落了260多架无人机，并继续对俄罗斯目标进行反击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Neue russische Angriffswelle fordert Tote und Verletzte – auch Kiew setzt Attacken fort"
+      }
+    },
+    {
+      "title_original": "US inflation slows in June, but reversal likely amid Middle East conflict",
+      "title_zh": "6月美国通胀放缓，但中东冲突可能导致反弹",
+      "url": "https://www.reuters.com/markets/us/us-inflation-slows-june-reversal-likely-amid-middle-east-conflict-2026-07-30/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-30T13:23:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国6月通胀率放缓，但由于中东冲突，可能会出现反弹。",
+        "中东冲突可能会导致油价上涨，从而影响美国通胀率。",
+        "美国经济学家预计，中东冲突可能会对美国经济产生负面影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "US inflation slows in June, but reversal likely amid Middle East conflict"
+      }
+    },
+    {
+      "title_original": "Fifty-three days and counting: 93-year-old leader’s record absence fuels health speculation",
+      "title_zh": "93岁领导人创纪录的53天缺席引发健康猜测",
+      "url": "https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-30T12:36:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "喀麦隆总统保罗·比亚（Paul Biya）自6月7日以来已经缺席53天，引发了人们对其健康状况的猜测。",
+        "比亚总统此前曾表示要进行“短暂的私人停留”，但至今未有任何公开露面或发表声明。",
+        "由于讨论比亚总统的健康状况在喀麦隆是违法的，人们对其健康状况的猜测变得更加激烈。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Fifty-three days and counting: 93-year-old leader’s record absence fuels health speculation"
+      }
+    },
+    {
+      "title_original": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+      "title_zh": "肯尼亚官员怀疑：番茄农药中的氰化物导致15头大象死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-30T12:14:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "肯尼亚野生动物服务机构（KWS）报告称，15头大象在肯尼亚南部一公园外死亡，初步调查显示可能是由于食用含有氰化物的番茄农药而中毒。",
+        "大象的尸体被发现时，有些已经显示出麻痹的迹象，随后死亡。",
+        "肯尼亚野生动物服务机构正在进行进一步调查，以确定大象死亡的确切原因。"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Guardian World",
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect"
+      }
+    },
+    {
+      "title_original": "Crudo baja en sesión volátil, en medio de tensiones en Oriente Medio",
+      "title_zh": "原油价格在中东紧张局势中波动下降",
+      "url": "https://es.finance.yahoo.com/noticias/crudo-baja-sesi%C3%B3n-vol%C3%A1til-medio-115629841.html",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-07-30T11:56:29+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于中东紧张局势，原油价格在波动中下降。",
+        "奥曼和伊朗关于霍尔木兹海峡的谈判可能会导致海峡重新开放。",
+        "美国和伊朗之间的紧张局势仍然存在，影响着原油价格。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "es": "Crudo baja en sesión volátil, en medio de tensiones en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "„Alles deutet auf russische Rakete hin“ Objekt schlägt in Nato-Staat Polen ein – nur zwei Kilometer von Wohngebiet entfernt",
+      "title_zh": "一切迹象表明是俄罗斯导弹，物体击中北约成员国波兰，距离住宅区仅两公里",
+      "url": "https://www.tagesspiegel.de/internationales/alles-deutet-auf-russische-rakete-hin-objekt-schlagt-in-nato-staat-polen-ein--zwei-kilometer-von-wohngebiet-entfernt-15896664.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-07-30T11:31:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "波兰发现一个未识别的物体，并在一块田地上发现了一个坑，乌克兰指责俄罗斯负责。",
+        "波兰军方首脑与北约最高指挥官通话，讨论此事。",
+        "据报道，俄罗斯发射的Kh-101巡航导弹可能进入波兰领空，距离住宅区仅两公里。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "„Alles deutet auf russische Rakete hin“ Objekt schlägt in Nato-Staat Polen ein – nur zwei Kilometer von Wohngebiet entfernt"
+      }
+    },
+    {
+      "title_original": "Russia slams Ukraine with deadly strikes as Poland alleges Moscow breached NATO airspace",
+      "title_zh": "俄罗斯对乌克兰发动致命袭击，波兰指控莫斯科违反北约领空",
+      "url": "https://www.cbsnews.com/video/russia-ukraine-with-deadly-strike-poland-alleges-moscow-breached-nato-airspace/",
+      "source": "CBS News",
+      "source_score": 75,
+      "published_at": "2026-07-30T11:20:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰发动致命袭击，波兰指控俄罗斯违反北约领空。",
+        "波兰领导人指责俄罗斯侵犯北约领空，俄罗斯导弹击中波兰领土。",
+        "事件发生在俄罗斯对乌克兰发动大规模袭击期间，波兰发现导弹残骸。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "CBS News"
+      ],
+      "all_titles": {
+        "en": "Russia slams Ukraine with deadly strikes as Poland alleges Moscow breached NATO airspace"
+      }
+    },
+    {
+      "title_original": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "title_zh": "美国对伊朗发动“重型”袭击，应对对美军的企图攻击",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-30T10:49:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国对伊朗发动“重型”袭击，应对伊朗对美军的企图攻击。",
+        "美国军方称袭击了伊朗多个目标，包括伊斯兰革命卫队的设施。",
+        "伊朗方面称，美国的袭击造成了人员伤亡，包括一名两岁的儿童。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US launches 'heavy' strikes on Iran after attempted attack on American troops"
+      }
+    },
+    {
+      "title_original": "Nicaraguan leader proposes extending presidential term by another year",
+      "title_zh": "尼加拉瓜领导人提议将总统任期延长一年",
+      "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-30T10:34:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "尼加拉瓜总统丹尼尔·奥尔特加提议将总统任期延长一年。",
+        "政府控制的国民议会预计将在九月批准此提议。",
+        "奥尔特加的提议是宪法改革的一部分，旨在禁止被政府视为“叛徒”或“政变者”的反对派成员参加选举。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nicaraguan leader proposes extending presidential term by another year"
+      }
+    },
+    {
+      "title_original": "Poland says Russian missile breaches NATO airspace",
+      "title_zh": "波兰称俄罗斯导弹侵犯北约领空",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/30-07-sv-lublin-air-sirens-pl",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-07-30T10:28:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "波兰称俄罗斯导弹侵犯北约领空，导弹落在波兰境内。",
+        "事件发生在俄罗斯对乌克兰发动袭击期间，波兰居民报告听到低空飞行的飞机声。",
+        "波兰发现导弹残骸，空袭警报被触发。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Poland says Russian missile breaches NATO airspace"
+      }
+    },
+    {
+      "title_original": "Poll: Trump’s MAGA voters would stick by a candidate through the most serious of scandals",
+      "title_zh": "民调：特朗普的MAGA支持者即使面临严重丑闻也会继续支持候选人",
+      "url": "https://www.politico.com/news/2026/07/30/maga-trump-scandal-2026-elections-01013859",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-07-30T04:55:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普的MAGA支持者表示，即使候选人面临严重丑闻，他们也会继续支持该候选人。",
+        "这项调查结果显示，特朗普的支持者比其他共和党选民或民主党人更倾向于继续支持候选人，即使候选人面临丑闻。",
+        "调查结果反映了特朗普支持者的忠诚度和对候选人的信任度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Poll: Trump’s MAGA voters would stick by a candidate through the most serious of scandals"
+      }
+    },
+    {
+      "title_original": "NATO Says Russian Missile Hit Poland During Ukraine Attack",
+      "title_zh": "北约称俄罗斯导弹在乌克兰袭击期间击中波兰",
+      "url": "https://www.nytimes.com/2026/07/30/world/europe/ukraine-poland-russia-missile.html",
+      "source": "The New York Times",
+      "source_score": 95,
+      "published_at": "2026-07-30T09:45:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约表示，俄罗斯导弹在乌克兰袭击期间击中了波兰。",
+        "此事件标志着俄乌冲突的严重升级和地缘政治紧张局势的加剧。",
+        "北约和国际社会对此事表示关切和谴责。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The New York Times"
+      ],
+      "all_titles": {
+        "en": "NATO Says Russian Missile Hit Poland During Ukraine Attack"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Russland greift fast flächendeckend an",
+      "title_zh": "乌克兰战争：俄罗斯几乎全面发动攻击",
+      "url": "https://www.dw.com/de/ukraine-russland-angriffe-tote-wildberries-online-haendler-selenskyj-polen-luftraum-kampfjets/a-78168790",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-07-30T09:02:30+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰几乎所有地区发动了大规模攻击，包括首都基辅和其他主要城市。",
+        "乌克兰总统泽连斯基表示，俄罗斯使用了大量导弹和无人机，造成了重大损害和人员伤亡。",
+        "乌克兰军队正在努力抵御俄罗斯的攻击，并呼吁国际社会提供支持。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Russland greift fast flächendeckend an"
+      }
+    },
+    {
+      "title_original": "Two looming primaries will test pro-Israel Democrats’ role in the party",
+      "title_zh": "两场即将到来的初选将考验亲以色列民主党人在党内的角色",
+      "url": "https://www.politico.com/news/2026/07/30/pro-israel-democrats-test-michigan-missouri-01016755",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-07-30T03:45:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "两场即将到来的初选将决定亲以色列民主党人在党内的角色和影响力。",
+        "这两场初选分别在密歇根州和密苏里州举行，涉及民主党对以色列的支持问题。",
+        "初选结果将对民主党的对以色列政策和党内的派系斗争产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Two looming primaries will test pro-Israel Democrats’ role in the party"
+      }
+    },
+    {
+      "title_original": "النفط يرتفع في تعاملات متقلبة مع استئناف هجمات أمريكا على إيران | رويترز",
+      "title_zh": "油价在美伊冲突加剧时波动",
+      "url": "https://www.reuters.com/ar/business/VFNHJ6SEMFP4FB2JEVAYTBJZH4-2026-07-30/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-30T08:26:55+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于美伊冲突加剧，油价出现波动。",
+        "美国对伊朗的攻击导致油价上涨，市场担忧中东局势不稳定。",
+        "油价的波动对全球经济和能源市场产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "النفط يرتفع في تعاملات متقلبة مع استئناف هجمات أمريكا على إيران | رويترز"
+      }
+    },
+    {
+      "title_original": "استقرار أسهم أوروبا مع تبديد توتر الشرق الأوسط أثر نتائج الشركات",
+      "title_zh": "欧洲股市在中东紧张局势缓解后稳定",
+      "url": "https://www.reuters.com/ar/business/TPJ74CQPZRPNBFGUJT7WXFHAXE-2026-07-30/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-30T08:03:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "欧洲股市在中东紧张局势缓解后稳定，得益于企业财报的发布。",
+        "欧洲股市的稳定也得到了美国股市的支持，尤其是科技股的上涨。",
+        "然而，油价的下跌对欧洲股市产生了负面影响，引发了人们对全球能源需求的担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "استقرار أسهم أوروبا مع تبديد توتر الشرق الأوسط أثر نتائج الشركات"
+      }
+    },
+    {
+      "title_original": "الأسهم الأوروبية تتباين مع تصاعد التوترات في الشرق الأوسط",
+      "title_zh": "欧洲股市在中东紧张局势升级时表现出分化",
+      "url": "https://www.cnbcarabia.com/155084/2026/30/07/%D8%A7%D9%84%D8%A3%D8%B3%D9%87%D9%85-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%AA%D8%A8%D8%A7%D9%8A%D9%86-%D9%85%D8%B9-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "CNBC عربية",
+      "source_score": 75,
+      "published_at": "2026-07-30T07:51:20+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "欧洲股市在中东紧张局势升级时表现出分化，部分股市上涨，部分下跌。",
+        "科技股和能源股的表现推动了欧洲股市的上涨，但油价的下跌对股市产生了负面影响。",
+        "欧洲股市的表现也受到美国股市和企业财报的影响，投资者正在关注地缘政治局势的发展。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "CNBC عربية"
+      ],
+      "all_titles": {
+        "ar": "الأسهم الأوروبية تتباين مع تصاعد التوترات في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "500 ألف جندي جديد.. هل تستعد روسيا لإطالة حرب أوكرانيا بتعبئة غير مسبوقة؟",
+      "title_zh": "俄罗斯是否准备通过前所未有的动员来延长乌克兰战争？",
+      "url": "https://www.aljazeera.net/politics/2026/7/30/500-%D8%A3%D9%84%D9%81-%D8%AC%D9%86%D8%AF%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%87%D9%84-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%84%D8%A5%D8%B7%D8%A7%D9%84%D8%A9",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-07-30T07:31:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯可能正在准备动员多达50万名新兵，以延长乌克兰战争。",
+        "这一动员可能会使俄罗斯能够维持长期的战争，但不一定能改变战争的结果。",
+        "俄罗斯的动员计划引发了国际社会的担忧，人们担心这可能会导致战争的升级。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "500 ألف جندي جديد.. هل تستعد روسيا لإطالة حرب أوكرانيا بتعبئة غير مسبوقة؟"
+      }
+    },
+    {
+      "title_original": "正体不明の飛翔体、ポーランド領の奥深くに着弾し爆発 ロシアのウクライナ攻撃始まる中",
+      "title_zh": "不明飞行物在波兰领土深处坠毁并爆炸，俄罗斯对乌克兰的攻击开始",
+      "url": "https://www.cnn.co.jp/world/35251123.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-07-30T07:06:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "一枚不明飞行物在波兰领土深处坠毁并爆炸，目前尚不清楚这枚飞行物的来源。",
+        "俄罗斯对乌克兰的攻击已经开始，波兰军队已经紧急出动战机应对。",
+        "这一事件引发了人们对俄罗斯攻击波兰领土的担忧，可能会导致战争的升级。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "正体不明の飛翔体、ポーランド領の奥深くに着弾し爆発 ロシアのウクライナ攻撃始まる中"
+      }
+    },
+    {
+      "title_original": "News - NATO Allies have a plan to win, before war starts",
+      "title_zh": "北约盟国在战争开始前有一个赢得战争的计划",
+      "url": "https://www.dvidshub.net/news/571067/nato-allies-have-plan-win-before-war-starts",
+      "source": "DVIDS",
+      "source_score": 40,
+      "published_at": "2026-07-30T06:55:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约盟国已经制定了一个在战争开始前赢得战争的计划，通过加强信息作战能力。",
+        "北约盟国已经举行了一次信息作战演习，旨在提高他们的信息作战能力和协调性。",
+        "这一计划的目标是提高北约盟国在信息环境中的竞争力和控制力，能够有效地应对敌人的信息战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "DVIDS"
+      ],
+      "all_titles": {
+        "en": "News - NATO Allies have a plan to win, before war starts"
+      }
+    },
+    {
+      "title_original": "Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts",
+      "title_zh": "日本地震死亡人数上升至30人，余震和高温阻碍救援工作",
+      "url": "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-30T06:49:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本南部九州岛发生6.8级地震，造成至少30人死亡，62人受伤。",
+        "地震导致多处建筑物倒塌，包括购物中心、纸厂和住宅。",
+        "救援工作因余震和高温而受到阻碍。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（7月30日の動き）",
+      "title_zh": "【实时更新】俄罗斯对乌克兰进行军事入侵（7月30日动态）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141221000",
+      "source": "news.web.nhk",
+      "source_score": 95,
+      "published_at": "2026-07-30T06:47:52+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰进行军事入侵，情况正在发展中。",
+        "日本放送协会（NHK）正在实时更新相关新闻。",
+        "此事件是地缘政治领域的重要新闻。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "news.web.nhk"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（7月30日の動き）"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : les Etats-Unis annoncent avoir lancé une « lourde série » de frappes sur l'Iran",
+      "title_zh": "中东战争：美国宣布对伊朗发动“大规模”空袭",
+      "url": "https://www.lesechos.fr/monde/afrique-moyen-orient/guerre-au-moyen-orient-les-etats-unis-annoncent-avoir-lance-une-lourde-serie-de-frappes-sur-liran-2245086",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-07-30T05:43:41+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国宣布对伊朗发动了一系列大规模空袭。",
+        "此次空袭是中东战争的一部分。",
+        "美国和伊朗之间的紧张关系正在升级。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : les Etats-Unis annoncent avoir lancé une « lourde série » de frappes sur l'Iran"
+      }
+    },
+    {
+      "title_original": "النفط يتراجع وسط محادثات عُمان وإيران وتوتر الشرق الأوسط",
+      "title_zh": "油价下跌，奥曼和伊朗举行谈判，中东紧张局势加剧",
+      "url": "https://www.cnbcarabia.com/155070/2026/30/07/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-%D9%88%D8%B3%D8%B7-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%AA%D9%88%D8%AA%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-",
+      "source": "CNBC عربية",
+      "source_score": 75,
+      "published_at": "2026-07-30T05:04:06+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于奥曼和伊朗举行谈判，油价下跌。",
+        "中东紧张局势加剧，影响油价走势。",
+        "奥曼和伊朗的谈判可能会影响地区局势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "CNBC عربية"
+      ],
+      "all_titles": {
+        "ar": "النفط يتراجع وسط محادثات عُمان وإيران وتوتر الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "A quarter of young Africans believe USAID cuts could be positive, survey finds",
+      "title_zh": "四分之一的年轻非洲人认为美国国际开发署（USAID）削减援助可能是积极的，调查发现",
+      "url": "https://www.theguardian.com/global-development/2026/jul/30/a-quarter-of-young-africans-believe-usaid-cuts-could-be-positive-survey-finds",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-30T05:00:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "一项调查发现，四分之一的年轻非洲人认为美国国际开发署（USAID）削减援助可能是积极的。",
+        "他们认为，这将迫使领导人面对和解决自己的挑战。",
+        "许多年轻非洲人对外国影响力增加表示担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "A quarter of young Africans believe USAID cuts could be positive, survey finds"
+      }
+    }
+  ]
+}
