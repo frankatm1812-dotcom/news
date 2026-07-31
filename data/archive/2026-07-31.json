@@ -1,8 +1,834 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-30T16:59:21.613335+00:00",
-  "count": 33,
+  "generated_at": "2026-07-31T09:37:08.851347+00:00",
+  "count": 66,
   "articles": [
+    {
+      "title_original": "UK petrol prices expected to rise to highest this year as US attacks Iran – business live",
+      "title_zh": "英国汽油价格预计将上涨至今年最高点，美伊冲突加剧",
+      "url": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-31T09:22:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "英国汽油价格预计将上涨至今年最高点，主要原因是美伊冲突加剧。",
+        "英国汽车协会（AA）表示，平均汽油价格可能会超过每升159.7便士的记录。",
+        "英国银行NatWest集团的季度利润增加了近30%，主要得益于客户存款、抵押贷款和经济条件的改善。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "UK petrol prices expected to rise to highest this year as US attacks Iran – business live"
+      }
+    },
+    {
+      "title_original": "China to raise retail gasoline and diesel price caps amid renewed Middle East conflict",
+      "title_zh": "中国将提高汽油和柴油零售价格上限，中东冲突重燃",
+      "url": "https://www.reuters.com/business/energy/china-raise-retail-gasoline-diesel-price-caps-amid-renewed-middle-east-conflict-2026-07-31/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-31T09:07:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中国将提高汽油和柴油零售价格上限，主要原因是中东冲突重燃。",
+        "中国政府将对汽油和柴油价格进行调整，以应对国际油价的波动。",
+        "此举预计将对中国的能源市场和经济产生一定影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "China to raise retail gasoline and diesel price caps amid renewed Middle East conflict"
+      }
+    },
+    {
+      "title_original": "The nation’s cartoonists on the week in politics",
+      "title_zh": "全国漫画家对本周政治事件的看法",
+      "url": "https://www.politico.com/gallery/2026/07/31/the-nations-cartoonists-on-the-week-in-politics-01018178",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-07-31T04:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国政治漫画家们对本周的政治事件进行了评论和讽刺。",
+        "这些漫画家来自不同的政治立场和媒体平台，反映了美国社会的多样性和复杂性。",
+        "他们的作品涵盖了从政治丑闻到社会问题等广泛的主题。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The nation’s cartoonists on the week in politics"
+      }
+    },
+    {
+      "title_original": "Fifa says 'nobody selling football' as plan continues",
+      "title_zh": "国际足联表示“没有人在出售足球”，计划继续进行",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-31T08:21:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "国际足联（Fifa）表示，尽管面临来自欧足联（Uefa）和其他组织的反对，但其出售足球比赛权益的计划将继续进行。",
+        "Fifa计划创建一个商业子公司来运营其主要赛事，包括世界杯，并将允许外部投资者购买其股份。",
+        "欧足联和其他组织对Fifa的计划表示反对，认为这将损害足球的利益和完整性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Fifa says 'nobody selling football' as plan continues"
+      }
+    },
+    {
+      "title_original": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "title_zh": "西班牙派遣军队，数千人从摩洛哥进入休塔自治市",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-31T08:09:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙政府派遣军队前往其在北非的休塔自治市，以应对来自摩洛哥的数千名移民的涌入。",
+        "至少18人在试图到达休塔的过程中溺水身亡，西班牙政府表示将采取措施加强边境控制和安全。",
+        "此事件凸显了欧洲和非洲之间的移民问题的复杂性和挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spain sending troops as thousands enter enclave of Ceuta from Morocco"
+      }
+    },
+    {
+      "title_original": "Ebola outbreak in DRC the fastest growing in the history of the virus",
+      "title_zh": "刚果埃博拉疫情爆发为历史上增长最快",
+      "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-31T08:00:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "刚果民主共和国的埃博拉疫情已经导致近1500人死亡，目前共有3360例确诊病例。",
+        "疫情影响了该国东部五个省份，病例死亡率约为45%。",
+        "由于许多受影响地区存在冲突，疫情应对工作受到严重阻碍。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Ebola outbreak in DRC the fastest growing in the history of the virus"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（7月31日の動き）",
+      "title_zh": "【实时更新】俄罗斯对乌克兰的军事入侵（7月31日动态）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015141231000",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-07-31T07:07:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰的军事入侵持续进行中，具体情况请参阅相关新闻报道。",
+        "由于提供的正文内容过少，无法提供更多详细信息。",
+        "请关注后续新闻更新以获取更多信息。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（7月31日の動き）"
+      }
+    },
+    {
+      "title_original": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "title_zh": "哈马斯称在特朗普宣布和平委员会计划后同意解除武装",
+      "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-31T07:03:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "哈马斯宣布同意解除武装，这是特朗普宣布和平委员会计划后的结果。",
+        "美国总统特朗普表示，和平委员会已经达成协议，内容包括哈马斯和其他武装团体在加沙的完全解除武装。",
+        "以色列方面尚未对此事发表评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Warum die Krim zum strategischen Ziel wird",
+      "title_zh": "乌克兰战争：为什么克里米亚成为战略目标",
+      "url": "https://www.dw.com/de/ukraine-krieg-warum-die-krim-zum-strategischen-ziel-wird/a-78180164",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-07-31T06:46:20+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队加强对克里米亚的攻击，旨在将该半岛与俄罗斯隔离。",
+        "乌克兰使用无人机攻击克里米亚的交通和能源设施，包括俄罗斯的影子舰队。",
+        "由于持续的冲突，克里米亚的民众面临着严重的生活困难，包括燃料和电力短缺。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Warum die Krim zum strategischen Ziel wird"
+      }
+    },
+    {
+      "title_original": "Mehr US-Atomwaffen als Option Nato arbeitet an Plänen für Ausbau der nuklearen Abschreckung",
+      "title_zh": "更多美国核武器作为选择：北约正在制定扩大核威慑的计划",
+      "url": "https://www.tagesspiegel.de/internationales/mehr-us-atomwaffen-als-option-nato-arbeitet-an-planen-fur-ausbau-der-nuklearen-abschreckung-15900020.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-07-31T06:16:59+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约正在考虑扩大其在欧洲的核威慑能力，包括可能部署更多的美国核武器。",
+        "由于俄罗斯的威胁，北约正在评估其核威慑战略，可能包括在英国、波兰、芬兰和立陶宛等国部署核武器。",
+        "北约的目标是确保能够对任何核攻击做出回应，目前正在评估其核能力的需求。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Mehr US-Atomwaffen als Option Nato arbeitet an Plänen für Ausbau der nuklearen Abschreckung"
+      }
+    },
+    {
+      "title_original": "ウクライナ・ザカルパッチャ州（1）移転先から製造・物流拠点へ | 地域・分析レポート - 海外ビジネス情報",
+      "title_zh": "乌克兰扎卡尔帕奇亚州：从移民目的地到制造和物流中心",
+      "url": "https://www.jetro.go.jp/biz/areareports/2026/28a10b7a38792d10.html",
+      "source": "jetro.go.jp",
+      "source_score": 40,
+      "published_at": "2026-07-31T06:11:15+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰扎卡尔帕奇亚州位于乌克兰最西端，拥有与波兰、斯洛伐克、匈牙利和罗马尼亚四个国家的边界。",
+        "2022年2月俄罗斯对乌克兰的全面入侵后，扎卡尔帕奇亚州成为企业移民的目的地，并逐渐成为欧盟市场和制造业的物流中心。",
+        "该州已有400多家企业移民，并拥有连接欧盟的铁路物流网络和外资制造业集群。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "jetro.go.jp"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ・ザカルパッチャ州（1）移転先から製造・物流拠点へ | 地域・分析レポート - 海外ビジネス情報"
+      }
+    },
+    {
+      "title_original": "ポーランドに墜落したミサイル、「おそらくロシアのもの」と首相",
+      "title_zh": "波兰坠落的导弹可能是俄罗斯的",
+      "url": "https://www.bbc.com/japanese/articles/cx2kp4ng0d4o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-07-31T05:37:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "波兰东部的一个村庄发现了一枚坠落的导弹，波兰总理表示这枚导弹可能是俄罗斯的。",
+        "导弹坠落在波兰和乌克兰的边界附近，波兰军队已经对此事展开了调查。",
+        "这起事件发生在俄罗斯对乌克兰发动大规模攻击之后，北约已经对此事表示关注。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ポーランドに墜落したミサイル、「おそらくロシアのもの」と首相"
+      }
+    },
+    {
+      "title_original": "俄土和北约，正在演一出三国杀，埃尔多安要做“四世三公”的袁绍",
+      "title_zh": "俄土和北约：一场三国杀，埃尔多安要做“四世三公”的袁绍",
+      "url": "https://m.sohu.com/a/1057097439_122157897?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "SOHU",
+      "source_score": 40,
+      "published_at": "2026-07-31T05:32:08+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "土耳其已经决定向北约派遣五架F-16战机，参加北约在波罗的海的空中警戒任务。",
+        "这次部署被视为土耳其对北约的示好，但也被认为是土耳其在俄罗斯和北约之间进行的平衡行为。",
+        "土耳其总统埃尔多安被比作“四世三公”的袁绍，试图在复杂的国际关系中寻找平衡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "SOHU"
+      ],
+      "all_titles": {
+        "zh": "俄土和北约，正在演一出三国杀，埃尔多安要做“四世三公”的袁绍"
+      }
+    },
+    {
+      "title_original": "俄乌冲突升级前夕，中国在联合国上一番话，给普京与欧洲指明方向",
+      "title_zh": "俄乌冲突升级前夕，中国在联合国上发表讲话，为普京和欧洲指明方向",
+      "url": "https://m.sohu.com/a/1057097405_122157897?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "SOHU",
+      "source_score": 40,
+      "published_at": "2026-07-31T05:30:56+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "中国常驻联合国代表团临时代办孙磊在联合国发表讲话，呼吁各方保持冷静和克制，避免局势进一步升级。",
+        "孙磊表示，冲突的根源在于冷战思维和阵营对抗，呼吁各方摒弃冷战思维，构建区域共同安全。",
+        "中国的讲话被视为为俄乌冲突提供了一条和平解决的途径。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "SOHU"
+      ],
+      "all_titles": {
+        "zh": "俄乌冲突升级前夕，中国在联合国上一番话，给普京与欧洲指明方向"
+      }
+    },
+    {
+      "title_original": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "title_zh": "英国说唱歌手Yung Filly被判无罪，涉嫌在澳大利亚演出后强奸一名女子",
+      "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-31T05:21:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "英国说唱歌手Yung Filly被判无罪，涉嫌在澳大利亚演出后强奸一名女子。",
+        "法庭判决Yung Filly在三项指控中无罪，但在两项身体伤害指控中有罪。",
+        "这起案件发生在2024年，Yung Filly被指控在酒店房间内强奸了一名20岁的女子。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "UK rapper Yung Filly found not guilty of raping woman after Australian show"
+      }
+    },
+    {
+      "title_original": "La guerra en Oriente Medio acerca el euríbor al 3% y lo coloca en máximos de dos años",
+      "title_zh": "中东战争使欧元隔夜拆借利率接近3%并创下两年新高",
+      "url": "https://www.eleconomista.es/economia/noticias/14005281/07/26/la-guerra-en-oriente-medio-acerca-el-euribor-al-3-y-lo-coloca-en-maximos-de-dos-anos.html",
+      "source": "El Economista",
+      "source_score": 40,
+      "published_at": "2026-07-31T04:30:16+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争导致欧元隔夜拆借利率（euríbor）接近3%。",
+        "这是euríbor两年来的最高点。",
+        "战争的影响使得金融市场出现波动"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "El Economista"
+      ],
+      "all_titles": {
+        "es": "La guerra en Oriente Medio acerca el euríbor al 3% y lo coloca en máximos de dos años"
+      }
+    },
+    {
+      "title_original": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "title_zh": "如果哈马斯裁军计划成功，可能标志着结束加沙战争的第一步",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-31T04:25:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "哈马斯已经接受了一个裁军计划的框架，这可能是结束加沙战争的第一步。",
+        "该计划包括对哈马斯剩余的重型武器进行清点和存储，可能会消除和平进程中的最大障碍。",
+        "哈马斯的新领导层可能会采取行动结束战争"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war"
+      }
+    },
+    {
+      "title_original": "FCC chair Brendan Carr on Trump, free speech and his threats against broadcasters",
+      "title_zh": "FCC主席布伦丹·卡尔谈特朗普、言论自由和他对广播公司的威胁",
+      "url": "https://www.politico.com/video/2026/07/30/fcc-chair-brendan-carr-on-trump-free-speech-and-his-threats-against-broadcasters-2124559",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-07-30T22:59:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "FCC主席布伦丹·卡尔讨论了特朗普、言论自由和他对广播公司的威胁。",
+        "卡尔表示，他将保护言论自由和广播公司的权利。",
+        "特朗普的言论和行为引发了人们对言论自由的担忧"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "FCC chair Brendan Carr on Trump, free speech and his threats against broadcasters"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : des discussions en coulisses, l’escalade sur le terrain... Les dernières infos",
+      "title_zh": "中东战争：幕后谈判、地面上的升级... 最新消息",
+      "url": "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-des-discussions-en-coulisses-lescalade-sur-le-terrain-les-dernieres-infos-64abd10e-8c86-11f1-91ed-1c452045cb8b",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-07-31T03:30:01+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争正在升级，地面上的冲突加剧。",
+        "幕后谈判正在进行，各方试图找到解决方案。",
+        "战争的影响日益严重，平民伤亡不断增加"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : des discussions en coulisses, l’escalade sur le terrain... Les dernières infos"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Trump says he is ‘not sure’ about letting Ukraine build Patriot missiles",
+      "title_zh": "乌克兰战争简报：特朗普表示不确定是否允许乌克兰制造爱国者导弹",
+      "url": "https://www.theguardian.com/world/2026/jul/31/ukraine-war-briefing-trump-says-he-is-not-sure-about-letting-ukraine-build-patriot-missiles",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-07-31T03:20:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普表示不确定是否允许乌克兰制造爱国者导弹。",
+        "乌克兰总统泽连斯基与特朗普会面，讨论了爱国者导弹的许可安排。",
+        "俄罗斯对乌克兰的攻击不断升级，西方国家在考虑如何支持乌克兰"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Trump says he is ‘not sure’ about letting Ukraine build Patriot missiles"
+      }
+    },
+    {
+      "title_original": "إيران تعلن استهداف قاعدة أمريكية في البحرين وواشنطن تعزز إجراءات حماية الملاحة",
+      "title_zh": "伊朗宣布针对巴林的美国基地，华盛顿加强航行保护措施",
+      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20260731-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D9%88%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B9%D8%B2%D8%B2-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%AA%D9%81%D8%B1%D8%B6-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-07-31T02:57:23+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "伊朗宣布针对巴林的美国基地",
+        "华盛顿加强航行保护措施",
+        "伊朗和美国之间的紧张关系持续升级"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "إيران تعلن استهداف قاعدة أمريكية في البحرين وواشنطن تعزز إجراءات حماية الملاحة"
+      }
+    },
+    {
+      "title_original": "飲食料品の値上げ、秋以降にピーク 中東情勢と円安で年2万品超も",
+      "title_zh": "饮食品价格上涨，秋季后达到峰值，中东局势和日元贬值导致超过2万种产品",
+      "url": "https://www.asahi.com/articles/ASV700JBNV70ULFA00FM.html",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-07-31T02:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "饮食品价格上涨，秋季后达到峰值",
+        "中东局势和日元贬值导致价格上涨",
+        "超过2万种产品的价格将上涨"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "飲食料品の値上げ、秋以降にピーク 中東情勢と円安で年2万品超も"
+      }
+    },
+    {
+      "title_original": "Un recuento para comprender el creciente conflicto en Oriente Medio",
+      "title_zh": "了解中东日益激烈的冲突",
+      "url": "https://www.univision.com/noticias/estados-unidos/un-recuento-para-comprender-el-creciente-conflicto-en-oriente-medio",
+      "source": "Univision",
+      "source_score": 40,
+      "published_at": "2026-07-31T02:21:03+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东地区的冲突日益激烈",
+        "美国和伊朗之间的紧张关系是冲突的主要原因",
+        "冲突涉及多个中东国家，包括沙特阿拉伯、伊拉克和约旦"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Univision"
+      ],
+      "all_titles": {
+        "es": "Un recuento para comprender el creciente conflicto en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "トランプ氏、ウクライナのパトリオット生産に慎重姿勢＝英ＦＴ",
+      "title_zh": "特朗普对乌克兰的爱国者生产持谨慎态度",
+      "url": "https://jp.reuters.com/world/ukraine/7W2OGQJRNZK4XI5GETTLB42QEQ-2026-07-31/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-07-31T01:51:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普对乌克兰的爱国者生产持谨慎态度",
+        "爱国者生产是乌克兰军事能力的重要组成部分",
+        "特朗普的态度可能会影响乌克兰的军事能力"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、ウクライナのパトリオット生産に慎重姿勢＝英ＦＴ"
+      }
+    },
+    {
+      "title_original": "ロシア軍がミサイルなど７４発で攻撃、ウクライナ各地で９人死亡…ゼレンスキー氏「北朝鮮製が含まれていた」",
+      "title_zh": "俄罗斯军队发射74枚导弹袭击乌克兰，9人死亡，泽连斯基表示“其中包括朝鲜制造的导弹”",
+      "url": "https://www.yomiuri.co.jp/world/20260731-GYT1T00105/",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-07-31T01:45:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯军队发射74枚导弹袭击乌克兰",
+        "袭击导致9人死亡",
+        "泽连斯基表示其中包括朝鲜制造的导弹"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍がミサイルなど７４発で攻撃、ウクライナ各地で９人死亡…ゼレンスキー氏「北朝鮮製が含まれていた」"
+      }
+    },
+    {
+      "title_original": "トランプ氏、米特使が「近くウクライナ初訪問」 停戦協議再開に意欲",
+      "title_zh": "特朗普表示美国特使将近期首次访问乌克兰，希望重启停战谈判",
+      "url": "https://www.nikkei.com/article/DGXZQOGN3113F0R30C26A7000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-07-31T01:16:14+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普表示美国特使将近期首次访问乌克兰，希望重启停战谈判。",
+        "美国特使此前曾尝试调解乌克兰和俄罗斯之间的冲突。",
+        "特朗普在接受采访时表示，美国希望看到乌克兰和俄罗斯之间的和平解决"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、米特使が「近くウクライナ初訪問」 停戦協議再開に意欲"
+      }
+    },
+    {
+      "title_original": "中東から沖縄 オスプレイ帰還",
+      "title_zh": "从中东返回冲绳的 Osprey",
+      "url": "https://www.jcp.or.jp/akahata/aik26/2026-07-31/2026073104_04_0.php",
+      "source": "jcp.or.jp",
+      "source_score": 40,
+      "published_at": "2026-07-31T00:50:04+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国海军陆战队的 Osprey 飞机从中东返回冲绳。",
+        "这些飞机此前曾参加中东的作战任务。",
+        "飞机的返回标志着美国军队在中东地区的作战任务的结束"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "jcp.or.jp"
+      ],
+      "all_titles": {
+        "ja": "中東から沖縄 オスプレイ帰還"
+      }
+    },
+    {
+      "title_original": "Russian missile behind crash in Poland, NATO’s Rutte says",
+      "title_zh": "北约秘书长拉特表示，波兰坠毁事件是由俄罗斯导弹引起的",
+      "url": "https://www.spokesman.com/stories/2026/jul/30/russian-missile-behind-crash-in-poland-natos-rutte/",
+      "source": "The Spokesman-Review",
+      "source_score": 40,
+      "published_at": "2026-07-31T00:38:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约秘书长拉特表示，波兰坠毁事件是由俄罗斯导弹引起的。",
+        "波兰总理图斯克表示，所有迹象表明导弹是俄罗斯的，但没有完全确认。",
+        "事件发生在俄罗斯对乌克兰发动大规模攻击期间"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "The Spokesman-Review"
+      ],
+      "all_titles": {
+        "en": "Russian missile behind crash in Poland, NATO’s Rutte says"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Les stocks s'effondrent… Et si les Etats-Unis n'avaient plus de missiles",
+      "title_zh": "中东战争：美国的导弹库存减少了，如果美国没有导弹怎么办",
+      "url": "https://fr.news.yahoo.com/guerre-au-moyen-orient--les-stocks-seffondrent-et-si-les-etats-unis-navaient-plus-de-missiles-231830518.html",
+      "source": "Yahoo Actualités",
+      "source_score": 40,
+      "published_at": "2026-07-30T23:18:30+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国的导弹库存因中东战争而减少。",
+        "美国总统特朗普表示，美国仍然有足够的导弹。",
+        "专家表示，减少的导弹库存可能会限制美国在未来冲突中的军事能力"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Yahoo Actualités",
+        "20 Minutes"
+      ],
+      "all_titles": {
+        "fr": "Les stocks s’effondrent… Et si les États-Unis n’avaient plus de missiles"
+      }
+    },
+    {
+      "title_original": "حزام ناري أميركي على قواعد لـ«الحرس الثوري»",
+      "title_zh": "美国对伊朗革命卫队基地发动空袭",
+      "url": "https://aawsat.com/%D8%B4%D8%A4%D9%88%D9%86-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9/5301847-%D8%AD%D8%B2%D8%A7%D9%85-%D9%86%D8%A7%D8%B1%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D8%B9%D9%84%D9%89-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D9%84%D9%80%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-07-30T22:41:30+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国对伊朗革命卫队的基地发动了空袭，目标包括十几个基地和军事设施。",
+        "空袭范围包括伊朗南部沿海地区和靠近霍尔木兹海峡的地区。",
+        "伊朗革命卫队声称击落了美国战机，但美国方面否认了这一说法。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "حزام ناري أميركي على قواعد لـ«الحرس الثوري»"
+      }
+    },
+    {
+      "title_original": "France assumes air component command of NATO Allied Reaction Force (ARF)",
+      "title_zh": "法国接任北约盟军反应部队空军指挥",
+      "url": "https://ac.nato.int/archive/2026/france-assumes-air-component-command-of-nato-allied-reaction-force-arf",
+      "source": "ac.nato.int",
+      "source_score": 40,
+      "published_at": "2026-07-30T22:17:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "法国接任了北约盟军反应部队（ARF）的空军指挥。",
+        "北约盟军反应部队是一个快速反应部队，用于应对紧急情况。",
+        "法国的指挥将加强北约在空中作战方面的能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "ac.nato.int"
+      ],
+      "all_titles": {
+        "en": "France assumes air component command of NATO Allied Reaction Force (ARF)"
+      }
+    },
+    {
+      "title_original": "تصاعد الضغوط على إنفانتينو… واجتماعات يويفا وكونكاكاف تثير الشكوك حول مستقبله",
+      "title_zh": "国际足联主席因凡蒂诺面临压力，欧足联和中北美足联会议引发对其未来的质疑",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/5301843-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%B6%D8%BA%D9%88%D8%B7-%D8%B9%D9%84%D9%89-%D8%A5%D9%86%D9%81%D8%A7%D9%86%D8%AA%D9%8A%D9%86%D9%88%E2%80%A6-%D9%88%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D8%A7%D8%AA-%D9%8A%D9%88%D9%8A%D9%81%D8%A7-%D9%88%D9%83%D9%88%D9%86%D9%83%D8%A7%D9%83%D8%A7%D9%81-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%83%D9%88%D9%83-%D8%AD%D9%88%D9%84",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-07-30T22:15:07+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "国际足联主席因凡蒂诺面临来自欧足联和中北美足联的压力，会议讨论了对其未来的质疑。",
+        "欧足联和中北美足联拒绝了国际足联关于出售世界杯商业权的提议。",
+        "因凡蒂诺的领导地位面临挑战，未来是否能够继续担任国际足联主席存在不确定性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "تصاعد الضغوط على إنفانتينو… واجتماعات يويفا وكونكاكاف تثير الشكوك حول مستقبله"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 05:35 Flugkörper über Rumänien aufgetaucht - Kampfjets müssen aufsteigen +++",
+      "title_zh": "乌克兰战争直播：05:35发现飞行物体在罗马尼亚上空，战斗机必须起飞",
+      "url": "https://www.n-tv.de/politik/23-48-Wegen-russischer-Angriffe-stoppen-ukrainische-Eisenerz-Produzenten-ihre-Foerderung-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-07-30T21:50:54+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争持续，罗马尼亚上空发现飞行物体，战斗机必须起飞应对。",
+        "乌克兰战争导致了广泛的破坏和人员伤亡，国际社会呼吁和平解决冲突。",
+        "冲突的最新发展引起了人们的关注，各方都在寻求解决方案。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 05:35 Flugkörper über Rumänien aufgetaucht - Kampfjets müssen aufsteigen +++"
+      }
+    },
     {
       "title_original": "NATO jets scramble as Russian missile detonates in Poland",
       "title_zh": "北约战机紧急起飞，俄罗斯导弹在波兰爆炸",
