@@ -1,0 +1,857 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-07-31T17:08:54.715882+00:00",
+  "count": 34,
+  "articles": [
+    {
+      "title_original": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+      "title_zh": "西班牙首相指责人贩子，6万移民从摩洛哥抵达休塔",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-31T17:03:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙首相将此次事件描述为对其北非领土的攻击，并表示所有非法移民将被遣返回摩洛哥。",
+        "此次事件中，共有6万移民从摩洛哥抵达休塔。",
+        "西班牙政府将采取措施应对这一事件，确保移民的安全和合法权益。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco"
+      }
+    },
+    {
+      "title_original": "トランプ氏、ウクライナのパトリオット迎撃ミサイル製造「合意していない」",
+      "title_zh": "特朗普表示没有同意乌克兰制造爱国者导弹",
+      "url": "https://jp.reuters.com/world/ukraine/DV5JSHFEPZK6HINTADIFNR6KV4-2026-07-31/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-31T16:47:06+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普表示没有同意乌克兰制造爱国者导弹。",
+        "爱国者导弹是一种美国制造的防空导弹系统。",
+        "乌克兰希望能够自主生产爱国者导弹，以增强其国防能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、ウクライナのパトリオット迎撃ミサイル製造「合意していない」"
+      }
+    },
+    {
+      "title_original": "Touchée de plein fouet par les conséquences de la guerre au Moyen-Orient, l'Inde veut forer son propre pétrole (elle dispose de 250.000 km² de zones offshore inexplorées)",
+      "title_zh": "受中东战争影响，印度计划开采自己的石油（拥有25万平方公里未勘探的海上区域）",
+      "url": "https://www.bfmtv.com/economie/entreprises/energie/touchee-de-plein-fouet-par-les-consequences-de-la-guerre-au-moyen-orient-l-inde-veut-forer-son-propre-petrole-elle-dispose-de-250-000-km2-de-zones-offshore-inexplorees_AD-202607310417.html",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-07-31T16:06:07+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "印度计划开采自己的石油，以减少对外部供应的依赖。",
+        "印度拥有25万平方公里的未勘探海上区域，具有丰富的石油资源。",
+        "印度政府将采取措施推进石油开采工作，确保能源安全。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Touchée de plein fouet par les conséquences de la guerre au Moyen-Orient, l'Inde veut forer son propre pétrole (elle dispose de 250.000 km² de zones offshore inexplorées)"
+      }
+    },
+    {
+      "title_original": "Entre las mafias y la geopolítica: ¿qué hay detrás de la crisis migratoria en Ceuta?",
+      "title_zh": "在黑手党和地缘政治之间：休塔移民危机背后的原因是什么？",
+      "url": "https://www.france24.com/es/europa/20260731-entre-las-mafias-y-la-geopol%C3%ADtica-qu%C3%A9-hay-detr%C3%A1s-de-la-crisis-migratoria-en-ceuta",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-07-31T15:35:40+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "休塔移民危机是由多种因素引起的，包括黑手党和地缘政治因素。",
+        "许多移民试图从摩洛哥进入休塔，这是一个位于北非的西班牙领土。",
+        "西班牙政府和国际组织正在努力解决这一危机，确保移民的安全和合法权益。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "es": "Entre las mafias y la geopolítica: ¿qué hay detrás de la crisis migratoria en Ceuta?"
+      }
+    },
+    {
+      "title_original": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "title_zh": "鲍文：哈马斯解除武装计划面临巨大障碍，但为加沙带来罕见的希望",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-31T15:18:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "哈马斯解除武装计划面临巨大障碍，包括以色列的怀疑和巴勒斯坦人的不信任。",
+        "该计划旨在通过哈马斯解除武装和以色列撤出加沙来实现和平解决。",
+        "加沙的局势非常严峻，许多巴勒斯坦人生活在贫困和恐惧之中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza"
+      }
+    },
+    {
+      "title_original": "إكسون موبيل: لن \"نتجنب\" الاستثمار في الشرق الأوسط",
+      "title_zh": "埃克森美孚：不会回避在中东投资",
+      "url": "https://www.reuters.com/ar/business/KQ2VH6Y5RNJB5HDJIXLJR2PUKI-2026-07-31/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-31T14:54:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "埃克森美孚表示不会回避在中东投资。",
+        "该公司认为中东地区具有重要的投资价值。",
+        "埃克森美孚的声明表明其对中东市场的信心。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "إكسون موبيل: لن \"نتجنب\" الاستثمار في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Russia and Ukraine report casualties as they continue to trade attacks",
+      "title_zh": "俄罗斯和乌克兰继续交换攻击，双方均有伤亡",
+      "url": "https://www.aljazeera.com/news/2026/7/31/russia-and-ukraine-report-casualties-as-they-continue-to-trade-attacks",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-07-31T14:27:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯和乌克兰继续交换攻击，双方均有伤亡报告。",
+        "乌克兰方面表示已击中俄罗斯的油 refinery 和其他目标。",
+        "冲突双方均遭受了人员伤亡和基础设施损害。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russia and Ukraine report casualties as they continue to trade attacks"
+      }
+    },
+    {
+      "title_original": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
+      "title_zh": "数百人因希腊野火逃离，欧洲各地火灾持续",
+      "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-31T14:26:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "希腊野火导致数百人通过海路逃离。",
+        "欧洲各地，包括希腊、葡萄牙和西班牙，持续发生野火。",
+        "野火造成了大量财产损失和人员疏散。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hundreds escape Greek wildfire by sea as blazes continue across Europe"
+      }
+    },
+    {
+      "title_original": "شركات النفط الأميركية تجني أرباحا قياسية في ظل الحرب في الشرق الأوسط",
+      "title_zh": "美国石油公司在中东战争背景下获得创纪录利润",
+      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260731-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%AC%D9%86%D9%8A-%D8%A3%D8%B1%D8%A8%D8%A7%D8%AD%D8%A7-%D9%82%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B8%D9%84-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-07-31T13:51:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国石油公司在中东战争背景下获得了创纪录的利润。",
+        "中东战争导致石油价格上涨，石油公司因此受益。",
+        "美国石油公司的利润增长与全球能源市场的动荡有关。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "شركات النفط الأميركية تجني أرباحا قياسية في ظل الحرب في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Un avión AWACS de la OTAN llega a una base en Letonia para reforzar la cooperación regional",
+      "title_zh": "北约AWACS飞机抵达拉脱维亚基地加强区域合作",
+      "url": "https://www.abc.es/espana/avion-awacs-otan-llega-base-letonia-reforzar-20260731153933-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-07-31T13:39:38+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约AWACS飞机抵达拉脱维亚基地，以加强区域合作。",
+        "该飞机的到来旨在增强北约与拉脱维亚的合作关系。",
+        "北约的行动是为了加强区域安全和防御能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Un avión AWACS de la OTAN llega a una base en Letonia para reforzar la cooperación regional"
+      }
+    },
+    {
+      "title_original": "Poland reacts after apparent Russian missile breaches NATO airspace",
+      "title_zh": "波兰对俄罗斯导弹进入北约空域做出反应",
+      "url": "https://www.cbsnews.com/video/poland-reacts-after-apparent-russian-missile-breaches-nato-airspace/",
+      "source": "CBS News",
+      "source_score": 75,
+      "published_at": "2026-07-31T13:20:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "波兰对俄罗斯导弹进入北约空域做出反应。",
+        "事件发生在北约空域，波兰是北约成员国。",
+        "俄罗斯导弹进入北约空域可能会导致地缘政治紧张局势加剧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "CBS News"
+      ],
+      "all_titles": {
+        "en": "Poland reacts after apparent Russian missile breaches NATO airspace"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Depuis quand Gaza est-elle occupée par Israël ?",
+      "title_zh": "中东战争：加沙何时被以色列占领？",
+      "url": "https://www.20minutes.fr/monde/israel/4237213-20260731-guerre-moyen-orient-depuis-quand-gaza-occupee-israel",
+      "source": "20 Minutes",
+      "source_score": 40,
+      "published_at": "2026-07-31T12:55:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "加沙地区自1956年以来一直处于以色列的占领之下，期间曾有过短暂的解放时期。",
+        "1967年六日战争后，以色列对加沙的占领持续了近40年，直到2005年以色列单方面撤出加沙。",
+        "尽管以色列于2005年撤出加沙，但仍然对加沙的边界、领海和领空保持控制。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "20 Minutes"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Depuis quand Gaza est-elle occupée par Israël ?"
+      }
+    },
+    {
+      "title_original": "Les hyperscalers rassurent, les marchés gardent un oeil sur le Moyen-Orient",
+      "title_zh": "超大规模企业放心，市场关注中东",
+      "url": "https://www.zonebourse.com/actualite-bourse/les-hyperscalers-rassurent-les-marches-gardent-un-oeil-sur-le-moyen-orient-ce7f50dbd18df123",
+      "source": "Zonebourse",
+      "source_score": 40,
+      "published_at": "2026-07-31T12:52:25+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "超大规模企业的表现让市场感到放心。",
+        "市场仍然关注中东局势的发展。",
+        "中东局势的变化可能会对全球市场产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Zonebourse"
+      ],
+      "all_titles": {
+        "fr": "Les hyperscalers rassurent, les marchés gardent un oeil sur le Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "Actualización: El excelente desempeño de Amazon impulsa los futuros de las acciones estadounidenses antes de la apertura del mercado en medio de la posible expansión del conflicto de Oriente Medio a Egipto.",
+      "title_zh": "更新：亚马逊的优秀表现推动美国股票期货在中东冲突可能扩散至埃及之际上涨",
+      "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-excelente-desempe%C3%B1o-amazon-impulsa-124708834.html",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-07-31T12:47:08+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "亚马逊的优秀表现推动美国股票期货上涨。",
+        "中东冲突可能扩散至埃及，引发市场担忧。",
+        "中东局势的变化可能会对全球市场产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "es": "Actualización: El excelente desempeño de Amazon impulsa los futuros de las acciones estadounidenses antes de la apertura del mercado en medio de la posible expansión del conflicto de Oriente Medio a Egipto."
+      }
+    },
+    {
+      "title_original": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement",
+      "title_zh": "坎特伯雷大主教誓言支持1亿英镑的承诺，帮助受奴役影响的社区",
+      "url": "https://www.theguardian.com/news/2026/jul/31/archbishop-of-canterbury-support-pledge-helping-communities-enslavement",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-31T11:38:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "坎特伯雷大主教萨拉·穆拉利（Sarah Mullally）访问加纳期间，对英格兰教会参与跨大西洋奴隶贸易表示遗憾。",
+        "大主教重申支持1亿英镑的基金，用于帮助受奴役影响的社区。",
+        "英格兰教会的历史与奴隶贸易有关，教会正在努力弥补过去的错误。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Archbishop of Canterbury vows to support £100m pledge helping communities affected by enslavement"
+      }
+    },
+    {
+      "title_original": "El auge de la IA impulsa el PIB de Taiwán a niveles récord, pero amplía las desigualdades",
+      "title_zh": "人工智能的崛起推动台湾GDP达到创纪录水平，但加剧了不平等",
+      "url": "https://www.abc.es/economia/auge-ia-impulsa-pib-taiwan-niveles-record-20260731132508-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-07-31T11:25:12+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾的GDP在第二季度同比增长12.92%，创下近半个世纪以来最大增幅。",
+        "人工智能的发展推动了台湾经济的快速增长，但也导致了收入不平等的加剧。",
+        "台湾传统行业面临挑战，工资仍然较低。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Taiwán disfruta de un auge económico impulsado por la IA"
+      }
+    },
+    {
+      "title_original": "El BCE reclama a la banca un análisis menos optimista de los efectos de una posible escalada geopolítica",
+      "title_zh": "欧洲央行要求银行对地缘政治紧张升级的影响进行更为保守的分析",
+      "url": "https://elpais.com/economia/2026-07-31/el-bce-reclama-a-la-banca-un-analisis-menos-optimista-de-los-efectos-de-una-posible-escalada-geopolitica.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-07-31T11:15:33+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧洲央行要求银行对地缘政治紧张升级的影响进行更为保守的分析。",
+        "欧洲央行担心地缘政治紧张升级可能对经济产生负面影响。",
+        "银行需要对地缘政治风险进行更为谨慎的评估。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "El BCE reclama a la banca un análisis menos optimista de los efectos de una posible escalada geopolítica"
+      }
+    },
+    {
+      "title_original": "積水化学の4〜6月、純利益3%減 中東情勢で売り上げ増も特損響く",
+      "title_zh": "积水化学4-6月纯利润减少3%，中东局势导致销售额增加，但也带来了特殊损失",
+      "url": "https://www.nikkei.com/article/DGXZQOUC317SI0R30C26A7000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-07-31T10:57:34+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "积水化学的纯利润在4-6月份同比减少了3%。",
+        "中东局势的恶化导致了对某些产品的需求增加，但也带来了特殊损失。",
+        "公司的销售额在4-6月份同比增加了9%。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "積水化学の4〜6月、純利益3%減 中東情勢で売り上げ増も特損響く"
+      }
+    },
+    {
+      "title_original": "中国海警“常态化”巡航台湾以东水域 台海巡署抨击",
+      "title_zh": "中国海警“常态化”巡航台湾以东水域，台海巡署批评",
+      "url": "https://amp.dw.com/zh/%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%B8%B8%E6%80%81%E5%8C%96%E5%B7%A1%E8%88%AA%E5%8F%B0%E6%B9%BE%E4%BB%A5%E4%B8%9C%E6%B0%B4%E5%9F%9F-%E5%8F%B0%E6%B5%B7%E5%B7%A1%E7%BD%B2%E6%8A%A8%E5%87%BB/a-78188880",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-07-31T10:15:19+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国海警宣布将“常态化”巡航台湾以东水域。",
+        "台湾海巡署批评中国海警的行为，称其是对台湾主权的挑衅。",
+        "美国海岸警卫队开始介入台海局势，与台湾海巡署进行联合行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "zh": "中国海警“常态化”巡航台湾以东水域 台海巡署抨击"
+      }
+    },
+    {
+      "title_original": "„Die militärische Einnahme ist gar nicht primär das Ziel Chinas“",
+      "title_zh": "中国的军事占领并不是主要目标",
+      "url": "https://www.welt.de/videos/video6a6c6d945aee44c118a94c60/drohungen-gegen-taiwan-die-militaerische-einnahme-ist-gar-nicht-primaer-das-ziel-chinas.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-07-31T09:56:35+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国正在训练占领台湾，并在中国大陆建造了台北和美国军事基地的复制品。",
+        "中国专家费利克斯·李表示，混合战争已经开始。",
+        "中国的军事行动引发了国际社会的关注和担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Die militärische Einnahme ist gar nicht primär das Ziel Chinas“"
+      }
+    },
+    {
+      "title_original": "僵持的背后——对俄乌冲突的观察与思考",
+      "title_zh": "僵持的背后——对俄乌冲突的观察与思考",
+      "url": "https://m.sohu.com/a/1057235226_267106?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "SOHU",
+      "source_score": 40,
+      "published_at": "2026-07-31T09:48:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄乌冲突已经持续了数年，双方都没有取得明显的优势。",
+        "冲突的背后有复杂的政治和经济因素，包括能源资源和地缘政治的竞争。",
+        "国际社会正在努力寻找解决冲突的办法，但进展缓慢。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "SOHU"
+      ],
+      "all_titles": {
+        "zh": "僵持的背后——对俄乌冲突的观察与思考"
+      }
+    },
+    {
+      "title_original": "China to raise retail gasoline and diesel price caps amid renewed Middle East conflict",
+      "title_zh": "中国将提高汽油和柴油零售价格上限，应对中东冲突的加剧",
+      "url": "https://www.reuters.com/business/energy/china-raise-retail-gasoline-diesel-price-caps-amid-renewed-middle-east-conflict-2026-07-31/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-31T09:34:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中国决定提高汽油和柴油的零售价格上限，应对中东冲突的加剧。",
+        "中东冲突导致油价上涨，中国需要调整价格以应对市场变化。",
+        "价格上涨可能会对中国的经济和消费者产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "China to raise retail gasoline and diesel price caps amid renewed Middle East conflict"
+      }
+    },
+    {
+      "title_original": "The nation’s cartoonists on the week in politics",
+      "title_zh": "全国漫画家对本周政治的评论",
+      "url": "https://www.politico.com/gallery/2026/07/31/the-nations-cartoonists-on-the-week-in-politics-01018178",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-07-31T04:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国的政治漫画家们对本周的政治事件进行了评论和讽刺。",
+        "漫画家们使用幽默和讽刺来批评政治人物和事件。",
+        "政治漫画是美国政治文化的重要组成部分，反映了公众的意见和情绪。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The nation’s cartoonists on the week in politics"
+      }
+    },
+    {
+      "title_original": "Fifa says 'nobody selling football' as plan continues",
+      "title_zh": "国际足联表示“没有人在出售足球”，计划继续进行",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-31T08:21:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "国际足联表示，他们的计划是为了提高足球的商业价值，而不是出售足球。",
+        "国际足联计划创建一个商业子公司来运营主要的足球比赛，包括世界杯。",
+        "该计划引发了争议，一些足球协会表示反对。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Fifa says 'nobody selling football' as plan continues"
+      }
+    },
+    {
+      "title_original": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+      "title_zh": "西班牙派遣军队，数千人进入休塔的飞地",
+      "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-31T08:09:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙将派遣军队加强北非飞地休塔的安全，数千名移民于周四从摩洛哥游泳进入该领土。",
+        "至少18人在试图到达休塔的过程中溺水身亡，当地官员曾呼吁马德里提供帮助，因为最近试图越境的企图有所增加，但周四边境管制似乎已经崩溃。",
+        "西班牙内政部指责人贩网络利用这一点来“鼓励无证移民的流入”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spain sending troops as thousands enter enclave of Ceuta from Morocco"
+      }
+    },
+    {
+      "title_original": "Ebola outbreak in DRC the fastest growing in the history of the virus",
+      "title_zh": "刚果民主共和国的埃博拉疫情是病毒历史上增长最快的",
+      "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-07-31T08:00:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "刚果民主共和国的最新埃博拉疫情病例数已达到3360例，死亡人数为1487人，总体病例死亡率约为45%。",
+        "疫情已影响到该国东部五个省份，卫生应对工作因许多受影响地区的冲突而受到严重阻碍。",
+        "世界卫生组织和当地卫生部门正在努力控制疫情的蔓延，但由于基础设施和医疗资源的匮乏，工作进展缓慢。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Ebola outbreak in DRC the fastest growing in the history of the virus"
+      }
+    },
+    {
+      "title_original": "【大相撲】獅司の先祖はウクライナの革命家だった！「マフノ軍の戦士を祖先に持つ男」＝現地報道（東スポWEB）",
+      "title_zh": "【大相扑】獅司的祖先是乌克兰的革命家！“马赫诺军的战士是他的祖先”＝当地报道（东スポWEB）",
+      "url": "https://news.yahoo.co.jp/articles/0fd23fdab060c6bd6d8d0f94283d60578edf7e94",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-07-31T07:55:25+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰出身的大相扑力士獅司的祖先是一位乌克兰革命家，曾参加马赫诺军的战斗。",
+        "獅司出生于乌克兰的扎波罗热州梅利托波尔市，自幼学习自由式摔跤，后来转向相扑，并迅速崭露头角。",
+        "獅司已成为日本相扑界的一位重要人物，他的祖先和个人经历也引起了乌克兰媒体的关注。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "【大相撲】獅司の先祖はウクライナの革命家だった！「マフノ軍の戦士を祖先に持つ男」＝現地報道（東スポWEB）"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Donald Trump prêt à mener une guerre à grande échelle contre l'Iran ? Le président américain répond à LCI",
+      "title_zh": "中东战争：特朗普是否准备对伊朗发动大规模战争？美国总统对LCI的回应",
+      "url": "https://www.tf1info.fr/international/guerre-au-moyen-orient-donald-trump-pret-a-mener-une-guerre-a-grande-echelle-contre-l-iran-le-president-americain-repond-a-lci-2456084.html",
+      "source": "TF1 Info",
+      "source_score": 40,
+      "published_at": "2026-07-31T07:54:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国总统特朗普表示，如果美国不能获得100%的要求，他将不排除对伊朗发动大规模战争的可能性。",
+        "特朗普在接受LCI采访时强调，美国将采取一切必要措施来保护自己的利益和安全。",
+        "特朗普的声明引起了国际社会的关注，人们担心中东局势可能进一步恶化。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "TF1 Info"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Donald Trump prêt à mener une guerre à grande échelle contre l'Iran ? Le président américain répond à LCI"
+      }
+    },
+    {
+      "title_original": "The Ankara Summit and the Future of the NATO-Gulf Dialogue",
+      "title_zh": "安卡拉峰会与北约-海湾对话的未来",
+      "url": "https://politicstoday.org/the-ankara-summit-and-the-future-of-the-nato-gulf-dialogue/",
+      "source": "politicstoday.org",
+      "source_score": 40,
+      "published_at": "2026-07-31T07:07:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "安卡拉峰会是北约和海湾国家之间的重要对话平台，旨在加强双方的合作与理解。",
+        "峰会讨论了地区安全、反恐和经济合作等议题，双方同意加强合作以应对共同挑战。",
+        "安卡拉峰会的成果将对北约-海湾对话的未来产生重要影响，双方将继续深化合作与交流。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "politicstoday.org"
+      ],
+      "all_titles": {
+        "en": "The Ankara Summit and the Future of the NATO-Gulf Dialogue"
+      }
+    },
+    {
+      "title_original": "ENEOSもロシア産原油を輸入 ホルムズ封鎖受け76万バレル、ウクライナ侵略後初（産経新聞）",
+      "title_zh": "ENEOS也从俄罗斯进口原油 霍尔木兹封锁后76万桶，乌克兰入侵后首次",
+      "url": "https://news.yahoo.co.jp/articles/687f760fdac2d4c5ce421e61bd930b8f8b94de8f",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-07-31T06:54:29+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "ENEOS从俄罗斯进口了76万4904桶原油，这是乌克兰入侵后首次。",
+        "进口的原油来自萨哈林2项目，该项目是对俄罗斯制裁的例外。",
+        "ENEOS表示，进口原油是为了应对中东原油供应紧张，确保能源稳定供应。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ENEOSもロシア産原油を輸入 ホルムズ封鎖受け76万バレル、ウクライナ侵略後初（産経新聞）"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Warum die Krim zum strategischen Ziel wird",
+      "title_zh": "乌克兰战争：为什么克里米亚成为战略目标",
+      "url": "https://www.dw.com/de/ukraine-krieg-warum-die-krim-zum-strategischen-ziel-wird/a-78180164",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-07-31T06:46:20+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队加强对克里米亚的攻击，旨在隔离俄罗斯控制的克里米亚半岛。",
+        "乌克兰军队使用无人机攻击俄罗斯的运输和能源设施，导致克里米亚的物资供应和能源短缺。",
+        "克里米亚的居民面临着严重的生活困难，包括食品和水的短缺，以及频繁的停电。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Warum die Krim zum strategischen Ziel wird"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 07:56 Kreml meldet Angriff auf Frachter mit Rüstungsgütern bei Odessa +++",
+      "title_zh": "乌克兰战争直播：+++ 07:56 克里姆林宫报告奥德萨附近的货船遭到武器袭击 +++",
+      "url": "https://www.n-tv.de/politik/07-56-Kreml-meldet-Angriff-auf-Frachter-mit-Ruestungsguetern-bei-Odessa-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-07-31T06:06:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "克里姆林宫报告称，奥德萨附近的一艘货船遭到袭击，货船上载有武器和军事装备。",
+        "乌克兰军队使用无人机攻击俄罗斯的运输和能源设施，导致俄罗斯军队的物资供应和能源短缺。",
+        "俄罗斯军队对乌克兰的攻击导致了大量人员伤亡和基础设施破坏。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 07:56 Kreml meldet Angriff auf Frachter mit Rüstungsgütern bei Odessa +++"
+      }
+    },
+    {
+      "title_original": "ポーランドに墜落したミサイル、「おそらくロシアのもの」と首相",
+      "title_zh": "波兰坠落的导弹，「可能是俄罗斯的」波兰总理说",
+      "url": "https://www.bbc.com/japanese/articles/cx2kp4ng0d4o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-07-31T05:37:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "波兰总理表示，波兰东部地区坠落的导弹可能是俄罗斯的Kh-101巡航导弹。",
+        "导弹坠落在波兰东部的一个村庄附近，造成了一个直径10米的坑，但没有人员伤亡的报告。",
+        "波兰总理表示，波兰军队已经对导弹进行了分析，初步结果表明导弹可能是俄罗斯的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ポーランドに墜落したミサイル、「おそらくロシアのもの」と首相"
+      }
+    },
+    {
+      "title_original": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "title_zh": "英国说唱歌手Yung Filly被判无罪，涉嫌在澳大利亚演出后强奸一名女子",
+      "url": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-31T05:21:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "英国说唱歌手Yung Filly被判无罪，涉嫌在澳大利亚演出后强奸一名女子。",
+        "法庭听证会上，Yung Filly否认了强奸指控，称与该女子的关系是自愿的。",
+        "法庭判决Yung Filly无罪，但他仍将因其他指控接受审判。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "UK rapper Yung Filly found not guilty of raping woman after Australian show"
+      }
+    }
+  ]
+}
