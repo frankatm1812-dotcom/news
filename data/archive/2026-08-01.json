@@ -1,8 +1,883 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-07-31T17:08:54.715882+00:00",
-  "count": 34,
+  "generated_at": "2026-08-01T07:43:47.443437+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
+      "title_zh": "巴基斯坦雪崩事故：营救行动正在进行",
+      "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T07:22:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "巴基斯坦救援队正在进行第二天的搜索行动，寻找被雪崩困住的登山者。",
+        "已经有三名登山者的尸体被找到，分别是来自美国、阿曼和尼泊尔的登山者。",
+        "救援行动受到恶劣天气的影响，军用直升机正在待命，准备在天气允许的情况下提供援助。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Race to rescue remaining climbers after deadly avalanche in Pakistan"
+      }
+    },
+    {
+      "title_original": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "title_zh": "俄罗斯对基辅的袭击造成至少九人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T07:21:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰官员称，俄罗斯对基辅的袭击造成至少九人死亡，28人受伤。",
+        "袭击发生在基辅市的多个地区，包括Shevchenkivskyi和Solomyanskyi区。",
+        "乌克兰总统泽连斯基呼吁美国提供爱国者导弹拦截系统，以抵御俄罗斯的袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russian strikes on Kyiv kill at least nine, Ukraine officials say"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Trump zweifelt plötzlich an Patriot-Lizenzen für Kiew – „nicht sicher“",
+      "title_zh": "乌克兰战争：特朗普突然质疑为基辅提供爱国者导弹许可",
+      "url": "https://www.fr.de/politik/hinterland-russlands-amazon-in-brand-ukraine-krieg-aktuell-drohnen-setzen-in-zr-94419254.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-01T07:14:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普表示，他不确定是否会为乌克兰提供爱国者导弹许可。",
+        "乌克兰总统泽连斯基称，乌克兰已经损失了约50,000名士兵，400,000人受伤。",
+        "俄罗斯最近加剧了对乌克兰的袭击，乌克兰呼吁美国提供更多的军事援助。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Trump zweifelt plötzlich an Patriot-Lizenzen für Kiew – „nicht sicher“"
+      }
+    },
+    {
+      "title_original": "Cuando la inmigración deja de ser solo inmigración: Melilla, la geopolítica y la pregunta que Europa ya no puede seguir evitando. Por Fernando M. Gracia",
+      "title_zh": "当移民不再只是移民：梅利利亚、地缘政治和欧洲无法避免的问题",
+      "url": "https://lapaseata.net/2026/08/01/cuando-la-inmigracion-deja-de-ser-solo-inmigracion/",
+      "source": "La Paseata",
+      "source_score": 40,
+      "published_at": "2026-08-01T06:40:53+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "梅利利亚是欧洲和非洲之间的移民热点。",
+        "欧洲面临着移民问题，需要找到解决方案。",
+        "地缘政治因素在移民问题中发挥着重要作用。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "La Paseata"
+      ],
+      "all_titles": {
+        "es": "Cuando la inmigración deja de ser solo inmigración: Melilla, la geopolítica y la pregunta que Europa ya no puede seguir evitando. Por Fernando M. Gracia"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient : Guterres alerte contre une guerre aux conséquences mondiales",
+      "title_zh": "中东：古特雷斯警告世界不要发生战争",
+      "url": "https://azertag.az/fr/xeber/moyen_orient__guterres_alerte_contre_une_guerre_aux_consequences_mondiales-4347953",
+      "source": "azərtac",
+      "source_score": 55,
+      "published_at": "2026-08-01T06:03:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "联合国秘书长古特雷斯警告中东战争可能带来全球性后果。",
+        "中东地区的紧张局势正在升级，各国需要找到和平解决方案。",
+        "全球社会需要共同努力，防止中东战争的发生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "azərtac"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient : Guterres alerte contre une guerre aux conséquences mondiales"
+      }
+    },
+    {
+      "title_original": "Fifa scraps controversial World Cup investment plan",
+      "title_zh": "国际足联放弃争议性的世界杯投资计划",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T05:42:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "国际足联放弃了出售其主要比赛股份的计划。",
+        "该计划因广泛的反对而被废弃。",
+        "国际足联总统吉安尼·因凡蒂诺的提议遭到了反对。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Fifa scraps controversial World Cup investment plan"
+      }
+    },
+    {
+      "title_original": "EEUU urge a Taiwán a aprobar una ley que permita financiar la fabricación de drones ante la \"amenaza\" china",
+      "title_zh": "美国敦促台湾通过法律以支持制造无人机，应对中国的\"威胁\"",
+      "url": "https://www.europapress.es/internacional/noticia-eeuu-urge-taiwan-aprobar-ley-permita-financiar-fabricacion-drones-amenaza-china-20260801073504.html",
+      "source": "europapress.es",
+      "source_score": 40,
+      "published_at": "2026-08-01T05:35:04+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "美国国会议员杨·金访问台湾，敦促台湾通过法律支持无人机制造。",
+        "该法律将允许台湾政府为无人机制造提供资金支持。",
+        "美国认为中国对台湾构成威胁，希望台湾能够加强防御。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "europapress.es"
+      ],
+      "all_titles": {
+        "es": "EEUU urge a Taiwán a aprobar una ley que permita financiar la fabricación de drones ante la \"amenaza\" china"
+      }
+    },
+    {
+      "title_original": "ウクライナ首都でフェドロフ前国防相の復帰求めるデモ、数千人が参加",
+      "title_zh": "乌克兰首都举行示威，要求前国防部长费多罗夫回归，数千人参加",
+      "url": "https://www.afpbb.com/articles/-/3646642",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-01T05:28:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰首都基辅举行示威，要求前国防部长费多罗夫回归。",
+        "数千人参加了示威活动。",
+        "费多罗夫被解职后，乌克兰总统泽连斯基解除了军队总司令的职务。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ首都でフェドロフ前国防相の復帰求めるデモ、数千人が参加"
+      }
+    },
+    {
+      "title_original": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "title_zh": "以色列西岸定居者告诉BBC，针对巴勒斯坦人的袭击是正当的报复",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T05:01:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列西岸定居者耶胡达·西蒙告诉BBC，针对巴勒斯坦人的袭击是正当的报复。",
+        "西蒙认为，以色列人有权利为被杀的安保人员报复。",
+        "以色列和巴勒斯坦之间的冲突持续升级。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge"
+      }
+    },
+    {
+      "title_original": "En direct Guerre au Moyen-Orient : un pétrolier frappé par un «projectile non-identifié» à l'entrée du détroit d'Ormuz",
+      "title_zh": "中东战争：一艘油轮在霍尔木兹海峡入口被未知弹体击中",
+      "url": "https://www.cnews.fr/monde/2026-08-01/guerre-au-moyen-orient-un-petrolier-frappe-par-un-projectile-non-identifie-lentree",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-08-01T04:39:39+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "一艘油轮在霍尔木兹海峡入口被未知弹体击中。",
+        "油轮遭到攻击后，附近海域的航运量大幅减少。",
+        "美国总统特朗普威胁要对伊朗进行强烈打击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "En direct Guerre au Moyen-Orient : un pétrolier frappé par un «projectile non-identifié» à l'entrée du détroit d'Ormuz"
+      }
+    },
+    {
+      "title_original": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9",
+      "title_zh": "俄罗斯用弹道导弹和无人机袭击乌克兰首都，至少9人死亡",
+      "url": "https://wtop.com/russia-ukraine-war-news/2026/08/russia-hits-ukrainian-capital-with-ballistic-missiles-and-drones-killing-3-and-wounding-over-a-dozen/",
+      "source": "WTOP",
+      "source_score": 40,
+      "published_at": "2026-08-01T04:33:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰首都基辅发动了弹道导弹和无人机袭击，造成至少9人死亡，22名平民受伤。",
+        "基辅市的一个五层住宅楼因坠落的碎片受损并引发火灾，35人被救出，两人死亡，八人受伤，包括两名儿童。",
+        "基辅的另一个地区，七人死亡，14人受伤，袭击引发了火灾和对房屋、车辆和建筑物的损害。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "WTOP"
+      ],
+      "all_titles": {
+        "en": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 9"
+      }
+    },
+    {
+      "title_original": "Nach Angriff auf Mittelmeerhafen: Warum der Iran-Krieg nun drei globale Handelsadern gleichzeitig bedroht",
+      "title_zh": "地中海港口遭袭：伊朗战争为何同时威胁三条全球贸易通道",
+      "url": "https://www.fr.de/politik/us-iran-krieg-greift-auf-weiteres-wichtiges-meer-ueber-und-droht-neue-suez-krise-fuer-die-nato-zr-94424500.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-01T04:03:11+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "对地中海港口的袭击使伊朗战争扩展到了地中海，引发了对全球贸易和稳定的担忧。",
+        "袭击发生在美国和伊朗之间的紧张局势加剧之际，伊朗威胁要对美国及其盟友采取报复行动。",
+        "地中海是欧洲和亚洲之间的重要贸易通道，伊朗战争的扩张可能会对全球贸易产生重大影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Nach Angriff auf Mittelmeerhafen: Warum der Iran-Krieg nun drei globale Handelsadern gleichzeitig bedroht"
+      }
+    },
+    {
+      "title_original": "Pyongyang critica la reforma de la red de combustible de la OTAN, calificándola de preparativos de guerra \"sin precedent\"",
+      "title_zh": "平壤批评北约燃料网络改革，称其为“前所未有的战争准备”",
+      "url": "https://www.europapress.es/internacional/noticia-pyongyang-critica-reforma-red-combustible-otan-calificandola-preparativos-guerra-precedent-20260801053257.html",
+      "source": "europapress.es",
+      "source_score": 40,
+      "published_at": "2026-08-01T03:32:57+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "朝鲜批评北约的燃料网络改革，称其为“前所未有的战争准备”，并指责北约正在扩大其军事存在。",
+        "北约的燃料网络改革旨在现代化和扩大其军事燃料储存和供应能力。",
+        "朝鲜指责北约的行动是对其安全的威胁，并警告称，如果北约继续扩大其军事存在，可能会导致进一步的紧张局势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "europapress.es"
+      ],
+      "all_titles": {
+        "es": "Pyongyang critica la reforma de la red de combustible de la OTAN, calificándola de preparativos de guerra \"sin precedent\""
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient - L'Iran menace de représailles après des informations sur un plan d'attaque américain",
+      "title_zh": "中东战争：伊朗威胁报复美国潜在的攻击计划",
+      "url": "https://www.lalibre.be/dernieres-depeches/2026/08/01/guerre-au-moyen-orient-liran-menace-de-represailles-apres-des-informations-sur-un-plan-dattaque-americain-NYQD5GDZ5VFHNJCBLICUPBJXRI/",
+      "source": "La Libre.be",
+      "source_score": 40,
+      "published_at": "2026-08-01T03:14:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗威胁要对美国及其盟友采取报复行动，原因是有关美国计划对伊朗发动攻击的报道。",
+        "伊朗指责美国正在计划对其采取军事行动，并警告称，如果美国继续其“侵略”政策，伊朗将采取报复行动。",
+        "伊朗已经展示了其军事能力，并警告称，如果受到攻击，将不惜使用一切手段进行自卫。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "La Libre.be"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient - L'Iran menace de représailles après des informations sur un plan d'attaque américain"
+      }
+    },
+    {
+      "title_original": "トランプ氏、ウクライナでの迎撃ミサイル製造「同意まだ」 発言後退",
+      "title_zh": "特朗普表示尚未同意在乌克兰制造拦截导弹",
+      "url": "https://www.asahi.com/articles/ASV810FFRV81SFVU2SBM.html",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-08-01T03:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国总统特朗普表示尚未同意在乌克兰制造拦截导弹，这与他之前的表态有所不同。",
+        "特朗普之前曾表示愿意在乌克兰制造拦截导弹，但现在他似乎已经改变了态度。",
+        "乌克兰总统泽连斯基曾访问美国，与特朗普会面，讨论了乌克兰的防御问题，包括制造拦截导弹的可能性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、ウクライナでの迎撃ミサイル製造「同意まだ」 発言後退"
+      }
+    },
+    {
+      "title_original": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+      "title_zh": "秘鲁前总统因腐败罪被判15年监禁后获释",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T02:21:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "秘鲁宪法法院推翻了对前总统奥兰塔·乌马拉的腐败罪判决，乌马拉因此获释。",
+        "乌马拉被指控接受非法资金用于2006年和2011年的选举活动。",
+        "乌马拉的妻子纳丁·埃雷迪亚也被判处15年监禁，但她已获得巴西的庇护并前往巴西。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned"
+      }
+    },
+    {
+      "title_original": "Russian missile attack kills three in Ukraine’s Kyiv",
+      "title_zh": "俄罗斯导弹袭击乌克兰基辅造成三人死亡",
+      "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-01T02:14:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰基辅发动导弹袭击，造成至少九人死亡，28人受伤，包括四名儿童。",
+        "袭击发生在基辅的舍甫琴科区，一栋住宅楼被部分摧毁，多人被困。",
+        "乌克兰总统泽连斯基正在寻求盟友的支持，以帮助乌克兰抵御俄罗斯的攻击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russian missile attack kills three in Ukraine’s Kyiv"
+      }
+    },
+    {
+      "title_original": "トランプ氏、ウクライナのパトリオット生産に「非常に慎重でなければならない」",
+      "title_zh": "特朗普表示，乌克兰生产爱国者导弹需要“非常谨慎”",
+      "url": "https://www.afpbb.com/articles/-/3646622",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-01T02:11:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普表示，乌克兰生产爱国者导弹需要“非常谨慎”，因为这涉及到高科技武器的转让。",
+        "乌克兰总统泽连斯基正在寻求美国的支持，以帮助乌克兰生产爱国者导弹。",
+        "特朗普表示，美国需要谨慎考虑是否同意乌克兰生产爱国者导弹。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、ウクライナのパトリオット生産に「非常に慎重でなければならない」"
+      }
+    },
+    {
+      "title_original": "トランプ大統領 ウクライナによる迎撃ミサイル生産に後ろ向き",
+      "title_zh": "特朗普总统对乌克兰生产拦截导弹持负面态度",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015193181000",
+      "source": "news.web.nhk",
+      "source_score": 95,
+      "published_at": "2026-08-01T01:16:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普总统对乌克兰生产拦截导弹持负面态度，理由是担心技术泄露。",
+        "乌克兰正在寻求美国的支持，以帮助其生产爱国者导弹。",
+        "特朗普的态度可能会影响乌克兰抵御俄罗斯攻击的能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "news.web.nhk"
+      ],
+      "all_titles": {
+        "ja": "トランプ大統領 ウクライナによる迎撃ミサイル生産に後ろ向き"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Kyiv missile attack kills at least nine as Zelenskyy seeks attack role for Starlink",
+      "title_zh": "乌克兰战争简报：基辅导弹袭击造成至少九人死亡，泽连斯基寻求星链攻击角色",
+      "url": "https://www.theguardian.com/world/2026/aug/01/ukraine-war-briefing-missile-attack-on-kyiv-kills-at-least-three-as-zelenskyy-pushes-to-use-starlink-for-attacks-in-russia",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-01T01:16:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "基辅遭到俄罗斯导弹袭击，造成至少九人死亡，23人受伤。",
+        "乌克兰总统泽连斯基正在寻求美国的支持，以帮助乌克兰使用星链卫星互联网服务进行攻击。",
+        "泽连斯基已请求特朗普总统允许乌克兰使用星链进行攻击，但特朗普尚未做出承诺。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Kyiv missile attack kills at least nine as Zelenskyy seeks attack role for Starlink"
+      }
+    },
+    {
+      "title_original": "Bessent ‘to-do’ list shows proposal for US to buy $5bn-$10bn of Japanese yen",
+      "title_zh": "贝森特的待办事项列表显示美国计划购买500-1000亿日元",
+      "url": "https://www.theguardian.com/us-news/2026/jul/31/scott-bessent-japanese-yen",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-01T00:33:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国财政部长斯科特·贝森特在一次内阁会议上不小心透露了美国计划购买500-1000亿日元的消息。",
+        "这一计划被拍摄下来并发布在媒体上，引发了人们对美国计划的质疑。",
+        "美国财政部长的发言人尚未对此事发表评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Bessent ‘to-do’ list shows proposal for US to buy $5bn-$10bn of Japanese yen"
+      }
+    },
+    {
+      "title_original": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "title_zh": "特朗普政府放弃反映池破坏指控，并承认维修不当",
+      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T00:20:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普政府放弃了对一名前奥运会运动员的反映池破坏指控，理由是破坏可能是由于维修不当造成的。",
+        "检察官在法庭文件中表示，新的信息表明破坏可能是由于承包商的维修不当造成的，而不是故意破坏。",
+        "被告的律师指责特朗普政府滥用权力，并要求政府为错误的指控道歉。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs"
+      }
+    },
+    {
+      "title_original": "Pressure rises on both sides of the Ukraine war",
+      "title_zh": "乌克兰战争双方压力增大",
+      "url": "https://www.economist.com/the-world-in-brief/2026/08/01/3923b47f-2314-45f7-b1c2-7b29990b4a83",
+      "source": "The Economist",
+      "source_score": 75,
+      "published_at": "2026-08-01T00:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争双方的压力正在增大，冲突不断升级。",
+        "乌克兰政府和俄罗斯政府都面临着巨大的压力，需要找到解决冲突的办法。",
+        "国际社会对乌克兰战争的关注度越来越高，各国都在呼吁双方停火谈判。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Economist"
+      ],
+      "all_titles": {
+        "en": "Pressure rises on both sides of the Ukraine war"
+      }
+    },
+    {
+      "title_original": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "title_zh": "印度的“蟑螂”抗议者遭受的伤害与弹丸枪火伤一致，专家称",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-07-31T23:58:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "印度的“蟑螂”抗议者在抗议活动中遭受的伤害与弹丸枪火伤一致，专家称。",
+        "抗议者遭受的伤害包括多个小的圆形穿孔，专家认为这是弹丸枪火伤的典型特征。",
+        "印度政府尚未确认是否使用了弹丸枪对抗议者开火。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 00:54 Russland feuert ballistische Raketen auf Kiew +++",
+      "title_zh": "乌克兰战争直播：00:54俄罗斯向基辅发射弹道导弹",
+      "url": "https://www.n-tv.de/politik/00-54-Russland-feuert-ballistische-Raketen-auf-Kiew-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-07-31T22:55:29+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯向基辅发射了弹道导弹，造成了重大损害和人员伤亡。",
+        "乌克兰政府呼吁国际社会提供支持和援助，以帮助乌克兰抵御俄罗斯的攻击。",
+        "冲突不断升级，双方都在遭受重大损失。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 00:54 Russland feuert ballistische Raketen auf Kiew +++"
+      }
+    },
+    {
+      "title_original": "ロシア軍がドネツク戦線で大規模な機械化攻撃 続く新戦術模索と透ける苦境",
+      "title_zh": "ロシア军在顿涅茨克战线发动大规模机械化攻击，继续探索新战术和困境",
+      "url": "https://news.yahoo.co.jp/articles/421032d526ac79a297dfa555b7476cbb8a722be6",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-07-31T22:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "ロシア军在顿涅茨克州的多布罗皮利亚南东地区发动了大规模的机械化攻击，这是近几个月来最大规模的攻击。",
+        "这次攻击最终失败了，但为我们了解俄罗斯军队的战术、战技和装备的演变提供了宝贵的线索。",
+        "攻击中，俄罗斯军队使用了战车、装甲战车、BM-21格拉德自走多管火箭炮、民用卡车和支援步兵等，另外还投入了多辆摩托车班"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍がドネツク戦線で大規模な機械化攻撃 続く新戦術模索と透ける苦境"
+      }
+    },
+    {
+      "title_original": "North Korea says NATO fuel plan shows alliance preparing for war",
+      "title_zh": "朝鲜称北约燃料计划表明联盟正在为战争做准备",
+      "url": "https://www.reuters.com/business/aerospace-defense/north-korea-says-nato-fuel-plan-shows-alliance-preparing-war-2026-07-31/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-07-31T21:59:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "朝鲜表示，北约的燃料计划表明该联盟正在为战争做准备。",
+        "北约的燃料计划旨在为其成员国提供燃料支持，以应对潜在的冲突。",
+        "朝鲜的声明没有提供进一步的细节，但表明该国对北约的行动感到担忧"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "North Korea says NATO fuel plan shows alliance preparing for war"
+      }
+    },
+    {
+      "title_original": "トランプ氏、慎重姿勢に一転 ウクライナのパトリオット生産",
+      "title_zh": "特朗普改变态度，谨慎对待乌克兰的爱国者导弹生产",
+      "url": "https://www.jiji.com/jc/article?k=2026080100142&g=int",
+      "source": "時事ドットコム",
+      "source_score": 40,
+      "published_at": "2026-07-31T21:17:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普总统表示，他尚未决定是否允许乌克兰生产爱国者导弹。",
+        "特朗普此前曾表示愿意允许乌克兰生产爱国者导弹，但现在他改变了态度，称需要谨慎考虑。",
+        "特朗普的这一决定可能会影响乌克兰的防御能力和与俄罗斯的冲突"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "時事ドットコム"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、慎重姿勢に一転 ウクライナのパトリオット生産"
+      }
+    },
+    {
+      "title_original": "ロシアは燃料危機に続き「軍隊と食料の危機」に発展か…ウクライナ情勢は年末までに大きなヤマ場迎える",
+      "title_zh": "俄罗斯面临燃料危机，可能发展为“军队和食物危机”…乌克兰局势可能在年底迎来大转折",
+      "url": "https://news.yahoo.co.jp/articles/4868b1d10e64a5aa091f05f10777e67e27daeca9",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-07-31T21:00:55+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯正面临燃料危机，可能会发展为“军队和食物危机”。",
+        "乌克兰的军事和外交优势日益明显，战争可能在秋季和年底迎来大转折。",
+        "俄罗斯的燃料危机可能会影响其军队的行动能力和对乌克兰的攻击"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシアは燃料危機に続き「軍隊と食料の危機」に発展か…ウクライナ情勢は年末までに大きなヤマ場迎える"
+      }
+    },
+    {
+      "title_original": "NATO Weighs Nuclear Expansion as Poland, Finland, Lithuania Emerge as Options",
+      "title_zh": "北约考虑核扩张，波兰、芬兰、立陶宛成为潜在选项",
+      "url": "https://united24media.com/world/nato-weighs-nuclear-expansion-as-poland-finland-lithuania-emerge-as-options-21249",
+      "source": "UNITED24 Media",
+      "source_score": 40,
+      "published_at": "2026-07-31T20:52:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约正在考虑在欧洲增加核能力，波兰、芬兰和立陶宛成为潜在的选项。",
+        "北约秘书长马克·鲁特确认，正在讨论潜在的核态势调整，但细节尚未公开。",
+        "美国核专家罗伯特·彼得斯表示，美国可能会在未来24个月内扩大其在欧洲的核存在"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "UNITED24 Media"
+      ],
+      "all_titles": {
+        "en": "NATO Weighs Nuclear Expansion as Poland, Finland, Lithuania Emerge as Options"
+      }
+    },
+    {
+      "title_original": "Pentagon ends leadership of Ukraine aid group as US distances from Europe",
+      "title_zh": "五角大楼结束领导乌克兰援助小组，美国与欧洲保持距离",
+      "url": "https://www.politico.com/news/2026/07/31/pentagon-ukraine-nato-withdrawal-01020966",
+      "source": "politico.com",
+      "source_score": 75,
+      "published_at": "2026-07-31T20:51:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "五角大楼结束领导乌克兰援助小组，这是美国与欧洲保持距离的最新迹象。",
+        "此举可能会影响美国对乌克兰的军事援助和支持。",
+        "美国与欧洲的关系近期来出现紧张，尤其是在乌克兰冲突问题上。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "politico.com"
+      ],
+      "all_titles": {
+        "en": "Pentagon ends leadership of Ukraine aid group as US distances from Europe"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient: le pétrole en petite hausse, entre poursuite du conflit et espoirs diplomatiques",
+      "title_zh": "中东：油价小幅上涨，冲突持续和外交希望并存",
+      "url": "https://www.lefigaro.fr/flash-eco/moyen-orient-le-petrole-en-petite-hausse-entre-poursuite-du-conflit-et-espoirs-diplomatiques-20260731",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-07-31T20:04:58+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东油价小幅上涨，受到冲突持续和外交希望并存的影响。",
+        "油价上涨主要是由于中东冲突的扩散和对全球油供的担忧。",
+        "尽管油价上涨，但市场仍然相对平稳，投资者对外交努力的成功持谨慎态度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient: le pétrole en petite hausse, entre poursuite du conflit et espoirs diplomatiques"
+      }
+    },
+    {
+      "title_original": "Poland protests to Russian ambassador over missile incursion",
+      "title_zh": "波兰就导弹入侵事件向俄罗斯大使提出抗议",
+      "url": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-07-31T19:59:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "波兰就导弹入侵事件向俄罗斯大使提出抗议，要求俄罗斯停止对乌克兰的军事行动。",
+        "导弹入侵事件发生在波兰东部地区，波兰政府表示将采取一切必要措施保护国家安全。",
+        "事件引发了北约和欧盟的关注，相关领导人呼吁俄罗斯停止军事行动，避免冲突升级。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Poland protests to Russian ambassador over missile incursion"
+      }
+    },
+    {
+      "title_original": "トランプ大統領 ウクライナのパトリオット生産「合意していない」",
+      "title_zh": "特朗普总统：美国与乌克兰没有达成生产爱国者导弹的协议",
+      "url": "https://newsdig.tbs.co.jp/articles/-/2843416",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-07-31T19:58:19+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普总统表示，美国与乌克兰没有达成生产爱国者导弹的协议。",
+        "爱国者导弹是美国提供给乌克兰的重要军事援助，用于抵御俄罗斯的军事行动。",
+        "特朗普总统的表态可能会影响美国对乌克兰的军事援助和支持。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "トランプ大統領 ウクライナのパトリオット生産「合意していない」"
+      }
+    },
+    {
+      "title_original": "La geopolítica que pasa por Ceuta",
+      "title_zh": "塞乌塔的 геополитика",
+      "url": "https://www.publico.es/opinion/geopolitica-pasa-ceuta.html",
+      "source": "Diario Público",
+      "source_score": 40,
+      "published_at": "2026-07-31T19:55:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "塞乌塔是西班牙的一个自治市，位于北非，近期来出现了大量移民潮。",
+        "移民潮被认为是摩洛哥政府的一种地缘政治战略，旨在对西班牙和欧盟施压。",
+        "事件引发了西班牙和欧盟的关注，相关领导人呼吁摩洛哥政府采取措施控制移民潮。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Diario Público"
+      ],
+      "all_titles": {
+        "es": "La geopolítica que pasa por Ceuta"
+      }
+    },
     {
       "title_original": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
       "title_zh": "西班牙首相指责人贩子，6万移民从摩洛哥抵达休塔",
