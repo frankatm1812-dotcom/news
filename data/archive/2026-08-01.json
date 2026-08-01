@@ -1,8 +1,533 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T07:43:47.443437+00:00",
-  "count": 69,
+  "generated_at": "2026-08-01T14:50:01.921667+00:00",
+  "count": 96,
   "articles": [
+    {
+      "title_original": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
+      "title_zh": "西班牙首相要求欧盟召开紧急会议，回应塞우塔危机的“自私”反应",
+      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-01T14:36:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙首相佩德罗·桑切斯呼吁欧盟召开紧急会议，讨论塞乌塔危机的应对措施。",
+        "塞乌塔是西班牙在北非的一个飞地，最近发生了大规模的非法移民事件，造成多人死亡。",
+        "桑切斯批评了一些欧盟成员国的反应，称其“自私、两极分化和违法”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis"
+      }
+    },
+    {
+      "title_original": "\"استعدوا وفكروا في المغادرة\".. سفارات أمريكية تحذر رعاياها بالشرق الأوسط",
+      "title_zh": "美国驻中东大使馆警告美国公民：准备离开",
+      "url": "https://www.aljazeera.net/news/2026/8/1/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%B9%D9%84%D9%89",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-01T14:26:15+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国驻中东大使馆发布警告，敦促美国公民在中东地区保持警惕，准备可能的离开。",
+        "警告称，中东地区的安全局势可能会恶化，美国公民应注意当地情况，遵守当地政府的指示。",
+        "美国驻中东大使馆还建议美国公民考虑离开中东地区，如果情况恶化"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "\"استعدوا وفكروا في المغادرة\".. سفارات أمريكية تحذر رعاياها بالشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "title_zh": "登山者尼姆帕·普尔加在巴基斯坦雪崩中丧生",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T14:11:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "尼姆帕·普尔加是一位著名的英国-尼泊尔登山者，他在巴基斯坦的宽广峰雪崩中丧生。",
+        "普尔加曾在2019年创下了攀登世界14座八千米以上山峰的记录，他的公司确认了他的死讯。",
+        "巴基斯坦官员已经确认，普尔加的尸体已经被找到，其他几名登山者也在雪崩中丧生"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says"
+      }
+    },
+    {
+      "title_original": "واشنطن تستعجل رعاياها لمغادرة الشرق الأوسط",
+      "title_zh": "华盛顿敦促美国公民离开中东",
+      "url": "https://www.middle-east-online.com/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AC%D9%84-%D8%B1%D8%B9%D8%A7%D9%8A%D8%A7%D9%87%D8%A7-%D9%84%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "middle-east-online.com",
+      "source_score": 40,
+      "published_at": "2026-08-01T13:44:32+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国政府敦促美国公民在中东地区保持警惕，准备可能的离开。",
+        "美国政府担心中东地区的安全局势可能会恶化，美国公民应注意当地情况，遵守当地政府的指示。",
+        "美国政府还建议美国公民考虑离开中东地区，如果情况恶化"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "middle-east-online.com"
+      ],
+      "all_titles": {
+        "ar": "واشنطن تستعجل رعاياها لمغادرة الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "中东局势再度趋紧将如何影响全球贸易？",
+      "title_zh": "中东局势再度趋紧将如何影响全球贸易？",
+      "url": "https://news.bjd.com.cn/2026/08/01/11896554.shtml",
+      "source": "京报网",
+      "source_score": 40,
+      "published_at": "2026-08-01T13:44:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势的紧张可能会影响全球贸易，特别是能源市场和航运业。",
+        "霍尔木兹海峡的通航受阻可能会导致航运成本上升和贸易成本增加。",
+        "中东地区的战事可能会导致资源运出困难，影响世界其他地区的资源进口"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "京报网"
+      ],
+      "all_titles": {
+        "zh": "中东局势再度趋紧将如何影响全球贸易？"
+      }
+    },
+    {
+      "title_original": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "title_zh": "西班牙批评一些欧盟国家对塞乌塔移民事件的“自私”反应",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T12:43:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙谴责一些欧盟国家对塞乌塔移民事件的反应是“自私的、两极分化的和违法的”。",
+        "西班牙内政部长表示，绝大多数7月30日抵达塞乌塔的移民已经返回，死亡人数已升至至少67人。",
+        "意大利、芬兰和丹麦等国支持暂停西班牙的申根区成员资格，西班牙首相桑切斯呼吁欧盟内政部长召开紧急会议。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Massiver Angriff aus Russland – Kiew gehen Abfangraketen aus",
+      "title_zh": "乌克兰战争最新：俄罗斯大规模袭击，基辅缺乏拦截导弹",
+      "url": "https://www.fr.de/politik/ukraine-krieg-aktuell-russland-startet-raketenangriff-auf-kiew-zr-94424572.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-01T12:21:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基表示，俄罗斯对基辅发动了大规模袭击，乌克兰方面击沉了一艘俄罗斯集装箱船。",
+        "俄罗斯对基辅的袭击造成了重大损失，乌克兰方面表示需要更多的拦截导弹来抵御俄罗斯的攻击。",
+        "乌克兰方面还表示，已经对俄罗斯在乌克兰的三个油 refinery 发动了攻击，并击毁了多架俄罗斯飞机。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Massiver Angriff aus Russland – Kiew gehen Abfangraketen aus"
+      }
+    },
+    {
+      "title_original": "الخارجية الأمريكية تطلق تحذيرا واسعا لمواطنيها في الشرق الأوسط",
+      "title_zh": "美国国务院对中东地区美国公民发出广泛警告",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/08/01/us-state-department-issues-warning-citizens-middle-east",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-08-01T12:18:30+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国国务院对中东地区的美国公民发出警告，敦促他们提高警惕，准备好应对可能的旅行中断和空域关闭。",
+        "美国国务院表示，中东地区的安全形势复杂，存在不可预测的升级风险，美国公民应重新考虑前往或途经该地区的行程。",
+        "美国驻中东地区的大使馆和领事馆也发出警告，建议美国公民避免前往危险区域，保持高度警惕。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "الخارجية الأمريكية تطلق تحذيرا واسعا لمواطنيها في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "美国驻约旦使馆：中东局势可能进一步升级",
+      "title_zh": "美国驻约旦大使馆：中东局势可能进一步升级",
+      "url": "https://cbgc.scol.com.cn/news/7814615",
+      "source": "川观新闻",
+      "source_score": 40,
+      "published_at": "2026-08-01T11:40:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国驻约旦大使馆发出安全警告，表示中东地区的安全形势复杂，局势可能进一步升级。",
+        "大使馆建议目前在中东地区的美国公民保持高度警惕，准备好应对可能的航班取消和空域关闭。",
+        "大使馆还建议美国公民避免前往约旦境内的美国军事基地和危险区域。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "川观新闻"
+      ],
+      "all_titles": {
+        "zh": "美国驻约旦使馆：中东局势可能进一步升级"
+      }
+    },
+    {
+      "title_original": "أسواق الخليج بين دعم النتائج المالية وتصاعد الصراع في الشرق الأوسط",
+      "title_zh": "海湾市场在财务结果支持和中东冲突升级之间",
+      "url": "https://www.cnbcarabia.com/155165/2026/01/08/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%A8%D9%8A%D9%86-%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "CNBC عربية",
+      "source_score": 75,
+      "published_at": "2026-08-01T11:21:06+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "海湾市场在7月份最后一周交易中出现分歧，部分公司的财务结果支持了市场，但投资者仍然关注地缘政治紧张和航运路线的混乱。",
+        "美国和伊朗之间的敌对行动在周末继续，美国军队宣布对伊朗革命卫队的目标进行了打击，包括军事指挥中心和无人机设施。",
+        "由于该地区的紧张局势和海上运输限制，原油价格上涨，布伦特原油价格超过90美元每桶。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "CNBC عربية"
+      ],
+      "all_titles": {
+        "ar": "أسواق الخليج بين دعم النتائج المالية وتصاعد الصراع في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Dems are increasingly desperate to get their Senate candidates to drop out in these races",
+      "title_zh": "民主党人越来越绝望地希望他们的参议院候选人退出这些竞选",
+      "url": "https://www.politico.com/news/2026/08/01/democrats-independents-montana-south-dakota-senate-01020995",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-01T06:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "民主党人希望他们的参议院候选人退出一些竞选，但蒙大拿州的Alani Bankhead和南达科他州的Julian Beaudion表示他们没有退出的计划。",
+        "民主党人试图说服他们的候选人退出竞选，以便让独立候选人有更好的机会赢得选举。",
+        "这些竞选活动的结果可能会影响民主党在参议院中的席位数。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Dems are increasingly desperate to get their Senate candidates to drop out in these races"
+      }
+    },
+    {
+      "title_original": "Russland unter Druck – Ukraine führt Krieg systematisch im Rücken der russischen Streitkräfte",
+      "title_zh": "俄罗斯面临压力 – 乌克兰系统性地在俄罗斯军队背后进行战争",
+      "url": "https://www.mdr.de/nachrichten/welt/osteuropa/politik/ukraine-russland-tiefenangriffe-waffenproduktion-krieg-sieg,general-briefing-102.html",
+      "source": "MDR.de",
+      "source_score": 40,
+      "published_at": "2026-08-01T10:38:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队正在系统性地在俄罗斯军队背后进行战争，攻击俄罗斯的后勤和供应链。",
+        "乌克兰军队的战略是通过攻击俄罗斯的弱点来削弱其军事能力，而不是直接与俄罗斯军队交战。",
+        "乌克兰军队的进攻已经使俄罗斯面临巨大的压力，俄罗斯的军事优势正在逐渐减少。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "MDR.de"
+      ],
+      "all_titles": {
+        "de": "Russland unter Druck – Ukraine führt Krieg systematisch im Rücken der russischen Streitkräfte"
+      }
+    },
+    {
+      "title_original": "Boxer secures Tuvalu’s first Commonwealth Games medal without winning a bout",
+      "title_zh": "拳击手为图瓦卢赢得了第一枚英联邦运动会奖牌，没有赢得一场比赛",
+      "url": "https://www.theguardian.com/sport/2026/aug/01/boxer-tarona-taafaki-secures-tuvalu-first-commonwealth-games-medal-without-winning",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-01T10:07:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "图瓦卢拳击手Tarona Taafaki在英联邦运动会上赢得了一枚铜牌，尽管她没有赢得一场比赛。",
+        "Taafaki在半决赛中输给了印度的Lovlina Borgohain，但由于英联邦运动会的规则，半决赛输家可以获得铜牌。",
+        "这是图瓦卢在英联邦运动会上赢得的第一枚奖牌。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Boxer secures Tuvalu’s first Commonwealth Games medal without winning a bout"
+      }
+    },
+    {
+      "title_original": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+      "title_zh": "欧足联已经对英菲尼托的国际足联领导失去了信心",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T09:51:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧足联已经对国际足联主席英菲尼托的领导失去了信心，理由是他未能兑现承诺，且处理国际足联事务不透明。",
+        "欧足联曾威胁要抵制世界杯，如果国际足联继续推行其争议的投资计划。",
+        "英菲尼托的领导面临巨大压力，他的连任前景不确定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Uefa has 'lost confidence' in Infantino's Fifa leadership"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（8月1日の動き）",
+      "title_zh": "【实时更新】俄罗斯对乌克兰进行军事侵略（8月1日动态）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192401000",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-01T09:07:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰进行军事侵略",
+        "冲突持续，情况紧张",
+        "国际社会密切关注事态发展"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（8月1日の動き）"
+      }
+    },
+    {
+      "title_original": "مؤسسة النفط الهندية تزيد مشتريات السوق الفورية وسط أزمة الشرق الأوسط",
+      "title_zh": "印度石油机构在中东危机中增加现货市场购买",
+      "url": "https://www.reuters.com/ar/business/OP7UR636H5NFPL22DA4CYW44SY-2026-08-01/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-01T08:59:03+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "印度石油机构增加现货市场购买",
+        "中东危机导致石油市场波动",
+        "印度石油机构为确保供应而采取措施"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "مؤسسة النفط الهندية تزيد مشتريات السوق الفورية وسط أزمة الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "ملايين الهجمات تستهدف هواتف الشرق الأوسط.. إليك الحلول لتجنب فقدان بياناتك",
+      "title_zh": "中东手机遭到数百万次攻击.. 这是避免数据丢失的解决方案",
+      "url": "https://www.aljazeera.net/tech/2026/8/1/%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%87%D9%88%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D8%B4%D8%B1%D9%82",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-01T08:48:06+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东手机面临大量攻击",
+        "攻击导致数据丢失和安全风险",
+        "用户需要采取措施保护手机和数据"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "ملايين الهجمات تستهدف هواتف الشرق الأوسط.. إليك الحلول لتجنب فقدان بياناتك"
+      }
+    },
+    {
+      "title_original": "En direct - Guerre au Moyen-Orient : l'Iran accuse les États-Unis de favoriser l'«escalade des tensions»",
+      "title_zh": "直播 - 中东战争：伊朗指责美国煽动“紧张局势升级”",
+      "url": "https://www.europe1.fr/international/en-direct-guerre-au-moyen-orient-liran-accuse-les-etats-unis-de-favoriser-lescalade-des-tensions-995025",
+      "source": "Europe 1",
+      "source_score": 40,
+      "published_at": "2026-08-01T08:43:24+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗指责美国煽动中东紧张局势",
+        "美国在中东的行动引发伊朗不满",
+        "中东局势持续紧张"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Europe 1"
+      ],
+      "all_titles": {
+        "fr": "En direct - Guerre au Moyen-Orient : l'Iran accuse les États-Unis de favoriser l'«escalade des tensions»"
+      }
+    },
+    {
+      "title_original": "أوروبا و«الستار الحديدي» الجديد... انقسام بلا جدار",
+      "title_zh": "欧洲和“新的铁幕”... 没有墙的分裂",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/5302241-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D8%A7%D9%84%D8%B3%D8%AA%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%86%D9%82%D8%B3%D8%A7%D9%85-%D8%A8%D9%84%D8%A7-%D8%AC%D8%AF%D8%A7%D8%B1",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-01T08:24:51+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧洲面临新的分裂挑战",
+        "新的铁幕不再是物理墙",
+        "欧洲的分裂是由于经济和政治因素"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "أوروبا و«الستار الحديدي» الجديد... انقسام بلا جدار"
+      }
+    },
+    {
+      "title_original": "La Corée du Nord accuse l’OTAN d’intensifier ses préparatifs militaires via un réseau de carburant",
+      "title_zh": "朝鲜指责北约通过燃料网络加强军事准备",
+      "url": "https://www.aa.com.tr/fr/monde/la-cor%C3%A9e-du-nord-accuse-l-otan-d-intensifier-ses-pr%C3%A9paratifs-militaires-via-un-r%C3%A9seau-de-carburant/4015558",
+      "source": "Anadolu Ajansı",
+      "source_score": 40,
+      "published_at": "2026-08-01T08:01:58+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "朝鲜指责北约通过扩建和现代化其军用燃料运输系统来加强军事准备。",
+        "北约计划在欧洲扩建和现代化其军用燃料运输系统，包括建设新的管道和能源储存设施。",
+        "朝鲜认为北约的这一计划是为了在欧洲和亚太地区加强军事存在和准备战争。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Anadolu Ajansı"
+      ],
+      "all_titles": {
+        "fr": "La Corée du Nord accuse l’OTAN d’intensifier ses préparatifs militaires via un réseau de carburant"
+      }
+    },
+    {
+      "title_original": "Marine Le Pen, Coupe du monde, amende record pour Google, guerre au Moyen-Orient… Ce qu'il ne fallait pas rater en juillet 2026",
+      "title_zh": "马琳·勒庞，世界杯，谷歌创纪录罚款，中东战争……2026年7月不容错过的事件",
+      "url": "https://www.lesechos.fr/travailler-mieux/vie-au-travail/marine-le-pen-coupe-du-monde-amende-record-pour-google-guerre-au-moyen-orient-ce-quil-ne-fallait-pas-rater-en-juillet-2026-2245581",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-08-01T07:25:08+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "2026年7月，法国政治家马琳·勒庞、世界杯、谷歌创纪录罚款和中东战争等事件引起了广泛关注。",
+        "这些事件包括政治、体育、科技和地缘政治等多个领域，反映了2026年7月的国际热点事件。",
+        "这些事件对全球政治、经济和社会产生了重要影响，值得关注和分析。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "Marine Le Pen, Coupe du monde, amende record pour Google, guerre au Moyen-Orient… Ce qu'il ne fallait pas rater en juillet 2026"
+      }
+    },
     {
       "title_original": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
       "title_zh": "巴基斯坦雪崩事故：营救行动正在进行",
@@ -54,6 +579,31 @@
       }
     },
     {
+      "title_original": "Ukraine-Krieg: Trump verhalten zu Patriot-Lizenzen für Ukraine",
+      "title_zh": "乌克兰战争：特朗普对乌克兰爱国者导弹许可持谨慎态度",
+      "url": "https://www.wiwo.de/politik/ausland/ukraine-krieg-trump-verhalten-zu-patriot-lizenzen-fuer-ukraine/100244402.html",
+      "source": "WiWo",
+      "source_score": 40,
+      "published_at": "2026-08-01T07:20:28+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国总统特朗普对乌克兰爱国者导弹许可持谨慎态度，表示需要谨慎考虑这一问题。",
+        "乌克兰希望获得爱国者导弹许可，以加强其防御能力，抵御俄罗斯的攻击。",
+        "特朗普的态度表明，美国在乌克兰问题上采取了谨慎的立场，需要考虑多方面的因素。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "WiWo"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Trump verhalten zu Patriot-Lizenzen für Ukraine"
+      }
+    },
+    {
       "title_original": "Ukraine-Krieg aktuell: Trump zweifelt plötzlich an Patriot-Lizenzen für Kiew – „nicht sicher“",
       "title_zh": "乌克兰战争：特朗普突然质疑为基辅提供爱国者导弹许可",
       "url": "https://www.fr.de/politik/hinterland-russlands-amazon-in-brand-ukraine-krieg-aktuell-drohnen-setzen-in-zr-94419254.html",
@@ -101,6 +651,56 @@
       ],
       "all_titles": {
         "es": "Cuando la inmigración deja de ser solo inmigración: Melilla, la geopolítica y la pregunta que Europa ya no puede seguir evitando. Por Fernando M. Gracia"
+      }
+    },
+    {
+      "title_original": "不准中国武力收台！北约称做好开战准备，话音刚落，中方强势表态",
+      "title_zh": "不准中国武力收台！北约称做好开战准备，话音刚落，中方强势表态",
+      "url": "https://m.sohu.com/a/1057560968_122116898?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-08-01T06:40:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "北约称做好开战准备，警告中国不准使用武力收复台湾，中方对此作出了强势表态。",
+        "中方表示，台湾是中国领土不可分割的一部分，中国坚持以最大诚意、尽最大努力争取和平统一的前景，但决不承诺放弃使用武力。",
+        "北约的表态和中方的回应引起了人们的关注，人们担心这可能会导致地区紧张局势的升级。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "不准中国武力收台！北约称做好开战准备，话音刚落，中方强势表态"
+      }
+    },
+    {
+      "title_original": "トランプ氏「同意していない」 ウクライナでのパトリオット生産（毎日新聞）",
+      "title_zh": "特朗普表示不同意在乌克兰生产爱国者导弹",
+      "url": "https://news.yahoo.co.jp/articles/c0b266bbe02f8c21b926862e41648e5755e7a8fd",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-01T06:32:04+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普表示不同意在乌克兰生产爱国者导弹",
+        "特朗普之前曾表示考虑在乌克兰生产爱国者导弹，但现在表示难以实现",
+        "乌克兰总统泽连斯基一直在寻求获得爱国者导弹来抵御俄罗斯的攻击"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏「同意していない」 ウクライナでのパトリオット生産（毎日新聞）"
       }
     },
     {
@@ -176,6 +776,31 @@
       ],
       "all_titles": {
         "es": "EEUU urge a Taiwán a aprobar una ley que permita financiar la fabricación de drones ante la \"amenaza\" china"
+      }
+    },
+    {
+      "title_original": "„Der reinste Terror“ – Mehrere Tote bei russischen Angriffen auf Kiew",
+      "title_zh": "基辅遭俄罗斯袭击，多人死亡，乌克兰称为“纯粹的恐怖”",
+      "url": "https://www.welt.de/videos/video6a6d82304a914d9a527ae231/ukraine-krieg-der-reinste-terror-mehrere-tote-bei-russischen-angriffen-auf-kiew.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-08-01T05:32:28+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "基辅遭俄罗斯袭击，多人死亡，乌克兰称为“纯粹的恐怖”",
+        "俄罗斯对基辅的袭击造成了重大损害和人员伤亡",
+        "乌克兰政府谴责俄罗斯的袭击，称其为恐怖行为"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Der reinste Terror“ – Mehrere Tote bei russischen Angriffen auf Kiew"
       }
     },
     {
@@ -301,6 +926,56 @@
       ],
       "all_titles": {
         "de": "Nach Angriff auf Mittelmeerhafen: Warum der Iran-Krieg nun drei globale Handelsadern gleichzeitig bedroht"
+      }
+    },
+    {
+      "title_original": "Otra escalada en Oriente Medio",
+      "title_zh": "中东再次升级",
+      "url": "https://valenciaplaza.com/valenciaplaza/opinion/otra-escalada-en-oriente-medio",
+      "source": "Valencia Plaza",
+      "source_score": 40,
+      "published_at": "2026-08-01T04:01:30+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东地区再次出现升级的迹象，伊朗和美国之间的紧张关系加剧。",
+        "伊朗袭击了位于科威特和卡塔尔的西方军事基地，这使得局势更加复杂。",
+        "这次升级可能会导致全球贸易和稳定受到影响，并可能带来新的挑战给国际社会。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Valencia Plaza"
+      ],
+      "all_titles": {
+        "es": "Otra escalada en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient: un pétrolier frappé par un \"projectile non identifié\" à l'entrée du détroit d'Ormuz",
+      "title_zh": "中东战争：一艘油轮在霍尔木兹海峡入口被不明物体击中",
+      "url": "https://www.bfmtv.com/international/moyen-orient/guerre-au-moyen-orient-un-petrolier-frappe-par-un-projectile-non-identifie-a-l-entree-du-detroit-d-ormuz_AD-202608010058.html",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-08-01T03:53:37+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "一艘油轮在霍尔木兹海峡入口被不明物体击中，导致油轮受损。",
+        "这次事件发生在伊朗和美国之间的紧张关系加剧的背景下，可能会导致全球贸易和稳定受到影响。",
+        "霍尔木兹海峡是全球石油贸易的重要通道，这次事件可能会导致石油价格波动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: un pétrolier frappé par un \"projectile non identifié\" à l'entrée du détroit d'Ormuz"
       }
     },
     {
