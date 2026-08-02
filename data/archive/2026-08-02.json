@@ -1,0 +1,836 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T07:52:35.692988+00:00",
+  "count": 33,
+  "articles": [
+    {
+      "title_original": "Frédéric Encel, docteur en géopolitique sur l'accord de Gaza : «Si le Hamas exige le retrait d’Israël, le processus est voué à l’échec »",
+      "title_zh": "加沙地带专家弗雷德里克·恩塞尔：如果哈马斯要求以色列撤军，和平进程将失败",
+      "url": "https://www.latribune.fr/article/economie/international/10073565418804/frederic-encel-docteur-en-geopolitique-sur-laccord-de-gaza-si-le-hamas-exige-le-retrait-d-israel-le-processus-est-voue-a-l-echec",
+      "source": "La Tribune",
+      "source_score": 40,
+      "published_at": "2026-08-02T07:45:02+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "弗雷德里克·恩塞尔是一位地缘政治学博士，曾就加沙地带的和平协议发表过看法。",
+        "他认为，如果哈马斯要求以色列撤军，加沙地带的和平进程将会失败。",
+        "弗雷德里克·恩塞尔的看法表明，加沙地带的和平进程面临着重大的挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "La Tribune"
+      ],
+      "all_titles": {
+        "fr": "Frédéric Encel, docteur en géopolitique sur l'accord de Gaza : «Si le Hamas exige le retrait d’Israël, le processus est voué à l’échec »"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : les États-Unis suspendent leurs frappes contre l'Iran",
+      "title_zh": "中东战争：美国暂停对伊朗的空袭",
+      "url": "https://www.lejdd.fr/International/guerre-au-moyen-orient-les-etats-unis-suspendent-leurs-frappes-contre-liran-180357",
+      "source": "lejdd.fr",
+      "source_score": 40,
+      "published_at": "2026-08-02T07:43:24+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国总统唐纳德·特朗普宣布暂停对伊朗的空袭，以便与伊朗达成协议。",
+        "特朗普表示，美国和伊朗将共同努力，以便重新开放霍尔木兹海峡，并解决伊朗核问题。",
+        "美国暂停对伊朗的空袭是为了避免进一步的冲突，并寻求和平解决中东问题。"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "lejdd.fr",
+        "مونت كارلو الدولية"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : les États-Unis suspendent leurs frappes contre l'Iran",
+        "ar": "ترامب يعلن أنه ألغى الهجوم على إيران \"بشرط التوصل إلى اتفاق ⁠سريعا\""
+      }
+    },
+    {
+      "title_original": "ギリシャ外相、NATOの結束「さらなる発展が可能」 欧州再軍備で",
+      "title_zh": "希腊外交部长：北约的团结可以进一步发展，欧洲需要重新武装",
+      "url": "https://www.nikkei.com/article/DGXZQOCB241CX0U6A720C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-02T06:53:55+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "希腊外交部长表示，北约的团结可以进一步发展，欧洲需要重新武装以应对安全挑战。",
+        "他认为，欧洲的防御自主性对于应对安全挑战至关重要。",
+        "希腊外交部长的看法表明，欧洲需要加强防御能力，以应对日益复杂的安全环境。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ギリシャ外相、NATOの結束「さらなる発展が可能」 欧州再軍備で"
+      }
+    },
+    {
+      "title_original": "英媒：地缘政治扰动推高全球油轮运价",
+      "title_zh": "英媒：地缘政治扰动推高全球油轮运价",
+      "url": "https://www.jpchinapress.com/static/content/CJ/2026-08-02/1533485865510412288.html",
+      "source": "jpchinapress.com",
+      "source_score": 40,
+      "published_at": "2026-08-02T06:47:19+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "英国媒体报道称，地缘政治扰动导致全球油轮运价上涨。",
+        "霍尔木兹海峡危机和红海、黑海安全形势恶化，给全球油轮市场带来了不确定性。",
+        "油轮公司表示，地缘政治扰动增加了船舶和船员的安全风险，并推高了运输成本。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "jpchinapress.com"
+      ],
+      "all_titles": {
+        "zh": "英媒：地缘政治扰动推高全球油轮运价"
+      }
+    },
+    {
+      "title_original": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+      "title_zh": "特朗普称将取消对伊朗的袭击，前提是迅速达成协议",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-02T06:24:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国总统特朗普表示，伊朗和其他中东国家要求华盛顿暂停任何攻击，因为协议的“边界”已经达成。",
+        "特朗普的声明没有提供更多细节，但暗示可能正在进行的谈判或协议。",
+        "此事件发生在中东局势紧张之际，各国领导人正在寻求解决冲突的途径。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'"
+      }
+    },
+    {
+      "title_original": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "title_zh": "莫斯科餐厅爆炸造成三人死亡，官方媒体报道",
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-02T05:40:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "莫斯科一家意大利餐厅发生爆炸，造成至少三人死亡，21人受伤。",
+        "爆炸发生在餐厅外，一个携带爆炸装置的女子被保安拦截，装置随后爆炸。",
+        "事件发生在莫斯科市中心，附近区域被封锁，多名武装人员赶到现场。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Three killed after bomb detonated at Moscow restaurant, state media say"
+      }
+    },
+    {
+      "title_original": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "title_zh": "登山者尼姆帕尔·普尔加在巴基斯坦雪崩中丧生，公司确认",
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-02T05:26:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "著名的英国-尼泊尔登山者尼姆帕尔·普尔加在巴基斯坦的宽广峰雪崩中丧生，年龄43岁。",
+        "普尔加曾在2019年创下攀登世界14座最高峰的记录，仅用了六个多月。",
+        "尼泊尔总理巴伦德拉·沙阿确认了普尔加的死讯，称其为“悲惨的损失”和“勇气与奉献的象征”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Sprengsatz explodiert in Moskauer Restaurant – Tote und Verletzte",
+      "title_zh": "乌克兰战争最新：莫斯科餐厅爆炸造成死亡和受伤",
+      "url": "https://www.fr.de/politik/auf-kiew-ukraine-krieg-aktuell-russland-startet-raketenangriff-zr-94424572.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-02T05:19:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "莫斯科一家餐厅发生爆炸，造成至少三人死亡，15人受伤，原因是女性携带的爆炸装置被保安拦截后爆炸。",
+        "事件发生在莫斯科市中心，附近区域被封锁，多名武装人员赶到现场。",
+        "乌克兰战争持续，各方都在寻求解决冲突的途径，莫斯科餐厅爆炸事件引起了广泛关注。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Sprengsatz explodiert in Moskauer Restaurant – Tote und Verletzte"
+      }
+    },
+    {
+      "title_original": "Three dead including female bomber in Moscow restaurant attack",
+      "title_zh": "莫斯科餐厅爆炸造成三人死亡，包括一名女性炸弹袭击者",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-02T04:48:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "莫斯科一家餐厅发生爆炸，造成至少三人死亡，20多人受伤，包括一名女性炸弹袭击者。",
+        "爆炸发生在餐厅外，女性携带的爆炸装置被保安拦截后爆炸。",
+        "事件发生在莫斯科市中心，附近区域被封锁，多名武装人员赶到现场。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Three dead including female bomber in Moscow restaurant attack"
+      }
+    },
+    {
+      "title_original": "ウクライナ防空システム、ロシアの弾道ミサイルをほぼ迎撃できず 大規模攻撃で9人死亡",
+      "title_zh": "乌克兰防空系统无法有效拦截俄罗斯弹道导弹，大规模袭击造成9人死亡",
+      "url": "https://www.cnn.co.jp/world/35251199.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-02T04:09:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰防空系统无法有效拦截俄罗斯弹道导弹，大规模袭击造成9人死亡，包括4名儿童。",
+        "乌克兰总统泽连斯基呼吁西方国家提供防空系统，以应对俄罗斯的攻击。",
+        "俄罗斯军队对乌克兰发动的大规模空袭是两天内第二次，目标包括首都基辅和周边地区。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ防空システム、ロシアの弾道ミサイルをほぼ迎撃できず 大規模攻撃で9人死亡"
+      }
+    },
+    {
+      "title_original": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
+      "title_zh": "西非多国反LGBTQ+法律增多，活动家警告",
+      "url": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-02T04:00:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "西非多国近期出台或加强了反LGBTQ+法律，活动家表示这是对LGBTQ+人群的迫害。",
+        "例如，塞内加尔和尼日尔等国已经出台了相关法律，限制同性恋行为和LGBTQ+活动。",
+        "活动家认为，这些法律是当地政治压力和全球反LGBTQ+趋势的结果。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn"
+      }
+    },
+    {
+      "title_original": "La geopolítica se juega en la crisis de Ceuta",
+      "title_zh": "塞乌塔危机中的地缘政治",
+      "url": "https://elpais.com/opinion/2026-08-02/la-geopolitica-se-juega-en-la-crisis-de-ceuta.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-08-02T03:30:01+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "塞乌塔是西班牙在北非的一个自治市，目前正面临着一场危机。",
+        "这场危机涉及到地缘政治因素，包括西班牙和摩洛哥之间的关系。",
+        "塞乌塔的危机可能会影响到整个地区的稳定和安全。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "La geopolítica se juega en la crisis de Ceuta"
+      }
+    },
+    {
+      "title_original": "Baltic startups take aim at deterring Russia on NATO’s eastern flank",
+      "title_zh": "波罗的海地区初创企业致力于阻止俄罗斯在北约东翼",
+      "url": "https://www.japantimes.co.jp/news/2026/08/02/world/baltic-startups-russia-nato/",
+      "source": "The Japan Times",
+      "source_score": 40,
+      "published_at": "2026-08-02T03:19:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "波罗的海地区的初创企业正在开发技术以阻止俄罗斯在北约东翼的侵略行为。",
+        "这些初创企业的产品包括精确制导系统和无人机技术，旨在增强北约东翼国家的防御能力。",
+        "这些努力是为了应对俄罗斯在乌克兰的侵略行为，并加强北约东翼的防御。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "The Japan Times"
+      ],
+      "all_titles": {
+        "en": "Baltic startups take aim at deterring Russia on NATO’s eastern flank"
+      }
+    },
+    {
+      "title_original": "トランプ氏、対イラン攻撃停止を宣言 「中東諸国から要請」",
+      "title_zh": "特朗普宣布停止对伊朗的攻击，称“应中东国家的要求”",
+      "url": "https://www.nikkei.com/article/DGXZQOGN020GP0S6A800C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-02T02:59:16+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国总统特朗普宣布停止对伊朗的攻击，理由是“中东国家的要求”。",
+        "特朗普表示，美国将在伊朗开放霍尔木兹海峡和放弃核威胁的条件下停止攻击。",
+        "这项声明是在伊朗和美国之间的紧张关系加剧之后做出的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、対イラン攻撃停止を宣言 「中東諸国から要請」"
+      }
+    },
+    {
+      "title_original": "„Es ist Putin, der diesen Krieg begonnen hat“: Republikaner Bacon stellt Trump wegen Ukraine-Rhetorik bloß",
+      "title_zh": "普京发动了这场战争：共和党人贝肯因乌克兰言论而批评特朗普",
+      "url": "https://www.fr.de/politik/zu-selenskyj-ukraine-krieg-republikaner-bacon-kritisiert-trumps-rhetorik-zr-94423266.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-02T02:46:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国总统特朗普呼吁乌克兰总统泽连斯基结束战争，遭到共和党人贝肯的批评",
+        "贝肯认为特朗普的言论产生了“道德模糊性”，并指出俄罗斯应为乌克兰战争负责",
+        "特朗普的言论引发了争议，贝肯表示特朗普的态度“令人尴尬”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "„Es ist Putin, der diesen Krieg begonnen hat“: Republikaner Bacon stellt Trump wegen Ukraine-Rhetorik bloß"
+      }
+    },
+    {
+      "title_original": "「英雄か虐殺者か」歴史摩擦 ポーランドでウクライナ人に憎悪犯罪",
+      "title_zh": "英雄还是屠杀者？历史摩擦导致波兰对乌克兰人的仇恨犯罪",
+      "url": "https://www.nikkei.com/article/DGXZQOCB310C50R30C26A7000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-02T02:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "波兰和乌克兰之间的历史分歧导致了仇恨犯罪的增加",
+        "乌克兰人在波兰面临着日益增长的敌意和暴力",
+        "历史问题和当前的冲突导致了波兰和乌克兰之间的紧张关系"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "「英雄か虐殺者か」歴史摩擦 ポーランドでウクライナ人に憎悪犯罪"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Strikes on three Russian oil refineries and sanctioned ship",
+      "title_zh": "乌克兰战争简报：对三家俄罗斯石油炼厂和被制裁船只的袭击",
+      "url": "https://www.theguardian.com/world/2026/aug/02/ukraine-war-briefing-strikes-on-three-russian-oil-refineries-and-sanctioned-ship",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-02T01:55:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰无人机袭击了俄罗斯三个石油炼厂，位于巴什科尔托斯坦共和国",
+        "被制裁的俄罗斯货船在黑海沉没，据称船上载有“民用货物”",
+        "乌克兰继续对俄罗斯控制的领土和基础设施进行打击"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Strikes on three Russian oil refineries and sanctioned ship"
+      }
+    },
+    {
+      "title_original": "米当局、中東地域の米国民に出国を呼びかけ 最新の動きは",
+      "title_zh": "美国当局呼吁中东地区的美国公民离境，最新动态是",
+      "url": "https://www.cnn.co.jp/world/35251197.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-02T01:13:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国当局呼吁中东地区的美国公民考虑离境或做好离境准备",
+        "美国计划对伊朗进行新的打击，伊朗对湾岸国家发出警告",
+        "伊斯拉エル军队袭击了加沙地区的一家医院，导致大量人员伤亡"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "米当局、中東地域の米国民に出国を呼びかけ 最新の動きは"
+      }
+    },
+    {
+      "title_original": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "title_zh": "西班牙移民危机如何引发政治风暴——社交媒体的作用",
+      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-02T00:55:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙的塞乌塔地区发生大规模移民涌入事件，导致至少67人死亡",
+        "西班牙政府面临来自欧洲其他国家的压力，要求采取更严格的移民政策",
+        "社交媒体在移民危机中发挥了重要作用，某些帖子可能促进了移民的涌入"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "How Spain's migrant crisis created a political storm - whipped up by social media"
+      }
+    },
+    {
+      "title_original": "Tourist plane crashes in Peru, killing 13",
+      "title_zh": "秘鲁旅游飞机坠毁，13人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-02T00:29:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "秘鲁一架载有13人的小型飞机在纳斯卡线古迹上空坠毁，机上所有人均遇难。",
+        "飞机上有11名乘客和2名飞行员，乘客中包括2名德国人、2名西班牙人和7名意大利人。",
+        "事故原因尚不清楚，秘鲁当局已经展开调查。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Tourist plane crashes in Peru, killing 13"
+      }
+    },
+    {
+      "title_original": "EE.UU. insta a sus ciudadanos a \"marcharse\" de Medio Oriente",
+      "title_zh": "美国敦促其公民离开中东",
+      "url": "https://www.dw.com/es/eeuu-insta-a-sus-ciudadanos-a-marcharse-de-medio-oriente/a-78205567",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-08-02T00:14:35+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国驻中东各国大使馆发布安全警告，敦促美国公民考虑离开中东或做好离开准备。",
+        "警告称，中东地区可能出现军事冲突升级，美国公民应提高警惕，注意安全。",
+        "美国总统特朗普威胁要对伊朗进行大规模打击，伊朗方面则警告称，如果美国攻击，伊朗将会反击。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "DW.com",
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "es": "EE.UU. insta a sus ciudadanos a \"marcharse\" de Medio Oriente",
+        "ja": "米大使館、中東からの退避を呼び掛け イラン、「米国の楯」となる国への攻撃を警告"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（8月2日の動き）",
+      "title_zh": "俄罗斯对乌克兰进行军事入侵（8月2日动态）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192411000",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-02T00:07:14+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰进行军事入侵，冲突持续升级。",
+        "乌克兰方面称，俄军继续对乌克兰领土进行轰炸和炮击。",
+        "国际社会对俄罗斯的行为表示谴责，呼吁立即停止军事行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（8月2日の動き）"
+      }
+    },
+    {
+      "title_original": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
+      "title_zh": "孤独作为一种新的向往生活方式：‘我们并不孤独’",
+      "url": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T23:56:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "近年来，孤独生活方式逐渐成为一种新的向往生活方式。",
+        "一些人认为，孤独可以带来独立和自由，帮助人们更好地专注于自己的兴趣和爱好。",
+        "孤独生活方式的倡导者认为，孤独并不等同于孤立，人们可以在孤独中找到快乐和满足。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Solitude as a new aspirational lifestyle: 'We are not lonely'"
+      }
+    },
+    {
+      "title_original": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "title_zh": "雇佣年轻枪手——招募青少年杀手在欧洲各地杀人",
+      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T23:03:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "雇佣年轻枪手——招募青少年杀手在欧洲各地杀人\n- 已发表\n斯德哥尔摩郊区，一名身穿黑衣的男子从冬夜中出现。",
+        "他拿着手枪走近了 20 岁的学生穆拉德·阿卜杜勒卡德尔 (Murad Abdelkader)，后者正在麦当劳下班回来。",
+        "枪手开枪，在接近目标时连连射击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Young guns for hire - the teenage hitmen recruited to kill across Europe"
+      }
+    },
+    {
+      "title_original": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+      "title_zh": "当病毒在刚果民主共和国传播时，为什么乌干达似乎正在赢得抗击埃博拉的战斗",
+      "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T23:03:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "当病毒在刚果民主共和国传播时，为什么乌干达似乎正在赢得抗击埃博拉的战斗\n- 已发表\n刚果民主共和国东部的埃博拉疫情已成为有记录以来第二严重的埃博拉疫情，官方公布的死亡人数已突破 1,500 人这一严峻的里程碑。",
+        "专家认为，五月份宣布的这次疫情爆发的真实死亡人数要高得多。",
+        "另一项令人震惊的最新消息是，刚果民主共和国当局周四证实，该病毒的传播速度比之前的疫情要快得多。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo"
+      }
+    },
+    {
+      "title_original": "The Sopranos star Vincent Pastore dies aged 80",
+      "title_zh": "《黑道家族》明星文森特·帕斯托雷去世，享年 80 岁",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T22:57:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "《黑道家族》明星文森特·帕斯托雷去世，享年 80 岁\n- 已发表\n据多家美国媒体报道，在热播剧《黑道家族》中饰演“大猫”萨尔瓦多·邦彭西耶罗的美国演员文森特·帕斯托雷去世，享年 80 岁。",
+        "据英国广播公司美国合作伙伴哥伦比亚广播公司新闻报道，帕斯托雷在纽约市布朗克斯区的家中被发现，没有任何犯罪迹象。",
+        "在《黑道家族》中，帕斯托雷饰演托尼·索普拉诺最好的朋友，他最终成为联邦调查局的线人。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "The Sopranos star Vincent Pastore dies aged 80"
+      }
+    },
+    {
+      "title_original": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "title_zh": "痛苦的 24 小时——国际足联和压力之下的因凡蒂诺下一步该怎么办？",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T22:23:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "痛苦的 24 小时——国际足联和压力之下的因凡蒂诺下一步该怎么办？",
+        "- 已发表\n对于政治来说，一周是很长的一段时间。",
+        "足球政治。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?"
+      }
+    },
+    {
+      "title_original": "Irak, atrapado entre EEUU e Irán: la guerra en Oriente Medio desbarata el equilibrio de Bagdad",
+      "title_zh": "伊拉克夹在美国和伊朗之间：中东战争破坏巴格达的平衡",
+      "url": "https://www.eldiario.es/internacional/theguardian/irak-atrapado-eeuu-e-iran-guerra-oriente-medio-desbarata-equilibrio-bagdad_1_13420558.html",
+      "source": "elDiario.es",
+      "source_score": 40,
+      "published_at": "2026-08-01T21:12:07+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊拉克夹在美国和伊朗之间：中东战争破坏巴格达的平衡\n1\n去年二月，美国和以色列杀害阿亚图拉阿里·哈梅内伊并引发地区战争一周后，无人机开始飞越巴士拉上空。巴士拉是伊拉克南部的一个大型港口城市，也是该国石油工业的中心。",
+        "袭击目标是伊拉克经济很大一部分所依赖的能源基础设施：英国跨国公司英国石油公司(BP)开发的油田、巴士拉机场的一个货运站以及为石油工业提供服务的外国公司所在的大型综合设施遭到袭击。",
+        "3 月 6 日，新的袭击再次袭击了该建筑群。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "elDiario.es"
+      ],
+      "all_titles": {
+        "es": "Irak, atrapado entre EEUU e Irán: la guerra en Oriente Medio desbarata el equilibrio de Bagdad"
+      }
+    },
+    {
+      "title_original": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
+      "title_zh": "澳大利亚如何结合现代科技和土著知识来对抗野火",
+      "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T21:03:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "澳大利亚正面临严重的野火威胁，专家们正在开发新的方法来预防和应对野火。",
+        "澳大利亚的土著社区拥有丰富的传统知识和经验，可以帮助预防和应对野火。",
+        "澳大利亚的研究人员正在使用现代科技，如卫星和无人机，来监测和预测野火的发生和蔓延。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "How Australia combines modern tech and Indigenous knowledge to fight wildfires"
+      }
+    },
+    {
+      "title_original": "中东局势升级！美政府建议中东地区美国公民做好撤离准备",
+      "title_zh": "中东局势升级！美政府建议中东地区美国公民做好撤离准备",
+      "url": "https://app.dahecube.com/nweb/pc/article.html?artid=282320?recid=1",
+      "source": "大河财立方",
+      "source_score": 40,
+      "published_at": "2026-08-01T21:01:44+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势正在升级，美国政府建议中东地区的美国公民做好撤离准备。",
+        "美国政府担心中东地区的安全局势，呼吁美国公民注意安全。",
+        "中东地区的紧张局势可能会导致进一步的冲突和不稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "大河财立方"
+      ],
+      "all_titles": {
+        "zh": "中东局势升级！美政府建议中东地区美国公民做好撤离准备"
+      }
+    },
+    {
+      "title_original": "الجيش الأمريكي: المروحية \"شينوك\" تصل إلى الشرق الأوسط",
+      "title_zh": "美国军队：“奇努克”直升机抵达中东",
+      "url": "https://www.24.ae/964422",
+      "source": "موقع 24",
+      "source_score": 40,
+      "published_at": "2026-08-01T20:53:42+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国军队的“奇努克”直升机已经抵达中东，准备执行任务。",
+        "“奇努克”直升机是一种多功能的直升机，可以执行多种任务，包括运输和医疗撤离。",
+        "美国军队在中东的存在是为了维护地区的安全和稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "موقع 24"
+      ],
+      "all_titles": {
+        "ar": "الجيش الأمريكي: المروحية \"شينوك\" تصل إلى الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "إجراء أول عملية في الشرق الأوسط بتقنية متطورة لتثبيت فقرات الظهر",
+      "title_zh": "中东首次使用先进技术进行脊柱固定手术",
+      "url": "https://www.emaratalyoum.com/local-section/health/2026-08-02-1.2070489",
+      "source": "الإمارات اليوم",
+      "source_score": 40,
+      "published_at": "2026-08-01T20:45:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东的一家医院首次使用先进技术进行脊柱固定手术，取得了成功。",
+        "这项技术可以帮助患者更快地恢复，减少手术后的并发症。",
+        "中东的医疗技术正在不断进步，能够提供更好的医疗服务。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "الإمارات اليوم"
+      ],
+      "all_titles": {
+        "ar": "إجراء أول عملية في الشرق الأوسط بتقنية متطورة لتثبيت فقرات الظهر"
+      }
+    },
+    {
+      "title_original": "EU calls emergency meeting to discuss Ceuta migrant crossings",
+      "title_zh": "欧盟召开紧急会议讨论塞乌塔移民问题",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-01T20:09:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧盟召开紧急会议讨论塞乌塔移民问题，多个成员国呼吁采取协调行动。",
+        "塞乌塔移民问题已经成为欧盟的一个紧迫问题，需要立即解决。",
+        "欧盟成员国之间存在不同的意见，需要通过谈判和协商来找到解决方案。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "EU calls emergency meeting to discuss Ceuta migrant crossings"
+      }
+    }
+  ]
+}
