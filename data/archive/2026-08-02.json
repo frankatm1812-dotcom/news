@@ -1,8 +1,385 @@
 {
   "date": "2026-08-02",
-  "generated_at": "2026-08-02T07:52:35.692988+00:00",
-  "count": 33,
+  "generated_at": "2026-08-02T14:53:03.149863+00:00",
+  "count": 52,
   "articles": [
+    {
+      "title_original": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "title_zh": "以色列袭击加沙地带，至少八人死亡，哈马斯同意裁军协议",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-02T14:46:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列军队对加沙地带进行空袭，造成至少八人死亡，多人受伤。",
+        "空袭目标包括加沙市、汗尤尼斯和代尔贝拉赫的住宅楼和建筑物。",
+        "以色列方面称，空袭是针对加沙地带的军事目标，包括哈马斯武装人员。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal"
+      }
+    },
+    {
+      "title_original": "Kansas’ data center boom is shaking up the governor’s race",
+      "title_zh": "堪萨斯州数据中心热潮影响州长竞选",
+      "url": "https://www.politico.com/news/2026/08/02/kansas-data-center-fight-governor-race-01021247",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-02T09:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "堪萨斯州数据中心建设热潮引发了州长竞选中的争论。",
+        "共和党和民主党候选人就数据中心发展问题展开辩论。",
+        "数据中心建设对堪萨斯州经济和就业产生了影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Kansas’ data center boom is shaking up the governor’s race"
+      }
+    },
+    {
+      "title_original": "【ロシア経済拠点に照準】通販網と製油所に“ウクライナ無人機攻撃”焦燥プーチン氏",
+      "title_zh": "俄罗斯经济重镇遭乌克兰无人机袭击，普京感到焦虑",
+      "url": "https://news.tv-asahi.co.jp/news_international/articles/000523663.html",
+      "source": "テレ朝NEWS",
+      "source_score": 40,
+      "published_at": "2026-08-02T13:51:16+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰无人机袭击了俄罗斯的电子商务网站和石油炼制厂。",
+        "俄罗斯最大电子商务公司Wildberries遭到袭击，损失了约10%的库存。",
+        "乌克兰方面称，袭击目标包括俄罗斯军事设施和基础设施。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "テレ朝NEWS"
+      ],
+      "all_titles": {
+        "ja": "【ロシア経済拠点に照準】通販網と製油所に“ウクライナ無人機攻撃”焦燥プーチン氏"
+      }
+    },
+    {
+      "title_original": "8月2日复盘，中东局势缓和，黄金要高开？",
+      "title_zh": "8月2日复盘：中东局势缓和，黄金可能高开",
+      "url": "http://mp.cnfol.com/55773/article/1785677992-142607686.html",
+      "source": "财经号",
+      "source_score": 40,
+      "published_at": "2026-08-02T13:49:50+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势缓和，导致油价下跌，黄金价格可能会上涨。",
+        "国际黄金市场因休市而停盘，但中东局势变化可能影响黄金价格。",
+        "油价下跌可能会对黄金价格产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "财经号"
+      ],
+      "all_titles": {
+        "zh": "8月2日复盘，中东局势缓和，黄金要高开？"
+      }
+    },
+    {
+      "title_original": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
+      "title_zh": "塞우塔边境口岸混乱，摩洛哥人在街头徘徊",
+      "url": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-02T13:11:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "超过5万人进入西班牙的塞乌塔领地，摩洛哥人尝试通过边境口岸进入西班牙。",
+        "其中一名摩洛哥人Youssef El Abbas在2019年被驱逐出西班牙，现正试图返回西班牙。",
+        "边境口岸的混乱局面使得许多摩洛哥人面临不确定的未来。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets"
+      }
+    },
+    {
+      "title_original": "عبدالله بن زايد ووزير الخارجية الكويتي يبحثان جهود تعزيز الاستقرار في الشرق الأوسط",
+      "title_zh": "阿拉伯联合酋长国外交部长与科威特外交部长讨论加强中东稳定的努力",
+      "url": "https://www.emaratalyoum.com/local-section/other/2026-08-02-1.2070549",
+      "source": "الإمارات اليوم",
+      "source_score": 40,
+      "published_at": "2026-08-02T12:46:50+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "阿拉伯联合酋长国外交部长阿卜杜拉·本·扎耶德与科威特外交部长杰拉赫·贾贝尔·阿赫迈德·萨巴赫进行了电话交谈。",
+        "双方讨论了中东地区的最新发展和加强安全与稳定的努力。",
+        "双方还审查了两国之间的关系和合作框架，旨在促进两国人民的利益。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "الإمارات اليوم"
+      ],
+      "all_titles": {
+        "ar": "عبدالله بن زايد ووزير الخارجية الكويتي يبحثان جهود تعزيز الاستقرار في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Trump suspend les frappes américaines contre l'Iran",
+      "title_zh": "中东战争：特朗普暂停对伊朗的美国空袭",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260802-guerre-au-moyen-orient-trump-suspend-les-frappes-am%C3%A9ricaines-contre-l-iran",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-02T12:39:22+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "特朗普决定暂停对伊朗的美国空袭。",
+        "此决定是在中东战争背景下做出的。",
+        "暂停空袭的原因和影响尚不明确。"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（3源）但未证实",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "France 24",
+        "La Montagne",
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Trump suspend les frappes contre l’Iran, Gaza de nouveau bombardée… Les dernières infos"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : l’Opep+ augmente ses quotas de production de 188.000 barils par jour",
+      "title_zh": "中东战争：欧佩克+增加每日生产配额18.8万桶",
+      "url": "https://www.lefigaro.fr/conjoncture/guerre-au-moyen-orient-l-opep-augmente-ses-quotas-de-production-de-188-000-barils-par-jour-20260802",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-08-02T12:17:39+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "欧佩克+决定增加每日生产配额18.8万桶，适用于九月份。",
+        "此决定是在中东战争背景下做出的，旨在缓解能源市场紧张。",
+        "欧佩克+成员国包括沙特阿拉伯、俄罗斯等，旨在稳定全球能源市场。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : l’Opep+ augmente ses quotas de production de 188.000 barils par jour"
+      }
+    },
+    {
+      "title_original": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "title_zh": "印度尼西亚渡轮着火，5人死亡，41人失踪",
+      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-02T11:49:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "印度尼西亚一艘渡轮在海上着火，导致5人死亡，41人失踪。",
+        "渡轮上至少有250人，船上发生火灾时正从苏拉威西岛开往东爪哇。",
+        "救援工作正在进行，部分乘客已被救出。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Five dead, 41 missing, after Indonesia ferry catches fire"
+      }
+    },
+    {
+      "title_original": "L'Otan se prépare «ouvertement» à la guerre, accuse la Corée du Nord",
+      "title_zh": "北约公开准备战争，朝鲜指责",
+      "url": "https://www.lejdd.fr/International/lotan-se-prepare-ouvertement-a-la-guerre-accuse-la-coree-du-nord-180369",
+      "source": "lejdd.fr",
+      "source_score": 40,
+      "published_at": "2026-08-02T09:50:42+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "北约公开准备战争，朝鲜指责北约正在加强其军事能力。",
+        "北约计划投资27亿欧元改善其后勤和军事能力。",
+        "朝鲜指责北约是“更加激进的军事集团”，并指控其试图积累战争物资以在任何时候任何地点发动战争。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "lejdd.fr"
+      ],
+      "all_titles": {
+        "fr": "L'Otan se prépare «ouvertement» à la guerre, accuse la Corée du Nord"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Trump menace de frapper l’Iran “très fort” avant de faire marche arrière",
+      "title_zh": "中东战争：特朗普威胁要重击伊朗，然后撤回威胁",
+      "url": "https://www.nouvelobs.com/monde/20260802.OBS117143/guerre-au-moyen-orient-trump-menace-de-frapper-l-iran-tres-fort-avant-de-faire-marche-arriere.html",
+      "source": "Le Nouvel Obs",
+      "source_score": 40,
+      "published_at": "2026-08-02T09:44:12+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国总统特朗普威胁要对伊朗进行重大的军事打击，但后来撤回了这一威胁。",
+        "特朗普表示，美国和以色列已经同意暂停对伊朗的军事打击，条件是伊朗必须迅速达成协议。",
+        "特朗普还表示，美国和以色列将共同努力，迫使伊朗开放霍尔木兹海峡并放弃核武器计划。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Le Nouvel Obs"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Trump menace de frapper l’Iran “très fort” avant de faire marche arrière"
+      }
+    },
+    {
+      "title_original": "俄乌冲突进入全新阶段，最危险的那条潜规则，被俄军一枚导弹终结",
+      "title_zh": "俄乌冲突进入全新阶段，最危险的那条潜规则，被俄军一枚导弹终结",
+      "url": "https://m.sohu.com/a/1057884286_121286273?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-08-02T09:42:42+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄乌冲突已经进入一个新的阶段。",
+        "俄军的一枚导弹已经终结了最危险的那条潜规则。",
+        "冲突的最新发展表明，情况正在不断升级。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "俄乌冲突进入全新阶段，最危险的那条潜规则，被俄军一枚导弹终结"
+      }
+    },
+    {
+      "title_original": "تايوان تعلق منح التأشيرات للمغاربة فورا ردا على قرار مغربي مماثل",
+      "title_zh": "台湾立即停止向摩洛哥人发放签证，以回应摩洛哥的类似决定",
+      "url": "https://24saa.com/%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%AA%D8%B9%D9%84%D9%82-%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D8%AA%D8%A3%D8%B4%D9%8A%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D8%A9-%D9%81%D9%88/",
+      "source": "24saa.com",
+      "source_score": 40,
+      "published_at": "2026-08-02T08:46:54+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾已经停止向摩洛哥人发放签证，以回应摩洛哥的类似决定。",
+        "这一决定是对摩洛哥最近的签证政策变化的回应。",
+        "台湾和摩洛哥之间的关系可能会受到这一决定的影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "24saa.com"
+      ],
+      "all_titles": {
+        "ar": "تايوان تعلق منح التأشيرات للمغاربة فورا ردا على قرار مغربي مماثل"
+      }
+    },
+    {
+      "title_original": "Video: Danish Conscripts from Civilians to Soldiers",
+      "title_zh": "视频：丹麦从平民到士兵",
+      "url": "https://shape.nato.int/news-archive/2026/video-danish-conscripts-from-civilians-to-soldiers.aspx",
+      "source": "shape.nato.int",
+      "source_score": 40,
+      "published_at": "2026-08-02T08:21:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约发布了一段视频，展示了丹麦从平民到士兵的转变过程。",
+        "视频展示了丹麦士兵的训练和部署过程。",
+        "北约的视频旨在展示其成员国的军事能力和合作。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "shape.nato.int"
+      ],
+      "all_titles": {
+        "en": "Video: Danish Conscripts from Civilians to Soldiers"
+      }
+    },
+    {
+      "title_original": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "title_zh": "姜发肖像展现出意外的“金线”连接美国人",
+      "url": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-02T07:58:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "摄影师基兰·多兹在过去十年中一直在拍摄红发人的照片，并开始关注美国的红发人。",
+        "他发现许多美洲原住民拥有红发，这让他感到很有趣，并开始探索红发的来源。",
+        "基兰·多兹的最新书《美国的姜发人》收录了许多美洲原住民的红发照片，并探讨了红发的来源和意义。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ginger hair portraits show unexpected 'golden thread' connecting Americans"
+      }
+    },
     {
       "title_original": "Frédéric Encel, docteur en géopolitique sur l'accord de Gaza : «Si le Hamas exige le retrait d’Israël, le processus est voué à l’échec »",
       "title_zh": "加沙地带专家弗雷德里克·恩塞尔：如果哈马斯要求以色列撤军，和平进程将失败",
@@ -56,6 +433,31 @@
       }
     },
     {
+      "title_original": "ولي العهد السعودي يؤكد لترامب على ضرورة خفض التصعيد في الشرق الأوسط",
+      "title_zh": "沙特王储向特朗普确认降低中东紧张局势的必要性",
+      "url": "https://www.reuters.com/ar/world/E5NTPIADAVLFRDMO4I5QS2GEMM-2026-08-02/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-02T07:41:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特王储与特朗普讨论了中东紧张局势的问题。",
+        "沙特王储认为降低中东紧张局势是必要的。",
+        "沙特王储的观点是基于他对中东局势的分析和担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "ولي العهد السعودي يؤكد لترامب على ضرورة خفض التصعيد في الشرق الأوسط"
+      }
+    },
+    {
       "title_original": "ギリシャ外相、NATOの結束「さらなる発展が可能」 欧州再軍備で",
       "title_zh": "希腊外交部长：北约的团结可以进一步发展，欧洲需要重新武装",
       "url": "https://www.nikkei.com/article/DGXZQOCB241CX0U6A720C2000000/",
@@ -106,6 +508,31 @@
       }
     },
     {
+      "title_original": "ロシア、ウクライナの無人機635機迎撃と発表 南西部で2人死亡（ＡＦＰ＝時事）",
+      "title_zh": "俄罗斯宣布击落乌克兰无人机635架，南西部2人死亡",
+      "url": "https://news.yahoo.co.jp/articles/5f83ec35bc50aeb1558d57a3aa6c3b36b8ba9637",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-02T06:46:28+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯国防省宣布击落乌克兰无人机635架",
+        "南西部地区有2人在无人机攻击中死亡",
+        "俄罗斯防空系统在十数个地区拦截了乌克兰的无人机"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナの無人機635機迎撃と発表 南西部で2人死亡（ＡＦＰ＝時事）"
+      }
+    },
+    {
       "title_original": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
       "title_zh": "特朗普称将取消对伊朗的袭击，前提是迅速达成协议",
       "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
@@ -153,6 +580,31 @@
       ],
       "all_titles": {
         "en": "Three killed after bomb detonated at Moscow restaurant, state media say"
+      }
+    },
+    {
+      "title_original": "俄乌冲突康城彻底结束，乌军扮成平米逃跑被俄当场识破",
+      "title_zh": "俄乌冲突康城彻底结束，乌军扮成平米逃跑被俄当场识破",
+      "url": "https://m.sohu.com/a/1057830680_121455372?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-08-02T05:28:14+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄乌冲突康城已经结束",
+        "乌克兰军队试图伪装成平民逃跑，但被俄罗斯军队识破",
+        "冲突双方都在试图获得战略优势"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "俄乌冲突康城彻底结束，乌军扮成平米逃跑被俄当场识破"
       }
     },
     {
@@ -228,6 +680,31 @@
       ],
       "all_titles": {
         "en": "Three dead including female bomber in Moscow restaurant attack"
+      }
+    },
+    {
+      "title_original": "Etats-Unis et Israël suspendent les frappes sur l’Iran, Trump veut un accord",
+      "title_zh": "美国和以色列暂停对伊朗的空袭，特朗普希望达成协议",
+      "url": "https://www.20minutes.fr/monde/etats-unis/4237332-20260802-guerre-moyen-orient-etats-unis-israel-suspendent-frappes-contre-iran-trump-veut-accord",
+      "source": "20minutes.fr",
+      "source_score": 40,
+      "published_at": "2026-08-02T04:26:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国和以色列暂停对伊朗的空袭，以便与伊朗进行谈判",
+        "特朗普希望与伊朗达成一个全面协议，包括伊朗开放霍尔木兹海峡和放弃核威胁",
+        "美国和伊朗之间的谈判仍在进行中"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "20minutes.fr"
+      ],
+      "all_titles": {
+        "fr": "Etats-Unis et Israël suspendent les frappes sur l’Iran, Trump veut un accord"
       }
     },
     {
