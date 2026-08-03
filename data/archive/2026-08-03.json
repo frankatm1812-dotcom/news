@@ -1,0 +1,882 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T12:02:49.945541+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "La caída del crudo y las perspectivas en Oriente Medio impulsan a las bolsas europeas a media sesión",
+      "title_zh": "原油价格下跌和中东前景推动欧洲股市在半日内上涨",
+      "url": "https://es.marketscreener.com/noticias/la-ca-da-del-crudo-y-las-perspectivas-en-oriente-medio-impulsan-a-las-bolsas-europeas-a-media-sesi-n-ce7f50d9d88af720",
+      "source": "MarketScreener España",
+      "source_score": 40,
+      "published_at": "2026-08-03T11:46:19+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧洲股市在半日内上涨，受原油价格下跌和中东前景的影响。",
+        "原油价格下跌对欧洲股市产生了积极影响。",
+        "中东前景的改善也推动了欧洲股市的上涨。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "MarketScreener España"
+      ],
+      "all_titles": {
+        "es": "La caída del crudo y las perspectivas en Oriente Medio impulsan a las bolsas europeas a media sesión"
+      }
+    },
+    {
+      "title_original": "Ukraine strikes Russia’s biggest retailer again",
+      "title_zh": "乌克兰再次袭击俄罗斯最大的零售商",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-ukraine-strikes-wildberies-russia",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-03T11:19:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰对俄罗斯最大的零售商Wildberries进行了长距离无人机袭击。",
+        "乌克兰声称该公司存储了俄罗斯军队使用的无人机零件。",
+        "这次袭击是乌克兰对俄罗斯零售商的又一次打击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Ukraine strikes Russia’s biggest retailer again"
+      }
+    },
+    {
+      "title_original": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+      "title_zh": "托德·布兰奇正式撤回特朗普的“反武器化”基金计划",
+      "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T11:07:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国代理司法部长托德·布兰奇正式撤回了特朗普的“反武器化”基金计划。",
+        "该计划旨在为被起诉的人提供补偿，包括特朗普支持者在2021年美国国会大厦骚乱中被起诉的人。",
+        "布兰奇的决定消除了他被确认为司法部长的障碍。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan"
+      }
+    },
+    {
+      "title_original": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "title_zh": "阿里亚娜·格兰德将因“无休止的”审查而暂时退出公众生活",
+      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T10:59:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "阿里亚娜·格兰德将在结束巡演后暂时退出公众生活。",
+        "她表示，自己因不断受到审查和关注而感到疲惫。",
+        "格兰德将不再参与即将上演的音乐剧《星期日在公园里》。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ariana Grande to take a break from public life amid 'endless' scrutiny"
+      }
+    },
+    {
+      "title_original": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "title_zh": "昂山素季在2.5年来的首次确认外界接触中显得健康",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T10:58:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "缅甸领导人昂山素季在2.5年来的首次确认外界接触中显得健康。",
+        "她与国际红十字委员会的代表会面，讨论了她的情况。",
+        "昂山素季被军政府拘留，目前正在接受软禁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years"
+      }
+    },
+    {
+      "title_original": "Sudan army drone strike on court session kills 35, rights group says",
+      "title_zh": "苏丹军队无人机袭击法庭会议，人权组织称35人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T10:29:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "苏丹军队对达尔富尔北部的一个传统法庭会议发动无人机袭击，造成35人死亡，数十人受伤。",
+        "袭击发生在由快速支持部队（RSF）控制的Ghara al-Zawiya村庄，军方尚未发表评论。",
+        "人权组织呼吁调查此次袭击，并谴责针对平民和民用基础设施的袭击，称其为严重违反国际人道主义法"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Sudan army drone strike on court session kills 35, rights group says"
+      }
+    },
+    {
+      "title_original": "Greenland row lays bare NATO’s dangerous blind spot",
+      "title_zh": "格陵兰岛争议暴露北约的危险盲点",
+      "url": "https://en.highnorthnews.com/opinions/greenland-exposed-natos-blind-spot-coercion-from-within/1115196",
+      "source": "en.highnorthnews.com",
+      "source_score": 55,
+      "published_at": "2026-08-03T09:46:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "北约峰会上，特朗普再次声称美国应该控制格陵兰岛，而不是丹麦。",
+        "北约秘书长鲁特对此事避而不谈，转而讨论俄罗斯、中国和北极地区的合作问题。",
+        "作者认为，北约需要一个新的协议来应对胁迫和混合威胁，保护成员国的主权和安全"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "en.highnorthnews.com"
+      ],
+      "all_titles": {
+        "en": "Greenland row lays bare NATO’s dangerous blind spot"
+      }
+    },
+    {
+      "title_original": "Nauru officially changes its name to Naoero",
+      "title_zh": "瑙鲁正式将国名改为瑙埃罗",
+      "url": "https://www.theguardian.com/world/2026/aug/03/nauru-officially-changes-its-name-to-naoero",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-03T09:45:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "太平洋岛国瑙鲁正式将国名改为瑙埃罗，使用国家语言的拼写和发音。",
+        "国名变更后，国际代码将从NRU改为NRO，国民名称将从Nauruan改为dei-Naoero。",
+        "新国名的发音为Now-ero，取代了之前的Now-roo"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Nauru officially changes its name to Naoero"
+      }
+    },
+    {
+      "title_original": "We’re about to find out how powerful progressives really are",
+      "title_zh": "我们即将发现进步派的真正实力",
+      "url": "https://www.politico.com/news/2026/08/03/progressives-michigan-senate-house-test-01021095",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-03T04:45:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国进步派即将面临一场关键的考验，未来几天的选举结果将决定他们的实力和影响力。",
+        "进步派的表现将决定他们在政治中的地位和影响力，特别是在密歇根州的参议院和众议院选举中。",
+        "选举结果将对美国政治产生重要影响，特别是在2026年的总统大选中"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "We’re about to find out how powerful progressives really are"
+      }
+    },
+    {
+      "title_original": "Republicans want to talk about James Talarico’s manhood. Talarico says let them.",
+      "title_zh": "共和党人想讨论詹姆斯·塔拉里科的男子气概，塔拉里科说让他们去讨论吧",
+      "url": "https://www.politico.com/news/2026/08/03/republicans-want-to-talk-about-james-talaricos-manhood-talarico-says-let-them-01021694",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-03T03:45:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国共和党人试图攻击民主党候选人詹姆斯·塔拉里科的男子气概，塔拉里科对此表示无所谓。",
+        "塔拉里科认为，共和党人的攻击是为了转移人们对真正问题的注意力，例如经济和医疗保健等问题。",
+        "塔拉里科的策略是直接面对共和党人的攻击，赢回男性选民的支持"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Republicans want to talk about James Talarico’s manhood. Talarico says let them."
+      }
+    },
+    {
+      "title_original": "Michigan’s GOP governor primary is getting weird",
+      "title_zh": "密歇根州共和党州长初选变得奇怪",
+      "url": "https://www.politico.com/news/2026/08/03/michigans-gop-governor-primary-john-james-01020176",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-03T03:45:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "密歇根州共和党州长初选出现了意外情况。",
+        "约翰·詹姆斯获得了唐纳德·特朗普的支持，并在民意调查中领先。",
+        "约翰·詹姆斯面临来自草根选民的最后一刻反弹。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Michigan’s GOP governor primary is getting weird"
+      }
+    },
+    {
+      "title_original": "三菱自、4─6月期の純利益は91％増 中東情勢の影響は想定内",
+      "title_zh": "三菱自、4─6月期的纯利润增加91% 中东局势的影响在预期之内",
+      "url": "https://jp.reuters.com/economy/55SP3DPVRFIYDL4ERVPKP2IDIQ-2026-08-03/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-03T08:35:06+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "三菱汽车公司4-6月期的纯利润增加了91%。",
+        "中东局势的影响在公司的预期之内。",
+        "公司的财务状况受到了多种因素的影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "三菱自、4─6月期の純利益は91％増 中東情勢の影響は想定内"
+      }
+    },
+    {
+      "title_original": "ロシア通販大手の倉庫でまた火災、ウクライナがドローン攻撃",
+      "title_zh": "俄罗斯电商大佬的仓库再次发生火灾，乌克兰使用无人机攻击",
+      "url": "https://jp.reuters.com/world/ukraine/CARDQSC6CZO33PFKQO6IA3ZOVU-2026-08-03/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-03T07:49:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯一家电商公司的仓库发生了火灾。",
+        "乌克兰使用无人机对俄罗斯目标进行了攻击。",
+        "冲突继续升级。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア通販大手の倉庫でまた火災、ウクライナがドローン攻撃"
+      }
+    },
+    {
+      "title_original": "US and Japan take action to prop up yen in rare joint move",
+      "title_zh": "美国和日本采取行动支持日元，罕见的联合行动",
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T07:30:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "美国和日本采取联合行动支持日元。",
+        "这是两国自2011年以来首次联合干预外汇市场。",
+        "此举旨在防止日元进一步贬值。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US and Japan take action to prop up yen in rare joint move"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Tote und Verletzte bei russischem Angriff auf Saporischschja",
+      "title_zh": "乌克兰战争最新消息：俄罗斯袭击扎波罗热，造成人员伤亡",
+      "url": "https://www.fr.de/politik/auf-kiew-ukraine-krieg-aktuell-russland-startet-raketenangriff-zr-94424572.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-03T07:18:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰扎波罗热市发动了袭击。",
+        "袭击造成了人员伤亡，包括至少两人死亡。",
+        "冲突继续升级，双方都在进行军事行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Tote und Verletzte bei russischem Angriff auf Saporischschja"
+      }
+    },
+    {
+      "title_original": "Arctic tensions rise as NATO powers step up in the north",
+      "title_zh": "北约北极紧张局势加剧",
+      "url": "https://en.highnorthnews.com/politics/arctic-security-activity-accelerates-as-norway-us-and-nato-deepen-high-north-cooperation/1115132",
+      "source": "en.highnorthnews.com",
+      "source_score": 55,
+      "published_at": "2026-08-03T06:57:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "北约和美国在北极地区加强军事存在和合作，引发了该地区的紧张局势。",
+        "挪威和美国进行了联合海岸警卫队演习，旨在加强北极地区的安全合作。",
+        "北约在北极地区的军事活动增加，包括无人机测试和海岸警卫队演习，引发了对该地区安全的担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "en.highnorthnews.com"
+      ],
+      "all_titles": {
+        "en": "Arctic tensions rise as NATO powers step up in the north"
+      }
+    },
+    {
+      "title_original": "La OTAN despliega su guerra electrónica en la frontera con Bielorrusia",
+      "title_zh": "北约在白俄罗斯边境部署电子战",
+      "url": "https://es.euronews.com/my-europe/2026/08/03/el-ejercito-aleman-ensaya-la-guerra-electronica-entre-lituania-y-bielorrusia",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-03T06:38:39+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约在白俄罗斯边境部署电子战单位，用于监测和干扰敌方通信和雷达系统。",
+        "德国军队在立陶宛部署电子战单位，用于支持北约在东欧的军事行动。",
+        "北约的电子战能力旨在对抗敌方的电子战能力，保护北约的通信和雷达系统。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "La OTAN despliega su guerra electrónica en la frontera con Bielorrusia"
+      }
+    },
+    {
+      "title_original": "イランの代理勢力、中東各地で勢力を盛り返す 拡大する戦争で価値を発揮",
+      "title_zh": "伊朗代理势力在中东各地势力增强",
+      "url": "https://www.cnn.co.jp/world/35251222.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-03T06:06:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗的代理势力在中东各地势力增强，包括黎巴嫩、伊拉克、叙利亚等国家。",
+        "这些代理势力在中东的冲突中发挥了重要作用，包括反对以色列和美国的行动。",
+        "伊朗的代理势力增强了伊朗在中东的影响力，引发了地区国家和美国的担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "イランの代理勢力、中東各地で勢力を盛り返す 拡大する戦争で価値を発揮"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Kyiv’s forces hit Wildberries again amid deadly trade of strikes with Russia",
+      "title_zh": "乌克兰战争简报：基辅军队再次袭击Wildberries",
+      "url": "https://www.theguardian.com/world/2026/aug/03/ukraine-war-briefing-kyiv-hit-wildberries-again",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-03T06:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队再次袭击俄罗斯在线零售商Wildberries，导致人员伤亡和财产损失。",
+        "俄罗斯军队对乌克兰发动反击，导致乌克兰人员伤亡和财产损失。",
+        "乌克兰和俄罗斯之间的冲突持续升级，导致双方人员伤亡和财产损失。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Kyiv’s forces hit Wildberries again amid deadly trade of strikes with Russia"
+      }
+    },
+    {
+      "title_original": "The geopolitics of Greenland’s independence",
+      "title_zh": "格陵兰独立的 геополитика",
+      "url": "https://www.gisreportsonline.com/r/geopolitics-greenland/",
+      "source": "gisreportsonline.com",
+      "source_score": 55,
+      "published_at": "2026-08-03T06:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "格陵兰岛的战略位置对美国在北极地区的军事行动和安全规划具有重要意义。",
+        "美国计划在格陵兰岛部署军事设施和雷达系统，以加强对北极地区的监视和防御。",
+        "格陵兰岛的独立问题引发了美国和其他国家对该地区安全和稳定的担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "gisreportsonline.com"
+      ],
+      "all_titles": {
+        "en": "The geopolitics of Greenland’s independence"
+      }
+    },
+    {
+      "title_original": "تراجع أسعار النفط مع آمال تهدئة في الشرق الأوسط ورفع \"أوبك بلس\" للإنتاج",
+      "title_zh": "油价下跌因中东局势缓和及OPEC+增产",
+      "url": "https://arabic.euronews.com/business/2026/08/03/oil-prices-fall-on-hopes-for-the-middle-east-and-as-opec-increases-production",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-03T05:52:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "油价下跌是由于中东局势缓和和OPEC+增产的预期。",
+        "OPEC+决定从九月份开始每天增加18.8万桶的产量。",
+        "美国总统唐纳德·特朗普宣布将与伊朗进行新的谈判，缓解了市场的担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "تراجع أسعار النفط مع آمال تهدئة في الشرق الأوسط ورفع \"أوبك بلس\" للإنتاج"
+      }
+    },
+    {
+      "title_original": "ワイルドベリーズ倉庫で火災発生 ウクライナ無人機攻撃で5人死亡（AP通信）",
+      "title_zh": "乌克兰无人机袭击俄罗斯，Wildberries仓库发生火灾，5人死亡",
+      "url": "https://news.yahoo.co.jp/articles/eac46b657ed1c25f0d372185db7983e41378d82a",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-03T04:58:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰无人机袭击俄罗斯，导致Wildberries仓库发生火灾，5人死亡。",
+        "这次袭击是乌克兰针对俄罗斯的空中轰炸行动的一部分，旨在削弱俄罗斯的战意和经济。",
+        "俄罗斯国防部称，已经击落了635架乌克兰无人机。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ワイルドベリーズ倉庫で火災発生 ウクライナ無人機攻撃で5人死亡（AP通信）"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient: Donald Trump annonce le début de \"négociations cet après-midi\" avec l'Iran",
+      "title_zh": "特朗普宣布与伊朗下午开始谈判",
+      "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-guerre-au-moyen-orient-donald-trump-annonce-le-debut-de-negociations-cet-apres-midi-avec-l-iran_VN-202608030051.html",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-08-03T04:26:21+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国总统唐纳德·特朗普宣布将与伊朗下午开始谈判。",
+        "这次谈判的目的是为了缓解中东局势，结束冲突。",
+        "特朗普此前曾宣布取消对伊朗的空袭计划。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: Donald Trump annonce le début de \"négociations cet après-midi\" avec l'Iran"
+      }
+    },
+    {
+      "title_original": "〔インド株式〕堅調＝中東和平期待で原油安（3日午前）☆差替(時事通信)",
+      "title_zh": "印度股市走势坚挺，中东和平预期推动油价下跌",
+      "url": "https://finance.yahoo.co.jp/news/detail/d04b8aa5c47e4e5220545602090ead33f83dcf75",
+      "source": "Yahoo!ファイナンス",
+      "source_score": 40,
+      "published_at": "2026-08-03T04:13:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "印度股市走势坚挺，受中东和平预期和油价下跌的影响。",
+        "油价下跌是由于中东局势缓和和OPEC+增产的预期。",
+        "市场预期中东和平能够推动经济增长和股市上涨。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Yahoo!ファイナンス"
+      ],
+      "all_titles": {
+        "ja": "〔インド株式〕堅調＝中東和平期待で原油安（3日午前）☆差替(時事通信)"
+      }
+    },
+    {
+      "title_original": "« L’incertitude est presque pire que la guerre » : à Dubaï, le cœur financier du Moyen-Orient, la crainte d’un conflit qui s’enlise",
+      "title_zh": "不确定性几乎比战争更糟糕：迪拜，中东金融中心，担心冲突陷入僵局",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/03/l-incertitude-est-presque-pire-que-la-guerre-a-dubai-le-c-ur-financier-du-moyen-orient-la-crainte-d-un-conflit-qui-s-enlise_6737335_3234.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-08-03T04:00:14+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "迪拜作为中东金融中心，担心冲突陷入僵局，导致经济不确定性。",
+        "不确定性使得投资者和企业家难以做出决定，影响经济增长。",
+        "中东冲突的持续使得该地区的经济前景不明朗。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "« L’incertitude est presque pire que la guerre » : à Dubaï, le cœur financier du Moyen-Orient, la crainte d’un conflit qui s’enlise"
+      }
+    },
+    {
+      "title_original": "الذهب يرتفع مع تراجع الدولار وسط تفاؤل إزاء الشرق الأوسط",
+      "title_zh": "金价上涨因美元走弱，中东前景乐观",
+      "url": "https://www.reuters.com/ar/business/ZQQAZ4YTBJMPJONA566NR2TJZQ-2026-08-03/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-03T03:43:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "金价上涨因美元走弱，中东前景乐观。",
+        "美元走弱使得投资者对黄金的兴趣增加。",
+        "中东局势的变化也对金价产生了影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الذهب يرتفع مع تراجع الدولار وسط تفاؤل إزاء الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "title_zh": "‘我唯一的儿子站起来为正义而战’——巴基斯坦管辖的克什米尔城市被致命抗议活动困扰",
+      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T03:32:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "巴基斯坦管辖的克什米尔城市发生致命抗议活动，多人死亡或受伤。",
+        "抗议活动由Joint Awami Action Committee（JAAC）组织，要求改善生活条件和基本权利。",
+        "当地医院报告称，多名抗议者被枪击，包括一些年轻人。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Schüsse in Rekrutierungszentrum in Odessa",
+      "title_zh": "乌克兰战争：敖德萨招募中心发生枪击事件",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101361284/ukraine-krieg-schuesse-in-rekrutierungszentrum-in-odessa.html",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-08-03T02:57:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰敖德萨市一家招募中心发生枪击事件，情况不明。",
+        "乌克兰军队继续对俄罗斯目标进行攻击，包括对俄罗斯在线零售商Wildberries的物流中心。",
+        "俄罗斯也对乌克兰目标进行了攻击，包括对乌克兰港口和船只的袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Schüsse in Rekrutierungszentrum in Odessa"
+      }
+    },
+    {
+      "title_original": "„Es ist Putin, der diesen Krieg begonnen hat“: Republikaner Bacon stellt Trump wegen Ukraine-Rhetorik bloß",
+      "title_zh": "‘普京开始了这场战争’：共和党人贝肯因乌克兰言论而批评特朗普",
+      "url": "https://www.fr.de/politik/trumps-rhetorik-zu-selenskyj-ukraine-krieg-republikaner-bacon-kritisiert-zr-94423266.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-03T02:46:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国共和党人贝肯批评特朗普对乌克兰战争的言论，称普京开始了这场战争。",
+        "特朗普曾表示希望乌克兰总统泽伦斯基结束战争，但贝肯认为这表明特朗普对俄罗斯的责任不明确。",
+        "美国继续支持乌克兰，但特朗普的言论引发了对其对乌克兰政策的质疑。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "„Es ist Putin, der diesen Krieg begonnen hat“: Republikaner Bacon stellt Trump wegen Ukraine-Rhetorik bloß"
+      }
+    },
+    {
+      "title_original": "ウクライナ、ロシアの主要製油所と飛行場を攻撃　8人死亡とロシア",
+      "title_zh": "乌克兰袭击俄罗斯主要炼油厂和飞机场，俄方称8人死亡",
+      "url": "https://www.bbc.com/japanese/articles/c1d1qyz61pvo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-03T02:25:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队袭击了俄罗斯的主要炼油厂和飞机场，俄方报告称8人死亡。",
+        "乌克兰总统泽伦斯基表示，这次袭击是针对俄罗斯的战略设施，旨在削弱俄罗斯的战争能力。",
+        "俄罗斯也对乌克兰目标进行了反击，包括对乌克兰港口和船只的袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、ロシアの主要製油所と飛行場を攻撃　8人死亡とロシア"
+      }
+    },
+    {
+      "title_original": "ロシアとウクライナが攻撃の応酬、各地で計14人が死亡",
+      "title_zh": "俄罗斯和乌克兰互相攻击，各地共14人死亡",
+      "url": "https://www.afpbb.com/articles/-/3646778",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-03T01:51:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯和乌克兰双方进行了攻击，导致俄罗斯9人和乌克兰5人死亡。",
+        "这次大规模的攻击表明双方正在扩大攻击的规模和强度。",
+        "乌克兰和俄罗斯的当局都报告了各自领土内的伤亡情况。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ロシアとウクライナが攻撃の応酬、各地で計14人が死亡"
+      }
+    },
+    {
+      "title_original": "Malaysian boy on trial for allegedly murdering girl in school",
+      "title_zh": "马来西亚男孩因涉嫌在学校谋杀女孩而受审",
+      "url": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T01:43:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "一名马来西亚男孩因涉嫌在学校谋杀一名16岁女孩而受审。",
+        "男孩当时14岁，已对谋杀指控表示不认罪。",
+        "如果被判有罪，男孩可能面临30至40年的监禁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Malaysian boy on trial for allegedly murdering girl in school"
+      }
+    },
+    {
+      "title_original": "Massive Attack respond after Singapore ban over Palestine display",
+      "title_zh": "Massive Attack乐队因巴勒斯坦展示而被新加坡禁止演出",
+      "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T01:31:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "英国乐队Massive Attack因在新加坡演唱会上展示巴勒斯坦旗帜而被新加坡政府禁止未来演出。",
+        "乐队成员在演唱会上高举巴勒斯坦旗帜并喊出“Free Palestine”的口号。",
+        "新加坡政府以违反公共演出法规为由禁止乐队成员再次进入新加坡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Massive Attack respond after Singapore ban over Palestine display"
+      }
+    },
+    {
+      "title_original": "ウクライナ首都で数千人がデモ、フェドロフ前国防相の復帰要求",
+      "title_zh": "乌克兰首都数千人示威，要求前国防部长费多罗夫回归",
+      "url": "https://jp.reuters.com/world/ukraine/M7NECNAL6NPVTLHC3QDCTBWBW4-2026-08-03/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-03T01:12:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰首都基辅爆发数千人示威，要求前国防部长费多罗夫回归职位。",
+        "示威者要求乌克兰政府让费多罗夫重新担任国防部长。",
+        "此次示威活动是乌克兰国内政治局势动荡的体现。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ首都で数千人がデモ、フェドロフ前国防相の復帰要求"
+      }
+    },
+    {
+      "title_original": "备份也是王牌！服役近30年默默无闻 台海演习老兵大显身手",
+      "title_zh": "备份也是王牌！服役近30年默默无闻 台海演习老兵大显身手",
+      "url": "https://www.chinanews.com.cn/mil/shipin/2026/08-03/news1064128.shtml",
+      "source": "chinanews.com.cn",
+      "source_score": 40,
+      "published_at": "2026-08-03T00:36:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "一批服役近30年的老兵在台海演习中大显身手。",
+        "这些老兵原本默默无闻，但在演习中发挥了重要作用。",
+        "台海演习是中国军队展示实力的重要机会。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "chinanews.com.cn"
+      ],
+      "all_titles": {
+        "zh": "备份也是王牌！服役近30年默默无闻 台海演习老兵大显身手"
+      }
+    }
+  ]
+}
