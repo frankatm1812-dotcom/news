@@ -1,0 +1,882 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-03T17:31:17.403117+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+      "title_zh": "托德·布兰奇正式撤回特朗普的'反武器化'基金计划",
+      "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T17:18:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "托德·布兰奇正式撤回了特朗普的'反武器化'基金计划，该计划可能被用来为特朗普支持者在2021年美国国会大厦骚乱中被起诉的人提供补偿。",
+        "两位共和党参议员Thom Tillis和John Cornyn曾威胁要阻止布兰奇的确认，但在他撤回该计划后，他们表示愿意支持他。",
+        "该计划的撤回为布兰奇的确认铺平了道路，他可能会在近期被确认为美国司法部长。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan"
+      }
+    },
+    {
+      "title_original": "Fußball im Ukraine-Krieg: Vereine schildern gefährlichen Alltag von Luftalarm und Angriffen",
+      "title_zh": "乌克兰战争中的足球：俱乐部描述了空袭和攻击的危险日常生活",
+      "url": "https://www.fr.de/politik/klubs-fussball-trotz-ukraine-krieg-luftalarm-und-zerstoerte-stadien-der-neue-alltag-fuer-die-zr-94426882.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-03T17:00:39+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰足球联赛在战争中继续进行，许多俱乐部面临空袭和攻击的威胁。",
+        "一些俱乐部已经解散，而其他俱乐部则继续比赛，尽管存在安全风险。",
+        "足球被视为乌克兰人民在战争中的希望和安慰，许多球迷和球员希望比赛能够继续。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Fußball im Ukraine-Krieg: Vereine schildern gefährlichen Alltag von Luftalarm und Angriffen"
+      }
+    },
+    {
+      "title_original": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "title_zh": "莱茵河水位创历史新低，干旱加剧欧洲河流紧张",
+      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T16:27:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "莱茵河水位已降至历史新低，德国和荷兰的水位测量站记录了创纪录的低水位。",
+        "其他欧洲主要河流，如多瑙河和波河，也出现了历史新低的水位，导致航运和农业受到影响。",
+        "干旱和高温天气预计将继续，可能会加剧欧洲河流的紧张局势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Rhine falls to record low levels as drought strains Europe's rivers"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（8月3日の動き）",
+      "title_zh": "俄罗斯对乌克兰的军事入侵（8月3日最新动态）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192421000",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-03T15:38:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰的军事入侵仍在继续，最新动态显示冲突仍在升级。",
+        "乌克兰军队和平民面临着严重的安全威胁，许多人已被迫逃离家园。",
+        "国际社会对冲突表示关切，呼吁双方尽快达成和平解决。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（8月3日の動き）"
+      }
+    },
+    {
+      "title_original": "ウクライナ、国防相人事めぐる抗議デモ長期化 ゼレンスキー氏窮地に",
+      "title_zh": "乌克兰国防部人事问题引发抗议示威，泽连斯基陷入困境",
+      "url": "https://www.nikkei.com/article/DGXZQOGR039890T00C26A8000000/",
+      "source": "nikkei.com",
+      "source_score": 95,
+      "published_at": "2026-08-03T15:38:33+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰国防部人事问题引发抗议示威，许多民众要求撤回相关人事决定。",
+        "泽连斯基总统面临着严峻的政治挑战，需要平衡不同派系的利益和要求。",
+        "抗议示威可能会继续，乌克兰政治局势仍然不稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "nikkei.com"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、国防相人事めぐる抗議デモ長期化 ゼレンスキー氏窮地に"
+      }
+    },
+    {
+      "title_original": "ウクライナ情報機関トップにウメロフ氏、和平交渉責任者は続投",
+      "title_zh": "乌克兰情报机构首脑为乌梅洛夫氏，和平谈判负责人继续任职",
+      "url": "https://jp.reuters.com/world/ukraine/FWRYID2FRRLRPKMURMNEZLMBEE-2026-08-03/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-03T15:14:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰情报机构新任首脑为乌梅洛夫氏。",
+        "和平谈判负责人继续任职。",
+        "乌梅洛夫氏的任命可能对乌克兰的和平谈判产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ情報機関トップにウメロフ氏、和平交渉責任者は続投"
+      }
+    },
+    {
+      "title_original": "円が156円台半ば、米国株は続伸－中東情勢の緊張緩和で原油急落",
+      "title_zh": "日元汇率在156元左右，美国股市持续上涨——中东局势缓和导致原油价格急剧下跌",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-08-03/TJ71I2KJH6V400?srnd=jp-homepage",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-08-03T15:08:13+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "日元汇率在156元左右。",
+        "美国股市持续上涨。",
+        "中东局势缓和导致原油价格急剧下跌。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "ja": "円が156円台半ば、米国株は続伸－中東情勢の緊張緩和で原油急落"
+      }
+    },
+    {
+      "title_original": "Beiersdorf says Middle East conflict disrupts Gulf sales, deliveries",
+      "title_zh": "拜尔斯道夫表示，中东冲突扰乱了海湾地区的销售和交货",
+      "url": "https://www.reuters.com/business/retail-consumer/beiersdorf-says-middle-east-conflict-disrupts-gulf-sales-deliveries-2026-08-03/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-03T15:06:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "拜尔斯道夫公司表示，中东冲突影响了海湾地区的销售和交货。",
+        "中东冲突导致公司的销售和交货受到影响。",
+        "公司可能需要采取措施应对中东冲突带来的挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Beiersdorf says Middle East conflict disrupts Gulf sales, deliveries"
+      }
+    },
+    {
+      "title_original": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "title_zh": "昂山素季在2.5年来的首次确认外界接触中显得健康",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T14:20:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "昂山素季在2.5年来的首次确认外界接触中显得健康。",
+        "她与国际红十字委员会代表会面。",
+        "昂山素季的健康状况和当前情况受到国际关注。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years"
+      }
+    },
+    {
+      "title_original": "ロシア南部の黒海保養地で6人死亡、ロシアはウクライナのドローン攻撃と非難",
+      "title_zh": "俄罗斯南部黑海度假胜地发生6人死亡事件，俄罗斯指责乌克兰的无人机袭击",
+      "url": "https://jp.reuters.com/world/ukraine/QANRA6A6DFI27GD62XGBY7ATYU-2026-08-03/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-03T14:07:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯南部黑海度假胜地发生6人死亡事件。",
+        "俄罗斯指责乌克兰的无人机袭击导致了这一事件。",
+        "这一事件可能会导致俄乌关系进一步紧张。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア南部の黒海保養地で6人死亡、ロシアはウクライナのドローン攻撃と非難"
+      }
+    },
+    {
+      "title_original": "米国株式市場・序盤＝ダウ一時660ドル高、中東緊張緩和が追い風 ナスダックも急伸",
+      "title_zh": "美国股市开盘：道琼斯指数一度上涨660美元，中东紧张局势缓解带来利好，纳斯达克也大幅上涨",
+      "url": "https://jp.reuters.com/markets/japan/C2P23WMYCZLFPMJ5265IUB3H4U-2026-08-03/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-03T14:04:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国股市开盘时，道琼斯指数一度上涨660美元。",
+        "中东紧张局势的缓解对股市产生了积极影响。",
+        "纳斯达克指数也随之大幅上涨。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米国株式市場・序盤＝ダウ一時660ドル高、中東緊張緩和が追い風 ナスダックも急伸"
+      }
+    },
+    {
+      "title_original": "El optimismo diplomático en Oriente Medio y la caída del crudo impulsan los futuros de Wall Street antes de la apertura",
+      "title_zh": "中东外交乐观情绪和原油价格下跌推动华尔街开市前期货走高",
+      "url": "https://es.marketscreener.com/noticias/el-optimismo-diplom-tico-en-oriente-medio-y-la-ca-da-del-crudo-impulsan-los-futuros-de-wall-street-a-ce7f50d9db8af625",
+      "source": "MarketScreener España",
+      "source_score": 40,
+      "published_at": "2026-08-03T13:10:35+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东外交局势的乐观情绪对华尔街产生了积极影响。",
+        "原油价格下跌也是推动期货走高的一个因素。",
+        "这些因素综合作用于华尔街开市前的期货市场。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "MarketScreener España"
+      ],
+      "all_titles": {
+        "es": "El optimismo diplomático en Oriente Medio y la caída del crudo impulsan los futuros de Wall Street antes de la apertura"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg – Angriffe auf Wildberries in Russland: Drohnen gegen Dildos",
+      "title_zh": "乌克兰战争：俄罗斯对Wildberries的攻击——无人机对阵充气娃娃",
+      "url": "https://www.nd-aktuell.de/artikel/1201532.ukraine-krieg-angriffe-auf-wildberries-in-russland-drohnen-gegen-dildos.html",
+      "source": "nd-aktuell.de",
+      "source_score": 40,
+      "published_at": "2026-08-03T13:06:29+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰对俄罗斯Wildberries公司的仓库进行了无人机攻击。",
+        "这些攻击导致了多个仓库的损坏或毁坏。",
+        "俄罗斯民众对此的反应并不强烈，大多数人对此事持无所谓态度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "nd-aktuell.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg – Angriffe auf Wildberries in Russland: Drohnen gegen Dildos"
+      }
+    },
+    {
+      "title_original": "Actualización: El optimismo en torno a la diplomacia en Oriente Medio y la caída del precio del petróleo impulsan los futuros de las acciones estadounidenses antes de la apertura del mercado.",
+      "title_zh": "更新：中东外交的乐观情绪和油价下跌推动美国股票开市前期货走高",
+      "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-optimismo-torno-diplomacia-oriente-125549412.html",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-08-03T12:55:49+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东外交局势的乐观情绪对美国股票市场产生了积极影响。",
+        "油价下跌也是推动期货走高的一个重要因素。",
+        "这些因素综合作用于美国股票开市前的期货市场。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "es": "Actualización: El optimismo en torno a la diplomacia en Oriente Medio y la caída del precio del petróleo impulsan los futuros de las acciones estadounidenses antes de la apertura del mercado."
+      }
+    },
+    {
+      "title_original": "الفضة ترتفع بحوالي 2% بفضل الهدوء المؤقت فى الشرق الأوسط",
+      "title_zh": "白银价格因中东暂时缓和而上涨约2%",
+      "url": "https://www.fxnewstoday.ae/commodities/silver-news/%D8%A7%D9%84%D9%81%D8%B6%D8%A9-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-%D8%A8%D8%AD%D9%88%D8%A7%D9%84%D9%8A-2-%D8%A8%D9%81%D8%B6%D9%84-%D8%A7%D9%84%D9%87%D8%AF%D9%88%D8%A1-%D8%A7%D9%84%D9%85%D8%A4%D9%82%D8%AA-%D9%81%D9%89-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-280228",
+      "source": "FxNewsToday.ae",
+      "source_score": 40,
+      "published_at": "2026-08-03T12:28:23+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势的暂时缓和对白银价格产生了积极影响。",
+        "白银价格因此上涨了约2%。",
+        "这种价格波动与中东外交局势的变化有关。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "FxNewsToday.ae"
+      ],
+      "all_titles": {
+        "ar": "الفضة ترتفع بحوالي 2% بفضل الهدوء المؤقت فى الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "title_zh": "摩洛哥国王的信确认以特朗普命名一条主要高速公路",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T12:20:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "摩洛哥国王穆罕默德六世的信确认该国已以美国总统唐纳德·特朗普命名一条主要高速公路。",
+        "摩洛哥的国家新闻机构已发布了国王写给总统的信，信中称高速公路的更名是“对我对你的高度尊重的个人表达”。",
+        "这条高速公路曾经被称为提兹尼特-达赫拉高速公路，穿过西撒哈拉，摩洛哥占领并声称对其拥有主权的大部分地区。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Moroccan king's letter confirms naming of major highway in honour of Trump"
+      }
+    },
+    {
+      "title_original": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+      "title_zh": "数百人逃离埃塞俄比亚北部的战斗，人们担心内战的回归",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T11:49:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "数百名埃塞俄比亚人从提格雷地区逃往邻国苏丹，原因是周末提格雷人民解放阵线和埃塞俄比亚军队之间的战斗。",
+        "提格雷人民解放阵线表示，周六早晨在靠近苏丹边境的舍雷里纳发生的暴力事件涉及重型炮兵和无人机。",
+        "2018年至2022年间，提格雷人民解放阵线和联邦政府之间的两年内战导致数十万人死亡，目前人们担心内战可能会重新爆发。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war"
+      }
+    },
+    {
+      "title_original": "ロシア軍がウクライナ南部ドニプロペトロウシク州のガソリンスタンドを攻撃 死者３名",
+      "title_zh": "俄罗斯军队袭击乌克兰南部的加油站，造成3人死亡",
+      "url": "https://www.ukrinform.jp/rubric-ato/4150606-roshia-jungaukuraina-nan-budonipuropetoroushiku-zhounogasorinsutandowo-gong-jisi-zheming.html",
+      "source": "ウクルインフォルム通信",
+      "source_score": 40,
+      "published_at": "2026-08-03T11:29:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯军队袭击了乌克兰南部的加油站，造成3人死亡，多人受伤。",
+        "据乌克兰官员称，袭击发生在乌克兰南部的顿涅茨克州，俄罗斯军队使用了炮兵和无人机进行攻击。",
+        "这次袭击是俄罗斯军队在乌克兰持续进行的军事行动的一部分，冲突已经持续了数年。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "ウクルインフォルム通信"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍がウクライナ南部ドニプロペトロウシク州のガソリンスタンドを攻撃 死者３名"
+      }
+    },
+    {
+      "title_original": "NATO’s Logic, AI’s Logic: Two Sorcerer’s Apprentices — Part 1",
+      "title_zh": "北约的逻辑，人工智能的逻辑：两个学徒——第一部分",
+      "url": "https://www.fairobserver.com/more/science/natos-logic-ais-logic-two-sorcerers-apprentices-part-1/",
+      "source": "Fair Observer",
+      "source_score": 40,
+      "published_at": "2026-08-03T11:25:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "本文讨论了北约和人工智能的逻辑，作者认为两者都有其自身的逻辑和局限性。",
+        "作者指出，人工智能的逻辑是基于统计处理和模式识别，而北约的逻辑则基于政治和军事战略。",
+        "作者认为，两者之间的对比可以帮助我们更好地理解人工智能和北约在国际关系中的作用。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Fair Observer"
+      ],
+      "all_titles": {
+        "en": "NATO’s Logic, AI’s Logic: Two Sorcerer’s Apprentices — Part 1"
+      }
+    },
+    {
+      "title_original": "综合股价指数收低 中东局势拖累亚股",
+      "title_zh": "综合股价指数收低 中东局势拖累亚股",
+      "url": "http://www.shangbaoindonesia.com/read/2026/08/03/financial-1785758562",
+      "source": "Shangbao Indonesia",
+      "source_score": 40,
+      "published_at": "2026-08-03T11:02:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "综合股价指数收低，主要受到中东地区地缘政治紧张局势的影响。",
+        "印尼证券交易所的综合股价指数微跌，亚洲股市整体走弱，主要受到中东地缘政治局势的影响。",
+        "市场分析师认为，尽管美国总统特朗普已经取消了对伊朗的军事打击计划，但市场情绪仍然偏向谨慎。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Shangbao Indonesia"
+      ],
+      "all_titles": {
+        "zh": "综合股价指数收低 中东局势拖累亚股"
+      }
+    },
+    {
+      "title_original": "Sudan army drone strike on court session kills 35, rights group says",
+      "title_zh": "苏丹军队无人机袭击法庭会议，人权组织称35人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T10:29:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "苏丹军队对达尔富尔北部的一个传统法庭会议发动无人机袭击，造成35人死亡，数十人受伤。",
+        "袭击发生在被快速支援部队（RSF）控制的加拉阿尔扎维亚村，四名部落领袖和两名RSF指挥官在袭击中丧生。",
+        "人权组织呼吁调查此次无人机袭击，并谴责袭击法庭，称袭击平民和民用基础设施违反国际人道主义法。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Sudan army drone strike on court session kills 35, rights group says"
+      }
+    },
+    {
+      "title_original": "Nauru officially changes its name to Naoero",
+      "title_zh": "瑙鲁正式将其名称更改为瑙埃罗",
+      "url": "https://www.theguardian.com/world/2026/aug/03/nauru-officially-changes-its-name-to-naoero",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-03T09:45:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "太平洋岛国瑙鲁已将其名称更改为瑙埃罗共和国，总统宣布，这与国家语言中的拼写和发音相符。",
+        "该国的国际代码将从NRU更改为NRO，其人民将被称为Naoero人，而不是瑙鲁人。",
+        "该名称更改是该国摆脱殖民过去、回归传统名称的象征。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Nauru officially changes its name to Naoero"
+      }
+    },
+    {
+      "title_original": "We’re about to find out how powerful progressives really are",
+      "title_zh": "我们即将发现进步派的真正实力",
+      "url": "https://www.politico.com/news/2026/08/03/progressives-michigan-senate-house-test-01021095",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-03T04:45:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "进步派在密歇根州参议院和众议院初选中的表现将决定他们的信息在关键战场中的影响力。",
+        "如果进步派在这些选举中表现良好，将有助于左翼的论点，即他们的信息具有强大的号召力。",
+        "密歇根州的选举结果将对未来政治格局产生重要影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "We’re about to find out how powerful progressives really are"
+      }
+    },
+    {
+      "title_original": "Republicans want to talk about James Talarico’s manhood. Talarico says let them.",
+      "title_zh": "共和党人想讨论詹姆斯·塔拉里科的男子气概，塔拉里科说让他们去谈吧",
+      "url": "https://www.politico.com/news/2026/08/03/republicans-want-to-talk-about-james-talaricos-manhood-talarico-says-let-them-01021694",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-03T03:45:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "民主党人希望在德克萨斯州的参议院选举中获胜，詹姆斯·塔拉里科的策略是赢回男性选民的支持。",
+        "塔拉里科面临来自共和党人的挑战，他们试图质疑他的男子气概和领导能力。",
+        "塔拉里科的回应是让他们去谈论这些问题，他将专注于自己的竞选纲领和政策。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Republicans want to talk about James Talarico’s manhood. Talarico says let them."
+      }
+    },
+    {
+      "title_original": "Michigan’s GOP governor primary is getting weird",
+      "title_zh": "密歇根州共和党州长初选变得奇怪",
+      "url": "https://www.politico.com/news/2026/08/03/michigans-gop-governor-primary-john-james-01020176",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-03T03:45:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "密歇根州共和党州长初选中，唐纳德·特朗普的支持者约翰·詹姆斯处于领先地位，但他面临来自草根选民的挑战。",
+        "约翰·詹姆斯在初选中领先，但他的对手试图通过各种手段超越他。",
+        "密歇根州的初选结果将对未来共和党的政治格局产生重要影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Michigan’s GOP governor primary is getting weird"
+      }
+    },
+    {
+      "title_original": "三菱自、4─6月期の純利益は91％増 中東情勢の影響は想定内",
+      "title_zh": "三菱自、4─6月期的纯利益增加91％，中东情势的影响在预期之内",
+      "url": "https://jp.reuters.com/economy/55SP3DPVRFIYDL4ERVPKP2IDIQ-2026-08-03/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-03T08:35:06+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "三菱自4─6月期的纯利益增加91％",
+        "中东情势的影响在预期之内",
+        "该公司的财务表现受到多种因素的影响"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "三菱自、4─6月期の純利益は91％増 中東情勢の影響は想定内"
+      }
+    },
+    {
+      "title_original": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
+      "title_zh": "天气追踪：奥地利打破热度记录，日本为台风海豚做准备",
+      "url": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-03T08:16:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "奥地利打破了热度记录，温度达到40.3℃",
+        "日本为台风海豚做准备，预计会有强风和暴雨",
+        "欧洲多个国家正在经历极端天气"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin"
+      }
+    },
+    {
+      "title_original": "ロシア通販大手の倉庫でまた火災、ウクライナがドローン攻撃",
+      "title_zh": "俄罗斯大型仓库再次发生火灾，乌克兰使用无人机攻击",
+      "url": "https://jp.reuters.com/world/ukraine/CARDQSC6CZO33PFKQO6IA3ZOVU-2026-08-03/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-03T07:49:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯一家大型仓库发生火灾，疑似乌克兰无人机攻击",
+        "乌克兰与俄罗斯之间的冲突持续升级",
+        "该事件可能会对地区局势产生影响"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア通販大手の倉庫でまた火災、ウクライナがドローン攻撃"
+      }
+    },
+    {
+      "title_original": "US and Japan take action to prop up yen in rare joint move",
+      "title_zh": "美国和日本采取行动支持日元，罕见的联合行动",
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T07:30:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "美国和日本采取联合行动支持日元",
+        "日元近期走势较弱，主要由于日本央行利率较低",
+        "两国的行动旨在稳定日元并防止其进一步贬值"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US and Japan take action to prop up yen in rare joint move"
+      }
+    },
+    {
+      "title_original": "Russia plans use Ukrainian drones to stage provoke NATO",
+      "title_zh": "俄罗斯计划使用乌克兰无人机挑衅北约",
+      "url": "https://tvpworld.com/94664804/a-high-ranking-ukrainian-official-posted-pictures-corroborating-the-theory",
+      "source": "TVP World",
+      "source_score": 40,
+      "published_at": "2026-08-03T07:20:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯计划使用乌克兰无人机挑衅北约",
+        "北约东翼国家面临着日益增加的空中事件威胁",
+        "该事件可能会导致地区局势进一步紧张"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "TVP World"
+      ],
+      "all_titles": {
+        "en": "Russia plans use Ukrainian drones to stage provoke NATO"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Tote und Verletzte bei russischem Angriff auf Saporischschja",
+      "title_zh": "乌克兰战争最新：俄罗斯袭击扎波罗热造成人员伤亡",
+      "url": "https://www.fr.de/politik/auf-kiew-ukraine-krieg-aktuell-russland-startet-raketenangriff-zr-94424572.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-03T07:18:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰扎波罗热市发动袭击，造成至少两人死亡，31人受伤。",
+        "乌克兰军方还对俄罗斯境内的目标发动了袭击，包括对俄罗斯在线零售巨头Wildberries的仓库进行了无人机袭击。",
+        "冲突双方都报告了人员伤亡和基础设施损坏，局势仍然紧张。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Tote und Verletzte bei russischem Angriff auf Saporischschja"
+      }
+    },
+    {
+      "title_original": "La OTAN despliega su guerra electrónica en la frontera con Bielorrusia",
+      "title_zh": "北约在白俄罗斯边境部署电子战",
+      "url": "https://es.euronews.com/my-europe/2026/08/03/el-ejercito-aleman-ensaya-la-guerra-electronica-entre-lituania-y-bielorrusia",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-03T06:38:39+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约在与白俄罗斯的边境地区部署了电子战单位，以监测和干扰敌方的电子信号。",
+        "德国军队的电子战部队正在执行监视任务，以检测和应对潜在的威胁。",
+        "北约的电子战能力是其军事战略的一个重要组成部分，旨在保持信息优势和保护自身的通信系统。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "La OTAN despliega su guerra electrónica en la frontera con Bielorrusia"
+      }
+    },
+    {
+      "title_original": "イランの代理勢力、中東各地で勢力を盛り返す 拡大する戦争で価値を発揮(1/2)",
+      "title_zh": "伊朗代理势力在中东各地重新崛起，扩大的战争中发挥作用",
+      "url": "https://www.cnn.co.jp/world/35251222.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-03T06:06:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗的代理势力在中东各地重新获得了实力，尤其是在扩大的战争中发挥了重要作用。",
+        "这些代理势力在数十年来一直是伊朗对抗其敌人的重要工具，但由于最近的冲突，他们的实力有所减弱。",
+        "然而，伊朗现在正在重新注入力量到这些代理势力中，使他们能够在新的战线上发挥作用，并给伊朗的敌人带来压力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "イランの代理勢力、中東各地で勢力を盛り返す 拡大する戦争で価値を発揮(1/2)"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Kyiv’s forces hit Wildberries again amid deadly trade of strikes with Russia",
+      "title_zh": "乌克兰战争简报：基辅军队再次袭击Wildberries，俄罗斯展开致命反击",
+      "url": "https://www.theguardian.com/world/2026/aug/03/ukraine-war-briefing-kyiv-hit-wildberries-again",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-03T06:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队对俄罗斯在线零售巨头Wildberries的仓库进行了无人机袭击，造成人员伤亡和基础设施损坏。",
+        "俄罗斯对乌克兰发动了反击，包括对乌克兰城市的袭击，造成人员伤亡和基础设施损坏。",
+        "冲突双方都报告了人员伤亡和基础设施损坏，局势仍然紧张。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Kyiv’s forces hit Wildberries again amid deadly trade of strikes with Russia"
+      }
+    },
+    {
+      "title_original": "تراجع أسعار النفط مع آمال تهدئة في الشرق الأوسط ورفع \"أوبك بلس\" للإنتاج",
+      "title_zh": "油价下跌，中东局势缓和，OPEC+增产",
+      "url": "https://arabic.euronews.com/business/2026/08/03/oil-prices-fall-on-hopes-for-the-middle-east-and-as-opec-increases-production",
+      "source": "arabic.euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-03T05:52:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于中东局势缓和和OPEC+增产，油价下跌，市场预期改善。",
+        "OPEC+决定从九月份开始增加原油产量，缓解了市场对供应紧张的担忧。",
+        "然而，专家警告说，油价的下跌可能是暂时的，中东局势仍然不稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "arabic.euronews.com"
+      ],
+      "all_titles": {
+        "ar": "تراجع أسعار النفط مع آمال تهدئة في الشرق الأوسط ورفع \"أوبك بلس\" للإنتاج"
+      }
+    }
+  ]
+}
