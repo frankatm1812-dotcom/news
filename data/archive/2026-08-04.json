@@ -1,8 +1,835 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-03T17:31:17.403117+00:00",
-  "count": 35,
+  "generated_at": "2026-08-04T08:12:19.419288+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title_original": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+      "title_zh": "乌克兰仓库罢工持续，莫斯科地区五人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-04T07:42:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰仓库罢工持续，莫斯科地区五人死亡\n- 已发表\n该地区州长表示，乌克兰无人机周二夜间袭击了莫斯科附近的一座仓库，造成至少 5 人死亡、10 人受伤。",
+        "该官员没有具体说明攻击目标，但乌克兰最近几周一直在对 Wildberry 运营的设施进行袭击，这些设施通常被称为“俄罗斯亚马逊”。",
+        "基辅称这些仓库是用来向俄罗斯军队供应物资的，但莫斯科否认了这一点。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Five dead in Moscow region as Ukraine continues warehouse strikes"
+      }
+    },
+    {
+      "title_original": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia",
+      "title_zh": "82 岁的慈善自行车手在骑行 3,300 英里穿越澳大利亚后一天去世",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpwj2je9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-04T07:13:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "82 岁的慈善自行车手在骑行 3,300 英里穿越澳大利亚后一天去世\n- 已发表\n一名 82 岁的自行车骑手骑车穿越澳大利亚 3,300 英里（5,300 公里）为慈善事业筹集资金，在完成挑战一天后去世。",
+        "鲍勃·蒙哥马利的家人在社交媒体上发表声明称，鲍勃·蒙哥马利的去世“出乎意料”，但却是“平静的”。就在一天前，他完成了从西澳大利亚布鲁姆到悉尼西南部鲍勒尔的“最后一次旅程”。",
+        "他和他 18 岁的孙子通过六周的骑行为运动神经元疾病 (MND) 慈善机构筹集了约 105,000 澳元（74,000 美元；55,000 英镑）。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Charity cyclist, 82, dies a day after 3,300 mile ride across Australia"
+      }
+    },
+    {
+      "title_original": "US states sue to block Trump tariffs impacting dozens of countries",
+      "title_zh": "美国各州提起诉讼，要求阻止特朗普对数十个国家征收关税",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-04T07:11:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国各州提起诉讼，要求阻止特朗普对数十个国家征收关税\n- 已发表\n周一，二十五个州起诉唐纳德·特朗普总统政府，指控其对数十个国家征收一波关税。",
+        "美国表示，征收 10% 至 12.5% 关税的原因是英国、中国和欧盟等贸易伙伴未能妥善解决强迫劳动问题。",
+        "在英国广播公司看到的一份法律文件中，民主党各州联盟表示，这一决定是“武断的、反复无常的、违反法律的”。\n对此，白宫发言人库什·德赛表示：“美国正在利用其合法权力”来解决给美国企业带来负担的做法。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US states sue to block Trump tariffs impacting dozens of countries"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Drohnenangriff auf Russland – Kiew trifft Ölraffinerie und Wildberries-Lager",
+      "title_zh": "当前的乌克兰战争：无人机袭击俄罗斯——基辅袭击炼油厂和 Wildberry 仓库",
+      "url": "https://www.fr.de/politik/putin-ukraine-krieg-aktuell-news-ticker-drohnen-wirtschaft-russland-verluste-selenskyj-zr-94426041.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-04T07:06:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "当前的乌克兰战争：无人机袭击俄罗斯——基辅袭击炼油厂和 Wildberry 仓库\n在谷歌上关注我们\n有关乌克兰战争局势的最新新闻：俄罗斯经济受到新的攻击。",
+        "短期内不可能与美国达成协议。",
+        "泽连斯基展望秋天。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Drohnenangriff auf Russland – Kiew trifft Ölraffinerie und Wildberries-Lager"
+      }
+    },
+    {
+      "title_original": "\"Ils se font trop d'argent\" : Donald Trump dénonce les super profits des compagnies pétrolières américaines avec la guerre au Moyen-Orient",
+      "title_zh": "“他们赚了太多钱”：唐纳德·特朗普谴责美国石油公司从中东战争中获得超额利润",
+      "url": "https://www.rtl.fr/actu/international/ils-se-font-trop-d-argent-donald-trump-denonce-les-super-profits-des-compagnies-petrolieres-americaines-avec-la-guerre-au-moyen-orient-7900659430",
+      "source": "RTL",
+      "source_score": 55,
+      "published_at": "2026-08-04T06:46:43+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "- 24分52秒\n2 分钟阅读\n我订阅“Info”时事通讯\n在 Google 上添加 RTL 书签\n然而，他是“自由企业的热心捍卫者”。",
+        "唐纳德·特朗普 (Donald Trump) 于 7 月 3 日星期一强烈攻击了最近公布积极财务业绩的石油公司，而石油价格因中东战争和霍尔木兹海峡关闭而上涨。",
+        "埃克森美孚和雪佛龙尤其成为美国总统言论的目标：这两家石油集团周五公布了第二季度业绩，埃克森美孚宣布期内净利润翻了一番，达到145亿美元，而其竞争对手雪佛龙的净利润为121亿美元，是去年同期的五倍。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "RTL"
+      ],
+      "all_titles": {
+        "fr": "\"Ils se font trop d'argent\" : Donald Trump dénonce les super profits des compagnies pétrolières américaines avec la guerre au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "ハウス食品Ｇ、通期営業益を下方修正 中東情勢受けた原材料高で",
+      "title_zh": "ハウス食品Ｇ、通期営業益を下方修正 中東情勢受けた原材料高で",
+      "url": "https://jp.reuters.com/markets/world-indices/7M4OXDQL4VKGJPN6GXGECFAXQA-2026-08-04/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-04T06:12:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "哈ウス食品Ｇ由于中东局势导致原材料价格上涨，下调了全年营业利润预测。",
+        "公司表示，原材料价格的上涨对其盈利产生了负面影响。",
+        "这次下调预测反映了公司对当前市场状况的担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ハウス食品Ｇ、通期営業益を下方修正 中東情勢受けた原材料高で"
+      }
+    },
+    {
+      "title_original": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
+      "title_zh": "东京动物园三只狮子疑似中暑死亡，日本酷热难耐",
+      "url": "https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-04T05:46:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "东京动物园三只狮子疑似中暑死亡，原因是日本当前的高温天气。",
+        "动物园的16只狮子中，大多数都难以适应当前的高湿度天气。",
+        "日本去年经历了有记录以来最热的夏天，部分地区最近的温度甚至达到40摄氏度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters"
+      }
+    },
+    {
+      "title_original": "Nine Lives, the feral cat that terrorised New Zealand’s rare ducks, is caught after three years",
+      "title_zh": "在新西兰恐吓稀有鸭子三年之久的野猫Nine Lives终于被捕",
+      "url": "https://www.theguardian.com/world/2026/aug/04/nine-lives-feral-cat-new-zealand-caught-trapped",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-04T05:45:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "一只名为Nine Lives的野猫在新西兰恐吓稀有鸭子三年后被捕。",
+        "这只野猫据估计已经杀死了几十只新西兰最稀有的鸭子，以及其他一些本土动物。",
+        "野猫的行为非常不可预测，难以被捕获。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Nine Lives, the feral cat that terrorised New Zealand’s rare ducks, is caught after three years"
+      }
+    },
+    {
+      "title_original": "What does Iran want?",
+      "title_zh": "伊朗想要什么？",
+      "url": "https://www.economist.com/insider/inside-geopolitics/what-does-iran-want",
+      "source": "The Economist",
+      "source_score": 75,
+      "published_at": "2026-08-04T05:45:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗的目标和意图是当前国际政治中的一个重要问题。",
+        "伊朗的行为和政策受到国际社会的密切关注。",
+        "了解伊朗的目标和意图对于分析当前的地缘政治局势至关重要。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Economist"
+      ],
+      "all_titles": {
+        "en": "What does Iran want?"
+      }
+    },
+    {
+      "title_original": "At least 27 killed as Russia and Ukraine trade heavy attacks",
+      "title_zh": "俄罗斯和乌克兰交换重型攻击，至少27人死亡",
+      "url": "https://www.aljazeera.com/news/2026/8/3/more-than-10-killed-as-russia-and-ukraine-trade-heavy-attacks",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-04T05:07:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯和乌克兰交换重型攻击，导致至少27人死亡。",
+        "冲突双方都报告了人员伤亡，俄罗斯方面有16人死亡，乌克兰方面有11人死亡。",
+        "这次交换攻击是俄罗斯和乌克兰冲突的最新升级，冲突已经持续了五年。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "At least 27 killed as Russia and Ukraine trade heavy attacks"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : les négociations en cours sont la «dernière chance» de l’Iran, déclare Donald Trump",
+      "title_zh": "中东战争：特朗普称当前谈判是伊朗的“最后机会”",
+      "url": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-les-negociations-en-cours-sont-la-derniere-chance-de-l-iran-declare-donald-trump-20260804",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-08-04T05:01:54+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国总统特朗普表示，当前与伊朗的谈判是伊朗的“最后机会”。",
+        "特朗普称，这些谈判是由伊朗提出，并得到了沙特阿拉伯、阿联酋和卡塔尔的支持。",
+        "伊朗方面否认正在与美国进行谈判，但表示正在与阿曼讨论如何确保霍尔木兹海峡的安全。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : les négociations en cours sont la «dernière chance» de l’Iran, déclare Donald Trump"
+      }
+    },
+    {
+      "title_original": "France wildfires reveal hundreds of WW2 shells in village",
+      "title_zh": "法国野火揭露村庄内的数百枚二战炮弹",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-04T04:22:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "法国南部野火暴露了村庄内的数百枚二战炮弹和弹药。",
+        "当地消防队长表示，火灾期间发生的爆炸可能是由二战爆炸物引起的。",
+        "村庄的部分地区仍然被封锁，超过180栋房屋被野火摧毁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "France wildfires reveal hundreds of WW2 shells in village"
+      }
+    },
+    {
+      "title_original": "外媒推演台海被封锁情景，杨永明：台湾能源储备仅可支撑11天",
+      "title_zh": "外媒推演台海被封锁情景，杨永明：台湾能源储备仅可支撑11天",
+      "url": "https://m.sohu.com/a/1058564262_120135071?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-04T04:06:59+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "外媒推演了台海被封锁的可能情景。",
+        "杨永明表示，台湾的能源储备仅足够维持11天。",
+        "台海局势的紧张可能会对地区稳定产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "外媒推演台海被封锁情景，杨永明：台湾能源储备仅可支撑11天"
+      }
+    },
+    {
+      "title_original": "Repensar el desarrollo en la nueva era de rivalidad geopolítica",
+      "title_zh": "在新的地缘政治竞争时代重新思考发展",
+      "url": "https://elpais.com/chile/2026-08-04/repensar-el-desarrollo-en-la-nueva-era-de-rivalidad-geopolitica.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-08-04T04:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "拉丁美洲和加勒比地区需要摆脱停滞和犹豫，否则将会失去影响力。",
+        "地缘政治已经成为国际政治话语中的一个重要组成部分。",
+        "该地区需要重新思考自己的发展战略，以应对新的地缘政治竞争时代。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Repensar el desarrollo en la nueva era de rivalidad geopolítica"
+      }
+    },
+    {
+      "title_original": "España moderniza sus sistemas de rescate aéreo para cumplir con los compromisos de la OTAN",
+      "title_zh": "西班牙升级空中救援系统以满足北约承诺",
+      "url": "https://www.articulo14.es/defensa/espana-moderniza-sus-sistemas-de-rescate-aereo-para-cumplir-con-los-compromisos-de-la-otan-20260804.html",
+      "source": "Artículo 14",
+      "source_score": 55,
+      "published_at": "2026-08-04T03:05:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙正在升级其空中救援系统以满足北约的承诺。",
+        "这一升级是为了提高西班牙的空中救援能力，满足北约的标准。",
+        "升级后的系统将能够更好地应对紧急情况，保护人员的安全。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Artículo 14"
+      ],
+      "all_titles": {
+        "es": "España moderniza sus sistemas de rescate aéreo para cumplir con los compromisos de la OTAN"
+      }
+    },
+    {
+      "title_original": "„Es ist Putin, der diesen Krieg begonnen hat“: Republikaner Bacon stellt Trump wegen Ukraine-Rhetorik bloß",
+      "title_zh": "共和党人贝肯批评特朗普的乌克兰言论，称普京始于战争",
+      "url": "https://www.fr.de/politik/bacon-kritisiert-trumps-rhetorik-zu-selenskyj-ukraine-krieg-republikaner-zr-94423266.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-04T02:45:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国共和党人贝肯批评特朗普的乌克兰言论，称普京始于战争。",
+        "特朗普曾要求乌克兰总统泽连斯基结束战争，贝肯认为这种说法是错误的。",
+        "贝肯认为俄罗斯对乌克兰的侵略是战争的根源，特朗普的言论没有准确反映这一点。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "„Es ist Putin, der diesen Krieg begonnen hat“: Republikaner Bacon stellt Trump wegen Ukraine-Rhetorik bloß"
+      }
+    },
+    {
+      "title_original": "ロシアの混雑したビーチにウクライナのドローン、7人死亡40人負傷と当局",
+      "title_zh": "乌克兰无人机袭击俄罗斯拥挤海滩，7人死亡40人受伤",
+      "url": "https://www.bbc.com/japanese/articles/c8rn0gv4zego",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-04T02:28:45+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰无人机袭击了俄罗斯的一个拥挤海滩，造成7人死亡40人受伤。",
+        "袭击发生在俄罗斯南部的一个海滩，多名游客和当地居民受伤或死亡。",
+        "乌克兰方面尚未对此次袭击作出评论，俄罗斯方面称这是对平民的蓄意攻击。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World",
+        "BBC"
+      ],
+      "all_titles": {
+        "en": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+        "ja": "ロシアの混雑したビーチにウクライナのドローン、7人死亡40人負傷と当局"
+      }
+    },
+    {
+      "title_original": "ウクライナ駐米大使が解任、「個人的決定」 資産申告巡る不正疑惑も",
+      "title_zh": "乌克兰驻美大使被解职，涉及财产申报不正之嫌",
+      "url": "https://jp.reuters.com/world/ukraine/PH5F6DQDMFJHLLKA4X5TYE5BAU-2026-08-04/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-04T01:35:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰驻美大使被解职，官方称这是一个个人决定。",
+        "大使的解职可能与其财产申报有关，存在不正之嫌。",
+        "乌克兰政府尚未对此事作出进一步的说明。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ駐米大使が解任、「個人的決定」 資産申告巡る不正疑惑も"
+      }
+    },
+    {
+      "title_original": "米原油輸出、7月は8カ月ぶり低水準 中東供給一時回復で需要減",
+      "title_zh": "美国原油出口7月份创8个月来新低，中东供应短暂恢复导致需求下降",
+      "url": "https://jp.reuters.com/world/us/6IHIFQEXWNLM5AWKJHYZ465KAY-2026-08-04/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-04T01:17:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国原油出口在7月份创下8个月来的新低。",
+        "中东供应的短暂恢复导致需求下降，进而影响了美国原油的出口。",
+        "这一变化可能会对全球石油市场产生一定的影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米原油輸出、7月は8カ月ぶり低水準 中東供給一時回復で需要減"
+      }
+    },
+    {
+      "title_original": "ウクライナのドローン、観光客でにぎわうビーチに破片落下 7人死亡 ロシア発表",
+      "title_zh": "乌克兰无人机在俄罗斯海滩上空解体，7人死亡",
+      "url": "https://www.cnn.co.jp/world/35251241.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-04T01:15:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰无人机在俄罗斯克拉斯诺达尔边疆区的一处海滩上空解体，导致7人死亡。",
+        "死者中包括3名儿童，另有40人受伤。",
+        "俄罗斯方面称无人机是被防空系统击落的，但具体情况尚不明确。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ウクライナのドローン、観光客でにぎわうビーチに破片落下 7人死亡 ロシア発表"
+      }
+    },
+    {
+      "title_original": "「期待されたほどの成果ない」 ゼレンスキー氏が日本の支援に不満を表明（産経新聞）",
+      "title_zh": "泽连斯基对日本的支持表示不满",
+      "url": "https://news.yahoo.co.jp/articles/80da530249d9a06063818e56e0feaf0265d8b6c9",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-04T00:44:39+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基对日本的支持表示不满，认为日本的支持不够充分。",
+        "泽连斯基表示，乌克兰需要更多的支持，包括军事和经济方面的帮助。",
+        "泽连斯基的发言是对日本政府的批评，认为日本的支持不够有效。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "「期待されたほどの成果ない」 ゼレンスキー氏が日本の支援に不満を表明（産経新聞）"
+      }
+    },
+    {
+      "title_original": "张尧浠：中东局势风险不定、金价筑底调整仍有走低风险_名家点金",
+      "title_zh": "张尧浠：中东局势风险不定，金价筑底调整仍有走低风险",
+      "url": "http://gold.cnfol.com/mingjiadianjin/20260804/32325139.shtml",
+      "source": "黄金网",
+      "source_score": 40,
+      "published_at": "2026-08-04T00:40:02+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势风险不定，可能对金价产生影响。",
+        "金价近期筑底调整，但仍有走低风险。",
+        "投资者需要关注中东局势和金价的变化，做出相应的投资决策。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "黄金网"
+      ],
+      "all_titles": {
+        "zh": "张尧浠：中东局势风险不定、金价筑底调整仍有走低风险_名家点金"
+      }
+    },
+    {
+      "title_original": "Analysis: Trump challenged by cold reality from top allies",
+      "title_zh": "特朗普面临来自顶级盟友的冷酷现实挑战",
+      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-04T00:02:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普面临来自顶级盟友的挑战，包括司法部长和国防部长等。",
+        "特朗普的政策和行为受到盟友的质疑和批评。",
+        "特朗普需要应对这些挑战，维护其在党内和政府中的权威。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Analysis: Trump challenged by cold reality from top allies"
+      }
+    },
+    {
+      "title_original": "Cámaras térmicas, drones y radiofrecuencias: así blinda la OTAN el este de Europa contra los asaltos de inmigrantes",
+      "title_zh": "北约使用热成像摄像机、无人机和无线电频率来防御东欧的移民袭击",
+      "url": "https://www.abc.es/internacional/guerra-invisible-frontera-lituana-20260803014459-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-08-03T23:44:59+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约在东欧部署热成像摄像机、无人机和无线电频率设备来监测和防御移民袭击。",
+        "这些设备可以检测和跟踪移民的行动，帮助北约军队做出相应的反应。",
+        "北约的行动是为了应对俄罗斯和白俄罗斯对东欧的移民压力，维护地区的安全和稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Cámaras térmicas, drones y radiofrecuencias: así blinda la OTAN el este de Europa contra los asaltos de inmigrantes"
+      }
+    },
+    {
+      "title_original": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "title_zh": "爱莉安娜·格兰德厌倦了对她的身体评论，但审查将持续",
+      "url": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T23:25:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "爱莉安娜·格兰德表示厌倦了对她的身体评论，并将在巡演结束后暂时退出公众视野",
+        "格兰德的发言人表示，她将在巡演结束后暂时退出公众视野，以避免持续的审查",
+        "格兰德最近发布了她的第八张录音室专辑《Petal》，并发布了歌曲的图像化视频"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger"
+      }
+    },
+    {
+      "title_original": "الشرع ونيجيرفان بارزاني يبحثان دمج «قسد»",
+      "title_zh": "阿赫麦德·沙雷和尼杰尔万·巴尔扎尼讨论合并「库尔德地区」",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5303118-%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%88%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%81%D8%A7%D9%86-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AF%D9%85%D8%AC-%D9%82%D8%B3%D8%AF",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-03T22:53:33+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "阿赫麦德·沙雷和尼杰尔万·巴尔扎尼在大马士革举行会谈，讨论合并「库尔德地区」",
+        "沙雷和巴尔扎尼还讨论了加强两国之间的经济合作和区域稳定",
+        "巴尔扎尼表示支持叙利亚的统一和稳定，并认为这是一个历史性的机会"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "الشرع ونيجيرفان بارزاني يبحثان دمج «قسد»"
+      }
+    },
+    {
+      "title_original": "ウクライナのＮＡＴＯ加盟見込みない、元軍総司令官が指摘",
+      "title_zh": "乌克兰加入北约的前景不佳，前军总司令指出",
+      "url": "https://jp.reuters.com/world/ukraine/6QQNCMXX6NM4ZFUGTHZZEDMPJ4-2026-08-03/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-03T22:45:45+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "乌克兰加入北约的前景不佳，前军总司令指出",
+        "乌克兰的安全局势仍然不稳定，北约成员国对乌克兰的支持仍然有限",
+        "乌克兰的加入北约仍然面临着许多挑战和不确定性"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナのＮＡＴＯ加盟見込みない、元軍総司令官が指摘"
+      }
+    },
+    {
+      "title_original": "La migración como arma: la justicia que la geopolítica frustra, y por qué hay que recuperarla",
+      "title_zh": "移民作为武器：地缘政治如何破坏正义，以及为什么我们需要恢复它",
+      "url": "https://www.lawandtrends.com/noticias/politica/la-migracion-como-arma-la-justicia-que-la-geopolitica-frustra-y-por-que-hay-que-recuperarla-1.html",
+      "source": "Law&Trends",
+      "source_score": 40,
+      "published_at": "2026-08-03T22:45:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "近期，数万移民试图从摩洛哥进入西班牙的塞乌塔",
+        "这次事件凸显了地缘政治如何影响移民问题，以及国际社会如何应对这一挑战",
+        "移民问题已经成为一个全球性问题，需要国际社会共同努力来解决"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Law&Trends"
+      ],
+      "all_titles": {
+        "es": "La migración como arma: la justicia que la geopolítica frustra, y por qué hay que recuperarla"
+      }
+    },
+    {
+      "title_original": "Un experto en geopolítica carga contra la política europea en cuestiones migratorias: \"Está en manos de terceros países\"",
+      "title_zh": "地缘政治专家批评欧洲在移民问题上的政策： „这是第三国的责任\"",
+      "url": "https://cadenaser.com/nacional/2026/08/03/un-experto-en-geopolitica-carga-contra-la-politica-europea-en-cuestiones-migratorias-esta-en-manos-de-terceros-paises-cadena-ser/",
+      "source": "Cadena SER",
+      "source_score": 40,
+      "published_at": "2026-08-03T21:57:28+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "地缘政治专家批评欧洲在移民问题上的政策，认为这是第三国的责任",
+        "欧洲的移民政策面临着许多挑战，包括如何处理来自第三国的移民",
+        "专家认为，欧洲需要重新评估其移民政策，并与第三国合作来解决这一问题"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Cadena SER"
+      ],
+      "all_titles": {
+        "es": "Un experto en geopolítica carga contra la política europea en cuestiones migratorias: \"Está en manos de terceros países\""
+      }
+    },
+    {
+      "title_original": "Former Ukrainian top commander sees no prospect of Kyiv joining NATO",
+      "title_zh": "前乌克兰最高指挥官认为基辅加入北约无望",
+      "url": "https://www.reuters.com/world/former-ukrainian-top-commander-sees-no-prospect-kyiv-joining-nato-2026-08-03/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-03T21:49:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "前乌克兰最高指挥官表示，乌克兰加入北约的前景不容乐观。",
+        "乌克兰的军事实力与北约成员国之间存在差距。",
+        "乌克兰需要加强自身的军事实力和技术能力，以满足北约的标准。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Former Ukrainian top commander sees no prospect of Kyiv joining NATO"
+      }
+    },
+    {
+      "title_original": "EU calls for stronger borders after Ceuta migrant crossings",
+      "title_zh": "欧盟呼吁加强边境管控，应对塞乌塔移民潮",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-03T21:43:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧盟呼吁加强边境管控，应对塞乌塔移民潮。",
+        "西班牙估计约69,500名移民已返回摩洛哥，超过最初的50,000人估计。",
+        "欧盟内政部长将通过视频会议讨论这一问题。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "EU calls for stronger borders after Ceuta migrant crossings"
+      }
+    },
+    {
+      "title_original": "Zaluzhny: ‘Ukraine Will Never Join NATO’",
+      "title_zh": "扎卢日内：乌克兰永远不会加入北约",
+      "url": "https://www.kyivpost.com/post/81654",
+      "source": "Kyiv Post",
+      "source_score": 40,
+      "published_at": "2026-08-03T20:35:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰前总司令扎卢日内表示，乌克兰永远不会加入北约。",
+        "扎卢日内认为，北约的军事标准和乌克兰的军事实力之间存在差距。",
+        "乌克兰需要加强自身的军事实力和技术能力，以满足北约的标准。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Kyiv Post"
+      ],
+      "all_titles": {
+        "en": "Zaluzhny: ‘Ukraine Will Never Join NATO’"
+      }
+    },
+    {
+      "title_original": "\"Ils se font trop d'argent\" : Donald Trump accuse les groupes pétroliers de profiter de la guerre au Moyen-Orient",
+      "title_zh": "特朗普指责石油公司在中东战争中获利过多",
+      "url": "https://www.tf1info.fr/international/etats-unis-ils-se-font-trop-d-argent-donald-trump-accuse-les-groupes-petroliers-de-profiter-de-la-guerre-au-moyen-orient-2456641.html",
+      "source": "TF1 Info",
+      "source_score": 40,
+      "published_at": "2026-08-03T20:24:25+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普指责石油公司在中东战争中获利过多。",
+        "特朗普认为石油公司的利润与中东战争有关。",
+        "石油公司的高额利润可能会影响全球能源市场。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "TF1 Info"
+      ],
+      "all_titles": {
+        "fr": "\"Ils se font trop d'argent\" : Donald Trump accuse les groupes pétroliers de profiter de la guerre au Moyen-Orient"
+      }
+    },
     {
       "title_original": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
       "title_zh": "托德·布兰奇正式撤回特朗普的'反武器化'基金计划",
