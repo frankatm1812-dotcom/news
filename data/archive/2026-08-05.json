@@ -1,8 +1,835 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-04T17:19:55.253463+00:00",
-  "count": 35,
+  "generated_at": "2026-08-05T08:10:51.120802+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title_original": "Afghan boxer arrives at Greek court in connection with death of Scottish woman",
+      "title_zh": "阿富汗拳击手因涉嫌杀害苏格兰女性而出现在希腊法庭",
+      "url": "https://www.bbc.co.uk/news/articles/cq56qejll6vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-05T07:59:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "一名苏格兰女性的尸体被发现于一个废弃建筑的行李箱中，几天前她曾被报告失踪。",
+        "嫌疑人Sharif Ahmadzai是一名26岁的阿富汗人，他被逮捕并被控告故意杀人、抢劫和武器罪。",
+        "希腊警方表示，死因尚未确定，但初步报告显示可能是窒息导致的死亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Afghan boxer arrives at Greek court in connection with death of Scottish woman"
+      }
+    },
+    {
+      "title_original": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+      "title_zh": "俄罗斯袭击至少造成17人死亡，泽连斯基称拦截系统本可挽救生命",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-05T07:48:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰发动了弹道导弹和无人机袭击，造成至少17人死亡，44人受伤。",
+        "乌克兰总统泽连斯基表示，如果有拦截系统，本可挽救生命。",
+        "俄罗斯国防部表示，袭击目标是乌克兰的后勤中心和供应枢纽。"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World",
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "en": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+        "de": "Ukraine-Krieg aktuell: Russland bombardiert Kiew mit ballistischen Raketen – Tote und Dutzende Verletzte"
+      }
+    },
+    {
+      "title_original": "Progressives didn’t get the big election night they wanted",
+      "title_zh": "进步派未能获得他们想要的大选之夜",
+      "url": "https://www.politico.com/news/2026/08/05/michigan-senate-primary-progressives-unclear-01025096",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-05T02:41:18-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "进步派在最近的选举中未能获得预期的结果。",
+        "选举结果显示，进步派未能取得重大突破。",
+        "选举结果可能会加深民主党内部的分歧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Progressives didn’t get the big election night they wanted"
+      }
+    },
+    {
+      "title_original": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco",
+      "title_zh": "警察突袭星巴克韩国总部，原因是“坦克日”事件",
+      "url": "https://www.bbc.co.uk/news/articles/c0kmd4xpr46o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-05T07:04:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "星巴克韩国曾推出“坦克日”促销活动，引发了广泛的批评和抵制。",
+        "活动被认为是对1980年光州民主化运动的不尊重，星巴克公司随后为此道歉。",
+        "警察突袭星巴克韩国总部，调查公司是否涉嫌诽谤光州民主化运动的受害者。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Police raid Starbucks Korea headquarters over 'Tank Day' fiasco"
+      }
+    },
+    {
+      "title_original": "« Girl » : à Taïwan, le désir de liberté d’une écolière face à la sauvagerie du quotidien",
+      "title_zh": "« 女孩 » : 台湾，一名女学生对日常生活的渴望和反抗",
+      "url": "https://www.lemonde.fr/culture/article/2026/08/05/girl-a-taiwan-le-desir-de-liberte-d-une-ecoliere-face-a-la-sauvagerie-du-quotidien_6739402_3246.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-08-05T07:00:13+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾一名女学生的故事引发了人们对自由和日常生活的思考",
+        "这名学生的经历反映了台湾社会的某些方面",
+        "台湾的教育和社会问题引发了广泛的讨论"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "« Girl » : à Taïwan, le désir de liberté d’une écolière face à la sauvagerie du quotidien"
+      }
+    },
+    {
+      "title_original": "Taiwán intensifica lucha contra robo de talento tecnológico por empresas chinas",
+      "title_zh": "台湾加强打击中国企业盗窃科技人才",
+      "url": "https://www.diariobitcoin.com/regulacion/taiwan-intensifica-lucha-contra-robo-de-talento-tecnologico-por-empresas-chinas/",
+      "source": "DiarioBitcoin",
+      "source_score": 40,
+      "published_at": "2026-08-05T05:59:28+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾对17家中国企业进行调查，涉嫌盗窃科技人才",
+        "台湾政府采取措施保护本土科技产业的竞争优势",
+        "中国企业在台湾的活动引发了安全和经济问题的担忧"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "DiarioBitcoin"
+      ],
+      "all_titles": {
+        "es": "Taiwán intensifica lucha contra robo de talento tecnológico por empresas chinas"
+      }
+    },
+    {
+      "title_original": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
+      "title_zh": "星期三简报：如何通过虚假信息和加强移民政策使塞乌塔成为欧洲最新的热点",
+      "url": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-05T05:54:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "塞乌塔的移民危机引发了欧洲的关注",
+        "虚假信息和加强移民政策使得塞乌塔成为欧洲最新的热点",
+        "欧洲各国政府面临着如何处理移民问题的挑战"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Mindestens 15 Tote in und um Kiew durch russischen Angriff",
+      "title_zh": "乌克兰战争：基辅及周边地区因俄罗斯袭击至少15人死亡",
+      "url": "https://www.tagesspiegel.de/internationales/ukraine-krieg-mindestens-15-tote-in-und-um-kiew-durch-russischen-angriff-15914273.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-08-05T05:43:14+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对基辅及周边地区发动袭击，造成至少15人死亡",
+        "乌克兰政府表示，俄罗斯使用了精确制导武器",
+        "冲突导致基辅及周边地区多处火灾和破坏"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Mindestens 15 Tote in und um Kiew durch russischen Angriff"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 07:05 Rettungsdienst meldet 14 Tote bei russischem Angriff auf Kiew +++",
+      "title_zh": "乌克兰战争直播：07:05救援服务报告基辅遭俄罗斯袭击14人死亡",
+      "url": "https://www.n-tv.de/politik/07-05-Rettungsdienst-meldet-14-Tote-bei-russischem-Angriff-auf-Kiew-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-05T05:07:21+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "基辅遭俄罗斯袭击，造成至少14人死亡",
+        "乌克兰总统泽连斯基批评西方国家没有提供足够的防空武器",
+        "俄罗斯对基辅及周边地区的袭击造成了重大损害"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 07:05 Rettungsdienst meldet 14 Tote bei russischem Angriff auf Kiew +++"
+      }
+    },
+    {
+      "title_original": "ウクライナの民間男性、ドローンに追い回される　ロシアの「人間狩り」攻撃映像",
+      "title_zh": "乌克兰平民被追踪：俄罗斯的“人猎”无人机攻击",
+      "url": "https://www.bbc.com/japanese/articles/cd9wk95y3nxo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-05T05:05:53+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统沃洛季米尔·泽连斯基在社交媒体上发布了一段视频，显示一名男子在乌克兰南部被无人机追踪。",
+        "这名男子是一名52岁的蔬菜销售员，遭到无人机追踪后幸存，但遭受了多处伤害和脑震荡。",
+        "这起事件被认为是俄罗斯针对平民的“人猎”攻击行为之一，俄罗斯方面一直否认故意针对平民。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの民間男性、ドローンに追い回される　ロシアの「人間狩り」攻撃映像"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient : les négociations s’accélèrent autour d’une réouverture du détroit d’Ormuz",
+      "title_zh": "中东：关于重新开放霍尔木兹海峡的谈判正在加速",
+      "url": "https://www.lemonde.fr/international/article/2026/08/05/moyen-orient-les-negociations-s-accelerent-autour-d-une-reouverture-du-detroit-d-ormuz_6739360_3210.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-08-05T04:49:51+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东地区关于重新开放霍尔木兹海峡的谈判正在加速进行。",
+        "霍尔木兹海峡是世界上最重要的海上石油运输通道之一，其关闭对全球能源市场产生了重大影响。",
+        "有关各方正在努力寻找解决方案，以重新开放海峡，恢复石油运输。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient : les négociations s’accélèrent autour d’une réouverture du détroit d’Ormuz"
+      }
+    },
+    {
+      "title_original": "EXCLUSIVE: North Korean missile unit deploys in Russia for Ukraine war, Kyiv says",
+      "title_zh": "独家：朝鲜导弹部队在俄罗斯为乌克兰战争部署，基辅称",
+      "url": "https://www.reuters.com/business/aerospace-defense/north-korean-missile-unit-deploys-russia-ukraine-war-kyiv-says-2026-08-05/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-05T04:02:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "据基辅消息，朝鲜的一支导弹部队已在俄罗斯部署，以支持俄罗斯在乌克兰的战争努力。",
+        "这一部署被视为朝鲜和俄罗斯之间军事合作的最新迹象。",
+        "基辅方面对这一部署表示担忧，称其将加剧冲突。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "EXCLUSIVE: North Korean missile unit deploys in Russia for Ukraine war, Kyiv says"
+      }
+    },
+    {
+      "title_original": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
+      "title_zh": "数百人在摩洛哥聚集在休塔边境，焦急地等待失踪的亲人",
+      "url": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-05T04:00:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "摩洛哥北部城市Fnideq近休塔边境，数百人聚集，展示失踪亲人的照片，希望能找到他们的下落。",
+        "这些人是在对面西班牙的休塔发生大规模越境事件后失踪的亲人的家属。",
+        "当地人和组织正在努力帮助寻找失踪人员，提供支持和援助。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones"
+      }
+    },
+    {
+      "title_original": "ロシアが「人間狩り」攻撃、ドローンで野菜売りの男性を追い回し爆発　ゼレンスキー氏が動画公開",
+      "title_zh": "俄罗斯的“人猎”攻击：无人机追踪蔬菜销售员，泽连斯基发布视频",
+      "url": "https://www.bbc.com/japanese/articles/ckgekv0z0zeo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-05T03:15:48+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基发布了一段视频，显示一名男子在乌克兰南部被无人机追踪和攻击。",
+        "这名男子是一名52岁的蔬菜销售员，遭到无人机追踪后幸存，但遭受了多处伤害和脑震荡。",
+        "泽连斯基称，这起事件是俄罗斯针对平民的“人猎”攻击行为之一，俄罗斯方面一直否认故意针对平民。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ロシアが「人間狩り」攻撃、ドローンで野菜売りの男性を追い回し爆発　ゼレンスキー氏が動画公開"
+      }
+    },
+    {
+      "title_original": "Naher Osten - Weitere Gespräche zwischen Israel und Libanon in Rom",
+      "title_zh": "中东 - 以色列和黎巴嫩在罗马进行进一步谈判",
+      "url": "https://www.deutschlandfunk.de/weitere-gespraeche-zwischen-israel-und-libanon-in-rom-112.html",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-08-05T03:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列和黎巴嫩在罗马进行了进一步的谈判，主要目的是消除对以色列的威胁并恢复黎巴嫩南部的国家权威。",
+        "此次谈判发生在持续的紧张局势中，黎巴嫩媒体和目击者报道称，以色列军队刚刚摧毁了黎巴嫩多个地点的真主党据点。",
+        "黎巴嫩和以色列自四月以来首次进行直接的政治谈判，并已达成安全协议，包括以色列军队从黎巴嫩南部撤出和黎巴嫩军队对真主党的解除武装，但这些协议尚未实施。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Naher Osten - Weitere Gespräche zwischen Israel und Libanon in Rom"
+      }
+    },
+    {
+      "title_original": "Taiwán inicia ejercicios militares ante creciente presión de China",
+      "title_zh": "台湾因中国压力增大而开始军事演习",
+      "url": "https://www.swissinfo.ch/spa/taiw%C3%A1n-inicia-ejercicios-militares-ante-creciente-presi%C3%B3n-de-china/91847843",
+      "source": "SWI swissinfo.ch",
+      "source_score": 40,
+      "published_at": "2026-08-05T02:54:11+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾开始了年度的军事演习，主要目的是为可能的中国入侵做准备。",
+        "演习包括模拟战斗场景，训练士兵和预备役人员如何应对对台湾领土的攻击。",
+        "中国将台湾视为其领土的一部分，并威胁使用武力占领该岛，近年来中国对台湾的军事压力日益增大。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "SWI swissinfo.ch"
+      ],
+      "all_titles": {
+        "es": "Taiwán inicia ejercicios militares ante creciente presión de China"
+      }
+    },
+    {
+      "title_original": "‘Our new champion’: Philippines swept up in tennis fever after Alex Eala’s historic win",
+      "title_zh": "菲律宾被网球热潮席卷：亚历克斯·伊拉拉取得历史性胜利",
+      "url": "https://www.theguardian.com/world/2026/aug/05/alex-eala-philippines-tennis-fever",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-05T02:10:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "亚历克斯·伊拉拉成为第一位赢得WTA巡回赛单打冠军的菲律宾选手，引发了菲律宾的网球热潮。",
+        "菲律宾总统为亚历克斯·伊拉拉举行了招待会，以表彰她的历史性胜利。",
+        "亚历克斯·伊拉拉的胜利激发了菲律宾人民对网球的兴趣，网球在该国的热度正在上升。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘Our new champion’: Philippines swept up in tennis fever after Alex Eala’s historic win"
+      }
+    },
+    {
+      "title_original": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
+      "title_zh": "美国撤销巴西大使签证，外交争端升级",
+      "url": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-05T01:41:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国政府撤销了巴西大使的签证，这是对巴西政府拒绝批准特朗普提名的美国大使的回应。",
+        "巴西政府拒绝批准特朗普提名的美国大使，并拒绝向两名美国外交官颁发签证，导致了两国之间的外交争端。",
+        "美国和巴西之间的外交关系因这一事件而进一步紧张。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud"
+      }
+    },
+    {
+      "title_original": "Progressives' anti-AIPAC wave hits a snag in St. Louis",
+      "title_zh": "进步派反AIPAC浪潮在圣路易斯遇阻",
+      "url": "https://www.politico.com/live-updates/2026/08/04/michigan-missouri-primary-democrats-test/cori-bush-wesley-bell-primary-analysis-01024982",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-04T20:40:47-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国进步派的反AIPAC运动在圣路易斯遇到了阻碍，代表韦斯利·贝尔在选举中击败了科里·布什。",
+        "AIPAC是美国的一个有影响力的犹太人游说团体，进步派的反AIPAC运动旨在减少其对美国政治的影响。",
+        "圣路易斯的选举结果表明，进步派的反AIPAC运动在某些地区仍然面临挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Progressives' anti-AIPAC wave hits a snag in St. Louis"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Russian soldier in Crimea shoots comrades and civilians",
+      "title_zh": "乌克兰战争简报：俄罗斯士兵在克里米亚枪击战友和平民",
+      "url": "https://www.theguardian.com/world/2026/aug/05/ukraine-war-briefing-russian-soldier-crimea-shoots-comrades-civilians",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-05T01:27:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯士兵在克里米亚开火，杀死一名战友，伤害另一名战友，并枪击平民，造成三人死亡。",
+        "俄罗斯导弹和无人机袭击基辅和周边地区，造成至少15人死亡，数十人受伤。",
+        "乌克兰无人机袭击俄罗斯境内的物流中心，包括在线零售商Wildberries的设施。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Russian soldier in Crimea shoots comrades and civilians"
+      }
+    },
+    {
+      "title_original": "ウクライナのNATO加盟「あり得ない」 ザルジニー前軍総司令官",
+      "title_zh": "乌克兰加入北约“不可能”——前军总司令扎尔任",
+      "url": "https://www.afpbb.com/articles/-/3647160",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-05T01:03:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "乌克兰前军总司令扎尔任表示，乌克兰加入北约是不可能的。",
+        "扎尔任认为，乌克兰军队的发展水平和北约的标准之间存在差距。",
+        "乌克兰正在发展自己的防御工业，特别是在无人机技术方面取得了显著进步。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ウクライナのNATO加盟「あり得ない」 ザルジニー前軍総司令官"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 02:43 Raketen treffen Kiew - eine Person stirbt +++",
+      "title_zh": "乌克兰战争直播：02:43火箭击中基辅，一人死亡",
+      "url": "https://www.n-tv.de/politik/02-43-Raketen-treffen-Kiew-eine-Person-stirbt-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-05T00:44:11+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯导弹袭击基辅，造成至少15人死亡，数十人受伤。",
+        "乌克兰军方表示，无法拦截任何一枚俄罗斯导弹。",
+        "北韩一支导弹部队开始部署到俄罗斯西部，可能用于攻击乌克兰。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 02:43 Raketen treffen Kiew - eine Person stirbt +++"
+      }
+    },
+    {
+      "title_original": "Armed man arrested near Trump's golf course ahead of president's visit",
+      "title_zh": "武装男子在特朗普高尔夫球场附近被捕，总统即将访问",
+      "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-05T00:19:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "加利福尼亚州警方逮捕了一名携带枪支和违禁弹药的男子，该男子被发现正在特朗普高尔夫球场附近监视安保情况。",
+        "该男子被控携带隐藏的枪支和拥有穿甲弹。",
+        "特朗普总统即将访问该高尔夫球场参加共和党筹款晚宴。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Armed man arrested near Trump's golf course ahead of president's visit"
+      }
+    },
+    {
+      "title_original": "ドローンからロボットが降下、ウクライナが世界初の「無人空挺強襲」を遂行",
+      "title_zh": "无人机投放机器人，乌克兰实施世界首次“无人空降突击”",
+      "url": "https://forbesjapan.com/articles/detail/102282",
+      "source": "Forbes JAPAN",
+      "source_score": 55,
+      "published_at": "2026-08-04T23:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队使用重型轰炸无人机运载自杀式地面机器人，攻击俄罗斯阵地。",
+        "乌克兰实施了世界首次无人空降突击，使用无人机运载地面机器人进行攻击。",
+        "乌克兰军队还使用无人艇运载地面机器人，进行无人两栖登陆作战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Forbes JAPAN"
+      ],
+      "all_titles": {
+        "ja": "ドローンからロボットが降下、ウクライナが世界初の「無人空挺強襲」を遂行"
+      }
+    },
+    {
+      "title_original": "ウクライナ、露空軍基地や石油施設など100回超攻撃 「40日間作戦」の成果発表",
+      "title_zh": "乌克兰对俄空军基地和石油设施等进行100多次攻击",
+      "url": "https://www.sankei.com/article/20260805-6JEVOUURQVOFZCQAD46MQ57CHU/",
+      "source": "産経ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-04T23:25:01+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰保安局（SBU）宣布，乌克兰在40天内对俄罗斯领内和占领地区的军事设施、石油设施等进行了100多次攻击。",
+        "这些攻击主要使用无人机，目标包括俄罗斯空军基地、石油精炼厂和储存设施等。",
+        "乌克兰方面称，这些攻击的目的是削弱俄罗斯的军事和经济实力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "産経ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、露空軍基地や石油施設など100回超攻撃 「40日間作戦」の成果発表"
+      }
+    },
+    {
+      "title_original": "キーウ周辺にロシアがミサイル攻撃、14人死亡・27人負傷",
+      "title_zh": "俄罗斯对基辅周边发动导弹袭击，造成14人死亡、27人受伤",
+      "url": "https://jp.reuters.com/world/ukraine/JAFYZ3DHMZJMJH5JBVGKFPQAUY-2026-08-04/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-04T23:25:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对基辅周边发动了导弹袭击，造成14人死亡、27人受伤。",
+        "这次袭击是俄罗斯对乌克兰的持续军事行动的一部分。",
+        "乌克兰方面正在努力应对这次袭击，并提供受害者的救援和支持。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "キーウ周辺にロシアがミサイル攻撃、14人死亡・27人負傷"
+      }
+    },
+    {
+      "title_original": "俄罗斯：历史思维枷锁下的十字路口 —— 结合俄乌冲突分析现状与深层危机",
+      "title_zh": "俄罗斯：历史思维枷锁下的十字路口 —— 结合俄乌冲突分析现状与深层危机",
+      "url": "https://user.guancha.cn/main/content?id=1707012&comments-container",
+      "source": "风闻",
+      "source_score": 40,
+      "published_at": "2026-08-04T22:57:30+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯当前面临着历史思维枷锁下的十字路口，需要重新评估其对外政策和国家战略。",
+        "俄乌冲突是俄罗斯面临的深层危机之一，需要通过综合分析和战略思考来应对。",
+        "俄罗斯需要找到新的发展路径和战略伙伴，才能摆脱当前的困境。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "风闻"
+      ],
+      "all_titles": {
+        "zh": "俄罗斯：历史思维枷锁下的十字路口 —— 结合俄乌冲突分析现状与深层危机"
+      }
+    },
+    {
+      "title_original": "Guerra Ucrania-Rusia: la campaña de drones del SBU neutraliza el 40% de las refinerías y expone la fragilidad del Kremlin",
+      "title_zh": "乌克兰-俄罗斯战争：乌克兰保安局的无人机战役使俄罗斯40%的炼油厂失去作用，暴露了克里姆林宫的脆弱性",
+      "url": "https://www.escenariomundial.com/2026/08/04/guerra-ucrania-rusia-la-campana-de-drones-del-sbu-neutraliza-el-40-de-las-refinerias-y-expone-la-fragilidad-del-kremlin/",
+      "source": "Escenario Mundial",
+      "source_score": 40,
+      "published_at": "2026-08-04T22:40:14+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰保安局（SBU）对俄罗斯的无人机战役使得俄罗斯40%的炼油厂失去作用，暴露了克里姆林宫的脆弱性。",
+        "这次战役是乌克兰对俄罗斯的持续军事行动的一部分，旨在削弱俄罗斯的军事和经济实力。",
+        "俄罗斯的炼油厂和能源基础设施受到严重损害，导致俄罗斯国内燃料短缺和经济困难。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Escenario Mundial"
+      ],
+      "all_titles": {
+        "es": "Guerra Ucrania-Rusia: la campaña de drones del SBU neutraliza el 40% de las refinerías y expone la fragilidad del Kremlin"
+      }
+    },
+    {
+      "title_original": "South Dakota Democrat exits Senate race, clears way for independent",
+      "title_zh": "南达科他州民主党人退出参议院竞选，为独立候选人让路",
+      "url": "https://www.politico.com/news/2026/08/04/south-dakota-democrat-julian-beaudion-withdraws-01024746",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-04T17:11:50-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "南达科他州民主党人朱利安·博迪恩（Julian Beaudion）退出了参议院竞选， 为独立候选人让路。",
+        "博迪恩是第三个因党内压力而退出参议院竞选的民主党人。",
+        "这一举动可能会影响南达科他州的参议院竞选结果。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "South Dakota Democrat exits Senate race, clears way for independent"
+      }
+    },
+    {
+      "title_original": "Projectile sinks Indian-flagged ship off Yemen coast",
+      "title_zh": "印度旗帜船只在也门海岸被投射物击沉",
+      "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-04T21:24:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "一艘印度旗帜的船只在也门海岸被投射物击中并沉没，船上所有14人均被安全救出，包括13名印度公民。",
+        "印度运输部长萨尔巴南达·索诺瓦尔谴责了这次“无端攻击”，并表示将采取措施确保该地区水手的安全。",
+        "这次事件是红海地区船只遭攻击的最新一起事件，自伊朗在二月份封锁霍尔木兹海峡以来，一些油轮改道通过红海。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Projectile sinks Indian-flagged ship off Yemen coast"
+      }
+    },
+    {
+      "title_original": "Why Geopolitics Belongs At The Center Of Business Education",
+      "title_zh": "为什么地缘政治应该成为商业教育的核心",
+      "url": "https://poetsandquants.com/2026/08/04/why-geopolitics-belongs-at-the-center-of-business-education/?pq-category=thought-leadership",
+      "source": "Poets&Quants",
+      "source_score": 40,
+      "published_at": "2026-08-04T21:07:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "本文讨论了地缘政治在商业教育中的重要性，认为地缘政治应该成为商业教育的核心。",
+        "作者认为，地缘政治对商业决策和全球经济有着重大影响，商业教育应该更加注重地缘政治的教学。",
+        "本文呼吁商业教育机构更加重视地缘政治的教学，帮助学生更好地理解全球商业环境。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Poets&Quants"
+      ],
+      "all_titles": {
+        "en": "Why Geopolitics Belongs At The Center Of Business Education"
+      }
+    },
+    {
+      "title_original": "Ukraine: pourquoi l'ancien chef des armées ne croit plus à une adhésion à l'Otan?",
+      "title_zh": "乌克兰：为什么前军队总司令不再相信加入北约？",
+      "url": "https://www.rfi.fr/fr/europe/20260804-ukraine-pourquoi-l-ancien-chef-des-arm%C3%A9es-ne-croit-plus-%C3%A0-une-adh%C3%A9sion-%C3%A0-l-otan",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-08-04T20:53:35+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "乌克兰前军队总司令表示，他不再相信乌克兰会加入北约，这是由于当前的国际形势和地缘政治因素。",
+        "他认为，乌克兰的安全和未来取决于其自身的军事实力和外交努力，而不是仅仅依靠加入北约。",
+        "这位前总司令的言论反映了乌克兰当前的政治和军事局势，以及其在国际关系中的地位。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Ukraine: pourquoi l'ancien chef des armées ne croit plus à une adhésion à l'Otan?"
+      }
+    },
+    {
+      "title_original": "Cepal propone estrategia de \"cooperación regional\" ante \"rupturas\" en geopolítica global",
+      "title_zh": "拉美和加勒比经济委员会提出区域合作战略应对全球地缘政治“断裂”",
+      "url": "https://www.abc.es/internacional/cepal-propone-estrategia-cooperacion-regional-ante-rupturas-20260804220943-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-08-04T20:09:47+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "拉美和加勒比经济委员会（CEPAL）提出了一项区域合作战略，以应对当前全球地缘政治的“断裂”和挑战。",
+        "该战略旨在加强区域内的合作与协调，促进成员国之间的经济和社会发展，共同应对全球挑战。",
+        "CEPAL认为，区域合作是应对当前全球地缘政治不确定性和挑战的有效途径，有助于促进拉美和加勒比地区的稳定和发展。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Cepal propone estrategia de \"cooperación regional\" ante \"rupturas\" en geopolítica global"
+      }
+    },
     {
       "title_original": "Oil prices fall on hopes Strait of Hormuz could reopen",
       "title_zh": "油价下跌，霍尔木兹海峡可能重新开放",
