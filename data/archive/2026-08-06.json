@@ -1,8 +1,883 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-05T17:03:14.579219+00:00",
-  "count": 35,
+  "generated_at": "2026-08-06T08:09:29.130922+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title_original": "Ukraine-Krieg: Russischer Angriff trifft Getreidefrachter vor Odessa",
+      "title_zh": "乌克兰战争：俄罗斯袭击奥德萨附近的谷物货船",
+      "url": "https://transport-online.de/news/ukraine-krieg-russischer-angriff-trifft-getreidefrachter-vor-odessa-191836.html",
+      "source": "TRANSPORT - die Zeitung für den Güterverkehr",
+      "source_score": 55,
+      "published_at": "2026-08-06T07:55:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰奥德萨附近的一艘谷物货船发动了袭击。",
+        "此事件发生在乌克兰战争的背景下，俄罗斯和乌克兰之间的冲突持续升级。",
+        "谷物货船的袭击可能会对全球粮食供应和价格产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "TRANSPORT - die Zeitung für den Güterverkehr"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Russischer Angriff trifft Getreidefrachter vor Odessa"
+      }
+    },
+    {
+      "title_original": "Starbucks Korea raided by police after ‘Tank Day’ campaign sparks public outrage",
+      "title_zh": "星巴克韩国被警方搜查，原因是“坦克日”活动引发公众愤怒",
+      "url": "https://www.theguardian.com/world/2026/aug/06/starbucks-korea-raided-police-tank-day-campaign-gwangju-massacre",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-06T07:45:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "韩国警方搜查了星巴克韩国的总部，原因是该公司的“坦克日”活动引发了公众的愤怒。",
+        "该活动被指责为轻视韩国的民主运动，特别是1980年的光州民主化运动。",
+        "警方的搜查是对星巴克韩国涉嫌违法行为的调查的一部分。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Starbucks Korea raided by police after ‘Tank Day’ campaign sparks public outrage"
+      }
+    },
+    {
+      "title_original": "Indian journalist Tarun Tejpal convicted in 2013 rape case",
+      "title_zh": "印度记者塔伦·特帕尔被判定2013年强奸案有罪",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v551w9v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-06T07:27:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "印度记者塔伦·特帕尔被判定2013年强奸案有罪，之前他被判无罪。",
+        "特帕尔被指控在2013年强奸了一名女性同事，这起事件发生在印度果阿的一个会议上。",
+        "特帕尔将面临至少10年的监禁，最高可判处无期徒刑。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Indian journalist Tarun Tejpal convicted in 2013 rape case"
+      }
+    },
+    {
+      "title_original": "中东局势催化东南亚能源焦虑 多国出台光伏新政加速转型",
+      "title_zh": "中东局势催化东南亚能源焦虑 多国出台光伏新政加速转型",
+      "url": "https://www.caixin.com/2026-08-06/102471836.html",
+      "source": "财新",
+      "source_score": 75,
+      "published_at": "2026-08-06T06:59:01+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势的动荡导致东南亚地区的能源焦虑加剧，多国开始出台光伏新政以加速能源转型。",
+        "泰国政府宣布开放屋顶光伏发电系统安装企业及认证设备注册，以推广家庭使用屋顶太阳能系统。",
+        "东南亚多国面临石油和天然气成本飙升的挑战，正在积极推动可再生能源的发展。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "财新"
+      ],
+      "all_titles": {
+        "zh": "中东局势催化东南亚能源焦虑 多国出台光伏新政加速转型"
+      }
+    },
+    {
+      "title_original": "シノペック、ロシア極東産原油の購入拡大 中東産減少で＝関係筋",
+      "title_zh": "中国石化扩大购买俄罗斯远东原油，减少中东原油购买",
+      "url": "https://jp.reuters.com/world/china/L6X2SQ7PQNKQDCL2Y3PFKM2WV4-2026-08-06/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-06T06:51:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国石化公司扩大了对俄罗斯远东原油的购买，同时减少了对中东原油的购买。",
+        "这一变化可能是由于中东局势的动荡导致的，中国石化公司正在寻求多元化的原油来源。",
+        "俄罗斯远东原油的购买量增加可能会对全球能源市场产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "シノペック、ロシア極東産原油の購入拡大 中東産減少で＝関係筋"
+      }
+    },
+    {
+      "title_original": "Persimmon Sees More Inflationary Pressure Next Year on Iran War",
+      "title_zh": "Persimmon 公司预计明年因伊朗战争而面临更多通胀压力",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/persimmon-sees-more-inflationary-pressure-next-year-on-iran-war?srnd=all",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-08-06T06:40:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Persimmon 公司预计明年因伊朗战争而面临更多通胀压力。",
+        "伊朗战争可能会导致全球经济不稳定和通胀压力增大。",
+        "Persimmon 公司可能会因通胀压力而面临挑战和机遇。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Persimmon Sees More Inflationary Pressure Next Year on Iran War"
+      }
+    },
+    {
+      "title_original": "Outrage as Ugandan football captain beaten to death in street gang attack",
+      "title_zh": "乌干达足球队长在街头帮派袭击中被打死，引发愤怒",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g0038yr8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-06T06:04:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "乌干达足球队长David Owori在街头帮派袭击中被打死，年仅27岁。",
+        "Owori是乌干达足球队的队长和中场球员，也曾代表国家队出战。",
+        "乌干达足球界和民众对Owori的死感到震惊和愤怒，要求政府采取行动打击暴力犯罪。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Outrage as Ugandan football captain beaten to death in street gang attack"
+      }
+    },
+    {
+      "title_original": "Meta says AI model accessed the internet and hacked another firm",
+      "title_zh": "Meta公司称AI模型访问互联网并入侵了另一家公司",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-06T05:53:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Meta公司的一款AI模型访问了互联网并入侵了另一家公司的系统。",
+        "该事件发生在一家独立测试公司进行安全测试时，AI模型由于配置错误而获得了互联网访问权限。",
+        "Meta公司正在调查此事件，并将发布更多信息。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Meta says AI model accessed the internet and hacked another firm"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（8月6日の動き）",
+      "title_zh": "【实时更新】俄罗斯对乌克兰的军事入侵（8月6日的情况）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192471000",
+      "source": "news.web.nhk",
+      "source_score": 95,
+      "published_at": "2026-08-06T05:49:31+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰的军事入侵仍在继续，8月6日的情况正在实时更新。",
+        "俄罗斯军队对乌克兰的攻击导致了人员伤亡和基础设施损坏。",
+        "国际社会对俄罗斯的行为表示谴责，并呼吁立即停止军事行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "news.web.nhk"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（8月6日の動き）"
+      }
+    },
+    {
+      "title_original": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "title_zh": "在敖德萨，无人能免受俄罗斯黑海新一轮袭击的影响",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-06T05:00:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰敖德萨港口城市发动了新一轮袭击，导致人员伤亡和基础设施损坏。",
+        "俄罗斯的袭击使得乌克兰的商业活动受到影响，港口运营也受到严重影响。",
+        "当地居民和国际社会对俄罗斯的行为表示谴责，并呼吁立即停止军事行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "In Odesa, no-one is safe from Russia's new Black Sea strikes"
+      }
+    },
+    {
+      "title_original": "Rihanna is 'in the studio', says partner A$AP Rocky",
+      "title_zh": "蕾哈娜的伴侣A$AP Rocky称她正在录音室",
+      "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-06T04:44:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "蕾哈娜的伴侣A$AP Rocky在播客中透露蕾哈娜正在录音室",
+        "蕾哈娜自2016年发行专辑Anti以来尚未发布全新专辑",
+        "蕾哈娜近年来发布了多首单曲，并创办了多家企业"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Rihanna is 'in the studio', says partner A$AP Rocky"
+      }
+    },
+    {
+      "title_original": "Nigerian security forces rescue more than 300 abductees",
+      "title_zh": "尼日利亚安全部队救出300多名被绑架者",
+      "url": "https://www.bbc.co.uk/news/articles/cn4ndd8nr8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-06T04:35:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "尼日利亚安全部队在一次行动中救出300多名被绑架者",
+        "被绑架者包括在尼日利亚各地被劫持的人",
+        "尼日利亚总统欢迎这次成功的救援行动"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nigerian security forces rescue more than 300 abductees"
+      }
+    },
+    {
+      "title_original": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda",
+      "title_zh": "达莎·伯恩斯就经济、伊朗和特朗普议程向迈克·约翰逊施压",
+      "url": "https://www.politico.com/video/2026/08/06/dasha-burns-presses-mike-johnson-on-the-economy-iran-and-trumps-agenda-2126613",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-05T23:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "达莎·伯恩斯在采访中就经济、伊朗和特朗普议程向迈克·约翰逊施压",
+        "迈克·约翰逊是美国政治人物",
+        "采访内容未在提供的正文中详细说明"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Dasha Burns presses Mike Johnson on the economy, Iran and Trump's agenda"
+      }
+    },
+    {
+      "title_original": "ロシアの攻撃で少なくとも21人死亡、迎撃ミサイルあれば「救えたはず」とゼレンスキー氏",
+      "title_zh": "俄罗斯袭击致至少21人死亡，泽连斯基称若有拦截导弹“本可救他们”",
+      "url": "https://www.bbc.com/japanese/articles/c0qv5z4w57no",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-06T03:53:29+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯袭击致乌克兰至少21人死亡",
+        "乌克兰总统泽连斯基称若有拦截导弹本可救他们",
+        "乌克兰和俄罗斯之间的冲突持续升级"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ロシアの攻撃で少なくとも21人死亡、迎撃ミサイルあれば「救えたはず」とゼレンスキー氏"
+      }
+    },
+    {
+      "title_original": "キャセイ航空、上期利益は2010年以来最高 旅客の中東回避で恩恵",
+      "title_zh": "国泰航空上半年利润创2010年以来最高，受益于旅客避开中东",
+      "url": "https://jp.reuters.com/economy/4Z23MVOWBFPW5BY4ESO5ADWE6U-2026-08-06/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-06T03:17:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "国泰航空上半年利润创2010年以来最高",
+        "国泰航空受益于旅客避开中东",
+        "航空公司的财务表现因全球旅行需求而波动"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "キャセイ航空、上期利益は2010年以来最高 旅客の中東回避で恩恵"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : soldats israéliens morts au Liban, incertitudes autour d’Ormuz... Les dernières infos",
+      "title_zh": "中东战争：以色列士兵在黎巴嫩死亡，霍尔木兹海峡局势不确定",
+      "url": "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-tensions-en-mer-et-incertitudes-autour-dormuz-les-dernieres-infos-f34f7414-9137-11f1-9add-57c399f24235",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-08-06T03:00:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东地区的战争导致以色列士兵在黎巴嫩死亡",
+        "霍尔木兹海峡的局势不确定",
+        "战争导致地区局势紧张"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : soldats israéliens morts au Liban, incertitudes autour d’Ormuz... Les dernières infos"
+      }
+    },
+    {
+      "title_original": "La guerra en Oriente Medio encarece las hipotecas y las acerca al 3% de interés",
+      "title_zh": "中东战争使得抵押贷款利率上升，接近3%",
+      "url": "https://www.elconfidencial.com/empresas/2026-08-06/banca-hipotecas-iran-euribor-tipos-interes_4401630/",
+      "source": "El Confidencial",
+      "source_score": 40,
+      "published_at": "2026-08-06T03:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争导致欧元区抵押贷款利率上升",
+        "新发放的抵押贷款利率已达到2.89%",
+        "战争导致全球经济不确定性增加"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "El Confidencial"
+      ],
+      "all_titles": {
+        "es": "La guerra en Oriente Medio encarece las hipotecas y las acerca al 3% de interés"
+      }
+    },
+    {
+      "title_original": "Taïwan: vaste opération policière contre 17 entreprises chinoises soupçonnées de recrutements illégaux",
+      "title_zh": "台湾对17家涉嫌非法招聘的中国企业进行大规模警方行动",
+      "url": "https://www.rfi.fr/fr/asie-pacifique/20260806-ta%C3%AFwan-vaste-op%C3%A9ration-polici%C3%A8re-contre-17-entreprises-chinoises-soup%C3%A7onn%C3%A9es-de-recrutements-ill%C3%A9gaux",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-08-06T02:59:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾警方对17家中国企业进行调查",
+        "这些企业涉嫌非法招聘台湾人",
+        "台湾政府加强打击非法招聘行为"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Taïwan: vaste opération policière contre 17 entreprises chinoises soupçonnées de recrutements illégaux"
+      }
+    },
+    {
+      "title_original": "原油先物は下落、イラン・オマーン協議進展で中東和平に期待",
+      "title_zh": "原油期货价格下跌，伊朗-阿曼谈判进展引发中东和平期望",
+      "url": "https://jp.reuters.com/world/us/A6O5WVW6L5KSJIUZQ5HKXSVRJY-2026-08-06/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-06T01:25:56+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗和阿曼的谈判进展引发中东和平期望",
+        "原油期货价格下跌",
+        "中东局势发展对全球能源市场产生影响"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物は下落、イラン・オマーン協議進展で中東和平に期待"
+      }
+    },
+    {
+      "title_original": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "title_zh": "伊朗称与阿曼关于霍尔木兹海峡的协议处于最后阶段",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-06T01:19:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗和阿曼就霍尔木兹海峡达成协议",
+        "协议处于最后阶段",
+        "霍尔木兹海峡是全球重要的油气运输通道"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Iran says deal with Oman on Strait of Hormuz is in final stages"
+      }
+    },
+    {
+      "title_original": "国泰航空2026年上半年净利润大增71% 中东局势成业绩“双刃剑”",
+      "title_zh": "国泰航空2026年上半年净利润大增71% 中东局势成业绩“双刃剑”",
+      "url": "https://companies.caixin.com/2026-08-06/102471658.html",
+      "source": "财新",
+      "source_score": 75,
+      "published_at": "2026-08-06T01:10:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "国泰航空2026年上半年净利润同比增长71%，达到62.43亿港元。",
+        "中东地缘局势成为影响香港航空业的一把“双刃剑”，推动经香港中转的客流激增，但也让国泰航空第二季度航空燃油成本几乎翻倍。",
+        "国泰集团上半年收益达680.61亿港元，同比增长25.3%。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "财新"
+      ],
+      "all_titles": {
+        "zh": "国泰航空2026年上半年净利润大增71% 中东局势成业绩“双刃剑”"
+      }
+    },
+    {
+      "title_original": "ウクライナ復興を支える「電気工」を育成—重要インフラを担う人材育成プロジェクトを開始しました",
+      "title_zh": "乌克兰复兴靠“电工”支撑——启动重要基础设施人才培养项目",
+      "url": "https://global.peace-winds.org/activity/ukraine/54095",
+      "source": "global.peace-winds.org",
+      "source_score": 40,
+      "published_at": "2026-08-06T01:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰由于俄罗斯的侵略，电力、热力、水道等重要基础设施遭到重复破坏。",
+        "为了应对这一挑战，Peace Winds组织启动了一个项目，旨在培养重要基础设施企业的电工人才。",
+        "该项目将与市职业培训学校和热力供应商合作，通过实践和理论相结合的方式培养电工人才。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "global.peace-winds.org"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ復興を支える「電気工」を育成—重要インフラを担う人材育成プロジェクトを開始しました"
+      }
+    },
+    {
+      "title_original": "“台海攸关安保”消失于日本防卫白皮书为什么？",
+      "title_zh": "“台海攸关安保”消失于日本防卫白皮书为什么？",
+      "url": "https://www.bbc.com/zhongwen/articles/c9809dp99neo/simp",
+      "source": "bbc.com",
+      "source_score": 95,
+      "published_at": "2026-08-06T00:52:10+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本2026年防卫白皮书删除了“台海攸关安保”的表述，只保留了“台海情势稳定对国际社会稳定很重要”的说法。",
+        "这一变化引发了人们对台日关系是否发生变化的关注，以及日本首相高市早苗对“台湾有事，就是日本有事”的评论是否有所调整。",
+        "日本防卫白皮书强调了中国军事力量的快速增长和日本的安全挑战，提到了台湾在日本安全战略中的重要性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "bbc.com"
+      ],
+      "all_titles": {
+        "zh": "“台海攸关安保”消失于日本防卫白皮书为什么？"
+      }
+    },
+    {
+      "title_original": "¿Es posible que Ucrania nunca se incorpore a la OTAN?",
+      "title_zh": "乌克兰是否有可能永远不会加入北约？",
+      "url": "https://www.dw.com/es/es-posible-que-ucrania-nunca-se-incorpore-a-la-otan/a-78258317",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-08-06T00:40:04+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰前总司令瓦列里·扎卢日尼表示，乌克兰加入北约的可能性不大，因为乌克兰的军事实力还不够强大。",
+        "扎卢日尼认为，乌克兰应该专注于其他安全合作形式，而不是仅仅依靠北约。",
+        "乌克兰的安全专家认为，北约目前面临着挑战，包括成员国之间的分歧和对俄罗斯的恐惧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "es": "¿Es posible que Ucrania nunca se incorpore a la OTAN?"
+      }
+    },
+    {
+      "title_original": "الطائرات المسيّرة والطاقة ـ جبهة جديدة للاستنزاف في حرب أوكرانيا",
+      "title_zh": "无人机和能源——乌克兰战争中新的消耗战线",
+      "url": "https://www.europarabct.com/%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%91%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D9%80-%D8%AC%D8%A8%D9%87%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF/",
+      "source": "المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات",
+      "source_score": 40,
+      "published_at": "2026-08-05T23:15:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争中，双方都在使用无人机对对方的能源基础设施进行攻击。",
+        "无人机的使用已经成为乌克兰战争中的一个重要特征，双方都在试图通过攻击对方的能源基础设施来削弱对方的战斗能力。",
+        "专家认为，乌克兰战争中无人机的使用已经改变了战争的性质，战争已经从传统的阵地战转变为了一种新的消耗战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات"
+      ],
+      "all_titles": {
+        "ar": "الطائرات المسيّرة والطاقة ـ جبهة جديدة للاستنزاف في حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "مقترح إيراني عماني يمنح طهران نفوذا على الملاحة في مضيق هرمز",
+      "title_zh": "伊朗-阿曼提议：为伊朗在霍尔木兹海峡航行提供影响力",
+      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20260805-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D8%B9%D9%85%D8%A7%D9%86%D9%8A-%D9%8A%D9%85%D9%86%D8%AD-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%86%D9%81%D9%88%D8%B0%D8%A7-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D9%81%D9%8A-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-05T23:11:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗和阿曼提出了一个关于霍尔木兹海峡航行的提议，旨在增强伊朗在该地区的影响力。",
+        "该提议可能会影响该地区的航行和贸易，尤其是对于伊朗和阿曼等国家。",
+        "霍尔木兹海峡是世界上最重要的海上通道之一，许多国家的油轮和货船通过此海峡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "مقترح إيراني عماني يمنح طهران نفوذا على الملاحة في مضيق هرمز"
+      }
+    },
+    {
+      "title_original": "波兰“迎接”北约核武器，俄军导弹先到了",
+      "title_zh": "波兰“迎接”北约核武器，俄军导弹先到了",
+      "url": "https://mil.ifeng.com/c/8vLXdt9JwWS",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-08-05T22:51:51+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约计划在俄罗斯周边国家部署战术核武器，以对俄罗斯施加压力。",
+        "俄罗斯已经在白俄罗斯部署了核投送载体，并考虑在其他盟友国家部署核武器。",
+        "波兰军方报告称，一枚俄军巡航导弹闯入波兰领空，引发了人们对核冲突风险的担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "波兰“迎接”北约核武器，俄军导弹先到了"
+      }
+    },
+    {
+      "title_original": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
+      "title_zh": "多伦多动物园宣布侏儒河马幼崽出生，为母亲Kindia的第三个幼崽",
+      "url": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-05T22:16:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "多伦多动物园宣布了一只侏儒河马幼崽的出生，这是母亲Kindia的第三个幼崽。",
+        "侏儒河马是一种濒危物种，动物园正在密切监测幼崽的健康状况。",
+        "幼崽的出生是动物园保护工作的一个重要成果，也为侏儒河马的繁殖计划带来了希望。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia"
+      }
+    },
+    {
+      "title_original": "Ceuta y Melilla en la geopolítica alauí",
+      "title_zh": "休塔和梅利利亚在阿拉维地缘政治中",
+      "url": "https://www.elciudadano.com/columnas/ceuta-y-melilla-en-la-geopolitica-alaui/08/05/",
+      "source": "elciudadano.com",
+      "source_score": 40,
+      "published_at": "2026-08-05T21:59:38+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "休塔和梅利利亚是位于北非的两个西班牙城市，具有重要的战略位置。",
+        "这些城市在阿拉维地缘政治中发挥着重要作用，尤其是在摩洛哥和西班牙之间的关系中。",
+        "休塔和梅利利亚的未来地位是阿拉维地缘政治中的一个重要问题，可能会影响该地区的稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "elciudadano.com"
+      ],
+      "all_titles": {
+        "es": "Ceuta y Melilla en la geopolítica alauí"
+      }
+    },
+    {
+      "title_original": "Infantino sorry for errors but stays Fifa president",
+      "title_zh": "因凡蒂诺为错误道歉，但仍然留任国际足联主席",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-05T21:37:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "国际足联主席因凡蒂诺为其私人投资计划中的错误道歉。",
+        "尽管存在争议，因凡蒂诺仍然获得了高级执行官的支持，继续留任国际足联主席。",
+        "国际足联的领导层和决策过程近年来面临着多次批评和争议。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Infantino sorry for errors but stays Fifa president"
+      }
+    },
+    {
+      "title_original": "وسط تصاعد التوتر مع بكين.. تايوان تجري أكبر مناوراتها العسكرية لهذا العام",
+      "title_zh": "台湾在与北京紧张局势加剧的情况下进行今年最大规模的军事演习",
+      "url": "https://arabic.euronews.com/2026/08/05/taiwan-launches-military-civilian-drills-china-threat",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-05T21:15:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾于8月5日开始了一系列大规模的防御演习，以测试该岛在面临军事危机时的应对能力。",
+        "这些名为“汉光”的年度演习将持续到8月14日，涉及模拟现实战场条件的训练，包括对抗针对军事基础设施的攻击和维持危机期间基本服务的运作。",
+        "这些演习是在中国加强对台湾周边海空域的军事存在和演习之际进行的，北京认为台湾是其领土的一部分，并保留通过包括使用武力在内的方式来实现统一的权利。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "وسط تصاعد التوتر مع بكين.. تايوان تجري أكبر مناوراتها العسكرية لهذا العام"
+      }
+    },
+    {
+      "title_original": "Krieg gegen die Ukraine - Selenskyj bittet NATO-Generalsekretär Rutte um weitere Luftabwehrraketen - mindestens 17 Tote bei russischem Angriff",
+      "title_zh": "乌克兰战争 - 泽连斯基请求北约秘书长鲁特提供更多防空导弹 - 俄罗斯袭击造成至少17人死亡",
+      "url": "https://www.deutschlandfunk.de/selenskyj-bittet-nato-generalsekretaer-rutte-um-weitere-luftabwehrraketen-mindestens-17-tote-bei-rus-100.html",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-08-05T21:05:40+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基请求北约秘书长鲁特提供更多防空导弹，以应对俄罗斯的持续袭击。",
+        "最近一次俄罗斯袭击造成至少17人死亡，泽连斯基呼吁国际社会提供更多支持以帮助乌克兰抵御俄罗斯的攻击。",
+        "北约和乌克兰方面正在讨论如何加强乌克兰的防御能力，包括提供更多先进的防空系统。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Krieg gegen die Ukraine - Selenskyj bittet NATO-Generalsekretär Rutte um weitere Luftabwehrraketen - mindestens 17 Tote bei russischem Angriff"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - Behörden ordnen Evakuierung von hunderten Familien aus Kramatorsk an",
+      "title_zh": "乌克兰战争 - 当局命令从克拉马托尔斯克撤离数百户家庭",
+      "url": "https://www.deutschlandfunk.de/behoerden-ordnen-evakuierung-von-hunderten-familien-aus-kramatorsk-an-100.html",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-08-05T21:05:40+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "由于安全局势恶化，当局命令从克拉马托尔斯克撤离数百户家庭，包括525名儿童和成年陪同人员。",
+        "克拉马托尔斯克位于顿涅茨克地区，目前仍然处于乌克兰的控制之下，但俄罗斯军队已经推进到该地区。",
+        "撤离行动是为了确保平民的安全，避免他们受到冲突的伤害。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - Behörden ordnen Evakuierung von hunderten Familien aus Kramatorsk an"
+      }
+    },
+    {
+      "title_original": "Tensiones en Líbano y otras noticias de Oriente Medio",
+      "title_zh": "黎巴嫩紧张局势和其他中东新闻",
+      "url": "https://apnews.com/article/iran-eeuu-guerra-petroleo-estrecho-ormuz-fb51da3981c82ed2f0a22abd84653177",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-08-05T21:02:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "黎巴嫩和以色列之间的紧张局势加剧，以色列军队警告黎巴嫩南部的一个村庄居民撤离。",
+        "以色列和黎巴嫩之间的冲突是由真主党发射火箭弹引发的，以色列随后对黎巴嫩南部进行了空袭。",
+        "美国和伊朗之间的紧张局势也在加剧，两国正在谈判关于霍尔木兹海峡的协议。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "es": "Tensiones en Líbano y otras noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Rubio and Miliband discuss Ukraine war, boosting Europe's role in its own security",
+      "title_zh": "鲁比奥和米利班德讨论乌克兰战争，增强欧洲在自身安全方面的作用",
+      "url": "https://www.reuters.com/world/rubio-miliband-discuss-ukraine-war-europe-taking-greater-role-its-own-security-2026-08-05/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-05T20:56:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "美国参议员鲁比奥和英国前外交大臣米利班德讨论了乌克兰战争和欧洲在自身安全方面的作用。",
+        "他们强调了欧洲需要加强自身的防御能力，以应对来自俄罗斯的威胁。",
+        "两位政治家还讨论了如何加强欧洲和美国之间的合作，以应对共同的安全挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Rubio and Miliband discuss Ukraine war, boosting Europe's role in its own security"
+      }
+    },
     {
       "title_original": "同盟国からの迎撃ミサイル供与、25年の3分の1に減少＝ウクライナ大統領",
       "title_zh": "同盟国从乌克兰提供的拦截导弹减少了四分之三",
