@@ -1,8 +1,563 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T05:25:57.619635+00:00",
-  "count": 34,
+  "generated_at": "2026-08-07T14:40:16.817194+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title_original": "Taiwán simula escenarios militares en las maniobras anuales «Han Kuang",
+      "title_zh": "台湾进行年度“汉光”军事演习",
+      "url": "https://www.gamereactor.es/taiwan-simula-escenarios-militares-en-las-maniobras-anuales-han-kuang-1763683/",
+      "source": "Gamereactor",
+      "source_score": 40,
+      "published_at": "2026-08-07T14:30:01+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾正在进行年度“汉光”军事演习，旨在准备应对中国可能的攻击。",
+        "中国近年来加强了对台湾的军事压力，并声称台湾是其领土的一部分。",
+        "台湾的军事演习包括模拟快速反应和空中作战，展示其军事能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Gamereactor"
+      ],
+      "all_titles": {
+        "es": "Taiwán simula escenarios militares en las maniobras anuales «Han Kuang"
+      }
+    },
+    {
+      "title_original": "Thailand school shooting: eight killed including suspected attacker, police say",
+      "title_zh": "泰国学校枪击案：包括嫌疑人在内的八人死亡",
+      "url": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-07T14:16:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "泰国一所学校发生枪击案，包括嫌疑人在内的八人死亡，多人受伤。",
+        "枪击案发生在泰国曼谷附近的一所学校，嫌疑人是一名14岁的学生。",
+        "泰国警方正在调查枪击案的原因和细节。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Thailand school shooting: eight killed including suspected attacker, police say"
+      }
+    },
+    {
+      "title_original": "Colombia on the brink: ELN guerrilla group prepares for return to war",
+      "title_zh": "哥伦比亚国民解放军游击队准备重返战场",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-07T14:00:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "哥伦比亚国民解放军游击队（ELN）准备重返战场，应对政府的军事行动。",
+        "ELN是哥伦比亚最后一个左翼游击队组织，近年来一直在与政府谈判和平协议。",
+        "哥伦比亚新任总统阿贝拉多·德拉埃斯普里拉宣布将对ELN采取军事行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Colombia on the brink: ELN guerrilla group prepares for return to war"
+      }
+    },
+    {
+      "title_original": "فيديو. تايوان تختبر جاهزية الطوارئ عبر مناورة إنذار جوي",
+      "title_zh": "台湾进行空中警报演习",
+      "url": "https://arabic.euronews.com/video/2026/08/07/taiwan-tests-emergency-response-with-an-air-raid-drill",
+      "source": "Euronews",
+      "source_score": 75,
+      "published_at": "2026-08-07T13:37:28+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾在高雄进行了空中警报演习，交通停顿，民众进入避难所。",
+        "演习模拟空袭，持续约30分钟，交通工具被要求停驶。",
+        "此次演习是为了提高应急响应能力，确保民众安全。"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Euronews.com",
+        "Euronews"
+      ],
+      "all_titles": {
+        "es": "Vídeo. Taiwán pone a prueba su respuesta de emergencia con un simulacro de ataque aéreo",
+        "de": "Video. Taiwan probt Ernstfall mit Luftalarmübung",
+        "ar": "فيديو. تايوان تختبر جاهزية الطوارئ عبر مناورة إنذار جوي"
+      }
+    },
+    {
+      "title_original": "Istanbul 2.0? Kazakhstan Steps into the Ukraine War Diplomatic Arena",
+      "title_zh": "哈萨克斯坦介入乌克兰战争外交舞台",
+      "url": "https://www.geopoliticalmonitor.com/istanbul-2-0-kazakhstan-steps-into-the-ukraine-war-diplomatic-arena/",
+      "source": "Geopolitical Monitor",
+      "source_score": 40,
+      "published_at": "2026-08-07T12:38:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "哈萨克斯坦开始介入乌克兰战争的外交努力，试图在冲突中发挥作用。",
+        "此举被视为哈萨克斯坦在国际舞台上扩大影响力的尝试。",
+        "哈萨克斯坦的介入可能会对乌克兰战争的发展产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Geopolitical Monitor"
+      ],
+      "all_titles": {
+        "en": "Istanbul 2.0? Kazakhstan Steps into the Ukraine War Diplomatic Arena"
+      }
+    },
+    {
+      "title_original": "エネルギー各社、中東情勢見通し悪化 INPEXは10月正常化を念頭",
+      "title_zh": "能源公司关注中东局势，INPEX预计10月份恢复正常",
+      "url": "https://www.nikkei.com/article/DGXZQOUC036KI0T00C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-07T12:18:20+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "日本能源公司关注中东局势的发展，预计可能对能源供应产生影响。",
+        "INPEX预计10月份能源供应将恢复正常，但中东局势的不确定性仍然存在。",
+        "中东局势的变化可能会影响全球能源市场和供应链。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "エネルギー各社、中東情勢見通し悪化 INPEXは10月正常化を念頭"
+      }
+    },
+    {
+      "title_original": "El ejército de Taiwán simula despegues de emergencia de cazas",
+      "title_zh": "台湾军队模拟紧急起飞演习",
+      "url": "https://www.abc.es/espana/ejercito-taiwan-simula-despegues-emergencia-cazas-20260807135741-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-08-07T11:57:45+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾军队在新竹进行了紧急起飞演习，模拟应对假想的中国入侵。",
+        "演习中， Mirage 2000 战斗机参与了紧急起飞和演练。",
+        "此次演习是为了提高台湾军队的应急响应能力和防御能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "El ejército de Taiwán simula despegues de emergencia de cazas"
+      }
+    },
+    {
+      "title_original": "Cyber statt Drohne: Putin plant laut US-Diensten gezielte Provokation der Nato",
+      "title_zh": "普京计划对北约进行网络攻击",
+      "url": "https://www.t-online.de/nachrichten/ausland/eu/id_101379044/artikel-5-usa-warnen-vor-gezielter-provokation-putins-auf-nato-gebiet.html",
+      "source": "t-online.de",
+      "source_score": 40,
+      "published_at": "2026-08-07T11:27:23+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "根据美国情报机构的报告，俄罗斯总统普京计划对北约进行网络攻击。",
+        "此次攻击可能是为了测试北约的防御能力和响应速度。",
+        "北约成员国对此次攻击保持高度警惕，准备采取必要的防御措施。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "t-online.de"
+      ],
+      "all_titles": {
+        "de": "Cyber statt Drohne: Putin plant laut US-Diensten gezielte Provokation der Nato"
+      }
+    },
+    {
+      "title_original": "Haitians face arrest and deportation after US removes TPS protections",
+      "title_zh": "海地人面临逮捕和驱逐，美国取消了对他们的临时保护身份",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/haitians-us-deportation-tps-immigration",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-07T11:00:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国政府取消了对海地人的临时保护身份，导致数十万海地人面临逮捕和驱逐的风险。",
+        "海地目前正遭受着犯罪、暴力和政治动荡的困扰，驱逐将使海地人面临更大的危险。",
+        "美国法院曾阻止过这一决定，但最近的裁决使得驱逐成为可能。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Haitians face arrest and deportation after US removes TPS protections"
+      }
+    },
+    {
+      "title_original": "السعودية وتركيا وباكستان توقع اتفاق دفاع مشترك وسط الاضطرابات بالمنطقة",
+      "title_zh": "沙特、土耳其和巴基斯坦在地区动荡中签署共同防御协议",
+      "url": "https://www.reuters.com/ar/world/UZ74Q5OYVRJJJICUW5FTQKT4KU-2026-08-07/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-07T10:49:55+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特阿拉伯、土耳其和巴基斯坦在地区动荡的背景下签署了一项共同防御协议。",
+        "这一协议的签署表明了这些国家在面对地区挑战时的合作意愿。",
+        "该协议的具体内容和影响尚不明确，但它可能会对地区安全局势产生一定影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "السعودية وتركيا وباكستان توقع اتفاق دفاع مشترك وسط الاضطرابات بالمنطقة"
+      }
+    },
+    {
+      "title_original": "Selon le renseignement américain, Poutine pourrait tester la détermination de l’Otan par une attaque limitée",
+      "title_zh": "根据美国情报，普京可能通过有限的攻击来测试北约的决心",
+      "url": "https://www.lopinion.fr/international/selon-le-renseignement-americain-poutine-pourrait-tester-la-determination-de-lotan-par-une-attaque-limitee",
+      "source": "l'Opinion",
+      "source_score": 40,
+      "published_at": "2026-08-07T10:37:31+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国情报机构认为，俄罗斯总统普京可能会通过有限的攻击来测试北约的决心和反应。",
+        "这一攻击可能包括网络攻击或小规模的地面入侵等形式。",
+        "北约和美国正面临着俄罗斯和中国的军事挑战，美国的某些关键弹药库存也面临短缺问题。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "l'Opinion"
+      ],
+      "all_titles": {
+        "fr": "Selon le renseignement américain, Poutine pourrait tester la détermination de l’Otan par une attaque limitée"
+      }
+    },
+    {
+      "title_original": "Le pétrole hésite avec l'incertitude sur la situation au Moyen-Orient",
+      "title_zh": "石油市场犹豫不决，中东局势不确定",
+      "url": "https://ch.zonebourse.com/actualite-bourse/le-petrole-hesite-avec-l-incertitude-sur-la-situation-au-moyen-orient-ce7f50d2dc8cfe21",
+      "source": "Zonebourse Suisse",
+      "source_score": 40,
+      "published_at": "2026-08-07T10:37:29+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于中东局势的不确定性，石油市场出现了犹豫不决的态势。",
+        "中东局势的变化可能会对全球石油供应和价格产生影响。",
+        "当前的不确定性使得石油市场难以预测未来走势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Zonebourse Suisse"
+      ],
+      "all_titles": {
+        "fr": "Le pétrole hésite avec l'incertitude sur la situation au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "【分析】防空網の穴を突くロシア、弾道ミサイルはいかにしてウクライナを襲っているのか(1/2)",
+      "title_zh": "俄罗斯如何利用弹道导弹袭击乌克兰",
+      "url": "https://www.cnn.co.jp/world/35251429.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-07T10:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯利用弹道导弹对乌克兰进行攻击，突破了乌克兰的防空网络。",
+        "乌克兰面临着弹道导弹、巡航导弹和无人机等多种威胁。",
+        "俄罗斯的弹道导弹攻击速度快，难以被拦截，乌克兰正在寻求补充防御系统。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "【分析】防空網の穴を突くロシア、弾道ミサイルはいかにしてウクライナを襲っているのか(1/2)"
+      }
+    },
+    {
+      "title_original": "The nation’s cartoonists on the week in politics",
+      "title_zh": "全国漫画家关于本周政治的看法",
+      "url": "https://www.politico.com/gallery/2026/08/07/the-nations-cartoonists-on-the-week-in-politics-01028030",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-07T04:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "本文介绍了美国政治漫画家关于本周政治事件的看法，但未提供具体细节。",
+        "这些漫画家通过他们的作品来评论和批评当前的政治事件。",
+        "本文未提供更多关于这些漫画家及其作品的信息。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The nation’s cartoonists on the week in politics"
+      }
+    },
+    {
+      "title_original": "German airport drone-bomb: Could Russia be involved?",
+      "title_zh": "德国机场无人机炸弹事件：俄罗斯可能涉案？",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-07T08:48:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "德国莱比锡机场发生了一起无人机炸弹事件，机场工作人员发现了一架装有炸药的无人机。",
+        "德国当局正在调查此事件，目前尚未确定是否与俄罗斯有关。",
+        "俄罗斯曾被指控涉及类似的事件，包括2024年的一起无人机炸弹阴谋。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "German airport drone-bomb: Could Russia be involved?"
+      }
+    },
+    {
+      "title_original": "ロシアの侵攻から4年半…ウクライナ避難者を助ける団体が資金難 名古屋拠点の「日本ウクライナ文化協会」",
+      "title_zh": "俄罗斯入侵乌克兰四年半：名古屋的日本乌克兰文化协会面临资金困难",
+      "url": "https://news.yahoo.co.jp/articles/e854c3e4cd0a15f4786643b8c63746cfa9c61a6a",
+      "source": "news.yahoo.co.jp",
+      "source_score": 40,
+      "published_at": "2026-08-07T08:38:01+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "日本乌克兰文化协会是一家位于名古屋的非营利组织，致力于帮助乌克兰难民。",
+        "该组织面临资金困难，难以继续提供援助。",
+        "乌克兰难民在日本面临着语言、文化和经济等多方面的挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "news.yahoo.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ロシアの侵攻から4年半…ウクライナ避難者を助ける団体が資金難 名古屋拠点の「日本ウクライナ文化協会」"
+      }
+    },
+    {
+      "title_original": "国連事務総長、ロシアとウクライナ両国を非難 民間人狙った攻撃めぐり",
+      "title_zh": "联合国秘书长谴责俄罗斯和乌克兰针对平民的攻击",
+      "url": "https://www.jiji.com/jc/article?k=20260807049199a&g=afp",
+      "source": "時事ドットコム",
+      "source_score": 40,
+      "published_at": "2026-08-07T08:37:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "联合国秘书长安东尼奥·古特雷斯谴责俄罗斯和乌克兰针对平民的攻击。",
+        "乌克兰和俄罗斯之间的冲突已经持续了数月，双方都对对方进行了长距离攻击。",
+        "古特雷斯呼吁双方立即停止针对平民和民用基础设施的攻击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "時事ドットコム"
+      ],
+      "all_titles": {
+        "ja": "国連事務総長、ロシアとウクライナ両国を非難 民間人狙った攻撃めぐり"
+      }
+    },
+    {
+      "title_original": "A new youth agitation grips an Indian state after 'cockroach' protests",
+      "title_zh": "印度一州发生新青年抗议活动",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-07T08:32:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "印度东部贾坎德邦的青年们正在举行抗议活动，要求改革该州的政府考试制度。",
+        "抗议活动始于7月25日，部分抗议者已经绝食，要求政府重考和调查考试结果。",
+        "印度政府已经开始调查此事，并暂停了下一阶段的考试。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "A new youth agitation grips an Indian state after 'cockroach' protests"
+      }
+    },
+    {
+      "title_original": "WSJ: US warns Russia may attack NATO before end of war in Ukraine",
+      "title_zh": "美国警告俄罗斯可能在乌克兰战争结束前攻击北约",
+      "url": "https://www.pravda.com.ua/eng/news/2026/08/07/8047688/",
+      "source": "Українська правда",
+      "source_score": 40,
+      "published_at": "2026-08-07T07:33:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国情报机构警告称，俄罗斯可能在未来几年内对北约成员国发动有限的攻击。",
+        "俄罗斯总统普京可能试图测试北约的决心，通过对北约成员国发动小规模的攻击。",
+        "美国官员表示，俄罗斯的目标是分裂北约，美国正在分析俄罗斯可能采取的行动。"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Українська правда",
+        "La Libre.be"
+      ],
+      "all_titles": {
+        "en": "WSJ: US warns Russia may attack NATO before end of war in Ukraine",
+        "fr": "L'OTAN menacée par une future attaque russe? Ce rapport du renseignement américain alerte l'Alliance"
+      }
+    },
+    {
+      "title_original": "الدولار يتجه لمكاسب أسبوعية وسط شكوك بشأن اتفاق السلام مع إيران",
+      "title_zh": "美元走向周度收益，疑虑与伊朗和平协议",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/5304359-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%AC%D9%87-%D9%84%D9%85%D9%83%D8%A7%D8%B3%D8%A8-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9%D9%8A%D8%A9-%D9%88%D8%B3%D8%B7-%D8%B4%D9%83%D9%88%D9%83-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-07T07:24:19+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美元走向周度收益，因人们对美国和伊朗达成和平协议的疑虑而增强了对美元的需求。",
+        "美国经济数据将在周五发布，可能会影响美元的走势。",
+        "美元对日元和欧元的汇率基本稳定，美元指数小幅上涨。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "الدولار يتجه لمكاسب أسبوعية وسط شكوك بشأن اتفاق السلام مع إيران"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（8月7日の動き）",
+      "title_zh": "俄罗斯入侵乌克兰（8月7日最新动态）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192481000",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-07T06:41:34+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯入侵乌克兰的最新动态，包括军事行动和外交努力。",
+        "乌克兰军队正在抵抗俄罗斯的入侵，双方冲突不断。",
+        "国际社会正在努力促进和平谈判，结束冲突。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（8月7日の動き）"
+      }
+    },
+    {
+      "title_original": "俄方：若想和平解决俄乌冲突，欧洲应停止向乌克兰输送武器",
+      "title_zh": "俄方：若想和平解决俄乌冲突，欧洲应停止向乌克兰输送武器",
+      "url": "https://m.sohu.com/a/1059957350_120347736?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-07T06:11:09+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄方表示，若要和平解决俄乌冲突，欧洲应停止向乌克兰输送武器。",
+        "俄乌冲突仍在持续，欧洲的武器输送被视为冲突的关键因素之一。",
+        "俄方的声明表明，他们希望通过外交手段解决冲突，但欧洲的武器输送可能会加剧冲突。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "俄方：若想和平解决俄乌冲突，欧洲应停止向乌克兰输送武器"
+      }
+    },
     {
       "title_original": "US intel warns Russia could test NATO as early as this fall, WSJ reports",
       "title_zh": "美国情报警告俄罗斯可能最早在今年秋天测试北约",
@@ -51,6 +606,56 @@
       ],
       "all_titles": {
         "ja": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で"
+      }
+    },
+    {
+      "title_original": "Taiwán ensaya el protocolo de evacuación de su presidente en caso de ataque chino y espera que Trump le envíe más armas",
+      "title_zh": "台湾演练总统在中国攻击下的撤离协议，并希望特朗普提供更多武器",
+      "url": "https://www.elespanol.com/mundo/asia/20260807/taiwan-ensaya-protocolo-evacuacion-presidente-caso-ataque-chino-espera-trump-envie-armas/1003744345563_0.html",
+      "source": "elespanol.com",
+      "source_score": 40,
+      "published_at": "2026-08-07T04:30:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾进行了总统在中国攻击下的撤离协议演练，旨在确保政府的连续性和安全。",
+        "台湾希望特朗普政府提供更多的武器，以加强其国防能力和应对中国的军事威胁。",
+        "台湾的演练和对美国武器的期望表明，台湾在当前的地区安全环境下感到压力和不确定性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "elespanol.com"
+      ],
+      "all_titles": {
+        "es": "Taiwán ensaya el protocolo de evacuación de su presidente en caso de ataque chino y espera que Trump le envíe más armas"
+      }
+    },
+    {
+      "title_original": "As NATO and Ukraine’s war against Russia escalates, drone attacks on ships in the Black Sea increase",
+      "title_zh": "北约和乌克兰对俄罗斯的战争升级，黑海的无人机攻击增加",
+      "url": "https://www.wsws.org/en/articles/2026/08/07/brmo-a07.html",
+      "source": "World Socialist Web Site",
+      "source_score": 40,
+      "published_at": "2026-08-07T04:22:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰和俄罗斯之间的战争导致黑海的无人机攻击增加",
+        "土耳其的货船Nadezhda和Yaşar在俄罗斯的诺沃罗西斯克港口附近遭到攻击",
+        "俄罗斯对乌克兰的港口和船只进行反击，导致海上贸易受到严重影响"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "World Socialist Web Site"
+      ],
+      "all_titles": {
+        "en": "As NATO and Ukraine’s war against Russia escalates, drone attacks on ships in the Black Sea increase"
       }
     },
     {
@@ -126,6 +731,31 @@
       ],
       "all_titles": {
         "es": "China deja en un limbo la película sobre su gran epopeya naval de la conquista de Taiwán"
+      }
+    },
+    {
+      "title_original": "Taiwán investiga a 17 empresas chinas por contratar ilegalmente a ingenieros de chips",
+      "title_zh": "台湾调查17家中国公司涉嫌非法雇佣芯片工程师",
+      "url": "https://theobjective.com/tecnologia/2026-08-07/taiwan-17-empresas-chinas-captar-ingenieros-chips/",
+      "source": "The Objective",
+      "source_score": 40,
+      "published_at": "2026-08-07T03:25:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾当局正在调查17家中国公司涉嫌非法雇佣芯片工程师",
+        "这些公司涉嫌违反台湾法律，未经许可雇佣台湾工程师",
+        "台湾政府对此事非常重视，因为芯片行业是台湾的重要产业"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "The Objective"
+      ],
+      "all_titles": {
+        "es": "Taiwán investiga a 17 empresas chinas por contratar ilegalmente a ingenieros de chips"
       }
     },
     {
