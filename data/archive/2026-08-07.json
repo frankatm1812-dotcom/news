@@ -1,0 +1,859 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T05:25:57.619635+00:00",
+  "count": 34,
+  "articles": [
+    {
+      "title_original": "US intel warns Russia could test NATO as early as this fall, WSJ reports",
+      "title_zh": "美国情报警告俄罗斯可能最早在今年秋天测试北约",
+      "url": "https://kyivindependent.com/us-intel-warns-russia-could-launch-attack-on-nato-countries-by-2029-wsj-reports/",
+      "source": "The Kyiv Independent",
+      "source_score": 40,
+      "published_at": "2026-08-07T04:54:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国情报报告警告俄罗斯可能最早在今年秋天对北约国家发动有限攻击。",
+        "美国官员之前认为俄罗斯不会在乌克兰战争期间攻击北约盟友，但现在认为俄罗斯可能会在今年秋天或2029年之间对北约东翼发动混合战争攻击或有限的地面入侵。",
+        "最近的乌克兰对俄罗斯能源基础设施的打击和战场上的微小收益可能会促使普京试图对北约取得胜利。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Kyiv Independent"
+      ],
+      "all_titles": {
+        "en": "US intel warns Russia could test NATO as early as this fall, WSJ reports"
+      }
+    },
+    {
+      "title_original": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で",
+      "title_zh": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で",
+      "url": "https://jp.reuters.com/economy/OBVL7LXZ6RO3ZDIX6RMGGPOEDE-2026-08-07/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-07T04:50:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "ペトロブラスの四半期纯利益几乎倍增，主要是由于中东纠纷导致的原油价格上涨。",
+        "该公司的利润增长主要归因于原油价格的上涨，这是由于中东地区的紧张局势所致。",
+        "中东地区的紧张局势导致原油价格上涨，从而使得佩特罗布拉斯的纯利益大幅增加。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ペトロブラス、四半期純利益ほぼ倍増 中東紛争巡る原油高で"
+      }
+    },
+    {
+      "title_original": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "title_zh": "澳大利亚航空队进行大胆的南极中冬救援",
+      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-07T04:02:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "澳大利亚航空队进行了一次大胆的南极中冬救援任务，营救了一名美国探险队成员。",
+        "救援任务是在极端恶劣的天气条件下进行的，包括-43°C的低温和完全的黑暗。",
+        "澳大利亚航空队的飞机成功降落在美国的麦克默多站，并将病人安全转移到飞机上，随后飞往新西兰的基督城进行治疗。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Australian aviation crew carries out daring midwinter Antarctica rescue"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Trump weist Selenskyjs Forderung nach Militärhilfe zurück",
+      "title_zh": "乌克兰战争最新：特朗普拒绝泽连斯基的军事援助请求",
+      "url": "https://www.fr.de/politik/kiew-angriff-ukraine-krieg-aktuell-news-ticker-russland-putin-verluste-zr-94429482.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-07T03:38:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国总统特朗普拒绝了乌克兰总统泽连斯基的军事援助请求，理由是美国的武器库已经耗尽。",
+        "特朗普表示，前总统拜登已经向乌克兰提供了价值300亿美元的军事援助，这已经使美国的武器库面临巨大的压力。",
+        "特朗普还表示，美国不参与乌克兰冲突，因为它与美国隔着一个大洋。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Trump weist Selenskyjs Forderung nach Militärhilfe zurück"
+      }
+    },
+    {
+      "title_original": "China deja en un limbo la película sobre su gran epopeya naval de la conquista de Taiwán",
+      "title_zh": "中国将关于征服台湾的海上史诗电影留在悬念中",
+      "url": "https://elpais.com/internacional/2026-08-07/china-deja-en-un-limbo-la-pelicula-sobre-su-gran-epopeya-naval-de-la-conquista-de-taiwan.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-08-07T03:30:01+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国将一部关于征服台湾的海上史诗电影留在悬念中，没有明确的上映日期或发行计划。",
+        "这部电影的制作和发行被认为是中国政府对台湾政策的一个重要方面，反映了中国对台湾的态度和立场。",
+        "电影的悬念状态引发了人们对中国政府对台湾政策的猜测和关注，人们正在等待进一步的信息和发展。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "China deja en un limbo la película sobre su gran epopeya naval de la conquista de Taiwán"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: We will build missiles the way we built drones – Zelenskyy",
+      "title_zh": "乌克兰战争简报：泽连斯基称将像建造无人机一样建造导弹",
+      "url": "https://www.theguardian.com/world/2026/aug/07/ukraine-war-briefing-build-missiles-freyja-programme-zelenskyy",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-07T03:20:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基表示，乌克兰将像建造无人机一样建造导弹，并希望在今年年底前取得具体成果。",
+        "泽连斯基提到，乌克兰正在参与Freyja计划，联合开发欧洲反弹道导弹系统，以替代爱国者导弹系统。",
+        "乌克兰基辅地区在俄罗斯导弹和无人机袭击造成17人死亡后，举行了一天的哀悼活动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: We will build missiles the way we built drones – Zelenskyy"
+      }
+    },
+    {
+      "title_original": "美情报部门预警：普京或发动有限攻击试探北约决心",
+      "title_zh": "美情报部门预警：普京或发动有限攻击试探北约决心",
+      "url": "https://cn.wsj.com/articles/%E7%BE%8E%E6%83%85%E6%8A%A5%E9%83%A8%E9%97%A8%E9%A2%84%E8%AD%A6-%E6%99%AE%E4%BA%AC%E6%88%96%E5%8F%91%E5%8A%A8%E6%9C%89%E9%99%90%E6%94%BB%E5%87%BB%E8%AF%95%E6%8E%A2%E5%8C%97%E7%BA%A6%E5%86%B3%E5%BF%83-03f69a0c",
+      "source": "华尔街日报中文网",
+      "source_score": 95,
+      "published_at": "2026-08-07T03:17:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美情报部门预警称，俄罗斯总统普京可能会发动有限攻击来试探北约的决心。",
+        "此预警表明，俄罗斯可能会采取军事行动来测试北约的反应和决心。",
+        "美情报部门的预警没有提供具体的攻击时间和地点，但表明俄罗斯的军事行动可能会在近期内发生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "华尔街日报中文网"
+      ],
+      "all_titles": {
+        "zh": "美情报部门预警：普京或发动有限攻击试探北约决心"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient: les dirigeants saoudien, turc et pakistanais en sommet à Jeddah",
+      "title_zh": "中东战争：沙特、土耳其和巴基斯坦领导人在吉达举行峰会",
+      "url": "https://www.france24.com/fr/info-en-continu/20260807-guerre-au-moyen-orient-les-dirigeants-saoudien-turc-et-pakistanais-en-sommet-%C3%A0-jeddah",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-07T03:01:16+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特阿拉伯、土耳其和巴基斯坦的领导人在吉达举行了峰会，讨论中东局势和地区安全问题。",
+        "此次峰会旨在加强三国之间的合作和协调，应对中东地区的挑战和威胁。",
+        "峰会的具体议程和成果没有公开披露，但预计将涉及地区安全、经济合作和反恐等问题。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: les dirigeants saoudien, turc et pakistanais en sommet à Jeddah"
+      }
+    },
+    {
+      "title_original": "中小企業の8割強「中東情勢で仕入れに影響」",
+      "title_zh": "八成中小企业受中东局势影响，采购受到影响",
+      "url": "https://j-net21.smrj.go.jp/news/bt5puv000000r2gc.html",
+      "source": "J-Net21[中小企業ビジネス支援サイト]",
+      "source_score": 40,
+      "published_at": "2026-08-07T02:13:31+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "日本政策金融公库的一项调查显示，82.1%的中小企业受中东局势影响，采购受到影响。",
+        "调查结果显示，中小企业的采购价格上涨，半数以上的企业无法将价格转嫁给客户。",
+        "中东局势的恶化对中小企业的经营产生了重大影响，尤其是在衣生活、电机和电子器件等行业。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "J-Net21[中小企業ビジネス支援サイト]"
+      ],
+      "all_titles": {
+        "ja": "中小企業の8割強「中東情勢で仕入れに影響」"
+      }
+    },
+    {
+      "title_original": "GOP Rep. Andy Ogles ousted in Tennessee primary",
+      "title_zh": "田纳西州共和党初选：安迪·奥格斯落选",
+      "url": "https://www.politico.com/news/2026/08/06/ogles-loses-tennessee-house-primary-01028492",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-06T21:11:09-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "田纳西州共和党初选中，安迪·奥格斯落选，这是特朗普支持的候选人本周第二次失利。",
+        "奥格斯的落选表明，特朗普在田纳西州的影响力可能不如预期，或者奥格斯的竞选策略存在问题。",
+        "此次初选的结果可能会影响田纳西州的政治格局和未来选举的走向。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "GOP Rep. Andy Ogles ousted in Tennessee primary"
+      }
+    },
+    {
+      "title_original": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "title_zh": "欧足联表示可能仍会继续抵制，英足总撤回对英菲尼托的支持",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-07T01:57:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧足联表示，尽管英菲尼托的计划被放弃，但其条件尚未得到满足，可能仍会继续抵制。",
+        "英格兰足球协会已经撤回了对英菲尼托的支持，理由是英菲尼托计划将世界杯的股份出售给私人投资者。",
+        "欧足联已经表示失去了对英菲尼托的信任，称英菲尼托的计划是一个“卑鄙、黑箱、不透明的交易”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Uefa says boycott may still go ahead as FA withdraws Infantino support"
+      }
+    },
+    {
+      "title_original": "Trump imposes 15% tariff on key chip material to counter China",
+      "title_zh": "特朗普对关键芯片材料施加15%关税以应对中国",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-07T01:03:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普总统签署了一项行政命令，施加15%的关税于从中国进口的多晶硅，这是一种用于半导体和太阳能板的关键材料。",
+        "这一举动旨在保护美国制造商免受中国芯片行业的竞争压力，后者是全球两大经济体之间的主要冲突点之一。",
+        "中国驻华盛顿大使馆表示，这一举动“严重破坏”了两国之间的贸易，并称北京将采取措施保护其公司"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump imposes 15% tariff on key chip material to counter China"
+      }
+    },
+    {
+      "title_original": "Meta fined $567m in largest child safety ruling against social media giant",
+      "title_zh": "Meta被罚5.67亿美元，这是对社交媒体巨头最大的一次儿童安全判决",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-07T00:54:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "新墨西哥州的一名法官命令Meta支付5.67亿美元的罚款，因为该公司未能警告公众其平台对儿童构成的危险。",
+        "这一判决是对Meta公司最大的一次儿童安全判决，之前Meta已经被命令支付3.75亿美元的罚款。",
+        "Meta公司表示不同意这一判决，并将提出上诉"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Meta fined $567m in largest child safety ruling against social media giant"
+      }
+    },
+    {
+      "title_original": "Two people convicted in relation to death of French streamer",
+      "title_zh": "两名男子被判与法国主播死亡有关",
+      "url": "https://www.bbc.co.uk/news/articles/c8rnmdy4enpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-07T00:51:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "两名男子被判定因法国主播Raphaël Graven的死亡而承担责任，Graven曾在直播中接受过极端挑战。",
+        "这两名男子被判处缓刑，并被命令支付罚款，因为他们在Graven死亡中扮演了角色。",
+        "检察官认为Graven的死亡可能是由于他长期的健康问题和脆弱的心脏引起的"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Two people convicted in relation to death of French streamer"
+      }
+    },
+    {
+      "title_original": "ウクライナ、農家に支援策 ロシアの港湾・船舶攻撃で輸出に打撃（ロイター）",
+      "title_zh": "乌克兰为农户提供支持，俄罗斯对港口和船舶的攻击导致出口受损",
+      "url": "https://news.yahoo.co.jp/articles/29434ba5af7c42d9c107456baa3a63cf41cc08fd",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-07T00:18:39+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基表示，将为农户提供支持，因为他们的出口受到了俄罗斯对港口和船舶的攻击的影响。",
+        "这一支持措施包括补助贷款等资金支持，旨在帮助农户度过难关。",
+        "乌克兰和俄罗斯是世界上最大的小麦出口国，近几周来，两国一直在黑海地区相互攻击对方的农产品出口设施和商船"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、農家に支援策 ロシアの港湾・船舶攻撃で輸出に打撃（ロイター）"
+      }
+    },
+    {
+      "title_original": "国連事務総長、ロシアとウクライナ両国を非難 民間人狙った攻撃めぐり",
+      "title_zh": "国連事務总长谴责俄罗斯和乌克兰针对平民的攻击",
+      "url": "https://www.afpbb.com/articles/-/3647538",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-07T00:04:59+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "国联的安东尼奥·古特雷斯秘书长于6日就针对平民和民用基础设施的攻击谴责了俄罗斯和乌克兰。",
+        "乌克兰总统沃洛迪米尔·泽连斯基于6日宣布，夜间攻击击中了俄罗斯巴什科尔托斯坦共和国和雅罗斯拉夫尔州的一个炼油厂。",
+        "近几个月，双方的远程攻击升级，导致平民死亡人数急剧增加。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "国連事務総長、ロシアとウクライナ両国を非難 民間人狙った攻撃めぐり"
+      }
+    },
+    {
+      "title_original": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
+      "title_zh": "监管机构发现Doge夸大了其为美国人节省1100亿美元的说法",
+      "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-06T23:55:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "政府问责局（GAO）的一份报告发现，Doge关于其“收据墙”报告的1100亿美元节省是“不正确或缺乏支持证据”的。",
+        "报告指出，Doge没有提供足够的信息来验证其计算节省的方法。",
+        "报告还发现，Doge关于终止租约和合同的说法中，有些是错误或没有实现的节省。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Doge overstated claims to have saved Americans $110bn, watchdog finds"
+      }
+    },
+    {
+      "title_original": "Wall Street rompe su racha alcista: El petróleo y Oriente Medio golpean al Dow Jones",
+      "title_zh": "华尔街连续上涨势头被打破：石油和中东问题影响道琼斯指数",
+      "url": "https://comercio.tv/2026/08/06/wall-street-rompe-su-racha-alcista-el-petroleo-y-oriente-medio-golpean-al-dow-jones/",
+      "source": "Comercio TV",
+      "source_score": 40,
+      "published_at": "2026-08-06T23:21:05+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于中东问题和石油价格上涨，道琼斯指数下跌，结束了其连续上涨的势头。",
+        "中东问题的不确定性导致投资者情绪恶化，卖盘占据了市场。",
+        "石油价格上涨对市场产生了负面影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Comercio TV"
+      ],
+      "all_titles": {
+        "es": "Wall Street rompe su racha alcista: El petróleo y Oriente Medio golpean al Dow Jones"
+      }
+    },
+    {
+      "title_original": "（朝）米国市場は3指数揃って下落　中東情勢悪化懸念から投資家心理が悪化し売り優勢の展開",
+      "title_zh": "美国市场三大指数齐跌：中东局势恶化导致投资者情绪恶化，卖盘占据市场",
+      "url": "https://media.monex.co.jp/articles/-/29908",
+      "source": "マネクリ",
+      "source_score": 40,
+      "published_at": "2026-08-06T23:09:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于中东局势恶化，投资者情绪恶化，美国市场三大指数齐跌。",
+        "道琼斯指数下跌464.02点，收于53,885.10点。",
+        "纳斯达克综合指数和S&P 500指数也下跌。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "マネクリ"
+      ],
+      "all_titles": {
+        "ja": "（朝）米国市場は3指数揃って下落　中東情勢悪化懸念から投資家心理が悪化し売り優勢の展開"
+      }
+    },
+    {
+      "title_original": "Petrobras posts third-highest profit as Middle East conflict lifts oil prices",
+      "title_zh": "巴西石油公司Petrobras盈利排名第三，中东冲突推高油价",
+      "url": "https://www.reuters.com/business/energy/petrobras-net-profit-nearly-doubles-second-quarter-2026-08-06/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-06T22:51:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "巴西石油公司Petrobras公布了其历史上第三高的盈利，得益于中东冲突推高的油价。",
+        "中东冲突导致油价上涨，Petrobras因此受益。",
+        "Petrobras的盈利排名第三，表明公司在当前市场环境下的表现良好。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Petrobras posts third-highest profit as Middle East conflict lifts oil prices"
+      }
+    },
+    {
+      "title_original": "Taiwán activa la punta de lanza de la estrategia del \"puercoespín\"",
+      "title_zh": "台湾启动“豪猪”战略",
+      "url": "https://www.elmundo.es/internacional/2026/08/07/6a7492e1fc6c83f8618b4594.html",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-08-06T22:10:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾启动新的海岸作战部队，旨在加强对抗中国大陆的能力。",
+        "中国大陆在台湾周边海域进行军事演习，台湾方面加强警戒。",
+        "台湾的“豪猪”战略旨在通过提高防御能力来阻止中国大陆的入侵企图。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "Taiwán activa la punta de lanza de la estrategia del \"puercoespín\""
+      }
+    },
+    {
+      "title_original": "Wall Street cae mientras los inversores ponen foco en Oriente Medio y resultados",
+      "title_zh": "华尔街下跌，投资者关注中东和公司业绩",
+      "url": "https://forbes.co/2026/08/06/economia-y-finanzas/wall-street-cae-mientras-los-inversores-ponen-foco-en-oriente-medio-y-resultados/",
+      "source": "Forbes Colombia",
+      "source_score": 55,
+      "published_at": "2026-08-06T22:07:42+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "华尔街主要股指下跌，投资者关注中东局势和公司业绩。",
+        "中东局势的发展可能会影响全球能源供应和经济稳定。",
+        "投资者正在等待更多关于中东和平谈判的消息。"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Forbes Colombia",
+        "Ici Beyrouth"
+      ],
+      "all_titles": {
+        "es": "Wall Street cae mientras los inversores ponen foco en Oriente Medio y resultados",
+        "fr": "Les Bourses mondiales suspendues au Moyen-Orient, records en Europe"
+      }
+    },
+    {
+      "title_original": "Posible acuerdo sobre Ormuz, ataque en Yemen y más noticias de Oriente Medio",
+      "title_zh": "可能达成霍尔木兹协议， 也门遭袭及其他中东新闻",
+      "url": "https://apnews.com/article/oriente-medio-libano-iran-eeuu-ormuz-c0eb5d27350592a314a5e64dc4dd7691",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-08-06T22:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗和阿曼可能达成协议，重新开放霍尔木兹海峡。",
+        "也门的胡塞叛军对沙特阿拉伯和阿联酋发动了袭击。",
+        "中东局势仍然复杂，多个国家和势力都在争夺影响力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "es": "Posible acuerdo sobre Ormuz, ataque en Yemen y más noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient : \"impliqué dans la négociation\", Donald Trump assure que le détroit d'Ormuz pourrait rouvrir \"bientôt\"",
+      "title_zh": "中东：特朗普表示，霍尔木兹海峡可能“很快”重新开放",
+      "url": "https://www.tf1info.fr/international/guerre-au-moyen-orient-implique-dans-la-negociation-donald-trump-assure-que-le-detroit-d-ormuz-iran-pourrait-rouvrir-bientot-2457231.html",
+      "source": "TF1 Info",
+      "source_score": 40,
+      "published_at": "2026-08-06T21:17:32+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国总统特朗普表示，霍尔木兹海峡可能“很快”重新开放。",
+        "伊朗和阿曼可能达成协议，重新开放霍尔木兹海峡。",
+        "中东局势的发展可能会影响全球能源供应和经济稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "TF1 Info"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient : \"impliqué dans la négociation\", Donald Trump assure que le détroit d'Ormuz pourrait rouvrir \"bientôt\""
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Drohnen greifen deutschen Frachter an – Ukraine baut eigenes Abwehr-System",
+      "title_zh": "乌克兰战争最新：无人机袭击德国货船，乌克兰建立自己的防御系统",
+      "url": "https://www.fr.de/politik/angriff-ukraine-krieg-aktuell-news-ticker-russland-putin-verluste-kiew-zr-94429482.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-06T20:47:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争中，德国货船遭到无人机袭击，目前船只停靠在敖德萨附近。",
+        "前乌克兰国防部长米哈伊洛·费多罗夫呼吁对俄罗斯的弹道导弹发射团进行有针对性的打击。",
+        "美国总统唐纳德·特朗普拒绝了乌克兰关于提供更多军事援助的请求，理由是美国的武器库已经耗尽。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Drohnen greifen deutschen Frachter an – Ukraine baut eigenes Abwehr-System"
+      }
+    },
+    {
+      "title_original": "Wall Street termine en baisse, les incertitudes au Moyen-Orient inquiètent",
+      "title_zh": "华尔街收盘下跌，中东不确定性令人担忧",
+      "url": "https://www.france24.com/fr/info-en-continu/20260806-wall-street-termine-en-baisse-les-incertitudes-au-moyen-orient-inqui%C3%A8tent",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-06T20:09:09+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于中东不确定性，华尔街股市收盘下跌，投资者对该地区的局势感到担忧。",
+        "中东局势的不稳定性对全球经济产生了影响，导致投资者谨慎行事。",
+        "当前的不确定性使得投资者难以预测市场的走势，导致投资者情绪低落。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Wall Street termine en baisse, les incertitudes au Moyen-Orient inquiètent"
+      }
+    },
+    {
+      "title_original": "ウクライナ、国産弾道ミサイルを切り札に 和平交渉は再開するか",
+      "title_zh": "乌克兰将国产弹道导弹作为王牌，和平谈判是否重启",
+      "url": "https://www.nikkei.com/article/DGXZQOCD313S40R30C26A7000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-06T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰正在开发国产弹道导弹，以作为对抗俄罗斯的王牌。",
+        "乌克兰计划在今年秋天部署首批国产弹道导弹，射程可达莫斯科。",
+        "乌克兰的国产弹道导弹计划可能会影响乌克兰和俄罗斯之间的和平谈判。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、国産弾道ミサイルを切り札に 和平交渉は再開するか"
+      }
+    },
+    {
+      "title_original": "حوار تحت ضجيج المسيّرات.. ماذا يجري خلف كواليس حرب أوكرانيا؟",
+      "title_zh": "在无人机的轰鸣声中，乌克兰战争的背后到底发生了什么",
+      "url": "https://www.aljazeera.net/politics/2026/8/6/%D8%AD%D9%88%D8%A7%D8%B1-%D8%AA%D8%AD%D8%AA-%D8%B6%D8%AC%D9%8A%D8%AC-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D8%AC%D8%B1%D9%8A-%D8%AE%D9%84%D9%81",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-06T19:39:02+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争的局势仍在持续，双方都在使用无人机进行攻击。",
+        "乌克兰和俄罗斯之间的和平谈判仍然停滞不前，双方都没有表现出妥协的意愿。",
+        "乌克兰战争的持续对当地民众产生了严重的影响，许多人已经流离失所。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "حوار تحت ضجيج المسيّرات.. ماذا يجري خلف كواليس حرب أوكرانيا؟"
+      }
+    },
+    {
+      "title_original": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
+      "title_zh": "TikTok 网红悉尼·陶尔（Sydney Towle）因癌症去世，享年 26 岁",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n1eyze05o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-06T19:17:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "悉尼·陶尔是一位因分享自己抗癌经历而成名的TikTok网红，最近因癌症并发症去世，享年26岁。",
+        "她在TikTok和Instagram上拥有大量粉丝，分享自己的抗癌经历和生活故事。",
+        "她的去世引起了粉丝和网友的广泛哀悼和祝福。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26"
+      }
+    },
+    {
+      "title_original": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "title_zh": "特朗普否认美国武器短缺，并称正在追捕泄密者",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-06T18:53:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普否认美国正在经历武器短缺，称美国拥有大量的弹药，尤其是某些类型的弹药。",
+        "伊朗对美国武器短缺的报道做出回应，称其本土生产的武器使其能够应对任何威胁。",
+        "美国国防部面临着关于军队武器库状态的日益增长的问题，战争已经持续六个月，和平协议仍然难以实现。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'"
+      }
+    },
+    {
+      "title_original": "Taïwan bloque un pont stratégique lors de la simulation d'une invasion par la Chine",
+      "title_zh": "台湾在模拟中国入侵时封锁了一座战略桥梁",
+      "url": "https://www.france24.com/fr/info-en-continu/20260806-ta%C3%AFwan-bloque-un-pont-strat%C3%A9gique-lors-de-la-simulation-d-une-invasion-par-la-chine",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-06T18:43:12+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾在模拟中国入侵时封锁了一座战略桥梁，这是台湾为应对潜在的中国军事威胁而进行的军事演习的一部分。",
+        "这座桥梁对于台湾的国防至关重要，封锁它可以阻止中国军队的推进。",
+        "台湾的军事演习旨在提高其国防能力，并展示其抵御中国军事威胁的决心。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Taïwan bloque un pont stratégique lors de la simulation d'une invasion par la Chine"
+      }
+    },
+    {
+      "title_original": "Artificial Intelligence used to design brand new viruses",
+      "title_zh": "人工智能被用于设计全新的病毒",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-06T18:01:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国研究人员使用人工智能设计了全新的、功能齐全的病毒，这些病毒可以在实验室中复制。",
+        "这项突破被认为是科学领域的一个重要里程碑，可能会开启新的疾病治疗方法。",
+        "然而，专家们也警告说，人工智能设计的病毒也带来了安全和保安方面的担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Artificial Intelligence used to design brand new viruses"
+      }
+    },
+    {
+      "title_original": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+      "title_zh": "韩国航天机构在SpaceX火箭残骸撞月后分享月球图像",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-06T17:38:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "韩国航天机构发布了月球图像，显示了SpaceX火箭残骸撞击月球后的情况。",
+        "火箭残骸撞击月球的事件并非故意为之，SpaceX表示这是一次意外事故。",
+        "这一事件引发了人们对太空垃圾问题的担忧，专家警告说，太空中的垃圾可能会对未来太空探索造成障碍。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "South Korea space agency shares Moon images after SpaceX rocket debris crash"
+      }
+    },
+    {
+      "title_original": "Thousands of migrants still in Ceuta after border crisis, local leader says",
+      "title_zh": "当地领导人称，塞우塔边境危机后仍有数千名移民滞留",
+      "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-06T17:36:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "塞乌塔的当地领导人表示，尽管已经有一些移民被遣返回国，但仍有3000到5000名移民滞留在塞乌塔。",
+        "最近的移民潮导致了100人死亡，当地领导人对此表示深深的遗憾。",
+        "欧盟委员会赞扬了西班牙政府对移民危机的快速响应，但也有人批评西班牙政府的处理方式。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Thousands of migrants still in Ceuta after border crisis, local leader says"
+      }
+    }
+  ]
+}
