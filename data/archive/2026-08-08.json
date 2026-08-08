@@ -1,0 +1,790 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T03:57:39.003911+00:00",
+  "count": 31,
+  "articles": [
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 05:29 Russland-Experte sieht viele Fragen bei Sprengstoff-Drohne +++",
+      "title_zh": "乌克兰战争直播：俄罗斯专家对炸药无人机提出许多疑问",
+      "url": "https://www.n-tv.de/politik/05-29-Russland-Experte-sieht-viele-Fragen-bei-Sprengstoff-Drohne-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-08T03:30:51+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯专家马蒂亚斯·乌尔对炸药无人机事件提出疑问，认为可能是俄罗斯情报机构的行动，但也存在一些疑点。",
+        "乌克兰战争持续，俄罗斯对基辅和周边地区发动了弹道导弹、无人机和滑翔炸弹袭击，造成至少三人死亡和多人受伤。",
+        "德国安全专家马克·亨里希曼认为俄罗斯在乌克兰的进展不顺利，可能会转向西方，包括北约和欧盟，进行攻击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 05:29 Russland-Experte sieht viele Fragen bei Sprengstoff-Drohne +++"
+      }
+    },
+    {
+      "title_original": "Alors que la guerre de l’OTAN et de l’Ukraine contre la Russie s’intensifie, les attaques de drones contre des navires en mer Noire se multiplient",
+      "title_zh": "北约和乌克兰对俄罗斯的战争加剧，黑海的无人机袭击事件增多",
+      "url": "https://www.wsws.org/fr/articles/2026/08/08/rfwu-a08.html",
+      "source": "World Socialist Web Site",
+      "source_score": 40,
+      "published_at": "2026-08-08T03:27:27+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北约和乌克兰对俄罗斯的战争正在加剧，黑海的无人机袭击事件也在增加。",
+        "无人机袭击事件主要针对俄罗斯的船只，可能是乌克兰军队的行动。",
+        "战争的升级可能会导致更多的无人机袭击事件，黑海地区的局势可能会进一步恶化。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "World Socialist Web Site"
+      ],
+      "all_titles": {
+        "fr": "Alors que la guerre de l’OTAN et de l’Ukraine contre la Russie s’intensifie, les attaques de drones contre des navires en mer Noire se multiplient"
+      }
+    },
+    {
+      "title_original": "俄罗斯黑客：获取北约直接参与袭击俄领土证据，北约向乌军提供袭击坐标情报",
+      "title_zh": "俄罗斯黑客：获取北约直接参与袭击俄领土证据，北约向乌军提供袭击坐标情报",
+      "url": "https://m.sohu.com/a/1060304548_120347736?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "sohu.com",
+      "source_score": 40,
+      "published_at": "2026-08-08T03:06:54+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯黑客声称获取了北约直接参与袭击俄罗斯领土的证据，北约向乌克兰军队提供了袭击坐标情报。",
+        "黑客组织可能已经获取了北约的情报系统，获得了有关俄罗斯领土的袭击信息。",
+        "北约和乌克兰军队可能会加强合作，共同对抗俄罗斯的军事行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "sohu.com"
+      ],
+      "all_titles": {
+        "zh": "俄罗斯黑客：获取北约直接参与袭击俄领土证据，北约向乌军提供袭击坐标情报"
+      }
+    },
+    {
+      "title_original": "Opinion | Russia keeps testing NATO. The lack of response will embolden Putin.",
+      "title_zh": "俄罗斯继续测试北约，缺乏反应将使普京更加大胆",
+      "url": "https://www.washingtonpost.com/opinions/2026/08/07/russia-probes-nato-defenses-trump-could-empower-ukraine-respond/",
+      "source": "The Washington Post",
+      "source_score": 75,
+      "published_at": "2026-08-08T02:42:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯继续测试北约的防御能力，北约的缺乏反应可能会使普京更加大胆地采取军事行动。",
+        "北约需要加强对俄罗斯的军事威慑，防止俄罗斯进一步的侵略行为。",
+        "乌克兰战争的持续可能会导致北约和俄罗斯之间的紧张关系进一步升级。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "The Washington Post"
+      ],
+      "all_titles": {
+        "en": "Opinion | Russia keeps testing NATO. The lack of response will embolden Putin."
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Wildberries warehouse struck by Kyiv’s drones more than 2,000km from Russian border",
+      "title_zh": "乌克兰战争简报：基辅的无人机袭击了距离俄罗斯边境2000多公里的野莓仓库",
+      "url": "https://www.theguardian.com/world/2026/aug/08/ukraine-war-briefing-wildberries-warehouse-struck-by-kyivs-drones-more-than-2000km-from-russian-border",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-08T02:26:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队的无人机袭击了距离俄罗斯边境2000多公里的野莓仓库，仓库被烧毁。",
+        "袭击事件可能是乌克兰军队对俄罗斯的报复行动，俄罗斯最近也对乌克兰发动了多次袭击。",
+        "战争的升级可能会导致更多的无人机袭击事件，双方的军事行动可能会进一步加剧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Wildberries warehouse struck by Kyiv’s drones more than 2,000km from Russian border"
+      }
+    },
+    {
+      "title_original": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’",
+      "title_zh": "皮特·布蒂吉格：每个人都在关注密歇根州",
+      "url": "https://www.politico.com/news/2026/08/07/pete-buttigieg-abdul-el-sayed-unity-rally-01030009",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-07T21:10:38-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "密歇根州的参议院竞选是民主党重建其分裂的联盟的最大考验之一。",
+        "民主党需要在密歇根州取得胜利，以重建其在中西部的影响力。",
+        "密歇根州的选举结果将对民主党的未来产生重要影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Pete Buttigieg: Everyone’s ‘watching the state of Michigan right now’"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Russische Angriffswelle auf Kiew und Umgebung – Kind unter den Todesopfern",
+      "title_zh": "乌克兰战争：俄罗斯对基辅和周边地区发动攻击，儿童在死亡人员中",
+      "url": "https://www.welt.de/politik/ausland/article6a7685b40e3689919ec7480b/ukraine-krieg-russische-angriffswelle-auf-kiew-und-umgebung-kind-unter-den-todesopfern.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-08-08T01:54:17+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰基辅和周边地区发动了大规模攻击，造成至少三人死亡，包括一名儿童。",
+        "俄罗斯使用了弹道导弹、无人机和制导炸弹进行攻击。",
+        "乌克兰军队目前几乎无法抵御俄罗斯的攻击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Russische Angriffswelle auf Kiew und Umgebung – Kind unter den Todesopfern"
+      }
+    },
+    {
+      "title_original": "「ロシアがNATO限定侵攻の可能性も」 米情報機関が分析か",
+      "title_zh": "美国情报机构分析俄罗斯可能对北约发动有限入侵",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015199861000",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-08T01:19:45+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "美国情报机构分析认为，俄罗斯可能对北约发动有限入侵。",
+        "俄罗斯可能通过网络攻击或小规模入侵来测试北约的决心。",
+        "美国情报机构认为，俄罗斯的行动可能不会超过北约的忍耐限度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "「ロシアがNATO限定侵攻の可能性も」 米情報機関が分析か"
+      }
+    },
+    {
+      "title_original": "沙巴土三国签协议，印度紧张：“伊斯兰版北约”来了？",
+      "title_zh": "沙特、巴基斯坦、土耳其三国签署协议，印度紧张：伊斯兰版北约来了？",
+      "url": "https://mil.ifeng.com/c/8vPqZbpbAqq",
+      "source": "mil.ifeng.com",
+      "source_score": 40,
+      "published_at": "2026-08-08T00:47:52+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特、巴基斯坦、土耳其三国签署了《麦加共同防务协议》。",
+        "协议规定，对三国中任何一国的武装攻击，将被视为对三国全体的攻击。",
+        "印度对该协议的签署表示担忧，认为可能会形成“伊斯兰版北约”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "mil.ifeng.com"
+      ],
+      "all_titles": {
+        "zh": "沙巴土三国签协议，印度紧张：“伊斯兰版北约”来了？"
+      }
+    },
+    {
+      "title_original": "プーチン氏、数年以内にNATO加盟国へ限定攻撃も 結束を試すため 米情報機関分析",
+      "title_zh": "普京可能在几年内对北约成员国发动有限攻击，以测试北约的决心",
+      "url": "https://www.cnn.co.jp/usa/35251434.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-08T00:26:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国情报机构分析认为，普京可能在几年内对北约成员国发动有限攻击，以测试北约的决心。",
+        "俄罗斯可能通过网络攻击或小规模入侵来测试北约的决心。",
+        "美国情报机构认为，俄罗斯的行动可能不会超过北约的忍耐限度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏、数年以内にNATO加盟国へ限定攻撃も 結束を試すため 米情報機関分析"
+      }
+    },
+    {
+      "title_original": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+      "title_zh": "美国参议院通过对俄罗斯能源制裁法案",
+      "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-08T00:13:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国参议院通过了一项针对俄罗斯能源的制裁法案，法案包括对俄罗斯石油和天然气进口商征收100%关税。",
+        "该法案旨在打击俄罗斯的能源收入，尤其是在俄罗斯入侵乌克兰的背景下。",
+        "法案现在将提交众议院审议，预计将在九月初进行投票。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war"
+      }
+    },
+    {
+      "title_original": "“中东版北约”诞生了？给美国的一个强烈信号",
+      "title_zh": "“中东版北约”诞生了？给美国的一个强烈信号",
+      "url": "https://news.ifeng.com/c/8vPnmptbds0",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-08-07T23:52:32+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特王储萨勒曼、土耳其总统埃尔多安和巴基斯坦总理夏巴兹签署了《麦加协议》，被认为是“中东版北约”的诞生。",
+        "该协议规定，对三个国家之一的任何武装攻击，都应被视为对所有国家的攻击。",
+        "这一协议被认为是对美国的一个强烈信号，表明中东格局正在发生深刻的变化，美国被视为一个越来越不可靠的合作伙伴。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "“中东版北约”诞生了？给美国的一个强烈信号"
+      }
+    },
+    {
+      "title_original": "28000吨核巨兽满血复活！北约盟友悍然开火，乌军火烈鸟远程轰炸",
+      "title_zh": "28000吨核巨兽满血复活！北约盟友悍然开火，乌军火烈鸟远程轰炸",
+      "url": "https://mil.ifeng.com/c/8vP0KFC95Gt",
+      "source": "mil.ifeng.com",
+      "source_score": 40,
+      "published_at": "2026-08-07T23:18:48+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯的“纳希莫夫海军上将”号核动力巡洋舰重新服役，具有重要的战略价值和象征意义。",
+        "乌克兰军队正在发展远程打击能力，包括“火烈鸟”远程巡航导弹，以应对俄罗斯的攻击。",
+        "俄乌冲突中，远程武器的使用频率增加，双方都在加强远程打击能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "mil.ifeng.com"
+      ],
+      "all_titles": {
+        "zh": "28000吨核巨兽满血复活！北约盟友悍然开火，乌军火烈鸟远程轰炸"
+      }
+    },
+    {
+      "title_original": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "title_zh": "西班牙对意大利实施边境管制，塞乌塔移民潮争议加剧",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-07T22:13:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙对来自意大利的所有空中和海上旅行实施边境管制，作为对意大利类似限制的回应，后者是在塞乌塔发生移民潮后实施的。",
+        "西班牙和意大利之间的争议源于塞乌塔发生的移民潮，约有78000名移民从摩洛哥进入西班牙的塞乌塔。",
+        "西班牙和意大利的领导人分别是佩德罗·桑切斯和吉奥尔吉娅·梅洛尼，他们在移民问题上存在分歧，导致两国关系紧张。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies"
+      }
+    },
+    {
+      "title_original": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+      "title_zh": "亨特·拜登告诉BBC，他的特赦令对美国或他父亲的遗产“不好”",
+      "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-07T22:07:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "亨特·拜登接受BBC采访时表示，他的特赦令对美国和他父亲的遗产“不好”。",
+        "亨特·拜登的特赦令是由他的父亲、前美国总统乔·拜登颁发的，引发了争议和批评。",
+        "亨特·拜登表示，他理解批评者们的看法，但他认为他的父亲出于关心他在特朗普政府任期内可能面临的处境而颁发了特赦令。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy"
+      }
+    },
+    {
+      "title_original": "Spain to introduce temporary border checks on visitors from Italy",
+      "title_zh": "西班牙将对来自意大利的访客实施临时边境检查",
+      "url": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-07T21:44:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙将对来自意大利的访客实施临时边境检查，作为对意大利类似措施的回应，后者是在塞乌塔发生移民潮后实施的。",
+        "西班牙的临时边境检查将从星期六午夜开始，持续到9月7日，目的是应对意大利面临的“持续不规则移民压力”。",
+        "西班牙和意大利之间的争议源于塞乌塔发生的移民潮，约有78000名移民从摩洛哥进入西班牙的塞乌塔。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Spain to introduce temporary border checks on visitors from Italy"
+      }
+    },
+    {
+      "title_original": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "title_zh": "泰国总理在八人被枪杀后誓言将引入更严格的枪支法",
+      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-07T21:19:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "泰国总理阿努廷·查恩维拉库尔在一名14岁少年枪杀八人后誓言将引入更严格的枪支法。",
+        "该名少年在曼谷郊外的一所学校枪杀五名教师后自杀，另有一名学生后来因伤势不治死亡。",
+        "泰国现行的枪支法规较为宽松，民众拥有大量枪支，政府计划引入更严格的法规以限制枪支持有和使用。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Thai PM vows to introduce stricter gun laws after eight killed in shooting"
+      }
+    },
+    {
+      "title_original": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
+      "title_zh": "索菲亚·拉福特扎离开Katseye，今年第二位离开的成员",
+      "url": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-07T21:05:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "索菲亚·拉福特扎因心理健康问题将暂时离开流行女团Katseye。",
+        "拉福特扎是今年第二位离开该团体的成员，之前曼恩·班纳曼也曾宣布暂时离开。",
+        "Katseye的唱片公司表示，拉福特扎将专注于心理健康和康复，预计九月份会重新评估她的情况。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Sophia Laforteza steps away from Katseye, the second member to depart this year"
+      }
+    },
+    {
+      "title_original": "US police officer accused of killing three people in Mexico arrested at border",
+      "title_zh": "美国警察在墨西哥杀害三人被捕",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-07T20:49:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国德克萨斯州警察查德·埃伯尔被指控在墨西哥萨尔蒂约市杀害三人并重伤一名妇女。",
+        "埃伯尔于周三在边境被捕，墨西哥当局指控他犯有杀害妇女和故意杀人罪。",
+        "该案件涉及埃伯尔与其子母亲的监护权纠纷，墨西哥当局正在调查此案。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "US police officer accused of killing three people in Mexico arrested at border"
+      }
+    },
+    {
+      "title_original": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "title_zh": "被绑架的塞尔维亚鹰被救出并放归野外",
+      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-07T20:40:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "一只名为费利克斯的东方白头鹰被救出并放归塞尔维亚野外。",
+        "这只鹰曾被偷猎者绑架并在叙利亚被捕，后被转移到黎巴嫩的一家野生动物中心。",
+        "经过长时间的谈判和康复，费利克斯终于被放归塞尔维亚野外。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Kidnapped rare Serbian eagle freed into wild after rescue"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Erneut schwere Angriffe auf Wildberries und die besetzte Krim",
+      "title_zh": "乌克兰战争最新：野百合和克里米亚再次遭到重击",
+      "url": "https://www.fr.de/politik/kiew-angriff-ukraine-krieg-aktuell-news-ticker-russland-putin-verluste-zr-94429482.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-07T20:19:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队对克里米亚和野百合地区发动了新的攻击。",
+        "据报道，克里米亚的能源基础设施遭到破坏，导致长时间的停电和燃料短缺。",
+        "乌克兰方面表示，愿意继续战斗，61%的乌克兰人表示愿意“忍受战争，直到必要的时候”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Erneut schwere Angriffe auf Wildberries und die besetzte Krim"
+      }
+    },
+    {
+      "title_original": "Bloque Lineal HIWIN HGW25CC Para Guía De Rodamiento, Hecho En Taiwán, Alta Rigidez Y Precisión Para Maquinaria Industrial",
+      "title_zh": "HIWIN HGW25CC 台湾制造的高刚度和精度工业机械导轨",
+      "url": "https://casag.org.br/Bloque-Lineal-HIWIN-HGW25CC-Para-Gu-a-De-Rodamiento-Hecho-En/577413",
+      "source": "casag.org.br",
+      "source_score": 40,
+      "published_at": "2026-08-07T19:46:52+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "该产品是HIWIN HGW25CC导轨，用于工业机械。",
+        "它具有高刚度和精度，适用于各种工业应用。",
+        "该产品在台湾制造，具有高质量和可靠性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "casag.org.br"
+      ],
+      "all_titles": {
+        "es": "Bloque Lineal HIWIN HGW25CC Para Guía De Rodamiento, Hecho En Taiwán, Alta Rigidez Y Precisión Para Maquinaria Industrial"
+      }
+    },
+    {
+      "title_original": "باسيفيك إنرجي: مشترون من الشرق الأوسط يبدون اهتماما بالغاز الطبيعي المسال الكندي",
+      "title_zh": "太平洋能源：中东买家对加拿大液化天然气感兴趣",
+      "url": "https://www.reuters.com/ar/business/P6FU7HRYCFMKHOQONQ4MPMBTLQ-2026-08-07/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-07T19:37:20+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "太平洋能源公司表示，中东买家对加拿大液化天然气（LNG）表现出兴趣。",
+        "加拿大LNG具有高质量和竞争力，中东买家看好其市场潜力。",
+        "太平洋能源公司正在积极推动加拿大LNG的销售和出口。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "باسيفيك إنرجي: مشترون من الشرق الأوسط يبدون اهتماما بالغاز الطبيعي المسال الكندي"
+      }
+    },
+    {
+      "title_original": "Inteligencia estadounidense evalúa que Putin podría lanzar un ataque para poner a prueba la unidad de la OTAN",
+      "title_zh": "美国情报评估普京可能发动攻击以考验北约的团结",
+      "url": "https://cnnespanol.cnn.com/2026/08/07/mundo/inteligencia-estadounidense-putin-otan-trax",
+      "source": "CNN en Español",
+      "source_score": 95,
+      "published_at": "2026-08-07T19:25:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国情报评估认为，俄罗斯总统普京可能会发动有限的攻击，以考验北约的团结和决心。",
+        "情报评估指出，普京可能会选择对北约成员国发动攻击，以测试北约的反应和团结。",
+        "北约官员表示，北约正在密切监视局势，并准备好采取必要的措施来保护其成员国的安全。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（3个来源）",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "8world",
+        "Fox News",
+        "CNN en Español"
+      ],
+      "all_titles": {
+        "zh": "美国情报评估普京或在几年内对北约成员国发动攻击",
+        "en": "US intel warns Russia could launch limited attack on NATO ally in effort to fragment organization: report",
+        "es": "Inteligencia estadounidense evalúa que Putin podría lanzar un ataque para poner a prueba la unidad de la OTAN"
+      }
+    },
+    {
+      "title_original": "Judge approves Trump effort to end South Sudan TPS protections",
+      "title_zh": "法官批准特朗普结束南苏丹临时保护身份",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-07T18:34:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "一名美国法官批准了特朗普政府的努力，终止南苏丹难民的临时保护身份（TPS）。",
+        "这一决定将影响数百名南苏丹难民，他们目前居住在美国。",
+        "批评者认为，这一决定将使这些难民面临被遣返的风险，并可能使他们处于危险之中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Judge approves Trump effort to end South Sudan TPS protections"
+      }
+    },
+    {
+      "title_original": "US-Raketen werden knapp: Warum das für NATO, Ukraine-Krieg und China zum Problem werden könnte",
+      "title_zh": "美国导弹短缺：为什么这可能成为北约、乌克兰战争和中国的问题",
+      "url": "https://www.fr.de/politik/usa-tomahawk-und-jassm-werden-knapp-risiko-fuer-nato-waechst-zr-94434322.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-07T18:27:15+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "美国在与伊朗的冲突中使用了大量的导弹，导致其库存减少。",
+        "这一短缺可能会影响北约和美国在其他冲突中的军事能力，包括乌克兰战争和潜在的与中国的冲突。",
+        "专家认为，美国需要增加导弹生产以应对这些挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "US-Raketen werden knapp: Warum das für NATO, Ukraine-Krieg und China zum Problem werden könnte"
+      }
+    },
+    {
+      "title_original": "دعوة السيد عبدالله أوجلان هي دعوة للسلام في الشرق الأوسط",
+      "title_zh": "阿卜杜拉·奥贾兰的呼吁是中东的和平呼声",
+      "url": "https://arabic.anf-news.com/akhr-l-khbr/dwt-alsyd-awjlan-hy-dwt-llslam-fy-alshrq-alawst-138805",
+      "source": "ANF | Articles",
+      "source_score": 55,
+      "published_at": "2026-08-07T18:14:05+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "阿卜杜拉·奥贾兰呼吁在中东实现和平与民主。",
+        "奥贾兰的呼吁得到了土耳其和其他国家的支持，人们希望通过对话和谈判来解决冲突。",
+        "中东的和平进程面临着许多挑战，包括恐怖主义和宗派冲突。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "ANF | Articles"
+      ],
+      "all_titles": {
+        "ar": "دعوة السيد عبدالله أوجلان هي دعوة للسلام في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Geopolitics, policy and demand are behind copper's 50% surge, says S&P Global's Dan Yergin",
+      "title_zh": "地缘政治、政策和需求推动了铜价50%的上涨，S&P Global的丹·耶尔金表示",
+      "url": "https://www.cnbc.com/video/2026/08/07/geopolitics-policy-and-demand-are-behind-coppers-50-percent-surge-says-sp-globals-dan-yergin.html",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-08-07T17:55:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "铜价在过去一年中上涨了50%，主要是由于地缘政治、政策和需求的变化。",
+        "S&P Global的丹·耶尔金认为，铜价上涨是由于全球经济增长和基础设施建设的需求增加。",
+        "地缘政治因素，例如贸易战和资源国的政策变化，也对铜价产生了影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "Geopolitics, policy and demand are behind copper's 50% surge, says S&P Global's Dan Yergin"
+      }
+    },
+    {
+      "title_original": "US intel assesses Putin could launch attack aimed at testing NATO unity",
+      "title_zh": "美国情报评估普京可能发动攻击以测试北约团结",
+      "url": "https://www.cnn.com/2026/08/07/politics/us-intelligence-russia-putin-nato-attack",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-08-07T17:47:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国最近的情报评估表明，俄罗斯总统普京可能会试图通过对北约盟国发动有限攻击来测试北约的决心。",
+        "情报评估概述了俄罗斯可能升级的几种可能情景，包括网络攻击和小规模入侵，以挑战北约的团结和对第五条的承诺。",
+        "美国和北约官员认为，普京可能会选择在无法为乌克兰战争找到体面的脱身之路的情况下对北约采取升级行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "en": "US intel assesses Putin could launch attack aimed at testing NATO unity"
+      }
+    },
+    {
+      "title_original": "السعودية وتركيا وباكستان تتعهد بالدفاع المشترك مع تصاعد التوتر في الشرق الأوسط | رويترز",
+      "title_zh": "沙特阿拉伯、土耳其和巴基斯坦在中东紧张局势加剧的情况下承诺共同防御",
+      "url": "https://www.reuters.com/ar/world/UZ74Q5OYVRJJJICUW5FTQKT4KU-2026-08-07/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-07T16:48:41+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特阿拉伯、土耳其和巴基斯坦签署了一项联合防御协议，规定对其中任何一个国家的攻击都将被视为对所有三个国家的攻击。",
+        "该协议旨在加强对任何侵略行为的集体威慑，并规定对三国中任何一个国家的武装攻击都将被视为对三国的攻击。",
+        "三国领导人在沙特城市麦加宣布了该协议，这标志着三个逊尼派穆斯林国家之间的防御合作正式启动。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（3个来源）",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World",
+        "Reuters",
+        "大纪元"
+      ],
+      "all_titles": {
+        "en": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "ar": "السعودية وتركيا وباكستان تتعهد بالدفاع المشترك مع تصاعد التوتر في الشرق الأوسط | رويترز",
+        "zh": "沙特土耳其和巴基斯坦簽署北約式防務協議"
+      }
+    },
+    {
+      "title_original": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+      "title_zh": "西班牙警察逮捕78人，摧毁了“最大的”走私网络之一",
+      "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-07T16:13:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙警察逮捕了78人，摧毁了一个最大的走私网络，该网络涉及走私毒品和人员。",
+        "该网络从西班牙和葡萄牙向阿尔及利亚走私合成毒品，然后利用返回的旅程走私移民和武器到西班牙大陆和伊维萨岛。",
+        "警方在西班牙17个地点进行了搜查，缴获了18艘高速船只、枪支、超过25,000欧元的现金和15,000片MDMA。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks"
+      }
+    }
+  ]
+}
