@@ -1,8 +1,608 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T03:57:39.003911+00:00",
-  "count": 31,
+  "generated_at": "2026-08-08T12:04:09.868793+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title_original": "激変・安全保障 3000人に聞きました",
+      "title_zh": "激变・安全保障 3000人に聞きました",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015188151000",
+      "source": "news.web.nhk",
+      "source_score": 95,
+      "published_at": "2026-08-08T11:36:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本放送协会（NHK）进行了一项调查，询问了3000人关于安全保障的问题。",
+        "调查结果显示，人们对安全保障的关注度正在增加。",
+        "调查还发现，人们对国家安全保障政策的满意度较低。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "news.web.nhk"
+      ],
+      "all_titles": {
+        "ja": "激変・安全保障 3000人に聞きました"
+      }
+    },
+    {
+      "title_original": "Woman screams for her man as Ukraine war recruiters pounce",
+      "title_zh": "乌克兰战争招募人员突然出现，女子为自己的男人尖叫",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-08T11:30:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争招募人员突然出现，女子为自己的男人尖叫。",
+        "一段视频显示，一群男子攻击和强行拘留一名男子，据称是为了乌克兰的军事服务。",
+        "这一事件引发了人们对“巴士化”的担忧，这是乌克兰的一种做法，即将男子强行拉入小巴士进行军事服务。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Woman screams for her man as Ukraine war recruiters pounce"
+      }
+    },
+    {
+      "title_original": "رئيس الوزراء البلغاري: انفجار مسيرة في المجال الجوي للبلاد",
+      "title_zh": "保加利亚总理：国家领空发生爆炸",
+      "url": "https://www.reuters.com/ar/world/XVYI2WWMBVLDPIJDJA5SD75AGY-2026-08-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-08T11:08:30+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "保加利亚总理表示，国家领空发生了一次爆炸。",
+        "爆炸的原因尚不清楚。",
+        "保加利亚政府正在调查此事。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "رئيس الوزراء البلغاري: انفجار مسيرة في المجال الجوي للبلاد"
+      }
+    },
+    {
+      "title_original": "ウクライナ子どもが描いた桜の絵画展 松前桜の寄贈前に 函館",
+      "title_zh": "乌克兰儿童绘制的樱花画展，在松前樱花捐赠之前，于函馆举行",
+      "url": "https://news.web.nhk/newsweb/na/nb-7000087274",
+      "source": "news.web.nhk",
+      "source_score": 95,
+      "published_at": "2026-08-08T10:41:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰儿童绘制的樱花画展在函馆举行。",
+        "画展是为了纪念松前樱花的捐赠。",
+        "松前樱花是日本的一种著名樱花品种。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "news.web.nhk"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ子どもが描いた桜の絵画展 松前桜の寄贈前に 函館"
+      }
+    },
+    {
+      "title_original": "داليا خليفة.. مديرة دائرة الشرق الأوسط في البنك الدولي",
+      "title_zh": "达莉亚·哈利法：国际银行中东地区主任",
+      "url": "https://www.aljazeera.net/encyclopedia/2026/8/8/%D8%AF%D8%A7%D9%84%D9%8A%D8%A7-%D8%AE%D9%84%D9%8A%D9%81%D8%A9-%D9%85%D8%AF%D9%8A%D8%B1%D8%A9-%D8%AF%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-08T10:21:37+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "达莉亚·哈利法是国际银行中东地区的主任。",
+        "她负责中东地区的工作，包括叙利亚、黎巴嫩、伊拉克、约旦和伊朗。",
+        "她的工作重点是促进私营部门的发展、创造就业机会、改善基础设施和增强人力资本。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "داليا خليفة.. مديرة دائرة الشرق الأوسط في البنك الدولي"
+      }
+    },
+    {
+      "title_original": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+      "title_zh": "特朗普前律师托德·布兰奇确认为美国司法部长",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-08T10:19:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "托德·布兰奇是特朗普的前个人律师，现已确认为美国司法部长。",
+        "布兰奇在参议院以50-49票获得确认，两位共和党参议员苏珊·柯林斯和丽莎·穆尔科夫斯基投了反对票。",
+        "参议员比尔·卡西迪的决定是关键因素，他宣布相信布兰奇是特朗普会提名的最佳人选。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general"
+      }
+    },
+    {
+      "title_original": "Los ataques israelies en Gaza destruyen sus sistemas de alcantarillado y la infraestructura civil",
+      "title_zh": "以色列在加沙的袭击摧毁了下水道系统和民用基础设施",
+      "url": "https://www.rfi.fr/es/oriente-medio/20260808-en-gaza-los-ataques-israel%C3%ADes-destruyen-los-sistemas-de-alcantarillado-y-la-infraestructura-civil",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-08-08T10:02:14+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列对加沙的袭击摧毁了当地的下水道系统和民用基础设施。",
+        "这次袭击造成了严重的破坏和人员伤亡。",
+        "加沙的基础设施已经遭受了严重的破坏，居民面临着严重的生活困难。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "es": "Los ataques israelies en Gaza destruyen sus sistemas de alcantarillado y la infraestructura civil"
+      }
+    },
+    {
+      "title_original": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
+      "title_zh": "台北称中国在台风期间对台湾海峡的交通管制命令是“荒谬的”",
+      "url": "https://www.reuters.com/world/china/taipei-says-chinas-traffic-control-order-taiwan-strait-during-typhoon-is-2026-08-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-08T09:42:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台北认为中国在台风期间对台湾海峡的交通管制命令是没有必要的和不合理的。",
+        "中国的这一命令引起了台湾方面的强烈不满和担忧。",
+        "台湾方面认为，这一命令可能会对台湾的航运和经济造成不利影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'"
+      }
+    },
+    {
+      "title_original": "تايوان ستشارك في منتدى جزر المحيط الهادئ رغم معارضة بكين",
+      "title_zh": "台湾将参加太平洋岛国论坛，尽管北京反对",
+      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260808-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%AC%D8%B2%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7-%D8%A7%D9%84%D9%87%D8%A7%D8%AF%D8%A6-%D8%B1%D8%BA%D9%85-%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D8%A8%D9%83%D9%8A%D9%86",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-08T09:21:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾将参加太平洋岛国论坛，尽管北京方面表示反对。",
+        "台湾的参加是为了加强与太平洋岛国的关系和合作。",
+        "北京方面认为，台湾的参加是对其“一个中国”政策的挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "تايوان ستشارك في منتدى جزر المحيط الهادئ رغم معارضة بكين"
+      }
+    },
+    {
+      "title_original": "حرب إيران تخفّض استثمارات الحقول البحرية في الشرق الأوسط 35%",
+      "title_zh": "伊朗战争使中东海上油田投资减少35%",
+      "url": "https://attaqa.net/2026/08/08/%D8%AD%D8%B1%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AE%D9%81%D9%91%D8%B6-%D8%A7%D8%B3%D8%AA%D8%AB%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D8%AD/",
+      "source": "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة",
+      "source_score": 40,
+      "published_at": "2026-08-08T09:00:20+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗战争导致中东海上油田投资减少了35%。",
+        "这一减少是由于战争带来的不确定性和风险所致。",
+        "中东海上油田的投资减少可能会对全球能源市场产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "الطاقة - أول منصة عربية متخصصة في أخبار الطاقة"
+      ],
+      "all_titles": {
+        "ar": "حرب إيران تخفّض استثمارات الحقول البحرية في الشرق الأوسط 35%"
+      }
+    },
+    {
+      "title_original": "Taiwán moviliza barcos y misiles antibuque para recrear el rechazo a un desembarco chino",
+      "title_zh": "台湾动员战舰和反舰导弹模拟对中国登陆的抵御",
+      "url": "https://www.larazon.es/internacional/taiwan-moviliza-barcos-misiles-antibuque-recrear-rechazo-desembarco-chino_202608086a76ef5f71b42a0b5de36edb.html",
+      "source": "La Razón",
+      "source_score": 40,
+      "published_at": "2026-08-08T08:57:03+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾为模拟对中国登陆的抵御，动员了战舰和反舰导弹。",
+        "此次军事演习是台湾年度汉光演习的一部分，旨在检验台湾军队对抗中国潜在入侵的准备状态。",
+        "演习中，台湾海军部署了能够携带反舰导弹的战舰和快速攻击艇等，模拟了对中国登陆部队的攻击和防御。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "La Razón"
+      ],
+      "all_titles": {
+        "es": "Taiwán moviliza barcos y misiles antibuque para recrear el rechazo a un desembarco chino"
+      }
+    },
+    {
+      "title_original": "俄黑客称掌握“书面证据”： 北约曾直接参与袭击俄罗斯 美情报机构重新评估： 俄或在未来几年授权对北约发动有限攻击",
+      "title_zh": "俄黑客称掌握“书面证据”： 北约曾直接参与袭击俄罗斯 美情报机构重新评估： 俄或在未来几年授权对北约发动有限攻击",
+      "url": "https://m.sohu.com/a/1060414291_116237?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-08T08:52:04+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯黑客声称获得了北约直接参与袭击俄罗斯的书面证据。",
+        "美国情报机构重新评估了俄罗斯可能在未来几年对北约发动有限攻击的可能性。",
+        "这一事件可能导致俄罗斯和北约之间的紧张关系进一步升级。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "俄黑客称掌握“书面证据”： 北约曾直接参与袭击俄罗斯 美情报机构重新评估： 俄或在未来几年授权对北约发动有限攻击"
+      }
+    },
+    {
+      "title_original": "3メガバンク、外貨の資金余力198兆円に 中東情勢や対米投資に備え",
+      "title_zh": "三家大型银行外币资金余额达到198兆日元，以应对中东局势和对美投资",
+      "url": "https://www.nikkei.com/article/DGXZQOUB102JP0Q6A610C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-08T08:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "三家大型银行的外币资金余额达到198兆日元，主要是为了应对中东局势和对美投资的需要。",
+        "这三家银行包括三菱UFJ银行等，通过增加外币预备和市场调剂来确保流动性。",
+        "此举是为了应对中东局势的不确定性和对美投资的潜在风险。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "3メガバンク、外貨の資金余力198兆円に 中東情勢や対米投資に備え"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（8月8日の動き）",
+      "title_zh": "俄罗斯对乌克兰的军事入侵（8月8日最新动态）",
+      "url": "https://news.web.nhk/newsweb/na/na-k10015192491000",
+      "source": "news.web.nhk",
+      "source_score": 95,
+      "published_at": "2026-08-08T07:25:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯继续对乌克兰进行军事入侵，造成了大量人员伤亡和财产损失。",
+        "乌克兰军队正在抵御俄罗斯的入侵，并对俄罗斯军队进行反击。",
+        "国际社会对俄罗斯的入侵行为进行了广泛的谴责，并对乌克兰提供了大量的援助。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "news.web.nhk"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（8月8日の動き）"
+      }
+    },
+    {
+      "title_original": "Les services secrets américains redoutent une attaque russe contre l’OTAN, révèle le «Wall Street Journal». Poutine chercherait à tester la solidarité de l’Alliance en pleine fragilité militaire des Etats-Unis. 👉 Retrouvez l'article complet : https://brnw.ch/21x4LH4",
+      "title_zh": "美国情报机构担心俄罗斯可能攻击北约，普京试图在美国军事力量薄弱时测试北约的团结",
+      "url": "https://www.facebook.com/blickfr/photos/les-services-secrets-am%C3%A9ricains-redoutent-une-attaque-russe-contre-lotan-r%C3%A9v%C3%A8le-/1422042003314388/",
+      "source": "facebook.com",
+      "source_score": 40,
+      "published_at": "2026-08-08T07:02:27+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国情报机构担心俄罗斯可能攻击北约",
+        "普京试图在美国军事力量薄弱时测试北约的团结",
+        "此事件可能导致地缘政治紧张局势加剧"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "facebook.com"
+      ],
+      "all_titles": {
+        "fr": "Les services secrets américains redoutent une attaque russe contre l’OTAN, révèle le «Wall Street Journal». Poutine chercherait à tester la solidarité de l’Alliance en pleine fragilité militaire des Etats-Unis. 👉 Retrouvez l'article complet : https://brnw.ch/21x4LH4"
+      }
+    },
+    {
+      "title_original": "Child among three killed in Russian missile attacks near Kyiv",
+      "title_zh": "俄罗斯导弹袭击基辅附近地区，造成三人死亡，包括一名儿童",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-08T06:12:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯导弹袭击基辅附近地区，造成三人死亡，包括一名儿童",
+        "袭击导致多处建筑物和汽车受损",
+        "乌克兰总统泽连斯基正在访问塞尔维亚，讨论经济和安全问题"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Child among three killed in Russian missile attacks near Kyiv"
+      }
+    },
+    {
+      "title_original": "Líderes de Irán creen que la victoria está al alcance y que el tiempo les favorece",
+      "title_zh": "伊朗领导人认为胜利在望，时间站在他们这边",
+      "url": "https://www.independentespanol.com/noticias/eeuu/lideres-de-iran-creen-que-la-victoria-esta-al-alcance-y-que-el-tiempo-les-favorece-b3029667.html",
+      "source": "Independent en Español",
+      "source_score": 40,
+      "published_at": "2026-08-08T05:57:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗领导人认为他们的胜利在望，时间站在他们这边",
+        "他们认为美国的军事压力最终会迫使美国接受他们对霍尔木兹海峡的控制",
+        "伊朗领导人还指出，美国的武器库存正在减少，战争在美国国内很不受欢迎"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Independent en Español"
+      ],
+      "all_titles": {
+        "es": "Líderes de Irán creen que la victoria está al alcance y que el tiempo les favorece"
+      }
+    },
+    {
+      "title_original": "北约直接参与袭击俄领土？俄黑客：已掌握证据，北约向乌军提供袭击坐标，直言乌克兰一直被\"当枪使”",
+      "title_zh": "北约直接参与袭击俄领土？俄黑客：已掌握证据，北约向乌军提供袭击坐标，直言乌克兰一直被\"当枪使”",
+      "url": "https://m.sohu.com/a/1060351412_114986?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-08T05:55:32+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯黑客组织声称已掌握北约向乌克兰军队提供袭击坐标的证据",
+        "他们指控北约直接参与袭击俄罗斯领土",
+        "此事件可能会导致俄乌冲突进一步升级"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "北约直接参与袭击俄领土？俄黑客：已掌握证据，北约向乌军提供袭击坐标，直言乌克兰一直被\"当枪使”"
+      }
+    },
+    {
+      "title_original": "البرادعي يعدد 4 أمور تنقل الشرق الأوسط \"من السيء إلى الأسوأ\"",
+      "title_zh": "巴拉迪列举4件事使中东局势从坏变更坏",
+      "url": "https://arabic.cnn.com/amphtml/middle-east/article/2026/08/08/mohamed-elbarade-viral-from-bad-to-worst-post-region-iran-escilations",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-08-08T05:11:24+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "巴拉迪指出，美国和伊朗的冲突使中东的安全局势恶化，形成了复杂的目标、代理人战争和暂时联盟的网络，并且核武器的阴影出现在中东。",
+        "巴拉迪认为，有一个国家试图扩大战争的范围，以分裂和控制整个地区。",
+        "巴拉迪呼吁阿拉伯国家团结起来，利用他们与冲突各方的联系和影响力，共同努力结束这场违反一切价值观和法律的战争。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "البرادعي يعدد 4 أمور تنقل الشرق الأوسط \"من السيء إلى الأسوأ\""
+      }
+    },
+    {
+      "title_original": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
+      "title_zh": "野火烟雾带来的致命健康负担",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-08T05:00:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "科学家正在研究野火烟雾与死亡率之间的复杂关系，因为火灾天气变得更加普遍。",
+        "加拿大多伦多的一位急诊科医生报告称，患者因野火烟雾引起的过敏和呼吸困难而增加。",
+        "野火烟雾对健康的影响尚不清楚，科学家正在努力研究其影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke"
+      }
+    },
+    {
+      "title_original": "Russian strikes near Ukrainian capital kill three, including child",
+      "title_zh": "俄罗斯在乌克兰首都附近发动袭击，造成三人死亡，包括一名儿童",
+      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-08T04:20:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯在乌克兰首都基辅附近发动袭击，造成三人死亡，包括一名3岁的儿童。",
+        "乌克兰总统泽连斯基指责俄罗斯总统普京“拼命地依靠弹道导弹和无人机来继续这场战争”。",
+        "这次袭击是俄罗斯对乌克兰的持续轰炸的一部分，乌克兰的防空系统难以阻止这些袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russian strikes near Ukrainian capital kill three, including child"
+      }
+    },
+    {
+      "title_original": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "title_zh": "美国承诺向哥伦比亚提供10亿美元的安全援助，新任右翼总统誓言打击毒品",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-08T04:08:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国承诺向哥伦比亚提供10亿美元的安全援助，以支持该国打击毒品和武装团体的努力。",
+        "哥伦比亚新任总统阿贝拉多·德拉埃斯皮里拉誓言将打击毒品和有组织犯罪，并恢复经济信心。",
+        "德拉埃斯皮里拉在就职演说中承诺将缩小政府规模，振兴石油和天然气行业，并打击武装团体。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown"
+      }
+    },
+    {
+      "title_original": "Cifras de récord para el turismo en Taiwán",
+      "title_zh": "台湾旅游业创下纪录",
+      "url": "https://www.expreso.info/noticias/internacional/113877_cifras_de_record_para_el_turismo_en_taiwan",
+      "source": "Expreso - Diario de viajes y turismo",
+      "source_score": 40,
+      "published_at": "2026-08-08T04:01:39+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾在2025年创下了国内旅游的记录，国内游客数量达到2.4761亿人，同比增长11.52%。",
+        "台湾的国际游客数量也增加了，2025年接待了857万国际游客，同比增长9.12%。",
+        "台湾的旅游业收入也大幅增加，2025年国际游客的旅游收入达到110.3亿美元，同比增长10.02%。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Expreso - Diario de viajes y turismo"
+      ],
+      "all_titles": {
+        "es": "Cifras de récord para el turismo en Taiwán"
+      }
+    },
+    {
+      "title_original": "Geopolítica más que doctrina: la intervención militar de Estados Unidos en América Latina y el Caribe",
+      "title_zh": "地缘政治多于教条：美国在拉丁美洲和加勒比地区的军事干预",
+      "url": "https://elpais.com/chile/2026-08-08/geopolitica-mas-que-doctrina-la-intervencion-militar-de-estados-unidos-en-america-latina-y-el-caribe.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-08-08T04:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国在拉丁美洲和加勒比地区的军事干预是一个复杂的问题。",
+        "这种干预可能会影响当地的政治和经济局势。",
+        "拉丁美洲和加勒比地区的国家对美国的军事干预持谨慎态度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Geopolítica más que doctrina: la intervención militar de Estados Unidos en América Latina y el Caribe"
+      }
+    },
     {
       "title_original": "Ukraine-Krieg im Liveticker: +++ 05:29 Russland-Experte sieht viele Fragen bei Sprengstoff-Drohne +++",
       "title_zh": "乌克兰战争直播：俄罗斯专家对炸药无人机提出许多疑问",
@@ -76,6 +676,31 @@
       ],
       "all_titles": {
         "zh": "俄罗斯黑客：获取北约直接参与袭击俄领土证据，北约向乌军提供袭击坐标情报"
+      }
+    },
+    {
+      "title_original": "中国海事当局、台湾海峡で「交通管制」 台湾は「権利はない」と非難",
+      "title_zh": "中国海事当局在台湾海峡实施“交通管制”，台湾称“没有权利”",
+      "url": "https://www.asahi.com/articles/ASV880T65V88UHBI004M.html",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-08-08T02:58:15+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国海事当局在台湾海峡实施了交通管制措施。",
+        "台湾方面认为中国没有权利实施这种管制。",
+        "这一事件可能会影响台湾海峡的航运和两岸关系。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "中国海事当局、台湾海峡で「交通管制」 台湾は「権利はない」と非難"
       }
     },
     {
@@ -204,6 +829,56 @@
       }
     },
     {
+      "title_original": "三国“联手”，印度紧张：“伊斯兰版北约”来了？",
+      "title_zh": "三国“联手”，印度紧张：“伊斯兰版北约”来了？",
+      "url": "https://news.bjd.com.cn/2026/08/08/11906393.shtml",
+      "source": "京报网",
+      "source_score": 40,
+      "published_at": "2026-08-08T01:00:21+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特、巴基斯坦、土耳其三国领导人签署了《麦加共同防务协议》。",
+        "该协议规定，对三国中任何一国的武装攻击，将被视为对三国全体的攻击。",
+        "印度舆论将该协议称为“伊斯兰版北约”，并对此表示警惕和不安。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "京报网"
+      ],
+      "all_titles": {
+        "zh": "三国“联手”，印度紧张：“伊斯兰版北约”来了？"
+      }
+    },
+    {
+      "title_original": "Nouvelle escalade au Moyen-Orient : « Il n’y a pas, à ce stade, de solution diplomatique à court terme » en Iran",
+      "title_zh": "中东局势升级：伊朗短期内无外交解决方案",
+      "url": "https://www.ifri.org/fr/presse-contenus-repris-sur-le-site/nouvelle-escalade-au-moyen-orient-il-ny-pas-ce-stade-de-solution",
+      "source": "l'Institut français des relations internationales (IFRI)",
+      "source_score": 40,
+      "published_at": "2026-08-08T01:00:15+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势近期升级，伊朗方面表示短期内无外交解决方案。",
+        "伊朗与其他国家的关系紧张，地区局势不稳定。",
+        "国际社会呼吁各方保持克制，寻求和平解决方案。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "l'Institut français des relations internationales (IFRI)"
+      ],
+      "all_titles": {
+        "fr": "Nouvelle escalade au Moyen-Orient : « Il n’y a pas, à ce stade, de solution diplomatique à court terme » en Iran"
+      }
+    },
+    {
       "title_original": "沙巴土三国签协议，印度紧张：“伊斯兰版北约”来了？",
       "title_zh": "沙特、巴基斯坦、土耳其三国签署协议，印度紧张：伊斯兰版北约来了？",
       "url": "https://mil.ifeng.com/c/8vPqZbpbAqq",
@@ -276,6 +951,31 @@
       ],
       "all_titles": {
         "en": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war"
+      }
+    },
+    {
+      "title_original": "俄黑客称掌握了北约参与袭击俄领土的证据",
+      "title_zh": "俄黑客称掌握了北约参与袭击俄领土的证据",
+      "url": "https://news.ifeng.com/c/8vPo0giPfuz",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-08-08T00:07:59+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯黑客称已掌握北约参与袭击俄罗斯领土的证据。",
+        "该证据显示，北约情报部门人员向乌克兰军队提供了俄罗斯列宁格勒州和加里宁格勒州石油码头的坐标情报。",
+        "这一事件引发了国际社会的关注，北约方面尚未对此作出正式回应。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "俄黑客称掌握了北约参与袭击俄领土的证据"
       }
     },
     {
