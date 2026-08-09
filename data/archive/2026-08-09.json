@@ -1,8 +1,762 @@
 {
   "date": "2026-08-09",
-  "generated_at": "2026-08-09T00:05:08.812561+00:00",
-  "count": 34,
+  "generated_at": "2026-08-09T13:58:00.037135+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title_original": "Ukraine News Today: Breaking Updates & Live Coverage - August 9, 2026 from Kyiv Post",
+      "title_zh": "乌克兰新闻：8月9日，2026年基辅邮报的最新更新和直播报道",
+      "url": "https://www.kyivpost.com/thread/81990",
+      "source": "Kyiv Post",
+      "source_score": 40,
+      "published_at": "2026-08-09T13:32:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯据报计划在未来几周内对基辅市的能源基础设施发动大规模打击。",
+        "俄罗斯于2025年9月开始对乌克兰的能源基础设施发动打击，可能会在2026年8月开始新的打击行动。",
+        "俄罗斯对基辅市能源基础设施的打击将破坏乌克兰修复和加强能源设施的努力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Kyiv Post"
+      ],
+      "all_titles": {
+        "en": "Ukraine News Today: Breaking Updates & Live Coverage - August 9, 2026 from Kyiv Post"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Drohnen-Vorfall an der Transbalkan-Pipeline – Bulgarien verlegt Truppen",
+      "title_zh": "乌克兰战争最新：无人机事件发生在跨巴尔干管道附近，保加利亚调动军队",
+      "url": "https://www.fr.de/politik/putin-verluste-kiew-angriff-ukraine-krieg-aktuell-news-ticker-russland-zr-94429482.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-09T12:57:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "保加利亚发生无人机爆炸事件，据信是乌克兰无人机误入保加利亚领空。",
+        "保加利亚和乌克兰正在合作调查此事，保加利亚政府宣布将加强边境安全。",
+        "乌克兰总统泽连斯基指责俄罗斯计划派遣数万名朝鲜士兵到俄罗斯。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Drohnen-Vorfall an der Transbalkan-Pipeline – Bulgarien verlegt Truppen"
+      }
+    },
+    {
+      "title_original": "Pope Leo renews call for Ukraine war to end",
+      "title_zh": "教皇利奥重申结束乌克兰战争的呼吁",
+      "url": "https://www.reuters.com/world/pope-leo-renews-call-ukraine-war-end-2026-08-09/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-09T12:43:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "教皇利奥呼吁结束乌克兰战争，促进和平解决冲突。",
+        "教皇利奥的呼吁得到了国际社会的关注和支持。",
+        "乌克兰战争仍在继续，冲突双方都遭受了重大损失。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Pope Leo renews call for Ukraine war to end"
+      }
+    },
+    {
+      "title_original": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
+      "title_zh": "涉嫌犯罪头目丹尼尔·基纳汉在高安全性行动中返回爱尔兰",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-09T12:39:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "丹尼尔·基纳汉是涉嫌的犯罪头目，他被逮捕并从阿联酋引渡回爱尔兰。",
+        "基纳汉将面临指控并出庭，爱尔兰政府已经采取了高安全措施以确保他的安全。",
+        "基纳汉被指控领导一个有组织的犯罪集团，涉及贩毒和枪支走私等活动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation"
+      }
+    },
+    {
+      "title_original": "Ancient Roman shipwreck discovered off Sicily coast",
+      "title_zh": "古罗马沉船在西西里海岸被发现",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-09T12:27:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "意大利潜水员在西西里海岸发现了一艘古罗马沉船，据信已有2000多年的历史。",
+        "沉船上载有数百个保存完好的容器，用于运输葡萄酒和橄榄油等货物。",
+        "意大利文化部长阿莱桑德罗·朱利将这次发现称为“近年来最重要的水下考古发现之一”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ancient Roman shipwreck discovered off Sicily coast"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Oleksij Jukow suchte nach getöteten Soldaten – ein Nachruf",
+      "title_zh": "乌克兰战争：奥列克西·朱科夫寻找被杀士兵的追悼会",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-oleksij-jukow-suchte-nach-getoeteten-soldaten-ein-nachruf-a-b8329b48-2ae4-4c1e-af2d-7b787f3f33ee",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-08-09T11:26:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "奥列克西·朱科夫是一名乌克兰人，他致力于寻找被杀的士兵，并因此在乌克兰闻名。",
+        "朱科夫在基辅的一次追悼会上被人们悼念，他的工作使他成为了一位英雄。",
+        "他的工作是为了纪念那些在战争中牺牲的士兵，并给他们的家人带来安慰"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Oleksij Jukow suchte nach getöteten Soldaten – ein Nachruf"
+      }
+    },
+    {
+      "title_original": "نتانياهو يعلن رفض إسرائيل خطة ترامب بشأن غزة",
+      "title_zh": "内塔尼亚胡宣布以色列拒绝特朗普关于加沙的计划",
+      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/20260809-%D9%86%D8%AA%D8%A7%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%AD%D9%85%D8%A7%D8%B3-%D8%B1%D9%81%D8%B6-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AE%D8%B7%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%BA%D8%B2%D8%A9",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-09T11:24:30+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列总理内塔尼亚胡宣布以色列拒绝特朗普关于加沙的计划。",
+        "该计划旨在解决以色列和巴勒斯坦之间的冲突，但以色列方面认为它不符合他们的利益。",
+        "内塔尼亚胡的声明表明以色列将继续坚持自己的立场，不会接受任何损害其安全的计划"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "نتانياهو يعلن رفض إسرائيل خطة ترامب بشأن غزة"
+      }
+    },
+    {
+      "title_original": "(S+) Saudi-Arabien, Türkei und Pakistan: Entsteht gerade die sunnitische Nato?",
+      "title_zh": "沙特、土耳其和巴基斯坦：正在形成逊尼派北约吗？",
+      "url": "https://www.spiegel.de/ausland/drei-maechte-ein-schwur-entsteht-gerade-die-sunnitische-nato-a-4aa71814-8560-4a99-ba02-c5069589bccf",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-08-09T11:20:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特、土耳其和巴基斯坦三国领导人在麦加签署了一项军事协议，引发了人们对“逊尼派北约”形成的猜测。",
+        "该协议旨在加强三国之间的军事合作，并可能对地区安全格局产生影响。",
+        "三国的合作可能会导致地区权力平衡的变化，并对其他国家的安全利益产生影响"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Spiegel",
+        "新浪财经"
+      ],
+      "all_titles": {
+        "de": "(S+) Saudi-Arabien, Türkei und Pakistan: Entsteht gerade die sunnitische Nato?",
+        "zh": "沙、土、巴签署“伊斯兰版北约”，会给世界带来什么"
+      }
+    },
+    {
+      "title_original": "長引く中東情勢の緊迫化を受け 奥州市の認定農業者団体が市長に要望書提出（IBC岩手放送）",
+      "title_zh": "中东局势紧张，奥州市认定农户团体向市长提交要求书",
+      "url": "https://news.yahoo.co.jp/articles/f4b537524949a3adbd9123854b74dc620301da33",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-09T10:40:27+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势紧张导致原油和谷物价格急剧上涨，奥州市的认定农户团体向市长提交要求书，寻求支援。",
+        "要求书中包括“农业材料和燃料价格上涨的对应支援策略”和“国家或县的补助制度的积极利用和市独自的支援策略”等内容。",
+        "根据农林水产省的数据，2020年为基准的农业生产所需材料价格指数，到2026年已经达到141.4"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "長引く中東情勢の緊迫化を受け 奥州市の認定農業者団体が市長に要望書提出（IBC岩手放送）"
+      }
+    },
+    {
+      "title_original": "ブルガリアにドローン侵入、ルーマニア国境付近で爆発…「相当な量の爆発物」「ウクライナ軍がよく使う機種」",
+      "title_zh": "保加利亚遭无人机入侵，罗马尼亚边境附近发生爆炸，疑似乌克兰军用机型",
+      "url": "https://www.yomiuri.co.jp/world/20260809-GYT1T00180/",
+      "source": "yomiuri.co.jp",
+      "source_score": 40,
+      "published_at": "2026-08-09T10:40:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "保加利亚国内发生无人机入侵事件，罗马尼亚边境附近发生爆炸，保加利亚国防部确认无人机为乌克兰军常用机型。",
+        "爆炸发生在保加利亚北东部天然气管道设施附近，约1公里处，未造成人员伤亡。",
+        "保加利亚总理表示，无人机携带了大量爆炸物，乌克兰外交部发言人否认乌克兰军队故意向保加利亚投放力量"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "yomiuri.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ブルガリアにドローン侵入、ルーマニア国境付近で爆発…「相当な量の爆発物」「ウクライナ軍がよく使う機種」"
+      }
+    },
+    {
+      "title_original": "قبرص لتصدير غاز حقل «كرونوس» لأوروبا عبر مصر في 2028",
+      "title_zh": "塞浦路斯将通过埃及向欧洲出口“克罗诺斯”气田天然气",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/5304957-%D9%82%D8%A8%D8%B1%D8%B5-%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D8%BA%D8%A7%D8%B2-%D8%AD%D9%82%D9%84-%D9%83%D8%B1%D9%88%D9%86%D9%88%D8%B3-%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B5%D8%B1-%D9%81%D9%8A-2028",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-09T09:51:24+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "塞浦路斯能源部长宣布，欧洲消费者可能从2028年开始获得来自塞浦路斯“克罗诺斯”气田的天然气，满足他们的能源需求。",
+        "“克罗诺斯”气田位于塞浦路斯海岸附近，开发该气田的法国和意大利公司已经决定推进项目。",
+        "天然气将通过埃及的基础设施运输到欧洲市场，塞浦路斯和埃及将共同开发该项目"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "قبرص لتصدير غاز حقل «كرونوس» لأوروبا عبر مصر في 2028"
+      }
+    },
+    {
+      "title_original": "الإمارات تتصدر سوق السندات المستدامة في الشرق الأوسط 2026",
+      "title_zh": "阿联酋领跑中东可持续债券市场",
+      "url": "https://www.annahar.com/economy/337000/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AA%D8%B5%D8%AF%D8%B1-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B3%D9%86%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AF%D8%A7%D9%85%D8%A9-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A7-%D8%A8%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA-4-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D8%A3%D9%88%D9%84",
+      "source": "annahar.com",
+      "source_score": 40,
+      "published_at": "2026-08-09T09:44:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "阿联酋在2026年上半年发行了约4亿美元的可持续债券，领跑中东可持续债券市场。",
+        "中东地区上半年可持续债券发行总额约为7亿美元，低于2025年同期的10亿美元。",
+        "标准普尔全球预计2026年中东可持续债券发行总额将在15亿至20亿美元之间"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "annahar.com"
+      ],
+      "all_titles": {
+        "ar": "الإمارات تتصدر سوق السندات المستدامة في الشرق الأوسط 2026"
+      }
+    },
+    {
+      "title_original": "السعودية تقود زخم قطاع السياحة في الشرق الأوسط حتى 2036",
+      "title_zh": "沙特阿拉伯将引领中东旅游业发展至2036年",
+      "url": "https://www.alarabiya.net/aswaq/travel-and-tourism/2026/08/09/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D9%82%D9%88%D8%AF-%D8%B2%D8%AE%D9%85-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%88%D8%B3%D8%B7-%D8%AD%D8%AA%D9%89-2036",
+      "source": "العربية",
+      "source_score": 40,
+      "published_at": "2026-08-09T09:37:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特阿拉伯预计将引领中东旅游业发展至2036年，成为该地区旅游业的主要驱动力。",
+        "沙特阿拉伯政府已采取措施发展旅游业，包括投资基础设施和推广旅游项目。",
+        "预计中东旅游业将在未来几年继续增长，沙特阿拉伯将在这一增长中发挥重要作用"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "العربية"
+      ],
+      "all_titles": {
+        "ar": "السعودية تقود زخم قطاع السياحة في الشرق الأوسط حتى 2036"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Tote und Verletzte bei Angriff auf russische Stadt Belgorod",
+      "title_zh": "乌克兰战争：俄罗斯城市别尔哥罗德遭袭，造成人员伤亡",
+      "url": "https://www.tagesspiegel.de/internationales/ukraine-krieg-tote-und-verletzte-bei-angriff-auf-russische-stadt-belgorod-15927932.html",
+      "source": "tagesspiegel.de",
+      "source_score": 75,
+      "published_at": "2026-08-09T08:45:08+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争中，俄罗斯城市别尔哥罗德遭到袭击，造成至少3人死亡，25人受伤。",
+        "袭击导致多栋住宅楼、一个行政大楼和几家商店受损，火灾也在社交媒体上被曝光。",
+        "俄罗斯方面表示，这次袭击可能是针对俄罗斯军队的补给线，俄军在乌克兰的哈尔科夫和顿巴斯地区发动攻击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "tagesspiegel.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Tote und Verletzte bei Angriff auf russische Stadt Belgorod"
+      }
+    },
+    {
+      "title_original": "土耳其：土巴沙防务协议技术上等同北约“第五条” 埃及或将加入",
+      "title_zh": "土耳其：土巴沙防务协议技术上等同北约“第五条” 埃及或将加入",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260809-%E5%9C%9F%E8%80%B3%E5%85%B6-%E5%9C%9F%E5%B7%B4%E6%B2%99%E9%98%B2%E5%8A%A1%E5%8D%8F%E8%AE%AE%E6%8A%80%E6%9C%AF%E4%B8%8A%E7%AD%89%E5%90%8C%E5%8C%97%E7%BA%A6-%E7%AC%AC%E4%BA%94%E6%9D%A1-%E5%9F%83%E5%8F%8A%E6%88%96%E5%B0%86%E5%8A%A0%E5%85%A5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-08-09T08:35:24+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "土耳其与巴沙防务协议在技术上等同于北约的第五条，埃及可能会加入该协议。",
+        "该协议的细节尚不明确，但它可能会对地区安全局势产生影响。",
+        "北约的第五条规定，任何对一个成员国的攻击都被视为对所有成员国的攻击，需要集体反应。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "zh": "土耳其：土巴沙防务协议技术上等同北约“第五条” 埃及或将加入"
+      }
+    },
+    {
+      "title_original": "Putins NATO-Test: US-Geheimdienste rechnen mit begrenztem Angriff",
+      "title_zh": "普京的北约测试：美国情报机构预计有限的攻击",
+      "url": "https://www.fr.de/politik/us-geheimdienste-putin-koennte-nato-ab-herbst-2026-angreifen-zr-94434997.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-09T08:28:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国情报机构预计，俄罗斯可能会对北约发动有限的攻击，包括使用无人机、网络攻击或小规模入侵。",
+        "这些攻击可能是为了测试北约的团结和反应，特别是在乌克兰冲突持续的情况下。",
+        "美国和北约官员正在关注俄罗斯的行动，并为可能的攻击做好准备。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Putins NATO-Test: US-Geheimdienste rechnen mit begrenztem Angriff"
+      }
+    },
+    {
+      "title_original": "Geopolítica para turistas: así condicionan los conflictos las elecciones de los viajeros",
+      "title_zh": "地缘政治与旅游：冲突如何影响旅行者的选择",
+      "url": "https://www.rtve.es/noticias/20260809/geopolitica-para-turistas-asi-condicionan-conflictos-elecciones-viajeros/17184767.shtml",
+      "source": "RTVE.es",
+      "source_score": 55,
+      "published_at": "2026-08-09T07:22:38+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "地缘政治冲突会影响旅行者的选择，许多人会在计划旅行前查看目的地的安全情况。",
+        "由于乌克兰冲突，部分欧洲国家的旅游业受到影响，例如俄罗斯和古巴的旅游业受到损害。",
+        "相反，西班牙等国家的旅游业仍然繁荣，部分旅行者会选择去被认为是安全的国家。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "RTVE.es"
+      ],
+      "all_titles": {
+        "es": "Geopolítica para turistas: así condicionan los conflictos las elecciones de los viajeros"
+      }
+    },
+    {
+      "title_original": "Infantino, Marruecos, Ceuta y el Mundial de 2030: \"El fútbol está proyectando las luchas del poder geopolítico\"",
+      "title_zh": "因凡蒂诺、摩洛哥、塞乌塔和2030年世界杯：足球反映了地缘政治权力斗争",
+      "url": "https://www.rtve.es/noticias/20260809/infantino-marruecos-ceuta-mundial-2030-futbol-luchas-poder-geopolitico/17184202.shtml",
+      "source": "RTVE.es",
+      "source_score": 55,
+      "published_at": "2026-08-09T07:18:09+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "国际足球联合会（FIFA）主席因凡蒂诺的行为引发争议，包括他与摩洛哥的关系和2030年世界杯的举办权争议。",
+        "摩洛哥试图通过足球来提升其国际影响力和合法性，包括争取2030年世界杯的举办权。",
+        "足球已经成为地缘政治权力斗争的工具，各国利用足球来促进自己的利益和影响力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "RTVE.es"
+      ],
+      "all_titles": {
+        "es": "Infantino, Marruecos, Ceuta y el Mundial de 2030: \"El fútbol está proyectando las luchas del poder geopolítico\""
+      }
+    },
+    {
+      "title_original": "Costa Rican diplomat emerges as strong contender to be first female head of UN",
+      "title_zh": "哥斯达黎加外交官有望成为首位联合国女秘书长",
+      "url": "https://www.theguardian.com/world/2026/aug/09/costa-rican-diplomat-rebeca-grynspan-contender-first-female-head-of-un",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-09T07:00:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "哥斯达黎加外交官雷贝卡·格林斯潘有望成为首位联合国女秘书长。",
+        "格林斯潘目前是联合国贸易和发展会议的负责人，该组织一直在记录以色列占领巴勒斯坦领土造成的经济损害。",
+        "格林斯潘的父母是来自波兰的犹太难民，她的外祖父母在大屠杀中被杀害。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Costa Rican diplomat emerges as strong contender to be first female head of UN"
+      }
+    },
+    {
+      "title_original": "تحذيرات من الفيضانات مع اتجاه الإعصار «دولفين» لساحل الصين الشرقي",
+      "title_zh": "台风“海豚”向中国东部海岸移动，引发洪水警告",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A2%D8%B3%D9%8A%D8%A7/5304918-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%B9-%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A7%D9%84%D8%A5%D8%B9%D8%B5%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D9%81%D9%8A%D9%86-%D9%84%D8%B3%D8%A7%D8%AD%D9%84-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D8%B1%D9%82%D9%8A",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-09T06:43:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台风“海豚”预计将于今天晚上登陆中国东部海岸，带来大雨和强风。",
+        "中国政府已经开始采取措施应对可能的洪水和山体滑坡，包括撤离人员和加强海堤。",
+        "中国东部地区已经出现了强风和大雨，部分地区的雨量预计将达到250-500毫米。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "تحذيرات من الفيضانات مع اتجاه الإعصار «دولفين» لساحل الصين الشرقي"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Israël «rejette» le plan américain pour Gaza et écarte tout retrait tant que le Hamas n'est pas «réellement désarmé», annonce Benjamin Netanyahou",
+      "title_zh": "以色列拒绝美国关于加沙的计划，除非哈马斯“真正解除武装”",
+      "url": "https://www.cnews.fr/monde/2026-08-09/guerre-au-moyen-orient-israel-rejette-le-plan-americain-pour-gaza-et-ecarte-tout",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-08-09T06:35:32+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列总理本雅明·内塔尼亚胡宣布，以色列拒绝美国关于加沙的计划，除非哈马斯“真正解除武装”。",
+        "内塔尼亚胡表示，以色列不会撤出加沙，直到哈马斯放弃武装。",
+        "美国计划旨在解决以色列和巴勒斯坦之间的冲突，但以色列方面表示，哈马斯必须首先解除武装。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Israël «rejette» le plan américain pour Gaza et écarte tout retrait tant que le Hamas n'est pas «réellement désarmé», annonce Benjamin Netanyahou"
+      }
+    },
+    {
+      "title_original": "北朝鮮に対抗し日本と韓国をウクライナ戦争に引き込みたいゼレンスキー大統領（辺真一） - エキスパート",
+      "title_zh": "泽连斯基总统希望日本和韩国参与乌克兰战争，以对抗朝鲜",
+      "url": "https://news.yahoo.co.jp/expert/articles/07ddc59775c454fe03cb154243a21dbdf0a17edc",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-09T06:20:29+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基希望日本和韩国参与乌克兰战争，以对抗朝鲜。",
+        "泽连斯基表示，朝鲜可能会向俄罗斯派遣3万到5万名士兵，乌克兰需要日本和韩国的支持来对抗这一威胁。",
+        "日本和韩国目前尚未对乌克兰提供军事支持，但泽连斯基希望他们能够改变立场。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "北朝鮮に対抗し日本と韓国をウクライナ戦争に引き込みたいゼレンスキー大統領（辺真一） - エキスパート"
+      }
+    },
+    {
+      "title_original": "自衛隊の最新哨戒機が海賊対処で初の中東派遣 小泉防衛大臣が激励",
+      "title_zh": "自衛隊的最新巡邏機首次被派往中東處理海盜問題 小泉防衛大臣進行鼓勵",
+      "url": "https://news.tv-asahi.co.jp/news_politics/articles/000525187.html",
+      "source": "テレ朝NEWS",
+      "source_score": 40,
+      "published_at": "2026-08-09T05:55:14+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本海上自衛隊的最新巡邏機被派往中東處理海盜問題",
+        "這次是日本自衛隊的第60次派遣航空隊處理索馬里海盜問題",
+        "約50名自衛隊員將在索馬里海域進行約3個月的情報收集和警戒監視任務"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "テレ朝NEWS"
+      ],
+      "all_titles": {
+        "ja": "自衛隊の最新哨戒機が海賊対処で初の中東派遣 小泉防衛大臣が激励"
+      }
+    },
+    {
+      "title_original": "« Joe Biden s’est condamné à l’humiliation en endossant l’héritage de Donald Trump au Moyen-Orient »",
+      "title_zh": "«喬·拜登在中東承擔唐納·川普的遺產，自找屈辱»",
+      "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/08/09/joe-biden-s-est-condamne-a-l-humiliation-en-endossant-l-heritage-de-donald-trump-au-moyen-orient_6741930_6116995.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-08-09T05:00:03+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美國總統喬·拜登在中東政策上承擔了前總統唐納·川普的遺產",
+        "這一決定可能會對拜登的政治形象產生負面影響",
+        "中東地區的局勢複雜，拜登政府面臨著多個挑戰"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "« Joe Biden s’est condamné à l’humiliation en endossant l’héritage de Donald Trump au Moyen-Orient »"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : les destins bouleversés de la jeunesse iranienne",
+      "title_zh": "中東戰爭：伊朗年輕人的命運被顛覆",
+      "url": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/2023923723997514/guerre-au-moyen-orient-les-destins-bouleverses-de-la-jeunesse-iranienne",
+      "source": "La Tribune",
+      "source_score": 40,
+      "published_at": "2026-08-09T04:45:01+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗年輕人因中東戰爭而面臨著嚴重的經濟和心理困難",
+        "許多伊朗年輕人因戰爭而失去了工作和生計",
+        "伊朗年輕人對於未來的前景感到絕望和迷茫"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "La Tribune"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : les destins bouleversés de la jeunesse iranienne"
+      }
+    },
+    {
+      "title_original": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "title_zh": "佩雷斯·希爾頓在直播中自傷後面臨長期康復",
+      "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-09T04:32:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "佩雷斯·希爾頓在直播中自傷，目前正在醫院接受治療",
+        "希爾頓的家人表示，他的康復將是一個長期的過程",
+        "這起事件引發了對於網絡直播安全性和心理健康的關注"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Perez Hilton faces long recovery after reports he self-harmed during livestream"
+      }
+    },
+    {
+      "title_original": "Mujeres del Aire: 20 militares españolas forman parte de la vigilancia del flanco este de la OTAN",
+      "title_zh": "空中女兵：20名西班牙军人参与北约东翼监视",
+      "url": "https://www.articulo14.es/defensa/mujeres-del-aire-20-militares-espanolas-forman-parte-de-la-vigilancia-del-flanco-este-de-la-otan-20260809.html",
+      "source": "articulo14.es",
+      "source_score": 55,
+      "published_at": "2026-08-09T04:10:49+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "20名西班牙军人参与北约东翼监视",
+        "西班牙军人在北约东翼监视中发挥重要作用",
+        "北约东翼监视是欧洲安全的重要组成部分"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "articulo14.es"
+      ],
+      "all_titles": {
+        "es": "Mujeres del Aire: 20 militares españolas forman parte de la vigilancia del flanco este de la OTAN"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Turkey calls for ‘moratorium’ on Black Sea attacks by Russia and Ukraine",
+      "title_zh": "乌克兰战争简报：土耳其呼吁俄罗斯和乌克兰在黑海停火",
+      "url": "https://www.theguardian.com/world/2026/aug/09/ukraine-war-briefing-turkey-calls-for-moratorium-on-black-sea-attacks-by-russia-and-ukraine",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-09T03:19:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "土耳其呼吁俄罗斯和乌克兰在黑海停火",
+        "俄罗斯继续袭击乌克兰港口和军事目标",
+        "乌克兰否认针对保加利亚的无人机袭击"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Turkey calls for ‘moratorium’ on Black Sea attacks by Russia and Ukraine"
+      }
+    },
+    {
+      "title_original": "土外长：土沙巴三国共同防务协议，技术上等同北约第五条",
+      "title_zh": "土耳其外长：土沙巴三国共同防务协议，技术上等同北约第五条",
+      "url": "https://i.ifeng.com/c/8vRfh7CCvoF",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-08-09T03:04:01+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "土耳其、沙特阿拉伯和巴基斯坦签署共同防务协议",
+        "该协议类似于北约第五条",
+        "三国将共同防御任何武装攻击"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "RFI",
+        "凤凰网"
+      ],
+      "all_titles": {
+        "fr": "L'accord de défense entre l'Arabie saoudite, le Pakistan et la Turquie rappelle l'article 5 de l'Otan, selon Ankara",
+        "zh": "土外长：土沙巴三国共同防务协议，技术上等同北约第五条"
+      }
+    },
+    {
+      "title_original": "Thailand school shooting toll rises to nine after 12-year-old dies, police say",
+      "title_zh": "泰国学校枪击事件死亡人数升至9人",
+      "url": "https://www.theguardian.com/world/2026/aug/09/thailand-school-shooting-toll-rises-to-nine-after-12-year-old-dies-police-say",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-09T02:11:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "泰国学校枪击事件死亡人数升至9人",
+        "一名12岁女孩在医院死亡",
+        "枪击事件发生在泰国一所学校"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Thailand school shooting toll rises to nine after 12-year-old dies, police say"
+      }
+    },
     {
       "title_original": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease | US news",
       "title_zh": "乌克兰战争中被救出的小狮子在美国与罕见的真菌病斗争",
