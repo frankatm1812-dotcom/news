@@ -1,0 +1,858 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T00:05:08.812561+00:00",
+  "count": 34,
+  "articles": [
+    {
+      "title_original": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease | US news",
+      "title_zh": "乌克兰战争中被救出的小狮子在美国与罕见的真菌病斗争",
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/ukrainian-lion-fights-fungal-disease",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-08T23:24:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "一只名叫塔拉斯的狮子在乌克兰战争中被救出，后来在美国被诊断出患有罕见的真菌病",
+        "塔拉斯和他的两只姐妹以及另一只来自基辅的幼狮被野猫庇护所带到美国",
+        "塔拉斯的病情被诊断为布氏菌病，一种非传染性的真菌感染，通常通过土壤传播"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Lion saved as cub from Ukraine war and brought to US battles rare fungal disease | US news"
+      }
+    },
+    {
+      "title_original": "تايوان تجري مناوراتها العسكرية الأكبر تحسبا لهجوم صيني",
+      "title_zh": "台湾进行最大规模军事演习以应对中国潜在攻击",
+      "url": "https://www.skynewsarabia.com/video/1885083-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%AA%D8%AC%D8%B1%D9%8A-%D9%85%D9%86%D8%A7%D9%88%D8%B1%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D8%AA%D8%AD%D8%B3%D8%A8%D8%A7-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B5%D9%8A%D9%86%D9%8A",
+      "source": "سكاي نيوز عربية",
+      "source_score": 40,
+      "published_at": "2026-08-08T22:50:31+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾正在进行最大规模的军事演习，以模拟中国对该岛的封锁和提升其军事准备",
+        "此次演习是在中国加强对台湾的军事压力之际进行的",
+        "台湾的军事演习旨在展示其防御能力和决心，以应对中国的潜在攻击"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "سكاي نيوز عربية"
+      ],
+      "all_titles": {
+        "ar": "تايوان تجري مناوراتها العسكرية الأكبر تحسبا لهجوم صيني"
+      }
+    },
+    {
+      "title_original": "La Inteligencia de EEUU concluye que Putin podría poner a prueba la firmeza de la OTAN con una incursión limitada",
+      "title_zh": "美国情报机构认为普京可能会通过有限的入侵来测试北约的决心",
+      "url": "https://www.elmundo.es/internacional/2026/08/09/6a76063be4d4d8a2038b45a5.html",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-08-08T22:15:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国情报机构认为俄罗斯总统普京可能会通过有限的入侵来测试北约的决心",
+        "此次入侵可能包括网络攻击或小规模的地面入侵",
+        "美国情报机构的评估表明，普京可能会尝试分裂北约并测试其成员国的决心"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "La Inteligencia de EEUU concluye que Putin podría poner a prueba la firmeza de la OTAN con una incursión limitada"
+      }
+    },
+    {
+      "title_original": "¿Un tornado en Taiwán?",
+      "title_zh": "台湾发生龙卷风？",
+      "url": "https://cnnespanol.cnn.com/2026/08/08/mundo/video/tornado-taiwan-tifon-dolphin-trax",
+      "source": "CNN en Español",
+      "source_score": 95,
+      "published_at": "2026-08-08T22:04:18+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾发生了一起罕见的龙卷风事件，引起了当地气象学家的关注",
+        "龙卷风出现在台北郊外，目前尚不清楚其成因",
+        "台湾的气象学家正在调查此次事件，以确定其是否确实是一次龙卷风"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "CNN en Español"
+      ],
+      "all_titles": {
+        "es": "¿Un tornado en Taiwán?"
+      }
+    },
+    {
+      "title_original": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+      "title_zh": "加拿大快速蔓延的野火使得成千上万的人被迫逃离家园",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-08T22:01:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "加拿大西部的一场快速蔓延的野火已经使得成千上万的人被迫逃离家园",
+        "野火已经占据了超过36平方英里的土地，目前仍然无法控制",
+        "当地政府已经发布了撤离命令，许多居民正在被转移到安全区域"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes"
+      }
+    },
+    {
+      "title_original": "US-Medien: Wladimir Putin könnte Nato bald mit Angriff auf Bündnisland testen",
+      "title_zh": "美国媒体：普京可能很快会用对北约盟国的攻击来测试北约",
+      "url": "https://www.spiegel.de/ausland/wladimir-putin-koennte-nato-bald-mit-angriff-auf-buendnisland-testen-a-3b9d3d0a-9260-4df1-8726-8c64bb3bc5b2",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-08-08T21:50:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国媒体报道称，美国情报机构预测俄罗斯总统普京可能在未来几年内对北约成员国发动攻击。",
+        "可能的攻击方式包括网络攻击、有限的入侵等，目的是测试北约的决心。",
+        "美国情报机构认为，攻击的可能性在时间的推移中会增加，预计可能在今年秋天到2029年之间发生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "US-Medien: Wladimir Putin könnte Nato bald mit Angriff auf Bündnisland testen"
+      }
+    },
+    {
+      "title_original": "ウクライナ首都キーウや近郊にロシア軍の攻撃 4人死亡（TBS NEWS DIG Powered by JNN）",
+      "title_zh": "乌克兰首都基辅及附近地区遭俄军攻击 4人死亡",
+      "url": "https://news.yahoo.co.jp/articles/9796d38d3adcd49da177465863f606aad4708004",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-08T21:49:55+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰首都基辅及附近地区遭俄军攻击，导致4人死亡。",
+        "乌克兰总统泽连斯基表示，7日夜至8日凌晨，基辅附近地区遭俄军无人机攻击，造成3人死亡，包括一名3岁儿童及其祖父母。",
+        "此外，基辅市也遭俄军弹道导弹攻击，导致1人死亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ首都キーウや近郊にロシア軍の攻撃 4人死亡（TBS NEWS DIG Powered by JNN）"
+      }
+    },
+    {
+      "title_original": "WSJ: Russia could attack NATO next month",
+      "title_zh": "华尔街日报：俄罗斯可能下个月攻击北约",
+      "url": "https://www.dw.com/en/wsj-russia-could-attack-nato-next-month/video-78289595",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-08-08T21:02:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "华尔街日报援引美国情报机构的报告称，俄罗斯可能在几周内对北约成员国发动有限的入侵。",
+        "分析人士认为，俄罗斯总统普京可能会寻求开辟新的战线，而不是冒着被记住为失去乌克兰的领导人的风险。",
+        "这引发了人们对北约的准备和决心的疑问。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "en": "WSJ: Russia could attack NATO next month"
+      }
+    },
+    {
+      "title_original": "ウクライナとロシア近く訪問か 米高官、タス報道",
+      "title_zh": "美国高官可能访问乌克兰和俄罗斯",
+      "url": "https://www.47news.jp/14764806.html",
+      "source": "47NEWS",
+      "source_score": 40,
+      "published_at": "2026-08-08T21:02:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "塔斯社报道称，美国高官可能访问乌克兰和俄罗斯。",
+        "据消息来源称，访问可能在一周到十天内进行。",
+        "如果访问成行，这将是美国高官自1月以来再次访问俄罗斯。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "47NEWS"
+      ],
+      "all_titles": {
+        "ja": "ウクライナとロシア近く訪問か 米高官、タス報道"
+      }
+    },
+    {
+      "title_original": "Paris tells e-scooter riders to wear safety gear or face fines",
+      "title_zh": "巴黎要求电动滑板车骑手佩戴安全装备，否则将面临罚款",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-08T20:18:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "巴黎要求电动滑板车骑手佩戴安全装备，否则将面临罚款。",
+        "去年，巴黎有79人在电动滑板车事故中丧生，较前一年增加了。",
+        "新的规定要求骑手佩戴头盔和高可视性背心，否则将面临罚款。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Paris tells e-scooter riders to wear safety gear or face fines"
+      }
+    },
+    {
+      "title_original": "日本のエネルギー安保、中東危機からの設計図 石油連盟や識者に聞く",
+      "title_zh": "日本的能源安全保障，中东危机的对策图谱",
+      "url": "https://www.nikkei.com/article/DGXZQOCD045PV0U6A800C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-08T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "日本的能源安全保障战略因中东危机而面临重新审视的压力。",
+        "石油调达多元化和原子能、可再生能源的利用变得更加必要。",
+        "业界专家和政府官员正在讨论如何在危机后重建能源安全保障体系。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "日本のエネルギー安保、中東危機からの設計図 石油連盟や識者に聞く"
+      }
+    },
+    {
+      "title_original": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says",
+      "title_zh": "土耳其、巴基斯坦、沙特阿拉伯防御条约在技术上与北约第五条款相同，土耳其部长称",
+      "url": "https://www.reuters.com/world/asia-pacific/turkey-pakistan-saudi-arabia-defence-pact-technically-same-natos-article-5-2026-08-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-08T19:53:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "土耳其、巴基斯坦和沙特阿拉伯签署了一项防御条约，该条约在技术上与北约的第五条款相同。",
+        "根据该条约，任何对三国之一的武装攻击都将被视为对所有三国的攻击。",
+        "土耳其外交部长表示，该条约不是针对伊朗的。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters",
+        "The Jerusalem Post"
+      ],
+      "all_titles": {
+        "en": "Turkey: Defense pact mirrors NATO's Article 5"
+      }
+    },
+    {
+      "title_original": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "title_zh": "荷姆兹谈判积极，阿曼表示，伊朗警告协议不会开放海峡",
+      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-08T19:18:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "阿曼表示，荷姆兹海峡的谈判正在积极进行，但伊朗警告称，任何协议都不会立即开放海峡。",
+        "伊朗外交部长表示，谈判正在最后阶段，但海峡的重新开放取决于其他条件。",
+        "美国和伊朗之间的紧张关系导致荷姆兹海峡的航运交通受到影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait"
+      }
+    },
+    {
+      "title_original": "Kleiner Landraub, große Wirkung: Wie Russland die NATO mit minimalem Aufwand in die Knie zwingen könnte",
+      "title_zh": "小规模的领土侵占，大规模的影响：俄罗斯如何以最小的代价迫使北约屈服",
+      "url": "https://www.op-online.de/politik/brisanter-geheimdienstbericht-putin-plant-begrenzten-nato-angriff-zr-94434845.html",
+      "source": "op-online.de",
+      "source_score": 40,
+      "published_at": "2026-08-08T19:02:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯可能会在未来几年内对北约领土发动小规模的攻击，以最小的代价迫使北约屈服。",
+        "俄罗斯可能会利用混合攻击，包括网络攻击和宣传战，来削弱北约的实力。",
+        "北约官员警告称，俄罗斯可能会在2026年至2029年之间发动攻击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "op-online.de"
+      ],
+      "all_titles": {
+        "de": "Kleiner Landraub, große Wirkung: Wie Russland die NATO mit minimalem Aufwand in die Knie zwingen könnte"
+      }
+    },
+    {
+      "title_original": "Child among three killed in Russian missile attacks near Kyiv",
+      "title_zh": "在基辅附近的俄罗斯导弹袭击中丧生的三人中的一名儿童",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-08T18:06:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "在基辅附近的俄罗斯导弹袭击中丧生的三人中的一名儿童\n- 已发表\n当地官员称，俄罗斯夜间在乌克兰首都基辅附近发动袭击，造成至少三人死亡，其中包括一名儿童。",
+        "地区军事管理局局长帖木儿称，弹道导弹袭击基辅东部，另有三人受伤\n就在这次新的袭击发生几天前，俄罗斯加强了打击力度，造成 21 人死亡，因为俄罗斯意识到乌克兰已经耗尽了西方捐赠的用于保卫其天空的拦截导弹。",
+        "周六，乌克兰总统泽连斯基再次呼吁购买更多美国制造的爱国者拦截导弹，称乌克兰收到的导弹还不够。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Child among three killed in Russian missile attacks near Kyiv"
+      }
+    },
+    {
+      "title_original": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "title_zh": "新右翼总统上任第一天美国向哥伦比亚提供10亿美元",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-08T17:58:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "新右翼总统上任第一天美国向哥伦比亚提供10亿美元\n- 已发表\n在哥伦比亚新任右翼民粹主义总统宣誓就职数小时后，美国承诺向哥伦比亚提供 10 亿美元（7.4 亿英镑）的援助。",
+        "阿韦拉多·德拉埃斯普里埃拉是唐纳德·特朗普的崇拜者，他在竞选过程中赞同美国总统的许多政策，并在他的首次演讲中承诺对贩毒集团进行“全面战争”。",
+        "美国国务院表示，“安全计划”将帮助他实现“我们的共同目标”，其中包括打击有组织犯罪和非法移民。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US offers $1bn to Colombia on new right-wing president's first day of office"
+      }
+    },
+    {
+      "title_original": "تقرير: ويتكوف وكوشنر قد يزوران كييف وموسكو قريباً",
+      "title_zh": "报道：维特科夫和库什纳可能很快访问基辅和莫斯科",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/5304818-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%88%D9%8A%D8%AA%D9%83%D9%88%D9%81-%D9%88%D9%83%D9%88%D8%B4%D9%86%D8%B1-%D9%82%D8%AF-%D9%8A%D8%B2%D9%88%D8%B1%D8%A7%D9%86-%D9%83%D9%8A%D9%8A%D9%81-%D9%88%D9%85%D9%88%D8%B3%D9%83%D9%88-%D9%82%D8%B1%D9%8A%D8%A8%D8%A7%D9%8B",
+      "source": "aawsat.com",
+      "source_score": 40,
+      "published_at": "2026-08-08T17:58:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "据彭博社报道，有新闻报道称，美国总统特朗普外交政策团队的两名最重要成员、特使史蒂夫·威特科夫和女婿贾里德·库什纳可能在未来7至10天内访问基辅和莫斯科。",
+        "此次潜在的访问可能会为特朗普在俄罗斯和乌克兰之间的谈判中所依赖的两个主要调解人的努力提供新的动力，此前旨在结束冲突的谈判陷入僵局，美国将重点转向了中东局势。",
+        "维特科夫和库什纳曾多次访问莫斯科，与俄罗斯总统普京等高级官员举行会晤，但尚未访问基辅。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "aawsat.com"
+      ],
+      "all_titles": {
+        "ar": "تقرير: ويتكوف وكوشنر قد يزوران كييف وموسكو قريباً"
+      }
+    },
+    {
+      "title_original": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit",
+      "title_zh": "麦当娜向“天才、超凡脱俗”的制作人威廉·奥尔比特致敬",
+      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-08T17:23:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "麦当娜向“天才、超凡脱俗”的制作人威廉·奥尔比特致敬\n- 已发表\n麦当娜向她的长期合作者、广受赞誉的音乐制作人威廉·奥尔比特致敬，后者于上个月去世，享年 69 岁。",
+        "这位流行巨星周六在 Instagram 上写道：“你按下了我体内的一个神奇按钮，我就陷入了一个充满未实现梦想的星系。”",
+        "“你的音乐给了我一张可以飞翔的魔毯，我去了很多地方。”\nOrbit 的家人周五“怀着深深的悲伤”宣布，这位格莱美获奖制作人于 7 月 23 日在家中去世。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Madonna pays tribute to 'genius, otherworldly' producer William Orbit"
+      }
+    },
+    {
+      "title_original": "¿Qué sucedería si China atacara al presidente de Taiwán?",
+      "title_zh": "¿Qué sucedería si China atacara al presidente de Taiwán?",
+      "url": "https://cnnespanol.cnn.com/2026/08/08/mundo/video/china-presidente-taiwan-conflicto-trax",
+      "source": "CNN en Español",
+      "source_score": 95,
+      "published_at": "2026-08-08T16:57:17+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Video Ad Feedback\n  ¿Qué sucedería si China atacara al presidente de Taiwán?",
+        "台湾正在演练其最微妙的战争场景之一：在模拟中国针对台湾领导人的“斩首袭击”后维持政府的运作。",
+        "这次演习是台北所称的历史上最大规模的汉光军事演习的一部分。其中，军队保卫港口、桥梁和其他重要基础设施，台北则为可能与中国发生冲突做好准备。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "CNN en Español"
+      ],
+      "all_titles": {
+        "es": "¿Qué sucedería si China atacara al presidente de Taiwán?"
+      }
+    },
+    {
+      "title_original": "Rusia califica de “provocación fabricada” el hallazgo de un dron con explosivos en un centro logístico de la OTAN en Alemania",
+      "title_zh": "俄罗斯称在德国北约物流中心发现带有爆炸物的无人机是“捏造的挑衅”",
+      "url": "https://www.escenariomundial.com/2026/08/08/rusia-califica-de-provocacion-fabricada-el-hallazgo-de-un-dron-con-explosivos-en-un-centro-logistico-de-la-otan-en-alemania/",
+      "source": "Escenario Mundial",
+      "source_score": 40,
+      "published_at": "2026-08-08T16:52:08+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德国北约物流中心发现一架带有爆炸物的无人机，引发了欧洲的安全担忧。",
+        "俄罗斯驻德国大使馆发表声明，称这一事件是“捏造的挑衅”，并表示没有证据支持这一指控。",
+        "德国政府尚未直接指责任何国家或组织，但已经展开了调查，以确定这一事件的责任方。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Escenario Mundial"
+      ],
+      "all_titles": {
+        "es": "Rusia califica de “provocación fabricada” el hallazgo de un dron con explosivos en un centro logístico de la OTAN en Alemania"
+      }
+    },
+    {
+      "title_original": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation",
+      "title_zh": "保加利亚和德国发现无人机引发对俄罗斯升级的担忧",
+      "url": "https://www.aljazeera.com/news/2026/8/8/drones-spotted-in-bulgaria-and-germany-raise-concerns-of-russian-escalation",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-08T16:30:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "保加利亚和德国近日发现多架无人机，引发了人们对俄罗斯可能升级行动的担忧。",
+        "保加利亚总理鲁门·拉德夫表示，一架无人机在保加利亚与罗马尼亚边境附近的天然气管道附近爆炸，造成无人员伤亡。",
+        "保加利亚国防部表示，初步分析显示该无人机可能是一架“玛雅”诱饵无人机，这种无人机在乌克兰武装部队中被广泛使用。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Drones spotted in Bulgaria and Germany raise concerns about Russian escalation"
+      }
+    },
+    {
+      "title_original": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "title_zh": "视频：反对党议员向科索沃代理总理扔鸡蛋",
+      "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-08T15:59:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "科索沃反对党议员蒂姆·卡德里亚伊向科索沃代理总理阿尔宾·库尔蒂扔鸡蛋，引发了骚乱。",
+        "事件发生在科索沃议会内，多名议员和警察介入干预。",
+        "这一事件凸显了科索沃政治的紧张和对立。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM"
+      }
+    },
+    {
+      "title_original": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "title_zh": "特朗普前律师托德·布兰奇险些被确认为美国司法部长",
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-08T15:56:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国参议院以50票对49票的微弱优势确认托德·布兰奇为美国司法部长。",
+        "布兰奇曾是特朗普的私人律师，他的提名过程因其处理杰弗里·爱泼斯坦相关文件和在特朗普“反武器化”基金中的角色而引发争议。",
+        "布兰奇的确认将结束特朗普政府和参议院共和党人之间关于他的提名的长期僵局。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general"
+      }
+    },
+    {
+      "title_original": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4",
+      "title_zh": "泽连斯基访问亲莫斯科的塞尔维亚，俄罗斯对基辅地区的袭击造成4人死亡",
+      "url": "https://apnews.com/article/russia-ukraine-war-missiles-patriot-zelenskyy-492d334e26b5485dbf74d7ae9c9d33ce",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-08-08T15:12:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基访问塞尔维亚，这是他首次访问该国，也是欧洲为数不多的与莫斯科保持友好关系的国家之一。",
+        "在泽连斯基访问期间，俄罗斯对基辅地区发动了袭击，造成4人死亡，包括一名儿童。",
+        "泽连斯基和塞尔维亚总统武契奇讨论了两国加入欧盟、双边关系和合作的努力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "Zelenskyy visits Moscow-friendly Serbia as Russian attacks on Kyiv region kill 4"
+      }
+    },
+    {
+      "title_original": "美情報顯示普京可能擴大挑釁 測試北約團結",
+      "title_zh": "美情報顯示普京可能擴大挑釁 測試北約團結",
+      "url": "https://www.epochtimes.com/gb/26/8/8/n14825915.htm",
+      "source": "大纪元",
+      "source_score": 40,
+      "published_at": "2026-08-08T14:56:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美國情報評估顯示，俄羅斯總統普京可能在未來幾年內對北約盟國發動有限攻擊，旨在測試北約的團結和對「第五條」的承諾。",
+        "北約「第五條」規定，對一個成員國的攻擊即視為對所有成員國的攻擊，但俄羅斯未必會將行動升級到足以觸發盟國集體回應的程度。",
+        "美國官員表示，普京的目的可能未必是引發更大規模的衝突，而是試探北約的團結以及對北約盟國遭到攻擊時的回應。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "大纪元"
+      ],
+      "all_titles": {
+        "zh": "美情報顯示普京可能擴大挑釁 測試北約團結"
+      }
+    },
+    {
+      "title_original": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "title_zh": "西班牙对意大利实施边境管制，塞乌塔移民潮争议加剧",
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-08T14:25:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙对来自意大利的所有空中和海上旅行实施边境管制，作为对意大利引入类似限制的回应，后者是在塞乌塔发生移民潮之后做出的反应。",
+        "西班牙官员表示，5%-10%的乘客在下飞机之前需要接受检查，而意大利也表示其边境管制是随机的。",
+        "意大利和西班牙之间的争议源于塞乌塔移民潮，西班牙社会党领袖佩德罗·桑切斯和意大利保守派领袖吉奥尔吉娅·梅洛尼之间的紧张关系加剧了这一争议。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies"
+      }
+    },
+    {
+      "title_original": "ロシアの対ウクライナ戦争の迅速な終結の道は見えない＝セルビア大統領",
+      "title_zh": "塞尔维亚总统：俄罗斯对乌克兰战争的迅速结束之路尚不明显",
+      "url": "https://www.ukrinform.jp/rubric-ato/4152359-roshiano-duiukuraina-zhan-zhengno-xun-suna-zhong-jieno-daoha-jianenaiserubia-da-tong-ling.html",
+      "source": "ウクルインフォルム通信",
+      "source_score": 40,
+      "published_at": "2026-08-08T14:19:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "塞尔维亚总统武契奇表示，俄罗斯对乌克兰战争的迅速结束之路尚不明显，乌克ライナ可能再次面临严冬。",
+        "武契奇总统在与乌克ライナ总统泽连斯基的联合新闻发布会上发表了这一言论。",
+        "他表示，国际社会希望战争尽快结束，但他无法对战争的迅速结束做出任何预测。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "ウクルインフォルム通信"
+      ],
+      "all_titles": {
+        "ja": "ロシアの対ウクライナ戦争の迅速な終結の道は見えない＝セルビア大統領"
+      }
+    },
+    {
+      "title_original": "Why Rhode Island may oust a sitting governor over a bridge",
+      "title_zh": "罗德岛可能因桥梁问题而罢免现任州长",
+      "url": "https://www.politico.com/news/2026/08/08/rhode-island-governor-bridge-01030024",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-08T09:00:38-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "罗德岛州可能因桥梁问题而罢免现任州长丹·麦基，这将是八年来首次有州长在初选中失利。",
+        "麦基州长的竞选团队面临挑战，主要原因是桥梁问题引发的争议。",
+        "如果麦基州长失利，将会是近年来罕见的现任州长在初选中被击败的案例。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Why Rhode Island may oust a sitting governor over a bridge"
+      }
+    },
+    {
+      "title_original": "コソボに関するウクライナの立場は変わっていない＝ゼレンシキー宇大統領",
+      "title_zh": "泽连斯基总统：乌克兰对科索沃的立场没有改变",
+      "url": "https://www.ukrinform.jp/rubric-polytics/4152349-kosoboni-guansuruukurainano-li-changha-bianwatteinaizerenshiki-yu-da-tong-ling.html",
+      "source": "ウクルインフォルム通信",
+      "source_score": 40,
+      "published_at": "2026-08-08T13:49:23+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基表示，乌克兰对科索沃的立场没有改变，乌克兰尊重塞尔维亚的领土主权。",
+        "泽连斯基总统在与塞尔维亚总统武契奇的联合新闻发布会上发表了这一言论。",
+        "他表示，乌克兰一贯强调尊重国际法和领土完整的重要性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "ウクルインフォルム通信"
+      ],
+      "all_titles": {
+        "ja": "コソボに関するウクライナの立場は変わっていない＝ゼレンシキー宇大統領"
+      }
+    },
+    {
+      "title_original": "【新聞直擊】俄黑手浮現 北約機場現殺機 川普重金搶先布局",
+      "title_zh": "【新聞直擊】俄黑手浮現 北約機場現殺機 川普重金搶先布局",
+      "url": "https://www.ntdtv.com/gb/2026/08/08/a104122312.html",
+      "source": "新唐人電視台",
+      "source_score": 40,
+      "published_at": "2026-08-08T13:48:01+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "德国机场惊现爆炸无人机，美国官员怀疑其来自俄罗斯。",
+        "俄罗斯近期罕见从韩国进口大批成品油，包括柴油和航空燃油。",
+        "美国总统川普政府将在关键矿产领域投入约30亿美元，减少对中国依赖。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "新唐人電視台"
+      ],
+      "all_titles": {
+        "zh": "【新聞直擊】俄黑手浮現 北約機場現殺機 川普重金搶先布局"
+      }
+    },
+    {
+      "title_original": "Russian strikes near Ukrainian capital kill four, including child",
+      "title_zh": "俄罗斯袭击乌克兰首都附近地区，造成四人死亡，包括一名儿童",
+      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-08T13:00:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯袭击乌克兰首都附近地区，造成四人死亡，包括一名儿童。",
+        "乌克兰总统泽连斯基指责俄罗斯总统普京“绝望地依赖弹道导弹和无人机来继续战争”。",
+        "俄罗斯的袭击使得乌克兰的防空系统面临挑战，美国提供的爱国者防空系统是唯一能可靠拦截俄罗斯弹道导弹的武器。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russian strikes near Ukrainian capital kill four, including child"
+      }
+    },
+    {
+      "title_original": "尽管地缘政治局势不明朗 丰田汽车对汽车出口增长持乐观态度",
+      "title_zh": "尽管地缘政治局势不明朗 丰田汽车对汽车出口增长持乐观态度",
+      "url": "http://www.shangbaoindonesia.com/read/2026/08/08/economy-1786197535",
+      "source": "Shangbao Indonesia",
+      "source_score": 40,
+      "published_at": "2026-08-08T12:59:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "丰田汽车印尼制造公司（TMMIN）尽管全球经济形势不明朗和地缘政治局势紧张，仍对今年的汽车出口业绩增长持乐观态度。",
+        "TMMIN公司的目标是至少达到或超过去年的出口业绩，目前上半年整辆车出口量已经达到145,080辆。",
+        "公司将继续探索新市场的机遇，扩大在拉丁美洲的市场份额，并探索其他的出口目的地。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Shangbao Indonesia"
+      ],
+      "all_titles": {
+        "zh": "尽管地缘政治局势不明朗 丰田汽车对汽车出口增长持乐观态度"
+      }
+    },
+    {
+      "title_original": "Woman screams in fear as Ukraine war recruiters pounce on man",
+      "title_zh": "乌克兰战争征兵人员突然抓走一名男子，女子惊恐尖叫",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/woman-screams-for-her-man-as-ukraine-war-recruiters-pounce",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-08T12:17:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "一段视频显示，乌克兰战争征兵人员突然抓走一名男子，女子惊恐尖叫。",
+        "这段视频引发了人们对“busification”（强制征兵）的担忧，这是乌克兰的一种做法，即将男子强行带入小巴士进行军事服务。",
+        "乌克兰的征兵制度面临挑战，许多男子试图避免被征召入伍。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Woman screams in fear as Ukraine war recruiters pounce on man"
+      }
+    },
+    {
+      "title_original": "NBA forward Clarke's death due to effects of drugs",
+      "title_zh": "NBA球员克拉克的死因是由于吸毒",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-08T12:05:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NBA球员布兰登·克拉克的死因是由于海洛因和可卡因的影响。",
+        "克拉克于5月11日在洛杉矶的一栋房子里被发现无反应，随后被宣布死亡。",
+        "克拉克曾是孟菲斯灰熊队的球员，2019年被选为首轮选秀，他在NBA打了309场比赛，场均得分10.2分。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "NBA forward Clarke's death due to effects of drugs"
+      }
+    }
+  ]
+}
