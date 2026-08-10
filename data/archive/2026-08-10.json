@@ -1,0 +1,857 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T05:09:15.091172+00:00",
+  "count": 34,
+  "articles": [
+    {
+      "title_original": "Grandes petroleras obtienen enormes ganancias gracias a la guerra en Oriente Medio",
+      "title_zh": "大石油公司因中东战争获得巨大利润",
+      "url": "https://www.latimes.com/espanol/eeuu/articulo/2026-08-09/grandes-petroleras-obtienen-enormes-ganancias-gracias-la-guerra-en-oriente-medio",
+      "source": "latimes.com",
+      "source_score": 40,
+      "published_at": "2026-08-10T04:57:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于中东战争，石油公司的利润大幅增加，Chevron 的利润几乎增加了四倍，达到 12.07 亿美元。",
+        "Exxon Mobil 的第二季度利润增加了一倍，达到 14.53 亿美元，收入增加了 42%，达到 116.02 亿美元。",
+        "由于战争，全球石油供应受到限制，导致油价上涨，消费者面临燃料短缺和价格上涨的问题。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "latimes.com"
+      ],
+      "all_titles": {
+        "es": "Grandes petroleras obtienen enormes ganancias gracias a la guerra en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "ロシア、ウクライナ東部2村を制圧と発表 ドネツク州を徐々に進軍",
+      "title_zh": "俄罗斯宣布占领乌克兰东部两个村庄，逐步推进到顿涅茨克州",
+      "url": "https://jp.reuters.com/world/ukraine/6TW3EITTWJP53I3FIU6CWDPUJY-2026-08-10/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-10T04:53:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯宣布占领乌克兰东部两个村庄，逐步推进到顿涅茨克州。",
+        "俄罗斯军队在乌克兰东部地区取得进展，控制了部分地区。",
+        "冲突导致当地居民流离失所，基础设施受损。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナ東部2村を制圧と発表 ドネツク州を徐々に進軍"
+      }
+    },
+    {
+      "title_original": "تطورات الشرق الأوسط.. إيران تتمسك بشروطها لإعادة فتح مضيق هرمز | التلفزيون العربي",
+      "title_zh": "中东局势发展：伊朗坚持条件以重新开放霍尔木兹海峡",
+      "url": "https://www.alaraby.com/news/%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%AA%D9%85%D8%B3%D9%83-%D8%A8%D8%B4%D8%B1%D9%88%D8%B7%D9%87%D8%A7-%D9%84%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D9%81%D8%AA%D8%AD-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "source": "alaraby.com",
+      "source_score": 40,
+      "published_at": "2026-08-10T04:40:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗坚持其条件，以重新开放霍尔木兹海峡，要求美国满足其要求，包括赔偿因战争造成的损害。",
+        "伊朗控制了霍尔木兹海峡的航行，要求船只与其协调，使用沿其海岸的航道。",
+        "伊朗计划对使用海峡的船只收取“服务费”，作为新的航行安排的一部分。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "alaraby.com"
+      ],
+      "all_titles": {
+        "ar": "تطورات الشرق الأوسط.. إيران تتمسك بشروطها لإعادة فتح مضيق هرمز | التلفزيون العربي"
+      }
+    },
+    {
+      "title_original": "前線が膠着するロシアとウクライナ、激化する空中戦で代償を払わされる民間人(1/2)",
+      "title_zh": "俄罗斯和乌克兰的前线僵持不下，空中战激化，平民付出代价（1/2）",
+      "url": "https://www.cnn.co.jp/world/35251460.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-10T03:41:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯和乌克兰的冲突导致空中战激化，双方的攻击能力超过了防御能力，导致基础设施和经济基础设施受损，平民伤亡人数增加。",
+        "乌克兰军队对俄罗斯控制的地区进行空中攻击，包括对石油精炼厂、油轮和变电站的攻击。",
+        "空中战的激化导致平民伤亡人数增加，联合国报告称6月份乌克兰的平民伤亡人数创下了2022年以来的最高记录。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "前線が膠着するロシアとウクライナ、激化する空中戦で代償を払わされる民間人(1/2)"
+      }
+    },
+    {
+      "title_original": "ドイツ西部の基地上空でドローン目撃、東部空港でのドローン発見から数日後",
+      "title_zh": "德国西部基地上空发现无人机，东部机场发现无人机仅几天后",
+      "url": "https://www.bbc.com/japanese/articles/cevm7wlz1lno",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-10T03:33:55+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "德国西部的一个基地上空发现了无人机，这是在东部的一个机场发现无人机仅几天后发生的。",
+        "德国军方报告称，无人机是在基地上空发现的，基地内存放着美国制造的爱国者导弹防御系统的零件。",
+        "德国当局正在调查无人机的来源，目前尚不清楚它来自哪里。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ドイツ西部の基地上空でドローン目撃、東部空港でのドローン発見から数日後"
+      }
+    },
+    {
+      "title_original": "WHOのウクライナ倉庫に攻撃、事務局長が非難",
+      "title_zh": "WHO的乌克兰仓库遭到袭击，总干事谴责",
+      "url": "https://www.afpbb.com/articles/-/3647913",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-10T03:29:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "世界保健组织（WHO）的乌克兰仓库遭到袭击，总干事特德罗斯·阿达诺姆·盖布雷耶苏斯谴责了这一行为。",
+        "据特德罗斯介绍，仓库内存放着大量的医疗物资，主要是WHO的紧急医疗支援物资，原本是为了运送到前线的医疗设施。",
+        "WHO已经记录了自2022年2月24日俄罗斯入侵乌克兰以来，乌克兰境内3148起针对医疗机构的袭击事件，其中大部分涉及重型武器的暴力行为。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "WHOのウクライナ倉庫に攻撃、事務局長が非難"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : statu quo sur le plan pour Gaza, Trump minimise les exigences iraniennes… Les dernières infos",
+      "title_zh": "中东战争：加沙计划陷入僵局，特朗普淡化伊朗的要求…最新消息",
+      "url": "https://www.ouest-france.fr/monde/proche-orient/guerre-au-moyen-orient-statu-quo-sur-le-plan-pour-gaza-trump-minimise-les-exigences-iraniennes-les-dernieres-infos-26af5894-943d-11f1-836e-318a0522cae2",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-08-10T02:54:47+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争持续，美国前总统特朗普对伊朗的要求持淡化态度，当前加沙计划陷入僵局。",
+        "特朗普表示，他更倾向于对伊朗施加经济压力，而不是使用武力。",
+        "伊朗和美国之间的紧张关系仍在持续，双方在中东问题上的立场仍然存在分歧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : statu quo sur le plan pour Gaza, Trump minimise les exigences iraniennes… Les dernières infos"
+      }
+    },
+    {
+      "title_original": "Contre l’Iran, Trump penche vers la pression économique plutôt que la force",
+      "title_zh": "对伊朗，特朗普倾向于经济压力而非武力",
+      "url": "https://www.20minutes.fr/monde/etats-unis/4238404-20260810-guerre-moyen-orient-contre-iran-trump-mise-desormais-pression-economique-plutot-bombes",
+      "source": "20minutes.fr",
+      "source_score": 40,
+      "published_at": "2026-08-10T02:51:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国前总统特朗普表示，他更倾向于对伊朗施加经济压力，而不是使用武力。",
+        "特朗普认为，经济压力可能是迫使伊朗就范的有效手段，当前伊朗的经济状况已经十分困难。",
+        "特朗普的这一表态被视为他对中东政策的最新调整，试图通过经济手段解决与伊朗的争端。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "20minutes.fr"
+      ],
+      "all_titles": {
+        "fr": "Contre l’Iran, Trump penche vers la pression économique plutôt que la force"
+      }
+    },
+    {
+      "title_original": "ウクライナの夜間ドローン攻撃 ベルゴロド州で5人死亡 25人負傷（AP通信）",
+      "title_zh": "乌克兰夜间无人机袭击俄罗斯别尔哥罗德州，5人死亡，25人受伤（美联社）",
+      "url": "https://news.yahoo.co.jp/articles/ba7ecc9752703d75c6b021bcc39b69c5fb13ee7a",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-10T02:47:29+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰对俄罗斯别尔哥罗德州进行了夜间无人机袭击，导致5人死亡，25人受伤。",
+        "袭击造成了多处建筑物损坏，包括住宅和行政设施。",
+        "俄罗斯方面已经开始调查这一事件，称其为恐怖袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの夜間ドローン攻撃 ベルゴロド州で5人死亡 25人負傷（AP通信）"
+      }
+    },
+    {
+      "title_original": "ロシアとウクライナ双方の攻撃で5人が死亡、負傷者多数",
+      "title_zh": "俄罗斯和乌克兰双方的攻击导致5人死亡，多人受伤",
+      "url": "https://www.afpbb.com/articles/-/3647897",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-10T01:55:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯和乌克兰双方的攻击导致5人死亡，多人受伤，冲突持续升级。",
+        "乌克兰总统泽连斯基表示，俄罗斯对乌克兰的袭击是“弹道导弹恐怖”，呼吁国际社会对俄罗斯施加更多压力和制裁。",
+        "冲突双方都遭受了人员和基础设施的损失，局势仍然十分紧张。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ロシアとウクライナ双方の攻撃で5人が死亡、負傷者多数"
+      }
+    },
+    {
+      "title_original": "Hong Kong records hottest day ever as Typhoon Dolphin fuels heatwave",
+      "title_zh": "香港创下有史以来最高温度，台风海豚引发热浪",
+      "url": "https://www.theguardian.com/world/2026/aug/10/hong-kong-heat-record-hottest-day-ever-typhoon-dolphin",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-10T01:24:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "香港天文台表示，周日的温度为36.9摄氏度，是该市自1884年有记录以来最高的官方温度。",
+        "这次热浪是由台风海豚带来的暖空气引发的。",
+        "香港天文台在下午发布了这一消息，称这是该市有记录以来最高的温度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Hong Kong records hottest day ever as Typhoon Dolphin fuels heatwave"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: North Korea sending 50,000 troops to Russia – Zelenskyy",
+      "title_zh": "乌克兰战争简报：北韩向俄罗斯派遣5万名士兵——泽连斯基",
+      "url": "https://www.theguardian.com/world/2026/aug/10/ukraine-war-briefing-north-korea-sending-50000-troops-to-russia-zelenskyy",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-10T01:19:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基表示，北韩将向俄罗斯派遣多达5万名士兵。",
+        "这比泽连斯基在7月份宣布的3万名士兵的估计要多。",
+        "乌克兰在其领土上发现了一些北韩导弹，泽连斯基表示，北韩将继续从俄罗斯获得军事经验和技术。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: North Korea sending 50,000 troops to Russia – Zelenskyy"
+      }
+    },
+    {
+      "title_original": "$黄金/美元 (XAUUSD.CFD)$ 地缘政治+加息“利率出尽”、技术面“压力”转支撑、北上现价4337买涨、43...",
+      "title_zh": "$黄金/美元 (XAUUSD.CFD)$ 地缘政治+加息“利率出尽”、技术面“压力”转支撑、北上现价4337买涨、43...",
+      "url": "https://www.moomoo.com/hans/community/feed/xau-usd-xauusd-cfd-geopolitics-plus-interest-rate-hikes-all-117068424609798",
+      "source": "Moomoo",
+      "source_score": 40,
+      "published_at": "2026-08-10T00:39:57+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "文章讨论了黄金/美元的价格走势，提到了地缘政治和加息的影响。",
+        "作者认为技术面“压力”转为支撑，建议北上现价4337买涨、4325加仓、目标4357/4375。",
+        "文章还提到了风控和等待沪金开盘或10点4小时收线。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Moomoo"
+      ],
+      "all_titles": {
+        "zh": "$黄金/美元 (XAUUSD.CFD)$ 地缘政治+加息“利率出尽”、技术面“压力”转支撑、北上现价4337买涨、43..."
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Wildberries warehouse struck by Kyiv’s drones more than 2,000km from Russian border",
+      "title_zh": "乌克兰战争简报：基辅的无人机在俄罗斯边境2000多公里外袭击了Wildberries的仓库",
+      "url": "https://www.theguardian.com/world/2026/aug/08/ukraine-war-briefing-wildberries-warehouse-struck-by-kyivs-drones-more-than-2000km-from-russian-border",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-10T00:31:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰的长程无人机袭击了俄罗斯最大在线零售商Wildberries在乌拉尔山脉的仓库，距离俄罗斯边境2000多公里。",
+        "Wildberries表示，其在俄罗斯第四大城市叶卡捷琳堡的仓库被袭击，部分商品被毁。",
+        "乌克兰总统泽连斯基感谢美国参议院通过了一项支持对俄罗斯实施能源制裁的法案。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Wildberries warehouse struck by Kyiv’s drones more than 2,000km from Russian border"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Turkey calls for ‘moratorium’ on Black Sea attacks by Russia and Ukraine",
+      "title_zh": "乌克兰战争简报：土耳其呼吁俄罗斯和乌克兰在黑海停止攻击",
+      "url": "https://www.theguardian.com/world/2026/aug/09/ukraine-war-briefing-turkey-calls-for-moratorium-on-black-sea-attacks-by-russia-and-ukraine",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-10T00:31:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "土耳其外交部长呼吁俄罗斯和乌克兰在黑海停止攻击，称冲突已经扩散到整个黑海地区。",
+        "俄罗斯继续袭击乌克兰的港口基础设施和支持乌克兰军队的船只，俄罗斯国防部表示。",
+        "乌克兰否认故意攻击保加利亚，称一架无人机在保加利亚和罗马尼亚边境附近的战略跨巴尔干天然气管道附近爆炸。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Turkey calls for ‘moratorium’ on Black Sea attacks by Russia and Ukraine"
+      }
+    },
+    {
+      "title_original": "هجوم حوثي واسع يستهدف ميناء المخا",
+      "title_zh": "胡塞武装对也门红海港口城市米哈发动大规模袭击",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5305165-%D9%87%D8%AC%D9%88%D9%85-%D8%AD%D9%88%D8%AB%D9%8A-%D9%88%D8%A7%D8%B3%D8%B9-%D9%8A%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AE%D8%A7",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-10T00:03:36+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "胡塞武装对也门红海港口城市米哈发动大规模袭击，造成4名军人和3名平民死亡，15人受伤。",
+        "袭击使用了导弹和无人机，目标是米哈港口和周边地区。",
+        "也门政府指责胡塞武装试图破坏该国的经济和安全稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "هجوم حوثي واسع يستهدف ميناء المخا"
+      }
+    },
+    {
+      "title_original": "棉花：短期修复 还是趋势反转？",
+      "title_zh": "棉花：短期修复 还是趋势反转？",
+      "url": "https://finance.sina.cn/futuremarket/qsyw/2026-08-09/detail-inimuriv2940623.d.html?vt=4&cid=76576&node_id=76576",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-08-10T00:00:27+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "近期棉花价格走势震荡偏强，受到地缘政治和宏观经济因素的影响。",
+        "新疆高温天气和印度季风降雨不足导致全球棉花供应紧张，支撑棉价上涨。",
+        "然而，下游需求尚未完全恢复，棉价上涨的持续性存疑。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "棉花：短期修复 还是趋势反转？"
+      }
+    },
+    {
+      "title_original": "Evidence that South African special forces murdered top detective shared with BBC",
+      "title_zh": "南非特警涉嫌谋杀高级侦探的证据被分享给BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-09T23:05:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "南非高级侦探弗兰斯·马蒂帕被特警谋杀的证据被分享给BBC。",
+        "马蒂帕曾调查特警涉嫌的案件，据信他被杀是因为他接近真相。",
+        "七名特警和一名军事警察被指控谋杀马蒂帕，但他们否认指控。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Evidence that South African special forces murdered top detective shared with BBC"
+      }
+    },
+    {
+      "title_original": "هل تغير موقع إيران في معادلة الشرق الأوسط؟ ما الذي كشفته أزمة هرمز؟",
+      "title_zh": "伊朗在中东地缘政治中的地位是否发生变化？霍尔木兹海峡危机揭示了什么？",
+      "url": "https://www.skynewsarabia.com/program/radar/1885177-%D8%AA%D8%BA%D9%8A%D8%B1-%D9%85%D9%88%D9%82%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "سكاي نيوز عربية",
+      "source_score": 40,
+      "published_at": "2026-08-09T22:20:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗在中东地缘政治中的地位复杂，受到多种因素的影响。",
+        "霍尔木兹海峡危机凸显了伊朗的军事实力和地区影响力。",
+        "然而，伊朗的内部权力斗争和外部压力也可能影响其地缘政治地位。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "سكاي نيوز عربية"
+      ],
+      "all_titles": {
+        "ar": "هل تغير موقع إيران في معادلة الشرق الأوسط؟ ما الذي كشفته أزمة هرمز؟"
+      }
+    },
+    {
+      "title_original": "ウクライナとロシアが互いの攻撃で死者発生、双方とも相手方非難",
+      "title_zh": "乌克兰和俄罗斯互相指责对方的攻击导致人员死亡",
+      "url": "https://jp.reuters.com/world/ukraine/KPCIP6NA7FO5NGFMZ6FM2VYIRY-2026-08-09/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-09T22:17:29+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰和俄罗斯之间的冲突持续，双方互相指责对方的攻击导致人员死亡。",
+        "乌克兰方面报告了多起俄罗斯的攻击事件，造成人员伤亡和基础设施损坏。",
+        "俄罗斯方面则指责乌克兰的攻击违反国际法，造成俄罗斯人员伤亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ウクライナとロシアが互いの攻撃で死者発生、双方とも相手方非難"
+      }
+    },
+    {
+      "title_original": "ウクライナ、「ロシア版アマゾン」を空襲…高麗人CEOの59億ドルが吹き飛ぶ（中央日報日本語版）",
+      "title_zh": "乌克兰空袭“俄罗斯版亚马逊”，高丽人CEO损失59亿美元",
+      "url": "https://news.yahoo.co.jp/articles/41a13841b8dee68e8d424ba2226ad38531a7c778",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-09T21:59:22+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰对俄罗斯最大电子商务平台“野蛮草莓”进行空袭，造成重大财产损失和人员伤亡。",
+        "空袭可能是为了破坏俄罗斯军队的供应链，并让俄罗斯民众感受到战争的负担。",
+        "野蛮草莓的CEO塔チアナ·金是一位高丽人，公司价值最高达59亿美元，已成为俄罗斯最大的在线流通企业。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、「ロシア版アマゾン」を空襲…高麗人CEOの59億ドルが吹き飛ぶ（中央日報日本語版）"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient: ce que l’on sait du projet d’accord pour sécuriser le détroit d’Ormuz",
+      "title_zh": "中东战争：关于奥穆兹海峡安全协议的最新进展",
+      "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-guerre-au-moyen-orient-ce-que-l-on-sait-du-projet-d-accord-pour-securiser-le-detroit-d-ormuz_VN-202608090270.html",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-08-09T21:43:40+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国总统表示，正在与伊朗进行谈判，以确保奥穆兹海峡的安全。",
+        "奥曼可能与伊朗达成协议，开辟新的海上通道。",
+        "奥穆兹海峡是重要的石油运输通道，安全问题引起各国关注。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: ce que l’on sait du projet d’accord pour sécuriser le détroit d’Ormuz"
+      }
+    },
+    {
+      "title_original": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "title_zh": "以色列拒绝特朗普的加沙15点计划，内塔尼亚胡表示",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-09T21:25:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列总理内塔尼亚胡拒绝了特朗普的加沙15点计划，理由是哈马斯必须先解除武装。",
+        "特朗普的计划包括哈马斯解除武装、以色列军队撤出加沙和加沙的重建。",
+        "哈马斯表示，只有在以色列结束“所有形式的侵略”和撤出军队后，才会考虑解除武装。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says"
+      }
+    },
+    {
+      "title_original": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "title_zh": "涉嫌犯罪头目丹尼尔·基纳汉被引渡后出庭",
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-09T20:58:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "丹尼尔·基纳汉被引渡回爱尔兰，并被指控指挥一个犯罪组织。",
+        "基纳汉被控于2015年至2017年间指挥一个犯罪组织，目前被关押在监狱中。",
+        "基纳汉被认为是世界上最大的犯罪集团之一的领导人，曾被美国财政部制裁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Suspected crime boss Daniel Kinahan appears in court after extradition"
+      }
+    },
+    {
+      "title_original": "La empresa navarra con medio siglo de historia cuyas especias se saborean en Europa, América y Oriente Medio",
+      "title_zh": "拥有半个世纪历史的纳瓦拉公司，其香料在欧洲、美洲和中东被人们所喜爱",
+      "url": "https://navarracapital.es/la-empresa-navarra-con-medio-siglo-de-historia-cuyas-especias-se-saborean-en-europa-america-y-oriente-medio/",
+      "source": "Navarra Capital",
+      "source_score": 40,
+      "published_at": "2026-08-09T20:45:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "纳瓦拉公司拥有半个世纪的历史，其香料产品在欧洲、美洲和中东被广泛使用。",
+        "公司的产品包括各种香料和调味品，受到各地人们的喜爱。",
+        "纳瓦拉公司的成功是由于其高质量的产品和良好的市场营销策略。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Navarra Capital"
+      ],
+      "all_titles": {
+        "es": "La empresa navarra con medio siglo de historia cuyas especias se saborean en Europa, América y Oriente Medio"
+      }
+    },
+    {
+      "title_original": "黒海周辺 ロシアとウクライナ双方が攻撃 トルコ外相停止求める",
+      "title_zh": "黑海周边俄罗斯和乌克兰双方都发动了攻击，土耳其外交部长要求停止",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43042",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-09T20:36:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "黑海周边地区，俄罗斯和乌克兰双方都发动了攻击。",
+        "土耳其外交部长要求双方停止攻击。",
+        "此事件可能会导致地区局势进一步紧张。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "黒海周辺 ロシアとウクライナ双方が攻撃 トルコ外相停止求める"
+      }
+    },
+    {
+      "title_original": "Taiwan: Warum Pekings Anspruch völkerrechtlich nicht überzeugt",
+      "title_zh": "台湾：为什么北京的主张在国际法上不具有说服力",
+      "url": "https://table.media/china/standpunkt/taiwan-warum-pekings-anspruch-voelkerrechtlich-nicht-ueberzeugt",
+      "source": "Table.Briefings",
+      "source_score": 40,
+      "published_at": "2026-08-09T20:04:33+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "北京对台湾的主张在国际法上存在争议。",
+        "台湾的主权问题是国际社会关注的焦点。",
+        "此问题可能会影响地区的稳定和安全。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Table.Briefings"
+      ],
+      "all_titles": {
+        "de": "Taiwan: Warum Pekings Anspruch völkerrechtlich nicht überzeugt"
+      }
+    },
+    {
+      "title_original": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
+      "title_zh": "尼日利亚军队称安全救出被枪手绑架的33人",
+      "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-09T19:57:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "尼日利亚军队成功救出被枪手绑架的33人。",
+        "绑架事件发生在尼日利亚北西部的扎姆法拉州。",
+        "尼日利亚军队正在努力打击该地区的绑架和暴力行为。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nigerian army says it safely rescued 33 people kidnapped by gunmen"
+      }
+    },
+    {
+      "title_original": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
+      "title_zh": "自由女神像附近船只倾覆致一名妇女和婴儿死亡，男子被捕",
+      "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-09T19:40:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "自由女神像附近发生船只倾覆事故，造成一名妇女和一名婴儿死亡。",
+        "事故原因正在调查中。",
+        "船只操作员被捕，面临13项鲁莽危害指控。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Drohnen-Vorfall an der Transbalkan-Pipeline – Bulgarien verlegt Truppen",
+      "title_zh": "乌克兰战争最新：跨巴尔干管道发生无人机事件，保加利亚调动军队",
+      "url": "https://www.fr.de/politik/putin-verluste-kiew-angriff-ukraine-krieg-aktuell-news-ticker-russland-zr-94429482.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-09T19:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争持续，跨巴尔干管道发生无人机事件。",
+        "保加利亚调动军队应对局势。",
+        "此事件可能会导致地区局势进一步紧张。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Drohnen-Vorfall an der Transbalkan-Pipeline – Bulgarien verlegt Truppen"
+      }
+    },
+    {
+      "title_original": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+      "title_zh": "加拿大政府介入因野火失控而导致数千人逃离的局势",
+      "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-09T18:20:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "加拿大不列颠哥伦比亚省正与102场野火作斗争，其中近半场被认为失控。",
+        "野火导致1人死亡，约22,000人被迫撤离家园。",
+        "加拿大联邦政府宣布将向不列颠哥伦比亚省提供紧急援助。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee"
+      }
+    },
+    {
+      "title_original": "La Inteligencia de EEUU concluye que Putin podría poner a prueba la firmeza de la OTAN con una incursión limitada",
+      "title_zh": "美国情报部门得出结论，普京可能会通过有限的入侵来测试北约的坚定性",
+      "url": "https://www.elmundo.es/internacional/2026/08/09/6a76063be4d4d8a2038b45a5.html",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-08-09T18:07:16+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国情报部门认为，俄罗斯总统普京可能会通过有限的入侵来测试北约的坚定性。",
+        "这一行动可能包括网络攻击或小规模的地面入侵，目标是北约东翼的国家。",
+        "美国情报部门还表示，俄罗斯已经开始采取行动来测试北约的反应，包括在波兰领土上发射俄罗斯导弹和在罗马尼亚领空飞行无人机。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "Estados Unidos concluye que Putin planearía una incursión limitada para poner a prueba a la OTAN"
+      }
+    },
+    {
+      "title_original": "تعيين محسن رضائي أميناً عاماً لمجلس الأمن القومي الإيراني",
+      "title_zh": "伊朗任命莫亨·雷扎伊为国家安全委员会秘书长",
+      "url": "https://aawsat.com/%D8%B4%D8%A4%D9%88%D9%86-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9/5305103-%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D9%85%D8%AD%D8%B3%D9%86-%D8%B1%D8%B6%D8%A7%D8%A6%D9%8A-%D8%A3%D9%85%D9%8A%D9%86%D8%A7%D9%8B-%D8%B9%D8%A7%D9%85%D8%A7%D9%8B-%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-09T18:02:22+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗总统马苏德·布泽什基安任命莫亨·雷扎伊为国家安全委员会秘书长。",
+        "雷扎伊取代了穆罕默德·巴格尔·祖尔卡德尔，后者之前担任该职务。",
+        "这一任命是伊朗国家安全委员会近期人事变动的一部分。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "تعيين محسن رضائي أميناً عاماً لمجلس الأمن القومي الإيراني"
+      }
+    },
+    {
+      "title_original": "الجهاد الإسلامي: إعلان نتنياهو رفض للخطة الأميركية واستكمال للإبادة",
+      "title_zh": "伊斯兰圣战组织：内塔尼亚胡的声明是对美国计划的拒绝和对巴勒斯坦人的种族灭绝的继续",
+      "url": "https://www.tasnimnews.ir/ar/news/2026/08/09/3667391/%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AF-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D9%86%D8%AA%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%B1%D9%81%D8%B6-%D9%84%D9%84%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%DB%8C%D8%B1%DA%A9%DB%8C%D8%A9-%D9%88%D8%A7%D8%B3%D8%AA%DA%A9%D9%85%D8%A7%D9%84-%D9%84%D9%84%D8%A5%D8%A8%D8%A7%D8%AF%D8%A9",
+      "source": "tasnimnews.ir",
+      "source_score": 40,
+      "published_at": "2026-08-09T17:57:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊斯兰圣战组织认为，内塔尼亚胡拒绝美国计划是对巴勒斯坦人民的种族灭绝的继续。",
+        "该组织指责内塔尼亚胡政府继续在加沙实施暴力和封锁政策。",
+        "伊斯兰圣战组织还呼吁国际社会采取行动，制止以色列的侵略行为。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "tasnimnews.ir"
+      ],
+      "all_titles": {
+        "ar": "الجهاد الإسلامي: إعلان نتنياهو رفض للخطة الأميركية واستكمال للإبادة"
+      }
+    }
+  ]
+}
