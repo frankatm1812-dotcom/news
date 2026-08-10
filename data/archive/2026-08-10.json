@@ -1,8 +1,611 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T05:09:15.091172+00:00",
-  "count": 34,
+  "generated_at": "2026-08-10T14:46:42.050412+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title_original": "سياحة الشرق الأوسط تتراجع 14%.. كيف ينعكس اضطراب السفر عليك؟",
+      "title_zh": "中东旅游业衰退14%.. 旅行混乱如何影响你？",
+      "url": "https://www.aljazeera.net/ebusiness/2026/8/10/%D8%B3%D9%8A%D8%A7%D8%AD%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%AA%D8%AA%D8%B1%D8%A7%D8%AC%D8%B9-14-%D9%83%D9%8A%D9%81-%D9%8A%D9%86%D8%B9%D9%83%D8%B3",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-10T14:21:11+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东旅游业在2026年第一季度衰退了14%，而全球旅游业却增长了2%。",
+        "这种衰退是由于近期的紧张局势导致的，尤其是伊朗战争和空中交通的混乱。",
+        "中东地区的旅游业曾经在2025年经历了强劲的复苏，甚至超过了2019年的水平，但现在面临着不确定性和挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "سياحة الشرق الأوسط تتراجع 14%.. كيف ينعكس اضطراب السفر عليك؟"
+      }
+    },
+    {
+      "title_original": "وول ستريت تفتح دون تغير يذكر وسط التركيز على مستجدات مضيق هرمز",
+      "title_zh": "华尔街开盘基本持平，关注霍尔木兹海峡最新动态",
+      "url": "https://www.reuters.com/ar/business/QT5LLUA5JJO4LEXU6VRHCGGNFQ-2026-08-10/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-10T13:50:11+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "华尔街开盘时基本持平，投资者关注霍尔木兹海峡的最新动态。",
+        "近期的紧张局势，尤其是伊朗和美国之间的关系，影响了市场的走势。",
+        "市场正在等待更多的信息和发展，以确定下一步的走向。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（3个来源）",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters",
+        "ABC Bourse",
+        "Zonebourse"
+      ],
+      "all_titles": {
+        "ar": "وول ستريت تفتح دون تغير يذكر وسط التركيز على مستجدات مضيق هرمز",
+        "fr": "Wall Street ouvre dans le rouge, prudence face au Moyen-Orient et avant des données clef"
+      }
+    },
+    {
+      "title_original": "تايوان تحاكي التصدي لهجوم صيني بتدريبات عسكرية وتقييد الإنترنت",
+      "title_zh": "台湾模拟对抗中国入侵的军事演习和限制互联网",
+      "url": "https://www.alkhaleej.ae/2026-08-10/%D8%B9%D8%B1%D8%A8-%D9%88%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%AA%D8%AD%D8%A7%D9%83%D9%8A-%D8%A7%D9%84%D8%AA%D8%B5%D8%AF%D9%8A-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B5%D9%8A%D9%86%D9%8A-%D8%A8%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%88%D8%AA%D9%82%D9%8A%D9%8A%D8%AF-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-08-10T13:44:35+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾正在进行模拟对抗中国入侵的军事演习，包括限制互联网的使用。",
+        "这些演习是为了应对中国可能的军事行动，尤其是针对台湾的入侵。",
+        "台湾的军队正在加强准备和演习，以应对潜在的威胁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "تايوان تحاكي التصدي لهجوم صيني بتدريبات عسكرية وتقييد الإنترنت"
+      }
+    },
+    {
+      "title_original": "Battle for Mali base has killed dozens of militants, army says",
+      "title_zh": "马里军事基地之战已造成数十名激进分子死亡，军方称",
+      "url": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-10T12:32:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "马里军方称，他们的士兵在周日击退对一个军事基地的攻击时，杀死了数十名激进分子。",
+        "被称为JNIM的极端组织声称对该基地发动了攻击，并控制了位于San镇的基地。",
+        "军方表示，他们的士兵在战斗中也遭受了伤亡，但他们没有放弃对基地的控制。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Battle for Mali base has killed dozens of militants, army says"
+      }
+    },
+    {
+      "title_original": "Alleged rebel leader killed in Colombia as president targets armed groups",
+      "title_zh": "哥伦比亚总统针对武装团体，疑似叛乱领袖被杀",
+      "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-10T12:23:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "哥伦比亚军方在中部地区的一次行动中，杀死了一名被怀疑领导左翼叛乱团体的男子。",
+        "这次行动是哥伦比亚新总统Abelardo de la Espriella针对非法武装团体的打击行动的一部分。",
+        "被杀的男子名叫Hernando Forero Mosquera，据信他领导着一个名为Frente 28的团体，该团体是哥伦比亚最大左翼叛乱组织FARC的一个分裂派系。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Alleged rebel leader killed in Colombia as president targets armed groups"
+      }
+    },
+    {
+      "title_original": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
+      "title_zh": "乌克兰希望远程打击使俄罗斯感到恐惧和损失",
+      "url": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-10T11:57:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军方希望通过远程打击俄罗斯的目标，包括油田、工厂和仓库，来使俄罗斯感到恐惧和损失。",
+        "乌克兰现在拥有数百架远程无人机，可以飞行数千公里，攻击俄罗斯境内的目标。",
+        "这些无人机使用卫星系统导航，可以避开俄罗斯的防空系统，攻击目标。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : qui est Mohsen Rezaï, le nouvel homme fort de l’appareil de sécurité iranien",
+      "title_zh": "中东战争：谁是伊朗安全机构的新强人 Mohsen Rezaï",
+      "url": "https://www.leparisien.fr/international/iran/guerre-au-moyen-orient-qui-est-mohsen-rezai-le-nouvel-homme-fort-de-lappareil-de-securite-iranien-10-08-2026-XU3BEQQGSBBB5DSL5NOPMKTLJE.php",
+      "source": "Le Parisien",
+      "source_score": 40,
+      "published_at": "2026-08-10T11:40:32+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Mohsen Rezaï是伊朗安全机构的新领导人，他在中东战争中发挥着重要作用。",
+        "Rezaï曾是伊朗军方的一名高级官员，现任伊朗安全机构的负责人。",
+        "他被认为是伊朗安全政策的关键人物，将在中东地区的冲突中发挥重要作用。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Le Parisien"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : qui est Mohsen Rezaï, le nouvel homme fort de l’appareil de sécurité iranien"
+      }
+    },
+    {
+      "title_original": "Putin könnte die Nato testen – und die USA haben ein Munitionsproblem",
+      "title_zh": "普京可能会测试北约，而美国面临弹药短缺问题",
+      "url": "https://www.abendblatt.de/politik/article412801941/wenn-putin-die-nato-in-europa-provoziert-wird-amerikas-munitionsluecke-zum-risiko.html",
+      "source": "Hamburger Abendblatt",
+      "source_score": 40,
+      "published_at": "2026-08-10T11:29:01+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "美国情报机构担心俄罗斯总统普京可能会测试北约的决心，通过发动小规模攻击或网络攻击。",
+        "美国军方在伊朗战争中消耗了大量弹药，包括ATACMS和Precision Strike导弹，导致弹药短缺问题。",
+        "美国的弹药短缺问题可能会影响其在欧洲的军事行动能力，特别是在面对俄罗斯可能的挑衅时。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Hamburger Abendblatt"
+      ],
+      "all_titles": {
+        "de": "Putin könnte die Nato testen – und die USA haben ein Munitionsproblem"
+      }
+    },
+    {
+      "title_original": "Arabie saoudite, Pakistan, Turquie : que prévoit leur pacte de défense inspiré de l’Otan ?",
+      "title_zh": "沙特阿拉伯、巴基斯坦、土耳其：他们的北约式防御条约有什么内容？",
+      "url": "https://www.geo.fr/geopolitique/que-prevoit-le-pacte-defensif-inspire-de-lotan-et-signe-par-larabie-saoudite-le-pakistan-et-la-turquie-233183",
+      "source": "Geo.fr",
+      "source_score": 40,
+      "published_at": "2026-08-10T11:13:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特阿拉伯、巴基斯坦和土耳其于8月7日宣布签署了一项防御条约，基于北约的原则。",
+        "该条约规定，如果任何一方受到武装攻击，其他两方将视为对自己的攻击。",
+        "该条约旨在加强三国之间的集体防御能力，特别是在与伊朗和印度的关系中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Geo.fr"
+      ],
+      "all_titles": {
+        "fr": "Arabie saoudite, Pakistan, Turquie : que prévoit leur pacte de défense inspiré de l’Otan ?"
+      }
+    },
+    {
+      "title_original": "World's oceans hit record-high July temperatures",
+      "title_zh": "世界海洋7月温度创历史新高",
+      "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-10T10:24:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "根据欧盟气候监测服务，7月份全球海洋表面温度达到历史最高记录，平均温度为20.96摄氏度。",
+        "这一现象部分是由于太平洋埃尔尼诺现象的发展。",
+        "西欧地区经历了有记录以来最热的六月和七月，导致野火频发。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "World's oceans hit record-high July temperatures"
+      }
+    },
+    {
+      "title_original": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding",
+      "title_zh": "库尔德电影制作人讲述被美国移民局强制喂食的“非人性”经历",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/ice-force-feeding-detention-gabar-choli",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-10T10:00:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "一位库尔德电影制作人Gabar Choli讲述了他在美国移民局拘留期间被强制喂食的经历。",
+        "他表示，这种经历对他造成了身体和精神上的伤害。",
+        "Choli曾在美国申请庇护，但被拒绝，后来被驱逐出境。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘Shoved the tube so hard it tore my nose’: Kurdish film-maker recounts ‘inhumane’ ICE force-feeding"
+      }
+    },
+    {
+      "title_original": "Kurdish hunger striker says ICE force-feeding ‘mentally broke me’",
+      "title_zh": "库尔德绝食者称美国移民局强制喂食“精神上摧毁了我”",
+      "url": "https://www.theguardian.com/us-news/2026/aug/10/kurdish-hunger-striker-ice-force-feeding",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-10T10:00:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "一位库尔德绝食者Gabar Choli表示，美国移民局强制喂食的经历对他造成了严重的精神伤害。",
+        "他曾在拘留期间绝食八个月，期间被强制喂食。",
+        "Choli现在居住在加拿大，他表示，这种经历对他造成了长期的影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Kurdish hunger striker says ICE force-feeding ‘mentally broke me’"
+      }
+    },
+    {
+      "title_original": "ウクライナの無人機攻撃によりロシア中部で12人死亡、39人負傷",
+      "title_zh": "乌克兰无人机袭击俄罗斯中部，造成12人死亡、39人受伤",
+      "url": "https://www.afpbb.com/articles/-/3647966",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-10T09:35:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰无人机袭击俄罗斯中部塔塔尔斯坦共和国，造成至少12人死亡、39人受伤。",
+        "这是乌克兰对俄罗斯发动的单次袭击中伤亡人数最多的一次。",
+        "俄罗斯中部地区是乌克兰报复攻击的目标，俄罗斯军队也在乌克兰前线附近进行了炮击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの無人機攻撃によりロシア中部で12人死亡、39人負傷"
+      }
+    },
+    {
+      "title_original": "Weather tracker: Europe breaks more heat records as temperatures soar",
+      "title_zh": "欧洲持续高温，多个国家打破热度记录",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-10T09:32:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧洲多个国家出现高温天气，打破多个热度记录",
+        "奥地利、斯洛伐克和匈牙利等国出现40度以上高温",
+        "高温导致干旱和野火，影响多个国家"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Weather tracker: Europe breaks more heat records as temperatures soar"
+      }
+    },
+    {
+      "title_original": "مصادر لـ«الشرق الأوسط»: بارزاني نقل رسائل بين الزيدي والشرع... ومهد لزيارة دمشق",
+      "title_zh": "巴尔扎尼传递齐迪和沙尔之间的信息，为访问大马士革铺平道路",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5304735-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D9%84%D9%80%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%86%D9%82%D9%84-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%88%D9%85%D9%87%D8%AF",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-10T08:27:38+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "巴尔扎尼访问大马士革，传递齐迪和沙尔之间的信息",
+        "巴尔扎尼的访问为伊拉克和叙利亚之间的关系改善铺平了道路",
+        "伊拉克和叙利亚之间的关系近期有所改善"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مصادر لـ«الشرق الأوسط»: بارزاني نقل رسائل بين الزيدي والشرع... ومهد لزيارة دمشق"
+      }
+    },
+    {
+      "title_original": "نيكي الياباني يسجل أعلى إغلاق في 4 أسابيع بدعم أسهم الذكاء الاصطناعي",
+      "title_zh": "日经指数创四周来最高收盘，得益于人工智能概念股",
+      "url": "https://www.reuters.com/ar/business/VZUKY7XB2JI23BQ3GEKAJIISVE-2026-08-10/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-10T08:23:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "日经指数创四周来最高收盘",
+        "人工智能概念股带动市场上涨",
+        "市场对人工智能技术的应用前景看好"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "نيكي الياباني يسجل أعلى إغلاق في 4 أسابيع بدعم أسهم الذكاء الاصطناعي"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Russland meldete mehrere Tote bei ukrainischem Drohnenangriff",
+      "title_zh": "乌克兰战争：俄罗斯报告称乌克兰无人机袭击造成多人死亡",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-russland-meldete-mehrere-tote-bei-ukrainischem-drohnenangriff-a-afb23f6b-2878-4009-b901-90b3f54cdcb1",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-08-10T07:52:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰无人机袭击俄罗斯境内目标，造成多人死亡",
+        "俄罗斯报告称袭击造成至少12人死亡，39人受伤",
+        "乌克兰继续对俄罗斯境内目标进行袭击"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Russland meldete mehrere Tote bei ukrainischem Drohnenangriff"
+      }
+    },
+    {
+      "title_original": "FTSE 100: Las acciones caen por tensiones en Oriente Medio y el bloqueo a Irán",
+      "title_zh": "FTSE 100：由于中东紧张局势和对伊朗的封锁，股票下跌",
+      "url": "https://es.investing.com/news/stock-market-news/ftse-100-las-acciones-caen-por-tensiones-en-oriente-medio-y-el-bloqueo-a-iran-3787284",
+      "source": "Investing.com España",
+      "source_score": 40,
+      "published_at": "2026-08-10T07:28:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于中东紧张局势和对伊朗的封锁，FTSE 100 股票下跌。",
+        "此次下跌是由于中东局势的紧张和对伊朗的经济封锁所致。",
+        "投资者对此次事件的影响表示担忧，导致股票市场出现波动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Investing.com España"
+      ],
+      "all_titles": {
+        "es": "FTSE 100: Las acciones caen por tensiones en Oriente Medio y el bloqueo a Irán"
+      }
+    },
+    {
+      "title_original": "China evacuates one million from homes as massive storm arrives",
+      "title_zh": "中国疏散100万人因巨大风暴来临",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-10T07:23:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国当局因台风“海豚”登陆而从家中疏散了100万人，包括上海在内的东部地区的人员。",
+        "台风带来了大雨，导致交通中断，上海单日取消近1000个航班。",
+        "尽管当局已将“海豚”降级为热带风暴，但仍警告可能会有暴雨、严重洪水和山体滑坡的风险。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "China evacuates one million from homes as massive storm arrives"
+      }
+    },
+    {
+      "title_original": "美方称俄或试探北约防御决心 测试联盟反应",
+      "title_zh": "美方称俄或试探北约防御决心 测试联盟反应",
+      "url": "https://military.china.com/news/13004177/20260810/49665891.html",
+      "source": "中华军事",
+      "source_score": 40,
+      "published_at": "2026-08-10T07:22:21+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国情报机构评估认为，俄罗斯总统弗拉基米尔·普京可能会通过对北约成员国或盟国采取有限行动来测试该联盟的决心。",
+        "这些行动可能包括网络攻击、代理力量行动和有限的地面干预，目的是削弱北约内部的团结。",
+        "美国认为，俄罗斯的目标是质疑北约的可信度，并将美国与其盟友分开。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "中华军事"
+      ],
+      "all_titles": {
+        "zh": "美方称俄或试探北约防御决心 测试联盟反应"
+      }
+    },
+    {
+      "title_original": "“中东北约”落地，印度最受伤，最大受益者是中国",
+      "title_zh": "“中东北约”落地，印度最受伤，最大受益者是中国",
+      "url": "https://www.sina.cn/news/article/nimvnpp4864440.html",
+      "source": "sina.cn",
+      "source_score": 40,
+      "published_at": "2026-08-10T06:34:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东版北约正式落地，沙特、土耳其和巴基斯坦签署了《麦加共同防务协议》。",
+        "该协议的核心条款是，对三国中任何一国的武装攻击，将被视为对三国全体的攻击。",
+        "印度将面临安全压力增大的局面，而中国则可能从中受益，巴基斯坦的军力本质上是中国军工体系的外延。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "sina.cn"
+      ],
+      "all_titles": {
+        "zh": "“中东北约”落地，印度最受伤，最大受益者是中国"
+      }
+    },
+    {
+      "title_original": "La bolsa hoy: IBEX 35, Euro Dólar, macro europea y geopolítica",
+      "title_zh": "今日股市：IBEX 35，欧元/美元，欧洲宏观经济和地缘政治",
+      "url": "https://es-us.finanzas.yahoo.com/noticias/bolsa-ibex-35-euro-d%C3%B3lar-063013704.html",
+      "source": "Yahoo Finanzas",
+      "source_score": 40,
+      "published_at": "2026-08-10T06:30:13+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "IBEX 35 股票指数在六个连续上涨交易日后，面临着是否能巩固在历史高位上的挑战。",
+        "欧元/美元汇率在关键的技术阻力位下方徘徊，美元的走势将受到美联储政策的影响。",
+        "地缘政治因素，尤其是中东局势的发展，将对全球能源市场和股市产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Yahoo Finanzas"
+      ],
+      "all_titles": {
+        "es": "La bolsa hoy: IBEX 35, Euro Dólar, macro europea y geopolítica"
+      }
+    },
+    {
+      "title_original": "El Ibex y Europa pasan a positivo pese a las crecientes dudas sobre Oriente Medio",
+      "title_zh": "伊比克斯和欧洲尽管对中东有所担忧，但仍转为正值",
+      "url": "https://www.bolsamania.com/noticias/cronica-ibex/10-agosto-2026-dudas-oriente-medio-ormuz--23224733.html",
+      "source": "Bolsamania",
+      "source_score": 40,
+      "published_at": "2026-08-10T06:24:47+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "伊比克斯和欧洲股市尽管对中东局势有所担忧，但仍然转为正值。",
+        "投资者对中东局势的担忧导致市场波动加剧。",
+        "尽管如此，伊比克斯和欧洲股市仍然表现出韧性，转为正值。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Bolsamania"
+      ],
+      "all_titles": {
+        "es": "El Ibex y Europa pasan a positivo pese a las crecientes dudas sobre Oriente Medio"
+      }
+    },
+    {
+      "title_original": "'Body in suitcase' found in Australia turns out to be lifelike doll",
+      "title_zh": "澳大利亚发现的“行李箱尸体”竟是真人大小的娃娃",
+      "url": "https://www.bbc.co.uk/news/articles/clyqg4w3gz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-10T05:16:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "澳大利亚警方在调查一件行李箱中发现的“尸体”后，确认该“尸体”实际上是一個真人大小的娃娃。",
+        "该行李箱是在澳大利亚一条公路旁被发现的，最初被认为是谋杀案的证据。",
+        "警方通过法医检测确认该“尸体”不是人类遗骸，案件已经结案。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Body in suitcase' found in Australia turns out to be lifelike doll"
+      }
+    },
     {
       "title_original": "Grandes petroleras obtienen enormes ganancias gracias a la guerra en Oriente Medio",
       "title_zh": "大石油公司因中东战争获得巨大利润",
@@ -26,6 +629,31 @@
       ],
       "all_titles": {
         "es": "Grandes petroleras obtienen enormes ganancias gracias a la guerra en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
+      "title_zh": "中国超百万人因“海豚”台风而撤离，上海遭遇创纪录的暴雨",
+      "url": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-10T04:55:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国东部地区因“海豚”台风的影响，超过一百万人被撤离到安全区域。",
+        "上海市遭遇创纪录的暴雨，导致严重的洪水和交通拥堵。",
+        "台风“海豚”预计将继续向北移动，可能会对中国其他地区造成影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai"
       }
     },
     {
@@ -79,6 +707,56 @@
       }
     },
     {
+      "title_original": "La estrategia de disuasión que Taiwán necesita",
+      "title_zh": "台湾需要的威慑战略",
+      "url": "https://www.eleconomista.es/opinion/noticias/14006844/08/26/la-estrategia-de-disuasion-que-taiwan-necesita.html",
+      "source": "eleconomista.es",
+      "source_score": 40,
+      "published_at": "2026-08-10T04:05:23+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾需要一种威慑战略来应对当前的地缘政治局势",
+        "这种战略需要考虑到台湾的军事实力和外交关系",
+        "台湾的安全局势与地区和平稳定密切相关"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "eleconomista.es"
+      ],
+      "all_titles": {
+        "es": "La estrategia de disuasión que Taiwán necesita"
+      }
+    },
+    {
+      "title_original": "مؤشر الدولار الأمريكي يرتفع فوق 99.50 بسبب المخاطر في الشرق الأوسط",
+      "title_zh": "美元指数因中东风险而上涨至99.50以上",
+      "url": "https://ar.fxstreet.com/news/mwshr-ldwlr-lmryky-yrtf-fwq-9950-bsbb-lmkhtr-fy-lshrq-lwst-202608100349",
+      "source": "FXStreet",
+      "source_score": 40,
+      "published_at": "2026-08-10T03:49:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美元指数因中东风险而上涨至99.50以上",
+        "美国经济数据显示就业市场放缓，可能影响美联储的货币政策决策",
+        "中东局势紧张导致投资者寻求安全资产，推动美元指数上涨"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "FXStreet"
+      ],
+      "all_titles": {
+        "ar": "مؤشر الدولار الأمريكي يرتفع فوق 99.50 بسبب المخاطر في الشرق الأوسط"
+      }
+    },
+    {
       "title_original": "前線が膠着するロシアとウクライナ、激化する空中戦で代償を払わされる民間人(1/2)",
       "title_zh": "俄罗斯和乌克兰的前线僵持不下，空中战激化，平民付出代价（1/2）",
       "url": "https://www.cnn.co.jp/world/35251460.html",
@@ -126,6 +804,31 @@
       ],
       "all_titles": {
         "ja": "ドイツ西部の基地上空でドローン目撃、東部空港でのドローン発見から数日後"
+      }
+    },
+    {
+      "title_original": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "title_zh": "加拿大野火失控，居民被警告做好最坏准备",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-10T03:33:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "加拿大西部野火失控，数千人被迫撤离",
+        "火灾导致一名80岁妇女死亡，多人失去家园",
+        "当地政府宣布进入紧急状态，动员资源应对灾情"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Residents warned to brace for the worst as Canada wildfire rages out of control"
       }
     },
     {
