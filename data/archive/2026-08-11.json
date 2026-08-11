@@ -1,0 +1,859 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T04:07:53.400331+00:00",
+  "count": 34,
+  "articles": [
+    {
+      "title_original": "Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat",
+      "title_zh": "特朗普在伊朗威胁下从土耳其秘密飞行",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/10/trump-flew-secrecy-amid-iran-threat-air-force-one-became-decoy/",
+      "source": "The Washington Post",
+      "source_score": 75,
+      "published_at": "2026-08-11T04:01:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "特朗普在伊朗威胁下从土耳其秘密飞行，违背了公开声明。",
+        "特朗普的飞机被用作诱饵，而他实际上乘坐了另一架飞机离开土耳其。",
+        "这一事件发生在特朗普出席土耳其北约峰会期间。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Washington Post"
+      ],
+      "all_titles": {
+        "en": "Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat"
+      }
+    },
+    {
+      "title_original": "Donald Trump aurait quitté le sommet de l’OTAN en Turquie en juillet à bord d’un avion secret en raison des menaces de l’Iran",
+      "title_zh": "特朗普因伊朗威胁而秘密飞离土耳其北约峰会",
+      "url": "https://www.lemonde.fr/international/article/2026/08/11/donald-trump-aurait-quitte-le-sommet-de-l-otan-en-turquie-en-juillet-a-bord-d-un-avion-secret-en-raison-des-menaces-de-l-iran_6743710_3210.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-08-11T03:15:46+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "特朗普因伊朗威胁而秘密飞离土耳其北约峰会，使用了一架秘密飞机。",
+        "这一事件发生在七月，特朗普出席了土耳其的北约峰会。",
+        "特朗普的秘密飞行是为了应对伊朗的威胁。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Le Monde.fr",
+        "The Guardian"
+      ],
+      "all_titles": {
+        "fr": "Donald Trump aurait quitté le sommet de l’OTAN en Turquie en juillet à bord d’un avion secret en raison des menaces de l’Iran",
+        "en": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports"
+      }
+    },
+    {
+      "title_original": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "title_zh": "特朗普签署命令限制儿童疫苗接种并分割麻腮风疹疫苗",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-11T02:43:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普签署了一项命令，限制儿童疫苗接种，并建议分割麻腮风疹疫苗。",
+        "这一命令将儿童疫苗接种数量从18种减少到11种。",
+        "特朗普的命令是基于他对疫苗安全性的担忧，尽管多项研究表明疫苗与自闭症之间没有关联。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump signs order to limit childhood vaccines and split MMR shots"
+      }
+    },
+    {
+      "title_original": "بعد أمريكا.. كولومبيا تعترف بسيادة إسرائيل على الجولان المحتل: ما القصة؟",
+      "title_zh": "哥伦比亚在美国之后承认以色列对戈兰高地的主权：是什么故事？",
+      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20260811-%D8%A8%D8%B9%D8%AF-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D9%83%D9%88%D9%84%D9%88%D9%85%D8%A8%D9%8A%D8%A7-%D8%AA%D8%B9%D8%AA%D8%B1%D9%81-%D8%A8%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D9%88%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%84-%D9%85%D8%A7-%D8%A7%D9%84%D9%82%D8%B5%D8%A9",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-11T02:33:47+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "哥伦比亚在美国之后承认以色列对戈兰高地的主权。",
+        "这一决定引发了国际社会的关注和争议。",
+        "戈兰高地是中东地区的一个争议领土。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "بعد أمريكا.. كولومبيا تعترف بسيادة إسرائيل على الجولان المحتل: ما القصة؟"
+      }
+    },
+    {
+      "title_original": "「メッカ協定」が映す中東の防衛ブロック化 米関与低下に危機感",
+      "title_zh": "「梅卡协议」映射中东的防御集团化 美國參與度下降引發危機感",
+      "url": "https://www.nikkei.com/article/DGXZQOGR0927V0Z00C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-11T02:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东各国正在推进防御合作的集团化",
+        "沙特阿拉伯、土耳其和巴基斯坦已签署新的联合防御协议",
+        "美国在中东的参与度下降，地区内的合作以应对威胁的动态正在增强"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "「メッカ協定」が映す中東の防衛ブロック化 米関与低下に危機感"
+      }
+    },
+    {
+      "title_original": "At least 132 killed in Colombia's largest  earthquake in years",
+      "title_zh": "哥伦比亚近年来最强地震已造成至少132人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-11T01:59:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "哥伦比亚发生7.4级地震，造成至少132人死亡",
+        "地震主要影响了哥伦比亚西部地区，包括珀雷拉市和卡利市",
+        "地震还造成了广泛的破坏，包括建筑物倒塌和道路受损"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "At least 132 killed in Colombia's largest  earthquake in years"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Russia bans voting against the war",
+      "title_zh": "乌克兰战争简报：俄罗斯禁止反对战争的投票",
+      "url": "https://www.theguardian.com/world/2026/aug/11/ukraine-war-briefing-russia-bans-voting-against-conflict",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-11T01:39:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯最高法院禁止反对战争的政党参与九月份的选举",
+        "俄罗斯继续在乌克兰进行军事行动，包括对扎波罗热市的袭击",
+        "乌克兰总统泽连斯基警告俄罗斯可能会增加对乌克兰的军事压力"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Russia bans voting against the war"
+      }
+    },
+    {
+      "title_original": "ウクライナ・ゼレンスキー大統領が警告「ロシアに北朝鮮のミサイルや兵士が投入されるほど改良も進む」 日本などに協力強化訴え",
+      "title_zh": "乌克兰泽连斯基总统警告：俄罗斯可能会部署朝鲜导弹和士兵，日本等国应加强合作",
+      "url": "https://newsdig.tbs.co.jp/articles/-/2865708",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-08-11T00:55:38+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基警告俄罗斯可能会部署朝鲜导弹和士兵",
+        "泽连斯基呼吁日本和韩国等国加强合作，应对俄罗斯的威胁",
+        "俄罗斯继续在乌克兰进行军事行动，包括对基辅市的袭击"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ・ゼレンスキー大統領が警告「ロシアに北朝鮮のミサイルや兵士が投入されるほど改良も進む」 日本などに協力強化訴え"
+      }
+    },
+    {
+      "title_original": "زيلينسكي: أوكرانيا ستصعّد الضربات في عمق الأراضي الروسية",
+      "title_zh": "泽连斯基：乌克兰将加强对俄罗斯深处领土的打击",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/5305607-%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%B3%D8%AA%D8%B5%D8%B9%D9%91%D8%AF-%D8%A7%D9%84%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A-%D8%B9%D9%85%D9%82-%D8%A7%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%A9",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-11T00:33:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基宣布将加强对俄罗斯深处领土的打击",
+        "泽连斯基警告俄罗斯可能会增加对乌克兰的军事压力",
+        "俄罗斯继续在乌克兰进行军事行动，包括对基辅市的袭击"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "زيلينسكي: أوكرانيا ستصعّد الضربات في عمق الأراضي الروسية"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Malgré de fortes tensions sur Gaza, Trump encense ses liens avec Netanyahou",
+      "title_zh": "中东战争：尽管加沙紧张局势加剧，特朗普仍称赞他与内塔尼亚胡的关系",
+      "url": "https://www.20minutes.fr/monde/etats-unis/4238664-20260811-guerre-moyen-orient-malgre-fortes-tensions-gaza-trump-encense-liens-netanyahou",
+      "source": "20 Minutes",
+      "source_score": 40,
+      "published_at": "2026-08-11T00:31:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国总统特朗普表示，他与以色列总理内塔尼亚胡的关系仍然“非常好”，尽管以色列拒绝了美国关于加沙的最新和平计划。",
+        "内塔尼亚胡表示，以色列军队不会撤出加沙，直到哈马斯被真正解除武装。",
+        "特朗普和内塔尼亚胡的关系自春季以来一直存在困难，尤其是在伊朗问题上存在分歧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "20 Minutes"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Malgré de fortes tensions sur Gaza, Trump encense ses liens avec Netanyahou"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（8月11日の動き）",
+      "title_zh": "俄罗斯对乌克兰的军事入侵（8月11日最新动态）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260810de43140",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-10T23:42:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰的军事入侵仍在继续，双方冲突不断升级。",
+        "乌克兰军队正在抵抗俄罗斯的进攻，但俄罗斯的军事力量仍然强大。",
+        "国际社会对俄罗斯的入侵行为进行了广泛的谴责，并呼吁立即停止军事行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（8月11日の動き）"
+      }
+    },
+    {
+      "title_original": "«لعبة الشطرنج» تعقّد طريق الملاحة",
+      "title_zh": "‘国际象棋’使得航行变得更加复杂",
+      "url": "https://aawsat.com/%D8%B4%D8%A4%D9%88%D9%86-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9/5305602-%D9%84%D8%B9%D8%A8%D8%A9-%D8%A7%D9%84%D8%B4%D8%B7%D8%B1%D9%86%D8%AC-%D8%AA%D8%B9%D9%82%D9%91%D8%AF-%D8%B7%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%AD%D8%A9",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-10T23:33:12+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国和伊朗之间的紧张关系使得航行变得更加复杂，双方都在等待对方的下一步行动。",
+        "伊朗表示不会在没有解除美国对其的制裁的情况下重新开放霍尔木兹海峡。",
+        "美国总统特朗普表示，他将要求伊朗为过去的冲突事件提供赔偿。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«لعبة الشطرنج» تعقّد طريق الملاحة"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Russland startet erneut Luftangriffe auf ukrainische Städte",
+      "title_zh": "乌克兰战争：俄罗斯再次对乌克兰城市发动空袭",
+      "url": "https://www.tagesspiegel.de/internationales/ukraine-krieg-russland-startet-erneut-luftangriffe-auf-ukrainische-stadte-15932138.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-08-10T23:27:10+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰城市发动了新的空袭，造成多人死伤和基础设施损坏。",
+        "乌克兰军队缺乏防空导弹，难以抵御俄罗斯的空袭。",
+        "俄罗斯的空袭使得乌克兰的基础设施和民众面临着更大的威胁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Russland startet erneut Luftangriffe auf ukrainische Städte"
+      }
+    },
+    {
+      "title_original": "ロシア中部にウクライナが無人機攻撃 13人死亡",
+      "title_zh": "乌克兰对俄罗斯中部发动无人机袭击，13人死亡",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260811de43216",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-10T22:50:36+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰对俄罗斯中部发动了无人机袭击，造成13人死亡。",
+        "这次袭击是乌克兰对俄罗斯发动的最新一次军事行动。",
+        "俄罗斯和乌克兰之间的冲突仍在继续，双方都在进行军事行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア中部にウクライナが無人機攻撃 13人死亡"
+      }
+    },
+    {
+      "title_original": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
+      "title_zh": "加州著名的秃鹰杰基在接受数周的密集治疗后去世",
+      "url": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-10T22:40:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "杰基是一只在加州的秃鹰，曾在网上走红，最近在接受数周的兽医治疗后去世。",
+        "杰基被奥哈伊猛禽中心照顾，该中心是一家野生动物康复组织，之前她被其他秃鹰攻击，导致有潜在的健康问题和贫血、体重减轻等症状。",
+        "奥哈伊猛禽中心表示，尽管他们的兽医团队和咨询专家进行了密集的治疗，杰基的状况仍然继续恶化，最后不幸去世。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Jackie, the famous California bald eagle, dies after weeks of intensive care"
+      }
+    },
+    {
+      "title_original": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "title_zh": "Nvidia获得5000亿美元投资用于开发AI基础设施",
+      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-10T22:31:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nvidia与包括阿波罗、黑石、布鲁克菲尔德、戈德曼萨克斯和KKR在内的几家大型投资者合作，获得5000亿美元的资金用于开发人工智能基础设施。",
+        "Nvidia的CEO黄仁勋表示，这笔资金将用于开发AI硬件和基础设施，包括数据中心和AI芯片的制造。",
+        "这笔投资将有助于Nvidia扩大其在AI领域的业务，并为其合作伙伴提供更多的资源和支持。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nvidia gets $500bn from major investors to develop AI infrastructure"
+      }
+    },
+    {
+      "title_original": "The lonely Chinese men being conned by fake brides",
+      "title_zh": "被假新娘欺骗的中国单身汉",
+      "url": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-10T22:02:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国的某些地区存在着假新娘欺骗单身汉的现象，骗子们通常通过婚介机构或网络平台与单身汉联系，假装成合适的结婚对象。",
+        "这些骗子通常会提供虚假的个人信息和照片，欺骗单身汉相信他们是真实的结婚对象。",
+        "被欺骗的单身汉通常会遭受经济损失和精神伤害，甚至可能面临法律问题。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "The lonely Chinese men being conned by fake brides"
+      }
+    },
+    {
+      "title_original": "ウクライナがロシアにドローン攻撃…子ども含む13人死亡",
+      "title_zh": "乌克兰对俄罗斯发动无人机攻击，包括儿童在内的13人死亡",
+      "url": "https://news.yahoo.co.jp/articles/be304e2afdf757150534149dcc3367e401cc43bd",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-10T21:49:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队对俄罗斯发动了无人机攻击，导致包括儿童在内的13人死亡，78人受伤。",
+        "攻击发生在俄罗斯中部的塔塔尔斯坦共和国，目标包括工业设施和住宅区。",
+        "这次攻击是近期乌克兰军队对俄罗斯发动的系列攻击之一，俄罗斯方面称这是乌克兰军队的挑衅行为。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナがロシアにドローン攻撃…子ども含む13人死亡"
+      }
+    },
+    {
+      "title_original": "Canada flight cancelled after child refuses to wear seat belt",
+      "title_zh": "加拿大航班因儿童拒绝系安全带而取消",
+      "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-10T21:06:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "一架加拿大航班因一名儿童拒绝系安全带而被取消，航班原本计划从维多利亚飞往多伦多。",
+        "机组人员尝试说服儿童系安全带，但未成功，于是决定取消航班。",
+        "此事件引发了关于儿童在飞机上安全带使用和航空公司处理此类情况的争论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Canada flight cancelled after child refuses to wear seat belt"
+      }
+    },
+    {
+      "title_original": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos",
+      "title_zh": "苏尼派北约：中东寻求在没有美国的情况下自我防御",
+      "url": "https://www.elmundo.es/internacional/2026/08/10/6a7a0749e85ece8c218b457a.html",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-08-10T20:45:38+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特阿拉伯、土耳其和巴基斯坦于8月7日签署了一项新的防御协议，被称为“苏尼派北约”。",
+        "该协议旨在加强三国之间的防御合作，并将对任何一国的武装攻击视为对所有国家的攻击。",
+        "该协议是在中东地区局势复杂、沙特阿拉伯面临来自也门和伊拉克的攻击之际签署的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "La OTAN suní: Oriente Próximo busca cómo defenderse al margen de Estados Unidos"
+      }
+    },
+    {
+      "title_original": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+      "title_zh": "图帕克谋杀案嫌疑人杜安“凯菲D”戴维斯：我们知道什么",
+      "url": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-10T20:45:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "杜安“凯菲D”戴维斯是唯一一个被指控图帕克谋杀案的嫌疑人，他将在拉斯维加斯接受审判。",
+        "戴维斯被指控谋杀图帕克，并意图促进或协助一个犯罪团伙。",
+        "戴维斯否认所有指控，并将在法庭上为自己辩护。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Anti-Kriegs-Partei darf bei Russlands Parlamentswahl nicht antreten",
+      "title_zh": "乌克兰战争最新：反战党不得参加俄罗斯议会选举",
+      "url": "https://www.fr.de/politik/ukraine-krieg-aktuell-kiew-attackiert-oelraffinerie-in-russland-zr-94435946.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-10T20:23:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯法院禁止反战党参加即将举行的议会选举，引发了众多支持者的抗议。",
+        "乌克兰和俄罗斯之间的冲突仍在继续，俄罗斯对乌克兰城市发动了多次空袭。",
+        "乌克兰军队也对俄罗斯的目标发动了攻击，造成了人员伤亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Anti-Kriegs-Partei darf bei Russlands Parlamentswahl nicht antreten"
+      }
+    },
+    {
+      "title_original": "White House officials tamped down efforts to oust Max Miller in final days",
+      "title_zh": "白宫官员在最后几天压制了对马克斯·米勒的罢免努力",
+      "url": "https://www.politico.com/news/2026/08/10/white-house-max-miller-pressure-campaign-01031353",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-10T15:05:33-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "白宫官员在最后几天压制了对马克斯·米勒的罢免努力，马克斯·米勒是共和党的一名候选人。",
+        "马克斯·米勒被认为可能会使共和党在11月的选举中失去一个传统上的安全席位。",
+        "白宫官员的干预可能会影响选举的结果。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "White House officials tamped down efforts to oust Max Miller in final days"
+      }
+    },
+    {
+      "title_original": "Taiwán lleva a cabo los ejercicios de defensa 'Han Kuang' por primera vez desde 1984",
+      "title_zh": "台湾首次自1984年以来举行“汉光”防御演习",
+      "url": "https://www.abc.es/internacional/taiwan-lleva-cabo-ejercicios-defensa-kuang-primera-20260810220057-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-08-10T20:01:01+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾正在举行年度的“汉光”防御演习，这是自1984年以来首次举行此类演习。",
+        "演习旨在测试台湾军队在面对中国可能入侵时的准备情况。",
+        "台湾政府计划在2027年将国防支出增加到1.1万亿台币，相当于34.095亿美元。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Taiwán lleva a cabo los ejercicios de defensa 'Han Kuang' por primera vez desde 1984"
+      }
+    },
+    {
+      "title_original": "نيران العمق.. هل دخلت حرب أوكرانيا مرحلة اللاعودة؟",
+      "title_zh": "深度火力.. 乌克兰战争是否进入无回头路阶段？",
+      "url": "https://www.aljazeera.net/video/behindthenews/2026/8/10/%D9%86%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%82-%D9%87%D9%84-%D8%AF%D8%AE%D9%84%D8%AA-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%85%D8%B1%D8%AD%D9%84%D8%A9",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-10T19:43:58+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争的双方正在加剧互相攻击，莫斯科和基辅之间的冲突正在升级。",
+        "这次冲突的影响可能会波及整个地区，甚至影响全球政治局势。",
+        "欧盟和美国可能会尝试通过外交手段来缓解局势，然而战争的结局仍然难以预测。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "نيران العمق.. هل دخلت حرب أوكرانيا مرحلة اللاعودة؟"
+      }
+    },
+    {
+      "title_original": "Turquía ha cerrado un pacto de defensa colectiva con Riad e Islamabad: ¿tiene la OTAN que salir al rescate de Ankara si es atacada por defenderlos?",
+      "title_zh": "土耳其与沙特和巴基斯坦签署集体防御协议：如果土耳其为保护他们而被攻击，北约是否需要出手相救？",
+      "url": "https://www.elperiodico.com/es/internacional/20260810/acuerdo-defensa-colectiva-turquia-pakistan-arabia-saudi-implicaciones-otan-133248272",
+      "source": "El Periódico",
+      "source_score": 40,
+      "published_at": "2026-08-10T19:02:34+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "土耳其、沙特和巴基斯坦已经签署了一项集体防御协议，这可能会对地区安全局势产生影响。",
+        "如果土耳其为保护沙特和巴基斯坦而被攻击，北约可能需要出手相救，这将使得局势更加复杂。",
+        "这一协议可能会加剧地区紧张局势，并对全球政治格局产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "El Periódico"
+      ],
+      "all_titles": {
+        "es": "Turquía ha cerrado un pacto de defensa colectiva con Riad e Islamabad: ¿tiene la OTAN que salir al rescate de Ankara si es atacada por defenderlos?"
+      }
+    },
+    {
+      "title_original": "New train service connects Finland and Sweden for first time in decades",
+      "title_zh": "几十年来，芬兰和瑞典首次开通直通列车",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwpzz6qjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-10T18:28:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "芬兰和瑞典之间已经开通了一条新的直通列车，这是几十年来首次实现两国之间的直通铁路交通。",
+        "这条新线路连接了芬兰的奥卢市和瑞典的哈帕兰达市，旅程大约需要100分钟。",
+        "这条新线路的开通将促进两国之间的交通和贸易，并可能对地区经济产生积极影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "New train service connects Finland and Sweden for first time in decades"
+      }
+    },
+    {
+      "title_original": "'I'll never bow down': Montana Democratic Senate nominee refuses to pave way for independent",
+      "title_zh": "‘我永远不会低头’：蒙大拿州民主党参议院候选人拒绝为独立候选人让路",
+      "url": "https://www.politico.com/news/2026/08/10/montana-senate-bankhead-midterms-01031177",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-10T13:12:38-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "蒙大拿州民主党参议院候选人阿拉尼·班克黑德拒绝退出竞选，这可能会影响选举的结果。",
+        "班克黑德的决定可能会使共和党候选人更容易赢得选举，这将对美国政治局势产生影响。",
+        "这一事件可能会引发进一步的政治争论，并对美国政治格局产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "'I'll never bow down': Montana Democratic Senate nominee refuses to pave way for independent"
+      }
+    },
+    {
+      "title_original": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, con un repunte del petróleo crudo y de los rendimientos de los bonos del Tesoro en medio del empeoramiento de la situación geopolítica con Irán.",
+      "title_zh": "更新：美国股市指数表现出混合结果，原油和美国国债收益率上涨，伊朗的地缘政治局势恶化",
+      "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-174655530.html",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-08-10T17:46:55+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国股市指数表现出混合结果，反映了当前复杂的经济和地缘政治局势。",
+        "原油价格和美国国债收益率上涨，这可能是由于伊朗的地缘政治局势恶化所致。",
+        "这一局势可能会对全球经济和政治格局产生影响，特别是在能源和金融领域。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "es": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, con un repunte del petróleo crudo y de los rendimientos de los bonos del Tesoro en medio del empeoramiento de la situación geopolítica con Irán."
+      }
+    },
+    {
+      "title_original": "Renaud Girard : « Le recul stratégique américain au Moyen-Orient »",
+      "title_zh": "勒诺·吉拉尔：《美国在中东的战略撤退》",
+      "url": "https://www.lefigaro.fr/vox/monde/renaud-girard-le-recul-strategique-americain-au-moyen-orient-20260810",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-08-10T17:44:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特阿拉伯、土耳其和巴基斯坦于8月7日签署了一项防御协议，这是中东安全架构的一个重要转变。",
+        "该协议建立了三国之间的共同防御条款，类似于北约的第五条。",
+        "该协议还旨在加强三国之间的防御工业合作、情报共享、军事训练和人员交流。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Renaud Girard : « Le recul stratégique américain au Moyen-Orient »"
+      }
+    },
+    {
+      "title_original": "يمن الأنصار يحتفل بمولد المختار رغم التصعيد والحصار",
+      "title_zh": "也门安萨尔派尽管面临升级和封锁仍庆祝穆罕默德诞辰",
+      "url": "https://www.tasnimnews.ir/ar/news/2026/08/10/3668267/%DB%8C%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%86%D8%B5%D8%A7%D8%B1-%DB%8C%D8%AD%D8%AA%D9%81%D9%84-%D8%A8%D9%85%D9%88%D9%84%D8%AF-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%A7%D8%B1-%D8%B1%D8%BA%D9%85-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%DB%8C%D8%AF-%D9%88%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D8%B1",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-08-10T17:37:07+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "也门安萨尔派尽管面临战争和封锁，但仍然庆祝穆罕默德诞辰。",
+        "庆祝活动是对穆罕默德的爱和忠诚的体现，也是对敌人的挑衅。",
+        "也门人民在庆祝穆罕默德诞辰的同时，也在为自己的权利和自由而斗争。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "يمن الأنصار يحتفل بمولد المختار رغم التصعيد والحصار"
+      }
+    },
+    {
+      "title_original": "30 years later, a former gang member will stand trial for Tupac's murder",
+      "title_zh": "30年后，前帮派成员将因图帕克谋杀案受审",
+      "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-10T16:52:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "图帕克·夏库尔于1996年9月7日在拉斯维加斯被枪杀。",
+        "图帕克谋杀案的嫌疑人杜安·“基菲·D”·戴维斯将在拉斯维加斯受审。",
+        "戴维斯被指控谋杀图帕克，并将面临无期徒刑的判决。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "30 years later, a former gang member will stand trial for Tupac's murder"
+      }
+    },
+    {
+      "title_original": "هرمز وباب المندب وتايوان.. أخطر الممرات البحرية في العالم",
+      "title_zh": "霍尔木兹海峡、曼德海峡和台湾海峡：世界上最危险的海上通道",
+      "url": "https://www.aljazeera.net/politics/2026/8/10/%D8%AD%D9%8A%D9%86-%D8%AA%D8%B5%D8%A8%D8%AD-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D8%B3%D9%84%D8%A7%D8%AD%D8%A7-%D9%87%D8%B0%D9%87-%D8%A3%D8%AE%D8%B7%D8%B1",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-10T16:51:37+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "霍尔木兹海峡、曼德海峡和台湾海峡是世界上最重要的海上通道。",
+        "这些通道的安全对于全球贸易和能源供应至关重要。",
+        "任何对这些通道的威胁都可能导致全球经济和政治的不稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "هرمز وباب المندب وتايوان.. أخطر الممرات البحرية في العالم"
+      }
+    },
+    {
+      "title_original": "رأي.. اتفاق مكة: هل يعيد الشرق الأوسط كتابة قواعد أمنه؟",
+      "title_zh": "观点：麦加协议是否会重写中东的安全规则？",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/08/10/saudi-turkey-pakistan-defense-agreement-oped",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-08-10T16:49:37+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "麦加协议是沙特阿拉伯、土耳其和巴基斯坦之间的一项防御协议。",
+        "该协议旨在加强三国之间的防御合作和安全合作。",
+        "该协议可能会重写中东的安全规则，并对地区安全格局产生重大影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "رأي.. اتفاق مكة: هل يعيد الشرق الأوسط كتابة قواعد أمنه؟"
+      }
+    }
+  ]
+}
