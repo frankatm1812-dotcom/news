@@ -1,8 +1,660 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T04:07:53.400331+00:00",
-  "count": 34,
+  "generated_at": "2026-08-11T14:46:10.166680+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title_original": "Canadian airline cancels flight after child refuses to wear seatbelt",
+      "title_zh": "加拿大航空公司因儿童拒绝系安全带而取消航班",
+      "url": "https://www.theguardian.com/business/2026/aug/11/canadian-airline-cancels-flight-after-child-refuses-to-wear-seatbelt",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-11T14:03:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "一家加拿大航空公司因一名儿童拒绝系安全带而取消了一次从维多利亚到多伦多的航班。",
+        "这次航班在六月六日从维多利亚起飞，但由于儿童拒绝系安全带，飞机被迫返回航站楼。",
+        "航空公司表示，由于安全原因，飞机无法在这种情况下起飞。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Canadian airline cancels flight after child refuses to wear seatbelt"
+      }
+    },
+    {
+      "title_original": "الصين وإندونيسيا تجريان تدريبات بحرية قبالة تايوان",
+      "title_zh": "中国和印度尼西亚在台湾附近进行海上演习",
+      "url": "https://www.reuters.com/ar/sports/BJOI4TS6JJLLFILI6OSSCWAJIE-2026-08-11/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-11T13:31:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国和印度尼西亚在台湾附近的海域进行联合海上演习，这是两国军事合作的最新举动。",
+        "这次演习是在八月中旬举行的，具体地点尚未公布。",
+        "中国和印度尼西亚的海上演习引起了台湾和其他国家的关注。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "صحيفة الخليج",
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الصين وإندونيسيا تجريان تدريبات بحرية قبالة تايوان"
+      }
+    },
+    {
+      "title_original": "Le Liban adopte l’abolition de la peine de mort, une première au Proche- et au Moyen-Orient",
+      "title_zh": "黎巴嫩废除死刑，成为中东和近东首个废除死刑的国家",
+      "url": "https://www.lemonde.fr/international/article/2026/08/11/le-liban-adopte-l-abolition-de-la-peine-de-mort-une-premiere-au-proche-et-au-moyen-orient_6743866_3210.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-08-11T13:09:59+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "黎巴嫩议会通过了一项法律，废除死刑，这是中东和近东地区首次。",
+        "这项法律将于近期生效，目前黎巴嫩的死刑犯将被改判为无期徒刑。",
+        "黎巴嫩的死刑废除受到国际社会的欢迎，认为这是人权和法治的胜利。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Le Monde.fr",
+        "Libération"
+      ],
+      "all_titles": {
+        "fr": "Le Liban vote l’abolition de la peine de mort, une première au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Russland plant offenbar Großangriff auf Kiew",
+      "title_zh": "乌克兰战争最新：俄罗斯计划对基辅发动大规模袭击",
+      "url": "https://www.fr.de/politik/russland-ukraine-krieg-aktuell-kiew-attackiert-oelraffinerie-in-zr-94435946.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-11T12:37:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯据称计划对乌克兰首都基辅发动大规模袭击，这可能会导致冲突进一步升级。",
+        "乌克兰军方已经做好准备，预计俄罗斯可能会对基辅的能源基础设施发动攻击。",
+        "俄罗斯的行动可能会受到国际社会的谴责，并可能导致西方国家对俄罗斯实施进一步的制裁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Russland plant offenbar Großangriff auf Kiew"
+      }
+    },
+    {
+      "title_original": "Par peur d'attentat iranien, Trump aurait quitté le sommet de l'OTAN à Ankara en cachette",
+      "title_zh": "特朗普因担心伊朗袭击而秘密离开北约峰会",
+      "url": "https://fr.euronews.com/2026/08/11/par-peur-dattentat-iranien-trump-aurait-quitte-le-sommet-de-lotan-a-ankara-en-cachette",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-11T11:49:51+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "据报道，特朗普因担心伊朗可能的袭击而秘密离开了在安卡拉举行的北约峰会。",
+        "特朗普的离开是通过一个秘密计划实现的，目的是为了避免被伊朗特工发现。",
+        "这一事件凸显了当前地缘政治局势的紧张和不确定性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "fr": "Par peur d'attentat iranien, Trump aurait quitté le sommet de l'OTAN à Ankara en cachette"
+      }
+    },
+    {
+      "title_original": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
+      "title_zh": "无人机事件引发欧洲担忧：俄乌战争带来新的危险水平",
+      "url": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-11T11:31:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "近期发生的无人机事件使欧洲国家感到担忧，人们担心俄乌战争可能会蔓延到欧洲。",
+        "德国的一起无人机事件被认为是俄罗斯的所为，引发了人们对俄罗斯可能采取的其他行动的担忧。",
+        "欧洲国家正在采取措施加强安全，防止类似的事件在未来发生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war"
+      }
+    },
+    {
+      "title_original": "中东局势背后的复杂博弈，内塔尼亚胡与特朗普“心照不宣”",
+      "title_zh": "中东局势背后的复杂博弈，内塔尼亚胡与特朗普“心照不宣”",
+      "url": "https://m.sohu.com/a/1061567105_121286085?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-11T11:26:47+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列总理内塔尼亚胡和美国总统特朗普在中东问题上有着复杂的博弈，两人之间有着“心照不宣”的默契。",
+        "内塔尼亚胡的决定是否接受“加沙和平计划”取决于他的政治利益和选举考虑。",
+        "特朗普也在中东问题上有着自己的政治考虑，试图通过“加沙和平计划”来获取政治优势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "中东局势背后的复杂博弈，内塔尼亚胡与特朗普“心照不宣”"
+      }
+    },
+    {
+      "title_original": "Besser Sicherheitslage - NATO-Schutztruppe KFOR will Präsenz an zwei Schlüsselpositionen im Kosovo zurückfahren",
+      "title_zh": "北约科索沃维和部队KFOR计划从两处关键位置撤军",
+      "url": "https://www.deutschlandfunk.de/nato-schutztruppe-kfor-will-praesenz-an-zwei-schluesselpositionen-im-kosovo-zurueckfahren-100.html",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-08-11T11:09:02+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约科索沃维和部队KFOR计划从科索沃的两处关键位置撤军，理由是当地安全形势有所改善。",
+        "科索沃警察将被整合到相关的安全体系中。",
+        "北约科索沃维和部队KFOR自1999年开始部署，目前共有约4600名士兵，包括德国联邦国防军的部队。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Besser Sicherheitslage - NATO-Schutztruppe KFOR will Präsenz an zwei Schlüsselpositionen im Kosovo zurückfahren"
+      }
+    },
+    {
+      "title_original": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "title_zh": "叙利亚前独裁者巴沙尔·阿萨德被缺席判处死刑",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-11T10:43:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "叙利亚一家法院判处前独裁者巴沙尔·阿萨德死刑，罪名是战争罪和反人类罪。",
+        "这是在叙利亚内战中，针对阿萨德的首次判决，他于2024年12月被推翻后逃往莫斯科。",
+        "阿萨德的堂兄和叙利亚南部德拉省前政治安全负责人阿特夫·纳吉布也被判处死刑。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia"
+      }
+    },
+    {
+      "title_original": "Trump exfiltré du sommet de l’Otan ? Le récit rocambolesque d’un vol secret",
+      "title_zh": "特朗普从北约峰会上被秘密撤离？一个惊险的秘密飞行故事",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260811-trump-exfiltr%C3%A9-du-sommet-de-l-otan-le-r%C3%A9cit-rocambolesque-d-un-vol-secret",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-11T10:17:11+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "据报道，特朗普在北约峰会期间因伊朗威胁而进行了秘密飞机调换。",
+        "特朗普登上了空军一号，但随后通过一辆餐车被转移到了一架军用飞机上。",
+        "记者和部分白宫工作人员不知道特朗普已经被撤离，他们登上了空军一号，随后被告知关闭窗帘。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Trump exfiltré du sommet de l’Otan ? Le récit rocambolesque d’un vol secret"
+      }
+    },
+    {
+      "title_original": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "title_zh": "特朗普因伊朗威胁而进行秘密飞机调换，躲在餐车里",
+      "url": "https://www.bbc.com/news/articles/cm2g90vvy62o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-11T09:58:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "特朗普在北约峰会期间因伊朗威胁而进行了秘密飞机调换，据报道他躲在了一辆餐车里。",
+        "特朗普登上了空军一号，但随后通过餐车被转移到了一架军用飞机上，这架飞机使用了“Reach 18”的呼号。",
+        "记者和部分白宫工作人员不知道特朗普已经被撤离，他们登上了空军一号，随后被告知关闭窗帘。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "en": "Trump hid in catering truck in secret plane swap over Iran threat, reports say"
+      }
+    },
+    {
+      "title_original": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "title_zh": "泽连斯基称俄罗斯使用朝鲜导弹袭击乌克兰",
+      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-11T09:39:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基指控俄罗斯使用朝鲜导弹袭击乌克兰，特别是扎波罗热地区的袭击造成至少6人死亡，19人受伤。",
+        "泽连斯基表示，这是俄罗斯“无法在没有朝鲜增援的情况下进行战争”的证据，并警告这对世界构成危险。",
+        "乌克兰和俄罗斯继续相互袭击，乌克兰军队还袭击了俄罗斯西伯利亚的一个石化工厂。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia using North Korean missiles to strike Ukraine, Zelensky says"
+      }
+    },
+    {
+      "title_original": "Progressives are on the cusp of a huge win. Their biggest stars are staying away.",
+      "title_zh": "进步派即将取得巨大胜利，但他们的明星人物却保持距离。",
+      "url": "https://www.politico.com/news/2026/08/11/francesca-hong-wisconsin-aoc-bernie-progressive-01031466",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-11T03:45:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "弗朗西斯卡·洪的州长竞选活动并没有吸引像伯尼·桑德斯和亚历山德里娅·奥卡西奥-科尔特斯这样的知名人物的支持。",
+        "这与其他候选人在本次选举周期中获得的大牌支持形成鲜明对比。",
+        "弗朗西斯卡·洪的竞选活动似乎没有获得同行中一些更知名人物的支持。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Progressives are on the cusp of a huge win. Their biggest stars are staying away."
+      }
+    },
+    {
+      "title_original": "Libyan authorities battle big blaze at major oil refinery",
+      "title_zh": "利比亚当局正在与一家大型石油炼厂的大火作斗争",
+      "url": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-11T08:28:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "利比亚西部的扎维亚炼厂发生了一场大火，据称是无人机袭击所致。",
+        "炼厂的燃料罐被直接击中，引发了一场大火，造成了严重的破坏。",
+        "利比亚国家石油公司表示，如果袭击继续，可能会暂停炼厂的运营。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Libyan authorities battle big blaze at major oil refinery"
+      }
+    },
+    {
+      "title_original": "Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment",
+      "title_zh": "泽连斯基警告说，普京正在通过引入朝鲜军事设备为升级做准备",
+      "url": "https://www.cnbc.com/2026/08/11/ukraine-war-zelenskyy-russia-putin-north-korea.html",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-08-11T08:20:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基警告说，俄罗斯总统普京正在为冲突升级做准备，通过从朝鲜引入军事设备。",
+        "泽连斯基呼吁国际社会加大对俄罗斯的制裁压力，并为乌克兰提供更多的防空支持。",
+        "乌克兰最近遭到了俄罗斯的多次袭击，包括对扎波罗热市的袭击，造成了人员伤亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "Zelenskyy warns Putin is preparing for escalation by bringing in North Korean military equipment"
+      }
+    },
+    {
+      "title_original": "Trump aurait secrètement changé d'avion après le sommet de l'Otan en raison de menaces iraniennes",
+      "title_zh": "特朗普在北约峰会后因伊朗威胁而秘密换乘飞机",
+      "url": "https://www.france24.com/fr/am%C3%A9riques/20260811-trump-a-secr%C3%A8tement-chang%C3%A9-d-avion-apr%C3%A8s-le-sommet-de-l-otan-en-raison-de-menaces-iraniennes",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-11T08:01:22+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "据报道，特朗普在北约峰会后因伊朗威胁而秘密换乘飞机。",
+        "此事件发生在特朗普参加北约峰会后不久，伊朗方面据称对特朗普的安全构成了威胁。",
+        "特朗普的安全团队采取了措施确保他的安全，包括换乘飞机。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Trump aurait secrètement changé d'avion après le sommet de l'Otan en raison de menaces iraniennes"
+      }
+    },
+    {
+      "title_original": "آرثر كارمازي يفتتح قمة تكنولوجيا الموارد البشرية في منطقة الشرق الأوسط وشمال أفريقيا 2026 (HR Tech MENA Summit 2026) في دبي",
+      "title_zh": "阿瑟·卡马齐在迪拜开启2026年中东和北非人力资源技术峰会",
+      "url": "https://www.zawya.com/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9/%D8%A7%D9%94%D8%AD%D8%AF%D8%A7%D8%AB-%D9%88%D9%85%D9%88%D9%94%D8%AA%D9%85%D8%B1%D8%A7%D8%AA/%D8%A7%D9%93%D8%B1%D8%AB%D8%B1-%D9%83%D8%A7%D8%B1%D9%85%D8%A7%D8%B2%D9%8A-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D9%82%D9%85%D8%A9-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%94%D9%88%D8%B3%D8%B7-%D9%88%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%94%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7-2026-hr-tech-mena-summit-2026-%D9%81%D9%8A-%D8%AF%D8%A8%D9%8A-427666",
+      "source": "zawya.com",
+      "source_score": 40,
+      "published_at": "2026-08-11T07:39:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "阿瑟·卡马齐将在迪拜开启2026年中东和北非人力资源技术峰会",
+        "本次峰会将聚焦于人力资源技术的最新发展和趋势",
+        "卡马齐将发表主题演讲，讨论人力资源技术在企业中的应用和未来发展"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "zawya.com"
+      ],
+      "all_titles": {
+        "ar": "آرثر كارمازي يفتتح قمة تكنولوجيا الموارد البشرية في منطقة الشرق الأوسط وشمال أفريقيا 2026 (HR Tech MENA Summit 2026) في دبي"
+      }
+    },
+    {
+      "title_original": "Asia cierra con signo mixto, sin Japón y con dudas por la situación en Oriente Medio",
+      "title_zh": "亚洲市场收盘走势分化，日本市场休市，中东局势不确定",
+      "url": "https://www.bolsamania.com/noticias/mercados/asia-cierra-signo-mixto-sin-japon-dudas-situacion-oriente-medio--23233981.html",
+      "source": "Bolsamania",
+      "source_score": 40,
+      "published_at": "2026-08-11T07:35:11+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "亚洲市场收盘走势分化，部分市场上涨，部分市场下跌",
+        "日本市场休市，未参与今日的交易",
+        "中东局势不确定，投资者对未来市场走势持谨慎态度"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Bolsamania"
+      ],
+      "all_titles": {
+        "es": "Asia cierra con signo mixto, sin Japón y con dudas por la situación en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
+      "title_zh": "俄罗斯袭击乌克兰扎波罗热地区，造成六人死亡",
+      "url": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-11T07:21:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰扎波罗热地区发动袭击，造成六人死亡",
+        "乌克兰军方表示，俄罗斯使用了远程导弹和空中炸弹进行袭击",
+        "此次袭击是俄罗斯最近一系列对乌克兰的攻击的一部分"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russian attacks kill six in Ukraine’s Zaporizhzhia"
+      }
+    },
+    {
+      "title_original": "Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán",
+      "title_zh": "特朗普在土耳其北约峰会后秘密换乘飞机，原因是伊朗的威胁",
+      "url": "https://elpais.com/internacional/2026-08-11/trump-cambio-de-avion-tras-la-cumbre-de-la-otan-en-turquia-oculto-en-un-camion-de-catering-por-una-amenaza-de-iran.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-08-11T06:23:07+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "特朗普在土耳其北约峰会后秘密换乘飞机，使用了一个餐饮服务的容器作为掩护",
+        "此次行动是由于伊朗的威胁，特朗普的安全团队采取了预防措施",
+        "特朗普使用了一个新的空军一号飞机，这是卡塔尔赠送的"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Trump cambió de avión en secreto tras la cumbre de la OTAN en Turquía oculto en un contenedor de ‘catering’ por una amenaza de Irán"
+      }
+    },
+    {
+      "title_original": "الصين تحتج على مشاركة تايوان في منتدى جزر المحيط الهادئ",
+      "title_zh": "中国对台湾参加太平洋岛国论坛提出异议",
+      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260811-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%AD%D8%AA%D8%AC-%D8%B9%D9%84%D9%89-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D9%81%D9%8A-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%AC%D8%B2%D8%B1-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7-%D8%A7%D9%84%D9%87%D8%A7%D8%AF%D8%A6",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-11T05:53:09+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国对台湾参加太平洋岛国论坛提出异议",
+        "中国认为台湾的参与是对其主权和领土完整的挑战",
+        "此次事件可能会影响中国和台湾之间的关系"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "الصين تحتج على مشاركة تايوان في منتدى جزر المحيط الهادئ"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : «Les frappes se sont arrêtées mais les négociations n'avancent pas», souligne cet expert",
+      "title_zh": "中东战争：专家指出，空袭停止但谈判没有进展",
+      "url": "https://www.cnews.fr/france/2026-08-11/guerre-au-moyen-orient-les-frappes-se-sont-arretees-mais-les-negociations",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-08-11T05:40:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争中，空袭已经停止，但谈判进展不顺利。",
+        "专家指出，当前的局势下，谈判难以取得进展。",
+        "中东战争的持续对地区局势产生了重大影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : «Les frappes se sont arrêtées mais les négociations n'avancent pas», souligne cet expert"
+      }
+    },
+    {
+      "title_original": "Colombia quake leaves more than 110 dead – as it happened",
+      "title_zh": "哥伦比亚地震造成110多人死亡",
+      "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-11T05:32:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "哥伦比亚发生地震，造成超过110人死亡。",
+        "地震导致多座建筑物倒塌，许多人被困。",
+        "当地政府正在进行救援工作，试图找到被困人员。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Colombia quake leaves more than 110 dead – as it happened"
+      }
+    },
+    {
+      "title_original": "Crise au Moyen-Orient et investissements géants dans l'IA redonnent du souffle aux géants industriels allemands, mais pour combien de temps",
+      "title_zh": "中东危机和人工智能巨额投资让德国工业巨头重获新生，但能持续多久",
+      "url": "https://www.lesechos.fr/industrie-services/industrie-lourde/crise-au-moyen-orient-et-investissements-geants-dans-lia-redonnent-du-souffle-aux-geants-industriels-allemands-mais-pour-combien-de-temps-2246575",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-08-11T04:25:09+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东危机和人工智能巨额投资让德国工业巨头重获新生。",
+        "德国工业巨头正在通过投资人工智能技术来应对当前的挑战。",
+        "然而，人们对这种增长的可持续性持怀疑态度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "Crise au Moyen-Orient et investissements géants dans l'IA redonnent du souffle aux géants industriels allemands, mais pour combien de temps"
+      }
+    },
+    {
+      "title_original": "特种兵台海一线实弹演练现场公开 实战锤炼特战尖刀",
+      "title_zh": "特种兵台海一线实弹演练现场公开 实战锤炼特战尖刀",
+      "url": "https://news.china.com/socialgd/10000169/20260811/49667600.html",
+      "source": "news.china.com",
+      "source_score": 40,
+      "published_at": "2026-08-11T04:11:22+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国人民解放军特种部队通过严苛训练，锻造出“三栖能力兼备、全域全时能战”的特战尖刀。",
+        "被誉为“东海飞龙”的特战劲旅，自成立以来就被赋予了在威胁条件下执行高强度任务的重要使命。",
+        "该部队的战时任务是深入敌后，面对数倍于己的敌人并一招制敌。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "news.china.com"
+      ],
+      "all_titles": {
+        "zh": "特种兵台海一线实弹演练现场公开 实战锤炼特战尖刀"
+      }
+    },
+    {
+      "title_original": "中东局势致英国加油逃费案件激增",
+      "title_zh": "中东局势致英国加油逃费案件激增",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimxmer4299717.shtml",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-08-11T04:10:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "英国燃油价格大幅走高，境内加油站燃油盗窃、逃费案件近期显著激增。",
+        "英国加油站被盗燃油总价值大幅上涨48%，目前全英日均被盗燃油价值达19.4万英镑。",
+        "日均失窃油量从此前8.7万升增至10.89万升，各类加油逃费案件数量同比上升两成。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "中东局势致英国加油逃费案件激增"
+      }
+    },
     {
       "title_original": "Contradicting public statements, Trump took secret flight from Turkey amid Iranian threat",
       "title_zh": "特朗普在伊朗威胁下从土耳其秘密飞行",
@@ -53,6 +705,56 @@
       "all_titles": {
         "fr": "Donald Trump aurait quitté le sommet de l’OTAN en Turquie en juillet à bord d’un avion secret en raison des menaces de l’Iran",
         "en": "Trump hid in catering cart to board secret flight in Turkey amid Iran threat – reports"
+      }
+    },
+    {
+      "title_original": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats",
+      "title_zh": "特朗普据称在威胁下秘密使用军用飞机离开土耳其",
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html",
+      "source": "The New York Times",
+      "source_score": 95,
+      "published_at": "2026-08-11T02:57:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "特朗普据称在威胁下秘密使用军用飞机离开土耳其，据报道。",
+        "特朗普的安全团队采取了额外的预防措施，以确保他的安全。",
+        "具体细节尚不清楚，但据信特朗普的离开是因为伊朗的威胁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "The New York Times"
+      ],
+      "all_titles": {
+        "en": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Kiew greift Ölraffinerie in Tatarstan an – Explosionen auf der Krim und in Donezk",
+      "title_zh": "乌克兰战争最新：基辅袭击塔塔尔斯坦的油厂，克里米亚和顿涅茨克发生爆炸",
+      "url": "https://www.fr.de/politik/news-ticker-russland-putin-verluste-kiew-angriff-ukraine-krieg-aktuell-zr-94429482.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-11T02:46:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队袭击了塔塔尔斯坦的一家油厂，导致了克里米亚和顿涅茨克的爆炸。",
+        "俄罗斯军队对乌克兰城市苏梅进行了轰炸，造成了人员伤亡和财产损失。",
+        "乌克兰总统泽连斯基表示，将对俄罗斯的袭击进行报复。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Kiew greift Ölraffinerie in Tatarstan an – Explosionen auf der Krim und in Donezk"
       }
     },
     {
