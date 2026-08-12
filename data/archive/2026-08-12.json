@@ -1,0 +1,859 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T05:18:48.574361+00:00",
+  "count": 34,
+  "articles": [
+    {
+      "title_original": "Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China",
+      "title_zh": "台风海豚登陆北京，中国北部和中部地区将迎来暴雨",
+      "url": "https://www.theguardian.com/world/2026/aug/12/tyhpoon-dolphin-beijing-thousands-evacuated-flooding-rainfall",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-12T04:43:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "北京因台风海豚的影响，数千人被疏散到安全区域，以避免洪水和山体滑坡的危险。",
+        "预报员警告称，北京在24小时内可能会受到超过150mm的降雨，部分地区可能会超过200mm，这是北京平均年降雨量的三分之一以上。",
+        "台风海豚的残余部分继续影响中国北部和中部地区，导致大范围的降雨和洪水"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China"
+      }
+    },
+    {
+      "title_original": "Putins verdeckte Mobilmachung in Russland für den Ukraine-Krieg",
+      "title_zh": "普京在俄罗斯为乌克兰战争进行隐秘的动员",
+      "url": "https://de.euronews.com/my-europe/2026/08/12/putins-mobilmachung-ukraine-krieg",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-12T04:30:19+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯总统普京通过对雇主和地区施加压力，以及提供特殊津贴和招募士兵等方式，正在为乌克兰战争而扩充军队，但没有公开宣布动员。",
+        "俄罗斯政府官员表示，目前没有必要宣布新的动员令，但政治观察人士报告称，地区正在受到系统性的压力，要求完成莫斯科的招募任务。",
+        "俄罗斯军队正在招募新的合同士兵，据报道，每天有大约1000名新兵入伍"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "Putins verdeckte Mobilmachung in Russland für den Ukraine-Krieg"
+      }
+    },
+    {
+      "title_original": "Putin Can’t Break Down NATO’s Door. He’s Trying the Window",
+      "title_zh": "普京无法破门而入北约，他正在尝试从窗口进入",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-12/putin-is-testing-nato-the-allies-must-show-some-steel",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-08-12T04:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯总统普京无法直接破坏北约的防御，因此他正在尝试通过其他方式来挑战北约的团结和决心。",
+        "北约面临着来自俄罗斯的挑战，普京的战略是试图找到北约防御的弱点并加以利用。",
+        "北约需要保持警惕和团结，以应对来自俄罗斯的挑战和威胁"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Putin Can’t Break Down NATO’s Door. He’s Trying the Window"
+      }
+    },
+    {
+      "title_original": "Trump says he switched planes after Nato summit because of possible threat",
+      "title_zh": "特朗普称他在北约峰会后更换飞机是因为可能存在威胁",
+      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T03:44:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国前总统特朗普表示，他在北约峰会后更换飞机是因为可能存在安全威胁。",
+        "特朗普称，他的保安团队和军方建议他更换飞机，以确保他的安全。",
+        "特朗普的飞机更换事件引发了人们对安全威胁的担忧和对特朗普安全措施的质疑"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump says he switched planes after Nato summit because of possible threat"
+      }
+    },
+    {
+      "title_original": "Baby Shark Boy set to make K-pop debut",
+      "title_zh": "宝宝鲨鱼男孩即将出道K-pop",
+      "url": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T03:26:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "宝宝鲨鱼男孩，即Park Geon-roung，曾出演过宝宝鲨鱼音乐视频，他现在即将出道K-pop。",
+        "宝宝鲨鱼男孩的出道受到Pinkfong的支持，Pinkfong是制作宝宝鲨鱼音乐视频的韩国儿童娱乐公司。",
+        "宝宝鲨鱼男孩的出道引发了人们对K-pop未来发展的期待和对他能否成功的质疑"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Baby Shark Boy set to make K-pop debut"
+      }
+    },
+    {
+      "title_original": "Bondi Beach shooting hero's assault charges dropped by police",
+      "title_zh": "邦迪海滩枪击事件英雄的袭击指控被警方撤销",
+      "url": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T02:59:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "邦迪海滩枪击事件英雄阿赫迈德的袭击指控被警方撤销。",
+        "阿赫迈德曾被指控对其父亲实施家庭暴力和跟踪恐吓，但他否认了这些指控。",
+        "阿赫迈德在去年邦迪海滩枪击事件中被誉为英雄，因为他成功地从一名枪手手中夺走了枪支。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Bondi Beach shooting hero's assault charges dropped by police"
+      }
+    },
+    {
+      "title_original": "特朗普回应“北约峰会后坐餐饮服务车换飞机秘密转移”：转乘的那架飞机“风险反而更大”；此前有消息称伊朗可能对特朗普实施暗杀",
+      "title_zh": "特朗普回应“北约峰会后坐餐饮服务车换飞机秘密转移”：转乘的那架飞机“风险反而更大”；此前有消息称伊朗可能对特朗普实施暗杀",
+      "url": "https://m.sohu.com/a/1061783547_121627717?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-08-12T02:53:02+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国总统特朗普表示，他从土耳其结束北约峰会离开时转乘的那架飞机“面临的风险反而更大”。",
+        "据报道，由于有消息称伊朗可能对特朗普实施暗杀，因此采取了临时换机措施。",
+        "特朗普当时被安排乘坐一辆餐饮服务车，在不同飞机之间秘密转移。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "特朗普回应“北约峰会后坐餐饮服务车换飞机秘密转移”：转乘的那架飞机“风险反而更大”；此前有消息称伊朗可能对特朗普实施暗杀"
+      }
+    },
+    {
+      "title_original": "New Zealand PM survives second leadership challenge ahead of election",
+      "title_zh": "新西兰总理在大选前第二次领导力挑战中幸存",
+      "url": "https://www.bbc.co.uk/news/articles/cx2ve2jk5qeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T02:51:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "新西兰总理克里斯托弗·卢克森在大选前第二次领导力挑战中幸存下来。",
+        "卢克森表示，他拥有党内的完全支持，并且他的党内团结一致，决心赢得即将到来的大选。",
+        "卢克森面临的领导力挑战是由于他党内的支持率下降和经济增长缓慢。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "New Zealand PM survives second leadership challenge ahead of election"
+      }
+    },
+    {
+      "title_original": "Iran Said to Have Known Details of Trump’s Stay at NATO Summit",
+      "title_zh": "伊朗据称知道特朗普在北约峰会期间的行程细节",
+      "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-iran-threat-air-force-one.html",
+      "source": "The New York Times",
+      "source_score": 95,
+      "published_at": "2026-08-12T02:09:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "据报道，伊朗知道特朗普在北约峰会期间的行程细节。",
+        "特朗普的安全团队采取了秘密措施以防范可能来自伊朗的攻击。",
+        "特朗普的安全措施包括在北约峰会结束后转乘另一架飞机。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The New York Times"
+      ],
+      "all_titles": {
+        "en": "Iran Said to Have Known Details of Trump’s Stay at NATO Summit"
+      }
+    },
+    {
+      "title_original": "Passenger jet billed as China’s answer to Boeing and Airbus prepares to make first international flight",
+      "title_zh": "中国的客机即将首次国际航班，被誉为中国对波音和空客的回应",
+      "url": "https://www.theguardian.com/world/2026/aug/12/comac-c919-chinese-passenger-jet-china-plane-first-international-flight",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-12T02:02:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国的客机C919即将首次国际航班，从北京飞往蒙古的乌兰巴托。",
+        "C919被誉为中国对波音和空客的回应，标志着中国在商用航空领域的重大进步。",
+        "专家认为，C919可能需要几代人的时间才能挑战西方在航空业的主导地位。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Passenger jet billed as China’s answer to Boeing and Airbus prepares to make first international flight"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: North Korean missiles hit Zaporizhzhia in deadly attack",
+      "title_zh": "乌克兰战争简报：朝鲜导弹袭击扎波罗热致命攻击",
+      "url": "https://www.theguardian.com/world/2026/aug/12/ukraine-war-briefing-north-korean-missiles-attack-zaporizhzhia",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-12T01:23:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统表示，俄罗斯使用了朝鲜提供的弹道导弹，在扎波罗热市发动了致命攻击，造成7名平民死亡，21人受伤。",
+        "俄罗斯还使用了无人机和滑翔炸弹袭击乌克兰城市，乌克兰军队还袭击了俄罗斯奥伦堡地区的一家炼油厂，造成了一场火灾。",
+        "罗马尼亚海军在黑海摧毁了两架疑似俄罗斯无人机，距离康斯坦察港口约166公里。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: North Korean missiles hit Zaporizhzhia in deadly attack"
+      }
+    },
+    {
+      "title_original": "Le Liban vote l’abolition de la peine de mort, une première au Moyen-Orient",
+      "title_zh": "黎巴嫩投票废除死刑，中东地区首次",
+      "url": "https://www.ledevoir.com/monde/moyen-orient/1001297/liban-vote-abolition-peine-mort-premiere-moyen-orient",
+      "source": "ledevoir.com",
+      "source_score": 40,
+      "published_at": "2026-08-12T00:57:45+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "黎巴嫩议会投票决定废除死刑，这是中东地区首次，黎巴嫩自2004年以来就没有执行过死刑，尽管仍然有死刑判决。",
+        "废除死刑的决定将使过去的死刑判决改为无期徒刑，并伴有公益劳动，黎巴嫩的死刑废除是人权组织多年的努力结果。",
+        "这一决定被认为是人权领域的一大进步，欧盟和其他国家也对这一决定表示赞赏。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "ledevoir.com"
+      ],
+      "all_titles": {
+        "fr": "Le Liban vote l’abolition de la peine de mort, une première au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "'National security issue': The Weeknight blasts Trump's secret plane swap after NATO summit",
+      "title_zh": "国家安全问题：周夜新闻批评特朗普在北约峰会后秘密换乘飞机",
+      "url": "https://www.ms.now/the-weeknight/watch/pete-hegseth-finally-found-someone-to-punish-for-trump-s-embarrassing-qatari-jet-debacle-2510533699713",
+      "source": "MS NOW",
+      "source_score": 40,
+      "published_at": "2026-08-12T00:54:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "特朗普总统在北约峰会后秘密换乘飞机，原因是担心伊朗导弹威胁，特朗普的行为被批评为不寻常和不光明磊落。",
+        "特朗普的飞机换乘事件被视为他与伊朗关系紧张的体现，特朗普曾多次发表强硬言论，称伊朗对他的安全构成威胁。",
+        "这一事件引发了人们对特朗普国家安全政策和他处理国际关系方式的质疑。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "MS NOW"
+      ],
+      "all_titles": {
+        "en": "'National security issue': The Weeknight blasts Trump's secret plane swap after NATO summit"
+      }
+    },
+    {
+      "title_original": "沙特、土耳其和巴铁签了，“伊斯兰版北约”来了？",
+      "title_zh": "沙特、土耳其和巴基斯坦签署协议，伊斯兰版北约来了？",
+      "url": "https://www.sina.cn/news/article/nimzivr6953036.html",
+      "source": "新浪网",
+      "source_score": 40,
+      "published_at": "2026-08-12T00:44:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特、土耳其和巴基斯坦签署了《麦加共同防御协议》，该协议规定对三国中任何一国的武装攻击将被视为对三国全体的攻击。",
+        "这一协议被视为伊斯兰世界内部形成新的力量聚合，旨在应对伊朗威胁和美国战略收缩，沙特、土耳其和巴基斯坦将加强防务合作，包括联合演习和情报共享。",
+        "这一协议可能对中东安全格局产生影响，印度和其他国家对此表示担忧，认为这可能会改变南亚的力量平衡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "新浪网"
+      ],
+      "all_titles": {
+        "zh": "沙特、土耳其和巴铁签了，“伊斯兰版北约”来了？"
+      }
+    },
+    {
+      "title_original": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+      "title_zh": "特朗普的戏剧性飞机换乘暗示了伊朗战争的个人利害关系",
+      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T00:14:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "特朗普总统在北约峰会后秘密换乘飞机，原因是担心伊朗导弹威胁，这一事件被视为他与伊朗关系紧张的体现。",
+        "特朗普曾多次发表强硬言论，称伊朗对他的安全构成威胁，特朗普的飞机换乘事件被批评为不寻常和不光明磊落。",
+        "这一事件引发了人们对特朗普国家安全政策和他处理国际关系方式的质疑，人们担心这可能会加剧中东的紧张局势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump's dramatic plane swap hints at personal stakes of Iran war"
+      }
+    },
+    {
+      "title_original": "德国高级将领称俄罗斯正以混合攻击试探北约的防御能力",
+      "title_zh": "德国高级将领称俄罗斯正以混合攻击试探北约的防御能力",
+      "url": "https://cn.wsj.com/articles/top-german-general-says-russia-is-probing-nato-defenses-with-hybrid-attacks-69fdd6de",
+      "source": "华尔街日报中文网",
+      "source_score": 95,
+      "published_at": "2026-08-11T23:48:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德国高级将领称俄罗斯正以混合攻击试探北约的防御能力",
+        "俄罗斯的混合攻击包括多种形式的攻击",
+        "北约需要加强防御能力以应对俄罗斯的混合攻击"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "华尔街日报中文网",
+        "WSJ"
+      ],
+      "all_titles": {
+        "zh": "德国高级将领称俄罗斯正以混合攻击试探北约的防御能力",
+        "en": "Top German General Says Russia Is Probing NATO Defenses With Hybrid Attacks"
+      }
+    },
+    {
+      "title_original": "Russia releases former US Marine reported in poor health",
+      "title_zh": "俄罗斯释放一名前美国海军陆战队员，据报其健康状况不佳",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-11T23:33:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯释放了一名前美国海军陆战队员",
+        "该海军陆战队员的健康状况据报不佳",
+        "该事件可能会影响美国和俄罗斯之间的关系"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia releases former US Marine reported in poor health"
+      }
+    },
+    {
+      "title_original": "中東原油生産、27年末まで一部停止続く見通し＝米ＥＩＡ",
+      "title_zh": "中東原油生産、27年末まで一部停止続く見通し＝米ＥＩＡ",
+      "url": "https://jp.reuters.com/world/us/IPLCCYUSURKSJABZZ2SXMSFRUM-2026-08-11/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-11T23:15:52+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "中東原油生产可能会在27年末之前部分停止",
+        "美国能源信息署（EIA）做出了这一预测",
+        "这一事件可能会影响全球能源市场"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "中東原油生産、27年末まで一部停止続く見通し＝米ＥＩＡ"
+      }
+    },
+    {
+      "title_original": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "title_zh": "特朗普在伊朗威胁下秘密换乘飞机，据报道他曾躲在餐车中",
+      "url": "https://www.bbc.com/news/articles/cm2g90vvy62o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-11T23:04:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "特朗普在伊朗威胁下秘密换乘飞机",
+        "他曾躲在餐车中以避免被发现",
+        "这一事件可能会影响美国和伊朗之间的关系"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "en": "Trump hid in catering truck in secret plane swap over Iran threat, reports say"
+      }
+    },
+    {
+      "title_original": "ロシアが北朝鮮製ミサイル使用、少なくとも10人死亡 ウクライナ",
+      "title_zh": "俄罗斯使用朝鲜制导弹，至少10人死亡 乌克兰",
+      "url": "https://www.afpbb.com/articles/-/3648073",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-11T22:48:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯使用朝鲜制导弹袭击乌克兰，至少10人死亡",
+        "乌克兰总统泽连斯基谴责俄罗斯的行为",
+        "这一事件可能会进一步加剧俄乌冲突"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ロシアが北朝鮮製ミサイル使用、少なくとも10人死亡 ウクライナ"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 00:10 Seit Kriegsausbruch in Ukraine auch mehr Drohnen in Deutschland +++",
+      "title_zh": "乌克兰战争直播：自战争爆发以来，德国也出现了更多无人机",
+      "url": "https://www.n-tv.de/politik/00-10-Seit-Kriegsausbruch-in-Ukraine-auch-mehr-Drohnen-in-Deutschland-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-11T22:10:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争导致德国出现了更多无人机",
+        "乌克兰曾停止对俄罗斯油轮的攻击，以免进一步破坏油市",
+        "俄罗斯对乌克兰油轮的攻击造成了人员伤亡"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 00:10 Seit Kriegsausbruch in Ukraine auch mehr Drohnen in Deutschland +++"
+      }
+    },
+    {
+      "title_original": "ウクライナ、対ロ戦争終結の計画案を米側に提出＝ゼレンスキー大統領",
+      "title_zh": "乌克兰向美国提出结束与俄罗斯战争的计划案",
+      "url": "https://jp.reuters.com/world/ukraine/AXY3O4F5M5MW3IGFE5TSUOYBSM-2026-08-11/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-11T21:52:12+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基向美国提出结束与俄罗斯战争的计划案",
+        "该计划案的细节尚不清楚",
+        "乌克兰和俄罗斯之间的冲突仍在继续"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、対ロ戦争終結の計画案を米側に提出＝ゼレンスキー大統領"
+      }
+    },
+    {
+      "title_original": "米国株式市場＝続落、中東情勢巡る楽観論後退 アマゾン・アルファベットが安い",
+      "title_zh": "美国股票市场持续下跌，中东局势乐观论退潮，亚马逊和阿尔法贝特股价下跌",
+      "url": "https://jp.reuters.com/markets/japan/7NCP7XNWONP5TL37BZZTMYZND4-2026-08-11/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-11T21:19:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国股票市场持续下跌",
+        "中东局势的不确定性导致投资者情绪低落",
+        "亚马逊和阿尔法贝特等科技股价格下跌"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "米国株式市場＝続落、中東情勢巡る楽観論後退 アマゾン・アルファベットが安い"
+      }
+    },
+    {
+      "title_original": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+      "title_zh": "美国称直升机发射导弹击毁违反伊朗封锁的船只",
+      "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-11T21:14:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国直升机发射导弹击毁了一艘试图违反伊朗封锁的船只",
+        "该船只试图驶往伊朗港口",
+        "美国对伊朗实施封锁以应对伊朗的军事行动"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US says helicopter fired missiles to disable ship breaking Iran blockade"
+      }
+    },
+    {
+      "title_original": "北朝鮮軍「肉挽き」戦闘で大量犠牲は不可避…ウクライナ進軍で（高英起） - エキスパート",
+      "title_zh": "北朝鲜军队在乌克兰可能面临大量伤亡",
+      "url": "https://news.yahoo.co.jp/expert/articles/09f983cfb9f38ec78b6bc850059dac24296bdbaf",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-11T21:05:30+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北朝鲜军队可能被派往乌克兰参战",
+        "北朝鲜军队在乌克兰可能面临激烈的战斗和大量伤亡",
+        "乌克兰冲突仍在继续，北朝鲜军队的参战可能会加剧冲突"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "北朝鮮軍「肉挽き」戦闘で大量犠牲は不可避…ウクライナ進軍で（高英起） - エキスパート"
+      }
+    },
+    {
+      "title_original": "في سابقة بالشرق الأوسط.. البرلمان اللبناني يلغي عقوبة الإعدام وترحيب واسع بالخطوة",
+      "title_zh": "黎巴嫩议会取消死刑",
+      "url": "https://arabic.euronews.com/2026/08/11/lebanon-death-penalty-parliament-human-rights",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-11T20:30:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "黎巴嫩议会取消死刑，这是中东地区的首次",
+        "这一决定得到了广泛的欢迎",
+        "黎巴嫩议会的这一决定标志着该国在人权方面的进步"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "في سابقة بالشرق الأوسط.. البرلمان اللبناني يلغي عقوبة الإعدام وترحيب واسع بالخطوة"
+      }
+    },
+    {
+      "title_original": "称沙土巴三国结盟为“伊斯兰版北约”，容易让人忽视一个关键事实",
+      "title_zh": "沙特、土耳其、巴基斯坦结盟被称为“伊斯兰版北约”",
+      "url": "https://m.sohu.com/a/1061669121_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-08-11T19:43:03+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特、土耳其、巴基斯坦三国签署了《麦加共同防务协议》",
+        "该协议规定，对三国中任何一国的武装攻击将被视为对三国全体的攻击",
+        "这一结盟被认为是中东地区安全格局的重要变化"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "称沙土巴三国结盟为“伊斯兰版北约”，容易让人忽视一个关键事实"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient: l'armée américaine annonce avoir tiré sur un navire qui violait son blocus des ports iraniens",
+      "title_zh": "美国军队宣布击沉一艘违反伊朗港口封锁的船只",
+      "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/guerre-au-moyen-orient-l-armee-americaine-annonce-avoir-tire-sur-un-navire-qui-violait-son-blocus-des-ports-iraniens_AD-202608110502.html",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-08-11T19:37:43+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国军队宣布击沉一艘违反伊朗港口封锁的船只",
+        "这一事件发生在美国对伊朗实施封锁之后",
+        "美国军队表示，这一行动是为了维护地区安全"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: l'armée américaine annonce avoir tiré sur un navire qui violait son blocus des ports iraniens"
+      }
+    },
+    {
+      "title_original": "أمريكا تتوقع استمرار تعطل نفط الشرق الأوسط حتى نهاية 2027",
+      "title_zh": "美国预计中东石油供应将持续受阻至2027年底",
+      "url": "https://www.aljazeera.net/ebusiness/2026/8/11/us-oil-disruptions-2027",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-11T19:25:37+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国预计中东石油供应将持续受阻至2027年底",
+        "这一预测是基于当前的石油供应情况和地区局势",
+        "中东石油供应的不确定性对全球石油市场产生了影响"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "أمريكا تتوقع استمرار تعطل نفط الشرق الأوسط حتى نهاية 2027"
+      }
+    },
+    {
+      "title_original": "Luigi Mangione murder trial to have anonymous jury",
+      "title_zh": "卢伊吉·曼吉奥尼谋杀案将采用匿名陪审团",
+      "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-11T19:12:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "卢伊吉·曼吉奥尼谋杀案将采用匿名陪审团",
+        "这一决定是为了保护陪审团成员的安全和隐私",
+        "该案件因其复杂性和社会影响而受到广泛关注"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Luigi Mangione murder trial to have anonymous jury"
+      }
+    },
+    {
+      "title_original": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "title_zh": "哥伦比亚地震致180人死亡，救援人员正在搜寻幸存者",
+      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-11T19:09:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "哥伦比亚发生7.4级地震，造成180人死亡，多人受伤。",
+        "地震主要影响了卡利和佩雷拉等城市，许多建筑物倒塌，数千人失去家园。",
+        "哥伦比亚政府已宣布进入紧急状态，救援工作正在进行中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Rescuers scramble for survivors with 180 dead in Colombia earthquake"
+      }
+    },
+    {
+      "title_original": "Former judge removed by Orbán elected Hungarian president",
+      "title_zh": "曾被奥尔班免职的前法官当选匈牙利总统",
+      "url": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-11T18:34:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "匈牙利议会选举前法官安德拉什·巴卡为新总统，巴卡曾被奥尔班政府免职。",
+        "巴卡的任务是监督新宪法的制定和政府的工作，尤其是监测总理彼得·马扎尔的行为。",
+        "匈牙利的政治局势复杂，前总理奥尔班的党派对新政府持反对态度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Former judge removed by Orbán elected Hungarian president"
+      }
+    },
+    {
+      "title_original": "أمريكا: استمرار تعطل جزء من إنتاج نفط الشرق الأوسط طوال 2027",
+      "title_zh": "美国：中东部分石油生产将持续停滞至2027年",
+      "url": "https://www.reuters.com/ar/business/DDVG3BLT6BJSTMLCIWLDWFJTSE-2026-08-11/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-11T18:02:09+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国预计中东部分石油生产将持续停滞至2027年。",
+        "这一预测可能对全球石油市场和经济产生影响。",
+        "中东石油生产的停滞可能导致石油价格波动和供应紧张。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "أمريكا: استمرار تعطل جزء من إنتاج نفط الشرق الأوسط طوال 2027"
+      }
+    },
+    {
+      "title_original": "Venable, de la Fed de Atlanta, ve inflación demasiado alta, pendiente de situación en Oriente Medio",
+      "title_zh": "亚特兰大联储主席维纳布尔认为通货膨胀过高，关注中东局势",
+      "url": "https://es.finance.yahoo.com/noticias/venable-fed-atlanta-ve-inflaci%C3%B3n-171817379.html",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-08-11T17:18:17+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "亚特兰大联储主席维纳布尔表示当前通货膨胀率过高，需要关注中东局势的发展。",
+        "中东局势的变化可能影响石油价格和全球经济。",
+        "维纳布尔强调了监测通货膨胀和经济指标的重要性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "es": "Venable, de la Fed de Atlanta, ve inflación demasiado alta, pendiente de situación en Oriente Medio"
+      }
+    }
+  ]
+}
