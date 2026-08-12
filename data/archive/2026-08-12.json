@@ -1,8 +1,733 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T05:18:48.574361+00:00",
-  "count": 34,
+  "generated_at": "2026-08-12T14:46:34.589574+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title_original": "سفراء حلف الأطلسي يناقشون أحدث انتهاكات المجال الجوي في بولندا ورومانيا",
+      "title_zh": "北约理事会讨论波兰和罗马尼亚的最新空中违规事件",
+      "url": "https://www.reuters.com/ar/world/TJXVNRSZ2NMP3HHAGURRL372LA-2026-08-12/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-12T14:13:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约理事会正在讨论波兰和罗马尼亚的最新空中违规事件。",
+        "此次讨论是关于最近发生的空中违规事件的。",
+        "北约理事会正在审查相关情况并讨论下一步行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "سفراء حلف الأطلسي يناقشون أحدث انتهاكات المجال الجوي في بولندا ورومانيا"
+      }
+    },
+    {
+      "title_original": "US inflation eases as food and fuel costs cool",
+      "title_zh": "美国通胀率降低，食品和燃料成本降低",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T14:09:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国7月份的通胀率为3.4%，低于6月份的3.5%。",
+        "食品价格在7月份仅略微上涨，燃料价格下降，给消费者带来了一些缓解。",
+        "美国劳工统计局表示，7月份的通胀率上涨0.1%，主要是由于住房成本增加。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US inflation eases as food and fuel costs cool"
+      }
+    },
+    {
+      "title_original": "Israeli settlers besieging Palestinian families in West Bank village",
+      "title_zh": "以色列定居者围困西岸村庄的巴勒斯坦家庭",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T14:03:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列定居者已经围困了西岸村庄中的巴勒斯坦家庭。",
+        "以色列安全部队已经撤离，约有一打定居者仍然留在现场。",
+        "围困已经持续了几天，巴勒斯坦家庭处于困境之中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israeli settlers besieging Palestinian families in West Bank village"
+      }
+    },
+    {
+      "title_original": "Vier Tote im Ukraine-Krieg - darunter ein 8-jähriges Kind in Russland",
+      "title_zh": "乌克兰战争中有四人死亡，包括俄罗斯的一名8岁儿童",
+      "url": "https://de.euronews.com/my-europe/2026/08/12/vier-tote-im-ukraine-krieg-darunter-ein-8-jahriges-kind-in-russland",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-12T13:39:40+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰无人机袭击俄罗斯港口城市诺沃罗西斯克，造成两人死亡，包括一名8岁儿童。",
+        "俄罗斯对乌克兰赫尔松地区发动攻击，造成两人死亡，多人受伤。",
+        "乌克兰已经加强了对俄罗斯目标的攻击，称这是对俄罗斯袭击乌克兰城市的正当报复。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "Vier Tote im Ukraine-Krieg - darunter ein 8-jähriges Kind in Russland"
+      }
+    },
+    {
+      "title_original": "Wisconsin result dents winning streak for Democratic Party's left wing",
+      "title_zh": "威斯康星州选举结果打破了民主党左翼的连胜纪录",
+      "url": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T13:35:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "威斯康星州民主党初选中，戴维·克劳利获胜，将在11月的大选中竞争州长职位。",
+        "克劳利的胜利打破了民主党左翼在近期选举中的连胜纪录。",
+        "威斯康星州的选举结果被视为11月中期选举的重要指标。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Wisconsin result dents winning streak for Democratic Party's left wing"
+      }
+    },
+    {
+      "title_original": "U.S. Knew of Iranian Missile Threat Against Air Force One",
+      "title_zh": "美国知晓伊朗对空军一号的导弹威胁",
+      "url": "https://www.nytimes.com/live/2026/08/11/us/trump-news",
+      "source": "The New York Times",
+      "source_score": 95,
+      "published_at": "2026-08-12T13:28:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国知晓伊朗对空军一号的导弹威胁。",
+        "该威胁可能对美国总统的安全构成风险。",
+        "事件详情尚不明确，需进一步调查。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The New York Times"
+      ],
+      "all_titles": {
+        "en": "U.S. Knew of Iranian Missile Threat Against Air Force One"
+      }
+    },
+    {
+      "title_original": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
+      "title_zh": "津巴布韦卡里巴湖一艘超载渡轮倾覆，至少44人死亡",
+      "url": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-12T12:21:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "津巴布韦卡里巴湖一艘超载渡轮倾覆，导致至少44人死亡。",
+        "渡轮上有114名成人乘客、5名船员和未知数量的儿童。",
+        "事件发生在世界上最大的人工湖——卡里巴湖。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe"
+      }
+    },
+    {
+      "title_original": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+      "title_zh": "帮助中国成为贸易巨头的朱镕基去世，享年97岁",
+      "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T12:10:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "朱镕基，前中国总理，于97岁去世。",
+        "他在1998年至2003年间担任中国总理，推动了中国的经济改革和对外开放。",
+        "朱镕基的经济改革措施促进了中国的快速经济增长和全球贸易地位的提升。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zhu Rongji, who helped turn China into a trading giant, dies at 97"
+      }
+    },
+    {
+      "title_original": "The Mecca Defense Accord: A Muslim NATO?",
+      "title_zh": "麦加防御协议：穆斯林版北约?",
+      "url": "https://fpif.org/the-mecca-defense-accord-a-muslim-nato/",
+      "source": "Foreign Policy in Focus",
+      "source_score": 75,
+      "published_at": "2026-08-12T11:58:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "巴基斯坦、沙特阿拉伯和土耳其签署了麦加联合防御协议。",
+        "该协议引发了人们对其目标和影响的关注和猜测。",
+        "协议的签署国表示，该协议不是针对任何特定国家。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Foreign Policy in Focus"
+      ],
+      "all_titles": {
+        "en": "The Mecca Defense Accord: A Muslim NATO?"
+      }
+    },
+    {
+      "title_original": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+      "title_zh": "多瑙河水位下降，露出二战士兵和摩托车遗骸",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T11:28:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "多瑙河水位下降，露出二战时期德国士兵的遗骸和摩托车。",
+        "发现的遗骸包括两名德国士兵的身份标签、一个婚戒和一枚库班盾徽章。",
+        "这些发现为二战期间失踪士兵的家属带来了希望，可能找到他们的亲人。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle"
+      }
+    },
+    {
+      "title_original": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "title_zh": "哥伦比亚地震后36小时，一名女子从废墟中被救出",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T11:28:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "哥伦比亚西部发生7.4级地震，一名32岁女子被困在废墟下36小时后被救出。",
+        "救援人员经过10小时的努力，终于从一栋倒塌的建筑物下救出女子Daniela Largo。",
+        "地震已造成至少188人死亡，数百人仍然失踪，包括79名确认死亡的佩雷拉市民。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Woman pulled alive from rubble 36 hours after Colombia quake"
+      }
+    },
+    {
+      "title_original": "Halting the march of the African armyworm: a natural cure offers hope to farmers",
+      "title_zh": "非洲军虫的自然治愈方法为农民带来希望",
+      "url": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-12T11:00:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "非洲军虫是东非和南非农民的一种毁灭性害虫，最近发现了一种自然的真菌可以用来对抗它。",
+        "南非科学家Letodi Luki Mathulwe发现，这种真菌可以杀死军虫幼虫。",
+        "这种真菌可能为农民提供了一种新的希望，以对抗这种毁灭性害虫。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Halting the march of the African armyworm: a natural cure offers hope to farmers"
+      }
+    },
+    {
+      "title_original": "Las explicaciones de Trump para justificar el vuelo secreto con el que regresó de la cumbre de la OTAN",
+      "title_zh": "特朗普为秘密飞行返回北约峰会做出解释",
+      "url": "https://elpais.com/videos/2026-08-12/las-explicaciones-de-trump-para-justiticar-el-vuelo-secreto-con-el-que-regreso-de-la-cumbre-de-la-otan.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-08-12T10:44:52+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普返回北约峰会的秘密飞行引起了关注。",
+        "特朗普为此次秘密飞行做出了解释，但具体内容未在文章中提及。",
+        "北约峰会是国际政治中的重要事件，各国领导人在此讨论重要议题。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Las explicaciones de Trump para justificar el vuelo secreto con el que regresó de la cumbre de la OTAN"
+      }
+    },
+    {
+      "title_original": "Ucrania reclama a la OTAN equipos de desminado y protección frente a explosivos",
+      "title_zh": "乌克兰要求北约提供除雷和防爆设备",
+      "url": "https://www.democrata.es/internacional/ucrania-reclama-a-la-otan-equipos-de-desminado-y-proteccion-frente-a-explosivos/",
+      "source": "Demócrata",
+      "source_score": 40,
+      "published_at": "2026-08-12T10:32:50+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰要求北约提供除雷和防爆设备，以应对当前的安全挑战。",
+        "乌克兰目前面临着安全威胁，需要国际支持。",
+        "北约是乌克兰的重要合作伙伴，能够提供军事和技术支持。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Demócrata"
+      ],
+      "all_titles": {
+        "es": "Ucrania reclama a la OTAN equipos de desminado y protección frente a explosivos"
+      }
+    },
+    {
+      "title_original": "聚焦台海 - 2026汉光演习重要新发展：公开纳入美式军事训练 展现台美关系并未松动？",
+      "title_zh": "聚焦台海 - 2026汉光演习重要新发展：公开纳入美式军事训练 展现台美关系并未松动？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20260812-2026%E6%B1%89%E5%85%89%E6%BC%94%E4%B9%A0%E9%87%8D%E8%A6%81%E6%96%B0%E5%8F%91%E5%B1%95-%E5%85%AC%E5%BC%80%E7%BA%B3%E5%85%A5%E7%BE%8E%E5%BC%8F%E5%86%9B%E4%BA%8B%E8%AE%AD%E7%BB%83-%E5%B1%95%E7%8E%B0%E5%8F%B0%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%B9%B6%E6%9C%AA%E6%9D%BE%E5%8A%A8",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-08-12T10:28:54+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "2026年汉光演习中，台湾军队公开纳入了美式军事训练，这是台美关系的一项重要发展。",
+        "此举表明台美关系并未松动，两国在军事合作方面仍然保持着密切的关系。",
+        "汉光演习是台湾军队的一项重要军事演习，旨在提高军队的战斗能力和应对能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "zh": "聚焦台海 - 2026汉光演习重要新发展：公开纳入美式军事训练 展现台美关系并未松动？"
+      }
+    },
+    {
+      "title_original": "شركة سفن حربية تشهد زيادة في الطلب من الشرق الأوسط بعد حرب إيران",
+      "title_zh": "公司的军舰在中东战争后需求增加",
+      "url": "https://www.reuters.com/ar/business/MPVJ3WXP6JNMVBGWGHVMIQ4Q7Q-2026-08-12/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-12T09:31:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "公司的军舰在中东战争后需求增加",
+        "公司的军舰在中东地区的需求增加",
+        "公司的军舰在中东战争后需求增加，具体原因未详"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "شركة سفن حربية تشهد زيادة في الطلب من الشرق الأوسط بعد حرب إيران"
+      }
+    },
+    {
+      "title_original": "Trump confirme avoir changé d'avion après le sommet de l'OTAN en raison d'une menace potentielle.",
+      "title_zh": "特朗普确认因潜在威胁而在北约峰会后换乘飞机",
+      "url": "https://www.bbc.com/afrique/articles/ckg9pyy97v3o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-12T09:14:24+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普确认因潜在威胁而在北约峰会后换乘飞机",
+        "特朗普表示他在北约峰会后因安全原因换乘飞机",
+        "特朗普的换乘飞机行动是因应对潜在威胁而采取的安全措施"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "fr": "Trump confirme avoir changé d'avion après le sommet de l'OTAN en raison d'une menace potentielle."
+      }
+    },
+    {
+      "title_original": "Liban : la peine de mort abolie, une première au Moyen-Orient",
+      "title_zh": "黎巴嫩：废除死刑，在中东地区首次",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260812-liban-la-peine-de-mort-abolie-une-premi%C3%A8re-au-moyen-orient",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-12T09:02:06+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "黎巴嫩废除死刑，这是在中东地区首次",
+        "黎巴嫩的死刑废除标志着该国在人权方面的进步",
+        "黎巴嫩废除死刑的决定受到国际社会的关注"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Liban : la peine de mort abolie, une première au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "Request for assistance by the State Emergency Service of Ukraine: emergency response",
+      "title_zh": "乌克兰国家紧急服务请求援助：紧急响应",
+      "url": "https://www.nato.int/en/news-and-events/articles/news/2026/08/12/request-for-assistance-by-the-state-emergency-service-of-ukraine-emergency-response",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-08-12T08:41:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰国家紧急服务请求国际援助",
+        "乌克兰国家紧急服务面临紧急情况，需要国际支持",
+        "乌克兰国家紧急服务的请求援助行动正在进行中"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "Request for assistance by the State Emergency Service of Ukraine: emergency response"
+      }
+    },
+    {
+      "title_original": "تحرك محدود للأسهم الأوروبية قبل صدور بيانات للتضخم في أمريكا",
+      "title_zh": "欧洲股票在美国通胀数据发布前表现平淡",
+      "url": "https://www.reuters.com/ar/business/ULVJVWO4QJLG3PM3DO2Z2RED3A-2026-08-12/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-12T08:32:09+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "欧洲股票在美国通胀数据发布前表现平淡",
+        "欧洲股票市场在等待美国通胀数据发布的同时保持稳定",
+        "欧洲股票市场的表现将受到美国通胀数据的影响"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "تحرك محدود للأسهم الأوروبية قبل صدور بيانات للتضخم في أمريكا"
+      }
+    },
+    {
+      "title_original": "Even some progressives are happy about Hong’s loss",
+      "title_zh": "一些进步人士对洪的失败感到高兴",
+      "url": "https://www.politico.com/news/2026/08/12/dsa-progressive-francesca-hong-wisconsin-01035101",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-12T02:54:42-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "弗朗西斯卡·洪在威斯康星州的初选中失败，引发了进步人士的指责。",
+        "这次失败是进步运动在本次选举周期中遭遇的首次重大挫折。",
+        "一些进步人士认为，这次失败是由于党内纷争和缺乏团结所致。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Even some progressives are happy about Hong’s loss"
+      }
+    },
+    {
+      "title_original": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
+      "title_zh": "新加坡和韩国因罂粟籽问题下架Trader Joe's调味料",
+      "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T07:44:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "新加坡和韩国由于Trader Joe's的Everything But the Bagel调味料中含有罂粟籽而将其从电子商务平台下架。",
+        "罂粟籽在这两个国家被禁止，因为它们可能在收获过程中被罂粟植物中的液体污染，导致含有鸦片类物质。",
+        "超过20个在线列表的调味料已被移除，新加坡中央毒品局于周三表示。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 09:39 Russland treibt Bau neuer Drohnen-Generation massiv voran +++",
+      "title_zh": "乌克兰战争直播：+++ 09:39 俄罗斯大力推进新一代无人机的建设 +++",
+      "url": "https://www.n-tv.de/politik/09-39-Russland-treibt-Bau-neuer-Drohnen-Generation-massiv-voran-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-12T07:42:08+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯正在大力推进新一代无人机的建设，乌克兰方面则加强了对俄罗斯能源基础设施的攻击。",
+        "波兰民众对乌克兰难民的态度日益趋于保守，67.2%的波兰人支持将失业的乌克兰男性遣返回国。",
+        "乌克兰总统泽连斯基表示，俄罗斯可能正在计划大规模的动员，然而俄罗斯方面并未对此作出明确回应。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 09:39 Russland treibt Bau neuer Drohnen-Generation massiv voran +++"
+      }
+    },
+    {
+      "title_original": "النفط يرتفع مع تزايد المخاوف بشأن الإمدادات في الشرق الأوسط",
+      "title_zh": "油价上涨因中东供应担忧加剧",
+      "url": "https://www.cnbcarabia.com/155583/2026/12/08/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D9%85%D8%B9-%D8%AA%D8%B2%D8%A7%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%A5%D9%85%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "CNBC عربية",
+      "source_score": 75,
+      "published_at": "2026-08-12T07:28:18+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于中东供应担忧加剧，油价上涨，布兰特原油价格上涨0.84%至89.66美元/桶。",
+        "美国和伊朗之间的紧张关系加剧，美国总统特朗普威胁要对伊朗采取强硬措施。",
+        "中东地区的不确定性导致油价波动，投资者对供应中断的担忧日益加剧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "CNBC عربية"
+      ],
+      "all_titles": {
+        "ar": "النفط يرتفع مع تزايد المخاوف بشأن الإمدادات في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Wie Geopolitik Unternehmen unter Druck setzt",
+      "title_zh": "地缘政治如何给企业带来压力",
+      "url": "https://www.vdi-nachrichten.com/wirtschaft/unternehmen/wie-geopolitik-unternehmen-unter-druck-setzt/",
+      "source": "vdi-nachrichten.com",
+      "source_score": 40,
+      "published_at": "2026-08-12T06:01:51+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "地缘政治事件对企业产生了重大影响，导致成本增加、市场分裂和企业战略的变化。",
+        "企业需要具备韧性、区域化和快速决策的能力，以应对地缘政治带来的挑战。",
+        "地缘政治的不确定性使得企业需要更加灵活和适应性强，以应对不断变化的市场环境。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "vdi-nachrichten.com"
+      ],
+      "all_titles": {
+        "de": "Wie Geopolitik Unternehmen unter Druck setzt"
+      }
+    },
+    {
+      "title_original": "Détroit d'Ormuz : les Etats-Unis tirent sur un navire qui tentait de briser le blocus",
+      "title_zh": "霍尔木兹海峡：美国向试图突破封锁的船只开火",
+      "url": "https://www.lesechos.fr/monde/afrique-moyen-orient/detroit-dormuz-les-etats-unis-tirent-sur-un-navire-qui-tentait-de-briser-le-blocus-2246720",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-08-12T05:51:34+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国军队在霍尔木兹海峡向一艘试图突破封锁的船只开火。",
+        "这艘船只试图突破美国及其盟国在该地区实施的封锁。",
+        "此事件发生在霍尔木兹海峡，这是中东油轮的重要航道。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "Détroit d'Ormuz : les Etats-Unis tirent sur un navire qui tentait de briser le blocus"
+      }
+    },
+    {
+      "title_original": "京台学者共研“百年变局加速演进下的台海形势”",
+      "title_zh": "京台学者共研“百年变局加速演进下的台海形势”",
+      "url": "https://m.sohu.com/a/1061851237_123753?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "sohu.com",
+      "source_score": 40,
+      "published_at": "2026-08-12T05:31:12+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "北京和台湾的学者共同研究了“百年变局加速演进下的台海形势”这个话题。",
+        "这一研究旨在探讨台海地区在快速变化的国际局势下的形势。",
+        "学者们希望通过研究找到台海地区的发展趋势和挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "sohu.com"
+      ],
+      "all_titles": {
+        "zh": "京台学者共研“百年变局加速演进下的台海形势”"
+      }
+    },
+    {
+      "title_original": "Thailand suspends gun licences as teen shooter and grandparents he killed are cremated",
+      "title_zh": "泰国暂停枪支许可证发放，青少年枪手和被杀的祖父母被火化",
+      "url": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-12T05:28:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "泰国政府暂停发放枪支许可证，原因是最近发生的学校枪击案。",
+        "一名青少年枪手杀害了他的祖父母和其他人，随后被火化。",
+        "泰国总理呼吁加强枪支管制和制定更严厉的惩罚措施。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Thailand suspends gun licences as teen shooter and grandparents he killed are cremated"
+      }
+    },
+    {
+      "title_original": "Tres aviones, un contenedor de catering y una amenaza de Irán: así escapó Trump de la cumbre de la OTAN de Ankara",
+      "title_zh": "三架飞机，一辆餐饮车和伊朗的威胁：特朗普如何逃离安卡拉的北约峰会",
+      "url": "https://elpais.com/expres/2026-08-12/tres-aviones-un-contenedor-de-catering-y-una-amenaza-de-iran-asi-escapo-trump-de-la-cumbre-de-la-otan-de-ankara.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-08-12T05:25:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "特朗普利用三架飞机和一辆餐饮车逃离了安卡拉的北约峰会。",
+        "据报道，伊朗的威胁是特朗普逃离峰会的原因之一。",
+        "特朗普的逃离引起了广泛的关注和猜测。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Tres aviones, un contenedor de catering y una amenaza de Irán: así escapó Trump de la cumbre de la OTAN de Ankara"
+      }
+    },
     {
       "title_original": "Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China",
       "title_zh": "台风海豚登陆北京，中国北部和中部地区将迎来暴雨",
@@ -26,6 +751,31 @@
       ],
       "all_titles": {
         "en": "Mass evacuations in Beijing as Typhoon Dolphin brings more torrential rain to China"
+      }
+    },
+    {
+      "title_original": "特朗普证实参加北约峰会后曾秘密换乘飞机",
+      "title_zh": "特朗普证实参加北约峰会后曾秘密换乘飞机",
+      "url": "https://www.news.cn/world/20260812/3fa63f4ee5bd442eb623264366088863/c.html",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-08-12T04:32:40+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国总统特朗普证实，他在参加土耳其安卡拉北约峰会后，曾秘密换乘军用飞机离开。",
+        "特朗普表示，这是因为美国特勤局和军方考虑到存在威胁，希望他乘坐另一架飞机。",
+        "据报道，特朗普在安卡拉机场登上旧“空军一号”，但实际上他被秘密安排乘坐餐饮转运车离开飞机，改乘由波音757改装的行政专机C-32A离开。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "zh": "特朗普证实参加北约峰会后曾秘密换乘飞机"
       }
     },
     {
@@ -101,6 +851,31 @@
       ],
       "all_titles": {
         "en": "Trump says he switched planes after Nato summit because of possible threat"
+      }
+    },
+    {
+      "title_original": "ロシアが北朝鮮製ミサイルを使用とゼレンスキー大統領　南部で7人殺害される",
+      "title_zh": "泽连斯基总统称俄罗斯使用朝鲜制导弹，南部7人被杀",
+      "url": "https://www.bbc.com/japanese/articles/cq89p2ve8xdo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-12T03:39:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基称，俄罗斯使用朝鲜制导弹攻击乌克兰南部，造成7人死亡。",
+        "泽连斯基表示，俄罗斯已经无法在没有朝鲜援助的情况下继续进行战争。",
+        "据报道，乌克兰南部城市扎波罗热遭到俄罗斯导弹袭击，造成7人死亡，24人受伤。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ロシアが北朝鮮製ミサイルを使用とゼレンスキー大統領　南部で7人殺害される"
       }
     },
     {
