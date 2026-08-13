@@ -1,0 +1,407 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T05:30:53.899092+00:00",
+  "count": 16,
+  "articles": [
+    {
+      "title_original": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "title_zh": "诺贝尔和平奖得主告诉BBC，普京无法再声称在乌克兰取得胜利",
+      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T04:55:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "诺贝尔和平奖得主德米特里·穆拉托夫在接受BBC采访时表示，克里姆林宫领导人只能摧毁乌克兰，而不能征服它。",
+        "乌克兰战争已经进入第五年。",
+        "穆拉托夫的言论反映了乌克兰战争的严峻局势和国际社会的担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC"
+      }
+    },
+    {
+      "title_original": "Japan protests Putin visit to disputed islands",
+      "title_zh": "日本抗议普京访问有争议的岛屿",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T04:50:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "日本外务省长茂木敏充表示，日本对俄罗斯总统普京访问有争议的岛屿表示强烈抗议",
+        "普京访问了俄罗斯控制的南千岛群岛中的伊图鲁普岛",
+        "日本和俄罗斯对这些岛屿的主权存在争议"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Japan protests Putin visit to disputed islands"
+      }
+    },
+    {
+      "title_original": "BTS star V reveals hearing loss battle during livestream",
+      "title_zh": "BTS成员V在直播中透露自己听力损失的困扰",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T04:09:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "BTS成员V在直播中透露自己已经接受听力损失的治疗。",
+        "V表示自己的右耳听力仅剩30%，左耳听力正常。",
+        "V正在服用药物并定期去医院检查。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "BTS star V reveals hearing loss battle during livestream"
+      }
+    },
+    {
+      "title_original": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
+      "title_zh": "赞比亚大选受到现任总统的死对头的阴影影响",
+      "url": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-13T04:00:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "赞比亚现任总统哈凯恩德·希奇莱马正在寻求连任，但他与已故前总统埃德加·伦古的家族之间的矛盾仍然存在。",
+        "希奇莱马在2021年以压倒性优势击败伦古成为总统。",
+        "伦古于2025年去世，但他的家族仍然是赞比亚政治中的重要力量。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Zambia elections haunted by ghost of incumbent president’s arch-rival"
+      }
+    },
+    {
+      "title_original": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+      "title_zh": "乌克兰黑海港口袭击击中俄罗斯主要谷物出口终端",
+      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T03:28:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰对俄罗斯黑海港口诺沃罗西斯克发动了无人机和导弹袭击",
+        "袭击损坏了两个主要的谷物出口终端，并击中了俄罗斯最后一个大型黑海海军基地",
+        "乌克兰总统泽连斯基表示，袭击是对俄罗斯侵略的回应"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Major Russian grain export terminals hit in Ukraine Black Sea port attack"
+      }
+    },
+    {
+      "title_original": "Twitch users can now block Amazon from using their content to train AI",
+      "title_zh": "Twitch用户现在可以阻止亚马逊使用他们的内容来训练AI",
+      "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T02:46:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Twitch允许用户阻止亚马逊使用他们的内容来训练AI模型。",
+        "用户可以选择退出默认设置，否则亚马逊将使用他们的流媒体、剪辑、图像、聊天和其他频道内容来训练AI。",
+        "Twitch的首席产品官迈克·明顿表示，数据收集用于AI训练是行业标准。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Twitch users can now block Amazon from using their content to train AI"
+      }
+    },
+    {
+      "title_original": "Australian army whistleblower released on parole after more than two years in jail",
+      "title_zh": "澳大利亚陆军举报人在监狱服刑两年多后获准假释",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw7vdwjxyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T02:23:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "澳大利亚陆军举报人大卫·麦克布莱德因泄露军事机密而被判入狱",
+        "他被判处五年八个月的监禁，但在服刑27个月后获准假释",
+        "麦克布莱德的行为导致了一项调查，发现澳大利亚军队在阿富汗战争中非法杀害了39名平民"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Australian army whistleblower released on parole after more than two years in jail"
+      }
+    },
+    {
+      "title_original": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "title_zh": "世界卫生组织总干事称，埃博拉疫情可能成为有史以来最致命的",
+      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T01:31:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "世界卫生组织总干事特德罗斯·阿达诺姆·盖布雷耶苏斯表示，当前在刚果民主共和国爆发的埃博拉疫情可能成为有史以来最致命的。",
+        "疫情已经导致至少4300例病例和2000多人死亡。",
+        "世界卫生组织希望在三个月内控制疫情的传播，但警告这并不意味着疫情会完全结束。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ebola outbreak on track to be deadliest ever, WHO chief says"
+      }
+    },
+    {
+      "title_original": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+      "title_zh": "特拉维斯·凯尔西与泰勒·斯威夫特结婚",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T01:19:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国橄榄球运动员特拉维斯·凯尔西与泰勒·斯威夫特结婚",
+        "婚礼于7月3日在纽约麦迪逊广场花园举行",
+        "凯尔西称婚礼是他一生中最美好的夜晚"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'"
+      }
+    },
+    {
+      "title_original": "Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC",
+      "title_zh": "亚当·希夫谈民主党的“失败信息”、AOC和AIPAC",
+      "url": "https://www.politico.com/video/2026/08/12/adam-schiff-on-democrats-losing-message-aoc-and-aipac-2135214",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-12T19:22:46-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "亚当·希夫讨论了民主党的“失败信息”。",
+        "他还谈到了AOC和AIPAC的问题。",
+        "亚当·希夫的言论引发了人们对民主党未来发展的关注。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Adam Schiff on Democrats’ ‘losing message,’ AOC and AIPAC"
+      }
+    },
+    {
+      "title_original": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "title_zh": "特朗普表示白宫新闻秘书卡罗琳·利维特将离职",
+      "url": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T22:58:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "白宫新闻秘书卡罗琳·利维特将在月底离职，特朗普总统宣布。",
+        "利维特表示，她将离开白宫是为了陪伴年幼的孩子和家人。",
+        "利维特28岁时成为白宫新闻秘书，是历史上最年轻的人担任这一职位。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump says White House press secretary Karoline Leavitt to leave post"
+      }
+    },
+    {
+      "title_original": "Thousands of Canadians call for US ambassador's expulsion",
+      "title_zh": "数千名加拿大人呼吁驱逐美国大使",
+      "url": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T22:56:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "超过7万名加拿大人签署了一份请愿书，呼吁驱逐美国驻加拿大大使皮特·霍克斯特拉",
+        "请愿书指控霍克斯特拉干预加拿大国内政治",
+        "加拿大和美国目前正在进行贸易谈判"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Thousands of Canadians call for US ambassador's expulsion"
+      }
+    },
+    {
+      "title_original": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "title_zh": "哥伦比亚地震36小时后，一名女子从废墟中被救出",
+      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T22:41:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "一名32岁的女子在哥伦比亚地震后被困在废墟中36小时后被救出。",
+        "地震造成至少265人死亡，496人失踪，根据哥伦比亚总统阿贝拉多·德拉埃斯皮列拉的说法。",
+        "被救出的女子名叫Daniela Largo，她被困在一栋倒塌的建筑物下，经过10小时的救援工作后被找到。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Woman pulled alive from rubble 36 hours after Colombia quake"
+      }
+    },
+    {
+      "title_original": "Why are 'human fridges' being sold in Japan?",
+      "title_zh": "为什么日本正在销售“人体冰箱”？",
+      "url": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T22:07:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本正在销售一种称为“人体冰箱”的设备，以帮助人们应对酷热的夏季。",
+        "这种设备被称为“Do Hiemon”或“冷却箱”，可以在公共场所和商业场所使用。",
+        "日本近两个月有超过53,000人因中暑接受治疗，79人死亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Why are 'human fridges' being sold in Japan?"
+      }
+    },
+    {
+      "title_original": "Three men will be executed on the same day as death penalties rise in US",
+      "title_zh": "美国死刑执行人数上升，三名男子将在同一天被执行死刑",
+      "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-12T20:52:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "三名男子安东尼·达雷尔·海因斯、杰里米·威廉姆斯和卡洛斯·库埃斯塔-罗德里格斯将在同一天被执行死刑。",
+        "这是16年来美国首次在同一天执行三次死刑。",
+        "近年来，美国死刑执行人数有所上升，2025年执行人数是2021年的四倍多。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Three men will be executed on the same day as death penalties rise in US"
+      }
+    },
+    {
+      "title_original": "Former Mexican governor charged in case of 43 students who vanished in 2014",
+      "title_zh": "墨西哥前州长被指控与2014年43名学生失踪案有关",
+      "url": "https://www.theguardian.com/world/2026/aug/12/former-mexican-governor-charged-in-case-of-43-students-who-vanished-in-2014",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-12T18:46:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "墨西哥前州长安赫尔·阿吉雷被正式指控与2014年43名学生失踪案有关。",
+        "阿吉雷被指控下令销毁可能揭露学生失踪真相的监控录像带。",
+        "2014年9月26日，43名学生从Ayotzinapa教师培训学院失踪，案件成为墨西哥残酷的贩毒集团暴力和政府不作为的象征。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Former Mexican governor charged in case of 43 students who vanished in 2014"
+      }
+    }
+  ]
+}
