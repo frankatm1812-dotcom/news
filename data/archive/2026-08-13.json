@@ -1,8 +1,658 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T05:30:53.899092+00:00",
-  "count": 16,
+  "generated_at": "2026-08-13T14:48:10.506357+00:00",
+  "count": 46,
   "articles": [
+    {
+      "title_original": "「完全な侮辱」とロシアを非難 ウクライナのシビハ外相、日本と連帯",
+      "title_zh": "「完全な侮辱」とロシアを非難 ウクライナのシビハ外相、日本と連帯",
+      "url": "https://www.nikkei.com/article/DGXZQOCB139C80T10C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-13T14:37:57+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰外交部长西比哈指责俄罗斯总统普京访问北方领土·择捉岛是对日本的完全侮辱。",
+        "西比哈外交部长呼吁国际社会加大对俄罗斯的制裁压力，并表示日本的主权基于历史事实和国际法。",
+        "乌克兰外交部长还批评俄罗斯在乌克兰的侵略行为，指出俄罗斯在世界各地都使用帝国主义的手段，占领外国土地，威胁邻国。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "「完全な侮辱」とロシアを非難 ウクライナのシビハ外相、日本と連帯"
+      }
+    },
+    {
+      "title_original": "Zambians voting as president bids for second term",
+      "title_zh": "赞比亚总统寻求连任，选民投票",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T14:29:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "赞比亚正在举行总统和议会选举，超过800万名选民注册投票。",
+        "现任总统哈凯因德·希奇莱马寻求连任，主要对手是前部长布莱恩·蒙杜比莱。",
+        "选举被视为对赞比亚作为非洲最稳定的民主国家之一的声誉的考验，人们担心政治自由受到损害。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zambians voting as president bids for second term"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Wende in der Kriegskommunikation – Krim-Stadt nach Angriff ohne Strom",
+      "title_zh": "乌克兰战争最新：克里米亚城市遭袭后停电",
+      "url": "https://www.fr.de/politik/oelraffinerie-in-russland-ukraine-krieg-aktuell-kiew-attackiert-zr-94435946.html",
+      "source": "fr.de",
+      "source_score": 40,
+      "published_at": "2026-08-13T13:33:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争中，克里米亚城市塞瓦斯托波尔遭到袭击，导致停电。",
+        "乌克兰总统泽连斯基呼吁美国提供爱国者导弹，以抵御俄罗斯的攻击。",
+        "俄罗斯总统普京威胁要对西方采取镜像措施，针对俄罗斯的影子舰队。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "fr.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Wende in der Kriegskommunikation – Krim-Stadt nach Angriff ohne Strom"
+      }
+    },
+    {
+      "title_original": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands",
+      "title_zh": "日本强烈谴责普京访问有争议的库页岛",
+      "url": "https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-13T12:56:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "日本政府强烈谴责俄罗斯总统普京访问有争议的库页岛，称其为“完全不可接受”的行为。",
+        "日本外务省长茂木敏充召见俄罗斯大使尼古拉·诺兹德列夫，表达了日本的强烈不满。",
+        "日本首相高桥拓也称，库页岛是日本的固有领土，基于国际法，日本对此拥有主权。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘Absolutely unacceptable’: Japan condemns visit by Vladimir Putin to disputed Kuril Islands"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : l’Iran réaffirme son contrôle d’Ormuz ; un journaliste palestinien arrêté",
+      "title_zh": "中东战争：伊朗重申对霍尔木兹海峡的控制；一名巴勒斯坦记者被捕",
+      "url": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-166-moyen-orient-bilan-resume-aujourdhui-20260813",
+      "source": "La Croix",
+      "source_score": 40,
+      "published_at": "2026-08-13T12:44:32+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗重申对霍尔木兹海峡的控制，美国总统特朗普此前曾声称美国控制了该海峡。",
+        "以色列军队在加沙地带进行空袭，造成两名巴勒斯坦人死亡，包括一名警察。",
+        "一名巴勒斯坦记者被以色列军队逮捕，据称他涉嫌宣传恐怖主义活动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "La Croix"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : l’Iran réaffirme son contrôle d’Ormuz ; un journaliste palestinien arrêté"
+      }
+    },
+    {
+      "title_original": "L’administration Trump a-t-elle recours à des corsaires au large de l’Amérique latine ?",
+      "title_zh": "特朗普政府是否在拉丁美洲使用私掠船？",
+      "url": "https://legrandcontinent.eu/fr/2026/08/13/ladministration-trump-a-t-elle-recours-a-des-corsaires-au-large-de-lamerique-latine/",
+      "source": "Le Grand Continent",
+      "source_score": 40,
+      "published_at": "2026-08-13T12:34:08+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国政府在拉丁美洲开展了一项名为“南方之矛”的行动，旨在打击南美洲和美国之间的毒品贩运。",
+        "在此行动中，至少有66次袭击针对涉嫌参与毒品贩运的船只，造成至少221人死亡。",
+        "有报道称，美国政府可能使用私掠船进行这些袭击，引发了人们对此类行动的质疑和担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Le Grand Continent"
+      ],
+      "all_titles": {
+        "fr": "L’administration Trump a-t-elle recours à des corsaires au large de l’Amérique latine ?"
+      }
+    },
+    {
+      "title_original": "أزمة الشرق الأوسط تكبّد هاباج لويد 600 مليون دولار",
+      "title_zh": "中东危机使Hapag-Lloyd公司损失6亿美元",
+      "url": "https://www.aljazeera.net/ebusiness/2026/8/13/%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%AA%D9%83%D8%A8%D8%AF-%D9%87%D8%A7%D8%A8%D8%A7%D8%AC-%D9%84%D9%88%D9%8A%D8%AF-600",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-13T12:27:33+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于中东危机，德国航运公司Hapag-Lloyd在第二季度遭受了6亿美元的损失。",
+        "公司的净利润在第二季度下降至830万美元，相比去年同期的3060万美元大幅减少。",
+        "中东危机导致公司的运营成本增加，包括燃油、保险和仓储费用。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "أزمة الشرق الأوسط تكبّد هاباج لويد 600 مليون دولار"
+      }
+    },
+    {
+      "title_original": "What would a North Korean surge mean for Ukraine war?",
+      "title_zh": "朝鲜军队增援对乌克兰战争意味着什么？",
+      "url": "https://www.dw.com/en/what-would-a-north-korean-surge-mean-for-ukraine-war/a-78350896",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-08-13T11:46:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "据报道，朝鲜计划向俄罗斯派遣3万至5万名军队，以支持俄罗斯在乌克兰的战争。",
+        "乌克兰总统泽连斯基表示，朝鲜军队的增援将使俄罗斯在乌克兰的军事行动更加强大。",
+        "朝鲜军队在乌克兰的参与可能会使冲突升级，并对地区安全产生重大影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "en": "What would a North Korean surge mean for Ukraine war?"
+      }
+    },
+    {
+      "title_original": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "title_zh": "2027年欧洲歌唱大赛将在保加利亚布尔加斯举行",
+      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T11:10:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "2027年欧洲歌唱大赛将于5月12日至15日在保加利亚布尔加斯举行。",
+        "此次大赛将在布尔加斯的新体育和娱乐场馆举行，保加利亚国家电视台将负责组织和播出。",
+        "保加利亚赢得了2026年欧洲歌唱大赛，今年的比赛将是保加利亚首次举办此项活动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria"
+      }
+    },
+    {
+      "title_original": "UK defends seizing shadow fleet tanker after Putin threat",
+      "title_zh": "英国政府为扣押俄罗斯“影子舰队”油轮辩护",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T11:05:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "英国政府扣押了一艘俄罗斯“影子舰队”的油轮，俄罗斯总统普京威胁要“以同样的方式回应”。",
+        "这艘名为Smyrtos的油轮已被英国皇家海军拦截和登船，船长Ajay Pant被指控违反俄罗斯制裁。",
+        "英国政府表示，扣押油轮是为了破坏和阻止“影子舰队”的有害海上活动，这些活动正在为俄罗斯对乌克兰的战争提供燃料。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "UK defends seizing shadow fleet tanker after Putin threat"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : l'Iran affirme contrôler le détroit d'Ormuz après les déclarations de Trump sur un contrôle américain",
+      "title_zh": "伊朗声称控制霍尔木兹海峡，回应特朗普关于美国控制的声明",
+      "url": "https://www.rtbf.be/article/guerre-au-moyen-orient-l-iran-affirme-controler-le-detroit-d-ormuz-apres-les-declarations-de-trump-sur-un-controle-americain-11769865",
+      "source": "RTBF",
+      "source_score": 55,
+      "published_at": "2026-08-13T10:42:15+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "伊朗一位高级官员表示，霍尔木兹海峡仍然处于伊朗的控制之下，尽管美国总统特朗普声称美国对该海峡拥有“完全控制权”。",
+        "特朗普此前表示，美国对霍尔木兹海峡拥有“完全控制权”，并警告伊朗不要采取任何行动。",
+        "伊朗方面强调，霍尔木兹海峡是国际重要的航运通道，伊朗将继续维护其安全和稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "RTBF"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : l'Iran affirme contrôler le détroit d'Ormuz après les déclarations de Trump sur un contrôle américain"
+      }
+    },
+    {
+      "title_original": "A Taïwan, des agences gouvernementales ont été la cible de cyberattaques provoquées par des agents d’intelligence artificielle",
+      "title_zh": "台湾政府机构遭到人工智能引发的网络攻击",
+      "url": "https://www.lemonde.fr/international/article/2026/08/13/a-taiwan-des-agences-gouvernementales-ont-ete-la-cible-de-cyberattaques-provoquees-par-des-agents-d-intelligence-artificielle_6745789_3210.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-08-13T10:17:04+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾政府机构遭到人工智能引发的网络攻击，攻击者利用人工智能技术实施了复杂的网络攻击。",
+        "台湾政府表示，网络攻击主要针对政府机构和重要基础设施，目前尚未发现重大损害。",
+        "台湾方面正在加强网络安全措施，防止类似攻击再次发生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "A Taïwan, des agences gouvernementales ont été la cible de cyberattaques provoquées par des agents d’intelligence artificielle"
+      }
+    },
+    {
+      "title_original": "South Korean airport becomes busiest in world for global traffic amid Iran war",
+      "title_zh": "韩国仁川机场因伊朗战争成为全球最繁忙机场",
+      "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-13T09:45:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "韩国仁川机场因伊朗战争导致中东航线受阻，成为全球最繁忙的机场，今年上半年国际乘客量达到3839万人。",
+        "伊朗战争导致中东地区航线受阻，许多航班被迫绕行，仁川机场因此成为重要的中转枢纽。",
+        "仁川机场的繁忙程度预计将继续增加，机场管理方正在采取措施应对增长的客流量。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "South Korean airport becomes busiest in world for global traffic amid Iran war"
+      }
+    },
+    {
+      "title_original": "ロシア軍、ウクライナ最大のドナウ川穀物港を攻撃 火災発生",
+      "title_zh": "俄罗斯军队袭击乌克兰最大的多瑙河谷物港口，引发火灾",
+      "url": "https://jp.reuters.com/world/ukraine/5EFNO7AMDZM6FNN4FONZXTJUAY-2026-08-13/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-13T09:43:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯军队袭击了乌克兰最大的一座多瑙河谷物港口，导致火灾发生。",
+        "这次袭击是俄乌冲突的最新发展之一，冲突持续了数月。",
+        "袭击的具体情况和损失仍在调查中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍、ウクライナ最大のドナウ川穀物港を攻撃 火災発生"
+      }
+    },
+    {
+      "title_original": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "title_zh": "特朗普内阁成员留在诱饵飞机上，总统悄然离开",
+      "url": "https://www.bbc.com/news/articles/c4g306eln8wo",
+      "source": "bbc.com",
+      "source_score": 95,
+      "published_at": "2026-08-13T09:40:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普总统曾秘密地从一架飞机上转移到另一架飞机上，留下部分内阁成员在原来的飞机上。",
+        "这次行动是出于对安全威胁的担忧，具体威胁内容未披露。",
+        "留在原飞机上的内阁成员包括国务卿和财政部长，他们是为了维持政府职责顺序而留下的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "bbc.com"
+      ],
+      "all_titles": {
+        "en": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit"
+      }
+    },
+    {
+      "title_original": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action",
+      "title_zh": "中非共和国法国大使因涉嫌在官方住所不当行为面临纪律处分",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T08:15:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "法国驻中非共和国大使因涉嫌在官方住所不当行为而面临纪律处分。",
+        "指控称大使曾将多名女性带入官方住所，并与其中一些人发生性关系。",
+        "法国外交部已经启动了对大使的调查和纪律程序。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "French ambassador to CAR accused of misconduct at official residence faces disciplinary action"
+      }
+    },
+    {
+      "title_original": "أسهم أوروبا ترتفع مع تراجع النفط معوضا أثر التوتر الجيوسياسي",
+      "title_zh": "欧洲股市上涨，油价下跌，地缘政治紧张局势缓解",
+      "url": "https://www.reuters.com/ar/business/FDXDASRUKFOIJB6TNOZGDZXUWQ-2026-08-13/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-13T08:14:18+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧洲股市因地缘政治紧张局势缓解而上涨。",
+        "油价下跌，可能是由于地缘政治紧张局势的缓解所致。",
+        "地缘政治紧张局势的变化对全球金融市场产生了影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "أسهم أوروبا ترتفع مع تراجع النفط معوضا أثر التوتر الجيوسياسي"
+      }
+    },
+    {
+      "title_original": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "title_zh": "更多军队将被派往被以色列定居者围困的西岸村庄",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T08:12:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列军队将向被以色列定居者围困的西岸村庄增派军队。",
+        "围困是由以色列定居者对巴勒斯坦家庭的攻击引起的，导致这些家庭被困在家中。",
+        "情况正在升级，美国大使已要求以色列政府采取行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "More troops to be sent to West Bank village besieged by Israeli settlers"
+      }
+    },
+    {
+      "title_original": "(台海观澜）台农深耕宁德霞浦沃土共兴现代农业",
+      "title_zh": "(台海观澜）台农深耕宁德霞浦沃土共兴现代农业",
+      "url": "http://www.fj.chinanews.com.cn/news/2026/2026-08-13/589084.html",
+      "source": "fj.chinanews.com.cn",
+      "source_score": 40,
+      "published_at": "2026-08-13T07:13:27+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台农深耕宁德霞浦沃土共兴现代农业",
+        "台湾农民在宁德霞浦发展现代农业",
+        "台湾和宁德霞浦的农业合作"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "fj.chinanews.com.cn"
+      ],
+      "all_titles": {
+        "zh": "(台海观澜）台农深耕宁德霞浦沃土共兴现代农业"
+      }
+    },
+    {
+      "title_original": "Indian actor's video with endangered gibbon sparks investigation",
+      "title_zh": "印度演员与濒危长臂猿视频引发调查",
+      "url": "https://www.bbc.co.uk/news/articles/c9q9351yp1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T07:05:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "印度演员Vikram与濒危长臂猿的视频引发调查",
+        "视频显示Vikram拥抱和玩耍长臂猿",
+        "印度野生动物官员正在调查长臂猿如何到达私人住宅"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Indian actor's video with endangered gibbon sparks investigation"
+      }
+    },
+    {
+      "title_original": "El PIB de Reino Unido repunta en junio, impulsado por la geopolítica, el Mundial y el buen tiempo",
+      "title_zh": "英国GDP在六月份回升，推动因素包括地缘政治、世界杯和好天气",
+      "url": "https://es.tradingview.com/news/reuters.com,2026:newsml_L6N44A0F1:0/",
+      "source": "TradingView",
+      "source_score": 40,
+      "published_at": "2026-08-13T07:03:19+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "英国GDP在六月份回升",
+        "地缘政治、世界杯和好天气推动了英国GDP的回升",
+        "英国经济正在经历复苏"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "TradingView"
+      ],
+      "all_titles": {
+        "es": "El PIB de Reino Unido repunta en junio, impulsado por la geopolítica, el Mundial y el buen tiempo"
+      }
+    },
+    {
+      "title_original": "Russland-Ukraine-Krieg: Kyjiw greift Schwarzmeerküste und Krim mit Drohnen an",
+      "title_zh": "俄罗斯-乌克兰战争：基辅用无人机袭击黑海沿岸和克里米亚",
+      "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-kyjiw-greift-schwarzmeerkueste-und-krim-mit-drohnen-an-a-445f9045-f5e1-4340-8387-fea998356806",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-08-13T06:13:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰用无人机袭击俄罗斯黑海沿岸和克里米亚",
+        "袭击目标包括俄罗斯海军基地和港口",
+        "乌克兰总统泽连斯基确认了袭击"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Russland-Ukraine-Krieg: Kyjiw greift Schwarzmeerküste und Krim mit Drohnen an"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 07:58 Putin provoziert Japan mit Besuch auf Kurilen-Inseln +++",
+      "title_zh": "乌克兰战争直播：普京访问千岛群岛挑衅日本",
+      "url": "https://www.n-tv.de/politik/07-58-Putin-provoziert-Japan-mit-Besuch-auf-Kurilen-Inseln-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-13T06:00:32+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京访问千岛群岛挑衅日本",
+        "乌克兰总统泽连斯基请求美国提供更多的爱国者导弹",
+        "美国军队在德国的演习中被乌克兰无人机击败"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 07:58 Putin provoziert Japan mit Besuch auf Kurilen-Inseln +++"
+      }
+    },
+    {
+      "title_original": "En Allemagne, la guerre au Moyen-Orient booste les ventes d'électriques",
+      "title_zh": "德国中东战争促进电动车销量",
+      "url": "https://www.autoplus.fr/environnement/en-allemagne-la-guerre-au-moyen-orient-booste-les-ventes-delectriques-1461042.html",
+      "source": "autoplus.fr",
+      "source_score": 40,
+      "published_at": "2026-08-13T06:00:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德国中东战争导致油价上涨，促进电动车销量增长。",
+        "据Huk-Coburg的一项研究，二季度12%的德国车主将燃油车换成了电动车。",
+        "这项研究还发现，长途驾驶者更倾向于购买电动车。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "autoplus.fr"
+      ],
+      "all_titles": {
+        "fr": "En Allemagne, la guerre au Moyen-Orient booste les ventes d'électriques"
+      }
+    },
+    {
+      "title_original": "“伊斯兰版北约”成立，美国中东“保护伞”褪色？",
+      "title_zh": "“伊斯兰版北约”成立，美国中东“保护伞”褪色？",
+      "url": "https://news.youth.cn/jsxw/202608/t20260813_16813680.htm",
+      "source": "中青网",
+      "source_score": 40,
+      "published_at": "2026-08-13T05:46:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "近期，伊斯兰国家组织成立了“伊斯兰版北约”，这可能会改变中东地区的权力平衡。",
+        "美国在中东地区的影响力可能会减弱，伊斯兰国家将更加独立。",
+        "这一变化可能会对全球政治和经济产生深远影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "中青网"
+      ],
+      "all_titles": {
+        "zh": "“伊斯兰版北约”成立，美国中东“保护伞”褪色？"
+      }
+    },
+    {
+      "title_original": "تايوان تحاكي كسر حصار بحري صيني",
+      "title_zh": "台湾模拟打破中国海上封锁",
+      "url": "https://www.alaraby.co.uk/politics/%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%AA%D8%AD%D8%A7%D9%83%D9%8A-%D9%83%D8%B3%D8%B1-%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A8%D8%AD%D8%B1%D9%8A-%D8%B5%D9%8A%D9%86%D9%8A",
+      "source": "العربي الجديد",
+      "source_score": 40,
+      "published_at": "2026-08-13T05:31:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾近期进行了海上军事演习，模拟打破中国海上封锁。",
+        "此次演习旨在展示台湾的军事实力和应对中国压力的能力。",
+        "台湾与中国的关系日益紧张，双方在海上权益和安全问题上存在分歧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "العربي الجديد"
+      ],
+      "all_titles": {
+        "ar": "تايوان تحاكي كسر حصار بحري صيني"
+      }
+    },
     {
       "title_original": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
       "title_zh": "诺贝尔和平奖得主告诉BBC，普京无法再声称在乌克兰取得胜利",
@@ -51,6 +701,31 @@
       ],
       "all_titles": {
         "en": "Japan protests Putin visit to disputed islands"
+      }
+    },
+    {
+      "title_original": "Taiwán ejecuta maniobras de \"contrabloqueo\" marítimo ante la creciente presión de China",
+      "title_zh": "台湾执行海上“反封锁”演习应对中国日益增长的压力",
+      "url": "https://www.abc.es/internacional/taiwan-ejecuta-maniobras-contrabloqueo-maritimo-ante-creciente-20260813062154-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-08-13T04:21:58+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾近期进行了海上“反封锁”演习，以应对中国日益增长的压力。",
+        "此次演习模拟了台湾海军护送一艘货船的场景，货船运载着重要物资。",
+        "台湾与中国的关系日益紧张，双方在海上权益和安全问题上存在分歧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Taiwán ejecuta maniobras de \"contrabloqueo\" marítimo ante la creciente presión de China"
       }
     },
     {
@@ -104,6 +779,56 @@
       }
     },
     {
+      "title_original": "تايوان تحاكي التصدي لحصار بحري صيني",
+      "title_zh": "台湾模拟应对中国海上封锁",
+      "url": "https://www.reuters.com/ar/world/HGVW7ER6YRI2ZLBC7WCPLNPD64-2026-08-13/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-13T03:54:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾正在模拟应对中国海上封锁的措施。",
+        "此次模拟是为了应对中国可能对台湾实施的海上封锁。",
+        "台湾方面正在采取措施加强海上防御和应急准备。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "تايوان تحاكي التصدي لحصار بحري صيني"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: ‘With precision, as planned’ – Kyiv outlines battlefield gains",
+      "title_zh": "乌克兰战争简报：基辅概述战场上的收获",
+      "url": "https://www.theguardian.com/world/2026/aug/13/ukraine-war-briefing-kyiv-outlines-battlefield-gains",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-13T03:45:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基表示，乌克兰军队已经收复了 745 平方公里的俄罗斯占领土。",
+        "乌克兰军队在 Oleksandrivskyi 地区实施了有效的进攻行动，俄罗斯军队损失惨重。",
+        "乌克兰军队还对俄罗斯的黑海舰队基地发动了攻击，击中了多艘俄罗斯军舰。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: ‘With precision, as planned’ – Kyiv outlines battlefield gains"
+      }
+    },
+    {
       "title_original": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
       "title_zh": "乌克兰黑海港口袭击击中俄罗斯主要谷物出口终端",
       "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
@@ -126,6 +851,33 @@
       ],
       "all_titles": {
         "en": "Major Russian grain export terminals hit in Ukraine Black Sea port attack"
+      }
+    },
+    {
+      "title_original": "ウクライナが黒海沿岸の港湾攻撃、ロシアの穀物輸出ターミナルや海軍基地など",
+      "title_zh": "乌克兰袭击黑海沿岸港口，俄罗斯谷物出口终端和海军基地等",
+      "url": "https://www.bbc.com/japanese/articles/cj9dprw0x8go",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-13T03:21:16+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰对俄罗斯黑海沿岸港口诺沃罗西斯克发动了袭击，击中了两座主要的谷物出口终端。",
+        "袭击还击中了俄罗斯的黑海舰队基地，多艘俄罗斯军舰受损。",
+        "乌克兰总统泽连斯基表示，这次袭击是对俄罗斯侵略行为的回应。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC World",
+        "BBC"
+      ],
+      "all_titles": {
+        "en": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+        "ja": "ウクライナが黒海沿岸の港湾攻撃、ロシアの穀物輸出ターミナルや海軍基地など"
       }
     },
     {
