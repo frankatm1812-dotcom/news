@@ -1,8 +1,592 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T05:20:29.561792+00:00",
-  "count": 33,
+  "generated_at": "2026-08-14T14:38:45.463180+00:00",
+  "count": 60,
   "articles": [
+    {
+      "title_original": "الصين تصف تدريبات عسكرية سنوية تجريها تايوان بأنها \"استعراض فارغ\"",
+      "title_zh": "中国称台湾年度军事演习为“空洞的炫耀”",
+      "url": "https://www.reuters.com/ar/world/2WVCXM5PH5LZ3L7QX7KDUIZ6OE-2026-08-14/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-14T14:13:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国对台湾的年度军事演习做出回应，称其为“空洞的炫耀”。",
+        "此次军事演习是台湾为展示军事实力而举行的年度活动。",
+        "中国对此次演习的评论引发了人们对地区紧张局势的关注。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الصين تصف تدريبات عسكرية سنوية تجريها تايوان بأنها \"استعراض فارغ\""
+      }
+    },
+    {
+      "title_original": "ماذا يحدث داخل حاملة الطائرات \"أبراهام لينكولن\" الموجودة في الشرق الأوسط؟",
+      "title_zh": "东方的“亚伯拉罕·林肯”号航母内部发生了什么？",
+      "url": "https://www.bbc.com/arabic/articles/cn4nd09x250o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-14T14:05:59+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "BBC报道了关于“亚伯拉罕·林肯”号航母在东方的活动情况。",
+        "航母内的活动包括飞行作业和船员训练等。",
+        "报道没有提供更多关于航母任务或使命的详细信息。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "ماذا يحدث داخل حاملة الطائرات \"أبراهام لينكولن\" الموجودة في الشرق الأوسط؟"
+      }
+    },
+    {
+      "title_original": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
+      "title_zh": "俄罗斯试图破坏摩尔多瓦的亲西方政府",
+      "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+      "source": "The New York Times",
+      "source_score": 95,
+      "published_at": "2026-08-14T13:40:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯被指控试图破坏摩尔多瓦的亲西方政府。",
+        "这一行动可能是为了影响摩尔多瓦的政治走向。",
+        "事件引发了人们对地区政治稳定的关注。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The New York Times"
+      ],
+      "all_titles": {
+        "en": "Russia Campaigned to Derail Moldova’s Pro-Western Government"
+      }
+    },
+    {
+      "title_original": "Un caza italiano bajo mando de la OTAN derriba un dron de origen desconocido en Letonia",
+      "title_zh": "北约指挥下的意大利战机在拉脱维亚击落一架来源不明的无人机",
+      "url": "https://elpais.com/internacional/2026-08-14/un-caza-italiano-bajo-mando-de-la-otan-derriba-un-dron-de-origen-desconocido-en-letonia.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-08-14T13:14:59+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约指挥下的意大利战机在拉脱维亚击落了一架来源不明的无人机。",
+        "无人机的来源尚不清楚，相关部门正在进行调查。",
+        "事件发生在拉脱维亚境内，距离俄罗斯边境约35公里。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Un caza italiano bajo mando de la OTAN derriba un dron de origen desconocido en Letonia"
+      }
+    },
+    {
+      "title_original": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders",
+      "title_zh": "无人机入侵令北约波罗的海和芬兰边境地区陷入恐惧和混乱",
+      "url": "https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-08-14/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-14T13:08:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "无人机入侵事件在北约波罗的海和芬兰边境地区引起了恐惧和混乱。",
+        "这些入侵事件可能是故意挑衅行为，引发了人们对地区安全的担忧。",
+        "北约和相关国家正在采取措施应对这一威胁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders"
+      }
+    },
+    {
+      "title_original": "NATO、ラトビアで無人機撃墜 ロシア国境近く",
+      "title_zh": "北约在拉脱维亚击落无人机，靠近俄罗斯边境",
+      "url": "https://www.nikkei.com/article/DGXZQOCB149420U6A810C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-14T13:00:49+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "拉脱维亚国防部表示，一架无人机侵犯了该国的领空，北约加盟国的战机在靠近俄罗斯边境的东部巴尔维上空将其击落。",
+        "无人机的发射地点尚不清楚，但国防部称其可能是由于俄罗斯的电子战导致的入侵。",
+        "北约发言人表示，意大利军队的欧洲战机在立陶宛执行任务时击落了这架无人机。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（3个来源）",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "日本経済新聞",
+        "Le Monde.fr",
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ja": "NATO、ラトビアで無人機撃墜 ロシア国境近く",
+        "fr": "Balique : des avions de l’OTAN abattent un drone au-dessus de la Lettonie"
+      }
+    },
+    {
+      "title_original": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "title_zh": "Instagram账户加剧休达危机，收费提供跨境帮助",
+      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T12:19:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "BBC调查发现，一些Instagram账户提供收费服务，帮助移民跨越摩洛哥和西班牙的休达边境。",
+        "这些账户发布的内容使得跨境旅行看起来容易，但实际上许多人在尝试跨境时遇险甚至死亡。",
+        "BBC的调查显示，这些账户可能是导致移民潮的原因之一，除了其他因素如错误信息和边境控制不力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross"
+      }
+    },
+    {
+      "title_original": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+      "title_zh": "赞比亚总统选举投票统计因涉嫌攻击投票工作人员而暂停",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T11:37:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "赞比亚选举委员会暂停了总统选举的投票统计，原因是涉嫌攻击投票工作人员。",
+        "主导候选人之一的布莱恩·蒙杜比尔（Brian Mundubile）对延迟宣布选举结果表示担忧，称可能会造成干预或操纵的机会。",
+        "现任总统哈凯恩德·希奇莱马（Hakainde Hichilema）呼吁赞比亚人民保持和平、耐心和爱国精神，等待官方结果。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Presidential vote counting halted in Zambia over alleged attacks on polling staff"
+      }
+    },
+    {
+      "title_original": "トランプ政権、NATO加盟国に思想的忠誠迫る－米軍削減前に精査",
+      "title_zh": "特朗普政府要求北约成员国证明其思想忠诚度——在削减美军之前进行审查",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-08-14/TJR5MFKK3NY800?srnd=jp-international",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-08-14T11:03:22+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普政府要求北约成员国证明其思想忠诚度，并在削减美军之前进行审查。",
+        "这一要求引发了人们对北约成员国与美国关系的担忧，以及对特朗普政府外交政策的质疑。",
+        "北约成员国被要求提供更多信息，以证明其对北约的承诺和忠诚度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "ja": "トランプ政権、NATO加盟国に思想的忠誠迫る－米軍削減前に精査"
+      }
+    },
+    {
+      "title_original": "Stolen Matisse artworks recovered by police in Brazil",
+      "title_zh": "巴西警方追回被盗马蒂斯艺术品",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T10:55:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "巴西警方在圣保罗州的一个住宅中找回了被盗的马蒂斯艺术品，包括八件插图，价值约20万美元。",
+        "这些艺术品于去年12月7日从圣保罗的一个图书馆被盗，两名窃贼制服了保安和一对老年夫妇后逃走。",
+        "警方已经逮捕了四名涉案人员，包括一名44岁的男子，他被怀疑为窃贼存放艺术品并非法持有枪支。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Stolen Matisse artworks recovered by police in Brazil"
+      }
+    },
+    {
+      "title_original": "'Unprecedented' rain in Japan kills eight people",
+      "title_zh": "日本“前所未有”的雨灾造成八人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T10:36:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本东部地区遭遇“前所未有”的大雨，造成至少八人死亡，数万人被迫撤离。",
+        "当地政府发布最高级别的紧急警报，警告可能发生山体滑坡和洪水。",
+        "受灾地区的交通和日常生活受到严重影响，部分地区的电力和水供应也受到影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Unprecedented' rain in Japan kills eight people"
+      }
+    },
+    {
+      "title_original": "学者：低阶演习遭中国渲染 印尼卷入台海争端",
+      "title_zh": "学者：低阶演习遭中国渲染 印尼卷入台海争端",
+      "url": "https://amp.dw.com/zh/%E5%AD%A6%E8%80%85%E4%BD%8E%E9%98%B6%E6%BC%94%E4%B9%A0%E9%81%AD%E4%B8%AD%E5%9B%BD%E6%B8%B2%E6%9F%93-%E5%8D%B0%E5%B0%BC%E5%8D%B7%E5%85%A5%E5%8F%B0%E6%B5%B7%E4%BA%89%E7%AB%AF/a-78367411",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-08-14T10:33:16+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国和印尼举行了一次低阶海军演习，引发了台湾方面的关注和担忧。",
+        "印尼方面表示，这次演习仅是一次常规的海军交会演习，而中国则将其渲染为对台湾的军事威慑。",
+        "学者认为，印尼的“不结盟外交”策略使其容易被中国利用，印尼需要在处理与中国的关系时更加谨慎。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "zh": "学者：低阶演习遭中国渲染 印尼卷入台海争端"
+      }
+    },
+    {
+      "title_original": "استعداداً لهجوم صيني محتمل.. تايوان تجري أضخم مناوراتها العسكرية",
+      "title_zh": "为应对可能的中国攻击，台湾举行最大规模的军事演习",
+      "url": "https://arabic.cnn.com/world/video/2026/08/14/v200041-taiwan-holds-its-largest-war-exercises-to-practice-for-china-threat",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-08-14T09:45:51+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾正在举行最大规模的年度军事演习，以应对可能的中国攻击。",
+        "演习包括模拟网络攻击、通信中断和政府应急响应等场景。",
+        "台湾方面表示，演习旨在提高军事准备和应急能力，以应对中国日益增长的军事压力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "استعداداً لهجوم صيني محتمل.. تايوان تجري أضخم مناوراتها العسكرية"
+      }
+    },
+    {
+      "title_original": "الجغرافيا السياسية تفكك استهداف الهجمات الاستيطانية لبلدة قُصرة بنابلس",
+      "title_zh": "地缘政治分析：拿撒勒地区库斯拉村的定居点袭击",
+      "url": "https://www.aljazeera.net/politics/2026/8/14/%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%AA%D9%81%D9%83%D9%83-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-14T09:05:34+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "拿撒勒地区的库斯拉村是巴勒斯坦的一个村庄，位于拿撒勒市南部。",
+        "该村被以色列定居点和军事基地所包围，村民们面临着严重的生活困难。",
+        "以色列的定居点扩张政策威胁着巴勒斯坦人的生存和土地权利。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "الجغرافيا السياسية تفكك استهداف الهجمات الاستيطانية لبلدة قُصرة بنابلس"
+      }
+    },
+    {
+      "title_original": "The nation’s cartoonists on the week in politics",
+      "title_zh": "本周政治漫画",
+      "url": "https://www.politico.com/gallery/2026/08/14/the-nations-cartoonists-on-the-week-in-politics-01037047",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-14T04:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国政治漫画家们对本周的政治事件进行了创作。",
+        "这些漫画反映了美国当前的政治热点和社会问题。",
+        "政治漫画是美国政治文化的一个重要组成部分。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The nation’s cartoonists on the week in politics"
+      }
+    },
+    {
+      "title_original": "US Presses Allies on Ideological Loyalty Ahead of Troop Cuts",
+      "title_zh": "美国在削减驻军前要求盟友坚持意识形态忠诚",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-presses-allies-on-ideological-loyalty-ahead-of-troop-cuts",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-08-14T08:58:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国政府要求其盟友在意识形态上保持忠诚。",
+        "这一要求是美国削减驻军计划的一部分。",
+        "美国的盟友们面临着如何平衡自身利益和美国要求的挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "US Presses Allies on Ideological Loyalty Ahead of Troop Cuts"
+      }
+    },
+    {
+      "title_original": "プーチン大統領にウクライナでの「勝利などない」、ノーベル平和賞受賞のジャーナリストがBBCに語る",
+      "title_zh": "诺贝尔和平奖得主：普京在乌克兰没有“胜利”",
+      "url": "https://www.bbc.com/japanese/articles/c5ydzl3g034o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-14T08:19:14+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "诺贝尔和平奖得主表示，普京在乌克兰没有“胜利”。",
+        "乌克兰战争已经持续了近五年，双方都遭受了重大损失。",
+        "战争的结局仍然不确定，国际社会呼吁和平解决。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "プーチン大統領にウクライナでの「勝利などない」、ノーベル平和賞受賞のジャーナリストがBBCに語る"
+      }
+    },
+    {
+      "title_original": "Aviones de la OTAN derribaron un dron que había entrado en el espacio aéreo de Letonia",
+      "title_zh": "北约战机击落一架进入拉脱维亚领空的无人机",
+      "url": "https://www.bloomberglinea.com/mundo/aviones-de-la-otan-derribaron-un-dron-que-habia-entrado-en-el-espacio-aereo-de-letonia/",
+      "source": "Bloomberg Línea",
+      "source_score": 95,
+      "published_at": "2026-08-14T08:16:43+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北约战机击落一架进入拉脱维亚东部领空的无人机，这是两个月内北约第二次击落此类空中目标。",
+        "拉脱维亚国防部称，该无人机之所以飞入拉脱维亚空域，是受到俄罗斯电磁干扰影响。",
+        "拉脱维亚军方当天凌晨4时50分解除该国东部地区的空域警报。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（3个来源）",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Bloomberg.com",
+        "Bloomberg Línea",
+        "chinanews.com.cn"
+      ],
+      "all_titles": {
+        "en": "NATO Jets Shot Down Drone That Entered Latvian Airspace",
+        "es": "Aviones de la OTAN derribaron un dron que había entrado en el espacio aéreo de Letonia",
+        "zh": "北约战机击落一架进入拉脱维亚领空的无人机"
+      }
+    },
+    {
+      "title_original": "(وسائط متعددة) الولايات المتحدة تنشر حاملة طائرات جديدة في الشرق الأوسط وسط ضغوط ناجمة عن الحرب مع إيران",
+      "title_zh": "美国在中东部署新航母应对伊朗战争压力",
+      "url": "https://arabic.news.cn/20260814/ffeefd5eef194ed0b6f8a075c0aa4155/c.html",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-08-14T07:17:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国正在向中东部署一艘新航母，以取代已经在该地区部署了250多天的“亚伯拉罕·林肯”号航母。",
+        "新航母“乔治·华盛顿”号已经被发现正在通过马六甲海峡，前往中东。",
+        "美国此举是在中东地区与伊朗战争压力增大的背景下进行的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "ar": "(وسائط متعددة) الولايات المتحدة تنشر حاملة طائرات جديدة في الشرق الأوسط وسط ضغوط ناجمة عن الحرب مع إيران"
+      }
+    },
+    {
+      "title_original": "ロシア主要石油輸出港、ウクライナ・ドローン攻撃の被害復旧＝知事",
+      "title_zh": "俄罗斯主要石油输出港修复乌克兰无人机袭击损害",
+      "url": "https://jp.reuters.com/world/ukraine/GO2ZLZ54GVM57DSDQYWMAHWN7U-2026-08-14/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-14T07:14:34+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯主要石油输出港已经修复了乌克兰无人机袭击造成的损害。",
+        "据报道，俄罗斯正在努力恢复石油输出港的正常运营。",
+        "乌克兰无人机袭击对俄罗斯石油输出港造成了重大损害。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ロシア主要石油輸出港、ウクライナ・ドローン攻撃の被害復旧＝知事"
+      }
+    },
+    {
+      "title_original": "Un dron que sobrevolaba Letonia ha sido derribado por cazas de la OTAN",
+      "title_zh": "拉脱维亚上空的无人机被北约战斗机击落",
+      "url": "https://es.euronews.com/my-europe/2026/08/14/cazas-de-la-mision-de-policia-aerea-del-baltico-de-la-otan-derriban-un-dron-sobre-letonia",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-14T06:23:41+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "拉脱维亚军方表示，一架外国无人机进入拉脱维亚领空，被北约战斗机击落。",
+        "这架无人机被认为是由于俄罗斯的电子战进入拉脱维亚领空的。",
+        "拉脱维亚军方已经部署了额外的防空单位，并将继续监视其领空。"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Euronews.com",
+        "Spiegel"
+      ],
+      "all_titles": {
+        "es": "Un dron que sobrevolaba Letonia ha sido derribado por cazas de la OTAN",
+        "de": "Lettland: Nato-Kampfjets fangen Drohne ab"
+      }
+    },
+    {
+      "title_original": "Ukraine's war-hit steel industry faces new obstacle: EU rules",
+      "title_zh": "乌克兰钢铁行业面临新障碍：欧盟规则",
+      "url": "https://www.reuters.com/business/ukraines-war-hit-steel-industry-faces-new-obstacle-eu-rules-2026-08-14/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-14T06:03:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰钢铁行业由于俄罗斯的侵略而受到严重影响，目前面临新的挑战，即欧盟的规则。",
+        "欧盟的规则可能会限制乌克兰钢铁产品的出口，进一步加剧该行业的困难。",
+        "乌克兰钢铁行业的困难是俄罗斯侵略的又一后果。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Ukraine's war-hit steel industry faces new obstacle: EU rules"
+      }
+    },
+    {
+      "title_original": "Putin warnt vor NATO im Pazifik – und schützt seine U-Boote vor Drohnen",
+      "title_zh": "普京警告北约在太平洋的存在，并保护他的潜艇免受无人机的攻击",
+      "url": "https://www.fr.de/politik/werden-putin-warnt-vor-bedrohung-im-pazifik-waehrend-boote-mit-anti-drohnen-netzen-geschuetzt-zr-94442235.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-14T05:00:24+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯总统普京警告北约在太平洋的存在，称其为对俄罗斯的威胁。",
+        "俄罗斯正在采取措施保护其潜艇免受无人机的攻击，包括使用反无人机网。",
+        "北约在太平洋的存在是俄罗斯对其安全的又一担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Putin warnt vor NATO im Pazifik – und schützt seine U-Boote vor Drohnen"
+      }
+    },
     {
       "title_original": "Taïwan organise des exercices d'évacuation en cas de raid aérien pour se préparer à une éventuelle invasion chinoise",
       "title_zh": "台湾举行空袭疏散演习，为可能的中国入侵做准备",
@@ -51,6 +635,56 @@
       ],
       "all_titles": {
         "en": "NATO Jets Shot Down Drone That Entered Latvian Airspace"
+      }
+    },
+    {
+      "title_original": "Comment Taïwan se prépare à une invasion chinoise",
+      "title_zh": "台湾如何准备应对中国入侵",
+      "url": "https://legrandcontinent.eu/fr/2026/08/14/comment-taiwan-se-prepare-a-une-invasion-chinoise/",
+      "source": "Le Grand Continent",
+      "source_score": 40,
+      "published_at": "2026-08-14T04:30:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾正在进行年度的汉光军事演习，以应对中国可能的入侵。",
+        "演习包括模拟中国的空中攻击和两栖登陆，以及台湾军队的防御行动。",
+        "台湾的军事演习是为了提高其防御能力，应对来自中国的威胁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Le Grand Continent"
+      ],
+      "all_titles": {
+        "fr": "Comment Taïwan se prépare à une invasion chinoise"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 06:23 Russland: Drohnen beschädigen Gebiet um Ostseehafen Ust-Luga +++",
+      "title_zh": "乌克兰战争直播：俄罗斯无人机损坏奥斯特鲁加附近的地区",
+      "url": "https://www.n-tv.de/politik/06-23-Russland-Drohnen-beschaedigen-Gebiet-um-Ostseehafen-Ust-Luga-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-14T04:24:45+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "德国驻乌克兰大使馆加强了对德国公民在乌克兰的旅行警告，特别是由于8月24日的独立日，可能会有针对能源基础设施和交通枢纽的袭击。",
+        "乌克兰方面报告称，乌克兰无人机部队已袭击了俄罗斯占领区内的29个能源设施，包括在顿涅茨克、卢甘斯克和扎波罗热地区以及克里米亚。",
+        "联合国报告称，7月份乌克兰的平民伤亡人数显著增加，至少437人死亡，2610人受伤，主要原因是俄罗斯对城市的火箭和无人机袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 06:23 Russland: Drohnen beschädigen Gebiet um Ostseehafen Ust-Luga +++"
       }
     },
     {
@@ -126,6 +760,56 @@
       ],
       "all_titles": {
         "en": "Indonesia wildfires threaten orangutans rescued from animal traffickers"
+      }
+    },
+    {
+      "title_original": "横須賀拠点「ジョージ・ワシントン」、中東派遣へ…配備中の空母は乗組員が海飛び降り図るなど疲労深刻",
+      "title_zh": "日本横须贺基地的“乔治·华盛顿”号航空母舰将被派往中东，目前部署中的航空母舰面临严重的疲劳问题",
+      "url": "https://www.yomiuri.co.jp/world/20260814-GYT1T00107/",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-08-14T03:36:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国海军的“乔治·华盛顿”号航空母舰将被派往中东，取代目前部署在该地区的“亚伯拉罕·林肯”号航空母舰。",
+        "目前部署中的“亚伯拉罕·林肯”号航空母舰面临着严重的疲劳问题，部分船员甚至试图跳海。",
+        "美国国防部长表示，将尽一切努力支持船员，但中东的封锁行动将继续进行。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "横須賀拠点「ジョージ・ワシントン」、中東派遣へ…配備中の空母は乗組員が海飛び降り図るなど疲労深刻"
+      }
+    },
+    {
+      "title_original": "Erstes Land mit KI-Agenten angegriffen: Taiwan erlebt, wie Cyberkriegsführung künftig aussehen wird",
+      "title_zh": "首个遭到人工智能代理攻击的国家：台湾经历了未来网络战争的前景",
+      "url": "https://www.nzz.ch/technologie/zum-ersten-mal-wurde-ein-land-mithilfe-von-ki-agenten-angegriffen-taiwan-erlebt-wie-cyber-kriegsfuehrung-kuenftig-aussehen-wird-ld.10019401",
+      "source": "NZZ – Neue Zürcher Zeitung",
+      "source_score": 40,
+      "published_at": "2026-08-14T03:30:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾最近遭到了人工智能代理的网络攻击，这是首次有国家遭到此类攻击。",
+        "攻击使用了Hermes和Openclaw等人工智能代理，能够自主进行攻击和决策。",
+        "攻击导致台湾政府和企业的数千份文件被盗，多个系统被入侵，包括核安全机构和能源部门。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "NZZ – Neue Zürcher Zeitung"
+      ],
+      "all_titles": {
+        "de": "Erstes Land mit KI-Agenten angegriffen: Taiwan erlebt, wie Cyberkriegsführung künftig aussehen wird"
       }
     },
     {
