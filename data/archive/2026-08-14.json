@@ -1,0 +1,835 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T05:20:29.561792+00:00",
+  "count": 33,
+  "articles": [
+    {
+      "title_original": "Taïwan organise des exercices d'évacuation en cas de raid aérien pour se préparer à une éventuelle invasion chinoise",
+      "title_zh": "台湾举行空袭疏散演习，为可能的中国入侵做准备",
+      "url": "https://www3.nhk.or.jp/nhkworld/fr/news/20260813_16/",
+      "source": "nhk.or.jp",
+      "source_score": 95,
+      "published_at": "2026-08-14T04:40:12+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾正在进行大规模的空袭疏散演习，以应对可能的中国入侵。",
+        "演习始于8月5日，模拟了中国入侵的场景。",
+        "台北的警察和其他人员被引导到地铁站附近的地下商场，以进行演习。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "nhk.or.jp"
+      ],
+      "all_titles": {
+        "fr": "Taïwan organise des exercices d'évacuation en cas de raid aérien pour se préparer à une éventuelle invasion chinoise"
+      }
+    },
+    {
+      "title_original": "NATO Jets Shot Down Drone That Entered Latvian Airspace",
+      "title_zh": "北约战机击落进入拉脱维亚领空的无人机",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/nato-jets-shot-down-drone-that-entered-latvian-airspace",
+      "source": "bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-08-14T04:38:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约战机击落了一架进入拉脱维亚领空的无人机。",
+        "此事件发生在拉脱维亚领空，具体细节尚不清楚。",
+        "北约方面尚未对此事件进行详细说明。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "NATO Jets Shot Down Drone That Entered Latvian Airspace"
+      }
+    },
+    {
+      "title_original": "‘Unprecedented’ rain kills four in Japan as thousands stranded at airport",
+      "title_zh": "日本遭遇“前所未有”的大雨，四人死亡，数千人滞留机场",
+      "url": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-14T04:14:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本遭遇“前所未有”的大雨，导致四人死亡，数千人滞留机场。",
+        "大雨导致千叶县发生山体滑坡和停电，约400,000人被要求撤离。",
+        "东京成田机场有近7,000人滞留，政府正在努力应对灾情。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘Unprecedented’ rain kills four in Japan as thousands stranded at airport"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : les Émirats dénoncent une attaque iranienne contre deux navires dans le détroit d'Ormuz",
+      "title_zh": "中东战争：阿联酋谴责伊朗在霍尔木兹海峡对两艘船的攻击",
+      "url": "https://www.rtbf.be/article/guerre-au-moyen-orient-les-emirats-denoncent-une-attaque-iranienne-contre-deux-navires-dans-le-detroit-d-ormuz-11770161",
+      "source": "RTBF",
+      "source_score": 55,
+      "published_at": "2026-08-14T04:13:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "阿联酋谴责伊朗在霍尔木兹海峡对两艘船的攻击，称其为“敌对行为”。",
+        "攻击发生在两艘船只通过霍尔木兹海峡时，没有人员伤亡报告。",
+        "阿联酋要求伊朗“完全和无条件地”开放霍尔木兹海峡，以维护地区安全和稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "RTBF"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : les Émirats dénoncent une attaque iranienne contre deux navires dans le détroit d'Ormuz"
+      }
+    },
+    {
+      "title_original": "Indonesia wildfires threaten orangutans rescued from animal traffickers",
+      "title_zh": "印度尼西亚野火威胁从动物贩子手中救出的猩猩",
+      "url": "https://www.theguardian.com/world/2026/aug/14/indonesia-wildfires-threaten-orangutans-rescued-from-animal-traffickers",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-14T04:00:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "印度尼西亚野火威胁到从动物贩子手中救出的猩猩。",
+        "野火距离西加里曼丹的一个动物康复中心仅几米远，火势因热、干燥和风大的天气条件而加剧。",
+        "动物保护组织正在努力应对野火，保护猩猩和其他动物。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Indonesia wildfires threaten orangutans rescued from animal traffickers"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Luftalarm über Lettland – Kampfjets schießen Drohne ab",
+      "title_zh": "乌克兰战争最新：拉脱维亚上空发出空中警报，战斗机击落无人机",
+      "url": "https://www.fr.de/politik/attackiert-oelraffinerie-in-russland-ukraine-krieg-aktuell-kiew-zr-94435946.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-14T03:12:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "拉脱维亚上空发出空中警报，战斗机击落一架无人机。",
+        "乌克兰总统泽连斯基要求美国提供更多的爱国者导弹，以帮助乌克兰度过冬天。",
+        "俄罗斯对乌克兰油 refinery 发动攻击，导致油 refinery 停止运作，可能需要六个月才能修复。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Luftalarm über Lettland – Kampfjets schießen Drohne ab"
+      }
+    },
+    {
+      "title_original": "US says dozens of countries helped China dodge Trump's tariffs",
+      "title_zh": "美国称数十个国家帮助中国规避特朗普的关税",
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T03:09:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "美国白宫报告称，超过40个国家帮助中国规避美国的关税，通过将货物转运到关税较低的国家。",
+        "这些国家包括加拿大、印度、墨西哥、日本和韩国，据称帮助中国避免了数十亿美元的关税。",
+        "中国驻华盛顿大使馆发言人表示，贸易战没有赢家，反对美国的关税措施和针对中国公司的国家力量。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US says dozens of countries helped China dodge Trump's tariffs"
+      }
+    },
+    {
+      "title_original": "台湾强化海巡力量武装，为台海冲突做准备",
+      "title_zh": "台湾强化海巡力量武装，为台海冲突做准备",
+      "url": "https://cn.wsj.com/articles/taiwan-weaponizes-coast-guard-to-prepare-for-battle-with-china-4a746258",
+      "source": "华尔街日报中文网",
+      "source_score": 95,
+      "published_at": "2026-08-14T03:01:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾正在加强海巡力量的武装，以应对台海冲突的可能性。",
+        "此举是为了应对中国日益增长的军事威胁和台海紧张局势。",
+        "台湾海巡署正在加强其能力，以保护台湾的海域和领土主权。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "华尔街日报中文网"
+      ],
+      "all_titles": {
+        "zh": "台湾强化海巡力量武装，为台海冲突做准备"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Crimea bomb kills ‘Ukrainian sub commander who defected’",
+      "title_zh": "乌克兰战争简报：克里米亚爆炸杀死“叛逃的乌克兰潜艇指挥官”",
+      "url": "https://www.theguardian.com/world/2026/aug/14/ukraine-war-briefing-crimea-bomb-robert-shageyev-defected",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-14T02:05:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "克里米亚的一次爆炸事件杀死了一名前乌克兰潜艇指挥官，他被指控叛逃到俄罗斯。",
+        "爆炸事件发生在克里米亚的塞瓦斯托波尔市，一名俄罗斯女性被逮捕，疑似参与了爆炸事件。",
+        "乌克兰总统泽连斯基表示，俄罗斯对乌克兰平民目标的攻击是不可接受的，要求俄罗斯停止其军事行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Crimea bomb kills ‘Ukrainian sub commander who defected’"
+      }
+    },
+    {
+      "title_original": "原油トレーダーが追う真実、中東混迷も「トランプ発言に新味なし」",
+      "title_zh": "原油交易者追求的真相，中东混乱也“特朗普发言无新意”",
+      "url": "https://www.nikkei.com/article/DGXZQOCD31AKJ0R30C26A7000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-14T02:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "原油交易者正在追求中东混乱的真相，尽管特朗普的发言没有带来新的意外。",
+        "中东的原油市场混乱已经持续了近半年，特朗普政府和伊朗的发言使得市场波动加剧。",
+        "交易者们正在寻找真实的信息，以应对不断变化的市场形势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "原油トレーダーが追う真実、中東混迷も「トランプ発言に新味なし」"
+      }
+    },
+    {
+      "title_original": "See the Battlefield Innovations Reshaping the Russia-Ukraine War",
+      "title_zh": "俄罗斯-乌克兰战争中重塑战场的创新",
+      "url": "https://www.wsj.com/world/see-the-battlefield-innovations-reshaping-the-russia-ukraine-war-b8f58805",
+      "source": "WSJ",
+      "source_score": 40,
+      "published_at": "2026-08-14T02:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯和乌克兰之间的战争正在继续，双方都在寻找新的战术和技术来取得优势。",
+        "最近的发展包括了新的战场创新，这些创新可能会改变战争的进程。",
+        "这些创新包括了新的武器系统、战术和策略，双方都在努力适应和应对对方的行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "WSJ"
+      ],
+      "all_titles": {
+        "en": "See the Battlefield Innovations Reshaping the Russia-Ukraine War"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Washington menace l’Iran d’un «isolement économique comme le monde n’en a jamais vu»",
+      "title_zh": "中东战争：华盛顿威胁伊朗将面临前所未有的经济孤立",
+      "url": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-washington-menace-l-iran-d-un-isolement-economique-comme-le-monde-n-en-a-jamais-vu-20260814",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-08-14T01:05:17+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国财政部长斯科特·贝森特威胁伊朗将面临前所未有的经济孤立，包括新的经济制裁和封锁。",
+        "美国的目标是阻止伊朗获得核武器，并减少其对全球石油市场的影响。",
+        "伊朗方面则拒绝美国的要求，称其不会屈服于美国的压力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Washington menace l’Iran d’un «isolement économique comme le monde n’en a jamais vu»"
+      }
+    },
+    {
+      "title_original": "【ウクライナ侵攻】祖国へ帰国した親子が直面した厳しい現実「鳴りやまない空襲警報」「玄関で夜を明かす日々」 日本へ再避難し…6歳息子が新たな挑戦「避難先でもいろいろな経験を」",
+      "title_zh": "乌克兰侵略：归国的家庭面临严酷现实，6岁儿子开始新的挑战",
+      "url": "https://news.yahoo.co.jp/articles/918e393f2b0649c654f5fcf7f4a4cec8fe9ee5cd",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-14T01:00:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "一对乌克兰家庭在俄罗斯侵略开始后返回了日本，然而他们在乌克兰的生活却充满了空袭警报和不确定性。",
+        "家庭的6岁儿子在日本开始了新的生活，尽管面临着许多挑战，但他仍然保持着乐观的态度。",
+        "这对家庭的故事反映了乌克兰战争对平民的影响，以及他们在面临困难时的韧性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "【ウクライナ侵攻】祖国へ帰国した親子が直面した厳しい現実「鳴りやまない空襲警報」「玄関で夜を明かす日々」 日本へ再避難し…6歳息子が新たな挑戦「避難先でもいろいろな経験を」"
+      }
+    },
+    {
+      "title_original": "ウクライナの７月の民間死者４３７人、侵略開始直後除き最多…国連人権監視団「被害の多くは都市部で発生」",
+      "title_zh": "乌克兰7月份的平民死亡人数为437人，创下侵略开始以来除初期外的最高记录",
+      "url": "https://www.yomiuri.co.jp/world/20260814-GYT1T00099/",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-08-14T00:41:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "根据联合国人权监测团的报告，乌克兰7月份的平民死亡人数为437人，这是侵略开始以来除初期外的最高记录。",
+        "报告指出，绝大多数的伤亡发生在城市地区，尤其是首都基辅。",
+        "联合国人权监测团对人口稠密地区的伤亡扩大表示担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの７月の民間死者４３７人、侵略開始直後除き最多…国連人権監視団「被害の多くは都市部で発生」"
+      }
+    },
+    {
+      "title_original": "ウクライナ穀物輸出が急減、代替ルート模索 黒海封鎖で",
+      "title_zh": "乌克兰谷物出口急剧减少，正在寻找替代路线，黑海封锁是原因",
+      "url": "https://jp.reuters.com/world/ukraine/7V64HWYFBZONFJOA5PHJRYFTBA-2026-08-14/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-14T00:10:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "由于黑海封锁，乌克兰的谷物出口急剧减少，导致经济损失。",
+        "乌克兰正在寻找替代路线来出口谷物，但面临着挑战和不确定性。",
+        "黑海封锁对乌克兰的农业和经济产生了重大影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ穀物輸出が急減、代替ルート模索 黒海封鎖で"
+      }
+    },
+    {
+      "title_original": "(台海观澜）台农深耕宁德霞浦沃土共兴现代农业",
+      "title_zh": "(台海观澜）台农深耕宁德霞浦沃土共兴现代农业",
+      "url": "https://finance.sina.cn/2026-08-13/detail-ininctas4761398.d.html?vt=4&cid=76729&node_id=76729",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-08-14T00:06:12+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾农民廖文泰在福建省宁德市的霞浦台湾农民创业园内种植了多种特色农产品。",
+        "廖文泰表示，大陆土地资源广阔、农业市场体量庞大，将台湾精细化种植经验与大陆规模化生产体系融合互补，既能产出高品质农产品，又能带动周边农户共同增收。",
+        "霞浦台创园已吸引32家台资企业入园，2025年新增合同利用台资1238万美元，实际利用台资150万美元。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "(台海观澜）台农深耕宁德霞浦沃土共兴现代农业"
+      }
+    },
+    {
+      "title_original": "米、中東に空母ジョージ・ワシントン派遣へ 配備長期化のエイブラハム・リンカーンと交代",
+      "title_zh": "美国向中东派遣航空母舰乔治·华盛顿号，以替换长期部署的埃布拉哈姆·林肯号",
+      "url": "https://www.cnn.co.jp/usa/35251548.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-13T23:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国海军的航空母舰乔治·华盛顿号将被派遣到中东，以替换长期部署的埃布拉哈ム·林肯号。",
+        "埃布拉哈姆·林肯号已经在海上部署了超过250天，出现了食物短缺、卫生条件差等问题。",
+        "美国国防部表示，乔治·华盛顿号的派遣是按照既定的计划进行的，目的是为了维持美国在中东的军事存在。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（3个来源）",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "CNN.co.jp",
+        "時事ドットコム",
+        "Yahoo Actualités"
+      ],
+      "all_titles": {
+        "ja": "中東展開の米空母交代へ 派遣長期化、乗員健康に懸念",
+        "fr": "Un porte-avions américain en relaiera un autre en difficulté au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "title_zh": "美国航空母舰在海上超过250天的条件引发警告",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T23:06:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国航空母舰埃布拉哈姆·林肯号已经在海上超过250天，出现了食物短缺、卫生条件差等问题。",
+        "美国国会要求国防部就航空母舰上的条件进行说明，国防部长表示这些报告被“完全歪曲”了。",
+        "美国军方表示，航空母舰上的条件正在被改善，乔治·华盛顿号的派遣是为了维持美国在中东的军事存在。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms"
+      }
+    },
+    {
+      "title_original": "EE. UU. envía otro portaaviones a Oriente Medio tras quejas en el USS Lincoln",
+      "title_zh": "美国因USS林肯号投诉而向中东派遣另一艘航母",
+      "url": "https://www.independentespanol.com/politica/ee-uu/quejas-iran-portaaviones-uss-lincoln-reemplazo-b3032846.html",
+      "source": "Independent en Español",
+      "source_score": 40,
+      "published_at": "2026-08-13T22:13:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国五角大楼因USS林肯号船员投诉而将其从中东撤下，改派USS乔治·华盛顿号",
+        "USS林肯号船员及其家属抱怨食物短缺、长时间在海上以及精神健康恶化等问题",
+        "USS乔治·华盛顿号将取代USS林肯号，作为原计划中的轮换"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Independent en Español"
+      ],
+      "all_titles": {
+        "es": "EE. UU. envía otro portaaviones a Oriente Medio tras quejas en el USS Lincoln"
+      }
+    },
+    {
+      "title_original": "Bernie Sanders has a response for progressives upset over Hong’s loss in Wisconsin",
+      "title_zh": "伯尼·桑德斯对威斯康星州洪氏失利的进步派人士做出回应",
+      "url": "https://www.politico.com/news/2026/08/13/bernie-sanders-wisconsin-progressives-hong-01037121",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-13T17:00:03-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "伯尼·桑德斯对威斯康星州洪氏失利的进步派人士做出回应，表示他有有限的资源，无法支持所有人",
+        "桑德斯表示他有“有限的资源”和不能支持所有人的限制",
+        "桑德斯的回应是对威斯康星州洪氏失利的进步派人士的回应"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Bernie Sanders has a response for progressives upset over Hong’s loss in Wisconsin"
+      }
+    },
+    {
+      "title_original": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "title_zh": "报告称瑞安航空飞机引擎零件击碎窗户致男子头部被吸出",
+      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T21:43:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "美国国家运输安全委员会报告称，瑞安航空飞机引擎零件击碎窗户致男子头部被吸出",
+        "事件发生在7月10日从希腊飞往德国的航班上，男子头部和右肩被吸出窗外",
+        "飞机在事件发生后安全着陆，男子被送往医院治疗"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Engine parts smashed Ryanair window that man's head was sucked out of, report says"
+      }
+    },
+    {
+      "title_original": "视觉艺术家陈志伟随遇而安 用场域历史素材探问地缘政治",
+      "title_zh": "视觉艺术家陈志伟随遇而安 用场域历史素材探问地缘政治",
+      "url": "https://www.zaobao.com.sg/lifestyle/culture/story20260814-9506687",
+      "source": "联合早报",
+      "source_score": 40,
+      "published_at": "2026-08-13T21:02:52+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "陈志伟是新加坡当代艺术家，入选为“Loewe基金会／Studio Voltaire奖”第三届国际驻留艺术家",
+        "陈志伟计划利用英殖民历史档案，探讨英国在马来亚紧急状态期间如何使用宣传工具",
+        "陈志伟的作品关注当权力失去平衡时所造成的地缘政治关系"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "联合早报"
+      ],
+      "all_titles": {
+        "zh": "视觉艺术家陈志伟随遇而安 用场域历史素材探问地缘政治"
+      }
+    },
+    {
+      "title_original": "Exercice militaire de l'Otan: quand les drones ukrainiens donnent une leçon à l'armée américaine",
+      "title_zh": "北约军事演习：乌克兰无人机教训美国军队",
+      "url": "https://actu.orange.fr/videos/france/exercice-militaire-de-l-otan-quand-les-drones-ukrainiens-donnent-une-lecon-a-l-armee-americaine-CNT000002rk6dS.html",
+      "source": "Orange Actualités",
+      "source_score": 40,
+      "published_at": "2026-08-13T20:58:03+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "乌克兰无人机在北约军事演习中表现出色，多次击败美国军队",
+        "美国军队被迫向乌克兰军队学习无人机操作技术",
+        "北约军事演习旨在加强成员国之间的军事合作和交流"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Orange Actualités"
+      ],
+      "all_titles": {
+        "fr": "Exercice militaire de l'Otan: quand les drones ukrainiens donnent une leçon à l'armée américaine"
+      }
+    },
+    {
+      "title_original": "米軍が中東展開の空母交代へ 240日以上寄港なく、艦内の環境悪化",
+      "title_zh": "美国军队在中东部署的航母交替，240天以上没有停靠，舰内环境恶化",
+      "url": "https://www.nikkei.com/article/DGXZQOGN139RG0T10C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-13T20:25:02+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国军队正在准备在中东部署的航母交替，目前的航母已经在海上停留了240天以上。",
+        "由于长时间在海上停留，航母上的环境恶化，物资不足，甚至发生了海上事故。",
+        "美国军队计划派遣新的航母“乔治·华盛顿”号取代当前的航母"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "米軍が中東展開の空母交代へ 240日以上寄港なく、艦内の環境悪化"
+      }
+    },
+    {
+      "title_original": "\"جورج واشنطن\" تتجه إلى الشرق الأوسط.. وهيغسيث يتوعد إيران",
+      "title_zh": "“乔治·华盛顿”号航母前往中东.. 海格西斯威胁伊朗",
+      "url": "https://arabic.anf-news.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/jwrj-washntn-ttjh-aly-alshrq-alawst-whyghsyth-ytwd-ayran-139100",
+      "source": "ANF | Articles",
+      "source_score": 55,
+      "published_at": "2026-08-13T20:16:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国航母“乔治·华盛顿”号正前往中东，以取代当前在该地区的航母“亚伯拉罕·林肯”号。",
+        "美国国防部长海格西斯表示，美国将继续对伊朗实施经济和军事压力，直到伊朗满足美国的要求。",
+        "美国的行动是为了维持在中东的军事存在，并对伊朗施加压力"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "ANF | Articles"
+      ],
+      "all_titles": {
+        "ar": "\"جورج واشنطن\" تتجه إلى الشرق الأوسط.. وهيغسيث يتوعد إيران"
+      }
+    },
+    {
+      "title_original": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+      "title_zh": "巴勒斯坦人被要求离开以色列定居者围困房屋的村庄",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T20:12:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "在西岸的一个村庄中，以色列定居者围困了几栋房屋，巴勒斯坦人被要求离开他们的家园。",
+        "以色列军队已经进入了村庄，并使用了一些巴勒斯坦人的房屋作为军事基地。",
+        "以色列政府表示，将调查并逮捕围困巴勒斯坦人房屋的定居者"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Palestinians told to leave homes in village where Israeli settlers besieged houses"
+      }
+    },
+    {
+      "title_original": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "title_zh": "罗马尼亚关闭唯一的核电站，因为热浪导致多瑙河水位大幅下降",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T19:46:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "由于热浪导致多瑙河水位大幅下降，罗马尼亚关闭了唯一的核电站。",
+        "核电站使用多瑙河的水作为冷却系统，但由于水位太低，无法正常运行。",
+        "罗马尼亚的核电站关闭将导致电力短缺，需要通过进口电力来弥补"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level"
+      }
+    },
+    {
+      "title_original": "Family of Irish plane crash victim awarded $29m in damages",
+      "title_zh": "爱尔兰飞机坠毁受害者家属获赔2900万美元",
+      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T19:08:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "爱尔兰飞机坠毁受害者家属已被判赔2900万美元的损害赔偿。",
+        "受害者是一名联合国雇员，他在2019年的一次飞机坠毁事故中丧生。",
+        "判决结果被视为对波音公司的重要追责和正义"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Family of Irish plane crash victim awarded $29m in damages"
+      }
+    },
+    {
+      "title_original": "La CIA enfría la supuesta amenaza iraní contra Trump y abre una crisis de credibilidad",
+      "title_zh": "中情局淡化对特朗普的伊朗威胁，并引发信誉危机",
+      "url": "https://www.negocios.com/articulo/geopolitica/conflicto-inteligencia-entre-eeuu-iran-sacude-geopolitica-estrecho-ormuz/20260813210628491992.html",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-08-13T19:06:28+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国中情局对伊朗针对特朗普的威胁评估为『低信誉』，这意味着信息有限，缺乏确凿的证据。",
+        "据报道，伊朗的威胁是基于以色列提供的信息，但中情局认为这些信息不够可靠。",
+        "特朗普的安全团队采取了预防措施，包括秘密将他从总统专机上撤离，但最终没有发生任何攻击事件。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "La CIA enfría la supuesta amenaza iraní contra Trump y abre una crisis de credibilidad"
+      }
+    },
+    {
+      "title_original": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
+      "title_zh": "曼吉奥尼的律师将与联邦检察官会面，据报道可能达成认罪协议",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-13T18:45:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "曼吉奥尼的律师将与联邦检察官会面，讨论可能的认罪协议，这可能会影响他在州法院的审判。",
+        "曼吉奥尼被指控谋杀了联合健康保险公司的首席执行官布莱恩·汤普森，他面临着两项联邦指控，每项指控的最高刑期为无期徒刑。",
+        "曼吉奥尼的律师认为，他不应该同时在州法院和联邦法院受审，如果他在联邦法院认罪，可能会影响州法院的审判。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Mangione lawyers to meet federal prosecutors amid reports of plea deal"
+      }
+    },
+    {
+      "title_original": "Dos cazas F-18 españoles de la OTAN en Rumanía despegan por alerta de dron en linde con Ucrania",
+      "title_zh": "北约在罗马尼亚的两架西班牙F-18战斗机因接近乌克兰边境的无人机警报而起飞",
+      "url": "https://www.elmundo.es/internacional/2026/08/13/6a7dd6e021efa091538b459e.html",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-08-13T18:14:27+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "两架西班牙F-18战斗机从罗马尼亚的米哈伊尔·科格尼采亚努基地起飞，原因是发现一架未识别的无人机靠近罗马尼亚和乌克兰的边境。",
+        "罗马尼亚国防部报告称，无人机进入了罗马尼亚的领空，并在12分钟后返回乌克兰。",
+        "这是罗马尼亚当天第三次空中警报，之前两次警报也与无人机有关。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "Dos cazas F-18 españoles de la OTAN en Rumanía despegan por alerta de dron en linde con Ucrania"
+      }
+    },
+    {
+      "title_original": "هيجسيث ينفي تقارير عن سوء الأوضاع على حاملة طائرات بالشرق الأوسط",
+      "title_zh": "海吉西斯否认中东航母上情况恶化的报道",
+      "url": "https://www.reuters.com/ar/sports/FJGO6J5XDBKTPPJPCGL7OH74CQ-2026-08-13/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-13T17:46:09+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "海吉西斯否认了有关中东航母上情况恶化的报道，没有提供进一步的细节。",
+        "此事件发生在中东地区，可能与航母的行动或安全有关。",
+        "没有更多的信息可以提供关于这一事件的具体情况或影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "هيجسيث ينفي تقارير عن سوء الأوضاع على حاملة طائرات بالشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition",
+      "title_zh": "克劳利关注『MAGA极端主义』以重建威斯康星州的分裂联盟",
+      "url": "https://www.politico.com/news/2026/08/13/david-crowley-wisconsin-governor-election-strategy-01036209",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-13T12:23:15-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "克劳利在赢得民主党州长提名后，首次接受采访，分享了他重建威斯康星州分裂联盟的计划。",
+        "克劳利计划关注『MAGA极端主义』，以吸引弗朗西斯卡·洪的选民，但他没有承诺与左翼代言人一起竞选。",
+        "克劳利的策略可能会影响威斯康星州的选举结果和民主党的联盟建设。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Crowley zeroes in on ‘MAGA extremism’ to rebuild a fractured Wisconsin coalition"
+      }
+    }
+  ]
+}
