@@ -1,0 +1,859 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T00:00:03.312629+00:00",
+  "count": 34,
+  "articles": [
+    {
+      "title_original": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued",
+      "title_zh": "印度尼西亚海岸发生7.7级地震，发布海啸警报",
+      "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-14T23:43:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "印度尼西亚弗洛雷斯地区发生7.7级地震，震源深度10公里。",
+        "地震发生在印度尼西亚时间星期六早上5点58分，震中位于恩德市以北北西42英里处。",
+        "目前尚未报告人员伤亡或财产损失。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : un pétrolier de la compagnie émiratie Adnoc attaqué dans le détroit d’Ormuz",
+      "title_zh": "中东战争：阿联酋阿德诺克公司油轮在霍尔木兹海峡遭袭",
+      "url": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-un-petrolier-de-la-compagnie-emiratie-adnoc-attaque-dans-le-detroit-d-ormuz-20260815",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-08-14T23:42:28+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "阿联酋阿德诺克公司油轮在霍尔木兹海峡遭袭，事件发生在星期五晚上。",
+        "阿德诺克公司表示，事件中没有人员受伤，情况已得到控制。",
+        "这已经是阿德诺克公司油轮在霍尔木兹海峡遭袭的第三次，之前两次袭击发生在星期四和上周。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : un pétrolier de la compagnie émiratie Adnoc attaqué dans le détroit d’Ormuz"
+      }
+    },
+    {
+      "title_original": "Unbemannte Verteidigung: So funktioniert das neue „Kill Web“ an der Nato-Ostflanke",
+      "title_zh": "无人防御：北约东翼新“杀戮网络”如何运作",
+      "url": "https://www.welt.de/politik/ausland/article6a7c3002a87e8142c31cd73c/unbemannte-verteidigung-so-funktioniert-das-neue-kill-web-an-der-nato-ostflanke.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-08-14T22:46:20+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约正在开发一个名为“杀戮网络”的无人防御系统，用于东翼防御。",
+        "该系统将由无人机、传感器和卫星组成，用于检测和应对俄罗斯的威胁。",
+        "北约计划在东翼部署该系统，以加强防御能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Unbemannte Verteidigung: So funktioniert das neue „Kill Web“ an der Nato-Ostflanke"
+      }
+    },
+    {
+      "title_original": "米迎撃弾生産実現へ決意 ウクライナ大統領が声明",
+      "title_zh": "乌克兰总统宣布决定生产美国防空导弹",
+      "url": "https://news.yahoo.co.jp/articles/c82319a9446d493a2fb31475d14015d37d1a46ec",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-14T22:44:24+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基宣布，乌克兰将生产美国防空导弹“爱国者”。",
+        "泽连斯基表示，乌克兰需要这些导弹来保护自己免受俄罗斯的攻击。",
+        "美国曾表示将支持乌克兰生产这些导弹，但后来又改变了态度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "米迎撃弾生産実現へ決意 ウクライナ大統領が声明"
+      }
+    },
+    {
+      "title_original": "Trump evalúa la lealtad ideológica de los aliados de la OTAN para analizar si recorta las tropas",
+      "title_zh": "特朗普评估北约盟友的意识形态忠诚度，以决定是否削减驻军",
+      "url": "https://www.elmundo.es/internacional/2026/08/15/6a7f8d26e85eced76c8b4599.html",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-08-14T22:02:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普政府向北约盟友发送了一份问卷，用于评估他们的意识形态忠诚度。",
+        "问卷中包括诸如“该国是否公开支持美国外交政策”等问题。",
+        "特朗普政府计划根据评估结果决定是否削减驻扎在欧洲的美国军队。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "Trump evalúa la lealtad ideológica de los aliados de la OTAN para analizar si recorta las tropas"
+      }
+    },
+    {
+      "title_original": "国連 ウクライナで7月に死亡の民間人 侵攻開始直後を除き最多",
+      "title_zh": "联合国：乌克兰7月份死亡的平民人数创下自入侵开始以来的最高记录",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260814de44189",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-14T21:38:05+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "联合国报告称，乌克兰7月份的平民死亡人数创下自入侵开始以来的最高记录。",
+        "这份报告强调，自入侵开始以来，乌克兰的平民伤亡人数持续增加。",
+        "联合国呼吁各方采取措施保护平民，防止进一步的伤亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "国連 ウクライナで7月に死亡の民間人 侵攻開始直後を除き最多"
+      }
+    },
+    {
+      "title_original": "Trump confirma cambio de portaaviones tras meses de despliegue en Oriente Medio",
+      "title_zh": "特朗普确认将更换在中东部署数月的航母",
+      "url": "https://forbescentroamerica.com/2026/08/14/trump-confirma-cambio-de-portaaviones-tras-meses-de-despliegue-en-oriente-medio/",
+      "source": "Forbes Centroamérica",
+      "source_score": 55,
+      "published_at": "2026-08-14T21:32:46+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国总统特朗普确认将更换在中东部署数月的航母USS Abraham Lincoln。",
+        "USS Abraham Lincoln自今年1月以来一直部署在中东，仅在奥曼进行过一次短暂的停靠。",
+        "特朗普表示，将由另一艘航母USS George Washington取代USS Abraham Lincoln。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Forbes Centroamérica"
+      ],
+      "all_titles": {
+        "es": "Trump confirma cambio de portaaviones tras meses de despliegue en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Ontario free to axe Toronto bike lanes, region’s top court rules",
+      "title_zh": "安大略省最高法院裁定，省政府可以取消多伦多的自行车道",
+      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-14T21:03:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "安大略省最高法院裁定，省政府可以取消多伦多的自行车道。",
+        "此决定是对多伦多市长和市议会的打击，他们一直试图保护自行车道。",
+        "省政府长期以来一直反对多伦多的自行车道，认为它们是城市交通拥堵的原因。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Ontario free to axe Toronto bike lanes, region’s top court rules"
+      }
+    },
+    {
+      "title_original": "انخفاض ستاندرد اند بورز مع تقييم بيانات التجزئة وتوترات الشرق الأوسط",
+      "title_zh": "标准普尔指数下跌，评估零售数据和中东紧张局势",
+      "url": "https://www.reuters.com/ar/business/Q4ZWZWPMQZN5TO67LE6LLT5JME-2026-08-14/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-14T20:55:49+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "标准普尔指数下跌，投资者评估零售数据和中东紧张局势。",
+        "中东紧张局势加剧，导致油价上涨，影响了股票市场。",
+        "零售数据显示，消费者支出放缓，进一步拖累了市场。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "انخفاض ستاندرد اند بورز مع تقييم بيانات التجزئة وتوترات الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "U.S. Centcom Forms NATO-Style Military Drone Force In The Middle East",
+      "title_zh": "美国中央司令部在中东建立北约式军事无人机部队",
+      "url": "https://www.forbes.com/sites/zitaballingerfletcher/2026/08/14/us-centcom-forms-nato-style-military-drone-force-in-the-middle-east/",
+      "source": "Forbes",
+      "source_score": 55,
+      "published_at": "2026-08-14T20:46:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国中央司令部在中东建立了一支北约式的军事无人机部队，称为猎鹰击任务部队。",
+        "该部队将由美国和地区军队组成，使用无人机进行攻击和防御。",
+        "该部队的建立是为了应对伊朗和胡塞武装在中东地区的无人机攻击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Forbes"
+      ],
+      "all_titles": {
+        "en": "U.S. Centcom Forms NATO-Style Military Drone Force In The Middle East"
+      }
+    },
+    {
+      "title_original": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "title_zh": "克罗地亚野火：数十人受伤，数千人撤离",
+      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T20:22:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "克罗地亚野火已造成至少一人死亡，40人受伤，1200名居民和游客被撤离。",
+        "火灾于周四晚上在洛克瓦罗戈兹尼察村附近爆发，并迅速蔓延到附近的旅游城镇奥米什。",
+        "克罗地亚总理安德烈·普列尼科维奇称这次火灾是该国历史上最严重的火灾之一。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Dozens injured and thousands evacuated in Croatia wildfire"
+      }
+    },
+    {
+      "title_original": "Estados Unidos evalúa el apoyo de los aliados de la OTAN para reasignar sus recursos en Europa",
+      "title_zh": "美国评估北约盟友在欧洲的支持以重新分配资源",
+      "url": "https://elpais.com/internacional/2026-08-14/estados-unidos-evalua-el-apoyo-de-los-aliados-de-la-otan-para-reasignar-sus-recursos-en-europa.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-08-14T19:54:45+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "美国正在评估北约盟友在欧洲的支持，以重新分配其资源。",
+        "这一评估是为了确定哪些盟友能够提供更多的支持，以帮助美国在欧洲重新分配其资源。",
+        "美国希望通过重新分配资源来加强其在欧洲的军事存在，并提高其应对潜在威胁的能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Estados Unidos evalúa el apoyo de los aliados de la OTAN para reasignar sus recursos en Europa"
+      }
+    },
+    {
+      "title_original": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "title_zh": "芒吉奥尼承认杀害医疗保健CEO，并对联邦指控表示认罪",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T19:20:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "芒吉奥尼已承认杀害医疗保健CEO布莱恩·汤普森，并对联邦指控表示认罪。",
+        "芒吉奥尼于2024年12月4日在曼哈顿的一家酒店中枪杀了汤普森。",
+        "芒吉奥尼的认罪是他对汤普森家族和美国司法系统的重要一步。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Mangione admits killing healthcare CEO and pleads guilty to federal charges"
+      }
+    },
+    {
+      "title_original": "Trump asks Supreme Court to allow ballroom work to continue",
+      "title_zh": "特朗普要求最高法院允许舞厅施工继续",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T19:05:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普已要求最高法院允许白宫舞厅施工继续。",
+        "特朗普的请求是对上诉法院的一项紧急申请，该法院之前已下令停止施工，直到国会批准。",
+        "特朗普认为，舞厅对于国家安全和白宫功能是必要的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump asks Supreme Court to allow ballroom work to continue"
+      }
+    },
+    {
+      "title_original": "في اتصال مع زيلينسكي.. السيسي يدعم الحل الدبلوماسي لإنهاء حرب أوكرانيا",
+      "title_zh": "塞西在与泽连斯基的通话中支持外交解决乌克兰战争",
+      "url": "https://www.alghad.tv/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%AF/news/%D9%81%D9%8A-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%85%D8%B9-%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%8A%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%AD%D9%84-%D8%A7%D9%84%D8%AF%D8%A8%D9%84%D9%88%D9%85%D8%A7%D8%B3%D9%8A-%D9%84%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
+      "source": "alghad.tv",
+      "source_score": 40,
+      "published_at": "2026-08-14T18:58:07+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "埃及总统塞西在与乌克兰总统泽连斯基的通话中表示支持外交解决乌克兰战争。",
+        "塞西呼吁各方通过谈判找到和平解决方案，以结束乌克兰战争。",
+        "泽连斯基对塞西的支持表示感谢，并希望埃及在促进乌克兰和平解决方面发挥积极作用。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "alghad.tv"
+      ],
+      "all_titles": {
+        "ar": "في اتصال مع زيلينسكي.. السيسي يدعم الحل الدبلوماسي لإنهاء حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "Vent de panique dans les pays de l’Otan : un drone s’écrase en Roumanie, la Finlande ferme son espace aérien par précaution",
+      "title_zh": "北约国家陷入恐慌：罗马尼亚坠毁无人机，芬兰出于预防关闭空域",
+      "url": "https://www.midilibre.fr/2026/08/14/vent-de-panique-dans-les-pays-de-lotan-un-drone-secrase-en-roumanie-la-finlande-ferme-son-espace-aerien-par-precaution-13509536.php",
+      "source": "Midi Libre",
+      "source_score": 40,
+      "published_at": "2026-08-14T18:58:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "一架未识别的无人机在罗马尼亚东南部坠毁，距离乌克兰边境约5公里。",
+        "罗马尼亚国防部表示，无人机在未被雷达探测到的情况下飞行，坠毁在一片森林中，没有造成任何损害。",
+        "芬兰出于预防关闭了其东部空域，称这是为了防止可能的无人机入侵。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Midi Libre"
+      ],
+      "all_titles": {
+        "fr": "Vent de panique dans les pays de l’Otan : un drone s’écrase en Roumanie, la Finlande ferme son espace aérien par précaution"
+      }
+    },
+    {
+      "title_original": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "title_zh": "阿富汗女性告诉BBC，五年来塔利班统治使她们的生活变得无法辨认",
+      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T18:25:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "阿富汗女性表示，自塔利班重新掌权五年来，她们的生活已经变得面目全非。",
+        "塔利班政府已经限制了女孩12岁以上的教育，并限制了女性的旅行和社交活动。",
+        "许多女性表示，她们的生活已经变得非常艰难，几乎无法维持生计。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule"
+      }
+    },
+    {
+      "title_original": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "title_zh": "美国航母前往接替林肯号航母，后者因船上问题而延长部署",
+      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T17:36:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国航母乔治·华盛顿号正在前往中东，以接替林肯号航母，后者因船上问题而延长部署。",
+        "林肯号航母上的水手们已经在海上待了九个月，面临着食物短缺和艰难的生活条件。",
+        "美国海军已经承认了供应链挑战，但否认林肯号航母上存在精神健康危机。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board"
+      }
+    },
+    {
+      "title_original": "Así es la red militar de bases de Estados Unidos en la OTAN",
+      "title_zh": "这是美国在北约的军事基地网络",
+      "url": "https://www.abc.es/internacional/red-militar-estados-unidos-otan-20260814190505-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-08-14T17:05:05+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "美国在北约国家拥有广泛的军事基地和设施网络，主要集中在欧洲。",
+        "美国在欧洲拥有31个永久性军事基地和19个临时军事设施，总共有68,000名军事人员驻扎在这些基地中。",
+        "德国是美国在欧洲最大的军事基地，拥有36,400名美国军事人员。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Así es la red militar de bases de Estados Unidos en la OTAN"
+      }
+    },
+    {
+      "title_original": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "title_zh": "活动家试图向被以色列定居者围困的巴勒斯坦人家中送达援助",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T17:03:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "活动家试图向被以色列定居者围困的巴勒斯坦人家中送达援助，包括水和食物。",
+        "以色列军队已经封锁了该地区，禁止活动家直接送达援助。",
+        "巴勒斯坦人表示，他们的生活已经变得非常艰难，几乎无法维持生计。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers"
+      }
+    },
+    {
+      "title_original": "France's top court blocks social media ban for under-15s",
+      "title_zh": "法国最高法院阻止对15岁以下儿童的社交媒体禁令",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T16:35:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "法国最高法院推翻了对15岁以下儿童的社交媒体禁令，理由是该禁令侵犯了言论自由。",
+        "该禁令最初由法国立法者在7月份通过，旨在保护儿童的精神健康。",
+        "法国总统埃马纽埃尔·马克龙已要求总理塞巴斯蒂安·勒科尔努准备一份新的草案，以解决宪法委员会的担忧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "France's top court blocks social media ban for under-15s"
+      }
+    },
+    {
+      "title_original": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+      "title_zh": "赞比亚选票统计在暂停后因涉嫌袭击投票工作人员而恢复",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T16:28:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "赞比亚选举委员会在暂停后恢复了对总统、议会和地方选举的选票统计。",
+        "统计过程因涉嫌袭击投票工作人员而暂停，导致选票被盗。",
+        "现任总统哈凯因德·希奇莱马正在寻求连任，主要对手是布莱恩·蒙杜比莱。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zambia vote counting resumes after pause over alleged attacks on polling staff"
+      }
+    },
+    {
+      "title_original": "اتفاقية مكة للدفاع المشترك: ما هو موقف مصر؟ وما مستقبل التحالف بين السعودية وتركيا وباكستان؟",
+      "title_zh": "麦加共同防御协议：埃及的立场是什么？沙特、土耳其和巴基斯坦的联盟前景如何？",
+      "url": "https://www.bbc.com/arabic/articles/cvgx1x8r3x4o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-14T16:23:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特、土耳其和巴基斯坦签署了麦加共同防御协议，旨在加强三国之间的防御合作。",
+        "埃及并未加入该协议，据分析人士称，埃及希望保持独立的立场，不想被卷入地区冲突。",
+        "该协议被视为沙特、土耳其和巴基斯坦在地区安全问题上进行合作的重要一步。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "اتفاقية مكة للدفاع المشترك: ما هو موقف مصر؟ وما مستقبل التحالف بين السعودية وتركيا وباكستان؟"
+      }
+    },
+    {
+      "title_original": "صفقة بيع ليكرز تسلط الضوء على رغبة الأثرياء في الظفر بذهب الرياضة",
+      "title_zh": "湖人队的出售案凸显了富人的体育投资热情",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/5306978-%D8%B5%D9%81%D9%82%D8%A9-%D8%A8%D9%8A%D8%B9-%D9%84%D9%8A%D9%83%D8%B1%D8%B2-%D8%AA%D8%B3%D9%84%D8%B7-%D8%A7%D9%84%D8%B6%D9%88%D8%A1-%D8%B9%D9%84%D9%89-%D8%B1%D8%BA%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D8%AB%D8%B1%D9%8A%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B8%D9%81%D8%B1-%D8%A8%D8%B0%D9%87%D8%A8-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-14T15:55:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "湖人队以12.5亿美元的价格被出售，创下了体育队伍出售的最高价格记录。",
+        "该队伍的出售凸显了富人对体育投资的热情，体育行业的高额广告收入和高收视率是主要吸引力。",
+        "体育队伍的出售价格不断上涨，湖人队的出售案是近年来体育行业投资热潮的最新例子。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "صفقة بيع ليكرز تسلط الضوء على رغبة الأثرياء في الظفر بذهب الرياضة"
+      }
+    },
+    {
+      "title_original": "Ukraine War Bleeds Into the Caspian",
+      "title_zh": "乌克兰战争蔓延到里海",
+      "url": "https://cepa.org/article/ukraine-war-bleeds-into-the-caspian/",
+      "source": "Center for European Policy Analysis (CEPA)",
+      "source_score": 40,
+      "published_at": "2026-08-14T15:51:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰对里海上的伊朗船只进行了攻击，导致一名伊朗水手死亡，三名水手受伤。",
+        "此次攻击是乌克兰对伊朗的第一次已知攻击，之前乌克兰曾攻击过俄罗斯在里海上的目标。",
+        "伊朗谴责了这次攻击，并召见了乌克兰的临时代办，乌克兰总统泽连斯基确认了这次攻击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Center for European Policy Analysis (CEPA)"
+      ],
+      "all_titles": {
+        "en": "Ukraine War Bleeds Into the Caspian"
+      }
+    },
+    {
+      "title_original": "مصادر لـ«الشرق الأوسط»: بارزاني نقل رسائل بين الزيدي والشرع... ومهد لزيارة دمشق",
+      "title_zh": "消息人士称巴尔扎尼在泽迪和沙尔之间传递信息，为访问大马士革铺平了道路",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5304735-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D9%84%D9%80%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%86%D9%8A-%D9%86%D9%82%D9%84-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D8%B9-%D9%88%D9%85%D9%87%D8%AF",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-14T15:46:18+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊拉克库尔德地区政府和伊拉克政府之间的安全和政治问题协调日益紧密。",
+        "巴尔扎尼最近访问大马士革有助于缓解伊拉克和叙利亚之间的双边关系和悬而未决的问题。",
+        "巴尔扎尼在伊拉克总理泽迪和叙利亚总统沙尔之间传递信息，为泽迪可能访问大马士革铺平了道路。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مصادر لـ«الشرق الأوسط»: بارزاني نقل رسائل بين الزيدي والشرع... ومهد لزيارة دمشق"
+      }
+    },
+    {
+      "title_original": "American missionary kidnapped in Niger freed after nine months",
+      "title_zh": "美国传教士在尼日尔被绑架九个月后获释",
+      "url": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-14T14:55:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国传教士凯文·赖德特在尼日尔被绑架九个月后获释。",
+        "赖德特的组织表示，他现在身体健康，正在美国官员的照顾下。",
+        "赖德特不久将与他的家人团聚。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "American missionary kidnapped in Niger freed after nine months"
+      }
+    },
+    {
+      "title_original": "الجغرافيا السياسية تفكك استهداف الهجمات الاستيطانية لبلدة قُصرة بنابلس",
+      "title_zh": "政治地理学解析了对纳布卢斯附近的库斯拉镇的定居点袭击",
+      "url": "https://www.aljazeera.net/politics/2026/8/14/%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%AA%D9%81%D9%83%D9%83-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-14T14:29:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "库斯拉镇是纳布卢斯附近的一个小镇，位于西岸，是一个战略位置，可能会阻碍以色列在该地区建立定居点的计划。",
+        "该镇被以色列定居点和定居点包围，最近该镇遭到了定居者的袭击。",
+        "这些袭击的目的是恐吓当地居民，迫使他们离开该地区，以便为以色列的定居点扩张让路。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "الجغرافيا السياسية تفكك استهداف الهجمات الاستيطانية لبلدة قُصرة بنابلس"
+      }
+    },
+    {
+      "title_original": "ماذا يحدث داخل حاملة الطائرات \"أبراهام لينكولن\" الموجودة في الشرق الأوسط؟",
+      "title_zh": "中东的“亚伯拉罕·林肯”号航母内部发生了什么？",
+      "url": "https://www.bbc.com/arabic/articles/cn4nd09x250o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-14T14:05:59+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "亚伯拉罕·林肯号航母目前部署在中东地区，执行任务。",
+        "航母上的飞机和船员正在执行各种任务，包括空中支援和海上巡逻。",
+        "航母的存在是为了维护该地区的安全和稳定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "ماذا يحدث داخل حاملة الطائرات \"أبراهام لينكولن\" الموجودة في الشرق الأوسط؟"
+      }
+    },
+    {
+      "title_original": "Luftalarm in Lettland Nato-Kampfjets schießen ausländische Drohne ab – Finnland richtet Sperrzone ein",
+      "title_zh": "拉脱维亚空中警报：北约战机击落外国无人机 – 芬兰设立禁区",
+      "url": "https://www.tagesspiegel.de/internationales/luftalarm-in-lettland-nato-kampfjets-schiessen-auslandische-drohne-ab--finnland-richtet-sperrzone-ein-15942326.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-08-14T13:35:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "拉脱维亚空军在该国领空击落了一架外国无人机。",
+        "无人机被北约战机击落，目前尚不清楚其来源和类型。",
+        "芬兰在东部海域和领空设立了禁区，以防止类似事件发生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Luftalarm in Lettland Nato-Kampfjets schießen ausländische Drohne ab – Finnland richtet Sperrzone ein"
+      }
+    },
+    {
+      "title_original": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "title_zh": "比利时建筑工人在一栋房子的墙壁中发现价值900万欧元的金条",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T13:18:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "比利时建筑工人在一栋房子的墙壁中发现价值900万欧元的金条和硬币。",
+        "这笔宝藏是在工人为安装新的下水道管道而钻探时发现的。",
+        "宝藏的发现引发了人们对谁将拥有这笔财富的兴趣，建筑工人和房产所有者都可能拥有它。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Builders unearth €9m gold stash sealed in walls of Belgian property"
+      }
+    },
+    {
+      "title_original": "NATO jets shoot down drone over Latvia",
+      "title_zh": "北约战机在拉脱维亚上空击落无人机",
+      "url": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-latvia/a-78366346",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-08-14T12:42:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约战机在拉脱维亚上空击落一架无人机，这架无人机进入了拉脱维亚的空域。",
+        "这架无人机的来源尚不清楚，北约正在进行调查。",
+        "拉脱维亚军方最初发布了空中警报，敦促人们留在室内并寻找庇护。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "EL PAÍS",
+        "dw.com"
+      ],
+      "all_titles": {
+        "es": "Un caza italiano bajo mando de la OTAN derriba un dron de origen desconocido en Letonia",
+        "en": "NATO jets shoot down drone over Latvia"
+      }
+    },
+    {
+      "title_original": "(وسائط متعددة): متحدث: سلطات الحزب الديمقراطي التقدمي في تايوان تثير الذعر عبر مناورات عسكرية",
+      "title_zh": "发言人：台湾民进党当局通过军事演习制造恐慌",
+      "url": "https://arabic.news.cn/20260814/325bfbc6506d44f8b19c200d261d5095/c.html",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-08-14T12:40:15+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国国防部发言人表示，台湾民进党当局通过军事演习制造恐慌，试图制造战争的氛围。",
+        "发言人指出，台湾的军事演习是浪费钱财和人力的行为，并且这些演习包括暂时减慢手机网络速度等措施，引起了争议。",
+        "中国军队将继续加强战斗能力，随时准备保护国家主权和领土完整。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "ar": "(وسائط متعددة): متحدث: سلطات الحزب الديمقراطي التقدمي في تايوان تثير الذعر عبر مناورات عسكرية"
+      }
+    },
+    {
+      "title_original": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+      "title_zh": "Instagram账户为跨越休达提供付费建议，助长了休达危机",
+      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-14T12:19:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "一些Instagram账户为试图从摩洛哥跨越到西班牙休达的移民提供付费建议和帮助。",
+        "这些账户发布了关于如何安全跨越边境的信息和视频，尽管事实上许多人在尝试跨越时遇难或受伤。",
+        "BBC的调查发现，这些账户是由一个网络运营的，旨在通过提供付费服务来获利。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross"
+      }
+    }
+  ]
+}
