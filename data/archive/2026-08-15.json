@@ -1,8 +1,787 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T00:00:03.312629+00:00",
-  "count": 34,
+  "generated_at": "2026-08-15T11:53:01.636524+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title_original": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "title_zh": "印度尼西亚7.7级地震至少造成38人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-15T11:48:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "印度尼西亚发生7.7级地震，造成至少38人死亡，多人受伤。",
+        "地震发生在印度尼西亚弗洛雷斯岛，震源深度15公里，引发多次余震。",
+        "地震导致当地建筑物受损，部分地区出现海啸警报，但后被解除。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia"
+      }
+    },
+    {
+      "title_original": "Russia Campaigned to Derail Moldova’s Pro-Western Government",
+      "title_zh": "俄罗斯试图破坏摩尔多瓦的亲西方政府",
+      "url": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+      "source": "The New York Times",
+      "source_score": 95,
+      "published_at": "2026-08-15T11:43:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯试图破坏摩尔多瓦的亲西方政府，摩尔多瓦是东欧的一个小国。",
+        "摩尔多瓦政府试图加强与西方国家的关系，包括欧盟和美国。",
+        "俄罗斯的行动可能会导致摩尔多瓦的政治不稳定，影响该地区的安全局势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The New York Times"
+      ],
+      "all_titles": {
+        "en": "Russia Campaigned to Derail Moldova’s Pro-Western Government"
+      }
+    },
+    {
+      "title_original": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+      "title_zh": "以色列空袭黎巴嫩南部，黎巴嫩总理称7人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-15T11:24:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列对黎巴嫩南部发动空袭，造成7人死亡，包括3名儿童和2名妇女。",
+        "黎巴嫩总理谴责以色列的行动，称以色列必须停止升级局势。",
+        "以色列军方称，空袭是对黎巴嫩真主党行动的回应，真主党是黎巴嫩的一个什叶派组织。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Seven killed in Israeli strike on southern Lebanon, country's PM says"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient: le détroit d'Ormuz 'restera iranien' réaffirme l'Iran après les propos de Donald Trump",
+      "title_zh": "伊朗重申霍尔木兹海峡将保持伊朗控制，回应特朗普的言论",
+      "url": "https://information.tv5monde.com/international/guerre-au-moyen-orient-le-detroit-dormuz-restera-iranien-reaffirme-liran-apres-les-propos-de-donald-trump-2833704",
+      "source": "tv5monde",
+      "source_score": 40,
+      "published_at": "2026-08-15T10:47:44+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗重申霍尔木兹海峡将保持伊朗控制，回应美国前总统特朗普的言论。",
+        "霍尔木兹海峡是中东的一个重要海峡，伊朗对其拥有控制权。",
+        "伊朗的声明可能会导致中东地区的紧张局势加剧，影响全球能源市场。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "tv5monde"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: le détroit d'Ormuz 'restera iranien' réaffirme l'Iran après les propos de Donald Trump"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Kiew greift russischen Militärflughafen an – Kinschal-Jets im Visier",
+      "title_zh": "乌克兰战争最新：基辅袭击俄罗斯军用机场，瞄准钦查尔喷气式飞机",
+      "url": "https://www.fr.de/politik/kiew-attackiert-oelraffinerie-in-russland-ukraine-krieg-aktuell-zr-94435946.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-15T10:36:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队袭击了俄罗斯的一个军用机场，目标是钦查尔喷气式飞机。",
+        "据报道，俄罗斯军队在过去24小时内损失了约1370名士兵。",
+        "乌克兰声称在过去24小时内摧毁了62个炮兵系统和1835架无人机。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Kiew greift russischen Militärflughafen an – Kinschal-Jets im Visier"
+      }
+    },
+    {
+      "title_original": "ウクライナが露南部にミサイル攻撃、ロケット開発工場損傷か 「フラミンゴ」使用の可能性",
+      "title_zh": "乌克兰对俄罗斯南部发动导弹袭击，火箭开发工厂可能受损，可能使用了“火烈鸟”导弹",
+      "url": "https://www.sankei.com/article/20260815-GRNWOMLSNBO55KOB4JOFVKEBQM/",
+      "source": "産経ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-15T09:49:11+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队对俄罗斯南部发动了导弹袭击，目标可能是火箭开发工厂。",
+        "据报道，袭击可能使用了“火烈鸟”导弹。",
+        "俄罗斯军队声称在过去24小时内拦截了598架乌克兰无人机。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "産経ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナが露南部にミサイル攻撃、ロケット開発工場損傷か 「フラミンゴ」使用の可能性"
+      }
+    },
+    {
+      "title_original": "菲律宾不介入台海，也不会给美军当跳板？马科斯的承诺不可信",
+      "title_zh": "菲律宾不会介入台海，也不会为美军提供跳板？马科斯的承诺不可信",
+      "url": "https://m.sohu.com/a/1063297252_121455372?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-08-15T09:46:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "菲律宾总统马科斯表示，菲律宾不会介入台海冲突，也不会为美军提供跳板。",
+        "然而，马科斯的承诺被认为不可信，因为菲律宾已经允许美军进驻巴丹群岛。",
+        "美军在巴丹群岛部署了反舰导弹，距离台湾仅142公里。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "菲律宾不介入台海，也不会给美军当跳板？马科斯的承诺不可信"
+      }
+    },
+    {
+      "title_original": "South Korea proposes talks to officially end war with North",
+      "title_zh": "韩国提议与北韩举行谈判，正式结束战争",
+      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-15T09:35:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "韩国总统李在明提议与北韩举行谈判，正式结束两国之间的战争。",
+        "李在明表示，韩国希望与北韩建立一个多层次的安全体系，以避免两国之间的冲突。",
+        "北韩一直在测试能够携带核弹头的弹道导弹，韩国和日本认为这是北韩试图恐吓和展示实力的行为。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "South Korea proposes talks to officially end war with North"
+      }
+    },
+    {
+      "title_original": "El arzobispo de Sevilla mira a Ceuta: «Las personas no pueden ser utilizadas como arma de presión geopolítica»",
+      "title_zh": "塞维利亚大主教关注塞乌塔：《人们不能被用作地缘政治压力的工具》",
+      "url": "https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/saiz-meneses-asuncion-santa-maria-reyes-permitas-20260815112537-nts.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-08-15T09:26:12+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "塞维利亚大主教萨伊兹·梅内塞斯（Saiz Meneses）表示，人们不能被用作地缘政治压力的工具。",
+        "他在一场弥撒仪式上发表了这番言论，仪式是在塞维利亚的主教座堂举行的。",
+        "塞乌塔目前正面临着严重的移民危机，许多人试图从非洲偷渡到欧洲。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "El arzobispo de Sevilla mira a Ceuta: «Las personas no pueden ser utilizadas como arma de presión geopolítica»"
+      }
+    },
+    {
+      "title_original": "قصف مدفعي وصاروخي سعودي يستهدف المناطق الحدودية في صعدة",
+      "title_zh": "沙特炮兵和导弹袭击也门萨达省边境地区",
+      "url": "https://www.tasnimnews.ir/ar/news/2026/08/15/3671164/%D9%82%D8%B5%D9%81-%D9%85%D8%AF%D9%81%D8%B9%DB%8C-%D9%88%D8%B5%D8%A7%D8%B1%D9%88%D8%AE%DB%8C-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%DB%8C%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%A9-%D9%81%DB%8C-%D8%B5%D8%B9%D8%AF%D8%A9",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-08-15T08:37:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特军队对也门萨达省边境地区发动了炮兵和导弹袭击。",
+        "袭击目标包括萨达省的部分地区，造成了物质损害。",
+        "萨达省是也门北部的一个省份，位于沙特阿拉伯边境，近年来该地区经常发生冲突。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "قصف مدفعي وصاروخي سعودي يستهدف المناطق الحدودية في صعدة"
+      }
+    },
+    {
+      "title_original": "Unterstützen sie die US-Politik?: Trump verschickt brisante Frageliste an Nato-Partner",
+      "title_zh": "他们是否支持美国政策？：特朗普向北约伙伴发送了敏感的问卷",
+      "url": "https://www.t-online.de/nachrichten/ausland/eu/id_101390240/trump-prueft-buendnistreue-der-nato-partner-mit-brisantem-fragebogen.html",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-08-15T08:29:55+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国总统特朗普向北约伙伴发送了一份问卷，询问他们对美国政策的支持情况。",
+        "问卷内容包括北约成员国是否公开支持特朗普的政策，以及他们是否愿意增加军费开支等问题。",
+        "这份问卷是特朗普政府评估北约成员国对美国政策支持程度的一部分。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Unterstützen sie die US-Politik?: Trump verschickt brisante Frageliste an Nato-Partner"
+      }
+    },
+    {
+      "title_original": "DIRECT - Moyen-Orient: plusieurs morts dans une frappe israélienne sur le sud du Liban",
+      "title_zh": "直接报道 - 中东：以色列对黎巴嫩南部发动袭击，造成多人死亡",
+      "url": "https://fr.news.yahoo.com/direct-moyen-orient-plusieurs-morts-080749583.html",
+      "source": "Yahoo Actualités",
+      "source_score": 40,
+      "published_at": "2026-08-15T08:07:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列对黎巴嫩南部发动了袭击，造成至少九人死亡，这是自六月以来该地区最严重的暴力事件。",
+        "袭击发生在黎巴嫩南部的安萨尔村，造成多人受伤和房屋破坏。",
+        "此次袭击是以色列和黎巴嫩之间最近一次紧张事件，两国关系近期持续紧张。"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（3源）但未证实",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Yahoo Actualités",
+        "WELT",
+        "تسنیم"
+      ],
+      "all_titles": {
+        "fr": "DIRECT - Moyen-Orient: plusieurs morts dans une frappe israélienne sur le sud du Liban",
+        "de": "Naher Osten: Libanesische Staatsmedien melden sieben Tote nach israelischem Luftangriff",
+        "ar": "استشهاد 6 لبنانيين في عدوان إسرائيلي على جنوب لبنان- الأخبار الشرق الأوسط - وکالة تسنیم الدولیة للأنباء"
+      }
+    },
+    {
+      "title_original": "Moldavia es clave para el objetivo de Putin de destruir la OTAN. Esta es la razón",
+      "title_zh": "摩尔多瓦是普京摧毁北约的关键。以下是原因",
+      "url": "https://www.nytimes.com/es/2026/08/15/espanol/mundo/moldavia-influencia-rusia.html",
+      "source": "The New York Times",
+      "source_score": 95,
+      "published_at": "2026-08-15T08:00:10+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "摩尔多瓦被认为是俄罗斯总统普京实现摧毁北约目标的关键国家。",
+        "摩尔多瓦的地理位置和政治局势使其成为俄罗斯影响力范围内的一个重要国家。",
+        "俄罗斯对摩尔多瓦的影响力可能会对北约的东扩产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "The New York Times"
+      ],
+      "all_titles": {
+        "es": "Moldavia es clave para el objetivo de Putin de destruir la OTAN. Esta es la razón"
+      }
+    },
+    {
+      "title_original": "Ukraine War, Day 1,634: Russia’s Killing of Civilians Highest Since March 2022",
+      "title_zh": "乌克兰战争，第1634天：俄罗斯杀害平民人数自2022年3月以来最高",
+      "url": "https://eaworldview.com/2026/08/ukraine-war-russia-killing-civilians-highest-since-march-2022/",
+      "source": "EA WorldView",
+      "source_score": 40,
+      "published_at": "2026-08-15T07:46:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争已经持续1634天，俄罗斯杀害平民的数量达到自2022年3月以来最高。",
+        "乌克兰空防系统在一晚上击落了124架俄罗斯无人机和3枚巡航导弹，共有16个地点受到攻击。",
+        "俄罗斯对乌克兰马尔哈恩茨的攻击造成了一名3个月大的男婴死亡，11人受伤，其中7人伤势严重。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "EA WorldView"
+      ],
+      "all_titles": {
+        "en": "Ukraine War, Day 1,634: Russia’s Killing of Civilians Highest Since March 2022"
+      }
+    },
+    {
+      "title_original": "德国北约枢纽机场连遭无人机炸弹与不明撞击，乌克兰指俄所为",
+      "title_zh": "德国北约枢纽机场连遭无人机炸弹与不明撞击，乌克兰指俄所为",
+      "url": "https://k.sina.com.cn/article_7879923852_m1d5ae188c03301kq8e.html",
+      "source": "新浪网",
+      "source_score": 40,
+      "published_at": "2026-08-15T07:42:47+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "德国北约枢纽机场遭到无人机炸弹和不明物体的攻击，乌克兰指责俄罗斯是肇事者。",
+        "机场是北约援乌克兰的关键物流枢纽，德国内政部长表示袭击非常专业，不是业余人士所为。",
+        "乌克兰大使直接指责莫斯科应对此事件负责，德国已经启动了反恐调查。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "新浪网"
+      ],
+      "all_titles": {
+        "zh": "德国北约枢纽机场连遭无人机炸弹与不明撞击，乌克兰指俄所为"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : le détroit d'Ormuz «est et restera iranien», affirme un responsable iranien à Donald Trump",
+      "title_zh": "中东战争：伊朗官员告诉特朗普，霍尔木兹海峡“现在和将来都是伊朗的”",
+      "url": "https://www.cnews.fr/monde/2026-08-15/guerre-au-moyen-orient-le-detroit-dormuz-est-et-restera-iranien-affirme-un",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-08-15T06:10:06+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗官员对特朗普表示，霍尔木兹海峡现在和将来都是伊朗的，拒绝外国干涉。",
+        "伊朗已经对通过霍尔木兹海峡的几艘油轮进行了攻击，导致油轮受损。",
+        "美国和伊朗在中东地区的紧张关系持续升级，双方都采取了军事和外交手段应对。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : le détroit d'Ormuz «est et restera iranien», affirme un responsable iranien à Donald Trump"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 07:42 Ukraine greift russisches Raketenwerk an +++",
+      "title_zh": "乌克兰战争直播：乌克兰袭击俄罗斯火箭工厂",
+      "url": "https://www.n-tv.de/politik/07-42-Ukraine-greift-russisches-Raketenwerk-an-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-15T05:44:58+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队袭击了俄罗斯的火箭工厂，使用了新开发的Flamingo导弹。",
+        "俄罗斯军队在乌克兰东南部地区控制了19个城镇和村庄。",
+        "乌克兰总统沃洛季米尔·泽连斯基表示，乌克兰军队已经从俄罗斯手中夺回了745平方公里的领土。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 07:42 Ukraine greift russisches Raketenwerk an +++"
+      }
+    },
+    {
+      "title_original": "Fact Check: Euronews Did NOT Publish Report Saying Ukrainian Gunman Shot Dead 3 NATO Soldiers in Latvia -- Did NOT Happen",
+      "title_zh": "事实核查：欧洲新闻台没有发布报道称乌克兰枪手在拉脱维亚杀死3名北约士兵",
+      "url": "https://www.yahoo.com/news/world/articles/fact-check-euronews-did-not-052105711.html",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-08-15T05:21:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "没有证据表明欧洲新闻台发布了有关乌克兰枪手在拉脱维亚杀死3名北约士兵的报道。",
+        "该事件没有发生。",
+        "事实核查机构已经证实了这一点。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "en": "Fact Check: Euronews Did NOT Publish Report Saying Ukrainian Gunman Shot Dead 3 NATO Soldiers in Latvia -- Did NOT Happen"
+      }
+    },
+    {
+      "title_original": "Russia's economy has defied the skeptics. Cracks are getting harder to hide",
+      "title_zh": "俄罗斯经济让怀疑者感到意外，但问题正在逐渐暴露",
+      "url": "https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-08-15T05:00:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯经济尽管面临挑战，但仍然保持增长。",
+        "俄罗斯的军事工业复合体和石油天然气价格的上涨帮助支撑了经济。",
+        "然而，经济问题仍然存在，包括预算赤字和通货膨胀。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "Russia's economy has defied the skeptics. Cracks are getting harder to hide"
+      }
+    },
+    {
+      "title_original": "Putin warnt vor NATO-Bedrohung im Pazifik – und schützt Russlands Atom-U-Boote mit Drohnennetzen",
+      "title_zh": "普京警告北约在太平洋的威胁，并使用无人机网络保护俄罗斯的核潜艇",
+      "url": "https://www.fr.de/politik/geschuetzt-werden-putin-warnt-vor-bedrohung-im-pazifik-waehrend-boote-mit-anti-drohnen-netzen-zr-94442235.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-15T05:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京警告北约在太平洋的军事存在对俄罗斯构成威胁。",
+        "俄罗斯正在使用无人机网络保护其核潜艇。",
+        "北约计划在太平洋部署新的武器系统。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Putin warnt vor NATO-Bedrohung im Pazifik – und schützt Russlands Atom-U-Boote mit Drohnennetzen"
+      }
+    },
+    {
+      "title_original": "قراءة في الصحف الفرنسية - لوفيغارو: الصين تتفوق على روسيا مستفيدة من حرب أوكرانيا",
+      "title_zh": "法国报纸评论：中国从乌克兰战争中获益，超过俄罗斯",
+      "url": "https://www.mc-doualiya.com/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D8%AD%D9%81-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9/20260815-%D9%84%D9%88%D9%81%D9%8A%D8%BA%D8%A7%D8%B1%D9%88-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%AA%D9%81%D9%88%D9%82-%D8%B9%D9%84%D9%89-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%85%D8%B3%D8%AA%D9%81%D9%8A%D8%AF%D8%A9-%D9%85%D9%86-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
+      "source": "مونت كارلو الدولية",
+      "source_score": 40,
+      "published_at": "2026-08-15T04:07:25+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "法国报纸《解放报》评论称，中国从乌克兰战争中获益，超过俄罗斯。",
+        "中国的经济和军事实力正在增长。",
+        "俄罗斯由于乌克兰战争而面临经济和军事挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "مونت كارلو الدولية"
+      ],
+      "all_titles": {
+        "ar": "قراءة في الصحف الفرنسية - لوفيغارو: الصين تتفوق على روسيا مستفيدة من حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "La mini-OTAN Islámica",
+      "title_zh": "伊斯兰小北约",
+      "url": "https://valenciaplaza.com/valenciaplaza/opinion/la-mini-otan-islamica",
+      "source": "Valencia Plaza",
+      "source_score": 40,
+      "published_at": "2026-08-15T04:01:23+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊斯兰小北约是指由巴基斯坦、沙特阿拉伯和土耳其组成的联盟，旨在创建一个安全和威慑的集团。",
+        "该联盟被称为“伊斯兰小北约”，因为它的成员国都是穆斯林国家，并且其宗旨是维护地区安全和稳定。",
+        "伊斯兰小北约的成立是对近期地缘政治形势变化的反应，尤其是以色列和哈马斯之间的冲突加剧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Valencia Plaza"
+      ],
+      "all_titles": {
+        "es": "La mini-OTAN Islámica"
+      }
+    },
+    {
+      "title_original": "Frist für Iran-USA-Abkommen verstreicht – Naher Osten vor ungewisser Zukunft",
+      "title_zh": "伊朗-美国协议截止日期临近，中东面临不确定的未来",
+      "url": "https://www.spiegel.de/ausland/frist-fuer-iran-usa-abkommen-verstreicht-naher-osten-vor-ungewisser-zukunft-a-34fe3005-49a5-479c-a176-d6af268c6d75",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-08-15T04:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗和美国之间的协议截止日期临近，但双方仍未能达成一致，中东地区的局势因此变得更加不确定。",
+        "美国总统特朗普曾宣布计划将霍尔木兹海峡作为美国领土，这一举动引发了伊朗的强烈反对和抗议。",
+        "伊朗和美国之间的紧张关系加剧，中东地区的安全局势因此变得更加复杂和不确定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Frist für Iran-USA-Abkommen verstreicht – Naher Osten vor ungewisser Zukunft"
+      }
+    },
+    {
+      "title_original": "忠诚度测试？特朗普政府向北约盟国发问卷",
+      "title_zh": "忠诚度测试？特朗普政府向北约盟国发问卷",
+      "url": "https://m.sohu.com/a/1063189152_115479?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-08-15T03:33:10+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普政府向北约盟国发出了问卷，旨在评估各国对美国政策的支持度和忠诚度。",
+        "问卷内容包括各国是否公开支持美国的对外政策、是否限制美军使用其境内的军事基地等问题。",
+        "北约盟国对这一举动表示抵触情绪，认为这是试图逼迫他们在意识形态上与美国保持一致，换取保护。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "忠诚度测试？特朗普政府向北约盟国发问卷"
+      }
+    },
+    {
+      "title_original": "香港国泰客机遭北约战机拦截，香港民航处：因机组人员调错无线电频率",
+      "title_zh": "香港国泰客机遭北约战机拦截，香港民航处：因机组人员调错无线电频率",
+      "url": "https://finance.sina.cn/2026-08-14/detail-ininhxpi2790951.d.html?vt=4&cid=76524&node_id=76524",
+      "source": "新浪网",
+      "source_score": 40,
+      "published_at": "2026-08-15T03:31:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "香港国泰航空的一架客机在飞行途中被北约战机拦截，原因是机组人员错误地调换了无线电频率。",
+        "事件发生在7月4日，涉事客机是在途径罗马尼亚上空时被北约战机拦截的。",
+        "香港民航处已经对此事进行了调查，并要求国泰航空采取改善措施，以防止类似事件再次发生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "新浪网"
+      ],
+      "all_titles": {
+        "zh": "香港国泰客机遭北约战机拦截，香港民航处：因机组人员调错无线电频率"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Zelenskyy warns Egypt of food supply threat caused by Russian strikes in Black Sea",
+      "title_zh": "乌克兰战争简报：泽连斯基警告埃及因俄罗斯在黑海的袭击而导致的食品供应威胁",
+      "url": "https://www.theguardian.com/world/2026/aug/15/ukraine-war-briefing-zelenskyy-warns-egypt-of-food-supply-threat-caused-by-russian-strikes-in-black-sea",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-15T03:19:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基警告埃及总统阿卜杜勒·法塔赫·塞西，俄罗斯在黑海的袭击可能会导致食品供应短缺和价格上涨。",
+        "泽连斯基表示，乌克兰是埃及和其他许多非洲和中东国家的主要食品供应国，但由于俄罗斯的袭击，食品供应已经面临严重威胁。",
+        "俄罗斯否认了停火的可能性，指责乌克兰进行“大胆的恐怖主义行为”并破坏黑海地区的民用航运。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Zelenskyy warns Egypt of food supply threat caused by Russian strikes in Black Sea"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : les Houthis frappent de nouveau, Washington durcit le ton contre l’Iran… Les dernières infos",
+      "title_zh": "中东战争：胡塞武装再次发动攻击，华盛顿对伊朗态度趋于强硬……最新消息",
+      "url": "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-les-houthis-frappent-de-nouveau-washington-durcit-le-ton-contre-liran-les-dernieres-infos-17ffc8d4-984c-11f1-80a8-4192b81f52ff",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-08-15T03:00:01+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东地区的冲突持续升级，胡塞武装再次发动攻击。",
+        "华盛顿对伊朗的态度趋于强硬。",
+        "此次事件是中东地区最新的紧张局势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : les Houthis frappent de nouveau, Washington durcit le ton contre l’Iran… Les dernières infos"
+      }
+    },
+    {
+      "title_original": "ウクライナは遠距離攻撃を継続 ロシア最大級の石油・ガス輸出港（AP通信）",
+      "title_zh": "乌克兰继续远距离攻击 俄罗斯最大级石油和天然气出口港",
+      "url": "https://news.yahoo.co.jp/articles/1f0c92c084597578a6274f4f9cc2e66ae993520a",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-15T01:54:55+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队继续对俄罗斯的基础设施发动远距离攻击。",
+        "乌克兰军队攻击了位于列宁格勒州的乌斯特鲁格港，这是俄罗斯最大的石油和天然气出口港之一。",
+        "乌克兰的目标是削弱俄罗斯的战争资金来源。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナは遠距離攻撃を継続 ロシア最大級の石油・ガス輸出港（AP通信）"
+      }
+    },
+    {
+      "title_original": "对来自俄罗斯的威胁担忧加剧之际，北约战机击落一架无人机",
+      "title_zh": "对来自俄罗斯的威胁担忧加剧之际，北约战机击落一架无人机",
+      "url": "https://cn.wsj.com/articles/nato-jet-downs-drone-as-concerns-grow-over-russia-threat-dd0408af",
+      "source": "华尔街日报中文网",
+      "source_score": 95,
+      "published_at": "2026-08-15T01:44:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北约战机在对俄罗斯威胁的担忧加剧之际击落了一架无人机。",
+        "此次事件发生在北约与俄罗斯之间的紧张关系加剧之际。",
+        "北约的行动是为了应对来自俄罗斯的潜在威胁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "华尔街日报中文网"
+      ],
+      "all_titles": {
+        "zh": "对来自俄罗斯的威胁担忧加剧之际，北约战机击落一架无人机"
+      }
+    },
+    {
+      "title_original": "トランプ政権がNATOの忠誠度を調査、加盟国は反発 米報道",
+      "title_zh": "特朗普政府调查北约成员国的忠诚度，成员国反对",
+      "url": "https://www.nikkei.com/article/DGXZQOCB150C20V10C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-15T00:33:50+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普政府曾对北约成员国进行忠诚度调查。",
+        "调查内容包括成员国对美国外交政策的支持以及对美国军事基地使用的限制。",
+        "北约成员国对此次调查表示反对。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "トランプ政権がNATOの忠誠度を調査、加盟国は反発 米報道"
+      }
+    },
+    {
+      "title_original": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "title_zh": "BBC要求传唤特朗普家族成员参与全景电视节目诉讼",
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-15T00:01:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "BBC正在进行一场诉讼，涉及特朗普家族成员。",
+        "BBC的律师认为特朗普家族成员对特朗普的某次演讲有个人了解。",
+        "此次诉讼与特朗普的言论有关。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "BBC seeks to subpoena Trump's family members in Panorama lawsuit"
+      }
+    },
     {
       "title_original": "Magnitude 7.7 earthquake strikes off coast of Indonesia and tsunami warning issued",
       "title_zh": "印度尼西亚海岸发生7.7级地震，发布海啸警报",
