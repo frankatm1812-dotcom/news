@@ -1,0 +1,882 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-16T23:51:56.974574+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "title_zh": "特朗普称美国将减少与韩国的军事演习，因为韩国没有参与伊朗战争",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-16T23:28:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "特朗普表示，美国将大幅减少与韩国的联合军事演习，理由是他与朝鲜领导人金正恩的关系很好。",
+        "韩国最近拒绝加入美国对伊朗的去核化行动，特朗普对此表示不满。",
+        "韩国方面表示，韩美军事演习将按计划进行，朝鲜方面尚未对此事发表评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war"
+      }
+    },
+    {
+      "title_original": "ロシアとウクライナで19人死亡 民間施設への空爆相次ぐ",
+      "title_zh": "俄罗斯和乌克兰19人死亡 民间设施遭空袭",
+      "url": "https://www.afpbb.com/articles/-/3648584",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-16T23:09:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯和乌克兰当局报告称，双方无人机和导弹袭击导致19人死亡，多个民间设施受损。",
+        "乌克兰总统泽连斯基表示，过去一周内，乌克兰各城市遭到1550多架无人机和62枚导弹的袭击，并呼吁西方国家提供更多防空支持。",
+        "联合国统计显示，7月份乌克兰有437名平民死亡，这是自2022年5月以来最多的月度平民死亡人数。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ロシアとウクライナで19人死亡 民間施設への空爆相次ぐ"
+      }
+    },
+    {
+      "title_original": "ロシア軍がウクライナ各地に大規模空爆、製鉄所で2人死亡",
+      "title_zh": "俄军对乌克兰各地进行大规模空袭，钢铁厂2人死亡",
+      "url": "https://jp.reuters.com/world/ukraine/7OIYAFV5GBICHERV7OS57M7OQE-2026-08-16/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-16T22:50:20+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯军队对乌克兰各地进行大规模空袭，包括钢铁厂在内的多个目标受到攻击。",
+        "乌克兰方面报告称，空袭导致2人死亡，多人受伤。",
+        "俄罗斯方面尚未对此事发表评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍がウクライナ各地に大規模空爆、製鉄所で2人死亡"
+      }
+    },
+    {
+      "title_original": "Nach Abschuss durch NATO-Kampfjet: Drohne kontrolliert gesprengt",
+      "title_zh": "北约战机击落：无人机被控制爆炸",
+      "url": "https://www.nordisch.info/panorama/nach-abschuss-durch-nato-kampfjet-drohne-kontrolliert-gesprengt/",
+      "source": "Nordisch.info",
+      "source_score": 40,
+      "published_at": "2026-08-16T22:45:12+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约战机击落一架无人机，随后无人机被控制爆炸。",
+        "此事件发生在北约和俄罗斯之间的紧张局势加剧的背景下。",
+        "北约方面尚未对此事发表评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Nordisch.info"
+      ],
+      "all_titles": {
+        "de": "Nach Abschuss durch NATO-Kampfjet: Drohne kontrolliert gesprengt"
+      }
+    },
+    {
+      "title_original": "不足する米パトリオットミサイル、ウクライナの空は無防備に",
+      "title_zh": "美国爱国者导弹不足，乌克兰的天空变得毫无防备",
+      "url": "https://news.yahoo.co.jp/articles/9a12d785235f4e7ed48ef161729829870ab1a609",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-16T22:41:18+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国爱国者导弹的不足使得乌克兰的天空变得毫无防备，无法抵御俄罗斯的导弹袭击。",
+        "乌克兰方面报告称，过去几天内，俄罗斯对乌克兰的导弹袭击导致多人死亡和受伤。",
+        "美国方面表示，爱国者导弹的生产和供应存在不足，难以满足乌克兰的需求。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "不足する米パトリオットミサイル、ウクライナの空は無防備に"
+      }
+    },
+    {
+      "title_original": "中東諸国がイスラエル非難 ガザ和平計画「拒否」で",
+      "title_zh": "中東諸国がイスラエル非難 ガザ和平計画「拒否」で",
+      "url": "https://www.nikkei.com/article/DGXZQOCB170310X10C26A8000000/",
+      "source": "nikkei.com",
+      "source_score": 95,
+      "published_at": "2026-08-16T21:42:24+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中東諸国的外相發表声明，譴責以色列拒絕加沙和平計畫。",
+        "声明指出，以色列的立場是「根本上損害了實現持久和平的努力」，並且「以色列要對此承擔全部責任」。",
+        "以色列總理內塔尼亞胡早前表示，以色列軍隊將在哈馬斯武裝解除之前不會撤出加沙。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "nikkei.com"
+      ],
+      "all_titles": {
+        "ja": "中東諸国がイスラエル非難 ガザ和平計画「拒否」で"
+      }
+    },
+    {
+      "title_original": "美股本周关注联储局议息会议纪录及中东局势等",
+      "title_zh": "美股本周关注联储局议息会议纪录及中东局势等",
+      "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1866379-20260817.htm?spTabChangeable=0",
+      "source": "gbcode.rthk.hk",
+      "source_score": 55,
+      "published_at": "2026-08-16T21:38:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "本周，美股市場將關注聯儲局議息會議紀錄、 中東局勢發展等因素。",
+        "市場預期聯儲局將公布上月議息會議紀錄，屆時將顯示更多官員是否支持加息。",
+        "同時，市場也關注中東局勢發展，包括伊朗戰爭對全球經濟的影響。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "gbcode.rthk.hk"
+      ],
+      "all_titles": {
+        "zh": "美股本周关注联储局议息会议纪录及中东局势等"
+      }
+    },
+    {
+      "title_original": "US commander says mental health a 'priority' on USS Lincoln",
+      "title_zh": "美国指挥官称精神健康是林肯号航母的优先事项",
+      "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-16T21:04:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国指挥官表示，精神健康是林肯号航母的优先事项，尤其是在长期部署中。",
+        "林肯号航母已经在海上部署了超过240天，创下了美国航母的记录。",
+        "指挥官承认，长期在海上的服务对水兵的精神健康构成挑战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US commander says mental health a 'priority' on USS Lincoln"
+      }
+    },
+    {
+      "title_original": "حرب إيران تدفع شركات السيارات إلى بدائل لزيوت المحركات",
+      "title_zh": "伊朗战争推动汽车公司寻找替代发动机油",
+      "url": "https://www.aljazeera.net/ebusiness/2026/8/16/iran-war-car-oil",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-16T20:09:51+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于伊朗战争导致的石油供应紧张，汽车公司正在寻找替代发动机油。",
+        "一些汽车公司已经找到替代供应商，但新供应商的数量仍然有限。",
+        "伊朗战争导致的石油供应紧张已经推高了发动机油的价格。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "حرب إيران تدفع شركات السيارات إلى بدائل لزيوت المحركات"
+      }
+    },
+    {
+      "title_original": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "title_zh": "比利时野火蔓延至自然保护区，火势在第三天加剧",
+      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-16T20:01:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "比利时的一场野火已经蔓延至自然保护区，火势在第三天加剧。",
+        "火灾已经烧毁了超过3000公顷的土地，数百名消防员正在努力扑灭火灾。",
+        "当地政府已经撤离了附近的两个村庄，火灾的原因仍然不明。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Belgian wildfire doubles in size on third day tearing through nature reserve"
+      }
+    },
+    {
+      "title_original": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "title_zh": "特朗普特使库什纳会见哈马斯领导人推动加沙和平计划",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-16T19:58:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "特朗普的中东特使贾里德·库什纳与哈马斯领导人会面，讨论美国支持的加沙和平计划。",
+        "会面发生在埃及，库什纳与哈马斯新领导人哈立德·哈亚率领的代表团会面。",
+        "美国提出的15点计划包括以色列军队撤出和加沙在新的民间巴勒斯坦管理下重建，但遭到以色列拒绝。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan"
+      }
+    },
+    {
+      "title_original": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "title_zh": "希腊岛上发生双重火灾，两人死亡，数百人撤离",
+      "url": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-16T19:50:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "希腊岛萨拉米纳上发生两场大火，导致两人死亡，数百人被撤离。",
+        "火灾发生在岛屿的南部和东部，造成大面积烧毁和人员伤亡。",
+        "当局已部署大量消防人员和设备，努力控制火势并提供援助。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Two dead and hundreds evacuated after twin fires break out on Greek island"
+      }
+    },
+    {
+      "title_original": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+      "title_zh": "俄罗斯称乌克兰发动2026年最大规模袭击，至少7人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-16T19:03:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯称，乌克兰发动的最大规模袭击导致至少7人死亡，多人受伤。",
+        "袭击使用了822架无人机，600架瞄准莫斯科，造成了重大损害和人员伤亡。",
+        "俄罗斯和乌克兰之间的冲突持续升级，双方都指责对方针对平民。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia says at least seven killed in largest Ukrainian attack of 2026"
+      }
+    },
+    {
+      "title_original": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "title_zh": "弗吉尼亚州校园枪击案嫌疑人被发现藏在衣柜里",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-16T19:00:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "弗吉尼亚州一名19岁的青少年被捕，疑似在弗吉尼亚州立大学校园内枪击五人。",
+        "嫌疑人被发现藏在校园内的一个衣柜里，目前正在接受调查。",
+        "枪击事件导致五人受伤，其中一人重伤，事件原因仍在调查中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Teen suspect in Virginia campus shooting found hiding in closet"
+      }
+    },
+    {
+      "title_original": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "title_zh": "飓风拉拉袭击夏威夷，一人死亡，多户房屋被洪水冲走",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-16T18:46:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "飓风拉拉袭击夏威夷，导致一人死亡，多户房屋被洪水冲走。",
+        "风暴带来大量降雨，引发山体滑坡和洪水，超过20万户家庭断电。",
+        "夏威夷政府已部署国家警卫队和紧急救援人员，提供援助和救灾。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "One dead, homes swept away after Hurricane Lala lashes Hawaii"
+      }
+    },
+    {
+      "title_original": "Class act: The working-class game binding London and Canberra",
+      "title_zh": "阶级行为：将伦敦和堪培拉联系在一起的工人阶级游戏",
+      "url": "https://www.politico.com/news/2026/08/16/andy-burnham-anthony-albanese-relationship-rugby-01038843",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-16T13:45:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "安迪·伯纳姆和安东尼·阿尔巴尼斯发现了世界领导人难以复制的东西：对橄榄球联盟的共同痴迷。",
+        "他们通过对橄榄球联盟的热爱建立了联系。",
+        "这种联系在政治领域中是罕见的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Class act: The working-class game binding London and Canberra"
+      }
+    },
+    {
+      "title_original": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+      "title_zh": "巴西卢拉启动历史性的第四个任期竞选，但被监禁的博尔索纳罗之子阻挡了他的去路",
+      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-16T18:44:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "巴西左翼总统卢拉·达席尔瓦启动了历史性的第四个任期竞选。",
+        "他誓言要阻止极右翼回到权力之中。",
+        "博尔索纳罗之子弗拉维奥·博尔索纳罗将在十月的总统选举中与卢拉对决。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way"
+      }
+    },
+    {
+      "title_original": "Lluvia de drones sobre Moscú, uno ruso derribado por la OTAN en Rumania",
+      "title_zh": "莫斯科上空的无人机雨，北约在罗马尼亚击落一架俄罗斯无人机",
+      "url": "https://www.ansalatina.com/americalatina/noticia/union_europea/2026/08/16/lluvia-de-drones-sobre-moscu-uno-ruso-derribado-por-la-otan-en-rumania_91ea44d8-03f3-4799-8409-10f5ada12d70.html",
+      "source": "ANSA Latina",
+      "source_score": 40,
+      "published_at": "2026-08-16T17:26:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "莫斯科上空发生无人机袭击事件，北约在罗马尼亚击落一架俄罗斯无人机。",
+        "这次袭击导致至少12人死亡。",
+        "法国、德国和英国正在努力确保欧洲在乌克兰和平谈判中的作用。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "ANSA Latina"
+      ],
+      "all_titles": {
+        "es": "Lluvia de drones sobre Moscú, uno ruso derribado por la OTAN en Rumania"
+      }
+    },
+    {
+      "title_original": "U.S. Soldiers and NATO Allies attend Polish Armed Forces Day parade",
+      "title_zh": "美国士兵和北约盟国参加波兰武装部队日游行",
+      "url": "https://www.dvidshub.net/image/9871542/us-soldiers-and-nato-allies-attend-polish-armed-forces-day-parade",
+      "source": "DVIDS",
+      "source_score": 40,
+      "published_at": "2026-08-16T17:20:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国士兵和北约盟国参加了波兰武装部队日游行。",
+        "这次游行是为了纪念波兰对苏联的胜利。",
+        "北约前沿陆军战斗群-波兰参加了这次游行。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "DVIDS"
+      ],
+      "all_titles": {
+        "en": "U.S. Soldiers and NATO Allies attend Polish Armed Forces Day parade"
+      }
+    },
+    {
+      "title_original": "(وسائط متعددة) السيسي وكوشنر يبحثان تطورات الأوضاع بالشرق الأوسط",
+      "title_zh": "塞西和库什纳讨论中东局势的发展",
+      "url": "https://arabic.news.cn/20260817/10e27502a4614ef8ae2088a73d5f5615/c.html",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-08-16T17:16:15+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "埃及总统塞西和美国总统特朗普的女婿库什纳讨论了中东局势的发展。",
+        "他们谈到了中东的挑战和合作。",
+        "塞西强调了解决中东问题的重要性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "ar": "(وسائط متعددة) السيسي وكوشنر يبحثان تطورات الأوضاع بالشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "ウクライナ軍がモスクワに向けてドローン攻撃600機 タス通信「過去2年で最大規模」",
+      "title_zh": "乌克兰军队向莫斯科发动600架无人机攻击，塔斯社称这是过去两年中最大规模的攻击",
+      "url": "https://newsdig.tbs.co.jp/articles/-/2875339",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-08-16T16:32:19+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队向莫斯科发动了600架无人机的攻击，这是过去两年中最大规模的攻击。",
+        "塔斯社报道称，这次攻击是乌克兰军队对俄罗斯发动的最大规模的攻击。",
+        "这次攻击造成了大量的破坏和人员伤亡，具体情况正在调查中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ軍がモスクワに向けてドローン攻撃600機 タス通信「過去2年で最大規模」"
+      }
+    },
+    {
+      "title_original": "اتفاق مكة يضع الصين أمام معادلة معقدة في الشرق الأوسط",
+      "title_zh": "麦加协议使中国在中东面临复杂的局势",
+      "url": "https://www.i24news.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/middle-east/artc-603340f4",
+      "source": "i24NEWS",
+      "source_score": 40,
+      "published_at": "2026-08-16T16:14:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "麦加协议是沙特阿拉伯、土耳其和巴基斯坦之间的防御协议，这使得中国在中东面临复杂的局势。",
+        "中国一直试图在中东保持平衡的关系，但这个协议使得中国需要重新评估其在该地区的策略。",
+        "中国需要在维护与伊朗的关系和发展与沙特阿拉伯、土耳其和巴基斯坦的关系之间找到平衡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "i24NEWS"
+      ],
+      "all_titles": {
+        "ar": "اتفاق مكة يضع الصين أمام معادلة معقدة في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Una naviera china abre la 'Ruta de la Seda' por el Ártico para esquivar los misiles de Oriente Medio",
+      "title_zh": "中国航运公司开辟了穿越北极的“丝绸之路”，以避开中东的导弹",
+      "url": "https://www.elcorreo.com/internacional/asia/naviera-china-abre-ruta-seda-artico-esquivar-20260816180347-ntrc.html",
+      "source": "El Correo",
+      "source_score": 40,
+      "published_at": "2026-08-16T16:03:48+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国航运公司开辟了穿越北极的“丝绸之路”，以避开中东的导弹和其他安全威胁。",
+        "这条新路线将使得中国的货物能够更快速、更安全地运往欧洲和其他地区。",
+        "这条路线的开辟也反映了中国在全球贸易和航运中的日益重要的地位。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "El Correo"
+      ],
+      "all_titles": {
+        "es": "Una naviera china abre la 'Ruta de la Seda' por el Ártico para esquivar los misiles de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Kiew trifft seltenes russisches Raketensystem – Anklage gegen FAZ-Journalisten",
+      "title_zh": "乌克兰战争最新消息：基辅击中了俄罗斯罕见的导弹系统，德国记者被指控",
+      "url": "https://www.fr.de/politik/aktuell-kiew-attackiert-oelraffinerie-in-russland-ukraine-krieg-zr-94435946.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-16T15:45:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队击中了俄罗斯罕见的导弹系统，这是乌克兰在战争中取得的重要成果。",
+        "德国记者因在采访中提问被俄罗斯指控为煽动仇恨和敌意，可能面临六年监禁的处罚。",
+        "这次事件反映了乌克兰战争中媒体和记者所面临的挑战和风险。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Kiew trifft seltenes russisches Raketensystem – Anklage gegen FAZ-Journalisten"
+      }
+    },
+    {
+      "title_original": "L'Iran promet une prime de 30 000 dollars pour la mort ou la capture de soldats américains",
+      "title_zh": "伊朗承诺为杀死或俘虏美国士兵提供3万美元的奖励",
+      "url": "https://www.france24.com/fr/moyen-orient/20260816-guerre-moyen-orient-iran-promet-une-prime-de-30-000-dollars-pour-tuer-ou-capturer-des-soldats-am%C3%A9ricains",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-16T15:44:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗承诺为杀死或俘虏美国士兵提供3万美元的奖励，这是伊朗对美国采取的最新行动。",
+        "这次行动反映了伊朗和美国之间的紧张关系，两国在中东地区存在着多个冲突点。",
+        "这次事件可能会进一步加剧伊朗和美国之间的紧张关系，并可能对中东地区的安全局势产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "L'Iran promet une prime de 30 000 dollars pour la mort ou la capture de soldats américains"
+      }
+    },
+    {
+      "title_original": "Aus der Geschichte lernen? Pustekuchen! – Ein Essay zum Ukraine-Krieg",
+      "title_zh": "从历史中学习？不可能！——关于乌克兰战争的散文",
+      "url": "https://www.berliner-zeitung.de/article/aus-der-geschichte-lernen-pustekuchen-die-gefahr-im-ukraine-krieg-10267650",
+      "source": "Berliner Zeitung",
+      "source_score": 40,
+      "published_at": "2026-08-16T15:41:58+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "德国媒体指出，俄罗斯可能会对乌克兰发动全面战争。",
+        "俄罗斯的军事行动可能会对欧洲安全构成威胁。",
+        "德国需要采取中立立场，而不是自我夸大其军事能力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Berliner Zeitung"
+      ],
+      "all_titles": {
+        "de": "Aus der Geschichte lernen? Pustekuchen! – Ein Essay zum Ukraine-Krieg"
+      }
+    },
+    {
+      "title_original": "NATO jets shoot down drone in Romanian airspace",
+      "title_zh": "北约战机在罗马尼亚领空击落无人机",
+      "url": "https://www.upi.com/Top_News/World-News/2026/08/16/romania-nato-drone/1061786888154/",
+      "source": "upi.com",
+      "source_score": 40,
+      "published_at": "2026-08-16T14:33:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约战机在罗马尼亚领空击落了一架未经授权进入的无人机。",
+        "这架无人机是在罗马尼亚和摩尔多瓦边境附近被击落的。",
+        "罗马尼亚国防部长表示，罗马尼亚正在捍卫其领空，盟友也站在他们一边。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "upi.com"
+      ],
+      "all_titles": {
+        "en": "NATO jets shoot down drone in Romanian airspace"
+      }
+    },
+    {
+      "title_original": "عودة تدفق النفط من الشرق الأوسط إلى أميركا بعد توقفه بسبب حرب إيران",
+      "title_zh": "由于伊朗战争，中东向美国的石油流动恢复",
+      "url": "https://www.alarabiya.net/amp/aswaq/oil-and-gas/2026/08/16/%D8%B9%D9%88%D8%AF%D8%A9-%D8%AA%D8%AF%D9%81%D9%82-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D9%89-%D8%A7%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%AA%D9%88%D9%82%D9%81%D9%87-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AD%D8%B1%D8%A8-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86",
+      "source": "alarabiya.net",
+      "source_score": 40,
+      "published_at": "2026-08-16T14:31:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于伊朗战争，中东向美国的石油流动已经恢复。",
+        "这标志着中东石油出口的恢复。",
+        "石油流动的恢复可能会对全球石油市场产生影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "alarabiya.net"
+      ],
+      "all_titles": {
+        "ar": "عودة تدفق النفط من الشرق الأوسط إلى أميركا بعد توقفه بسبب حرب إيران"
+      }
+    },
+    {
+      "title_original": "« La confiance a décliné sous le second mandat de Trump » : Taïwan s’inquiète de la fiabilité de son protecteur américain",
+      "title_zh": "「信任度下降」：台湾担心其美国保护者的可靠性",
+      "url": "https://www.lefigaro.fr/international/la-confiance-a-decline-sous-le-second-mandat-de-trump-taiwan-s-inquiete-de-la-fiabilite-de-son-protecteur-americain-20260816",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-08-16T14:30:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "台湾担心其美国保护者的可靠性，因为信任度已经下降。",
+        "美国总统特朗普的第二个任期内，美国对台湾的军事支持存在不确定性。",
+        "台湾正在寻求加强其自身的军事能力，以应对来自中国的潜在威胁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "« La confiance a décliné sous le second mandat de Trump » : Taïwan s’inquiète de la fiabilité de son protecteur américain"
+      }
+    },
+    {
+      "title_original": "【ロシア経済を狙い撃ち】ウクライナさらに“製油所攻撃“選挙前のプーチン氏に圧力",
+      "title_zh": "【瞄准俄罗斯经济】乌克兰进一步“攻击炼油厂”给普京带来压力",
+      "url": "https://www.khb-tv.co.jp/news/16811291",
+      "source": "khb東日本放送",
+      "source_score": 40,
+      "published_at": "2026-08-16T13:40:38+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰军队加强了对俄罗斯国内炼油厂和石油化工设施的攻击。",
+        "这些攻击可能会对俄罗斯经济产生重大影响。",
+        "俄罗斯总统普京面临着国内外的压力，包括即将举行的选举。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "khb東日本放送"
+      ],
+      "all_titles": {
+        "ja": "【ロシア経済を狙い撃ち】ウクライナさらに“製油所攻撃“選挙前のプーチン氏に圧力"
+      }
+    },
+    {
+      "title_original": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "title_zh": "意大利博物馆被盗四幅“非凡”的文艺复兴时期画作",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-16T13:34:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "意大利西西里岛一家博物馆被盗四幅“非凡”的文艺复兴时期画作，包括三幅圣格雷戈里多联画和一幅圣母与孩子和基督受难像。",
+        "这些画作都是由15世纪画家安东内洛·达·梅西纳创作的，被盗事件发生在博物馆的安保系统没有被触发的情况下。",
+        "警方正在调查盗窃案，初步怀疑这些画作是被黑市艺术品窃贼盗走的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Four 'extraordinary' Renaissance paintings stolen from Italian museum"
+      }
+    },
+    {
+      "title_original": "乌媒称一支由日本人组成的战斗分队在乌成立，“正在参与俄乌冲突，与俄军作战”；俄罗斯史学家：日本“再军事化”威胁巨大",
+      "title_zh": "乌媒称一支由日本人组成的战斗分队在乌成立，“正在参与俄乌冲突，与俄军作战”；俄罗斯史学家：日本“再军事化”威胁巨大",
+      "url": "https://www.nbd.com.cn/articles/2026-08-16/4543309.html",
+      "source": "每日经济新闻",
+      "source_score": 40,
+      "published_at": "2026-08-16T13:31:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰媒体报道称，一支由日本人组成的战斗分队在乌克兰成立，正在参与俄乌冲突，与俄军作战。",
+        "俄罗斯史学家认为，日本的“再军事化”对世界构成巨大威胁。",
+        "日本政府尚未对此事作出正式回应。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "每日经济新闻"
+      ],
+      "all_titles": {
+        "zh": "乌媒称一支由日本人组成的战斗分队在乌成立，“正在参与俄乌冲突，与俄军作战”；俄罗斯史学家：日本“再军事化”威胁巨大"
+      }
+    },
+    {
+      "title_original": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "title_zh": "印度尼西亚地震造成数千人流离失所，救援工作继续进行",
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-16T12:37:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "印度尼西亚发生了一场强烈地震，造成至少53人死亡，数千人流离失所。",
+        "救援人员正在继续搜索幸存者，地震造成了大量房屋和建筑物的损坏。",
+        "地震发生在印度尼西亚的弗洛雷斯岛，震中深度约15公里。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue"
+      }
+    },
+    {
+      "title_original": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
+      "title_zh": "叙利亚人领导清除废墟和重建生活的努力",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168136",
+      "source": "UN News - Global perspective Human stories",
+      "source_score": 40,
+      "published_at": "2026-08-16T12:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "叙利亚人正在领导清除废墟和重建生活的努力，试图恢复战乱后的家园和社区。",
+        "叙利亚的冲突已经持续了十多年，造成了大量的人员伤亡和基础设施损坏。",
+        "当地居民和组织正在共同努力，清除废墟，修复房屋和基础设施。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "all_titles": {
+        "en": "First Person: Syrians lead efforts to clear rubble and rebuild lives"
+      }
+    },
+    {
+      "title_original": "La OTAN dice que el dron derribado en Rumanía por cazas españoles \"parece ser ruso\"",
+      "title_zh": "北约称在罗马尼亚被西班牙战机击落的无人机“似乎是俄罗斯的”",
+      "url": "https://www.libertaddigital.com/defensa/2026-08-16/la-otan-dice-que-el-dron-derribado-en-rumania-por-cazas-espanoles-parece-ser-ruso-7449102/",
+      "source": "Libertad Digital",
+      "source_score": 55,
+      "published_at": "2026-08-16T11:55:36+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约称，在罗马尼亚被西班牙战机击落的无人机“似乎是俄罗斯的”。",
+        "北约发言人表示，西班牙战机是在北约的指挥下行动的，击落无人机是为了保护罗马尼亚的领空。",
+        "罗马尼亚外交部长对西班牙表示感谢，称西班牙的行动是对罗马尼亚安全的重要贡献。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Libertad Digital"
+      ],
+      "all_titles": {
+        "es": "La OTAN dice que el dron derribado en Rumanía por cazas españoles \"parece ser ruso\""
+      }
+    }
+  ]
+}
