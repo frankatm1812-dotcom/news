@@ -1,8 +1,809 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-16T23:51:56.974574+00:00",
-  "count": 35,
+  "generated_at": "2026-08-17T11:59:01.703270+00:00",
+  "count": 67,
   "articles": [
+    {
+      "title_original": "Ukrainian strikes kill six in Russia, acting governor says",
+      "title_zh": "代理州长称乌克兰空袭导致俄罗斯六人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T11:14:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "代理州长称乌克兰空袭导致俄罗斯六人死亡\n- 已发表\n俄罗斯别尔哥罗德地区代理州长表示，乌克兰隔夜对俄罗斯别尔哥罗德地区进行导弹袭击，造成六人死亡、四人受伤。",
+        "亚历山大·舒瓦耶夫 (Alexander Shuvaev) 周一在 Telegram 上写道，受伤者中有一名 14 岁的儿童。",
+        "乌克兰官员表示，俄罗斯无人机连夜对靠近俄罗斯边境的苏梅地区发动袭击，造成两人死亡，该地区经常遭受袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ukrainian strikes kill six in Russia, acting governor says"
+      }
+    },
+    {
+      "title_original": "Top Zambian opposition figures arrested days after presidential vote",
+      "title_zh": "赞比亚反对派高层人物在总统选举几天后被捕",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T10:57:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "赞比亚反对派高层人物在总统选举几天后被捕\n- 已发表\n赞比亚政府表示，安全部队缴获了武器并逮捕了 11 人，其中包括涉嫌参与叛乱阴谋的高级反对派人士。",
+        "据该国最高公务员帕特里克·康瓦称，上周四总统选举的主要反对派候选人布莱恩·蒙杜比莱也在首都卢萨卡的袭击现场被发现。",
+        "蒙杜比勒将周五晚上的突袭描述为“对我生命的一次尝试”，并补充说“同事在他在场的情况下被枪杀”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Top Zambian opposition figures arrested days after presidential vote"
+      }
+    },
+    {
+      "title_original": "北约强国突然冒头，要拯救黎巴嫩于水火，不惜跟以色列正面开战",
+      "title_zh": "北约强国突然冒头，要拯救黎巴嫩于水火，不惜跟以色列正面开战",
+      "url": "https://m.sohu.com/a/1064035589_121752857?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-17T10:50:16+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "北约强国突然冒头，要拯救黎巴嫩于水火，不惜跟以色列正面开战    搜狐网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "北约强国突然冒头，要拯救黎巴嫩于水火，不惜跟以色列正面开战"
+      }
+    },
+    {
+      "title_original": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake",
+      "title_zh": "印度尼西亚遭受致命地震，援助短缺和饥饿担忧",
+      "url": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T10:39:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "印度尼西亚遭受致命地震，援助短缺和饥饿担忧\n- 已发表\nDampek 村有数百名灾民，但只有一名医生。",
+        "When a 7.7 magnitude earthquake struck the Indonesian island of Flores on Saturday, this area was among the worst-hit.",
+        "卫生设施被摧毁，电力网络被切断，两天后的余震仍然使临时避难所内的医疗用品迅速减少。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Aid shortages and fears of starvation as Indonesia reels from deadly earthquake"
+      }
+    },
+    {
+      "title_original": "Taiwan: Regierung plant Rekordausgaben für Verteidigung",
+      "title_zh": "台湾：政府计划创纪录的国防开支",
+      "url": "https://www.dw.com/de/taiwan-verteidigung-rekordausgaben-china-lai-ching-te/a-78394809",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-08-17T09:51:27+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾：政府计划创纪录的国防开支\n17.",
+        "2026 年 8 月\n面对中国日益增加的军事和政治压力，台湾希望大幅增加国防开支。",
+        "明年预算预计将首次突破万亿新台币大关。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Taiwan: Regierung plant Rekordausgaben für Verteidigung"
+      }
+    },
+    {
+      "title_original": "Warschau in Reichweite Russland hat offenbar geheime Drohnenbasen in Nato-Nähe errichtet",
+      "title_zh": "华沙触手可及 俄罗斯显然在北约附近建立了秘密无人机基地",
+      "url": "https://www.tagesspiegel.de/internationales/warschau-in-reichweite-russland-hat-offenbar-geheime-drohnenbasen-in-nato-nahe-errichtet-15949446.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-08-17T09:46:39+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "华沙触手可及：俄罗斯显然在北约附近建立了秘密无人机基地\n据媒体报道，莫斯科正在扩大其无人机能力。",
+        "这对乌克兰来说是一个迫在眉睫的问题。",
+        "北约面临的危险也可能增加。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Warschau in Reichweite Russland hat offenbar geheime Drohnenbasen in Nato-Nähe errichtet"
+      }
+    },
+    {
+      "title_original": "Trump orders cuts to South Korea joint drills despite warnings about Kim regime",
+      "title_zh": "特朗普不顾金氏政权警告，下令削减韩国联合演习",
+      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-17T09:10:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "总统称他与独裁者“相处得很好”，但美国官员称乌克兰战争正在增强朝鲜的能力唐纳德·特朗普表示，他正在缩减旨在威慑朝鲜的美国与韩国的联合军事演习，尽管两国军方官员警告金正恩政权正在从乌克兰战争中学习新的战场战术。",
+        "“乙支自由之盾”演习是韩国和美国每年举行的两次大型演习之一，演习于周一开始，一直持续到 8 月 27 日。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Trump orders cuts to South Korea joint drills despite warnings about Kim regime"
+      }
+    },
+    {
+      "title_original": "学者：沙土巴三国“抱团”没那么简单 重塑地缘政治格局",
+      "title_zh": "学者：沙土巴三国“抱团”没那么简单 重塑地缘政治格局",
+      "url": "https://military.china.com/news/13004177/20260817/49680732.html",
+      "source": "中华军事",
+      "source_score": 40,
+      "published_at": "2026-08-17T08:54:55+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "学者：沙土巴三国“抱团”没那么简单 重塑地缘政治格局。近日，沙特阿拉伯、土耳其和巴基斯坦签署了《麦加共同防务协议》，这一事件迅速引发国际社会的广泛关注。在中东局势持续动荡的背景下，三国选择在防务领域深化合作，不少舆论认为此举意义重大，甚至可能重塑中东乃至国际地缘政治的版图。",
+        "8月7日，沙特阿拉伯、土耳其和巴基斯坦三国在沙特城市麦加签署《麦加共同防务协议》，其中最受关注的是“一国受袭、共同响应”这一条款。有分析指出，这三个国家正在打造类似集体防御的新型合作机制，外界也有声音将其称作“伊斯兰版北约”，认为此举很可能给中东安全格局带来深刻变化。",
+        "冷战时期，国际上形成了两个大的军事同盟：以美国为首的北约和以苏联为首的华约。当前，伊斯兰国家中的沙特、土耳其和巴基斯坦签署了共同防务协议，有人将其视为三国在防务领域的结盟。这是二战结束以后极为罕见的事情。这三个国家拥有庞大的人口数量，总人口接近4亿，足以形成新的一“极”。过去，中东被认为是大国博弈的战场，而现在这种情况正在发生变化。随着沙土巴建立军事同盟关系，中东地区正在成为国际战略博弈的新一“极”。这种变化对中东乃至国际地缘政治格局都会带来较大的冲击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "中华军事"
+      ],
+      "all_titles": {
+        "zh": "学者：沙土巴三国“抱团”没那么简单 重塑地缘政治格局"
+      }
+    },
+    {
+      "title_original": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+      "title_zh": "刚果民主共和国爆发的埃博拉疫情是该国历史上最致命的一次",
+      "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-17T08:47:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "根据官方数据，至少有 2,325 人死于该病毒，疫情有望成为历史上最严重的疫情 刚果民主共和国的埃博拉疫情目前是该国历史上最严重的一次，根据政府数据，至少有 2,325 人死亡，超过了 2018-20 年疫情的死亡人数。",
+        "刚果民主共和国公共卫生研究所表示，确诊病例已升至 4,945 例，其中过去 24 小时内发现了 101 例。",
+        "继续阅读..."
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "The Guardian World",
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ebola outbreak in DR Congo becomes deadliest in its history"
+      }
+    },
+    {
+      "title_original": "Movie that went viral for terrible animation becomes China box office hit",
+      "title_zh": "因糟糕的动画而走红的电影成为中国票房热门",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T08:35:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "因糟糕的动画而走红的电影成为中国票房热门\n- 已发表\n太糟糕了，它成了票房热门。",
+        "《牛来》是一部讲述一头牛在梦境中的低成本动画电影，因其令人困惑的情节和糟糕的画面而走红后，票房收入大幅增长。",
+        "据电影追踪网站猫眼称，该片上映后 10 天的票房收入仅为 7,705 元人民币（1,140 美元；843 英镑），但目前已超过 1140 万元人民币。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Movie that went viral for terrible animation becomes China box office hit"
+      }
+    },
+    {
+      "title_original": "GUERRA UCRANIA: Dos F-18 españoles de la OTAN en Rumanía derriban un dron en el espacio rumano",
+      "title_zh": "乌克兰战争：两架西班牙北约 F-18 在罗马尼亚击落罗马尼亚太空中的一架无人机",
+      "url": "https://www.canalsur.es/noticias/espana/f-18-espanoles-otan-rumania_1_1429379.html",
+      "source": "Canal Sur",
+      "source_score": 40,
+      "published_at": "2026-08-17T07:57:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "两架西班牙北约 F-18 战机在罗马尼亚击落一架无人机\n乌克兰战争\n巴尔干国家国防部在一份声明中称，周日，一架无人机侵犯了罗马尼亚领空，并被当时在空中“执行监视任务”的北约部署在罗马尼亚的两架西班牙 F-18 战斗机中的一架击落。",
+        "该说明指出，这架来自摩尔多瓦的无人机于当地时间 04:44（格林威治标准时间 01:44）被雷达探测到进入加拉茨市（罗马尼亚东南部）以北 24 公里处的罗马尼亚太空，并于 17 分钟后，即凌晨 05:01 被从 Kogalniceanu 基地起飞的一架飞机击落。",
+        "西班牙国防部长拉杜·米鲁塔在社交网络上表示，在检测到该无人机后，“两架已经预防性起飞的西班牙 F-18 战斗机获得了攻击授权”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Canal Sur"
+      ],
+      "all_titles": {
+        "es": "GUERRA UCRANIA: Dos F-18 españoles de la OTAN en Rumanía derriban un dron en el espacio rumano"
+      }
+    },
+    {
+      "title_original": "ロシア軍がウクライナ東部の民間宅配業者を攻撃 １名死亡、４名負傷",
+      "title_zh": "俄罗斯军队袭击乌克兰东部民用快递服务，造成1人死亡、4人受伤",
+      "url": "https://www.ukrinform.jp/rubric-ato/4154815-roshia-jungaukuraina-dong-buno-min-jian-zhai-pei-ye-zhewo-gong-jiming-si-wangming-fu-shang.html",
+      "source": "ukrinform.jp",
+      "source_score": 40,
+      "published_at": "2026-08-17T07:56:57+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯军队袭击乌克兰东部民用快递服务，造成1人死亡、4人受伤\n乌克兰新闻报\n    继续对乌克兰进行全面入侵，俄罗斯军方16日使用自杀式无人机袭击了位于该国东部顿涅茨克地区克拉马托尔斯克的私营快递公司Nova Poshta的第三分公司。结果，公司一名员工死亡，四人受伤。",
+        "Nova Poshta 在她的 Telegram 频道上进行了报道。",
+        "该公司表示：“新邮报在顿涅茨克地区的第三家分公司在一次无人机袭击中被摧毁。在敌人对克拉马托尔斯克市民用基础设施的一次愤世嫉俗的袭击中，我们的一名同事被杀，另外四名同事受了不同程度的重伤和轻伤。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "ukrinform.jp"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍がウクライナ東部の民間宅配業者を攻撃 １名死亡、４名負傷"
+      }
+    },
+    {
+      "title_original": "تراجع معظم الأسهم اليابانية بعد بيانات الناتج المحلي الإجمالي",
+      "title_zh": "GDP数据公布后多数日本股市下跌",
+      "url": "https://www.reuters.com/ar/business/KQM7ZZ374ZKUDJYRS73UCC654A-2026-08-17/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-17T07:21:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "GDP 数据公布后多数日本股市下跌 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "تراجع معظم الأسهم اليابانية بعد بيانات الناتج المحلي الإجمالي"
+      }
+    },
+    {
+      "title_original": "Taïwan : le président proposera des dépenses de défense record en 2027...",
+      "title_zh": "台湾：总统提议2027年创纪录国防开支...",
+      "url": "https://bourse.fortuneo.fr/actualites/taiwan-le-president-proposera-des-depenses-de-defense-record-en-2027-9282140",
+      "source": "Fortuneo",
+      "source_score": 55,
+      "published_at": "2026-08-17T06:39:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾总统赖清德周一宣布，由于台湾面临着来自中国日益增加的军事压力，台湾政府将提出 2027 年创纪录的国防开支。",
+        "这一消息发布之际，世界各国政府因冲突加剧以及对美国参与亚太地区事务的担忧日益增加而增加了国防开支。",
+        "中国声称台湾是其领土不可分割的一部分，并威胁要用武力夺取这个拥有 2300 万居民的岛屿。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Fortuneo"
+      ],
+      "all_titles": {
+        "fr": "Taïwan : le président proposera des dépenses de défense record en 2027..."
+      }
+    },
+    {
+      "title_original": "インフラ投資モリソン、地政学リスク助言組織 顧問に元米国務副長官",
+      "title_zh": "基础设施投资 美国前副国务卿莫里森被任命为地缘政治风险咨询机构顾问",
+      "url": "https://www.nikkei.com/article/DGXZQOGM160GN0W6A810C2000000/",
+      "source": "nikkei.com",
+      "source_score": 95,
+      "published_at": "2026-08-17T06:16:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "本文仅供会员阅读\n基础设施投资 美国前副国务卿莫里森被任命为地缘政治风险咨询机构顾问\n[会员专用文章]\n【悉尼=今桥琉璃】新西兰（NZ）基础设施投资管理公司莫里森17日宣布，已成立全球咨询小组，这是一个将地缘政治风险纳入投资决策的咨询组织。美国前副国务卿库尔特·坎贝尔被任命为顾问。",
+        "目的是分析地缘政治风险和国际形势，支持莫里森及其合作伙伴公司的投资决策。坎贝尔表示：“公司不能在忽视全球战略和地缘政治趋势的情况下做出重大投资决策。”",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "nikkei.com"
+      ],
+      "all_titles": {
+        "ja": "インフラ投資モリソン、地政学リスク助言組織 顧問に元米国務副長官"
+      }
+    },
+    {
+      "title_original": "米軍の中東トップ、空母リンカーン乗組員のメンタルヘルスは「最優先事項」",
+      "title_zh": "美国军方中东负责人表示，林肯号航空母舰船员的心理健康是“重中之重”",
+      "url": "https://www.bbc.com/japanese/articles/cp3rr3v1y94o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-17T05:57:26+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国军方中东负责人表示，林肯号航空母舰船员的心理健康是“重中之重”\n记者 Brandon Drennon（美国华盛顿）\n美国驻中东最高军事指挥官周三表示，在有报道称亚伯拉罕·林肯号航空母舰在长期执行任务期间状况不佳后，亚伯拉罕·林肯号航空母舰船员的心理健康是“首要任务”。",
+        "领导伊朗战争的美国中央司令部司令布拉德·库珀上将16日视察了该舰。他后来说，在美国 11 艘现役航母中，这艘航母“是心理健康问题病例数最少的一艘”。",
+        "然而，指挥官承认，长期的海上服务“非常困难且要求很高”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "米軍の中東トップ、空母リンカーン乗組員のメンタルヘルスは「最優先事項」"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: WELT-Reporter Ibrahim Naber zur aktuellen Lage an der Front - Video",
+      "title_zh": "乌克兰战争：《世界报》记者 Ibrahim Naber 讲述当前前线局势 - 视频",
+      "url": "https://www.welt.de/videos/video6a829ecfae5982a49ab41581/ukraine-krieg-welt-reporter-ibrahim-naber-zur-aktuellen-lage-an-der-front.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-08-17T05:53:15+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "项目类型：视频乌克兰战争\n《WELT》记者 Ibrahim Naber 讲述前线现状\n乌克兰军队使用数百架无人机袭击了莫斯科附近的俄罗斯在线零售商Wildberry 的仓库。",
+        "乌克兰指控该公司销售军品。",
+        "WELT 记者 Ibrahim Naber 报道。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: WELT-Reporter Ibrahim Naber zur aktuellen Lage an der Front - Video"
+      }
+    },
+    {
+      "title_original": "Aussie rules footy players under investigation as police probe sexual assault claim",
+      "title_zh": "警方调查性侵犯指控，澳大利亚规定足球运动员正在接受调查",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T05:46:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "警方调查性侵犯指控，澳大利亚规定足球运动员正在接受调查\n- 已发表\n澳大利亚橄榄球联盟（AFL）一支顶级球队的几名球员已因周日晚上在墨尔本发生的“涉嫌事件”而被移交警方，俱乐部表示。",
+        "另外，维多利亚警方表示，侦探们正在调查东墨尔本一家酒店发生的性侵犯报告。",
+        "悉尼天鹅队证实，球队在墨尔本板球场获胜后的几个小时内发生了一起涉及人数不详的球员的事件。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Aussie rules footy players under investigation as police probe sexual assault claim"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Kyiv could hit Russia with domestic ballistic missiles in months, former defence minister says",
+      "title_zh": "乌克兰战争简报：前国防部长称基辅可能在几个月内用国产弹道导弹袭击俄罗斯",
+      "url": "https://www.theguardian.com/world/2026/aug/17/ukraine-war-briefing-kyiv-capable-ballistic-missiles-russia-in-months",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-17T04:50:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  乌克兰前国防部长米哈伊洛·费多罗夫估计，乌克兰可能在三到六个月内用国产弹道导弹打击俄罗斯。",
+        "迄今为止，基辅主要依靠远程无人机和巡航导弹对俄罗斯进行深度打击，但俄罗斯军队将更难挫败弹道导弹袭击。",
+        "费多罗夫在接受哥伦比亚广播公司新闻采访时表示：“我们需要在每个技术周期中击败俄罗斯。”尽管乌克兰正在快速创新，但费多罗夫警告说，俄罗斯也在快速进步。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Kyiv could hit Russia with domestic ballistic missiles in months, former defence minister says"
+      }
+    },
+    {
+      "title_original": "Record rains drench South Korean city as landslide kills one",
+      "title_zh": "韩国城市遭遇创纪录降雨，山体滑坡造成一人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T04:34:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "韩国城市遭遇创纪录降雨，山体滑坡造成一人死亡\n- 已发表\n韩国庆尚道遭暴雨袭击，引发山体滑坡，造成一人死亡、两人受伤。",
+        "周一早上，山体滑坡掩埋了东南部城市巨济市一栋公寓楼的一楼。",
+        "据当地媒体报道，救援人员救出了三人，其中一人后来被宣布死亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Record rains drench South Korean city as landslide kills one"
+      }
+    },
+    {
+      "title_original": "﻿ウクライナとロシアが大規模攻撃、互いに少なくとも7人殺害",
+      "title_zh": "﻿乌克兰和俄罗斯互相袭击，造成至少7人死亡",
+      "url": "https://www.bbc.com/japanese/articles/c8rnnz7rn6zo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-17T03:52:26+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰和俄罗斯互相发动大规模袭击 造成至少7人死亡\nDan Johnson，BBC驻乌克兰记者（基辅）记者天水云\n俄罗斯和乌克兰15日和16日相互发动大规模袭击，各造成至少7人死亡。最近几周，俄罗斯加强了对乌克兰各地的导弹袭击，乌克兰也加强了无人机袭击，深入俄罗斯领土。",
+        "莫斯科州州长安德烈·沃罗比约夫表示，乌克兰在夜间动用了 822 架无人机实施了此次袭击。其中，有 600 架袭击了莫斯科州，导致首都莫斯科遭受“近年来最大规模的无人机袭击之一”。俄罗斯网络零售商Wildberry的仓库也遭到了袭击，该零售商每天都成为乌克兰攻击的目标。",
+        "俄罗斯西南部罗斯托夫地区州长表示，夜间空袭造成五人死亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "﻿ウクライナとロシアが大規模攻撃、互いに少なくとも7人殺害"
+      }
+    },
+    {
+      "title_original": "أسهم اليابان تتراجع متأثرة بضعف بيانات الناتج المحلي",
+      "title_zh": "受GDP数据疲弱影响，日本股市下跌",
+      "url": "https://www.reuters.com/ar/business/4SJX7SKXLFPVFDQKQQMKWWFF6U-2026-08-17/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-17T03:47:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "受国内产品数据疲弱影响，日本股市下跌 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "أسهم اليابان تتراجع متأثرة بضعف بيانات الناتج المحلي"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : prime en Iran, rencontre entre Kushner et le Hamas… Les dernières infos",
+      "title_zh": "中东战争：伊朗的赏金、库什纳和哈马斯的会面……最新消息",
+      "url": "https://www.ouest-france.fr/monde/proche-orient/guerre-au-moyen-orient-prime-en-iran-rencontre-entre-kushner-et-le-hamas-les-dernieres-infos-b48ca930-99e9-11f1-8c29-31ba9300fba3",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-08-17T03:33:20+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争：伊朗的赏金、库什纳和哈马斯的会面……最新消息 法国西部",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : prime en Iran, rencontre entre Kushner et le Hamas… Les dernières infos"
+      }
+    },
+    {
+      "title_original": "SPD-Pläne für mehr Hitzeschutz + nächste Eskalationsstufe im Ukraine-Krieg",
+      "title_zh": "SPD计划加强防暑措施+乌克兰战争升级",
+      "url": "https://www.rnd.de/politik/spd-plaene-fuer-mehr-hitzeschutz-naechste-eskalationsstufe-im-ukraine-krieg-ENT6PKLR4BD2TMKUDKPCZUIQPA.html",
+      "source": "RND.de",
+      "source_score": 40,
+      "published_at": "2026-08-17T02:55:04+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "SPD 计划在乌克兰战争中提供更多防暑措施 + 进一步升级 RND.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "RND.de"
+      ],
+      "all_titles": {
+        "de": "SPD-Pläne für mehr Hitzeschutz + nächste Eskalationsstufe im Ukraine-Krieg"
+      }
+    },
+    {
+      "title_original": "ロシアとウクライナ、攻撃の応酬続く ロケット施設や無人機工場を標的",
+      "title_zh": "俄罗斯和乌克兰继续对火箭设施和无人机工厂进行攻击",
+      "url": "https://jp.reuters.com/world/ukraine/4EGWUS2IXRKHPCO6NM2IL4NG2Y-2026-08-17/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-17T02:34:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯和乌克兰继续相互攻击，目标是火箭设施和无人机工厂 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ロシアとウクライナ、攻撃の応酬続く ロケット施設や無人機工場を標的"
+      }
+    },
+    {
+      "title_original": "Ferrari's first ever electric car sold for record $40m",
+      "title_zh": "法拉利首款电动汽车以创纪录的 4000 万美元成交",
+      "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T02:22:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "法拉利首款电动汽车以创纪录的 4000 万美元成交\n- 已发表\n法拉利首款电动汽车在一次慈善拍卖中以 4000 万美元（2950 万英镑）成交，创下了新车拍卖纪录。",
+        "英国 iPhone 设计师 Jony Ive 爵士的创意 Ferrari Luce 在加利福尼亚州 RM 苏富比拍卖行的拍卖会上出售，其售价比平常的汽车价格高出 35 倍以上。",
+        "Luce 在五月份推出时遭到了强烈反对。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ferrari's first ever electric car sold for record $40m"
+      }
+    },
+    {
+      "title_original": "嘴上喊和平，手上教执法？美国在台海这招切香肠，该有人管管了",
+      "title_zh": "嘴上喊和平，手上教执法？美国在台海这招切香肠，该有人管管了",
+      "url": "https://m.sohu.com/a/1063789281_121289767?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-17T01:40:31+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "最近有一条新闻，不知道大家注意到没有。美国海岸警卫队派人跑到台湾去了，跟台湾海巡署搞了个联合训练。从10号开始，为期两周，地点在海巡署的教育训练测考中心。教什么呢？小艇操作、团队部署、巡逻这些东西。",
+        "台湾那边倒是挺高兴，说什么这是为了深化台美海巡执法训练合作，共同促进海域安全与稳定。听着挺专业对吧？但你仔细琢磨琢磨，这事没那么简单。",
+        "美国海岸警卫队是什么来头？那是美国武装力量的一部分。平时归国土安全部管，战时直接划归海军。你把这种性质的部队派到台湾去搞培训，然后说这是纯粹的民间交流、技术合作？这话谁信啊。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "嘴上喊和平，手上教执法？美国在台海这招切香肠，该有人管管了"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 03:28 Ex-CIA-Chef warnt vor Putin: Nato muss \"äußerst wachsam sein\" +++",
+      "title_zh": "现场直播中的乌克兰战争：+++ 03:28 前中央情报局老板警告普京：北约必须“极度警惕”+++",
+      "url": "https://www.n-tv.de/politik/03-28-Ex-CIA-Chef-warnt-vor-Putin-Nato-muss-aeusserst-wachsam-sein-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-17T01:27:51+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "乌克兰战争直播+++ 13:33 柏林对拉夫罗夫的威胁作出反应：“我们不要被吓倒” +++\n联邦政府拒绝俄罗斯对乌克兰支持者的威胁。",
+        "英国外交部发言人表示：“针对欧盟或北约伙伴的威胁和声明并不是什么新鲜事。”",
+        "“我们注意到他们，我们不会让自己被他们吓倒，我们也不会让自己因为支持乌克兰而被吓倒。”该发言人提到了俄罗斯外交部长谢尔盖·拉夫罗夫周五的声明。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 03:28 Ex-CIA-Chef warnt vor Putin: Nato muss \"äußerst wachsam sein\" +++"
+      }
+    },
+    {
+      "title_original": "How Geopolitics Has Rewired Brazil's Business Risks",
+      "title_zh": "地缘政治如何重新调整巴西的商业风险",
+      "url": "https://www.fticonsulting.com/insights/articles/geopolitics-domestic-politics-rewired-brazils-business-risk",
+      "source": "FTI Consulting",
+      "source_score": 40,
+      "published_at": "2026-08-17T01:19:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "地缘政治和国内政治如何重新调整巴西的商业风险\n- \n                    2026 年 8 月 17 日\n- \n                    \n巴西即将到来的选举周期具体化了一个更广泛的现实：企业不能再将地缘政治和政治风险视为背景噪音，而应将其视为投资、运营和沟通方式的核心战略变量。",
+        "在一个国内政治、外交政策和公共安全叙事融合在一起的体系中，忽视这种新风险环境的企业战略在结构上暴露无遗。",
+        "风险环境\n巴西将于2026年10月举行大选，地缘政治和国内政治风险共同重塑商业环境。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "FTI Consulting"
+      ],
+      "all_titles": {
+        "en": "How Geopolitics Has Rewired Brazil's Business Risks"
+      }
+    },
+    {
+      "title_original": "GDPプラスでも中東危機の影 原材料高、自動車や日用品で拡大か",
+      "title_zh": "即使GDP为正，中东危机的阴影也会导致汽车、日用品等原材料价格上涨",
+      "url": "https://www.asahi.com/articles/ASV8F1FCKV8FULFA015M.html",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-08-17T00:45:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "日本内阁府17日公布，4月至6月期间国内生产总值（GDP，初步数据）实际增长率为每年1.1%，剔除物价波动的影响，连续第三个季度为正。然而，中东危机的影响可能在7-9月期间显着。",
+        "中东危机对企业的打击会波及多远？许多行业目前的经营业绩尚未出现明显恶化。然而，长期的危机正在慢慢侵蚀管理。",
+        "给汽车行业利润带来压力的是铝、树脂等原材料价格的上涨。由于未来成本负担可能会更加沉重，企业变得越来越谨慎。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "GDPプラスでも中東危機の影 原材料高、自動車や日用品で拡大か"
+      }
+    },
+    {
+      "title_original": "ロシア、偽情報工作強化か ポーランドでウクライナとの対立利用",
+      "title_zh": "俄罗斯可能加强虚假信息行动，利用波兰对抗乌克兰",
+      "url": "https://jp.reuters.com/world/ukraine/JYUBOEUZWVIDBA4PJC4FIPDV5E-2026-08-17/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-17T00:42:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯加强虚假信息行动，利用波兰对抗乌克兰 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ロシア、偽情報工作強化か ポーランドでウクライナとの対立利用"
+      }
+    },
+    {
+      "title_original": "北约战机在罗马尼亚上空击落疑似俄罗斯无人机",
+      "title_zh": "北约战机在罗马尼亚上空击落疑似俄罗斯无人机",
+      "url": "https://cn.wsj.com/articles/nato-jets-down-suspected-russian-drone-over-romania-713d8aa9",
+      "source": "华尔街日报中文网",
+      "source_score": 95,
+      "published_at": "2026-08-17T00:17:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北约战机在罗马尼亚上空击落疑似俄罗斯无人机    华尔街日报中文网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "华尔街日报中文网"
+      ],
+      "all_titles": {
+        "zh": "北约战机在罗马尼亚上空击落疑似俄罗斯无人机"
+      }
+    },
     {
       "title_original": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
       "title_zh": "特朗普称美国将减少与韩国的军事演习，因为韩国没有参与伊朗战争",
