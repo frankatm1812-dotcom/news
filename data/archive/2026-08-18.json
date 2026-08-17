@@ -1,0 +1,882 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-17T23:56:03.518528+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
+      "title_zh": "验尸官发现“没有外伤迹象”，向女演员海顿·潘妮蒂尔致敬",
+      "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T23:28:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "验尸官发现“没有外伤迹象”，向女演员海顿·潘妮蒂尔致敬\n- 已发表\n美国电视剧《英雄》和《纳什维尔》的主演女演员海顿·潘妮蒂尔去世，享年 36 岁，人们向她表示哀悼。",
+        "Oscar winner Viola Davis described Panettiere as an \"amazing talent\", while One Tree Hill star Bethany Joy-Lenz noted how as a young star she had acted \"like no child I'd ever seen on camera\".",
+        "潘妮蒂尔周日在南卡罗来纳州格林维尔去世，警方表示“没有任何谋杀或可疑情况的迹象”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'"
+      }
+    },
+    {
+      "title_original": "Erdogan urges Trump to pursue talks with Iran, offers support",
+      "title_zh": "埃尔多安敦促特朗普与伊朗进行谈判并提供支持",
+      "url": "https://www.reuters.com/world/asia-pacific/erdogan-urges-trump-pursue-talks-with-iran-offers-support-2026-08-17/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-17T23:06:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "埃尔多安敦促特朗普与伊朗进行谈判并提供支持 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Erdogan urges Trump to pursue talks with Iran, offers support"
+      }
+    },
+    {
+      "title_original": "Ukraine aktuell: Strafverfahren gegen FAZ-Reporter in Moskau – wegen Frage",
+      "title_zh": "乌克兰当前：因一个问题在莫斯科对 FAZ 记者提起刑事诉讼",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101381472/ukraine-news-strafverfahren-gegen-faz-reporter-in-moskau-wegen-frage.html",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-08-17T22:47:32+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "关于乌克兰战争的新闻博客 在莫斯科对 FAZ 记者提起刑事诉讼——因为一个问题\n一名德国记者成为克里姆林宫的攻击目标。",
+        "一架北约战斗机在罗马尼亚上空向一架无人机射击。",
+        "新闻博客中的所有进展。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Ukraine aktuell: Strafverfahren gegen FAZ-Reporter in Moskau – wegen Frage"
+      }
+    },
+    {
+      "title_original": "ロシア唯一の反戦政党副党首に禁錮11年判決、ウクライナ侵攻批判で",
+      "title_zh": "ロシア唯一の反戦政党副党首に禁錮11年判決、ウクライナ侵攻批判で",
+      "url": "https://jp.reuters.com/world/ukraine/WPA2GY2TGNOUXJ5SD62QC5A3HQ-2026-08-17/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-17T22:32:35+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯唯一反战政党副领导人因批评入侵乌克兰被判11年监禁 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ロシア唯一の反戦政党副党首に禁錮11年判決、ウクライナ侵攻批判で"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Kyiv could hit Russia with domestic ballistic missiles in months, former defence minister says",
+      "title_zh": "乌克兰战争简报：前国防部长称基辅可能在几个月内用国产弹道导弹袭击俄罗斯",
+      "url": "https://www.theguardian.com/world/2026/aug/17/ukraine-war-briefing-kyiv-capable-ballistic-missiles-russia-in-months",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-17T22:12:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  乌克兰前国防部长米哈伊洛·费多罗夫估计，乌克兰可能在三到六个月内用国产弹道导弹打击俄罗斯。",
+        "迄今为止，基辅主要依靠远程无人机和巡航导弹对俄罗斯进行深度打击，但俄罗斯军队将更难挫败弹道导弹袭击。",
+        "In an interview with CBS News, Fedorov said: “We need to defeat Russia in every technological cycle.” Though Ukraine is innovating quickly, Fedorov warned that Russia is also advancing rapidly."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Kyiv could hit Russia with domestic ballistic missiles in months, former defence minister says"
+      }
+    },
+    {
+      "title_original": "国际油价升逾2% 中东局势再度紧张",
+      "title_zh": "国际油价升逾2% 中东局势再度紧张",
+      "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1866520-20260818.htm?spTabChangeable=0",
+      "source": "gbcode.rthk.hk",
+      "source_score": 55,
+      "published_at": "2026-08-17T21:54:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "国际油价升逾2%收市，美国总统特朗普表示，不打算延长美伊谅解备忘录文本的期限；报道引述伊朗官员说，如果外交不成功，伊朗准备好进一步升级霍尔木兹海峡以至中东地区的局势。",
+        "伦敦布兰特期油收市报每桶90.87美元，升2.35美元，升幅近2.7%。纽约期油报每桶84.5美元，升2.1美元，升幅2.5%。",
+        "有分析指，霍尔木兹海峡航运仍受限制，谈判陷入僵局，限制油价进一步下跌空间。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "gbcode.rthk.hk"
+      ],
+      "all_titles": {
+        "zh": "国际油价升逾2% 中东局势再度紧张"
+      }
+    },
+    {
+      "title_original": "الدور المنتظر للعراق في الشرق الأوسط",
+      "title_zh": "伊拉克在中东的预期角色",
+      "url": "https://www.albayan.ae/opinions/articles/1546676",
+      "source": "البيان",
+      "source_score": 40,
+      "published_at": "2026-08-17T21:46:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "自2026年4月就任伊拉克政府主席以来，阿里·扎伊迪采取了史无前例的举措，以整合内部局势，控制遍布全国的小国家和民兵组织，并将其置于国家权威之下。",
+        "然而，反对他并听从邪恶邻国伊朗命令的各方拒绝阻碍他建设一个与阿拉伯环境稳定并合作的新伊拉克的努力。",
+        "最近发生的伊拉克武装派别向沙特领土进军的事件只是证明，他要实现自己的目标还有很长的路要走。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "البيان"
+      ],
+      "all_titles": {
+        "ar": "الدور المنتظر للعراق في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "原油続伸、ブレント90ドル台－中東での紛争相次ぎ供給回復見通し後退",
+      "title_zh": "布伦特原油继续上涨至90美元水平——中东一系列冲突后供应复苏前景黯淡",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-08-17/TJXL05T96OSU00",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-08-17T21:10:28+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "原油继续上涨至上方$90-$9000000000000000000000000000000000000000000000000000000 00000000000000000000000000000000000000000000000000000000'''''彭博社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "ja": "原油続伸、ブレント90ドル台－中東での紛争相次ぎ供給回復見通し後退"
+      }
+    },
+    {
+      "title_original": "Las acciones de JFB Construction suben tras acuerdo de 15 millones de dólares con la OTAN",
+      "title_zh": "与北约达成 1500 万美元交易后 JFB Construction 股价上涨",
+      "url": "https://es.investing.com/news/stock-market-news/las-acciones-de-jfb-construction-suben-tras-acuerdo-de-15-millones-de-dolares-con-la-otan-93CH-3799932",
+      "source": "Investing.com España",
+      "source_score": 40,
+      "published_at": "2026-08-17T20:38:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "与北约达成 1500 万美元交易后 JFB Construction 股价上涨 Investing.com 西班牙",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Investing.com España"
+      ],
+      "all_titles": {
+        "es": "Las acciones de JFB Construction suben tras acuerdo de 15 millones de dólares con la OTAN"
+      }
+    },
+    {
+      "title_original": "El Ibex pierde los 20.000 puntos ante el repunte del precio del petróleo por el aumento de tensiones en Oriente Medio",
+      "title_zh": "由于中东紧张局势加剧导致油价上涨，Ibex 损失 20,000 点",
+      "url": "https://www.rtve.es/noticias/20260817/ibex-pierde-20000-puntos-ante-repunte-del-precio-del-petroleo-por-aumento-tensiones-oriente-medio/17192881.shtml",
+      "source": "RTVE.es",
+      "source_score": 55,
+      "published_at": "2026-08-17T20:10:38+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El Ibex pierde los 20.000 puntos ante el repunte del precio del petróleo por el aumento de tensiones en Oriente Medio\n- Las bolsas europeas se tiñen de rojo ante las nuevas hostilidades entre EE.UU.",
+        "和伊朗\n- 每桶布伦特原油价格达到 90 美元，美国 WTI 价格达到 84 美元\n西班牙股市周一下跌0.87%，收于19,981.9点，低于8月4日触及的20,000点。",
+        "与欧洲其他股市一样，该市场对中东紧张局势的加剧做出了反应，这一天恰逢该地区和平协议谈判的两个月期限到期。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "RTVE.es"
+      ],
+      "all_titles": {
+        "es": "El Ibex pierde los 20.000 puntos ante el repunte del precio del petróleo por el aumento de tensiones en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "石油化学、半世紀進まぬ再編「情けない」 再びの中東危機が迫る覚悟",
+      "title_zh": "石化行业重组半个世纪毫无进展：“可怜”我们正在为另一场中东危机做准备",
+      "url": "https://www.nikkei.com/article/DGXZQOUC0788X0X00C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-17T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "本文仅供会员阅读\n石化行业重组半个世纪毫无进展：“可怜”我们正在为另一场中东危机做准备\n读上游\n[会员专用文章]\n霍尔木兹海峡危机再次凸显石化行业长期面临的挑战。 20世纪70年代石油危机后，这些公司面临严重的财务困难。产业结构调整的动力有所增强，但由于随后的经济繁荣而消退。中东危机时隔约半个世纪再次爆发，迫使石化行业为搁置的重组做准备。",
+        "2月末からの米イラン軍事衝突に端を発したホルムズ海峡危機で、食品包装材や家電、車部品など身の回りのあらゆる物の原料となるナフサ...",
+        "记者将以独特的视角分享位于制造业上游的“机”“材”行业的现状。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "石油化学、半世紀進まぬ再編「情けない」 再びの中東危機が迫る覚悟"
+      }
+    },
+    {
+      "title_original": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+      "title_zh": "特朗普威胁称，如果美国盟友阿曼“妨碍”伊朗协议，将对其进行轰炸",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T19:25:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普对阿曼发出威胁之际，阿曼一直在与伊朗就重新开放霍尔木兹海峡举行会谈，而此时和平谈判的 60 天窗口即将到期。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal"
+      }
+    },
+    {
+      "title_original": "لوموند: حصيلة دونالد ترمب الكارثية في الشرق الأوسط",
+      "title_zh": "لوموند: حصيلة دونالد ترمب الكارثية في الشرق الأوسط",
+      "url": "https://www.aljazeera.net/politics/2026/8/17/%D9%84%D9%88%D9%85%D9%88%D9%86%D8%AF-%D8%AD%D8%B5%D9%8A%D9%84%D8%A9-%D8%AF%D9%88%D9%86%D8%A7%D9%84%D8%AF-%D8%AA%D8%B1%D9%85%D8%A8-%D8%A7%D9%84%D9%83%D8%A7%D8%B1%D8%AB%D9%8A%D8%A9-%D9%81%D9%8A",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-17T19:03:46+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "《世界报》：唐纳德·特朗普给中东造成的灾难性损失\n《世界报》在社论中对美国总统特朗普重返白宫后在中东的表现进行了非常负面的总结，认为过去几个月的事态发展暴露出美国政府日益增强的政治和战略无能。",
+        "法国报纸在社论中解释说，中东一直是美国总统政绩的真实暴露地，而就特朗普而言，该地区暴露了他的无能，再加上行动缺乏一致性和计算后果，而白宫驻地在不到两年的时间里就呈现出充满失败的代价。",
+        "这篇文章特别关注了美国与以色列一起对伊朗发动的战争，它认为这场战争的结果与展示美国实力的目标背道而驰，因为这场战争以霍尔木兹海峡危机告终，迫使华盛顿撤退并与德黑兰达成协议。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "لوموند: حصيلة دونالد ترمب الكارثية في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Russia maintains election ban on opposition Yabloko, jails deputy head",
+      "title_zh": "俄罗斯维持对反对派监狱副院长亚布洛科的选举禁令",
+      "url": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-17T19:01:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯维持对反对派监狱副院长亚布洛科的选举禁令\n最高法院的裁决支持克里姆林宫在 9 月议会投票前的镇压行动。",
+        "俄罗斯最高法院驳回了反战的 Yabloko 党针对最近禁止其参加即将举行的选举的裁决提出的上诉，而另一家法院则判处其副领导人 11 年监禁。",
+        "反对党周一证实其上诉失败。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russia maintains election ban on opposition Yabloko, jails deputy head"
+      }
+    },
+    {
+      "title_original": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
+      "title_zh": "最高法院再次驳回特朗普推翻E·让·卡罗尔性虐待案的请求",
+      "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T18:45:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "最高法院再次驳回特朗普推翻E·让·卡罗尔性虐待案的请求\n- 已发表\n美国最高法院第二次驳回唐纳德·特朗普总统推翻联邦民事陪审团裁决的请求，该裁决认定他对作家 E·让·卡罗尔的性虐待和诽谤负有责任。",
+        "In June, the top court had already denied a prior attempt by Trump to review the civil case.",
+        "总统一再否认有任何不当行为，并辩称监督民事审判的法官不当允许出示证据，影响了陪审团对他的看法。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case"
+      }
+    },
+    {
+      "title_original": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "title_zh": "特朗普称美国将在韩国退出伊朗战争后减少与韩国的军事演习",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T18:39:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "特朗普称美国将在韩国退出伊朗战争后减少与韩国的军事演习\n- 已发表\n美国总统唐纳德·特朗普表示，美国将“大幅减少”与韩国的联合军事演习，理由是他与朝鲜领导人金正恩的“关系非常好”。",
+        "He also noted on Truth Social that South Korea had recently declined to join the US in the \"denuclearisation\" of Iran.",
+        "特朗普发帖称：“这些演习不仅成本高昂，其中大部分费用由美利坚合众国支付（像往常一样！），而且还发出了完全不恰当和充满敌意的信号。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war"
+      }
+    },
+    {
+      "title_original": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
+      "title_zh": "蘑菇杀手艾琳·帕特森很有吸引力——这是你需要知道的",
+      "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T18:03:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "蘑菇杀手艾琳·帕特森很有吸引力——这是你需要知道的\n- 已发表\n在轰动一时的审判一年后，澳大利亚臭名昭著的蘑菇杀人犯再次出庭，试图推翻对她的定罪。",
+        "Erin Patterson was jailed for life last September for murdering three relatives and trying to kill another with a toxic mushroom meal she served at her home in Leongatha, Victoria, in 2023.",
+        "但这位 51 岁的女士表示，她没有得到公平的审判，理由是证据存在问题、检方的行为以及陪审团在审议裁决时发生的不寻常的事故。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Mushroom murderer Erin Patterson is appealing - here's what you need to know"
+      }
+    },
+    {
+      "title_original": "Das ist der Drei-Stufen-Plan der Nato für einen russischen Angriff im Baltikum",
+      "title_zh": "这是北约针对俄罗斯袭击波罗的海地区的三步走计划",
+      "url": "https://www.t-online.de/nachrichten/deutschland/militaer-verteidigung/id_101392438/nato-bei-angriff-von-russland-im-baltikum-drei-stufen-plan.html",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-08-17T17:54:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "波罗的海国家的防御计划 北约将如何应对俄罗斯的袭击\n长期以来，一直有关于俄罗斯袭击波罗的海国家的警告。",
+        "一份新报告显示了北约在紧急情况下将如何反应。",
+        "北约正在精心准备这一场景：在俄罗斯继续侵略乌克兰的同时，防务联盟早已为普京的下一步计划做好准备。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Das ist der Drei-Stufen-Plan der Nato für einen russischen Angriff im Baltikum"
+      }
+    },
+    {
+      "title_original": "Ukraine war latest: Over 239,000 KIA Russian soldiers identified by media investigation",
+      "title_zh": "乌克兰战争最新消息：媒体调查确认超过239,000名克钦独立军俄罗斯士兵身份",
+      "url": "https://kyivindependent.com/ukraine-war-latest-over-239-000-kia-russian-soldiers-identified-by-media-investigation/",
+      "source": "The Kyiv Independent",
+      "source_score": 40,
+      "published_at": "2026-08-17T17:34:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争最新消息：媒体调查确认超过239,000名克钦独立军俄罗斯士兵身份\n八月的主要进展",
+        "17：\n- 媒体调查确认超过239,000名俄罗斯士兵在乌克兰丧生\n- 乌克兰代理警察局长透露逃兵调查规模\n- 据《每日电讯报》报道，俄罗斯在乌克兰附近新建的无人机发射台将北约国家置于射程之内\n- 普京在朝鲜解放日表示，俄罗斯和朝鲜将继续“在所有领域”合作\n俄罗斯独立媒体 Mediazona 与 BBC 俄罗斯部门合作，确认了在乌克兰遇难的 239,354 名俄罗斯军事人员的身份。",
+        "最新统计数据涵盖了自 2 月 10 日以来已确认的军人死亡人数。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "The Kyiv Independent"
+      ],
+      "all_titles": {
+        "en": "Ukraine war latest: Over 239,000 KIA Russian soldiers identified by media investigation"
+      }
+    },
+    {
+      "title_original": "中東揺らす米・イスラエルの選挙 湾岸産油国に新秩序の胎動",
+      "title_zh": "美以选举震撼中东；海湾产油国开始出现新秩序",
+      "url": "https://www.nikkei.com/article/DGXZQOCD0510E0V00C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-17T17:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "この記事は会員限定記事です\n中東揺らす米・イスラエルの選挙 湾岸産油国に新秩序の胎動\n動乱2026年 この先（5）\n[会員限定記事]\n中東混迷の出口が見えない。行方を左右するのは、今秋に迫る米国とイスラエルの選挙だ。",
+        "如果共和党在11月美国中期选举中落败，中东将会发生什么？\n“美国总统特朗普无所畏惧，将采取激进的军事行动”（中东研究员）\n“原本对伊朗不感兴趣的总统，现在对中东失去了兴趣”（日本政府官员）\n我的观点存在分歧。然而，无论发生什么，位于美国和伊朗之间的沙特阿拉伯和阿拉伯联合酋长国（阿联酋）......",
+        "阅读该系列（全部 5 篇文章）\n- 特朗普的第一个政策变得更加激进，不计后果的外交急于取得成功。\n- 美国科技公司争夺第二个人工智能霸主地位；日本弥漫“挫败感”\n- 市场正在寻找第三次消费税下调的漏洞；财政对通货膨胀的依赖是有限度的\n- 第四次“下一个日立”即将上市 除非进行积极的管理和改革，否则资金将会外流\n——第五次美以大选震撼中东；海湾产油国出现新秩序\n2026年是国内外政治经济剧烈动荡的一年。展望未来。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "中東揺らす米・イスラエルの選挙 湾岸産油国に新秩序の胎動"
+      }
+    },
+    {
+      "title_original": "Top Russian economist replaced after warning of economic costs of Ukraine war",
+      "title_zh": "Top Russian economist replaced after warning of economic costs of Ukraine war",
+      "url": "https://www.cnn.com/2026/08/17/europe/andrey-klepach-top-russian-economist-replaced-intl",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-08-17T16:54:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯顶级经济学家之一安德烈·克莱帕奇(Andrey Klepach)在发表演讲后不久就被撤换为该国国家开发银行首席经济学家，据报道他在演讲中表示俄罗斯经济因乌克兰战争而受到损害。",
+        "俄罗斯国家通讯社塔斯社周日证实，克莱帕奇“不再担任俄罗斯最大银行之一VEB的首席经济学家”，但没有给出他离职的原因。",
+        "塔斯社补充说，一名新候选人已经选定，并将很快被任命。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "en": "Top Russian economist replaced after warning of economic costs of Ukraine war"
+      }
+    },
+    {
+      "title_original": "Pacto de La Meca: ¿nace una OTAN islámica en Oriente Medio?",
+      "title_zh": "麦加条约：伊斯兰北约是在中东诞生的吗？",
+      "url": "https://www.dw.com/es/pacto-de-defensa-de-la-meca-una-otan-isl%C3%A1mica-en-oriente-medio/video-78348963",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-08-17T16:21:53+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特阿拉伯、土耳其和巴基斯坦刚刚签署了一项历史性的防务协议，承诺从根本上改变中东的地缘战略格局。",
+        "该协议包括一项条款，根据该条款，对三个签署国中任何一个国家的武装攻击将被视为对所有这些国家的攻击。",
+        "在地区紧张局势最严重的情况下，所谓的《麦加防御条约》具有特殊的意义。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Pacto de La Meca: ¿nace una OTAN islámica en Oriente Medio?"
+      }
+    },
+    {
+      "title_original": "يوميات الشرق الأوسط 17/08/2026 GMT",
+      "title_zh": "中东日记 08/17/2026 GMT",
+      "url": "https://www.bbc.com/arabic/bbc_arabic_radio/w1730n40v1rl8f6",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-17T16:13:41+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "英国广播公司新闻，\n阿拉伯语\n转到内容\n主要\n手表\n听\n部分\n主要\n新闻动态\n经济\n健康与科学\n文化艺术\n体育运动\n调查\n新闻动态\n经济\n健康与科学\n文化艺术\n体育运动\n调查\n中东日记\n,\n2026 年 8 月 17 日 (格林威治标准时间)\n2026 年 8 月 17 日\n您的设备不支持视频播放\n该计划紧随中东的紧急事态发展，旨在帮助人们应对困难情况",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "يوميات الشرق الأوسط 17/08/2026 GMT"
+      }
+    },
+    {
+      "title_original": "乌克兰导弹袭俄罗斯别尔哥罗德州6人亡",
+      "title_zh": "乌克兰导弹袭俄罗斯别尔哥罗德州6人亡",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260817-%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AF%BC%E5%BC%B9%E8%A2%AD%E4%BF%84%E7%BD%97%E6%96%AF%E5%88%AB%E5%B0%94%E5%93%A5%E7%BD%97%E5%BE%B7%E5%B7%9E6%E4%BA%BA%E4%BA%A1",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-08-17T15:50:07+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰导弹袭俄罗斯别尔哥罗德州6人亡    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "zh": "乌克兰导弹袭俄罗斯别尔哥罗德州6人亡"
+      }
+    },
+    {
+      "title_original": "Russia expanding secret bases that can launch drones deep inside Nato territory: report",
+      "title_zh": "Russia expanding secret bases that can launch drones deep inside Nato territory: report",
+      "url": "https://www.independent.co.uk/news/world/europe/russia-drone-bases-nato-alliance-b3034192.html",
+      "source": "The Independent",
+      "source_score": 55,
+      "published_at": "2026-08-17T15:47:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "俄罗斯扩大秘密基地，可在北约领土深处发射无人机：报告\n在莫斯科无人机多次入侵之际，北约对俄罗斯发动袭击的威胁发出警报\n- 书签\n- 评论转到评论\n一份报告称，俄罗斯已经建立了秘密基地，能够向北约领土深处发射远程自杀式无人机。",
+        "据《每日电讯报》利用卫星图像和泄露文件进行的调查显示，克里姆林宫已建造和扩建了至少 10 个新基地，至少有 59 条新发射轨道。",
+        "这些基地旨在发射大量喷气式无人机，当莫斯科轰炸乌克兰各地的军事和民用目标时，这些无人机可以使乌克兰的防空系统超负荷。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "The Independent"
+      ],
+      "all_titles": {
+        "en": "Russia expanding secret bases that can launch drones deep inside Nato territory: report"
+      }
+    },
+    {
+      "title_original": "China’s economy showing signs that slowdown may be extending",
+      "title_zh": "中国经济出现放缓迹象或将延续",
+      "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-17T15:36:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "继中国有史以来最弱的季度增长率之一之后，7 月份工业产出和零售销售大幅下滑。随着 7 月份工业产出和零售销售的下滑，中国经济显示出持续放缓的迹象，这加大了北京方面采取干预措施支持经济活动的压力。",
+        "After the world’s second largest economy posted one of its lowest quarterly growth readings on record in the three months to June, the latest figures suggest it continued to falter in July.",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "China’s economy showing signs that slowdown may be extending"
+      }
+    },
+    {
+      "title_original": "Top Zambian opposition figures arrested days after presidential vote",
+      "title_zh": "Top Zambian opposition figures arrested days after presidential vote",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T14:23:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "赞比亚反对派高层人物在总统选举几天后被捕\n- 已发表\n赞比亚政府表示，安全部队缴获了武器并逮捕了 11 人，其中包括涉嫌参与叛乱阴谋的高级反对派人士。",
+        "据该国最高公务员帕特里克·康瓦称，上周四总统选举的主要反对派候选人布莱恩·蒙杜比莱也在首都卢萨卡的袭击现场被发现。",
+        "在接受英国广播公司采访时，蒙杜比莱驳斥了这些指控，称其“完全是捏造的”，并声称安全部队在周五突袭他的家时企图刺杀他。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Top Zambian opposition figures arrested days after presidential vote"
+      }
+    },
+    {
+      "title_original": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
+      "title_zh": "刚果民主共和国爆发的埃博拉疫情是该国历史上最致命的一次",
+      "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-17T14:07:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "根据官方数据，至少有 2,325 人死于该病毒，疫情有望成为历史上最严重的疫情 刚果民主共和国的埃博拉疫情目前是该国历史上最致命的一次，根据政府数据，至少有 2,325 人死亡，超过了 2018-20 年疫情的死亡人数。",
+        "刚果民主共和国公共卫生研究所表示，确诊病例已升至 4,945 例，其中过去 24 小时内发现了 101 例。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history"
+      }
+    },
+    {
+      "title_original": "DJI Pentagon battle, ‘Chinese Schindler’: 7 US-China relations reads",
+      "title_zh": "大疆五角大楼之战，“中国迅达”：7美中关系解读",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364121/us-china-investment-chinese-schindler-dji-pentagon-battle-7-us-china-relations-reads",
+      "source": "South China Morning Post",
+      "source_score": 55,
+      "published_at": "2026-08-17T14:00:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美中投资、“中国迅达”、大疆 五角大楼之争：7 中美关系解读\n从中国人工智能的惊喜到美国国防法案，以下是南华早报驻海外记者在 2026 年 8 月上半月的精彩报道\n1.",
+        "美中“投资委员会”在预期的特朗普与习近平会面之前陷入僵局\n一家领先的双边商业团体的负责人表示，美中投资委员会是美国总统唐纳德·特朗普和中国领导人习近平五月峰会的主要成果之一，但不太可能成为他们下个月在华盛顿举行的会议的成果之一。",
+        "中国竞争在2027年美国国防法案中显得尤为突出\n《国防授权法案》（NDAA）每年制定美国国防政策并授权军费开支，反映了两党在扩大华盛顿与北京的军事、技术和经济竞争方面的广泛共识。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "South China Morning Post"
+      ],
+      "all_titles": {
+        "en": "DJI Pentagon battle, ‘Chinese Schindler’: 7 US-China relations reads"
+      }
+    },
+    {
+      "title_original": "NATO and Russia - Back to Cold War? Conflict Map",
+      "title_zh": "北约和俄罗斯 - 回到冷战？冲突地图",
+      "url": "https://migflug.com/jetflights/es/nato-and-russia-conflict-map/",
+      "source": "migflug.com",
+      "source_score": 40,
+      "published_at": "2026-08-17T13:29:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "回到第一点？",
+        "The Russia–NATO conflict\nMore and more Cold War power dynamics can be seen in Europe.",
+        "再一次——我们提醒大家，福山的“历史终结”论点大错特错——比较一下文章aquí。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "migflug.com"
+      ],
+      "all_titles": {
+        "en": "NATO and Russia - Back to Cold War? Conflict Map"
+      }
+    },
+    {
+      "title_original": "Map Shows Russia’s New Secret Bases That Could Strike NATO",
+      "title_zh": "地图显示俄罗斯可能袭击北约的新秘密基地",
+      "url": "https://www.newsweek.com/map-shows-russia-new-secret-bases-that-could-strike-nato-12330221",
+      "source": "Newsweek",
+      "source_score": 40,
+      "published_at": "2026-08-17T13:26:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "一份新报告称，在北约官员警告莫斯科最早可能在今年秋天对北约领土发动有限攻击之后，俄罗斯已建立了至少 10 个能够向北约领土发射远程无人机的秘密基地。",
+        "Russia has installed dozens of new \"launch rails,\" which troops can use to get fixed-wing drones airborne for missions or attacks, at bases along the Russian border with Belarus and Ukraine, British newspaper The Telegraph reported on Sunday.",
+        "At least 20 of the new \"launch rails\" would be able to fire Russia's most sophisticated long-range attack drones, said analysts with the intelligence firm DroneSec, which studied satellite imagery of the sites."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Newsweek"
+      ],
+      "all_titles": {
+        "en": "Map Shows Russia’s New Secret Bases That Could Strike NATO"
+      }
+    },
+    {
+      "title_original": "Russia and Ukraine trade more deadly strikes",
+      "title_zh": "俄罗斯和乌克兰进行更致命的打击",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T13:16:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯和乌克兰进行更致命的打击\n- 已发表\n当地官员称，乌克兰对俄罗斯的空袭已造成 9 人死亡、23 人受伤，其中包括一名儿童。",
+        "过去24小时内，与乌克兰接壤的别尔哥罗德西部地区有8人死亡。",
+        "一名妇女在一夜之间在阿斯特拉罕南部地区死亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia and Ukraine trade more deadly strikes"
+      }
+    },
+    {
+      "title_original": "Rusia construye 10 nuevas bases de drones que podrían alcanzar territorio OTAN y que sitúan Varsovia al alcance de los Geran más avanzados",
+      "title_zh": "Rusia construye 10 nuevas bases de drones que podrían alcanzar territorio OTAN y que sitúan Varsovia al alcance de los Geran más avanzados",
+      "url": "https://www.infodefensa.com/texto-diario/mostrar/5986213/rusia-construye-10-nuevas-bases-drones-podrian-alcanzar-territorio-otan-situan-varsovia-alcance-geran-avanzados",
+      "source": "Infodefensa",
+      "source_score": 40,
+      "published_at": "2026-08-17T12:43:23+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯正在建造 10 个新的无人机基地，这些基地可以到达北约领土，并使华沙处于最先进的 Geran Infodefensa 的攻击范围之内",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Infodefensa"
+      ],
+      "all_titles": {
+        "es": "Rusia construye 10 nuevas bases de drones que podrían alcanzar territorio OTAN y que sitúan Varsovia al alcance de los Geran más avanzados"
+      }
+    },
+    {
+      "title_original": "مباحثات إماراتية عمانية حول التعاون المشترك وقضايا المنطقة",
+      "title_zh": "阿联酋-阿曼讨论联合合作和区域问题",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/5308002-%D9%85%D8%A8%D8%A7%D8%AD%D8%AB%D8%A7%D8%AA-%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9-%D8%B9%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83-%D9%88%D9%82%D8%B6%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-17T12:29:31+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特教育部长优素福·本扬透露了教育系统的一揽子数字和决策，包括学校和教师、大学、课程、幼儿、资优、教育领域投资等，此外还吸引了3所国际大学，在超过10万受益人试点受益后正式启动“统一教育门户”，今年将斥资30亿里亚尔实施356个项目。",
+        "周一在利雅得举行的政府新闻发布会上，沙特教育部长宣布，从今年开始，根据实地监测和反馈，根据每所学校的计划和时间表，学校出勤率将在放学日结束时结束。他补充说，“教育部”已决定，任何教师都不能教授任何他不擅长的科目，而教育部力求减轻教师、学校、校长和教育部门的负担，因此自2024年起业务工作已分开。",
+        "部长解释说，教育体系包括对宗教价值观和民族认同的承诺，突出王国的历史和象征，掌握阿拉伯语并为此感到自豪，使学生能够提供优质服务，关注教师并发展和突出他在社会中的作用。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مباحثات إماراتية عمانية حول التعاون المشترك وقضايا المنطقة"
+      }
+    },
+    {
+      "title_original": "US hiker dies after being struck by lightning on Mount Etna",
+      "title_zh": "US hiker dies after being struck by lightning on Mount Etna",
+      "url": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-17T12:23:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国徒步旅行者在埃特纳火山上被闪电击中身亡\n- 已发表\n一名美国游客在西西里岛埃特纳火山徒步旅行时被闪电击中身亡。",
+        "据意大利媒体报道，周日爆发雷暴时，这名 30 岁的男子正在活火山上，当局尚未透露他的姓名。",
+        "据称，消防队员和急救人员于当地时间 20:00（格林尼治标准时间 18:00）左右在有时用于接近山顶的禁区内发现了这名处于心脏骤停状态的男子。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US hiker dies after being struck by lightning on Mount Etna"
+      }
+    }
+  ]
+}
