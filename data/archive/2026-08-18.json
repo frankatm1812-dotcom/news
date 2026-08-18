@@ -1,8 +1,883 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-17T23:56:03.518528+00:00",
-  "count": 35,
+  "generated_at": "2026-08-18T12:01:47.817664+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title_original": "رئيس إديميتسو: بدء استيراد الخام السعودي عبر طريق السويس المصري",
+      "title_zh": "出光总裁：开始通过埃及苏伊士运河进口沙特原油",
+      "url": "https://www.reuters.com/ar/business/YWEN7P3MQJKKTHRGUGP4R3GJH4-2026-08-18/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-18T11:45:54+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "出光社长：开始通过埃及苏伊士运河进口沙特原油 路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "رئيس إديميتسو: بدء استيراد الخام السعودي عبر طريق السويس المصري"
+      }
+    },
+    {
+      "title_original": "🔴 Moyen-Orient en direct : les États-Unis accusent Israël de frappes en Syrie",
+      "title_zh": "🔴中东直播：美国指责以色列袭击叙利亚",
+      "url": "https://www.france24.com/fr/info-en-continu/20260818-%F0%9F%94%B4-moyen-orient-en-direct-les-%C3%A9tats-unis-accusent-isra%C3%ABl-de-frappes-en-syrie",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-18T11:42:52+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "🔴中东直播：美国指责以色列袭击叙利亚 法国 24 日",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "🔴 Moyen-Orient en direct : les États-Unis accusent Israël de frappes en Syrie"
+      }
+    },
+    {
+      "title_original": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "title_zh": "伯纳姆表示，在俄罗斯发出无人机警告后，英国“100%支持乌克兰”",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-18T11:41:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯指责英国通过提供英国制造的无人机来加剧乌克兰战争，而英国首相则誓言在基辅“需要的时候”提供支持。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning"
+      }
+    },
+    {
+      "title_original": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
+      "title_zh": "赞比亚希奇莱马再次当选总统，成为隐藏所谓威胁的主要竞争对手",
+      "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-18T10:59:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "赞比亚希奇莱马再次当选总统，成为隐藏所谓威胁的主要竞争对手\n- 已发表\n赞比亚总统哈凯恩德·希奇莱马 (Hakainde Hichilema) 在获得 60% 的选票后再次当选，开始第二个五年任期。",
+        "人们普遍预计希奇莱马会获胜，他最接近的挑战者布赖恩·蒙杜比莱 (Brian Mundubile) 获得了 38% 的选票。",
+        "其余12名候选人远远落后。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats"
+      }
+    },
+    {
+      "title_original": "Why new ‘Muslim Nato’ shows Trump’s authority in the Middle East has collapsed",
+      "title_zh": "为什么新的“穆斯林北约”表明特朗普在中东的权威已经崩溃",
+      "url": "https://www.independent.co.uk/news/world/middle-east/muslim-nato-trump-saudi-mecca-pact-b3033073.html",
+      "source": "The Independent",
+      "source_score": 55,
+      "published_at": "2026-08-18T10:50:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "“穆斯林北约”的创建表明特朗普正在失去对中东的控制\n在特朗普和以色列对伊朗的战争引发混乱之后，专家告诉迈拉·巴特，沙特阿拉伯、巴基斯坦和土耳其之间的麦加协议可能代表着该地区的新曙光\n- 书签\n- 评论转到评论\n当唐纳德·特朗普本月早些时候继续攻击伊朗时，一项可能从根本上重塑中东安全的协议正在沙特阿拉伯悄然达成。",
+        "8 月 7 日，巴基斯坦、沙特阿拉伯和土耳其签署了《麦加联合防御协议》，这是一项北约风格的共同防御协议，规定对任何一个组织的攻击将被视为对所有人的攻击。",
+        "时机很重要。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "The Independent"
+      ],
+      "all_titles": {
+        "en": "Why new ‘Muslim Nato’ shows Trump’s authority in the Middle East has collapsed"
+      }
+    },
+    {
+      "title_original": "世界で金利上昇連鎖、日本30年ぶり高水準 中東・財政・AI投資の重圧",
+      "title_zh": "全球利率上升，日本处于30年来最高水平 中东、金融和人工智能投资面临压力",
+      "url": "https://www.nikkei.com/article/DGXZQOUB1820P0Y6A810C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-18T10:22:01+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "本文仅供会员阅读\n全球利率上升，日本处于30年来最高水平 中东、金融和人工智能投资面临压力\n[会员专用文章]\n世界各地的利率不断上升。中东局势不确定，原油价格高企，通胀压力依然存在。除了各国和地区财政担忧不断升温之外，人工智能（AI）公司大规模发行企业债券也给国家债务带来压力。",
+        "18日，日本债市上，作为长期利率指标的新发行的10年期国债收益率短暂触及2.945%。较前一交易日上涨0.025%（债券价格下跌），创下1996年9月以来30年来的最高水平。30年期债券的收益率也为0...",
+        "日本已进入“利率世界”，正处于历史性转折点。在美国和欧洲，市场开始对不断膨胀的政府债务发出警报。政府债券和公司债券市场正在发生什么？如果您关注“利率洞察”，您可以阅读记者的解释性文章和专家的采访。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "世界で金利上昇連鎖、日本30年ぶり高水準 中東・財政・AI投資の重圧"
+      }
+    },
+    {
+      "title_original": "Georgia’s Absence From The 2026 NATO Summit Fuels Isolation Debate",
+      "title_zh": "格鲁吉亚缺席 2026 年北约峰会引发孤立争论",
+      "url": "https://www.forbes.com/sites/marktemnycky/2026/08/18/georgias-absence-from-the-2026-nato-summit-fuels-isolation-debate/",
+      "source": "Forbes",
+      "source_score": 55,
+      "published_at": "2026-08-18T10:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "上个月，数十位国家元首、国防部长、政策制定者和国防专家前往安卡拉参加 2026 年北约峰会。",
+        "在为期两天的活动中，来自北约 32 个成员国的代表讨论了国防开支。",
+        "他们还重点关注北约加强国防工业基础和改善国防制造的工作。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Forbes"
+      ],
+      "all_titles": {
+        "en": "Georgia’s Absence From The 2026 NATO Summit Fuels Isolation Debate"
+      }
+    },
+    {
+      "title_original": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
+      "title_zh": "俄罗斯称其经济强劲。它刚刚解雇了一位发出相反警告的顶级经济学家",
+      "url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-08-18T09:50:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯政府官员告诉 CNBC，尽管该国 2022 年初全面入侵乌克兰后面临“前所未有的外国压力”，但该国经济依然强劲且健康。",
+        "这一信息与俄罗斯国家控制的开发银行VEB前首席经济学家的观点形成鲜明对比，后者在今年早些时候发表的言论被俄语媒体报道后于周日被解雇。",
+        "据报道，前经济副部长安德烈·克莱帕奇(Andrei Klepach)在提交一份报告警告俄罗斯无法赢得与乌克兰的长期消耗战并预测将出现重大社会危机后被解雇。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "Russia says its economy is strong. It just fired a top economist who warned otherwise"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（8月18日の動き）",
+      "title_zh": "【不定时更新】俄罗斯军事入侵乌克兰（8月18日动态）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44529",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-18T09:44:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "【不时更新】俄罗斯军事入侵乌克兰（8月18日动静）NHK新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（8月18日の動き）"
+      }
+    },
+    {
+      "title_original": "Ossoff just went viral again. That was probably the point.",
+      "title_zh": "奥索夫再次走红。这可能就是重点。",
+      "url": "https://www.politico.com/news/2026/08/18/jon-ossoff-georgia-viral-controlled-campaign-01039859",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-18T03:45:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "在病毒式传播时刻的背后，是一位密切参与连任竞选各个方面的候选人。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Ossoff just went viral again. That was probably the point."
+      }
+    },
+    {
+      "title_original": "Top Russian economist ousted after warning of growing costs of Ukraine war",
+      "title_zh": "俄罗斯顶级经济学家在警告乌克兰战争成本不断增加后被罢免",
+      "url": "https://www.aljazeera.com/news/2026/8/18/top-russian-economist-ousted-after-warning-of-growing-costs-of-ukraine-war",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-18T08:20:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯顶级经济学家在警告乌克兰战争成本不断增加后被罢免\n俄罗斯国家开发银行VEB首席经济学家安德烈·克莱帕奇(Andrey Klepach)警告说，俄罗斯落后于竞争对手。",
+        "据俄罗斯媒体报道，安德烈·克莱帕奇 (Andrey Klepach) 已被解除俄罗斯国家开发银行 VEB 首席经济学家职务，此前他曾发表公开演讲，警告俄罗斯经济因乌克兰战争而受到损害。",
+        "俄罗斯国家通讯社塔斯社周日报道称，克莱帕奇不再担任该银行的职务。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Top Russian economist ousted after warning of growing costs of Ukraine war"
+      }
+    },
+    {
+      "title_original": "أسهم أوروبا تتراجع مع صعود النفط بفعل مخاوف الشرق الأوسط",
+      "title_zh": "由于中东问题，油价上涨，欧洲股市下跌",
+      "url": "https://www.reuters.com/ar/business/3NJZFHYEHFNAPH3TSQCHRIZET4-2026-08-18/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-18T08:13:56+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "由于中东担忧导致油价上涨，欧洲股市下跌 - 路透中文网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "أسهم أوروبا تتراجع مع صعود النفط بفعل مخاوف الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "La Bourse de Paris freinée par le Moyen-Orient",
+      "title_zh": "巴黎证券交易所受中东局势放缓",
+      "url": "https://www.france24.com/fr/info-en-continu/20260818-la-bourse-de-paris-frein%C3%A9e-par-le-moyen-orient",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-18T07:53:09+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "巴黎证券交易所受中东局势放缓 法国 24 日",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "La Bourse de Paris freinée par le Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "South African rand pressured as Middle East conflict dampens risk appetite",
+      "title_zh": "中东冲突抑制风险偏好，南非兰特承压",
+      "url": "https://www.reuters.com/world/africa/south-african-rand-pressured-middle-east-conflict-dampens-risk-appetite-2026-08-18/",
+      "source": "reuters.com",
+      "source_score": 95,
+      "published_at": "2026-08-18T07:17:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "中东冲突抑制风险偏好，南非兰特承压 reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "reuters.com"
+      ],
+      "all_titles": {
+        "en": "South African rand pressured as Middle East conflict dampens risk appetite"
+      }
+    },
+    {
+      "title_original": "ロシア、イギリスに警告　ウクライナへのドローン供給で「テロ攻撃の共犯」",
+      "title_zh": "俄罗斯警告英国向乌克兰提供无人机是“恐怖袭击的帮凶”",
+      "url": "https://www.bbc.com/japanese/articles/cm2g7x98v2ko",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-18T07:07:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯警告英国向乌克兰提供无人机“共谋恐怖袭击”\n塔比·威尔逊\n俄罗斯17日指责英国“故意选择升级乌克兰危机”。此前有消息称，一架英国制造的无人机被用于对俄罗斯的袭击。",
+        "俄罗斯驻英国大使馆在一份声明中表示：“英国这样做，是血腥犯罪和恐怖袭击的共犯和共犯。”",
+        "“伦敦的行为不可避免地会产生后果，（英国）必须为此承担责任。”他补充说，冲突卷入越深，“付出的代价就越高”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ロシア、イギリスに警告　ウクライナへのドローン供給で「テロ攻撃の共犯」"
+      }
+    },
+    {
+      "title_original": "Bolsas europeas a la baja entre el incremento de la tensión geopolítica y el alza del petróleo",
+      "title_zh": "由于地缘政治紧张局势加剧和油价上涨，欧洲股市下跌",
+      "url": "https://www.estrategiasdeinversion.com/analisis/bolsa-y-mercados/informes/bolsas-europeas-a-la-baja-entre-el-incremento-n-943195",
+      "source": "Estrategias de Inversión",
+      "source_score": 40,
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "在 Google 上添加投资策略\n在没有其他重要参考的情况下，中东的高度紧张再次导致昨天下午石油价格新一轮上涨，最终打压了债券和股票的走势，美国总统唐纳德·特朗普威胁要轰炸阿曼（他指责该国干涉与伊朗的和平谈判），而以色列则利用60天休战结束的机会轰炸黎巴嫩真主党阵地。",
+        "这种情况至今仍然存在。",
+        "DAX 指数下跌 0.3%，至 26,828 点；FT-100 指数上涨十分之一，高于 10,727 点；CAC-40 指数下跌 0.19%，至 8,562 点；Eurostoxx 50 指数下跌略多于十分之二，至 6,512 点；FTSE MIB 指数下跌 0.2%，至 26,828 点。 53,749 点。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Estrategias de Inversión"
+      ],
+      "all_titles": {
+        "es": "Bolsas europeas a la baja entre el incremento de la tensión geopolítica y el alza del petróleo"
+      }
+    },
+    {
+      "title_original": "Doctors remove 3.1kg stone from man's bladder and claim record",
+      "title_zh": "医生从男子膀胱取出3.1公斤结石并索赔记录",
+      "url": "https://www.bbc.co.uk/news/articles/cg5l9n7d803o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-18T06:53:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "医生从男子膀胱取出3.1公斤结石并索赔记录\n- 已发表\n斯里兰卡的医生从一名男子身上取出了一块 3.1 公斤（6.8 磅）重的膀胱结石，他们认为这是有记录以来最大的此类膀胱结石。",
+        "该手术上周在该国东部亭可马里的一家医院进行。",
+        "这名55岁的患者因中风入院。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Doctors remove 3.1kg stone from man's bladder and claim record"
+      }
+    },
+    {
+      "title_original": "Nato-Übung: Wieder Luftwaffenübung „Air Defender“ geplant",
+      "title_zh": "北约演习：“空中卫士”空军演习再次计划",
+      "url": "https://www.tagesspiegel.de/berlin/nato-ubung-wieder-luftwaffenubung-air-defender-geplant-15952204.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-08-18T06:51:47+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约演习：“空中卫士”空军演习再次计划\n2027年5月，来自北约国家的约200架飞机将在德国北部上空进行联盟防御演习。",
+        "这也会对民用空中交通产生影响。",
+        "状态：\n现在优先显示。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Nato-Übung: Wieder Luftwaffenübung „Air Defender“ geplant"
+      }
+    },
+    {
+      "title_original": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
+      "title_zh": "在特朗普呼吁削减联合演习后，韩国总统呼吁军事独立",
+      "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-18T05:50:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "李在明重申，在唐纳德·特朗普削减联合演习后，韩国希望将全面指挥权交回首尔手中，并称特朗普与金正恩的关系是“愚蠢的、随意的决定”，特朗普破坏了韩国联盟。韩国总统再次推动在发生战争时从美国手中夺回对军队的独立控制权，并在唐纳德·特朗普下令削减联合演习后，敦促在获取核动力潜艇方面取得更快进展。",
+        "周日晚上，特朗普指示五角大楼“大幅减少”本周与韩国的联合军事演习，称拥有核武器的朝鲜“一直没有威胁且尊重”，美国总统“与金正恩关系非常好”。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "South Korea president calls for military independence in wake of Trump call to cut joint drills"
+      }
+    },
+    {
+      "title_original": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+      "title_zh": "图帕克谋杀案审判：目击者称说唱歌手枪击之夜“地狱全乱了”",
+      "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-18T05:24:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "图帕克谋杀案审判：目击者称说唱歌手枪击之夜“地狱全乱了”\n- 已发表\n在图帕克·沙库尔谋杀案审判的第一天，检察官将前帮派头目杜安·“凯夫·D”·戴维斯描绘成一个在策划杀害这位标志性说唱歌手的驾车枪击事件之前寻求复仇的人。",
+        "目击者将拉斯维加斯陪审团带回到三十年前，沙库尔被枪杀的那晚，当时黑帮盛行于 90 年代的嘻哈音乐，对警察的不信任导致缺乏合作。",
+        "63 岁的戴维斯被指控谋杀沙库尔，这是上世纪最著名的悬案之一。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says"
+      }
+    },
+    {
+      "title_original": "Inside secret police warehouse as Germany targets small boats gangs",
+      "title_zh": "德国瞄准小船团伙时在秘密警察仓库内",
+      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-18T05:02:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德国瞄准小船团伙时在秘密警察仓库内\n- 已发表\n据英国广播公司（BBC）获悉，德国根据一项新法律进行了首次突击搜查，以打击利用该国作为小船穿越英吉利海峡的中转站的走私者。",
+        "今年春天，英国、法国和德国在北莱茵-威斯特法伦州地区开展联合行动，警方缴获了 9000 多件救生衣、数十艘小艇和发动机以及 360 个泵。",
+        "这些小艇和设备现在被存放在一个秘密地点，BBC 有权进入该地点。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Inside secret police warehouse as Germany targets small boats gangs"
+      }
+    },
+    {
+      "title_original": "孙兴杰：“太平洋时代”国际格局演进的变与不变",
+      "title_zh": "孙兴杰：“太平洋时代”国际格局演进的变与不变",
+      "url": "https://finance.sina.cn/2026-08-18/detail-ininswmu8673032.d.html?vt=4",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-08-18T04:52:30+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "孙兴杰：“太平洋时代”国际格局演进的变与不变\n当今世界百年变局加速演进，科技创新是其中一个关键变量。随着以人工智能（AI）为代表的一大批前沿科技迅猛发展，全球产业体系正在经历重塑。紧跟新一轮科技革命和产业变革步伐的国家和地区，对于国际格局演变的影响随之增大。在当前的产业革命浪潮中，太平洋两岸正在加速成为全球科技、经济乃至政治的中心区域，世界重心从大西洋向太平洋的转移更加明显。",
+        "作为世界上最重要的双边关系之一，中美关系对于正在到来的“太平洋时代”至关重要。“太平洋足够宽广，容得下中美两个大国的共存与合作”，这一论断的世界性和历史性意义正在进一步得到印证和展现。中美将构建“建设性战略稳定关系”作为两国关系新定位，顺应了百年变局下的历史潮流。",
+        "产业革命牵动世界格局演变\n纵观近现代发展史，国际秩序变迁或国际格局演变的核心动力之一，就是源自科技发展的力量，这与农业时代的帝国兴衰有着根本不同。18世纪工业革命之后，技术创新和产业革命不断重洗国际力量版图，世界在更大程度一体化的同时也经历着快速分化，世界体系开始呈现“中心—边缘”特征。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "孙兴杰：“太平洋时代”国际格局演进的变与不变"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient: les derniers développements",
+      "title_zh": "中东战争：最新进展",
+      "url": "https://actu.orange.fr/monde/guerre-au-moyen-orient-les-derniers-developpements-CNT000002rn7SC.html",
+      "source": "Orange Actualités",
+      "source_score": 40,
+      "published_at": "2026-08-18T04:48:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争：最新进展\n© Kent NISHIMURA，法新社 - 2026 年 8 月 16 日，美国总统唐纳德·特朗普在新泽西州莫里斯敦机场走向空军一号总统专机\n周一，美国和伊朗签署谅解备忘录 60 天后，唐纳德·特朗普威胁要轰炸阿曼，该备忘录旨在为和平解决中东战争铺平道路。",
+        "以下是该地区冲突的最新进展：\n一艘船在霍尔木兹海峡被“不明弹丸”击中\n英国海事机构 UKMTO 周二宣布，一艘“身份不明的射弹”在穿过霍尔木兹海峡驶向出口时击中一艘船，造成一名人员伤亡，但没有具体说明是死亡还是受伤。",
+        "“撞击损坏了机舱并造成一名机组人员伤亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Orange Actualités"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: les derniers développements"
+      }
+    },
+    {
+      "title_original": "انباء عن تعرض سفينة لهجوم في مضيق هرمز",
+      "title_zh": "据报道，一艘船只在霍尔木兹海峡遭到袭击",
+      "url": "https://www.tasnimnews.ir/ar/news/2026/08/18/3673538/%D8%A7%D9%86%D8%A8%D8%A7%D8%A1-%D8%B9%D9%86-%D8%AA%D8%B9%D8%B1%D8%B6-%D8%B3%D9%81%DB%8C%D9%86%D8%A9-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D9%81%DB%8C-%D9%85%D8%B6%DB%8C%D9%82-%D9%87%D8%B1%D9%85%D8%B2",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-08-18T04:36:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "首页\n所有地址\n中东\n国际\n伊朗\n经济\n空间技术\n文化与社会\n体育运动\n图文报道\n视频\n图形\n波斯语\n英语\n土耳其\n奥古斯都\n皮斯西奇\nRSS\n电报\nInstagram\n推特\n首页\n所有地址\n中东\n国际\n伊朗\n经济\n空间技术\n文化与社会\n体育运动\n图文报道\n视频\n图形",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "انباء عن تعرض سفينة لهجوم في مضيق هرمز"
+      }
+    },
+    {
+      "title_original": "Student killed in Philippines Catholic school shooting",
+      "title_zh": "菲律宾天主教学校枪击事件学生身亡",
+      "url": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-18T03:43:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "菲律宾天主教学校枪击事件学生身亡\n- 已发表\n当地官员周二表示，菲律宾南部一所天主教初中的一名学生被一名同学开枪打死，后者随后自杀。",
+        "市长凯梅尔·阿丹·奥拉索 (Khymer Adan Olaso) 告诉当地电台，据称枪手成功地将一把 0.45 口径手枪潜入三宝颜市学校的一间教室。",
+        "嫌疑人向坐在桌旁的老师开枪，但没有击中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Student killed in Philippines Catholic school shooting"
+      }
+    },
+    {
+      "title_original": "Ni OTAN islámica, ni pacto suní",
+      "title_zh": "既不是伊斯兰北约，也不是逊尼派条约",
+      "url": "https://elpais.com/internacional/2026-08-18/ni-otan-islamica-ni-pacto-suni.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-08-18T03:30:01+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "既不是伊斯兰北约，也不是逊尼派条约\n沙特阿拉伯、巴基斯坦和土耳其之间的麦加协议目前更具政治性和战略性，而非军事性\n最近几周，沙特阿拉伯在安全领域采取了几项引人注目的举措。",
+        "陷入美国和以色列对伊朗发动战争的沙特首次承认轰炸了伊拉克境内的亲伊朗民兵组织；已组建海军联盟，保卫红海航运免受也门胡塞武装（也是德黑兰的盟友）的袭击，并与巴基斯坦和土耳其签署了防御协议。",
+        "这些都是“引人注目”的举措，因为自从阿卜杜勒阿齐兹·伊本·沙特国王与富兰克林·D·布什总统达成协议以来。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Ni OTAN islámica, ni pacto suní"
+      }
+    },
+    {
+      "title_original": "El pacto de La Meca: 4 claves para entender la \"OTAN musulmana\" creada por Turquía, Arabia Saudita y Pakistán",
+      "title_zh": "麦加条约：理解土耳其、沙特阿拉伯和巴基斯坦创建的“穆斯林北约”的四个关键",
+      "url": "https://www.bbc.com/mundo/articles/cm2grvk85vlo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-18T03:08:25+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "麦加条约：理解土耳其、沙特阿拉伯和巴基斯坦创建的“穆斯林北约”的四个关键\n  - BBC 世界频道作者\n- 出版日期\n- 阅读时间：7 分钟\n土耳其、沙特阿拉伯和巴基斯坦签署《麦加条约》已经过去一周多了，这项联合防御协议被一些分析人士称为“逊尼派条约”，甚至是“穆斯林北约”。",
+        "一些人将其解读为针对伊朗和以色列等国家的信号。",
+        "其他人则表示，这反映了这些国家希望减少对美国安全依赖的愿望。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "es": "El pacto de La Meca: 4 claves para entender la \"OTAN musulmana\" creada por Turquía, Arabia Saudita y Pakistán"
+      }
+    },
+    {
+      "title_original": "La \"única democracia de Oriente Medio\" empieza a parecerlo menos",
+      "title_zh": "“中东唯一的民主国家”开始显得不那么如此",
+      "url": "https://www.elconfidencial.com/mundo/2026-08-18/democracia-israel-guerra-netanyahu-autocracia-1hms_4407165/",
+      "source": "El Confidencial",
+      "source_score": 40,
+      "published_at": "2026-08-18T03:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "“中东唯一的民主国家”开始显得不那么如此\n据以色列民主研究所（IDI）称，近年来民主不断受到侵蚀。\n在以色列，每天都会有人警告该国民主制度脆弱的健康状况及其滑向独裁统治。",
+        "最高法院法官、议员、政治家、分析家、记者、律师指出……这有点像以色列定居者在安全部队的纵容下每天在西岸针对巴勒斯坦人实施暴力。",
+        "她出现在电视上，受到政客的谴责，也受到右翼人士的谴责，分析人士分析她，她受到军队的谴责。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "El Confidencial"
+      ],
+      "all_titles": {
+        "es": "La \"única democracia de Oriente Medio\" empieza a parecerlo menos"
+      }
+    },
+    {
+      "title_original": "ウクライナがCNNに見せた「アキレス腱」、迎撃ミサイルが枯渇したパトリオット発射機",
+      "title_zh": "乌克兰向CNN展示了其“致命弱点”：爱国者发射器的拦截器耗尽",
+      "url": "https://www.cnn.co.jp/world/35251636.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-18T02:45:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "基辅附近（CNN）世界上最令人垂涎​​的武器被遗弃在玉米地里。发射器是空的，上次发射是在 10 周前。",
+        "随着许多国家争相加强防御系统，全球供应短缺的焦点集中在美制爱国者防空系统的拦截导弹上。在海湾地区和在与伊朗的战争中首当其冲的乌克兰，能够拦截弹道导弹的武器寥寥无几。乌克兰几乎每晚都遭受俄罗斯袭击，7 月是自 2022 年 5 月以来平民死亡人数最多的月份。",
+        "乌克兰当局首次在媒体上接受美国有线电视新闻网（CNN）采访，以便澄清他们“拦截导弹几乎耗尽”的事实。美国有线电视新闻网 (CNN) 同意不报道有关爱国者型号或位置的详细信息。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ウクライナがCNNに見せた「アキレス腱」、迎撃ミサイルが枯渇したパトリオット発射機"
+      }
+    },
+    {
+      "title_original": "美航母撤走后菲总统态度大变：不允许美军从本国领入介入台海",
+      "title_zh": "美航母撤走后菲总统态度大变：不允许美军从本国领入介入台海",
+      "url": "https://mil.ifeng.com/c/8vgXYTmz70u",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-08-18T02:29:24+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "据观察者网等媒体报道，菲律宾总统小马科斯在记者会上公开表态，若台海局势发生冲突，菲律宾不会允许美军依托菲律宾领土发起军事打击。他表示，菲律宾无意卷入区域战事，核心诉求仅为捍卫本国领土主权、维护区域和平稳定，允许他国从菲领土发起军事攻击的行为，与菲律宾现行国家政策相悖。",
+        "当美军从太平洋撤走最后一艘航母，亚太局势将发生根本性改变。",
+        "此番表态看似立场中立、态度克制，释放出缓和中菲关系的信号，但结合小马科斯执政以来的实际施政行为来看，该言论仅为表面化的外交话术，并不具备实质可信度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "美航母撤走后菲总统态度大变：不允许美军从本国领入介入台海"
+      }
+    },
+    {
+      "title_original": "ロシアとウクライナ、連夜の激しい攻撃　双方に多数の死傷者",
+      "title_zh": "俄罗斯和乌克兰连夜发生暴力袭击，造成双方大量人员伤亡",
+      "url": "https://www.bbc.com/japanese/articles/c204938z807o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-18T01:27:41+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯和乌克兰遭遇暴力袭击，造成双方大量人员伤亡\n地方当局称，乌克兰17日上午在俄罗斯西部和南部发动袭击，造成包括1名儿童在内的9人死亡、23人受伤。与此同时，俄罗斯当局称，乌克兰东北部和东部也同时发生袭击事件，造成四人死亡。这是双方激烈进攻的一夜。",
+        "前一天晚上，俄罗斯描述了乌克兰今年“最大规模”的袭击事件，连续第二晚造成大量人员伤亡。前一天晚上的袭击至少造成七人死亡。",
+        "前一天晚上，俄罗斯在乌克兰发动袭击，造成至少 7 人死亡、超过 39 人受伤。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ロシアとウクライナ、連夜の激しい攻撃　双方に多数の死傷者"
+      }
+    },
+    {
+      "title_original": "الشرق الأوسط لم يعد ينتظر واشنطن",
+      "title_zh": "中东不再等待华盛顿",
+      "url": "https://alhurra.com/34354",
+      "source": "الحرة",
+      "source_score": 40,
+      "published_at": "2026-08-18T01:14:22+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "关注 MBN 阿拉伯语和英语主要新闻平台，了解最新动态。",
+        "如果您想阅读英文版“议程”，请点击此处。",
+        "如果您通过重定向收到 MBN 议程时事通讯，请订阅。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "الحرة"
+      ],
+      "all_titles": {
+        "ar": "الشرق الأوسط لم يعد ينتظر واشنطن"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Russian campaign to ‘weaponise winter’ under way",
+      "title_zh": "乌克兰战争简报：俄罗斯“冬季武器化”行动正在进行",
+      "url": "https://www.theguardian.com/world/2026/aug/18/ukraine-war-briefing-russian-campaign-to-weaponise-winter-under-way",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-18T01:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  乌克兰国家能源公司 Naftogaz 表示，过去一周，俄罗斯无人机和导弹对乌克兰 Naftogaz 能源公司的设施进行了 13 次袭击，自今年年初以来，俄罗斯已对其设施进行了近 300 次袭击。",
+        "最近的袭击造成设备和生产能力严重受损，但没有造成人员伤亡。",
+        "乌克兰官员表示，俄罗斯正在将即将到来的冬天“武器化”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Russian campaign to ‘weaponise winter’ under way"
+      }
+    },
+    {
+      "title_original": "South Korea city deluged by almost a metre of rain, triggering deadly landslide",
+      "title_zh": "韩国城市被近一米降雨淹没，引发致命山体滑坡",
+      "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-rain-deadly-landslide-philippines-major-flooding",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-18T00:37:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "韩国南部城市巨济市因暴雨导致停电和大规模疏散，山体滑坡袭击公寓楼，造成一人死亡 官员证实，自周六以来袭击韩国南部地区的倾盆大雨已造成一人死亡、四人受伤。",
+        "韩国内政安全部表示，包括巨济市在内的庆尚南道地区出现了大雨，周末发生的 800 毫米（31 英寸）洪水引发了山体滑坡。",
+        "周一降雨持续，截至下午6点累计降雨量达到912毫米。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "South Korea city deluged by almost a metre of rain, triggering deadly landslide"
+      }
+    },
+    {
+      "title_original": "ロシア「英が払う代償大きく」ウクライナが英製ステルスドローンを攻撃使用報道受け",
+      "title_zh": "俄罗斯：有报道称乌克兰使用英国制造的隐形无人机发动袭击后，“英国将付出巨大代价”",
+      "url": "https://news.tv-asahi.co.jp/news_international/articles/000526983.html",
+      "source": "テレ朝NEWS",
+      "source_score": 40,
+      "published_at": "2026-08-18T00:25:31+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "1\n                    \n                      \n                        \n                          \n                        \n                      \n                     \n                    \n                    \n                    \n                  \n                \n                        针对英国制造的无人机开始用于袭击俄罗斯本土的报道，俄罗斯发表声明称“英国将付出更大的代价”。",
+        "英国媒体15日援引乌克兰军方官员的话说，英国制造的无人机在过去六个月中已开始用于对俄罗斯本土的袭击。",
+        "对此，俄罗斯驻英国大使馆17日发表声明称，“卷入冲突越深、对乌克兰的支持越大，英国付出的代价就越大。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "テレ朝NEWS"
+      ],
+      "all_titles": {
+        "ja": "ロシア「英が払う代償大きく」ウクライナが英製ステルスドローンを攻撃使用報道受け"
+      }
+    },
     {
       "title_original": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
       "title_zh": "验尸官发现“没有外伤迹象”，向女演员海顿·潘妮蒂尔致敬",
