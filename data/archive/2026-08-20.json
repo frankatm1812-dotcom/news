@@ -1,0 +1,882 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-19T23:56:34.436002+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "プーチン氏、ウクライナの攻撃「重大な結果ない」物流復旧支援を指示",
+      "title_zh": "普京下令为乌克兰袭击提供后勤恢复支持“不会造成严重后果”",
+      "url": "https://www.nikkei.com/article/DGXZQOGR198XL0Z10C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-19T23:52:31+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "本文仅供会员阅读\n普京下令为乌克兰袭击提供后勤恢复支持“不会造成严重后果”\n[会员专用文章]\n【莫斯科=小川知世】俄罗斯总统普京19日断言，乌克兰袭击俄罗斯领土造成的损害“并未造成任何严重后果”。指示政府制定支持措施，恢复受损的物流设施。",
+        "他是在讨论俄罗斯战略发展的会议上发表上述言论的。随着乌克兰加强对俄罗斯的无人机袭击，它否认对经济造成任何损害，并表示该国将支持复苏努力。对袭击加剧的不满...",
+        "2022年2月，俄罗斯入侵乌克兰。我们整理了有关世界各地战况和动向的最新新闻和评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏、ウクライナの攻撃「重大な結果ない」物流復旧支援を指示"
+      }
+    },
+    {
+      "title_original": "Pentagon quizzes NATO allies on political loyalty, documents reveal",
+      "title_zh": "文件显示，五角大楼对北约盟国进行政治忠诚度测试",
+      "url": "https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-19T23:33:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "文件显示，五角大楼对北约盟国进行政治忠诚度测试\n半岛电视台独家获得的五角大楼调查问卷调查了北约盟国对美国政策的忠诚度。",
+        "根据半岛电视台独家获得的文件，五角大楼已向美国的北约盟国提出了一长串问题，询问他们是否遵守唐纳德·特朗普总统对跨大西洋联盟的愿景。",
+        "调查问卷尖锐地询问盟友是否“公开支持美国外交政策优先事项”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Pentagon quizzes NATO allies on political loyalty, documents reveal"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Todesopfer bei russischem Angriff auf Kiew",
+      "title_zh": "乌克兰战争：俄罗斯袭击基辅造成人员死亡",
+      "url": "https://www.tagesspiegel.de/internationales/ukraine-krieg-todesopfer-bei-russischem-angriff-auf-kiew-15962887.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-08-19T22:53:09+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争：俄罗斯袭击基辅造成人员死亡\n俄罗斯再次攻击乌克兰，目标瞄准首都。",
+        "据说一家儿童医院也遭到破坏。",
+        "Stand:\nnun bevorzugt anzeigen lassen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Todesopfer bei russischem Angriff auf Kiew"
+      }
+    },
+    {
+      "title_original": "The Freedom Caucus is having a brutal primary run",
+      "title_zh": "自由核心小组正在进行残酷的初选",
+      "url": "https://www.politico.com/news/2026/08/19/freedom-caucus-struggles-primaries-01042990",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-19T17:49:36-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The hard-right Freedom Caucus has struggled to elevate its picks this year.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The Freedom Caucus is having a brutal primary run"
+      }
+    },
+    {
+      "title_original": "ウクライナのキーウにロシアが弾道ミサイル攻撃＝市長",
+      "title_zh": "俄罗斯对乌克兰基辅发动弹道导弹袭击 = 市长",
+      "url": "https://jp.reuters.com/world/ukraine/7KR43MAKRNLFPGG5BDWS647KXQ-2026-08-19/",
+      "source": "jp.reuters.com",
+      "source_score": 95,
+      "published_at": "2026-08-19T22:37:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对乌克兰基辅发动弹道导弹袭击 = 市长 jp.reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "jp.reuters.com"
+      ],
+      "all_titles": {
+        "ja": "ウクライナのキーウにロシアが弾道ミサイル攻撃＝市長"
+      }
+    },
+    {
+      "title_original": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "title_zh": "厄瓜多尔情报局长和五名美国人在肯尼亚直升机失事中丧生",
+      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-19T21:32:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "厄瓜多尔情报局长和五名美国人在肯尼亚直升机失事中丧生\n- 已发表\n厄瓜多尔情报局长和他的妻子在肯尼亚的一次直升机失事中丧生。",
+        "星期三上午 9 点 13 分（格林威治标准时间 06 点 13 分）左右，桑布鲁县发生了这起事故，其中 Michele Sensi-Contugi 和他的妻子 Stephany Hollihan 是遇难者之一。",
+        "美国国务院发言人表示，另外五名受害者是美国人。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash"
+      }
+    },
+    {
+      "title_original": "独検察 ノルドストリーム爆発 ウクライナ国籍の男を新たに逮捕",
+      "title_zh": "独検察 ノルドストリーム爆発 ウクライナ国籍の男を新たに逮捕",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45187",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-19T21:26:17+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "德国检察官因北溪爆炸案新逮捕一名乌克兰男子 NHK 新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "独検察 ノルドストリーム爆発 ウクライナ国籍の男を新たに逮捕"
+      }
+    },
+    {
+      "title_original": "‘Woefully underprepared’: Graham critics seize on her foreign policy misstep",
+      "title_zh": "“准备不足”：格雷厄姆的批评者抓住了她外交政策失误的机会",
+      "url": "https://www.politico.com/news/2026/08/19/darline-graham-taiwan-flub-south-carolina-senate-01042395",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-19T16:12:54-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "President Donald Trump is working hard to propel the political newcomer into office.",
+        "Her debate performance proved just how green she still is.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "‘Woefully underprepared’: Graham critics seize on her foreign policy misstep"
+      }
+    },
+    {
+      "title_original": "ウクライナ 国民から高評価の前国防相が大統領選挙実施を要求",
+      "title_zh": "乌克兰前国防部长受到民众高度评价呼吁举行总统选举",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260820de45192",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-19T20:47:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "受到民众高度评价的乌克兰前国防部长呼吁举行总统选举 NHK新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ 国民から高評価の前国防相が大統領選挙実施を要求"
+      }
+    },
+    {
+      "title_original": "Sacked Ukrainian defence minister calls for presidential election",
+      "title_zh": "被解雇的乌克兰国防部长呼吁举行总统选举",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-19T20:34:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Sacked Ukrainian defence minister calls for presidential election\n- Published\nUkraine's popular ex-defence minister Mykhailo Fedorov has called for wartime elections, in what is widely seen as the biggest challenge to Volodymyr Zelensky's presidency since Russia's full-scale invasion four and a half years ago.",
+        "35 岁的费多罗夫周二在 YouTube 上发布的一段视频中表示，“民主不能被俄罗斯扣为人质”，并补充说乌克兰正在战斗“正是因为我们想继续成为一个自由的欧洲国家”。",
+        "自 2022 年战争爆发以来，乌克兰一直处于戒严状态，这意味着选举被暂停。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Sacked Ukrainian defence minister calls for presidential election"
+      }
+    },
+    {
+      "title_original": "Five Americans among seven killed in safari helicopter crash in Kenya",
+      "title_zh": "肯尼亚野生动物园直升机失事，七人中有五人丧生",
+      "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-19T20:17:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "官员称，机上七人全部遇难，其中包括 Telemundo 高管和厄瓜多尔情报负责人 据当地警方和美国国务院称，周三上午，一架狩猎直升机在肯尼亚北部偏远地区坠毁，造成 7 人死亡，其中包括 5 名美国人。",
+        "死者包括美国全国广播公司环球公司旗下西班牙语网络 Telemundo 的一名高管，以及厄瓜多尔国家情报局局长。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Five Americans among seven killed in safari helicopter crash in Kenya"
+      }
+    },
+    {
+      "title_original": "La Guerre au Moyen-Orient fait annuler des concerts de Shakira et Christina Aguilera",
+      "title_zh": "中东战争取消了夏奇拉和克里斯蒂娜·阿奎莱拉的演唱会",
+      "url": "https://www.huffingtonpost.fr/culture/article/la-guerre-au-moyen-orient-fait-annuler-des-concerts-de-shakira-et-christina-aguilera_307727.html",
+      "source": "Le HuffPost",
+      "source_score": 40,
+      "published_at": "2026-08-19T19:45:50+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "在中东战争的背景下，哥伦比亚明星夏奇拉和美国明星克里斯蒂娜·阿奎莱拉原定在阿布扎比举行的两个音乐节的组织者宣布取消。",
+        "自二月底美国和以色列对伊朗发起进攻以来，阿拉伯联合酋长国仍然是德黑兰报复的主要目标。",
+        "这个海湾国家声称遭到了三千多枚导弹和无人机的攻击，这些导弹和无人机击中了一些基础设施，但大多数都被拦截。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Le HuffPost"
+      ],
+      "all_titles": {
+        "fr": "La Guerre au Moyen-Orient fait annuler des concerts de Shakira et Christina Aguilera"
+      }
+    },
+    {
+      "title_original": "النفط يرتفع مع استمرار التوترات الجيوسياسية بالشرق الأوسط",
+      "title_zh": "中东地缘政治紧张局势持续，油价上涨",
+      "url": "https://www.fxnewstoday.ae/commodities/oil-news/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D9%85%D8%B9-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%8A%D9%88%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A8%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-280510",
+      "source": "FxNewsToday.ae",
+      "source_score": 40,
+      "published_at": "2026-08-19T19:33:55+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "随着中东地缘政治紧张局势持续，油价上涨 FxNewsToday.ae",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "FxNewsToday.ae"
+      ],
+      "all_titles": {
+        "ar": "النفط يرتفع مع استمرار التوترات الجيوسياسية بالشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Brisanter NATO-Plan enthüllt: So würde das Bündnis einen russischen Angriff auf die Baltischen Staaten stoppen",
+      "title_zh": "北约爆炸性计划曝光：这就是该联盟阻止俄罗斯袭击波罗的海国家的方式",
+      "url": "https://www.fr.de/politik/russischer-angriff-auf-nato-ostflanke-diese-drei-schritte-wuerden-putin-zurueckschlagen-zr-94451326.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-19T19:05:40+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "三步走：北约如何阻止俄罗斯对波罗的海的袭击\n在谷歌上关注我们\n一段时间以来，北约一直预计普京可能会对波罗的海地区发动袭击。",
+        "通过这三个步骤，联盟就能反击攻击。",
+        "柏林 - 北约已经制定了详细计划，说明该联盟将如何应对俄罗斯可能对波罗的海国家爱沙尼亚、拉脱维亚和立陶宛发动的袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Brisanter NATO-Plan enthüllt: So würde das Bündnis einen russischen Angriff auf die Baltischen Staaten stoppen"
+      }
+    },
+    {
+      "title_original": "Russland-Experte: Putin im Ukraine-Krieg „borniert“ – doch Russlands Elite fühlt sich „zunehmend in der Sackgasse“",
+      "title_zh": "俄罗斯专家：普京在乌克兰战争中“闭门不出”——但俄罗斯精英感觉“越来越陷入死胡同”",
+      "url": "https://www.fr.de/politik/ukraine-krieg-aktuell-keine-putin-muedigkeit-in-russland-zr-94449802.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-19T18:49:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg aktuell: Moskau kämpft mit massiven Benzin-Engpässen, Tote nach russischem Drohnenangriff\nUns auf Google folgen\nAktuelle News-Lage im Ukraine-Krieg im Ticker: Russland muss nach ukrainischen Angriffen auf die Ölinfrastruktur Kraftstoff importieren.",
+        "Kiew trifft russische Rüstungsfirmen.",
+        "最重要的是在 \n这个新闻行情\n- 乌克兰袭击后：俄罗斯必须进口燃料 - 一旦炼油厂恢复运营，情况就会改善。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Russland-Experte: Putin im Ukraine-Krieg „borniert“ – doch Russlands Elite fühlt sich „zunehmend in der Sackgasse“"
+      }
+    },
+    {
+      "title_original": "81-year-old confesses to German cold case murder of US tourist in 1994",
+      "title_zh": "81岁老人承认1994年德国谋杀美国游客悬案",
+      "url": "https://www.bbc.co.uk/news/articles/cq89n5j9npdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-19T18:26:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "81岁老人承认1994年德国谋杀美国游客悬案\n- 已发表\n德国一名 82 岁男子在受审后承认犯有让科布伦茨市神秘了近 32 年的谋杀案，目前面临无期徒刑。",
+        "来自德克萨斯州的艾米·洛佩兹最后一次活着是在 1994 年 9 月，当时她正在欧洲巡演，前往科布伦茨的埃伦布赖特斯坦要塞。",
+        "Her body was found at the site two hours later."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "81-year-old confesses to German cold case murder of US tourist in 1994"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 20:11 Krieg reißt russische Weizenexportzahlen auf tiefsten Stand seit 16 Jahren +++",
+      "title_zh": "Ukraine-Krieg im Liveticker: +++ 20:11 Krieg reißt russische Weizenexportzahlen auf tiefsten Stand seit 16 Jahren +++",
+      "url": "https://www.n-tv.de/politik/20-11-Krieg-reisst-russische-Weizenexportzahlen-auf-tiefsten-Stand-seit-16-Jahren-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-19T18:13:22+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争直播+++ 01:24 至少两名妇女在基辅袭击中丧生 +++\n至少两名妇女在基辅的猛烈空袭中丧生。",
+        "目前还有十二人受伤的报告。",
+        "Mehrere Menschen seien in einem Schutzraum und andernorts in einem Wohnhaus eingeschlossen, schreibt Bürgermeister Vitali Klitschko bei Telegram."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 20:11 Krieg reißt russische Weizenexportzahlen auf tiefsten Stand seit 16 Jahren +++"
+      }
+    },
+    {
+      "title_original": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans",
+      "title_zh": "在伊朗袭击计划的报道中，北约“准备”保卫盟友",
+      "url": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-19T17:53:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "在伊朗袭击计划的报道中，北约“准备”保卫盟友\n在媒体报道伊朗考虑对美国在欧洲的目标发动袭击之际，军事联盟表示将“采取必要行动”。",
+        "北约表示，保加利亚已加强贝兹梅尔空军基地的安全措施，准备应对伊朗可能袭击美国在欧洲军事目标的威胁。",
+        "北约官员周三在一份声明中表示：“北约已准备好应对任何威胁，并将始终采取必要行动来保卫所有盟国。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "NATO ‘prepared’ to defend allies amid report of Iranian strike plans"
+      }
+    },
+    {
+      "title_original": "La Bolsa española baja el 0,44 % pendiente de Oriente Medio y de la deuda soberana",
+      "title_zh": "西班牙股市下跌 0.44%，悬而未决的中东和主权债务",
+      "url": "https://www.abc.es/economia/bolsa-espanola-baja-044-pendiente-oriente-medio-20260819194536-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-08-19T17:45:40+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙股市下跌 0.44%，悬而未决的中东和主权债务\n马德里，8 月 19 日（EFECOM）。- 西班牙股市本周四下跌 0.44%，跌至...",
+        "马德里，8 月 19 日（EFECOM）。- 在欧元区通胀上升（2.9%）之后，西班牙股市周四下跌 0.44%，跌至 19,900 点的水平。",
+        "中东和主权债务表现。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "La Bolsa española baja el 0,44 % pendiente de Oriente Medio y de la deuda soberana"
+      }
+    },
+    {
+      "title_original": "Kim Jong-un’s sister casts doubt on Trump’s claims of secret US-North Korea talks",
+      "title_zh": "金正恩妹妹对特朗普关于美朝秘密会谈的说法表示怀疑",
+      "url": "https://www.theguardian.com/world/2026/aug/19/kim-jong-un-sister-doubt-trump-claims-secret-us-north-korea-talks",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-19T17:39:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "总统表示，他计划今年会见独裁者，但金与正表示华盛顿仍然是平壤的敌人唐纳德·特朗普表示，他计划在今年晚些时候会见朝鲜领导人金正恩，尽管这位隐居领导人的妹妹对他们的沟通表示怀疑，并削弱了他们之间取得外交突破的希望。",
+        "特朗普还声称朝鲜拥有 57 枚核武器，他在宣布美国将降低参加美国盟友韩国举行的军事演习的级别后，暗示他和金正恩正在举行秘密谈判。",
+        "当被问及金正恩是否回应了他的对话请求时，特朗普说：“是的，他回应了。”继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Kim Jong-un’s sister casts doubt on Trump’s claims of secret US-North Korea talks"
+      }
+    },
+    {
+      "title_original": "يوميات الشرق الأوسط 19/08/2026 GMT",
+      "title_zh": "中东日记 08/19/2026 GMT",
+      "url": "https://www.bbc.com/arabic/bbc_arabic_radio/w1730n40v1rs27d",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-19T16:40:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "英国广播公司新闻，\n阿拉伯语\n转到内容\n主要\n手表\n听\n部分\n主要\n新闻动态\n经济\n健康与科学\n文化艺术\n体育运动\n调查\n新闻动态\n经济\n健康与科学\n文化艺术\n体育运动\n调查\n中东日记\n,\n2026 年 8 月 19 日 (格林威治标准时间)\n2026 年 8 月 19 日\n您的设备不支持视频播放\n该计划紧随中东的紧急事态发展，旨在帮助人们应对困难情况",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "يوميات الشرق الأوسط 19/08/2026 GMT"
+      }
+    },
+    {
+      "title_original": "プーチン氏、ウクライナによる攻撃の影響限定的 経済「緩やかに成長」",
+      "title_zh": "普京称乌克兰袭击影响有限，经济将“温和”增长",
+      "url": "https://jp.reuters.com/world/ukraine/UXZP3UT7A5ILXFIZEW67AN2LLE-2026-08-19/",
+      "source": "jp.reuters.com",
+      "source_score": 95,
+      "published_at": "2026-08-19T16:35:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京表示乌克兰的袭击对经济“温和增长”的影响有限​jp.reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "jp.reuters.com"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏、ウクライナによる攻撃の影響限定的 経済「緩やかに成長」"
+      }
+    },
+    {
+      "title_original": "北朝鮮の金与正氏、ロシア追加派兵否定 ウクライナの主張「事実無根」",
+      "title_zh": "朝鲜金与正否认向俄罗斯增派军队；乌克兰的说法“毫无根据”",
+      "url": "https://jp.reuters.com/world/us/NYHHVXX2FZOXFILBYSTWC5M4PA-2026-08-19/",
+      "source": "jp.reuters.com",
+      "source_score": 95,
+      "published_at": "2026-08-19T16:08:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "朝鲜金与正否认向俄罗斯增派军队；乌克兰的说法“毫无根据” jp.reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "jp.reuters.com"
+      ],
+      "all_titles": {
+        "ja": "北朝鮮の金与正氏、ロシア追加派兵否定 ウクライナの主張「事実無根」"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー氏、側近の大統領府副長官を解任 ウクライナで汚職疑惑",
+      "title_zh": "泽连斯基因乌克兰腐败指控解雇了总统办公厅副主任的亲密助手",
+      "url": "https://www.nikkei.com/article/DGXZQOGR19AXS0Z10C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-19T15:48:18+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "本文仅供会员阅读\n泽连斯基因乌克兰腐败指控解雇了总统办公厅副主任的亲密助手\n[会员专用文章]\n【维也纳=金子夏希】乌克兰总统泽连斯基19日解除总统府副局长穆德拉的职务。在反腐败机构因涉嫌洗钱而对他展开调查后，他被迫采取行动。 2025年发现的围绕国有核电公司的腐败丑闻尚未结束，正在震动政府。",
+        "穆德拉与泽伦斯基关系密切，负责国内司法改革和外交谈判，以建立一个国际法庭来审判俄罗斯的罪行。",
+        "国家反腐败局（NAB..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー氏、側近の大統領府副長官を解任 ウクライナで汚職疑惑"
+      }
+    },
+    {
+      "title_original": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "title_zh": "以色列证实士兵向辛德·拉贾卜被杀的汽车开枪，并展开刑事调查",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-19T15:33:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "这名五岁的巴勒斯坦女孩最初在袭击中幸存下来，并恳求帮助，但她的尸体后来与六名亲戚的尸体一起被找到。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation"
+      }
+    },
+    {
+      "title_original": "ウクライナ議会、新国防相を承認 更迭の前任者は戦時下選挙を要求",
+      "title_zh": "乌克兰议会批准新任国防部长；前任呼吁进行战时选举",
+      "url": "https://jp.reuters.com/world/ukraine/CJMAGUBQJZIY5KA5TUCLXES6PI-2026-08-19/",
+      "source": "jp.reuters.com",
+      "source_score": 95,
+      "published_at": "2026-08-19T15:27:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰议会批准新任国防部长；前任呼吁进行战时选举 jp.reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "jp.reuters.com"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ議会、新国防相を承認 更迭の前任者は戦時下選挙を要求"
+      }
+    },
+    {
+      "title_original": "„Das ist genau das, was Moskau nicht will“ – Mit dieser Übung sendet die Nato ein klares Signal",
+      "title_zh": "“这正是莫斯科不想要的”——北约通过这次演习发出了明确的信号",
+      "url": "https://www.welt.de/politik/ausland/plus6a856fc9d537b08639dcccad/uebung-bei-kaliningrad-das-ist-genau-das-was-moskau-nicht-will-mit-dieser-uebung-sendet-die-nato-ein-klares-signal.html",
+      "source": "welt.de",
+      "source_score": 40,
+      "published_at": "2026-08-19T14:52:18+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "主导航：使用 Tab 键浏览菜单项。",
+        "使用空格键打开子菜单。",
+        "使用退出键关闭子菜单。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "welt.de"
+      ],
+      "all_titles": {
+        "de": "„Das ist genau das, was Moskau nicht will“ – Mit dieser Übung sendet die Nato ein klares Signal"
+      }
+    },
+    {
+      "title_original": "Angélique Kidjo becomes first African musician with Hollywood Walk of Fame star",
+      "title_zh": "安吉丽克·基乔 (Angélique Kidjo) 成为首位入选好莱坞星光大道的非洲音乐家",
+      "url": "https://www.bbc.co.uk/news/articles/c62xyg6527go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-19T14:36:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "安吉丽克·基乔 (Angélique Kidjo) 登上好莱坞星光大道，为非洲创造历史\n- 已发表\n五届格莱美奖得主安吉利克·基乔 (Angélique Kidjo) 创造了历史，成为第一位在好莱坞星光大道上获得星星的非洲音乐家。",
+        "“我们非洲人只是不知道我们为世界贡献了什么，也不知道我们继续为世界贡献什么以使音乐得以存在。",
+        "没有我们，这个星球上就不可能有音乐。”这位来自贝宁的音乐偶像在仪式上说道。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Angélique Kidjo becomes first African musician with Hollywood Walk of Fame star"
+      }
+    },
+    {
+      "title_original": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
+      "title_zh": "西班牙移民大转弯允许500名休达儿童前往大陆",
+      "url": "https://www.theguardian.com/world/2026/aug/19/spain-allows-500-migrant-minors-in-ceuta-to-relocate-to-the-mainland-in-u-turn",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-19T14:33:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "马德里政府此前曾表示，任何非法入境者都将被直接送回欧洲——最新消息 西班牙政府态度大转变，表示将允许休达的 500 名移民儿童重新安置到大陆。",
+        "7 月 30 日，大约有 7 万人进入休达（位于北非海岸的西班牙领土），其中大多数人已返回摩洛哥。",
+        "然而，根据西班牙法律，国家有义务照顾年满 18 岁的无人陪伴的年轻移民。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn"
+      }
+    },
+    {
+      "title_original": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
+      "title_zh": "拉丁美洲极右翼领导人顾问因涉嫌密谋杀害女友被捕",
+      "url": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-19T13:44:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "42 岁的费尔南多·塞里梅多 (Fernando Cerimedo) 因涉嫌下令枪杀玻利维亚律师纳迪亚·贝勒 (Nadia Beller) 被捕。拉丁美洲新一波极右翼领导人的高级顾问因涉嫌策划谋杀女友未遂而被捕。",
+        "42 岁的商人兼政治顾问费尔南多·塞里梅多 (Fernando Cerimedo) 一直担任玻利维亚总统罗德里戈·帕斯·佩雷拉 (Rodrigo Paz Pereira) 的顾问，也是哈维尔·米莱 (Javier Milei) 在阿根廷 2023 年总统选举中竞选活动背后的主要战略家之一。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend"
+      }
+    },
+    {
+      "title_original": "Gaz, pétrole : comment la Chine veut se mettre à l'abri des retombées de la guerre au Moyen-Orient",
+      "title_zh": "天然气、石油：中国希望如何保护自己免受中东战争的影响",
+      "url": "https://www.lesechos.fr/industrie-services/energie-environnement/gaz-petrole-comment-la-chine-veut-se-mettre-a-labri-des-retombees-de-la-guerre-au-moyen-orient-2247552",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-08-19T13:32:51+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "天然气、石油：中国希望如何保护自己免受中东战争的影响 Les Echos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "Gaz, pétrole : comment la Chine veut se mettre à l'abri des retombées de la guerre au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "Leipzig incident tests NATO’s resolve against Russia",
+      "title_zh": "莱比锡事件考验北约对抗俄罗斯的决心",
+      "url": "https://www.gisreportsonline.com/r/leipzig-incident-russia/",
+      "source": "GIS Reports",
+      "source_score": 55,
+      "published_at": "2026-08-19T13:12:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "莱比锡事件考验北约对抗俄罗斯的决心\n德国一架飞往乌克兰的飞机遭遇炸弹袭击，但未成功，这暴露了人们对莫斯科不断升级的混合战争的政治胆怯态度。",
+        "如需全面的见解，请在此处收听我们的人工智能播客\n德国莱比锡哈勒机场发现一架载有爆炸物的无人机。",
+        "它靠近一架准备向乌克兰运送军事装备的乌克兰飞机。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "GIS Reports"
+      ],
+      "all_titles": {
+        "en": "Leipzig incident tests NATO’s resolve against Russia"
+      }
+    },
+    {
+      "title_original": "Head-on collision between bus and lorry in Brazil kills more than 20",
+      "title_zh": "巴西公交车与卡车迎头相撞 造成20多人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-19T12:25:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "巴西公交车与卡车迎头相撞 造成20多人死亡\n- 已发表\n高速公路警方称，巴西南部一辆小巴与一辆卡车正面相撞，造成至少 23 人死亡，其中包括 2 名儿童，另有 5 人受伤。",
+        "这起事故于当地时间周三早些时候发生在南部巴拉那州的 BR-373 高速公路上。",
+        "当地媒体报道称，这辆小巴属于附近城市因比图瓦的卫生当局，正在运送患者及其亲属前往约 60 公里（36 英里）外的蓬塔格罗萨（Ponta Grossa）进行医疗预约。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Head-on collision between bus and lorry in Brazil kills more than 20"
+      }
+    },
+    {
+      "title_original": "ノルドストリーム爆破で2人目容疑者逮捕、ウクライナ人ダイバー",
+      "title_zh": "北溪爆炸案第二名嫌疑人被捕：乌克兰潜水员",
+      "url": "https://jp.reuters.com/world/ukraine/CMFXAPL4U5OY7ETCXKI62UUUZM-2026-08-19/",
+      "source": "jp.reuters.com",
+      "source_score": 95,
+      "published_at": "2026-08-19T12:08:12+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北溪爆炸案第二名嫌疑人被捕：乌克兰潜水员 jp.reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "jp.reuters.com"
+      ],
+      "all_titles": {
+        "ja": "ノルドストリーム爆破で2人目容疑者逮捕、ウクライナ人ダイバー"
+      }
+    },
+    {
+      "title_original": "In Ukraine, forcible military recruitment efforts escalate into violence",
+      "title_zh": "乌克兰强行征兵行动升级为暴力",
+      "url": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-19T11:55:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰强行征兵行动升级为暴力\n“巴士化”这个描述在街上被抓获的术语，被滥用和腐败所吞噬。",
+        "安东在基辅与一位朋友步行回家时，突然被抓住并被迫坐在警车后座上，两侧各有一名警官，他正走向一个可能会在战壕中看到他的未来。",
+        "这位52岁的男子要求隐去自己的姓氏以保护自己的身份，他支持乌克兰对抗俄罗斯，但不想被派往前线。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "In Ukraine, forcible military recruitment efforts escalate into violence"
+      }
+    }
+  ]
+}
