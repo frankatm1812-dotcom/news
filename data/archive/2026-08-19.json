@@ -1,8 +1,836 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-18T23:57:05.259146+00:00",
-  "count": 34,
+  "generated_at": "2026-08-19T12:01:45.653236+00:00",
+  "count": 67,
   "articles": [
+    {
+      "title_original": "Russland-Experte: Putin im Ukraine-Krieg „borniert“ – doch Russlands Elite fühlt sich „zunehmend in der Sackgasse“",
+      "title_zh": "俄罗斯专家：普京在乌克兰战争中“闭门不出”——但俄罗斯精英感觉“越来越陷入死胡同”",
+      "url": "https://www.fr.de/politik/ukraine-krieg-aktuell-keine-putin-muedigkeit-in-russland-zr-94449802.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-19T11:51:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "当前的乌克兰战争：莫斯科和其他地区正面临严重的汽油短缺\n在谷歌上关注我们\n乌克兰战争的最新新闻动态：俄罗斯民众可能仍然对普京友好。",
+        "今天在基辅进行了开创性的投票。",
+        "最重要的是在 \n这个新闻行情\n- 俄罗斯没有“普京疲劳”——俄罗斯记者谈局势\n- 乌克兰内部危机：费多罗夫呼吁举行选举——被解职的部长谴责腐败\n- 泽伦斯基依赖前特勤官员奇马拉 - 他被认为是针对俄罗斯的无人机袭击的策划者\n下午 1:43 更新：俄罗斯和乌克兰在乌克兰战争中再次交换囚犯。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Russland-Experte: Putin im Ukraine-Krieg „borniert“ – doch Russlands Elite fühlt sich „zunehmend in der Sackgasse“"
+      }
+    },
+    {
+      "title_original": "Helicopter crashes at Mount Ololokwe in Kenya, killing six people",
+      "title_zh": "肯尼亚奥洛洛奎山直升机坠毁，造成六人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-19T11:32:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "肯尼亚奥洛洛奎山直升机坠毁，造成六人死亡\n- 已发表\n空难官员告诉英国广播公司，一架直升机在肯尼亚中部桑布鲁县奥洛洛奎山坠毁，机上六人全部遇难。",
+        "飞机事故调查部门表示，机上人员的身份尚未确认。",
+        "当地媒体报道称，这架直升机载着游客。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Helicopter crashes at Mount Ololokwe in Kenya, killing six people"
+      }
+    },
+    {
+      "title_original": "صدارة خليجية.. أبرز 10 رؤساء تنفيذيين في الشرق الأوسط",
+      "title_zh": "海湾领导人...中东最杰出的 10 位首席执行官",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/08/19/ceo-mena-forbes-2026-infographic",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-08-19T10:56:14+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "阿拉伯联合酋长国迪拜（CNN）——《福布斯》发布了中东地区 100 强首席执行官名单，重点表彰那些将出色的财务业绩与对增强经济灵活性和发展做出有效贡献的首席执行官。",
+        "过去一年，该地区企业加大了对人工智能、数字基础设施、能源转型和先进制造的投资。",
+        "福布斯认为，人工智能已从战略阶段走向应用阶段，而可持续性已成为商业的基本要求，而不仅仅是形式。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "صدارة خليجية.. أبرز 10 رؤساء تنفيذيين في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Liberia agrees to accept 1,200 foreign deportees from the US",
+      "title_zh": "利比里亚同意接收1,200名来自美国的外国被驱逐者",
+      "url": "https://www.bbc.co.uk/news/articles/cpq8g22715vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-19T10:47:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "利比里亚同意接收1,200名来自美国的外国被驱逐者\n- 已发表\n利比里亚同意在明年接受最多 1,200 名被美国驱逐出境的外国人，这是华盛顿在继续打击非法移民过程中迄今为止达成的最大协议之一。",
+        "与其他国家签订的此类协议往往涉及那些受到法律保护而不得因迫害等原因返回自己国家的人。",
+        "目前尚不清楚那些来利比里亚的人是否有保护令。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Liberia agrees to accept 1,200 foreign deportees from the US"
+      }
+    },
+    {
+      "title_original": "Taiwán exhibe robots e inteligencia artificial en una feria en Taipéi",
+      "title_zh": "台湾在台北展会上展示机器人和人工智能",
+      "url": "https://www.abc.es/tecnologia/taiwan-exhibe-robots-inteligencia-artificial-feria-taipei-20260819115535-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-08-19T09:55:40+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾在台北展会上展示机器人和人工智能\n台北，8 月 19 日（EFE/EPA）。- 台北南港展览中心将从本周三开始举办...",
+        "台北，8 月 19 日（EFE/EPA）- 台北南港展览中心将于本周三至周六举办新一届台湾自动化、智能与机器人博览会 (TAIROS)，这是台湾机器人技术进步的主要国际平台...",
+        "工业和智能制造。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Taiwán exhibe robots e inteligencia artificial en una feria en Taipéi"
+      }
+    },
+    {
+      "title_original": "US charges 17 Iranians over 'massive' cyber theft campaign",
+      "title_zh": "美国指控 17 名伊朗人参与“大规模”网络盗窃活动",
+      "url": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-19T09:48:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国指控 17 名伊朗人参与“大规模”网络盗窃活动\n- 已发表\n十七名伊朗人因涉嫌进行长达一年的“协调行动”网络攻击以窃取美国组织的数据而被指控。",
+        "美国司法部 (DoJ) 表示，至少自 2013 年以来，总部位于伊朗的 Mabna Institute 的成员已针对 144 所美国大学和 42 家私营企业的计算机系统进行了攻击。",
+        "美国司法部表示，该组织据称在“大规模”行动中窃取了超过 31 TB 的学术数据和知识产权，价值约 34 亿美元（25 亿英镑）。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US charges 17 Iranians over 'massive' cyber theft campaign"
+      }
+    },
+    {
+      "title_original": "Activist forced out of US after criticising Trump-aligned Colombian politician",
+      "title_zh": "批评与特朗普结盟的哥伦比亚政客后，活动人士被迫离开美国",
+      "url": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-19T09:00:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "贝托·珊瑚在佛罗里达州举起横幅，警告哥伦比亚同胞不要投票给阿韦拉多·德拉埃斯普里埃拉 在哥伦比亚总统选举前一周，居住在美国的知名活动家贝托·珊瑚前往佛罗里达州劝说哥伦比亚同胞不要投票给极右翼候选人阿韦拉多·德拉埃斯普里埃拉。",
+        "科勒尔在迈阿密投票站外举着横幅，警告这位获得唐纳德·特朗普支持的百万富翁律师将“帮助驱逐你们所有人”。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Activist forced out of US after criticising Trump-aligned Colombian politician"
+      }
+    },
+    {
+      "title_original": "Poll: Americans say the White House has shifted its deportation campaign. They’re still not buying it.",
+      "title_zh": "民意调查：美国人表示白宫已经改变了驱逐行动。他们仍然不买账。",
+      "url": "https://www.politico.com/news/2026/08/19/poll-trump-deportations-voters-midterms-01041099",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-19T04:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "POLITICO 民意调查的新结果显示，一半的美国人，包括近四分之一的特朗普 2024 年选民，仍然表示总统的大规模驱逐行动过于激进。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Poll: Americans say the White House has shifted its deportation campaign. They’re still not buying it."
+      }
+    },
+    {
+      "title_original": "الخطوط الجوية الكينية: ارتفاع تكاليف الوقود 72% بسبب الصراع في الشرق الأوسط",
+      "title_zh": "肯尼亚航空：中东冲突导致燃油成本上涨72%",
+      "url": "https://www.reuters.com/ar/business/JYNQ7JCEEJPYTP5XIMLQNCEG2Y-2026-08-19/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-19T08:21:28+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "肯尼亚航空：中东冲突导致燃油成本上涨 72% 路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الخطوط الجوية الكينية: ارتفاع تكاليف الوقود 72% بسبب الصراع في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "解任されたウクライナ前国防相、大統領選挙の実施を要求",
+      "title_zh": "乌克兰前国防部长呼吁举行总统选举",
+      "url": "https://www.bbc.com/japanese/articles/cy07e5rxvejo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-19T08:00:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰前国防部长呼吁举行总统选举\n7月被解职的乌克兰前国防部长米哈伊洛·费多罗夫（35岁）呼吁在战时举行总统选举。人们普遍认为，这是自俄罗斯于 2022 年 2 月对乌克兰发动全面入侵以来，48 岁的总统弗拉基米尔·泽连斯基 (Volodymyr Zelenskiy) 的地位面临的最大国内挑战。",
+        "费多罗夫在 YouTube 上发布的视频中表示，“民主不能被俄罗斯劫持”。他补充说，乌克兰与俄罗斯作战“正是因为它想继续作为一个自由的欧洲国家”。",
+        "自2022年战争爆发以来，乌克兰一直处于戒严状态，选举也被暂停。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（3个来源）",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World",
+        "cnn.co.jp",
+        "BBC"
+      ],
+      "all_titles": {
+        "en": "Sacked Ukrainian defence minister calls for presidential election",
+        "ja": "解任されたウクライナ前国防相、大統領選挙の実施を要求"
+      }
+    },
+    {
+      "title_original": "Shares in humanoid robot firm Unitree surge 600% on Chinese stock market debut",
+      "title_zh": "人形机器人公司 Unitree 股价在中国股市首秀飙升 600%",
+      "url": "https://www.theguardian.com/technology/2026/aug/19/unitree-shares-surge-humanoid-robot-firm-chinese-stock-market-debut",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-19T07:49:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "该公司的机器人通过表演武术和为流行歌星跳舞的视频而享誉全球。全球最大的人形机器人制造商Unitree已大举进军中国股市，股价飙升逾600%。",
+        "这家中国公司的机器人因表演武术、以奥运速度奔跑以及为流行歌星担任伴舞等视频而广为人知。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Shares in humanoid robot firm Unitree surge 600% on Chinese stock market debut"
+      }
+    },
+    {
+      "title_original": "Kenya Airways says its fuel cost up 72% due to Middle East conflict",
+      "title_zh": "肯尼亚航空公司表示，由于中东冲突，其燃油成本上涨了 72%",
+      "url": "https://www.reuters.com/world/africa/kenya-airways-says-its-fuel-cost-up-72-due-middle-east-conflict-2026-08-19/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-19T07:22:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "肯尼亚航空公司表示，由于中东冲突，其燃油成本上涨了 72% 路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Kenya Airways says its fuel cost up 72% due to Middle East conflict"
+      }
+    },
+    {
+      "title_original": "Alleged sexual assault by local official and businessman sparks outrage in China",
+      "title_zh": "地方官员和商人涉嫌性侵犯在中国引发愤怒",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-19T07:21:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "地方官员和商人涉嫌性侵犯在中国引发愤怒\n- 已发表\n中国当局逮捕了一名涉嫌在商业聚会上性侵一名女性的地方政府官员和一名商人，此案在中国引发了公愤。",
+        "据称，这名女子在杭州一家卡拉 OK 厅参加了几家公司高管和官员的正式晚宴后遭到袭击。",
+        "地方当局表示，调查发现该女子遭到两名男子的性侵犯，并补充说，她被其中一名男子推倒在地，导致她的下背部受伤。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Alleged sexual assault by local official and businessman sparks outrage in China"
+      }
+    },
+    {
+      "title_original": "Israeli drone maker XTEND lands up to $15 million NATO contract as allies seek alternatives to Chinese drones",
+      "title_zh": "以色列无人机制造商 XTEND 获得价值 1500 万美元的北约合同，盟国寻求中国无人机的替代品",
+      "url": "https://www.calcalistech.com/ctechnews/article/t1x9pogk3",
+      "source": "calcalistech.com",
+      "source_score": 40,
+      "published_at": "2026-08-19T06:54:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "以色列无人机制造商 XTEND 获得价值 1500 万美元的北约合同，盟国寻求中国无人机的替代品\n随着西方军队更加重视可信技术和安全供应链，这家以色列自主系统公司在合同第一年获得了 450 万美元。",
+        "随着盟国政府越来越多地寻求中国制造的商用无人机平台的替代品，以色列自主无人机公司 XTEND 与欧洲北约成员国国防部签订了一份价值约 1500 万美元的多年期合同。",
+        "据正在与 XTEND 合并的纳斯达克上市公司 JFB Construction Holdings 称，该协议包括第一年约 450 万美元的担保。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "calcalistech.com"
+      ],
+      "all_titles": {
+        "en": "Israeli drone maker XTEND lands up to $15 million NATO contract as allies seek alternatives to Chinese drones"
+      }
+    },
+    {
+      "title_original": "160円接近で踏みとどまる円 中東よりも米経済の減速リスクを意識",
+      "title_zh": "日元逼近160日元停滞不前，美国经济放缓风险比中东更明显",
+      "url": "https://www.nikkei.com/article/DGXZQOFL187ZA0Y6A810C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-19T06:18:59+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "本文仅供会员阅读\n日元逼近160日元停滞不前，美国经济放缓风险比中东更明显\n[会员专用文章]\n东京外汇市场日元19日上涨，日元兑美元徘徊在159日元低位附近。 18日，价格跌至略低于159.80日元，接近160日元的里程碑，但陷入停滞。尽管中东局势未来不明朗，原油价格居高不下，...",
+        "相关公司/行业\n关于日经 Prime\n我们提供早晚版或电子版无法传达的信息。未来我们计划继续提供多角度的服务。",
+        "权限不足无法关注\n我们会将简讯和日经电子版活动信息发送至您注册的电子邮件地址（注册后您可以取消订阅）。您的电子邮件地址将仅用于发送这些电子邮件的目的。它不会自动注册到日经 ID 等其他服务。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "160円接近で踏みとどまる円 中東よりも米経済の減速リスクを意識"
+      }
+    },
+    {
+      "title_original": "Ukraine’s ousted defence minister calls for elections during war",
+      "title_zh": "乌克兰被驱逐的国防部长呼吁在战争期间举行选举",
+      "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-19T06:07:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰被驱逐的国防部长呼吁在战争期间举行选举\n米哈伊洛·费多罗夫的呼吁是自俄罗斯全面入侵以来乌克兰主要政治人物首次提出此类要求。",
+        "乌克兰前国防部长米哈伊洛·费多罗夫呼吁举行战时选举，这是自 2022 年俄罗斯全面入侵以来乌克兰总统泽连斯基面临的最大内部挑战。",
+        "费多罗夫周二在 YouTube 上发表了一篇爆炸性的讲话，他表示乌克兰的民主“不能被俄罗斯劫持”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Ukraine’s ousted defence minister calls for elections during war"
+      }
+    },
+    {
+      "title_original": "South Korea shortens war games with US, citing Washington request",
+      "title_zh": "韩国援引华盛顿要求缩短与美国的军演",
+      "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-19T05:53:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "此前，特朗普宣布计划减少与韩国的联合军演，理由是与朝鲜金正恩的关系“非常好”。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "South Korea shortens war games with US, citing Washington request"
+      }
+    },
+    {
+      "title_original": "In cutting joint drills, Trump has given South Korea’s president what he wants. So why is Seoul so uneasy?",
+      "title_zh": "通过削减联合军演，特朗普满足了韩国总统的要求。那么为什么首尔如此不安呢？",
+      "url": "https://www.theguardian.com/world/2026/aug/19/trump-south-korea-alliance-military-seoul-security",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-19T05:40:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "李在明长期以来一直在推动加强本土防御，但唐纳德·特朗普的举动在某些方面引发了恐慌。在去年 8 月的首次峰会上，韩国总统李在明告诉唐纳德·特朗普：“总统先生，如果你成为和平缔造者，那么我将作为起搏者协助你。”在椭圆形办公室的这番言论抓住了李明博对朝鲜政策的主旨：缓和军事姿态，并反复提出和平提议以恢复对话，尽管这些提议一直被平壤拒绝，主要是因为首尔坚持无核化。",
+        "继续阅读...",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "In cutting joint drills, Trump has given South Korea’s president what he wants. So why is Seoul so uneasy?"
+      }
+    },
+    {
+      "title_original": "واشنطن تدرس تقليص قواتها في الشرق الأوسط.. انقسام داخل إدارة ترامب بشأن الحرب مع إيران",
+      "title_zh": "华盛顿正在考虑减少在中东的部队。特朗普政府内部在与伊朗的战争问题上存在分歧",
+      "url": "https://arabic.euronews.com/2026/08/19/war-with-iran-america-is-considering-reducing-its-forces-in-the-middle-east",
+      "source": "arabic.euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-19T05:30:55+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "消息人士解释说，中央司令部司令布拉德·库珀海军上将正在参与讨论，并表示支持将驻扎在海湾地区的部队向西重新部署。",
+        "据《华盛顿邮报》周二援引几名官员的消息称，在与伊朗持续战争的背景下，美国正在考虑减少在中东的军事部署规模。",
+        "一位消息人士告诉该报，五角大楼目前正在评估这份文件，并指出参谋长联席会议和美国中央司令部“Centcom”正在参与做出决定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "arabic.euronews.com"
+      ],
+      "all_titles": {
+        "ar": "واشنطن تدرس تقليص قواتها في الشرق الأوسط.. انقسام داخل إدارة ترامب بشأن الحرب مع إيران"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Would-be parcel bomber convicted in German court",
+      "title_zh": "乌克兰战争简报：潜在包裹炸弹袭击者在德国法院被定罪",
+      "url": "https://www.theguardian.com/world/2026/aug/19/ukraine-war-briefing-would-be-parcel-bomber-convicted-in-german-court",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-19T04:22:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  德国一家法院因一名乌克兰男子应俄罗斯情报部门的要求密谋在欧洲发送包裹炸弹而被定罪。",
+        "斯图加特法院称，在俄罗斯国家实体发起的一项行动中，三名乌克兰人参与了从德国向乌克兰寄送两件装有 GPS 跟踪器和汽车零部件的包裹。",
+        "这些货物的目的是发现未来破坏的机会。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Would-be parcel bomber convicted in German court"
+      }
+    },
+    {
+      "title_original": "La crise au Moyen-Orient renforce l’ambition de Turkish Airlines de devenir l’une des premières compagnies mondiales",
+      "title_zh": "中东危机增强了土耳其航空成为世界领先航空公司之一的雄心",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/19/la-crise-au-moyen-orient-renforce-l-ambition-de-turkish-airlines-de-devenir-l-une-des-premieres-compagnies-mondiales_6749464_3234.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-08-19T04:00:22+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东危机增强了土耳其航空成为世界领先航空公司之一的雄心 Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "La crise au Moyen-Orient renforce l’ambition de Turkish Airlines de devenir l’une des premières compagnies mondiales"
+      }
+    },
+    {
+      "title_original": "Global food security may be collateral in Ukraine war",
+      "title_zh": "全球粮食安全可能成为乌克兰战争的附带条件",
+      "url": "https://www.ft.com/content/a2e965ee-31be-40ad-ab13-75861b6df838",
+      "source": "Financial Times",
+      "source_score": 75,
+      "published_at": "2026-08-19T04:00:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "全球粮食安全可能成为乌克兰战争的抵押品 《金融时报》",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Financial Times"
+      ],
+      "all_titles": {
+        "en": "Global food security may be collateral in Ukraine war"
+      }
+    },
+    {
+      "title_original": "The Mecca Pact Is No ‘Sunni NATO.’ But It’s a Start",
+      "title_zh": "麦加条约不是“逊尼派北约”。但它是一个开始",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-19/the-mecca-pact-is-no-sunni-nato-but-it-s-a-start",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-08-19T04:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "麦加条约不是“逊尼派北约”。但它是一个开始    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "The Mecca Pact Is No ‘Sunni NATO.’ But It’s a Start"
+      }
+    },
+    {
+      "title_original": "Trump pauses new tariffs on Canada for three days, saying deal close",
+      "title_zh": "特朗普称交易已完成，暂停对加拿大征收新关税三天",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-19T03:56:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普称交易已完成，暂停对加拿大征收新关税三天\n- 已发表\n美国总统唐纳德·特朗普表示，随着两国敲定贸易协议，他将推迟三天对多种加拿大商品征收新关税。",
+        "“我已暂停对加拿大征收 50% 的关税，该关税原定于明天早上开始实施，为期三天，因为加拿大和美国在文件最终确定后达成了协议！”特朗普在社交媒体帖子中说道。",
+        "该公告发布前不到两个小时，加拿大将对近 200 亿美元（148 亿英镑；280 亿加元）的进口商品征收 50% 的关税。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump pauses new tariffs on Canada for three days, saying deal close"
+      }
+    },
+    {
+      "title_original": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
+      "title_zh": "特朗普暂停对加拿大关税威胁，并暗示重启 Keystone XL 石油管道项目",
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-19T03:47:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国总统将 50% 的关税推迟三天，并表示有争议的石油项目“可能会从坟墓中醒来” 加拿大暂时避免了美国 50% 的关税，并在周二晚间与特朗普政府官员达成协议，而此次加息将影响价值 200 亿美元的商品。",
+        "唐纳德·特朗普周二晚在社交媒体上发帖称，他已将关税暂停三天，“基于这样一个事实，即加拿大和美国在文件最终确定后达成了协议！”继续阅读...",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project"
+      }
+    },
+    {
+      "title_original": "Florida rejects Democratic establishment — and even snubs Trump",
+      "title_zh": "佛罗里达州拒绝民主党建制派，甚至冷落特朗普",
+      "url": "https://www.politico.com/news/2026/08/18/florida-angie-nixon-trump-democratic-republican-primary-2026-01041405",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-18T22:20:52-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "民主党选择了一名进步人士担任参议院议员。",
+        "共和党在两次众议院竞选中拒绝了总统的支持。",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Florida rejects Democratic establishment — and even snubs Trump"
+      }
+    },
+    {
+      "title_original": "Con Mojtaba hemos topado: Irán no le compra a Trump su 'statu quo' en Oriente Medio y apuesta por la guerra abierta",
+      "title_zh": "我们遇到了莫吉塔巴：伊朗不接受特朗普在中东的“现状”，选择公开战争",
+      "url": "https://www.elconfidencial.com/mundo/2026-08-19/con-mojtaba-hemos-topado-iran-trump-statu-quo-apuesta-por-guerra-abierta_4407939/",
+      "source": "El Confidencial",
+      "source_score": 40,
+      "published_at": "2026-08-19T03:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "我们遇到了莫吉塔巴：伊朗不接受特朗普在中东的“现状”，选择公开战争\n没有人可以声称哈梅内伊还活着，但他通过重组伊朗权力领导层并明确表示他希望让伊朗处于战争状态，发出了最具代表性的“生命证明”。\n2026 年 2 月 28 日凌晨的几分钟内，莫杰塔巴·哈梅内伊正式死亡。",
+        "在美国和以色列对伊朗发动袭击的第一天，第一个版本表明他的结局与他的父亲阿亚图拉·阿里·哈梅内伊在进攻中被杀的结局相同。",
+        "但莫吉塔巴似乎还活着。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "El Confidencial"
+      ],
+      "all_titles": {
+        "es": "Con Mojtaba hemos topado: Irán no le compra a Trump su 'statu quo' en Oriente Medio y apuesta por la guerra abierta"
+      }
+    },
+    {
+      "title_original": "北约武器出现即摧毁，俄罗斯终于醒悟了：炸火车头，苏-34炸大桥",
+      "title_zh": "北约武器出现即摧毁，俄罗斯终于醒悟了：炸火车头，苏-34炸大桥",
+      "url": "https://m.sohu.com/a/1064724889_121752857?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "sohu.com",
+      "source_score": 40,
+      "published_at": "2026-08-19T02:37:24+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北约武器出现即摧毁，俄罗斯终于醒悟了：炸火车头，苏-34炸大桥    sohu.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "sohu.com"
+      ],
+      "all_titles": {
+        "zh": "北约武器出现即摧毁，俄罗斯终于醒悟了：炸火车头，苏-34炸大桥"
+      }
+    },
+    {
+      "title_original": "日経平均、大幅続落で2134円安 中東情勢の混迷や金利上昇が影響",
+      "title_zh": "受中东动荡和利率上升影响，日经平均指数继续大幅下跌，下跌2,134日元",
+      "url": "https://www.asahi.com/articles/ASV8M0F82V8MULFA00BM.html",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-08-19T01:39:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "受中东动荡和利率上升影响，日经平均指数继续大幅下跌，下跌2,134日元\n19日东京股市，日经平均指数继续大幅下跌，收于65,326.42日元，较前一交易日下跌2,134.31日元（3.16%）。在中东局势不确定性增加的情况下，日本和美国的长期利率因对原油价格高企和通胀（物价上涨）的担忧而维持在高位。由于意识到股票被高估，导致抛售的主要是人工智能和半导体相关股票。",
+        "对于中东局势，美国总统特朗普18日在社交媒体上发文称，“没有与伊朗进行谈判或对话，也没有计划。”日本和美国的长期利率处于高位，美国10年期国债收益率徘徊在4.7%左右。此前一天，在东京债券市场，作为代表性基准的新发行的10年期政府债券收益率短暂触及2.945%，创约30年来的最高水平。尽管19日收益率有所下降（债券价格上涨），但仍维持在2.9%左右。",
+        "长期利率仍然居高不下，对股价构成压力。 18日纽约证券交易所，所有主要股指均下跌，其中由主要公司组成的道琼斯工业平均指数连续第三天下跌。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "日経平均、大幅続落で2134円安 中東情勢の混迷や金利上昇が影響"
+      }
+    },
+    {
+      "title_original": "「ゼレンスキー政権は統治危機」 更迭の前国防相、早期の選挙を要求",
+      "title_zh": "“泽伦斯基政府陷入治理危机”：前国防部长呼吁提前选举",
+      "url": "https://www.nikkei.com/article/DGXZQOGR190CD0Z10C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-19T00:57:29+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "本文仅供会员阅读\n“泽伦斯基政府陷入治理危机”：前国防部长呼吁提前选举\n[会员专用文章]\n【维也纳=金子夏树】18日，乌克兰总统泽连斯基接任的前国防部长费多罗夫呼吁在战时条件下举行选举。他还声称现有的政治体系“面临治理危机”，并公开批评政府。如果与泽伦斯基的冲突加深，将引发国内动荡。",
+        "费多罗夫在视频讲话中表示：“民主决不能成为俄罗斯的人质。”关于泽伦斯基政府因战争而继续推迟选举的问题......",
+        "2022年2月，俄罗斯入侵乌克兰。我们整理了有关世界各地战况和动向的最新新闻和评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "「ゼレンスキー政権は統治危機」 更迭の前国防相、早期の選挙を要求"
+      }
+    },
+    {
+      "title_original": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+      "title_zh": "美国谴责以色列空袭叙利亚空军基地后“不必要的升级”",
+      "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-19T00:48:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国谴责以色列空袭叙利亚空军基地后“不必要的升级”\n- 已发表\n在有报道称以色列袭击了土耳其边境附近的叙利亚军事空军基地后，美国罕见地谴责了以色列，称这次袭击是“不必要的升级”。",
+        "据叙利亚国家电视台报道，周二，阿布杜胡尔机场跑道和仓储设施遭到八次空袭，但没有人员伤亡的报告。",
+        "以色列虽然没有直接评论此次袭击，但表示叙利亚“即将破坏”安全现状，并指责大马士革允许土耳其军队部署到该空军基地。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase"
+      }
+    },
+    {
+      "title_original": "北约制定对俄“陆战构想\"战略 应对潜在冲突风险",
+      "title_zh": "北约制定对俄“陆战构想\"战略 应对潜在冲突风险",
+      "url": "https://military.china.com/news/13004177/20260819/49684140.html",
+      "source": "中华军事",
+      "source_score": 40,
+      "published_at": "2026-08-19T00:18:57+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "德国方面17日透露，北约已制定名为“北约陆战构想”的战略，旨在应对与俄罗斯可能爆发的冲突。该构想主要由美军少校安德鲁·平格里提出，分为三个部分。如果俄罗斯对北约国家发动类似乌克兰的大规模战争，北约计划使用战斗机、导弹和无人机来防御俄罗斯的武器系统。此外，北约还计划在与俄罗斯及白俄罗斯边界建立“无人区”，减少直接军事存在，仅用无人系统监测俄军动态并在必要时进行阻击。针对直接交战区外的行动，北约将打击俄军补给线、军事机场、国防工业、桥梁和铁路枢纽等目标，并通过“空中桥梁”将无人机和机器人系统运送至俄罗斯境内开展军事行动。",
+        "中国社科院俄罗斯东欧中亚研究所研究员张弘表示，北约出台这一构想有多重考量。当前俄乌冲突升级带来的外溢风险显著，无人机远程导弹的全域打击成为常态，战场风险不断外溢，多次出现无人机导弹落入北约成员国境内的事件，欧洲安全威胁明显上升。北约更新陆战体系，搭建无人机防御、全域拦截和纵深反击作战预案，统一成员国的风险认知，提前做好应对高强度冲突和管控局势失控的准备。",
+        "此外，北约此举意在提升欧洲防务水平，适配战略自主需求。面对美国要求欧洲提高军费并自主承担防务责任的压力，该构想明确了无人机作战远程破袭的发展方向，倒逼成员国补齐军事短板，升级现代化陆战体系，减轻对美国的战略依赖。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "中华军事"
+      ],
+      "all_titles": {
+        "zh": "北约制定对俄“陆战构想\"战略 应对潜在冲突风险"
+      }
+    },
+    {
+      "title_original": "1528 شركة عالمية تؤكد مشاركتها في «الشرق الأوسط للطاقة»",
+      "title_zh": "1,528家国际公司确认参加“中东能源”",
+      "url": "https://www.emaratalyoum.com/business/local/2026-08-19-1.2075122",
+      "source": "الإمارات اليوم",
+      "source_score": 40,
+      "published_at": "2026-08-19T00:05:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "第 50 届将于明年 9 月在迪拜推出\n1,528家国际公司确认参加“中东能源”\n中东能源展宣布推出第50届展会完整平面图，确认有1,528家能源领域国际公司作为参展商参展，并指出展会将于明年9月1日至3日在迪拜世界贸易中心举行。",
+        "今年的展会云集了国际知名企业以及代表能源系统各个领域的制造商，这种全面的参与反映了能源领域的各个组成部分，从能源传输、分配和存储，一直到智能解决方案、备用能源和可再生能源，这有助于在展场上展示一个完整的产品和解决方案系统。",
+        "据确认，参加展会“能源俱乐部”的买家代表了中东、非洲和南亚地区正在实施的价值超过980亿美元的能源项目，这表明中东能源展在其50年的历史中见证了创纪录的购买力水平。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "الإمارات اليوم"
+      ],
+      "all_titles": {
+        "ar": "1528 شركة عالمية تؤكد مشاركتها في «الشرق الأوسط للطاقة»"
+      }
+    },
     {
       "title_original": "ウクライナ軍の“怪鳥フラミンゴ”がロシア領内900kmの宇宙センターへの攻撃を実施 ゼレンスキー大統領が発表",
       "title_zh": "泽连斯基总统宣布，乌克兰军方对俄罗斯境内900公里处的航天中心进行了“火烈鸟”袭击",
