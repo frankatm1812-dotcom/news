@@ -1,0 +1,859 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-20T23:38:35.674011+00:00",
+  "count": 34,
+  "articles": [
+    {
+      "title_original": "Guerre au Moyen-Orient : « Nous allons faire chuter ce régime », l’administration Trump menace encore l’Iran",
+      "title_zh": "中东战争：“我们要打倒这个政权”，特朗普政府仍威胁伊朗",
+      "url": "https://fr.news.yahoo.com/sport/guerre-au-moyen-orient-allons-231339648.html",
+      "source": "Yahoo Actualités",
+      "source_score": 40,
+      "published_at": "2026-08-20T23:13:39+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "中东战争：“我们要打倒这个政权”，特朗普政府仍威胁伊朗\n最大压力——美国对伊朗发动经济攻势。",
+        "华盛顿希望动员其盟友并说服中国参与削弱德黑兰的制裁行动\n在唐纳德·特朗普发出威胁之后，现在轮到他的政府带头行动了。",
+        "美国周四宣布对伊朗发动新的经济攻势，呼吁其盟友和中国参与旨在削弱德黑兰政权的施压行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Yahoo Actualités"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : « Nous allons faire chuter ce régime », l’administration Trump menace encore l’Iran"
+      }
+    },
+    {
+      "title_original": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
+      "title_zh": "被监禁的巴基斯坦前总理伊姆兰·汗被送往医院接受治疗",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T22:43:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "被监禁的巴基斯坦前总理伊姆兰·汗被送往医院接受治疗\n- 已发表\n巴基斯坦前总理伊姆兰·汗因健康状况不佳而被送往首都伊斯兰堡的一家医院。",
+        "据汗所在党派称，汗在戒备森严的情况下被从阿迪亚拉监狱带往希法国际医院。",
+        "目前尚未得到官方确认他已被调离。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment"
+      }
+    },
+    {
+      "title_original": "El Brent sube hasta los 93,78 dólares, máximo desde julio, ante tensiones en Oriente Medio",
+      "title_zh": "中东局势紧张，布伦特原油价格升至 93.78 美元，创 7 月以来最高水平",
+      "url": "https://elperiodicodelaenergia.com/el-brent-sube-hasta-los-93-78-dolares-maximo-desde-julio-ante-tensiones-en-oriente-medio/",
+      "source": "El Periódico de la Energía",
+      "source_score": 40,
+      "published_at": "2026-08-20T22:33:51+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "在美国总统唐纳德·特朗普宣布对伊朗采取经济攻势以切断融资渠道并防止石油走私后，10月交割的布伦特原油价格周四上涨2.36%，至93.78美元，为7月24日以来的最高水平。",
+        "欧洲基准北海原油在伦敦洲际交易所 (ICE) 的交易价格较上一交易日上涨 2.16 美元，当时收于 91.62 美元。",
+        "德克萨斯中质油 (WTI) 本周四上涨 2.33%，至每桶 87.83 美元。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "El Periódico de la Energía"
+      ],
+      "all_titles": {
+        "es": "El Brent sube hasta los 93,78 dólares, máximo desde julio, ante tensiones en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "日経平均、米株安と中東情勢の不透明感が重荷に（先読み株式相場）",
+      "title_zh": "日经平均指数受到美国股价低迷和中东局势不确定性的拖累（股市预测）",
+      "url": "https://www.nikkei.com/article/DGXZQOFL2103B0R20C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-20T22:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "本文仅供会员阅读\n日经平均指数受到美国股价低迷和中东局势不确定性的拖累（股市预测）\n[会员专用文章]\n21日东京股市日经平均股价会下跌吗？由于美国长期利率上升，美国股市三大股指20日下跌，抛售也可能波及日本股市。由于中东局势的不确定性，美国原油期货价格持续走高，也打压了投资者情绪。日经平均指数可能跌至65,500日元左右，较前一日收盘价（66,216日元）下跌约700日元。",
+        "美国股市20日，道琼斯工业平均指数下跌。收盘价较前一日为 703 美元...",
+        "本文仅供会员阅读。注册以阅读更多信息。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "日経平均、米株安と中東情勢の不透明感が重荷に（先読み株式相場）"
+      }
+    },
+    {
+      "title_original": "イスラエル、ガザ再建はハマス武装解除が条件と表明 中東3カ国が空爆を非難",
+      "title_zh": "以色列称重建加沙的条件是解除哈马斯武装；三个中东国家谴责空袭",
+      "url": "https://www.arabnews.jp/article/middle-east/article_184614/",
+      "source": "arabnews.jp",
+      "source_score": 40,
+      "published_at": "2026-08-20T22:22:06+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伦敦：以色列周四表示，在哈马斯完全解除武装之前，加沙的重建工作无法开始。与此同时，土耳其、埃及和卡塔尔谴责以色列对加沙地带的新一轮空袭，并警告称，局势进一步升级可能会破坏实施美国支持的和平计划的努力。",
+        "以色列总理本杰明·内塔尼亚胡办公室表示，以色列尚未同意向加沙派遣国际部队，尽管有报道称，派遣国际部队是稳定加沙地带努力的一部分。",
+        "发表上述言论之际，美国总统唐纳德·特朗普的加沙“路线图”的实施仍然陷入停滞，尽管他称七月底的谈判取得了“突破性进展”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "arabnews.jp"
+      ],
+      "all_titles": {
+        "ja": "イスラエル、ガザ再建はハマス武装解除が条件と表明 中東3カ国が空爆を非難"
+      }
+    },
+    {
+      "title_original": "米空母「ジョージ・ワシントン」中東海域に到着 アジアはゼロに",
+      "title_zh": "美国航母“乔治·华盛顿”号抵达中东海域 亚洲零",
+      "url": "https://www.nikkei.com/article/DGXZQOGN20AV30Q6A820C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-20T21:23:56+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "本文仅供会员阅读\n美国航母“乔治·华盛顿”号抵达中东海域 亚洲零\n[会员专用文章]\n【华盛顿=小原淳之介】美国中央司令部20日宣布，航母“乔治·华盛顿”号于19日抵达中东海域。任务从与伊朗持续交战的海域开始。随着从美军基地横须贺（神奈川县）母港向中东部署，亚太地区已经没有美国航母了。",
+        "它将取代自一月份以来一直在阿拉伯海执勤的亚伯拉罕·林肯号航空母舰。 “亚伯拉罕·林肯”将于2025年12月接管美国领土关岛...",
+        "2026年2月28日，美国和以色列袭击伊朗，对首都德黑兰等地区进行空袭。第二天，即3月1日，伊朗官方媒体宣布最高领袖哈梅内伊去世。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "日本経済新聞",
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "ja": "米空母「ジョージ・ワシントン」中東海域に到着 アジアはゼロに",
+        "fr": "Un nouveau porte-avions américain, l’USS « George-Washington », est arrivé au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "Satellitenfotos: Russlands geheime Drohnenbasen liegen jetzt in Schlagdistanz zur Nato",
+      "title_zh": "卫星照片：俄罗斯秘密无人机基地现已进入北约打击距离",
+      "url": "https://www.welt.de/politik/ausland/plus6a82cf2a9c4b6838990479e3/satellitenfotos-russlands-geheime-drohnenbasen-liegen-jetzt-in-schlagdistanz-zur-nato.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-08-20T21:16:53+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯秘密无人机基地现已进入北约打击距离\n理查德·霍姆斯\n截至：2026 年 8 月 20 日 阅读时间：4 分钟\n独家卫星图像显示俄罗斯如何扩大或建立新的远程无人机基地。",
+        "都在该国西部。",
+        "乌克兰已经从那里遭到炮击，但普京的计划显然更进一步。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Satellitenfotos: Russlands geheime Drohnenbasen liegen jetzt in Schlagdistanz zur Nato"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: von der Leyen verurteilt neuen Drohnen-Vorfall, Finnland hat brisanten Verdacht",
+      "title_zh": "当前乌克兰战争：冯德莱恩谴责新无人机事件，芬兰疑似爆炸",
+      "url": "https://www.fr.de/politik/russland-ukraine-krieg-aktuell-keine-putin-muedigkeit-in-zr-94449802.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-20T21:14:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "当前乌克兰战争：冯德莱恩谴责新无人机事件，芬兰疑似爆炸\n在谷歌上关注我们\n乌克兰战争的最新新闻动态：基辅夜间袭击后死亡。",
+        "扎波罗热核电站已断电。",
+        "最重要的是在 \n这个新闻行情\n- 基辅袭击事件造成至少 12 人死亡 - 至少 34 人受伤。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: von der Leyen verurteilt neuen Drohnen-Vorfall, Finnland hat brisanten Verdacht"
+      }
+    },
+    {
+      "title_original": "Dozens dead after boat capsizes in north-western Nigeria",
+      "title_zh": "尼日利亚西北部船只倾覆 数十人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T20:27:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "尼日利亚西北部船只倾覆 数十人死亡\n- 已发表\n尼日利亚西北部索科托州一艘船只倾覆，造成至少 46 人死亡。",
+        "官员称，这艘船据信载有 70 多人，其中大部分是儿童，搜救行动正在进行中。",
+        "警方发言人艾哈迈德·鲁法伊 (Ahmad Rufai) 周四告诉 BBC，在戈罗尼 (Gorony) 的戈劳 (Gorau) 附近发现了 46 具尸体。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Dozens dead after boat capsizes in north-western Nigeria"
+      }
+    },
+    {
+      "title_original": "Republican Mike Rogers backs Michigan data center moratorium",
+      "title_zh": "共和党人迈克·罗杰斯支持暂停密歇根州数据中心",
+      "url": "https://www.politico.com/news/2026/08/20/republican-mike-rogers-michigan-data-center-moratorium-01044140",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-20T15:19:14-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "密歇根州和俄亥俄州参议院竞选都已成为数据中心的战场。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Republican Mike Rogers backs Michigan data center moratorium"
+      }
+    },
+    {
+      "title_original": "Como mayor hit by electric bike and issues blanket ban in Italian city",
+      "title_zh": "意大利科莫市长遭遇电动自行车袭击并发布全面禁令",
+      "url": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T20:08:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "意大利科莫市长遭遇电动自行车袭击并发布全面禁令\n- 已发表\n科莫市长在被一辆电动自行车撞倒后，禁止在这座意大利历史名城的某些地区骑自行车。",
+        "亚历山德罗·拉皮内塞 (Alessandro Rapinese) 表示，该禁令对于改善公共安全是必要的。",
+        "这意味着从 9 月份开始，骑自行车的人必须在大约 30 条街道上下车。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Como mayor hit by electric bike and issues blanket ban in Italian city"
+      }
+    },
+    {
+      "title_original": "ماكرون يستضيف الأمير محمد بن سلمان في باريس يومي 23 و24 أغسطس",
+      "title_zh": "马克龙将于8月23日至24日在巴黎接待穆罕默德·本·萨勒曼王子",
+      "url": "https://www.reuters.com/ar/world/AXKSDQ4WRBLF3ES6HNXOJIVOJE-2026-08-20/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-20T19:16:42+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "马克龙将于 8 月 23 日至 24 日在巴黎接待穆罕默德·本·萨勒曼王子。 路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "ماكرون يستضيف الأمير محمد بن سلمان في باريس يومي 23 و24 أغسطس"
+      }
+    },
+    {
+      "title_original": "بعد انتشار طويل بسبب حرب إيران.. حاملة الطائرات \"جورج واشنطن\" تحلّ مكان \"أبراهام لينكولن\" في الشرق الأوسط",
+      "title_zh": "因伊朗战争长期部署后，“乔治·华盛顿”号航空母舰取代“亚伯拉罕·林肯”号在中东地区",
+      "url": "https://arabic.euronews.com/2026/08/20/uss-george-washington-uss-abraham-lincoln-centcom-middle-east-iran-aircraft-carrier",
+      "source": "Euronews",
+      "source_score": 75,
+      "published_at": "2026-08-20T19:00:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于伊朗战争而长期部署后..",
+        "“乔治·华盛顿”号航空母舰在中东取代“亚伯拉罕·林肯”号 欧洲新闻",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Euronews"
+      ],
+      "all_titles": {
+        "ar": "بعد انتشار طويل بسبب حرب إيران.. حاملة الطائرات \"جورج واشنطن\" تحلّ مكان \"أبراهام لينكولن\" في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Nach Frage zum Ukraine-Krieg Russische Behörden erlassen Haftbefehl gegen „FAZ“-Journalisten",
+      "title_zh": "在询问有关乌克兰战争的问题后，俄罗斯当局对《FAZ》记者发出逮捕令",
+      "url": "https://www.tagesspiegel.de/internationales/nach-frage-zum-ukraine-krieg-russische-behorden-erlassen-haftbefehl-gegen-faz-journalisten-15967036.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-08-20T18:55:27+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "在有关乌克兰战争的问题之后：俄罗斯当局对《FAZ》记者发出逮捕令\n编辑迈克尔·马滕斯询问乌克兰总统如何帮助他的国家“杀死更多俄罗斯人”。",
+        "克里姆林宫认为这是“煽动仇恨”。",
+        "马滕斯指的是丘吉尔。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Nach Frage zum Ukraine-Krieg Russische Behörden erlassen Haftbefehl gegen „FAZ“-Journalisten"
+      }
+    },
+    {
+      "title_original": "ما هو رد إيران على تهديدات دونالد ترامب بفرض أقسى عقوبات اقتصادية؟",
+      "title_zh": "伊朗对唐纳德·特朗普威胁实施最严厉的经济制裁有何反应？",
+      "url": "https://www.bbc.com/arabic/articles/crmrg2xg1yeo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-20T18:32:14+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国敦促其盟友和中国加入对伊朗的经济施压行动\n如果希望“看到霍尔木兹海峡重新开放和能源价格再次走低”，美国已敦促其盟友和中国加入对伊朗施加广泛经济压力的行动。",
+        "此前，伊朗指责美国实施“经济恐怖主义”并针对伊朗普通公民，以回应美国总统唐纳德·特朗普宣布对德黑兰实施新一轮制裁和经济压力，他称这是有史以来最严厉的制裁和经济压力。",
+        "美国财政部长斯科特·贝森特在X平台上威胁称，“任何与德黑兰保持联系的国家都将把其经济推向深渊，无论这种联系是自愿的还是故意视而不见。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "ما هو رد إيران على تهديدات دونالد ترامب بفرض أقسى عقوبات اقتصادية؟"
+      }
+    },
+    {
+      "title_original": "NATO Massed Its Jets Right Next to Kaliningrad",
+      "title_zh": "北约在加里宁格勒附近集结了喷气式飞机",
+      "url": "https://migflug.com/jetflights/nato-air-package-kaliningrad-ea-37b-2026/",
+      "source": "MiGFlug",
+      "source_score": 40,
+      "published_at": "2026-08-20T18:18:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "2026 年 8 月 18 日星期二，波兰北部和波罗的海的上空聚集了一群非常不寻常的人群，欧洲所有认真的飞行追踪者都驻足观看。",
+        "在一次由美国主导的北约大型空中演习中，一大批盟军飞机沿着该联盟的东北侧翼执行战斗打击、加油机、机载雷达和电子战任务，其中一些直接针对加里宁格勒，这是位于波兰和立陶宛之间的高度军事化的俄罗斯飞地。",
+        "观察家估计，涉及的飞机数量从 25 架到 50 架不等；官员以安全为由拒绝透露具体数字。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "MiGFlug"
+      ],
+      "all_titles": {
+        "en": "NATO Massed Its Jets Right Next to Kaliningrad"
+      }
+    },
+    {
+      "title_original": "Nuevo portaviones estadounidense llega a Oriente Medio",
+      "title_zh": "美国新航母抵达中东",
+      "url": "https://www.dw.com/es/nuevo-portaviones-estadounidense-llega-a-oriente-medio/a-78449847",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-08-20T18:08:06+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国新航母抵达中东\n2026 年 8 月 20 日\n美国陆军本周四（2026年8月20日）宣布一艘新航母抵达中东，以取代“亚伯拉罕·林肯”号航空母舰，该航母在海上部署数月引发了人们对其船员生活条件的担忧。",
+        "美国中央司令部中东司令部于 X 表示，“乔治·华盛顿号航空母舰”“作为计划部署的一部分在中东执行任务，于昨天（周三）抵达中央司令部的行动区域”。",
+        "船员条件有问题\n几天来，立法者和水手家属一直与陆军当局就船员所面临的困难条件，特别是食物短缺问题进行交涉。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "es": "Nuevo portaviones estadounidense llega a Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Así es Asia - ¿Giro en la geopolítica asiática? Trump pone a prueba su alianza histórica con Corea del Sur",
+      "title_zh": "这就是亚洲——转向亚洲地缘政治？特朗普测试与韩国的历史性联盟",
+      "url": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20260820-giro-en-la-geopol%C3%ADtica-asi%C3%A1tica-trump-pone-a-prueba-su-alianza-hist%C3%B3rica-con-corea-del-sur",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-20T17:32:10+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "这就是亚洲——转向亚洲地缘政治？",
+        "特朗普测试与韩国的历史性联盟 法国 24 小时",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "es": "Así es Asia - ¿Giro en la geopolítica asiática? Trump pone a prueba su alianza histórica con Corea del Sur"
+      }
+    },
+    {
+      "title_original": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+      "title_zh": "基辅市长表示，俄罗斯在最近的袭击中“有目的地”袭击了关键基础设施",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T17:14:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰首都昨晚发生的“大规模袭击”造成至少 17 人死亡，市长维塔利·克里琴科警告称热水供应已中断。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says"
+      }
+    },
+    {
+      "title_original": "EE.UU. envía otro portaaviones a Oriente Medio en plena tensión con Irán",
+      "title_zh": "在与伊朗的紧张局势中，美国向中东派遣了另一艘航母",
+      "url": "https://es.euronews.com/2026/08/20/eeuu-envia-otro-portaaviones-a-oriente-medio-en-plena-tension-con-iran",
+      "source": "Euronews",
+      "source_score": 75,
+      "published_at": "2026-08-20T16:58:37+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "在与伊朗的紧张关系中派遣另一艘航空母舰前往中东 欧洲新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Euronews"
+      ],
+      "all_titles": {
+        "es": "EE.UU. envía otro portaaviones a Oriente Medio en plena tensión con Irán"
+      }
+    },
+    {
+      "title_original": "يوميات الشرق الأوسط 20/08/2026 GMT",
+      "title_zh": "中东日记 08/20/2026 GMT",
+      "url": "https://www.bbc.com/arabic/bbc_arabic_radio/w1730n40v1rvz4h",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-20T16:27:12+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "英国广播公司新闻，\n阿拉伯语\n转到内容\n主要\n手表\n听\n部分\n主要\n新闻动态\n经济\n健康与科学\n文化艺术\n体育运动\n调查\n新闻动态\n经济\n健康与科学\n文化艺术\n体育运动\n调查\n中东日记\n,\n英国外交部谴责以色列对耶路撒冷以东的定居点项目进行招标，并谴责以色列军队袭击伯利恒以东的拉沙伊达村。\n2026 年 8 月 20 日\n您的设备不支持视频播放\n美国总统宣布针对伊朗实施他所说的“最具毁灭性的经济行动”",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "يوميات الشرق الأوسط 20/08/2026 GMT"
+      }
+    },
+    {
+      "title_original": "OTAN 3.0 : un simple \"coup de maquillage\", selon un ex-ambassadeur américain",
+      "title_zh": "北约3.0：一位前美国大使的说法是一个简单的“化妆”",
+      "url": "https://fr.euronews.com/my-europe/2026/08/20/otan-30-un-simple-coup-de-maquillage-selon-un-ex-ambassadeur-americain",
+      "source": "Euronews",
+      "source_score": 75,
+      "published_at": "2026-08-20T16:10:13+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "自唐纳德·特朗普重返白宫以来，跨大西洋关系发生了深刻变化。",
+        "“北约3.0”的概念就体现了这种转变，但具体包括哪些内容呢？",
+        "早在唐纳德·特朗普重返白宫之前，华盛顿就已经表示打算重新调整其资源以损害欧洲，但这种转变在过去十八个月中明显加速。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Euronews"
+      ],
+      "all_titles": {
+        "fr": "OTAN 3.0 : un simple \"coup de maquillage\", selon un ex-ambassadeur américain"
+      }
+    },
+    {
+      "title_original": "Togo charges two French journalists over incorrect documents, rights group says",
+      "title_zh": "人权组织称，多哥指控两名法国记者提供不正确的文件",
+      "url": "https://www.bbc.co.uk/news/articles/cj9dkmljmwvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T16:00:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "人权组织称，多哥指控两名法国记者提供不正确的文件\n- 已发表\n无国界记者组织（RSF）表示，自上个月以来在多哥被拘留的两名法国记者被指控“虚假声明”，尽管他们拥有在那里工作的正确文件。",
+        "该媒体权利组织表示，盖尔·莫卡尔和塞巴斯蒂安·佩雷斯·佩扎尼于 7 月 27 日在多哥北部的卡拉为法国电视台拍摄一部纪录片，尽管他们拥有工作签证和在那里拍摄的授权，但他们被捕。",
+        "法国外交部证实了两人的拘留，并补充说法国官员已三度探视他们。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Togo charges two French journalists over incorrect documents, rights group says"
+      }
+    },
+    {
+      "title_original": "Un nuevo portaviones de EE.UU. llega a Oriente Medio para relevar al Abraham Lincoln después de nueve meses",
+      "title_zh": "美国一艘新航母抵达中东，接替亚伯拉罕·林肯号航母九个月后的任务",
+      "url": "https://www.rtve.es/noticias/20260820/portaaviones-eeuu-george-washington-llega-a-oriente-medio-para-relevar-abraham-lincoln/17197146.shtml",
+      "source": "RTVE.es",
+      "source_score": 55,
+      "published_at": "2026-08-20T15:22:10+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国新航母",
+        "九个月后抵达中东接替亚伯拉罕·林肯\n- 亚伯拉罕·林肯号上船员的状况在美国引起争议。",
+        "- 乔治·华盛顿号航空母舰从太平洋抵达中东\n美国航空母舰“乔治·华盛顿”号已经抵达中东，接替“亚伯拉罕·林肯”号航空母舰，此前该舰船员的情况引发了争议。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "RTVE.es"
+      ],
+      "all_titles": {
+        "es": "Un nuevo portaviones de EE.UU. llega a Oriente Medio para relevar al Abraham Lincoln después de nueve meses"
+      }
+    },
+    {
+      "title_original": "Landslide at unlicensed Colombian gold mine kills 13",
+      "title_zh": "哥伦比亚无证金矿发生山体滑坡，造成13人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T15:07:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "哥伦比亚无证金矿发生山体滑坡，造成13人死亡\n- 已发表\n当地官员称，哥伦比亚南部一处无证矿场发生山体滑坡，造成至少 13 名工人死亡，另有 7 人受伤。",
+        "目击者称，周三下午，就在下面的工人被困之前不久，他们听到了露天手工金矿发生爆炸的声音。",
+        "但当地官员表示，致命的山体滑坡是由采矿作业引起的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Landslide at unlicensed Colombian gold mine kills 13"
+      }
+    },
+    {
+      "title_original": "Exploding Drones Are New Reality For NATO",
+      "title_zh": "无人机爆炸是北约面临的新现实",
+      "url": "https://www.newsweek.com/exploding-drones-are-new-reality-for-nato-12346131",
+      "source": "Newsweek",
+      "source_score": 40,
+      "published_at": "2026-08-20T14:32:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "一架无人机在罗马尼亚坠毁并引发火灾，这表明乌克兰战争有蔓延到北约国家的风险，北约本周举行演习，为应对俄罗斯构成的威胁做准备。",
+        "罗马尼亚国防部表示，凌晨 2 点 23 分",
+        "当地时间周四，在靠近乌克兰边境的图尔恰县北部发现无人机后，两架北约 F-18 飞机紧急紧急升空。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Newsweek"
+      ],
+      "all_titles": {
+        "en": "Exploding Drones Are New Reality For NATO"
+      }
+    },
+    {
+      "title_original": "Estonian lawmaker calls US questionnaire to NATO ‘unnecessary stress test’",
+      "title_zh": "爱沙尼亚议员称美国对北约的调查问卷是“不必要的压力测试”",
+      "url": "https://breakingdefense.com/2026/08/estonian-lawmaker-calls-us-questionnaire-to-nato-unnecessary-stress-test/",
+      "source": "Breaking Defense",
+      "source_score": 40,
+      "published_at": "2026-08-20T14:25:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "爱沙尼亚议员称美国向北约提交的调查问卷是“不必要的压力测试”",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Breaking Defense"
+      ],
+      "all_titles": {
+        "en": "Estonian lawmaker calls US questionnaire to NATO ‘unnecessary stress test’"
+      }
+    },
+    {
+      "title_original": "\"جورج واشنطن\" تصل للمنطقة بعد انتشار طويل لـ\"أبراهام لينكولن\"",
+      "title_zh": "“乔治·华盛顿”号在“亚伯拉罕·林肯”号长时间部署后抵达该地区",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/08/20/uss-george-washington-arrives-in-middle-east-to-relieve-uss-abraham-lincoln",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-08-20T13:51:38+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "(CNN) - 据美国武装部队周四证实，美国“乔治·华盛顿”号航空母舰周三抵达中东，接替“亚伯拉罕·林肯”号航空母舰。",
+        "美国中央司令部（Centcom）在X平台上发帖称：“8月20日，美国水兵在乔治·华盛顿号航空母舰（CVN 73）的飞行甲板上工作，当时该航母正穿越阿拉伯海。",
+        "“乔治·华盛顿”号航母打击群继昨天抵达美国中央司令部作战区域后，正在按计划部署在中东地区开展行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "\"جورج واشنطن\" تصل للمنطقة بعد انتشار طويل لـ\"أبراهام لينكولن\""
+      }
+    },
+    {
+      "title_original": "+++ 15:32 Munz zu Wirtschaft und Stimmung: Ernten Putins Durchhalteparolen noch Glauben? +++",
+      "title_zh": "+++ 15:32 Munz谈经济和情绪：普京的坚持口号仍然被相信吗？ +++",
+      "url": "https://www.n-tv.de/politik/15-32-Munz-zu-Wirtschaft-und-Stimmung-Ernten-Putins-Durchhalteparolen-noch-Glauben-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-20T13:32:54+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争实时收报机+++ 01:35 Nord Stream：克罗地亚法院下令对乌克兰潜水员进行审前拘留 +++\n乌克兰跳水运动员弗拉基米尔·Z·克罗地亚被捕后，克罗地亚一家法院做出了裁决。",
+        "与波罗的海北溪管道的袭击有关。",
+        "普拉法院宣布，“为了将他引渡”到德国，一名法官以“逃跑的风险”为由，下令将他拘留。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "+++ 15:32 Munz zu Wirtschaft und Stimmung: Ernten Putins Durchhalteparolen noch Glauben? +++"
+      }
+    },
+    {
+      "title_original": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+      "title_zh": "德国新纳粹分子涉嫌 1970 年犹太养老院纵火案",
+      "url": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T13:04:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德国新纳粹分子涉嫌 1970 年犹太养老院纵火案\n- 已发表\n德国调查人员认为，他们现已确定一名纵火犯的身份，他于 1970 年纵火焚烧了慕尼黑的一个犹太社区中心，造成 7 人死亡。",
+        "几十年来，该男子的身份一直是个谜。",
+        "但慕尼黑检察官现在认为，他是一名 25 岁的孤独新纳粹分子，有着众所周知的反犹太主义观点。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home"
+      }
+    },
+    {
+      "title_original": "Assad officer extradited to Syria on war crimes charges for first time",
+      "title_zh": "阿萨德军官首次因战争罪指控被引渡到叙利亚",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T12:38:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "阿萨德军官首次因战争罪指控被引渡到叙利亚\n- 已发表\n黎巴嫩向叙利亚移交了一名曾在被推翻的巴沙尔·阿萨德政权下服役的前将军，这是自阿萨德政府垮台以来的首次此类引渡。",
+        "67 岁的阿德尔·伊萨少将被指控在叙利亚内战期间犯下一系列罪行，这场内战于 2024 年 12 月结束，叛军占领了首都大马士革，阿萨德逃离。",
+        "伊萨于 8 月 8 日前往叙利亚驻贝鲁特大使馆完成文书工作后被拘留，并于周三被转交叙利亚拘留。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Assad officer extradited to Syria on war crimes charges for first time"
+      }
+    },
+    {
+      "title_original": "Taiwán eleva su gasto militar a un récord de 35.300 millones de dólares en 2027 ante la presión de China",
+      "title_zh": "迫于中国压力，台湾2027年军费开支将增至创纪录的353亿美元",
+      "url": "https://www.larazon.es/internacional/taiwan-eleva-gasto-militar-record-35300-millones-dolares-2027-presion-china_202608206a86f387a5690f047384d599.html",
+      "source": "La Razón",
+      "source_score": 40,
+      "published_at": "2026-08-20T12:31:03+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "亚洲\n迫于中国压力，台湾2027年军费开支将增至创纪录的353亿美元\n台湾总统赖清德制定了将军费预算保持在GDP 3%以上的目标，并在2030年逐步将这一比例提高至5%。\n在中国不断加大军事压力的背景下，台湾政府周四提出，到 2027 年，军费开支将达到创纪录的 1.12 万亿新台币（353 亿美元），相当于国内生产总值 (GDP) 的 3.01%。",
+        "据埃菲社称，该项目于本周四获得内阁批准，目前必须提交给议会，该项目的国防支出比上一年增加了 18%，其中包括旨在加强无人机和导弹等能力的新项目。",
+        "台湾总统赖清德制定了将军费预算保持在GDP 3%以上的目标，并在2030年逐步将这一比例提高至5%。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "La Razón"
+      ],
+      "all_titles": {
+        "es": "Taiwán eleva su gasto militar a un récord de 35.300 millones de dólares en 2027 ante la presión de China"
+      }
+    },
+    {
+      "title_original": "Schwarzes Meer: Rumänischer Kampfjet zerstört mit Sprengstoff beladene Marinedrohne",
+      "title_zh": "黑海：罗马尼亚战斗机摧毁装载炸药的海军无人机",
+      "url": "https://www.zeit.de/politik/ausland/2026-08/drohne-rumaenien-f-16-schwarzes-meer-neptun-deep",
+      "source": "DIE ZEIT",
+      "source_score": 40,
+      "published_at": "2026-08-20T12:30:28+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "据政府报告，罗马尼亚军方摧毁了一架海军无人机。",
+        "罗马尼亚国防部长拉杜·米鲁沙表示，一架 F-16 战斗机在黑海上空击中了这架无人机，当时该无人机距离海王星深海气田数百米。",
+        "里面装满了炸药。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "DIE ZEIT"
+      ],
+      "all_titles": {
+        "de": "Schwarzes Meer: Rumänischer Kampfjet zerstört mit Sprengstoff beladene Marinedrohne"
+      }
+    },
+    {
+      "title_original": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
+      "title_zh": "中国恒大创始人在承认欺诈罪后被判终身监禁",
+      "url": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-20T12:03:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "许家印还被没收全部个人财产，他创办的公司被处以巨额罚款 商业直播 – 最新动态 中国最大的房地产开发商之一恒大集团的创始人被判处无期徒刑，并被没收全部个人财产。",
+        "67 岁的许家印曾被《福布斯》评为中国首富，2017 年净资产达 425 亿美元（312 亿英镑），他于 4 月承认了 8 项指控。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud"
+      }
+    }
+  ]
+}
