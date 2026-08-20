@@ -1,8 +1,858 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-19T23:56:34.436002+00:00",
-  "count": 35,
+  "generated_at": "2026-08-20T12:05:03.925740+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
+      "title_zh": "中国恒大创始人在承认欺诈罪后被判终身监禁",
+      "url": "https://www.theguardian.com/business/2026/aug/20/evergrande-founder-jailed-life-fraud-hui-ka-yan",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-20T11:38:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "许家印还被没收全部个人财产，他创办的公司被处以巨额罚款 商业直播 – 最新动态 中国最大的房地产开发商之一恒大集团的创始人被判处无期徒刑，并被没收全部个人财产。",
+        "67 岁的许家印曾被《福布斯》评为中国首富，2017 年净资产达 425 亿美元（312 亿英镑），他于 4 月承认了 8 项指控。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud"
+      }
+    },
+    {
+      "title_original": "مصادر: مؤسسة النفط الهندية تقترب من صفقة غاز مع سوناطراك في 2027",
+      "title_zh": "资料来源：印度石油公司即将于 2027 年与 Sonatrach 达成天然气交易",
+      "url": "https://www.reuters.com/ar/business/BDGNVLD34NITHCBCXBEZJKHAXE-2026-08-20/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-20T11:08:20+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "资料来源：印度石油公司即将于 2027 年与国家石油公司达成天然气交易    路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "مصادر: مؤسسة النفط الهندية تقترب من صفقة غاز مع سوناطراك في 2027"
+      }
+    },
+    {
+      "title_original": "Former Liberian vice-president charged in drug-trafficking probe",
+      "title_zh": "利比里亚前副总统被控贩毒调查",
+      "url": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T11:08:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "利比里亚前副总统被控贩毒调查\n- 已发表\n作为对涉嫌跨国毒品网络调查的一部分，利比里亚指控前副总统朱厄尔·霍华德·泰勒犯有贩毒、洗钱和一系列其他罪行。",
+        "该国司法部证实，她于周三在首都蒙罗维亚罗伯茨国际机场登机前被拘留。",
+        "警察局长格雷戈里·科尔曼将她与上个月缉获的价值 3.17 亿美元（2.33 亿英镑）的可卡因联系起来。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Former Liberian vice-president charged in drug-trafficking probe"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（8月20日の動き）",
+      "title_zh": "【不定时更新】俄罗斯军事入侵乌克兰（8月20日动向）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44541",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-20T11:02:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "【不时更新】俄罗斯军事入侵乌克兰（8月20日动静）NHK新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（8月20日の動き）"
+      }
+    },
+    {
+      "title_original": "هيئة بحرية: مسلحون اعتلوا ناقلة قبالة اليمن وحولوا مسارها إلى الصومال",
+      "title_zh": "海事局：武装人员登上也门附近的一艘油轮并改道前往索马里",
+      "url": "https://www.reuters.com/ar/business/63SDA7K46JIM3GOKWRYMCRVASI-2026-08-20/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-20T10:43:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "海事局：武装人员登上也门附近的一艘油轮并改道前往索马里 路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "هيئة بحرية: مسلحون اعتلوا ناقلة قبالة اليمن وحولوا مسارها إلى الصومال"
+      }
+    },
+    {
+      "title_original": "عُمان: تحقيق أمن مستدام في مضيق هرمز يتطلب إحلال سلام دائم في المنطقة",
+      "title_zh": "阿曼：实现霍尔木兹海峡的可持续安全需要在该地区建立持久和平",
+      "url": "https://www.reuters.com/ar/world/2BEIHUX3LFNYFBRNHWCYMCJND4-2026-08-20/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-20T10:18:09+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "阿曼：实现霍尔木兹海峡的可持续安全需要在该地区建立持久和平 路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "عُمان: تحقيق أمن مستدام في مضيق هرمز يتطلب إحلال سلام دائم في المنطقة"
+      }
+    },
+    {
+      "title_original": "Higher Military Learning in the Ukraine War",
+      "title_zh": "乌克兰战争中的高等军事学习",
+      "url": "https://geopoliticalfutures.com/higher-military-learning-in-the-ukraine-war/",
+      "source": "Geopolitical Futures",
+      "source_score": 40,
+      "published_at": "2026-08-20T10:00:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争现已进入第五个年头，改变了前线双方的生活。",
+        "战时经济往往优先考虑武器生产，并利用为战争服务的知识、技能和能力，但冲突拖得越久，社会其他领域的军事化程度就越高。",
+        "这[…]\n乌克兰战争中的高等军事学习\n莫斯科和基辅已经恢复了学生的武术教育。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Geopolitical Futures"
+      ],
+      "all_titles": {
+        "en": "Higher Military Learning in the Ukraine War"
+      }
+    },
+    {
+      "title_original": "تركيا: سنواصل دعم تطوير القدرات العسكرية السورية",
+      "title_zh": "土耳其：我们将继续支持叙利亚军事能力的发展",
+      "url": "https://www.reuters.com/ar/world/YGLCFGOAL5MYFIQSWF45NCLF2Y-2026-08-20/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-20T09:30:09+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "土耳其：我们将继续支持叙利亚军事能力的发展 路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "تركيا: سنواصل دعم تطوير القدرات العسكرية السورية"
+      }
+    },
+    {
+      "title_original": "Trump vows tougher economic measures on Iran and supporting countries",
+      "title_zh": "特朗普誓言对伊朗和支持国家采取更严厉的经济措施",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T09:13:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "特朗普誓言对伊朗和支持国家采取更严厉的经济措施\n- 已发表\n唐纳德·特朗普表示，他将对伊朗以及任何向伊朗提供帮助或与其做生意的国家采取更严厉的经济措施。",
+        "这位美国总统在《真相社会》上用大写字母写道，他正在发起“有史以来针对任何国家的最具毁灭性的经济行动”，但没有提供更多细节或除伊朗以外的任何国家的名称。",
+        "周一，为期 60 天的停火正式到期，但美国和以色列 2 月底开始的战争没有任何外交解决的迹象。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump vows tougher economic measures on Iran and supporting countries"
+      }
+    },
+    {
+      "title_original": "UCL: Broader geopolitics strengthen case for digital euro",
+      "title_zh": "伦敦大学学院：更广泛的地缘政治强化了数字欧元的理由",
+      "url": "https://www.cnbc.com/video/2026/08/20/ucl-broader-geopolitics-strengthen-case-for-digital-euro.html",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-08-20T08:47:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "现在观看\n伦敦大学学院：更广泛的地缘政治强化了数字欧元的理由\n金融法助理教授 Pedro Schilling de Carvalho 博士讨论了“数字欧元”项目以及欧洲可以从巴西支付系统“Pix”中学到什么。",
+        "03:54\n3小时前",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "UCL: Broader geopolitics strengthen case for digital euro"
+      }
+    },
+    {
+      "title_original": "#Resistance Democrats are flopping in primaries",
+      "title_zh": "#抵抗民主党在初选中惨败",
+      "url": "https://www.politico.com/news/2026/08/20/the-trump-resistance-is-losing-its-primaries-01042844",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-20T03:45:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "亚历山大·温德曼(Alexander Vindman)周二在参议院初选中失利，这是特朗普顶级批评者的最新失误。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "#Resistance Democrats are flopping in primaries"
+      }
+    },
+    {
+      "title_original": "ロシアがキーウ空爆、少なくとも13人死亡 ウクライナは防空ミサイル不足で苦慮",
+      "title_zh": "俄罗斯对基辅的空袭至少造成13人死亡；乌克兰缺乏防空导弹",
+      "url": "https://www.bbc.com/japanese/articles/c78gpgpdnwno",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-20T08:37:30+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯对基辅的空袭至少造成13人死亡；乌克兰缺乏防空导弹\n20日凌晨，俄罗斯对乌克兰首都基辅发动空袭，造成至少13人死亡、40人受伤。乌克兰仍然面临防空导弹短缺的问题。",
+        "据乌克兰国家紧急情况服务局（DSNS）称，基辅各地的公寓楼和仓库以及一家儿童医院和一所学校在夜间遭到袭击。",
+        "俄罗斯国防部表示，俄罗斯使用空中、陆地和海上武器袭击了军事设施和仓库。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ロシアがキーウ空爆、少なくとも13人死亡 ウクライナは防空ミサイル不足で苦慮"
+      }
+    },
+    {
+      "title_original": "【解説】 ロシアはなぜイギリスを脅すのか、今後どうなるのか",
+      "title_zh": "【解说】俄罗斯为何威胁英国，接下来会发生什么？",
+      "url": "https://www.bbc.com/japanese/articles/cjwxexd1xw6o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-20T07:51:39+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "【解说】俄罗斯为何威胁英国，接下来会发生什么？\n【解说】俄罗斯为何威胁英国，接下来会发生什么？\n已发表\n周三，在一架英国制造的无人机在乌克兰对俄罗斯发动袭击后，俄罗斯威胁要采取“适当的报复措施”。",
+        "俄罗斯驻英国大使馆指责英国“故意选择升级乌克兰危机”。他补充说，英国越深入地卷入冲突，“付出的代价就越高”。",
+        "乌克兰最近几天多次发动袭击，目标是俄罗斯的炼油厂和在线零售商 Wildberry 的仓库。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "【解説】 ロシアはなぜイギリスを脅すのか、今後どうなるのか"
+      }
+    },
+    {
+      "title_original": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "title_zh": "以色列决定不对加沙援助人员遇害案展开刑事调查，澳大利亚“愤怒”",
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T07:33:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列决定不对加沙援助人员遇害案展开刑事调查，澳大利亚“愤怒”\n- 已发表\n澳大利亚外交部长表示，她对以色列军方决定不对在加沙空袭中丧生的援助人员佐米·弗兰克科姆的死亡展开刑事调查感到“愤怒”。",
+        "Frankcom 是世界中央厨房 (WCK) 的一名澳大利亚援助人员，他与其他六名同事在 2024 年 4 月的以色列袭击中丧生。",
+        "外交部长黄英贤在一份声明中表示，这一决定“远远低于我们期望的问责制”，并召见了以色列大使。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza"
+      }
+    },
+    {
+      "title_original": "Ex-US-Botschafter: NATO-3.0-Umbenennung ist nur „Lippenstift auf einem Schwein“",
+      "title_zh": "美国前大使：北约3.0更名只是“给猪涂口红”",
+      "url": "https://de.euronews.com/my-europe/2026/08/20/ex-us-botschafter-nato-30-umbenennung-ist-nur-lippenstift-auf-einem-schwein",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-20T07:23:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "自唐纳德·特朗普重返白宫以来，跨大西洋关系发生了根本性变化。",
+        "“北约3.0”一词正是代表这一点。",
+        "但这背后是什么？"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "Ex-US-Botschafter: NATO-3.0-Umbenennung ist nur „Lippenstift auf einem Schwein“"
+      }
+    },
+    {
+      "title_original": "NATO 3.0 rebrand is 'lipstick on a pig', says former US ambassador",
+      "title_zh": "美国前大使称北约3.0重塑是“猪上的口红”",
+      "url": "https://www.euronews.com/my-europe/2026/08/20/nato-30-rebrand-is-lipstick-on-a-pig-says-former-us-ambassador",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-20T06:42:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "自特朗普重返白宫以来，跨大西洋关系发生了深刻变化，北约3.0概念就是这一转变的集中体现。",
+        "但这实际上意味着什么呢？",
+        "甚至在唐纳德·特朗普重返白宫之前，华盛顿就已表示有意将资源从欧洲转移出去 — — 但在过去一年半里，这种转移速度有所加快。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "en": "NATO 3.0 rebrand is 'lipstick on a pig', says former US ambassador"
+      }
+    },
+    {
+      "title_original": "النفط يرتفع وسط مخاوف الإمدادات من الشرق الأوسط",
+      "title_zh": "中东供应担忧导致油价上涨",
+      "url": "https://www.cnbcarabia.com/155922/2026/20/08/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D9%88%D8%B3%D8%B7-%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D8%A7%D9%84%D8%A5%D9%85%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-",
+      "source": "CNBC عربية",
+      "source_score": 75,
+      "published_at": "2026-08-20T06:11:59+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于担心美国和伊朗之间的战争持续僵局，可能导致中东石油供应中断和全球供应减少，周四油价上涨。",
+        "10 月交割的布伦特原油期货上涨 0.3%，至每桶 91.96 美元，而美国西德克萨斯中质原油期货上涨 0.2%，至每桶 86 美元。",
+        "昨天周三，这两个基准指数连续第四个交易日上涨，并创下自 7 月 24 日以来的最高结算价。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "CNBC عربية"
+      ],
+      "all_titles": {
+        "ar": "النفط يرتفع وسط مخاوف الإمدادات من الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "title_zh": "倒闭的中国房地产巨头恒大创始人被判无期徒刑",
+      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T06:08:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "倒闭的中国房地产巨头恒大创始人被判无期徒刑\n- 已发表\n处于中国房地产市场低迷之中的房地产巨头恒大集团的创始人被判处无期徒刑，并被没收全部个人财产。",
+        "许家印四月份承认多项指控，包括贪污资产和企业贿赂。",
+        "深圳市中级人民法院还因伪造记录和隐瞒债务等多项罪行，对他以前的公司处以人民币 158.2 亿元（17.3 亿英镑；23.5 亿美元）的罚款。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison"
+      }
+    },
+    {
+      "title_original": "الدولار يترنح مع تدخل «الخزانة» الأميركية لاحتواء عوائد السندات",
+      "title_zh": "由于美国财政部干预控制债券收益率，美元正在下跌",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/5309040-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%B1%D9%86%D8%AD-%D9%85%D8%B9-%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9%84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%A7%D8%AD%D8%AA%D9%88%D8%A7%D8%A1-%D8%B9%D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%B3%D9%86%D8%AF%D8%A7%D8%AA",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-20T06:02:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于美国财政部进行干预以控制回报，美元正在下跌债券https://aawsat.com/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/5309040-%D8%A7%D9%84%D8%AF% D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D8%B1%D9%86%D8%AD-%D9%85%D8%B9-%D8%AA%D8%AF%D8%AE%D9%84-%D8%A7%D9 %84%D8%AE%D8%B2%D8%A7%D9%86%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%A7% D8%AD%D8%AA%D9%88%D8%A7%D8%A1-%D8%B9%D9%88%D8%A7%D8%A6%D8%AF-%D8%A7%D9%84%D8%B3%D9%86%D8%AF%D8%A7%D8%AA\n由于美国财政部干预控制债券收益率，美元正在下跌\n二十美元钞票 (A.B.)\n周四，美元跌至约三个月来的最低水平，此前美国财政部采取的平息债券市场的举措导致长期收益率下降，在人们对债务和通胀的担忧日益加剧之际，削弱了美元最重要的支撑来源之一。",
+        "衡量美元兑一篮子6种主要货币表现的美元指数跌至98.813点，为5月中旬以来的最低水平，而欧元兑美元则升至1.1676，创下5月下旬以来的最高水平。",
+        "此次货币走势是在美国、欧洲和日本债券市场出现大规模抛售浪潮之后发生的，这将长期借贷成本推至多年来的最高水平，原因是人们担心油价上涨和美以对伊朗战争的持续导致政府债务水平上升和通胀压力加大。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "الدولار يترنح مع تدخل «الخزانة» الأميركية لاحتواء عوائد السندات"
+      }
+    },
+    {
+      "title_original": "U.S. and NATO watch as Europe’s largest army threatens the UK over jet drones, Iran targets European bases and Ukrainian drones strike North Africa",
+      "title_zh": "美国和北约关注欧洲最大的军队用喷气式无人机威胁英国、伊朗瞄准欧洲基地以及乌克兰无人机袭击北非",
+      "url": "https://africa.businessinsider.com/local/markets/us-and-nato-watch-as-europes-strongest-military-is-hit-by-british-jet-drones-iran/5wjjbdb",
+      "source": "Business Insider Africa",
+      "source_score": 55,
+      "published_at": "2026-08-20T06:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "和北约关注欧洲最大的军队通过喷气式无人机威胁英国、伊朗瞄准欧洲基地以及乌克兰无人机袭击北非",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Business Insider Africa"
+      ],
+      "all_titles": {
+        "en": "U.S. and NATO watch as Europe’s largest army threatens the UK over jet drones, Iran targets European bases and Ukrainian drones strike North Africa"
+      }
+    },
+    {
+      "title_original": "Missing teen hiker found dead in Australian bush after eight-day search",
+      "title_zh": "经过八天的搜寻后，失踪的青少年徒步旅行者在澳大利亚丛林中被发现死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T05:45:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "经过八天的搜寻后，失踪的青少年徒步旅行者在澳大利亚丛林中被发现死亡\n- 已发表\n上周三，对一名据称失踪的悉尼青少年进行了八天的搜寻后，在澳大利亚丛林中发现了一名妇女的尸体。",
+        "警方表示，虽然尸体身份尚未正式确认，但据信是 18 岁的莉莉·胡珀 (Lily Hooper) 的尸体。",
+        "州长向新南威尔士州议会表示，她被发现还活着，随后又撤回了这一声明。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Missing teen hiker found dead in Australian bush after eight-day search"
+      }
+    },
+    {
+      "title_original": "Russian missile barrage kills at least 6 in Kyiv, injures 33",
+      "title_zh": "俄罗斯导弹袭击基辅造成至少6人死亡、33人受伤",
+      "url": "https://www.audacy.com/wbbm780/news/world/russia-ukraine-war-kyiv-attack-92ff5d7d1073fd8692a75e4e677f425b",
+      "source": "Audacy",
+      "source_score": 40,
+      "published_at": "2026-08-20T04:38:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰基辅（美联社）——官员周四表示，俄罗斯在夜间空袭中使用数十枚导弹和无人机对乌克兰首都基辅及周边地区进行了持续数小时的袭击，造成至少 16 人死亡。",
+        "近几个月来，莫斯科军队利用乌克兰长期缺乏美国制造的爱国者防空拦截弹的机会，加强了对基辅的弹道导弹攻击，这是其武器库中唯一能够击落弹道导弹的武器。",
+        "乌克兰总统泽伦斯基恳求各国派遣更多爱国者拦截机，但由于伊朗战争和乌克兰四年多来对抗俄罗斯全面入侵，国际库存很低。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Audacy"
+      ],
+      "all_titles": {
+        "en": "Russian missile barrage kills at least 6 in Kyiv, injures 33"
+      }
+    },
+    {
+      "title_original": "Russlands Fehlplanung im Ukraine-Krieg war der Beginn: Nordkorea im „Aufstieg“ – mit globalen Folgen",
+      "title_zh": "俄罗斯在乌克兰战争中的糟糕计划只是一个开始：朝鲜的崛起——带来全球后果",
+      "url": "https://www.fr.de/politik/putin-belohnt-kim-jong-un-im-ukraine-krieg-mit-globalen-folgen-zr-94451430.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-20T04:31:12+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "崛起中的独裁者：普京如何在乌克兰战争中奖励金正恩——带来全球后果\n在谷歌上关注我们\n一度孤立的金正恩帮助俄罗斯摆脱了自找的麻烦。",
+        "一项新的分析表明，普京的感激之情具有深远的影响。",
+        "唐纳德·特朗普知道如何动摇自己的盟友。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Russlands Fehlplanung im Ukraine-Krieg war der Beginn: Nordkorea im „Aufstieg“ – mit globalen Folgen"
+      }
+    },
+    {
+      "title_original": "Encuentran en Taiwán un fémur y una tibia de un denisovano gigante de hace 45.000 años (y da un vuelco a las teorías sobre la evolución humana)",
+      "title_zh": "在台湾发现了 45,000 年前巨型丹尼索瓦人的股骨和胫骨（颠覆了人类进化理论）",
+      "url": "https://www.elconfidencial.com/tecnologia/ciencia/2026-08-20/hallan-femur-tibia-denisovano-45000-anos-vuelco-evolucion-humana-1qrt_4408466/",
+      "source": "El Confidencial",
+      "source_score": 40,
+      "published_at": "2026-08-20T03:45:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "他们在台湾发现了 45,000 年前巨型丹尼索瓦人的股骨和胫骨（彻底颠覆了人类进化理论）",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "El Confidencial"
+      ],
+      "all_titles": {
+        "es": "Encuentran en Taiwán un fémur y una tibia de un denisovano gigante de hace 45.000 años (y da un vuelco a las teorías sobre la evolución humana)"
+      }
+    },
+    {
+      "title_original": "ノルド・ストリーム爆破、ウクライナ人容疑者をクロアチアで逮捕",
+      "title_zh": "北溪爆炸案乌克兰嫌疑人在克罗地亚被捕",
+      "url": "https://www.bbc.com/japanese/articles/c629ygk0k25o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-20T03:36:28+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北溪爆炸案乌克兰嫌疑人在克罗地亚被捕\n一名涉嫌参与2022年连接俄罗斯和德国的北溪天然气管道爆炸事件的乌克兰男子19日在克罗地亚被捕。",
+        "德国检察官表示，嫌疑人据信是 2022 年 9 月俄罗斯全面入侵乌克兰后在北溪安放炸药的潜水员之一。据报道，检察官办公室正在寻求将其引渡到克罗地亚。",
+        "这是此案中被捕的第二人。德国是乌克兰战争努力的主要欧洲支持者，但这一事件导致两国关系紧张。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ノルド・ストリーム爆破、ウクライナ人容疑者をクロアチアで逮捕"
+      }
+    },
+    {
+      "title_original": "Rusia acerca sus bases lanzaderas de drones a Europa y la OTAN advierte de nuevas provocaciones a partir de otoño",
+      "title_zh": "俄罗斯将其无人机发射基地移近欧洲，北约警告秋季开始新的挑衅行为",
+      "url": "https://www.elconfidencial.com/mundo/2026-08-20/rusia-otan-drones-ucrania-amenaza-1hms_4408570/",
+      "source": "El Confidencial",
+      "source_score": 40,
+      "published_at": "2026-08-20T03:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "俄罗斯将其无人机发射基地移近欧洲，北约警告秋季开始新的挑衅行为\n最难处理的事情是故意采取模棱两可的行动，其严重程度足以挑战联盟，但又故意引起对集体反应的怀疑。\n十个新基地、至少 59 个发射平台以及在单个设施中存储超过 1000 架无人机的能力。",
+        "俄罗斯正在其西部边境加速部署新的军事基础设施，一些最先进的飞机甚至可以从那里抵达华沙。",
+        "Geran-4 和 Geran-5 等高速型号可运载约 90 公斤的货物，在某些情况下，行驶距离接近 1,000 公里。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "El Confidencial"
+      ],
+      "all_titles": {
+        "es": "Rusia acerca sus bases lanzaderas de drones a Europa y la OTAN advierte de nuevas provocaciones a partir de otoño"
+      }
+    },
+    {
+      "title_original": "北约回应伊朗潜在袭击：已做好准备保卫盟友安全",
+      "title_zh": "北约回应伊朗潜在袭击：已做好准备保卫盟友安全",
+      "url": "https://www.8world.com/world/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans-3253651",
+      "source": "8world",
+      "source_score": 40,
+      "published_at": "2026-08-20T02:41:05+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "北约回应伊朗潜在袭击：已做好准备保卫盟友安全 国际 伊朗遇袭 发布: 20 Aug 2026 10:43 更新: 9小时前 Set 8world as your preferred source on Google 点选设定，提升 Google搜索功能。",
+        "知道了 北大西洋公约组织旗。（图：法新社/Kenzo Tribouillard） 新功能!",
+        "知道了 听新闻 我要听 正在听 暂停 分钟 此音频由AI生成 UH-OH!"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "8world"
+      ],
+      "all_titles": {
+        "zh": "北约回应伊朗潜在袭击：已做好准备保卫盟友安全"
+      }
+    },
+    {
+      "title_original": "Giant whales move into Greenland waters as ice disappears",
+      "title_zh": "随着冰层消失，巨鲸进入格陵兰岛海域",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-20T02:05:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "随着冰层消失，巨鲸进入格陵兰岛海域\n- 已发表\n东格陵兰岛的海冰正在消失，巨鲸得以利用这一优势进入以前无法进入的地区。",
+        "这是一项长达数十年的研究得出的结论，该研究记录并拍摄了数百头世界上最大的鲸鱼，包括座头鲸、小须鲸和长须鲸，它们在夏季在沿海无冰的海洋中捕食。",
+        "历史上没有在这里发现过这些海洋哺乳动物，因为它们被冰锁在沿海水域之外。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Giant whales move into Greenland waters as ice disappears"
+      }
+    },
+    {
+      "title_original": "Michael Cohen won’t say if he’ll use his Trump interview to seek a pardon",
+      "title_zh": "迈克尔·科恩不愿透露他是否会利用特朗普的采访来寻求赦免",
+      "url": "https://www.politico.com/news/2026/08/19/michael-cohen-trump-interview-radio-pardon-01043191",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-19T20:58:37-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "预计总统周四将收听科恩的广播节目，这是他们自公开争吵以来的首次公开谈话。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Michael Cohen won’t say if he’ll use his Trump interview to seek a pardon"
+      }
+    },
+    {
+      "title_original": "黒海穀物輸出が事実上停止 ロシア・ウクライナの攻撃激化で",
+      "title_zh": "由于俄罗斯和乌克兰的袭击加剧，黑海谷物出口几乎停止",
+      "url": "https://jp.reuters.com/world/ukraine/YOULC7LFGFJQJJPFPABTIF2FNA-2026-08-20/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-20T01:08:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "由于俄罗斯和乌克兰的袭击加剧，黑海谷物出口几乎停止 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "黒海穀物輸出が事実上停止 ロシア・ウクライナの攻撃激化で"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Russia running on imported gasoline, government confirms",
+      "title_zh": "乌克兰战争简报：政府证实俄罗斯使用进口汽油",
+      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-war-briefing-russia-running-on-imported-gasoline-government-confirms",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-20T00:55:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  俄罗斯政府证实，俄罗斯已开始进口燃料，一船汽油已从印度运抵。",
+        "俄罗斯是和平时期的燃料出口国，在乌克兰为应对俄罗斯入侵而袭击其炼油厂和仓库后，俄罗斯被迫转向进口。",
+        "基辅军方的行动取得了重大成功，导致俄罗斯各地和非法占领的克里米亚出现燃料短缺。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Russia running on imported gasoline, government confirms"
+      }
+    },
+    {
+      "title_original": "乌前防长呼吁战时选举，英媒：俄乌冲突爆发以来泽连斯基面临的“最大内部挑战”",
+      "title_zh": "乌前防长呼吁战时选举，英媒：俄乌冲突爆发以来泽连斯基面临的“最大内部挑战”",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-20/doc-ininxkrs8023393.shtml",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-08-20T00:51:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "【环球时报驻俄罗斯特派记者 肖新新】据乌通社报道，乌克兰前防长费奥多罗夫18日晚公开呼吁建立战时选举机制，并称乌正面临系统性治理危机。而在他发表讲话数小时前，乌总统泽连斯基已向乌最高拉达（议会）提名现代理防长赫马拉正式接任防长一职。乌最高拉达19日正式投票批准这一任命。英国《卫报》18日称，费奥多罗夫的呼吁是自2022年俄乌冲突爆发以来对泽连斯基“最直接的挑战”。路透社也称，这是俄乌冲突爆发以来泽连斯基面临的“最大内部挑战”。",
+        "泽连斯基19日在社交媒体上对乌最高拉达批准赫马拉的防长任命以及瑟比加的外长任命表示感谢，称二人的任务非常明确，即壮大乌力量。",
+        "《卫报》、路透社等媒体称，费奥多罗夫关于举行战时选举的呼吁，是俄乌冲突爆发以来首次有乌主要政治人物公开提出此类要求。乌现行法律禁止在国家战时状态下举行选举。费奥多罗夫18日晚的讲话并未表示自己是否会参加任何选举，也未直接提及泽连斯基的名字，但他暗示后者领导的政府运转不畅。费奥多罗夫曾长期是泽连斯基盟友，他此次“似乎是在公开向泽连斯基发起挑战”，称乌面临“系统性治理危机”且不点名批评官员腐败。据报道，乌社会研究中心日前进行的民意调查结果显示，如果都参选，预计在总统选举第一轮投票中排名第一的泽连斯基，将在第二轮投票中败给费奥多罗夫和乌武装部队前总司令、现任乌驻英大使扎卢日内。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "乌前防长呼吁战时选举，英媒：俄乌冲突爆发以来泽连斯基面临的“最大内部挑战”"
+      }
+    },
+    {
+      "title_original": "【新聞第一線】歐洲備戰！北約突反擊伊朗 以軍大轟炸6人亡",
+      "title_zh": "【新聞第一線】歐洲備戰！北約突反擊伊朗 以軍大轟炸6人亡",
+      "url": "https://www.ntdtv.com/gb/2026/08/19/a104125414.html",
+      "source": "新唐人電視台",
+      "source_score": 40,
+      "published_at": "2026-08-20T00:30:39+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "【新唐人北京时间2026年08月19日讯】北约强硬反击伊朗，欧洲全面备战！以军大轰炸警局；黎巴嫩南部爆炸；以军参谋长突进入叙利亚；伊朗已输掉霍尔木兹？北约持续逼近俄边境，大量军机活动；俄乌法三大炼油厂起火；章子怡变现逃出国？",
+        "聊新闻，观天下。紧跟新闻第一线。各位好，我是郑之，大家好，我是宸熙。",
+        "【以军参谋长突然进入叙利亚 给土耳其划红线】\n宸熙：x今天是美东时间8月19日，星期三，目前中东的局势变化莫测，首先还是来看以色列的情况，就在刚刚，以色列国防军轰炸了位于加沙的哈马斯警察总部，目前造成至少6人死亡。可以看出目前加沙的局势仍然是非常紧张，哈马斯去军事化的程度也是远远没达到以色列的要求。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "新唐人電視台"
+      ],
+      "all_titles": {
+        "zh": "【新聞第一線】歐洲備戰！北約突反擊伊朗 以軍大轟炸6人亡"
+      }
+    },
+    {
+      "title_original": "More than 100 dead after goldmine collapses in Central African Republic",
+      "title_zh": "中非共和国金矿倒塌已造成100多人死亡",
+      "url": "https://www.theguardian.com/world/2026/aug/20/gold-mine-collapse-deadly-landslide-central-african-republic",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-20T00:14:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "塌方是由山体滑坡造成的，而当地官员表示，随着恢复工作的继续，死亡人数可能会上升。 当地官员和援助人员周三表示，中非共和国西部一个小村庄的一座手工金矿因山体滑坡塌方，已造成 100 多人死亡。",
+        "周二下午，山体滑坡发生在赞博耶村，距离巴布阿镇约 50 公里（31 英里），靠近喀麦隆边境。",
+        "社交媒体上的视频似乎显示，大量沙子落在一群人（可能是矿工）身上，并将他们覆盖。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "More than 100 dead after goldmine collapses in Central African Republic"
+      }
+    },
     {
       "title_original": "プーチン氏、ウクライナの攻撃「重大な結果ない」物流復旧支援を指示",
       "title_zh": "普京下令为乌克兰袭击提供后勤恢复支持“不会造成严重后果”",
