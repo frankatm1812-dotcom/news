@@ -1,8 +1,860 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-20T23:38:35.674011+00:00",
-  "count": 34,
+  "generated_at": "2026-08-21T11:41:03.717316+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title_original": "\"نهاية الشرق الأوسط الأمريكي\" - مقال في صحيفة فورين أفيرز",
+      "title_zh": "“美国中东的终结”——《外交事务》上的一篇文章",
+      "url": "https://www.bbc.com/arabic/articles/c8xn0ryrpleo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-21T11:33:39+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "“美国中东的终结”——《外交事务》上的一篇文章\n在周五的报纸综述中，我们将看到一篇政治文章警告“美国在中东的区域秩序”可能会像之前的欧洲帝国一样消失，一篇环境文章将全球气温上升与野火蔓延联系起来，最后一篇健康文章批评对多动症现实的怀疑论者。",
+        "我们以马克·林奇在《外交事务》报纸上发表的一篇题​​为“美国中东的终结”的文章开始我们的旅程。",
+        "笔者认为，自1991年海湾战争以来美国在中东主导的地区秩序已经走到了尽头，并将其归咎于美以与伊朗的战争。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "\"نهاية الشرق الأوسط الأمريكي\" - مقال في صحيفة فورين أفيرز"
+      }
+    },
+    {
+      "title_original": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "title_zh": "罗森伯格：俄罗斯人感受到战争的影响越来越大，汽油短缺但爱国主义不高",
+      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-21T11:31:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "罗森伯格：俄罗斯人感受到战争的影响越来越大，汽油短缺但爱国主义不高\n- 已发表\n在莫斯科东南部的一个加油站，斯维亚托斯拉夫已经在车里排队两个小时了。",
+        "前面的标志牌刚刚改变，显示没有燃料。",
+        "“他们说这里会有汽油，”斯维亚托斯拉夫乐观地告诉我。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war"
+      }
+    },
+    {
+      "title_original": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
+      "title_zh": "俄罗斯表示准备好接受符合普京目标的乌克兰战争“新想法”",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-21T11:07:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯表示准备好接受符合普京目标的乌克兰战争“新想法”\n外交部副部长谢尔盖·里亚布科夫表示，莫斯科热衷于美国 — — 美国已对俄罗斯的议程表示支持 — — 恢复参与谈判。",
+        "俄罗斯一位高级外交官表示，莫斯科准备听取结束乌克兰战争的新想法，只要它们符合弗拉基米尔·普京总统的立场。",
+        "外交部副部长谢尔盖·里亚布科夫在周五接受 News.ru 采访时表示，俄罗斯对符合“实际情况”的提议持开放态度。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals"
+      }
+    },
+    {
+      "title_original": "لماذا ترفض بينالي غوانغجو تسمية جناح تايوان \"جناح تايوان\"؟",
+      "title_zh": "光州双年展为何拒绝称台湾馆为“台湾馆”？",
+      "url": "https://arabic.euronews.com/culture/2026/08/21/why-is-the-gwangju-biennale-refusing-to-call-taiwans-pavilion-the-taiwan-pavilion",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-21T10:35:35+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾政府和参展艺术家指责光州双年展在将展览更名为“台湾国立美术馆馆”后进行审查。",
+        "你可以随便叫它，但不要叫它台湾馆。",
+        "光州双年展将展馆名称从“台湾馆”改为“NTMoFA馆”，成为最新一个因提及台湾而受到批评的组织。"
+      ],
+      "credibility": "yellow",
+      "credibility_label": "🟡 多方报道（2源）但未证实",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Euronews.com",
+        "Euronews"
+      ],
+      "all_titles": {
+        "ar": "لماذا ترفض بينالي غوانغجو تسمية جناح تايوان \"جناح تايوان\"؟",
+        "es": "Por qué la Bienal de Gwangju evita llamar \"Pabellón de Taiwán\" al pabellón taiwanés"
+      }
+    },
+    {
+      "title_original": "بعد مناورات أغضبت تايوان.. الصين وإندونيسيا ترسمان شراكة أوسع",
+      "title_zh": "在激怒台湾之后，中国和印度尼西亚制定了更广泛的伙伴关系",
+      "url": "https://www.aljazeera.net/news/2026/8/21/%D9%85%D9%86%D8%A7%D9%88%D8%B1%D8%A7%D8%AA-6",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-21T10:24:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "在激怒台湾之后...",
+        "中国和印度尼西亚正在规划更广泛的伙伴关系\n在举行联合海军演习几天后，中国外交部长和国防部长周五在首都雅加达会见了印度尼西亚外长，作为共同努力加强两国政治和军事合作的一部分。",
+        "通过这次会议，两国外长启动了印尼和中国之间的首次“全面战略对话”，并欢迎讨论2027年至2031年的五年行动计划。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "بعد مناورات أغضبت تايوان.. الصين وإندونيسيا ترسمان شراكة أوسع"
+      }
+    },
+    {
+      "title_original": "حاملة أميركية جديدة تصل الشرق الأوسط.. ماذا حدث لطاقم «لينكولن» بعد 260 يوماً في البحر؟",
+      "title_zh": "一艘美国新航母抵达中东。海上航行260天后，“林肯”号船员怎么样了？",
+      "url": "https://arabic.euronews.com/2026/08/21/aircraft-carrier-abraham-lincoln-george-washington-middle-east-suicide-crew-co",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-21T09:30:28+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "一名美国官员告诉CNN，“林肯”号仍在美国第五舰队的作战区域内，这意味着它尚未离开中央司令部的责任范围，尽管它已经开始返航。",
+        "美国中央司令部（Centcom）周四宣布，乔治·华盛顿号航空母舰打击群抵达中东，这是其所谓“预定”部署的一部分，以逐步承担亚伯拉罕·林肯号航空母舰的职责，后者在与伊朗的战争背景下在该地区停留了大约九个月。",
+        "中央司令部在一篇帖子中表示"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "حاملة أميركية جديدة تصل الشرق الأوسط.. ماذا حدث لطاقم «لينكولن» بعد 260 يوماً في البحر؟"
+      }
+    },
+    {
+      "title_original": "ماذا يعني نشر حاملة الطائرات \"جورج واشنطن\" في الشرق الأوسط؟",
+      "title_zh": "“乔治·华盛顿”号航母的部署在中东意味着什么？",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/08/21/japan-based-uss-george-washington-middle-east-what-this-means",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-08-21T09:05:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "(CNN) - 退役美国海军上将安德鲁·洛伊塞尔 (Andrew Loiselle) 周五告诉美国有线电视新闻网 (CNN)，“美国”号航空母舰的部署",
+        "驻扎在日本、中东的乔治·华盛顿表示，其使命与“一件非常重要的事情”有关。",
+        "这是在该航母抵达该地区取代“美国”号航母之后发生的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "ماذا يعني نشر حاملة الطائرات \"جورج واشنطن\" في الشرق الأوسط؟"
+      }
+    },
+    {
+      "title_original": "Trump’s biggest political event so far isn’t in a battleground state",
+      "title_zh": "特朗普迄今为止最大的政治事件并非处于战场状态",
+      "url": "https://www.politico.com/news/2026/08/21/trump-rally-south-carolina-darline-graham-01045166",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-21T04:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "总统正在与参议员集会。",
+        "达林·格雷厄姆（Darline Graham）在深红色的南卡罗来纳州，与他在佐治亚州、密歇根州和德克萨斯州等战场上的安静策略有所不同。",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Trump’s biggest political event so far isn’t in a battleground state"
+      }
+    },
+    {
+      "title_original": "هانتينج البريطانية تخفض توقعاتها للأرباح السنوية بتأثير من تأخيرات مناقصة كويتية",
+      "title_zh": "由于科威特招标的延迟，英国狩猎公司降低了年度利润预测",
+      "url": "https://www.reuters.com/ar/business/RDZ25W4445PQRIBSXEDSUC6ZHQ-2026-08-21/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-21T08:33:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "由于科威特招标延迟，英国狩猎公司降低了年度利润预测 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "هانتينج البريطانية تخفض توقعاتها للأرباح السنوية بتأثير من تأخيرات مناقصة كويتية"
+      }
+    },
+    {
+      "title_original": "Weather tracker: Extreme rain deluges Japan and South Korea",
+      "title_zh": "天气追踪：日本和韩国遭遇特大暴雨",
+      "url": "https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-21T08:19:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "倾盆大雨打破了纪录，导致交通混乱、人员被困在车内、人员疏散和死亡。韩国和日本上周晚些时候和本周都遭遇了特大降雨。",
+        "8 月 13 日，东京附近的千叶市在一小时内降雨量达到创纪录的 115 毫米，而附近的佐仓市则打破了自己的记录，一小时内降雨量达到 97 毫米。",
+        "当地政府发布了暴雨5级紧急警报，这是该系统自5月份实施以来的最高警报级别，也是首次发布。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Weather tracker: Extreme rain deluges Japan and South Korea"
+      }
+    },
+    {
+      "title_original": "COTidienne | Marché des céréales du 20 août 2026 : Un contexte géopolitique et des difficultés logistiques à l'origine d'une hausse continue des prix du blé et du maïs",
+      "title_zh": "科蒂迪安 | 2026年8月20日谷物市场：地缘政治背景和物流困难导致小麦和玉米价格持续上涨",
+      "url": "https://www.reussir.fr/ladepeche/marche-des-cereales-du-20-aout-2026-un-contexte-geopolitique-et-des-difficultes-logistiques",
+      "source": "Portail Réussir",
+      "source_score": 55,
+      "published_at": "2026-08-21T07:46:40+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "科蒂迪安 | 2026 年 8 月 20 日谷物市场：地缘政治背景和物流困难导致小麦和玉米价格持续上涨 Réussir Portal",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Portail Réussir"
+      ],
+      "all_titles": {
+        "fr": "COTidienne | Marché des céréales du 20 août 2026 : Un contexte géopolitique et des difficultés logistiques à l'origine d'une hausse continue des prix du blé et du maïs"
+      }
+    },
+    {
+      "title_original": "Geopolítica de una boca: Lorca, Cohen y un vals que acaba entre las piernas",
+      "title_zh": "一张嘴的地缘政治：洛尔卡、科恩和结束于两腿之间的华尔兹",
+      "url": "https://www.jotdown.es/2026/08/geopolitica-de-una-boca-lorca-cohen-y-un-vals-que-acaba-entre-las-piernas/",
+      "source": "Jot Down Cultural Magazine",
+      "source_score": 40,
+      "published_at": "2026-08-21T07:38:07+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "一张嘴的地缘政治：洛尔卡、科恩和结束于两腿之间的华尔兹 记下文化杂志",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Jot Down Cultural Magazine"
+      ],
+      "all_titles": {
+        "es": "Geopolítica de una boca: Lorca, Cohen y un vals que acaba entre las piernas"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Kyiv protest organiser disowns Mykhailo Fedorov’s call for elections",
+      "title_zh": "乌克兰战争简报：基辅抗议组织者否认米哈伊洛·费多罗夫的选举呼吁",
+      "url": "https://www.theguardian.com/world/2026/aug/21/ukraine-war-briefing-kyiv-protest-organiser-disowns-mykhailo-fedorovs-call-for-elections",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-21T07:11:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  抗议弗拉基米尔·泽连斯基解雇米哈伊洛·费多罗夫国防部长职务的抗议活动的领导人似乎在费多罗夫要求举行选举后取消了抗议活动。",
+        "支持费多罗夫运动的主要组织者、资深战地医生德米特罗·科齐亚廷斯基(Dmytro Koziatynskyi)表示，他“无法想象”如何在前线有部队的情况下举行民意调查，而抗议活动的目的是寻求与政府对话。",
+        "由于战争，根据乌克兰法律，选举被认为是不可能且非法的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Kyiv protest organiser disowns Mykhailo Fedorov’s call for elections"
+      }
+    },
+    {
+      "title_original": "Five missing after fire in Swiss Alpine town",
+      "title_zh": "瑞士阿尔卑斯小镇火灾后五人失踪",
+      "url": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-21T07:06:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "瑞士阿尔卑斯小镇火灾后五人失踪\n- 已发表\n警方称，瑞士图西斯镇一家带公寓的餐厅被大火“完全烧毁”，造成五人失踪，八人受伤。",
+        "格劳宾登州警方表示，初步调查显示火灾发生在二楼，起火原因仍在调查中。",
+        "警方表示，当地时间午夜过后（格林威治标准时间周四 22:00）接到电话，近 100 名消防员赶赴现场。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Five missing after fire in Swiss Alpine town"
+      }
+    },
+    {
+      "title_original": "Panama Canal to cut number of ships passing through due to El Niño",
+      "title_zh": "巴拿马运河因厄尔尼诺现象将减少通过船舶数量",
+      "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-21T06:46:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "巴拿马运河因厄尔尼诺现象将减少通过船舶数量\n- 已发表\n由于厄尔尼诺现象导致降雨量减少，巴拿马运河运营商将减少通过该主要水道的船只数量。",
+        "巴拿马运河管理局 (ACP) 周四告诉航运公司，从 9 月 15 日起，每天将有 32 艘船只能够通过该运河，而目前为 36 艘。",
+        "厄尔尼诺现象是一种周期性海面变暖的现象，影响全球的天气系统。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Panama Canal to cut number of ships passing through due to El Niño"
+      }
+    },
+    {
+      "title_original": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction",
+      "title_zh": "甘地手写的人生笔记在印度拍卖会上以 169 万美元的价格售出",
+      "url": "https://www.bbc.co.uk/news/articles/c4gdn2vmgvwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-21T06:33:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "甘地手写的人生笔记在印度拍卖会上以 169 万美元的价格售出\n- 已发表\n印度独立领袖圣雄甘地的一套罕见的手写笔记在孟买市的一次拍卖会上以 169 万美元（124 万英镑）的价格售出。",
+        "这些笔记由亲密伙伴、自由斗士阿南德·辛戈拉尼 (Anand T Hingorani) 的家人拥有和保存，其中包括甘地 1944 年至 1946 年间手写的 688 条关于真理、非暴力和自我克制的信息。",
+        "拍卖行 Saffronart 表示，此次拍卖创下了印度历史文献拍卖最高价纪录。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Gandhi's handwritten notes on life sold for $1.69m at Indian auction"
+      }
+    },
+    {
+      "title_original": "Un nouveau groupe aéronaval américain arrive au Moyen-Orient pour relever l'USS Abraham Lincoln",
+      "title_zh": "美国新航母打击群抵达中东接替亚伯拉罕·林肯号航空母舰",
+      "url": "https://fr.euronews.com/2026/08/21/un-nouveau-groupe-aeronaval-americain-arrive-au-moyen-orient-pour-relever-luss-abraham-lin",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-21T06:18:33+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国：船员亲属谴责亚伯拉罕·林肯号航空母舰生活条件恶化，并提及数起自杀未遂事件\n美国军方周四宣布，一个新的美国航母打击群已抵达中东，此前一艘长期部署的航母上的情况引发了对唐纳德·特朗普总统对伊朗战争的新批评。",
+        "负责监督驻中东美军的美国中央司令部（CENTCOM）在 X 网站上发布的消息中表示：“乔治·华盛顿号航母战斗群正在中东按计划部署执行任务，昨天已抵达中央司令部责任区。”",
+        "就在几天前，有新闻报道称，自 2025 年 11 月起部署的亚伯拉罕·林肯号航空母舰上的恶劣条件给特朗普争取接受一场已经不受欢迎的战争的努力造成了挫折。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "fr": "Un nouveau groupe aéronaval américain arrive au Moyen-Orient pour relever l'USS Abraham Lincoln"
+      }
+    },
+    {
+      "title_original": "ロシアのキーウ空爆、重要インフラが「意図的に」攻撃されたとクリチコ市長",
+      "title_zh": "市长克里琴科表示，俄罗斯对基辅的空袭是对关键基础设施的“蓄意”攻击",
+      "url": "https://www.bbc.com/japanese/articles/c629pjp5g54o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-21T05:52:38+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "市长克里琴科表示，俄罗斯对基辅的空袭是对关键基础设施的“蓄意”攻击\n伊莫金·詹姆斯 (Imogen James)，乌克兰记者，丹·约翰逊 (Dan Johnson)\n基辅市长维塔利·克里琴科周一表示，俄罗斯对乌克兰首都基辅的最新袭击是数月来首次针对首都关键基础设施的“蓄意袭击”。",
+        "据乌克兰国家紧急情况服务局（DSNS）称，俄罗斯20日凌晨发动的空袭袭击了基辅市各地的公寓楼和仓库，还损坏了一家儿童医院和一所学校。至少17人死亡、40多人受伤。",
+        "市长克里琴科周三警告居民，由于夜间袭击，德尼扬斯基和第聂伯罗地区部分地区的热水供应可能会中断。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ロシアのキーウ空爆、重要インフラが「意図的に」攻撃されたとクリチコ市長"
+      }
+    },
+    {
+      "title_original": "Hong Kong's Tiananmen activists guilty in national security trial",
+      "title_zh": "香港天安门活动人士在国家安全审判中被判有罪",
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-21T05:47:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "香港天安门活动人士在国家安全审判中被判有罪\n- 已发表\n根据香港备受争议的国家安全法，两名组织年度守夜活动纪念 1989 年天安门广场镇压活动的香港活动人士被判犯有煽动他人颠覆国家政权罪。",
+        "根据中国出台的法律，69岁的李卓人和41岁的周恒东被定罪后，最高可判处10年监禁。",
+        "预计将在晚些时候宣判。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hong Kong's Tiananmen activists guilty in national security trial"
+      }
+    },
+    {
+      "title_original": "Australien klagt mutmaßlichen Spitzel im Ukraine-Krieg an",
+      "title_zh": "澳大利亚指控涉嫌参与乌克兰战争的间谍",
+      "url": "https://de.euronews.com/2026/08/21/australien-klagt-mutmasslichen-spitzel-im-ukraine-krieg-an",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-21T05:39:21+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "据称，该男子已渗透到乌克兰军队中，并向俄罗斯提供了重要信息。",
+        "在澳大利亚，蓄意外国影响属于刑事犯罪，最高可判处 20 年监禁。",
+        "本周五，一名男子在澳大利亚被指控涉嫌外国影响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "Australien klagt mutmaßlichen Spitzel im Ukraine-Krieg an"
+      }
+    },
+    {
+      "title_original": "British rapper Yung Filly to face retrial on rape charges in Australia",
+      "title_zh": "英国说唱歌手 Yung Filly 因强奸指控将在澳大利亚面临重审",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-21T05:30:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "英国说唱歌手 Yung Filly 因强奸指控将在澳大利亚面临重审\n- 已发表\n英国说唱歌手容菲利 (Yung Filly) 将在澳大利亚面临三项强奸指控的重审，陪审团洗清了他的几项性侵犯罪名，但无法对其他罪名做出裁决。",
+        "这位 YouTuber 的真名是安德烈斯·费利佩·巴伦西亚·巴里恩托斯 (Andres Felipe Valencia Barrientos)，他被指控在 2024 年在珀斯一家夜总会表演后多次强奸和袭击一名歌迷。",
+        "他否认了所有 10 项指控，上个月陪审团裁定他的三项强奸罪名无罪。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "British rapper Yung Filly to face retrial on rape charges in Australia"
+      }
+    },
+    {
+      "title_original": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "title_zh": "以色列不顾国际社会日益强烈的抗议，重新建立封闭的约旦河西岸定居点",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-21T05:00:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "三十个“先锋家庭”在以色列政府推动的民族主义浪潮中来到这里，但迅速的变化让附近的巴勒斯坦居民感到恐惧。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israel re-establishes closed West Bank settlement, defying growing international protests"
+      }
+    },
+    {
+      "title_original": "Australian hiker's body recovered as officials apologise for misreporting she was alive",
+      "title_zh": "澳大利亚徒步旅行者的尸体已找到，官员为误报她还活着而道歉",
+      "url": "https://www.bbc.co.uk/news/articles/c0rdk5kg4r4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-21T04:54:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "澳大利亚徒步旅行者的尸体已找到，官员为误报她还活着而道歉\n- 已发表\n失踪的澳大利亚徒步旅行者莉莉·胡珀（Lily Hooper）的尸体已被找到，官员们正在调查一次“误传”事件，该事件曾短暂报道她被发现还活着。",
+        "周四首次报道胡珀还活着的几分钟后，警方证实胡珀被发现死在新南威尔士州南部高地的丛林中。",
+        "周五，州州长克里斯·明斯(Chris Minns)和新南威尔士州警察局长马尔·兰宁(Mal Lanyon)就这一错误向她的家人道歉。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Australian hiker's body recovered as officials apologise for misreporting she was alive"
+      }
+    },
+    {
+      "title_original": "Freitag: KI-Überwachung in Argentinien, Chinas wachsender Druck auf Taiwan",
+      "title_zh": "周五：阿根廷的人工智能监控，中国对台湾的压力越来越大",
+      "url": "https://www.heise.de/news/Freitag-KI-Ueberwachung-in-Argentinien-Chinas-wachsender-Druck-auf-Taiwan-11421302.html",
+      "source": "heise online",
+      "source_score": 40,
+      "published_at": "2026-08-21T04:15:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "周五：阿根廷的人工智能监控，中国对台湾的压力越来越大\n米雷政府加强监控+台湾原材料进口限制+澳大利亚互联网征税+针对OpenAI的抄袭指控+数据保护播客\n据国际特赦组织称，过去两年阿根廷政府大幅扩大了人工智能监控技术的使用。",
+        "记者和活动人士认为自己受到人工智能监控的迫害，并与国际特赦组织一起呼吁禁止。",
+        "台湾企业也感受到压力，因为对该行业重要的原材料的进口显然受到中国海关的阻碍。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "heise online"
+      ],
+      "all_titles": {
+        "de": "Freitag: KI-Überwachung in Argentinien, Chinas wachsender Druck auf Taiwan"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Washington presse ses alliés, sanctions contre le Hezbollah… Les dernières infos",
+      "title_zh": "中东战争：华盛顿向盟友施压、制裁真主党……最新消息",
+      "url": "https://www.ouest-france.fr/monde/iran/guerre-au-moyen-orient-washington-presse-ses-allies-sanctions-contre-le-hezbollah-les-dernieres-infos-66ff4eb4-9cb1-11f1-bac9-b701f4b3457c",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-08-21T04:01:37+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争：华盛顿向盟友施压，制裁真主党……最新消息 法国西部",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Washington presse ses alliés, sanctions contre le Hezbollah… Les dernières infos"
+      }
+    },
+    {
+      "title_original": "How Jonathan Haidt turned the fight over kids and social media into a political movement",
+      "title_zh": "乔纳森·海特 (Jonathan Haidt) 如何将围绕儿童和社交媒体的斗争转变为一场政治运动",
+      "url": "https://www.politico.com/video/2026/08/21/how-jonathan-haidt-turned-the-fight-over-kids-and-social-media-into-a-political-movement-2147935",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-20T23:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "乔纳森·海特 (Jonathan Haidt) 如何将围绕儿童和社交媒体的斗争转变为一场政治运动",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "How Jonathan Haidt turned the fight over kids and social media into a political movement"
+      }
+    },
+    {
+      "title_original": "نيكي يتجه نحو أسوأ خسارة أسبوعية في نحو شهر",
+      "title_zh": "日经指数将迎来一个月来最严重的单周跌幅",
+      "url": "https://www.reuters.com/ar/business/PAZYX35HVVMR5KSHFCT6O7C6YM-2026-08-21/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-21T03:39:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "日经指数将迎来一个月来最严重的单周跌幅 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "نيكي يتجه نحو أسوأ خسارة أسبوعية في نحو شهر"
+      }
+    },
+    {
+      "title_original": "Tropas españolas fortalecen su preparación militar con un adiestramiento de la OTAN en Letonia",
+      "title_zh": "西班牙军队通过北约在拉脱维亚的训练加强军事准备",
+      "url": "https://www.articulo14.es/defensa/tropas-espanolas-fortalecen-su-preparacion-militar-con-un-adiestramiento-de-la-otan-en-letonia-20260821.html",
+      "source": "Artículo 14",
+      "source_score": 55,
+      "published_at": "2026-08-21T02:50:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙军队通过北约在拉脱维亚的训练加强军事准备第 14 条",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Artículo 14"
+      ],
+      "all_titles": {
+        "es": "Tropas españolas fortalecen su preparación militar con un adiestramiento de la OTAN en Letonia"
+      }
+    },
+    {
+      "title_original": "Japan executes man who killed five in Pachinko parlour fire",
+      "title_zh": "日本处决在弹珠机店火灾中造成五人死亡的男子",
+      "url": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-21T02:49:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本处决在弹珠机店火灾中造成五人死亡的男子\n- 已发表\n日本处决了一名2009年在赌场火灾中导致五人死亡的男子，这是该国一年多来首次颁布死刑。",
+        "58 岁的高见须直 (Sunao Takami) 在大阪家附近的弹球游戏厅里浇上汽油并将其点燃，导致四名顾客和一名员工死亡。",
+        "六名陪审团和三名法官组成的陪审团驳回了辩方关于高见在​​犯罪时患有精神疾病的论点，并于 2011 年判处他绞刑。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Japan executes man who killed five in Pachinko parlour fire"
+      }
+    },
+    {
+      "title_original": "Russlands Fehlplanung im Ukraine-Krieg war der Beginn: Nordkorea im „Aufstieg“ – mit globalen Folgen",
+      "title_zh": "俄罗斯在乌克兰战争中的糟糕计划只是一个开始：朝鲜的崛起——带来全球后果",
+      "url": "https://www.fr.de/politik/globalen-folgen-putin-belohnt-kim-jong-un-im-ukraine-krieg-mit-zr-94451430.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-21T02:46:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "崛起中的独裁者：普京如何在乌克兰战争中奖励金正恩——带来全球后果\n在谷歌上关注我们\n一度孤立的金正恩帮助俄罗斯摆脱了自找的麻烦。",
+        "一项新的分析表明，普京的感激之情具有深远的影响。",
+        "唐纳德·特朗普知道如何动摇自己的盟友。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Russlands Fehlplanung im Ukraine-Krieg war der Beginn: Nordkorea im „Aufstieg“ – mit globalen Folgen"
+      }
+    },
+    {
+      "title_original": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+      "title_zh": "巴厘岛因侮辱神圣的沉默日而入狱瑞士游客",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-21T02:33:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "巴厘岛因侮辱神圣的沉默日而入狱瑞士游客\n- 已发表\n一名瑞士游客因侮辱印度尼西亚度假岛巴厘岛的神圣宗教活动而被判处一年监禁。",
+        "在一段现已删除的视频中，26 岁的卢齐安·安德林·兹格拉根 (Luzian Andrin Zgraggen) 拍摄了自己在印度教安宁日 (Nyepi) 假期期间走到空荡荡的海滩的视频，他形容这一场景“疯狂”。",
+        "该视频在社交媒体上引发了巴厘岛人的广泛愤怒后，他于三月份被捕。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Bali jails Swiss tourist for insulting sacred Day of Silence"
+      }
+    },
+    {
+      "title_original": "+++ 04:23 Geheimdienst: Student sollte ukrainischen Militärkommandeur ermorden +++",
+      "title_zh": "+++ 04:23 特勤局：学生应该谋杀乌克兰军事指挥官 +++",
+      "url": "https://www.n-tv.de/politik/04-23-Geheimdienst-Student-sollte-ukrainischen-Militaerkommandeur-ermorden-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-21T02:25:31+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争实时收报+++ 13:34 俄罗斯在有争议的千岛群岛试射导弹 +++\n俄罗斯称已在太平洋千岛群岛附近进行了导弹试验。",
+        "俄罗斯太平洋舰队解释说，演习期间，模拟敌舰的目标在300多公里之外受到攻击。",
+        "最初并不清楚测试应该何时进行。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "+++ 04:23 Geheimdienst: Student sollte ukrainischen Militärkommandeur ermorden +++"
+      }
+    },
+    {
+      "title_original": "米空母リンカーンが中東から帰途に、長期配備で乗組員のメンタル悪化か",
+      "title_zh": "美国林肯号航母从中东返航，舰员因长期部署精神恶化",
+      "url": "https://www.cnn.co.jp/usa/35251792.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-21T00:53:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国林肯号航母从中东返航，舰员因长期部署精神恶化\n(CNN) 部署到中东的美国航空母舰亚伯拉罕·林肯号已经回国。这是一位知情人士透露的。",
+        "在此之前，另一艘航空母舰乔治·华盛顿号已抵达中东，以减轻林肯号长期部署期间的负担。",
+        "不过，一名美国官员告诉CNN，“林肯”号仍在第五舰队的作战区域内，尚未脱离美国中央司令部的管辖范围。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "米空母リンカーンが中東から帰途に、長期配備で乗組員のメンタル悪化か"
+      }
+    },
+    {
+      "title_original": "欧洲粮仓断了？俄乌战争冲击黑海港口，全球粮食生产正遭遇多重冲击",
+      "title_zh": "欧洲粮仓断了？俄乌战争冲击黑海港口，全球粮食生产正遭遇多重冲击",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-08-21/doc-ininzpqy1566652.shtml?cre=tianyi&mod=pchp&loc=32&r=0&rfunc=88&tj=cxvertical_pc_hp&tr=12",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-08-21T00:27:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "来源：华尔街见闻\n俄乌战争骤然升级，黑海航运陷入瘫痪——仅7月一个月，港口及船只遭袭超120起，乌克兰8月谷物出货量仅及潜在出口能力的20%。芝加哥小麦期货飙至两年高位，埃及、印尼等高度依赖黑海粮源的国家风险敞口急剧扩大。叠加霍尔木兹海峡的持续扰动、厄尔尼诺风险上升以及美国农业带不利天气，摩根大通警告下一场全球粮食危机最早明年到来。",
+        "俄乌战争持续升级正将全球粮食供应推向新一轮危机边缘。黑海港口遭受密集攻击，乌克兰粮食出口几近瘫痪，叠加厄尔尼诺风险抬头、霍尔木兹海峡持续受阻等多重冲击，农产品价格正在全面走高。",
+        "据路透社最新报道，黑海港口及散货船遭受的报复性攻击持续扰乱这一地区峰值出口季的航运秩序，全球小麦进口商正为供应收紧和价格上涨做准备。乌克兰方面报告显示，仅7月一个月，港口船只遭受攻击35次、海上遭袭22次、港口设施遭袭67次，而2025年全年同类事件仅为14起。据彭博报道，俄罗斯对敖德萨的持续打击已使乌克兰粮食出口几近停滞，8月以来乌克兰谷物出货总量约为50万吨，仅相当于该国潜在出口量的20%左右。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "欧洲粮仓断了？俄乌战争冲击黑海港口，全球粮食生产正遭遇多重冲击"
+      }
+    },
     {
       "title_original": "Guerre au Moyen-Orient : « Nous allons faire chuter ce régime », l’administration Trump menace encore l’Iran",
       "title_zh": "中东战争：“我们要打倒这个政权”，特朗普政府仍威胁伊朗",
