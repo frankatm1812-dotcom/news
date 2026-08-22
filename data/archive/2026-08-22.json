@@ -1,8 +1,833 @@
 {
   "date": "2026-08-22",
-  "generated_at": "2026-08-21T23:37:36.523234+00:00",
-  "count": 35,
+  "generated_at": "2026-08-22T11:34:46.403270+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title_original": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "title_zh": "加拿大表示，随着贸易谈判破裂，它将与美国“一美元对一美元”地征收关税",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-22T11:21:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "加拿大表示，随着贸易谈判破裂，它将与美国“一美元对一美元”地征收关税\n- 已发表\n在贸易谈判最后一刻破裂后，美国对多种加拿大商品征收的新一波关税于周六生效。",
+        "加拿大总理马克·卡尼在周五晚上最后期限前不久宣布暂停谈判，表示他将对美国商品“一美元对一美元”征收互惠关税。",
+        "卡尼表示，“美国提议的条款在最后一刻发生的变化是不公平的、不经济的，并且使任何协议的可靠性受到质疑”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down"
+      }
+    },
+    {
+      "title_original": "ウクライナの商業施設に無人機攻撃 16人死亡 100人以上けが",
+      "title_zh": "乌克兰商业设施遭无人机袭击 造成 16 人死亡、100 多人受伤",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260822de45697",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-22T10:06:31+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰商业设施遭无人机袭击，造成 16 人死亡、100 多人受伤 NHK 新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの商業施設に無人機攻撃 16人死亡 100人以上けが"
+      }
+    },
+    {
+      "title_original": "كرة نارية عملاقة تهز تايوان.. لحظة وقوع انفجارين هائلين",
+      "title_zh": "巨大火球震撼台湾...两起大爆炸瞬间",
+      "url": "https://arabic.cnn.com/world/video/2026/08/22/v200497-two-huge-explosions-go-off-in-southern-taiwan",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-08-22T09:51:46+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "8月22日凌晨，台湾南部台南市一处用作停车场的露天广场发生巨大爆炸。",
+        "爆炸造成多人受伤，附近居民住宅起火。",
+        "消防人员表示，爆炸的具体原因仍在调查中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "كرة نارية عملاقة تهز تايوان.. لحظة وقوع انفجارين هائلين"
+      }
+    },
+    {
+      "title_original": "Territoires palestiniens : d’anciens diplomates appellent Paris et Londres à faire respecter le droit",
+      "title_zh": "巴勒斯坦领土：前外交官呼吁巴黎和伦敦维护法律",
+      "url": "https://www.liberation.fr/international/moyen-orient/territoires-palestiniens-danciens-diplomates-appellent-paris-et-londres-a-faire-respecter-le-droit-20260822_DODBBGYUDZG5HL7G536PQUNOA4/",
+      "source": "Libération",
+      "source_score": 40,
+      "published_at": "2026-08-22T09:28:50+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "巴勒斯坦领土：前外交官呼吁巴黎和伦敦维护法律解放",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Libération"
+      ],
+      "all_titles": {
+        "fr": "Territoires palestiniens : d’anciens diplomates appellent Paris et Londres à faire respecter le droit"
+      }
+    },
+    {
+      "title_original": "Die Ukraine bringt Nato-Truppen bei, wie man Bodenroboter im Krieg nutzt – und wo sie versagen",
+      "title_zh": "乌克兰正在教北约部队如何在战争中使用地面机器人 - 以及他们失败的地方",
+      "url": "https://www.businessinsider.de/wirtschaft/ukraine-bringt-nato-truppen-bei-wie-man-bodenroboter-im-krieg-nutzt/",
+      "source": "Business Insider Deutschland",
+      "source_score": 55,
+      "published_at": "2026-08-22T08:54:33+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- 乌克兰军队向西方教官展示如何使用地面机器人对抗俄罗斯。",
+        "- 北约盟国希望提高乌克兰的能力 - 但也知道它在某些领域拥有更多经验。",
+        "- 乌克兰军队的调查结果被纳入训练并传递给北约盟国挪威。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Business Insider Deutschland"
+      ],
+      "all_titles": {
+        "de": "Die Ukraine bringt Nato-Truppen bei, wie man Bodenroboter im Krieg nutzt – und wo sie versagen"
+      }
+    },
+    {
+      "title_original": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "title_zh": "报道称，父亲将7岁儿子独自留在富士山继续徒步",
+      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-22T08:40:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "报道称，父亲将7岁儿子独自留在富士山继续徒步\n- 已发表\n据当地媒体报道，一名父亲将儿子留在日本最高的山上几个小时，只给了他一杯软饮料和零食，结果遭到了警方的训斥。",
+        "这名 7 岁的孩子被发现在多雾多雨的情况下坐在富士山的长凳上，海拔超过 2,000 m（6,500 英尺）。",
+        "据报道，在男孩抱怨自己累了之后，他 48 岁的父亲告诉他“在这里等”，然后和大儿子一起继续攀登。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say"
+      }
+    },
+    {
+      "title_original": "EN DIRECT Guerre au Moyen-Orient : La Chine dénonce la pression américaine, Téhéran plaide pour une sortie du conflit...",
+      "title_zh": "中东战争实况：中国谴责美国的压力，德黑兰恳求退出冲突......",
+      "url": "https://fr.news.yahoo.com/sport/direct-guerre-au-moyen-orient-082521373.html",
+      "source": "Yahoo Actualités",
+      "source_score": 40,
+      "published_at": "2026-08-22T08:25:21+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争实况：中国谴责美国的压力，德黑兰恳求退出冲突......",
+        "直播 - 请关注 8 月 22 日星期六有关中东冲突的信息，特别是伊朗和美国之间的冲突\n看\n阅读 20 分钟了解更多内容\n另请阅读：\n中东战争：逮捕令、叙利亚……以色列和土耳其之间的关系正处于最糟糕的时期\n中东战争：“我们要推翻这个政权”，特朗普政府仍威胁伊朗",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Yahoo Actualités"
+      ],
+      "all_titles": {
+        "fr": "EN DIRECT Guerre au Moyen-Orient : La Chine dénonce la pression américaine, Téhéran plaide pour une sortie du conflit..."
+      }
+    },
+    {
+      "title_original": "Russian and Ukrainian attacks kill 5 people a day after deadly shopping mall drone strike by Moscow",
+      "title_zh": "莫斯科无人机对购物中心发动致命袭击后，俄罗斯和乌克兰的袭击每天造成 5 人死亡",
+      "url": "https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-5e6f60963f2662907441e95c635470c4",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-08-22T07:58:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "莫斯科无人机对购物中心发动致命袭击后，俄罗斯和乌克兰的袭击每天造成 5 人死亡\n乌克兰基辅（美联社）——官员周六表示，俄罗斯无人机和导弹袭击在乌克兰造成至少三人死亡，而乌克兰无人机对俄罗斯克拉斯诺达尔地区的袭击造成两人死亡，一天前，乌克兰一家购物中心遭到袭击，造成 16 人死亡。",
+        "乌克兰总统泽伦斯基表示，在最近的袭击中，弹道导弹夜间袭击了首都基辅的铁路基础设施，造成一人死亡、一人受伤。",
+        "俄罗斯国防部表示，其部队袭击了一个机库。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "Russian and Ukrainian attacks kill 5 people a day after deadly shopping mall drone strike by Moscow"
+      }
+    },
+    {
+      "title_original": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "title_zh": "悉尼马拉松奖牌错误地描绘了慕尼黑体育场",
+      "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-22T07:53:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "悉尼马拉松奖牌错误地描绘了慕尼黑体育场\n- 已发表\n世界著名的悉尼马拉松比赛结束一周后，组织者面临着设计师是否在参赛奖牌上蚀刻了错误的城市体育场的问题。",
+        "奖牌上的体育场似乎是按照德国慕尼黑市安联体育场的形状雕刻的，而不是悉尼的安联体育场——42.2公里（26.2英里）的赛道经过悉尼的安联体育场。",
+        "BBC 已联系悉尼马拉松寻求评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Sydney Marathon medal mistakenly depicts Munich stadium"
+      }
+    },
+    {
+      "title_original": "阅台海独家专访洪秀柱：走遍大陆亲眼见证！两岸统一后，作为中华民族一员、炎黄子孙，是很骄傲的一件事情！ #洪秀柱 #两岸统一 #祖国统一 #洪秀柱谈统一 （［原创］记者：李国辉、黎杰文、曾育文；编辑：张子皓；审签：李婕舒）",
+      "title_zh": "阅台海独家专访洪秀柱：走遍大陆亲眼见证！两岸统一后，作为中华民族一员、炎黄子孙，是很骄傲的一件事情！ #洪秀柱 #两岸统一 #祖国统一 #洪秀柱谈统一 （［原创］记者：李国辉、黎杰文、曾育文；编辑：张子皓；审签：李婕舒）",
+      "url": "https://m.sohu.com/a/1066219857_120046696/?pvid=000115_3w_a",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-22T07:30:45+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "阅台海独家专访洪秀柱：走遍大陆亲眼见证！两岸统一后，作为中华民族一员、炎黄子孙，是很骄傲的一件事情！",
+        "#洪秀柱 #两岸统一 #祖国统一 #洪秀柱谈统一 （［原创］记者：李国辉、黎杰文、曾育文；编辑：张子皓；审签：李婕舒）    搜狐网",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "阅台海独家专访洪秀柱：走遍大陆亲眼见证！两岸统一后，作为中华民族一员、炎黄子孙，是很骄傲的一件事情！ #洪秀柱 #两岸统一 #祖国统一 #洪秀柱谈统一 （［原创］记者：李国辉、黎杰文、曾育文；编辑：张子皓；审签：李婕舒）"
+      }
+    },
+    {
+      "title_original": "Serbia insta a la OTAN a frenar la retirada de la KFOR del puente Ibar en Mitrovica",
+      "title_zh": "塞尔维亚敦促北约阻止驻科部队从米特罗维察的伊巴尔桥撤军",
+      "url": "https://www.democrata.es/internacional/serbia-insta-a-la-otan-a-frenar-la-retirada-de-la-kfor-del-puente-ibar-en-mitrovica/",
+      "source": "Demócrata",
+      "source_score": 40,
+      "published_at": "2026-08-22T07:24:34+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "塞尔维亚敦促北约阻止驻科部队从米特罗维察的伊巴尔大桥撤军",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Demócrata"
+      ],
+      "all_titles": {
+        "es": "Serbia insta a la OTAN a frenar la retirada de la KFOR del puente Ibar en Mitrovica"
+      }
+    },
+    {
+      "title_original": "زلزال بقوة 5.1 درجات يضرب تايوان",
+      "title_zh": "台湾发生5.1级地震",
+      "url": "https://www.albayan.ae/news/world/1547497",
+      "source": "البيان",
+      "source_score": 40,
+      "published_at": "2026-08-22T07:01:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾中央气象局报告称，今天（周六）上午 11 点 40 分，台湾东北部发生 5.1 级地震。",
+        "据台湾新闻网周六报道，地震发生在宜兰县地方政府大楼东南41.7公里处，震源深度为27.8公里。",
+        "宜兰县和花莲县的地震烈度达到三级。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "البيان"
+      ],
+      "all_titles": {
+        "ar": "زلزال بقوة 5.1 درجات يضرب تايوان"
+      }
+    },
+    {
+      "title_original": "Tensión en Asia: un avión militar estadounidense sobrevoló el estrecho de Taiwán y el régimen chino vigiló la operación",
+      "title_zh": "亚洲紧张局势：美军机飞越台湾海峡，中共政权监视行动",
+      "url": "https://www.infobae.com/america/mundo/2026/08/22/tension-en-asia-un-avion-militar-estadounidense-sobrevolo-el-estrecho-de-taiwan-y-el-regimen-chino-vigilo-la-operacion/",
+      "source": "Infobae",
+      "source_score": 40,
+      "published_at": "2026-08-22T06:32:36+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "周五，美国海军一架 P-8A 波塞冬飞机穿过台湾海峡进入国际空域，美国第七舰队称，在北京和台北之间的地区紧张局势中，这次行动表明了美国对自由开放的印度太平洋地区的承诺。",
+        "据官方媒体《环球时报》报道，在过境过程中，中国军队对飞机进行了跟踪和监视，并援引军方消息人士的话称，“局势已得到控制”。",
+        "美国军舰和飞机经常经过民主统治的台湾岛与中国大陆之间的海峡，造成政权动荡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Infobae"
+      ],
+      "all_titles": {
+        "es": "Tensión en Asia: un avión militar estadounidense sobrevoló el estrecho de Taiwán y el régimen chino vigiló la operación"
+      }
+    },
+    {
+      "title_original": "俄军贴脸亮出“杀手锏”，北约多国如坐针毡，美国还想渔翁得利",
+      "title_zh": "俄军贴脸亮出“杀手锏”，北约多国如坐针毡，美国还想渔翁得利",
+      "url": "https://m.sohu.com/a/1066201310_121450895?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-22T06:24:55+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "俄军贴脸亮出“杀手锏”，北约多国如坐针毡，美国还想渔翁得利    搜狐网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "俄军贴脸亮出“杀手锏”，北约多国如坐针毡，美国还想渔翁得利"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Wadephul kündigt „ungewöhnliche Wege“ bei Verhandlungen an",
+      "title_zh": "当前的乌克兰战争：瓦德菲尔宣布谈判中的“不寻常路径”",
+      "url": "https://www.fr.de/politik/putin-ukraine-krieg-aktuell-russland-news-ticker-verluste-raketen-patriot-selenskyj-zr-94453221.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-22T05:54:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "当前的乌克兰战争：瓦德菲尔访问期间俄罗斯对基辅发动导弹袭击\n在谷歌上关注我们\n乌克兰战争现状：俄罗斯袭击购物中心，造成15人死亡、130人受伤。",
+        "与此同时，瓦德菲尔抵达基辅。",
+        "最重要的是在 \n这个新闻行情\n- 当前的乌克兰战争：瓦德菲尔意外抵达基辅 - 德国外长：乌克兰将赢得对俄战争\n- 当前的乌克兰战争：俄罗斯袭击购物中心导致 145 人遇难 - 泽伦斯基描述了普京的两波袭击\n- 远离乌克兰战争：北约边境事件——俄罗斯飞机可能侵犯了芬兰领空。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Wadephul kündigt „ungewöhnliche Wege“ bei Verhandlungen an"
+      }
+    },
+    {
+      "title_original": "Arctique : la route du Nord, enjeu géopolitique majeur, attire toujours plus d’armateurs, sans pouvoir encore remplacer Suez",
+      "title_zh": "北极：北方航线是一个重大的地缘政治问题，吸引了越来越多的船东，但尚无法取代苏伊士运河",
+      "url": "https://www.rtbf.be/article/arctique-la-route-du-nord-enjeu-geopolitique-majeur-attire-toujours-plus-d-armateurs-sans-pouvoir-encore-remplacer-suez-11773364",
+      "source": "RTBF",
+      "source_score": 55,
+      "published_at": "2026-08-22T05:32:23+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "北极：北方航线是一个重大的地缘政治问题，吸引了越来越多的船东，但尚无法取代苏伊士运河\n6小时前•9分钟\n分享\n霍尔木兹海峡周围持续的危机和红海的风险使北极海上航线重新成为亚欧之间物流战略的中心。",
+        "中国和韩国这两项亚洲举措说明了这种日益增长的兴趣。",
+        "但尽管航程较短，沿俄罗斯海岸的航线仍然是季节性的，不适合大型集装箱船，而且在世界贸易规模上处于边缘地位。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "RTBF"
+      ],
+      "all_titles": {
+        "fr": "Arctique : la route du Nord, enjeu géopolitique majeur, attire toujours plus d’armateurs, sans pouvoir encore remplacer Suez"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Deutscher Minister in die Ukraine gereist",
+      "title_zh": "乌克兰战争：德国部长前往乌克兰",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101391962/ukraine-krieg-aktuell-wadephul-in-kiew-angekommen.html",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-08-22T05:28:23+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "有关乌克兰战争的新闻博客 外交部长瓦德菲尔乘坐专列前往基辅\n德国代表团访问乌克兰。",
+        "俄罗斯一家在线零售商的仓库被烧毁。",
+        "新闻博客中的所有进展。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Deutscher Minister in die Ukraine gereist"
+      }
+    },
+    {
+      "title_original": "川習會前 美軍P-8A「海神」巡邏機飛越台海",
+      "title_zh": "川習會前 美軍P-8A「海神」巡邏機飛越台海",
+      "url": "https://www.epochtimes.com/gb/26/8/22/n14834524.htm",
+      "source": "大纪元",
+      "source_score": 40,
+      "published_at": "2026-08-22T05:21:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "【大纪元2026年08月22日讯】（大纪元记者夏雨综合报导）周五（8月21日），一架美国海军P-8A“海神”巡逻机在国际空域飞越台湾海峡。美国第七舰队表示，此举“彰显美国对自由开放印太地区的承诺”。",
+        "路透社报导，第七舰队在一份声明中表示：“美国依照国际法，在台湾海峡开展行动，维护了所有国家的航行权利与自由。”\n“该机飞越台海的行动彰显美国对自由开放印太地区的承诺。美军在国际法允许的任何地方进行飞行、航行和开展行动。”声明补充说。",
+        "此前，一个关注军事动态的社交媒体账号监测到的Flightradar24数据显示，这架巡逻机从日本冲绳起飞，飞行高度为6400米。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "大纪元"
+      ],
+      "all_titles": {
+        "zh": "川習會前 美軍P-8A「海神」巡邏機飛越台海"
+      }
+    },
+    {
+      "title_original": "中东版北约成型，巴铁有了强援，印退将坐不住了：将击溃土军舰队",
+      "title_zh": "中东版北约成型，巴铁有了强援，印退将坐不住了：将击溃土军舰队",
+      "url": "https://m.sohu.com/a/1066161982_121450886?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-22T04:20:50+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东版北约成型，巴铁有了强援，印退将坐不住了：将击溃土军舰队    搜狐网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "中东版北约成型，巴铁有了强援，印退将坐不住了：将击溃土军舰队"
+      }
+    },
+    {
+      "title_original": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+      "title_zh": "法庭获悉，林赛·克兰西在杀害儿童时遭受“命令幻觉”",
+      "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-22T03:43:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "法庭获悉，林赛·克兰西在杀害儿童时遭受“命令幻觉”\n- 已发表\n警告：这个故事包含令人痛苦的细节和对自杀未遂的讨论\n一位法医精神病学家在审判中告诉陪审团，马萨诸塞州的妈妈林赛·克兰西被指控谋杀了她的三个孩子，她当时患有“命令幻觉”。",
+        "周五结案的辩方并不否认克兰西实施了杀戮，但表示她对谋杀指控不认罪，因为她患有产后精神病。",
+        "辩方最后证人、法医精神病学家菲利普·雷斯尼克就产后精神病的影响作证。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Zelenskyy vows response to Russia’s deadly shopping centre attack",
+      "title_zh": "乌克兰战争简报：泽连斯基誓言对俄罗斯致命购物中心袭击事件做出回应",
+      "url": "https://www.theguardian.com/world/2026/aug/22/ukraine-war-briefing-zelenskyy-vows-response-to-russias-deadly-shopping-centre-attack",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-22T03:20:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  乌克兰中部一座购物中心发生致命袭击后，弗拉基米尔·泽伦斯基发誓要对俄罗斯进行反击。",
+        "当局称，周五无人机袭击克里沃罗格购物中心，造成至少 16 人死亡、130 多人受伤，乌克兰总统称这是一次“愤世嫉俗且卑鄙”的袭击。",
+        "泽连斯基在社交媒体上发布的晚间视频中谈到他家乡的袭击事件：“绝对是俄罗斯的暴行。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Zelenskyy vows response to Russia’s deadly shopping centre attack"
+      }
+    },
+    {
+      "title_original": "ロシアがショッピングセンターに「ダブルタップ攻撃」　16人殺害とウクライナ当局",
+      "title_zh": "乌克兰当局称俄罗斯对购物中心的“双击”袭击造成 16 人死亡",
+      "url": "https://www.bbc.com/japanese/articles/c2lq58knejjo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-22T02:59:05+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰当局称俄罗斯对购物中心的“双击”袭击造成 16 人死亡\n21日，乌克兰中部克里维里夫市最大的购物中心遭到俄罗斯军用无人机的双重袭击。当地政府表示，至少有 16 人死亡、130 人受伤，其中包括 23 名儿童，还有多人被困在废墟下。据称，这是一种所谓的“双击攻击”，即在第一次攻击后，救援队到达后又进行另一次攻击，试图增加伤害。",
+        "乌克兰总统泽伦斯基称对他祖国的袭击“极其冷酷和卑鄙”。他说，光天化日之下的袭击分“两个阶段”发生，第二次袭击针对的是现场的紧急救援人员。",
+        "英国广播公司看到的视频显示，第二架无人机降落在第聂伯罗彼得罗夫斯克地区已经着火的购物中心。俄罗斯军方尚未发表评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ロシアがショッピングセンターに「ダブルタップ攻撃」　16人殺害とウクライナ当局"
+      }
+    },
+    {
+      "title_original": "Russlands Fehlplanung im Ukraine-Krieg war der Beginn: Nordkorea im „Aufstieg“ – mit globalen Folgen",
+      "title_zh": "俄罗斯在乌克兰战争中的糟糕计划只是一个开始：朝鲜的崛起——带来全球后果",
+      "url": "https://www.fr.de/politik/krieg-mit-globalen-folgen-putin-belohnt-kim-jong-un-im-ukraine-zr-94451430.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-22T02:46:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "崛起中的独裁者：普京如何在乌克兰战争中奖励金正恩——带来全球后果\n在谷歌上关注我们\n一度孤立的金正恩帮助俄罗斯摆脱了自找的麻烦。",
+        "一项新的分析表明，普京的感激之情具有深远的影响。",
+        "唐纳德·特朗普知道如何动摇自己的盟友。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Russlands Fehlplanung im Ukraine-Krieg war der Beginn: Nordkorea im „Aufstieg“ – mit globalen Folgen"
+      }
+    },
+    {
+      "title_original": "阅台海独家专访洪秀柱|洪秀柱撂闽南语：民进党是“草蜢弄鸡公”——“蟋蟀惹公鸡，找死！”两岸最急的是要避免战争 #洪秀柱 #台湾 #两岸统一 （［原创］记者：李国辉、黎杰文、曾育文；编辑：宋雨萱；审签：李婕舒）",
+      "title_zh": "阅台海独家专访洪秀柱|洪秀柱撂闽南语：民进党是“草蜢弄鸡公”——“蟋蟀惹公鸡，找死！”两岸最急的是要避免战争 #洪秀柱 #台湾 #两岸统一 （［原创］记者：李国辉、黎杰文、曾育文；编辑：宋雨萱；审签：李婕舒）",
+      "url": "https://m.sohu.com/a/1066120464_120046696?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-22T02:24:40+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "阅台海独家专访洪秀柱|洪秀柱撂闽南语：民进党是“草蜢弄鸡公”——“蟋蟀惹公鸡，找死！”两岸最急的是要避免战争 #洪秀柱 #台湾 #两岸统一 （［原创］记者：李国辉、黎杰文、曾育文；编辑：宋雨萱；审签：李婕舒）    搜狐网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "阅台海独家专访洪秀柱|洪秀柱撂闽南语：民进党是“草蜢弄鸡公”——“蟋蟀惹公鸡，找死！”两岸最急的是要避免战争 #洪秀柱 #台湾 #两岸统一 （［原创］记者：李国辉、黎杰文、曾育文；编辑：宋雨萱；审签：李婕舒）"
+      }
+    },
+    {
+      "title_original": "وسط رقابة الصين.. \"بوسيدون\" الأميركية تعبر مضيق تايوان",
+      "title_zh": "中国审查之下，美国“海神”号穿越台湾海峡",
+      "url": "https://www.alarabiya.net/arab-and-world/2026/08/22/%D9%88%D8%B3%D8%B7-%D8%B1%D9%82%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%A8%D9%88%D8%B3%D9%8A%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%AA%D8%B9%D8%A8%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86",
+      "source": "العربية",
+      "source_score": 40,
+      "published_at": "2026-08-22T01:59:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "在中国的审查制度下...",
+        "美国“波塞冬”号穿越台湾海峡 阿拉伯语",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "العربية"
+      ],
+      "all_titles": {
+        "ar": "وسط رقابة الصين.. \"بوسيدون\" الأميركية تعبر مضيق تايوان"
+      }
+    },
+    {
+      "title_original": "Un navire sud-coréen va passer par l'Arctique pour contourner le Moyen-Orient",
+      "title_zh": "韩国船只穿越北极绕过中东",
+      "url": "https://www.france24.com/fr/europe/20260822-la-cor%C3%A9e-du-sud-envoie-un-premier-navire-pour-l-europe-par-la-route-maritime-de-l-arctique",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-22T01:37:10+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "一艘韩国船只将穿越北极绕过中东 法国 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Un navire sud-coréen va passer par l'Arctique pour contourner le Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "ウクライナ侵略のロシア軍死者24万人超 BBCなど、名前特定の兵士調査",
+      "title_zh": "超过24万俄罗斯士兵在入侵乌克兰时丧生； BBC 和其他消息来源对特定士兵的姓名进行调查",
+      "url": "https://www.nikkei.com/article/DGXZQOCB220EL0S6A820C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-22T00:57:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "超过24万俄罗斯士兵在入侵乌克兰时丧生； BBC 和其他消息来源对特定士兵的姓名进行调查\n莫斯科（共同社）——俄罗斯独立媒体Mediazona和英国广播公司BBC广播公司21日公布最新联合调查结果显示，自2022年2月入侵乌克兰以来，至少有241088名俄罗斯士兵死亡。这一数字是根据公开信息确定的死亡人数的累加，相信实际数字要高得多。",
+        "平均年龄为 38 岁，比入侵前几个月增加了 13 岁。紧接着，年轻、训练有素的精锐部队主要负责入侵行动。百分之五十六的死者是志愿者、囚犯和其他与军队无关的人。",
+        "2022年2月，俄罗斯入侵乌克兰。我们整理了有关世界各地战况和动向的最新新闻和评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ侵略のロシア軍死者24万人超 BBCなど、名前特定の兵士調査"
+      }
+    },
+    {
+      "title_original": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
+      "title_zh": "美国海军飞机在习特朗普计划会晤前飞越台湾海峡",
+      "url": "https://www.reuters.com/world/china/us-navy-aircraft-transited-taiwan-strait-it-says-2026-08-22/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-22T00:43:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "美国海军飞机在习特朗普计划会晤前飞越台湾海峡 路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting"
+      }
+    },
+    {
+      "title_original": "ウクライナ商業施設にドローン攻撃、16人死亡 ゼレンスキー氏「卑劣」と非難",
+      "title_zh": "乌克兰商业设施遭无人机袭击，造成 16 人死亡；泽连斯基称其“卑鄙”",
+      "url": "https://www.afpbb.com/articles/-/3649467",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-22T00:34:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰商业设施遭无人机袭击，造成 16 人死亡；泽连斯基称其“卑鄙”\n分享这个消息\n2019年8月22日（法新社）——周六，一架俄罗斯军用无人机袭击了乌克兰中部一个拥挤的购物中心，造成16人死亡。乌克兰总统泽连斯基谴责这次袭击，称其“冷酷无情且懦弱”。",
+        "泽连斯基总统的家乡第聂伯罗彼得罗夫斯克地区克雷比廖夫遇袭事件发生之际，俄罗斯近几个月加大了对乌克兰城市的轰炸力度。",
+        "社交媒体上发布的克雷比利夫现场视频显示，大楼冒出滚滚浓烟，急救人员正冲向外面帮助伤者。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ商業施設にドローン攻撃、16人死亡 ゼレンスキー氏「卑劣」と非難"
+      }
+    },
+    {
+      "title_original": "«تيك توك» تدفع 400 مليون دولار في تسوية بشأن خصوصية الأطفال في أمريكا",
+      "title_zh": "TikTok 支付 4 亿美元就美国儿童隐私问题达成和解",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9%E2%80%8B/5309753-%D8%AA%D9%8A%D9%83-%D8%AA%D9%88%D9%83-%D8%AA%D8%AF%D9%81%D8%B9-400-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D8%A8%D8%B4%D8%A3%D9%86-%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-22T00:28:25+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "TikTok 就儿童隐私问题支付 4 亿美元 美国 https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8% A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9%E2%80%8B/5309753-%D8%AA%D9%8A%D9%83-%D8%AA%D9%88%D9%83-%D8%AA%D8%AF%D9%81%D8 %B9-400-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-% D8%A8%D8%B4%D8%A3%D9%86-%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A\nTikTok 支付 4 亿美元就美国儿童隐私问题达成和解\nTikTok 平台徽标 (dpa)\n美国司法部周五表示，短视频平台 TikTok 同意支付 4 亿美元，以和解美国有关收集儿童个人数据的指控。",
+        "该部表示，和解协议不包括承认不当行为，并特别指出 TikTok 在美国业务所有权的变更以及其隐私做法的改革。",
+        "2024 年，时任总统乔·拜登领导下的司法部对 TikTok 提起诉讼，指责该平台允许 13 岁以下儿童在未经父母同意的情况下创建账户。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«تيك توك» تدفع 400 مليون دولار في تسوية بشأن خصوصية الأطفال في أمريكا"
+      }
+    },
+    {
+      "title_original": "استمرار خرق وقف إطلاق النار في لبنان",
+      "title_zh": "黎巴嫩继续违反停火协议",
+      "url": "https://www.tasnimnews.ir/ar/news/2026/08/22/3676596/%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%AE%D8%B1%D9%82-%D9%88%D9%82%D9%81-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%81%DB%8C-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-08-22T00:22:25+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "塔斯尼姆国际通讯社援引Al-Mayadeen电视台报道称，以色列占领军炮兵对曼苏里镇进行炮击。",
+        "报道称，以色列占领军部队还在黎巴嫩南部东部城镇佐塔尔附近实施了爆炸袭击。",
+        "Al-Mayadeen 还报道称，以色列占领军对黎巴嫩南部 Ali Al-Taher 和 Al-Dabsha 地区附近发动了新的空袭。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "استمرار خرق وقف إطلاق النار في لبنان"
+      }
+    },
+    {
+      "title_original": "ウクライナのショッピングセンターにロシアの攻撃、15人死亡 「ダブルタップ」で緊急対応要員を狙う",
+      "title_zh": "ウクライナのショッピングセンターにロシアの攻撃、15人死亡 「ダブルタップ」で緊急対応要員を狙う",
+      "url": "https://www.cnn.co.jp/world/35251823.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-22T00:17:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯袭击乌克兰购物中心造成15人死亡； “双击”针对紧急救援人员\n(CNN) 当局周三表示，俄罗斯“双击”袭击乌克兰中部地区一家购物中心，造成至少 15 人死亡、100 多人受伤。双击攻击是指攻击者在初次攻击后，在救援人员到达后再次发起攻击，以增加伤害的策略。",
+        "乌克兰总统泽连斯基表示：“攻击无人机分两波抵达。第一次袭击并引发火灾三十分钟后，针对紧急救援人员发起了第二次袭击。”",
+        "随后他警告称，乌克兰将“坚决反击”此次袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ウクライナのショッピングセンターにロシアの攻撃、15人死亡 「ダブルタップ」で緊急対応要員を狙う"
+      }
+    },
+    {
+      "title_original": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "title_zh": "返回英国后，哈里和梅根寻找一个能够坚持下去的品牌",
+      "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-22T00:03:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "返回英国后，哈里和梅根寻找一个能够坚持下去的品牌\n- 已发表\n7月下旬，苏塞克斯公爵夫人的生活方式系列“一如既往”推出了一款“浓郁、充满活力”的黑莓酱，并附有她采摘水果的柔和灯光视频。",
+        "一个月后，黑莓季节结束时，梅根和她的丈夫哈里王子将返回英国居住。",
+        "也许我们很快就能期待另一段在这些海岸拍摄的视频。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "As they return to the UK, Harry and Meghan search for a brand that sticks"
+      }
+    },
     {
       "title_original": "Mandat d’arrêt, Syrie… Les relations entre Israël et la Turquie au plus mal",
       "title_zh": "逮捕令，叙利亚……以色列和土耳其关系最糟糕",
