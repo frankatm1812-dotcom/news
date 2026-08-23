@@ -1,8 +1,858 @@
 {
   "date": "2026-08-23",
-  "generated_at": "2026-08-22T23:34:29.752456+00:00",
-  "count": 35,
+  "generated_at": "2026-08-23T11:34:50.596639+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "Du Moyen-Orient à l'e-sport : Macron reçoit le prince héritier \"MBS\"",
+      "title_zh": "从中东到电子竞技：马克龙接见王储“MBS”",
+      "url": "https://fr.euronews.com/my-europe/2026/08/23/du-moyen-orient-a-le-sport-emmanuel-macron-recoit-le-prince-heritier-saoudien-mohammed-ben",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-23T11:25:44+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "在沙特记者和持不同政见者贾迈勒·卡舒吉被谋杀后，“MBS”长期被禁止参与国际政治，但近年来，“MBS”重新获得了战略伙伴的桂冠。",
+        "法国总统埃马纽埃尔·马克龙将于本周日欢迎沙特阿拉伯王储兼事实上的领导人穆罕默德·本·萨勒曼进行为期两天的访问，访问范围从电子竞技到中东战争。",
+        "法国总统府的一位官员表示，与健康、交通和能源有关的多项协议将于周一（即访问的第二天）签署，这证明了巴黎和利雅得之间关系的牢固性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "fr": "Du Moyen-Orient à l'e-sport : Macron reçoit le prince héritier \"MBS\""
+      }
+    },
+    {
+      "title_original": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "title_zh": "“不再！！！”：美加谈判演变成贸易战后，特朗普猛烈抨击",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-23T11:00:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "加拿大总理马克·卡尼表示，随着对曲棍球棒和压舌板等商品征收关税，“我们受到了攻击”。在谈判破裂导致两国陷入贸易战后，唐纳德·特朗普对加拿大进行了回击。",
+        "自周五华盛顿谈判破裂以来，美国总统在社交媒体上首次发表公开评论：“加拿大想要享受成为一个国家的好处，而不是成为一个国家！！！”继续阅读...",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（8月23日の動き）",
+      "title_zh": "【不定时更新】俄罗斯军事入侵乌克兰（8月23日动态）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44551",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-23T10:36:25+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "【不时更新】俄罗斯军事入侵乌克兰（8月23日动静）NHK新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（8月23日の動き）"
+      }
+    },
+    {
+      "title_original": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "title_zh": "泰国南部发生数十起协同纵火袭击",
+      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-23T10:22:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "泰国南部发生数十起协同纵火袭击\n- 已发表\n泰国军方表示，泰国南部受叛乱袭击的地区发生了 50 多起“旨在制造骚乱”的协同纵火和燃烧袭击。",
+        "目标中一座当地政府办公楼、一家便利店和一辆被盗车辆被起火，造成两人受伤。",
+        "军方内部安全行动司令部在一份声明中表示，这些事件发生在当地时间 20:00（格林威治标准时间 13:00）至周六午夜之间，横跨该国南部边境省份。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Dozens of co-ordinated arson attacks hit southern Thailand"
+      }
+    },
+    {
+      "title_original": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+      "title_zh": "机器人在世界人形运动会上参加拳击、足球和短跑比赛",
+      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-23T09:42:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "机器人在世界人形运动会上参加拳击、足球和短跑比赛\n第二届世界人形机器人运动会周六在中国拉开帷幕。",
+        "比赛将持续五天，其中已经有一个机器人跑得比尤塞恩·博尔特的 1 亿短跑世界纪录还要快。",
+        "在北京的其他地方，机器人在足球场上表演了克里斯蒂亚诺·罗纳尔多标志性的“Siuuu”庆祝动作，并且机器人在开幕式上参加了同步行进。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Robots compete in boxing, football and sprinting at World Humanoid Games"
+      }
+    },
+    {
+      "title_original": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "title_zh": "被解雇的部长告诉英国广播公司，泽伦斯基有关于政府腐败的“问题需要回答”",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-23T09:37:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "被解雇的部长告诉英国广播公司，泽伦斯基有关于政府腐败的“问题需要回答”\n- 已发表\n乌克兰总统弗拉基米尔·泽伦斯基被解职的国防部长米哈伊洛·费多罗夫告诉英国广播公司，乌克兰总统弗拉基米尔·泽连斯基有关于政府腐败的“问题需要回答”。",
+        "费多罗夫是一位颇受欢迎的部长，他实现了武装部队现代化并开创了无人机战争，据报道，他上个月因与乌克兰武装部队领导人发生争执而被解雇。",
+        "他告诉英国广播公司，上周宣布的一项洗钱调查引发了人们对泽伦斯基对其核心圈子潜在腐败的认识的质疑。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC"
+      }
+    },
+    {
+      "title_original": "Zelenskyy details rift with dismissed defense minister, saying some of his actions were misguided",
+      "title_zh": "泽伦斯基详细描述了与被解职的国防部长的分歧，称他的一些行为被误导了",
+      "url": "https://www.audacy.com/wbbm780/news/world/russia-ukraine-war-zelenskyy-fedorov-15d84a5a1f52e376ffdf98082cdf9712",
+      "source": "Audacy",
+      "source_score": 40,
+      "published_at": "2026-08-23T09:23:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰基辅（美联社）——乌克兰总统弗拉基米尔·泽连斯基首次公开详述了他们之间的争端，他表示，他认为被解职的国防部长米哈伊洛·费多罗夫所采取的行动，包括参与大规模抗议和呼吁选举，是误导性的。",
+        "泽伦斯基还提到了有关国防开支的有问题的决定，并表示国防部提供的不准确信息导致了与美国的尴尬遭遇。",
+        "唐纳德·特朗普总统就俄罗斯使用星链问题发表评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Audacy"
+      ],
+      "all_titles": {
+        "en": "Zelenskyy details rift with dismissed defense minister, saying some of his actions were misguided"
+      }
+    },
+    {
+      "title_original": "رئيس تايوان: السلام عبر مضيق تايوان لا يمكن ضمانه إلا بامتلاك القوة",
+      "title_zh": "台总统：只有武力才能保证台海和平",
+      "url": "https://www.sawtbeirut.com/world-news/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D8%A8%D8%B1-%D9%85%D8%B6%D9%8A%D9%82-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D9%84%D8%A7/",
+      "source": "صوت بيروت إنترناشونال",
+      "source_score": 40,
+      "published_at": "2026-08-23T08:53:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾总统：只有武力才能保证台海和平 贝鲁特国际之声",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "صوت بيروت إنترناشونال"
+      ],
+      "all_titles": {
+        "ar": "رئيس تايوان: السلام عبر مضيق تايوان لا يمكن ضمانه إلا بامتلاك القوة"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: WELT-Reporter Christoph Wanner zur aktuellen Lage an der Front - Video",
+      "title_zh": "乌克兰战争：《世界报》记者 Christoph Wanner 讲述当前前线局势 - 视频",
+      "url": "https://www.welt.de/videos/video6a8ab29fc3692834ff6d9e83/ukraine-krieg-welt-reporter-christoph-wanner-zur-aktuellen-lage-an-der-front.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-08-23T08:45:10+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "项目类型：视频乌克兰战争\nWELT记者克里斯托夫·万纳（Christoph Wanner）讲述前线的现状\n德国外长访问乌克兰期间发生了一起事件。",
+        "世界日报记者克里斯托夫·万纳总结了乌克兰战争的最新进展。",
+        "© 阿克塞尔施普林格德国有限公司。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: WELT-Reporter Christoph Wanner zur aktuellen Lage an der Front - Video"
+      }
+    },
+    {
+      "title_original": "\"Tsunami für das Land\": Selenskyj äußert sich zu möglichen Wahlen",
+      "title_zh": "“国家的海啸”：泽连斯基对可能举行的选举的评论",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101391962/ukraine-krieg-aktuell-das-sagt-selenskyj-zu-moeglichen-wahlen.html",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-08-23T08:32:44+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "关于乌克兰战争的新闻博客“国家的海啸”：泽伦斯基对可能举行的选举的评论\n泽连斯基回应前部长的要求。",
+        "乌克兰计划改变招聘规则。",
+        "新闻博客中的所有进展。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "\"Tsunami für das Land\": Selenskyj äußert sich zu möglichen Wahlen"
+      }
+    },
+    {
+      "title_original": "ウクライナがまたロシアの製油所攻撃 プーチン大統領「ウクライナはパンドラの箱開けた」報復の考え",
+      "title_zh": "乌克兰再次袭击俄罗斯炼油厂；普京总统表示“乌克兰已经打开了潘多拉魔盒”并计划进行报复",
+      "url": "https://newsdig.tbs.co.jp/articles/-/2890630",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-08-23T08:31:22+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰再次袭击俄罗斯炼油厂 普京总统表示，“乌克兰已经打开了潘多拉魔盒” 关于报复的思考 TBS电视台 2026年8月23日星期日 17:31 国际总统泽连斯基宣布，乌克兰军队袭击了俄罗斯萨马拉州的一家炼油厂。普京总统表示，他打算对这些袭击进行报复，称这些袭击试图损害俄罗斯经济。 ……",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "ウクライナがまたロシアの製油所攻撃 プーチン大統領「ウクライナはパンドラの箱開けた」報復の考え"
+      }
+    },
+    {
+      "title_original": "美军反潜机又来台海了！但大陆的反应淡定，底气十足",
+      "title_zh": "美军反潜机又来台海了！但大陆的反应淡定，底气十足",
+      "url": "https://m.sohu.com/a/1066528364_121286293?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-23T08:13:05+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "美军反潜机又来台海了！但大陆的反应淡定，底气十足    搜狐网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "美军反潜机又来台海了！但大陆的反应淡定，底气十足"
+      }
+    },
+    {
+      "title_original": "台湾総統、力による平和を強調 中国との戦闘から68年で金門島訪問",
+      "title_zh": "台湾总统强调以武力和平 与中国交战68年后访问金门岛",
+      "url": "https://jp.reuters.com/world/taiwan/ARUZJIMONBNDZACOASVGCTETBU-2026-08-23/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-23T07:12:25+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾总统强调和平以实力 时隔与大陆交战68年后访问金门岛 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "台湾総統、力による平和を強調 中国との戦闘から68年で金門島訪問"
+      }
+    },
+    {
+      "title_original": "Putin Is Betting Russia Can Out-Suffer Ukraine",
+      "title_zh": "普京押注俄罗斯能够战胜乌克兰",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-08-23/ukraine-war-putin-thinks-russia-can-win-by-out-suffering",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-08-23T07:00:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京押注俄罗斯能够战胜乌克兰   Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Putin Is Betting Russia Can Out-Suffer Ukraine"
+      }
+    },
+    {
+      "title_original": "رئيس تايوان في ذكرى معركة مع الصين: السلام يتحقق بالقوة",
+      "title_zh": "台湾总统在与中国的战斗周年纪念日：和平是通过武力实现的",
+      "url": "https://www.reuters.com/ar/world/2BGPZW2BGFMQXE3BOKBIXZNHIY-2026-08-23/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-23T06:37:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾总统在与中国的战斗周年纪念日：和平是通过武力实现的 路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "رئيس تايوان في ذكرى معركة مع الصين: السلام يتحقق بالقوة"
+      }
+    },
+    {
+      "title_original": "De Valladolid al Atlántico Norte, en misión OTAN: «Recuerdo ir al Pinar de Antequera a ver a los militares»",
+      "title_zh": "从巴利亚多利德到北大西洋，执行北约任务：“我记得去比纳尔德安特克拉看军队”",
+      "url": "https://www.elnortedecastilla.es/valladolid/valladolid-atlantico-norte-mision-otan-recuerdo-pinar-20260823082938-nt.html",
+      "source": "El Norte de Castilla",
+      "source_score": 55,
+      "published_at": "2026-08-23T06:29:58+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "从巴利亚多利德到北大西洋，执行北约任务：“我记得去比纳尔德安特克拉看军队”\n两名海军指挥官和一名护士长参加了两个多月的海军部署，与美国海军陆战队一起训练并领导联盟海军部队\n巴利亚多利德\n巴利亚多利德与“勒琼军营”相距 6,000 多公里，勒琼军营是美国的一个巨大军事基地，驻扎着其中一...",
+        "加强海军的国际部署。",
+        "海军军官胡安·卡洛斯·安德烈斯·埃雷罗和马可·安东尼奥·塞罗·加西亚指挥官以及护士贝阿特丽斯·加西亚·门德斯上尉乘坐“胡安·卡洛斯一世”号战略投射舰抵达那里，这是五艘跨洋参加“2026年大西洋部署”的西班牙船只之一，这是一项与美国海军陆战队和法国军队一起举行的大型两栖演习，随后率领北约海军部队的其他盟军部队在负责监测北大西洋。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "El Norte de Castilla"
+      ],
+      "all_titles": {
+        "es": "De Valladolid al Atlántico Norte, en misión OTAN: «Recuerdo ir al Pinar de Antequera a ver a los militares»"
+      }
+    },
+    {
+      "title_original": "Taiwán conmemora el 68º aniversario de la batalla de artillería entre Taiwán y China",
+      "title_zh": "台湾纪念台海炮战68周年",
+      "url": "https://www.abc.es/espana/taiwan-conmemora-68o-aniversario-batalla-artilleria-taiwan-20260823074640-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-08-23T05:46:44+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾纪念台海炮战68周年\n金门（台湾），8 月 23 日（EFE/EPA）。-台湾总统赖清德领导...",
+        "金门（台湾），8 月 23 日（EFE/EPA）。-台湾总统赖清德周日主持了纪念 8 月 23 日台湾与中国大陆炮战 68 周年的活动。",
+        "图片：里奇·汤戈。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Taiwán conmemora el 68º aniversario de la batalla de artillería entre Taiwán y China"
+      }
+    },
+    {
+      "title_original": "Peace through strength, Taiwan president says on China battle anniversary",
+      "title_zh": "台湾总统在中国抗战纪念日表示，通过力量实现和平",
+      "url": "https://www.reuters.com/world/china/peace-through-strength-taiwan-president-says-china-battle-anniversary-2026-08-23/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-23T05:33:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾总统在对华抗战周年纪念日上表示，通过力量实现和平 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Peace through strength, Taiwan president says on China battle anniversary"
+      }
+    },
+    {
+      "title_original": "ウクライナがロシア物流施設など攻撃 ロシアは攻撃強化を強調",
+      "title_zh": "乌克兰袭击俄罗斯后勤设施 俄强调加大袭击力度",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260823de45733",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-23T05:17:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰袭击俄罗斯后勤设施 俄罗斯强调加强袭击 NHK新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナがロシア物流施設など攻撃 ロシアは攻撃強化を強調"
+      }
+    },
+    {
+      "title_original": "Plus de 6 attaques par jour en moyenne: en Cisjordanie, les violences des colons israéliens ont \"dépassé le point de rupture\"",
+      "title_zh": "平均每天发生超过 6 起袭击：在约旦河西岸，以色列定居者的暴力行为已“突破临界点”",
+      "url": "https://www.bfmtv.com/international/moyen-orient/palestine/plus-de-6-attaques-par-jour-en-moyenne-en-cisjordanie-les-violences-des-colons-israeliens-ont-depasse-le-point-de-rupture_AN-202608230032.html",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-08-23T05:13:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "平均每天发生超过 6 起袭击：在约旦河西岸，以色列定居者的暴力行为已“突破临界点”\n“情况很可怕。",
+        "我们被四面包围。",
+        "这里的一切都变成了殖民地。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Plus de 6 attaques par jour en moyenne: en Cisjordanie, les violences des colons israéliens ont \"dépassé le point de rupture\""
+      }
+    },
+    {
+      "title_original": "プーチン大統領、ウクライナの製油所攻撃による経済的影響を認める",
+      "title_zh": "普京承认乌克兰炼油厂袭击对经济造成影响",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-08-23/TK6KH6T9NJLT00",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-08-23T05:02:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京承认乌克兰炼油厂袭击对经济造成影响​ Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "ja": "プーチン大統領、ウクライナの製油所攻撃による経済的影響を認める"
+      }
+    },
+    {
+      "title_original": "Los 'agentes desechables de Putin' alimentan la guerra en la sombra contra la OTAN",
+      "title_zh": "“普京的一次性代理人”加剧了针对北约的影子战争",
+      "url": "https://cadenaser.com/audio/1787301284638/",
+      "source": "Cadena SER",
+      "source_score": 40,
+      "published_at": "2026-08-23T04:22:06+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京的“一次性特工”助长了针对北约的影子战争 Cadena SER",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Cadena SER"
+      ],
+      "all_titles": {
+        "es": "Los 'agentes desechables de Putin' alimentan la guerra en la sombra contra la OTAN"
+      }
+    },
+    {
+      "title_original": "La guerre au Moyen-Orient au cœur de la rencontre entre Emmanuel Macron et le prince héritier saoudien Mohammed Ben Salman",
+      "title_zh": "中东战争是马克龙与沙特王储穆罕默德·本·萨勒曼会晤的核心",
+      "url": "https://www.cnews.fr/france/2026-08-23/la-guerre-au-moyen-orient-au-coeur-de-la-rencontre-entre-emmanuel-macron-et-le",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-08-23T04:03:05+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "本周日和周一，埃马纽埃尔·马克龙会见沙特阿拉伯王储穆罕默德·本·萨勒曼。",
+        "这次会议将在中东战争的背景下主要讨论“地区问题”。",
+        "在不确定的背景下举行的一次重要会议。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "La guerre au Moyen-Orient au cœur de la rencontre entre Emmanuel Macron et le prince héritier saoudien Mohammed Ben Salman"
+      }
+    },
+    {
+      "title_original": "Guerre en Ukraine : l’Otan déploie un dispositif aérien inédit près de l'enclave russe de Kaliningrad et envoie un message clair à Moscou",
+      "title_zh": "乌克兰战争：北约在俄罗斯飞地加里宁格勒附近部署前所未有的空中装置，并向莫斯科发出明确信息",
+      "url": "https://www.lindependant.fr/2026/08/23/guerre-en-ukraine-lotan-deploie-un-dispositif-aerien-inedit-pres-de-lenclave-russe-de-kaliningrad-et-envoie-un-message-clair-a-moscou-13518454.php",
+      "source": "L'Indépendant",
+      "source_score": 40,
+      "published_at": "2026-08-23T04:03:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争：北约在俄罗斯飞地加里宁格勒附近部署了前所未有的空中装置，并向莫斯科发出明确信息",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "L'Indépendant"
+      ],
+      "all_titles": {
+        "fr": "Guerre en Ukraine : l’Otan déploie un dispositif aérien inédit près de l'enclave russe de Kaliningrad et envoie un message clair à Moscou"
+      }
+    },
+    {
+      "title_original": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "title_zh": "“我们不会逃避它”：悉尼马拉松对奖牌错误一笑置之",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-23T03:44:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "“我们不会逃避它”：悉尼马拉松对奖牌错误一笑置之\n- 已发表\n悉尼马拉松的组织者对参赛者奖牌上刻有德国体育场的错误一笑置之，并表示“我们不会逃避它”。",
+        "本周早些时候，该赛事的官方社交媒体账户公布了今年奖牌的设计，该设计错误地蚀刻了位于德国慕尼黑市的安联体育场，而不是悉尼的安联体育场，引发了质疑。",
+        "悉尼马拉松的一位发言人告诉英国广播公司：“完赛奖牌的背面有点太多的国际风味，对体育场的描述不正确。”\n他们补充说，这是“一个不幸的错误”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'We're not going to run from it': Sydney Marathon laughs off medal error"
+      }
+    },
+    {
+      "title_original": "美式“台海旧剧本”，该被淘汰了",
+      "title_zh": "美式“台海旧剧本”，该被淘汰了",
+      "url": "https://news.ifeng.com/c/8vovq5kubho",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-08-23T03:25:46+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "在外界关注中美元首可能在今年9月会晤之际，美军又一次在台海方向刷起了存在感。据新加坡《联合早报》8月22日引述路透社报道，美国海军1架P-8A “海神” 巡逻机在8月21日飞越台湾海峡。美国第七舰队宣称，此举是“依据国际法进行”，意在展现美国对所谓 “自由开放印太” 的承诺。而中国军队消息人士透露，解放军对美机全程跟监警戒，情况尽在掌握。",
+        "这次事件表面上看只是一次美军的惯常操作；但放到当前中美关系和台海局势中看，其意义并不寻常。",
+        "首先，事件发生的时间点很敏感。在外界普遍猜测中美元首将在下个月会晤之际，美方一边释放“管控分歧、促成会晤”的信号，一边又在台海方向展示军事存在。这种一手谈稳定、一手搞试探的做法，说明美国并没有真正放下“以台制华”的老套路，台海仍被其视作牵制中国、制造筹码、施加压力的重要抓手。其次，美军派出的飞机也不普通。P-8A是集海上巡逻、反潜作战、情报侦察于一体的军用平台。美方让这样一架飞机飞越台湾海峡，绝不只是象征性地“走一趟”。说到底，这依然是一种带有军事施压意味的抵近侦察，是对台海局势的刻意搅动，也是对“台独”势力的错误鼓噪。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "美式“台海旧剧本”，该被淘汰了"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Macron focuses on delivery of missile interceptors as Russian attacks intensify",
+      "title_zh": "乌克兰战争简报：随着俄罗斯袭击加剧，马克龙重点关注导弹拦截弹的交付",
+      "url": "https://www.theguardian.com/world/2026/aug/23/ukraine-war-briefing-macron-focuses-on-delivery-of-missile-interceptors-as-russian-attacks-intensify",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-23T03:19:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  法国总统埃马纽埃尔·马克龙在与总统弗拉基米尔·泽连斯基通电话讨论基辅防空系统短缺问题后，承诺通过提供拦截导弹加强对乌克兰的支持。",
+        "此举发生之际，俄罗斯的袭击激增，导致战争中的平民死亡人数达到莫斯科入侵头几个月以来的最高水平。",
+        "马克龙表示，他们将继续与 7 月在巴黎举行的会议上成立的反导弹联盟合作。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Macron focuses on delivery of missile interceptors as Russian attacks intensify"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : menaces iraniennes, frappe israélienne en Syrie… Les dernières infos",
+      "title_zh": "中东战争：伊朗威胁、以色列袭击叙利亚……最新消息",
+      "url": "https://www.ouest-france.fr/monde/proche-orient/guerre-au-moyen-orient-menaces-iraniennes-frappe-israelienne-en-syrie-les-dernieres-infos-5f9f7614-9e9e-11f1-b6b2-5710555c207e",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-08-23T03:07:08+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争：伊朗威胁、以色列袭击叙利亚……最新消息 法国西部",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : menaces iraniennes, frappe israélienne en Syrie… Les dernières infos"
+      }
+    },
+    {
+      "title_original": "Russlands Fehlplanung im Ukraine-Krieg war der Beginn: Nordkorea im „Aufstieg“ – mit globalen Folgen",
+      "title_zh": "俄罗斯在乌克兰战争中的糟糕计划只是一个开始：朝鲜的崛起——带来全球后果",
+      "url": "https://www.fr.de/politik/im-ukraine-krieg-mit-globalen-folgen-putin-belohnt-kim-jong-un-zr-94451430.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-23T02:46:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "崛起中的独裁者：普京如何在乌克兰战争中奖励金正恩——带来全球后果\n在谷歌上关注我们\n一度孤立的金正恩帮助俄罗斯摆脱了自找的麻烦。",
+        "一项新的分析表明，普京的感激之情具有深远的影响。",
+        "唐纳德·特朗普知道如何动摇自己的盟友。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Russlands Fehlplanung im Ukraine-Krieg war der Beginn: Nordkorea im „Aufstieg“ – mit globalen Folgen"
+      }
+    },
+    {
+      "title_original": "普京：俄方收到的一些涉解决俄乌冲突方案“不可接受”",
+      "title_zh": "普京：俄方收到的一些涉解决俄乌冲突方案“不可接受”",
+      "url": "https://i.ifeng.com/c/8vop01oGqPn",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-08-23T01:37:04+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "【环球网报道 记者 张江平】据俄新社等俄媒22日报道，俄罗斯总统普京在接受俄记者扎鲁宾采访时称，俄方收到的一些关于解决俄乌冲突的方案“不可接受”。",
+        "“我认为，有时我们收到的一些方案很离奇、不可接受。我们始终愿意进行对话，但前提是必须基于地面的实际情况。”普京在采访中称，这些方案以前也以某种方式提出过。不过，俄媒的报道没有明确说明这些方案的具体内容。",
+        "普京还称，现在谈论可能会达成的协议的基础为时过早。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "普京：俄方收到的一些涉解决俄乌冲突方案“不可接受”"
+      }
+    },
+    {
+      "title_original": "Girl, 17, killed in Swedish sword attack, police say",
+      "title_zh": "警方称，17岁女孩在瑞典持剑袭击中丧生",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-23T01:34:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "警方称，17岁女孩在瑞典持剑袭击中丧生\n- 已发表\n警方证实，周五，瑞典中部一所高中发生致命持刀袭击事件，一名 17 岁女孩死亡。",
+        "据地方当局称，法格斯塔布内尔学校的袭击事件中，两名 12 岁和 17 岁的男孩也受重伤，另一人受轻伤。",
+        "一名 18 岁男子被捕，但身份尚未确定。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Girl, 17, killed in Swedish sword attack, police say"
+      }
+    },
+    {
+      "title_original": "تشيلي تقرر إغلاق سفارتها لدى إيران",
+      "title_zh": "智利决定关闭驻伊朗大使馆",
+      "url": "https://aawsat.com/%D8%B4%D8%A4%D9%88%D9%86-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9/5310075-%D8%AA%D8%B4%D9%8A%D9%84%D9%8A-%D8%AA%D9%82%D8%B1%D8%B1-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%B3%D9%81%D8%A7%D8%B1%D8%AA%D9%87%D8%A7-%D9%84%D8%AF%D9%89-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-23T00:27:22+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "智利外交部长弗朗西斯科·佩雷斯·马奎纳（外交部X账户）\n智利周六宣布，出于经济和安全原因，将于8月底关闭驻伊朗大使馆，并指出这一决定并不意味着与德黑兰断绝外交关系。",
+        "智利外交部在一份声明中将这一决定归因于“业务重组的需要，目的是有效分配可用资源，并考虑中东的安全因素”。",
+        "智利政府强调，关闭驻伊朗使馆并不意味着两国1942年建立的外交关系结束，智利在伊朗的领事服务将转移到智利驻安卡拉领事馆。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "تشيلي تقرر إغلاق سفارتها لدى إيران"
+      }
+    },
+    {
+      "title_original": "プーチン氏「戦場の状況に影響ない」 ウクライナによる民間施設や物流拠点への攻撃（テレビ朝日系（ANN））",
+      "title_zh": "普京：“这不会影响战场局势。”乌克兰对民用设施和后勤基地的袭击（朝日电视台（ANN））",
+      "url": "https://news.yahoo.co.jp/articles/1a7a25e5615b481ba07cae192ff8dca14229ae35",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-22T23:51:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京：“乌克兰对民用设施和后勤基地的袭击对战场局势没有影响”\n全日本新闻网(ANN)\n俄罗斯总统弗拉基米尔·普京声称，乌克兰军方在袭击民用设施和后勤中心时“没有获得任何优势”。",
+        "普京总统22日接受国家电视台采访时表示，乌克兰军方对俄罗斯能源设施的袭击“旨在损害俄罗斯经济”，“我们没有获得任何优势”。",
+        "他承认针对民用设施和后勤中心的袭击造成了平民伤亡和经济损失，但坚称这些袭击“对战场局势没有影响”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏「戦場の状況に影響ない」 ウクライナによる民間施設や物流拠点への攻撃（テレビ朝日系（ANN））"
+      }
+    },
+    {
+      "title_original": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+      "title_zh": "特朗普移动推销“美国制造”手机 - 但细节不断变化",
+      "url": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-22T23:45:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普移动推销“美国制造”手机 - 但细节不断变化\n2025 年夏天，当美国总统唐纳德·特朗普的长子推出 Trump Mobile 时，该公司宣传称，“T1”智能手机将在美国制造，并在几个月内发货给客户。",
+        "去年，有关手机制造、设计和交付日期的关键细节发生了变化，一些客户仍在等待手机——托马斯·科普兰 (Thomas Copeland) 解释道。",
+        "由艾莎·森比制作。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing"
+      }
+    },
     {
       "title_original": "为平息特朗普，北约东欧盟友提议削减美军驻军费用",
       "title_zh": "为平息特朗普，北约东欧盟友提议削减美军驻军费用",
