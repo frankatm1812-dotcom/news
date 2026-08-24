@@ -1,8 +1,858 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-23T23:34:00.296681+00:00",
-  "count": 35,
+  "generated_at": "2026-08-24T11:44:54.225823+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "الرئيس الصيني يناقش القضية الفلسطينية خلال لقائه بملك الأردن",
+      "title_zh": "习近平会见约旦国王讨论巴勒斯坦问题",
+      "url": "https://www.reuters.com/ar/world/J2L75FK325ONTMQ5L3HL673IJU-2026-08-24/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-24T11:07:19+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "الرئيس الصيني يناقش القضية الفلسطينية خلال لقائه بملك الأردن    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الرئيس الصيني يناقش القضية الفلسطينية خلال لقائه بملك الأردن"
+      }
+    },
+    {
+      "title_original": "الصين: الشرق الأوسط يمر بمنعطف حرج وندعو للحوار والتهدئة",
+      "title_zh": "الصين: الشرق الأوسط يمر بمنعطف حرج وندعو للحوار والتهدئة",
+      "url": "https://www.reuters.com/ar/world/U4M3PO2GNVPRHLWUKV6PCVFNPM-2026-08-24/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-24T10:57:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "中国：中东正处于关键时刻，我们呼吁对话和冷静 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الصين: الشرق الأوسط يمر بمنعطف حرج وندعو للحوار والتهدئة"
+      }
+    },
+    {
+      "title_original": "(Multimedia) Canciller chino llama a las partes en Oriente Medio y el Golfo a reanudar diálogo y negociación",
+      "title_zh": "(多媒体)中国外长呼吁中东海湾各方恢复对话谈判",
+      "url": "https://spanish.xinhuanet.com/20260824/da16c6f527a8461f99edc70f20154f47/c.html",
+      "source": "Xinhua Español",
+      "source_score": 95,
+      "published_at": "2026-08-24T10:42:15+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "新华社北京8月24日电中国外交部长王毅24日表示，当前中东海湾地区局势再次处于关键时刻，希望有关各方尽快回到对话谈判的轨道。",
+        "中共中央政治局委员、中共中央政治局委员王毅在北京会见科威特外交大臣贾拉·贾比尔·艾哈迈德·萨巴赫时作上述表示。",
+        "El canciller chino refirió que la máxima prioridad es desescalar la situación actual."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Xinhua Español"
+      ],
+      "all_titles": {
+        "es": "(Multimedia) Canciller chino llama a las partes en Oriente Medio y el Golfo a reanudar diálogo y negociación"
+      }
+    },
+    {
+      "title_original": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "title_zh": "俄罗斯第二大在线零售商成为乌克兰罢工的目标",
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-24T10:40:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯第二大在线零售商成为乌克兰罢工的目标\n- 已发表\n俄罗斯第二大在线零售商的仓库遭到乌克兰无人机的一波袭击。",
+        "奥宗表示，其位于克拉斯诺达尔、达吉斯坦、斯塔夫罗波尔和阿迪格南部地区的物流设施在夜间罢工后起火，多人受伤。",
+        "乌克兰几周来一直在攻击该国最大在线零售商 Wildberry 的网站，称该公司是合法目标，因为它向军方提供零部件，但莫斯科对此予以否认。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia's second-biggest online retailer targeted in Ukrainian strikes"
+      }
+    },
+    {
+      "title_original": "توتال إنرجيز تعتزم الاستثمار في توسيع خط أنابيب لتصدير النفط بالإمارات",
+      "title_zh": "道达尔能源公司打算投资扩建阿联酋的石油出口管道",
+      "url": "https://www.reuters.com/ar/business/KGYEUBZW2VPNRHP3FMPR6S423Y-2026-08-24/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-24T10:35:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "توتال إنرجيز تعتزم الاستثمار في توسيع خط أنابيب لتصدير النفط بالإمارات    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "توتال إنرجيز تعتزم الاستثمار في توسيع خط أنابيب لتصدير النفط بالإمارات"
+      }
+    },
+    {
+      "title_original": "“伊斯兰版北约”正式邀请伊朗加入？伊朗：正审议！中东安全格局或迎历史拐点",
+      "title_zh": "“伊斯兰版北约”正式邀请伊朗加入？伊朗：正审议！中东安全格局或迎历史拐点",
+      "url": "https://m.sohu.com/a/1066943822_121478296?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-24T09:42:12+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "据参考消息援引俄新社8月23日报道，伊朗伊斯兰议会通讯社社长拉希米表示，德黑兰已收到正式邀请，加入沙特阿拉伯、土耳其与巴基斯坦近日签署的《麦加共同防务协议》。据悉，伊朗领导层目前正在审议这一提议。",
+        "▲当地时间2026年8月7日，沙特阿拉伯麦加，巴基斯坦总理谢里夫、沙特阿拉伯王储兼首相本·萨勒曼与土耳其总统埃尔多安签署《麦加共同防务协议》\n这项三边协议于8月7日签署，规定加强集体威慑，对任一缔约方的武装攻击将被视为对三国全体的攻击。协议同时允许扩大军事合作、协调以及国防工业联合项目。有媒体随之将其称为“伊斯兰版北约”。",
+        "土耳其总统埃尔多安在协议签署后表示，该协议不针对任何国家，并向本地区致力于和平、稳定与繁荣的其他国家开放加入。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "“伊斯兰版北约”正式邀请伊朗加入？伊朗：正审议！中东安全格局或迎历史拐点"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Merz lobt „beeindruckenden Mut“ der Ukrainer – EU schickt weitere Milliardenhilfen",
+      "title_zh": "Ukraine-Krieg aktuell: Merz lobt „beeindruckenden Mut“ der Ukrainer – EU schickt weitere Milliardenhilfen",
+      "url": "https://www.fr.de/politik/patriot-selenskyj-putin-ukraine-krieg-aktuell-russland-news-ticker-verluste-raketen-zr-94453221.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-24T09:25:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg aktuell: Soldaten „zu Dünger gemacht“ – Selenskyj sendet Putin deutliche Botschaft\nUns auf Google folgen\nAktuelle Lage im Ukraine-Krieg: Europäische Vertreter treffen sich in Kiew.",
+        "Wadephul will unterdessen einen neuen diplomatischen Weg gehen.",
+        "新闻行情。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Merz lobt „beeindruckenden Mut“ der Ukrainer – EU schickt weitere Milliardenhilfen"
+      }
+    },
+    {
+      "title_original": "Fast-fashion giant Shein sets cut-price $27bn valuation for Hong Kong IPO",
+      "title_zh": "Fast-fashion giant Shein sets cut-price $27bn valuation for Hong Kong IPO",
+      "url": "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-24T08:57:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "总部位于中国的零售商第一季度亏损 9900 万美元，并面临对其环境足迹的审查 Business live – 最新动态 Shein 以看似不可思议的低价建立了一个快时尚帝国，在今年早些时候陷入亏损后，被迫通过降价股票上市降低自身估值。",
+        "The online retailer will list on the Hong Kong stock exchange on 1 September at a valuation of close to $27bn (£19.8bn), significantly down from a near-$100bn private market peak four years ago.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Fast-fashion giant Shein sets cut-price $27bn valuation for Hong Kong IPO"
+      }
+    },
+    {
+      "title_original": "Four arrested over boxing champion's murder in South Africa",
+      "title_zh": "Four arrested over boxing champion's murder in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-24T08:32:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Four arrested over boxing champion's murder in South Africa\n- Published\nFour people have been arrested in South Africa in connection with the murder of boxing champion Zolani Tete, who was shot dead outside his home on Friday.",
+        "Tete, 38, was gunned down in what has been described as an ambush in Mdantsane, Eastern Cape.",
+        "与他在一起的一名年轻女子也被枪杀，目前正在医院治疗。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Four arrested over boxing champion's murder in South Africa"
+      }
+    },
+    {
+      "title_original": "King of Norway's health has worsened, palace says",
+      "title_zh": "王宫称挪威国王健康状况恶化",
+      "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-24T08:31:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "王宫称挪威国王健康状况恶化\n- 已发表\n挪威国王哈拉尔五世的健康状况已经恶化，王宫表示，他仍在医院接受抗生素治疗，以治疗血液中的细菌感染。",
+        "据王宫称，尽管国王病情恶化，但他已接受治疗，但他将继续留在奥斯陆国立大学医院，并暂时停止履行王室职责，直至另行通知。",
+        "这位89岁的老人自1991年即位以来，一周前入院休病假。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "King of Norway's health has worsened, palace says"
+      }
+    },
+    {
+      "title_original": "ولي العهد السعودي في باريس لتعزيز الشراكة في ظل عدم استقرار الشرق الأوسط",
+      "title_zh": "鉴于中东不稳定，沙特王储在巴黎加强伙伴关系",
+      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20260824-%D9%88%D9%84%D9%8A-%D8%A7%D9%84%D8%B9%D9%87%D8%AF-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%81%D9%8A-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D9%84%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%B4%D8%B1%D8%A7%D9%83%D8%A9-%D9%81%D9%8A-%D8%B8%D9%84-%D8%B9%D8%AF%D9%85-%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-24T07:43:08+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "鉴于中东不稳定局势，沙特王储前往巴黎加强伙伴关系 France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "ولي العهد السعودي في باريس لتعزيز الشراكة في ظل عدم استقرار الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "شاومي تطلق شريحة جديدة وتتعاون مع تايوان لأشباه الموصلات في إنتاجها",
+      "title_zh": "小米推出新芯片并与台积电合作生产",
+      "url": "https://www.reuters.com/ar/business/YYXQYV3A35IDPBGW6OHNS5ESKI-2026-08-24/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-24T07:17:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "小米推出新芯片并与台积电合作生产 路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "شاومي تطلق شريحة جديدة وتتعاون مع تايوان لأشباه الموصلات في إنتاجها"
+      }
+    },
+    {
+      "title_original": "Shein aims for almost $27bn valuation in stock market debut",
+      "title_zh": "Shein aims for almost $27bn valuation in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-24T07:00:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Shein aims for almost $27bn valuation in stock market debut\n- Published\nFast-fashion giant Shein could see its stock market valuation reach almost $27bn (£19.8bn) when its makes its debut in Hong Kong on 1 September.",
+        "The long-awaited move comes after failed attempts to list in the US and London due to regulatory challenges amid scrutiny of the firm, which has its headquarters in Singapore but was founded in China.",
+        "自 2008 年成立以来，Shein 已发展成为全球最大的快时尚零售商之一，客户遍及 150 多个国家。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Shein aims for almost $27bn valuation in stock market debut"
+      }
+    },
+    {
+      "title_original": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "title_zh": "马拉多纳的“上帝之手”球售价 250 万英镑",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-24T06:55:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "1986 年世界杯四分之一决赛战胜英格兰队时，迭戈·马拉多纳 (Diego Maradona) 攻入著名的“上帝之手”进球时所用的足球正在拍卖。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Maradona's 'Hand of God' ball sells for £2.5m"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Russischer Online-Händler offenbar erneut schwer getroffen",
+      "title_zh": "乌克兰战争：俄罗斯在线零售商显然再次遭受重创",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101391962/ukraine-krieg-russischer-online-haendler-ozon-wohl-erneut-schwer-getroffen.html",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-08-24T06:34:40+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "有关乌克兰战争的新闻博客俄罗斯在线零售商 Ozon 可能遭受重创\n一架俄罗斯无人机撞上了乌克兰客运列车。",
+        "在俄罗斯，在线零售商 Ozon 的一件物品再次遭到袭击。",
+        "新闻博客中的所有进展。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Russischer Online-Händler offenbar erneut schwer getroffen"
+      }
+    },
+    {
+      "title_original": "Durante el día los lirios tiñen de amarillo el este de Taiwán",
+      "title_zh": "白天，台湾东部的百合花变成黄色",
+      "url": "https://www.inoutviajes.com/noticia/32441/turismo-internacional/durante-el-dia-los-lirios-tinen-de-amarillo-el-este-de-taiwan.html",
+      "source": "Inout Viajes",
+      "source_score": 40,
+      "published_at": "2026-08-24T06:34:04+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "八月和九月期间，台湾东部的风景呈现出特别引人注目的色调。",
+        "在花莲和台东地区，黄百合花田盛开，将大地变成一片金色的马赛克。",
+        "La floración de esta especie, que se ha convertido en una de las estampas características de la región durante el final del verano, ofrece a los viajeros la oportunidad de descubrir un paisaje rural diferente, marcado por las montañas, los cultivos y la tradición agrícola local."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Inout Viajes"
+      ],
+      "all_titles": {
+        "es": "Durante el día los lirios tiñen de amarillo el este de Taiwán"
+      }
+    },
+    {
+      "title_original": "إغلاق المدارس والمؤسسات في جنوب تايوان بسبب الأمطار الغزيرة",
+      "title_zh": "台湾南部地区学校及机构因大雨停课",
+      "url": "https://www.reuters.com/ar/technology/EJBLS4HQLRKHJOHHWGLKAOMMZI-2026-08-24/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-24T05:55:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾南部学校和机构因大雨停课 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "إغلاق المدارس والمؤسسات في جنوب تايوان بسبب الأمطار الغزيرة"
+      }
+    },
+    {
+      "title_original": "China probes use of formaldehyde to keep cabbages fresh",
+      "title_zh": "中国调查使用甲醛保鲜卷心菜",
+      "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-24T05:40:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国调查使用甲醛保鲜卷心菜\n- 已发表\n中国当局已对有关使用甲醛来保鲜供人类食用的卷心菜的报道展开调查。",
+        "河北省东北部的官员证实，他们已经核实了一段视频，显示人们将卷心菜浸入溶液中，然后装上卡车进行运输。",
+        "一位环保博主上周首次发布了这段视频。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "China probes use of formaldehyde to keep cabbages fresh"
+      }
+    },
+    {
+      "title_original": "New Zealand to consider banning children under 16 from social media",
+      "title_zh": "新西兰考虑禁止16岁以下儿童使用社交媒体",
+      "url": "https://www.theguardian.com/media/2026/aug/24/nz-social-media-ban-children-under-16-fines-meta-tiktok",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-24T05:22:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "新西兰总理克里斯托弗·卢克森 (Christopher Luxon) 所在政党将提出一项法案，寻求禁令，理由是对一代儿童造成伤害新西兰总理克里斯托弗·卢克森 (Christopher Luxon) 表示，他的政党将在议会提出一项法案，旨在禁止 16 岁以下儿童使用社交媒体，并提议对违规行为处以高达全球收入 10% 的罚款。",
+        "该法案将要求社交媒体平台采取合理措施来验证用户的年龄，包括利用现有的帐户信息、面部技术和数字身份文件。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "New Zealand to consider banning children under 16 from social media"
+      }
+    },
+    {
+      "title_original": "Nearly three million Teslas recalled in China over hidden door handles",
+      "title_zh": "因隐藏门把手，近300万辆特斯拉在中国被召回",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-24T05:01:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "因隐藏门把手，近300万辆特斯拉在中国被召回\n- 已发表\n简约的门把手已成为电动汽车 (EV) 的标志性特征，但这一颇具争议的设计如今已成为中国最大汽车召回事件的核心，影响了超过 400 万辆汽车。",
+        "The recall, which includes 2.98 million Chinese-made Teslas, follows safety concerns that the hidden door handles are difficult to locate and open in emergency situations.",
+        "受此次召回影响的其他品牌包括中国汽车制造商小鹏汽车、小米和吉利。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nearly three million Teslas recalled in China over hidden door handles"
+      }
+    },
+    {
+      "title_original": "MOYEN-ORIENT - Les facteurs à suivre le 24 août",
+      "title_zh": "中东 – 8 月 24 日关注的因素",
+      "url": "https://ch.zonebourse.com/actualite-bourse/moyen-orient-les-facteurs-a-suivre-le-24-aout-ce7858dad08ff122",
+      "source": "Zonebourse Suisse",
+      "source_score": 40,
+      "published_at": "2026-08-24T04:42:20+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东 - 8 月 24 日需要关注的因素 Zonebourse Suisse",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Zonebourse Suisse"
+      ],
+      "all_titles": {
+        "fr": "MOYEN-ORIENT - Les facteurs à suivre le 24 août"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Selenskyj empfängt „Koalition der Willigen“ zum 35. Unabhängigkeitstag - Video",
+      "title_zh": "乌克兰战争：泽连斯基在第 35 届独立日欢迎“自愿联盟” - 视频",
+      "url": "https://www.welt.de/politik/ausland/video6a8bc416511d4fd3bc4e1959/ukraine-krieg-selenskyj-empfaengt-koalition-der-willigen-zum-35-unabhaengigkeitstag.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-08-24T04:36:24+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "项目类型：视频乌克兰战争\n泽伦斯基欢迎“意愿联盟”成立 35 周年",
+        "独立日\n在战争中，乌克兰庆祝建国 35 周年。",
+        "独立周年纪念日。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Selenskyj empfängt „Koalition der Willigen“ zum 35. Unabhängigkeitstag - Video"
+      }
+    },
+    {
+      "title_original": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "title_zh": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-24T03:55:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "前板球队长敦促为伊姆兰·汗提供“适当的医疗护理”\n- 已发表\n一群前板球队队长，包括印度击球传奇人物苏尼尔·加瓦斯卡和英格兰服役时间最长的队长之一阿拉斯泰尔·库克爵士，呼吁巴基斯坦确保其前总理伊姆兰·汗在被拘留期间得到适当的照顾。",
+        "这位板球运动员出身的政治家自 2023 年以来一直因腐败指控入狱，但他否认了这一指控。",
+        "在致巴基斯坦现任领导人谢巴兹·谢里夫的一封信中，21名前船长表达了对73岁的汗上周被允许在一家医院接受“几个小时”的担忧，并接受了国家指定的团队的检查。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ex-cricket captains urge 'proper medical care' for Imran Khan"
+      }
+    },
+    {
+      "title_original": "ロシア侵攻4年半 追加動員か ウクライナ ロシア物流を攻撃",
+      "title_zh": "俄罗斯入侵4.5年，额外动员？乌克兰袭击俄罗斯物流",
+      "url": "https://news.tv-asahi.co.jp/news_international/articles/000528313.html",
+      "source": "テレ朝NEWS",
+      "source_score": 40,
+      "published_at": "2026-08-24T03:27:20+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "1\n                    \n                      \n                        \n                          \n                        \n                      \n                     \n                    \n                    \n                    \n                  \n                \n                        　ロシアのウクライナ侵攻から24日で4年半となります。ウクライナはロシア第2位の通販大手を新たな標的として攻撃しています。",
+        "23日，乌克兰无人机袭击了俄罗斯南部奥伦堡州大型邮购公司Ozone的配送仓库。",
+        "据州当局称，六架无人机被击落，但碎片掉落并引发火灾。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "テレ朝NEWS"
+      ],
+      "all_titles": {
+        "ja": "ロシア侵攻4年半 追加動員か ウクライナ ロシア物流を攻撃"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Nord Stream bombings were not us, Zelenskyy insists",
+      "title_zh": "乌克兰战争简报：泽连斯基坚称北溪爆炸不是我们干的",
+      "url": "https://www.theguardian.com/world/2026/aug/24/ukraine-war-briefing-nord-stream-bombings-were-not-us-zelenskyy-insists",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-24T03:19:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  弗拉基米尔·泽连斯基坚称乌克兰政府没有参与 2022 年北溪海底天然气管道爆炸事件。",
+        "Ukraine’s president said Germany was “well aware that Ukraine did not stand behind the execution or the very conception of this operation”.",
+        "周三，一名乌克兰男子因涉嫌参与爆炸事件而在克罗地亚被捕。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Nord Stream bombings were not us, Zelenskyy insists"
+      }
+    },
+    {
+      "title_original": "Russlands Fehlplanung im Ukraine-Krieg war der Beginn: Nordkorea im „Aufstieg“ – mit globalen Folgen",
+      "title_zh": "俄罗斯在乌克兰战争中的糟糕计划只是一个开始：朝鲜的崛起——带来全球后果",
+      "url": "https://www.fr.de/politik/jong-un-im-ukraine-krieg-mit-globalen-folgen-putin-belohnt-kim-zr-94451430.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-24T02:45:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "崛起中的独裁者：普京如何在乌克兰战争中奖励金正恩——带来全球后果\n在谷歌上关注我们\n一度孤立的金正恩帮助俄罗斯摆脱了自找的麻烦。",
+        "一项新的分析表明，普京的感激之情具有深远的影响。",
+        "唐纳德·特朗普知道如何动摇自己的盟友。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Russlands Fehlplanung im Ukraine-Krieg war der Beginn: Nordkorea im „Aufstieg“ – mit globalen Folgen"
+      }
+    },
+    {
+      "title_original": "Chine, Taïwan Contre l'espionnage chinois, Taipei ressort l'\"anticommunisme\" pour galvaniser ses jeunes officiers",
+      "title_zh": "中国、台湾 针对中国间谍活动，台北推出“反共主义”激励年轻军官",
+      "url": "https://www.intelligenceonline.fr/asie-pacifique/2026/08/24/contre-l-espionnage-chinois-taipei-ressort-l-anticommunisme-pour-galvaniser-ses-jeunes-officiers,110862678-art",
+      "source": "Intelligence Online",
+      "source_score": 40,
+      "published_at": "2026-08-24T02:00:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾国防部在对军校毕业生进行的意识形态培训中增加了反共内容，作为打击中国渗透的更广泛计划的一部分。",
+        "这一决定是在情报部门就习近平准备在台湾档案中确定的优先事项向总统发出警告后做出的。",
+        "这篇文章可供订阅者阅读\n为了提供高质量和独立的信息，情报在线完全依赖读者的订阅，不做广告，不组织活动，也不提供建议。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Intelligence Online"
+      ],
+      "all_titles": {
+        "fr": "Chine, Taïwan Contre l'espionnage chinois, Taipei ressort l'\"anticommunisme\" pour galvaniser ses jeunes officiers"
+      }
+    },
+    {
+      "title_original": "西方画的大饼，泽连斯基不吃了，明确划红线：加入北约是唯一条件",
+      "title_zh": "西方画的大饼，泽连斯基不吃了，明确划红线：加入北约是唯一条件",
+      "url": "https://mil.ifeng.com/c/8vqVbvEIoBR",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-08-24T01:58:17+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "西方画的大饼，泽连斯基不吃了，明确划红线：加入北约是唯一条件\n西方画下的饼，泽连斯基已经吃够了，他明确划下红线：除了加入北约，什么条件都不行。",
+        "据环球网8月23日报道，泽连斯基在当天公开表态，只有加入北约才能获得真正的安全保障，除此之外，乌克兰不会寻求任何其他的替代方案。",
+        "然而俄乌冲突爆发的根本原因，就是乌克兰寻求入约，但这会让俄罗斯和北约组织接壤，届时美国甚至可以在乌克兰境内部署核弹，这是普京绝对无法接受的。所以俄罗斯先发制人，打响了对乌特别军事行动，而这一打就是4年多，乌克兰现在的处境可谓是千疮百孔，而泽连斯基却还没有放弃加入北约的美梦。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "西方画的大饼，泽连斯基不吃了，明确划红线：加入北约是唯一条件"
+      }
+    },
+    {
+      "title_original": "バーナム英首相、初の外訪先キーウに到着　ウクライナ支持を再確認へ",
+      "title_zh": "英国首相伯纳姆抵达基辅进行首次海外访问，重申对乌克兰的支持",
+      "url": "https://www.bbc.com/japanese/articles/czrjrrzk7x3o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-24T01:49:40+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "英国首相伯纳姆抵达基辅进行首次外事访问，重申支持乌克兰，欧盟委员会宣布额外支持\n英国首相安迪·伯纳姆24日访问乌克兰，这是他就任首相后首次出访。伯纳姆总理乘火车抵达首都基辅，受到乌克兰外交部长安德烈·西比哈的迎接。预计伯纳姆将重申他对乌克兰的支持。同日，欧盟委员会还宣布扩大对该国的支持。乌克兰总统泽连斯基庆祝国家独立日，强调“乌克兰确实希望和平，但我们无意简单投降。”",
+        "伯纳姆总理与西比哈外长握手并表示：“很荣幸来到这里。”随后他参观了位于基辅西南部哈托内的国家军事纪念公墓，并向无名烈士墓献花。",
+        "ゼレンスキー大統領は独立記念日を祝い、キーウで撮影した動画を通信アプリ「テレグラム」に投稿。その中で、「ウクライナは紛れもなく平和を望んでいる、しかしただあっさり降伏するつもりなどない」として、「我々は、（ロシアに）主導権を握らせたり、我々が（東部の）ドンバス（地方）を放棄しさえすれば全てが間もなく終わるかのように、（ロシアが）欧州や世界全体をだましたりするのを許さない」と強調した。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "バーナム英首相、初の外訪先キーウに到着　ウクライナ支持を再確認へ"
+      }
+    },
+    {
+      "title_original": "“对于某些内心只有地缘政治算计的人来说，会怀疑烧麦里都有窃听器”",
+      "title_zh": "“对于某些内心只有地缘政治算计的人来说，会怀疑烧麦里都有窃听器”",
+      "url": "https://m.sohu.com/a/1066700577_203783?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-08-24T01:19:31+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "“对于某些内心只有地缘政治算计的人来说，会怀疑烧麦里都有窃听器”\n中国驻巴拿马大使馆消息，8月22日，中国驻巴拿马使馆回应美方抹黑中国科技企业的言论。",
+        "我们注意到美国驻巴拿马使馆社交媒体转载了美个别官员无端抹黑指责中国科技企业的言论。",
+        "无中生有、颠倒黑白，这是美方一些政客的惯用伎俩。美方所谓中国企业为中共开展间谍活动的说法缺乏起码事实根据。企业的产品是否安全应当靠事实和技术评判。中国有关企业在巴等拉美国家市场化经营，严格遵守各国法律与行业规范，受到各国用户肯定，为当地经济社会发展和就业做出了积极贡献。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "“对于某些内心只有地缘政治算计的人来说，会怀疑烧麦里都有窃听器”"
+      }
+    },
+    {
+      "title_original": "ノルウェーの対ウクライナ財政支援、27年度も850億クローネ",
+      "title_zh": "2027年挪威对乌克兰的财政援助仍为850亿克朗",
+      "url": "https://jp.reuters.com/world/ukraine/ROT7BDR3BVOABJOURORWFPTP7I-2026-08-24/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-24T01:12:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "2019财年挪威对乌克兰的财政援助将继续为850亿克朗 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ノルウェーの対ウクライナ財政支援、27年度も850億クローネ"
+      }
+    },
+    {
+      "title_original": "Taiwán lleva su gasto militar a un nuevo récord mientras busca producir una masa propia de drones para enfrentar a China",
+      "title_zh": "台湾军费开支创下新纪录，寻求生产自己的大量无人机来对抗中国",
+      "url": "https://www.escenariomundial.com/2026/08/23/taiwan-lleva-su-gasto-militar-a-un-nuevo-record-mientras-busca-producir-una-masa-propia-de-drones-para-enfrentar-a-china/",
+      "source": "Escenario Mundial",
+      "source_score": 40,
+      "published_at": "2026-08-24T00:35:36+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾的军费开支创下新纪录，同时它还寻求生产自己的大量无人机来对抗中国。",
+        "台湾政府力求到2027年将国防开支增加18%，达到历史最高纪录，这将使其国防开支突破1万亿新台币，相当于314.1亿美元。",
+        "与此同时，台湾寻求通过大量生产无人机来增强其武装力量，以对抗中国。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Escenario Mundial"
+      ],
+      "all_titles": {
+        "es": "Taiwán lleva su gasto militar a un nuevo récord mientras busca producir una masa propia de drones para enfrentar a China"
+      }
+    },
+    {
+      "title_original": "仏、ウクライナへの防空装備供与加速へ＝ゼレンスキー氏",
+      "title_zh": "泽连斯基：法国将加速向乌克兰提供防空装备",
+      "url": "https://jp.reuters.com/world/ukraine/63SXFQ37OFPW3GO4J5XZL55W44-2026-08-24/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-24T00:35:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "泽连斯基：法国将加快向乌克兰提供防空装备 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "仏、ウクライナへの防空装備供与加速へ＝ゼレンスキー氏"
+      }
+    },
+    {
+      "title_original": "ＮＡＴＯ加盟国、ホルムズ海峡巡る対応協議 同盟枠外で貢献探る",
+      "title_zh": "北约成员国讨论应对霍尔木兹海峡问题，寻求联盟框架外的贡献",
+      "url": "https://jp.reuters.com/world/us/MCP2I6T3GVMZVCHB6MUJSGLYXE-2026-08-24/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-24T00:02:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ＮＡＴＯ加盟国、ホルムズ海峡巡る対応協議 同盟枠外で貢献探る    ロイター",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ＮＡＴＯ加盟国、ホルムズ海峡巡る対応協議 同盟枠外で貢献探る"
+      }
+    },
     {
       "title_original": "عقوبات أمريكية مرتقبة على إيران ولقاء سوري إسرائيلي في الأردن",
       "title_zh": "عقوبات أمريكية مرتقبة على إيران ولقاء سوري إسرائيلي في الأردن",
