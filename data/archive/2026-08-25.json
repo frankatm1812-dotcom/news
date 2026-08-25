@@ -1,8 +1,883 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-24T23:32:55.829506+00:00",
-  "count": 35,
+  "generated_at": "2026-08-25T11:42:46.196957+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title_original": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "title_zh": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-25T10:56:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "China warns it will safeguard its interests after US widens sanctions against Iran\n- Published\nChina has vowed to protect its interests after the US announced plans to widen economic sanctions against Iran and its trading partners, which include Beijing.",
+        "Foreign ministry spokesman Lin Jian said China was firmly opposed to what it called \"illegal unilateral sanctions\" and would take \"all necessary measures\" to safeguard its rights.",
+        "This came after US Treasury Secretary Scott Bessent announced the new measures on Monday, warning any nation financially partnering with Iran would be isolated."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "China warns it will safeguard its interests after US widens sanctions against Iran"
+      }
+    },
+    {
+      "title_original": "مسؤول: حاملة الطائرات الأمريكية إبراهام لينكولن سترسو في تايلاند الأسبوع المقبل",
+      "title_zh": "مسؤول: حاملة الطائرات الأمريكية إبراهام لينكولن سترسو في تايلاند الأسبوع المقبل",
+      "url": "https://www.reuters.com/ar/world/D3EE25HGZVMF7OTQHPXMRZPEDI-2026-08-25/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-25T10:43:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "مسؤول: حاملة الطائرات الأمريكية إبراهام لينكولن سترسو في تايلاند الأسبوع المقبل    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "مسؤول: حاملة الطائرات الأمريكية إبراهام لينكولن سترسو في تايلاند الأسبوع المقبل"
+      }
+    },
+    {
+      "title_original": "قطر: العقوبات الأمريكية على إيران أحادية وندعو لبذل جهود وساطة",
+      "title_zh": "قطر: العقوبات الأمريكية على إيران أحادية وندعو لبذل جهود وساطة",
+      "url": "https://www.reuters.com/ar/world/7OEVGDCJPBN7HGWNKENCMSELB4-2026-08-25/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-25T10:39:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "قطر: العقوبات الأمريكية على إيران أحادية وندعو لبذل جهود وساطة    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "قطر: العقوبات الأمريكية على إيران أحادية وندعو لبذل جهود وساطة"
+      }
+    },
+    {
+      "title_original": "صحيفة: أمريكا تستعد لإعادة دبلوماسيين للشرق الأوسط بعد إجلائهم بسبب الحرب",
+      "title_zh": "صحيفة: أمريكا تستعد لإعادة دبلوماسيين للشرق الأوسط بعد إجلائهم بسبب الحرب",
+      "url": "https://www.reuters.com/ar/world/6UOZQCTNIBP3ZFV3D7VYCCDDK4-2026-08-25/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-25T09:58:15+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "صحيفة: أمريكا تستعد لإعادة دبلوماسيين للشرق الأوسط بعد إجلائهم بسبب الحرب    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "صحيفة: أمريكا تستعد لإعادة دبلوماسيين للشرق الأوسط بعد إجلائهم بسبب الحرب"
+      }
+    },
+    {
+      "title_original": "US firefighters say major blaze near Reno about a quarter contained",
+      "title_zh": "US firefighters say major blaze near Reno about a quarter contained",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-25T09:49:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US firefighters say major blaze near Reno about a quarter contained\n- Published\nUS fire crews have reported progress in their efforts to tackle a large wildfire menacing the city of Reno, Nevada - saying the blaze is about a quarter contained.",
+        "The Hawk Fire, which began on Saturday, had spread over 15,000 acres by Monday, firefighters said.",
+        "Evacuation orders remain in place for 23,000 people, though other residents have now been allowed to return to their homes."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US firefighters say major blaze near Reno about a quarter contained"
+      }
+    },
+    {
+      "title_original": "Kremlin adviser warns UK drone factories could face attacks",
+      "title_zh": "Kremlin adviser warns UK drone factories could face attacks",
+      "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-08-25T09:34:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Kremlin adviser warns UK drone factories could face attacks\nRussia says the UK’s decision to share missile blueprints with Ukraine is evidence of its direct military involvement in the war.",
+        "Factories manufacturing drones in the United Kingdom for export to Ukraine could come under attack from “unknown sources”, a Kremlin adviser has said, after Britain agreed to share long-range missile blueprints with Kyiv.",
+        "Andrei Fedorov, an adviser to the Kremlin and a former deputy foreign minister, told British broadcaster BBC on Tuesday that he could not “exclude 100 percent” that there might be some “semi-military” action against Britain, as UK Prime Minister Andy Burnham visited Ukraine."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Kremlin adviser warns UK drone factories could face attacks"
+      }
+    },
+    {
+      "title_original": "茂木外相、ウクライナ外相と電話「安保分野でも互恵的協力」",
+      "title_zh": "茂木外相、ウクライナ外相と電話「安保分野でも互恵的協力」",
+      "url": "https://www.nikkei.com/article/DGXZQOUA2584K0V20C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-25T09:26:02+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "茂木外相、ウクライナ外相と電話「安保分野でも互恵的協力」\n茂木敏充外相は25日、ウクライナのシビハ外相と電話で20分ほど話した。「安全保障分野でも互恵的な協力を推進していく」と述べた。同国のニーズを踏まえながら支援を継続していきたいと伝えた。",
+        "茂木氏は「日本はウクライナとともにある。その方針に揺るぎはない」と強調した。力による一方的な現状変更の試みは許されないと語った。",
+        "高市早苗首相も24日、ウクライナを支援する有志国連合の首脳会合にオンラインで参加した。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "茂木外相、ウクライナ外相と電話「安保分野でも互恵的協力」"
+      }
+    },
+    {
+      "title_original": "テラドローン、迎撃ドローンを自衛隊に納入 ウクライナの知見活用",
+      "title_zh": "テラドローン、迎撃ドローンを自衛隊に納入 ウクライナの知見活用",
+      "url": "https://www.nikkei.com/article/DGXZQOGR2501L0V20C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-25T09:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "この記事は会員限定記事です\nテラドローン、迎撃ドローンを自衛隊に納入 ウクライナの知見活用\n[会員限定記事]\n【ウィーン=金子夏樹】ドローン開発大手のテラドローンは25日、防衛装備庁から迎撃用のドローン（無人機）を受注したと発表した。量産契約を結び、9月にも海上自衛隊に納入する。防衛省は防空能力の強化を掲げ、公募からおよそ3カ月という短期間で自衛隊に導入することを目指す。",
+        "装備庁は国内での生産などを契約の条件とし、4社が7月から実証試験に取り組んでいた。",
+        "選出されたテラドローンはウクライナのドローン企業..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "テラドローン、迎撃ドローンを自衛隊に納入 ウクライナの知見活用"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : la Chine prendra «toutes les mesures nécessaires» pour défendre «fermement» ses intérêts contre les menaces américaines",
+      "title_zh": "Guerre au Moyen-Orient : la Chine prendra «toutes les mesures nécessaires» pour défendre «fermement» ses intérêts contre les menaces américaines",
+      "url": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-la-chine-prendra-toutes-les-mesures-necessaires-pour-defendre-fermement-ses-interets-contre-les-menaces-americaines-20260825",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-08-25T08:37:16+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : la Chine prendra «toutes les mesures nécessaires» pour défendre «fermement» ses intérêts contre les menaces américaines    Le Figaro",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : la Chine prendra «toutes les mesures nécessaires» pour défendre «fermement» ses intérêts contre les menaces américaines"
+      }
+    },
+    {
+      "title_original": "بينهم موظف في \"إنفيديا\".. تايوان تتهم تسعة أشخاص بتهريب خوادم \"الذكاء الاصطناعي\" إلى الصين",
+      "title_zh": "بينهم موظف في \"إنفيديا\".. تايوان تتهم تسعة أشخاص بتهريب خوادم \"الذكاء الاصطناعي\" إلى الصين",
+      "url": "https://arabic.euronews.com/2026/08/25/including-an-nvidia-employee-taiwan-charges-nine-people-with-smuggling-ai-servers-to-chin",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-25T08:00:46+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "تفرض الولايات المتحدة قيودًا صارمة على تصدير أحدث الرقائق المستخدمة في تشغيل أنظمة الذكاء الاصطناعي إلى الصين، ومن بينها الرقائق التي تطورها إنفيديا، في إطار جهود واشنطن للحد من وصول بكين إلى التقنيات المتقدمة.",
+        "وجهت النيابة العامة في تايوان اتهامات إلى تسعة أشخاص، بينهم موظف في شركة إنفيديا، للاشتباه في تورطهم بتهريب خوادم متطورة مخصصة لتشغيل أنظمة الذكاء الاصطناعي إلى الصين، في مخالفة للقيود الأمريكية المفروضة على تصدير الرقائق المتقدمة.",
+        "وتعود القضية إلى تحقيقات فتحتها السلطات التايوانية بشأن نقل خوادم من إنتاج شركة سوبر مايكرو كومبيوتر، المدرجة في بورصة نيويورك، وتحتوي على رقائق متطورة من تصنيع إنفيديا، إلى الأراضي الصينية."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "بينهم موظف في \"إنفيديا\".. تايوان تتهم تسعة أشخاص بتهريب خوادم \"الذكاء الاصطناعي\" إلى الصين"
+      }
+    },
+    {
+      "title_original": "توقعات بهطول أمطار غزيرة مع اقتراب الإعصار سوديل من اليابان وتايوان",
+      "title_zh": "توقعات بهطول أمطار غزيرة مع اقتراب الإعصار سوديل من اليابان وتايوان",
+      "url": "https://www.reuters.com/ar/technology/WDBKPZQDWJJG7ENXXI3PITOOX4-2026-08-25/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-25T07:43:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "توقعات بهطول أمطار غزيرة مع اقتراب الإعصار سوديل من اليابان وتايوان    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "توقعات بهطول أمطار غزيرة مع اقتراب الإعصار سوديل من اليابان وتايوان"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（8月25日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（8月25日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44565",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-25T07:40:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（8月25日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（8月25日の動き）"
+      }
+    },
+    {
+      "title_original": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "title_zh": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "url": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-25T07:39:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series\n- Published\nKit Harington is joining the highly anticipated Harry Potter TV series as the wizarding world's celebrity-turned-Hogwarts instructor Gilderoy Lockhart.",
+        "X-Men star Nicholas Hoult was originally cast in the second series earlier this month but has now left due to scheduling issues, according to HBO.",
+        "Best known for playing Jon Snow in Game of Thrones, Harington also appears in BBC and HBO financial drama Industry."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series"
+      }
+    },
+    {
+      "title_original": "\"Die Lage ist dramatisch\": Wadephul spricht über Ukraine-Krieg und Verhandlungen mit Putin",
+      "title_zh": "\"Die Lage ist dramatisch\": Wadephul spricht über Ukraine-Krieg und Verhandlungen mit Putin",
+      "url": "https://www.t-online.de/nachrichten/deutschland/aussenpolitik/id_101403516/wadephul-ueber-ukraine-krieg-und-gespraeche-mit-putin-lage-ist-dramatisch-.html",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-08-25T07:30:44+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Wadephul zum Ukraine-Krieg\nRussland setzt im Ukraine-Krieg weiter auf Eskalation.",
+        "Johann Wadephul wirft Wladimir Putin vor, Verhandlungen zu blockieren.",
+        "Doch wer könnte vermitteln?"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "\"Die Lage ist dramatisch\": Wadephul spricht über Ukraine-Krieg und Verhandlungen mit Putin"
+      }
+    },
+    {
+      "title_original": "El Ibex 35 recupera los 20.100 puntos atento a la geopolítica y Nvidia",
+      "title_zh": "El Ibex 35 recupera los 20.100 puntos atento a la geopolítica y Nvidia",
+      "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-25/la-bolsa-y-el-ibex-35.html",
+      "source": "Cinco Días",
+      "source_score": 40,
+      "published_at": "2026-08-25T06:28:26+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "El Ibex 35 recupera los 20.100 puntos atento a la geopolítica y Nvidia    Cinco Días",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Cinco Días"
+      ],
+      "all_titles": {
+        "es": "El Ibex 35 recupera los 20.100 puntos atento a la geopolítica y Nvidia"
+      }
+    },
+    {
+      "title_original": "En Taiwán se procesa a empleados de Nvidia por exportar servidores de IA a China",
+      "title_zh": "En Taiwán se procesa a empleados de Nvidia por exportar servidores de IA a China",
+      "url": "https://www.moncloa.com/2026/08/25/nvidia-empleados-procesados-china-ia-3420323/",
+      "source": "moncloa.com",
+      "source_score": 40,
+      "published_at": "2026-08-25T06:15:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Nueve personas han sido procesadas en Taiwán por exportar servidores de inteligencia artificial a China.",
+        "Entre los acusados figuran empleados de Nvidia y Supermicro, y el caso expone el eslabón más sensible de la cadena global de semiconductores.",
+        "Claves de la operación\n- La fiscalía de Keelung imputa a nueve personas."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "moncloa.com"
+      ],
+      "all_titles": {
+        "es": "En Taiwán se procesa a empleados de Nvidia por exportar servidores de IA a China"
+      }
+    },
+    {
+      "title_original": "Nach Drohnen-Angriff: Zwei Tote und Brand in russischer Ölraffinerie",
+      "title_zh": "Nach Drohnen-Angriff: Zwei Tote und Brand in russischer Ölraffinerie",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101402328/ukraine-krieg-feuer-in-russischer-raffinerie-nach-drohnen-angriff-tote.html",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-08-25T06:04:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Newsblog zum Krieg in der Ukraine Russland greift ukrainischen Grenzübergang zu Moldau an\nRussland hat einen ukrainischen Grenzübergang angegriffen.",
+        "Ein Brand in einer russischen Raffinerie hat wohl Todesopfer gefordert.",
+        "Alle Entwicklungen im Newsblog."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Nach Drohnen-Angriff: Zwei Tote und Brand in russischer Ölraffinerie"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : «Les nouvelles sanctions économiques américaines contre l'Iran pourraient être décisives», souligne cet expert",
+      "title_zh": "Guerre au Moyen-Orient : «Les nouvelles sanctions économiques américaines contre l'Iran pourraient être décisives», souligne cet expert",
+      "url": "https://www.cnews.fr/france/2026-08-25/guerre-au-moyen-orient-les-nouvelles-sanctions-economiques-americaines-contre",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-08-25T05:06:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "«Les nouvelles sanctions économiques américaines contre l'Iran pourraient être décisives», a souligne Claude Moniquet, spécialiste terrorisme et renseignements, ce mardi sur CNEWS.",
+        "«Elles vont s'attaquer aux entités et aux personnes liées aux réseaux iraniens», a-t-il expliqué.",
+        "Guerre au Moyen-Orient : «Les nouvelles sanctions économiques américaines contre l'Iran pourraient être décisives», souligne cet expert\nPar \n                                        CNEWS\n                                    \n        \n        Publié le\n          \n        \n                  -\n          Mis à jour le"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : «Les nouvelles sanctions économiques américaines contre l'Iran pourraient être décisives», souligne cet expert"
+      }
+    },
+    {
+      "title_original": "De Ormuz al Mediterráneo: el nuevo corredor energético que pretende redibujar Oriente Medio",
+      "title_zh": "De Ormuz al Mediterráneo: el nuevo corredor energético que pretende redibujar Oriente Medio",
+      "url": "https://es.ara.cat/internacional/oriente-proximo/ormuz-mediterraneo-nuevo-corredor-energetico-pretende-redibujar-oriente-medio_1_5831459.html",
+      "source": "Diari ARA",
+      "source_score": 40,
+      "published_at": "2026-08-25T05:03:20+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "BeirutDurante más de veinte años, el oleoducto que unía Kirkuk, al norte de Irak, y Banias, en Siria, estuvo fuera de servicio.",
+        "Construido en 1952, solía transportar 300.000 barriles de petróleo diarios, pero dejó de funcionar después de la invasión estadounidense de Irak en 2003.",
+        "Ahora ha vuelto a cobrar un nuevo protagonismo."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Diari ARA"
+      ],
+      "all_titles": {
+        "es": "De Ormuz al Mediterráneo: el nuevo corredor energético que pretende redibujar Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Songs created by AI banned from Australia's music charts",
+      "title_zh": "Songs created by AI banned from Australia's music charts",
+      "url": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-25T04:54:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Songs created by AI banned from Australia's music charts\n- Published\nSongs that are largely or wholly created by AI have been banned from Australia's music charts.",
+        "From this week, all releases must be \"substantially human made\" to be eligible.",
+        "The Australian Recording Industry Association (ARIA) said the new code would help \"promote the human nature of artistry\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Songs created by AI banned from Australia's music charts"
+      }
+    },
+    {
+      "title_original": "【解説】 イギリスがウクライナに巡航ミサイル製造許可、戦況は変わるのか",
+      "title_zh": "【解説】 イギリスがウクライナに巡航ミサイル製造許可、戦況は変わるのか",
+      "url": "https://www.bbc.com/japanese/articles/c5y45de86jko",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-25T04:30:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "【解説】 イギリスがウクライナに巡航ミサイル製造許可、戦況は変わるのか\n【解説】 イギリスがウクライナに巡航ミサイル製造許可、戦況は変わるのか\nPublished \nイギリス政府はこのほど、同国の巡航ミサイル「ストームシャドウ」のフランス版「スカルプ」について、イギリス製部品の設計図をウクライナに提供することに合意した。",
+        "イギリスのアンディ・バーナム首相は24日、就任以降初めての外国訪問でウクライナの首都キーウを訪れ、ウォロディミル・ゼレンスキー大統領と会談。ミサイル製造技術の提供を表明した。",
+        "しかし、ほぼ毎日ロシアからの弾道ミサイル攻撃を受けている状況において、この提案だけでは、ウクライナが戦争に勝利するには不十分かもしれない。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "【解説】 イギリスがウクライナに巡航ミサイル製造許可、戦況は変わるのか"
+      }
+    },
+    {
+      "title_original": "‘Like smoking a cigarette’: Indonesia chokes on haze as blazes intensify amid super ‘El Niño’",
+      "title_zh": "‘Like smoking a cigarette’: Indonesia chokes on haze as blazes intensify amid super ‘El Niño’",
+      "url": "https://www.theguardian.com/world/2026/aug/25/indonesia-wildfires-kalimantan-smoke-super-el-nino",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-25T04:17:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "In Indonesia’s Kalimantan, fires have ravaged tens of thousands of acres, with suffocating smoke reaching Malaysia and putting Singapore on alert Suwadi can barely see five metres in front of him when he steps outside his home in Indonesian Borneo.",
+        "Each breath, he says, feels “like smoking a cigarette”.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘Like smoking a cigarette’: Indonesia chokes on haze as blazes intensify amid super ‘El Niño’"
+      }
+    },
+    {
+      "title_original": "英、ウクライナへのミサイル技術の機密開示認める 戦況に変化をもたらすか(1/3)",
+      "title_zh": "英、ウクライナへのミサイル技術の機密開示認める 戦況に変化をもたらすか(1/3)",
+      "url": "https://www.cnn.co.jp/world/35251884.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-25T04:02:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "英、ウクライナへのミサイル技術の機密開示認める 戦況に変化をもたらすか\n（CNN） 英国が機密技術の公開を容認し、英仏で共同設計した巡航ミサイルのウクライナでの製造を可能にする方針であることが分かった。ロシア領内数百キロメートルにわたる射程で攻撃力の強化を図るウクライナにとって、大きな追い風となる。",
+        "フランスとウクライナは、英国で「ストーム・シャドー」と呼ばれる空対地巡航ミサイル「SCALP」について、ウクライナ国内での生産ラインを年内に設立することを目指している。24日に発表されたミサイルの英国製部品に関する情報の機密解除は、この目標達成に向けた重要な一歩になる。",
+        "欧州の兵器メーカーMBDA社が製造するSCALPは、通常弾頭を搭載した長射程の深部打撃兵器。これまでウクライナは輸入版のSCALPを駆使し、堅固な標的に対する攻撃を成功させてきた。これらのSCALPは2024年11月、ロシア領内の標的に対して初めて発射された。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "英、ウクライナへのミサイル技術の機密開示認める 戦況に変化をもたらすか(1/3)"
+      }
+    },
+    {
+      "title_original": "NZ religious sect leader jailed over death of Chinese follower",
+      "title_zh": "NZ religious sect leader jailed over death of Chinese follower",
+      "url": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-25T03:07:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "NZ religious sect leader jailed over death of Chinese follower\n- Published\nA New Zealand court has jailed a religious sect leader over the death of an elderly follower who had travelled from China to live with his family.",
+        "Kaixiao Liu was found guilty of manslaughter and kidnapping, and sentenced to more than 10 years in prison.",
+        "The body of 70-year-old Shulai Wang had been found wrapped in rice bags near Auckland's Gulf Harbour in March 2024, sparking a major homicide investigation which eventually led to Liu."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "NZ religious sect leader jailed over death of Chinese follower"
+      }
+    },
+    {
+      "title_original": "ウクライナ、ロシア通販2位オゾンの施設を攻撃",
+      "title_zh": "ウクライナ、ロシア通販2位オゾンの施設を攻撃",
+      "url": "https://www.bbc.com/japanese/articles/c7v45jeqgr0o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-25T03:05:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ、ロシア通販2位オゾンの施設を攻撃\nロシアのオンライン小売2位のオゾンは24日、同社が所有する複数の倉庫が、ウクライナによるドローン攻撃を受けたと発表した。",
+        "オゾンによると、ウクライナの攻撃を受けたのはロシア南部クラスノダール地方、ダゲスタン共和国、スタヴロポリ、アディゲ共和国の各地にある同社の物流施設。この夜間攻撃で火災が発生し、複数の負傷者が出たという。",
+        "ウクライナはここ数週間、ロシアのオンライン小売最大手ワイルドベリーズの施設を攻撃している。ワイルドベリーズがロシア軍に部品を供給しているため、同社は正当な攻撃対象だとウクライナは主張しているが、ロシアはこれを否定している。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、ロシア通販2位オゾンの施設を攻撃"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: London und Kyjiw schließen Abkommen zur militärischen Nutzung von KI",
+      "title_zh": "Ukraine-Krieg: London und Kyjiw schließen Abkommen zur militärischen Nutzung von KI",
+      "url": "https://www.spiegel.de/ausland/london-und-kyjiw-schliessen-abkommen-zur-militaerischen-nutzung-von-ki-a-7405706d-8345-4e98-b493-4360ac941b26",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-08-25T03:02:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Künstliche Intelligenz London und Kyjiw schließen Abkommen zur militärischen Nutzung von KI\nDie Ukraine und Großbritannien haben ein Abkommen zur Zusammenarbeit bei der militärischen Nutzung von künstlicher Intelligenz (KI) geschlossen.",
+        "Diese Partnerschaft verbinde die »unübertroffene Erfahrung im Einsatz« der Ukraine mit dem britischen »KI-Ökosystem von Weltklasse«, teilte der britische Premier Andy Burnham am Montag mit.",
+        "Er hatte das Abkommen zuvor gemeinsam mit dem ukrainischen Präsidenten Wolodymyr Selenskyj am Rande eines Treffens der sogenannten Koalition der Willigen in Kyjiw unterzeichnet."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: London und Kyjiw schließen Abkommen zur militärischen Nutzung von KI"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Ozon next in Kyiv’s sights as sheds of Wildberries rival burn",
+      "title_zh": "Ukraine war briefing: Ozon next in Kyiv’s sights as sheds of Wildberries rival burn",
+      "url": "https://www.theguardian.com/world/2026/aug/25/ukraine-war-briefing-ozon-next-in-kyivs-sights-as-sheds-of-wildberries-rival-burn",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-25T02:15:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  Ukraine has targeted four more warehouses of Ozon – Russia’s second-largest online retailer after Wildberries, which has itself been crippled by Ukrainian attacks.",
+        "Ozon’s shares fell by almost 30% on Monday after it reported strikes in southern Russia that brought to six the number of its facilities targeted within three days.",
+        "Ozon said a logistics hub in Makhachkala in Dagestan was on fire and had halted operations after a drone attack in which “several people” were injured."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Ozon next in Kyiv’s sights as sheds of Wildberries rival burn"
+      }
+    },
+    {
+      "title_original": "French tourist dies in Death Valley after car gets stuck in mud",
+      "title_zh": "French tourist dies in Death Valley after car gets stuck in mud",
+      "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-25T02:08:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "French tourist dies in Death Valley after car gets stuck in mud\n- Published\nA French tourist has died in California's Death Valley after becoming stranded on the side of the road during 46.6C (116F) heat.",
+        "Police found 68-year-old Pierre Michel Formosa recently following a brief search, with the National Park service saying he died while trying to seek help in the blistering heat when his car got stuck in mud.",
+        "\"This is a heartbreaking reminder of how quickly conditions here can turn dangerous,\" Death Valley National Park Superintendent Mike Reynolds said in a statement."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "French tourist dies in Death Valley after car gets stuck in mud"
+      }
+    },
+    {
+      "title_original": "バーナム英首相、ウクライナ支援継続を現地で誓う　ロシアの「言語道断の脅迫」にひるまない姿勢強調",
+      "title_zh": "バーナム英首相、ウクライナ支援継続を現地で誓う　ロシアの「言語道断の脅迫」にひるまない姿勢強調",
+      "url": "https://www.bbc.com/japanese/articles/cd94dzjqv5wo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-25T01:45:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "バーナム英首相、ウクライナ支援継続を現地で誓う ロシアの「言語道断の脅迫」にひるまない姿勢強調\nイギリスのアンディ・バーナム首相は24日、就任以降初めて公式訪問しているウクライナで、ロシアからの「言語道断の脅迫」にひるむことなく、イギリスはロシアに圧力をかけ続けると誓った。",
+        "バーナム氏はキーウで、ウクライナのウォロディミル・ゼレンスキー大統領と会談。また、キア・スターマー前英首相の下でイギリスとフランスが設立した「有志連合」の初会合で議長を務めた。",
+        "バーナム氏は会合で、有志連合の同盟各国がウクライナを守るため、「自国の備蓄を使い、他国が備蓄を使うのを支援する」など、「できる限りのことをしている」と強調。「今こそロシアへの圧力を維持し、この違法な戦争の資金調達を困難にすべきだ」と述べた。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "バーナム英首相、ウクライナ支援継続を現地で誓う　ロシアの「言語道断の脅迫」にひるまない姿勢強調"
+      }
+    },
+    {
+      "title_original": "国际观察66：中西博弈（十六）台海风云七十年【独家原创】",
+      "title_zh": "国际观察66：中西博弈（十六）台海风云七十年【独家原创】",
+      "url": "https://user.guancha.cn/main/content?id=1721487",
+      "source": "风闻",
+      "source_score": 40,
+      "published_at": "2026-08-25T01:40:46+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "国际观察66：中西博弈（十六）台海风云七十年【独家原创】\n——从隔海对峙到大势已定，三个不可逆事实\n二战结束，德国东西分裂、朝鲜半岛南北对峙、越南南北割据。这些分裂无一例外，是美苏两个超级大国人为切割国土、博弈妥协的产物。唯独中国走出了不同轨迹。1949年大陆全境解放，终结了近代军阀割据与内战乱象，也粉碎了外部势力“划江而治”的图谋。但内战遗留的残局，叠加美国七十余年持续的战略干预，使台湾长期游离于大陆治权之外。",
+        "与德、朝、越的美苏共同介入不同，台湾问题在1949年后便脱离了苏联博弈范畴，成为纯粹的中美地缘角力场。台海数十年僵持，核心从来不是两岸意识形态之争，而是美国维持西太平洋霸权、遏制中国崛起的战略布局。",
+        "以台湾地区最高执政者更迭为节点，台海历史可划分为六个阶段。从止轫者理论分析，每一阶段都上演止轫者与反止轫者之间的博弈拉扯。大陆作为止轫者主体持续积蓄综合势能，不断壮大自身。台湾当局作为割据政权，整体属于反止轫者序列，在不同历史阶段呈现出复杂的两面性：部分时期抵制台独与法理分裂；同时又依附外部势力，长期与大陆对峙。美国、岛内分裂势力，以及炒作台海议题图谋介入的日本右翼势力，属于纯粹反止轫者，意图固化分裂格局。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "风闻"
+      ],
+      "all_titles": {
+        "zh": "国际观察66：中西博弈（十六）台海风云七十年【独家原创】"
+      }
+    },
+    {
+      "title_original": "Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers",
+      "title_zh": "Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers",
+      "url": "https://www.theguardian.com/world/2026/aug/25/japan-1800-people-move-pull-400-tonne-hirosaki-castle-with-ropes",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-25T01:10:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "After repairs to Hirosaki Castle in Aomori prefecture, officials employed a technique known as hikiya to move the structure more than two metres To chants of “so-re, so-re”, about 1,800 people came together in northern Japan over the weekend to pull a 360-tonne castle keep a little more than two metres closer to its original resting place as part of ongoing renovations.",
+        "The keep – a fortified tower within a castle – had to be moved to repair a wall that was damaged in a major earthquake.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Japan enlists 1,800 people to drag a 360-tonne castle keep using ropes and rollers"
+      }
+    },
+    {
+      "title_original": "AI板块不安情绪和地缘政治威胁令美股承压",
+      "title_zh": "AI板块不安情绪和地缘政治威胁令美股承压",
+      "url": "https://cn.wsj.com/articles/ai%E6%9D%BF%E5%9D%97%E4%B8%8D%E5%AE%89%E6%83%85%E7%BB%AA%E5%92%8C%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E5%A8%81%E8%83%81%E4%BB%A4%E7%BE%8E%E8%82%A1%E6%89%BF%E5%8E%8B-d297158a",
+      "source": "华尔街日报中文网",
+      "source_score": 95,
+      "published_at": "2026-08-25T00:46:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "AI板块不安情绪和地缘政治威胁令美股承压    华尔街日报中文网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "华尔街日报中文网"
+      ],
+      "all_titles": {
+        "zh": "AI板块不安情绪和地缘政治威胁令美股承压"
+      }
+    },
+    {
+      "title_original": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+      "title_zh": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+      "url": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-25T00:34:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Far-right leader echoes ally Donald Trump and says operations to ‘track down illegal immigrants’ should begin this week, amid earthquake aftermath Colombia’s far-right president, Abelardo de la Espriella, has announced a crackdown on immigrants, ordering authorities to detain and deport people who are in the country irregularly or have committed crimes.",
+        "In office for just over two weeks, the millionaire former lawyer made the announcement on Sunday as the country continued to grapple with the aftermath of a 7.4-magnitude earthquake on 10 August that killed more than 300 people and destroyed more than 30,000 homes.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown"
+      }
+    },
+    {
+      "title_original": "US removes Syria from list of state sponsors of terrorism",
+      "title_zh": "US removes Syria from list of state sponsors of terrorism",
+      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-25T00:17:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US removes Syria from list of state sponsors of terrorism\n- Published\nThe US has removed Syria from its list of state sponsors of terrorism after 47 years, lifting what it said was the \"final major barriers\" for private sector investment in the country and its reintegration into the global economy.",
+        "US Secretary Of State Marco Rubio said the move was in recognition of the Syrian government's positive actions to fully distance itself from acts of international terrorism.",
+        "The Trump administration has embraced Syria's new president, Ahmed al-Sharaa, a former militant who once had an American bounty on his head as the leader of an al-Qaeda off-shoot."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US removes Syria from list of state sponsors of terrorism"
+      }
+    },
+    {
+      "title_original": "Irán advierte de una dura respuesta a sanciones previstas de EEUU y otras noticias de Oriente Medio",
+      "title_zh": "Irán advierte de una dura respuesta a sanciones previstas de EEUU y otras noticias de Oriente Medio",
+      "url": "https://www.latimes.com/espanol/internacional/articulo/2026-08-24/iran-advierte-de-una-dura-respuesta-sanciones-previstas-de-eeuu-y-otras-noticias-de-oriente-medio",
+      "source": "Los Angeles Times",
+      "source_score": 40,
+      "published_at": "2026-08-25T00:14:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Irán advierte de una dura respuesta a sanciones previstas de EEUU y otras noticias de Oriente Medio\n-   Share via\nIrán advirtió que las sanciones que Estados Unidos tiene previstas no traerán paz a la región.",
+        "En tanto, funcionarios israelíes y sirios se reunieron menos de una semana después de una serie de ataques israelíes en Siria.",
+        "E Israel informó que mató a un comandante de Hamás en Gaza."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Los Angeles Times"
+      ],
+      "all_titles": {
+        "es": "Irán advierte de una dura respuesta a sanciones previstas de EEUU y otras noticias de Oriente Medio"
+      }
+    },
     {
       "title_original": "Field Of Vision Debuts Ukraine War-Themed ‘When It Started To Burn’ On Ukrainian Independence Day",
       "title_zh": "Field Of Vision Debuts Ukraine War-Themed ‘When It Started To Burn’ On Ukrainian Independence Day",
