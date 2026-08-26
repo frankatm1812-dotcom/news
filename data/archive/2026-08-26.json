@@ -1,8 +1,858 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-25T23:35:45.387516+00:00",
-  "count": 35,
+  "generated_at": "2026-08-26T11:43:49.810691+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "title_zh": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-26T11:02:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "German airport worker dies of malaria after 'mosquito arrives on plane'\n- Published\nA Frankfurt Airport worker has died of malaria after a rare outbreak led to six employees contracting the serious infection spread by mosquitoes.",
+        "It is believed the mosquitoes arrived at Germany's busiest airport on a plane, according to German public health officials.",
+        "The remaining five infected individuals are receiving medical treatment, a spokesperson for airport operator Fraport said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "German airport worker dies of malaria after 'mosquito arrives on plane'"
+      }
+    },
+    {
+      "title_original": "Mpox is back – and in new countries. How can this outbreak be contained?",
+      "title_zh": "Mpox is back – and in new countries. How can this outbreak be contained?",
+      "url": "https://www.theguardian.com/global-development/2026/aug/26/global-health-mpox-outbreak-explainer-children",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-26T11:00:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The public health emergencies in 2022 and 2024 saw the virus reported in 145 countries, but in the new cases children appear particularly affected A fresh outbreak of mpox in Guinea Bissau – the country’s first – means the virus formerly known as monkey pox is back in the headlines.",
+        "So what has changed?",
+        "Since 2022, there have been almost 190,000 lab-confirmed cases of mpox reported worldwide in 145 countries."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Mpox is back – and in new countries. How can this outbreak be contained?"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（8月26日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（8月26日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260817de44567",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-26T10:53:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（8月26日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（8月26日の動き）"
+      }
+    },
+    {
+      "title_original": "Radiation link in flight attendant's breast cancer, French court finds",
+      "title_zh": "Radiation link in flight attendant's breast cancer, French court finds",
+      "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-26T10:29:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Radiation link in flight attendant's breast cancer, French court finds\n- Published\nA French court has for the first time recognised cosmic radiation as a factor in the breast cancer of a long-serving flight attendant.",
+        "Sophie Lainault, a 59 year-old former stewardess on Air France, sought to have her cancer recognised as an occupational disease, brought on by conditions at work.",
+        "This has now been confirmed in a landmark court ruling in the southwestern town of Bayonne, which said that cosmic radiation was one of three carcinogenic hazards arising from her profession."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Radiation link in flight attendant's breast cancer, French court finds"
+      }
+    },
+    {
+      "title_original": "Taiwán se prepara para la posible llegada del tifón Saudel",
+      "title_zh": "Taiwán se prepara para la posible llegada del tifón Saudel",
+      "url": "https://www.abc.es/sociedad/taiwan-prepara-posible-llegada-tifon-saudel-20260826122541-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-08-26T10:25:45+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwán se prepara para la posible llegada del tifón Saudel\nNuevo Taipéi (Taiwán), 26 ago (EFE/EPA).- La Administración Meteorológica Central (CWA) de Taiwán ha...",
+        "Nuevo Taipéi (Taiwán), 26 ago (EFE/EPA).- La Administración Meteorológica Central (CWA) de Taiwán ha emitido una alerta marítima por el tifón Saudel, que se encuentra a 650 kilómetros al este-noreste de Taipéi y se dirige hacia la isla a 12 kilómetros por hora.",
+        "IMÁGENES: RITCHIE TONGO."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Taiwán se prepara para la posible llegada del tifón Saudel"
+      }
+    },
+    {
+      "title_original": "مسؤولة: روسيا وأوكرانيا تتبادلان عشرة أسرى حرب لكل منهما",
+      "title_zh": "مسؤولة: روسيا وأوكرانيا تتبادلان عشرة أسرى حرب لكل منهما",
+      "url": "https://www.reuters.com/ar/world/SGO2SDLC5VMOPFMMGV7NUJRZRU-2026-08-26/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-26T10:10:50+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "مسؤولة: روسيا وأوكرانيا تتبادلان عشرة أسرى حرب لكل منهما    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "مسؤولة: روسيا وأوكرانيا تتبادلان عشرة أسرى حرب لكل منهما"
+      }
+    },
+    {
+      "title_original": "ウクライナ軍の「巨大ミサイル」がロシアの宇宙センターに直撃 「深刻な損傷」衛星画像であきらかに",
+      "title_zh": "ウクライナ軍の「巨大ミサイル」がロシアの宇宙センターに直撃 「深刻な損傷」衛星画像であきらかに",
+      "url": "https://news.yahoo.co.jp/articles/f4e8a3d28222bd1ee99f2a096adaf0fcfb758a0f",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-26T09:37:24+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ軍の「巨大ミサイル」がロシアの宇宙センターに直撃 「深刻な損傷」衛星画像であきらかに\nFP-5「フラミンゴ」が直撃した宇宙センターの衛星画像が公開\nウクライナ軍参謀本部は2026年8月19日、新型の国産大型巡航ミサイルFP-5「フラミンゴ」による攻撃で損傷した、ロシア西部サマラ州の「プログレス」ロケット宇宙センターの衛星画像を公開しました。",
+        "【衛星画像】すさまじい威力..これがウクライナ軍の「巨大ミサイル」が直撃したロシアの宇宙センターの被害です 「プログレス」ロケット宇宙センターは、有人宇宙飛行や人工衛星の打ち上げに広く使用される「ソユーズ」シリーズのロケットを主に生産している重要拠点です。",
+        "その中には、米スペースX社の「スターリンク」に対抗するためにロシアが開発を進める、国産の衛星通信網「ラスヴェト」を軌道へ運ぶための「ソユーズ2.1b」三段式運搬ロケットも含まれています。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ軍の「巨大ミサイル」がロシアの宇宙センターに直撃 「深刻な損傷」衛星画像であきらかに"
+      }
+    },
+    {
+      "title_original": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
+      "title_zh": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food",
+      "url": "https://www.theguardian.com/global-development/2026/aug/26/moringa-lattes-and-tigernut-kebabs-the-young-ghanaians-taking-back-the-power-of-their-food",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-26T09:00:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "In Ghana, a grassroots movement is championing nutritious, homegrown, climate-resilient produce, rather than western imports After three years at catering school, Abiro Wisdom was certain of one thing – he did not want to go into catering.",
+        "At least not the route that he might be expected to take.",
+        "His course at Accra Technical University had prepared students for working in international hotels, focusing on French, Italian and Mexican cuisine."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Moringa lattes and tigernut kebabs: the Ghanaians ‘taking back the power’ of their food"
+      }
+    },
+    {
+      "title_original": "ウクライナ、世界初の無人機軍事パレード 先端技術を世界にアピール",
+      "title_zh": "ウクライナ、世界初の無人機軍事パレード 先端技術を世界にアピール",
+      "url": "https://www.nikkei.com/article/DGXZQOGR265MW0W6A820C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-26T08:37:25+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "この記事は会員限定記事です\nウクライナ、世界初の無人機軍事パレード 先端技術を世界にアピール\n[会員限定記事]\n【ワルシャワ=金子夏樹】ウクライナは24日の独立35年記念日に、ドローン（無人機）部隊を中心とする軍事パレードを実施した。大統領府によると実戦に投入される陸海空のドローンおよそ100機が参加し、先端の無人機技術を世界にアピールした。",
+        "パレードでは地上戦などで使われる無人地上車両（UGV）が首都キーウ中心部を走行し、水上ドローン（無人艇）がドニプロ川を航行した。偵察や攻撃、迎撃に投入している多数の...",
+        "2022年2月、ロシアがウクライナに侵略しました。戦況や世界各国の動きなど、関連する最新ニュースと解説をまとめました。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、世界初の無人機軍事パレード 先端技術を世界にアピール"
+      }
+    },
+    {
+      "title_original": "العقوبات على شركاء إيران.. نقطة توتر جديدة في العلاقات الأمريكية الصينية؟",
+      "title_zh": "العقوبات على شركاء إيران.. نقطة توتر جديدة في العلاقات الأمريكية الصينية؟",
+      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20260826-%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%B4%D8%B1%D9%83%D8%A7%D8%A1-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%86%D9%82%D8%B7%D8%A9-%D8%AA%D9%88%D8%AA%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A%D8%A9",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-26T08:18:27+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "العقوبات على شركاء إيران..",
+        "نقطة توتر جديدة في العلاقات الأمريكية الصينية؟    France 24",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "العقوبات على شركاء إيران.. نقطة توتر جديدة في العلاقات الأمريكية الصينية؟"
+      }
+    },
+    {
+      "title_original": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "title_zh": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-26T08:17:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer\n- Published\nA far-right member of the Israeli parliament has badly damaged a Palestinian memorial with a sledgehammer in the occupied West Bank while under military escort.",
+        "The incident has drawn strong criticism from Palestinians and across the political spectrum in Israel.",
+        "Video footage showed Zvi Sukkot, a member of the far-right Religious Zionism party, and several others striking the stone memorial in the Palestinian village of Madama."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Ukraine startet neue Welle von Drohnenangriffen auf Russland",
+      "title_zh": "Ukraine-Krieg: Ukraine startet neue Welle von Drohnenangriffen auf Russland",
+      "url": "https://www.tagesspiegel.de/internationales/ukraine-krieg-ukraine-startet-neue-welle-von-drohnenangriffen-auf-russland-15982283.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-08-26T07:28:11+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: Ukraine startet neue Welle von Drohnenangriffen auf Russland\nBei ukrainischen Drohnenattacken auf Russland sind zwei Menschen gestorben.",
+        "Ein weiteres Lager des russischen Online-Versandhändlers Wildberries ging in Flammen auf.",
+        "Stand:\nnun bevorzugt anzeigen lassen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Ukraine startet neue Welle von Drohnenangriffen auf Russland"
+      }
+    },
+    {
+      "title_original": "Indian jewellery ad pulled after backlash over actor's outfit",
+      "title_zh": "Indian jewellery ad pulled after backlash over actor's outfit",
+      "url": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-26T07:26:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Indian jewellery ad pulled after backlash over actor's outfit\n- Published\nAn Indian jewellery brand has removed their new advertisement for the upcoming festival of Rakshabandhan, also known as Rakhi, after backlash over the outfit worn by the female lead.",
+        "The ad featured popular Bollywood actor Kriti Sanon celebrating the Hindu festival in which sisters tie a thread called Rakhi over their brothers' wrists.",
+        "Sanon, who is seen in a cropped top, skirt and a cape, addressed her critics on Tuesday night saying \"culture and traditions are in a woman's heart, not in her neckline!\"\nThe row started earlier on Tuesday after actor and BJP MP Kangana Ranaut called the ad \"intentionally creepy\" and asked why someone would tie a Rakhi dressed in a bikini."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Indian jewellery ad pulled after backlash over actor's outfit"
+      }
+    },
+    {
+      "title_original": "Bodies found on S Korean holiday island as missing persons scandal deepens",
+      "title_zh": "Bodies found on S Korean holiday island as missing persons scandal deepens",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-26T07:01:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Bodies found on S Korean holiday island as missing persons scandal deepens\n- Published\nFour missing people have been found dead on South Korean holiday island Jeju, as local police face mounting public criticism for allegedly mishandling missing persons cases.",
+        "Reports emerged last week that authorities were launching a belated search for a woman reported missing months ago.",
+        "This sparked criticism of the police for failing to search for her earlier."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Bodies found on S Korean holiday island as missing persons scandal deepens"
+      }
+    },
+    {
+      "title_original": "Taïwan confirme sa participation au Forum des îles du Pacifique malgré l’opposition de Pékin",
+      "title_zh": "Taïwan confirme sa participation au Forum des îles du Pacifique malgré l’opposition de Pékin",
+      "url": "https://www.sudouest.fr/international/asie/taiwan/taiwan-confirme-sa-participation-au-forum-des-iles-du-pacifique-malgre-l-opposition-de-pekin-30369497.php",
+      "source": "Sud Ouest",
+      "source_score": 40,
+      "published_at": "2026-08-26T06:24:07+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Le secrétaire général du bloc, Baron Waqa, avait annoncé début août la participation de Taïwan, provoquant quelques jours plus tard une protestation de Pékin, qui revendique la souveraineté sur l’archipel.",
+        "L’opposition de la Chine, et des îles Salomon alors organisatrices, avait abouti à l’exclusion de Taïwan et de toutes les parties extérieures à la région de l’édition 2025.",
+        "Partenariats et maintien de la paix\nMercredi, la diplomatie taïwanaise a néanmoins affirmé dans un communiqué que le ministre des Affaires étrangères Lin Chia-lung serait présent au prochain forum, organisé du 30 août au 4 septembre."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Sud Ouest"
+      ],
+      "all_titles": {
+        "fr": "Taïwan confirme sa participation au Forum des îles du Pacifique malgré l’opposition de Pékin"
+      }
+    },
+    {
+      "title_original": "Los Países Bajos blinda su flota con drones interceptores OTAN: el Destinus Hornet B2 contra enjambres aéreos",
+      "title_zh": "Los Países Bajos blinda su flota con drones interceptores OTAN: el Destinus Hornet B2 contra enjambres aéreos",
+      "url": "https://www.moncloa.com/2026/08/26/drones-interceptores-otan-armada-holandesa-3420906/",
+      "source": "moncloa.com",
+      "source_score": 40,
+      "published_at": "2026-08-26T06:24:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Países Bajos blindará su flota con drones interceptores de la OTAN.",
+        "La Armada Real de los Países Bajos ha encargado a Destinus una capacidad anti-dron basada en el interceptor Hornet B2 para proteger sus buques de guerra contra enjambres de sistemas aéreos no tripulados.",
+        "El programa se completará en el segundo trimestre de 2027 e incluye la entrega de interceptores, su integración en varios buques y el apoyo a una posible capacidad operativa inicial."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "moncloa.com"
+      ],
+      "all_titles": {
+        "es": "Los Países Bajos blinda su flota con drones interceptores OTAN: el Destinus Hornet B2 contra enjambres aéreos"
+      }
+    },
+    {
+      "title_original": "Russia Ukraine War",
+      "title_zh": "俄罗斯乌克兰战争",
+      "url": "https://www.gazettextra.com/news/nation_world/russia-ukraine-war/image_1eb9d313-2dd0-57b7-8bd4-6210c0167e2d.html",
+      "source": "GazetteXtra",
+      "source_score": 40,
+      "published_at": "2026-08-26T06:12:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美联社俄罗斯乌克兰战争未挂名 - 乌克兰总统新闻办公室 2026 年 8 月 26 日 2 小时前 Facebook Twitter WhatsApp SMS 电子邮件 打印 复制文章链接 保存 在这张由乌克兰总统新闻办公室提供的照片中，乌克兰总统弗拉基米尔·泽连斯基（右）于乌克兰基辅与拳击手特伦斯·克劳福德握手。",
+        "Uncredited - Ukrainian Presidential Press Office Tags General News Russia Ukraine War Facebook Twitter WhatsApp SMS Email Print Copy article link Save Trending Now Sky Carp organization seeks new general manager Public Record for Aug.",
+        "26, 2026 Eighth-grade career program ‘Club Scrub’ comes to SSM St."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "GazetteXtra"
+      ],
+      "all_titles": {
+        "en": "Russia Ukraine War"
+      }
+    },
+    {
+      "title_original": "„Der Verdacht besteht, dass die Russen die Nato einem Stresstest unterziehen könnten“",
+      "title_zh": "„Der Verdacht besteht, dass die Russen die Nato einem Stresstest unterziehen könnten“",
+      "url": "https://www.welt.de/politik/ausland/video6a8e77c8511d4fd3bc4e403f/cia-chef-in-moskau-der-verdacht-besteht-dass-die-russen-die-nato-einem-stresstest-unterziehen-koennten.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-08-26T05:42:17+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Artikeltyp:VideoCIA-Chef in Moskau\n„Der Verdacht besteht, dass die Russen die Nato einem Stresstest unterziehen könnten“\nCIA-Direktor John Ratcliffe soll zu Gesprächen nach Moskau gereist sein.",
+        "Korrespondent Christoph Wanner erklärt, mit wem Ratcliffe gesprochen und welches Thema im Fokus gestanden haben könnte: „Es gibt viele Spekulationen.“\n© Axel Springer Deutschland GmbH.",
+        "Alle Rechte vorbehalten."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Der Verdacht besteht, dass die Russen die Nato einem Stresstest unterziehen könnten“"
+      }
+    },
+    {
+      "title_original": "Swiss to vote on whether to tighten neutrality, end peacetime cooperation with NATO",
+      "title_zh": "Swiss to vote on whether to tighten neutrality, end peacetime cooperation with NATO",
+      "url": "https://www.reuters.com/business/aerospace-defense/swiss-vote-whether-tighten-neutrality-end-peacetime-cooperation-with-nato-2026-08-26/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-26T05:34:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "瑞士将就是否加强中立、结束与北约和平时期的合作进行投票 - 路透中文网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Swiss to vote on whether to tighten neutrality, end peacetime cooperation with NATO"
+      }
+    },
+    {
+      "title_original": "عمال ومقيمون في الخليج قرّروا البقاء رغم الحرب في الشرق الأوسط بسبب نقص بدائل أفضل",
+      "title_zh": "عمال ومقيمون في الخليج قرّروا البقاء رغم الحرب في الشرق الأوسط بسبب نقص بدائل أفضل",
+      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260826-%D8%B9%D9%85%D8%A7%D9%84-%D9%88%D9%85%D9%82%D9%8A%D9%85%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D9%82%D8%B1%D9%91%D8%B1%D9%88%D8%A7-%D8%A7%D9%84%D8%A8%D9%82%D8%A7%D8%A1-%D8%B1%D8%BA%D9%85-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%86%D9%82%D8%B5-%D8%A8%D8%AF%D8%A7%D8%A6%D9%84-%D8%A3%D9%81%D8%B6%D9%84",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-26T05:13:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "عمال ومقيمون في الخليج قرّروا البقاء رغم الحرب في الشرق الأوسط بسبب نقص بدائل أفضل    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "عمال ومقيمون في الخليج قرّروا البقاء رغم الحرب في الشرق الأوسط بسبب نقص بدائل أفضل"
+      }
+    },
+    {
+      "title_original": "The other Dan Sullivan makes November ballot against Sen. Dan Sullivan",
+      "title_zh": "The other Dan Sullivan makes November ballot against Sen. Dan Sullivan",
+      "url": "https://www.politico.com/news/2026/08/26/dan-sullivan-alaska-senate-race-01050349",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-25T23:11:26-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Retired teacher Dan J.",
+        "Sullivan could play spoiler in a high-stakes Alaska Senate race.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The other Dan Sullivan makes November ballot against Sen. Dan Sullivan"
+      }
+    },
+    {
+      "title_original": "‘It's put up or shut up time’: Battleground Republicans want the Darline treatment",
+      "title_zh": "‘It's put up or shut up time’: Battleground Republicans want the Darline treatment",
+      "url": "https://www.politico.com/news/2026/08/25/trump-attention-battleground-republicans-darline-graham-01050345",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-25T22:49:27-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The president went to great lengths to push his candidate over the finish line in South Carolina, but Republicans want the same support in races that will actually determine control of Congress.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "‘It's put up or shut up time’: Battleground Republicans want the Darline treatment"
+      }
+    },
+    {
+      "title_original": "La OTAN cambia su discurso sobre las mujeres y ya las considera una \"capacidad militar\"",
+      "title_zh": "La OTAN cambia su discurso sobre las mujeres y ya las considera una \"capacidad militar\"",
+      "url": "https://www.articulo14.es/defensa/la-otan-cambia-su-discurso-sobre-las-mujeres-y-ya-las-considera-una-capacidad-militar-20260826.html",
+      "source": "Artículo 14",
+      "source_score": 55,
+      "published_at": "2026-08-26T03:45:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "La OTAN cambia su discurso sobre las mujeres y ya las considera una \"capacidad militar\"    Artículo 14",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Artículo 14"
+      ],
+      "all_titles": {
+        "es": "La OTAN cambia su discurso sobre las mujeres y ya las considera una \"capacidad militar\""
+      }
+    },
+    {
+      "title_original": "中东局势影响波及日本地方企业 九成受访单位称受影响",
+      "title_zh": "中东局势影响波及日本地方企业 九成受访单位称受影响",
+      "url": "https://www.jpchinapress.com/static/content/CJ/2026-08-26/1542131317121093632.html",
+      "source": "jpchinapress.com",
+      "source_score": 40,
+      "published_at": "2026-08-26T03:22:34+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中东局势影响波及日本地方企业 九成受访单位称受影响\n- 1787714357427\n- 来源：网络编辑\n（亚太快讯消息）围绕持续紧张的中东局势对石油相关能源及原材料供应造成的不稳定影响，日本群马县伊势崎市近期对市内企业和团体开展了一项专项调查。结果显示，在参与回答的单位中，高达九成表示\"受到影响\"，要求政府出台补助金等能源价格高涨应对措施的声音十分强烈。",
+        "此次调查于6月15日至7月31日期间实施，面向日本伊势崎市内的建筑业、工商业、农业等领域的4480家事业者展开，共收到507家事业者的有效回复。",
+        "关于中东局势及原油价格高涨带来的影响，48.7%的受访者认为\"影响很大\"，另有41.3%的受访者认为\"有一定影响\"。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "jpchinapress.com"
+      ],
+      "all_titles": {
+        "zh": "中东局势影响波及日本地方企业 九成受访单位称受影响"
+      }
+    },
+    {
+      "title_original": "Trump-backed candidate wins primary for Oklahoma governor",
+      "title_zh": "Trump-backed candidate wins primary for Oklahoma governor",
+      "url": "https://www.politico.com/news/2026/08/25/mazzei-wins-oklahoma-governor-runoff-01050323",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-25T22:04:10-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Former state Sen.",
+        "Mike Mazzei’s victory is a relief for the president after several of his chosen candidates fell in other states.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Trump-backed candidate wins primary for Oklahoma governor"
+      }
+    },
+    {
+      "title_original": "Kaliningrad-Übung enthüllt: Russland testet Mobilisierung – und ein NATO-Gebiet rückt ins Visier",
+      "title_zh": "Kaliningrad-Übung enthüllt: Russland testet Mobilisierung – und ein NATO-Gebiet rückt ins Visier",
+      "url": "https://www.fr.de/politik/in-kaliningrad-russland-gegen-die-nato-putin-testet-mobilisierung-zr-94458274.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-26T02:46:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Kaliningrad-Übung enthüllt: Russland testet Mobilisierung – und ein NATO-Gebiet rückt ins Visier\nUns auf Google folgen\nEin westlicher Analyst sagt, eine neue Mobilisierung Russlands kommt für dieses Jahr zu spät – aber sie könnte den Ukraine-Krieg nachhaltig verändern.",
+        "Kaliningrad – Unterkunft, Verpflegung, Waffen: Russische Offiziere haben im Juli in Kaliningrad durchgespielt, wie sich die Bevölkerung der Exklave im Kriegsfall einziehen lässt.",
+        "Das berichtet das Wall Street Journal unter Berufung auf westliche Geheimdienstkreise."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Kaliningrad-Übung enthüllt: Russland testet Mobilisierung – und ein NATO-Gebiet rückt ins Visier"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Small batch of Patriots arrives as Zelenskyy pleads for more",
+      "title_zh": "Ukraine war briefing: Small batch of Patriots arrives as Zelenskyy pleads for more",
+      "url": "https://www.theguardian.com/world/2026/aug/26/ukraine-war-briefing-small-batch-of-patriots-arrives-as-zelenskyy-pleads-for-more",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-26T02:15:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  Ukraine has recently received a small number of US-made Patriot interceptors capable of shooting down Russian ballistic missiles, Volodymyr Zelenskyy said.",
+        "He did not say how many had arrived, or who had supplied them.",
+        "Kyiv also got confirmation of future supplies of the French Crotale surface-to-air missile system, the president was quoted as saying by broadcaster Suspilne."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Small batch of Patriots arrives as Zelenskyy pleads for more"
+      }
+    },
+    {
+      "title_original": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
+      "title_zh": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
+      "url": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-26T01:46:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Heavy rain expected in parts of Vietnam and southern ‌China, as another storm system, Typhoon Saudel, heads for Japan and Taiwan Widespread flooding triggered by Typhoon Narra has submerged homes and forced mass evacuations in southern China, as another storm system tracked towards Japan and Taiwan.",
+        "Authorities in Chongzuo, in China’s Guangxi region – famous for its giant waterfalls and karst limestone mountains – on Tuesday evacuated more than 15,000 people after water ⁠levels surpassed a record high set in 2008.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China"
+      }
+    },
+    {
+      "title_original": "Musk's SpaceX to build $100bn launch facility in Louisiana",
+      "title_zh": "Musk's SpaceX to build $100bn launch facility in Louisiana",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-26T01:32:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Musk's SpaceX to build $100bn launch facility in Louisiana\n- Published\nMulti-billionaire Elon Musk's rocket company SpaceX has announced that it will build its largest launch site yet in the southern US state of Louisiana.",
+        "Construction of the $100bn (£73bn) project - named Starbase, Louisiana - is due to start next year, with the 125,000-acre (50,585-hectare) site expanding on the company's operations beyond its current Texas headquarters and locations in Florida.",
+        "It will be used to \"support thousands of Starship flights a year with missions launching to Earth orbit, the Moon, Mars and beyond,\" SpaceX said on Tuesday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Musk's SpaceX to build $100bn launch facility in Louisiana"
+      }
+    },
+    {
+      "title_original": "ウクライナの攻撃で甚大な被害受けるロシアのインフラ、プーチン氏が接収求める",
+      "title_zh": "ウクライナの攻撃で甚大な被害受けるロシアのインフラ、プーチン氏が接収求める",
+      "url": "https://www.cnn.co.jp/world/35251915.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-26T01:09:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナの攻撃で甚大な被害受けるロシアのインフラ、プーチン氏が接収求める\n（CNN） ロシアのプーチン大統領は、政府に対し国内の「重要インフラ」を一時的に接収する権限を与える大統領令に署名した。ウクライナ軍の攻撃が激化する中、民間企業がインフラ施設を保護できない場合に接収権限を行使するとしている。",
+        "ロシアとウクライナの双方が空爆作戦を強化する状況で、ロシア側が新たな措置を打ち出した形だ。ウクライナ軍によるロシア領土深部への攻撃は燃料不足を引き起こし、ロシア国民にとって戦争をより身近なものにしている。",
+        "ウクライナはここ数日、ロシア通販大手のオゾンや競合するワイルドベリーズに対する攻撃を強化している。そこにはロシアの戦争依存型経済を弱体化させる狙いがある。24日に発効した今回の大統領令は、新たな措置の導入について「ロシア連邦の重要インフラ施設の安全保障が一段と脅かされる現状に関連する」と述べている。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの攻撃で甚大な被害受けるロシアのインフラ、プーチン氏が接収求める"
+      }
+    },
+    {
+      "title_original": "Political newcomer Darline Graham wins South Carolina’s GOP Senate runoff",
+      "title_zh": "Political newcomer Darline Graham wins South Carolina’s GOP Senate runoff",
+      "url": "https://www.politico.com/news/2026/08/25/darline-graham-wins-south-carolina-senate-runoff-01050320",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-25T20:03:27-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Her win in the snap primary to replace her late brother Lindsey Graham comes after President Donald Trump significantly boosted her campaign.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Political newcomer Darline Graham wins South Carolina’s GOP Senate runoff"
+      }
+    },
+    {
+      "title_original": "パワー・アジアの「再起動」 日本は中東とASEANを石油で結べ",
+      "title_zh": "パワー・アジアの「再起動」 日本は中東とASEANを石油で結べ",
+      "url": "https://www.nikkei.com/article/DGXZQOCD2326W0T20C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-26T01:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "パワー・アジアの「再起動」 日本は中東とASEANを石油で結べ\nDeep Insight 編集委員 高橋徹\nこの記事でわかること※要約は生成AIで作成し編集者が確認しています\n- 日本はエネルギー安保協力構想「パワー・アジア」で中東とアジアを結びます\n- 100億ドルの金融支援枠を設け、各国の石油備蓄やインフラ構築を後押しします\n- 産油国と消費国が手を携える危機対応で、日本の構想力が試される局面です\n※要約は生成AIで作成し編集者が確認しています\n世界経済を人質に米国とイランはいつまで泥仕合を続ける気か。中東混迷に出口は見えず、ホルムズ海峡の通航も不安定なままだ。石油の多くを湾岸地域に依存するアジアは、現在進行形と未来形の両面で危機対応を迫られる。",
+        "日本が4月に創設したエネルギー安全保障の協力構想「パワー・アジア」もそのひとつだ。100億ドル（約1.6兆円）の金融支援枠を設け、石油調達に融資する。各国の備蓄やインフラ構築も後押しし、フィリ...",
+        "※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "パワー・アジアの「再起動」 日本は中東とASEANを石油で結べ"
+      }
+    },
+    {
+      "title_original": "バチカン外相、ロシアにウクライナ戦争終結訴え 5年ぶり訪ロ",
+      "title_zh": "バチカン外相、ロシアにウクライナ戦争終結訴え 5年ぶり訪ロ",
+      "url": "https://jp.reuters.com/world/ukraine/TTAYTGHQ4JNMDJSCSYTOX2PPUE-2026-08-26/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-26T00:17:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "バチカン外相、ロシアにウクライナ戦争終結訴え 5年ぶり訪ロ    ロイター",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "バチカン外相、ロシアにウクライナ戦争終結訴え 5年ぶり訪ロ"
+      }
+    },
+    {
+      "title_original": "ロシア、穀物輸出強化へ緊急措置を検討 ウクライナの拠点攻撃に対応",
+      "title_zh": "俄罗斯考虑采取紧急措施增加粮食出口，以应对乌克兰基地袭击事件",
+      "url": "https://jp.reuters.com/markets/japan/RMZZ5GKSVFOIJOLWI326B64STE-2026-08-25/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-25T23:57:52+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "ロシア、穀物輸出強化へ緊急措置を検討 ウクライナの拠点攻撃に対応    ロイター",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ロシア、穀物輸出強化へ緊急措置を検討 ウクライナの拠点攻撃に対応"
+      }
+    },
     {
       "title_original": "【市场聚焦】玉米：预期扭转",
       "title_zh": "【市场聚焦】玉米：预期扭转",
