@@ -1,0 +1,813 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-27T21:02:30.281442+00:00",
+  "count": 32,
+  "articles": [
+    {
+      "title_original": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
+      "title_zh": "陪审团审议被控杀害孩子的美国妇女林赛·克兰西的审判",
+      "url": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-27T20:39:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "检察官认为克兰西谋杀孩子是经过深思熟虑的决定，而辩方则认为她患有产后精神病。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children"
+      }
+    },
+    {
+      "title_original": "Pentagon policy chief tells NATO allies U.S. wants European-led defense of continent",
+      "title_zh": "五角大楼政策负责人告诉北约盟国美国希望欧洲领导的大陆防御",
+      "url": "https://www.reuters.com/business/aerospace-defense/pentagon-policy-chief-tells-nato-allies-us-wants-european-led-defense-continent-2026-08-27/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-27T20:37:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "五角大楼政策负责人告诉北约盟国美国",
+        "希望欧洲领导的大陆保卫战 路透社",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Pentagon policy chief tells NATO allies U.S. wants European-led defense of continent"
+      }
+    },
+    {
+      "title_original": "Donald Trump überzeugt: Wladimir Putin werde »kein Nato-Territorium angreifen»",
+      "title_zh": "唐纳德·特朗普说服：弗拉基米尔·普京“不会攻击北约领土”",
+      "url": "https://www.spiegel.de/ausland/donald-trump-ueberzeugt-wladimir-putin-werde-kein-nato-territorium-angreifen-a-67877073-dda9-46d1-b10d-1bc0a0a9e982",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-08-27T19:02:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "中情局局长访俄 特朗普深信不疑：普京“不会攻击任何北约领土”\n美国总统唐纳德·特朗普表示相信俄罗斯不会攻击北约盟国。",
+        "当被问及俄罗斯总统弗拉基米尔·普京是否同意或承诺不采取这种攻势时，他在椭圆形办公室表示：“我与他进行了良好的交谈。",
+        "他不会攻击任何北约领土。”\n《华尔街日报》和《政治》杂志此前援引未透露姓名的消息来源报道称，中央情报局局长约翰·拉特克利夫在周二访问莫斯科期间警告说，北约盟国将遭受袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Donald Trump überzeugt: Wladimir Putin werde »kein Nato-Territorium angreifen»"
+      }
+    },
+    {
+      "title_original": "Trump says Putin will not attack NATO territory, downplays Ratcliffe trip",
+      "title_zh": "特朗普称普京不会攻击北约领土，淡化拉特克利夫之行",
+      "url": "https://www.reuters.com/world/trump-says-putin-will-not-attack-nato-territory-downplays-ratcliffe-trip-2026-08-27/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-27T19:01:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "特朗普称普京不会攻击北约领土，淡化拉特克利夫之行 路透社",
+        "",
+        ""
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（3个来源）",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "搜狐网",
+        "テレ朝NEWS",
+        "Reuters"
+      ],
+      "all_titles": {
+        "zh": "特朗普称俄罗斯不会攻击北约",
+        "ja": "トランプ氏「ロシアはNATO領土を攻撃せず」CIA局長モスクワ訪問は「通常業務」",
+        "en": "Trump says Putin will not attack NATO territory, downplays Ratcliffe trip"
+      }
+    },
+    {
+      "title_original": "Trump asegura que Putin no atacará territorio de la OTAN",
+      "title_zh": "特朗普保证普京不会攻击北约领土",
+      "url": "https://www.dw.com/es/trump-asegura-que-putin-no-atacar%C3%A1-territorio-de-la-otan/a-78538172",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-08-27T18:53:07+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普保证普京不会攻击北约领土\n2026 年 8 月 27 日\n美国总统唐纳德·特朗普本周四（2026 年 8 月 27 日）保证，俄罗斯“不会攻击”北约领土，并驳斥了华盛顿担心俄罗斯可能在欧洲采取行动的新闻报道。",
+        "特朗普指出，他与俄罗斯领导人普京进行了“良好的对话”。",
+        "“它不会攻击北约领土，”他强调。"
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "dw.com",
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "es": "Trump asegura que Putin no atacará territorio de la OTAN",
+        "ar": "ترامب: بوتين طمأنني بعدم مهاجمة أراضي حلف الناتو"
+      }
+    },
+    {
+      "title_original": "Norwegians lay flowers at palace as King Harald's condition worsens",
+      "title_zh": "哈拉尔国王病情恶化，挪威人向宫殿献花",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-27T17:42:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "哈拉尔国王病情恶化，挪威人向宫殿献花\n- 已发表\n在王室表示哈拉尔五世国王在医院的病情变得“极其严重”后，挪威人在奥斯陆宫殿前献花。",
+        "他的妻子索尼娅王后和儿子哈康王储取消了皇室活动，与其他家庭成员一起在奥斯陆大学医院的床边陪伴他。",
+        "他们都呆了几个小时，然后在晚上哈康与王储妃梅特·玛丽特一起回来。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Norwegians lay flowers at palace as King Harald's condition worsens"
+      }
+    },
+    {
+      "title_original": "Two killed in 'domestic violence incident' at school near Berlin",
+      "title_zh": "柏林附近学校“家庭暴力事件”造成两人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-27T17:07:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "柏林附近学校“家庭暴力事件”造成两人死亡\n- 已发表\n当地警方称，德国首都柏林附近的戈森-新齐陶镇一所学校发生“家庭暴力事件”，造成两人死亡。",
+        "勃兰登堡州警方表示，他们逮捕了一名 19 岁的德国男子，他“被认为是主要嫌疑人”。",
+        "他们表示这不是“大规模枪击事件”，但没有具体说明使用了什么武器。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Two killed in 'domestic violence incident' at school near Berlin"
+      }
+    },
+    {
+      "title_original": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+      "title_zh": "被定罪的波斯尼亚塞族战犯姆拉迪奇去世，享年 84 岁",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-27T17:05:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "被定罪的波斯尼亚塞族战犯姆拉迪奇去世，享年 84 岁\n- 已发表\n被定罪的波斯尼亚塞族战犯拉特科·姆拉迪奇在海牙联合国监狱内死亡，享年 84 岁。",
+        "2017年，他因在1992-95年前南斯拉夫战争期间犯下种族灭绝罪、战争罪和反人类罪而被判终身监禁。",
+        "波斯尼亚战争结束后，他逃亡了 16 年，直到 2011 年终于在塞尔维亚农村被抓获，并在荷兰城市接受审判。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Convicted Bosnian Serb war criminal Mladić dies aged 84"
+      }
+    },
+    {
+      "title_original": "美国中央情报局局长访莫斯科后 克里姆林宫斥美媒报道“危言耸听”",
+      "title_zh": "美国中央情报局局长访莫斯科后 克里姆林宫斥美媒报道“危言耸听”",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260827-%E7%BE%8E%E5%9B%BD%E4%B8%AD%E5%A4%AE%E6%83%85%E6%8A%A5%E5%B1%80%E5%B1%80%E9%95%BF%E8%AE%BF%E8%8E%AB%E6%96%AF%E7%A7%91%E5%90%8E-%E5%85%8B%E9%87%8C%E5%A7%86%E6%9E%97%E5%AE%AB%E6%96%A5%E7%BE%8E%E5%AA%92%E6%8A%A5%E9%81%93-%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-08-27T17:01:20+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国中央情报局局长访莫斯科后 克里姆林宫斥美媒报道“危言耸听”    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "zh": "美国中央情报局局长访莫斯科后 克里姆林宫斥美媒报道“危言耸听”"
+      }
+    },
+    {
+      "title_original": "Le Kremlin rejette les récits \"alarmistes\" sur le risque d'une attaque russe contre l'Otan",
+      "title_zh": "克里姆林宫否认有关俄罗斯袭击北约风险的“危言耸听”故事",
+      "url": "https://www.france24.com/fr/info-en-continu/20260827-le-kremlin-rejette-les-r%C3%A9cits-alarmistes-sur-le-risque-d-une-attaque-russe-contre-l-otan",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-27T16:57:14+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "克里姆林宫否认有关俄罗斯袭击北约风险的“危言耸听”故事 法国 24 日",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Le Kremlin rejette les récits \"alarmistes\" sur le risque d'une attaque russe contre l'Otan"
+      }
+    },
+    {
+      "title_original": "El director de la CIA advirtió a Rusia que no atacara a miembros de la OTAN, según medios",
+      "title_zh": "据媒体报道，中央情报局局长警告俄罗斯不要攻击北约成员国",
+      "url": "https://efe.com/mundo/2026-08-27/director-cia-eeuu-rusia-atacar-otan/",
+      "source": "EFE - Agencia de noticias",
+      "source_score": 40,
+      "published_at": "2026-08-27T16:57:01+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "华盛顿（埃菲社）——美国总统唐纳德·特朗普周四保证，他与俄罗斯总统弗拉基米尔·普京进行了“良好的对话”，并且他不会攻击北约领土。",
+        "当在椭圆形办公室接受记者询问时，美国总统拒绝就中央情报局局长约翰·拉特克利夫闪电访问莫斯科发表评论，同时保证“（俄罗斯人）不会发动攻击”。",
+        "“我与他（普京）进行了良好的交谈。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "EFE - Agencia de noticias"
+      ],
+      "all_titles": {
+        "es": "El director de la CIA advirtió a Rusia que no atacara a miembros de la OTAN, según medios"
+      }
+    },
+    {
+      "title_original": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
+      "title_zh": "擎天柱和屹耳的配音演员彼得·卡伦去世",
+      "url": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-27T16:00:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "擎天柱和屹耳的配音演员彼得·卡伦去世\n- 已发表\n为《变形金刚》中的擎天柱和迪士尼《小熊维尼》系列中的屹耳等热门角色配音的演员彼得·卡伦去世，享年 85 岁。",
+        "这位加拿大演员于 1984 年在电视连续剧《变形金刚》中开始了他最著名的角色——饰演英雄深沉的擎天柱，然后在 2007 年至 2023 年期间出演了七部好莱坞电影和其他衍生作品。",
+        "他在 20 世纪 80 年代末的电视动画《小熊维尼新历险记》以及众多相关节目、电影和游戏中为抑郁的驴子屹耳配音。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Optimus Prime and Eeyore voice actor Peter Cullen dies"
+      }
+    },
+    {
+      "title_original": "إصابة امرأتين وطفلة برصاص القوات الإسرائيلية خلال اقتحام بلدة كَرْمِل جنوب الضفة الغربية",
+      "title_zh": "以色列军队袭击约旦河西岸南部卡梅尔镇时，两名妇女和一名女孩被子弹打伤",
+      "url": "https://www.bbc.com/arabic/bbc_arabic_radio/w1730n416b2n3rb",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-27T15:41:27+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "英国广播公司新闻，\n阿拉伯语\n转到内容\n主要\n手表\n当前页面，\n听\n部分\n主要\n新闻动态\n经济\n健康与科学\n文化艺术\n体育运动\n调查\n播客\n中东日记\n,\n以色列军队袭击约旦河西岸南部卡梅尔镇时，两名妇女和一名女孩被子弹打伤\n2026 年 8 月 27 日\n您的设备不支持视频播放\n莫卡港再次遭受轰炸后..",
+        "依赖港口活动的家庭的生计受到了怎样的影响？",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "إصابة امرأتين وطفلة برصاص القوات الإسرائيلية خلال اقتحام بلدة كَرْمِل جنوب الضفة الغربية"
+      }
+    },
+    {
+      "title_original": "EE UU reafirma su compromiso con la OTAN pero insta a Europa a hacer más en defensa",
+      "title_zh": "美国重申对北约的承诺，但敦促欧洲在防务方面采取更多行动",
+      "url": "https://elpais.com/internacional/2026-08-27/ee-uu-reafirma-su-compromiso-con-la-otan-pero-insta-a-europa-a-hacer-mas-en-defensa.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-08-27T15:17:10+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "美国重申其对北约的承诺，但敦促欧洲在国防方面采取更多行动",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "EE UU reafirma su compromiso con la OTAN pero insta a Europa a hacer más en defensa"
+      }
+    },
+    {
+      "title_original": "El jefe de la CIA estuvo en Moscú para advertir a Rusia que no atacara a la OTAN y para instarlos a cortar vínculos con Irán",
+      "title_zh": "中央情报局局长在莫斯科警告俄罗斯不要攻击北约并敦促他们切断与伊朗的关系",
+      "url": "https://cnnespanol.cnn.com/2026/08/27/eeuu/jefe-cia-rusia-advertencia-ataque-otan-trax",
+      "source": "CNN en Español",
+      "source_score": 95,
+      "published_at": "2026-08-27T15:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "据两位知情人士透露，唐纳德·特朗普总统的情报负责人本周前往莫斯科，警告俄罗斯不要对北约领土发动袭击等。",
+        "中央情报局局长约翰·拉特克利夫还利用这次未公开宣布的旅行敦促俄罗斯削减对伊朗的经济和军事支持，因为政府正努力在经济上压制德黑兰。",
+        "美国和欧洲官员越来越担心，俄罗斯总统弗拉基米尔·普京可能会通过有限的入侵（可能针对莫斯科的邻国之一）来测试北约，因为他在乌克兰的战争仍在拖延，没有解决的迹象。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "CNN en Español"
+      ],
+      "all_titles": {
+        "es": "El jefe de la CIA estuvo en Moscú para advertir a Rusia que no atacara a la OTAN y para instarlos a cortar vínculos con Irán"
+      }
+    },
+    {
+      "title_original": "Jellyfish force partial shutdown of French nuclear plant",
+      "title_zh": "水母迫使法国核电站部分关闭",
+      "url": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-27T14:49:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "水母迫使法国核电站部分关闭\n- 已发表\n大量水母涌入导致法国北部一座核反应堆部分关闭。",
+        "法国电力公司（EDF）表示，由于用于冷却的海水过滤系统中存在水母，格拉沃利讷核电站六台机组中的两台于周三和周四关闭。",
+        "由于同样的问题，第三个机组自 8 月 10 日起已关闭，第四个机组已关闭接受检查。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Jellyfish force partial shutdown of French nuclear plant"
+      }
+    },
+    {
+      "title_original": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
+      "title_zh": "和平委员会加沙特使批评以色列的袭击和哈马斯的行动",
+      "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-27T14:17:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "和平委员会加沙特使批评以色列的袭击和哈马斯的行动\n- 已发表\n美国总统唐纳德·特朗普和平委员会的一名高级官员批评以色列对加沙的持续空袭以及巴勒斯坦武装组织哈马斯的行动。",
+        "尼古拉·姆拉德诺夫警告说，去年十月停火协议的破裂将是该地区“无可挽回的结局”。",
+        "在以色列拒绝和平委员会上个月宣布的哈马斯解除武装的 15 点路线图后，他在联合国安理会发表了讲话。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions"
+      }
+    },
+    {
+      "title_original": "روسيا تهدد بضرب أهداف عسكرية لبريطانيا.. حرب أوكرانيا مرشحة للتوسع | التلفزيون العربي",
+      "title_zh": "俄罗斯威胁打击英国军事目标...乌克兰战争可能扩大阿拉伯电视",
+      "url": "https://www.alaraby.com/news/%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%AA%D9%87%D8%AF%D8%AF-%D8%A8%D8%B6%D8%B1%D8%A8-%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A7-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%85%D8%B1%D8%B4%D8%AD%D8%A9-%D9%84%D9%84%D8%AA%D9%88%D8%B3%D8%B9",
+      "source": "التلفزيون العربي",
+      "source_score": 40,
+      "published_at": "2026-08-27T13:55:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯周四警告称，可能会对乌克兰境内外的英国军事目标发动打击，以回应乌克兰使用英国远程巡航导弹对其领土发动的袭击。",
+        "俄罗斯外交部发言人玛丽亚·扎哈罗娃在莫斯科举行的新闻发布会上传达了这一警告，这是俄罗斯迄今为止向北约成员国和乌克兰的重要盟友英国发出的最严厉警告之一。",
+        "扎哈罗娃表示，伦敦距离成为她所说的针对俄罗斯平民的“恐怖主义”的合法同谋“仅一步之遥”，并警告称，除非英国改变做法，否则这将导致“严重后果”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "التلفزيون العربي"
+      ],
+      "all_titles": {
+        "ar": "روسيا تهدد بضرب أهداف عسكرية لبريطانيا.. حرب أوكرانيا مرشحة للتوسع | التلفزيون العربي"
+      }
+    },
+    {
+      "title_original": "La CIA a-t-elle mis en garde la Russie contre une agression visant l’Otan ?",
+      "title_zh": "中央情报局是否警告俄罗斯不要侵略北约？",
+      "url": "https://www.courrierinternational.com/article/decryptage-la-cia-a-t-elle-mis-en-garde-la-russie-contre-une-agression-visant-l-otan_264135",
+      "source": "Courrier international",
+      "source_score": 40,
+      "published_at": "2026-08-27T13:43:03+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "飞行时间。",
+        "在波罗的海国家的里加中途停留。",
+        "然后在那里呆了不到半天。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Courrier international"
+      ],
+      "all_titles": {
+        "fr": "La CIA a-t-elle mis en garde la Russie contre une agression visant l’Otan ?"
+      }
+    },
+    {
+      "title_original": "من \"دلتا\" إلى حاملات المسيّرات.. حرب أوكرانيا تدخل منعطفا جديدا",
+      "title_zh": "从“三角洲”到无人机航母……乌克兰战事进入新转折",
+      "url": "https://www.aljazeera.net/politics/2026/8/27/%D9%85%D9%86-%D8%AF%D9%84%D8%AA%D8%A7-%D8%A5%D9%84%D9%89-%D8%AD%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A7%D8%AA-%D8%AD%D8%B1%D8%A8",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-27T13:12:11+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "从“德尔塔”到无人机航母……",
+        "乌克兰战事进入新转折\n俄罗斯和乌克兰之间的空战进入了一个新的、更广泛、更复杂的阶段，冲突不再局限于导弹和无人机的交锋，而是加速发展能够在最短的时间内探测、识别和打击目标的系统的竞赛。",
+        "随着双方发动远程攻击的能力增强，防空力量遏制这些攻击波的能力下降，从而扩大了破坏范围，增加了平民伤亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "من \"دلتا\" إلى حاملات المسيّرات.. حرب أوكرانيا تدخل منعطفا جديدا"
+      }
+    },
+    {
+      "title_original": "Nearly 1,400 missing, mostly tourists, after Nepal-Tibet flash flood kills at least 356",
+      "title_zh": "尼泊尔-西藏山洪爆发造成至少 356 人死亡，近 1,400 人失踪，其中大部分是游客",
+      "url": "https://www.theguardian.com/world/2026/aug/27/what-caused-nepal-flash-flood-glacial-collapse-tibet-border",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-27T12:41:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "冰川崩塌引发徒步旅行者和朝圣者喜爱的山区洪水，整个村庄被冲走 尼泊尔-西藏山洪暴发 - 最新动态 您受到山洪暴发的影响吗？",
+        "尼泊尔和西藏发生灾难性山洪，洪水冲垮了山谷，摧毁了整个村庄，造成至少 356 人死亡，救援人员正在寻找近 1,400 人，其中大多数是游客。",
+        "由于在这个深受徒步旅行者和朝圣者欢迎的山区，数十座桥梁和近 25 英里（40 公里）的道路被毁，寻找失踪人员（包括来自印度、美国、英国、澳大利亚和加拿大的数百人）的工作变得更加复杂。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Nearly 1,400 missing, mostly tourists, after Nepal-Tibet flash flood kills at least 356"
+      }
+    },
+    {
+      "title_original": "Thieves steal Bronze Age artefacts from Spanish museum in four-minute heist",
+      "title_zh": "窃贼在四分钟内从西班牙博物馆偷走了青铜时代的文物",
+      "url": "https://www.bbc.co.uk/news/articles/ckgw9gw34yqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-27T12:41:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "窃贼在四分钟内从西班牙博物馆偷走了青铜时代的文物\n- 已发表\n窃贼偷走了西班牙阿利坎特省一家博物馆最重要的史前黄金收藏之一的珠宝和文物。",
+        "维耶纳宝藏是一个独特的宝藏，里面有近十公斤的黄金、碗、瓶子和手镯，其历史可以追溯到青铜时代。",
+        "警方仍在评估周四凌晨的突袭行动中到底有多少物品被盗。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Thieves steal Bronze Age artefacts from Spanish museum in four-minute heist"
+      }
+    },
+    {
+      "title_original": "茂木外相 ウクライナ支援継続の方針伝える 独外相と電話会談",
+      "title_zh": "茂木外相与德国外长通电话，传达继续支持乌克兰的政策",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260827de46804",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-27T12:12:32+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "茂木外相与德国外长通电话，传达继续支持乌克兰的政策 NHK新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "茂木外相 ウクライナ支援継続の方針伝える 独外相と電話会談"
+      }
+    },
+    {
+      "title_original": "Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato",
+      "title_zh": "俄罗斯称英国“玩火”，有报道称中央情报局局长警告克里姆林宫不要攻击北约",
+      "url": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-27T11:34:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "俄罗斯表示，可能会通过打击乌克兰境内外的军事目标来报复英国对基辅的支持，有报道称，美国中央情报局局长在本周秘密访问期间警告克里姆林宫不要攻击北约。",
+        "英国首相安迪·伯纳姆周一表示，英国将允许基辅获得机密技术，以开始自行生产“风暴之影”远程巡航导弹。",
+        "法国还同意提供导弹技术。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato"
+      }
+    },
+    {
+      "title_original": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health",
+      "title_zh": "耶路撒冷中央电视台袭击修女的男子因精神健康问题被无罪释放",
+      "url": "https://www.bbc.co.uk/news/articles/cpwl54kddeko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-27T11:23:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "耶路撒冷中央电视台袭击修女的男子因精神健康问题被无罪释放\n- 已发表\n以色列法院宣布一名犹太男子无罪，该男子袭击了耶路撒冷的一名修女，这一事件被中央电视台捕捉到，引起了广泛的谴责。",
+        "耶路撒冷地方法院表示，约纳·施赖伯四月份在被占领的东耶路撒冷老城推倒并踢了一名法国修女时，他正在经历精神病发作。",
+        "法院裁定他不应对自己的行为承担刑事责任，并下令将他送往精神病院长达六年。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Man who attacked nun on CCTV in Jerusalem acquitted on grounds of mental health"
+      }
+    },
+    {
+      "title_original": "US-Medien: CIA-Chef warnte in Moskau vor Angriff auf NATO",
+      "title_zh": "美媒：中央情报局局长在莫斯科警告北约遭受袭击",
+      "url": "https://www.dw.com/de/usa-russland-cia-john-ratcliffe-nato-ukraine-iran-donald-trump-wladimir-putin-sergej-naryschkin/a-78525213",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-08-27T11:20:27+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美媒：中央情报局局长在莫斯科警告北约遭受袭击\n27.",
+        "2026 年 8 月\n约翰·拉特克利夫 (John Ratcliffe) 是世界上最强大的特工部门之一的负责人：这位 60 岁的人领导着美国中央情报局 (CIA)，简称 CIA，是美国的对外情报部门。",
+        "周二，他未经事先通知就来到了莫斯科。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "de": "US-Medien: CIA-Chef warnte in Moskau vor Angriff auf NATO"
+      }
+    },
+    {
+      "title_original": "What a Russian Attack on NATO Could Look Like As CIA Trip Fuels Speculation",
+      "title_zh": "中央情报局之行引发猜测，俄罗斯对北约的袭击可能会是什么样子",
+      "url": "https://www.newsweek.com/what-a-russian-attack-on-nato-could-look-like-as-cia-trip-fuels-speculation-12373340",
+      "source": "Newsweek",
+      "source_score": 40,
+      "published_at": "2026-08-27T11:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "中央情报局（CIA）局长约翰·拉特克利夫本周突然访问莫斯科，很快引发了人们对这位间谍头子为何要进行漫长而短暂的俄罗斯首都之旅的猜测，包括他是否希望阻止俄罗斯可能对北约发动的袭击。",
+        "唐纳德·特朗普总统虽然没有详细说明议程，也没有透露俄罗斯方面的出席人员，但称这次会议是“半例行公事”。\n克里姆林宫表示，拉特克利夫并未会见俄罗斯总统弗拉基米尔·普京，但他进行这次未经宣布的访问是为了保持“安全部门之间的联系”。\n据《Politico》援引两位匿名知情人士的话报道，拉特克利夫警告俄罗斯高级官员不要加强针对北约盟国的长期混合战争行动，特别是针对深感担心莫斯科将如何应对乌克兰战争停滞的三个波罗的海国家。",
+        "对许多人来说，拉特克利夫的此行唤起了对前中央情报局局长威廉·伯恩斯 (William Burns) 2021 年 11 月罕见的个人访问莫斯科的记忆，当时伯恩斯与克里姆林宫高级官员以及俄罗斯 SVR 外国情报部门负责人谢尔盖·纳雷什基 (Sergei Naryshki) 进行了座谈。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Newsweek"
+      ],
+      "all_titles": {
+        "en": "What a Russian Attack on NATO Could Look Like As CIA Trip Fuels Speculation"
+      }
+    },
+    {
+      "title_original": "« Le message pour Moscou est clair : nous sommes opérationnels » : comment l'Otan montre les muscles pour calmer les ardeurs russes sur son flanc est",
+      "title_zh": "“向莫斯科传达的信息很明确：我们正在行动”：北约如何展示其力量来平息俄罗斯东翼的热情",
+      "url": "https://www.lesechos.fr/monde/europe/le-message-pour-moscou-est-clair-nous-sommes-operationnels-comment-lotan-montre-les-muscles-pour-calmer-les-ardeurs-russes-sur-son-flanc-est-2248528",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-08-27T10:59:37+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "“向莫斯科传达的信息很明确：我们正在行动”：北约如何展示其力量来平息俄罗斯东翼的热情 《回声报》",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "« Le message pour Moscou est clair : nous sommes opérationnels » : comment l'Otan montre les muscles pour calmer les ardeurs russes sur son flanc est"
+      }
+    },
+    {
+      "title_original": "Rusia niega tener planes contra la OTAN: Es “una distorsión de la realidad”",
+      "title_zh": "俄罗斯否认有针对北约的计划：这是“对现实的扭曲”",
+      "url": "https://www.lavanguardia.com/internacional/20260827/11621026/director-cia-viajo-moscu-advertir-putin-ataque-otan-the-washington-post.html",
+      "source": "La Vanguardia",
+      "source_score": 40,
+      "published_at": "2026-08-27T10:47:25+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯否认有针对北约的计划：这是“对现实的扭曲”\n欧洲战争\n据《华盛顿邮报》报道，中央情报局局长前往莫斯科警告普京不要攻击北约\n俄罗斯表示，如果基辅使用英国导弹，俄罗斯可能会攻击英国军事目标\n克里姆林宫周四否认俄罗斯计划袭击北约国家，其发言人迪米特里·佩斯科夫称在这方面发布的信息是“对现实的扭曲”。",
+        "据西方媒体报道，这些所谓的莫斯科计划将成为中央情报局局长约翰·拉特克利夫上周二闪电访问俄罗斯的原因。",
+        "佩斯科夫指出，西方有许多关于莫斯科可能针对大西洋联盟采取行动的“恐怖故事”，但他认为，这些故事并不反映俄罗斯的现实或意图。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "La Vanguardia"
+      ],
+      "all_titles": {
+        "es": "Rusia niega tener planes contra la OTAN: Es “una distorsión de la realidad”"
+      }
+    },
+    {
+      "title_original": "Moscú confirma visita del director de la CIA",
+      "title_zh": "莫斯科确认中央情报局局长来访",
+      "url": "https://www.dw.com/es/servicio-de-espionaje-ruso-confirma-visita-del-director-de-la-cia-a-mosc%C3%BA/a-78523960",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-08-27T09:54:45+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "莫斯科确认中央情报局局长来访\n2026 年 8 月 27 日\n俄罗斯对外间谍局 (SVR) 负责人谢尔盖·纳里什金 (Sergei Narishkin) 今天（2026 年 8 月 27 日）声称已与美国中央情报局局长讨论了“敏感”问题。",
+        "中央情报局局长约翰·拉特克利夫周二（2026 年 8 月 25 日）对俄罗斯进行了闪电访问，这是自乌克兰战争爆发以来的首次访问。",
+        "“在会议期间，我们讨论了一系列属于情报部门职责的问题。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "es": "Moscú confirma visita del director de la CIA"
+      }
+    },
+    {
+      "title_original": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+      "title_zh": "科学家表示，冰川崩塌可能导致尼泊尔-西藏地区发生毁灭性洪水",
+      "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-27T09:50:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "科学家表示，冰川崩塌可能导致尼泊尔-西藏地区发生毁灭性洪水\n- 已发表\n科学家告诉英国广播公司，初步调查表明，尼泊尔和西藏边境山洪爆发的原因是冰川崩塌，这凸显了喜马拉雅冰川迅速融化的问题。",
+        "最初的地震报告让许多人相信地震引发了山体滑坡，进而引发了洪水，造成至少 389 人死亡。",
+        "然而，美国地质调查局随后澄清，这场灾难是由“冰川崩塌”造成的，即冰川或冰川的一部分崩解。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say"
+      }
+    },
+    {
+      "title_original": "El director de la CIA viajó a Moscú para advertir a Putin de que no ataque a ningún país de la OTAN, según el WSJ y CBS",
+      "title_zh": "据《华尔街日报》和哥伦比亚广播公司报道，中央情报局局长前往莫斯科警告普京不要攻击任何北约国家",
+      "url": "https://www.elmundo.es/internacional/2026/08/27/6a8ffae4fc6c8340158b45a5.html",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-08-27T09:02:46+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- 战争中的欧洲乌克兰将自己的经济战争归还给俄罗斯\n- 战争中的欧洲普京满足了俄罗斯最激进的部分并启动了战争的“V-2阶段”\n《华尔街日报》、哥伦比亚广播公司、彭博社等美国媒体刊文称，美国中央情报局局长约翰·拉特克利夫突然访问莫斯科，是为了向普京政权发出警告，称其意图对北约国家发动武装袭击。",
+        "唐纳德·特朗普今天早上表示，这次访问是“半例行公事”，试图淡化这些报纸对其的重视。",
+        "昨晚率先披露此行真正目的的《华尔街日报》报道称，拉特克利夫前往莫斯科警告普京不要攻击任何北约国家，此前美国最新的情报评估得出结论，俄罗斯总统可能会在未来几个月甚至几周内尝试通过对盟国进行有限攻击来测试北约的决心。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "El director de la CIA viajó a Moscú para advertir a Putin de que no ataque a ningún país de la OTAN, según el WSJ y CBS"
+      }
+    }
+  ]
+}
