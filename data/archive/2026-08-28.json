@@ -1,8 +1,735 @@
 {
   "date": "2026-08-28",
-  "generated_at": "2026-08-27T21:02:30.281442+00:00",
-  "count": 32,
+  "generated_at": "2026-08-28T06:56:04.621024+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title_original": "Norway's King Harald dies aged 89",
+      "title_zh": "挪威国王哈拉尔去世，享年 89 岁",
+      "url": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-28T06:40:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "挪威国王哈拉尔去世，享年 89 岁\n- 已发表\n挪威国王哈拉尔五世上周因罕见血液病被送往医院接受治疗后去世，享年 89 岁。",
+        "奥斯陆王宫表示，他于周五当地时间 06:35（格林威治标准时间 04:35）在奥斯陆国家医院安详去世。",
+        "在他去世前的24小时内，王室成员拜访了国王，人群向宫殿献花。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Norway's King Harald dies aged 89"
+      }
+    },
+    {
+      "title_original": "«أكسل شبرينغر» تُعيّن فرانك مالبرغ مديراً عاماً للشرق الأوسط من أبوظبي",
+      "title_zh": "阿克塞尔·施普林格 (Axel Springer) 任命弗兰克·马尔伯格 (Frank Malberg) 为阿布扎比中东区总经理",
+      "url": "https://cnnbusinessarabic.com/finance-markets/1147072/%D8%A3%D9%83%D8%B3%D9%84-%D8%B4%D8%A8%D8%B1%D9%8A%D9%86%D8%BA%D8%B1-%D8%AA%D8%B9%D9%8A%D9%86-%D9%81%D8%B1%D8%A7%D9%86%D9%83-%D9%85%D8%A7%D9%84%D8%A8%D8%B1%D8%BA-%D9%85%D8%AF%D9%8A%D8%B1%D8%A7-%D8%B9%D8%A7%D9%85%D8%A7-%D9%84%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%85%D9%86-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A/",
+      "source": "CNN الاقتصادية",
+      "source_score": 95,
+      "published_at": "2026-08-28T06:33:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Axel Springer 宣布任命 Bild Group 首席运营官 Frank Malberg 为中东地区总经理，他在阿布扎比公司总部任职，自 2026 年 10 月 1 日起上任，此举标志着该公司首次直接进军阿联酋。",
+        "该公司在一份声明中解释说，除了建立新的合作伙伴关系并为公司的品牌和产品寻找增长机会外，马尔伯格还将协调 Axel Springer 在阿联酋的活动并代表该公司在该地区的活动。",
+        "公司发言人在给CNN Al-Iqtisadiah的一份特别声明中表示，现在确定公司业务和品牌将如何在中东发展还为时过早，并解释说公司仍处于了解市场和探索潜在机会的早期阶段。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "CNN الاقتصادية"
+      ],
+      "all_titles": {
+        "ar": "«أكسل شبرينغر» تُعيّن فرانك مالبرغ مديراً عاماً للشرق الأوسط من أبوظبي"
+      }
+    },
+    {
+      "title_original": "'High risk' of lake breaching and causing second flood, warns China",
+      "title_zh": "中国警告称，湖泊决口并引发第二次洪水的“风险很高”",
+      "url": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-28T05:50:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国警告称，湖泊决口并引发第二次洪水的“风险很高”\n- 已发表\n中国警告称，最近尼泊尔和西藏边境附近发生山体滑坡后形成的湖泊存在“高风险”，可能会冲破河岸，导致下游发生第二次洪水。",
+        "The warning comes after Wednesday's deadly flash flood in the same area which scientists say was triggered by the collapse of a mountain glacier into a river.",
+        "据中央电视台报道，截至周五上午，堰塞湖估计已积水 250 万立方米。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'High risk' of lake breaching and causing second flood, warns China"
+      }
+    },
+    {
+      "title_original": "Flood risk forces halt to rescues in Tibet, as Nepal death toll rises to 469",
+      "title_zh": "尼泊尔死亡人数上升至469人，西藏洪水风险迫使救援停止",
+      "url": "https://www.theguardian.com/world/2026/aug/28/flash-flood-risk-halt-rescue-tibet-nepal-death-toll-china-lake-burst",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-28T05:45:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国官方媒体报道，尼泊尔山洪暴发，最新消息，洪水中心已形成湖泊，迫使救援队撤出。近1,400人失踪，其中大部分是游客，数百人死亡。视觉引导：致命洪水是如何发生的。请告诉我们：您受到山洪爆发的影响了吗？",
+        "本周，中国暂停了西藏特大洪水震中的救援工作，因为担心当地形成的湖泊面临决堤的危险，尼泊尔的总死亡人数上升至 469 人，逾 1,300 人失踪。",
+        "据国家电视台中央电视台周五报道，一个由大量碎片形成的湖泊已经开始溢出，流向救援队前往的地区。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Flood risk forces halt to rescues in Tibet, as Nepal death toll rises to 469"
+      }
+    },
+    {
+      "title_original": "CIA長官のモスクワ訪問、NATO攻撃を控えるよう警告する目的 イラン支援停止も促す",
+      "title_zh": "CIA長官のモスクワ訪問、NATO攻撃を控えるよう警告する目的 イラン支援停止も促す",
+      "url": "https://www.cnn.co.jp/usa/35252025.html?ref=rss",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-08-28T05:02:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "中央情报局局长访问莫斯科旨在警告北约袭击，并敦促停止对伊朗的援助\n（CNN）美国中央情报局局长拉特克利夫本周访问俄罗斯首都莫斯科时获悉，他警告俄罗斯不要对北约领土发动袭击。两位知情人士透露了这一消息。",
+        "目前还没有关于此次访问的官方消息。美国正试图在经济上排挤伊朗，而拉特克利夫访问俄罗斯也是为了敦促伊朗停止经济和军事援助。",
+        "随着乌克兰战争旷日持久而没有解决，美国和欧洲官员越来越担心俄罗斯总统弗拉基米尔·普京可能会通过对邻国的有限入侵来考验北约。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "CIA長官のモスクワ訪問、NATO攻撃を控えるよう警告する目的 イラン支援停止も促す"
+      }
+    },
+    {
+      "title_original": "ロシア・ウクライナの空中戦激化、より残忍で破壊的に | The Wall Street Journal発",
+      "title_zh": "俄罗斯-乌克兰空战愈演愈烈，变得更加残酷和破坏性|摘自《华尔街日报》",
+      "url": "https://diamond.jp/articles/-/398085",
+      "source": "ダイヤモンド・オンライン",
+      "source_score": 40,
+      "published_at": "2026-08-28T04:53:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "上周，俄罗斯导弹和无人机袭击了乌克兰首都基辅周围的儿童医院、学校、公寓大楼和仓库，造成至少 16 人死亡。乌克兰的爱国者防空系统缺乏拦截导弹，无法击落一枚俄罗斯弹道导弹。作为乌克兰反击的一部分，下诺夫哥罗德附近的俄罗斯最大炼油厂之一26日遭到无人机袭击，引发大规模火灾。与此同时，在俄罗斯中部坦波夫州，在线零售商 Wild Berries 的一个仓库起火。俄罗斯和乌克兰之间的空战进入了新阶段。双方空中力量均有所增强，但防空能力不足，不断进行类似徒手格斗的无情攻击，造成大面积破坏，平民伤亡不断增加。",
+        "俄罗斯与乌克兰空战愈演愈烈，变得更加残酷和破坏性\n远程无人机和导弹正在互相造成严重伤害。\n特别报道\n  \n为您推荐",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "ダイヤモンド・オンライン"
+      ],
+      "all_titles": {
+        "ja": "ロシア・ウクライナの空中戦激化、より残忍で破壊的に | The Wall Street Journal発"
+      }
+    },
+    {
+      "title_original": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
+      "title_zh": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
+      "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-28T04:00:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "其他政府可以寻求类似的让步，而从肯尼亚到荷兰等地，单独的法律行动仍在等待中。 2021 年 10 月，亚伯拉罕·梅雷格 (Abrham Meareg) 的父亲是埃塞俄比亚北部城镇巴赫达尔 (Bahir Dar) 的一名化学教授，他在自家门口被近距离枪击身亡。",
+        "This was in the middle of the country’s civil war.",
+        "Meareg 和 Foxglove（支持 Meareg 在肯尼亚对 Facebook 提起诉讼的非营利组织）表示，几周以来，Facebook 的算法一直在积极推广呼吁谋杀这位学者的帖子。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?"
+      }
+    },
+    {
+      "title_original": "How typhoons and extreme weather could undermine Taiwan Strait combat readiness",
+      "title_zh": "How typhoons and extreme weather could undermine Taiwan Strait combat readiness",
+      "url": "https://www.scmp.com/news/china/military/article/3365406/how-typhoons-and-extreme-weather-could-undermine-taiwan-strait-combat-readiness",
+      "source": "South China Morning Post",
+      "source_score": 55,
+      "published_at": "2026-08-28T04:00:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "How typhoons and extreme weather could undermine Taiwan Strait combat readiness\nThis year’s storms and record temperatures highlight how climate conditions can disrupt military planning and operations\nBesides the risks to both troops and equipment, typhoons and other storms could also damage critical infrastructure and disrupt training, as well as divert personnel and resources towards emergency relief.",
+        "尽管军队在和平时期可能能够适应，但在战争时期，他们的灵活性可能会较差，因为极端天气可能会对作战行动产生直接影响。",
+        "Armed forces are adapting to the challenge in different ways."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "South China Morning Post"
+      ],
+      "all_titles": {
+        "en": "How typhoons and extreme weather could undermine Taiwan Strait combat readiness"
+      }
+    },
+    {
+      "title_original": "Trump et le Kremlin balaient les craintes d’une attaque russe contre un pays de l’Otan",
+      "title_zh": "Trump et le Kremlin balaient les craintes d’une attaque russe contre un pays de l’Otan",
+      "url": "https://www.courrierinternational.com/article/geopolitique-trump-et-le-kremlin-balaient-les-craintes-d-une-attaque-russe-contre-un-pays-de-l-otan_264432",
+      "source": "Courrier international",
+      "source_score": 40,
+      "published_at": "2026-08-28T03:54:26+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Donald Trump a de nouveau “minimisé” jeudi 27 août “les inquiétudes quant à la possibilité que Poutine prépare une attaque contre les alliés des États-Unis en Europe”, rapporte The Washington Post.",
+        "48 heures après le mystérieux voyage du directeur de la CIA John Ratcliffe à Moscou, le républicain a affirmé au média américain Axios qu’il ne “redoutait pas du tout” que la Russie s’en prenne à un pays de l’Otan.",
+        "Une position qu’il a réitérée un peu plus tard dans la journée, lors d’un échange avec la presse à la Maison-Blanche."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Courrier international"
+      ],
+      "all_titles": {
+        "fr": "Trump et le Kremlin balaient les craintes d’une attaque russe contre un pays de l’Otan"
+      }
+    },
+    {
+      "title_original": "Trump administration illegally retaliated against Anthropic, judge rules",
+      "title_zh": "法官裁定特朗普政府对人类进行非法报复",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-28T03:41:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "法官裁定特朗普政府对人类进行非法报复\n- 已发表\n一名法官裁定美国国防部将人工智能 (AI) 初创公司 Anthropic 列为供应链风险，其行为非法，称此举“非法且毫无根据”。",
+        "该公司在诉讼中辩称，国防部长皮特·赫格斯（Pete Hegseth）的新任命超越了他的权力。",
+        "此前，Anthropic 拒绝允许军方将其人工智能模型用于监视或自主武器等领域。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump administration illegally retaliated against Anthropic, judge rules"
+      }
+    },
+    {
+      "title_original": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
+      "title_zh": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
+      "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-28T03:23:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "'The flood took everything': Nepal survivors describe horror of loved ones being swept away\n- Published\nSurvivors of massive flash floods in Nepal have recounted how they saw their loved ones disappear into torrents of mud.",
+        "周三，洪水摧毁了尼泊尔和西藏边境的整个村庄，造成至少 469 人死亡，数百人失踪，其威力如此强大，地震学家最初将其确定为地震。",
+        "Rescuers trudged through thick mud and debris on Thursday as Nepalese authorities rushed to bring aid and relief supplies to the affected areas."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away"
+      }
+    },
+    {
+      "title_original": "EE. UU. Y Rusia desestiman sospechas de ataques de Moscú contra países de la OTAN",
+      "title_zh": "美国和俄罗斯否认莫斯科袭击北约国家的嫌疑",
+      "url": "https://www.france24.com/es/video/20260828-ee-uu-y-rusia-desestiman-sospechas-de-ataques-de-mosc%C3%BA-contra-pa%C3%ADses-de-la-otan",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-28T02:39:39+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Y Rusia desestiman sospechas de ataques de Moscú contra países de la OTAN    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "es": "EE. UU. Y Rusia desestiman sospechas de ataques de Moscú contra países de la OTAN"
+      }
+    },
+    {
+      "title_original": "深视频| CIA局长访俄，是为北约和伊朗？",
+      "title_zh": "深视频| CIA局长访俄，是为北约和伊朗？",
+      "url": "https://www.shobserver.cn/news/detail?id=1166914",
+      "source": "上观新闻",
+      "source_score": 40,
+      "published_at": "2026-08-28T02:21:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "{{title}}\n{{subsectionname}}\n来源：上观新闻\n作者：{{author}}\n{{summary}}\n{{brTitle}}\n以上内容由AI生成，仅供参考\n{{editorLabel}}：\n{{maineditor}}\n文字编辑：\n{{writerName}}\n题图来源：\n{{picSource}}\n图片来源：\n{{imgSource}}\n图片编辑：\n{{picEditor}}\n编辑邮箱：\n{{writerEmail}}\n{{publicityType}}\n{{customattr}}\n未经正式授权严禁转载本文，侵权必究\n{{praiseText}}\n收藏\n微信\n微博\nQQ空间\n作者\n{{name}}\n{{organizename}}\n{{departname}}\n{{detail}}\n更多内容\n{{title}}\n{{summary}}\n{{subsectionname}}\n{{publishHours}}\n{{replay}}\n此文章不存在或已下线",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "上观新闻"
+      ],
+      "all_titles": {
+        "zh": "深视频| CIA局长访俄，是为北约和伊朗？"
+      }
+    },
+    {
+      "title_original": "中東情勢から見直す、調達プロセスの再設計 ～リスクの可視化と、止まらない購買フロー・内部統制の作り方",
+      "title_zh": "根据中东情况重新设计采购流程——风险可视化，打造不可阻挡的采购流程和内控",
+      "url": "https://spectee.co.jp/seminar-info/260908/",
+      "source": "スペクティ",
+      "source_score": 40,
+      "published_at": "2026-08-28T02:20:15+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "根据中东局势重新设计采购流程 - 可视化风险，打造不可阻挡的采购流程和内部控制 -\n          \n                      \n              ★通过回答调查获得研讨会材料\n          \n                      \n              \n推荐给这些人\n              ・对改善从采购到采购的流程、加快替代采购以及设计紧急情况下的采购流程感兴趣的人。\n・想要可视化整个供应链并加强灾难和地缘政治风险应对的人\n・现场采购工作个性化，如Excel管理或模拟管理，关注组织治理和内部控制的人员。\n          \n                      \n              研讨会内容\n              标题：从中东局势角度重新设计采购流程\n~可视化风险，创造不可阻挡的采购流程和内部控制~\n日期和时间：2026年9月18日星期五16:00-17:00\n演讲者：\nWorks Applications Co., Ltd. 董事 藤原正明\nSpectee Co., Ltd. 代表董事兼首席执行官 村上健二郎\n参加费用：免费\n使用工具：Zoom *没有账户也可以参加。",
+        "申请截止日期：2026年9月8日（星期二）12:00\n调查：研讨会结束后您将通过回答调查获得材料。\n▶︎点击此处申请\n          \n                      \n              \n概述\n              近年来，由于中东局势等地缘政治风险，应对供应链中断已成为企业不可避免的管理问题。",
+        "尤其是从寻源到采购的采购流程亟待强化。\n在许多工作场所，无法准确了解复杂的供应链网络，例如“哪些产品从哪些供应商、通过哪些地点到达”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "スペクティ"
+      ],
+      "all_titles": {
+        "ja": "中東情勢から見直す、調達プロセスの再設計 ～リスクの可視化と、止まらない購買フロー・内部統制の作り方"
+      }
+    },
+    {
+      "title_original": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+      "title_zh": "泰特兄弟在英国引渡斗争中寻求保释时抨击美国监狱条件",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-28T01:43:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Tate brothers blast US jail conditions as they seek bail in UK extradition fight\n- Published\nAndrew and Tristan Tate have told a Florida court they should be released from jail so they can fight extradition to the UK on charges of rape and trafficking.",
+        "身穿棕褐色监狱制服的兄弟坚称自己没有犯下所指控的罪行，并抨击了美国的拘留条件。",
+        "政府律师辩称，这两人有潜逃风险，并吹嘘拥有多本护照，而辩护律师则表示，这两位社交媒体影响者的高知名度将使他们几乎不可能逃跑。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight"
+      }
+    },
+    {
+      "title_original": "تقديرات لجولدمان ساكس: صادرات منطقة الخليج من النفط بين 15 و16 مليون ب/ي",
+      "title_zh": "高盛估计：海湾石油出口量在 15 至 1600 万桶/日之间",
+      "url": "https://www.reuters.com/ar/business/ODAH6BWT3VLHZDA3PEMGADDVDE-2026-08-28/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-28T01:22:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "تقديرات لجولدمان ساكس: صادرات منطقة الخليج من النفط بين 15 و16 مليون ب/ي    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "تقديرات لجولدمان ساكس: صادرات منطقة الخليج من النفط بين 15 و16 مليون ب/ي"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Missiles shot down during long Russian attack wave",
+      "title_zh": "乌克兰战争简报：导弹在俄罗斯长时间攻击波中被击落",
+      "url": "https://www.theguardian.com/world/2026/aug/28/ukraine-war-briefing-missiles-shot-down-during-long-russian-attack-wave",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-28T01:13:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  乌克兰军方表示，俄罗斯击落了 7 枚弹道导弹和 258 架无人机，而俄罗斯则进行了从周三晚一直持续到周四的长时间袭击。",
+        "“一夜之间，俄罗斯对乌克兰进行了大规模打击，用弹道导弹、高超音速导弹和战斗无人机瞄准了港口、粮食储存、能源、工业和其他基础设施，”外交部长安德里·西比哈(Andrii Sybiha)表示。",
+        "Commuters went to work in Kyiv to the boom of air defences firing at waves of drones, Reuters reported."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Missiles shot down during long Russian attack wave"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Reboot of ‘fortress belt’ defences as Zelenskyy visits frontline",
+      "title_zh": "乌克兰战争简报：泽连斯基视察前线后重启“堡垒带”防御",
+      "url": "https://www.theguardian.com/world/2026/aug/27/ukraine-war-briefing-reboot-of-fortress-belt-defences-as-zelenskyy-visits-frontline",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-28T00:42:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  弗拉基米尔·泽伦斯基任命了两名乌克兰最著名的指挥官来监督和加强顿涅茨克地区工业化城市“堡垒带”的防御。",
+        "泽连斯基在视察前线时表示，第三军团领导人安德里·比列茨基和亚速第一军团指挥官丹尼斯·普罗科彭科将领导新的部队。",
+        "这两个单位都以拥护北约风格的学说和新技术而闻名。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Reboot of ‘fortress belt’ defences as Zelenskyy visits frontline"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Small batch of Patriots arrives as Zelenskyy pleads for more",
+      "title_zh": "Ukraine war briefing: Small batch of Patriots arrives as Zelenskyy pleads for more",
+      "url": "https://www.theguardian.com/world/2026/aug/26/ukraine-war-briefing-small-batch-of-patriots-arrives-as-zelenskyy-pleads-for-more",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-28T00:41:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  泽伦斯基表示，乌克兰最近收到了少量能够击落俄罗斯弹道导弹的美制爱国者拦截机。",
+        "他没有透露有多少人抵达，也没有透露是谁提供的。",
+        "Suspilne广播公司援引总统的话说，基辅还确认了法国“响尾蛇”地对空导弹系统的未来供应。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Small batch of Patriots arrives as Zelenskyy pleads for more"
+      }
+    },
+    {
+      "title_original": "USA fordern Klartext von Nato-Partnern – und loben Deutschland",
+      "title_zh": "美国要求北约伙伴明确措辞 — — 并赞扬德国",
+      "url": "https://www.spiegel.de/ausland/usa-fordern-klartext-von-nato-partnern-und-loben-deutschland-a-8fe186f0-d4b8-4288-9ac9-e665accdf62b",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-08-28T00:31:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Truppenpräsenz in Europa USA fordern Klartext von Nato-Partnern – und loben Deutschland\nDie USA erwarten von den Nato-Verbündeten Klarheit über deren Positionierung zu verteidigungspolitischen Anliegen und haben im Zuge der laufenden Überprüfung ihrer Truppenpräsenz in Europa Fragebögen verschickt.",
+        "美国国防部长埃尔布里奇·科尔比在访问布鲁塞尔北约总部期间解释说，此次询问的目的是就“北约3.0”概念“直接并以书面形式”与盟国进行磋商。",
+        "这些调查问卷的目的是让盟友有机会清楚地传达他们认为美国应该知道的信息。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "USA fordern Klartext von Nato-Partnern – und loben Deutschland"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 06:21 Russland: Vier Verletzte nach Drohnenangriff auf Krim +++",
+      "title_zh": "Ukraine-Krieg im Liveticker: +++ 06:21 Russland: Vier Verletzte nach Drohnenangriff auf Krim +++",
+      "url": "https://www.n-tv.de/politik/01-51-Russischsprachige-Hacker-nutzen-KI-Assistenten-fuer-Angriffe-Deutsche-Firma-betroffen-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-27T23:52:37+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "现场直播的乌克兰战争+++ 08:50 州长：俄罗斯人袭击了扎波罗热的五金店 +++\n俄罗斯军队袭击了扎波罗热市中心的一家五金店。",
+        "乌克兰东南部扎波罗热州州长伊万·费奥多罗夫在 Telegram 上宣布了这一消息。",
+        "建筑物正在燃烧，火势蔓延至至少2000平方米的面积。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 06:21 Russland: Vier Verletzte nach Drohnenangriff auf Krim +++"
+      }
+    },
+    {
+      "title_original": "ＥＵ4カ国、ロシア凍結資産でウクライナ支援する協議の再開を要求",
+      "title_zh": "四个欧盟国家呼吁重启有关使用俄罗斯冻结资产支持乌克兰的谈判",
+      "url": "https://jp.reuters.com/world/ukraine/OEDO2SV76BI7RFHIGJORORV3YI-2026-08-27/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-08-27T23:41:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "四个欧盟国家呼吁重启谈判以帮助乌克兰处理俄罗斯冻结资产 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "ＥＵ4カ国、ロシア凍結資産でウクライナ支援する協議の再開を要求"
+      }
+    },
+    {
+      "title_original": "Trump signs order to rename Lake Ontario as Lake America",
+      "title_zh": "特朗普签署命令将安大略湖更名为美国湖",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-27T23:14:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普签署命令将安大略湖更名为美国湖\n- 已发表\n美国总统唐纳德·特朗普签署了一项行政命令，寻求将安大略湖更名为美国湖。",
+        "此前，美国和加拿大之间的贸易谈判上周破裂，美国对价值 200 亿美元（280 亿加元）的加拿大商品征收新的 50% 关税。",
+        "加拿大将于下个月实施“美元对美元”反制关税。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump signs order to rename Lake Ontario as Lake America"
+      }
+    },
+    {
+      "title_original": "プーチン氏にＮＡＴＯ攻撃意思なし トランプ氏、臆測を否定",
+      "title_zh": "普京无意攻击北约 特朗普否认猜测",
+      "url": "https://www.jiji.com/jc/article?k=2026082800231&g=int",
+      "source": "時事ドットコム",
+      "source_score": 40,
+      "published_at": "2026-08-27T22:46:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "普京无意攻击北约 特朗普否认猜测\n【华盛顿时事】美国总统特朗普27日表示，承认俄罗斯无意攻击北大西洋公约组织（北约）任何成员国。他在白宫接受记者采访。欧洲国家纷纷猜测，俄罗斯可能会对欧洲发动有限袭击，以考验北约的团结，但这一说法遭到否认。",
+        "特朗普说：“他（普京）无意攻击北约领土。”此前，有美国媒体报道称，中央情报局局长拉特克利夫25日访问俄罗斯是为了警告俄罗斯不要攻击北约成员国。",
+        "特朗普27日在接受美国新闻网站Axios采访时称拉特克利夫访俄“一切如常”。他还声称“先生”。拉特克利夫每六个月或每年与俄罗斯谈判代表会面一次，”并补充说，“（这次访问）没有什么特别的。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "時事ドットコム"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏にＮＡＴＯ攻撃意思なし トランプ氏、臆測を否定"
+      }
+    },
+    {
+      "title_original": "What we know after the big Grand Theft Auto 6 preview",
+      "title_zh": "《侠盗猎车手 6》大预览后我们知道了什么",
+      "url": "https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-27T22:10:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "《侠盗猎车手 6》大预览后我们知道了什么\n- 已发表\n距离《侠盗猎车手 6》最后一次官方亮相已经过去了 18 个多月，开发商 Rockstar 向粉丝们展示了这款即将推出的热门视频游戏的 26 分钟预览。",
+        "它的“加长版”在 Netflix 上首次亮相，比在 YouTube 上上线前 6 小时还要多，这也是玩家第一次有机会看到该游戏的详细动作片段。",
+        "蒙太奇没有任何评论或解释性字幕，展示了续集中改进的图像、详细的环境以及精选的汽车追逐和枪战。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "What we know after the big Grand Theft Auto 6 preview"
+      }
+    },
+    {
+      "title_original": "Trump asegura que Putin no atacará territorio de la OTAN",
+      "title_zh": "特朗普保证普京不会攻击北约领土",
+      "url": "https://www.dw.com/es/trump-asegura-que-putin-no-atacar%C3%A1-territorio-de-la-otan-y-otras-noticias/a-78538646",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-08-27T21:53:28+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普保证普京不会攻击北约领土 08/27/20262026年8月27日2026年8月27日星期四（欧洲中部时间23:59）的最相关信息。",
+        "https://p.dw.com/p/5JXUMImage：A.",
+        "洛尔-琼斯/A."
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Le Monde.fr",
+        "dw.com"
+      ],
+      "all_titles": {
+        "en": "Trump says Putin won't attack NATO territory",
+        "es": "Trump asegura que Putin no atacará territorio de la OTAN"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Massive Angriffe auf Cherson – Gouverneur ruft Bevölkerung zur Evakuierung auf",
+      "title_zh": "乌克兰战争：赫尔松遭受大规模袭击——州长呼吁民众撤离",
+      "url": "https://www.fr.de/politik/verluste-raketen-patriot-selenskyj-putin-ukraine-krieg-aktuell-russland-news-ticker-zr-94453221.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-27T21:03:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争：克里米亚无人机袭击造成人员受伤\n在谷歌上关注我们\n乌克兰战争现状：美国总统对俄罗斯的评论。",
+        "州长呼吁赫尔松居民撤离。",
+        "新闻行情。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Massive Angriffe auf Cherson – Gouverneur ruft Bevölkerung zur Evakuierung auf"
+      }
+    },
+    {
+      "title_original": "Almirante Cavo Dragone, máximo jefe militar de la OTAN: \"El Ártico ya no es una región tranquila desde el punto de vista estratégico\"",
+      "title_zh": "北约最高军事长官卡沃·德拉贡海军上将：“从战略角度来看，北极不再是一个安静的地区”",
+      "url": "https://www.elmundo.es/internacional/2026/08/27/6a905410e4d4d8514c8b457f.html",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-08-27T20:55:32+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "汤姆·克兰西的小说和肖恩·康纳利主演的后续电影《追捕红色十月》中的猫捉老鼠游戏，北约飞机和舰艇在冰岛周围追逐俄罗斯（前苏联）潜艇，其强度仍与 42 年前该书出版时一样激烈。",
+        "其神经中枢是凯夫拉维克机场，每年有 224 万游客通过该机场抵达冰岛，该国目前正在举行全民公投，决定是否开始就加入欧盟进行谈判。",
+        "游客们前往观看瀑布、火山、冰川和《权力的游戏》场景，这个国家没有武装部队，但拥有可能是世界上最平等的社会。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "Almirante Cavo Dragone, máximo jefe militar de la OTAN: \"El Ártico ya no es una región tranquila desde el punto de vista estratégico\""
+      }
+    },
+    {
+      "title_original": "欧州、ロシアのバルト三国への攻撃警戒 CIA長官の訪ロで現実味",
+      "title_zh": "欧洲警告俄罗斯袭击波罗的海国家；中央情报局局长访问俄罗斯带来现实",
+      "url": "https://www.nikkei.com/article/DGXZQOGR27AZ00X20C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-27T20:54:36+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "欧洲警告俄罗斯袭击波罗的海国家；中央情报局局长访问俄罗斯带来现实\n[布鲁塞尔=Takashi Tsuji]北大西洋公约组织（北约）正在提高警惕，防止俄罗斯对其欧洲成员国（包括波罗的海国家）发动袭击。有人担心俄罗斯可能会发动“有限攻击”，以考验联盟在集体防御方面的团结程度。",
+        "美国报纸报道“北约受到有限攻击的迹象”\n美国中央情报局局长拉特克利夫25日访问莫斯科并与俄罗斯情报机构举行会谈。据塔斯社报道，俄罗斯对外情报局（...",
+        "*所发表的帖子仅代表发帖者个人观点，与日本经济新闻无关。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "欧州、ロシアのバルト三国への攻撃警戒 CIA長官の訪ロで現実味"
+      }
+    },
     {
       "title_original": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
       "title_zh": "陪审团审议被控杀害孩子的美国妇女林赛·克兰西的审判",
@@ -51,6 +778,56 @@
       ],
       "all_titles": {
         "en": "Pentagon policy chief tells NATO allies U.S. wants European-led defense of continent"
+      }
+    },
+    {
+      "title_original": "Trump asegura que Putin \"no va a atacar\" a la OTAN y descarta una amenaza rusa",
+      "title_zh": "特朗普保证普京“不会攻击”北约并排除俄罗斯威胁",
+      "url": "https://es.euronews.com/my-europe/2026/08/27/rump-asegura-que-tuvo-un-buen-dialogo-con-putin-y-que-rusia-no-atacara-a-la-otan",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-27T19:48:57+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "在中央情报局局长对莫斯科进行不同寻常的访问以及对此次旅行原因的猜测之后，克里姆林宫还将有关俄罗斯可能对北约发动袭击的信息描述为“危言耸听”。",
+        "美国总统唐纳德·特朗普周四表示，弗拉基米尔·普京“不会攻击”北约领土，并否认华盛顿担心俄罗斯可能袭击欧洲的消息。",
+        "特朗普发表上述言论的两天前，中央情报局局长约翰·拉特克利夫前往莫斯科举行意外会谈，据《华尔街日报》和哥伦比亚广播公司新闻报道，会谈的目的是劝阻俄罗斯不要攻击北约成员国，而美国情报部门认为莫斯科可能试图测试该联盟。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "Trump asegura que Putin \"no va a atacar\" a la OTAN y descarta una amenaza rusa"
+      }
+    },
+    {
+      "title_original": "Trump : Moscou \"n'attaquera pas l'OTAN\", \"bons échanges\" avec Poutine",
+      "title_zh": "特朗普：莫斯科“不会攻击北约”，与普京“良好交流”",
+      "url": "https://fr.euronews.com/my-europe/2026/08/27/la-russie-nattaquera-pas-lotan-trump-dit-avoir-eu-de-bons-echanges-avec-poutine",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-27T19:27:27+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "在中央情报局局长罕见访问莫斯科后，克里姆林宫还将美国媒体有关俄罗斯可能攻击北约的报道斥为“恐怖故事”。",
+        "周四，美国总统唐纳德·特朗普保证弗拉基米尔·普京“不会攻击”北约领土，并驳斥了有关华盛顿担心俄罗斯可能在欧洲发动进攻的新闻报道。",
+        "两天前，中央情报局局长约翰·拉特克利夫访问莫斯科进行突然会谈，《华尔街日报》和哥伦比亚广播公司新闻将其描述为试图阻止俄罗斯攻击北约成员国，而美国情报分析称莫斯科可能试图测试该联盟。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "fr": "Trump : Moscou \"n'attaquera pas l'OTAN\", \"bons échanges\" avec Poutine"
       }
     },
     {
