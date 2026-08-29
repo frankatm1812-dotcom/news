@@ -1,8 +1,433 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-28T21:21:49.965727+00:00",
-  "count": 35,
+  "generated_at": "2026-08-29T04:08:54.171994+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title_original": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "title_zh": "中国没有播放西藏洪水的镜头——我们对那里的受害者知之甚少",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-29T03:54:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Footage of Tibet floods isn't being shown in China - and we know little about victims there\n- Published\nThe dramatic footage was almost impossible to miss.",
+        "A torrent of water tearing through Gyirong Port, one of the main border crossings between Nepal and Tibet, sweeping away all in its path as hundreds of people fled for their lives.",
+        "The scenes, captured by CCTV cameras, quickly spread on social media and onto screens around the world."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Footage of Tibet floods isn't being shown in China - and we know little about victims there"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Kreml erteilt Verhandlungen vorerst Absage – Putin trifft Xi, Modi, Erdogan und Peseschkian",
+      "title_zh": "当前的乌克兰战争：克里姆林宫暂时拒绝谈判——普京会见习近平、莫迪、埃尔多安和佩塞什基安",
+      "url": "https://www.fr.de/politik/sollen-fliehen-ukraine-krieg-aktuell-russischer-massenangriff-cherson-einwohner-zr-94463809.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-29T02:45:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg aktuell: Kreml erteilt Verhandlungen vorerst Absage – Putin trifft Xi, Modi, Erdogan und Peseschkian\nUns auf Google folgen\nAktuelle Lage im Ukraine-Krieg: Russland schließt neue Verhandlungen vorerst aus.",
+        "基辅继续瞄准普京的炼油厂。",
+        "新闻行情。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Kreml erteilt Verhandlungen vorerst Absage – Putin trifft Xi, Modi, Erdogan und Peseschkian"
+      }
+    },
+    {
+      "title_original": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "title_zh": "特朗普称赞美国控制委内瑞拉650亿桶石油的“历史性”协议",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-29T02:42:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普称赞美国控制委内瑞拉650亿桶石油的“历史性”协议\n- 已发表\n美国总统唐纳德·特朗普宣布，美国已与委内瑞拉达成协议，控制其已探明石油储量超过 650 亿桶。",
+        "\"This Historic Transaction MORE THAN DOUBLES American Oil Reserves, greatly increases our Oil Supply, and will substantially lower Gas Prices for all Americans,\" Trump posted on social media.",
+        "Venezuela's interim President, Delcy Rodriguez, hailed the agreement as one that would help her nation's economic revival."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil"
+      }
+    },
+    {
+      "title_original": "الولايات المتحدة تخطط لقطع المساعدات العسكرية عن حليف رئيسي لها في الشرق الأوسط",
+      "title_zh": "الولايات المتحدة تخطط لقطع المساعدات العسكرية عن حليف رئيسي لها في الشرق الأوسط",
+      "url": "https://www.bbc.com/arabic/articles/c8jdydexvw4o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-08-29T02:29:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "مصادر لبي بي سي: الولايات المتحدة تخطط لقطع المساعدات العسكرية عن حليف رئيسي لها في الشرق الأوسط\n  - Author, دانيال بوش\n  - Role, مراسل واشنطن\n- Published\n- مدة القراءة: 5 دقائق\nتخطط إدارة الرئيس الأمريكي دونالد ترامب لقطع المساعدات العسكرية عن حليف رئيسي في الشرق الأوسط ساعد الولايات المتحدة في هزيمة تنظيم ما يُعرف بالدولة الإسلامية (داعش)، وهو حليف يواجه الآن هجمات قاسية من إيران، وذلك وفقاً لأربعة مصادر مطلعة على الأمر.",
+        "فقد أبلغت وزارة الدفاع الأمريكية قادة إقليم كردستان العراق شبه المستقل في اجتماعات عُقِدَت مؤخراً أن الإدارة لا تخطط لتجديد اتفاقية منتهية الصلاحية تقدم المساعدة الأمنية لقوات البيشمركة، قوات الأمن الكردية.",
+        "وتحدثت بي بي سي إلى مسؤوليْن شاركا في المحادثات، وإلى مصدريْن آخريْن مطلعيْن على الموضوع."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "الولايات المتحدة تخطط لقطع المساعدات العسكرية عن حليف رئيسي لها في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "无人机屡闯罗马尼亚领空：是谁在北约眼皮底下演 “险棋”？",
+      "title_zh": "无人机屡闯罗马尼亚领空：是谁在北约眼皮底下演 “险棋”？",
+      "url": "https://user.guancha.cn/main/content?id=1725131",
+      "source": "风闻",
+      "source_score": 40,
+      "published_at": "2026-08-29T02:06:05+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "无人机屡闯罗马尼亚领空：是谁在北约眼皮底下演 “险棋”？",
+        "最近俄乌战场的几条线索拼在一起，越品越暗藏玄机。俄军一边用 “天竺葵” 无人机把多瑙河沿岸的乌港口炸得持续升温，一边把配备滑翔制导套件的 FAB 炸弹投向乌军纵深；另一边，与乌克兰隔河相望的罗马尼亚，境内接二连三掉落无人机残骸，入侵次数比去年翻了近三倍，布加勒斯特却始终只敢口头抗议，连战机都只巡逻、不开火。",
+        "更耐人寻味的是，北约官方一口咬定残骸属于俄罗斯，罗马尼亚国内反倒遍地都是 “乌克兰自导自演伪旗行动” 的声音。这盘跨边境的博弈里，到底是谁在冒险，谁在装傻，谁又在偷偷打着自己的算盘？"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "风闻"
+      ],
+      "all_titles": {
+        "zh": "无人机屡闯罗马尼亚领空：是谁在北约眼皮底下演 “险棋”？"
+      }
+    },
+    {
+      "title_original": "La fiscalía de Taiwán registra Unimicron por un presunto caso de fraude relacionado con China",
+      "title_zh": "La fiscalía de Taiwán registra Unimicron por un presunto caso de fraude relacionado con China",
+      "url": "https://es.marketscreener.com/noticias/la-fiscal-a-de-taiw-n-registra-unimicron-por-un-presunto-caso-de-fraude-relacionado-con-china-ce7858dcd981f326",
+      "source": "MarketScreener España",
+      "source_score": 40,
+      "published_at": "2026-08-29T02:01:42+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "La fiscalía de Taiwán registra Unimicron por un presunto caso de fraude relacionado con China    MarketScreener España",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "MarketScreener España"
+      ],
+      "all_titles": {
+        "es": "La fiscalía de Taiwán registra Unimicron por un presunto caso de fraude relacionado con China"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Zelenskyy orders military to triple daily long-range strikes on Russia",
+      "title_zh": "Ukraine war briefing: Zelenskyy orders military to triple daily long-range strikes on Russia",
+      "url": "https://www.theguardian.com/world/2026/aug/29/ukraine-war-briefing-long-range-strikes-on-russia-tripled",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-08-29T01:28:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  Volodymyr Zelenskyy said he has ordered his military to increase its long-range drone strikes against Russia to 1,000 per day, up from about 300 currently.",
+        "“There needs to be more: there is a concrete goal, and we will fulfil this task,” the Ukrainian president declared on Friday in his evening address.",
+        "- \n  Russia’s gasoline production fell to about 70% of domestic consumption levels by the end of August after a series of drone attacks forced major refineries to suspend operations, according to two industry sources who spoke to Reuters."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Zelenskyy orders military to triple daily long-range strikes on Russia"
+      }
+    },
+    {
+      "title_original": "アナザーストーリーズ 運命の分岐点",
+      "title_zh": "アナザーストーリーズ 運命の分岐点",
+      "url": "https://www.nhk.jp/g/ts/VWRZ1WWNYP/blog/bl/pgd918GNyP/bp/p1NZNG9qk1/",
+      "source": "NHK",
+      "source_score": 95,
+      "published_at": "2026-08-29T00:58:31+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "メニュー\n閉じる\n検索\n番組名やニュース、出演者などを検索\n検索する\n閉じる\nサービス\n閉じる\n受信料の窓口\nアナザーストーリーズ 運命の分岐点\n共有\nNHK_PR\n👀 担当Ｄから見どころ紹介\nもうすぐ放送される番組の見どころを担当Ｄが自ら紹介します！",
+        "2026年\n1月31日(土)\nトップ\nNHK one\nNHK_PR\nNHK one\nアナザーストーリーズ 運命の分岐点\nNHK one\n見どころ紹介\nNHK one\n9/2（水）放送「ウクライナ侵攻 予見した者たち」担当Dの見どころ紹介\nアナザーストーリーズ 運命の分岐点\n番組ページへ",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "NHK"
+      ],
+      "all_titles": {
+        "ja": "アナザーストーリーズ 運命の分岐点"
+      }
+    },
+    {
+      "title_original": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "title_zh": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-29T00:56:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Close race as Iceland votes on whether to restart talks on joining EU\n- Published\nIcelanders are voting in a referendum to decide whether to resume talks on joining the European Union, 13 years after they were broken off.",
+        "In an indication of how tight the result is expected to be, the latest opinion poll put the No campaign in the lead with 51.6%.",
+        "An earlier poll had put the Yes campaign ahead."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Close race as Iceland votes on whether to restart talks on joining EU"
+      }
+    },
+    {
+      "title_original": "更迭されたウクライナ前国防相、伊国防相の顧問に就任",
+      "title_zh": "更迭されたウクライナ前国防相、伊国防相の顧問に就任",
+      "url": "https://www.afpbb.com/articles/-/3650464",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-28T23:55:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "更迭されたウクライナ前国防相、伊国防相の顧問に就任\nこのニュースをシェア\n【8月29日 AFP】ウクライナの前国防相で、先月の解任をめぐり戦時下では異例の抗議デモを引き起こしたミハイロ・フェドロフ氏は28日、イタリアの国防相の顧問に就任する申し出を受け入れたと明らかにした。",
+        "テクノロジー分野に明るいフェドロフ氏は、軍指導部との軋轢（あつれき）が報じられた後の7月、国防相を解任された。",
+        "ウクライナのウォロディミル・ゼレンスキー大統領による解任劇を受け、国内各地で数千人規模の抗議デモが発生し、復職を求める声が多く上がっていた。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "更迭されたウクライナ前国防相、伊国防相の顧問に就任"
+      }
+    },
+    {
+      "title_original": "Canada poaches dozens of top US researchers for its universities",
+      "title_zh": "Canada poaches dozens of top US researchers for its universities",
+      "url": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-28T23:47:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Canada poaches dozens of top US researchers for its universities\n- Published\nCanada is hiring dozens of researchers away from US universities, including top research institutions such as Harvard as its relationship with its neighbour continues to sour.",
+        "More than three-fourths of the 64 professors who are moving to Canada from around the world will come from the US.",
+        "Under a new government programme, they'll receive funding from a pool of C$504m ($362m; £268m) for research in fields such as climate change and medicine."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Canada poaches dozens of top US researchers for its universities"
+      }
+    },
+    {
+      "title_original": "Trump announces new US oil agreement with Venezuela",
+      "title_zh": "Trump announces new US oil agreement with Venezuela",
+      "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-28T23:34:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US president says US will have ‘majority’ control of 65bn barrels of proven oil reserves Donald Trump announced Friday a new US oil agreement with Venezuela’s interim president Delcy Rodríguez, saying the US will have “majority” control of 65bn barrels of proven oil reserves.",
+        "The terms of the agreement remain to be seen, but the US president said on his social-media platform that it had been brokered “through a partnership with ⁠private business” by his secretary of state, Marco Rubio, and defense secretary, Pete Hegseth.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Trump announces new US oil agreement with Venezuela"
+      }
+    },
+    {
+      "title_original": "美国战争部： 欧洲盟国应承担欧洲常规防务责任| 北约3.0 | 国防支出GDP 5% | 第一岛链| 新唐人电视台",
+      "title_zh": "美国战争部： 欧洲盟国应承担欧洲常规防务责任| 北约3.0 | 国防支出GDP 5% | 第一岛链| 新唐人电视台",
+      "url": "https://www.ntdtv.com/gb/mkt_ipad/2026/08/28/a104128220.html",
+      "source": "新唐人電視台",
+      "source_score": 40,
+      "published_at": "2026-08-28T23:04:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "【新唐人北京时间2026年08月29日讯】美国战争部政策事务副部长科尔比，稍早在北约总部表示，欧洲盟国应该承担欧洲常规防务的主要责任。",
+        "科尔比提出 “北约3.0”的构想，并表示，北约需要调整防务模式 。他强调，美国将重新配置军事力量，更加重视西半球和第一岛链，同时维持欧洲的重要战略地位，保持双方长期的军事合作。欧洲盟国对此也回应，承诺在2035年前，把年度国防及安全支出，提高到GDP的5%。",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "新唐人電視台"
+      ],
+      "all_titles": {
+        "zh": "美国战争部： 欧洲盟国应承担欧洲常规防务责任| 北约3.0 | 国防支出GDP 5% | 第一岛链| 新唐人电视台"
+      }
+    },
+    {
+      "title_original": "特朗普：俄罗斯“不会攻击北约国家领土”",
+      "title_zh": "特朗普：俄罗斯“不会攻击北约国家领土”",
+      "url": "https://i.ifeng.com/c/8vyWxQjkiu2",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-08-28T22:44:40+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普：俄罗斯“不会攻击北约国家领土”\n【环球时报特约记者 王逸】据《美国新闻与世界报道》27日报道，美国总统特朗普当天在白宫表示，俄罗斯总统普京不会攻击北约国家。他告诉记者，他同普京进行过很好的交谈，认为俄方“不会攻击北约国家领土”。当天早些时候，特朗普在接受阿克西奥斯新闻网采访时也作出类似表态。在被问及俄罗斯是否可能对北约国家进行“挑衅”时，他回答说，自己“一点也不担心”。",
+        "特朗普发表上述言论的两天前，美国中央情报局局长拉特克利夫飞往莫斯科进行会谈。《华尔街日报》和哥伦比亚广播公司等美国媒体报道称，此举是为了劝阻俄罗斯不要攻击北约成员国，因为美国情报部门评估认为，莫斯科可能在未来几年内，通过对一个北约成员国发动攻击，来考验北约的决心。",
+        "但是，特朗普27日否认了这些报道，他告诉阿克西奥斯新闻网，拉特克利夫并没有发出这样的警告，“拉特克利夫每六个月或每年都会与他的俄罗斯同行会面一次。他们关系非常好。会面中没有任何不寻常的信息传递。此访是例行公事”。与此同时，特朗普暗示拉特克利夫的访问同俄乌战事有关，称“我们正在努力促成战事结束，双方也都希望看到战事结束”。此外，特朗普还表示，没有必要因与伊朗进行贸易而惩罚俄罗斯。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "特朗普：俄罗斯“不会攻击北约国家领土”"
+      }
+    },
+    {
+      "title_original": "Can Beijing’s gateway plan for Tibet survive geopolitics and natural disasters?",
+      "title_zh": "Can Beijing’s gateway plan for Tibet survive geopolitics and natural disasters?",
+      "url": "https://www.scmp.com/news/china/politics/article/3365622/can-beijings-gateway-plan-tibet-survive-geopolitics-and-natural-disasters",
+      "source": "South China Morning Post",
+      "source_score": 55,
+      "published_at": "2026-08-28T22:00:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "In FocusCan Beijing’s gateway plan for Tibet survive geopolitics and natural disasters?",
+        "Beijing hopes trade will stabilise Tibet, but friction with India and the looming Dalai Lama succession are hampering its efforts\nOn the windswept plains just south of Tibet’s second-largest city, the towering smart inspection systems and automated cargo gantries of a brand-new international land port gleam under the plateau’s high-altitude sun.",
+        "Official road maps predict the multibillion-yuan project in Shigatse will process up to 300 trucks daily by the end of 2030 – loading cargo off trains and onto the trucks that will take goods to their final destination."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "South China Morning Post"
+      ],
+      "all_titles": {
+        "en": "Can Beijing’s gateway plan for Tibet survive geopolitics and natural disasters?"
+      }
+    },
+    {
+      "title_original": "Russlands Ukraine-Krieg - Präsident Selenskyj meldet militärische Erfolge im Abwehrkampf",
+      "title_zh": "Russlands Ukraine-Krieg - Präsident Selenskyj meldet militärische Erfolge im Abwehrkampf",
+      "url": "https://www.deutschlandfunk.de/praesident-selenskyj-meldet-militaerische-erfolge-im-abwehrkampf-100.html",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-08-28T21:43:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Er erklärte auf X, laut Erkenntnissen des militärischen Geheimdienstes seien Russlands Exporte infolge der ukrainischen Angriffe in diesem Monat in einigen Bereichen um 80 Prozent zurückgegangen.",
+        "Selenskyj hob zugleich die Wirksamkeit der ukrainischen Militärschläge tief im russischen Hinterland hervor.",
+        "So sei etwa der Betrieb in einer der größten russischen Ölraffinerien in Kstowo in der Region Nischni Nowgorod komplett eingestellt worden."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Russlands Ukraine-Krieg - Präsident Selenskyj meldet militärische Erfolge im Abwehrkampf"
+      }
+    },
+    {
+      "title_original": "Berlin is being blackmailed by hackers, mayor says",
+      "title_zh": "Berlin is being blackmailed by hackers, mayor says",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-28T21:29:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Berlin is being blackmailed by hackers, mayor says\n- Published\nBerlin is being blackmailed by hackers who were able to compromise city systems and steal data earlier this month, its mayor has said.",
+        "Kai Wegner said officials would not cave in to the ransom demand, which came on Thursday evening.",
+        "He did not say how much was being sought, though Der Spiegel reports the hackers are demanding 30 bitcoin, worth around €2m (£1.7m)."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Berlin is being blackmailed by hackers, mayor says"
+      }
+    },
     {
       "title_original": "Middle East Conflict Leaves Energy Winners — and Losers",
       "title_zh": "Middle East Conflict Leaves Energy Winners — and Losers",
@@ -54,6 +479,31 @@
       }
     },
     {
+      "title_original": "【原油ウォッチ】中東離れ、中国でもジワリ進む…米国による対イラン経済制裁強化でも、年末に向け原油価格は下落へ(1/3)",
+      "title_zh": "【原油ウォッチ】中東離れ、中国でもジワリ進む…米国による対イラン経済制裁強化でも、年末に向け原油価格は下落へ(1/3)",
+      "url": "https://jbpress.ismedia.jp/articles/-/96735",
+      "source": "JBpress",
+      "source_score": 40,
+      "published_at": "2026-08-28T21:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "米WTI原油先物価格（原油価格）は今週に入り、1バレル＝79ドルから87ドルの間で推移している。米国のイランへの経済制裁に対する警戒感が薄れたため、原油価格は一時、約2週間ぶりに80ドル割れとなった。",
+        "ベッセント米財務長官は8月24日、イランに対する新たな経済制裁を発表したが、中国の金融機関などへの具体的な2次制裁に踏み込まなかった。このため、経済制裁によって米国とイランの衝突が再び激しくなるとの市場の警戒感が薄れた。",
+        "イラン産原油を大量に購入してきたとされる中国だが、足元で変化がみられる。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "JBpress"
+      ],
+      "all_titles": {
+        "ja": "【原油ウォッチ】中東離れ、中国でもジワリ進む…米国による対イラン経済制裁強化でも、年末に向け原油価格は下落へ(1/3)"
+      }
+    },
+    {
       "title_original": "Nepal-Tibet flash flood: number of missing people in Nepal rises to 1,924 – latest updates",
       "title_zh": "Nepal-Tibet flash flood: number of missing people in Nepal rises to 1,924 – latest updates",
       "url": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
@@ -76,6 +526,56 @@
       ],
       "all_titles": {
         "en": "Nepal-Tibet flash flood: number of missing people in Nepal rises to 1,924 – latest updates"
+      }
+    },
+    {
+      "title_original": "„Täglich 1000 Drohnen“ – Selenskyj droht Russland mit verstärkten Angriffen",
+      "title_zh": "„Täglich 1000 Drohnen“ – Selenskyj droht Russland mit verstärkten Angriffen",
+      "url": "https://www.welt.de/politik/ausland/article6a91f268518a586e1855bec9/ukraine-krieg-taeglich-1000-drohnen-selenskyj-droht-russland-mit-verstaerkten-angriffen.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-08-28T20:54:16+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "„Täglich 1000 Drohnen“ – Selenskyj droht Russland mit verstärkten Angriffen\nKiew will den Druck auf Moskau weiter erhöhen: Bis zu 1000 Langstrecken-Drohnen pro Tag sollen Russland treffen, droht Präsident Selenskyj.",
+        "Zugleich müsse die Ukraine die Produktion von Abfangraketen speziell gegen Russlands Drohnen deutlich beschleunigen.",
+        "Klicken Sie hier, um sich Artikel von WELT in der Google-Suche bevorzugt anzeigen zu lassen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Täglich 1000 Drohnen“ – Selenskyj droht Russland mit verstärkten Angriffen"
+      }
+    },
+    {
+      "title_original": "¿Podría Putin atacar a algún país de la OTAN?",
+      "title_zh": "¿Podría Putin atacar a algún país de la OTAN?",
+      "url": "https://www.elmundo.es/internacional/2026/08/28/6a91ef05e4d4d8eb788b456e-video.html",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-08-28T20:27:01+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "¿Podría Putin atacar a algún país de la OTAN?",
+        "El ministro de Exteriores de Estonia, Marcus Tsahkna, ha sido tajante al valorar la situación tras la reciente misión del director de la CIA, John Ratcliffe, en Moscú.",
+        "En una nota oficial, Tsahkna ha asegurado que \"nuestro juicio sobre las amenazas planteadas por Rusia no ha cambiado\", dejando claro que el viaje del responsable de la inteligencia estadounidense no ha alterado la percepción de los países bálticos sobre el riesgo procedente del Kremlin.La cuestión también fue abordada por los embajadores de los países de la OTAN, reunidos este jueves en Bruselas."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "¿Podría Putin atacar a algún país de la OTAN?"
       }
     },
     {
@@ -126,6 +626,31 @@
       ],
       "all_titles": {
         "en": "Greenland says findings on genocide allegation not final"
+      }
+    },
+    {
+      "title_original": "US plans to cut off military aid to key Middle East ally, BBC told",
+      "title_zh": "US plans to cut off military aid to key Middle East ally, BBC told",
+      "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-28T19:45:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "US plans to cut off military aid to key Middle East ally, BBC told\n- Published\nThe Trump administration is planning to cut off military aid to a key Middle East ally that helped the US defeat the Islamic State group (IS) and is now facing punishing attacks from Iran, according to four sources familiar with the matter.",
+        "The US Department of Defense has told leaders of Iraq's semi-autonomous Kurdistan region in recent meetings that the administration is not planning to renew an expiring agreement that provides security assistance to the Peshmerga, the Kurdish security force.",
+        "The BBC spoke to two officials who participated in the talks and two other sources with direct knowledge of the issue."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US plans to cut off military aid to key Middle East ally, BBC told"
       }
     },
     {
@@ -204,6 +729,31 @@
       }
     },
     {
+      "title_original": "حرب أوكرانيا.. زيلينسكي يأمر بإطلاق 1000 مسيّرة على روسيا يوميًا | التلفزيون العربي",
+      "title_zh": "حرب أوكرانيا.. زيلينسكي يأمر بإطلاق 1000 مسيّرة على روسيا يوميًا | التلفزيون العربي",
+      "url": "https://www.alaraby.com/news/%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D9%8A%D8%A3%D9%85%D8%B1-%D8%A8%D8%A5%D8%B7%D9%84%D8%A7%D9%82-1000-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%8A%D9%88%D9%85%D9%8A%D9%8B%D8%A7",
+      "source": "التلفزيون العربي",
+      "source_score": 40,
+      "published_at": "2026-08-28T18:37:59+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "قال الرئيس الأوكراني فولوديمير زيلينسكي، اليوم الجمعة، إنه أمر الجيش بزيادة هجماته بالطائرات المسيرة بعيدة المدى على روسيا إلى 1000 هجوم يوميًا، ارتفاعًا من نحو 300 في الوقت الراهن.",
+        "وذكر في خطابه المسائي: \"يجب أن يكون هناك المزيد؛ هناك هدف محدد، وسننجز هذه المهمة\".",
+        "من جهة أخرى، أوضح زيلينسكي، أن الولايات المتحدة زودت كييف بمعلومات عن عدد من الاجتماعات التي عقدت في موسكو خلال الأيام القليلة الماضية."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "التلفزيون العربي"
+      ],
+      "all_titles": {
+        "ar": "حرب أوكرانيا.. زيلينسكي يأمر بإطلاق 1000 مسيّرة على روسيا يوميًا | التلفزيون العربي"
+      }
+    },
+    {
       "title_original": "Jared Kushner Is the Face of American Oligarchy",
       "title_zh": "Jared Kushner Is the Face of American Oligarchy",
       "url": "https://foreignpolicy.com/2026/08/28/american-oligarchy-geopolitics-dictators-democracy-jared-kushner-trump/",
@@ -251,6 +801,31 @@
       ],
       "all_titles": {
         "en": "Panama brings home 17 citizens linked to Russia-Ukraine war"
+      }
+    },
+    {
+      "title_original": "北约对中国涉嫌间谍活动产生警觉的更多细节曝光",
+      "title_zh": "北约对中国涉嫌间谍活动产生警觉的更多细节曝光",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260828-%E5%8C%97%E7%BA%A6%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B6%89%E5%AB%8C%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E4%BA%A7%E7%94%9F%E8%AD%A6%E8%A7%89%E7%9A%84%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-08-28T18:02:01+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "北约对中国涉嫌间谍活动产生警觉的更多细节曝光    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "zh": "北约对中国涉嫌间谍活动产生警觉的更多细节曝光"
       }
     },
     {
@@ -351,6 +926,31 @@
       ],
       "all_titles": {
         "ar": "سامو زين لـ«الشرق الأوسط»: تمردت على الأغنيات الرومانسية"
+      }
+    },
+    {
+      "title_original": "ترامب يحسم المخاوف الأوروبية: بوتين لن يهاجم حلف الناتو",
+      "title_zh": "ترامب يحسم المخاوف الأوروبية: بوتين لن يهاجم حلف الناتو",
+      "url": "https://www.alkhaleej.ae/2026-08-28/%D8%B9%D8%B1%D8%A8-%D9%88%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%AD%D8%B3%D9%85-%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%84%D9%86-%D9%8A%D9%87%D8%A7%D8%AC%D9%85-%D8%AD%D9%84%D9%81-%D8%A7%D9%84%D9%86%D8%A7%D8%AA%D9%88",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-08-28T16:46:02+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "أكّد الرئيس الأمريكي دونالد ترامب، الخميس، أن روسيا لن تهاجم أراضي دول حلف شمال الأطلسي (الناتو)، داحضاً تقارير إعلامية بشأن قلق واشنطن من إقدام موسكو على خطوة من هذا القبيل ضدّ دولة أوروبية.",
+        "وقال ترامب إنه أجرى «محادثات جيّدة» مع نظيره الروسي فلاديمير بوتين، مضيفاً أن الأخير «لن يهاجم أراضي الناتو».",
+        "وبحسب الصحافة الأمريكية، زار مدير وكالة الاستخبارات المركزية الأمريكية (سي آي إيه) جون راتكليف موسكو هذا الأسبوع لثنيها عن مهاجمة الحلف الأطلسي."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "ترامب يحسم المخاوف الأوروبية: بوتين لن يهاجم حلف الناتو"
       }
     },
     {
