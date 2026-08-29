@@ -1,8 +1,758 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29T04:08:54.171994+00:00",
-  "count": 59,
+  "generated_at": "2026-08-29T15:38:36.045057+00:00",
+  "count": 89,
   "articles": [
+    {
+      "title_original": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "title_zh": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-29T15:27:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot\n- Published\nThirty-seven people have died and almost 400 have been evacuated after a Russian drone strike hit a depot storing weapons for Ukraine's military near a residential area on the outskirts of Kyiv.",
+        "The strike caused shells, mines and drones to detonate late on Friday, triggering a blast that damaged nearby properties including a care home for the elderly and disabled, President Volodymyr Zelensky said.",
+        "He said the storage site \"definitely shouldn't have been there\" and that an investigation had been launched into \"terrible negligence on the part of those who stored explosive right next to people\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot"
+      }
+    },
+    {
+      "title_original": "ウクライナ首都近郊で37人死亡 ロシア軍攻撃で弾薬爆発か",
+      "title_zh": "ウクライナ首都近郊で37人死亡 ロシア軍攻撃で弾薬爆発か",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260829de47184",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-29T14:47:18+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ首都近郊で37人死亡 ロシア軍攻撃で弾薬爆発か    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ首都近郊で37人死亡 ロシア軍攻撃で弾薬爆発か"
+      }
+    },
+    {
+      "title_original": "Watch Russia Tests Ukraine and NATO With Escalation",
+      "title_zh": "Watch Russia Tests Ukraine and NATO With Escalation",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-29/russia-tests-ukraine-and-nato-with-escalation-video",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-08-29T14:28:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Watch Russia Tests Ukraine and NATO With Escalation    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Watch Russia Tests Ukraine and NATO With Escalation"
+      }
+    },
+    {
+      "title_original": "Haben sich Storm-Shadow-Raketen im Ukraine-Krieg bewährt?",
+      "title_zh": "Haben sich Storm-Shadow-Raketen im Ukraine-Krieg bewährt?",
+      "url": "https://www.dw.com/de/haben-sich-storm-shadow-raketen-im-ukraine-krieg-bew%C3%A4hrt/a-78549845",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-08-29T13:48:16+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Haben sich Storm-Shadow-Raketen im Ukraine-Krieg bewährt?",
+        "August 2026\nAls die Ukraine im Frühjahr 2023 erstmals mit Storm-Shadow-Marschflugkörpern beliefert wurde, war dies eine der wichtigsten Entscheidungen der westlichen Verbündeten im Bereich der Langstreckenwaffen.",
+        "Seitdem wurden sie wiederholt für Angriffe auf Lager, Kommandozentralen, Stützpunkte und andere militärische und industrielle Ziele der Russen eingesetzt."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "de": "Haben sich Storm-Shadow-Raketen im Ukraine-Krieg bewährt?"
+      }
+    },
+    {
+      "title_original": "Prix des carburants : TotalEnergies maintiendra son plafonnement « tant que le conflit durera » au Moyen-Orient",
+      "title_zh": "Prix des carburants : TotalEnergies maintiendra son plafonnement « tant que le conflit durera » au Moyen-Orient",
+      "url": "https://www.ouest-france.fr/economie/transports/carburants-essence-diesel/prix-des-carburants-totalenergies-maintiendra-son-plafonnement-tant-que-le-conflit-durera-au-moyen-orient-9ecc9996-a3aa-11f1-94d9-ff4da0548a19",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-08-29T13:27:51+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Prix des carburants : TotalEnergies maintiendra son plafonnement « tant que le conflit durera » au Moyen-Orient    Ouest-France",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Prix des carburants : TotalEnergies maintiendra son plafonnement « tant que le conflit durera » au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "Mark Rutte traslada a Polonia su evaluación de la situación en la región",
+      "title_zh": "Mark Rutte traslada a Polonia su evaluación de la situación en la región",
+      "url": "https://es.euronews.com/my-europe/2026/08/29/mark-rutte-traslada-a-polonia-su-evaluacion-de-la-situacion-en-la-region",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-29T13:20:54+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Donald Tusk transmitió la información recibida del secretario general de la OTAN sobre la situación en la región y en el frente ucraniano ruso, y advirtió de un riesgo de provocación por parte de Rusia.",
+        "El primer ministro polaco, Donald Tusk, informó en su cuenta en la red social X de que había hablado con Mark Rutte, el jefe de la OTAN, quien le trasladó la información más reciente sobre la situación en la región, así como sobre la guerra en Ucrania.",
+        "\"Como advertí, la escalada por parte de Rusia continúa."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "Mark Rutte traslada a Polonia su evaluación de la situación en la región"
+      }
+    },
+    {
+      "title_original": "ロシア軍、ウクライナに無人機攻撃37人死亡 キーウ近郊の倉庫爆発",
+      "title_zh": "ロシア軍、ウクライナに無人機攻撃37人死亡 キーウ近郊の倉庫爆発",
+      "url": "https://www.nikkei.com/article/DGXZQOCB292JF0Z20C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-29T13:04:52+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア軍、ウクライナに無人機攻撃37人死亡 キーウ近郊の倉庫爆発\n【キーウ、モスクワ=共同】ロシア軍は28日夜、ウクライナ首都キーウ近郊ブチャ地区の倉庫を無人機で攻撃した。ウクライナ政府によると、爆発と大規模な火災が発生し、37人が死亡、多数が負傷した。住宅約50棟が損壊した。倉庫には弾薬などが保管されていたとみられ、被害が拡大した可能性がある。",
+        "ロシア国防省は29日、無人機や巡航ミサイルを製造するウクライナの防衛企業ファイアポイント社の弾薬庫を攻撃したと発表した。長距離無人機の部品や発射用ブースターが保管されていたと主張している。",
+        "ゼレンスキー大統領はX（旧ツイッター）に「弾薬を住宅地や居住地域の近くに保管してはならないという規則がある」と投稿し、被害の拡大を招いた関係者の刑事責任を追及する意向を示した。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍、ウクライナに無人機攻撃37人死亡 キーウ近郊の倉庫爆発"
+      }
+    },
+    {
+      "title_original": "„Eskalation schreitet voran“ – Polen warnt Nato vor Russland",
+      "title_zh": "„Eskalation schreitet voran“ – Polen warnt Nato vor Russland",
+      "url": "https://www.welt.de/politik/ausland/article6a92c7a127cdbc5135d06d73/russland-eskalation-schreitet-voran-polen-warnt-nato.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-08-29T12:29:14+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "„Eskalation schreitet voran“ – Polen warnt Nato vor Russland\nDie nächsten sechs Monate seien entscheidend, sagt Polens Regierungschef Tusk.",
+        "Er warnt vor einer direkten Konfrontation mit Russland.",
+        "Die Woche warnte CIA-Chef John Ratcliffe Moskau genau davor."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Eskalation schreitet voran“ – Polen warnt Nato vor Russland"
+      }
+    },
+    {
+      "title_original": "Putin, decidido a escalar la guerra con \"muchas cartas en su baraja\", como la de \"agredir a un país vecino de la OTAN\"",
+      "title_zh": "Putin, decidido a escalar la guerra con \"muchas cartas en su baraja\", como la de \"agredir a un país vecino de la OTAN\"",
+      "url": "https://www.lasexta.com/noticias/internacional/putin-decidido-escalar-guerra-muchas-cartas-baraja-que-estaria-agredir-pais-vecino-otan_202608296a92ceb3d16f763504a5cbe4.html",
+      "source": "LaSexta",
+      "source_score": 40,
+      "published_at": "2026-08-29T12:21:07+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Niega más movilizaciones\nPutin, decidido a escalar la guerra con \"muchas cartas en su baraja\", como la de \"agredir a un país vecino de la OTAN\"\nLos detalles Ricardo Marquina, periodista especializado en Rusia, afirma que una de las opciones es \"una movilización parcial de 300.000 hombres o total\" para \"saturar las defensas ucranianas\".",
+        "Resumen IA supervisado\nEl conflicto en Ucrania sigue estancado, mientras Rusia enfrenta ataques económicos.",
+        "Según Ricardo Marquina, periodista especializado en Rusia, Putin podría escalar la guerra con una movilización parcial o total de tropas, lo que genera temor entre los rusos, quienes desconfían del Kremlin."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "LaSexta"
+      ],
+      "all_titles": {
+        "es": "Putin, decidido a escalar la guerra con \"muchas cartas en su baraja\", como la de \"agredir a un país vecino de la OTAN\""
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Viele Tote bei Angriff auf Munitionslager bei Kiew",
+      "title_zh": "Ukraine-Krieg: Viele Tote bei Angriff auf Munitionslager bei Kiew",
+      "url": "https://www.stern.de/politik/ausland/ukraine-krieg--viele-tote-bei-angriff-auf-munitionslager-bei-kiew-38176100.html",
+      "source": "STERN.de",
+      "source_score": 40,
+      "published_at": "2026-08-29T11:32:10+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Viele Tote bei Angriff auf Munitionslager bei Kiew    STERN.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "STERN.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Viele Tote bei Angriff auf Munitionslager bei Kiew"
+      }
+    },
+    {
+      "title_original": "Las Fuerzas Armadas alemanas encargan más blindados Schakal para reforzar el flanco este de la OTAN",
+      "title_zh": "Las Fuerzas Armadas alemanas encargan más blindados Schakal para reforzar el flanco este de la OTAN",
+      "url": "https://es.euronews.com/my-europe/2026/08/29/las-fuerzas-armadas-alemanas-encargan-mas-blindados-schakal-para-reforzar-el-flanco-este-d",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-29T11:25:33+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La Bundeswehr busca reforzar la defensa nacional y aliada, Alemania encarga 35 blindados Schakal a la empresa KNDS y eleva el total a 185.",
+        "Las primeras entregas serán a finales de 2027 y las restantes hasta 2031.",
+        "El Schakal es mucho más que un nuevo vehículo blindado."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "Las Fuerzas Armadas alemanas encargan más blindados Schakal para reforzar el flanco este de la OTAN"
+      }
+    },
+    {
+      "title_original": "US Allies and the Taiwan Strait – Book Review",
+      "title_zh": "US Allies and the Taiwan Strait – Book Review",
+      "url": "https://moderndiplomacy.eu/2026/08/29/us-allies-and-the-taiwan-strait-book-review/",
+      "source": "Modern Diplomacy",
+      "source_score": 40,
+      "published_at": "2026-08-29T11:00:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Liff’s book is a concise yet conceptually rich contribution to the study of the Taiwan Strait.",
+        "It argues that the US allies are more autonomous, which is empirically convincing but not fully causal.",
+        "While the book challenges US-centrism, it retains some pro-US framing and exaggerates the allies’ autonomy."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Modern Diplomacy"
+      ],
+      "all_titles": {
+        "en": "US Allies and the Taiwan Strait – Book Review"
+      }
+    },
+    {
+      "title_original": "حاملة الطائرات «ثيودور روزفلت» إلى الشرق الأوسط لـ7 أشهر",
+      "title_zh": "حاملة الطائرات «ثيودور روزفلت» إلى الشرق الأوسط لـ7 أشهر",
+      "url": "https://aawsat.com/%D8%B4%D8%A4%D9%88%D9%86-%D8%A5%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9/5311674-%D8%AD%D8%A7%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%AB%D9%8A%D9%88%D8%AF%D9%88%D8%B1-%D8%B1%D9%88%D8%B2%D9%81%D9%84%D8%AA-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%84%D9%807-%D8%A3%D8%B4%D9%87%D8%B1",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-29T10:23:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "تستعد حاملة الطائرات الأميركية «يو إس إس ثيودور روزفلت» للانتشار في الشرق الأوسط خلال الأسابيع المقبلة لمدة لا تقل عن سبعة أشهر، في أحدث عملية تدوير لحاملات الطائرات الأميركية بالمنطقة، وسط ضغوط متزايدة فرضتها الحرب مع إيران على الأسطول وطاقمه.",
+        "وأفادت شبكة «سي إن إن»، الأربعاء، بأن «ثيودور روزفلت» ستبدأ خلال الأسابيع المقبلة مهمة يتوقع أن تستمر سبعة أشهر على الأقل، نقلاً عن مسؤولين كبار في البحرية الأميركية.",
+        "ونقلت الشبكة عن موقع «يو إس إن آي نيوز» المتخصص في شؤون البحرية قول كبير ضباط الصف في البحرية الأميركية جون بيريمان إن أفراد الحاملة يستعدون لفترة أطول من ذلك."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "حاملة الطائرات «ثيودور روزفلت» إلى الشرق الأوسط لـ7 أشهر"
+      }
+    },
+    {
+      "title_original": "Russland-Ukraine-Krieg: Ukraine meldet mindestens 27 Tote bei russischem Angriff nahe Kyjiw",
+      "title_zh": "Russland-Ukraine-Krieg: Ukraine meldet mindestens 27 Tote bei russischem Angriff nahe Kyjiw",
+      "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-ukraine-meldet-mindestens-27-tote-bei-russischem-angriff-nahe-kyjiw-a-c238673d-6a5e-4494-93a4-3a2c1427ace0",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-08-29T10:23:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putins Krieg Ukraine meldet mindestens 27 Tote bei russischem Angriff nahe Kyjiw\nBei einem russischen Drohnenschlag sind unweit der ukrainischen Hauptstadt Kyjiw mindestens 27 Menschen getötet worden.",
+        "»Es gibt erhebliche Schäden an der umliegenden Infrastruktur: Wohnhäuser sowie ein Senioren- und Behindertenheim wurden beschädigt«, schrieb Präsident Wolodymyr Selenskyj bei Telegram .",
+        "Zudem seien Dutzende Menschen bei dem Angriff am Freitagabend verletzt worden."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Russland-Ukraine-Krieg: Ukraine meldet mindestens 27 Tote bei russischem Angriff nahe Kyjiw"
+      }
+    },
+    {
+      "title_original": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
+      "title_zh": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
+      "url": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-29T10:00:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took over In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural area of southern Colombia where they lined up and, one by one, handed their weapons to government officials: rifles, pistols, machine guns and grenade launchers.",
+        "They also stripped off their heavy tactical vests, field packs and camouflage uniforms, which were each piled into a bonfire to mark the beginning of a new life away from an armed conflict that has claimed nearly half a million lives in the last six decades.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?"
+      }
+    },
+    {
+      "title_original": "Bundeswehr expands 'Schakal' fleet for NATO's eastern flank",
+      "title_zh": "Bundeswehr expands 'Schakal' fleet for NATO's eastern flank",
+      "url": "https://www.euronews.com/my-europe/2026/08/29/bundeswehr-expands-schakal-fleet-for-natos-eastern-flank",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-08-29T09:33:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The Bundeswehr is pursuing a number of other major procurement programmes for main battle tanks, artillery systems, and air defences.",
+        "The Schakal is more than just a new armoured vehicle.",
+        "It is a key component of the German army's so-called Medium Forces - a new category of troops designed to be rapidly deployable while also offering substantial firepower."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "en": "Bundeswehr expands 'Schakal' fleet for NATO's eastern flank"
+      }
+    },
+    {
+      "title_original": "米軍、三沢基地のF16戦闘機を中東展開 イラン作戦で3〜4月に",
+      "title_zh": "米軍、三沢基地のF16戦闘機を中東展開 イラン作戦で3〜4月に",
+      "url": "https://www.nikkei.com/article/DGXZQOCB291ZV0Z20C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-29T09:29:12+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "米軍、三沢基地のF16戦闘機を中東展開 イラン作戦で3〜4月に\n【ロンドン、テヘラン=共同】国防・安全保障専門の英メディア、UKディフェンス・ジャーナルは米軍三沢基地（青森県三沢市）のF16戦闘機が対イラン作戦で3月と4月に中東に展開したと報じた。在日米軍からは沖縄の海兵隊部隊なども作戦に一時関与しており、戦力が振り向けられていることが改めて明らかになった。",
+        "中国やロシア、北朝鮮の脅威に対する東アジアでの抑止力の低下が懸念される。",
+        "イランのアラグチ外相は8月29日、共同通信に対し「平和を愛する日本の人たちは米国の犯罪について、日本政府に説明責任を問うべきだ」と指摘。「イラン攻撃は、基地が受け入れ国を守るためではなく、攻撃的な政策に使われていることを示した。三沢基地もその一例だ」と述べた。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "米軍、三沢基地のF16戦闘機を中東展開 イラン作戦で3〜4月に"
+      }
+    },
+    {
+      "title_original": "عقوبات أمريكية على فروع بنك مصر في الإمارات بسبب تعاملات مع إيران",
+      "title_zh": "عقوبات أمريكية على فروع بنك مصر في الإمارات بسبب تعاملات مع إيران",
+      "url": "https://www.france24.com/ar/%D9%81%D9%8A%D8%AF%D9%8A%D9%88/20260829-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%81%D8%B1%D9%88%D8%B9-%D8%A8%D9%86%D9%83-%D9%85%D8%B5%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AA%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-29T08:29:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "عقوبات أمريكية على فروع بنك مصر في الإمارات بسبب تعاملات مع إيران    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "عقوبات أمريكية على فروع بنك مصر في الإمارات بسبب تعاملات مع إيران"
+      }
+    },
+    {
+      "title_original": "«خسارة كبيرة حقاً»... ترمب يعرب عن تعازيه في وفاة ملك النرويج",
+      "title_zh": "«خسارة كبيرة حقاً»... ترمب يعرب عن تعازيه في وفاة ملك النرويج",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9%E2%80%8B/5312306-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D8%AD%D9%82%D8%A7%D9%8B-%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%B9%D8%B1%D8%A8-%D8%B9%D9%86-%D8%AA%D8%B9%D8%A7%D8%B2%D9%8A%D9%87-%D9%81%D9%8A-%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D9%84%D9%83-%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-29T08:14:36+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "«خسارة كبيرة حقاً»...",
+        "特朗普对挪威国王去世表示哀悼 https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D 8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9%E2%80%8B/5312306-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D 8%A9-%D8%AD%D9%82%D8%A7%D9%8B-%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%B9%D8%B1%D8%A8-%D8%B9%D9%86-%D8%AA%D8%B9%D8%A7%D8 %B2%D9%8A%D9%87-%D9%81%D9%8A-%D9%88%D9%81%D8%A7%D8%A9-%D9%85%D9%84%D9%83-%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC\n“损失确实很大”...",
+        "ترمب يعرب عن تعازيه في وفاة ملك النرويج\nرجل يمر بجوار صورة ملك النرويج الراحل هارالد في أوسلو (رويترز)\nأعرب الرئيس الأميركي دونالد ترمب عن تعازيه في وفاة ملك النرويج هارالد الخامس، ووصفه بـ«الرجل القوي، والمهيب، والجدير بالاحترام»، بحسب منشور على منصته «تروث سوشيال»."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«خسارة كبيرة حقاً»... ترمب يعرب عن تعازيه في وفاة ملك النرويج"
+      }
+    },
+    {
+      "title_original": "Hybride Angriffe in Europa: Sicherheitsexperten fordern Aktivierung von Artikel 4 des Nato-Vertrags",
+      "title_zh": "Hybride Angriffe in Europa: Sicherheitsexperten fordern Aktivierung von Artikel 4 des Nato-Vertrags",
+      "url": "https://www.n-tv.de/politik/Sicherheitsexperten-fordern-Aktivierung-von-Artikel-4-des-Nato-Vertrags-id31245323.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-29T08:05:37+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Hybride Angriffe in EuropaSicherheitsexperten fordern Aktivierung von Artikel 4 des Nato-Vertrags\nAnschlagspläne auf Rüstungsmanager, ein Waffendepot in Brandenburg, Drohnen am Leipziger Flughafen: Die besorgniserregenden Vorfälle mehren sich.",
+        "Sicherheitsexperten - unter ihnen ein ehemaliger BND-Vize - fordern nun Konsequenzen.",
+        "Sicherheitsexperten fordern eine Befassung der Nato mit dem Drohnenangriff auf den Leipziger Flughafen Anfang August."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Hybride Angriffe in Europa: Sicherheitsexperten fordern Aktivierung von Artikel 4 des Nato-Vertrags"
+      }
+    },
+    {
+      "title_original": "ترمب يؤكد: روسيا «لن تهاجم أراضي» حلف الناتو",
+      "title_zh": "ترمب يؤكد: روسيا «لن تهاجم أراضي» حلف الناتو",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9%E2%80%8B/5311871-%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%A4%D9%83%D8%AF-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%84%D9%86-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A-%D8%AD%D9%84%D9%81-%D8%A7%D9%84%D9%86%D8%A7%D8%AA%D9%88",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-29T07:35:50+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "الرئيس الأميركي دونالد ترمب يستمع لسؤال أحد الصحافيين في مكتب البيضاوي (أ.ب)\nأكّد الرئيس الأميركي دونالد ترمب، الخميس، أن روسيا «لن تهاجم» أراضي دول حلف شمال الأطلسي (الناتو)، داحضاً تقارير إعلامية بشأن قلق واشنطن من إقدام موسكو على خطوة من هذا القبيل ضدّ دولة أوروبية.وقال ترمب، وفقاً لموقع «أكسيوس»، إنه أجرى «محادثات جيّدة» مع نظيره الروسي فلاديمير بوتين، مؤكداً أنّه «لن يهاجم أراضي الناتو».",
+        "وأثارت الزيارة الخاطفة لمدير وكالة الاستخبارات المركزية الأميركية (سي آي إيه)، جون راتكليف، إلى موسكو تكهنات واسعة.",
+        "وبقيت ملابساتها غامضة رغم بعض التسريبات التي ربطتها تحديداً بحرب أوكرانيا والتوتر الروسي الأوروبي."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "ترمب يؤكد: روسيا «لن تهاجم أراضي» حلف الناتو"
+      }
+    },
+    {
+      "title_original": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "title_zh": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-29T07:11:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets\n- Published\nA former White House teleprompter operator has been ordered to pay more than $172,000 (£127,000) for using inside information to bet on Donald Trump's speeches.",
+        "Gabriel Perez was found to have made trades concerning what the US president would say during addresses between December 2025 and February 2026 on Kalshi - a prediction markets platform where users can bet on real-world events.",
+        "其监管机构商品期货交易委员会 (CFTC) 表示，佩雷斯必须交出 107,539.02 美元的利润，并支付 65,000 美元的民事罚款。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets"
+      }
+    },
+    {
+      "title_original": "Ceuta y el debate sobre la excepcionalidad: seguridad, derecho y geopolítica",
+      "title_zh": "Ceuta y el debate sobre la excepcionalidad: seguridad, derecho y geopolítica",
+      "url": "https://www.mundiario.com/articulo/opiniones/ceuta-debate-excepcionalidad-seguridad-derecho-geopolitica/20260829085752438090.html",
+      "source": "MUNDIARIO",
+      "source_score": 40,
+      "published_at": "2026-08-29T06:57:52+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Ceuta y el debate sobre la excepcionalidad: seguridad, derecho y geopolítica\nLo ocurrido en Ceuta vuelve a plantear una cuestión que trasciende la gestión inmediata de una crisis fronteriza: hasta dónde puede llegar un Estado cuando considera que se encuentra ante una situación excepcional.",
+        "En este sentido, resulta significativa la terminología utilizada por José María Aznar y su posible paralelismo con el debate jurídico suscitado durante la pandemia.",
+        "El Tribunal Constitucional concluyó que el confinamiento impuesto durante el primer estado de alarma había supuesto, por su intensidad, una suspensión material de la libertad de circulación, algo que constitucionalmente correspondía al estado de excepción."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "MUNDIARIO"
+      ],
+      "all_titles": {
+        "es": "Ceuta y el debate sobre la excepcionalidad: seguridad, derecho y geopolítica"
+      }
+    },
+    {
+      "title_original": "Mächtiges Nato-Versprechen: Wenn Putin angreift, muss uns dieser Paragraf retten",
+      "title_zh": "Mächtiges Nato-Versprechen: Wenn Putin angreift, muss uns dieser Paragraf retten",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/das-maechtigste-versprechen-der-nato-was-bedeutet-artikel-5-6a918d50518a586e1855b908",
+      "source": "BILD",
+      "source_score": 40,
+      "published_at": "2026-08-29T06:12:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Bundesliga-Sensation!",
+        "Dorfklub Elversberg demütigt Leverkusen\nDas mächtigste Versprechen der Nato: Wenn Putin angreift, muss uns dieser Paragraf retten\nArtikel 5 des Nato-Vertrags regelt Beileid bis Vergeltung\nBerlin – Experten schlagen Alarm: Kreml-Chef Wladimir Putin (73) könnte den Ukraine-Krieg bald massiv ausweiten und sogar Nato-Gebiet ins Visier nehmen.",
+        "Die entscheidende Frage wäre dann: Zieht ein solcher Angriff, etwa auf einen baltischen Staat, auch uns in den Krieg?"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BILD"
+      ],
+      "all_titles": {
+        "de": "Mächtiges Nato-Versprechen: Wenn Putin angreift, muss uns dieser Paragraf retten"
+      }
+    },
+    {
+      "title_original": "Explora Journeys cancela la temporada 2027-28 en Oriente Medio",
+      "title_zh": "Explora Journeys cancela la temporada 2027-28 en Oriente Medio",
+      "url": "https://www.expreso.info/noticias/transporte/114161_explora_journeys_cancela_la_temporada_202728_en_oriente_medio",
+      "source": "Expreso - Diario de viajes y turismo",
+      "source_score": 40,
+      "published_at": "2026-08-29T06:00:51+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Menú de navegación\nExplora Journeys cancela la temporada 2027-28 en Oriente Medio\nEXPRESO - 29.08.2026\nLa naviera Explora Journeys ha cancelado sus planes para entrar en Oriente Medio durante la temporada 2027-28, según detalla en un comunicado enviado a los pasajeros con reserva.",
+        "Así, la compañía debía desplegar el buque Explora I en la región, navegando por el Golfo Arábigo y países vecinos desde noviembre de 2027 hasta febrero de 2028.",
+        "Además, otro barco planeado para navegar por Oriente Medio era el Explora V, navegando entre enero y marzo de 2028 en el Mar Rojo."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Expreso - Diario de viajes y turismo"
+      ],
+      "all_titles": {
+        "es": "Explora Journeys cancela la temporada 2027-28 en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "ロシアがＩＣＢＭ発射訓練、カムチャツカ半島に到達…ウクライナ支援するＮＡＴＯ加盟国けん制か",
+      "title_zh": "ロシアがＩＣＢＭ発射訓練、カムチャツカ半島に到達…ウクライナ支援するＮＡＴＯ加盟国けん制か",
+      "url": "https://www.yomiuri.co.jp/world/20260829-GYT1T00133/",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-08-29T06:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシアがＩＣＢＭ発射訓練、カムチャツカ半島に到達…ウクライナ支援するＮＡＴＯ加盟国けん制か\nメモ入力\n              -最大400文字まで\n                \n                \n              完了しました\nロシア国防省は２８日、大陸間弾道ミサイル（ＩＣＢＭ）の発射訓練を行い、成功したと発表した。ロシアが侵略を続けるウクライナを支援する北大西洋条約機構（ＮＡＴＯ）加盟国をけん制する狙いがあるとみられる。",
+        "発表によると、ミサイルは露北部アルハンゲリスク州のプレセツク宇宙基地から移動式発射台を使って発射され、露極東カムチャツカ半島の演習用区域に到達した。ミサイルシステムの戦術・技術的特性などの確認が目的だと説明している。ミサイルの種類は公表されていない。",
+        "２５日に訪露した米中央情報局（ＣＩＡ）長官は和平交渉の再開のほか、ＮＡＴＯ加盟国への攻撃など事態をエスカレートさせないよう露側に求めたと報じられている。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "ロシアがＩＣＢＭ発射訓練、カムチャツカ半島に到達…ウクライナ支援するＮＡＴＯ加盟国けん制か"
+      }
+    },
+    {
+      "title_original": "+++ 07:23 Ukrainisches Präsidialamt: \"Wir werden den Krieg jetzt nicht beenden\" +++",
+      "title_zh": "+++ 07:23 Ukrainisches Präsidialamt: \"Wir werden den Krieg jetzt nicht beenden\" +++",
+      "url": "https://www.n-tv.de/politik/07-23-Ukrainisches-Praesidialamt-Wir-werden-den-Krieg-jetzt-nicht-beenden-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-29T05:26:13+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "+++ 07:23 Ukrainisches Präsidialamt: \"Wir werden den Krieg jetzt nicht beenden\" +++    n-tv.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "+++ 07:23 Ukrainisches Präsidialamt: \"Wir werden den Krieg jetzt nicht beenden\" +++"
+      }
+    },
+    {
+      "title_original": "مراجعة الجغرافيا السياسية والاقتصادية",
+      "title_zh": "مراجعة الجغرافيا السياسية والاقتصادية",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5311139-%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-29T05:05:34+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "أرجو ألا يكون هناك ملل من القول الذائع إنه إذا كان الإنسان لا يختار والديه، فإن الدول لا تختار جيرانها، ويمكن الإضافة إلى ذلك الإقليم أيضاً، وهو الذي يشكل مجمعاً من الجيران المتجاورة التي عاشت تاريخاً مشتركاً تشكلت فيه مصالح كل دولة حسب ما استقرَّ عليه شعبها وقيادتها.",
+        "قيام دولة إسرائيل على وسط الخط الفاصل بين شرق وغرب العالم العربي نتجت عنه صراعات وحروب لا تزال جارية.",
+        "لم يكن غزو العراق للكويت في عهد صدام حسين واقعاً في ذلك الوقت، ولا كانت صراعات الحدود بين الدول العربية قد استقرت؛ وبالتأكيد فإن إنشاء دولة «الخلافة» على الحدود السورية - العراقية لم يكن قد ورد على تنظيم «داعش» الإرهابي في أكثر أحلامه جنوناً."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مراجعة الجغرافيا السياسية والاقتصادية"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 06:45 Verletzte und Tote im Bezirk Butscha +++",
+      "title_zh": "Ukraine-Krieg im Liveticker: +++ 06:45 Verletzte und Tote im Bezirk Butscha +++",
+      "url": "https://www.n-tv.de/politik/06-45-Verletzte-und-Tote-im-Bezirk-Butscha-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-08-29T04:49:54+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg im Liveticker: +++ 06:45 Verletzte und Tote im Bezirk Butscha +++    n-tv.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 06:45 Verletzte und Tote im Bezirk Butscha +++"
+      }
+    },
+    {
+      "title_original": "Black Bull facturará este año 100 millones con servicios portuarios a la OTAN y fuerzas armadas",
+      "title_zh": "Black Bull facturará este año 100 millones con servicios portuarios a la OTAN y fuerzas armadas",
+      "url": "https://www.elconciso.es/empresas/black-bull-facturara-ano-100_0_2007820731.html",
+      "source": "El Conciso",
+      "source_score": 40,
+      "published_at": "2026-08-29T04:30:16+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Black Bull facturará este año 100 millones con servicios portuarios a la OTAN y fuerzas armadas\nLa empresa sevillana de servicios portuarios, bunkering y catering trabaja en 800 puertos con los buques militares de 30 países\nEl gigante portuario Euroports suma músculo en Andalucía con la integración de Estibadora Sevillana en su terminal de Sevilla\nBlack Bull Logistic, nacida en Sevilla en 2009 para ayudar a las empresas a exportar sus excedentes, se ha convertido hoy en una compañía líder a nivel internacional en servicios portuarios, bunkering (suministro de combustible) y catering para las fuerzas armadas de todo el mundo, así como en servicios de consultoría de seguridad para empresas con trabajadores en zonas de riesgo.",
+        "Propiedad actualmente del grupo ES-KO (87,5%) y de José Manuel Palma (12,5%), Black Bull facturó en torno a los 60 millones el pasado año y prevé llegar a los 100 millones de euros de ingresos este año tras ganar uno de los mayores contratos de servicios portuarios militar, licitado por la OTAN.",
+        "Compañeros de carrera en ADE, José Manuel Palma Escudero (Sevilla, 1979) y Fernando Tirado venían del mundo del mundo del shipping o transporte marítimo internacional -habían trabajado en navieras y transitarios-, cuando decidieron crear una compañía para la exportación, que en 2014 fue reconvertida en Black Bull tras detectar que había una necesidad en la Armada Española cuando los barcos estaban en tránsito en el Canal de Suez y tenían que compartir datos con empresas de servicios portuarios que podrían comprometer su seguridad."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "El Conciso"
+      ],
+      "all_titles": {
+        "es": "Black Bull facturará este año 100 millones con servicios portuarios a la OTAN y fuerzas armadas"
+      }
+    },
     {
       "title_original": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
       "title_zh": "中国没有播放西藏洪水的镜头——我们对那里的受害者知之甚少",
