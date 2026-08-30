@@ -1,8 +1,858 @@
 {
   "date": "2026-08-30",
-  "generated_at": "2026-08-30T01:14:11.402701+00:00",
-  "count": 35,
+  "generated_at": "2026-08-30T15:20:42.275605+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "Venezuela’s Delcy Rodríguez says oil deal with Trump has ‘endless’ benefits",
+      "title_zh": "委内瑞拉总统德尔西·罗德里格斯表示，与特朗普的石油协议有“无尽”的好处",
+      "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-30T15:08:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "据报道，美国将控制委内瑞拉 650 亿桶石油的协议激起了委内瑞拉的愤怒。委内瑞拉临时总统德尔西·罗德里格斯为委内瑞拉政府与唐纳德·特朗普达成的备受争议的能源协议进行了辩护，坚称这个南美国家将保留对其庞大石油储备的所有权和主权。",
+        "罗德里格斯在特朗普下令绑架总统尼古拉斯·马杜罗后于一月份上台，周六他在广播中反驳了对美国总统所谓的“世界历史上最大石油协议”的批评。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Venezuela’s Delcy Rodríguez says oil deal with Trump has ‘endless’ benefits"
+      }
+    },
+    {
+      "title_original": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+      "title_zh": "加拿大竖立巨型“安大略湖”标志，与特朗普因名字升级发生口角",
+      "url": "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-30T14:55:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "与此同时，特朗普发布了自己踢倒安大略湖标志并将其替换为美国湖标志的视频。周六，唐纳德·特朗普和加拿大就美国政府对安大略湖的行政更名问题继续进行口水战，加拿大竖起了一个巨大的标志，上面写着“安大略湖。”",
+        "现在和永远”——美国总统发布了一段视频，视频中他拆掉了这个标志的化身，竖立了一个替代品，上面写着“美国湖”，并随着基督教青年会的曲子跳舞。",
+        "关于安大略湖命名的言论是美国与其北方邻国之间不断升级的贸易争端的公众形象，这场争端涉及美国对加拿大钢铁征收 50% 的关税以及渥太华的报复性关税。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - Feuer in Ölraffinerie im Nordwesten Russlands nach Drohnen-Einschlag",
+      "title_zh": "乌克兰战争 - 无人机袭击后俄罗斯西北部炼油厂起火",
+      "url": "https://www.deutschlandfunk.de/feuer-in-oelraffinerie-im-nordwesten-russlands-nach-drohnen-einschlag-100.html",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-08-30T14:03:19+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "这是当地政府宣布的。",
+        "据称，救援人员正在值班。",
+        "防空部队击落了约 40 架无人机。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - Feuer in Ölraffinerie im Nordwesten Russlands nach Drohnen-Einschlag"
+      }
+    },
+    {
+      "title_original": "شبكات الأمن في الشرق الأوسط... البديل عن المظلة الأميركية لم ينضج بعد",
+      "title_zh": "中东安全网络……美国保护伞的替代方案尚不成熟",
+      "url": "https://www.majalla.com/node/332797/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D9%84-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%B8%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D9%85-%D9%8A%D9%86%D8%B6%D8%AC-%D8%A8%D8%B9%D8%AF",
+      "source": "مجلة المجلة",
+      "source_score": 40,
+      "published_at": "2026-08-30T13:53:13+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东正在进入新的安全时代。",
+        "几十年来，地区秩序一直建立在熟悉的体系之上，其中美国提供广泛的安全保护伞，以色列保持其质量优势，伊朗通过远程武器和代理人部队扩大影响力，其他阿拉伯国家则依靠华盛顿来弥补其军事能力的缺陷。",
+        "尽管这一体系并不完全稳定，但它在没有发生重大危机的情况下得以生存，并且因为没有人认真推动建立替代体系。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "مجلة المجلة"
+      ],
+      "all_titles": {
+        "ar": "شبكات الأمن في الشرق الأوسط... البديل عن المظلة الأميركية لم ينضج بعد"
+      }
+    },
+    {
+      "title_original": "Taïwan veut le Dassault Aviation Rafale F4.",
+      "title_zh": "台湾想要达索航空阵风F4。",
+      "url": "https://www.avionslegendaires.net/2026/08/actu/taiwan-veut-le-dassault-aviation-rafale-f4/",
+      "source": "Avionslegendaires.net",
+      "source_score": 40,
+      "published_at": "2026-08-30T13:48:46+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾想要达索航空阵风F4。",
+        "Avionslegendaires.net",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Avionslegendaires.net"
+      ],
+      "all_titles": {
+        "fr": "Taïwan veut le Dassault Aviation Rafale F4."
+      }
+    },
+    {
+      "title_original": "Russia Ukraine War",
+      "title_zh": "俄罗斯乌克兰战争",
+      "url": "https://www.dailyrecordnews.com/ap_news/international/russia-ukraine-war/image_5fd74b74-50ec-56ba-a756-ee5def1175f3.html",
+      "source": "dailyrecordnews.com",
+      "source_score": 40,
+      "published_at": "2026-08-30T13:19:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美联社俄罗斯 乌克兰战争 弗朗西斯科·塞科 - 美联社 2026 年 8 月 30 日 1 小时前 评论 Facebook Twitter WhatsApp SMS 电子邮件 打印 复制文章链接 保存 在俄罗斯袭击基辅郊区迈拉村的仓库后第二天，人们走过被毁坏的车辆和散落的碎片，随后发生爆炸。",
+        "弗朗西斯科·塞科 - 美联社标签 一般新闻 俄罗斯 乌克兰战争 Facebook Twitter WhatsApp SMS 电子邮件 打印 复制文章链接 保存 2026 年基蒂塔斯县最佳趋势 现在球队陷入混乱：调查证实教练、篮球运动员之间信任破裂 埃伦斯堡男子因涉嫌撞击 ICE 车辆而面临袭击和肇事逃逸指控 埃伦斯堡运动员公开反对女孩主篮球教练 消防队员在遏制三皇后火灾方面取得进展 女子因涉嫌殴打赞助人、保镖而被指控在埃伦斯堡酒吧 在课堂上支持当地新闻 最新电子版 要查看我们最新的电子版，请单击左侧的图像。",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "dailyrecordnews.com"
+      ],
+      "all_titles": {
+        "en": "Russia Ukraine War"
+      }
+    },
+    {
+      "title_original": "Bourses du Moyen-Orient : les marchés du Golfe reculent face à la perspective d'une hausse des taux de la Fed après les propos de Warsh",
+      "title_zh": "中东股市：沃什发表评论后，海湾市场因美联储加息前景而回落",
+      "url": "https://ch.zonebourse.com/actualite-bourse/bourses-du-moyen-orient-les-marches-du-golfe-reculent-face-a-la-perspective-d-une-hausse-des-taux-ce7858dcda8df622",
+      "source": "Zonebourse Suisse",
+      "source_score": 40,
+      "published_at": "2026-08-30T13:00:24+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东股市：沃什言论后，面对美联储加息的前景，海湾市场回落 Zonebourse Suisse",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Zonebourse Suisse"
+      ],
+      "all_titles": {
+        "fr": "Bourses du Moyen-Orient : les marchés du Golfe reculent face à la perspective d'une hausse des taux de la Fed après les propos de Warsh"
+      }
+    },
+    {
+      "title_original": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "title_zh": "瑞士狂欢节枪击事件导致 22 岁女子死亡，五人受伤",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-30T12:44:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "瑞士狂欢节枪击事件导致 22 岁女子死亡，五人受伤\n- 已发表\n瑞士一场狂欢派对中发生枪击事件，一名 22 岁女性被杀，另外五人受伤，目前正在进行搜捕。",
+        "警方称，这名女子在阿劳现场死亡。",
+        "年龄在 24 至 27 岁之间的四名男子和一名女子因伤势“轻重不等”而被送往医院。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Dutzende Tote nach Angriff auf Munitionslager bei Kiew",
+      "title_zh": "乌克兰战争：基辅附近弹药库遇袭造成数十人死亡",
+      "url": "https://www.zeit.de/news/2026-08/30/kiew-suche-nach-vermissten-nach-angriff-auf-munitionslager",
+      "source": "DIE ZEIT",
+      "source_score": 40,
+      "published_at": "2026-08-30T12:13:01+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯袭击基辅附近的乌克兰弹药库时，住宅区发生严重爆炸，造成数十人死亡。",
+        "总统弗拉基米尔·泽连斯基称有 38 人死亡、4 人失踪。",
+        "在基辅以西约五公里处的米拉村，消除俄罗斯袭击造成的后果和寻找更多受害者的工作仍在继续。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "DIE ZEIT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Dutzende Tote nach Angriff auf Munitionslager bei Kiew"
+      }
+    },
+    {
+      "title_original": "Conflit au Moyen-Orient | Le guide suprême iranien appelle à l’unité entre pays musulmans",
+      "title_zh": "中东冲突|伊朗最高领袖呼吁穆斯林国家团结",
+      "url": "https://www.lapresse.ca/international/moyen-orient/2026-08-30/conflit-au-moyen-orient/le-guide-supreme-iranien-appelle-a-l-unite-entre-pays-musulmans.php",
+      "source": "La Presse",
+      "source_score": 40,
+      "published_at": "2026-08-30T12:03:36+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "（德黑兰）伊朗最高领袖哈梅内伊在中东战争爆发六个月后周日发表的一份声明中呼吁穆斯林国家团结起来反对美国和以色列。",
+        "莫吉塔巴·哈梅内伊接替了他的父亲阿里·哈梅内伊，后者在2月28日美以对伊朗发动进攻的第一天被杀，此后就再也没有在公开场合露面，当局也没有公布他的任何视频或音频记录。",
+        "根据阿亚图拉的官方网站，阿亚图拉宣称：“乌玛（穆斯林社区）问题的解决办法在于在正义之路上团结言论、友谊与合作。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "La Presse"
+      ],
+      "all_titles": {
+        "fr": "Conflit au Moyen-Orient | Le guide suprême iranien appelle à l’unité entre pays musulmans"
+      }
+    },
+    {
+      "title_original": "ウクライナ高官“ロシアが首都キーウへの地上作戦計画を指示”",
+      "title_zh": "ウクライナ高官“ロシアが首都キーウへの地上作戦計画を指示”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260830de47309",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-08-30T12:01:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰高级官员“俄罗斯将地面行动计划指示首都基辅” NHK 新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ高官“ロシアが首都キーウへの地上作戦計画を指示”"
+      }
+    },
+    {
+      "title_original": "حماس: استمرار إرهاب المستوطنين بالضفة مخطط ممنهج لفرض وقائع جديدة",
+      "title_zh": "حماس: استمرار إرهاب المستوطنين بالضفة مخطط ممنهج لفرض وقائع جديدة",
+      "url": "https://www.tasnimnews.ir/ar/news/2026/08/30/3684287/%D8%AD%D9%85%D8%A7%D8%B3-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%DB%8C%D9%86-%D8%A8%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D9%85%D8%AE%D8%B7%D8%B7-%D9%85%D9%85%D9%86%D9%87%D8%AC-%D9%84%D9%81%D8%B1%D8%B6-%D9%88%D9%82%D8%A7%D8%A6%D8%B9-%D8%AC%D8%AF%DB%8C%D8%AF%D8%A9",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-08-30T11:17:19+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "وأوضحت الحركة في بيانها ، يوم الأحد، أن \"هذا يأتي ضمن مخطط ممنهج لفرض وقائع استيطانية جديدة على الأرض، وتسريع مشاريع الضم والتهجير، ومحاولة كسر إرادة شعبنا ودفعه إلى الرحيل عن أرضه\".",
+        "وأضافت أن \"مجرم الحرب نتنياهو، الذي قاد حرب الإبادة ضد شعبنا في قطاع غزة، يواصل النهج الإجرامي ذاته في الضفة الغربية، عبر إطلاق يد المستوطنين وتصعيد إرهابهم المنظم، في امتداد لسياسات القتل والتهجير والتطهير العرقي\".",
+        "وأكدت أن \"نتنياهو يُوظف هذا الإرهاب في خدمة حساباته السياسية والانتخابية، واسترضاء قوى اليمين الاستيطاني المتطرف."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "حماس: استمرار إرهاب المستوطنين بالضفة مخطط ممنهج لفرض وقائع جديدة"
+      }
+    },
+    {
+      "title_original": "伟达：两场战争正改变中美关系",
+      "title_zh": "伟达：两场战争正改变中美关系",
+      "url": "https://www.zaobao.com.sg/forum/views/story20260830-9598845",
+      "source": "联合早报",
+      "source_score": 40,
+      "published_at": "2026-08-30T11:00:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "自1979年中美建交以来，40余年间历经国际风云变幻：冷战落幕、九一一事件、美国先后在阿富汗与伊拉克展开反恐战争……不过，这些牵动全球格局的重大事件，都未能从根本上撼动中美关系发展的总体轨迹。然而，2022年2月爆发的俄乌战争，与今年2月骤然升级的美以联手打击伊朗的战事，却正在悄然改变中美关系的底层逻辑与力量对比。这一变化，理应引起中美双方以及整个世界高度关注。",
+        "在1979年正式建交之前，中美两国有过一段惨痛的历史教训。1950年至1953年的朝鲜战争，本是由第三方引发的地区冲突，却将中美两个大国直接拖入正面交锋的战场。这场战争的直接后果，是中美关系陷入近四分之一个世纪的隔绝与断裂。在这段漫长的岁月里，中国承受着国际孤立与国内动荡的双重压力，美国也深陷冷战对峙与局部战争（如越南战争）的泥沼，双方都为此付出了沉重代价。正是在这样的历史教训之上，1970年代末的中美关系破冰，才显得弥足珍贵——它不仅为两国人民带来实实在在的发展红利，也为地区稳定与世界和平注入了强劲的正能量。",
+        "如今，历史似乎正在以另一种方式重演。俄乌战争与美伊战争这两场看似与中美双边关系无直接关联的冲突，正在成为威胁和颠覆中美关系的新变数。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "联合早报"
+      ],
+      "all_titles": {
+        "zh": "伟达：两场战争正改变中美关系"
+      }
+    },
+    {
+      "title_original": "«هيئة العقار» لـ«الشرق الأوسط»: اهتمام كبير من المستثمرين الدوليين بالسوق السعودية",
+      "title_zh": "«هيئة العقار» لـ«الشرق الأوسط»: اهتمام كبير من المستثمرين الدوليين بالسوق السعودية",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/5312085-%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1-%D9%84%D9%80%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%A7%D9%87%D8%AA%D9%85%D8%A7%D9%85-%D9%83%D8%A8%D9%8A%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AB%D9%85%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-30T10:54:34+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "تدخل السوق العقارية السعودية مرحلة جديدة من الانفتاح على رؤوس الأموال الدولية، مدفوعة بالتنظيمات الجديدة لتملك غير السعوديين للعقار وتحديد النطاقات الجغرافية المشمولة بالتملك، في خطوة تعزز مساعي المملكة لترسيخ موقعها وجهةً عالمية للاستثمار العقاري، وسط اهتمام متزايد من المستثمرين الدوليين والصناديق الاستثمارية.",
+        "وتتطلع جهات حكومية وعدد من شركات التطوير العقاري لجذب مستثمرين للسوق السعودي من خلال المشاركة في النسخة الأولى من «معرض العقارات السعودية الفاخرة»، وذلك بشراكة استراتيجية مع الهيئة العامة للعقار، وبمشاركة عدد من المطورين العقاريين السعوديين، إلى جانب مستثمرين ومكاتب عائلية ومختصين في القطاع من بريطانيا والأسواق الدولية.",
+        "وقال تيسير المفرج، المتحدث الرسمي للهيئة العامة للعقار، إن مشاركة الهيئة في معرض العقارات السعودية الفاخرة تأتي انطلاقاً من دورها في رفع مستوى الوعي بالمنظومة العقارية الجديدة، ولا سيما نظام تملك غير السعوديين للعقار، الذي أُقر أخيراً في المملكة، إلى جانب التعريف بالنطاقات الجغرافية الخاصة بالتملك."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«هيئة العقار» لـ«الشرق الأوسط»: اهتمام كبير من المستثمرين الدوليين بالسوق السعودية"
+      }
+    },
+    {
+      "title_original": "Stubb Rejects German Warnings of Potential Russian Attack on NATO",
+      "title_zh": "Stubb Rejects German Warnings of Potential Russian Attack on NATO",
+      "url": "https://www.kyivpost.com/post/83369",
+      "source": "Kyiv Post",
+      "source_score": 40,
+      "published_at": "2026-08-30T10:05:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Finnish President Alexander Stubb has dismissed the likelihood of a Russian military attack on NATO territory, citing the alliance’s overwhelming deterrence capabilities and Moscow’s severe troop depletion in Ukraine.",
+        "In an interview with the German newspaper Bild, Stubb stated that he sees no evidence to support recent warnings from the German Defense Ministry and the Bundeswehr that Russia could be prepared to attack NATO by 2029.",
+        "JOIN US ON TELEGRAM\nFollow our coverage of the war on the @Kyivpost_official."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Kyiv Post"
+      ],
+      "all_titles": {
+        "en": "Stubb Rejects German Warnings of Potential Russian Attack on NATO"
+      }
+    },
+    {
+      "title_original": "「ウクライナのエネルギー施設に大規模攻撃」 ロシア国防省が報復予告",
+      "title_zh": "「ウクライナのエネルギー施設に大規模攻撃」 ロシア国防省が報復予告",
+      "url": "https://www.afpbb.com/articles/-/3650556",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-30T10:02:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "「ウクライナのエネルギー施設に大規模攻撃」 ロシア国防省が報復予告\nこのニュースをシェア\n【8月30日 AFP】ロシア国防省は30日、ウクライナによる攻撃への報復として、同国のエネルギーインフラに対する大規模な攻撃の準備を進めていると発表した。",
+        "同省は通信アプリのテレグラムに「民間のインフラやロシアの石油・エネルギー複合施設に対するウクライナの継続的な攻撃に応じ、ロシア軍はウクライナのエネルギー施設に対する大規模な攻撃の準備を開始した」と投稿した。",
+        "昨冬、ロシア軍はウクライナの発電所への攻撃を繰り返し、同国のエネルギー部門に壊滅的な打撃を与え、氷点下の気温の中で数百万人を極寒の暗闇に追い込んだ。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "「ウクライナのエネルギー施設に大規模攻撃」 ロシア国防省が報復予告"
+      }
+    },
+    {
+      "title_original": "反米・イスラエルで結束を イラン最高指導者、中東諸国に呼びかけ",
+      "title_zh": "反米・イスラエルで結束を イラン最高指導者、中東諸国に呼びかけ",
+      "url": "https://www.afpbb.com/articles/-/3650554",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-08-30T09:44:59+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "反米・イスラエルで結束を イラン最高指導者、中東諸国に呼びかけ\nこのニュースをシェア\n【8月30日 AFP】イランの最高指導者モジタバ・ハメネイ師は30日、中東での紛争勃発から6か月を迎えるに当たり書面で声明を発表し、地域のイスラム諸国に対し、米国およびイスラエルに対抗して結束するよう呼びかけた。",
+        "2月28日の開戦直後に父親のアリ・ハメネイ師が殺害されて、最高指導者となったモジタバ師は、就任後、一度も公の場に姿を見せておらず、当局も同師の動画や音声などを一切公開していない。",
+        "モジタバ師は「イスラム諸国の問題の解決策は、善の道における言動の一致、友情、そして協力である」と述べた。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "反米・イスラエルで結束を イラン最高指導者、中東諸国に呼びかけ"
+      }
+    },
+    {
+      "title_original": "Zambian opposition leader charged with treason",
+      "title_zh": "Zambian opposition leader charged with treason",
+      "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-30T09:08:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Zambian opposition leader charged with treason\n- Published\nZambian opposition leader Brian Mundubile has been charged with treason, his lawyer has said amid heightened political tensions in the country.",
+        "Mundubile was arrested on Thursday, after a deadly raid by the authorities led the opposition politician to go into hiding.",
+        "He had disputed the results of the country's recent presidential election, which saw incumbent President Hakainde Hichilema securing a second term."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zambian opposition leader charged with treason"
+      }
+    },
+    {
+      "title_original": "ウクライナは毎月少なくとも３万人を動員する必要がある＝政権幹部",
+      "title_zh": "ウクライナは毎月少なくとも３万人を動員する必要がある＝政権幹部",
+      "url": "https://www.ukrinform.jp/rubric-defense/4159085-ukurainaha-mei-yue-shaonakutomowan-renwo-dong-yuansuru-bi-yaogaaruzheng-quan-gan-bu.html",
+      "source": "ウクルインフォルム通信",
+      "source_score": 40,
+      "published_at": "2026-08-30T08:50:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナは毎月少なくとも３万人を動員する必要がある＝政権幹部\nウクルインフォルム\n    ウクライナのブダーノウ大統領府長官は、ウクライナは毎月少なくとも３万人を動員する必要があると発言した。",
+        "ブダーノウ長官がナタリヤ・モセイチューク記者とのインタビューの際に発言した。",
+        "ブダーノウ氏は、「月の動員数が３万人未満ではいけない。それ（編集注：３万人）は現状を維持するために最低限必要な数だ」と発言した。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "ウクルインフォルム通信"
+      ],
+      "all_titles": {
+        "ja": "ウクライナは毎月少なくとも３万人を動員する必要がある＝政権幹部"
+      }
+    },
+    {
+      "title_original": "مستوطنون يقتحمون مقامات إسلامية ويهاجمون طاقماً تلفزيونياً أميركياً في الضفة",
+      "title_zh": "مستوطنون يقتحمون مقامات إسلامية ويهاجمون طاقماً تلفزيونياً أميركياً في الضفة",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5312616-%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D9%82%D8%AA%D8%AD%D9%85%D9%88%D9%86-%D9%85%D9%82%D8%A7%D9%85%D8%A7%D8%AA-%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D9%88%D9%8A%D9%87%D8%A7%D8%AC%D9%85%D9%88%D9%86-%D8%B7%D8%A7%D9%82%D9%85%D8%A7%D9%8B-%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%D9%8A%D8%A7%D9%8B",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-30T08:39:24+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "مستوطنون يقتحمون مقامات إسلامية ويهاجمون طاقماً تلفزيونياً أميركياً في الضفة\nجنود إسرائيليون يتجهون إلى قرية قصرة جنوب نابلس في الضفة الغربية المحتلة والتي شهدت تصاعداً في عنف المستوطنين الإسرائيليين (أ.ف.ب)\nأفادت مصادر محلية وأمنية فلسطينية بـ«اقتحام مستعمرين إرهابيين، فجر اليوم الأحد، مقامات دينية إسلامية في قرية عورتا جنوب شرق نابلس» بشمال الضفة الغربية.",
+        "ونقلت «وكالة الأنباء والمعلومات الفلسطينية» (وفا) عن المصادر قولها إن «مئات المستعمرين اقتحموا قرية عورتا بحماية قوات الاحتلال الإسرائيلي، وأدَّوا طقوساً تلمودية في هذه المقامات».",
+        "وأشارت إلى أن «قوات الاحتلال أغلقت حواجز دير شرف وعورتا المحيطة في نابلس، تزامناً مع اقتحام المستعمرين»."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مستوطنون يقتحمون مقامات إسلامية ويهاجمون طاقماً تلفزيونياً أميركياً في الضفة"
+      }
+    },
+    {
+      "title_original": "El foro anual de Forética abordará en septiembre la incertidumbre geopolítica y el impacto de la IA en la salud: “Es difícil, pero se avanza”",
+      "title_zh": "El foro anual de Forética abordará en septiembre la incertidumbre geopolítica y el impacto de la IA en la salud: “Es difícil, pero se avanza”",
+      "url": "https://www.servimedia.es/noticias/foro-anual-foretica-abordara-septiembre-incertidumbre-geopolitica-impacto-ia-salud-es-dificil-pero-avanza/1413226462",
+      "source": "Servimedia",
+      "source_score": 40,
+      "published_at": "2026-08-30T08:08:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "El foro anual de Forética abordará en septiembre la incertidumbre geopolítica y el impacto de la IA en la salud: “Es difícil, pero se avanza”    Servimedia",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Servimedia"
+      ],
+      "all_titles": {
+        "es": "El foro anual de Forética abordará en septiembre la incertidumbre geopolítica y el impacto de la IA en la salud: “Es difícil, pero se avanza”"
+      }
+    },
+    {
+      "title_original": "مجموعة العشرين تبحث عزل الاقتصاد الإيراني وسط تصاعد التوترات",
+      "title_zh": "مجموعة العشرين تبحث عزل الاقتصاد الإيراني وسط تصاعد التوترات",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/5312607-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D9%8A%D9%86-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%B9%D8%B2%D9%84-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%88%D8%B3%D8%B7-%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%B1%D8%A7%D8%AA",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-08-30T08:03:05+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "تستضيف الولايات المتحدة وزراء مالية مجموعة العشرين ومحافظي البنوك المركزية في مدينة آشفيل بولاية نورث كارولاينا يومي الاثنين والثلاثاء، في اجتماع يبرز فيه مسعى واشنطن لحشد دعم دول المجموعة لتشديد الضغوط الاقتصادية على إيران وعزل اقتصادها عن مصادر التمويل والتجارة، إلى جانب بحث ملفات النمو والديون والاختلالات التجارية والاستقرار المالي.",
+        "ومن المنتظر أن يضغط وزير الخزانة الأميركي سكوت بيسنت على نظرائه في اجتماعات ثنائية وعلى طاولة مجموعة العشرين للالتزام بالعقوبات الأميركية على إيران، في إطار حملة إدارة الرئيس دونالد ترمب لقطع شرايين طهران المالية والاقتصادية.",
+        "وقال مسؤول كبير في وزارة الخزانة الأميركية إن قضية إيران ستُطرح في الاجتماعات الثنائية التي يعقدها بيسنت مع نظرائه من دول مجموعة العشرين خلال الأيام المقبلة، مشيراً إلى أن واشنطن تريد ضمان قدر أكبر من التضامن الدولي في مواجهة ما تصفه بالشبكات المالية التي تدعم الاقتصاد الإيراني."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مجموعة العشرين تبحث عزل الاقتصاد الإيراني وسط تصاعد التوترات"
+      }
+    },
+    {
+      "title_original": "استشهاد فلسطيني متأثراً بإصابته باستهداف للاحتلال في خانيونس",
+      "title_zh": "استشهاد فلسطيني متأثراً بإصابته باستهداف للاحتلال في خانيونس",
+      "url": "https://www.tasnimnews.ir/ar/news/2026/08/30/3684117/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86%DB%8C-%D9%85%D8%AA%D8%A3%D8%AB%D8%B1%D8%A7%D9%8B-%D8%A8%D8%A5%D8%B5%D8%A7%D8%A8%D8%AA%D9%87-%D8%A8%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%DB%8C-%D8%AE%D8%A7%D9%86%DB%8C%D9%88%D9%86%D8%B3",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-08-30T08:00:27+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "وأفادت مصادر صحفية، باستشهاد محمد ناصر الدين (21 عامًا)؛ متأثراً بإصابته في القصف الإسرائيلي على حي الأمل غرب مدينة خانيونس قبل ساعات من الآن.",
+        "ومنذ اتفاق وقف إطلاق النار في 11 أكتوبر 2025، ارتقى ما يزيد عن 1300 مواطن وأصيب الآلاف، فيما تم تدمير مئات المباني والبنية التحتية.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "استشهاد فلسطيني متأثراً بإصابته باستهداف للاحتلال في خانيونس"
+      }
+    },
+    {
+      "title_original": "Le grand du Moyen-Orient (2/2) : vers un nouvel équilibre régional",
+      "title_zh": "Le grand du Moyen-Orient (2/2) : vers un nouvel équilibre régional",
+      "url": "https://mondafrique.com/moyen-orient/le-grand-basculement-du-moyen-orient-2-2-vers-un-nouvel-equilibre-regional/",
+      "source": "Mondafrique",
+      "source_score": 40,
+      "published_at": "2026-08-30T07:10:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Aucun bloc n’a encore remplacé l’ordre américain, mais les puissances régionales préparent déjà l’après-hégémonie.",
+        "Autour de l’Arabie saoudite, de la Turquie et du Pakistan se dessine un troisième pôle, tandis que les crises libanaise, syrienne, irakienne et yéménite prolongent une instabilité qu’aucun acteur ne maîtrise véritablement.",
+        "La guerre contre l’Iran n’a pas seulement ébranlé la crédibilité des États-Unis et révélé les limites de la puissance israélienne."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Mondafrique"
+      ],
+      "all_titles": {
+        "fr": "Le grand du Moyen-Orient (2/2) : vers un nouvel équilibre régional"
+      }
+    },
+    {
+      "title_original": "المياه لا الجغرافيا السياسية.. التحدي الحقيقي لقناة بنما",
+      "title_zh": "المياه لا الجغرافيا السياسية.. التحدي الحقيقي لقناة بنما",
+      "url": "https://asharqbusiness.com/economics/145659/%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87-%D9%84%D8%A7-%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D9%84%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%86%D9%85%D8%A7/",
+      "source": "الشرق بلومبرغ",
+      "source_score": 40,
+      "published_at": "2026-08-30T07:04:18+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "المياه لا الجغرافيا السياسية..",
+        "التحدي الحقيقي لقناة بنما    الشرق بلومبرغ",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "الشرق بلومبرغ"
+      ],
+      "all_titles": {
+        "ar": "المياه لا الجغرافيا السياسية.. التحدي الحقيقي لقناة بنما"
+      }
+    },
+    {
+      "title_original": "خسائر غير مسبوقة في القواعد الأمريكية في الشرق الأوسط.",
+      "title_zh": "خسائر غير مسبوقة في القواعد الأمريكية في الشرق الأوسط.",
+      "url": "https://www.vietnam.vn/ar/ton-that-chua-tung-co-cua-cac-can-cu-my-o-trung-dong",
+      "source": "Vietnam.vn",
+      "source_score": 40,
+      "published_at": "2026-08-30T06:58:55+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "بحسب شبكة إن بي سي نيوز، فإن الهجمات الصاروخية والطائرات المسيرة الإيرانية قد ألحقت أضراراً غير مسبوقة بأهداف أمريكية في الشرق الأوسط، تتجاوز بكثير أي شيء شهدته الولايات المتحدة على الإطلاق.",
+        "وأشارت الصحيفة إلى أن حجم الدمار تجاوز أي خسائر تكبدتها الولايات المتحدة في أي صراع سابق.",
+        "وجاء في المقال: \"لم تقتصر الهجمات على مرافق الاستخبارات فحسب، بل طالت أيضاً أجهزة الرادار ومعدات المراقبة والقواعد العسكرية الأمريكية في العراق ودول أخرى\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Vietnam.vn"
+      ],
+      "all_titles": {
+        "ar": "خسائر غير مسبوقة في القواعد الأمريكية في الشرق الأوسط."
+      }
+    },
+    {
+      "title_original": "Will Putin mehr als die Ukraine? Was Russland wirklich gegen die Nato plant",
+      "title_zh": "Will Putin mehr als die Ukraine? Was Russland wirklich gegen die Nato plant",
+      "url": "https://www.berliner-zeitung.de/article/putin-russland-nato-angriff-ukraine-kriegsziele-10323594",
+      "source": "Berliner Zeitung",
+      "source_score": 40,
+      "published_at": "2026-08-30T06:19:19+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Die Situation erinnert ein wenig an die Monate vor dem Kriegsausbruch.",
+        "Damals regierte in den USA noch Joe Biden, es gab noch keine Spekulationen über seinen Rücktritt von einer erneuten Kandidatur, die US-Politik schien, zumindest aus europäischer Sicht, berechenbar.",
+        "Und trotzdem nahm es zunächst kaum jemand ernst, als Biden begann, vor einem bevorstehenden russischen Angriff auf die Ukraine zu warnen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Berliner Zeitung"
+      ],
+      "all_titles": {
+        "de": "Will Putin mehr als die Ukraine? Was Russland wirklich gegen die Nato plant"
+      }
+    },
+    {
+      "title_original": "الشرق الأوسط زمن الحرب الرخوة",
+      "title_zh": "الشرق الأوسط زمن الحرب الرخوة",
+      "url": "https://www.alarabiya.net/saudi-today/views/2026/08/30/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%88%D8%B3%D8%B7-%D8%B2%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B1%D8%AE%D9%88%D8%A9",
+      "source": "العربية",
+      "source_score": 40,
+      "published_at": "2026-08-30T06:19:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "软战争时期的中东 阿拉伯语",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "العربية"
+      ],
+      "all_titles": {
+        "ar": "الشرق الأوسط زمن الحرب الرخوة"
+      }
+    },
+    {
+      "title_original": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
+      "title_zh": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
+      "url": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-08-30T06:00:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "每天都有更多遭受创伤的平民抵达“人满为患”的奥贝德及其郊区的营地。据当地人士称，由于苏丹武装部队和快速支援部队（RSF）民兵之间的战斗而流离失所的平民继续从周边乡村涌入，苏丹城市埃尔奥贝德及其郊区的两个营地的人道主义状况非常严峻且不断恶化。",
+        "The UN says more than 15,000 families have arrived since mid-July, joining more than 200,000 people who arrived in the first half of the year, according to government figures cited by Save the Children.",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city"
+      }
+    },
+    {
+      "title_original": "ＣＩＡ長官、３首脳会談提案 ロシア訪問時、ウクライナ和平で―報道",
+      "title_zh": "中央情报局局长提议在乌克兰对俄罗斯进行和平访问期间举行三级峰会 - 报告",
+      "url": "https://www.jiji.com/jc/article?k=2026083000208&g=int",
+      "source": "時事ドットコム",
+      "source_score": 40,
+      "published_at": "2026-08-30T05:07:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "ＣＩＡ長官、３首脳会談提案 ロシア訪問時、ウクライナ和平で―報道\n【ワシントン時事】米ニュースサイトのアクシオスは２９日、ラトクリフ米中央情報局（ＣＩＡ）長官がロシアを訪問した際、米国とロシア、ウクライナの３カ国首脳会談を提案していたと報じた。ロシアによるウクライナ侵攻を巡り、トランプ米大統領はこれまでも３者による首脳会談を提案してきたが、ロシアのプーチン大統領が拒否してきた。",
+        "ラトクリフ氏は２５日、ロシア対外情報局（ＳＶＲ）のナルイシキン長官と連邦保安局（ＦＳＢ）のボルトニコフ長官と会談した。昨年のＣＩＡ長官就任後、初めて公式にロシアを訪問したとみられる。",
+        "報道によれば、米当局者は２８日、ウクライナのゼレンスキー大統領に対し、３カ国首脳会談の提案について説明した。和平交渉の再開の可能性についても打診したと伝えた。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "時事ドットコム"
+      ],
+      "all_titles": {
+        "ja": "ＣＩＡ長官、３首脳会談提案 ロシア訪問時、ウクライナ和平で―報道"
+      }
+    },
+    {
+      "title_original": "“新地缘政治时代拉美和加勒比的发展前景”研讨会在沪举办",
+      "title_zh": "“新地缘政治时代拉美和加勒比的发展前景”研讨会在沪举办",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-iniqakfx8410316.shtml",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-08-30T05:04:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "（来源：上观新闻）\n8月27日，由上海大学全球问题研究院主办的“新地缘政治时代拉美和加勒比的发展前景”研讨会在沪召开。来自中国社会科学院、中国现代国际关系研究院、上海国际问题研究院、上海大学、复旦大学、广东外语外贸大学、杭州师范大学、上海外国语大学、中国政法大学和西南科技大学等智库和高校的二十余位学者齐聚一堂，围绕联合国拉美和加勒比经委会新近发布的题为《断裂与机遇：拉丁美洲和加勒比地区在世界新秩序中繁荣发展的政策建议》的政策报告展开讨论。与会专家分析了新地缘政治格局下拉美和加勒比地区发展面临的机遇与挑战，并对中国与拉美深化合作的现实路径提出了建议。",
+        "此次研讨会重点讨论的《断裂与机遇》报告，将当前世界秩序的深刻演变概括为全球结构性断裂、大国战略竞争加剧、多边机构功能退化等一系列系统性变局，主张拉美和加勒比国家唯有通过深化区域整合、开展务实合作，才能在变局中争取到有限但却切实的发展空间与战略自主。与此同时，报告对新的地缘政治格局也予以充分考量。美国近期在西半球采取了一系列强势举措，使拉美地区地缘政治风险显著抬升，“新门罗主义”回潮的态势日益明显。在此背景下，与会学者立足学理研判与政策关切的双重视角，及时回应地区局势的最新演变，围绕拉美和加勒比地区未来发展前景展开系统研讨。",
+        "第一单元围绕上述报告展开深入评析。学者们从历史经验与现实约束两个维度，对报告提出的政策主张做出了审慎研判。上海大学江时学教授以“十问”形式对报告文本提出系统性质疑。他认为，报告中所说的“八大断裂”对拉美并非完全构成负面冲击；同时，报告提出的政策建议只是原则性指导，在各国具体落实面临困难，而拉美发展困境的内生性根源仍未能到解决。广东外语外贸大学拉丁美洲研究中心主任袁东振教授认为，报告对拉美“发展陷阱”的判断基本客观，但在制度与国家能力这一深层根源上挖掘尚显不足，因而开出的药方效果有限。破解困局的关键仍在于切实增强制度能力、提高体制运行效率、提升政策执行能力。中国现代国际关系研究院拉美研究所所长孙岩峰教授进一步指出，报告带有浓厚的“精英视角”色彩，对拉美现实关切有所错位，对其战略优势的评估也偏于乐观。虽有参考价值，但落地实效恐不容高估。中国社会科学院拉丁美洲研究所杨建民研究员认为报告突破了传统依附理论，创新性地提出“积极不结盟”的外交策略，但报告低估了美国“新门罗主义”压制、拉美内部分裂及财政匮乏等严峻现实的约束。复旦大学拉美中心主任曹廷副教授呼应了这一判断，强调拉美破局的根本出路仍在于自身，唯有加强区域内部整合，推进基础设施建设互联互通、贸易便利化与区域价值链构建，才能真正把外部战略机遇转化为内生发展动力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "“新地缘政治时代拉美和加勒比的发展前景”研讨会在沪举办"
+      }
+    },
+    {
+      "title_original": "WhatsApp chat used to send cash for crime and extremism",
+      "title_zh": "WhatsApp chat used to send cash for crime and extremism",
+      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-30T04:59:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "WhatsApp chat used to send cash for crime and extremism\n- Published\nA WhatsApp group chat was used to send hundreds of millions of euros in cash around the world, funding organised crime and extremism with no paper trail, an investigation by European broadcasters has found.",
+        "The 532-member group chat, called \"Traders of Greater Europe\", was used to arrange cash transfers across borders for their clients, including to British cities such as Birmingham and London.",
+        "在一个案例中，来自布鲁塞尔的款项流向了叙利亚伊斯兰国组织（IS）的武装分子。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "WhatsApp chat used to send cash for crime and extremism"
+      }
+    },
+    {
+      "title_original": "CIA長官がアメリカ、ロシア、ウクライナ3者首脳会談を提案か モスクワ訪問で和平交渉再開も協議 米メディア報道",
+      "title_zh": "中央情报局局长提议美国、俄罗斯和乌克兰举行三方峰会；美媒报道访问莫斯科期间讨论恢复和谈",
+      "url": "https://news.yahoo.co.jp/articles/48fb6109a6d743e210ed0880a11450779fc8e1e5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-08-30T04:07:19+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "中央情报局局长提议美国、俄罗斯和乌克兰举行三方峰会；美媒报道访问莫斯科期间讨论恢复和谈\n美国媒体报道称，美国CIA（中央情报局）局长在访问俄罗斯时提议召开美俄乌三方峰会。",
+        "据美国新闻网站Axios报道，美国中央情报局局长拉特克利夫25日访问俄罗斯首都莫斯科，会见外国情报局局长纳雷什金和联邦安全局局长博尔特尼科夫。",
+        "拉特克利夫提议特朗普总统、俄罗斯总统普京和乌克兰总统泽连斯基举行三方峰会，以结束对乌克兰的入侵。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "CIA長官がアメリカ、ロシア、ウクライナ3者首脳会談を提案か モスクワ訪問で和平交渉再開も協議 米メディア報道"
+      }
+    },
+    {
+      "title_original": "La nueva ruta del Ártico redibuja los mapas de la economía y la geopolítica",
+      "title_zh": "La nueva ruta del Ártico redibuja los mapas de la economía y la geopolítica",
+      "url": "https://elpais.com/internacional/2026-08-30/la-nueva-ruta-del-artico-redibuja-los-mapas-de-la-economia-y-la-geopolitica.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-08-30T03:30:01+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "新的北极航线重新绘制了经济和地缘政治版图    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "La nueva ruta del Ártico redibuja los mapas de la economía y la geopolítica"
+      }
+    },
     {
       "title_original": "Ukraine war briefing: Nuclear plant has lost power and running on generators, UN watchdog says",
       "title_zh": "Ukraine war briefing: Nuclear plant has lost power and running on generators, UN watchdog says",
