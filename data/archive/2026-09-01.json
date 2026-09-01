@@ -1,8 +1,558 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-08-31T18:01:02.546539+00:00",
-  "count": 35,
+  "generated_at": "2026-09-01T01:48:48.310582+00:00",
+  "count": 61,
   "articles": [
+    {
+      "title_original": "النفط يصعد مع عودة مخاوف تعطل إمدادات الشرق الأوسط",
+      "title_zh": "النفط يصعد مع عودة مخاوف تعطل إمدادات الشرق الأوسط",
+      "url": "https://www.reuters.com/ar/business/BVOV2UDMUVIWLNER64S5SZW7GU-2026-09-01/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-01T01:04:14+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "النفط يصعد مع عودة مخاوف تعطل إمدادات الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "النفط يصعد مع عودة مخاوف تعطل إمدادات الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "ウクライナで新年度開始 攻撃受けた校舎の修理が間に合わず",
+      "title_zh": "ウクライナで新年度開始 攻撃受けた校舎の修理が間に合わず",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260831de47521",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-01T00:58:38+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナで新年度開始 攻撃受けた校舎の修理が間に合わず    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナで新年度開始 攻撃受けた校舎の修理が間に合わず"
+      }
+    },
+    {
+      "title_original": "俄警告北约在北极行动有灾难性后果 局势紧张升级",
+      "title_zh": "俄警告北约在北极行动有灾难性后果 局势紧张升级",
+      "url": "https://military.china.com/news/13004177/20260901/49711449.html",
+      "source": "military.china.com",
+      "source_score": 40,
+      "published_at": "2026-09-01T00:45:58+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "拉夫罗夫最近的言论非常严厉。8月31日，俄罗斯外长发表文章，明确指出北约在北极的活动构成了“直接的安全威胁”。他警告说，这种行为增加了擦枪走火的风险，一旦冲突爆发，后果不堪设想。",
+        "北约今年2月启动了代号为“北极哨兵”的军事行动，意图在北极圈内建立常态化部署。这与冷战后北极地区相对和平的状态形成了鲜明对比。如今，北约的大规模军事部署表明其对北极地区的野心。",
+        "此外，美国总统特朗普对格陵兰岛表现出浓厚兴趣，多次公开表示该岛应由美国控制，并暗示可能采取强硬措施。格陵兰岛位于北极圈内，具有重要的战略和经济价值，特朗普的态度进一步加剧了紧张局势。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "military.china.com"
+      ],
+      "all_titles": {
+        "zh": "俄警告北约在北极行动有灾难性后果 局势紧张升级"
+      }
+    },
+    {
+      "title_original": "中东局势重新升温 美股三大指数集体收跌",
+      "title_zh": "中东局势重新升温 美股三大指数集体收跌",
+      "url": "https://m.sohu.com/a/1070270890_121157270?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-09-01T00:38:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "中东局势重新升温 美股三大指数集体收跌\n8月31日，随着中东局势重新升温，油价攀升引发了对通胀压力的担忧，美股、美国国债和美元应声下跌。美股三大指数集体收跌，道指跌0.7%，本月累涨1.34%；纳指跌0.12%，本月累涨3.93%；标普500指数跌0.33%，本月累涨2.62%。",
+        "公用事业板块领跌， 爱迪生国际（EIX.US）跌超23%，太平洋煤电跌超20%；\n加密货币概念股走强， Circle（CRCL.US）涨超9%，Coinbase涨超5%， Strategy（MSTR.US）涨超4%；\n英伟达（NVDA.US）涨1.48%、 苹果（AAPL.US）跌0.89%、谷歌-A跌2.09%、 微软（MSFT.US）跌1.22%、 台积电（TSM.US）跌0.53%、 SpaceX（SPCX.US）涨1.55%、 亚马逊（AMZN.US）跌超2%，法庭文件显示，美国联邦贸易委员会起诉亚马逊； 特斯拉（TSLA.US）涨超5%，创逾一个月以来新高；存储股 闪迪（SNDK.US）在尾盘阶段异动拉升，从微跌状态直接拉到收涨5.5%。公司此前被纳入MSCI全部国家全球指数，于8月31日收盘后生效。",
+        "纳斯达克中国金龙指数收跌2.19%。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "中东局势重新升温 美股三大指数集体收跌"
+      }
+    },
+    {
+      "title_original": "茂木外相がポーランド外相と会談 ウクライナ復興推進へ連携",
+      "title_zh": "茂木外相がポーランド外相と会談 ウクライナ復興推進へ連携",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260901de47545",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-01T00:02:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "茂木外相がポーランド外相と会談 ウクライナ復興推進へ連携    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "茂木外相がポーランド外相と会談 ウクライナ復興推進へ連携"
+      }
+    },
+    {
+      "title_original": "Bessent told Russian minister no economic relief until Ukraine war ends, source says",
+      "title_zh": "Bessent told Russian minister no economic relief until Ukraine war ends, source says",
+      "url": "https://www.reuters.com/world/bessent-told-russian-finance-minister-no-economic-relief-until-ukraine-war-ends-2026-08-31/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-08-31T23:33:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Bessent told Russian minister no economic relief until Ukraine war ends, source says    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Bessent told Russian minister no economic relief until Ukraine war ends, source says"
+      }
+    },
+    {
+      "title_original": "¿Qué nos ha enseñado la geopolítica del caos durante este brutal verano?",
+      "title_zh": "¿Qué nos ha enseñado la geopolítica del caos durante este brutal verano?",
+      "url": "https://www.abc.es/internacional/analisis-pedro-rodriguez-20260831013156-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-08-31T23:31:56+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "¿Qué nos ha enseñado la geopolítica del caos durante este brutal verano?",
+        "Buena parte de las amenazas asociadas a la nueva geopolítica del caos afectan directamente a Europa y, por supuesto, a España\nEl verano geopolítico no ha podido ser más brutal.",
+        "Guerras en Irán y Ucrania sin opción de llegar a un final negociado, cambio climático acelerado con temperaturas infernales y sequías feroces, incendios incontenibles de sexta generación, precios disparados, democracias cada vez más en declive y ..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "¿Qué nos ha enseñado la geopolítica del caos durante este brutal verano?"
+      }
+    },
+    {
+      "title_original": "مصادر أمريكية: عمليات الانتشار في الشرق الأوسط ستستمر حتى 2027",
+      "title_zh": "مصادر أمريكية: عمليات الانتشار في الشرق الأوسط ستستمر حتى 2027",
+      "url": "https://www.aljazeera.net/news/2026/9/1/%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%81%D9%8A",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-31T22:55:30+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "مصادر أمريكية: عمليات الانتشار في الشرق الأوسط ستستمر حتى 2027\nقالت شبكة \"سي بي إس نيوز\" الأمريكية إن عائلات جنود الفرقة 82 المحمولة جوا التابعة للجيش الأمريكي تم إبلاغهم بأن عمليات الانتشار في الشرق الأوسط ستستمر حتى عام 2027.",
+        "ووفقًا لرسالة حصلت عليها \"سي بي إس نيوز\"، وأكدها مسؤولان أمريكيان، فقد أُبلغ أفراد عائلات جنود أمريكيين من إحدى فرق الجيش الأمريكي، والذين تم نشرهم في الشرق الأوسط في وقت سابق من هذا العام، بأن عمليات الانتشار ستستمر حتى عام 2027.",
+        "وجاء في الرسالة، المؤرخة يوم الأحد، من قادة الفرقة 82 المحمولة جوا والمتمركزة في فورت براغ بولاية نورث كارولينا، أنه من المتوقع أن تستمر عمليات الانتشار لمدة تصل إلى 12 شهرا."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "مصادر أمريكية: عمليات الانتشار في الشرق الأوسط ستستمر حتى 2027"
+      }
+    },
+    {
+      "title_original": "US Supreme Court clears way for Trump to keep building White House ballroom",
+      "title_zh": "US Supreme Court clears way for Trump to keep building White House ballroom",
+      "url": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-31T22:38:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Supreme Court clears way for Trump to keep building White House ballroom\n- Published\nThe US Supreme Court has ruled that construction of a $400m (£297m) ballroom at the White House can go ahead, in a victory for President Donald Trump.",
+        "In a 5-4 ruling, the justices granted the Trump administration's emergency request, blocking lower court rulings that would have halted construction of an above-ground portion of the project.",
+        "But Chief Justice John Roberts, a conservative, sided with the three liberal justices to dissent, writing that \"construction is likely unlawful\" because Congress has not approved the project."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US Supreme Court clears way for Trump to keep building White House ballroom"
+      }
+    },
+    {
+      "title_original": "原油は3週間ぶり大幅高、中東情勢緊迫で－ブレントは90ドル台に上昇",
+      "title_zh": "原油は3週間ぶり大幅高、中東情勢緊迫で－ブレントは90ドル台に上昇",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-08-31/TKNLKKKGZAJM",
+      "source": "bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-08-31T22:07:05+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "原油は3週間ぶり大幅高、中東情勢緊迫で－ブレントは90ドル台に上昇    bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "bloomberg.com"
+      ],
+      "all_titles": {
+        "ja": "原油は3週間ぶり大幅高、中東情勢緊迫で－ブレントは90ドル台に上昇"
+      }
+    },
+    {
+      "title_original": "Paxton allies launch $15 million ad campaign",
+      "title_zh": "Paxton allies launch $15 million ad campaign",
+      "url": "https://www.politico.com/news/2026/08/31/ken-paxton-ad-campaign-01057911",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-08-31T17:55:45-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "The new ads will highlight Paxton’s record as attorney general and attack James Talarico as weak on China.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Paxton allies launch $15 million ad campaign"
+      }
+    },
+    {
+      "title_original": "Modi implores tense Putin to end Ukraine war",
+      "title_zh": "Modi implores tense Putin to end Ukraine war",
+      "url": "https://www.politico.eu/article/india-nerendra-modi-tells-vladimir-putin-end-ukraine-war-for-the-sake-humanity/",
+      "source": "politico.eu",
+      "source_score": 75,
+      "published_at": "2026-08-31T21:42:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia's President Vladimir Putin and Indian Prime Minister Narendra Modi shake hands during a meeting on the sidelines of the Shanghai Cooperation Organisation (SCO) summit in Bishkek on August 31, 2026.",
+        "| Peter Kovalev/ POOL/AFP via Getty Images\nIndian Prime Minister Narendra Modi told a visibly uncomfortable Russian President Vladimir Putin to end the war in Ukraine for the sake of humanity during a meeting in Kyrgyzstan on Monday.",
+        "At a press conference before the Shanghai Cooperation Organisation Summit in Bishkek, Modi called Putin “my friend” and praised significant economic progress between the two countries before switching to the matter of war."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "politico.eu"
+      ],
+      "all_titles": {
+        "en": "Modi implores tense Putin to end Ukraine war"
+      }
+    },
+    {
+      "title_original": "共同防衛巡り閣僚会合 イスラム版ＮＡＴＯ、枠組み拡大も―サウジなど３カ国",
+      "title_zh": "共同防衛巡り閣僚会合 イスラム版ＮＡＴＯ、枠組み拡大も―サウジなど３カ国",
+      "url": "https://www.jiji.com/jc/article?k=2026090100162&g=int",
+      "source": "時事ドットコム",
+      "source_score": 40,
+      "published_at": "2026-08-31T21:31:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "共同防衛巡り閣僚会合 イスラム版ＮＡＴＯ、枠組み拡大も―サウジなど３カ国\n【カイロ時事】サウジアラビアとトルコ、パキスタンの３カ国は８月３１日、「メッカ共同防衛協定」締結後初となる閣僚級会合をトルコ最大都市イスタンブールで開いた。３カ国は共同声明で「協力を制度化するため、さらなる措置を取ることで一致した」と表明。事務局をサウジに設置すると発表した。",
+        "サウジなど３カ国、共同防衛協定 「イスラム版ＮＡＴＯ」指摘も\n会合には３カ国の外相や国防相、軍参謀長らが参加した。トルコのフィダン外相は会合後の記者会見で、新たな国が協定に参加するための「工程表の作成に取り組んでいる」と述べ、枠組みを拡大する可能性に言及した。",
+        "３カ国は８月７日、サウジ西部のイスラム教聖地メッカで「集団的抑止力の強化」を目的とする共同防衛協定を結んだ。いずれか１カ国への攻撃でも３カ国に対する攻撃と見なすと規定され、北大西洋条約機構（ＮＡＴＯ）の「イスラム版」とも指摘される。ただ、集団防衛に関して各国の義務は明らかではなく、実効性は不透明だ。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "時事ドットコム"
+      ],
+      "all_titles": {
+        "ja": "共同防衛巡り閣僚会合 イスラム版ＮＡＴＯ、枠組み拡大も―サウジなど３カ国"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - Kiew weiter Ziel von Drohnenattacken - Düsen-Drohnen sorgen für Probleme",
+      "title_zh": "Ukraine-Krieg - Kiew weiter Ziel von Drohnenattacken - Düsen-Drohnen sorgen für Probleme",
+      "url": "https://www.deutschlandfunk.de/kiew-weiter-ziel-von-drohnenattacken-duesen-drohnen-sorgen-fuer-probleme-102.html",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-08-31T21:28:08+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nach Angaben der ukrainischen Behörden wurden mehrere Menschen durch Drohnenangriffe verletzt.",
+        "Unter anderem seien Lagerhallen und ein Wohnblock getroffen worden.",
+        "In den vergangenen Tagen hat Russland die Ukraine nach Angaben von Präsident Selenskyj mit rund 1.500 Drohnen attackiert."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - Kiew weiter Ziel von Drohnenattacken - Düsen-Drohnen sorgen für Probleme"
+      }
+    },
+    {
+      "title_original": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "title_zh": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-31T20:47:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon\n- Published\nTwo people have died and 14 remain missing or unaccounted for after flash flooding swept through parts of the Grand Canyon, the National Park Service (NPS) has said.",
+        "The flood hit Bright Angel Canyon and the Phantom Ranch area on Saturday afternoon, wiping out footbridges and propelling boulders downstream.",
+        "The body of a 46-year-old man was found on Sunday evening near Crystal Rapids along the Colorado River, the park service said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon"
+      }
+    },
+    {
+      "title_original": "Wall Street recule, le conflit au Moyen-Orient inquiète",
+      "title_zh": "华尔街下跌，中东冲突令人担忧",
+      "url": "https://www.france24.com/fr/info-en-continu/20260831-wall-street-recule-le-conflit-au-moyen-orient-inqui%C3%A8te",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-08-31T20:45:12+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Wall Street recule, le conflit au Moyen-Orient inquiète    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Wall Street recule, le conflit au Moyen-Orient inquiète"
+      }
+    },
+    {
+      "title_original": "エネルギーは「つくる」時代へ 地政学リスク、水素が鍵",
+      "title_zh": "エネルギーは「つくる」時代へ 地政学リスク、水素が鍵",
+      "url": "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC314H90R30C26A8000000",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-08-31T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "昨今の地政学リスクの高まりや経済安全保障などを背景に、「エネルギーは、ある国から持ってくるもの」という、これまでの日本の当たり前が通用しなくなってきた。そこで注目されているのが、二酸化炭素（CO₂）やグリーン水素などを原料に「エネルギーをつくる」というアプローチだ。",
+        "この記事の3つのポイント\n・日本のエネルギー自給率16.4%、主要7カ国で最下位の日本に迫る現実を取材\n・水素・アンモニア市場は2050年に30〜40兆円規模、生成フローを図解\n・計画延期も相次ぎ、「つくる」現場が一様ではないことが表面化...",
+        "・日本のエネルギー自給率16.4%、主要7カ国で最下位の日本に迫る現実を取材\n・水素・アンモニア市場は2050年に30〜40兆円規模、生成フローを図解\n・計画延期も相次ぎ、「つくる」現場が一様ではないことが表面化..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "エネルギーは「つくる」時代へ 地政学リスク、水素が鍵"
+      }
+    },
+    {
+      "title_original": "Gas natural europeo se dispara por nueva escalada geopolítica",
+      "title_zh": "Gas natural europeo se dispara por nueva escalada geopolítica",
+      "url": "https://www.xtb.com/cl/analisis-y-noticias/analisis-de-mercado/gas-natural-europeo-se-dispara-por-nueva-escalada-geopolitica",
+      "source": "XTB.com",
+      "source_score": 40,
+      "published_at": "2026-08-31T19:47:57+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "- El gas natural europeo vuelve a acercarse a los 70 euros por megavatio hora, con una subida cercana al 4% durante el lunes, impulsado por la escalada entre Estados Unidos e Irán y el riesgo sobre el estrecho de Ormuz.",
+        "- Los almacenamientos de gas de la Unión Europea se encuentran cerca del 63%, su nivel más bajo para estas fechas en más de una década, frente a un entorno habitual próximo al 80% y un objetivo vinculante del 90%.",
+        "- Goldman Sachs y Bank of America han elevado sus escenarios para el TTF, mientras el mercado enfrenta el riesgo de que Europa tenga que competir agresivamente con Asia por cargamentos de GNL antes del invierno."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "XTB.com"
+      ],
+      "all_titles": {
+        "es": "Gas natural europeo se dispara por nueva escalada geopolítica"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Verletzte Ukrainer erhalten im Superhumans-Center bei Lemberg Prothesen",
+      "title_zh": "Ukraine-Krieg: Verletzte Ukrainer erhalten im Superhumans-Center bei Lemberg Prothesen",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-krieg-verletzte-ukrainer-erhalten-im-superhumans-center-bei-lemberg-prothesen-201105026.html",
+      "source": "faz.net",
+      "source_score": 40,
+      "published_at": "2026-08-31T19:38:20+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Krieg in der Ukraine : „Ich werde wieder laufen, springen, rennen!“\nBei einem russischen Angriff werden zwei ukrainische Jungen schwer verletzt.",
+        "在康复诊所，她和她的父母学会克服后果。",
+        "Artem saust über den Flur, biegt in den Gang ein und dann durch die offene Tür ins Behandlungszimmer."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "faz.net"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Verletzte Ukrainer erhalten im Superhumans-Center bei Lemberg Prothesen"
+      }
+    },
+    {
+      "title_original": "Festival honouring Dolly Parton set for Nashville and London",
+      "title_zh": "纪念多莉·帕顿的节日将在纳什维尔和伦敦举行",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-31T18:58:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Festival honouring Dolly Parton set for Nashville and London\n- Published\nDolly Parton's estate has announced a festival honouring the life and legacy of the late singer, set for London and Nashville.",
+        "The \"star-studded\" two-day DollyFest will happen across two consecutive weekends in both cities in 2027, her estate said in a Monday press release, adding that the specific dates will be announced later.",
+        "帕顿本人梦想了该活动的早期版本，她将在那里与其他艺术家一起主持和表演，但她的遗产委员会表示，由于帕顿的健康问题，原定于 2026 年 1 月举行的活动在公开宣布之前就被取消了。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Festival honouring Dolly Parton set for Nashville and London"
+      }
+    },
+    {
+      "title_original": "À défaut d’offrir une rapide victoire de l’Ukraine, la « coalition des volontaires » se réinvente en pilier européen de l’Otan",
+      "title_zh": "À défaut d’offrir une rapide victoire de l’Ukraine, la « coalition des volontaires » se réinvente en pilier européen de l’Otan",
+      "url": "https://www.lefigaro.fr/international/a-defaut-d-offrir-une-rapide-victoire-de-l-ukraine-la-coalition-des-volontaires-se-reinvente-en-pilier-europeen-de-l-otan-20260831",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-08-31T18:45:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "在弗拉基米尔·泽伦斯基的倡议下，并与埃马纽埃尔·马克龙通过视频会议聚集在一起的“自愿联盟”于8月24日纪念乌克兰恢复独立35周年。",
+        "瓦伦丁·奥吉连科/路透社\n“自愿联盟”打算在目前无人相信的停火之后部署，并试图为自己设定其他更具体的目标。",
+        "Les promesses de la « coalition des volontaires », qui a fièrement installé dans la durée l’aide des Européens et de leurs alliés à l’Ukraine, sont quotidiennement brûlées par les frappes de la Russie."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "À défaut d’offrir une rapide victoire de l’Ukraine, la « coalition des volontaires » se réinvente en pilier européen de l’Otan"
+      }
+    },
+    {
+      "title_original": "Ex-congressman George Santos banned from betting platform for life",
+      "title_zh": "Ex-congressman George Santos banned from betting platform for life",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-31T18:15:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Ex-congressman George Santos banned from betting platform for life\n- Published\nPrediction-market operator Kalshi has permanently barred former US congressman George Santos from trading on its platform.",
+        "The company alleged that Santos, who was expelled from Congress following a series of fraud and identity-theft charges, placed bets in February related to his own attendance at US President Donald Trump's State of the Union address, according to a notice of disciplinary action.",
+        "Kalshi said its compliance team concluded his activity showed signs of insider dealing, prompting the lifetime ban."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ex-congressman George Santos banned from betting platform for life"
+      }
+    },
     {
       "title_original": "US singer D4vd's celebrity lawyers withdraw from murder case",
       "title_zh": "美国歌手D4vd的名人律师退出谋杀案",
@@ -51,6 +601,81 @@
       ],
       "all_titles": {
         "en": "India’s PM Modi urges end to Ukraine war in talks with Russia’s Putin"
+      }
+    },
+    {
+      "title_original": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "title_zh": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-31T17:30:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously\n- Published\nThe families of more than 600 workers believed to be trapped in a vast network of mud-filled tunnels along Nepal's Trishuli River are clinging to hope their loved ones can be found alive.",
+        "Rescuers continued battling to reach them on Monday, using explosives to blast into the hillside before pumping air into the Trishuli-3A site - fearing a critical window to reach survivors is closing.",
+        "“我希望我们能找到他。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously"
+      }
+    },
+    {
+      "title_original": "الجغرافيا السياسية.. لماذا تُغيّر غوغل أسماء المسطحات المائية حسب مكان تصفحك؟",
+      "title_zh": "الجغرافيا السياسية.. لماذا تُغيّر غوغل أسماء المسطحات المائية حسب مكان تصفحك؟",
+      "url": "https://www.aljazeera.net/news/2026/8/31/%D9%85%D9%86-%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D8%BA%D9%8A%D8%B1-%D8%BA%D9%88%D8%BA%D9%84",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-08-31T17:00:19+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "政治地理学..",
+        "لماذا تُغيّر غوغل أسماء المسطحات المائية حسب مكان تصفحك؟\nوقّع الرئيس الأمريكي دونالد ترمب، الخميس، أمرا تنفيذيا بإعادة تسمية \"بحيرة أونتاريو\" إلى \"بحيرة أمريكا\" في الاستخدامات الرسمية الأمريكية، قبل أن تبدأ خرائط غوغل تطبيق الاسم الجديد بصورة تختلف بحسب موقع المستخدم، في أحدث مثال على سياسة تتبعها الشركة منذ سنوات في التعامل مع المسطحات المائية التي تختلف تسمياتها بين الدول.",
+        "وقالت غوغل إن مستخدمي خرائطها داخل الولايات المتحدة سيشاهدون اسم \"بحيرة أمريكا\"، بينما سيظل الاسم \"بحيرة أونتاريو\" ظاهرا في كندا، في حين تظهر التسميتان معا للمستخدمين خارج البلدين."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "الجغرافيا السياسية.. لماذا تُغيّر غوغل أسماء المسطحات المائية حسب مكان تصفحك؟"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: „Direkte Bedrohung“ – Moskau droht NATO und diskutiert Einsatz taktischer Atomwaffen",
+      "title_zh": "Ukraine-Krieg: „Direkte Bedrohung“ – Moskau droht NATO und diskutiert Einsatz taktischer Atomwaffen",
+      "url": "https://www.fr.de/politik/russischer-massenangriff-cherson-einwohner-sollen-fliehen-ukraine-krieg-aktuell-zr-94463809.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-08-31T17:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争：“直接威胁”——莫斯科威胁北约并讨论使用战术核武器\n在谷歌上关注我们\n乌克兰战争现状：参议员呼吁美国国会对俄罗斯实施制裁。",
+        "Russischer Abgeordneter fordert taktische Atomwaffe.",
+        "新闻行情。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: „Direkte Bedrohung“ – Moskau droht NATO und diskutiert Einsatz taktischer Atomwaffen"
       }
     },
     {
@@ -201,6 +826,31 @@
       ],
       "all_titles": {
         "ja": "中東欧、ドローン工場への放火続く ロシアがウクライナ支援を妨害か"
+      }
+    },
+    {
+      "title_original": "John Galliano exhibition at New York Met cancelled after backlash",
+      "title_zh": "纽约大都会博物馆约翰·加利亚诺 (John Galliano) 的展览因强烈反对而被取消",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-08-31T15:30:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "John Galliano exhibition at New York Met cancelled after backlash\n- Published\nJohn Galliano has cancelled an upcoming major exhibition celebrating his work as a fashion designer after it prompted criticism due to his previous conviction for making antisemitic remarks.",
+        "The Metropolitan Museum of Art in New York had announced an exhibition titled John Galliano: Horizons that was due to open in May 2027.",
+        "But Galliano said on Monday: \"After much reflection and discussion with the Met and all those involved, I have decided, with great sadness, that it is best for the exhibition not to take place at this time.\"\nThe British designer was sacked as creative director of Dior in 2011 and found guilty of abusing a Jewish curator in a restaurant in Paris."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "John Galliano exhibition at New York Met cancelled after backlash"
       }
     },
     {
