@@ -1,8 +1,858 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T01:48:48.310582+00:00",
-  "count": 61,
+  "generated_at": "2026-09-01T15:29:09.332376+00:00",
+  "count": 95,
   "articles": [
+    {
+      "title_original": "Woman killed in Times Square stabbing, suspect shot dead by police",
+      "title_zh": "时代广场刺伤女子身亡，嫌疑人被警方击毙",
+      "url": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-01T15:20:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Woman killed in Times Square stabbing, suspect shot dead by police\n- Published\nA 32-year-old woman was killed and another victim is in hospital following a stabbing in Times Square, New York City late on Monday afternoon.",
+        "The suspect, a woman wielding two knives, was shot by police.",
+        "All three people were taken to hospital, where the female victim and the suspect were later pronounced dead, New York City Mayor Zohran Mamdani told a news conference."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Woman killed in Times Square stabbing, suspect shot dead by police"
+      }
+    },
+    {
+      "title_original": "Is Trump wooing Russia again – and why?",
+      "title_zh": "特朗普再次向俄罗斯示好——为什么？",
+      "url": "https://www.aljazeera.com/news/2026/9/1/is-trump-wooing-russia-again-and-why",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-01T14:43:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Is Trump wooing Russia again – and why?",
+        "CIA chief’s Moscow visit and Russian finance minister attending a G20 meeting in the US signal renewed US-Russia dialogue.",
+        "United States President Donald Trump’s administration appears to be taking steps to increase contact with key figures in Moscow, even as Russia’s war in Ukraine continues and US-backed peace efforts remain stalled."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Is Trump wooing Russia again – and why?"
+      }
+    },
+    {
+      "title_original": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
+      "title_zh": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-01T13:49:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Navigating app surpasses Google and Apple Maps on top-downloaded US chart after posting ‘we’re not changing it’ A pioneering online mapping app that defied Donald Trump by refusing to rename Lake Ontario has become the most in-demand navigation tool in the US.",
+        "MapQuest, which was openly dismissive of the president’s 27 August executive order directing federal agencies to refer to the smallest of the Great Lakes as “Lake America” amid a trade spat with Canada, leapfrogged rivals Google Maps and Apple Maps to top the most-downloaded list, as first reported by TechCrunch .",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order"
+      }
+    },
+    {
+      "title_original": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+      "title_zh": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-01T13:46:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Sexual assaults happening almost every day in Ceuta, prosecutors say\n- Published\nSpanish prosecutors say 23 sexual assaults, including nine against children, have been recorded in Ceuta since the mass influx of migrants into the Spanish exclave at the end of July.",
+        "That number meant there was almost one case every day, Ceuta's chief prosecutor Silvia Rojas said.",
+        "她告诉《国家报》，移民女孩“由于她们在该地区的非正常身份而特别容易受到伤害”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Sexual assaults happening almost every day in Ceuta, prosecutors say"
+      }
+    },
+    {
+      "title_original": "ANAMA und NATO wollen Zusammenarbeit bei Minenräumung ausbauen",
+      "title_zh": "ANAMA und NATO wollen Zusammenarbeit bei Minenräumung ausbauen",
+      "url": "https://azertag.az/de/xeber/anama_und_nato_wollen_zusammenarbeit_bei_minenraumung_ausbauen-4392829",
+      "source": "azərtac",
+      "source_score": 55,
+      "published_at": "2026-09-01T13:37:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ANAMA und NATO wollen Zusammenarbeit bei Minenräumung ausbauen    azərtac",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "azərtac"
+      ],
+      "all_titles": {
+        "de": "ANAMA und NATO wollen Zusammenarbeit bei Minenräumung ausbauen"
+      }
+    },
+    {
+      "title_original": "Qatar planning to host Formula One, MotoGP despite Middle East conflict",
+      "title_zh": "Qatar planning to host Formula One, MotoGP despite Middle East conflict",
+      "url": "https://www.aljazeera.com/sports/2026/9/1/qatar-planning-to-host-formula-one-motogp-despite-middle-east-conflict",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-01T13:03:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "尽管中东冲突，卡塔尔仍计划举办一级方程式赛车和MotoGP\n当地组织者表示，原定于 11 月举行的卡塔尔大奖赛和 MotoGP 比赛预计将如期举行。",
+        "Qatar is still planning to host MotoGP and Formula One races in November despite uncertainty due to conflict in the region, Qatar Motor and Motorcycle Federation (QMMF) President Abdul Rahman bin Abdullatif Al Mannai said.",
+        "“Qatar has been safe for months now."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Qatar planning to host Formula One, MotoGP despite Middle East conflict"
+      }
+    },
+    {
+      "title_original": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+      "title_zh": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-01T12:58:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Israel says senior Hamas member seized as strikes kill three during Gaza raid\n- Published\nIsrael's defence minister says a senior member of the Palestinian armed group Hamas has been captured.",
+        "Israel Katz was speaking after reports of a raid by Israeli special forces and an Israel-backed Palestinian militia in Gaza City.",
+        "Israeli air strikes at the same time killed at least two children and a woman, local medics say."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israel says senior Hamas member seized as strikes kill three during Gaza raid"
+      }
+    },
+    {
+      "title_original": "Trump says US position on Falklands 'one of many' under review",
+      "title_zh": "Trump says US position on Falklands 'one of many' under review",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-01T12:54:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump says US position on Falklands 'one of many' under review\n- Published\nDonald Trump has said the United States' position on the Falkland Islands is \"one of many\" under review, as he pressed the UK to increase military spending.",
+        "The US president said the UK has \"got some problems, but they'll get solved\" when asked about defence funding as a follow-up question to his response on the Falklands.",
+        "It comes after The Daily Telegraph reported, external US defence officials were drawing up proposals to incentivise Nato allies to meet their spending pledges, with a threat to oppose UK sovereignty over the Falklands among the possible options."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump says US position on Falklands 'one of many' under review"
+      }
+    },
+    {
+      "title_original": "أسواق الشرق الأوسط | CNN Arabic | CNN",
+      "title_zh": "أسواق الشرق الأوسط | CNN Arabic | CNN",
+      "url": "https://arabic.cnn.com/spotlight/marketplace-middle-east",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-09-01T12:22:40+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Video player was slow to load content\nVideo content never loaded\nAd froze or did not finish loading\nVideo content did not start after ad\nAudio on ad was too loud\nOther issues\nAd never loaded\nAd prevented/slowed the page from loading\nContent moved around while ad loaded\nAd was repetitive to ads I've seen previously\nOther issues\nCancel\nSubmit\nThank You!",
+        "您在提供此反馈方面所付出的努力和贡献是巨大的\n赞赏。",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "أسواق الشرق الأوسط | CNN Arabic | CNN"
+      }
+    },
+    {
+      "title_original": "ウクライナ「最も危険な局面に陥るおそれ」米NYT “ジェットエンジン搭載無人機”で昼夜問わず攻撃続く",
+      "title_zh": "乌克兰“面临陷入最危险境地” 美国纽约时报“喷气式无人机”日夜持续袭击",
+      "url": "https://newsdig.tbs.co.jp/articles/-/2913637",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-09-01T12:20:35+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "ウクライナ「最も危険な局面に陥るおそれ」米NYT “ジェットエンジン搭載無人機”で昼夜問わず攻撃続く TBSテレビ 2026年9月1日(火) 21:20 国際 ロシア軍がウクライナの首都キーウへの波状攻撃を行う中、アメリカのニューヨーク・タイムズは、ロシアによる侵攻開始直後の混乱期以降、キーウが「最も危険な局面に陥るおそれがある」と報じました。キーウ州当局…",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ「最も危険な局面に陥るおそれ」米NYT “ジェットエンジン搭載無人機”で昼夜問わず攻撃続く"
+      }
+    },
+    {
+      "title_original": "Echoes of cold war as US accused of meddling in another Brazilian election",
+      "title_zh": "美国被指控干预另一场巴西大选，冷战回响",
+      "url": "https://www.theguardian.com/world/2026/sep/01/us-trump-rubio-meddling-brazil-election",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-01T12:00:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普和卢比奥试图影响选举结果的说法与 64 年前中央情报局的干预有相似之处。那一年是 1962 年，肯尼迪政府迫切希望在巴西的国会选举中扭转其左翼总统若昂·古拉特的不利局面，以此对抗所谓的共产主义威胁席卷美国视为后院的地区。",
+        "历史学家称，在投票前夕，中央情报局和国务院秘密向反对派候选人和一个负责传播右翼宣传和煽动骚乱的组织输送了数百万美元。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Echoes of cold war as US accused of meddling in another Brazilian election"
+      }
+    },
+    {
+      "title_original": "大隅洋新駐ウクライナ日本国大使、ウクライナ外務省に信任状の写しを手交",
+      "title_zh": "日本驻乌克兰大使大角浩向乌克兰外交部递交国书副本",
+      "url": "https://www.ukrinform.jp/rubric-polytics/4159746-da-yu-yang-xin-zhuukuraina-ri-ben-guo-da-shiukuraina-wai-wu-shengni-xin-ren-zhuangno-xieshiwo-shou-jiao.html",
+      "source": "ウクルインフォルム通信",
+      "source_score": 40,
+      "published_at": "2026-09-01T11:22:16+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "日本驻乌克兰大使大角浩向乌克兰外交部递交国书副本\n照片\n        \n        乌克兰新闻报\n    日本驻乌克兰大使大角浩向乌克兰副外长米先科递交了国书副本。",
+        "这是乌克兰外交部公共关系办公室报道的。",
+        "公告称，副外长米先科与日本大使大隈会晤期间，双方重点讨论重振峰会级对话以及实施双边和多边倡议，以增强乌克兰的金融和能源韧性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "ウクルインフォルム通信"
+      ],
+      "all_titles": {
+        "ja": "大隅洋新駐ウクライナ日本国大使、ウクライナ外務省に信任状の写しを手交"
+      }
+    },
+    {
+      "title_original": "「対露融和路線」払拭狙いか 高市政権、ウクライナとの連帯強調 プーチン氏択捉島訪問後",
+      "title_zh": "普京访问择捉岛后，高市政府强调声援乌克兰，或意在打消“对俄绥靖政策”",
+      "url": "https://www.sankei.com/article/20260901-NWOCTRYAZFPEZPRSTTFR2QSH2E/",
+      "source": "産経ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-01T11:20:33+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "高市早苗政府强调声援正在遭受俄罗斯入侵的乌克兰。 8月31日（日本时间9月1日），外相茂木敏充在出访的斯洛伐克会见了担任乌克兰支持基地的波兰外长西科尔斯基，同意继续合作为乌克兰恢复重建提供支持。高市政府因旨在实现能源采购多元化的“对俄宽松政策”而受到批评，但政府显然正在试图消除这种观点。",
+        "“与乌克兰一起”\n茂木先生和西科尔斯基先生之间的会面持续了大约35分钟。两国外长就乌克兰局势交换了意见，并确定了今后的合作。",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "産経ニュース"
+      ],
+      "all_titles": {
+        "ja": "「対露融和路線」払拭狙いか 高市政権、ウクライナとの連帯強調 プーチン氏択捉島訪問後"
+      }
+    },
+    {
+      "title_original": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+      "title_zh": "俄罗斯基辅铁路工人遭遇新一轮致命袭击",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-01T10:30:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯基辅铁路工人遭遇新一轮致命袭击\n- 已发表\n官员称，俄罗斯隔夜导弹和无人机对乌克兰首都基辅及周边地区发动袭击，造成至少 12 人死亡、20 人受伤，其中包括两名儿童。",
+        "基辅的一个仓库遭到袭击，其中六名伤亡者是乌克兰国有公司的铁路工人。",
+        "俄罗斯表示，其“使用高精度武器的大规模打击”针对的是乌克兰的军事和能源设施，并补充说，乌克兰对俄罗斯西部别尔哥罗德地区的袭击也造成一人死亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russian attack hits rail workers in new deadly strikes on Kyiv"
+      }
+    },
+    {
+      "title_original": "Teen girl charged with murder over recording of San Diego mosque attack",
+      "title_zh": "少女因录制圣地亚哥清真寺袭击事件被控谋杀",
+      "url": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-01T10:26:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "少女因录制圣地亚哥清真寺袭击事件被控谋杀\n- 已发表\n一名 17 岁女孩因协助和教唆谋杀罪被指控，检察官称她录制了圣地亚哥一座清真寺袭击事件的直播，该事件导致三人死亡。",
+        "检察官称，这名女孩还发表了 5 月 18 日袭击圣地亚哥伊斯兰中心的两名青少年枪手的宣言。",
+        "据福赛斯县地方检察官吉姆·奥尼尔称，这名来自北卡罗来纳州的青少年上周被捕，并于周一被大陪审团起诉。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Teen girl charged with murder over recording of San Diego mosque attack"
+      }
+    },
+    {
+      "title_original": "地缘政治、美联储担忧及脆弱的伽马结构拖累美股 | 期权市场数据",
+      "title_zh": "地缘政治、美联储担忧及脆弱的伽马结构拖累美股 | 期权市场数据",
+      "url": "https://www.moomoo.com/hans/community/feed/geopolitics-fed-fears-and-a-fragile-gamma-structure-weigh-on-117195226087430",
+      "source": "Moomoo",
+      "source_score": 40,
+      "published_at": "2026-09-01T10:07:14+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "核心PCE维持在3.3%：通胀是否仍然过热？",
+        "117万次浏览 · 49篇内容 \n盘前展望\n$纳指100ETF-Invesco QQQ Trust(QQQ.US)$ 盘前下跌0.91%， $标普500ETF-SPDR(SPY.US)$ 盘前下跌0.52%。随着美伊冲突升级及市场对美联储加息预期升温，摩根大通交易台将美股评级下调至战术性谨慎，警告市场可能出现横盘震荡。期权市场数据显示，纳指100ETF-Invesco QQQ Trust在上一个交易日的认沽/认购成交量比率升至1.23，隐含波动率（IV）为19.63%。",
+        "$美敦力(MDT.US)$ 盘前上涨1.16%，美敦力将于9月1日公布2027财年第一季度财报。期权市场数据显示，其上一个交易日的认沽/认购成交量比率升至0.84，隐含波动率（IV）为28.95%。2026年9月4日到期、交易量最高的合约是行权价为$99的看涨期权，上一交易日上涨11.86%。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Moomoo"
+      ],
+      "all_titles": {
+        "zh": "地缘政治、美联储担忧及脆弱的伽马结构拖累美股 | 期权市场数据"
+      }
+    },
+    {
+      "title_original": "Shein valued at $26bn after long-awaited stock market debut",
+      "title_zh": "期待已久的 Shein 首次上市后估值达 260 亿美元",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-01T10:01:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "期待已久的 Shein 首次上市后估值达 260 亿美元\n- 已发表\n超快时尚品牌 Shein 经过长期寻求上市，上市首日后估值达 262 亿美元（193 亿英镑）。",
+        "该公司的估值曾一度估计接近 1000 亿美元，但目前面临着激烈的竞争、贸易紧张局势以及供应链道德问题。",
+        "Shein 股价在早盘交易中下跌，但在收盘前收复失地，仅下跌 0.12%。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Shein valued at $26bn after long-awaited stock market debut"
+      }
+    },
+    {
+      "title_original": "La geopolítica de California y su proyección sobre el noroeste de México",
+      "title_zh": "加利福尼亚州的地缘政治及其对墨西哥西北部的预测",
+      "url": "https://www.descifrandolaguerra.es/geopolitica-california-proyeccion-noroeste-mexico/",
+      "source": "descifrandolaguerra.es",
+      "source_score": 40,
+      "published_at": "2026-09-01T09:15:55+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "加利福尼亚州的地缘政治及其对墨西哥西北部的预测 desciprandolaguerra.es",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "descifrandolaguerra.es"
+      ],
+      "all_titles": {
+        "es": "La geopolítica de California y su proyección sobre el noroeste de México"
+      }
+    },
+    {
+      "title_original": "Trump suggests he is reviewing US support for UK over Falkland Islands",
+      "title_zh": "特朗普暗示他正在审查美国在福克兰群岛问题上对英国的支持",
+      "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-uk-sovereignty-falkland-islands",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-01T08:31:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "评论表明总统准备利用争端推动英国增加国防开支和北约捐款唐纳德·特朗普表示，他正在重新考虑美国对英国对福克兰群岛主权的支持，此举可能会导致华盛顿和伦敦之间的“特殊关系”紧张。",
+        "“我总是审查每一个立场——这只是众多立场之一，”美国总统在白宫回答记者有关他是否正在审查美国对南大西洋岛屿的立场的问题时告诉记者，该群岛的地位长期以来一直受到声称拥有主权的阿根廷的争议。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Trump suggests he is reviewing US support for UK over Falkland Islands"
+      }
+    },
+    {
+      "title_original": "Thai resort prepares to host USS Abraham Lincoln sailors after more than 270 days at sea",
+      "title_zh": "泰国度假村准备接待在海上航行 270 多天的亚伯拉罕·林肯号航空母舰水手",
+      "url": "https://www.theguardian.com/world/2026/sep/01/thailand-pattaya-uss-abraham-lincoln-sailors-marines",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-01T08:30:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "数千名水手和海军陆战队员抵达芭堤雅之前，他们的部署因美国在伊朗的战争而延长。泰国度假城市芭堤雅当局加强了安全保护，准备迎接来自亚伯拉罕·林肯号航空母舰的数千名水手和海军陆战队员，他们已经连续在海上度过了 270 多天。",
+        "省长纳里特·尼拉迈翁 (Narit Niramaiwong) 告诉法新社：“约 600 名官员将提供安全和其他必要援助。”",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Thai resort prepares to host USS Abraham Lincoln sailors after more than 270 days at sea"
+      }
+    },
+    {
+      "title_original": "Taiwán propone construir una \"alianza estratégica\" con la UE en materia de semiconductores",
+      "title_zh": "台湾提议与欧盟建立半导体“战略联盟”",
+      "url": "https://www.elperiodico.com/es/internacional/20260901/taiwan-propone-alianza-microchips-semiconductores-union-europea-133828412",
+      "source": "El Periódico",
+      "source_score": 40,
+      "published_at": "2026-09-01T08:26:55+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧洲的创新\n台湾提议与欧盟建立半导体“战略联盟”\n近十年台湾对欧盟投资较前十年猛增650%\n台湾总统赖清德周二表示，愿意与欧盟在半导体领域建立“战略联盟”，将台湾“高度融合”的产业生态系统与旧大陆的创新开发能力、设备、材料和高附加值制造结合起来。",
+        "“通过结合优势、建立战略联盟，我们可以创造更大的共享价值。",
+        "我们可以共同构建一个更安全、更多样化、更有弹性的全球半导体生态系统，”总统在周二于台北举行的“欧盟投资论坛 2026”上发表讲话时表示。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "El Periódico"
+      ],
+      "all_titles": {
+        "es": "Taiwán propone construir una \"alianza estratégica\" con la UE en materia de semiconductores"
+      }
+    },
+    {
+      "title_original": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney",
+      "title_zh": "加拿大执政自由党横扫特别选举，提振马克·卡尼",
+      "url": "https://www.theguardian.com/world/2026/sep/01/canada-liberals-special-elections-mark-carney",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-01T07:42:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "预计的三场胜利向美国传达了一个信息，即卡尼得到了加拿大人民的支持，一位议员表示，加拿大执政的自由党已经横扫了三场特别选举，这一结果表明，在与唐纳德·特朗普对峙后，选民支持了总理马克·卡尼。",
+        "加拿大国家通讯社加通社预计自由党将在魁北克省希库蒂米-勒峡湾、多伦多东约克海滩和不列颠哥伦比亚省北温哥华-卡皮拉诺取得胜利。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Canada’s ruling Liberals sweep special elections in boost to Mark Carney"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月1日の動き）",
+      "title_zh": "【不定时更新】俄罗斯军事入侵乌克兰（9月1日动向）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46912",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-01T07:21:34+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "【不时更新】俄罗斯军事入侵乌克兰（9月1日动静）NHK新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（9月1日の動き）"
+      }
+    },
+    {
+      "title_original": "Shein shares slide on fast-fashion retailer’s stock market debut",
+      "title_zh": "快时尚零售商 Shein 股价下跌",
+      "url": "https://www.theguardian.com/business/2026/sep/01/shein-shares-slide-fast-fashion-retailer-stock-market-debut-hong-kong",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-01T07:11:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "曾估值 1000 亿美元的公司在香港上市 260 亿美元，此前快时尚品牌 Shein 在美国和英国上市失败，这家中国成立的公司在香港证券交易所首次上市，股价下跌 10%。",
+        "这家总部位于新加坡的公司一度估值近 1000 亿美元（740 亿英镑），周二上市，股价为 48.56 港元，业务估值略高于 260 亿美元。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Shein shares slide on fast-fashion retailer’s stock market debut"
+      }
+    },
+    {
+      "title_original": "النفط يصعد مع عودة مخاوف تعطل إمدادات الشرق الأوسط",
+      "title_zh": "由于担心中东供应中断，油价上涨",
+      "url": "https://www.aljazeera.net/ebusiness/2026/9/1/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B5%D8%B9%D8%AF-%D9%85%D8%B9-%D8%B9%D9%88%D8%AF%D8%A9-%D9%85%D8%AE%D8%A7%D9%88%D9%81-%D8%AA%D8%B9%D8%B7%D9%84-%D8%A5%D9%85%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-01T07:00:49+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于担心中东供应中断，油价上涨\n周二，美国和伊朗在中东再次发生对抗，再次引发人们对世界主要原油产区供应中断的担忧，周二油价上涨约一美元。",
+        "- 截至格林威治标准时间 04:55，布伦特原油期货上涨 1.2%，至每桶 91.54 美元。",
+        "- 美国西德克萨斯中质原油上涨 1.5%，至 87.03 美元。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "النفط يصعد مع عودة مخاوف تعطل إمدادات الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "النفط يتجاوز 91 دولاراً مع عودة مخاطر الإمدادات من الشرق الأوسط",
+      "title_zh": "中东供应风险回归，油价突破 91 美元",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/5313294-%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-91-%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7%D9%8B-%D9%85%D8%B9-%D8%B9%D9%88%D8%AF%D8%A9-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%A5%D9%85%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-09-01T06:09:59+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "周二，在北卡罗来纳州举行的贸易部长和科技公司高级领导人会议上，美国敦促二十国集团国家采取不太严格的方式来监管人工智能，并努力避免为该行业制定新的规则或监管机构。",
+        "美国的呼吁很大程度上符合世界上最大的人工智能公司的趋势，其中大多数是美国公司，这些公司寻求减少对其快速增长的业务的监管限制，或影响未来监管该行业的规则的制定。",
+        "公司认为，如果他们放慢新车型的推出速度或强制修改产品以解决安全问题，严格的政府要求可能会对他们的利润造成压力。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "النفط يتجاوز 91 دولاراً مع عودة مخاطر الإمدادات من الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "South Korean police officer admits to closing missing person cases to avoid work",
+      "title_zh": "韩国警察承认结案是为了逃避工作",
+      "url": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-01T05:47:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "韩国警察承认结案是为了逃避工作\n- 已发表\n据当局称，一名韩国警察承认，为了避免额外的工作，在没有进行调查的情况下就结案了失踪人员案件。",
+        "这名姓卜的警官于本月早些时候被捕，他被指控在热门度假岛济州岛过早结案并向失踪人员家属撒谎。",
+        "在公众批评不断增加的情况下，警方开始对岛上几名失踪人员进行迟来的搜寻，并在最近几周发现了四具尸体。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "South Korean police officer admits to closing missing person cases to avoid work"
+      }
+    },
+    {
+      "title_original": "„Keinerlei Hinweise“: Europas Ostflanke widerspricht Warnungen vor russischem NATO-Angriff",
+      "title_zh": "“没有线索”：欧洲东翼与俄罗斯北约袭击的警告相矛盾",
+      "url": "https://www.fr.de/politik/europas-ostflanke-widerspricht-warnungen-vor-russischem-nato-angriff-putin-zr-94468969.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-01T05:44:04+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "“没有线索”：欧洲东翼与俄罗斯北约袭击的警告相矛盾\n在谷歌上关注我们\n北约东翼的代表没有看到俄罗斯即将发动袭击的证据。",
+        "然而，他们正在武装自己，并警告莫斯科针对欧洲的破坏和挑衅活动正在增加。",
+        "莫斯科 - 中央情报局局长约翰·拉特克利夫的莫斯科秘密之行引发了人们对俄罗斯可能对北约进行测试的担忧，近一周后，欧洲官员否认了常规袭击即将发生的印象。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "„Keinerlei Hinweise“: Europas Ostflanke widerspricht Warnungen vor russischem NATO-Angriff"
+      }
+    },
+    {
+      "title_original": "Mutmaßliche NATO-Spionin bleibt in U-Haft, das hat die Justiz in Belgien entschieden",
+      "title_zh": "比利时司法机构决定，涉嫌北约间谍仍被拘留",
+      "url": "https://de.euronews.com/my-europe/2026/09/01/nato-spionin-justiz-belgien",
+      "source": "de.euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-01T05:04:34+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "在比利时的北约间谍丑闻中，司法部门驳回了被告的诉讼：调查关键人物暂时仍被拘留。",
+        "比利时联邦检察官办公室宣布，一名被指控为第三国从事间谍活动的华裔加拿大人目前仍被拘留。",
+        "联邦检察官办公室发言人告诉欧洲新闻台，司法部门因此在非公开听证会上驳回了这位前实习生的诉讼，并将她的审前拘留延长了一个月。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "de.euronews.com"
+      ],
+      "all_titles": {
+        "de": "Mutmaßliche NATO-Spionin bleibt in U-Haft, das hat die Justiz in Belgien entschieden"
+      }
+    },
+    {
+      "title_original": "Watch Why India's Modi Urged Putin at SCO to End Ukraine War",
+      "title_zh": "观看为什么印度莫迪在上合组织敦促普京结束乌克兰战争",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-01/why-india-s-modi-urged-putin-at-sco-to-end-ukraine-war-video",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-01T05:02:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "观看为何印度莫迪在上合组织敦促普京结束乌克兰战争    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Watch Why India's Modi Urged Putin at SCO to End Ukraine War"
+      }
+    },
+    {
+      "title_original": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+      "title_zh": "“我从未去过阿富汗”：六百万被驱逐者被迫在塔利班统治下重新开始",
+      "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-01T05:00:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "“我从未去过阿富汗”：六百万被驱逐者被迫在塔利班统治下重新开始\n- 已发表\n老人拄着拐杖一瘸一拐地做了个鬼脸，而孩子们则睁大眼睛盯着他们，抱着从他们被迫离开的家中运来的鸡。",
+        "“在自己的国家感觉真好，”35 岁的纳齐亚 (Nazia) 从出生地巴基斯坦进入阿富汗几分钟后说道。",
+        "托克汉姆穿越被称为“零点”，这里是一段艰难生活的结束和另一种生活开始的地方。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban"
+      }
+    },
+    {
+      "title_original": "Taiwán planea invertir más de 1.100 millones de dólares en su defensa aérea frente a China",
+      "title_zh": "台湾计划投资超过11亿美元用于防空防御",
+      "url": "https://efe.com/mundo/2026-09-01/taiwan-inversion-defensa-china/",
+      "source": "EFE - Agencia de noticias",
+      "source_score": 40,
+      "published_at": "2026-09-01T04:22:28+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台北（埃菲社）——在中国对台湾的军事压力日益加大的背景下，台湾提议投资 360.4 亿新台币（约合 11.4 亿美元）开发能够拦截战术弹道导弹的防空系统。",
+        "据中央社报道，国防部 (MDN) 2027 年预算中考虑了这一举措，旨在于 2026 年至 2032 年期间开发和部署天弓 III 地对空导弹系统的改进版本，即“强弓计划”。",
+        "该提案没有详细说明将采购的强弓导弹数量，只是表示第一批导弹将于 2028 年开始交付给空军。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "EFE - Agencia de noticias"
+      ],
+      "all_titles": {
+        "es": "Taiwán planea invertir más de 1.100 millones de dólares en su defensa aérea frente a China"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient: Donald Trump menace encore de “frapper fort” l’Iran",
+      "title_zh": "中东战争：唐纳德·特朗普仍威胁要“严厉打击”伊朗",
+      "url": "https://www.bfmtv.com/replay-emissions/bfm-premiere/video-guerre-au-moyen-orient-donald-trump-menace-encore-de-frapper-fort-l-iran_VN-202609010085.html",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-09-01T04:12:22+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争：唐纳德·特朗普仍威胁要“严厉打击”伊朗\n伊朗周一声称，作为对美国轰炸的回应，袭击了美国在约旦和阿拉伯联合酋长国的军事目标，这是一个月来的首次交锋，削弱了中东战争数周的平静。",
+        "|持续时间：1:28",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: Donald Trump menace encore de “frapper fort” l’Iran"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 05:47 Gouverneur: Russland trifft mehrstöckiges Wohnhaus nahe Kiew +++",
+      "title_zh": "乌克兰战争实时收报机：+++ 05:47 州长：俄罗斯袭击基辅附近的多层住宅楼 +++",
+      "url": "https://www.n-tv.de/politik/05-47-Gouverneur-Russland-trifft-mehrstoeckiges-Wohnhaus-nahe-Kiew-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-09-01T03:56:29+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争直播：+++ 05:47 州长：俄罗斯袭击了基辅附近的多层住宅楼 +++    n-tv.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 05:47 Gouverneur: Russland trifft mehrstöckiges Wohnhaus nahe Kiew +++"
+      }
+    },
     {
       "title_original": "النفط يصعد مع عودة مخاوف تعطل إمدادات الشرق الأوسط",
       "title_zh": "النفط يصعد مع عودة مخاوف تعطل إمدادات الشرق الأوسط",
