@@ -1,8 +1,883 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02T01:01:32.906080+00:00",
-  "count": 35,
+  "generated_at": "2026-09-02T15:06:38.629388+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title_original": "Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism",
+      "title_zh": "Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism",
+      "url": "https://www.theguardian.com/world/2026/sep/02/venezuela-oil-deal-trump-chris-wright",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-02T14:44:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Energy secretary Chris Wright denies US seeks to ‘take’ country’s oil, saying deal is ‘transformation’ of relations The US energy secretary, Chris Wright, has denied Washington is seeking to commandeer huge quantities of Venezuelan oil, amid growing criticism of Donald Trump’s energy deal with the country’s interim leaders.",
+        "“Absolutely not,” Wright replied when asked by a CNBC journalist if the US was engaged in a “heavy-handed” attempt to “take” Venezuelan oil in violation of the South American country’s constitution.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism"
+      }
+    },
+    {
+      "title_original": "Pete Hegseth criticized for body-shaming Canadian cadet program members",
+      "title_zh": "Pete Hegseth criticized for body-shaming Canadian cadet program members",
+      "url": "https://www.theguardian.com/us-news/2026/sep/02/pete-hegseth-body-shaming-post",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-02T14:44:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US defense secretary faced backlash for attempting to mock Canada’s armed forces amid trade war A social media post by Pete Hegseth, the US secretary of defense, body-shaming female members of a Canadian youth development program remained online on Wednesday despite a furious backlash on both sides of the border.",
+        "On Monday night Hegseth posted on X a photograph of two people in uniform with a Canadian flag and the caption “this is real”, an apparent attempt at mocking the country’s armed forces amid the Trump administration’s trade spat with its northern neighbor.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Pete Hegseth criticized for body-shaming Canadian cadet program members"
+      }
+    },
+    {
+      "title_original": "وول ستريت تفتح متباينة وسط تجدد التوتر في الشرق الأوسط",
+      "title_zh": "وول ستريت تفتح متباينة وسط تجدد التوتر في الشرق الأوسط",
+      "url": "https://www.reuters.com/ar/business/OEG5MACSONPUDG3RWEJYZVH7QI-2026-09-02/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-02T13:59:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "وول ستريت تفتح متباينة وسط تجدد التوتر في الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "وول ستريت تفتح متباينة وسط تجدد التوتر في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases",
+      "title_zh": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases",
+      "url": "https://www.reuters.com/world/eu-some-eu-states-summon-russian-embassy-officials-over-leipzig-drone-attack-2026-09-02/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-02T13:44:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "EU to hit back at Russia after drone attack as Germany probes new sabotage cases    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases"
+      }
+    },
+    {
+      "title_original": "Trump invites battleground Republicans to Rose Garden dinner",
+      "title_zh": "Trump invites battleground Republicans to Rose Garden dinner",
+      "url": "https://www.politico.com/news/2026/09/02/trump-invites-battleground-republicans-to-rose-garden-dinner-01061406",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-02T09:32:27-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Many are hoping he will soon unleash his $400 million war chest to help save their majorities.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Trump invites battleground Republicans to Rose Garden dinner"
+      }
+    },
+    {
+      "title_original": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "title_zh": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-02T13:04:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany\n- Published\nThe heads of Nato and the European Commission have warned that Russia is growing increasingly reckless and vowed to respond to a \"new normal\".",
+        "欧盟委员会主席乌尔苏拉·冯德莱恩表示，“莱比锡事件标志着欧盟领土上的一次新的升级，直接归因于俄罗斯。”一天前，德国指责俄罗斯对上个月莱比锡机场发生的无人机袭击失败负责。",
+        "冯德莱恩表示：“我们必须挺身而出，这意味着准备好更快、更好地应对俄罗斯的鲁莽行为。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "en": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany"
+      }
+    },
+    {
+      "title_original": "Las bolsas de China se resienten por la escalada de tensiones en Oriente Medio",
+      "title_zh": "Las bolsas de China se resienten por la escalada de tensiones en Oriente Medio",
+      "url": "https://www.abc.es/economia/bolsas-china-resienten-escalada-tensiones-oriente-medio-20260902150044-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-02T13:00:48+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Las bolsas de China se resienten por la escalada de tensiones en Oriente Medio\nPekín, 2 sep (EFE/EPA).- Las bolsas de Asia se tiñeron este miércoles de rojo, con Seúl, que se hund...",
+        "Pekín, 2 sep (EFE/EPA).- Las bolsas de Asia se tiñeron este miércoles de rojo, con Seúl, que se hundió casi un 4 %, a la cabeza de las pérdidas, en medio de la escalada de tensiones en Oriente Medio tras una nueva ronda de ataques ...",
+        "cruzados entre Estados Unidos e Irán."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Las bolsas de China se resienten por la escalada de tensiones en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "習近平氏「中東に新たな安全保障枠組みを」 エジプト大統領に提起",
+      "title_zh": "习近平向埃及总统提出中东新安全框架",
+      "url": "https://www.nikkei.com/article/DGXZQOGR0279H0S6A900C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-02T12:06:33+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "本文仅供会员阅读\n习近平向埃及总统提出中东新安全框架\n[会员专用文章]\n【北京=田岛若、开罗=古贺雄大】2日，中国国家主席习近平在正在访问的埃及开罗会见国家主席塞西。习近平表示，“我支持在中东建立新的安全框架”，并主张中东国家减少对美国的军事依赖。",
+        "这是中国官方通讯社新华社报道的。考虑到美国继续与伊朗发生军事冲突，习近平表示，“域外大国必须尊重地区国家的主权。”“中东地区在……之外”。",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "習近平氏「中東に新たな安全保障枠組みを」 エジプト大統領に提起"
+      }
+    },
+    {
+      "title_original": "بيسنت: شركات الطيران والأصول الرقمية قد تكون أهدافا لعقوبات مرتبطة بإيران",
+      "title_zh": "بيسنت: شركات الطيران والأصول الرقمية قد تكون أهدافا لعقوبات مرتبطة بإيران",
+      "url": "https://www.reuters.com/ar/business/P2VILQDVPVMNRCLX34E2QFDXNU-2026-09-02/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-02T12:03:50+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Besant：航空公司和数字资产可能成为与伊朗有关的制裁目标 路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "بيسنت: شركات الطيران والأصول الرقمية قد تكون أهدافا لعقوبات مرتبطة بإيران"
+      }
+    },
+    {
+      "title_original": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
+      "title_zh": "哈马斯卫生部称，尽管停火，今年仍有 900 多人在加沙丧生",
+      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T11:51:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "哈马斯卫生部称，尽管停火，今年仍有 900 多人在加沙丧生\n- 已发表\n根据哈马斯控制的加沙卫生部的最新数据，尽管已经停火，但今年仍有 900 多人在以色列对加沙的袭击中丧生。",
+        "该部表示，自 10 月 10 日宣布停火以来，在加沙地带被杀的巴勒斯坦人总数已超过 1,300 人，其中包括 301 名儿童。",
+        "哈马斯和以色列在接受美国总统唐纳德·特朗普的20点和平计划后同意停止战争。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says"
+      }
+    },
+    {
+      "title_original": "بوتين: روسيا \"منفتحة\" على إجراء مفاوضات لإنهاء حرب أوكرانيا",
+      "title_zh": "普京：俄罗斯对结束乌克兰战争的谈判持“开放”态度",
+      "url": "https://arabic.cnn.com/world/article/2026/09/02/putin-claims-russia-is-open-to-talks-to-end-war-in-ukraine",
+      "source": "arabic.cnn.com",
+      "source_score": 95,
+      "published_at": "2026-09-02T11:23:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "(CNN) - 俄罗斯总统弗拉基米尔·普京表示，俄罗斯“愿意举行旨在结束乌克兰战争的具体谈判”，尽管他将乌克兰领导人描述为“恐怖分子”。",
+        "据路透社报道，普京在周三凌晨发表的声明中补充道：“我们希望结束战争，在整个乌克兰和欧洲实现持久和全面的和平，我们准备与任何愿意这样做的一方参与这一谈判进程。”",
+        "去年冬天，在美国斡旋下进行的多轮谈判未能在领土问题和安全保障问题上取得突破，此前试图达成一项结束俄罗斯全面入侵乌克兰的永久协议的努力陷入僵局。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "arabic.cnn.com"
+      ],
+      "all_titles": {
+        "ar": "بوتين: روسيا \"منفتحة\" على إجراء مفاوضات لإنهاء حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "北约秘书长吕特：针对北约领土的“恶意活动”有所增加。",
+      "title_zh": "北约秘书长吕特：针对北约领土的“恶意活动”有所增加。",
+      "url": "https://wap.cj.sina.cn/7x24/5073148",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-09-02T10:58:08+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "新浪财经客户端\n你永远在大事现场\n打开APP\n北约秘书长吕特：针对北约领土的“恶意活动”有所增加。",
+        "声明：以上内容仅供资讯传播，不构成与新浪财经相关的任何投资建议。",
+        "最新快讯\n乙二醇连续主力合约日内涨3%，现报5898.00元。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "北约秘书长吕特：针对北约领土的“恶意活动”有所增加。"
+      }
+    },
+    {
+      "title_original": "La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia en territorio europeo",
+      "title_zh": "欧盟和北约辩称莱比锡无人机是俄罗斯在欧洲领土上的敌对行为",
+      "url": "https://www.abc.es/internacional/ue-considera-ataque-hibrido-leipzig-terrorismo-patrocinado-20260902125326-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-02T10:53:27+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧盟和北约辩称莱比锡无人机是俄罗斯在欧洲领土上的敌对行为\n在德国机场发生一架装载爆炸物的无人机事件后，布鲁塞尔以克里姆林宫为目标并召见俄罗斯最高外交代表\n布鲁塞尔记者\n欧盟委员会主席乌苏拉·冯德莱恩和北约秘书长马克·吕特在布鲁塞尔举行会议，对俄罗斯在德国莱比锡机场发生的无人机袭击事件做出回应。",
+        "德莱恩明确提到“在欧洲领土上使用军事装备发动袭击”，这构成了乌克兰冲突及其在欧洲影响的质的一步。",
+        "欧盟委员会主席表示，她已经就这次袭击表示支持德国政府，“如果这次袭击成功，将造成巨大损害，甚至造成人员伤亡”，对此她坚称欧盟和北约“我们不会容忍这种行为”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "La UE y la OTAN defienden que el dron de Leipzig es un acto hostil por parte de Rusia en territorio europeo"
+      }
+    },
+    {
+      "title_original": "Arctic Shield: 400 Soldiers From 11 NATO Nations to Exercise Defending Greenland",
+      "title_zh": "北极之盾：来自 11 个北约国家的 400 名士兵参加保卫格陵兰岛演习",
+      "url": "https://en.highnorthnews.com/politics/arctic-shield-400-soldiers-from-11-nato-nations-to-exercise-defending-greenland/1118486",
+      "source": "High North News",
+      "source_score": 55,
+      "published_at": "2026-09-02T10:25:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "政治\n北极之盾：来自 11 个北约国家的 400 名士兵参加保卫格陵兰岛演习\n北极之盾军事演习将于下周一在格陵兰岛南部和康克鲁斯瓦格周围开始。",
+        "丹麦主导的北极盾演习将于9月7日至18日在格陵兰岛举行。",
+        "来自11个盟国的总共约400名士兵将在陆地、海上和空中进行保卫岛屿的演习。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "High North News"
+      ],
+      "all_titles": {
+        "en": "Arctic Shield: 400 Soldiers From 11 NATO Nations to Exercise Defending Greenland"
+      }
+    },
+    {
+      "title_original": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
+      "title_zh": "美国船员在创纪录的海上航行250天后抵达泰国芭堤雅",
+      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T10:04:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国船员在创纪录的海上航行250天后抵达泰国芭堤雅\n- 已发表\n亚伯拉罕·林肯号核动力航空母舰在海上连续 250 天没有停靠港口，创下了创纪录的纪录，现已停靠在泰国，为近 5,000 名船员提供了急需的休息时间。",
+        "这艘船停靠在芭堤雅海滩度假胜地附近，该度假胜地以其喧闹的夜生活和性旅游而闻名。",
+        "对于美国来说，它也具有强烈的历史回响。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US sailors arrive in Thailand's Pattaya after record 250 days at sea"
+      }
+    },
+    {
+      "title_original": "ロシアの新型ドローンで甚大な被害、迎撃機の開発急ぐウクライナ",
+      "title_zh": "俄罗斯新型无人机造成严重破坏，乌克兰急于研发拦截机",
+      "url": "https://www.cnn.co.jp/world/35252206.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-09-02T09:51:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯新型无人机造成严重破坏，乌克兰急于研发拦截机\n(CNN) 几个月来，乌克兰因俄罗斯使用下一代喷气式无人机发动的袭击而遭受严重损害。该国目前正在努力研制能够应对这一情况的拦截弹。",
+        "ロシア軍は弾道ミサイルや新型の巡航ミサイルに加え、ジェット推進ドローンでウクライナの首都キーウやその周辺に大きな打撃を与えている。",
+        "双方が攻撃対象を大幅に拡大するなかで、ロシアのジェット推進ドローンは倉庫やガソリンスタンド、郵便施設や工場への攻撃にも使われてきた。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ロシアの新型ドローンで甚大な被害、迎撃機の開発急ぐウクライナ"
+      }
+    },
+    {
+      "title_original": "هل أصبحت مصر ورقة الصين الكبرى في الشرق الأوسط؟",
+      "title_zh": "埃及是否已成为中国在中东的一张大牌？",
+      "url": "https://www.dw.com/ar/%D9%87%D9%84-%D8%A3%D8%B5%D8%A8%D8%AD%D8%AA-%D9%85%D8%B5%D8%B1-%D9%88%D8%B1%D9%82%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D8%A8%D8%B1%D9%89-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/video-78655341",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-09-02T09:31:57+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "PoliticsEgyptHas Egypt become China's major card in the Middle East?To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 videoPoliticsEgypt 9/11/2026 September 11, 2026After ten years, Chinese President Xi Jinping returns to Cairo on the seventieth anniversary of relations between the two countries: Has Egypt become China's most important Arab partner?开罗如何从中美竞争中受益？ https://p.dw.com/p/5K1qX Advertisement",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "ar": "هل أصبحت مصر ورقة الصين الكبرى في الشرق الأوسط؟"
+      }
+    },
+    {
+      "title_original": "Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters",
+      "title_zh": "苏珊·柯林斯 (Susan Collins) 谈特朗普、关税以及缅因州龙虾参议院竞选状况",
+      "url": "https://www.politico.com/video/2026/09/02/susan-collins-on-trump-tariffs-and-her-fight-for-maine-2156176",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-02T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "苏珊·柯林斯 (Susan Collins) 谈特朗普、关税以及缅因州龙虾参议院竞选状况",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Susan Collins on Trump, tariffs and the state of her senate race over Maine lobsters"
+      }
+    },
+    {
+      "title_original": "Republicans aren’t exactly flocking to Trump’s midterm convention",
+      "title_zh": "共和党人并没有蜂拥而至特朗普的中期代表大会",
+      "url": "https://www.politico.com/news/2026/09/02/gop-midterm-convention-attendance-01061286",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-02T04:45:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "“我无法控制总统在大会上要说什么，但我可以控制我所处的位置，”一位战场成员说。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Republicans aren’t exactly flocking to Trump’s midterm convention"
+      }
+    },
+    {
+      "title_original": "Einst das Prunkstück, jetzt nur noch sechs Maschinen: Putins Flugzeugflotte schrumpft",
+      "title_zh": "曾经的展示品，现在只剩下六架飞机：普京的机队正在萎缩",
+      "url": "https://www.fr.de/politik/und-muss-putin-schuetzen-ukraine-krieg-russische-flugzeugflotte-schrumpft-94452537.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-02T08:26:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "曾经的展示品，现在只剩下六架飞机：普京的机队正在萎缩\n在谷歌上关注我们\n据报道，俄罗斯的侦察机机队正在萎缩。",
+        "只有大约六台机器仍在运行——多年来都看不到替代机器。",
+        "Moskau – Für Russland rächt sich im Ukraine-Krieg, dass Teile der Luftabwehr im Land vernachlässigt wurden."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Einst das Prunkstück, jetzt nur noch sechs Maschinen: Putins Flugzeugflotte schrumpft"
+      }
+    },
+    {
+      "title_original": "EU, NATO Leaders to Meet over Russian Drone Attack at Leipzig Airport",
+      "title_zh": "欧盟和北约领导人将就俄罗斯无人机袭击莱比锡机场举行会晤",
+      "url": "https://www.hungarianconservative.com/articles/current/eu-nato-leaders-leipzig-drone-attack-russia/",
+      "source": "Hungarian Conservative",
+      "source_score": 40,
+      "published_at": "2026-09-02T08:00:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "冯德莱恩表示，德国当局将一次失败的无人机袭击归咎于俄罗斯，欧盟委员会主席乌苏拉·冯德莱恩和北约秘书长马克·吕特将于周三在莱比锡机场举行紧急会议。",
+        "据报道，这架无人机于 8 月 4 日在莱比锡机场的一架乌克兰安东诺夫货机附近被发现，据称装有爆炸物。",
+        "一名机场工作人员设法在这架低空飞行的无人机造成损害之前将其击落。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Hungarian Conservative"
+      ],
+      "all_titles": {
+        "en": "EU, NATO Leaders to Meet over Russian Drone Attack at Leipzig Airport"
+      }
+    },
+    {
+      "title_original": "外媒：台海战争爆发谁先挨打？专家点名澎湖列岛将成首波攻击目标",
+      "title_zh": "外媒：台海战争爆发谁先挨打？专家点名澎湖列岛将成首波攻击目标",
+      "url": "https://m.sohu.com/a/1070981538_120649655?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-09-02T07:58:11+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "据《路透社》报道，位于台湾海峡战略要地的澎湖列岛，由于扼守重要航道，被军事专家视为冲突爆发后可能最先遭受攻击的地区之一。近期，台军除了举行实弹演习外，还首次向澎湖部署“海锋大队”和“雄风”系列反舰导弹，进一步强化反舰、反登陆以及无人机作战能力。",
+        "《路透社》表示，台军本月早些时候在澎湖群岛举行实弹演习。演习中，4辆坦克和装甲运兵车在火炮、迫击炮及步兵火力支援下，模拟击退试图登陆的部队。这场演习恰逢台军年度“汉光”演习期间，也是进一步强化澎湖防卫能力的重要组成部分。",
+        "澎湖列岛由90座岛屿和礁屿组成，距离台湾岛西南方向约50公里。军事专家指出，一旦冲突爆发，澎湖列岛很可能成为首波遭受攻击的目标之一。研究员苏紫云表示，如果对方军舰试图绕过澎湖，直接对台湾岛发动攻击，就可能遭到来自澎湖的导弹打击。因此，在攻击台湾岛之前，对方必须先设法处理澎湖的防卫力量。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "外媒：台海战争爆发谁先挨打？专家点名澎湖列岛将成首波攻击目标"
+      }
+    },
+    {
+      "title_original": "北约把中国推到台前，想要断了普京动核的念头，中方压根就不上套",
+      "title_zh": "北约把中国推到台前，想要断了普京动核的念头，中方压根就不上套",
+      "url": "https://m.sohu.com/a/1070980002_121752861?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-09-02T07:50:15+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "在全球力量对比发生微妙变化的当下，国际社会的每一个动态都仿佛潜藏着一场风暴。最近，芬兰总统斯图布在接受采访时提到的“核武器”话题，再次引发了关于俄罗斯与北约之间紧张关系的讨论。斯图布声称，中国外长王毅7月到访芬兰的时候，曾就俄罗斯动用核武器的问题作出回应，称“绝不会允许这种事情发生”。然而，真相远比这简单的言辞更为复杂。",
+        "自乌克兰危机爆发以来，北约和俄罗斯之间的对抗愈演愈烈。乌克兰通过北约国家提供的军事支持，频频对俄罗斯本土进行打击，尤其是在能源设施方面，导致莫斯科的怒火中烧。越来越多的国家加入到这一博弈中，北约不仅加大了对乌克兰的支援力度，更不惜一切代价地推动对俄罗斯的制裁。眼看战局逐渐朝着不可预测的方向发展，芬兰总统的这番言论无疑是试图在复杂的局势中寻求一种平衡。",
+        "斯图布的表态并非毫无根据。在近期多次的国际会议上，涉及对核武器使用的警告屡屡被提及，尤其是在俄罗斯与北约的紧张关系加剧之际。然而，芬兰的表述却容易引起误解，甚至被外交部发言人郭嘉昆反击，称中方始终站在促进和平解决问题的立场上。这种模糊的外交语言让人不禁思考，究竟是什么促使北约国家如此急于将中国塞入这场冲突的中心？"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "北约把中国推到台前，想要断了普京动核的念头，中方压根就不上套"
+      }
+    },
+    {
+      "title_original": "NATO Deputy Secretary General participates in talks with EU Defence Ministers in Ireland",
+      "title_zh": "北约副秘书长在爱尔兰参加与欧盟国防部长的会谈",
+      "url": "https://www.nato.int/en/news-and-events/articles/news/2026/09/02/nato-deputy-secretary-general-participates-in-talks-with-eu-defence-ministers-in-ireland",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-09-02T07:00:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "忘记密码了吗？",
+        "创建帐户\n                        \n                        \n    \n    \n        \n            \n                \n                    \n                        \n                            \n                                检查您的收件箱并输入验证码\n                            \n                        \n                        \n    \n                    \n                \n            \n        \n    \n \n                        \n                            我们已将验证码发送到您的电子邮件地址。",
+        "输入代码以验证您的帐户。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO Deputy Secretary General participates in talks with EU Defence Ministers in Ireland"
+      }
+    },
+    {
+      "title_original": "ウクライナ、国連にて被占領地でロシアが実施を計画する違法選挙を承認しないよう要請",
+      "title_zh": "乌克兰敦促联合国不要承认俄罗斯计划在被占领土举行的非法选举",
+      "url": "https://www.ukrinform.jp/rubric-polytics/4160000-ukuraina-guo-liannite-bei-zhan-ling-dederoshiaga-shi-shiwo-ji-huasuru-wei-fa-xuan-juwo-cheng-renshinaiyou-yao-qing.html",
+      "source": "ウクルインフォルム通信",
+      "source_score": 40,
+      "published_at": "2026-09-02T06:54:30+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰敦促联合国不要承认俄罗斯计划在被占领土举行的非法选举\n乌克兰新闻报\n    乌克兰副外长贝察1日呼吁联合国成员国、国际组织和议会机构不要承认俄罗斯计划在乌克兰临时占领领土“进行”的非法和虚假选举。",
+        "乌克兰副外长贝察在联合国大会上就俄罗斯占领的乌克兰领土局势发表上述言论。这是乌克兰新闻社驻纽约记者报道的。",
+        "贝特萨说：“乌克兰呼吁所有成员国、国际组织和议会机构不承认非法和虚构的‘选举’过程、其‘结果’或在乌克兰暂时被占领土上举行的‘投票’所产生的任何授权。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "ウクルインフォルム通信"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、国連にて被占領地でロシアが実施を計画する違法選挙を承認しないよう要請"
+      }
+    },
+    {
+      "title_original": "Irán vuelve a atacar objetivos estadounidenses en Oriente Medio",
+      "title_zh": "Irán vuelve a atacar objetivos estadounidenses en Oriente Medio",
+      "url": "https://www.abc.es/internacional/iran-vuelve-atacar-objetivos-estadounidenses-oriente-medio-20260902083922-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-02T06:39:26+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Iran attacks US targets in the Middle East again\n**限制：无法访问伊朗境外的以色列媒体/波斯语电视台/严格禁止访问......",
+        "**限制：禁止访问伊朗境外的以色列媒体/波斯语电视台/严格禁止访问 BBC 波斯语/VOA 波斯语/Manoto-1 TV/伊朗国际** 伊朗，9 月 2 日（埃菲社）。- 伊朗在本周二晚至周三之间再次袭击了美国在中东的基地......",
+        "以报复华盛顿此前对波斯国家发动的爆炸事件。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Irán vuelve a atacar objetivos estadounidenses en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+      "title_zh": "专家发现，每年世界上近一半的农民因农药中毒",
+      "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-02T06:00:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "研究显示，农药中毒每年导致 11,000 人死亡，其中印度占死亡人数的近 60%。一项研究发现，全球每年有近一半的农民因农药中毒。",
+        "这项由农药行动网络委托进行的研究利用 2006 年至 2023 年的公开数据发现，每年估计有 4.02 亿至 4.33 亿农民和农场工人意外急性农药中毒病例。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Almost half of world’s farmers poisoned by pesticides every year, experts find"
+      }
+    },
+    {
+      "title_original": "South Korea jails care home head for sexually assaulting disabled residents",
+      "title_zh": "韩国护理院院长因性侵犯残疾居民而入狱",
+      "url": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T05:56:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "韩国护理院院长因性侵犯残疾居民而入狱\n- 已发表\n韩国一家法院因对多名居民进行性侵犯而判处残疾人护理院前院长入狱，这起案件震惊了全国。",
+        "这名金姓男子因在首尔以西仁川市的 Saekdongwon 设施中虐待三名居民而被判处 15 年徒刑。",
+        "该裁决可上诉。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "South Korea jails care home head for sexually assaulting disabled residents"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月2日の動き）",
+      "title_zh": "【不定时更新】俄罗斯军事入侵乌克兰（9月2日动态）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46967",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-02T05:50:56+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "【不时更新】俄罗斯军事入侵乌克兰（9月2日动静）NHK新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（9月2日の動き）"
+      }
+    },
+    {
+      "title_original": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
+      "title_zh": "BBC 前往被占领的黎巴嫩境内，官员称以色列正在扩大阵地",
+      "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T05:03:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "BBC 前往被占领的黎巴嫩境内，官员称以色列正在扩大阵地\n- 已发表\n沿着黎巴嫩南部靠近以色列边境的地中海高速公路行驶，风景优美，但如今却很荒凉。",
+        "农作物被遗弃，被以色列空袭摧毁的建筑物不计其数，成了废墟。",
+        "纳古拉镇附近有一个黎巴嫩军事检查站，其颜色与国旗的白红相间，是该国存在的最后一个可见标志。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "BBC travels inside occupied Lebanon as officials say Israel expanding positions"
+      }
+    },
+    {
+      "title_original": "ウクライナ議会、小包課税法案を否決 ＩＭＦ・ＥＵ支援に影響も",
+      "title_zh": "乌克兰议会否决包裹税法案，影响国际货币基金组织和欧盟援助",
+      "url": "https://jp.reuters.com/world/ukraine/UUVDAR6ZVVIDDM4IMJXE7NZDLY-2026-09-02/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-02T04:57:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "乌克兰议会否决包裹税法案，影响国际货币基金组织和欧盟援助 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ議会、小包課税法案を否決 ＩＭＦ・ＥＵ支援に影響も"
+      }
+    },
+    {
+      "title_original": "地下室で始まるウクライナの新学期、戦争とコロナしか知らない子どもたち(1/2)",
+      "title_zh": "乌克兰新学年在地下室开始，孩子们只知道战争和冠状病毒 (1/2)",
+      "url": "https://www.cnn.co.jp/world/35252184.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-09-02T04:42:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰新学年从地下室开始，孩子们只知道战争和冠状病毒\n基辅（CNN）乌克兰全球学校位于乌克兰首都基辅。 9月1日，新学期来学校的孩子们直奔地下室。",
+        "由于过去几天俄罗斯的袭击几乎持续不断，学校决定不再每次空袭警报响起时就将孩子们疏散到地下避难所。我决定让他在地下室上课。",
+        "为做好新学年的准备，学校通知家长如下。 “当空袭警报响起时，不再需要急于疏散、中断课程或等待数小时才能恢复学习。孩子们已经在安全的地方。学校可以继续上课。”\n政府正试图缓解学生及其家长面临的严重情况，称搬到地下室是“全新的水平”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "地下室で始まるウクライナの新学期、戦争とコロナしか知らない子どもたち(1/2)"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient: les États-Unis renforcent leurs frappes dans le détroit d'Ormuz, notamment contre deux pétroliers",
+      "title_zh": "Guerre au Moyen-Orient: les États-Unis renforcent leurs frappes dans le détroit d'Ormuz, notamment contre deux pétroliers",
+      "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-guerre-au-moyen-orient-les-etats-unis-renforcent-leurs-frappes-dans-le-detroit-d-ormuz-notamment-contre-deux-petroliers_VN-202609020066.html",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-09-02T04:04:54+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争：美国加强在霍尔木兹海峡的打击，特别是针对两艘油轮\n美国在几天内第二次对伊朗发动袭击，德黑兰表示，尽管唐纳德·特朗普警告不要采取任何报复行动，但它正在做出“果断”反应。",
+        "|持续时间：1:29",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: les États-Unis renforcent leurs frappes dans le détroit d'Ormuz, notamment contre deux pétroliers"
+      }
+    },
+    {
+      "title_original": "توقعات الفائدة وتطورات الشرق الأوسط تحاصر أسواق العملات.. الدولار يتماسك",
+      "title_zh": "توقعات الفائدة وتطورات الشرق الأوسط تحاصر أسواق العملات.. الدولار يتماسك",
+      "url": "https://www.alkhaleej.ae/2026-09-02/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AF%D8%A9-%D9%88%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%AA%D8%AD%D8%A7%D8%B5%D8%B1-%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%8A%D8%AA%D9%85%D8%A7%D8%B3%D9%83",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-09-02T03:40:37+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "تمسك الدولار بمستوياته المرتفعة اليوم الأربعاء، إذ أدى تجدد الأعمال القتالية في الشرق الأوسط إلى ارتفاع أسعار النفط وإحياء المخاوف من التضخم.",
+        "وتعزز الإقبال على العملة الأمريكية باعتبارها ملاذا آمنا بفعل ارتفاع عوائد سندات الخزانة وتزايد التوقعات برفع مجلس الاحتياطي الفيدرالي الأمريكي أسعار الفائدة، رغم صدور بيانات اقتصادية حديثة دون التوقعات.",
+        "وارتفعت أسعار النفط بنحو 1% فصعدت العقود الآجلة لخام برنت إلى 95.52 دولار للبرميل، وزاد خام غرب تكساس الوسيط الأمريكي إلى 91.02 دولار."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "توقعات الفائدة وتطورات الشرق الأوسط تحاصر أسواق العملات.. الدولار يتماسك"
+      }
+    },
+    {
+      "title_original": "後場に注目すべき3つのポイント～金利高や地政学リスク高まりで全面安",
+      "title_zh": "後場に注目すべき3つのポイント～金利高や地政学リスク高まりで全面安",
+      "url": "https://kabutan.jp/news/marketnews/?b=n202609020529",
+      "source": "株探",
+      "source_score": 40,
+      "published_at": "2026-09-02T03:36:41+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "後場に注目すべき3つのポイント～金利高や地政学リスク高まりで全面安    株探",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "株探"
+      ],
+      "all_titles": {
+        "ja": "後場に注目すべき3つのポイント～金利高や地政学リスク高まりで全面安"
+      }
+    },
     {
       "title_original": "米当局者、ベネズエラ原油合意を擁護 「地政学的な好機」と訴え",
       "title_zh": "美国官员捍卫委内瑞拉石油协议，称其为“地缘政治机会”",
