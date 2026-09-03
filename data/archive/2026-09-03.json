@@ -1,8 +1,883 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T01:07:12.020870+00:00",
-  "count": 35,
+  "generated_at": "2026-09-03T15:04:40.719200+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title_original": "Übernimmt sich Putin? „Können davon ausgehen, dass das in Russland zum Systemwechsel führen wird“",
+      "title_zh": "普京是否太过分了？ “我们可以假设这将导致俄罗斯的制度变革”",
+      "url": "https://www.welt.de/politik/ausland/article6a917c4b2ed18bbd042e7341/uebernimmt-sich-putin-koennen-davon-ausgehen-dass-das-in-russland-zum-systemwechsel-fuehren-wird.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-09-03T14:42:06+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京是否太过分了？",
+        "“我们可以假设这将导致俄罗斯的制度变革”\n德国历史学家乌尔认为俄罗斯不太可能在波罗的海地区发起挑衅。",
+        "俄罗斯太弱了，无法做到这一点。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Übernimmt sich Putin? „Können davon ausgehen, dass das in Russland zum Systemwechsel führen wird“"
+      }
+    },
+    {
+      "title_original": "Yen soars as Bank of Japan tipped to raise interest rates",
+      "title_zh": "日本央行加息 日元飙升",
+      "url": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-03T14:33:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日元兑美元汇率跃升至一个月来最高水平，而全球市场仍紧张不安",
+        "周四日元兑美元汇率最新上涨至一个​​月来最高水平，至 155.57，前一天上涨 0.9%。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Yen soars as Bank of Japan tipped to raise interest rates"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Die gefährlichen Folgen der russischen Raketen-Dominanz",
+      "title_zh": "乌克兰战争：俄罗斯导弹主导地位的危险后果",
+      "url": "https://www.welt.de/politik/ausland/plus6a9933557cdc6e46442b59e5/ukraine-krieg-die-gefaehrlichen-folgen-der-russischen-raketen-dominanz.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-09-03T14:30:47+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "主导航：使用 Tab 键浏览菜单项。",
+        "使用空格键打开子菜单。",
+        "使用退出键关闭子菜单。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Die gefährlichen Folgen der russischen Raketen-Dominanz"
+      }
+    },
+    {
+      "title_original": "Americast - Has Pete Hegseth lost control of the Pentagon ?",
+      "title_zh": "美国广播公司 - 皮特·赫格斯失去了对五角大楼的控制吗？",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p7lymd",
+      "source": "bbc.co.uk",
+      "source_score": 95,
+      "published_at": "2026-09-03T14:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "剧集详情\n可用一年多\n美军为何失去高级领导人？",
+        "在五角大楼内部一系列备受瞩目的离职事件中，美国最高文职官员丹·德里斯科尔 (Dan Driscoll) 辞去了陆军部长职务，他是 18 个月前由唐纳德·特朗普 (Donald Trump) 任命的，旨在帮助结束乌克兰战争和实现美军现代化。",
+        "在这一集中，安东尼和苏米讨论了辞职的意义及其背后的真正原因。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "bbc.co.uk"
+      ],
+      "all_titles": {
+        "en": "Americast - Has Pete Hegseth lost control of the Pentagon ?"
+      }
+    },
+    {
+      "title_original": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
+      "title_zh": "审判听到安东尼·约书亚的司机在致命事故前试图超车",
+      "url": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-03T13:54:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "审判听到安东尼·约书亚的司机在致命事故前试图超车\n- 已发表\n尼日利亚一家法院获悉，载有安东尼·约书亚的一辆汽车的司机在试图超越另一辆车时发生车祸，导致拳击手的两名朋友死亡。",
+        "46 岁的阿德尼伊·莫博拉吉·卡约德 (Adeniyi Mobolaji Kayode) 面临危险驾驶致人死亡和无有效国家驾照驾驶等指控。",
+        "他否认这些指控。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears"
+      }
+    },
+    {
+      "title_original": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+      "title_zh": "女权活动家兼记者格洛丽亚·斯泰纳姆去世，享年 92 岁",
+      "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-03T13:52:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "女权活动家兼记者格洛丽亚·斯泰纳姆去世，享年 92 岁\n- 已发表\n美国妇女解放运动领导人格洛丽亚·斯泰纳姆 (Gloria Steinem) 去世，享年 92 岁。",
+        "她的基金会在 Instagram 上发帖称，她周三在纽约市的家中“平静地去世”，“周围有许多爱她的人”。",
+        "斯坦纳姆是一名作家和杂志编辑，50 多年前与他人共同创立了妇女行动联盟，这是一个致力于对抗性别歧视的组织。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Feminist activist and journalist Gloria Steinem dies, aged 92"
+      }
+    },
+    {
+      "title_original": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
+      "title_zh": "西班牙首相表示没有“任何”证据表明摩洛哥是休达边境违规事件的幕后黑手",
+      "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-03T12:52:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "在警方报告称边境部队帮助 70,000 名跨境欧洲人活下来后，佩德罗·桑切斯继续为拉巴特辩护。西班牙首相佩德罗·桑切斯向议会表示，西班牙没有发现“任何”证据表明摩洛哥计划或协助大规模越境进入其北非领土休达。",
+        "周四发表讲话之前，警方发布了一份受法官委托并被媒体广泛引用的报告，称摩洛哥边防部队在 7 月下旬积极协助约 7 万人越境。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach"
+      }
+    },
+    {
+      "title_original": "Vater im Ukraine-Krieg verschollen: Kamerad begleitet stattdessen Kinder zum Schulanfang",
+      "title_zh": "父亲在乌克兰战争中失踪：同志陪孩子上学",
+      "url": "https://www.fr.de/politik/vater-im-ukraine-krieg-verschollen-kamerad-begleitet-kinder-zum-schulanfang-zr-94473557.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-03T12:37:23+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "父亲在乌克兰战争中失踪：同志陪孩子上学\n在谷歌上关注我们\n金和萨沙的父亲在战争中失踪已有两年多了。",
+        "开学第一天，一名士兵和所在旅的一名退伍军人陪伴孩子们上学。",
+        "对于她的母亲来说，当她特别清楚家里缺了谁的时候，这是一点帮助。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Vater im Ukraine-Krieg verschollen: Kamerad begleitet stattdessen Kinder zum Schulanfang"
+      }
+    },
+    {
+      "title_original": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
+      "title_zh": "陷入困境的西班牙首相坚称休达危机发生前没有事先发出警告",
+      "url": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-03T12:18:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "陷入困境的西班牙首相坚称休达危机发生前没有发出任何事先警告\n- 已发表\n西班牙首相佩德罗·桑切斯表示，由于他处理危机的压力越来越大，没有人预见到会有 72,000 名移民涌入休达飞地。",
+        "桑切斯周四对西班牙议会表示：“认为政府什么都不知道、也没有采取任何行动的想法是荒谬的。”几个小时前，全国各地数万人参加了反对党支持的抗议活动。",
+        "桑切斯还坚称，没有证据表明摩洛哥是大规模越境事件的幕后黑手，两国之间一直存在“密切协调”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis"
+      }
+    },
+    {
+      "title_original": "Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?",
+      "title_zh": "末日准备还是纯粹的实用主义：彼得·泰尔移居阿根廷的背后是什么？",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-03T12:00:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "搬迁恰逢拟议的法律，反对者称这些法律将巩固美国科技亿万富翁在该国的权力。本周，在一次国会会议对这位亿万富翁在该国的存在提出质疑后，数十名抗议者聚集在彼得·泰尔位于布宜诺斯艾利斯的官邸。",
+        "他们戴着白色面具，在这栋价值 1200 万美元（合 890 万英镑）的住宅的锻铁大门前举着写有“彼得小偷”和“拒绝彼得·蒂尔法”的牌子。蒂尔于 4 月份举家搬到阿根廷，买下了这栋住宅。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?"
+      }
+    },
+    {
+      "title_original": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
+      "title_zh": "随着“超级”厄尔尼诺现象加剧，有毒野火烟雾在东南亚蔓延",
+      "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-03T11:35:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "随着“超级”厄尔尼诺现象加剧，有毒野火烟雾在东南亚蔓延\n- 已发表\n随着长达数周的野火继续燃烧，有毒烟雾覆盖了印度尼西亚部分地区，并蔓延到马来西亚、新加坡和菲律宾。",
+        "东南亚大片地区有数百万人暴露在雾霾之中，在某些地区，雾霾造成的“严重不健康”污染程度超过世界卫生组织建议水平的 15 倍。",
+        "自 7 月中旬以来，苏门答腊岛和印度尼西亚婆罗洲各地一直在发生许多持续的火灾，所谓的超级厄尔尼诺现象加剧了干旱状况。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies"
+      }
+    },
+    {
+      "title_original": "ロシアとウクライナ、当事者間の合意がまず必要－プーチン大統領",
+      "title_zh": "俄罗斯和乌克兰，首先需要双方达成协议——普京总统",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-09-03/TKS8ZYKGZAJ200",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-03T11:31:27+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯和乌克兰首先需要双方达成协议 - 普京总统​ Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "ja": "ロシアとウクライナ、当事者間の合意がまず必要－プーチン大統領"
+      }
+    },
+    {
+      "title_original": "Kenyan president orders crackdown on foreigners operating small businesses",
+      "title_zh": "肯尼亚总统下令打击经营小企业的外国人",
+      "url": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-03T10:59:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "肯尼亚总统下令打击经营小企业的外国人\n- 已发表\n肯尼亚总统威廉·鲁托下令打击经营小规模企业的外国人，称当地商人和小贩需要受到保护。",
+        "他的宣布正值有关越来越多的非洲移民参与肯尼亚庞大的非正规经济的争论日益激烈之际。",
+        "他说：“从下周开始，所有从事这些小生意的[外国]贸易商都应该关闭它们。”他还承诺快速推进拟议的立法，以阻止外国人进入某些贸易领域。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Kenyan president orders crackdown on foreigners operating small businesses"
+      }
+    },
+    {
+      "title_original": "More than 80 migrants feared dead after boat rescued off Canary Islands",
+      "title_zh": "加那利群岛附近船只获救后，80多名移民恐已死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-03T10:37:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "加那利群岛附近船只获救后，80多名移民恐已死亡\n- 已发表\n一艘在大西洋漂流了 27 天的船可能已造成 80 多人死亡，其中包括一名婴儿。",
+        "周三，西班牙海上救援队在大加那利岛沿海小镇阿吉内金西南约 65 海里处找到了这艘船，发现了 44 名幸存者，船上还有 5 具尸体。",
+        "据信，这艘船于 8 月初从西非的冈比亚出发，船上有 127 名乘客。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "More than 80 migrants feared dead after boat rescued off Canary Islands"
+      }
+    },
+    {
+      "title_original": "プーチン氏「ウクライナが交渉複雑に」 侵略長期化、米仲介期待せず",
+      "title_zh": "普京：“乌克兰谈判很复杂”，入侵旷日持久，不指望美国调解",
+      "url": "https://www.nikkei.com/article/DGXZQOGR02BO40S6A900C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-03T10:36:52+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "本文仅供会员阅读\n普京：“乌克兰谈判很复杂”，入侵旷日持久，不指望美国调解\n[会员专用文章]\n[符拉迪沃斯托克=小川知代]3日，俄罗斯总统普京批评乌克兰总统泽连斯基“使两国和平谈判复杂化”，指的是其有效关闭俄罗斯领空的声明。长期入侵的责任被单方面转移到乌克兰身上。",
+        "他在远东符拉迪沃斯托克举行的东方经济论坛全体会议上回答了主持人的提问。当被问及美国总统唐纳德·特朗普是否远离和平谈判时，他说：“俄罗斯和乌克兰......",
+        "2022年2月，俄罗斯入侵乌克兰。我们整理了有关世界各地战况和动向的最新新闻和评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏「ウクライナが交渉複雑に」 侵略長期化、米仲介期待せず"
+      }
+    },
+    {
+      "title_original": "الرئيس الإماراتي وترامب يبحثان هاتفيا التطورات في الشرق الأوسط",
+      "title_zh": "阿联酋总统和特朗普通过电话讨论中东局势发展",
+      "url": "https://www.france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9/20260903-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D9%88%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D9%87%D8%A7%D8%AA%D9%81%D9%8A%D8%A7-%D8%A7%D9%84%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-03T10:01:13+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "阿联酋总统和特朗普通过电话讨论中东局势发展 法国 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "الرئيس الإماراتي وترامب يبحثان هاتفيا التطورات في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "The US and Venezuela: a century-old relationship drenched in oil",
+      "title_zh": "美国和委内瑞拉：百年关系因石油而深厚",
+      "url": "https://www.theguardian.com/world/2026/sep/03/us-venezuela-visual-look-century-old-relationship-drenched-in-oil",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-03T10:00:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "直观地看到华盛顿与加拉加斯的关系如何从亲切变为“掠夺性” 特朗普盟友在“枪口外交”批评中捍卫委内瑞拉石油协议 美国国务院备忘录写于上世纪中叶，以一种简短且非外交诚实的语气传达了其信息：将华盛顿与加拉加斯联系在一起的粘合剂是而且永远可能是石油。",
+        "1950 年的文件写道：“美国对委内瑞拉的所有政策都或多或少地受到确保美国充足石油供应这一目标的影响。”",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "The US and Venezuela: a century-old relationship drenched in oil"
+      }
+    },
+    {
+      "title_original": "中東進出「九州企業ごく僅か」 九経調など講演会、九電の事例共有",
+      "title_zh": "“极少数九州企业”进军中东 九州经济调查等讲座，分享九州电力的例子",
+      "url": "https://www.nikkei.com/article/DGXZQOJC035SG0T00C26A9000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-03T09:19:56+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "本文仅供会员阅读\n“极少数九州企业”进军中东 九州经济调查等讲座，分享九州电力的例子\n[会员专用文章]\n3日，九州经济研究会（福冈市）等团体在福冈市举办了以九州企业与中东商业为主题的亚洲经济讲座会。九州经济研究所会长名和田真澄在开场致辞中指出，“九州企业在中东几乎没有存在”。他增进了对中东经济现状和商机的了解。",
+        "九州企业和大学代表等约50人参加。日本贸易振兴机构（JETRO）发展中经济研究所的代表以及九州电力在中东开展业务的子公司的代表参加了此次讲座。",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "中東進出「九州企業ごく僅か」 九経調など講演会、九電の事例共有"
+      }
+    },
+    {
+      "title_original": "Stephen A. Smith has some words for Democrats as he makes his 2028 plans clear",
+      "title_zh": "史蒂芬·A·史密斯 (Stephen A. Smith) 明确了 2028 年计划，对民主党人说了几句话",
+      "url": "https://www.politico.com/news/2026/09/03/stephen-smith-2028-plans-01062872",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-03T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "史密斯在接受《政治》杂志的达莎·伯恩斯采访时说：“当我宣布参选的那一刻，我的直播就会被取消。”",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Stephen A. Smith has some words for Democrats as he makes his 2028 plans clear"
+      }
+    },
+    {
+      "title_original": "إيران تشن هجمات على الكويت، والصين تدعو إلى \"هيكل أمني جديد\" للشرق الأوسط",
+      "title_zh": "伊朗袭击科威特，中国呼吁中东建立“新安全架构”",
+      "url": "https://www.bbc.com/arabic/articles/cvgy1gnpky3o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-03T08:57:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗誓言为婚礼上遇难者报仇，华盛顿再次证实消除德黑兰核武器成功\n周四，伊朗革命卫队指挥官艾哈迈德·瓦希迪发誓要为在该国南部一场婚礼上丧生的四人报仇，德黑兰认为美国对此次袭击负责。",
+        "瓦希迪在国家电视台播出的一份声明中说，“这些烈士的纯正血统......",
+        "“这不会是徒劳的，我们一定会报仇的。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "إيران تشن هجمات على الكويت، والصين تدعو إلى \"هيكل أمني جديد\" للشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "La OTAN financia la tecnología de la gallega Vig-Sec Drone para gestionar el espacio aéreo de media y baja cota",
+      "title_zh": "北约资助加利西亚 Vig-Sec 无人机技术管理中低空空域",
+      "url": "https://www.infodefensa.com/texto-diario/mostrar/6001921/otan-financiara-tecnologia-gallega-vig-sec-drone-gestionar-espacio-aereo-media-baja-cota",
+      "source": "Infodefensa",
+      "source_score": 40,
+      "published_at": "2026-09-03T08:19:45+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约已选择由加利西亚公司 Vig-Sec Drone 开发的 Suite Acre 技术平台参与其创新加速器 Diana（北大西洋国防创新加速器）的 Mission Track 阶段。",
+        "该倡议仅汇集了 15 个被认为对盟军国防有特殊意义并符合其成员国作战需求的项目。",
+        "此阶段入选的公司将获得 300,000 欧元的不可退还融资，用于开发并在运营实践中展示其解决方案。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Infodefensa"
+      ],
+      "all_titles": {
+        "es": "La OTAN financia la tecnología de la gallega Vig-Sec Drone para gestionar el espacio aéreo de media y baja cota"
+      }
+    },
+    {
+      "title_original": "محمد بن زايد وترمب يبحثان تطورات الشرق الأوسط",
+      "title_zh": "穆罕默德·本·扎耶德和特朗普讨论中东事态发展",
+      "url": "https://www.alghad.tv/index.php/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%BA%D8%AF/news/%D9%85%D8%AD%D9%85%D8%AF-%D8%A8%D9%86-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%88%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%A8%D8%AD%D8%AB%D8%A7%D9%86-%D8%AA%D8%B7%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "alghad.tv",
+      "source_score": 40,
+      "published_at": "2026-09-03T08:07:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "穆罕默德·本·扎耶德和特朗普讨论中东事态发展 alghad.tv",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "alghad.tv"
+      ],
+      "all_titles": {
+        "ar": "محمد بن زايد وترمب يبحثان تطورات الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Von der Leyen se compromete a redoblar la presión a Rusia",
+      "title_zh": "冯德莱恩承诺加大对俄罗斯施压",
+      "url": "https://www.atlantico.net/mundo/von-der-leyen-compromete-redoblar_1_20260903-4401148.html",
+      "source": "atlantico.net",
+      "source_score": 40,
+      "published_at": "2026-09-03T07:57:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "冯德莱恩承诺加大对俄罗斯施压\n欧洲寻求加大对莫斯科的制裁，但对冻结资产仍存在分歧\n欧盟委员会主席乌尔苏拉·冯德莱恩昨天表示，德国将莱比锡无人机袭击未遂事件归咎于俄罗斯，“代表着欧盟领土上的新一轮升级”。",
+        "总统指出，这一事件符合莫斯科卷入的“越来越危险的事件的更广泛趋势”，这让欧洲人别无选择，只能接受“这是新常态的严酷现实”。",
+        "“恐吓是行不通的，”他说。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "atlantico.net"
+      ],
+      "all_titles": {
+        "es": "Von der Leyen se compromete a redoblar la presión a Rusia"
+      }
+    },
+    {
+      "title_original": "Carmignac estrena oficina en Dubái dentro de su plan de expansión global",
+      "title_zh": "卡米尼亚克在迪拜开设办事处，作为其全球扩张计划的一部分",
+      "url": "https://www.democrata.es/economia/carmignac-estrena-oficina-en-dubai-dentro-de-su-plan-de-expansion-global/",
+      "source": "Demócrata",
+      "source_score": 40,
+      "published_at": "2026-09-03T07:52:51+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Carmignac 在迪拜开设办事处，作为其全球扩张计划的一部分",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Demócrata"
+      ],
+      "all_titles": {
+        "es": "Carmignac estrena oficina en Dubái dentro de su plan de expansión global"
+      }
+    },
+    {
+      "title_original": "ウクライナが恐れる北朝鮮の対露輸出ミサイル「KN－30」（辺真一） - エキスパート",
+      "title_zh": "乌克兰担心朝鲜向俄罗斯出口导弹“KN-30”（Shinichi Bebe）-专家",
+      "url": "https://news.yahoo.co.jp/expert/articles/011af136357dc594606f211660c2a5b35417fd38",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-03T07:24:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰担心朝鲜向俄罗斯出口KN-30导弹\n乌克兰国防情报局最近在社交媒体上宣布，“俄罗斯已请求一种新型短程弹道导弹KN-30，估计其威力大约是其迄今为止收到的KN-23和KN-24的三倍。”",
+        "朝鲜没有任何名为“KN-30”的导弹。“KN”（指朝鲜）是美国给朝鲜短程导弹的代号。",
+        "与俄罗斯“伊斯坎德尔”类似的近程战术导弹“火星加农-11-Ka”被指定为“KN-23”，美国ATACMS型近程战术导弹“火星加农-11-Na”被指定为“KN-24”，以及可发射12发的超大型（600毫米）火箭炮（多管火箭发射器）随后被指定为“KN-25”。另一方面，“KN-30”很可能是指朝鲜于 2021 年 3 月首次试射的“Hwasong Cannon-11T”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナが恐れる北朝鮮の対露輸出ミサイル「KN－30」（辺真一） - エキスパート"
+      }
+    },
+    {
+      "title_original": "ロシア軍の攻撃でウクライナ南部オデーサで被害者１７名",
+      "title_zh": "俄罗斯在乌克兰南部敖德萨发动袭击，造成17人死亡",
+      "url": "https://www.ukrinform.jp/rubric-ato/4160391-roshia-junno-gong-jideukuraina-nan-buodesade-bei-hai-zheming.html",
+      "source": "ukrinform.jp",
+      "source_score": 40,
+      "published_at": "2026-09-03T07:12:49+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯军事袭击乌克兰南部敖德萨 造成17人死亡 乌克兰通讯社 2026年9月3日10时12分 乌克兰通讯社 俄罗斯军方继续全面入侵乌克兰，3日凌晨对乌克兰南部敖德萨发动空袭，造成17人受伤，其中包括3名儿童。",
+        "这是乌克兰国家警察公共关系办公室报道的。",
+        "敌人的攻击方式落在了一栋21层的公寓楼上。大楼10至17层的20栋房屋和车辆受损。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "ukrinform.jp"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍の攻撃でウクライナ南部オデーサで被害者１７名"
+      }
+    },
+    {
+      "title_original": "『地政学リスク・自然災害時代を生き抜く 自律型AIによる最先端サプライヤーマネジメント』ウェビナー登壇のお知らせ",
+      "title_zh": "关于“利用自主人工智能进行尖端供应商管理以度过地缘政治风险和自然灾害时代”的网络研讨会演示的公告",
+      "url": "https://prtimes.jp/main/html/rd/p/000000061.000108319.html",
+      "source": "PR TIMES",
+      "source_score": 40,
+      "published_at": "2026-09-03T07:00:01+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "关于“利用自主人工智能进行尖端供应商管理以度过地缘政治风险和自然灾害时代”的网络研讨会演示的公告\n为物流仓库和工厂提供自动化解决方案的 ROMS Co., Ltd.（总部：东京品川区；总裁兼首席执行官：前野洋介）将于 2026 年 9 月 16 日星期三举办在线网络研讨会，题为“度过地缘政治风险和自然灾害时代：使用自主人工智能的尖端供应商管理 - 如何应对供应链中断风险”？我想通知您，我已决定在 ~'' 登台。",
+        "背景\n随着全球化的推进，从上游到下游的供应链变得越来越长、越来越复杂，制造和物流场所迫切需要为自然灾害加剧和地缘政治不确定性扩大带来的“中断风险”做好准备。",
+        "然而，现实情况是，供应商的多层次性使其难以掌握影响程度并迅速采取初步应对措施。此外，许多企业在使用Excel等手动评估和管理信息时，还面临着无法立即应对多样化风险的问题，因为信息往往变得个人化和过时。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "PR TIMES"
+      ],
+      "all_titles": {
+        "ja": "『地政学リスク・自然災害時代を生き抜く 自律型AIによる最先端サプライヤーマネジメント』ウェビナー登壇のお知らせ"
+      }
+    },
+    {
+      "title_original": "航空各社はロシア領空を避けるべきとゼレンスキー氏　ウクライナがドローン作戦を強化",
+      "title_zh": "泽连斯基表示航空公司应避开俄罗斯领空；乌克兰加强无人机行动",
+      "url": "https://www.bbc.com/japanese/articles/cy4zlx0jkv4o",
+      "source": "bbc.com",
+      "source_score": 95,
+      "published_at": "2026-09-03T06:44:18+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "泽连斯基表示航空公司应避开俄罗斯领空；乌克兰加强无人机行动\n记者哈里·塞克利希\n乌克兰总统泽连斯基1日晚对航空公司表示，俄罗斯领空将“有效关闭”。",
+        "这是对乌克兰最近加强对俄罗斯的无人机袭击的回应。",
+        "泽连斯基总统说：“我想警告所有使用俄罗斯领空的航空公司、所有保险公司以及所有仍在使用俄罗斯主要机场的公司：俄罗斯的天空正变得非常危险。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "bbc.com"
+      ],
+      "all_titles": {
+        "ja": "航空各社はロシア領空を避けるべきとゼレンスキー氏　ウクライナがドローン作戦を強化"
+      }
+    },
+    {
+      "title_original": "Yotova y un alto representante de la OTAN debaten los retos ante la seguridad",
+      "title_zh": "约托娃和北约高级代表讨论安全挑战",
+      "url": "https://bnrnews.bg/es/post/523557/yotova-y-un-alto-representante-de-la-otan-debaten-los-retos-ante-la-seguridad",
+      "source": "bnrnews.bg",
+      "source_score": 40,
+      "published_at": "2026-09-03T06:13:42+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "新闻动态\n约托娃和北约高级代表讨论安全挑战\n2026 年 9 月 3 日 星期四 08:49\n2026 年 9 月 3 日，星期四 08:49\n照片 总统.bg\n字母尺寸\n乌克兰和中东冲突背景下北约集体安全面临的挑战。",
+        "这是伊利安娜·约托娃总统与情报与安全联盟副秘书长斯科特·布雷会面的主要议题。",
+        "国家元首强调需要保证黑海地区的安全，这对保加利亚具有极其重要的经济意义。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "bnrnews.bg"
+      ],
+      "all_titles": {
+        "es": "Yotova y un alto representante de la OTAN debaten los retos ante la seguridad"
+      }
+    },
+    {
+      "title_original": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "title_zh": "联合国警告各国做好应对厄尔尼诺现象的准备",
+      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-03T06:01:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "联合国警告各国做好应对厄尔尼诺现象的准备\n- 已发表\n联合国秘书长安东尼奥·古特雷斯警告说，随着厄尔尼诺现象的影响开始在全球范围内显现，世界已进入“极端天气的危险区”。",
+        "世界气象组织（WMO）发布了有关自然天气现象的最新数据，显示该现象可能是70多年来最强烈的一次，并且至少会持续到2027年2月。",
+        "厄尔尼诺现象改变了世界各地的天气模式，使一些地区陷入干旱，而另一些地区则遭受更强的台风和洪水。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "UN warns of 'supersized' El Niño as countries prepare for impact"
+      }
+    },
+    {
+      "title_original": "„Russland dringt immer ungenierter in den Nato-Raum hinein“",
+      "title_zh": "“俄罗斯正在越来越毫不掩饰地渗透北约空间”",
+      "url": "https://www.welt.de/politik/deutschland/video6a986444c53a6557d48dd9f4/hybride-bedrohungen-russland-dringt-immer-ungenierter-in-den-nato-raum-hinein.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-09-03T05:27:40+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "项目类型：视频混合威胁\n“俄罗斯正在越来越毫不掩饰地渗透北约空间”\n“探索阶段结束后，行动阶段将开始，”安全专家 Ralph D.",
+        "蒂勒谈到最近发生的变电站袭击事件时表示：“最重要的措施是让我们自己抵御危机。”\n© 阿克塞尔施普林格德国有限公司。",
+        "版权所有。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Russland dringt immer ungenierter in den Nato-Raum hinein“"
+      }
+    },
+    {
+      "title_original": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "title_zh": "由于打击行动限制了小船供应，海峡走私团伙诉诸“巨型橡皮艇”",
+      "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-03T05:00:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "由于打击行动限制了小船供应，海峡走私团伙诉诸“巨型橡皮艇”\n- 已发表\n英国广播公司(BBC)的一项调查发现，非法抵达英国的小船数量减少，迫使走私团伙采取新策略。",
+        "据称，更多的“巨型橡皮艇”正在准备中，最近几周抵达英国海岸的那种类型。",
+        "一艘15米长的小船载着创纪录的230名移民前往英国的画面引起了报纸和政界人士的谴责。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply"
+      }
+    },
+    {
+      "title_original": "Stephen A. Smith on Trump, Democrats and the politics of chaos",
+      "title_zh": "史蒂芬·史密斯谈特朗普、民主党和混乱的政治",
+      "url": "https://www.politico.com/video/2026/09/02/stephen-a-smith-on-trump-democrats-and-the-politics-of-chaos-2156846",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-02T23:59:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "史密斯谈特朗普、民主党和混乱的政治",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Stephen A. Smith on Trump, Democrats and the politics of chaos"
+      }
+    },
+    {
+      "title_original": "La Bolsa española baja un 0,23% pendiente de Oriente Medio, el petróleo y la deuda",
+      "title_zh": "西班牙股市下跌0.23%，悬而未决的中东、石油和债务问题",
+      "url": "https://www.elimparcial.es/noticia/228431/economia/la-bolsa-espanola-baja-un-023-pendiente-de-oriente-medio-el-petroleo-y-la-deuda--.html",
+      "source": "El Imparcial - Diario liberal e independiente",
+      "source_score": 40,
+      "published_at": "2026-09-03T03:57:30+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙股市下跌 0.23%，悬而未决的中东、石油和债务问题 El Imparcial - 自由和独立报纸",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "El Imparcial - Diario liberal e independiente"
+      ],
+      "all_titles": {
+        "es": "La Bolsa española baja un 0,23% pendiente de Oriente Medio, el petróleo y la deuda"
+      }
+    },
+    {
+      "title_original": "オランダ、大量の金準備を北米からイギリスに移す　地政学的不安を理由に",
+      "title_zh": "荷兰以地缘政治不稳定为由，将大量黄金储备从北美转移到英国",
+      "url": "https://www.bbc.com/japanese/articles/c5yw0ryg4e4o",
+      "source": "bbc.com",
+      "source_score": 95,
+      "published_at": "2026-09-03T03:19:18+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "由于地缘政治不稳定，荷兰将大量黄金储备从北美转移到英国\n亨利摩尔\n荷兰央行（DNB）2日宣布，已将在美国和加拿大持有的价值数十亿美元的黄金转移至英国。原因被认为是“地缘政治焦虑加剧”。",
+        "DNB表示，在持续数月的复杂行动中，北美持有的总共86吨黄金储备被移除。",
+        "黄金现在存放在英格兰银行，使得“危机时期”的交易变得更加容易。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "bbc.com"
+      ],
+      "all_titles": {
+        "ja": "オランダ、大量の金準備を北米からイギリスに移す　地政学的不安を理由に"
+      }
+    },
     {
       "title_original": "習氏のエジプト訪問、訪米控え中東と関係強化へ",
       "title_zh": "习近平访问埃及，旨在在美国访问之前加强与中东的关系",
