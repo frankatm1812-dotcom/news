@@ -1,0 +1,882 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T01:07:12.020870+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "習氏のエジプト訪問、訪米控え中東と関係強化へ",
+      "title_zh": "习近平访问埃及，旨在在美国访问之前加强与中东的关系",
+      "url": "https://jp.wsj.com/articles/chinas-xi-bolsters-mideast-ties-with-egypt-visit-ahead-of-planned-u-s-trip-c8f92d40?mod=hp_minor_pos22",
+      "source": "jp.wsj.com",
+      "source_score": 40,
+      "published_at": "2026-09-03T01:02:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "习近平在美国访问前访问埃及加强与中东关系 jp.wsj.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "jp.wsj.com"
+      ],
+      "all_titles": {
+        "ja": "習氏のエジプト訪問、訪米控え中東と関係強化へ"
+      }
+    },
+    {
+      "title_original": "普京谈俄乌冲突：欢迎任何形式的谈判 寻求长期和平解决",
+      "title_zh": "普京谈俄乌冲突：欢迎任何形式的谈判 寻求长期和平解决",
+      "url": "https://military.china.com/news/13004177/20260903/49716595.html",
+      "source": "中华军事",
+      "source_score": 40,
+      "published_at": "2026-09-03T00:40:58+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京谈俄乌冲突：欢迎任何形式的谈判 寻求长期和平解决。俄罗斯总统弗拉基米尔·普京在吉尔吉斯斯坦参加上海合作组织峰会期间，就乌克兰谈判进程发表了最新看法。他表示，当前乌克兰谈判进程有所停滞，但莫斯科不反对任何可能为这一进程做出积极贡献的努力。",
+        "普京对记者说，俄罗斯支持以具体内容为主的和平解决乌克兰冲突的谈判。他补充道，如果有人能在目前有些僵化的谈判过程中提供积极的意见，俄罗斯通常不会介意。他还透露，乌克兰方面曾要求恢复谈判并举行个人会谈，但他明确表示，没有与恐怖分子谈判的可能。",
+        "关于美国参与调解的可能性，普京解释说，俄罗斯愿意与熟悉且信任的人合作，特别是与美国总统特朗普关系密切的人。他说：“与我们熟悉且普遍信任的人合作对我们来说非常舒适。这些人与特朗普总统关系密切。”\n普京强调，只要谈判积极有效，莫斯科不介意专家、军方和外交官参与谈判进程。他还着重指出，莫斯科希望实现的是长期和平。他表示，俄罗斯不会冻结战争，而是希望结束战争，实现持久而彻底的和平。无论是在乌克兰还是欧洲，俄罗斯都准备好与任何愿意进行谈判的人进行对话。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "中华军事"
+      ],
+      "all_titles": {
+        "zh": "普京谈俄乌冲突：欢迎任何形式的谈判 寻求长期和平解决"
+      }
+    },
+    {
+      "title_original": "国际金融报告：美日股市表现分化，利率与中东局势影响全球金融市场",
+      "title_zh": "国际金融报告：美日股市表现分化，利率与中东局势影响全球金融市场",
+      "url": "https://www.ajudaily.com/view/20260903085670016",
+      "source": "亚洲日报",
+      "source_score": 40,
+      "published_at": "2026-09-02T23:56:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "全球金融市场因主要国家的货币政策前景、中东局势及国债利率波动而出现分化。美国股市因国债利率下降和人工智能（AI）相关股票强劲而上涨，但日本和欧洲股市则表现疲软。在日本央行加息可能性增加的背景下，国际油价和黄金价格也随之上涨。",
+        "根据国际金融中心的数据显示，9月2日（当地时间），美国标准普尔500指数较前一交易日上涨0.46%，报7666.6点。相比之下，欧洲Stoxx600指数下跌0.24%，日本日经225指数则暴跌2.85%。",
+        "债券市场同样出现差异化。美国10年期国债收益率因低价买入和美联储官员的宽松言论影响，下降2个基点（1个基点=0.01个百分点），报4.78%。而德国10年期国债收益率上升3个基点至3.38%，日本10年期国债收益率则上升2个基点至3.03%。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "亚洲日报"
+      ],
+      "all_titles": {
+        "zh": "国际金融报告：美日股市表现分化，利率与中东局势影响全球金融市场"
+      }
+    },
+    {
+      "title_original": "美伊爆发7月来最大规模袭击 外界忧中东局势升级",
+      "title_zh": "美伊爆发7月来最大规模袭击 外界忧中东局势升级",
+      "url": "https://www.8world.com/world/us-iran-exchange-attacks-lull-war-appears-over-3267836",
+      "source": "8world",
+      "source_score": 40,
+      "published_at": "2026-09-02T23:26:56+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国和伊朗爆发7月以来最大规模的相互袭击，引发外界担忧中东局势再次升级。",
+        "美国前天（1日）袭击伊朗南部沿海地区，伊朗随后反击，向美国设在中东多个国家的军事基地发动攻击。",
+        "伊朗指责美军击中一个婚礼场地，造成四人死亡、数十人受伤。伊朗卫生部长过后表示，美军最新一轮的袭击共造成18人死亡、108人受伤。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "8world"
+      ],
+      "all_titles": {
+        "zh": "美伊爆发7月来最大规模袭击 外界忧中东局势升级"
+      }
+    },
+    {
+      "title_original": "“ロシア上空 安全ではない” ウクライナ外相がICAOに通告",
+      "title_zh": "乌克兰外长告诉国际民航组织：“俄罗斯上空并不安全”",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260903de47898",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-02T23:25:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰外交部长告诉国际民航组织 NHK 新闻：“俄罗斯上空并不安全”",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "“ロシア上空 安全ではない” ウクライナ外相がICAOに通告"
+      }
+    },
+    {
+      "title_original": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
+      "title_zh": "伊朗战争期间中国排放量下降引发脱碳分水岭的希望",
+      "url": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-02T23:01:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "分析人士称，即使原油价格下跌，石油消费量骤降，电动汽车销量猛增，需求也可能无法完全恢复。分析显示，美以对伊朗战争爆发后，由于石油消费量大幅减少以及电动汽车和公共交通使用量稳步上升，中国二氧化碳排放量下降了1%。",
+        "该报告揭示了清洁能源在缓解霍尔木兹海峡危机对全球最大石油进口国造成的价格冲击方面的作用。",
+        "这也增强了人们的希望，即作为世界上最大的温室气体排放国的中国可能正接近其经济脱碳的转折点。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed"
+      }
+    },
+    {
+      "title_original": "習近平氏、エジプトのエルシーシ大統領に「中東への外部からの干渉」に反対すべきだと伝える",
+      "title_zh": "习近平告诉埃及总统塞西反对“外部干涉中东”",
+      "url": "https://www.arabnews.jp/article/middle-east/article_185475/",
+      "source": "arabnews.jp",
+      "source_score": 40,
+      "published_at": "2026-09-02T22:59:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "开罗/北京：据中国官方媒体报道，中国国家主席习近平周三在开罗会见埃及总统塞西后表示，中国应反对对中东的“外部干涉”。",
+        "据中国官方新华社报道，习近平对埃及总统阿卜杜勒·法塔赫·塞西说：“我们必须坚持中东人民当家作主的原则，反对外部干涉，支持地区国家加强和平安全对话。”",
+        "习近平十年来首次访问埃及，中国寻求在美国和伊朗关系紧张之际巩固其在该地区的立足点。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "arabnews.jp"
+      ],
+      "all_titles": {
+        "ja": "習近平氏、エジプトのエルシーシ大統領に「中東への外部からの干渉」に反対すべきだと伝える"
+      }
+    },
+    {
+      "title_original": "Venice Film Festival opens with George Clooney, Murdoch film and geopolitics",
+      "title_zh": "威尼斯电影节以乔治克鲁尼、默多克电影和地缘政治开幕",
+      "url": "https://www.france24.com/en/culture/20260902-venice-film-festival-clooney-murdoch-film-geopolitics",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-02T22:11:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "威尼斯电影节开幕，乔治·克鲁尼、默多克电影和地缘政治 法国 24 小时",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "en": "Venice Film Festival opens with George Clooney, Murdoch film and geopolitics"
+      }
+    },
+    {
+      "title_original": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "title_zh": "西班牙抗议政府处理休达移民危机",
+      "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T21:34:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙抗议政府处理休达移民危机\n- 已发表\n数千人在西班牙各地城市抗议政府处理移民涌入北非海岸西班牙飞地休达的方式。",
+        "西班牙反对党指责总理佩德罗·桑切斯抛弃了休达居民，而政府则表示右翼政党正在利用这场危机。",
+        "周三，一份警方报告称，在桑切斯坚称摩洛哥不负有责任的几天后，摩洛哥安全部队在前所未有的涌入事件中表现出“完全纵容”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Protests in Spain over government's handling of Ceuta migrant crisis"
+      }
+    },
+    {
+      "title_original": "Watch Richard Engel’s Q&A on the Ukraine war",
+      "title_zh": "观看理查德·恩格尔关于乌克兰战争的问答",
+      "url": "https://www.nbcnews.com/video/richard-engel-answers-your-questions-269239877691",
+      "source": "NBC News",
+      "source_score": 75,
+      "published_at": "2026-09-02T21:22:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- 正在播放供订阅者观看理查德·恩格尔关于乌克兰战争的问答 30:38\n- UP NEXTWatch Janis Mackey Frayer 关于机器人和人工智能主导地位竞赛的问答 19:53\n- 订阅者请观看 Steve Kornacki 现场问答的重播 26:19\n- 订阅者请观看 Keir Simmons 关于伊朗和中东的问答 18:33\n- 订阅者观看理查德·恩格尔关于伊朗战争的问答 31:55\n- 订阅者请观看 Lester Holt 现场问答的重播 19:17\n- 订阅者请观看 Laura Jarrett 现场问答的重播 22:19\n- 订阅者请观看 Steve Kornacki 现场问答的重播 27:26\n- 订阅者请观看 Chloe Melas 现场问答的重播 23:45\n- 订阅者观看 Stephanie Gosk 在墨西哥城的问答 - 6 月 11 日 18:26\n- 对于订阅者观看 Steve Kornacki 回答您的主要问题 - 6 月 9 日 27:42\n- 订阅者观看凯尔·西蒙斯在圣路易斯谈论普京和乌克兰",
+        "圣彼得堡 - 6 月 4 日 25:27\n- 对于订阅者观看 Laura Jarrett 回答您的问题 - 5 月 28 日 29:45\n- 订阅者请观看 30 Rock 的 Steve Kornacki 的问答 - 5 月 20 日 26:13\n- 订阅者观看理查德·恩格尔在耶路撒冷的问答 - 5 月 7 日 26:20\n对于订阅者\n- 正在播放供订阅者观看理查德·恩格尔关于乌克兰战争的问答 30:38\n- UP NEXTWatch Janis Mackey Frayer 关于机器人和人工智能主导地位竞赛的问答 19:53\n- 订阅者请观看 Steve Kornacki 现场问答的重播 26:19\n- 订阅者请观看 Keir Simmons 关于伊朗和中东的问答 18:33\n- 订阅者观看理查德·恩格尔关于伊朗战争的问答 31:55\n- 订阅者请观看 Lester Holt 现场问答的重播 19:17",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "NBC News"
+      ],
+      "all_titles": {
+        "en": "Watch Richard Engel’s Q&A on the Ukraine war"
+      }
+    },
+    {
+      "title_original": "South African airline behind daring stadium stunt cancels next flyby",
+      "title_zh": "大胆的体育场特技背后的南非航空公司取消了下一次飞越",
+      "url": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T21:21:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "大胆的体育场特技背后的南非航空公司取消了下一次飞越\n- 已发表\n南非航空公司曾在拥挤的体育场上空表演两架飞机以紧密编队低空飞行的特技，但该航空公司本周末取消了类似的行动。",
+        "Airlink证实，由于天气预报不佳，该公司已撤回在周六南非约翰内斯堡对阵新西兰的橄榄球比赛之前举行的展示申请。",
+        "对于该航空公司的飞行壮举，人们意见不一，一些人认为这一令人震惊的动作是鲁莽的，而另一些人则称赞其精确性和专业知识。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "South African airline behind daring stadium stunt cancels next flyby"
+      }
+    },
+    {
+      "title_original": "Cómo reubicar a América Latina en la nueva era geopolítica",
+      "title_zh": "新地缘政治时代拉美如何重新定位",
+      "url": "https://www.dw.com/es/cepal-busca-reposicionar-a-am%C3%A9rica-latina-en-la-nueva-era-geopol%C3%ADtica/a-78792533",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-02T20:37:30+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "新地缘政治时代拉美如何重新定位\n2026 年 9 月 2 日\n长期以来，拉丁美洲和加勒比地区一直被视为在地缘政治规模更大和美国霸权压力更大的时期扮演被动角色的地区。",
+        "一个迹象是拉丁美洲一体化的历史弱点。",
+        "目前，同一地区缺乏共同声音，两极分化明显加剧，分歧日益扩大，无法表达共同利益。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Cómo reubicar a América Latina en la nueva era geopolítica"
+      }
+    },
+    {
+      "title_original": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "title_zh": "优步立即关闭尼日利亚和乌干达业务",
+      "url": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T20:21:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "优步立即关闭尼日利亚和乌干达业务\n- 已发表\n优步宣布将立即关闭在非洲人口最多的国家尼日利亚和东非国家乌干达的业务\n这家全球网约车巨头表示，在对其业务进行彻底审查后，它做出了“艰难的决定”。",
+        "该公司于 2014 年开始在尼日利亚运营，两年后又在乌干达运营。",
+        "尼日利亚的优步出租车司机长期以来一直抱怨，鉴于燃油成本不断上涨，该应用程序的价格太低，而且佣金费用太高。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Uber shuts operations in Nigeria and Uganda with immediate effect"
+      }
+    },
+    {
+      "title_original": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+      "title_zh": "观看：陪审团仍无法就林赛·克兰西案达成一致决定",
+      "url": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T20:12:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "观看：陪审团仍无法就林赛·克兰西案达成一致决定\n林赛·克兰西审判中的陪审员在两天内第二次告诉法官，他们无法就判决达成一致。",
+        "克兰西是一位 36 岁的马萨诸塞州母亲，曾任助产护士，因 2023 年谋杀她的三个孩子而受审。",
+        "她被指控在马萨诸塞州的家中勒死了她的孩子——五岁的科拉、三岁的道森和八个月大的卡兰。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Kiewer Geheimdienste beschießen einander - Selenskyj stinksauer",
+      "title_zh": "乌克兰战争：基辅特勤局互相开枪——泽连斯基很生气",
+      "url": "https://www.tag24.de/thema/ukraine-konflikt/ukraine-krieg-kiewer-geheimdienste-beschiessen-einander-selenskyj-stinksauer-3526154",
+      "source": "TAG24",
+      "source_score": 40,
+      "published_at": "2026-09-02T20:02:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争：基辅特勤局互相开枪——泽连斯基很生气\n乌克兰 - 欧盟外长将于周三在爱尔兰沿海小镇威克洛举行会议，讨论对乌克兰的支持等问题。",
+        "在四个欧盟国家的倡议下，外长们将在所谓的“金尼奇”会议上讨论俄罗斯在欧盟冻结资产的使用问题。",
+        "去年，首次尝试使用俄罗斯数十亿美元为基辅提供赔偿贷款失败，尤其是因为比利时的抵制。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "TAG24"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Kiewer Geheimdienste beschießen einander - Selenskyj stinksauer"
+      }
+    },
+    {
+      "title_original": "素材、資源高定着に備え 脱中東で代替調達コスト増",
+      "title_zh": "为了应对材料和资源的高价，随着我们远离中东，替代采购成本将会增加",
+      "url": "https://www.nikkan.co.jp/articles/view/791111",
+      "source": "nikkan.co.jp",
+      "source_score": 40,
+      "published_at": "2026-09-02T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "为了应对材料和资源的高价，随着我们远离中东，替代采购成本将会增加 nikkan.co.jp",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "nikkan.co.jp"
+      ],
+      "all_titles": {
+        "ja": "素材、資源高定着に備え 脱中東で代替調達コスト増"
+      }
+    },
+    {
+      "title_original": "習近平氏10年ぶりエジプト訪問で中東貢献強調 イランで難しい立場",
+      "title_zh": "习近平十年来首次访问埃及强调对中东的贡献 伊朗处境艰难",
+      "url": "https://www.asahi.com/articles/ASV9251DJV92UHBI012M.html",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-09-02T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "习近平十年来首次访问埃及强调对中东的贡献 伊朗处境艰难\n北京=小早川阳平 开罗=文明溪山\n中国国家主席习近平约10年来首次访问埃及，并于2日会见塞西总统。习近平表示：“我支持中东人民保持自主主动，反对外部势力干涉。”他在即将于9月下旬访问美国之前强调了中国的作用。",
+        "据官方通讯社新华社报道，习近平表示，“我支持中东国家发展友好关系，构建新的安全框架”，并强调维护《联合国宪章》和国际法的重要性。他接着说，“特别是域外大国必须放弃双重标准，尊重国家主权和领土完整，维护地区安全稳定。”这似乎是旨在强力遏制美国的表态。",
+        "他还表示，巴勒斯坦问题是中东问题的核心，“任何时候都不能忽视”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "習近平氏10年ぶりエジプト訪問で中東貢献強調 イランで難しい立場"
+      }
+    },
+    {
+      "title_original": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+      "title_zh": "马耳他大亨因策划谋杀著名记者而被判无罪",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T19:05:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "马耳他大亨因策划谋杀著名记者而被判无罪\n- 已发表\n一名因谋杀调查记者达芙妮·卡鲁阿纳·加利齐亚而受审的马耳他商人已被无罪释放。",
+        "44 岁的约尔根·费内奇 (Yorgen Fenech) 被指控共谋谋杀和犯罪团伙实施谋杀。",
+        "他否认了所有指控。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Maltese tycoon acquitted of orchestrating murder of renowned journalist"
+      }
+    },
+    {
+      "title_original": "La Bolsa española baja el 0,23 % pendiente de Oriente Medio, la deuda y el petróleo",
+      "title_zh": "西班牙股市下跌 0.23%，悬而未决的中东、债务和石油问题",
+      "url": "https://www.abc.es/economia/bolsa-espanola-baja-023-pendiente-oriente-medio-20260902203359-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-02T18:34:03+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西班牙股市下跌 0.23%，悬而未决的中东、债务和石油问题\n马德里，9 月 2 日（EFECOM）。- 西班牙股市本周三下跌 0.23%，并失去了之前的水平...",
+        "马德里，9 月 2 日（EFECOM）- 西班牙股市本周三下跌 0.23%，跌破 19,800 点水平，中东紧张局势不断升级，...",
+        "石油和主权债务市场的紧张局势仍在继续。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "La Bolsa española baja el 0,23 % pendiente de Oriente Medio, la deuda y el petróleo"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 23:54 Nachrichtendienst: Russland bereitet Sabotage in Dänemark vor +++",
+      "title_zh": "乌克兰战争直播：+++ 23:54 新闻服务：俄罗斯正准备在丹麦进行破坏 +++",
+      "url": "https://www.n-tv.de/politik/23-54-Nachrichtendienst-Russland-bereitet-Sabotage-in-Daenemark-vor-id31263586.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-09-02T18:20:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "现场直播的乌克兰战争+++ 23:54 新闻服务：俄罗斯正准备在丹麦进行破坏+++\n据说俄罗斯正计划在丹麦进行破坏行动。",
+        "据《柏林日报》报道，当地当局发现了这些准备工作。",
+        "丹麦国内情报和安全部门 PET 反情报负责人 Emil Graesholm 向该报表示，计划中的目标是与乌克兰军事援助有联系的国防工业公司。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 23:54 Nachrichtendienst: Russland bereitet Sabotage in Dänemark vor +++"
+      }
+    },
+    {
+      "title_original": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases",
+      "title_zh": "德国调查新的破坏案件 欧盟将在无人机袭击后反击俄罗斯",
+      "url": "https://www.reuters.com/world/eu-some-eu-states-summon-russian-embassy-officials-over-leipzig-drone-attack-2026-09-02/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-02T18:01:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德国调查新的破坏案件 欧盟将在无人机袭击后反击俄罗斯 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases"
+      }
+    },
+    {
+      "title_original": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "title_zh": "沙特阿拉伯称，伊朗袭击沙特油轮造成两名菲律宾水手死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T17:33:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特阿拉伯称，伊朗袭击沙特油轮造成两名菲律宾水手死亡\n- 已发表\n沙特阿拉伯谴责周一晚间伊朗袭击沙特拥有的一艘超级油轮，造成两名菲律宾水手死亡。",
+        "沙特国家航运公司Bahri周三证实，其船只Sidr“在经过霍尔木兹海峡时卷入安全事件”。",
+        "据海事安全公司称，“锡德尔”号在阿曼穆桑达姆半岛北部遭到炮弹袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says"
+      }
+    },
+    {
+      "title_original": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+      "title_zh": "荷兰将数十亿黄金运往伦敦以应对“危机准备”",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T17:21:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "荷兰将数十亿黄金运往伦敦以应对“危机准备”\n- 已发表\n荷兰央行（DNB）证实，价值数十亿美元的黄金已从北美运出并转移到伦敦，理由是“地缘政治动荡加剧”。",
+        "DNB 周三表示，经过数月的复杂操作，已从美国和加拿大运走 86 吨黄金。",
+        "它现在由英格兰银行持有，“在危机情况下”贵金属可以更容易地进行交易。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Netherlands moves billions in gold to London in 'crisis preparedness' move"
+      }
+    },
+    {
+      "title_original": "Woman charged with juror intimidation in Lindsay Clancy trial",
+      "title_zh": "林赛·克兰西审判中一名女子被控恐吓陪审员",
+      "url": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T17:05:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "林赛·克兰西审判中一名女子被控恐吓陪审员\n- 已发表\n一名女子因在林赛·克兰西案审判中在法院外拍摄陪审团成员的照片而被捕，她被指控犯有严重恐吓陪审员的罪名。",
+        "56 岁的道恩·莱特 (Dawn Light) 被指控坐在普利茅斯法院外的禁区，并在陪审员离开法院时拍摄他们的照片。",
+        "她的律师称这是一场误会，因为她对这些指控表示不认罪。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Woman charged with juror intimidation in Lindsay Clancy trial"
+      }
+    },
+    {
+      "title_original": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "title_zh": "德国局势“新升级”后，欧盟和北约誓言加大对俄罗斯施压",
+      "url": "https://www.bbc.com/news/articles/ce9e810pg7ko",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-02T16:49:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德国局势“新升级”后，欧盟和北约誓言加大对俄罗斯施压\n北约和欧盟委员会领导人警告称，俄罗斯变得越来越鲁莽，并誓言应对“新常态”。",
+        "欧盟委员会主席乌尔苏拉·冯德莱恩表示，“莱比锡事件标志着欧盟领土上的一次新的升级，直接归因于俄罗斯。”一天前，德国指责俄罗斯对上个月莱比锡机场发生的无人机袭击失败负责。",
+        "冯德莱恩表示：“我们必须挺身而出，这意味着准备好更快、更好地应对俄罗斯的鲁莽行为。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "en": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany"
+      }
+    },
+    {
+      "title_original": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "title_zh": "泽连斯基表示，随着乌克兰加强无人机行动，航空公司应避开俄罗斯领空",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T16:12:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "泽连斯基表示，随着乌克兰加强无人机行动，航空公司应避开俄罗斯领空\n- 已发表\n乌克兰总统告诉航空公司，随着乌克兰加强无人机袭击，俄罗斯领空将“有效关闭”。",
+        "泽连斯基说：“我们想警告每家使用俄罗斯领空的航空公司、每家保险公司、每家仍在使用俄罗斯主要机场的人：俄罗斯的天空正变得非常危险。”",
+        "此后，乌克兰正式向联合国通报了民用航空面临的风险。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations"
+      }
+    },
+    {
+      "title_original": "El Ibex cierra con caídas una sesión volátil marcada por Oriente Medio y los bonos",
+      "title_zh": "Ibex收盘以中东和债券下跌为标志的波动性交易日",
+      "url": "https://www.bolsamania.com/noticias/cronica-ibex/2-septiembre-2026-petroleo-eeuu-iran-bonos--23455294.html",
+      "source": "Bolsamania",
+      "source_score": 40,
+      "published_at": "2026-09-02T16:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Ibex 收盘以中东和债券为标志的波动交易日，博尔萨马尼亚债券下跌",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Bolsamania"
+      ],
+      "all_titles": {
+        "es": "El Ibex cierra con caídas una sesión volátil marcada por Oriente Medio y los bonos"
+      }
+    },
+    {
+      "title_original": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "title_zh": "伊朗称美国袭击婚礼时造成四人死亡，构成“战争罪”，美国否认针对平民",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-02T15:33:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗媒体报道称，弹片击中一户人家，造成两名儿童死亡。",
+        "随后，伊朗向美国在中东的目标发射了导弹和无人机。",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians"
+      }
+    },
+    {
+      "title_original": "Von der Leyen: \"Europa y la OTAN no solo mantendrán la presión sobre Rusia, sino que la aumentarán\"",
+      "title_zh": "冯德莱恩：“欧洲和北约不仅会维持对俄罗斯的压力，还会加大压力”",
+      "url": "https://www.abc.es/internacional/von-der-leyen-europa-otan-solo-mantendran-20260902172449-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-02T15:24:53+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "冯德莱恩：“欧洲和北约不仅会维持对俄罗斯的压力，还会加大压力”\n布鲁塞尔，9 月 2 日（埃菲社）- 欧盟委员会主席乌苏拉·冯德莱恩 (Ursula von der Leyen) 和秘书长...",
+        "布鲁塞尔，9月2日（埃菲社）-欧盟委员会主席乌尔苏拉·冯德莱恩和北约秘书长马克·鲁特周三保证，在布鲁塞尔机场发生无人机混合攻击后，针对俄罗斯的压力将继续甚至“增加”。",
+        "德国城市莱比锡归于莫斯科。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Von der Leyen: \"Europa y la OTAN no solo mantendrán la presión sobre Rusia, sino que la aumentarán\""
+      }
+    },
+    {
+      "title_original": "Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism",
+      "title_zh": "Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism",
+      "url": "https://www.theguardian.com/world/2026/sep/02/venezuela-oil-deal-trump-chris-wright",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-02T14:44:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "能源部长克里斯赖特否认美国试图“夺取”该国的石油，称该协议是关系的转变 美国能源部长克里斯赖特否认华盛顿正在寻求征用大量委内瑞拉石油，目前对唐纳德特朗普与该国临时领导人的能源协议的批评越来越多。",
+        "“Absolutely not,” Wright replied when asked by a CNBC journalist if the US was engaged in a “heavy-handed” attempt to “take” Venezuelan oil in violation of the South American country’s constitution.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Trump ally defends Venezuela oil deal amid ‘gunpoint diplomacy’ criticism"
+      }
+    },
+    {
+      "title_original": "Pete Hegseth criticized for body-shaming Canadian cadets: ‘Literally they’re kids’",
+      "title_zh": "Pete Hegseth criticized for body-shaming Canadian cadets: ‘Literally they’re kids’",
+      "url": "https://www.theguardian.com/us-news/2026/sep/02/pete-hegseth-body-shaming-post",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-02T14:44:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US defense secretary faces backlash for attempting to mock Canada’s armed forces amid trade war A social media post by Pete Hegseth, the US secretary of defense, body-shaming female members of a Canadian youth development program remained online on Wednesday despite a furious backlash on both sides of the border.",
+        "On Monday night, Hegseth posted on X a photograph of two people in uniform with a Canadian flag and the caption “this is real”, an apparent attempt at mocking the country’s armed forces amid the Trump administration’s trade spat with its northern neighbor.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Pete Hegseth criticized for body-shaming Canadian cadets: ‘Literally they’re kids’"
+      }
+    },
+    {
+      "title_original": "Wall Street en hausse, continue de guetter les évolutions au Moyen-Orient",
+      "title_zh": "Wall Street en hausse, continue de guetter les évolutions au Moyen-Orient",
+      "url": "https://www.france24.com/fr/info-en-continu/20260902-wall-street-en-hausse-continue-de-guetter-les-%C3%A9volutions-au-moyen-orient",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-02T14:35:12+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Wall Street en hausse, continue de guetter les évolutions au Moyen-Orient    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Wall Street en hausse, continue de guetter les évolutions au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "وول ستريت تفتح متباينة وسط تجدد التوتر في الشرق الأوسط",
+      "title_zh": "وول ستريت تفتح متباينة وسط تجدد التوتر في الشرق الأوسط",
+      "url": "https://www.reuters.com/ar/business/OEG5MACSONPUDG3RWEJYZVH7QI-2026-09-02/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-02T13:59:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "وول ستريت تفتح متباينة وسط تجدد التوتر في الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "وول ستريت تفتح متباينة وسط تجدد التوتر في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Trump invites battleground Republicans to Rose Garden dinner",
+      "title_zh": "Trump invites battleground Republicans to Rose Garden dinner",
+      "url": "https://www.politico.com/news/2026/09/02/trump-invites-battleground-republicans-to-rose-garden-dinner-01061406",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-02T09:32:27-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Many are hoping he will soon unleash his $400 million war chest to help save their majorities.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Trump invites battleground Republicans to Rose Garden dinner"
+      }
+    },
+    {
+      "title_original": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI",
+      "title_zh": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI",
+      "url": "https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-02T13:22:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The company says it prioritizes safety, but suits allege its ChatGPT bot induced shooter to carry out attack in Canada OpenAI faces 30 new lawsuits filed on behalf of victims of the Tumbler Ridge mass shooting.",
+        "The suits, filed on Wednesday, allege the company’s ChatGPT chatbot induced the shooter to carry out the attack in rural Canada in February, in which eight people were killed and dozens more wounded – most of them children.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI"
+      }
+    }
+  ]
+}
