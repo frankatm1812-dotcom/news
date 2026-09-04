@@ -1,8 +1,883 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T00:58:20.593060+00:00",
-  "count": 35,
+  "generated_at": "2026-09-04T14:59:26.205739+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title_original": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say",
+      "title_zh": "报道称，特朗普的和平特使周末将访问莫斯科和基辅",
+      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-04T14:27:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "报道称，特朗普的和平特使周末将访问莫斯科和基辅\n- 已发表\n据报道，美国谈判代表史蒂夫·威特科夫和贾里德·库什纳将于本周末访问俄罗斯和乌克兰，结束战争的努力似乎正在加快步伐。",
+        "Axios 援引美国官员的话说，特使们将于周六在莫斯科会见俄罗斯总统弗拉基米尔·普京，然后周日在基辅与乌克兰总统弗拉基米尔·泽连斯基举行会谈。",
+        "威特科夫和库什纳领导了美国总统唐纳德·特朗普促成和平协议的努力，但交战双方之间仍然存在鸿沟。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say"
+      }
+    },
+    {
+      "title_original": "ロシア、ウクライナ保安局庁舎を攻撃 無人機直撃とゼレンスキー氏",
+      "title_zh": "俄罗斯袭击乌克兰安全局大楼，无人机和泽连斯基直接击中",
+      "url": "https://www.nikkei.com/article/DGXZQOGR04B7X0U6A900C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-04T14:19:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "本文仅供会员阅读\n俄罗斯袭击乌克兰安全局大楼，无人机和泽连斯基直接击中\n（已更新）【会员专用文章】\n【维也纳=金子夏希】乌克兰总统泽连斯基4日宣布，俄罗斯军方用一架无人机（无人机）袭击了位于首都基辅的乌克兰安全局（SBU）总部。据称，这次袭击的目标是 SBU 代理主任波克拉德的办公室。",
+        "SBU大楼位于基辅市中心，对面就是世界遗产圣索菲亚大教堂。据乌克兰媒体报道，一架配备喷气发动机、高速飞行的无人机撞上政府大楼，引发黑烟升腾……",
+        "2022年2月，俄罗斯入侵乌克兰。我们整理了有关世界各地战况和动向的最新新闻和评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナ保安局庁舎を攻撃 無人機直撃とゼレンスキー氏"
+      }
+    },
+    {
+      "title_original": "Colombian president posts video purporting to show 23 ‘neutralised’ guerrillas in body bags",
+      "title_zh": "哥伦比亚总统发布视频，声称显示 23 名装在裹尸袋中的游击队员被“消灭”",
+      "url": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-04T13:50:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "好战、表演性的极右政治继续在美洲蔓延，视频引发愤怒哥伦比亚强硬派总统阿韦拉多·德拉埃斯普里埃拉(Abelardo De La Espriella)在社交媒体上发布了一段视频，视频中他大步走过一排排白色裹尸袋，他说这些裹尸袋里装着 23 名“中立”游击队员的尸体，此举引发了愤怒。",
+        "德拉埃斯普里埃拉上个月上台，誓言对非法武装团体进行“全面战争”，他在周四发布了这段视频，显然是为了表明他正在履行这一承诺。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Colombian president posts video purporting to show 23 ‘neutralised’ guerrillas in body bags"
+      }
+    },
+    {
+      "title_original": "Russian attacks kill at least 3 in Ukraine as US talks on the war are expected",
+      "title_zh": "俄罗斯袭击在乌克兰造成至少3人死亡，预计美国将就战争进行谈判",
+      "url": "https://apnews.com/article/russia-ukraine-war-diplomacy-zelenskyy-kushner-witkoff-553d4ed8204070be97b1671db0c5cd53",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-09-04T13:45:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯无人机袭击乌克兰安全部门总部，预计美国将就战争进行谈判\n乌克兰基辅（美联社）——周五，在与美国进行外交会谈之前，总统泽伦斯基表示，一架俄罗斯无人机袭击了位于基辅市中心的乌克兰安全部门总部。",
+        "官员们呼吁结束战争。",
+        "自莫斯科入侵邻国以来，俄罗斯和乌克兰之间的冲突已经持续了五年，两国之间的空战愈演愈烈。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "Russian attacks kill at least 3 in Ukraine as US talks on the war are expected"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Ukraine: Russische Drohne attackiert Geheimdienstzentrale",
+      "title_zh": "乌克兰战争：乌克兰：俄罗斯无人机袭击特勤局总部",
+      "url": "https://www.tagesspiegel.de/internationales/dpa-ukraine-krieg-16019825.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-09-04T13:39:04+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争：乌克兰：俄罗斯无人机袭击特勤局总部\n由于俄罗斯的袭击，乌克兰首都基辅连日来无法平静。",
+        "现在，一架俄罗斯无人机袭击了一个特定目标。",
+        "泽连斯基总统下令做出回应。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Ukraine: Russische Drohne attackiert Geheimdienstzentrale"
+      }
+    },
+    {
+      "title_original": "特朗普发帖：数千亿美元都白白地给了乌克兰和北约，我们将要回那笔钱！",
+      "title_zh": "特朗普发帖：数千亿美元都白白地给了乌克兰和北约，我们将要回那笔钱！",
+      "url": "https://m.sohu.com/a/1071985398_162522?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-09-04T12:41:40+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普发帖：数千亿美元都白白地给了乌克兰和北约，我们将要回那笔钱！",
+        "在美伊冲突延宕、美国被爆弹药短缺之际，美国总统特朗普9月3日在社交媒体上喊话，称将向欧洲追回此前的美国援乌军火费。",
+        "特朗普3日在“真实社交”平台上发布的帖文中，再次抨击“拒绝如实汇报”美军在伊朗军事行动的“叛徒”，称美国拥有的弹药数量“远超我们需要使用的”，并表示美国“正在储备弹药，为可能发生的任何突发事件做准备”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "特朗普发帖：数千亿美元都白白地给了乌克兰和北约，我们将要回那笔钱！"
+      }
+    },
+    {
+      "title_original": "Militärausgaben explodieren: Kann sich Russland Putins Krieg noch leisten?",
+      "title_zh": "军费开支激增：俄罗斯还能承受普京的战争吗？",
+      "url": "https://www.fr.de/wirtschaft/russland-wie-lange-kann-sich-putin-den-ukraine-krieg-noch-leisten-zr-94475453.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-04T12:36:09+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争对俄罗斯来说变得越来越昂贵：普京还能为他的战争经济买单多久？",
+        "在谷歌上关注我们\n入侵乌克兰后，俄罗斯将其经济转向战争。",
+        "结果，国家赤字也在增加——普京是否做得太过分了？"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Militärausgaben explodieren: Kann sich Russland Putins Krieg noch leisten?"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : des frappes américaines contre un mariage en Iran, Vance ouvre une enquête",
+      "title_zh": "中东战争：美国打击伊朗婚礼，万斯展开调查",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260904-guerre-au-moyen-orient-des-frappes-am%C3%A9ricaines-contre-un-mariage-en-iran-vance-ouvre-une-enqu%C3%AAte",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-04T12:13:13+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争：美国打击伊朗举行的婚礼，万斯展开调查 France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : des frappes américaines contre un mariage en Iran, Vance ouvre une enquête"
+      }
+    },
+    {
+      "title_original": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "title_zh": "《No 10》称，在阿根廷重申主权主张后，英国对福克兰群岛的支持“坚定不移”",
+      "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-04T11:54:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "《No 10》称，在阿根廷重申主权主张后，英国对福克兰群岛的支持“坚定不移”\n- 已发表\n在阿根廷总统表示这些岛屿“在历史上和法律上”属于阿根廷之后，唐宁街表示，英国在福克兰群岛上的立场“坚定不移”。",
+        "唐宁街发言人表示，安迪·伯纳姆“完全支持岛民保留英国海外领土的愿望”。",
+        "哈维尔·米莱表示，“变革之风”有利于该国对这些岛屿的主权主张，并承诺对计划在这些岛屿附近开采石油的公司实施制裁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says"
+      }
+    },
+    {
+      "title_original": "سيتي وإيه.إن.زد يرفعان توقعاتهما لخام برنت وسط اضطراب التدفقات في الشرق الأوسط",
+      "title_zh": "中东市场动荡之际，花旗和澳新银行上调布伦特原油预期",
+      "url": "https://www.reuters.com/ar/business/HWZJK5DUNVMAZH4KYSTEJWWRGA-2026-09-04/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-04T11:49:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "在中东市场动荡之际，花旗和澳新银行提高了对布伦特原油的预期 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "سيتي وإيه.إن.زد يرفعان توقعاتهما لخام برنت وسط اضطراب التدفقات في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Ukraine War, Day 1,654: Kyiv Strikes Military Plant and Naval Vessel Deep Inside Russia",
+      "title_zh": "乌克兰战争，第 1,654 天：基辅袭击俄罗斯深处的军事工厂和海军舰艇",
+      "url": "https://eaworldview.com/2026/09/ukraine-war-russia-kyiv-strikes-military-plant-and-naval-vessel/",
+      "source": "EA WorldView",
+      "source_score": 40,
+      "published_at": "2026-09-04T11:48:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "2026 年 9 月 4 日，乌克兰无人机袭击俄罗斯巴什科尔托斯坦共和国的斯特利塔马克 (Supernova Plus)\nTVP World 上的 EA：乌克兰 — 俄罗斯在欧洲的混合战争\nEA-乌克兰视频广播：由于担心自己被免职，普京拒绝美国要求停火谈判的信息\n更新 0816 GMT：\n乌克兰防空系统一夜之间击落或压制了俄罗斯发射的 121 架无人机中的 103 架。",
+        "俄罗斯人还从黑海发射了一枚 Kh-31P 导弹。",
+        "15 个地点发生了罢工。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "EA WorldView"
+      ],
+      "all_titles": {
+        "en": "Ukraine War, Day 1,654: Kyiv Strikes Military Plant and Naval Vessel Deep Inside Russia"
+      }
+    },
+    {
+      "title_original": "Hegseth prolonge les déploiements au Moyen-Orient jusqu’en 2027, ce qui accentue la pression sur les troupes",
+      "title_zh": "赫格斯将中东部署期限延长至2027年，增加部队压力",
+      "url": "https://www.lopinion.fr/international/hegseth-prolonge-les-deploiements-au-moyen-orient-jusquen-2027-ce-qui-accentue-la-pression-sur-les-troupes",
+      "source": "l'Opinion",
+      "source_score": 40,
+      "published_at": "2026-09-04T10:56:26+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "赫格斯将中东部署期限延长至2027年，增加部队压力\n- 美国国防部长皮特·赫格塞斯扩大在中东的军事部署。",
+        "- 为了应对与伊朗的冲突，该地区调动了5万名士兵和19艘军舰。",
+        "- 因此，某些陆军部队可以继续部署在那里直到 2027 年。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "l'Opinion"
+      ],
+      "all_titles": {
+        "fr": "Hegseth prolonge les déploiements au Moyen-Orient jusqu’en 2027, ce qui accentue la pression sur les troupes"
+      }
+    },
+    {
+      "title_original": "US diesel prices hit an all-time-high",
+      "title_zh": "美国柴油价格创历史新高",
+      "url": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-04T10:52:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国柴油价格创历史新高\n- 已发表\n随着美以与伊朗的战争继续打击美国人的钱包，美国司机在加油站支付的柴油费用比以往任何时候都高。",
+        "在美国，柴油主要用于商用车辆，如卡车、火车、轮船、公共汽车、农用车辆和建筑车辆。",
+        "据美国汽车协会 (AAA) 称，美国每加仑柴油的平均价格已达到 5.85 美元，而一年前的平均价格为 3.71 美元，并且高于俄罗斯全面入侵乌克兰后的先前高点。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US diesel prices hit an all-time-high"
+      }
+    },
+    {
+      "title_original": "Liberación israelí, ralentización del tráfico marítimo y otras noticias de Oriente Medio",
+      "title_zh": "以色列解放、海上交通放缓以及来自中东的其他消息",
+      "url": "https://apnews.com/article/iran-eeuu-ormuz-guerra-israel-libano-liberacion-4435dca90a7e8a4824c8ccc8157d5f6c",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-09-04T10:35:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列解放、海上交通放缓以及来自中东的其他消息\n以色列释放了在黎巴嫩南部被其部队拘留的四名黎巴嫩平民。",
+        "在美国和伊朗一个月来首次相互攻击后几天，霍尔木兹海峡的船舶交通仍然清淡。",
+        "在也门，伊朗支持的叛乱分子与政府军之间的战斗愈演愈烈。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "es": "Liberación israelí, ralentización del tráfico marítimo y otras noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
+      "title_zh": "哈维尔·米雷：“变革之风”支持阿根廷对福克兰群岛的主权主张",
+      "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-04T09:31:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "总统援引特朗普的建议，称他可能会重新考虑美国对英国主权的立场，并威胁对英国石油利益采取更迅速的制裁。总统哈维尔·米莱在电视讲话中表示，有利于阿根廷对福克兰群岛拥有主权的“变革之风”正在全世界吹起，并援引迹象表明唐纳德·特朗普可能会重新考虑美国对群岛主权的立场。",
+        "“最近，特朗普总统宣布，美国正在重新评估其在马尔维纳斯群岛方面的历史地位，”他说，并使用了阿根廷对这些岛屿的名称。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands"
+      }
+    },
+    {
+      "title_original": "كاتب روسي يطرح 4 سيناريوهات لحسم حرب أوكرانيا",
+      "title_zh": "俄罗斯作家提出解决乌克兰战争的四种方案",
+      "url": "https://www.aljazeera.net/politics/2026/9/4/4-%D8%B3%D9%8A%D9%86%D8%A7%D8%B1%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-04T09:30:57+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯作家提出解决乌克兰战争的四种方案\n战略事务作家尤里·阿普赫金认为，俄罗斯与西方在乌克兰领土上进行的对抗并不是为了征服乌克兰，而是为了确保俄罗斯的安全。",
+        "阿布赫金在“Voynoye Abuzriniya”网站上的一篇文章中解释说，俄罗斯可以通过军事和非军事机制以不同的方式取得胜利，但它无法消除西方构成的威胁，除非它创造的乌克兰“矛头”被消除。",
+        "另请阅读\n4 项清单\n作者提出了 4 种情景，他将其描述为对莫斯科有利的解决冲突的唯一选择：\n1."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "كاتب روسي يطرح 4 سيناريوهات لحسم حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control",
+      "title_zh": "俄罗斯在欧洲进行破坏的风险：一场失控的战斗",
+      "url": "https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html",
+      "source": "The New York Times",
+      "source_score": 95,
+      "published_at": "2026-09-04T09:03:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "俄罗斯在欧洲进行破坏的风险：一场失控的战斗 纽约时报",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The New York Times"
+      ],
+      "all_titles": {
+        "en": "The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control"
+      }
+    },
+    {
+      "title_original": "Antonio Alonso, ¿Una tercera guerra mundial en el Golfo?",
+      "title_zh": "安东尼奥·阿隆索，海湾地区第三次世界大战？",
+      "url": "https://www.negocios.com/articulo/geopolitica/tercera-guerra-mundial-golfo-estrategico-apreton-eeuu-iran/20260904104553493249.html",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-09-04T08:45:53+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "安东尼奥·阿隆索，海湾地区第三次世界大战？",
+        "霍尔木兹海峡已成为地区危机最快蔓延至全球范围的地区之一。",
+        "美国加大了对伊朗的经济和军事压力，而德黑兰保留了强大的应对工具：威胁到2025年每天流通2090万桶石油的动脉。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "Antonio Alonso, ¿Una tercera guerra mundial en el Golfo?"
+      }
+    },
+    {
+      "title_original": "Bulgaria califica como \"temeraria\" la reacción de la UE y la OTAN ante los incidentes de Leipzig",
+      "title_zh": "保加利亚称欧盟和北约对莱比锡事件的反应“鲁莽”",
+      "url": "https://efe.com/euro-efe/ue-bulgaria-leipzig/",
+      "source": "EFE - Agencia de noticias",
+      "source_score": 40,
+      "published_at": "2026-09-04T08:37:17+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "保加利亚称欧盟和北约对莱比锡事件的反应是“鲁莽的” EFE - 通讯社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "EFE - Agencia de noticias"
+      ],
+      "all_titles": {
+        "es": "Bulgaria califica como \"temeraria\" la reacción de la UE y la OTAN ante los incidentes de Leipzig"
+      }
+    },
+    {
+      "title_original": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+      "title_zh": "“层层奇迹”：尼泊尔洪水幸存者如何从隧道中获救",
+      "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-04T08:23:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "“层层奇迹”：尼泊尔洪水幸存者如何从隧道中获救\n- 已发表\n一名参与尼泊尔水力发电隧道被堵塞救援行动的隧道专家向英国广播公司描述了他们如何设法救出幸存者。",
+        "阿诺德·迪克斯一直在向尼泊尔水电当局提供有关如何挖掘通向 Trishuli 3A 水电站的堵塞隧道的建议，该水电站是上周尼泊尔-西藏边境遭受大规模山洪袭击的几个电站之一。",
+        "他说，考虑到他们面临的多重挑战，他们在周五找到了两名男子，“这就像一层又一层的奇迹”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel"
+      }
+    },
+    {
+      "title_original": "South Korea pushes back on reports it is readying Hormuz deployment amid US pressure",
+      "title_zh": "韩国否认在美国压力下准备部署霍尔木兹海峡的报道",
+      "url": "https://www.theguardian.com/world/2026/sep/04/south-korea-pushes-back-reports-hormuz-deployment-us-pressure",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-04T07:47:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "据国内媒体报道，据国内媒体报道，首尔正在寻求议会批准向中东派遣军事资产，但总统办公室淡化了韩国正在审查向霍尔木兹海峡部署军事资产的可能性的说法，原因是唐纳德·特朗普因首尔不愿在该地区提供支持而施压。",
+        "周四和周五发布的报告援引未透露姓名的政府和军​​方消息人士的话称，准备工作正在进行中，政府打算寻求议会批准新的部署。",
+        "韩国主要媒体发表的报道称，具体规模和时间尚未达成一致。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "South Korea pushes back on reports it is readying Hormuz deployment amid US pressure"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月4日の動き）",
+      "title_zh": "【不定时更新】俄罗斯军事入侵乌克兰（9月4日动向）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46969",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-04T07:21:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "【不时更新】俄罗斯军事入侵乌克兰（9月4日动静）NHK新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（9月4日の動き）"
+      }
+    },
+    {
+      "title_original": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
+      "title_zh": "100位有影响力的人受邀参加美国网球公开赛引发有关“网球礼仪”的辩论",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-04T07:16:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "100位有影响力的人受邀参加美国网球公开赛引发有关“网球礼仪”的辩论\n- 已发表\n灯。",
+        "请安静...",
+        "说到网球礼仪，有一些不成文的规则。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "100 influencers invited to US Open spark debate on 'tennis etiquette'"
+      }
+    },
+    {
+      "title_original": "تايوان تستعد للحصار الصيني.. بكين تكثف تحركاتها العسكرية والبحرية حول الجزيرة",
+      "title_zh": "台湾正在为中国的封锁做准备。北京正在加强在该岛周围的军事和海军活动",
+      "url": "https://www.i24news.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%AF%D9%88%D9%84%D9%8A/%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%88%D8%B3%D8%B7/artc-d8dd6078",
+      "source": "i24NEWS",
+      "source_score": 40,
+      "published_at": "2026-09-04T06:54:51+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾正在为中国封锁做准备...",
+        "北京加强环岛军事和海军活动 i24NEWS",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "i24NEWS"
+      ],
+      "all_titles": {
+        "ar": "تايوان تستعد للحصار الصيني.. بكين تكثف تحركاتها العسكرية والبحرية حول الجزيرة"
+      }
+    },
+    {
+      "title_original": "ترمب: هزمنا إيران.. وسننهي حرب أوكرانيا \"رغم الصعوبات\"",
+      "title_zh": "特朗普：我们击败了伊朗……我们将“尽管困难重重”结束乌克兰战争",
+      "url": "https://asharq.com/politics/195317/%D8%AA%D8%B1%D9%85%D8%A8-%D9%87%D8%B2%D9%85%D9%86%D8%A7-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%B3%D9%86%D9%86%D9%87%D9%8A-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%B1%D8%BA%D9%85-%D8%A7%D9%84%D8%B5%D8%B9%D9%88%D8%A8%D8%A7%D8%AA/",
+      "source": "الشرق للأخبار",
+      "source_score": 40,
+      "published_at": "2026-09-04T06:50:29+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普：我们打败了伊朗",
+        "我们将“尽管困难重重”结束乌克兰战争 Al-Sharq News",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "الشرق للأخبار"
+      ],
+      "all_titles": {
+        "ar": "ترمب: هزمنا إيران.. وسننهي حرب أوكرانيا \"رغم الصعوبات\""
+      }
+    },
+    {
+      "title_original": "NATO drills highlight Iceland's role in Arctic defense",
+      "title_zh": "北约演习凸显冰岛在北极防御中的作用",
+      "url": "https://www.dw.com/en/nato-drills-highlight-icelands-role-in-the-arctic/video-78896084",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-04T06:22:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "泰瑞·舒尔茨\n2026 年 9 月 4 日\n广告\n北约以冰岛为中心的北维京演习结束，以监测北大西洋和北极的活动。",
+        "作为没有自己军队的北约创始成员国，冰岛依赖盟国的支持，同时面临着与俄罗斯活动增加和乌克兰战争有关的日益严重的安全担忧。",
+        "此次演习凸显了冰岛在追踪潜艇和军事行动方面的战略作用，而美国未来承诺的不确定性以及唐纳德·特朗普总统最近的言论引发了有关该地区安全与稳定的争论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "en": "NATO drills highlight Iceland's role in Arctic defense"
+      }
+    },
+    {
+      "title_original": "مبادرة «Powered by Her» في معرض الشرق الأوسط للطاقة تعلن عن سفيراتها المؤسسات لدعم وتمكين الجيل القادم من النساء في قطاع الطاقة",
+      "title_zh": "中东能源展上的“Powered by Her”倡议宣布设立女性企业大使，以支持和赋权能源领域的下一代女性。",
+      "url": "https://www.zawya.com/ar/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%B5%D8%AD%D9%81%D9%8A%D8%A9/%D8%A7%D9%94%D8%AD%D8%AF%D8%A7%D8%AB-%D9%88%D9%85%D9%88%D9%94%D8%AA%D9%85%D8%B1%D8%A7%D8%AA/%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9-powered-by-her-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%94%D9%88%D8%B3%D8%B7-%D9%84%D9%84%D8%B7%D8%A7%D9%82%D8%A9-%D8%AA%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%B3%D9%81%D9%8A%D8%B1%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D9%88%D9%94%D8%B3%D8%B3%D8%A7%D8%AA-%D9%84%D8%AF%D8%B9%D9%85-%D9%88%D8%AA%D9%85%D9%83%D9%8A%D9%86-%D8%A7%D9%84%D8%AC%D9%8A%D9%84-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D9%81%D9%8A-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9-478047",
+      "source": "zawya.com",
+      "source_score": 40,
+      "published_at": "2026-09-04T05:33:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "新闻稿附有一张照片\n   \n  \n  \n    \n中东能源展上的“Powered by Her”倡议宣布设立女性企业大使，以支持和赋权能源领域的下一代女性。\n    \n  \n  \n    \n    新闻稿\n  \n  \n    \n    \n  \n \n \n9 月 3 日，2026 年中东能源博览会的第三天，在阿联酋能源和基础设施部的支持下，针对能源领域女性领导人的“Powered by Her”倡议启动。",
+        "该倡议推出了企业大使，他们分享了如何增加下一代能源领域女性的机会的经验和愿景，并支持她们走向未来的领导角色。",
+        "以下人员参加了机构大使的对话：\n - 工程师 Moza Al Nuaimi，能源和基础设施部人工智能首席执行官\n- 工程师 Nawal Al Hinai，能源和基础设施部未来能源司司长\n- Ahdab Al-Morshedy 博士，CIGRE 埃及主席\n- Josephine Odonsack，大成律师事务所合伙人\n- Helen Aigbe Broome，非洲进出口银行董事兼项目和资产融资全球主管\n- Didassin Mukanilegira 博士，卢旺达能源集团董事会主席\n工程师莫扎·阿尔·努埃米 (Moza Al Nuaimi) 在致能源领域下一代女性领导人的致辞中表示：“权力掌握在我们手中。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "zawya.com"
+      ],
+      "all_titles": {
+        "ar": "مبادرة «Powered by Her» في معرض الشرق الأوسط للطاقة تعلن عن سفيراتها المؤسسات لدعم وتمكين الجيل القادم من النساء في قطاع الطاقة"
+      }
+    },
+    {
+      "title_original": "なお続くホルムズ封鎖 どう対応 中東原油依存",
+      "title_zh": "如何应对霍尔木兹持续封锁和对中东原油的依赖",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260904de48121",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-04T05:32:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "如何应对霍尔木兹海峡持续封锁和对中东原油的依赖 NHK新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "なお続くホルムズ封鎖 どう対応 中東原油依存"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : frappes dans le Golfe ; Israël étend sa « zone de sécurité » au Liban",
+      "title_zh": "中东战争：海湾地区的袭击；以色列将“安全区”延伸至黎巴嫩",
+      "url": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-184-moyen-orient-bilan-resume-aujourdhui-20260904",
+      "source": "La Croix",
+      "source_score": 40,
+      "published_at": "2026-09-04T05:30:37+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "哈马斯呼吁反对人口转移\n继本周两位以色列部长发表类似言论后，哈马斯于 9 月 4 日星期五敦促阿拉伯和穆斯林国家反对要求清空加沙巴勒斯坦人口的声明。",
+        "伊斯兰运动在一份声明中表示，这些声明反映了以色列对这片饱受战争蹂躏的巴勒斯坦领土实施的“极其危险的计划”，并要求“阿拉伯和穆斯林国家面对这些计划采取坚决行动和团结一致”。",
+        "以色列释放的四人返回黎巴嫩\n红十字国际委员会宣布，在第一名平民获释的第二天，它已将以色列释放的四名新人员转移至黎巴嫩。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "La Croix"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : frappes dans le Golfe ; Israël étend sa « zone de sécurité » au Liban"
+      }
+    },
+    {
+      "title_original": "Luckin Coffee killed our lunch spot. Here’s what that says about geopolitics",
+      "title_zh": "瑞幸咖啡毁了我们的午餐地点。这是关于地缘政治的说法",
+      "url": "https://www.ft.com/content/0ace3335-e3c9-4b75-ae02-0d4655885990",
+      "source": "Financial Times",
+      "source_score": 75,
+      "published_at": "2026-09-04T04:30:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "瑞幸咖啡毁了我们的午餐地点。",
+        "《金融时报》关于地缘政治的说法如下",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Financial Times"
+      ],
+      "all_titles": {
+        "en": "Luckin Coffee killed our lunch spot. Here’s what that says about geopolitics"
+      }
+    },
+    {
+      "title_original": "英仏首脳、小型ボートやウクライナでの関係強化を確認　大英博物館ではチャールズ国王と「バイユーのタペストリー」を観覧",
+      "title_zh": "英国和法国领导人确认小船并加强在乌克兰的关系；在大英博物馆与查理国王一起观看贝叶挂毯",
+      "url": "https://www.bbc.com/japanese/articles/c1dlrq4er1vo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-04T04:16:23+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "英国和法国领导人确认加强小船和国际事务方面的联系 在大英博物馆观看查尔斯国王的“河口挂毯”\n伊万·萨默维尔政治记者、尼克·阿德利政治编辑\n3日，英国首相安迪·伯纳姆会见正在英国访问的法国总统马克龙。伯纳姆7月才上任，首次欢迎外国领导人来到总理府。",
+        "两位领导人讨论了如何“加强”打击非法移民的努力，并使英国更接近欧洲。他们还讨论了乌克兰的远程导弹生产问题。",
+        "伯纳姆表示，马克龙是他接待的第一位外国领导人“非常合适”，并将他描述为“伊曼纽尔，我们最亲密的邻居和亲爱的朋友”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "英仏首脳、小型ボートやウクライナでの関係強化を確認　大英博物館ではチャールズ国王と「バイユーのタペストリー」を観覧"
+      }
+    },
+    {
+      "title_original": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+      "title_zh": "史蒂夫·欧文 (Steve Irwin) 去世 20 周年，家人庆祝“超级英雄”父亲",
+      "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-04T04:06:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "史蒂夫·欧文 (Steve Irwin) 去世 20 周年，家人庆祝“超级英雄”父亲\n- 已发表\n澳大利亚自然资源保护主义者宾迪·欧文 (Bindi Irwin) 为纪念她著名的父亲去世 20 周年，向这位被誉为“鳄鱼猎人”的人致以感人至深的敬意。",
+        "2006 年 9 月 4 日，史蒂夫·欧文 (Steve Irwin) 在大堡礁水下拍摄纪录片时，被黄貂鱼刺穿胸口身亡，享年 44 岁。",
+        "宾迪的父亲去世时她才八岁，她在周五的一篇在线帖子中称史蒂夫为“超级英雄”，并表示在过去的二十年里，她“看着世界和我们的家人一起哀悼我的父亲”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death"
+      }
+    },
+    {
+      "title_original": "Europa puede ayudar a disuadir a China sin enviar tropas a Taiwán",
+      "title_zh": "欧洲无需向台湾派遣军队即可帮助威慑中国",
+      "url": "https://agendapublica.es/noticia/21411/europa-puede-ayudar-disuadir-china-sin-enviar-tropas-taiwan",
+      "source": "Agenda Pública",
+      "source_score": 40,
+      "published_at": "2026-09-04T03:50:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "关于台海可能发生战争的争论通常围绕一个问题： \n如果中国试图武力夺岛，哪些国家愿意进行军事干预？",
+        "对于美国、日本或澳大利亚来说，这是一个不可避免的问题。",
+        "相反， \n欧洲从不同的立场开始\n。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Agenda Pública"
+      ],
+      "all_titles": {
+        "es": "Europa puede ayudar a disuadir a China sin enviar tropas a Taiwán"
+      }
+    },
+    {
+      "title_original": "北约成员国遭印度军购欺诈，被骗7000万后防长辞职",
+      "title_zh": "北约成员国遭印度军购欺诈，被骗7000万后防长辞职",
+      "url": "https://mil.ifeng.com/c/8w8tStMtzCC",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-09-04T03:44:18+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北约成员国遭印度军购欺诈，被骗7000万后防长辞职\n北约成员国爱沙尼亚为乌克兰买炮弹，结果被印度一家厂商坑了，7000万欧元弹药的钱早就给了，但炮弹却迟迟不完全到位，而到位的弹药也是存在严重质量问题，最终爱沙尼亚防长佩夫库尔直接被这家印度厂商坑下台。",
+        "图为爱沙尼亚防长佩夫库尔\n根据俄罗斯“生意人报”的说法，这一轮爱沙尼亚政治危机主要源自于一笔援助乌克兰的大口径炮弹采购案，时间要追溯到2024年，当时俄乌两国正密集展开炮战，俄罗斯方面的炮弹充足，而西方的155毫米炮弹产能不给力，乌克兰经常陷入“弹荒”，为了给乌克兰提供炮弹打仗，西方国家除了加速生产外，还在全球为乌克兰紧急搜刮、采购炮弹，当时爱沙尼亚国防投资中心与在意大利登记注册的一家军工企业陆续签署了多份合约，并预付7000万欧元资金来为乌克兰采购炮弹。",
+        "如此复杂的军购流程印证了欧洲军工体系的窘境，连炮弹都无法足量生产。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "北约成员国遭印度军购欺诈，被骗7000万后防长辞职"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : pas de « guerre » selon JD Vance, déploiement sud-coréen… Les dernières infos",
+      "title_zh": "中东战争：JD万斯称没有“战争”，韩国部署……最新消息",
+      "url": "https://www.ouest-france.fr/monde/proche-orient/guerre-au-moyen-orient-pas-de-guerre-selon-jd-vance-deploiement-sud-coreen-les-dernieres-infos-7413fad6-a80b-11f1-a618-771a80631f2f",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-09-04T03:17:13+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "中东战争：JD万斯称没有“战争”，韩国部署……最新消息 法国西部",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : pas de « guerre » selon JD Vance, déploiement sud-coréen… Les dernières infos"
+      }
+    },
     {
       "title_original": "Opinion | America’s absence is inviting the war Europe fears most",
       "title_zh": "意见 |美国的缺席正在引发欧洲最担心的战争",
