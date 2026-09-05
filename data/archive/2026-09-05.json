@@ -1,0 +1,882 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T00:55:09.330574+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "UN votes to adopt new world map to reflect Africa's true size",
+      "title_zh": "UN votes to adopt new world map to reflect Africa's true size",
+      "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-05T00:53:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "UN votes to adopt new world map to reflect Africa's true size\n- Published\nThe UN General Assembly has voted to replace the traditional world map with one that more accurately reflects the size of Africa.",
+        "The \"Correct the Map\" resolution, sponsored by Togo and backed by African Union (AU) members, passed with the support of 164 nations, including France and the UK.",
+        "美国是唯一投反对票的国家，有六票弃权。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "UN votes to adopt new world map to reflect Africa's true size"
+      }
+    },
+    {
+      "title_original": "ウクライナ保安局本部にロシアの攻撃",
+      "title_zh": "俄罗斯袭击乌克兰安全局总部",
+      "url": "https://www.cnn.co.jp/video/23991.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-09-05T00:30:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "ウクライナ保安局本部にロシアの攻撃 2026.09.05 Sat posted at 09:10 JST Tweet ウクライナ首都キーウにある情報機関ウクライナ保安局（SBU）の本部が4日、ロシアのドローン（無人機）による攻撃を受けた",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ保安局本部にロシアの攻撃"
+      }
+    },
+    {
+      "title_original": "Any dialogue is helpful in Russia-Ukraine war, former CENTCOM deputy commander says",
+      "title_zh": "Any dialogue is helpful in Russia-Ukraine war, former CENTCOM deputy commander says",
+      "url": "https://www.foxbusiness.com/video/6404618360112",
+      "source": "Fox Business",
+      "source_score": 40,
+      "published_at": "2026-09-04T23:53:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Live Now\nAll times eastern\nNOW - 8:30 PM\n8:30 PM\n9:00 PM\n9:30 PM\n10:00 PM\n10:30 PM\n        Fox Business Channel\n      \n COPS\n 8:30 PM - 9:00 PM\n COPS\n 9:00 PM - 9:30 PM\n COPS\n 9:30 PM - 10:00 PM\n COPS\n 10:00 PM - 10:30 PM\n COPS\n 10:30 PM - 11:00 PM\n \n        Fox News Channel\n      \n Hannity\n 9:00 PM - 10:00 PM\n Gutfeld!",
+        "10:00 PM - 11:00 PM\n \n        Fox Weather Channel\n      \n \n        Fox News Radio",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Fox Business"
+      ],
+      "all_titles": {
+        "en": "Any dialogue is helpful in Russia-Ukraine war, former CENTCOM deputy commander says"
+      }
+    },
+    {
+      "title_original": "\"Ich kenne ihn sehr gut\": Trump: Putin will Nato nicht angreifen",
+      "title_zh": "\"Ich kenne ihn sehr gut\": Trump: Putin will Nato nicht angreifen",
+      "url": "https://www.n-tv.de/politik/Trump-Putin-will-Nato-nicht-angreifen-id31272024.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-09-04T23:41:54+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "\"Ich kenne ihn sehr gut\"Trump: Putin will Nato nicht angreifen\nDer Anschlagsversuch am Flughafen Leipzig/Halle geht offenbar auf Moskaus Konto.",
+        "US-Präsident Trump glaubt dennoch nicht, dass von Russland eine Bedrohung für Nato-Staaten ausgeht.",
+        "Nach dem mutmaßlich russischen Anschlagsversuch am Flughafen Leipzig/Halle sieht US-Präsident Donald Trump weiter keine Gefahr eines russischen Angriffs auf die Nato."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "\"Ich kenne ihn sehr gut\": Trump: Putin will Nato nicht angreifen"
+      }
+    },
+    {
+      "title_original": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "title_zh": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-04T23:07:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Germany's far-right AfD bids for first taste of power in eastern vote"
+      }
+    },
+    {
+      "title_original": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "title_zh": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-04T22:48:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks"
+      }
+    },
+    {
+      "title_original": "Will geopolitics put a potential Musk merger between a rocket and a hard place?",
+      "title_zh": "Will geopolitics put a potential Musk merger between a rocket and a hard place?",
+      "url": "https://www.scmp.com/tech/tech-war/article/3366387/talk-growing-tesla-spacex-merger-will-geopolitics-throw-spanner-works",
+      "source": "South China Morning Post",
+      "source_score": 55,
+      "published_at": "2026-09-04T22:00:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "In FocusTalk is growing of a Tesla-SpaceX merger.",
+        "Will geopolitics throw a spanner in the works?",
+        "Security concerns in Beijing and Washington could create ‘bottleneck’ if Elon Musk attempts to combine the two flagship companies\nOne by one, Tesla Model Y Ls roll out of the company’s end-of-line inspection bays, gleaming in black, white and gold."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "South China Morning Post"
+      ],
+      "all_titles": {
+        "en": "Will geopolitics put a potential Musk merger between a rocket and a hard place?"
+      }
+    },
+    {
+      "title_original": "Trump brushes off accusations of Russian sabotage against NATO allies",
+      "title_zh": "Trump brushes off accusations of Russian sabotage against NATO allies",
+      "url": "https://www.politico.com/news/2026/09/04/trump-russia-nato-espionage-allegations-01066120",
+      "source": "politico.com",
+      "source_score": 75,
+      "published_at": "2026-09-04T21:58:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump brushes off accusations of Russian sabotage against NATO allies    politico.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "politico.com"
+      ],
+      "all_titles": {
+        "en": "Trump brushes off accusations of Russian sabotage against NATO allies"
+      }
+    },
+    {
+      "title_original": "Russia Ukraine War Fashion Week",
+      "title_zh": "Russia Ukraine War Fashion Week",
+      "url": "https://www.dailyrecordnews.com/ap_news/international/russia-ukraine-war-fashion-week/image_e5ca45e4-7c36-5f71-bda9-91a329590b5b.html",
+      "source": "dailyrecordnews.com",
+      "source_score": 40,
+      "published_at": "2026-09-04T21:46:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "AP Russia Ukraine War Fashion Week Efrem Lukatsky - AP Photo/Efrem Lukatsky Sep 4, 2026 3 hrs ago Comments Facebook Twitter WhatsApp SMS Email Print Copy article link Save A visitor waits for the start of the Ukrainian Fashion Week show between Russian regular air attacks in Kyiv, Ukraine, Friday, Sept.",
+        "Efrem Lukatsky - AP Photo/Efrem Lukatsky Tags General News Russia Ukraine War Fashion Facebook Twitter WhatsApp SMS Email Print Copy article link Save 2026 Best of Kittitas County Trending Now Ellensburg athletes speak out against girls head basketball coach Cle Elum councilmember cited for indecent exposure Ellensburg rodeo mural gets a makeover after 43 years ‘Serious lack of oversight and judgment’ prompted firing of Cle Elum City Clerk TEAM IN TURMOIL: Investigation confirms breakdown in trust between coach, basketball players Support Local Journalism in Classrooms Latest e-Edition To view our latest e-Edition, click the image on the left.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "dailyrecordnews.com"
+      ],
+      "all_titles": {
+        "en": "Russia Ukraine War Fashion Week"
+      }
+    },
+    {
+      "title_original": "特朗普派特使赴莫斯科和基辅 推动结束俄乌战争方案",
+      "title_zh": "特朗普派特使赴莫斯科和基辅 推动结束俄乌战争方案",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260904-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B4%BE%E7%89%B9%E4%BD%BF%E8%B5%B4%E8%8E%AB%E6%96%AF%E7%A7%91%E5%92%8C%E5%9F%BA%E8%BE%85-%E6%8E%A8%E5%8A%A8%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-09-04T21:42:14+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普派特使赴莫斯科和基辅 推动结束俄乌战争方案    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "zh": "特朗普派特使赴莫斯科和基辅 推动结束俄乌战争方案"
+      }
+    },
+    {
+      "title_original": "Trump says Witkoff, Kushner heading abroad in latest U.S. effort to end Ukraine war",
+      "title_zh": "Trump says Witkoff, Kushner heading abroad in latest U.S. effort to end Ukraine war",
+      "url": "https://www.cbc.ca/news/world/trump-witkoff-kushner-ukraine-russia-9.7333211",
+      "source": "CBC",
+      "source_score": 40,
+      "published_at": "2026-09-04T21:34:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump says Witkoff, Kushner heading abroad in latest U.S.",
+        "effort to end Ukraine war\nZelenskyy says U.S.",
+        "envoys will arrive in Ukraine Sunday after going to Moscow first\nU.S."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "CBC"
+      ],
+      "all_titles": {
+        "en": "Trump says Witkoff, Kushner heading abroad in latest U.S. effort to end Ukraine war"
+      }
+    },
+    {
+      "title_original": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+      "title_zh": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-04T20:21:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US president suggests he might support his Argentinian acolyte’s drive to reclaim sovereignty of disputed islands Donald Trump has long embraced vengeance.",
+        "“I am your retribution,” he declared to an admiring audience at the 2023 Conservative Political Action Conference (CPAC) as he commenced his march back to the White House.",
+        "It is unlikely Argentina, and far-flung holdovers of the former British empire, were on the US president’s mind at the time."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK"
+      }
+    },
+    {
+      "title_original": "東アジアの地政学急変、日韓は近寄れ 元駐日韓国大使が説く共通利益",
+      "title_zh": "東アジアの地政学急変、日韓は近寄れ 元駐日韓国大使が説く共通利益",
+      "url": "https://www.nikkei.com/article/DGXZQOGM2514S0V20C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-04T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "この記事は会員限定記事です\n東アジアの地政学急変、日韓は近寄れ 元駐日韓国大使が説く共通利益\n直言\n[会員限定記事]\n東アジアの秩序に変化の波が押し寄せている。米国と覇権を競う中国が軍事力を強めロシアや北朝鮮との連携を拡大する一方、トランプ米政権によるこの地域への関与は弱まりつつあるように映る。米国の同盟国である日本や韓国はこの流れにどう身構え、何をすべきか。元駐日韓国大使の尹徳敏氏に聞いた。",
+        "韓国政府が2023年に元徴用工問題の解決策を決定した後、日韓関係は急速な改善を遂げた。首脳が互いの国を行き来するシャトル外交も再開から4年目に入った。...",
+        "このテーマをこの人に聞いてみたい。世界の政治・経済・文化の著名人から新興国の論客やスタートアップの経営者まで様々なジャンル、年代の方に独自の視点や本音を語ってもらう大型インタビュー企画です。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "東アジアの地政学急変、日韓は近寄れ 元駐日韓国大使が説く共通利益"
+      }
+    },
+    {
+      "title_original": "中東に「パキスタン核の傘」 米不在の安保再編、新たな衝突の火種に",
+      "title_zh": "中東に「パキスタン核の傘」 米不在の安保再編、新たな衝突の火種に",
+      "url": "https://www.nikkei.com/article/DGXZQOGR301250Q6A830C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-04T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中東に「パキスタン核の傘」 米不在の安保再編、新たな衝突の火種に\n中東駐在編集委員 岐部秀光\n中東の安全保障の地図が塗り替わりつつある。米国不在の時代を見据え、イスラム圏で唯一の核保有国であるパキスタンを軸に各国が新たな枠組みづくりを急ぐ。一貫した戦略を欠いた安保再編は対立の火種となり、核拡散のリスクを高めかねない。",
+        "パキスタンとクウェートは8月27日、共同防衛軍事協力の協定に署名した。米国が攻撃したイランによる報復を受け、湾岸アラブ諸国は防衛のあり方を見直さざるを得なくなった。サウジア...",
+        "※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "中東に「パキスタン核の傘」 米不在の安保再編、新たな衝突の火種に"
+      }
+    },
+    {
+      "title_original": "トランプ氏、米特使らをロ・ウクライナに派遣 和平案提示へ",
+      "title_zh": "トランプ氏、米特使らをロ・ウクライナに派遣 和平案提示へ",
+      "url": "https://jp.reuters.com/world/ukraine/6YYW6QYPRVMCTOBULNEB6EFR3Y-2026-09-04/",
+      "source": "ロイター",
+      "source_score": 40,
+      "published_at": "2026-09-04T19:53:16+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "トランプ氏、米特使らをロ・ウクライナに派遣 和平案提示へ    ロイター",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "ロイター"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、米特使らをロ・ウクライナに派遣 和平案提示へ"
+      }
+    },
+    {
+      "title_original": "ترمب: بوتين «لا يسعى لمهاجمة» حلف شمال الأطلسي",
+      "title_zh": "ترمب: بوتين «لا يسعى لمهاجمة» حلف شمال الأطلسي",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9%E2%80%8B/5314812-%D8%AA%D8%B1%D9%85%D8%A8-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%84%D8%A7-%D9%8A%D8%B3%D8%B9%D9%89-%D9%84%D9%85%D9%87%D8%A7%D8%AC%D9%85%D8%A9-%D8%AD%D9%84%D9%81-%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D8%B7%D9%84%D8%B3%D9%8A",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-09-04T19:52:56+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "نُشر: 20:52-4 سبتمبر 2026 م ـ 22 ربيع الأول 1448 هـ\nTT\nترمب: بوتين «لا يسعى لمهاجمة» حلف شمال الأطلسي\nالرئيس الأميركي دونالد ترمب في المكتب البيضاوي (أ.ف.ب)\nكرر الرئيس الأميركي دونالد ترمب، الجمعة، اعتقاده أن نظيره الروسي فلاديمير بوتين لن يهاجم دول حلف شمال الأطلسي (ناتو)، رغم أن ألمانيا حمّلت موسكو هذا الأسبوع مسؤولية محاولة هجوم بطائرة مسيّرة في مطار لايبزيغ.",
+        "وقال ترمب في المكتب البيضاوي، رداً على سؤال من «وكالة الصحافة الفرنسية» حول المزاعم الألمانية: «أنا أتحدث معه.",
+        "“普京并不寻求攻击北约领土。”"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "ترمب: بوتين «لا يسعى لمهاجمة» حلف شمال الأطلسي"
+      }
+    },
+    {
+      "title_original": "ترامب يسعى إلى إعادة ترتيب الشرق الأوسط بعد الحرب مع إيران",
+      "title_zh": "ترامب يسعى إلى إعادة ترتيب الشرق الأوسط بعد الحرب مع إيران",
+      "url": "https://arabic.anf-news.com/akhr-l-khbr/tramb-ysy-aly-aadt-trtyb-alshrq-alawst-bd-alhrb-m-ayran-140126",
+      "source": "ANF | Articles",
+      "source_score": 55,
+      "published_at": "2026-09-04T19:00:26+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "نقل الموقع عن مسؤولين أميركيين ومصادر مطلعة على المناقشات أن الخطة لا تزال في مراحلها الأولى، لكنها تهدف إلى رسم ملامح السياسة الأميركية في الشرق الأوسط خلال العامين الأخيرين من ولاية ترامب.",
+        "消息人士称，该战略是在两个层面上制定的，第一个是美国政府内部的高层政治家，第二个是通过各个政府机构和部门的工作团队。",
+        "最近几周，特朗普还与高级顾问举行了两次会议，讨论该计划并提出下一阶段的想法。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "ANF | Articles"
+      ],
+      "all_titles": {
+        "ar": "ترامب يسعى إلى إعادة ترتيب الشرق الأوسط بعد الحرب مع إيران"
+      }
+    },
+    {
+      "title_original": "特朗普：美特使将向俄提交结束俄乌冲突方案",
+      "title_zh": "特朗普：美特使将向俄提交结束俄乌冲突方案",
+      "url": "https://news.ifeng.com/c/8w9sfHMFEsm",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-09-04T18:54:28+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普：美特使将向俄提交结束俄乌冲突方案央视新闻2026年09月05日 02:54:28 来自北京市Updated 2026年09月05日 04:30:06△美国总统特朗普（资料图）当地时间9月4日，美国总统特朗普表示，美国特使威特科夫与库什纳将向俄罗斯提交结束俄乌冲突的方案。此前有消息人士称，威特科夫和库什纳计划在近期访问俄罗斯和乌克兰。（央视记者 许弢）",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "特朗普：美特使将向俄提交结束俄乌冲突方案"
+      }
+    },
+    {
+      "title_original": "U.S., NATO allied ties strengthened through Exercise Northern Viking 2026",
+      "title_zh": "U.S., NATO allied ties strengthened through Exercise Northern Viking 2026",
+      "url": "https://www.navy.mil/Press-Office/News-Stories/display-news/Article/4591522/us-nato-allied-ties-strengthened-through-exercise-northern-viking-2026/",
+      "source": "navy.mil",
+      "source_score": 40,
+      "published_at": "2026-09-04T18:32:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "U.S., NATO allied ties strengthened through Exercise Northern Viking 2026    navy.mil",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "navy.mil"
+      ],
+      "all_titles": {
+        "en": "U.S., NATO allied ties strengthened through Exercise Northern Viking 2026"
+      }
+    },
+    {
+      "title_original": "‘Not feasible’: With ballots already in the mail, election officials say it is too late for Trump’s USPS order",
+      "title_zh": "‘Not feasible’: With ballots already in the mail, election officials say it is too late for Trump’s USPS order",
+      "url": "https://www.politico.com/news/2026/09/04/trump-mail-ballots-order-november-elections-01065234",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-04T14:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "While the Trump administration's bid to overhaul mail-in voting remains blocked by the lower courts, North Carolina will be the first state to send ballots on Friday.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "‘Not feasible’: With ballots already in the mail, election officials say it is too late for Trump’s USPS order"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : «L’Amérique a perdu pied», charge Philippe de Villiers",
+      "title_zh": "Guerre au Moyen-Orient : «L’Amérique a perdu pied», charge Philippe de Villiers",
+      "url": "https://www.cnews.fr/videos/monde/2026-09-04/guerre-au-moyen-orient-lamerique-perdu-pied-charge-philippe-de-villiers",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-09-04T17:45:16+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : «L’Amérique a perdu pied», charge Philippe de Villiers    CNews",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : «L’Amérique a perdu pied», charge Philippe de Villiers"
+      }
+    },
+    {
+      "title_original": "Argentine couple to return Nazi-looted painting to rightful owner",
+      "title_zh": "Argentine couple to return Nazi-looted painting to rightful owner",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-04T17:14:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Argentine couple to return Nazi-looted painting to rightful owner\n- Published\nA painting which was stolen by the Nazis and only recovered in Argentina last year must now be returned to the heir of its rightful owner, a court has ruled.",
+        "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near Buenos Aires.",
+        "The house belonged to Patricia Kadgien, the daughter of a Nazi fugitive who had fled there after the Second World War, and she has now agreed to return the painting in exchange for not being prosecuted for concealing it from the authorities."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Argentine couple to return Nazi-looted painting to rightful owner"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Schläge gegen Russlands Wirtschaft – Öldepot in Sotschi brennt",
+      "title_zh": "当前的乌克兰战争：对俄罗斯经济的打击——索契油库被烧毁",
+      "url": "https://www.fr.de/politik/ein-und-droht-grossbritannien-ukraine-krieg-aktuell-putin-raeumt-verluste-zr-94471028.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-04T17:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg aktuell: Schläge gegen Russlands Wirtschaft – Öldepot in Sotschi brennt\nUns auf Google folgen\nAktuelle Lage im Ukraine-Krieg im News-Ticker: Kiew attackiert russische Schwarzmeer-Hafenstadt.",
+        "Erneute russische Angriffe auf Kiew.",
+        "Russland führt seit mehr als viereinhalb Jahren Krieg gegen sein Nachbarland."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Schläge gegen Russlands Wirtschaft – Öldepot in Sotschi brennt"
+      }
+    },
+    {
+      "title_original": "UN votes to adopt new world map that shows Africa’s true scale",
+      "title_zh": "UN votes to adopt new world map that shows Africa’s true scale",
+      "url": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-04T16:49:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Togo-sponsored resolution called to phase out traditional map that depicts continent as similar size to Greenland The United Nations has voted to adopt a resolution for the world to formally phase out the traditional Mercator map of the globe in favour of one that more accurately displays Africa’s size.",
+        "In a session at its headquarters in New York, the UN general assembly officially retired the 16th-century Mercator projection in favour of one based on the more accurate 2018 Equal Earth design.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "UN votes to adopt new world map that shows Africa’s true scale"
+      }
+    },
+    {
+      "title_original": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "title_zh": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-04T16:49:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧洲成为不断升级的破坏活动的目标 - 俄罗斯是主要嫌疑人\n- 已发表\n随着欧洲夏季气温打破纪录，许多政客转向度假模式，俄罗斯仍然专注于战争。",
+        "Not only did its military attacks across Ukraine intensify last month, becoming ever more deadly for civilians, Russia also appears to have escalated its sabotage campaign across Europe.",
+        "This time, military and defence sector sites were the prime target."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect"
+      }
+    },
+    {
+      "title_original": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "title_zh": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-04T16:02:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia hits Ukrainian security headquarters in drone attack, Zelensky says\n- Published\nA Russian drone has hit the headquarters of the Security Service of Ukraine (SBU) during a strike in the heart of Kyiv, Ukrainian President Volodymyr Zelensky has said.",
+        "The unmanned aerial vehicle crashed into the SBU headquarters on Friday afternoon, targeting a room used by security chief Oleksandr Poklad.",
+        "It is not clear whether Poklad was in the building, but Zelensky said he had since spoken to him to order an \"appropriate, tangible response\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says"
+      }
+    },
+    {
+      "title_original": "« Géopolitique du train » – 4 questions à Claude Leblanc",
+      "title_zh": "« Géopolitique du train » – 4 questions à Claude Leblanc",
+      "url": "https://www.iris-france.org/geopolitique-du-train-4-questions-a-claude-leblanc/",
+      "source": "IRIS - Institut de relations internationales et stratégiques",
+      "source_score": 40,
+      "published_at": "2026-09-04T15:52:59+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Éditos de Pascal Boniface\n4 septembre 2026\n« Géopolitique du train » – 4 questions à Claude Leblanc\nSelon vous, l’un des meilleurs indicateurs pour saisir l’état d’un pays est de regarder celui de ses trains… Peut-on tirer une conclusion dans le fait que les États-Unis avaient au début du XXe siècle les deux tiers des voies ferrés du monde et qu’aujourd’hui la Chine possède plus de ligne à grande vitesse que le reste du monde réuni ?",
+        "La construction des chemins de fer aux États-Unis a contribué à la montée en puissance du pays en termes économiques et technologiques.",
+        "Elle a accompagné le rayonnement du pays dans le monde."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "IRIS - Institut de relations internationales et stratégiques"
+      ],
+      "all_titles": {
+        "fr": "« Géopolitique du train » – 4 questions à Claude Leblanc"
+      }
+    },
+    {
+      "title_original": "Ostsee unter Druck: Polen und NATO rüsten sich gegen Sabotage und Spionage",
+      "title_zh": "Ostsee unter Druck: Polen und NATO rüsten sich gegen Sabotage und Spionage",
+      "url": "https://de.euronews.com/my-europe/2026/09/04/ostsee-polen-nato-sabotage-spionage-russen",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-04T15:09:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Aggressive russische Politik im Ostseeraum setzt EU- und NATO-Staaten unter Druck.",
+        "Sie müssen sich besser gegen Sabotage und Spionage wappnen.",
+        "Welche Herausforderungen bringt die russische Eskalation?"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "Ostsee unter Druck: Polen und NATO rüsten sich gegen Sabotage und Spionage"
+      }
+    },
+    {
+      "title_original": "ウクライナ情報機関にドローン攻撃 ゼレンスキー氏「長官室標的」",
+      "title_zh": "ウクライナ情報機関にドローン攻撃 ゼレンスキー氏「長官室標的」",
+      "url": "https://www.asahi.com/articles/ASV944TMYV94UHBI01VM.html",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-09-04T14:56:51+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ情報機関にドローン攻撃 ゼレンスキー氏「長官室標的」\nウクライナのゼレンスキー大統領は4日、首都キーウにあるウクライナ保安局（SBU）の本部がロシアのドローン（無人機）攻撃を受けたとSNSで明らかにした。SBUによると、標的にされたとみられる組織のトップにけがはなかったという。",
+        "地元メディアによると、建物は空襲警報発令の30分後の午後3時半ごろに攻撃を受け、黒煙が上がった。キーウのクリチコ市長は攻撃の直後、SBUのある地区で火災が発生したことをSNSで報告。夜までに12人の負傷者が出たと明かした。",
+        "SBUも声明を出し、現在の組織トップにあたるポクラド長官代行の執務室が狙われたと指摘。ロシアに対する「痛烈な反撃」を予告した。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ情報機関にドローン攻撃 ゼレンスキー氏「長官室標的」"
+      }
+    },
+    {
+      "title_original": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "title_zh": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-04T14:40:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors\nTwo people have been rescued from a tunnel in Nepal more than a week after flash flooding hit the Nepal-Tibet border, killing more than 1,300 people.",
+        "Nepal's army is continuing its search for survivors, but mud and rocks are making rescue efforts difficult.",
+        "The BBC's South Asia correspondent Azadeh Moshiri, reporting from Nepal, describes how the rescues have given renewed hope to some families still waiting to find out what happened to missing relatives."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors"
+      }
+    },
+    {
+      "title_original": "ロシア、ウクライナ保安局庁舎を攻撃 無人機直撃とゼレンスキー氏",
+      "title_zh": "ロシア、ウクライナ保安局庁舎を攻撃 無人機直撃とゼレンスキー氏",
+      "url": "https://www.nikkei.com/article/DGXZQOGR04B7X0U6A900C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-04T14:19:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "この記事は会員限定記事です\nロシア、ウクライナ保安局庁舎を攻撃 無人機直撃とゼレンスキー氏\n(更新)[会員限定記事]\n【ウィーン=金子夏樹】ウクライナのゼレンスキー大統領は4日、ロシア軍が首都キーウのウクライナ保安局（SBU）の本部庁舎を無人機（ドローン）で攻撃したと明らかにした。SBUのポクラド長官代行の執務室を狙った攻撃だと説明した。",
+        "ウクライナの情報機関であるSBUの庁舎はキーウ中心部の世界遺産「聖ソフィア大聖堂」の向かいに位置する。ウクライナメディアによると、ジェットエンジンを搭載して高速で飛行するドロ...",
+        "2022年2月、ロシアがウクライナに侵略しました。戦況や世界各国の動きなど、関連する最新ニュースと解説をまとめました。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナ保安局庁舎を攻撃 無人機直撃とゼレンスキー氏"
+      }
+    },
+    {
+      "title_original": "(S+) Russland-Ukraine-Krieg: Massive Luftangriffe auf Kyjiw – täglicher Terror aus der Luft",
+      "title_zh": "(S+) Russland-Ukraine-Krieg: Massive Luftangriffe auf Kyjiw – täglicher Terror aus der Luft",
+      "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-massive-luftangriffe-auf-kyjiw-taeglicher-terror-aus-der-luft-a-e5f07918-87c3-4819-98fa-5896378f7dcb",
+      "source": "spiegel.de",
+      "source_score": 75,
+      "published_at": "2026-09-04T13:57:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russland-Ukraine-Krieg: Massive Luftangriffe auf Kyjiw – täglicher Terror aus der Luft\nSuche starten\nSuche öffnen\nDieser Ausdruck wurde am 05.09.2026 erstellt und ist ausschließlich für den persönlichen Gebrauch lizenziert.",
+        "Andere Nutzungen verletzen das Urheberrecht\nAutomatisch erstellt mit KI.",
+        "Mehr Informationen dazu hier."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "spiegel.de"
+      ],
+      "all_titles": {
+        "de": "(S+) Russland-Ukraine-Krieg: Massive Luftangriffe auf Kyjiw – täglicher Terror aus der Luft"
+      }
+    },
+    {
+      "title_original": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
+      "title_zh": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
+      "url": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-04T13:50:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep Americas Colombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a video on social media in which he strides through rows of white body bags that he says contained the corpses of 23 “neutralised” guerrillas.",
+        "De La Espriella took power last month vowing “all-out war” against illegal armed groups and he published the footage on Thursday in an apparent attempt to show he was fulfilling that pledge.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Colombia president provokes disgust by posing with bodies of ‘terrorists’"
+      }
+    },
+    {
+      "title_original": "خوفًا من التعقب.. الجيش الأمريكي يعطّل أدوات قد تكشف مواقع جنوده في الشرق الأوسط",
+      "title_zh": "خوفًا من التعقب.. الجيش الأمريكي يعطّل أدوات قد تكشف مواقع جنوده في الشرق الأوسط",
+      "url": "https://arabic.euronews.com/2026/09/04/us-army-location-data-ad-tracking-pentagon-middle-east",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-04T13:35:11+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "اتخذ الجيش الأمريكي إجراءات للحد من إمكانية تعقب قواته عبر تعطيل أدوات مرتبطة بتتبع الإعلانات على عدد من أجهزته، وسط مخاوف من استخدام بيانات المواقع الجغرافية المتاحة تجارياً لاستهداف العسكريين المنتشرين في الشرق الأوسط، وفق ما كشفت وكالة \"رويترز\".",
+        "بحسب رسائل نشرها، الجمعة، السيناتور الأمريكي الديمقراطي رون وايدن، إلى جانب إفادات قُدمت لـ \"رويترز\"، عطّل سلاح الجو معرّفات الإعلانات على أجهزة الكمبيوتر والهواتف المحمولة قبل نحو شهرين، فيما أفادت قيادة العمليات الخاصة الأمريكية بأنها اتخذت الإجراء نفسه \"مؤخراً\" على أجهزتها العاملة بنظام \"ويندوز\".",
+        "وأظهرت رسائل مماثلة أرسلها الجيش والبحرية إلى وايدن أنهما فرضا بدورهما قيوداً على معرّفات الإعلانات في الأجهزة العسكرية."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "خوفًا من التعقب.. الجيش الأمريكي يعطّل أدوات قد تكشف مواقع جنوده في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "title_zh": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "url": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-04T13:00:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Body of world's youngest traditional king returns home to Uganda amid succession row\n- Published\nThe body of a popular traditional ruler who was the world's youngest reigning monarch has been flown home to Uganda where President Yoweri Musveni was amongst the mourners gathered at Entebbe airport to pay their respects.",
+        "King Oyo Nyimba Kabamba Iguru Rukidi IV died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
+        "The Tooro king will be buried next Saturday - the day he had hoped to celebrate the anniversary of his coronation."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Body of world's youngest traditional king returns home to Uganda amid succession row"
+      }
+    }
+  ]
+}
