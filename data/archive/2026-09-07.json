@@ -1,0 +1,882 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T00:59:11.545231+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "title_zh": "亚马逊货机在迈阿密机场坠毁致五人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-07T00:39:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "亚马逊货机在迈阿密机场坠毁致五人死亡\n- 已发表\n亚马逊航空一架货机在试图降落迈阿密国际机场时冲出跑道，造成五人死亡、五人重伤。",
+        "这架波音 767-300 货机于当地时间 14:00（格林威治标准时间 19:00）从波多黎各圣胡安路易斯·穆尼奥斯·马林国际机场起飞后坠毁。",
+        "飞机还击中了地面上的几辆汽车。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Five dead after Amazon cargo plane crashes at Miami airport"
+      }
+    },
+    {
+      "title_original": "Austria's Islamic headscarf ban in force as under-14s go back to school",
+      "title_zh": "奥地利14岁以下儿童重返校园之际，伊斯兰头巾禁令生效",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz74xn8q8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-07T00:01:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "奥地利14岁以下儿童重返校园之际，伊斯兰头巾禁令生效\n- 已发表\n随着奥地利新学年的开始，一项禁止 14 岁以下女童在学校戴头巾的法律已生效。",
+        "该法律禁止全国公立和私立学校戴“传统穆斯林”头饰，例如头巾或罩袍。",
+        "来自保守派人民党 (ÖVP) 的融合部长克劳迪娅·鲍尔 (Claudia Bauer) 表示，头巾是“压迫的标志，是从童年开始控制女孩的一种手段”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Austria's Islamic headscarf ban in force as under-14s go back to school"
+      }
+    },
+    {
+      "title_original": "新興国ｅｙｅ＞前週のインド株、中東情勢悪化による原油高と国債利回り上昇に４週続落＝ＢＲＩＣｓ市況(ウエルスアドバイザー)",
+      "title_zh": "新兴市场之眼 > 上周印度股市连续第四周下跌，原因是油价高企以及中东局势恶化导致国债收益率上升=金砖四国市场状况（财富顾问）",
+      "url": "https://finance.yahoo.co.jp/news/detail/6bdbf3d2a78ee25b3797b0c1603289e00e452911",
+      "source": "Yahoo!ファイナンス",
+      "source_score": 40,
+      "published_at": "2026-09-06T23:56:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "上周（8月31日-9月4日）印度股市，代表股指SENSEX指数4日收盘价为76515.43点，较前一交易日上涨0.48%，周环比较8月28日收盘价下跌0.97%，连续第四周下跌。",
+        "该指数周初31日下跌，至3日连续四日下跌。",
+        "上半周，印度市场也因海外库存下跌而疲软。由于美国和伊朗之间的紧张局势升级，油价飙升至每桶90美元，全球债券收益率上升。 IT股、金属股、房地产股、媒体相关股领跌。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Yahoo!ファイナンス"
+      ],
+      "all_titles": {
+        "ja": "新興国ｅｙｅ＞前週のインド株、中東情勢悪化による原油高と国債利回り上昇に４週続落＝ＢＲＩＣｓ市況(ウエルスアドバイザー)"
+      }
+    },
+    {
+      "title_original": "新興国ｅｙｅ＞前週のロシア株、原油高やウクライナ協議再開期待を受け急反発＝ＢＲＩＣｓ市況(ウエルスアドバイザー)",
+      "title_zh": "新兴市场之眼 > 上周俄罗斯股市因高油价和乌克兰重启谈判预期大幅反弹=金砖四国市场状况（财富顾问）",
+      "url": "https://finance.yahoo.co.jp/news/detail/2f8eb051d48a911dbcc661f9da0bf41078b61340",
+      "source": "Yahoo!ファイナンス",
+      "source_score": 40,
+      "published_at": "2026-09-06T23:55:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "上周（8月31日-9月4日），俄罗斯股市大幅反弹，RTS指数（以美元计价）4日收盘于819.85，较前一交易日上涨2.1%，较8月28日收盘价周环比上涨5.3%。",
+        "该指数周初31日上涨，但进入9月市场后1日回落。第二天继续下跌，第三天反弹。",
+        "上半周，由于乌克兰恢复和谈的预期不断升温，买盘占主导地位。此外，由于美国和伊朗之间爆发新的敌对行动，布伦特原油期货上涨至每桶90美元以上，各大公司强劲的财务业绩也是支撑因素。领涨的是钢铁巨头新利佩茨克钢铁公司（NLMK）和金属巨头诺里尔斯克镍业公司（GMKN）。此后，由于担心市场价格上涨导致价格高位，获利盘抛售加剧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Yahoo!ファイナンス"
+      ],
+      "all_titles": {
+        "ja": "新興国ｅｙｅ＞前週のロシア株、原油高やウクライナ協議再開期待を受け急反発＝ＢＲＩＣｓ市況(ウエルスアドバイザー)"
+      }
+    },
+    {
+      "title_original": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "title_zh": "德国极右翼选择党将在东部州取得重大胜利，仅差一点点获得多数席位",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-06T23:02:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德国极右翼选择党将在东部州取得重大胜利，仅差一点点获得多数席位\n- 已发表\n德国另类选择党（AfD）正在东部萨克森-安哈尔特州取得戏剧性胜利，远远领先于其主流竞争对手。",
+        "尽管预计不会获得多数席位，但选择党表示它已赢得执政授权。",
+        "考虑到大部分中期结果，极右翼的德国选择党有望赢得创纪录的 44% 选票，远远领先于保守派基民盟 (CDU) 的 17%。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Germany's far-right AfD set for big win in eastern state, just short of majority"
+      }
+    },
+    {
+      "title_original": "泽连斯基称与美特使等人举行“实质性”会晤",
+      "title_zh": "泽连斯基称与美特使等人举行“实质性”会晤",
+      "url": "https://finance.sina.cn/2026-09-07/detail-iniqxynh6401745.d.html?vt=4",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-09-06T22:34:53+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "泽连斯基称与美特使等人举行“实质性”会晤\n（来源：上观新闻）\n当地时间9月6日，乌克兰总统泽连斯基在与美国总统特朗普的特使威特科夫和女婿库什纳会晤后表示，乌方与美方和欧洲国家代表当天举行了三轮“非常具有实质性”的会谈，讨论了对乌越冬援助、安全保障等俄乌冲突涉及的议题。",
+        "泽连斯基说，他与威特科夫和库什纳详细讨论了乌克兰越冬面临的挑战以及美欧伙伴对乌提供支持等问题，乌方期待在防空和能源方面获得大量援助。乌美双方讨论了利用美国液化天然气越冬的可能性。",
+        "泽连斯基说，会谈不仅涉及所需的安全保障，还包括旨在确保战后乌克兰重建的经济保障，战后乌方也需要维持一支强大军队。他还说，对于俄乌冲突涉及的领土等复杂问题，需在领导人层面进行讨论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "泽连斯基称与美特使等人举行“实质性”会晤"
+      }
+    },
+    {
+      "title_original": "米特使、新たなウクライナ・ロシア協議に期待 両国訪問受け",
+      "title_zh": "美国特使在访问乌克兰和俄罗斯后期待新的会谈",
+      "url": "https://jp.reuters.com/world/ukraine/LLCQRHYHEZKZTDMIRNQ62MUYBE-2026-09-06/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-06T22:29:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国特使在访问乌克兰和俄罗斯后期待新的会谈 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米特使、新たなウクライナ・ロシア協議に期待 両国訪問受け"
+      }
+    },
+    {
+      "title_original": "トランプ氏の特使、８カ月ぶりにプーチン氏と会談…ウクライナ終戦交渉再開の合図か（ハンギョレ新聞）",
+      "title_zh": "特朗普特使8个月来首次会见普京……可能是重启结束乌克兰战争谈判的信号（韩民族日报）",
+      "url": "https://news.yahoo.co.jp/articles/6316375642c83c9a830ba863032714d23d7f162d",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-06T22:28:01+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普特使八个月来首次会见普京……可能是重启结束乌克兰战争谈判的信号\n俄罗斯：“谈话非常有用......美国”提供解决方案”美国：“讨论将在未来几周内宣布的下一步计划”\n美国总统特朗普的特使与俄罗斯总统弗拉基米尔·普京八个月来首次会面。所有人都在关注因伊朗局势而失去兴趣的结束乌克兰战争的谈判是否会重新启动。",
+        "据路透社和俄罗斯塔斯社报道，普京总统5日（当地时间）在莫斯科克里姆林宫会见了特朗普总统特使维特科夫和总统女婿库什纳约三个小时，讨论了乌克兰战争问题。这是维特科夫第八次访问俄罗斯，也是自一月份以来八个月来的首次。维特科夫和库什纳在与普京总统会面后立即离开俄罗斯，并计划于第二天在乌克兰基辅会见泽连斯基总统。俄罗斯和乌克兰同意从5日开始三天内不对各自首都莫斯科和基辅发动袭击，恰逢美国特使一系列访问。",
+        "普京总统在会见特使时表示，“我们正在战场上取得实质性进展”，并补充道，“我们今天要应对的局势绝非简单。”会后，在场的总统外交政策顾问乌沙科夫对记者表示，“这次会议不仅就乌克兰危机的解决方案交换了意见，而且还就美俄之间的经济问题和互利项目交换了意见”，并补充道，“这次谈判是及时的，对双方都非常有利。”“维特科夫和库什纳特使为这次访问做了认真的准备，不仅展示了早日结束战争的道路，而且展示了可能的解决方案。”白宫官员在发给国际媒体的新闻声明中表示，威特科夫和库什纳已与普京“讨论了未来几周宣布的后续步骤的实质性计划”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏の特使、８カ月ぶりにプーチン氏と会談…ウクライナ終戦交渉再開の合図か（ハンギョレ新聞）"
+      }
+    },
+    {
+      "title_original": "US envoys hold talks with Zelenskyy in push to end Russia-Ukraine war",
+      "title_zh": "美国特使与泽连斯基举行会谈，推动结束俄罗斯-乌克兰战争",
+      "url": "https://www.foxnews.com/video/6404688498112",
+      "source": "foxnews.com",
+      "source_score": 40,
+      "published_at": "2026-09-06T21:52:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国特使与泽连斯基举行会谈，推动结束俄罗斯-乌克兰战争\n福克斯新闻记者斯蒂芬妮·贝内特报道美国",
+        "特使贾里德·库什纳和史蒂夫·威特科夫在基辅会见乌克兰总统弗拉基米尔·泽伦斯基，以推动结束“福克斯报道”中的俄罗斯-乌克兰战争。",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "foxnews.com"
+      ],
+      "all_titles": {
+        "en": "US envoys hold talks with Zelenskyy in push to end Russia-Ukraine war"
+      }
+    },
+    {
+      "title_original": "EEUU niega afirmación de Irán de que atacó un barco no tripulado y otras noticias de Oriente Medio",
+      "title_zh": "美国否认伊朗声称袭击无人船等中东新闻",
+      "url": "https://apnews.com/article/oriente-medio-libano-israel-gaza-eeuu-7fd695885c235cb6ee723bfcd3fadd2b",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-09-06T21:49:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国否认伊朗声称袭击无人船等中东新闻\n美国军方否认伊朗有关其在霍尔木兹海峡袭击美国无人军舰的说法，称其“绝对是谎言”。",
+        "据黎巴嫩当局称，以色列在黎巴嫩南部的袭击造成七人死亡，并摧毁了一家废弃的医院，该地区附近已成为以色列与伊朗支持的政治准军事组织真主党之间战斗的热点地区。",
+        "A continuación, un vistazo a las últimas noticias en Oriente Medio."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "es": "EEUU niega afirmación de Irán de que atacó un barco no tripulado y otras noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Opinion | Heading to America to bridge the gap in US-China relations",
+      "title_zh": "Opinion | Heading to America to bridge the gap in US-China relations",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3366098/heading-america-bridge-gap-us-china-relations",
+      "source": "South China Morning Post",
+      "source_score": 55,
+      "published_at": "2026-09-06T21:30:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Heading to America to bridge the gap in US-China relations\nIn a year-long research across America, I hope to map where superpower friction ends, and where shared interest must begin\nBefore boarding my flight to Boston late last month, I spent the better part of three days doing something I never imagined I would do in more than 30 years of covering China: scrubbing my phone.",
+        "Old emails, screenshots, WeChat threads that might be read the wrong way, anything that could be misconstrued in an airport interview room – all deleted, just in case.",
+        "I was not being paranoid."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "South China Morning Post"
+      ],
+      "all_titles": {
+        "en": "Opinion | Heading to America to bridge the gap in US-China relations"
+      }
+    },
+    {
+      "title_original": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "title_zh": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "url": "https://www.bbc.com/news/articles/c6248nvqy8po",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-06T20:41:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Zelensky says he expects war to continue into winter after talks with US envoys\nUkrainian President Volodymyr Zelensky has said he expects the war with Russia to continue into the winter, following talks with Donald Trump's top envoys in Kyiv.",
+        "The discussions finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Ukraine for the first time since Russia's full-scale invasion.",
+        "The previous day, the pair had held talks with Vladimir Putin in Moscow."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "en": "Zelensky says he expects war to continue into winter after talks with US envoys"
+      }
+    },
+    {
+      "title_original": "ウクライナ和平協議が「再開」 妙案なく難航必至、ロシアは実利狙う",
+      "title_zh": "ウクライナ和平協議が「再開」 妙案なく難航必至、ロシアは実利狙う",
+      "url": "https://www.nikkei.com/article/DGXZQOGR062ST0W6A900C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-06T20:01:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ和平協議が「再開」 妙案なく難航必至、ロシアは実利狙う\n【ウィーン=金子夏樹】米国のウィットコフ和平交渉担当特使が5日から6日にかけてロシアとウクライナを訪れ、停滞していたウクライナの和平協議が再開した。戦争終結に向けた和平案を両国に提示したとみられるが、歩み寄りの余地は小さく、協議は難航が必至だ。",
+        "ウィットコフ氏は5日にロシアのプーチン大統領、6日にウクライナのゼレンスキー大統領とそれぞれ3時間超にわたり会談した。2022年にウクライナへの侵略が始...",
+        "※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ和平協議が「再開」 妙案なく難航必至、ロシアは実利狙う"
+      }
+    },
+    {
+      "title_original": "サウジなど3カ国防衛協定、中東に新断層 物流回廊でも主導権争い",
+      "title_zh": "サウジなど3カ国防衛協定、中東に新断層 物流回廊でも主導権争い",
+      "url": "https://www.nikkei.com/article/DGXZQODK2762F0X20C26A8000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-06T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "この記事は会員限定記事です\nサウジなど3カ国防衛協定、中東に新断層 物流回廊でも主導権争い\n編集委員 久門武史\n[会員限定記事]\n激動の中東でサウジアラビアとトルコ、パキスタンが防衛協定を結んで7日で1カ月。協定は地域秩序づくりの意思表示だ。米国の力が陰るなか、イランを抑えてイスラエルをけん制する狙いが透ける。中東の新たな断層を示し、ユーラシアの物流ルート争奪戦の影もちらつく。",
+        "オイルマネーの豊富なサウジ、防衛産業が伸びるトルコ、そして核保有国のパキスタン。イスラム教スンニ派の3つの大国の接近を早めたのが、米イランの軍事衝...",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "サウジなど3カ国防衛協定、中東に新断層 物流回廊でも主導権争い"
+      }
+    },
+    {
+      "title_original": "واشنطن تترقب تقدما كبيرا قبل الشتاء في جهود إنهاء حرب أوكرانيا",
+      "title_zh": "واشنطن تترقب تقدما كبيرا قبل الشتاء في جهود إنهاء حرب أوكرانيا",
+      "url": "https://www.aa.com.tr/ar/%D8%AF%D9%88%D9%84%D9%8A/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AA%D8%B1%D9%82%D8%A8-%D8%AA%D9%82%D8%AF%D9%85%D8%A7-%D9%83%D8%A8%D9%8A%D8%B1%D8%A7-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1-%D9%81%D9%8A-%D8%AC%D9%87%D9%88%D8%AF-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7/4049071",
+      "source": "Anadolu Ajansı",
+      "source_score": 40,
+      "published_at": "2026-09-06T19:54:03+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "واشنطن تترقب تقدما كبيرا قبل الشتاء في جهود إنهاء حرب أوكرانيا    Anadolu Ajansı",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Anadolu Ajansı"
+      ],
+      "all_titles": {
+        "ar": "واشنطن تترقب تقدما كبيرا قبل الشتاء في جهود إنهاء حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : l’Iran menace d’intensifier sa riposte aux attaques américaines et veut instaurer une « zone interdite » près du détroit d’Ormuz",
+      "title_zh": "Guerre au Moyen-Orient : l’Iran menace d’intensifier sa riposte aux attaques américaines et veut instaurer une « zone interdite » près du détroit d’Ormuz",
+      "url": "https://www.sudouest.fr/international/guerre-au-moyen-orient-l-iran-menace-d-intensifier-sa-riposte-aux-attaques-americaines-et-veut-instaurer-une-zone-interdite-pres-du-detroit-d-ormuz-30513714.php",
+      "source": "sudouest.fr",
+      "source_score": 40,
+      "published_at": "2026-09-06T19:52:30+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : l’Iran menace d’intensifier sa riposte aux attaques américaines et veut instaurer une « zone interdite » près du détroit d’Ormuz    sudouest.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "sudouest.fr"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : l’Iran menace d’intensifier sa riposte aux attaques américaines et veut instaurer une « zone interdite » près du détroit d’Ormuz"
+      }
+    },
+    {
+      "title_original": "زيلينسكي يبحث مع مبعوثي ترمب إنهاء حرب أوكرانيا.. وويتكوف يبدي تفاؤله",
+      "title_zh": "زيلينسكي يبحث مع مبعوثي ترمب إنهاء حرب أوكرانيا.. وويتكوف يبدي تفاؤله",
+      "url": "https://www.trtarabi.com/article/d832beb0fab5",
+      "source": "trtarabi.com",
+      "source_score": 55,
+      "published_at": "2026-09-06T19:14:06+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "وذكرت الصحافة الأوكرانية أن زيلينسكي أكد خلال اللقاء، الذي جرى في العاصمة كييف، أهمية اضطلاع ترمب بدور رئيسي في المفاوضات الرامية إلى إنهاء الحرب.",
+        "وشدد زيلينسكي على ضرورة التوصل إلى \"سلام عادل\" لا يقتصر على وقف الحرب فحسب، بل يضمن أيضاً منع احتمال شن روسيا هجوماً جديداً على أوكرانيا.",
+        "وقال زيلينسكي: \"لا نريد الألم والموت."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "trtarabi.com"
+      ],
+      "all_titles": {
+        "ar": "زيلينسكي يبحث مع مبعوثي ترمب إنهاء حرب أوكرانيا.. وويتكوف يبدي تفاؤله"
+      }
+    },
+    {
+      "title_original": "عُمان توقّع عقد مشاركتها في «إكسبو 2030 الرياض»",
+      "title_zh": "عُمان توقّع عقد مشاركتها في «إكسبو 2030 الرياض»",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/5315390-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%AA%D9%88%D9%82%D9%91%D8%B9-%D8%B9%D9%82%D8%AF-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-2030-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-09-06T18:48:05+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "عُمان توقّع عقد مشاركتها في «إكسبو 2030 الرياض»https://aawsat.com/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/5315390-%D8%B9%D9%8F%D9%85%D8%A7%D9%86-%D8%AA%D9%88%D9%82%D9%91%D8%B9-%D8%B9%D9%82%D8%AF-%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%A5%D9%83%D8%B3%D8%A8%D9%88-2030-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6\nنُشر: 19:48-6 سبتمبر 2026 م ـ 24 ربيع الأول 1448 هـ\nTT\nعُمان توقّع عقد مشاركتها في «إكسبو 2030 الرياض»\nمن مراسم توقيع عقد مشاركة عُمان في معرض «إكسبو 2030 الرياض» (واس)\nوقّعت سلطنة عُمان عقد مشاركتها في «إكسبو 2030 الرياض»، بما يتيح لها المضي قدماً في استعداداتها وتحضيراتها، واستكمال مختلف الجوانب التنظيمية والتشغيلية، وتطوير جناحها وبرامجها والتجارب التي ستقدمها لزوار المعرض الدولي الذي تستضيفه العاصمة السعودية.",
+        "وترسي هذه الخطوة الإطار الرسمي لمشاركة عُمان في المعرض المقرر إقامته خلال الفترة من الأول من أكتوبر (تشرين الأول) 2030 إلى 31 مارس (آذار) 2031، إذ وقّع الاتفاقية سعيد البوسعيدي، وكيل وزارة الثقافة والرياضة والشباب للثقافة والمفوّض العام للجناح العُماني، والمهندس طلال المرّي الرئيس التنفيذي للمعرض.",
+        "وأعقبت مراسم التوقيع جولة في موقع «إكسبو 2030 الرياض»، حيث تتواصل أعمال التطوير بوتيرة متسارعة، شملت زيارة الموقع المخصص لجناح عُمان."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "عُمان توقّع عقد مشاركتها في «إكسبو 2030 الرياض»"
+      }
+    },
+    {
+      "title_original": "حصيلة العدوان الإسرائيلي على لبنان ترتفع إلى 4362 شهيدا",
+      "title_zh": "حصيلة العدوان الإسرائيلي على لبنان ترتفع إلى 4362 شهيدا",
+      "url": "https://www.tasnimnews.ir/ar/news/2026/09/06/3690406/%D8%AD%D8%B5%DB%8C%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84%DB%8C-%D8%B9%D9%84%D9%89-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-%D8%A5%D9%84%D9%89-4362-%D8%B4%D9%87%DB%8C%D8%AF%D8%A7",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-09-06T18:46:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "وأوضحت الوزارة، في بيان صحفي، أن فرق الإسعاف والطوارئ تواصل متابعة عمليات الإنقاذ وانتشال الضحايا من تحت الأنقاض، في ظل استمرار الاستهدافات لبلدات وقرى متعددة بالجنوب والبقاع والضاحية الجنوبية لبيروت.",
+        "وصباح اليوم، ارتقى 4 مدنيين شهداء وأصيب 20 آخرين في قصف إسرائيلي استهدف المناطق الجنوبية في لبنان، وفقا لما أرودته وسائل إعلام لبنانية.",
+        "ويواجه لبنان موجة تصعيد عسكري واسعة منذ مطلع مارس الماضي مع تكثيف جيش الاحتلال الإسرائيلي هجماته الجوية وعملياته العسكرية، ما خلف دماراً هائلاً في البنى التحتية والمباني السكنية، وأسفر عن موجات نزوح جماعية وضغوط بالغة على القطاع الصحي والمستشفيات جراء النقص الحاد في المستلزمات الطبية والوقود."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "حصيلة العدوان الإسرائيلي على لبنان ترتفع إلى 4362 شهيدا"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 20:36 Selenskyj: Besuch aus den USA schützt \"besser als Flugabwehrsysteme\" +++",
+      "title_zh": "Ukraine-Krieg im Liveticker: +++ 20:36 Selenskyj: Besuch aus den USA schützt \"besser als Flugabwehrsysteme\" +++",
+      "url": "https://www.n-tv.de/politik/20-36-Selenskyj-Besuch-aus-den-USA-schuetzt-besser-als-Flugabwehrsysteme-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-09-06T18:38:11+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg im Liveticker+++ 01:27 Widerstand aus Berlin: EU bläst Verteidigungsinitiative ab +++\nDie EU-Außenbeauftragte Kaja Kallas sagt wegen des Widerstands von Regierungsvertretern kurzfristig die eigentlich für heute geplante Gründung einer Expertengruppe zur Stärkung der europäischen Verteidigungspolitik ab.",
+        "\"Einige Mitgliedstaaten waren der Auffassung, dass dies zum jetzigen Zeitpunkt nicht der richtige Weg wäre\", erklärt ein EU-Beamter in Brüssel.",
+        "Zuvor hatten sich unter anderem die deutsche und die italienische Regierung gegen die Expertengruppe positioniert."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 20:36 Selenskyj: Besuch aus den USA schützt \"besser als Flugabwehrsysteme\" +++"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: US-Gesandte fordern Russland und Kyjiw zu »Kompromissen« auf",
+      "title_zh": "Ukraine-Krieg: US-Gesandte fordern Russland und Kyjiw zu »Kompromissen« auf",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-us-gesandte-fordern-russland-und-ukraine-zu-kompromissen-auf-a-40af94b7-be76-4bc4-b658-3b28fa772771",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-06T17:14:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Verhandlungen in Moskau und Kyjiw Witkoff fordert »Kompromisse« für Kriegsende.",
+        "Selenskyj mit wenig Hoffnung auf baldigen Frieden\nDer US-Gesandte Steve Witkoff hat Moskau und Kyjiw offenbar zu »Kompromissen« aufgefordert, um einen Ausweg aus dem russischen Angriffskrieg gegen die Ukraine zu finden.",
+        "Das berichtet die Nachrichtenagentur AFP."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: US-Gesandte fordern Russland und Kyjiw zu »Kompromissen« auf"
+      }
+    },
+    {
+      "title_original": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+      "title_zh": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+      "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-06T17:05:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that still disadvantage former British colonies, the Caribbean nation’s culture minister has said.",
+        "The petition will be lodged with Charles, Jamaica’s head of state, on Monday.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles"
+      }
+    },
+    {
+      "title_original": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "title_zh": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-06T17:00:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Iran warns of 'faster, heavier, more painful response' to US attacks\n- Published\nIran's top negotiator has warned of \"a faster, heavier, and more painful response\" to US attacks, as hostilities between the two sides escalate.",
+        "Parliament speaker Mohammad Bagher Ghalibaf said on Sunday that Americans must understand \"before it is too late\" that the \"rules of the game have changed\", according to a translation of his comments on state media.",
+        "His comments come nearly a week into renewed fighting between Iran and the US, and a day after Washington said it struck Iranian oil tankers in response to Tehran attacking American warships in the region's waters."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Iran warns of 'faster, heavier, more painful response' to US attacks"
+      }
+    },
+    {
+      "title_original": "Dozens feared trapped in collapsed building in Delhi",
+      "title_zh": "Dozens feared trapped in collapsed building in Delhi",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-06T16:54:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Dozens feared trapped in collapsed building in Delhi\n- Published\nA residential building in the Indian capital Delhi has collapsed with dozens of students feared trapped inside.",
+        "Eyewitnesses told local media that as many as 50 people were inside the five-storey building in the Satya Niketan neighbourhood of south-west Delhi when it came down around 13:30 local time (08:00 GMT) on Sunday.",
+        "At least three people were killed and three others are in a critical condition, news agency PTI reports, citing local police."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Dozens feared trapped in collapsed building in Delhi"
+      }
+    },
+    {
+      "title_original": "ウクライナと米国の代表団協議終了　停戦協議や冬季支援など協議",
+      "title_zh": "ウクライナと米国の代表団協議終了　停戦協議や冬季支援など協議",
+      "url": "https://www.ukrinform.jp/rubric-polytics/4161425-ukurainato-mi-guono-dai-biao-tuan-xie-yi-zhong-leting-zhan-xie-yiya-dong-ji-zhi-yuannado-xie-yi.html",
+      "source": "ウクルインフォルム通信",
+      "source_score": 40,
+      "published_at": "2026-09-06T16:44:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナと米国の代表団協議終了 停戦協議や冬季支援など協議\nゼレンシキー大統領がキーウで行われた米国代表団との協議後の記者会見の際に報告した。ウクルインフォルムの記者が伝えた。",
+        "ゼレンシキー氏は、「私たちは本日、３ラウンドの協議を行った。全て非常に具体的な協議だった」と述べた。",
+        "同氏はその際、協議プロセスの再開について米国側に謝意を表明した。そして同氏は、「本日協議プロセスを再開させたウィトコフ氏とクシュナー氏の役割を強調したい。彼らはロシアを訪れた。ロシアのことについては、クシュナー氏とウィトコフ氏が語るのが正しいと私は考える。（中略）米国のチームとロシア大統領との会談が行われ、また本日私との会談もあったことが重要である。私たちは全ての可能性、協議再開の可能性について議論した」と述べた。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "ウクルインフォルム通信"
+      ],
+      "all_titles": {
+        "ja": "ウクライナと米国の代表団協議終了　停戦協議や冬季支援など協議"
+      }
+    },
+    {
+      "title_original": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+      "title_zh": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-06T16:00:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Volcano eruption leaves 170,000 passengers stranded in Indonesia\n- Published\nAround 170,000 passengers have been left stranded after a volcanic eruption forced Indonesian authorities to temporarily suspend operations at eight airports.",
+        "Jakarta's Soekarno-Hatta International Airport was the first to be closed on Sunday morning after ash from Anak Krakatau was detected in airspace near the airport.",
+        "The transport ministry said 1,558 flights have been delayed with airports remaining closed until 09:00 local time on Monday morning."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Volcano eruption leaves 170,000 passengers stranded in Indonesia"
+      }
+    },
+    {
+      "title_original": "«الشرق الأوسط» تتابع الحملة الأمنية الواسعة للفلول والشبيحة في حلب وريفها",
+      "title_zh": "«الشرق الأوسط» تتابع الحملة الأمنية الواسعة للفلول والشبيحة في حلب وريفها",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5315344-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%AA%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D8%B3%D8%B9%D8%A9-%D9%84%D9%84%D9%81%D9%84%D9%88%D9%84-%D9%88%D8%A7%D9%84%D8%B4%D8%A8%D9%8A%D8%AD%D8%A9-%D9%81%D9%8A",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-09-06T15:51:38+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "لليوم الثالث على التوالي، تواصل القوات الأمنية السورية حملتها الواسعة في حلب، شمال البلاد، قادتها قوى الأمن الداخلي وجهاز مكافحة الإرهاب، لملاحقة قيادات وعناصر سابقة في النظام البائد متهمة بجرائم حرب.",
+        "وتعد هذه الحملة، الثانية من هذا النوع التي تشهدها مدينة حلب، خلال العام الحالي، وأسفرت عن اعتقال العديد من ضباط النظام المخلوع، أبرزهم العميد الطيار حمادة علي مراد في بلدة نبل، وشملت شبكة من عناصر النظام والميليشيات الرديفة.",
+        "وتؤكد مصادر في مديرية الأمن الداخلي بحلب، أن الحصيلة الحالية لأعداد الموقوفين تجاوزت 50 شخصاً، من ضباط وعناصر ومخبرين للنظام المخلوع، جرى اعتقالهم في مناطق مختلفة من الريف والمدينة، بمشاركة جهاز مكافحة الإرهاب."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«الشرق الأوسط» تتابع الحملة الأمنية الواسعة للفلول والشبيحة في حلب وريفها"
+      }
+    },
+    {
+      "title_original": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+      "title_zh": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+      "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-06T15:16:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers in the face of faltering economic growth.",
+        "A host of financial institutions said they were due to receive billions of yuan in capital from state institutions including the ministry of finance and even the company that runs the country’s tobacco monopoly.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth"
+      }
+    },
+    {
+      "title_original": "US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
+      "title_zh": "US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
+      "url": "https://www.aljazeera.com/news/2026/9/6/putin-meets-us-envoys-whats-behind-latest-diplomacy-on-russia-ukraine-war",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-06T15:12:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?",
+        "Steve Witkoff and Jared Kushner meet Putin in Moscow and head to Kyiv as part of Trump’s new efforts to broker an agreement.",
+        "US envoys Steve Witkoff and Jared Kushner have held talks with President Vladmir Putin in Moscow, in what appears to be new efforts by the Trump administration to end the Russia-Ukraine war."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "US envoys meet Putin: What’s behind latest diplomacy on Russia-Ukraine war?"
+      }
+    },
+    {
+      "title_original": "美国为何此时“出使”调解俄乌冲突？陈冰：俄乌打到精疲力竭美中期选举迫在眉睫特朗普只得抓住窗口期",
+      "title_zh": "美国为何此时“出使”调解俄乌冲突？陈冰：俄乌打到精疲力竭美中期选举迫在眉睫特朗普只得抓住窗口期",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqxchs6737744.shtml",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-09-06T14:44:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "（来源：直新闻）\n【美国为何此时“出使”调解俄乌冲突？陈冰：俄乌打到精疲力竭 美中期选举迫在眉睫 特朗普只得抓住窗口期】直新闻特约评论员陈冰表示，从当前战场态势看，俄乌双方都在持续承受消耗，乌克兰面临防空压力，俄罗斯本土也频繁遭遇无人机袭击，能源供应等问题开始显现。随着冬季临近，继续作战对双方的破坏都在加剧。陈冰认为，俄乌冲突进入僵持阶段，再叠加美国国内中期选举因素，使得美国再次尝试推动调解，当前或正出现新的和谈窗口。",
+        "海量资讯、精准解读，尽在新浪财经APP\n            VIP课程推荐\n                    加载中...",
+        "APP专享直播\n热门推荐\n收起\n                    新浪财经公众号\n                    \n            24小时滚动播报最新的财经资讯和视频，更多粉丝福利扫描二维码关注（sinafinance）"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "美国为何此时“出使”调解俄乌冲突？陈冰：俄乌打到精疲力竭美中期选举迫在眉睫特朗普只得抓住窗口期"
+      }
+    },
+    {
+      "title_original": "تايوان ترصد 21 طائرة عسكرية و15 سفينة صينية حول أراضيها",
+      "title_zh": "台湾在其领土周围发现21架军机和15艘中国船只",
+      "url": "https://www.arab48.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AF%D9%88%D9%84%D9%8A%D8%A9/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D9%8A%D8%A9/2026/09/06/%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D8%AA%D8%B1%D8%B5%D8%AF-21-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%8815-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D8%AD%D9%88%D9%84-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7",
+      "source": "عرب 48",
+      "source_score": 40,
+      "published_at": "2026-09-06T14:37:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾国防部从昨天周六早上6点到周日早上6点，对台湾周边21架军机、10艘军舰和5艘中国公务舰进行了监测。",
+        "تغطية متواصلة على قناة موقع \"عرب 48\" في \"تليغرام\"\nوعبرت 13 من الطائرات التابعة لجيش التحرير الشعبي، وعددها 21، خط الوسط لمضيق تايوان في منطقة تحديد الدفاع الجوي الشمالية والوسطى والجنوبية الغربية والشرقية للبلاد، طبقا لما ذكرته الوزارة.",
+        "据台湾新闻网站周日报道，国防部补充说，作为回应，台湾部署了飞机、军舰和海岸导弹系统来监视中国军队的活动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "عرب 48"
+      ],
+      "all_titles": {
+        "ar": "تايوان ترصد 21 طائرة عسكرية و15 سفينة صينية حول أراضيها"
+      }
+    },
+    {
+      "title_original": "米特使、和平案を伝達 ロシアとウクライナ訪問―数週間以内に計画公表も",
+      "title_zh": "美国特使传达和平计划，访问俄罗斯和乌克兰——计划将在几周内公布",
+      "url": "https://www.jiji.com/jc/article?k=2026090600088&g=int",
+      "source": "時事ドットコム",
+      "source_score": 40,
+      "published_at": "2026-09-06T14:23:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国特使传达和平计划，访问俄罗斯和乌克兰——计划将在几周内公布\n5日，美国中东问题特使维特科夫和特朗普总统女婿库什纳在克里姆林宫（总统府）会见俄罗斯总统普京，讨论乌克兰新和平计划。 6日首次访问乌克兰并会见泽连斯基总统。俄方似乎仍维持战争立场，谈判可能会遇到困难。",
+        "据路透社和其他新闻媒体报道，美国白宫官员表示，他们已经与俄罗斯方面讨论了“下一步的具体计划”。他表示计划将在“未来几周内”公布。",
+        "这是他自一月份以来首次访问莫斯科。俄罗斯总统助手乌沙科夫表示，这次会议持续了大约三个小时，并且“具有建设性”。普京强调需要消除冲突的根源。他表示相信入侵乌克兰将“实现目标”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "時事ドットコム"
+      ],
+      "all_titles": {
+        "ja": "米特使、和平案を伝達 ロシアとウクライナ訪問―数週間以内に計画公表も"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - US-Gesandte Witkoff und Kushner erstmals in Kiew",
+      "title_zh": "Ukraine-Krieg - US-Gesandte Witkoff und Kushner erstmals in Kiew",
+      "url": "https://www.deutschlandfunk.de/us-gesandte-witkoff-und-kushner-erstmals-in-kiew-100.html",
+      "source": "deutschlandfunk.de",
+      "source_score": 40,
+      "published_at": "2026-09-06T13:55:12+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "维特科夫呼吁乌克兰和俄罗斯妥协——泽连斯基持悲观态度\n会见维特科夫呼吁乌克兰和俄罗斯妥协——泽连斯基持悲观态度\n美国特使维特科夫呼吁俄罗斯和乌克兰妥协，以找到摆脱俄罗斯侵略战争的出路。",
+        "维特科夫在基辅会谈后的新闻发布会上表示，双方都需要解决分歧。",
+        "2026年9月6日\n订阅\n收听播客\n播客新闻播客\n充分了解来自德国和世界的最重要新闻。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "deutschlandfunk.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - US-Gesandte Witkoff und Kushner erstmals in Kiew"
+      }
+    },
+    {
+      "title_original": "بعد لقاء بوتين.. ويتكوف وكوشنر في كييف لدفع جهود إنهاء حرب أوكرانيا",
+      "title_zh": "与普京会面后，维特科夫和库什纳前往基辅推动结束乌克兰战争的努力",
+      "url": "https://arabic.cnn.com/world/article/2026/09/06/witkoff-kushner-arrive-kyiv-second-leg-of-us-diplomacy-push",
+      "source": "arabic.cnn.com",
+      "source_score": 95,
+      "published_at": "2026-09-06T13:54:15+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "(CNN) - 美国特使史蒂夫·威特科夫和唐纳德·特朗普总统的女婿贾里德·库什纳在莫斯科与俄罗斯总统弗拉基米尔·普京结束广泛会谈后于周日抵达基辅，此时华盛顿正重新努力结束乌克兰战争。",
+        "这是他们自战争爆发以来首次访问乌克兰首都，俄罗斯几乎连续不断地用导弹和无人机袭击首都。",
+        "乌克兰总统泽连斯基接见维特科夫后，带他参观了基辅市中心一座因俄罗斯袭击而受损的大教堂。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "arabic.cnn.com"
+      ],
+      "all_titles": {
+        "ar": "بعد لقاء بوتين.. ويتكوف وكوشنر في كييف لدفع جهود إنهاء حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "US envoys make first Kiev visit amid Ukraine war peace push",
+      "title_zh": "美国特使在乌克兰战争和平推动中首次访问基辅",
+      "url": "https://www.trtworld.com/article/12a699504550",
+      "source": "TRT World",
+      "source_score": 55,
+      "published_at": "2026-09-06T13:08:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国特使贾里德·库什纳和史蒂夫·维特科夫周日在基辅会见了乌克兰总统弗拉基米尔·泽伦斯基，特朗普政府再次推动结束俄罗斯与乌克兰长达四年半的战争。",
+        "库什纳和维特科夫从莫斯科出发，周六与俄罗斯总统普京举行了三个小时的会谈，但似乎并未在冲突中取得突破。",
+        "美国总统唐纳德·特朗普在竞选时承诺迅速结束战争，他鼓励的前几轮和平谈判几乎没有取得什么成果。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "TRT World"
+      ],
+      "all_titles": {
+        "en": "US envoys make first Kiev visit amid Ukraine war peace push"
+      }
+    }
+  ]
+}
