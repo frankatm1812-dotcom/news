@@ -1,8 +1,633 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-07T16:27:21.063121+00:00",
-  "count": 35,
+  "generated_at": "2026-09-08T01:11:00.474510+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title_original": "ゴールドマン、原油価格予想引き上げ 中東リスク長期化で",
+      "title_zh": "由于中东风险长期存在，高盛上调油价预测",
+      "url": "https://jp.reuters.com/economy/HTBY3TPTI5IDLFXSFKQMJ3LFEA-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T01:02:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东风险挥之不去 高盛上调油价预测 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ゴールドマン、原油価格予想引き上げ 中東リスク長期化で"
+      }
+    },
+    {
+      "title_original": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "title_zh": "特朗普威胁停止在美国销售加拿大庞巴迪飞机",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T00:48:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普威胁停止在美国销售加拿大庞巴迪飞机\n- 已发表\n唐纳德·特朗普总统警告加拿大飞机公司庞巴迪，除非将其制造业务转移到美国，否则该公司将无法再在美国销售产品。",
+        "“美国不再销售庞巴迪！”特朗普周一在《真相社会》帖子中写道。",
+        "“如果他们想要我们的市场，他们就必须在这里建设，并且停止将美国视为‘存钱罐’。”\n此举发生在两个邻国之间不断升级的贸易战之际，距离加拿大将对价值 200 亿美元（147 亿英镑）的美国商品征收报复性关税仅几个小时。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump threatens to stop sale of Canadian Bombardier jets in US"
+      }
+    },
+    {
+      "title_original": "جولدمان ساكس يرفع توقعاته لأسعار النفط وسط مخاطر الشحن بالشرق الأوسط",
+      "title_zh": "高盛因中东航运风险上调油价预测",
+      "url": "https://www.reuters.com/ar/business/RNAZ3XDWMRPT3BGWMNYK7I6RTA-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T00:02:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "由于中东航运风险，高盛上调油价预测 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "جولدمان ساكس يرفع توقعاته لأسعار النفط وسط مخاطر الشحن بالشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+      "title_zh": "埃菲尔铁塔因女工前往宗教参观而被员工抗议而关闭",
+      "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-07T23:46:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "一位工会代表表示，巴黎市长表示将对这起让女员工“蒙羞”的事件展开调查。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Eiffel Tower shut by staff protest after female workers moved for religious visit"
+      }
+    },
+    {
+      "title_original": "A food safety officer has become a social media star in India - why?",
+      "title_zh": "一名食品安全官员成为印度社交媒体明星 - 为什么？",
+      "url": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-07T23:40:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "一名食品安全官员成为印度社交媒体明星 - 为什么？",
+        "- 已发表\n这些图像很难被忽视。",
+        "蟑螂在厨房地板上乱窜。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "A food safety officer has become a social media star in India - why?"
+      }
+    },
+    {
+      "title_original": "If Putin Expands the Ukraine War to NATO Russia Must Be Broken Up",
+      "title_zh": "如果普京将乌克兰战争扩大到北约 俄罗斯必须分裂",
+      "url": "https://www.19fortyfive.com/2026/09/if-putin-expands-the-ukraine-war-to-nato-russia-must-be-broken-up/",
+      "source": "19FortyFive",
+      "source_score": 55,
+      "published_at": "2026-09-07T22:36:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北约与俄罗斯的战争会演变成核战争吗？",
+        "俄罗斯之后会发生什么？",
+        "– 随着乌克兰深入俄罗斯，俄罗斯总统弗拉基米尔·普京变得更加绝望，美国变得更加绝望。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "19FortyFive"
+      ],
+      "all_titles": {
+        "en": "If Putin Expands the Ukraine War to NATO Russia Must Be Broken Up"
+      }
+    },
+    {
+      "title_original": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+      "title_zh": "飞行记录器从“毁灭性”的亚马逊货机失事中恢复",
+      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-07T22:23:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "飞行记录器从“毁灭性”的亚马逊货机失事中恢复\n- 已发表\n美国国家运输安全委员会（NTSB）表示，调查人员已从在迈阿密国际机场坠毁的亚马逊货机上找到飞行记录仪，但首要任务仍然是寻找受害者。",
+        "周日，当地时间 14:00（英国夏令时 19:00）前不久，21 Air 运营的这架波音 767-300 飞机冲出跑道，造成 5 人死亡、5 人重伤。",
+        "飞机撞上了两辆车，其中包括机场周边的一辆载有七人的白色货车和一辆载有三名乘客的丰田汽车。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Flight recorders recovered from 'devastating' Amazon cargo plane crash"
+      }
+    },
+    {
+      "title_original": "アングル：ウクライナ首都に昼夜問わないドローン攻撃、厳しさ増す市民生活",
+      "title_zh": "角度：无人机昼夜袭击乌克兰首都，平民生活日益困难",
+      "url": "https://jp.reuters.com/world/ukraine/A47E5ELXSZN5JPTV2BKRNF4ANE-2026-09-07/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-07T22:16:54+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "角度：无人机昼夜袭击乌克兰首都，平民生活日益困难 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "アングル：ウクライナ首都に昼夜問わないドローン攻撃、厳しさ増す市民生活"
+      }
+    },
+    {
+      "title_original": "Atlas géopolitique : acteurs, rivalités, recompositions",
+      "title_zh": "地缘政治地图集：参与者、竞争、重组",
+      "url": "https://actualitte.com/livres/918389/extraits/atlas-geopolitique-acteurs-rivalites-recompositions-yohan-briant-alexandre-negrus-nato-tardieu-9782340117877",
+      "source": "ActuaLitté.com",
+      "source_score": 40,
+      "published_at": "2026-09-07T22:08:56+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "在力量对比回归的全球背景下，国际关系正在发生深刻变化，但并没有脱离构成国际关系的历史逻辑。",
+        "在大国的主张、地区平衡的破碎和对抗领域的扩大（无论是经济、技术、海洋还是认知）之间，当代世界正在多重加速的影响下发生转变。",
+        "冲突在国家和非国家等多个行为体之间围绕权力、领土、资源和影响力问题展开。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "ActuaLitté.com"
+      ],
+      "all_titles": {
+        "fr": "Atlas géopolitique : acteurs, rivalités, recompositions"
+      }
+    },
+    {
+      "title_original": "The BRICS in Russia's Post-Ukraine War Status-Seeking: Practical and Normative Challenges to the West",
+      "title_zh": "金砖国家在乌克兰战争后俄罗斯寻求地位：对西方的实际和规范挑战",
+      "url": "https://www.globalpolicyjournal.com/articles/global-governance/brics-russias-post-ukraine-war-status-seeking-practical-and-normative",
+      "source": "Global Policy Journal",
+      "source_score": 40,
+      "published_at": "2026-09-07T21:48:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯联邦是金砖国家联盟的创始成员之一，也是金砖国家联盟的主要推动力量之一。",
+        "莫斯科历来与其他成员国一样有兴趣利用金砖国家改革全球经济治理。",
+        "后来，它把该协会视为与西方进行地缘战略竞争、推动多极化的工具。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Global Policy Journal"
+      ],
+      "all_titles": {
+        "en": "The BRICS in Russia's Post-Ukraine War Status-Seeking: Practical and Normative Challenges to the West"
+      }
+    },
+    {
+      "title_original": "Palestinian parents fear for children's lives at school as settler attacks grow",
+      "title_zh": "随着定居者袭击事件的增多，巴勒斯坦家长担心孩子们在学校的生命安全",
+      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-07T21:12:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "随着定居者袭击事件的增多，巴勒斯坦家长担心孩子们在学校的生命安全\n- 已发表\n巴勒斯坦新学年的第一天，穆盖伊尔男子学校的校长在黎明前到达工作岗位，走过新安装的铁丝网和加固的校门，阳光开始穿过被占领的约旦河西岸深处村庄周围的橄榄树。",
+        "“我们很害怕，”巴萨姆·阿萨夫告诉我。",
+        "“学生害怕，家长也害怕。”\n今年，穆加耶尔发生了与定居者相关的针对巴勒斯坦人的暴力事件，造成六人死亡，其中包括该校的三名学生。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Palestinian parents fear for children's lives at school as settler attacks grow"
+      }
+    },
+    {
+      "title_original": "Du sommet de l'État au quotidien des habitants, comment Taïwan se prépare à une guerre avec la Chine",
+      "title_zh": "从国家高层到居民日常生活，台湾如何准备对华战争",
+      "url": "https://www.franceinfo.fr/monde/asie/taiwan/du-sommet-de-l-etat-au-quotidien-des-habitants-comment-taiwan-se-prepare-a-une-guerre-avec-la-chine_8181767.html",
+      "source": "franceinfo.fr",
+      "source_score": 40,
+      "published_at": "2026-09-07T21:07:55+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "从国家高层到居民日常生活，台湾如何准备对华战争\n本周内\n- \n                              让-巴蒂斯特·马托主讲\n- \n                              主编艾尔莎-帕洛特\n- \n                              副主编 Julien Gasparutto、Margaux Manière、Caroline Thébaud\n周末\n- \n                              洛朗·德拉豪斯主讲\n- \n                              主编艾尔莎·帕洛特\n- \n                              副主编 Arnaud Comte、Margaux Manière、Julien Gasparutto\n法国电视台新闻调解员\n将您的意见发送给 Jérôme Cathala\n台湾岛面临着广阔的中国领土：它是自治的，但北京声称拥有主权。",
+        "就在周四，其海岸警卫队还在近海监视中国船只。",
+        "因此，面对袭击的威胁，居民学会保护自己。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "franceinfo.fr"
+      ],
+      "all_titles": {
+        "fr": "Du sommet de l'État au quotidien des habitants, comment Taïwan se prépare à une guerre avec la Chine"
+      }
+    },
+    {
+      "title_original": "プーチン大統領を襲う“ウクライナ侵攻から5度目の冬”…“燃料枯渇”がもたらす厭戦気分と、“兵站崩壊”が招く士気衰退 「敵前逃亡する兵士が続出しても不思議はない」（デイリー新潮）",
+      "title_zh": "普京总统迎来了“入侵乌克兰以来的第五个冬天”……“燃料枯竭”带来的战争情绪和“后勤崩溃”导致的士气下降“难怪越来越多的士兵在敌人面前逃跑”（《新潮日报》）",
+      "url": "https://news.yahoo.co.jp/articles/61700444ad69d150c5f949aab48d7fe7d5edd705",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-07T21:01:05+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京总统正迎来“入侵乌克兰以来的第五个冬天”……“燃料枯竭”带来的战争饥渴情绪和“后勤崩溃”带来的士气下降“难怪越来越多的士兵在敌人面前逃亡”。\n接第一部分【中央情报局局长告知俄罗斯，俄罗斯无法赢得这场战争……向普京总统呈现“准确的战局”；仍然是众议院选举后动员“多达50万人”的地狱般景象]。 8月24日，路透社（日本电子版）发表文章称，“俄罗斯计划在杜马选举后再动员30万人=泽连斯基先生。”俄军在乌克兰东线苦苦挣扎，伤亡惨重，预计将增加军力以打破战事。 （第二部分第二部分） [12张] 普京先生的大女儿玛丽亚微服私访迪士尼乐园。她看上去很严肃，看起来并不开心***\n泽连斯基总统8月23日发表评论称，“俄罗斯计划在9月中旬杜马选举后额外动员30万人参战。”",
+        "英国一些媒体也援引乌克兰情报部门的消息称，“杜马选举后有可能动员30万至50万人”。",
+        "俄罗斯将于9月18日至20日举行议会下院选举。俄罗斯是一个独裁国家，言论和投票自由受到严格限制。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "プーチン大統領を襲う“ウクライナ侵攻から5度目の冬”…“燃料枯渇”がもたらす厭戦気分と、“兵站崩壊”が招く士気衰退 「敵前逃亡する兵士が続出しても不思議はない」（デイリー新潮）"
+      }
+    },
+    {
+      "title_original": "زيلينسكي: واشنطن تبحث تهدئة حرب أوكرانيا خلال الشتاء.. وبوتين يحتاج ترمب",
+      "title_zh": "泽连斯基：华盛顿希望在冬季平息乌克兰战争……普京需要特朗普",
+      "url": "https://asharq.com/politics/195609/%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%A8%D8%AD%D8%AB-%D8%AA%D9%87%D8%AF%D8%A6%D8%A9-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D8%AA%D8%A7%D8%A1/",
+      "source": "الشرق للأخبار",
+      "source_score": 40,
+      "published_at": "2026-09-07T20:55:58+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "泽连斯基：华盛顿希望在冬季平息乌克兰战争。",
+        "普京需要特朗普 东方新闻",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "الشرق للأخبار"
+      ],
+      "all_titles": {
+        "ar": "زيلينسكي: واشنطن تبحث تهدئة حرب أوكرانيا خلال الشتاء.. وبوتين يحتاج ترمب"
+      }
+    },
+    {
+      "title_original": "無人機対策 ウクライナで漁業用網の再利用進む",
+      "title_zh": "无人机对策：乌克兰渔网重复利用取得进展",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260908de48908",
+      "source": "news.web.nhk",
+      "source_score": 95,
+      "published_at": "2026-09-07T20:01:08+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "无人机对策：乌克兰渔网再利用取得进展 news.web.nhk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "news.web.nhk"
+      ],
+      "all_titles": {
+        "ja": "無人機対策 ウクライナで漁業用網の再利用進む"
+      }
+    },
+    {
+      "title_original": "“فوربس الشرق الأوسط” و”بيورهيلث” تنظمان النسخة الـ5 من “قمة قادة الرعاية الصحية” في أبوظبي",
+      "title_zh": "《福布斯中东》和《PureHealth》在阿布扎比举办第五届“医疗保健领袖峰会”",
+      "url": "https://alwatan.ae/posts/1634026",
+      "source": "alwatan.ae",
+      "source_score": 40,
+      "published_at": "2026-09-07T20:00:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "《福布斯中东》和《PureHealth》在阿布扎比举办第五届“医疗保健领袖峰会” alwatan.ae",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "alwatan.ae"
+      ],
+      "all_titles": {
+        "ar": "“فوربس الشرق الأوسط” و”بيورهيلث” تنظمان النسخة الـ5 من “قمة قادة الرعاية الصحية” في أبوظبي"
+      }
+    },
+    {
+      "title_original": "英米首脳が電話会談、ウクライナ停戦へ協力継続で一致",
+      "title_zh": "英美领导人通电话同意继续就乌克兰停火问题进行合作",
+      "url": "https://jp.reuters.com/world/ukraine/RASMDJMLDVKHRDPDSC3KIHPNBI-2026-09-07/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-07T19:17:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "英美领导人通电话同意继续就乌克兰停火进行合作 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "英米首脳が電話会談、ウクライナ停戦へ協力継続で一致"
+      }
+    },
+    {
+      "title_original": "Putin blufft bei Friedensgesprächen: Ukraine droht ein weiterer harter Winter",
+      "title_zh": "普京在和谈中虚张声势：乌克兰正面临又一个严冬",
+      "url": "https://www.fr.de/meinung/kommentare/kein-fortschritt-mit-putin-ukraine-ruestet-sich-fuer-neuen-kriegswinter-94479510.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-07T19:08:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "和谈无进展：普京继续在乌克兰战争中拖延时间\n在谷歌上关注我们\n关于乌克兰战争的谈判仍没有结果。",
+        "In Kiew brachte die Waffenruhe nur kurz Erholung – vor dem nächsten Kriegswinter.",
+        "Ein Kommentar."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Putin blufft bei Friedensgesprächen: Ukraine droht ein weiterer harter Winter"
+      }
+    },
+    {
+      "title_original": "OilPrice： 德国电网可能成为北约的脆弱环节",
+      "title_zh": "OilPrice： 德国电网可能成为北约的脆弱环节",
+      "url": "https://ua.news/cn/world/energomerezha-nimechchini-mozhe-stati-vrazlivistiu-dlia-nato-oilprice",
+      "source": "UA.NEWS",
+      "source_score": 40,
+      "published_at": "2026-09-07T19:03:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "OilPrice：德国电网可能成为北约的脆弱环节\n德国的电力和交通基础设施对向北约东翼调动部队至关重要，但电网的分散结构可能给联盟的防务后勤带来风险。OilPrice报道。该媒体称，若俄罗斯联邦这一侵略国袭击北约成员国，德国将在六个月内需经由其领土转运多达80万名盟军军人和20万件装备。",
+        "对民用电网的依赖\n德国北约部队部署计划中规定的港口、机场、铁路和高速公路均依赖民用电网。OilPrice指出，对某一交通枢纽附近电力基础设施的袭击，可能无需直接打击军事设施便可中断部署的多个环节。",
+        "德国能源系统由4家高压电网运营商和851家配电网运营商组成。其中，767家公司服务的用户不足10万，643家公司服务的用户不足3万。变电站的安保由运营商负责，而警方负责其周边公共区域的安全。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "UA.NEWS"
+      ],
+      "all_titles": {
+        "zh": "OilPrice： 德国电网可能成为北约的脆弱环节"
+      }
+    },
+    {
+      "title_original": "New hope to end Russia-Ukraine war",
+      "title_zh": "New hope to end Russia-Ukraine war",
+      "url": "https://www.cbsnews.com/detroit/video/new-hope-to-end-russia-ukraine-war/",
+      "source": "CBS News",
+      "source_score": 75,
+      "published_at": "2026-09-07T18:19:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Iran War\nMiami Plane Crash\nWorld\nPolitics\nEntertainment\nHealthWatch\nMoneyWatch\nCrime\nSpace\nSports\nBrand Studio\nThe Free Press\nLocal News\nAtlanta\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\nLive\nCBS News 24/7\nBaltimore\nBay Area\nBoston\nChicago\nColorado\nDetroit\nLos Angeles\nMiami\nMinnesota\nNew York\nPhiladelphia\nPittsburgh\nSacramento\nTexas\n48 Hours\n60 Minutes\nShows\n48 Hours\n60 Minutes\nCBS Evening News\nCBS Mornings\nCBS Morning News\nCBS Reports\nCBS Saturday Morning\nThe Daily Report\nThe Dish\nFace the Nation\nSunday Morning\nThe Takeout\nThings That Matter\nThe Uplift\nCBS News Investigates\nCBS News Confirmed\nPodcasts\nNewsletters\nDownload Our App\nCBS News Team\nExecutive Team\nBrand Studio\nParamount+\nJoin Our Talent Community\nRSS Feeds\nDetroit\n|\nNews\nWeather\nSports\nVideos\nLocal News\nAutos\nEntertainment\nHealth\nPolitics\nU.S.",
+        "World\nLatest Weather\nLive Radar\nScience of Weather\nWeather Watcher Network\nAll Sports\nCBS Sports HQ\nLions\nPistons\nRed Wings\nTigers\nMichigan\nMichigan State\nOdds\nMeet The Team\nContact Us\nStation Info\nNews Tips\nContests & Promotions\nGalleries\nAdvertise\nJobs\nTV Schedule\nMichigan Matters\nMichigan Made\nSubmit Your Pics/Video\nDownload The App\nMemorials\nWatch CBS News\nNew hope to end Russia-Ukraine war\nThe Trump administration is suggesting the war between Russia and Ukraine could finally be coming to an end.",
+        "CBS News has this report."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "CBS News"
+      ],
+      "all_titles": {
+        "en": "New hope to end Russia-Ukraine war"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: EU-Außenbeauftragte – Russland nicht an Frieden interessiert",
+      "title_zh": "Ukraine-Krieg: EU-Außenbeauftragte – Russland nicht an Frieden interessiert",
+      "url": "https://www.kurier.de/inhalt.ukraine-krieg-eu-aussenbeauftragte-russland-nicht-an-frieden-interessiert.ddf7d828-faba-469c-a5e4-f8f2e5c34994.html",
+      "source": "Nordbayerischer Kurier",
+      "source_score": 40,
+      "published_at": "2026-09-07T18:00:47+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Die US-Unterhändler unternehmen einen neuen Anlauf in Vermittlungen für ein Ende des Ukraine-Kriegs.",
+        "Kaja Kallas erwartet angesichts Moskaus Haltung wenig, sieht aber zumindest einen positiven Aspekt.",
+        "卡拉斯认为莫斯科没有和平的意愿。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Nordbayerischer Kurier"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: EU-Außenbeauftragte – Russland nicht an Frieden interessiert"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Israël menace l’Autorité palestinienne d’une « guerre totale »",
+      "title_zh": "Guerre au Moyen-Orient : Israël menace l’Autorité palestinienne d’une « guerre totale »",
+      "url": "https://www.sudouest.fr/international/moyen-orient/israel/guerre-au-moyen-orient-israel-menace-l-autorite-palestinienne-d-une-guerre-totale-30524995.php",
+      "source": "Sud Ouest",
+      "source_score": 40,
+      "published_at": "2026-09-07T17:45:17+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "国防部长以色列·卡茨宣称：“如果[……]我们确信他们正准备对以色列国防军和定居点的犹太人发动类似 10 月 7 日那样的恐怖袭击，我和本杰明·内塔尼亚胡总理已指示军队准备对巴勒斯坦权力机构的领导层和机制发动全面战争。”",
+        "Il s’exprimait après l’annonce par les autorités israéliennes d’une attaque au couteau, commise plus tôt dans la journée par un Palestinien contre un colon dans le nord de la Cisjordanie.",
+        "La victime a été hospitalisée, selon le Magen David Adom, l’équivalent israélien de la Croix-Rouge."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Sud Ouest"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Israël menace l’Autorité palestinienne d’une « guerre totale »"
+      }
+    },
+    {
+      "title_original": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
+      "title_zh": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
+      "url": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-07T17:29:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Three men on trial for killing Jake and Callum Robinson and Jack Carter Rhoad in Baja California in 2024 The alleged killers of two Australian surfers and an American at a Mexican surfing hotspot in 2024 have gone on trial in the border resort where the three were murdered.",
+        "The Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and their 30-year-old American friend Jack Carter Rhoad were shot dead after being robbed in Mexico’s violence-hit Baja California .",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Alleged killers of Australian surfers and American friend go on trial in Mexico"
+      }
+    },
+    {
+      "title_original": "Opinion | Putin receives a tacit invite to a far more dangerous confrontation",
+      "title_zh": "Opinion | Putin receives a tacit invite to a far more dangerous confrontation",
+      "url": "https://www.washingtonpost.com/opinions/2026/09/07/putin-tests-nato-russian-sabotage-escalates/",
+      "source": "The Washington Post",
+      "source_score": 75,
+      "published_at": "2026-09-07T17:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Opinion | Putin receives a tacit invite to a far more dangerous confrontation    The Washington Post",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Washington Post"
+      ],
+      "all_titles": {
+        "en": "Opinion | Putin receives a tacit invite to a far more dangerous confrontation"
+      }
+    },
+    {
+      "title_original": "Vater im Ukraine-Krieg verschollen: Kamerad begleitet stattdessen Kinder zum Schulanfang",
+      "title_zh": "Vater im Ukraine-Krieg verschollen: Kamerad begleitet stattdessen Kinder zum Schulanfang",
+      "url": "https://www.fr.de/politik/ukraine-krieg-verschollen-kamerad-begleitet-kinder-zum-schulanfang-vater-im-zr-94473557.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-07T17:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Vater im Ukraine-Krieg verschollen: Kamerad begleitet stattdessen Kinder zum Schulanfang\nUns auf Google folgen\nSeit mehr als zwei Jahren gilt Kims und Saschas Vater als im Krieg vermisst.",
+        "Zum ersten Schultag begleiten ein Soldat und ein Veteran seiner Brigade die Kinder zur Schule.",
+        "Für ihre Mutter ist es eine kleine Hilfe an einem Tag, an dem besonders deutlich wird, wer in der Familie fehlt."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Vater im Ukraine-Krieg verschollen: Kamerad begleitet stattdessen Kinder zum Schulanfang"
+      }
+    },
     {
       "title_original": "Tanzanian President Samia's husband dies in hospital",
       "title_zh": "坦桑尼亚总统萨米亚的丈夫在医院去世",
@@ -51,6 +676,81 @@
       ],
       "all_titles": {
         "ar": "بين الخطوط الصفراء والحمراء.. كيف تحدد الخرائط الأمنية الإسرائيلية مصير بيوت النازحين جنوباً؟"
+      }
+    },
+    {
+      "title_original": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure",
+      "title_zh": "印尼火山喷发导致34万人滞留 机场延长关闭时间",
+      "url": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-07T15:40:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure\n- Published\nMore than 340,000 passengers have been left stranded across Indonesia after a volcanic eruption disrupted nearly 3,000 flights and forced airports to suspend operations for a second day.",
+        "距离雅加达 150 公里（90 英里）的阿纳克喀拉喀托火山于周五晚些时候开始喷发，产生熔岩喷泉，并将火山灰输送到首都和楠榜省。",
+        "整个周末它都处于地震活跃状态。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Indonesia volcano eruption leaves 340,000 stranded as airports extend closure"
+      }
+    },
+    {
+      "title_original": "Crean un vídeo falso de 'Euronews' para inventar un tiroteo en la OTAN",
+      "title_zh": "Crean un vídeo falso de 'Euronews' para inventar un tiroteo en la OTAN",
+      "url": "https://es.euronews.com/my-europe/2026/09/07/un-video-falso-que-suplanta-a-euronews-inventa-la-muerte-de-3-soldados-de-la-otan-por-un-d",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-07T15:30:41+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El Ejército desmiente un reportaje manipulado con la imagen de 'Euronews' que inventó el asesinato de tres militares a manos de un soldado ucraniano.",
+        "2026 年，虚假信息活动在社交网络 X 上的浏览​​量累计超过 200 万次。",
+        "一段冒充“欧洲新闻”的视频在互联网上流传，虚假指控一名乌克兰士兵在拉脱维亚演习期间枪杀了三名北约士兵。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "Crean un vídeo falso de 'Euronews' para inventar un tiroteo en la OTAN"
+      }
+    },
+    {
+      "title_original": "Une fausse vidéo Euronews accuse un soldat ukrainien d'avoir tué trois militaires de l'OTAN",
+      "title_zh": "欧洲新闻假视频指控乌克兰士兵杀害三名北约士兵",
+      "url": "https://fr.euronews.com/my-europe/2026/09/07/une-fausse-video-euronews-accuse-un-soldat-ukrainien-davoir-tue-trois-militaires-de-lotan",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-07T15:00:13+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "使用欧洲新闻视觉识别的虚假报道错误地声称一名乌克兰士兵在拉脱维亚杀死了三名北约士兵。",
+        "Une vidéo se faisant passer pour un sujet d'Euronews a circulé en ligne, véhiculant la fausse affirmation selon laquelle un soldat ukrainien aurait abattu trois militaires de l'OTAN lors d'un exercice militaire en Lettonie.",
+        "Le faux reportage affirme qu'un soldat aurait ouvert le feu pendant l'exercice Baltic Trust 2026 de l'OTAN, tuant trois militaires avant de se donner la mort."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "fr": "Une fausse vidéo Euronews accuse un soldat ukrainien d'avoir tué trois militaires de l'OTAN"
       }
     },
     {
@@ -201,6 +901,56 @@
       ],
       "all_titles": {
         "de": "Video. Virales Video: Gab es tödliche Schüsse bei einer NATO-Übung?"
+      }
+    },
+    {
+      "title_original": "Virales Video: Gab es tödliche Schüsse bei einer NATO-Übung?",
+      "title_zh": "病毒视频：北约演习期间是否发生致命枪击事件？",
+      "url": "https://de.euronews.com/my-europe/2026/09/07/millionenfach-geteiltes-video-todliche-schusse-nato-ubung",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-07T14:01:59+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "一份捏造的报道使用了欧洲新闻标志和立方体设计，并错误地声称一名乌克兰士兵在拉脱维亚的一次演习中杀死了三名北约士兵。",
+        "网上流传的一段视频的作者是 Euronews。",
+        "Darin wird fälschlich behauptet, ein ukrainischer Soldat habe bei einer NATO-Übung in Lettland drei NATO-Soldaten erschossen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "Virales Video: Gab es tödliche Schüsse bei einer NATO-Übung?"
+      }
+    },
+    {
+      "title_original": "Israeli strikes in southern Lebanese village kill 12",
+      "title_zh": "以色列袭击黎巴嫩南部村庄 造成 12 人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-07T13:39:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "以色列袭击黎巴嫩南部村庄 造成 12 人死亡\n- 已发表\n黎巴嫩卫生部称，以色列对黎巴嫩南部一个村庄的空袭已造成至少 12 人死亡。",
+        "一场罢工连夜摧毁了卡法鲁曼 (Kfar Roummane) 的一栋住宅楼，造成 11 人死亡，其中包括两名儿童和四名妇女。",
+        "A second strike on a vehicle killed a paramedic."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israeli strikes in southern Lebanese village kill 12"
       }
     },
     {
