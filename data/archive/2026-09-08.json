@@ -1,8 +1,833 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T01:11:00.474510+00:00",
-  "count": 65,
+  "generated_at": "2026-09-08T15:06:07.005672+00:00",
+  "count": 98,
   "articles": [
+    {
+      "title_original": "Trump told Putin he wants swift end to Ukraine war and US-Russia ties restored, Kremlin says",
+      "title_zh": "Trump told Putin he wants swift end to Ukraine war and US-Russia ties restored, Kremlin says",
+      "url": "https://www.reuters.com/world/putin-told-trump-he-wants-swift-end-ukraine-war-us-russia-ties-restored-kremlin-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T14:59:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump told Putin he wants swift end to Ukraine war and US-Russia ties restored, Kremlin says    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Trump told Putin he wants swift end to Ukraine war and US-Russia ties restored, Kremlin says"
+      }
+    },
+    {
+      "title_original": "الأمم المتحدة: بعض إجراءات إسرائيل في سوريا ربما ترقى لجرائم حرب",
+      "title_zh": "الأمم المتحدة: بعض إجراءات إسرائيل في سوريا ربما ترقى لجرائم حرب",
+      "url": "https://www.reuters.com/ar/world/U3ZKYAEADJK67G7DYXNEMFN5CY-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T14:44:02+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الأمم المتحدة: بعض إجراءات إسرائيل في سوريا ربما ترقى لجرائم حرب    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الأمم المتحدة: بعض إجراءات إسرائيل في سوريا ربما ترقى لجرائم حرب"
+      }
+    },
+    {
+      "title_original": "Asbestos 'nearly everywhere' after 9/11 - new documents reveal air-quality concerns",
+      "title_zh": "Asbestos 'nearly everywhere' after 9/11 - new documents reveal air-quality concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T14:03:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Asbestos 'nearly everywhere' after 9/11 - new documents reveal air-quality concerns\n- Published\nToxic air quality was being recorded in Manhattan soon after the 9/11 attacks, even as officials played down the health risks to the public, according to a trove of newly released files.",
+        "New York City Mayor Zohran Mamdani said the 170,000 documents show asbestos was found \"nearly everywhere\" they tested near Ground Zero, the site where the World Trade Center towers collapsed in 2001.",
+        "\"People got sick because the leaders they trusted lied and told them they were safe to breathe in toxic air,\" Mamdani said at a news conference with survivors."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Asbestos 'nearly everywhere' after 9/11 - new documents reveal air-quality concerns"
+      }
+    },
+    {
+      "title_original": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+      "title_zh": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+      "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T13:58:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Saudi Arabia vows to respond after Houthis attack cities and energy facilities\n- Published\nYemen's Iran-backed Houthi movement has attacked energy facilities and other civilian infrastructure in Saudi Arabia with dozens of drones and missiles, injuring 73 people, Saudi authorities say.",
+        "Tuesday's attacks hit four south-western cities, causing fires at oil facilities and installations that led to a temporary halt in operations, according to Saudi Arabia's military and energy ministry.",
+        "The Saudi-led coalition in Yemen said that its forces would respond to the \"dangerous escalation\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities"
+      }
+    },
+    {
+      "title_original": "الأونكتاد: اضطرابات مضيق هرمز تلحق أكبر الأضرار بالشركات الصغيرة",
+      "title_zh": "الأونكتاد: اضطرابات مضيق هرمز تلحق أكبر الأضرار بالشركات الصغيرة",
+      "url": "https://www.reuters.com/ar/business/E2EBVIFAAFJYVEZIQW7SNQQPBA-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T13:49:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "الأونكتاد: اضطرابات مضيق هرمز تلحق أكبر الأضرار بالشركات الصغيرة    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الأونكتاد: اضطرابات مضيق هرمز تلحق أكبر الأضرار بالشركات الصغيرة"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Nach US-Gesprächen: Kiew meldet neue russische Angriffe",
+      "title_zh": "Ukraine-Krieg: Nach US-Gesprächen: Kiew meldet neue russische Angriffe",
+      "url": "https://www.tagesspiegel.de/internationales/dpa-ukraine-krieg-16029648.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-09-08T12:58:57+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: Nach US-Gesprächen: Kiew meldet neue russische Angriffe\nKaum sind Donald Trumps Vermittler aus Kiew abgereist, nimmt Russland die Hauptstadt der Ukraine wieder unter Feuer.",
+        "Aus einer russischen Region werden derweil neue ukrainische Luftangriffe gemeldet.",
+        "Stand:\nnun bevorzugt anzeigen lassen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Nach US-Gesprächen: Kiew meldet neue russische Angriffe"
+      }
+    },
+    {
+      "title_original": "南アＧＤＰ、第2四半期は0.2％減 中東紛争影響し2年ぶりマイナス",
+      "title_zh": "南アＧＤＰ、第2四半期は0.2％減 中東紛争影響し2年ぶりマイナス",
+      "url": "https://jp.reuters.com/markets/japan/NOEWNWAF3JIEZKICC2B5IFDL4U-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T12:29:17+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "南アＧＤＰ、第2四半期は0.2％減 中東紛争影響し2年ぶりマイナス    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "南アＧＤＰ、第2四半期は0.2％減 中東紛争影響し2年ぶりマイナス"
+      }
+    },
+    {
+      "title_original": "الصين واتفاق مكة.. ملامح نظام أمني جديد في الشرق الأوسط",
+      "title_zh": "الصين واتفاق مكة.. ملامح نظام أمني جديد في الشرق الأوسط",
+      "url": "https://www.aljazeera.net/blogs/2026/9/8/%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%88%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%85%D9%83%D8%A9-%D9%85%D9%84%D8%A7%D9%85%D8%AD-%D9%86%D8%B8%D8%A7%D9%85-%D8%A3%D9%85%D9%86%D9%8A-%D8%AC%D8%AF%D9%8A%D8%AF",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-08T12:11:15+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "- لماذا يهم دعم شي جين بينغ لاتفاق مكة لأمن الشرق الأوسط؟\nقد لا تكون أهم نتائج اتفاق مكة للدفاع المشترك هي التحالف العسكري الذي أنشأه، بقدر ما تكون منظومة الأمن الإقليمي التي يمكن أن يمهد لقيامها.",
+        "ففي 7 أغسطس/آب 2026، وقعت السعودية وتركيا وباكستان اتفاقا ينص على أن أي هجوم مسلح على إحدى الدول الثلاث سيعد هجوما عليها جميعا، كما نص على تعزيز مختلف أوجه التعاون الدفاعي بينها.",
+        "وبعد أقل من شهر، بدأت الدول الثلاث في تحويل الاتفاق من إطار سياسي إلى بنية أكثر مؤسسية، إذ عقدت اللجنة الإستراتيجية السياسية والدفاعية أول اجتماع لها في إسطنبول في 31 أغسطس/آب، واتفقت على إنشاء أمانة عامة في السعودية، إلى جانب تعزيز التعاون في الصناعات الدفاعية وتطوير التكنولوجيا والإنتاج المشترك."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "الصين واتفاق مكة.. ملامح نظام أمني جديد في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "China y Qatar piden un suministro energético global estable y diálogo en Oriente Medio",
+      "title_zh": "China y Qatar piden un suministro energético global estable y diálogo en Oriente Medio",
+      "url": "https://elperiodicodelaenergia.com/china-y-qatar-piden-un-suministro-energetico-global-estable-y-dialogo-en-oriente-medio/",
+      "source": "El Periódico de la Energía",
+      "source_score": 40,
+      "published_at": "2026-09-08T12:04:09+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "El canciller chino, Wang Yi, y su homólogo y primer ministro catarí, Mohamed bin Abdulrahmán al Thani, han abogado en Pekín por salvaguardar la seguridad de los corredores energéticos mundiales y garantizar un suministro estable que se ha visto afectado por el conflicto entre Estados Unidos, Israel e Irán en Oriente Medio.",
+        "Mohamed subrayó la solidez de las relaciones entre ambos países y tras presentar al gigante asiático como \"el mayor socio comercial y de cooperación energética con Qatar\", aseguró que su país \"superará las dificultades para garantizar el suministro energético a China\", según un comunicado compartido hoy por la cancillería china.",
+        "\"Catar está dispuesta a reforzar la coordinación con China para salvaguardar la seguridad de los corredores energéticos mundiales, restablecer cuanto antes la paz y la estabilidad regionales\", aseveró el titular de Exteriores catarí, en momentos en los que el país del Golfo participa en los esfuerzos diplomáticos para rebajar las tensiones regionales y garantizar la navegación por el Estrecho de Ormuz."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "El Periódico de la Energía"
+      ],
+      "all_titles": {
+        "es": "China y Qatar piden un suministro energético global estable y diálogo en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Argentina to file criminal case against oil company operating in Falklands",
+      "title_zh": "Argentina to file criminal case against oil company operating in Falklands",
+      "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T11:09:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Argentina to file criminal case against oil company operating in Falklands\n- Published\nThe Argentine government has said that it will file criminal charges against oil company Navitas Petroleum for operating in seas off the Falkland Islands.",
+        "The move came just days after Argentine President Javier Milei said he would sanction oil companies drilling in the British overseas territory in the south-west Atlantic Ocean.",
+        "Reacting to the news, Foreign Office Minister Kirsty McNeill insisted that there could be \"no doubt\" about the British government's commitment to the Falkland Islanders."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Argentina to file criminal case against oil company operating in Falklands"
+      }
+    },
+    {
+      "title_original": "صواريخ إيران تغيّر حسابات البنتاغون.. واشنطن تدرس \"تقليص\" وجودها العسكري في الشرق الأوسط",
+      "title_zh": "صواريخ إيران تغيّر حسابات البنتاغون.. واشنطن تدرس \"تقليص\" وجودها العسكري في الشرق الأوسط",
+      "url": "https://arabic.euronews.com/2026/09/08/after-billions-in-losses-us-plans-reduce-military-footprint-middle-east",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-08T10:50:57+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "في خضم هذه المعطيات، تتأرجح خيارات ترامب بين تشديد الضغط على إيران والعودة إلى التصعيد العسكري، وبين البحث عن مسار ينهي الحرب.",
+        "ليس من المبالغة القول إن الحرب على إيران قد تعيد رسم الخريطة الأمنية في الشرق الأوسط.",
+        "ففي البنتاغون، تدور حالياً نقاشات معمقة حول سبل حماية القوات الأميركية وتعويض الخسائر التي لحقت بالمنشآت، والتي تُقدَّر بمليارات الدولارات."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "صواريخ إيران تغيّر حسابات البنتاغون.. واشنطن تدرس \"تقليص\" وجودها العسكري في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Auf beiden Seiten Tote nach der Feuerpause",
+      "title_zh": "Ukraine-Krieg: Auf beiden Seiten Tote nach der Feuerpause",
+      "url": "https://www.dw.com/de/russland-greift-ukraine-nach-feuerpause-wieder-an-wolodymyr-selenskyj-kyjiw/a-79157437",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-09-08T10:43:08+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: Auf beiden Seiten Tote nach der Feuerpause\n8.",
+        "September 2026\nBei russischen Angriffen auf die Ukraine sind in der Hauptstadt Kyjiw mindestens zwei Menschen getötet worden.",
+        "Wie die Behörden mitteilten, wurden mehrere Bewohner eines Hauses verschüttet."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Auf beiden Seiten Tote nach der Feuerpause"
+      }
+    },
+    {
+      "title_original": "At least two people dead after Russian strikes on Kyiv",
+      "title_zh": "At least two people dead after Russian strikes on Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T10:23:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "At least two people dead after Russian strikes on Kyiv\n- Published\nAt least two people have been killed after Russia resumed airstrikes on the Ukrainian capital of Kyiv early on Tuesday, officials said.",
+        "The attack came after both countries agreed to halt strikes on each other's capitals for three days while US Donald Trump's top envoys visited Moscow and Kyiv.",
+        "Ukrainian President Volodymyr Zelensky said on Monday he expected the war to continue into the winter, following talks with Steve Witkoff and Jared Kushner - their first visit to Ukraine since Russia's full-scale invasion."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "At least two people dead after Russian strikes on Kyiv"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月8日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（9月8日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46985",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-08T09:59:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（9月8日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（9月8日の動き）"
+      }
+    },
+    {
+      "title_original": "لافروف لنظيره السعودي: روسيا مستعدة للوساطة في الشرق الأوسط",
+      "title_zh": "拉夫罗夫致沙特外长：俄罗斯准备在中东进行调解",
+      "url": "https://www.reuters.com/ar/business/5TRGMMDSYZNPHGYCAQGKX25TZY-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T09:43:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "لافروف لنظيره السعودي: روسيا مستعدة للوساطة في الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "لافروف لنظيره السعودي: روسيا مستعدة للوساطة في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Nepal cracks down on online abuse of flood survivors",
+      "title_zh": "Nepal cracks down on online abuse of flood survivors",
+      "url": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T08:31:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "尼泊尔严厉打击网上虐待洪水幸存者的行为\n- 已发表\n尼泊尔正在打击针对上个月致命洪水幸存者的网上辱骂行为，总理巴伦德拉·沙阿警告称，当局不会对“贬低”受苦受难者的人“毫不留情”。",
+        "Some have taken to social media to appeal for information about their loved ones and to urge officials to step up search efforts, only to be hit by hostile comments.",
+        "\"People who make unnecessary remarks, belittle those in pain or seek to cause them further suffering at this sensitive time are criminals,\" Shah wrote in a Facebook post."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nepal cracks down on online abuse of flood survivors"
+      }
+    },
+    {
+      "title_original": "أسهم اليابان تتراجع مع تصاعد توتر الشرق الأوسط",
+      "title_zh": "أسهم اليابان تتراجع مع تصاعد توتر الشرق الأوسط",
+      "url": "https://www.reuters.com/ar/business/QPRT4F2TIRJONLMRSPNBDO6MRY-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T08:24:09+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "أسهم اليابان تتراجع مع تصاعد توتر الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "أسهم اليابان تتراجع مع تصاعد توتر الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "北朝鮮とロシア結ぶ初の道路橋が開通、ウクライナの団体は軍事調達に利用されると指摘",
+      "title_zh": "北朝鮮とロシア結ぶ初の道路橋が開通、ウクライナの団体は軍事調達に利用されると指摘",
+      "url": "https://www.bbc.com/japanese/articles/c39mzmyxxgeo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-08T08:11:29+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "连接朝鲜和俄罗斯的第一座公路桥开通，乌克兰集团表示将用于军事采购\n通讯员 杰克·权·索尔\n连接俄罗斯和朝鲜的第一座公路大桥7日通车。跨越图们江两国边境的货物和旅客往来变得更加便捷。",
+        "北朝鮮の国営メディアは、この橋は「人的交流や観光、貿易」に使われることになると報じた。",
+        "一方、ウクライナのオープンソース・インテリジェンス（OSINT）団体「トゥルース・ハウンズ」は、この橋は、ロシアによるウクライナでの戦争を支援するため「秘密の軍事調達回廊を確立することが主目的」だと指摘している。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "北朝鮮とロシア結ぶ初の道路橋が開通、ウクライナの団体は軍事調達に利用されると指摘"
+      }
+    },
+    {
+      "title_original": "米軍や情報機関、中東でのプレゼンス縮小を検討 「ポスト9・11」戦略を再び模索",
+      "title_zh": "米軍や情報機関、中東でのプレゼンス縮小を検討 「ポスト9・11」戦略を再び模索",
+      "url": "https://www.cnn.co.jp/usa/35252397.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-09-08T08:04:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "米軍や情報機関、中東でのプレゼンス縮小を検討 「ポスト9・11」戦略を再び模索\n（CNN） 米軍や米情報機関の各部署ではこのところ、トランプ政権がイランとの戦闘終結に成功した場合に備え、中東に常駐する人員や施設の数を削減する計画について内々に議論が進められている。情報筋6人が明らかにした。",
+        "削減が実現すれば、歴代大統領が撤退を模索してきた中東地域への対応で、米国の国家安全保障機構は新たな転換点を迎える。",
+        "2001 年 9 月 11 日袭击事件发生后，美国大幅扩展了其永久性军事和情报设施网络，以便在伊拉克、阿富汗、叙利亚、伊朗、也门和利比亚这六个国家开展战斗和攻击行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "米軍や情報機関、中東でのプレゼンス縮小を検討 「ポスト9・11」戦略を再び模索"
+      }
+    },
+    {
+      "title_original": "Tokyo tourist hotspot bans short-term rentals amid surge in complaints",
+      "title_zh": "Tokyo tourist hotspot bans short-term rentals amid surge in complaints",
+      "url": "https://www.theguardian.com/world/2026/sep/08/shinjuku-tokyo-tourism-hotspot-bans-short-term-rentals-airbnb-surge-in-complaints",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-08T07:43:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "新宿区的目标是住宅区和文化遗址附近的住宿，因为当地人抱怨游客处理垃圾不当且太吵闹。东京一个受外国游客欢迎的街区在收到一系列行为投诉后，将禁止游客使用数千个短期出租住宿。",
+        "据日本媒体本周报道，日本对大众旅游的耐心正在减弱的最新迹象是，新宿区——臭名昭著的歌舞伎町夜生活区和世界上最繁忙的火车站的所在地——将禁止游客使用住宅区、学校和重要文化遗址附近的私人住宿。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Tokyo tourist hotspot bans short-term rentals amid surge in complaints"
+      }
+    },
+    {
+      "title_original": "قطر والصين توحدان الجهود لاستقرار الشرق الأوسط",
+      "title_zh": "قطر والصين توحدان الجهود لاستقرار الشرق الأوسط",
+      "url": "https://www.aljazeera.net/news/2026/9/8/%D9%82%D8%B7%D8%B1-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D9%88%D8%AD%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D9%88%D8%AF-%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-08T07:40:07+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "卡塔尔和中国共同努力稳定中东局势\n卡塔尔首相兼外交部长谢赫·穆罕默德·本·阿卜杜勒·拉赫曼·阿勒萨尼在访问北京的第二天与中国外交部长王毅会面时确认，世界和中东地区正在经历一个微妙的阶段，强调对话和政治解决方案的重要性。",
+        "وقالت الخارجية القطرية في بيان إنه جرى خلال الاجتماع، استعراض العلاقات الإستراتيجية بين البلدين وسبل تعزيزها وتطويرها في مختلف المجالات.",
+        "声明补充说，还讨论了最突出的地区事态发展以及为减少局势升级和加强该地区安全与稳定而做出的外交努力，并讨论了确保霍尔木兹海峡国际航行安全和自由的必要性。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "قطر والصين توحدان الجهود لاستقرار الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Baisse en vue en Europe avec la géopolitique et avant la BCE et l'inflation",
+      "title_zh": "在欧洲央行和通胀之前，地缘政治因素导致欧洲经济下滑",
+      "url": "https://www.boursorama.com/bourse/actualites/baisse-en-vue-en-europe-avec-la-geopolitique-et-avant-la-bce-et-l-inflation-f009c25afd35f90f7a09888762493d7f",
+      "source": "Boursorama",
+      "source_score": 40,
+      "published_at": "2026-09-08T06:55:09+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Les principales Bourses européennes sont attendues en repli mardi dans un contexte de tensions géopolitiques qui font grimper les cours du pétrole alors que les investisseurs attendent par ailleurs dans la semaine la décision de politique monétaire de la Banque centrale européenne (BCE) ainsi que les chiffres de l'inflation aux Etats-Unis et dans plusieurs pays d'Europe.",
+        "D'après les premières indications disponibles, le CAC 40 parisien .FCHI devrait perdre 0,45% à l'ouverture.",
+        "Le Dax .GDAXI à Francfort pourrait reculer de 0,25%, tandis que le FTSE 100 .FTSE à Londres devrait également abandonner 0,41%."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Boursorama"
+      ],
+      "all_titles": {
+        "fr": "Baisse en vue en Europe avec la géopolitique et avant la BCE et l'inflation"
+      }
+    },
+    {
+      "title_original": "+++ Nachrichten im Ukrainekrieg +++: Russland nimmt Angriffe auf Kyjiw wieder auf",
+      "title_zh": "+++ 乌克兰战争新闻 +++：俄罗斯恢复对基辅的袭击",
+      "url": "https://taz.de/-Nachrichten-im-Ukraine-Krieg-/!6211311/",
+      "source": "taz.de",
+      "source_score": 40,
+      "published_at": "2026-09-08T06:50:18+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "+++ 乌克兰战争新闻 +++：俄罗斯恢复对基辅的袭击\n当局报告称，俄罗斯新一轮袭击造成两人死亡。",
+        "Der ukrainische Generalstaatsanwalt tritt zurück.",
+        "Großbritannien sagt Ukraine Luftabwehrpaket für den Winter zu\nGroßbritannien unterstützt die Ukraine mit einem zusätzlichen Paket zur Luftverteidigung im kommenden Winter im Volumen von 100 Millionen Pfund (rund 117 Millionen Euro)."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "taz.de"
+      ],
+      "all_titles": {
+        "de": "+++ Nachrichten im Ukrainekrieg +++: Russland nimmt Angriffe auf Kyjiw wieder auf"
+      }
+    },
+    {
+      "title_original": "图解无人机如何渗透北约欧洲领空",
+      "title_zh": "图解无人机如何渗透北约欧洲领空",
+      "url": "https://cn.wsj.com/articles/%E5%9B%BE%E8%A7%A3%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A6%82%E4%BD%95%E6%B8%97%E9%80%8F%E5%8C%97%E7%BA%A6%E6%AC%A7%E6%B4%B2%E9%A2%86%E7%A9%BA-72823b31",
+      "source": "华尔街日报中文网",
+      "source_score": 95,
+      "published_at": "2026-09-08T06:29:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "图解无人机如何渗透北约欧洲领空    华尔街日报中文网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "华尔街日报中文网"
+      ],
+      "all_titles": {
+        "zh": "图解无人机如何渗透北约欧洲领空"
+      }
+    },
+    {
+      "title_original": "بعد حرب إيران واستهداف قواعدها.. أمريكا تدرس تقليص وجودها العسكري في الشرق الأوسط",
+      "title_zh": "بعد حرب إيران واستهداف قواعدها.. أمريكا تدرس تقليص وجودها العسكري في الشرق الأوسط",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/09/08/military-intelligence-officials-discuss-smaller-presence-middle-east-as-us-looks-for-another-post-9",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-09-08T06:04:22+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "(CNN) - 据六位消息人士透露，如果美国总统唐纳德·特朗普政府成功结束与伊朗的冲突，美国军方和情报界的办公室最近正在就减少美军通常驻扎在中东的人员和设施数量进行悄悄讨论。",
+        "如果实施，这些削减将代表美国国家安全机构在处理历届总统都试图与之保持距离的地区的方式上的新转变。",
+        "2001 年 9 月 11 日袭击事件发生后，美国显着扩大了永久性军事和情报设施网络，以便在至少六个国家进行战争和袭击：伊拉克、阿富汗、叙利亚、伊朗、也门和利比亚。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "بعد حرب إيران واستهداف قواعدها.. أمريكا تدرس تقليص وجودها العسكري في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "ウクライナ検事総長、汚職疑惑で辞任表明 ゼレンスキー氏に打撃",
+      "title_zh": "ウクライナ検事総長、汚職疑惑で辞任表明 ゼレンスキー氏に打撃",
+      "url": "https://www.nikkei.com/article/DGXZQOGR0806Z0Y6A900C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-08T05:39:11+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "本文仅供会员阅读\n乌克兰总检察长因腐败指控宣布辞职，对泽伦斯基造成打击\n[会员专用文章]\n【维也纳=金子夏希】乌克兰总检察长克拉夫琴科7日宣布辞职。反腐败机构因涉嫌腐败而拘留了一名高级检察官，克拉夫琴科也涉嫌参与腐败。",
+        "克拉夫琴科与泽连斯基总统关系密切，并领导了对俄罗斯战争罪行的调查。克拉夫琴科否认了这些指控，并于7日在通讯应用Telegram上宣布，自己的辞职是一个政治决定。",
+        "调查政府高级官员的腐败犯罪..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ検事総長、汚職疑惑で辞任表明 ゼレンスキー氏に打撃"
+      }
+    },
+    {
+      "title_original": "El crudo sube ante temores de conflicto prolongado en Oriente Medio",
+      "title_zh": "El crudo sube ante temores de conflicto prolongado en Oriente Medio",
+      "url": "https://es.tradingview.com/news/reuters.com,2026:newsml_L6N45007W:0/",
+      "source": "es.tradingview.com",
+      "source_score": 40,
+      "published_at": "2026-09-08T05:36:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Noticias/Reuters/El crudo sube ante temores de conflicto prolongado en Oriente MedioEl crudo sube ante temores de conflicto prolongado en Oriente MedioLea el artículo completoDisfrute de acceso ilimitado a los artículos de Reuters y al resto de fuentes de noticias disponibles en TradingView.Seguir leyendo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "es.tradingview.com"
+      ],
+      "all_titles": {
+        "es": "El crudo sube ante temores de conflicto prolongado en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "النفط يقفز 2% مع تجدد تصعيد الشرق الأوسط.. مخاوف من صراع طويل الأمد",
+      "title_zh": "中东局势再度升级，油价上涨 2%...对长期冲突的担忧",
+      "url": "https://www.alarabiya.net/aswaq/oil-and-gas/2026/09/08/%D8%A7%D9%84%D9%86%D9%81%D8%B7-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D9%88%D8%B3%D8%B7-%D8%AA%D9%81%D8%A7%D9%82%D9%85-%D9%85%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A7%D9%88%D8%B3%D8%B7",
+      "source": "العربية",
+      "source_score": 40,
+      "published_at": "2026-09-08T04:48:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势再度升级，油价上涨 2%...",
+        "对长期冲突的担忧 阿拉伯语",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "العربية"
+      ],
+      "all_titles": {
+        "ar": "النفط يقفز 2% مع تجدد تصعيد الشرق الأوسط.. مخاوف من صراع طويل الأمد"
+      }
+    },
+    {
+      "title_original": "ロシア、ウクライナ首都に猛攻撃 米特使らの訪問の翌日",
+      "title_zh": "美国特使访问后第二天，俄罗斯对乌克兰首都发动袭击",
+      "url": "https://www.cnn.co.jp/world/35252384.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-09-08T04:46:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国特使访问后第二天，俄罗斯对乌克兰首都发动袭击\n基辅（CNN）8日凌晨，俄罗斯用弹道导弹猛烈袭击了乌克兰首都基辅。此前一天，美国特使史蒂夫·威特科夫和美国总统唐纳德·特朗普的女婿贾里德·库什纳访问了该地区，试图重启陷入僵局的和平谈判。",
+        "当地时间8日凌晨，美国有线电视新闻网（CNN）记者报道称，基伍市内传出爆炸声。这标志着美国特使访问俄罗斯和乌克兰首都期间商定的为期三天的暂停袭击的结束。",
+        "据乌克兰当局称，这次联合袭击使用了弹道导弹、巡航导弹和无人机。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナ首都に猛攻撃 米特使らの訪問の翌日"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: New political turmoil in Kyiv as prosecutor general resigns",
+      "title_zh": "乌克兰战争简报：总检察长辞职，基辅出现新的政治动荡",
+      "url": "https://www.theguardian.com/world/2026/sep/08/ukraine-war-briefing-new-political-turmoil-in-kyiv-as-prosecutor-general-resigns",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-09-08T04:27:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  乌克兰总检察长鲁斯兰·克拉夫琴科因腐败指控而辞职，作为对非法呼叫中心调查的一部分，反腐官员周末搜查了他的办公室。",
+        "克拉夫琴科否认对他的任何指控，称这些指控“完全未经证实”，并否认有不当行为。",
+        "国家反腐败局（Nabu）和专门反腐败检察官办公室（Sapo）周六宣布，他们发现了“由总检察长办公室一名官员领导”的洗钱计划，并在那里进行了突击搜查。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: New political turmoil in Kyiv as prosecutor general resigns"
+      }
+    },
+    {
+      "title_original": "Canada’s retaliatory US tariffs take effect as trade dispute grows",
+      "title_zh": "随着贸易争端加剧，加拿大对美国征收报复性关税",
+      "url": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-08T04:00:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普宣布对加拿大商品征收 50% 关税后，加拿大对价值数十亿美元的美国进口商品征收报复性关税已经生效，美国总统唐纳德·特朗普和加拿大总理马克·卡尼之间的紧张关系加剧，贸易战升级，涉及多个领域。",
+        "该关税于周二凌晨 12 点 01 分生效，关税范围为 15% 至 50%，适用于从美国进口的价值 200 亿美元的产品。",
+        "这些措施针对的行业包括钢铁、乳制品、电器、农业设备、纸浆和造纸以及电子等受美国关税影响最严重的行业。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Canada’s retaliatory US tariffs take effect as trade dispute grows"
+      }
+    },
+    {
+      "title_original": "Hijacking pirates exploit regional chaos to return to seas off Somalia",
+      "title_zh": "劫持海盗利用地区混乱返回索马里海域",
+      "url": "https://www.theguardian.com/world/2026/sep/08/hijacking-pirates-somalia-geopolitical-chaos",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-08T04:00:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美以对伊朗的战争和索马里的政治不稳定导致海盗以非洲之角附近的货船为目标 索马里以非洲之角附近的货船和小型独桅帆船为目标的海盗活动已恢复到十年来未见的水平，这是由多种因素共同推动的，这些因素包括美国和以色列对伊朗的战争对航运业造成的破坏以及索马里政治不稳定的死灰复燃。",
+        "自四月下旬以来，索马里海盗已发生八起劫持事件，其中两起发生在八月份的两周内：其中一起针对一艘与伊朗有联系的油轮，另一起针对一艘悬挂喀麦隆国旗的卢图夫号船只，该船只为土耳其运送军事装备。",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Hijacking pirates exploit regional chaos to return to seas off Somalia"
+      }
+    },
+    {
+      "title_original": "ロシア空爆再開、米特使帰国直後にウクライナ各地で キーウで3人死亡",
+      "title_zh": "ロシア空爆再開、米特使帰国直後にウクライナ各地で キーウで3人死亡",
+      "url": "https://jp.reuters.com/world/ukraine/HPT65DNPZNLQNMRBOBAFQONDOM-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T03:52:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア空爆再開、米特使帰国直後にウクライナ各地で キーウで3人死亡    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア空爆再開、米特使帰国直後にウクライナ各地で キーウで3人死亡"
+      }
+    },
     {
       "title_original": "ゴールドマン、原油価格予想引き上げ 中東リスク長期化で",
       "title_zh": "由于中东风险长期存在，高盛上调油价预测",
