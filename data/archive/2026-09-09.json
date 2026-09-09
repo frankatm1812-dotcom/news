@@ -1,0 +1,882 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T01:14:53.972666+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "US slaps import ban on Canadian alcohol and other goods",
+      "title_zh": "美国对加拿大酒类和其他商品实施进口禁令",
+      "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-09T01:09:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国对加拿大酒类和其他商品实施进口禁令\n- 已发表\n随着加拿大对美国商品征收报复性关税生效，美国正在禁止大量加拿大产品，包括烈酒、乳制品和机动车辆。",
+        "美国总统唐纳德·特朗普在周二发布的一系列行政命令中表示，加拿大“歧视”美国，并概述了将于 9 月 29 日开始实施的进口禁令。",
+        "周二早些时候，加拿大总理马克·卡尼在视频讲话中表示，加拿大放弃美国作为其最大贸易伙伴的地位“将付出代价”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US slaps import ban on Canadian alcohol and other goods"
+      }
+    },
+    {
+      "title_original": "中东局势骤然升级，布伦特原油期货逼近100美元大关_国际原油市场",
+      "title_zh": "中东局势骤然升级，布伦特原油期货逼近100美元大关_国际原油市场",
+      "url": "http://gold.cnfol.com/guojiyuanyousc/20260909/32364149.shtml",
+      "source": "黄金网",
+      "source_score": 40,
+      "published_at": "2026-09-09T00:53:01+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "周三(9月9日)亚洲时段，布伦特原油期货一度升至99.64美元/桶，创7月27日以来的新高。",
+        "此番油价攀升的直接导火索，正是中东地缘紧张局势的骤然升级。",
+        "据媒体周二报道，一名美国官员表示，为回应伊朗革命卫队(IRGC)对一艘美国军舰发动的导弹袭击企图，美军已对多艘与IRGC关联的伊朗油轮实施打击。此举标志着中东地区军事对峙的显著升级。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "黄金网"
+      ],
+      "all_titles": {
+        "zh": "中东局势骤然升级，布伦特原油期货逼近100美元大关_国际原油市场"
+      }
+    },
+    {
+      "title_original": "Singapore boosts PM’s salary by $1m amid major pay rise for ministers",
+      "title_zh": "新加坡总理薪水增加100万美元，部长们大幅加薪",
+      "url": "https://www.theguardian.com/world/2026/sep/09/singapore-pm-ministers-salary-pay-rise",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-09T00:00:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "这个富裕的城邦为其政治领导人提供高薪是合理的，理由是这样可以吸引人才并确保良好的治理。随着这个富裕的城邦宣布一次性大幅提高政府部长的工资，新加坡总理已加薪 100 万美元。",
+        "此次加薪比世界上最高的部长级薪资增加了 60% 以上。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Singapore boosts PM’s salary by $1m amid major pay rise for ministers"
+      }
+    },
+    {
+      "title_original": "フーシ派がサウジ攻撃、米はイランへの攻撃再開 中東戦争拡大",
+      "title_zh": "胡塞武装袭击沙特，美国恢复袭击伊朗，中东战事扩大",
+      "url": "https://jp.reuters.com/world/MIWL4SBLQRLVJKDFLCWXOM4SJI-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T23:53:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "胡塞武装袭击沙特阿拉伯，美国恢复对伊朗的袭击，中东战事扩大 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "フーシ派がサウジ攻撃、米はイランへの攻撃再開 中東戦争拡大"
+      }
+    },
+    {
+      "title_original": "Berliner Appell an Selenskyj: Wadephul fordert von der Ukraine, mehr deutsche Waffen zu kaufen",
+      "title_zh": "柏林向泽连斯基发出呼吁：瓦德菲尔呼吁乌克兰购买更多德国武器",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-johann-wadephul-draengt-wolodymyr-selenskyj-zu-mehr-deutschen-waffen-kaeufen-a-f4a41a22-5426-4695-8300-78125e3c2eba",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-08T23:44:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "柏林向泽连斯基·瓦德菲尔呼吁乌克兰购买更多德国武器\n联邦外交部长约翰·瓦德菲尔呼吁乌克兰向德国军火公司下更多订单。",
+        "这位基民盟政治家告诉《图片报》：“我们现在是乌克兰在财政和军事支持方面最强有力的支持者。”",
+        "“德国国防工业自然也必须从中受益。”瓦德菲尔说，他在上次访问基辅时也向乌克兰总统泽连斯基说过这句话。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Berliner Appell an Selenskyj: Wadephul fordert von der Ukraine, mehr deutsche Waffen zu kaufen"
+      }
+    },
+    {
+      "title_original": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "title_zh": "“一直萦绕在我的脑海中”——25 年来，9/11 事件对失去亲人的人来说仍然是一种痛苦",
+      "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T23:11:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "“一直萦绕在我的脑海中”——25 年来，9/11 事件对失去亲人的人来说仍然是一种痛苦\n- 已发表\n美国政府将其描述为“现代历史上美国领土上最令人震惊的犯罪行为”。",
+        "但四分之一个世纪过去了，对其所谓主谋的审判尚未开始，遇难者家属担心伸张正义的时间已经不多了。",
+        "2001 年 9 月 11 日，劫机者驾驶飞机撞向纽约世贸中心和弗吉尼亚五角大楼，造成近 3,000 人遇难，其中包括汤姆·雷斯塔 (Tom Resta) 的兄弟约翰 (John) 和他怀孕七个月的妻子西尔维娅 (Sylvia)。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on"
+      }
+    },
+    {
+      "title_original": "غير المفهوم في حروب الشرق الأوسط",
+      "title_zh": "中东战争中不被理解的事情",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B1%D8%A3%D9%8A/5316218-%D8%BA%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D9%81%D9%87%D9%88%D9%85-%D9%81%D9%8A-%D8%AD%D8%B1%D9%88%D8%A8-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-09-08T23:05:50+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "大约三年来，特别是自 2023 年 10 月 7 日以来，地震和飓风一直在影响着世界，对我们来说最重要的是中东正在发生的事情。",
+        "那里不再只有令人困惑的战争；相反，正是“混乱”没有预料到会产生这种效果，并且伴随着巨大的不确定性。",
+        "当一个话题仍处于发酵和变化阶段，并且很可能会受到地震袭击地球时地球板块发生的变化的影响时，科学家和分析家怎么能讨论这个话题呢？"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "غير المفهوم في حروب الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "ウクライナは独企業からもっと武器を購入すべき＝独外相",
+      "title_zh": "德国外长：乌克兰应从德国公司购买更多武器",
+      "url": "https://jp.reuters.com/world/ukraine/GKKKESW53JNO7CEO2BPFU52TDI-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T22:45:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德国外长：乌克兰应从德国公司购买更多武器 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナは独企業からもっと武器を購入すべき＝独外相"
+      }
+    },
+    {
+      "title_original": "Missouri’s redistricting in flux after dissonant court rulings",
+      "title_zh": "法庭裁决不一致后，密苏里州的选区重新划分不断变化",
+      "url": "https://www.politico.com/news/2026/09/08/supreme-court-rejects-missouri-redistricting-bid-01068211",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-08T18:09:15-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "最高法院法官拒绝了在中期选举前恢复密苏里州亲共和党重新划分选区的提议，但联邦法官几乎同时批准该州继续执行该计划。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Missouri’s redistricting in flux after dissonant court rulings"
+      }
+    },
+    {
+      "title_original": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+      "title_zh": "保罗·亚当斯：英以关系处于几十年来的最低点",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T21:46:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "保罗·亚当斯：英以关系处于几十年来的最低点\n- 已发表\n以色列对英国政府禁止与被占领约旦河西岸以色列定居点进行贸易的决定做出强烈反应，这证明了这一时刻的重要性。",
+        "英国首当其冲地受到了以色列的愤怒，但12个国家选择共同行动的事实显然加剧了以色列的愤怒。",
+        "伦敦官员一直都知道，对以色列-巴勒斯坦政策的如此巨大转变将引发敌对反应，但他们似乎对以色列反应的速度和猛烈感到惊讶。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Paul Adams: British-Israeli relations at lowest ebb in decades"
+      }
+    },
+    {
+      "title_original": "ウクライナ、パトリオットミサイル約1000発調達へ 同盟国の支援活用＝国防相",
+      "title_zh": "乌克兰将利用盟友的支持采购约1000枚爱国者导弹：国防部长",
+      "url": "https://jp.reuters.com/world/ukraine/WRI27PJ6IRIUVAAJ7RHE7JFOGY-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T21:25:23+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰国防部长：乌克兰将在盟友支持下采购约1000枚爱国者导弹 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、パトリオットミサイル約1000発調達へ 同盟国の支援活用＝国防相"
+      }
+    },
+    {
+      "title_original": "NYダウは続落し628ドル安 中東不安で原油高、一時94ドルを嫌気",
+      "title_zh": "纽约道指继续下跌，跌幅达628美元，因中东动荡原油上涨，暂时跌至94美元",
+      "url": "https://www.nikkei.com/article/DGXZQOFL090180Z00C26A9000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-08T20:49:59+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "纽约道指继续下跌，跌幅达628美元，因中东动荡原油上涨，暂时跌至94美元\n【NQN纽约=稻叶米娜】美国股市8日，道琼斯工业平均指数继续下跌，收盘价为52786.07美元（初步），较4日（三日假期前一天）下跌628.18美元（1.17%）。",
+        "由于中东局势恶化，美国原油期货上涨，打压股市。另一方面，与人工智能（AI）相关的产品，例如半导体，价格却很高。",
+        "路透社报道称，也门亲伊朗胡塞武装8日袭击了沙特空军基地和能源设施。另据报道，沙特阿拉伯正计划进行报复。美国东部时间8日下午，据报道，伊朗石油出口中心哈格岛附近传出爆炸声。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "NYダウは続落し628ドル安 中東不安で原油高、一時94ドルを嫌気"
+      }
+    },
+    {
+      "title_original": "原油先物6週間ぶり高値、フーシ派がサウジ攻撃 中東緊張が拡大",
+      "title_zh": "胡塞武装袭击沙特阿拉伯，中东紧张局势升级，原油期货触及六周高位",
+      "url": "https://jp.reuters.com/markets/japan/ZGBPH2QOYNL3FG374FOBX5P5AE-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T20:30:13+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "胡塞武装袭击沙特阿拉伯，中东紧张局势升级，原油期货触及六周高位 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物6週間ぶり高値、フーシ派がサウジ攻撃 中東緊張が拡大"
+      }
+    },
+    {
+      "title_original": "Trump and Putin held call over Witkoff-Kushner meeting and state of Ukraine war, Russia says",
+      "title_zh": "俄罗斯称，特朗普和普京就维特科夫-库什纳会晤和乌克兰战争状况进行了通话",
+      "url": "https://www.cbsnews.com/video/trump-putin-call-witkoff-kushner-meeting-state-ukraine-war-russia/",
+      "source": "CBS News",
+      "source_score": 75,
+      "published_at": "2026-09-08T20:16:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯称，特朗普和普京就维特科夫-库什纳会晤和乌克兰战争状况进行了通话\n                俄罗斯官员周二报道称，特朗普总统就美国访问莫斯科与弗拉基米尔·普京进行了通话。",
+        "和平使者。",
+        "哥伦比亚广播公司新闻 (CBS News) 白宫记者奥利维亚·里纳尔迪 (Olivia Rinaldi) 有更多报道。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "CBS News"
+      ],
+      "all_titles": {
+        "en": "Trump and Putin held call over Witkoff-Kushner meeting and state of Ukraine war, Russia says"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient : un pétrolier iranien ciblé par une attaque américaine",
+      "title_zh": "中东：伊朗油轮成为美国袭击目标",
+      "url": "https://www.sudouest.fr/international/moyen-orient/moyen-orient-un-petrolier-iranien-cible-par-une-attaque-americaine-30538940.php",
+      "source": "Sud Ouest",
+      "source_score": 40,
+      "published_at": "2026-09-08T20:10:40+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "据伊朗塔斯尼姆通讯社报道，美军袭击了哈格岛附近的一艘油船，没有造成任何人员伤亡\n据塔斯尼姆通讯社周二晚间报道，美军对伊朗海湾哈格岛附近的一艘伊朗油轮进行了导弹袭击，并补充说没有造成人员伤亡。",
+        "革命卫队声称在德黑兰和华盛顿之间紧张局势升级的这一战略地区捕获了现代监视设备\n该机构表示：“一艘伊朗小型油轮成为美国恐怖分子军队发动导弹袭击的目标，距离哈格岛 4 英里（约 6.4 公里）”，并指出该船的船员正在撤离。",
+        "然而，与订阅一样，它们有助于支持我们编辑团队中 250 名记者的工作，他们致力于每天为您提供优质、可靠和完整的信息。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Sud Ouest"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient : un pétrolier iranien ciblé par une attaque américaine"
+      }
+    },
+    {
+      "title_original": "حقائق-شركات طيران تستأنف بعض رحلات الشرق الأوسط مع استمرار حرب إيران",
+      "title_zh": "事实——随着伊朗战争的继续，航空公司恢复了一些中东航班",
+      "url": "https://www.reuters.com/ar/business/S6FIAFGAGFOTDGYY2K5HDMVR24-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T19:54:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "事实 - 随着伊朗战争的继续，航空公司恢复了一些中东航班 路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "حقائق-شركات طيران تستأنف بعض رحلات الشرق الأوسط مع استمرار حرب إيران"
+      }
+    },
+    {
+      "title_original": "\"غيّرنا وجه الشرق الأوسط\".. نتنياهو يتوعد بـ\"استكمال المهمة\" عبر إسقاط النظام الإيراني",
+      "title_zh": "“我们改变了中东的面貌。”内塔尼亚胡誓言推翻伊朗政权“完成使命”",
+      "url": "https://arabic.euronews.com/2026/09/08/netanyahu-iran-israel-nuclear-program-elections-middle-east",
+      "source": "Euronews",
+      "source_score": 75,
+      "published_at": "2026-09-08T19:17:23+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "“我们改变了中东的面貌。”",
+        "内塔尼亚胡发誓要通过推翻伊朗政权来“完成使命”",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Euronews"
+      ],
+      "all_titles": {
+        "ar": "\"غيّرنا وجه الشرق الأوسط\".. نتنياهو يتوعد بـ\"استكمال المهمة\" عبر إسقاط النظام الإيراني"
+      }
+    },
+    {
+      "title_original": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "title_zh": "英国宣布对约旦河西岸定居点实施制裁，引发以色列强烈反应",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T19:11:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "英国外交大臣指责定居者对巴勒斯坦人进行“种族清洗”，而以色列则关闭了英国驻东耶路撒冷领事馆作为回应。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "UK announces sanctions on West Bank settlements prompting furious Israeli response"
+      }
+    },
+    {
+      "title_original": "Trump tells Putin he wants swift end to Ukraine war, Kremlin says",
+      "title_zh": "克里姆林宫称特朗普告诉普京他希望迅速结束乌克兰战争",
+      "url": "https://www.france24.com/en/europe/20260908-trump-tells-putin-he-wants-swift-end-to-ukraine-war-kremlin-says",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-08T19:07:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "克里姆林宫称，特朗普告诉普京他希望迅速结束乌克兰战争 法国 24 小时",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "en": "Trump tells Putin he wants swift end to Ukraine war, Kremlin says"
+      }
+    },
+    {
+      "title_original": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
+      "title_zh": "马姆达尼说，9/11 袭击后，纽约人被“欺骗”，说空气有毒",
+      "url": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T18:21:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "马姆达尼说，9/11 袭击后，纽约人被“欺骗”，说空气有毒\n- 已发表\n根据最新公布的大量文件，9/11 袭击事件发生后不久，尽管官员们淡化了公众的健康风险，但曼哈顿的空气质量仍出现了有毒的情况。",
+        "纽约市市长佐兰·马姆达尼 (Zohran Mamdani) 表示，在 2001 年世贸中心双塔倒塌的“归零地”附近进行测试时，“几乎到处”都发现了石棉。",
+        "他说：“人们之所以生病，是因为他们信任的领导人撒了谎，告诉他们呼吸有毒空气是安全的。”他宣布公布了 17 万份与袭击相关的文件。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani"
+      }
+    },
+    {
+      "title_original": "British widow faces deportation from Sweden after 22 years",
+      "title_zh": "英国寡妇22年后面临被瑞典驱逐出境",
+      "url": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T18:02:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "英国寡妇22年后面临被瑞典驱逐出境\n- 已发表\n一名 78 岁的英国寡妇告诉 BBC，瑞典政府威胁要因她迟交的脱欧后居留申请将她驱逐出境，导致她吃不下饭、睡不好觉。",
+        "乔伊斯·托马斯 (Joyce Thomas) 是一名退休护士，22 年前与她的丈夫搬到了瑞典，三年前她的丈夫因癌症去世。",
+        "瑞典当局表示，他们应该在英国脱欧后正式申请留在该国，之后就发出了驱逐出境的威胁。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "British widow faces deportation from Sweden after 22 years"
+      }
+    },
+    {
+      "title_original": "独はパトリオット追加供与、米「長期化に備え」＝ウクライナ支援国会合",
+      "title_zh": "德国捐赠更多爱国者，美国“为长期局势做好准备”=乌克兰捐助者会议",
+      "url": "https://jp.reuters.com/world/ukraine/G6SKRECPTJMY7LZZTBNVCISLHI-2026-09-08/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-08T17:41:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德国将提供更多爱国者，美国“为长期形势做好准备”=乌克兰捐助者会议​路透社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "独はパトリオット追加供与、米「長期化に備え」＝ウクライナ支援国会合"
+      }
+    },
+    {
+      "title_original": "أديداس في مرمى الانتقادات مجددا بعد تخصيص بيان اعتذارها للجمهور العربي",
+      "title_zh": "阿迪达斯在向阿拉伯公众发表道歉声明后再次成为批评的焦点",
+      "url": "https://www.aljazeera.net/news/2026/9/8/%D8%A3%D8%AF%D9%8A%D8%AF%D8%A7%D8%B3-%D9%81%D9%8A-%D9%85%D8%B1%D9%85%D9%89-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF%D8%A7%D8%AA-%D9%85%D8%AC%D8%AF%D8%AF%D8%A7-%D8%A8%D8%B9%D8%AF",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-08T17:26:01+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "阿迪达斯在向阿拉伯公众发表道歉声明后再次成为批评的焦点\n在社交媒体平台领导人发起广泛抵制运动后，德国公司“阿迪达斯”为其宣传活动中使用了一名名叫“沙列夫·比顿”的前以色列士兵进行的宣传活动所造成的“冒犯”道歉，这名前以色列士兵在 2021 年以色列侵略加沙地带期间失去了一条腿。",
+        "这家德国公司通过其在Instagram平台上的中东地区账户（adidasarabia）发表声明，解释称该图片用于当地活动，引起强烈反响。",
+        "阿迪达斯在声明中证实，造成冒犯并不是其目标，并向所有受该事件影响的人致歉。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "أديداس في مرمى الانتقادات مجددا بعد تخصيص بيان اعتذارها للجمهور العربي"
+      }
+    },
+    {
+      "title_original": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+      "title_zh": "乌克兰电视台大楼遭俄罗斯无人机袭击 基辅5人死亡",
+      "url": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T17:10:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰电视台大楼遭俄罗斯无人机袭击 基辅5人死亡\n- 已发表\n总统泽连斯基表示，一架俄罗斯无人机袭击了位于基辅的乌克兰电视频道总部，造成至少五人受伤，当时记者正在现场直播。",
+        "泽伦斯基表示，白天的袭击是“俄罗斯退化的新一页”，而总统分享的照片显示一座部分倒塌的建筑。",
+        "俄罗斯对基辅的夜间和白天袭击已造成至少五人死亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv"
+      }
+    },
+    {
+      "title_original": "¿Qué supondría para Oriente Medio una reducción de la presencia militar estadounidense?",
+      "title_zh": "美国军事存在的减少对中东意味着什么？",
+      "url": "https://cnnespanol.cnn.com/2026/09/08/mundo/video/medio-oriente-trump",
+      "source": "CNN en Español",
+      "source_score": 95,
+      "published_at": "2026-09-08T16:50:51+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "视频广告反馈\n  美国军事存在的减少对中东意味着什么？",
+        "情报来源向美国有线电视新闻网证实了削减美国军事存在的谨慎计划。",
+        "如果特朗普政府遏制与伊朗的紧张局势，中东地区的局势就会发生变化。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "CNN en Español"
+      ],
+      "all_titles": {
+        "es": "¿Qué supondría para Oriente Medio una reducción de la presencia militar estadounidense?"
+      }
+    },
+    {
+      "title_original": "Russland und der Ukraine-Krieg: Wladimir Putin telefoniert mit Donald Trump",
+      "title_zh": "俄罗斯和乌克兰战争：弗拉基米尔·普京给唐纳德·特朗普打电话",
+      "url": "https://www.spiegel.de/ausland/russland-und-der-ukraine-krieg-wladimir-putin-telefoniert-mit-donald-trump-a-1864364e-9d0f-43dc-91c1-5e66474a5725",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-08T16:20:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "与华盛顿会谈 普京致电特朗普 – 莫斯科希望恢复关系\n据克里姆林宫报道，美国总统唐纳德·特朗普和俄罗斯领导人弗拉基米尔·普京通了电话。",
+        "普京的外交政策顾问尤里·乌沙科夫表示，这次谈话“非常开放”。",
+        "普京向特朗普保证，据称他对欧洲没有“侵略计划”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Russland und der Ukraine-Krieg: Wladimir Putin telefoniert mit Donald Trump"
+      }
+    },
+    {
+      "title_original": "米ロ首脳が電話会談 ウクライナ情勢めぐり協議継続で一致",
+      "title_zh": "美俄领导人通电话同意继续就乌克兰局势进行谈判",
+      "url": "https://newsdig.tbs.co.jp/articles/-/2930913",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-09-08T16:12:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国和俄罗斯领导人通电话并同意就乌克兰局势继续进行会谈 TBS电视台 2026年9月9日星期三 01:12 俄罗斯国际总统普京与美国总统特朗普通电话并同意就乌克兰局势继续进行会谈。据俄罗斯总统府消息，普京总统与特朗普总统8日通了约1天的电话。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "米ロ首脳が電話会談 ウクライナ情勢めぐり協議継続で一致"
+      }
+    },
+    {
+      "title_original": "U.S. European Command, NATO Allies, partners elevate combined spiritual readiness at multinational exchange",
+      "title_zh": "美国欧洲司令部、北约盟国和合作伙伴在跨国交流中提高联合精神准备度",
+      "url": "https://www.dvidshub.net/image/9919066/us-european-command-nato-allies-partners-elevate-combined-spiritual-readiness-multinational-exchange",
+      "source": "DVIDS",
+      "source_score": 40,
+      "published_at": "2026-09-08T16:11:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "空军高级飞行员艾丽卡·富内斯（Erica Funes）（右）是第 86 医疗大队的儿科医疗技术员，在美军作战期间模拟一名受伤士兵的样子。",
+        "北约欧洲司令部和合作伙伴宗教事务部在德国卡帕恩空军基地举行了关爱死者和临终主题的交流活动。",
+        "此次活动以一项最终演习结束，该演习要求盟军和合作伙伴牧师为受伤军人提供牧师护理，并在模拟大规模战斗条件下开展其他宗教支持行动，从而提高互操作性和战备状态。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "DVIDS"
+      ],
+      "all_titles": {
+        "en": "U.S. European Command, NATO Allies, partners elevate combined spiritual readiness at multinational exchange"
+      }
+    },
+    {
+      "title_original": "米ロ首脳、ウクライナ和平巡り電話協議 プーチン氏補佐官「建設的」",
+      "title_zh": "美国和俄罗斯领导人就乌克兰和平问题举行电话会谈；普京助手称其具有建设性",
+      "url": "https://www.nikkei.com/article/DGXZQOGR08B6M0Y6A900C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-08T15:18:02+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "本文仅供会员阅读\n美国和俄罗斯领导人就乌克兰和平问题举行电话会谈；普京助手称其具有建设性\n[会员专用文章]\n俄罗斯总统普京8日与美国总统特朗普通电话。他们用了大约一个小时的时间讨论了结束乌克兰战斗的措施。据路透社报道，俄罗斯总统助手乌沙科夫表示：“这是建设性的。”",
+        "乌沙科夫表示，普京高度赞赏特朗普的斡旋努力。特朗普表示希望在任期内取得和平进展，并认识到结束敌对行动将改善美俄关系。",
+        "2022年2月，俄罗斯入侵乌克兰。我们整理了有关世界各地战况和动向的最新新闻和评论。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "米ロ首脳、ウクライナ和平巡り電話協議 プーチン氏補佐官「建設的」"
+      }
+    },
+    {
+      "title_original": "Putin niega a Trump que Rusia tenga planes de atacar a un país europeo de la OTAN: \"Ni se nos han pasado por la cabeza\"",
+      "title_zh": "普京向特朗普否认俄罗斯计划攻击欧洲北约国家：“我们甚至没有想过”",
+      "url": "https://www.20minutos.es/internacional/putin-niega-trump-que-rusia-tenga-planes-atacar-un-pais-europeo-otan-ni-se-nos-han-pasado-por-cabeza_7034263_0.html",
+      "source": "20minutos.es",
+      "source_score": 40,
+      "published_at": "2026-09-08T15:08:05+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京向特朗普否认俄罗斯计划攻击欧洲北约国家：“我们甚至没有想过”\n基于我们的记者或知情人士直接观察和核实的事实。",
+        "选择我们作为您在 Google 上的首选字体。",
+        "美国总统已通过电话要求克里姆林宫领导人尽早结束与乌克兰的战争。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "20minutos.es"
+      ],
+      "all_titles": {
+        "es": "Putin niega a Trump que Rusia tenga planes de atacar a un país europeo de la OTAN: \"Ni se nos han pasado por la cabeza\""
+      }
+    },
+    {
+      "title_original": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
+      "title_zh": "医疗慈善机构警告说，苏丹的医疗保健系统在削减开支后濒临崩溃",
+      "url": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T15:06:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "医疗慈善机构警告说，苏丹的医疗保健系统在削减开支后濒临崩溃\n- 已发表\n无国界医生组织 (MSF) 警告称，由于全球资金削减导致苏丹各地医疗机构关闭，该国脆弱的卫生系统正处于崩溃的边缘。",
+        "该医疗慈善机构表示，去年苏丹最大的捐助国美国关闭了其提供对外援助的机构美国国际开发署后，数十个组织无法找到替代资金。",
+        "无国界医生敦促聚集在纽约联合国大会的世界领导人采取行动。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns"
+      }
+    },
+    {
+      "title_original": "Hungary expels 10 Russian diplomats as relations worsen",
+      "title_zh": "关系恶化匈牙利驱逐10名俄罗斯外交官",
+      "url": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T14:38:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "关系恶化匈牙利驱逐10名俄罗斯外交官\n- 已发表\n匈牙利外交部长安妮塔·奥尔班表示，10 名俄罗斯外交官因参加“不可接受的”活动而被勒令离开布达佩斯。",
+        "“这一决定保护了匈牙利的安全和主权，”她在社交媒体上写道，但没有透露细节。",
+        "欧尔班·维克多 (Viktor Orbán) 领导下的匈牙利多年来一直被视为俄罗斯在欧盟最亲密的盟友，但自 4 月份选举失败以来，新政府已经放弃了亲克里姆林宫的立场。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hungary expels 10 Russian diplomats as relations worsen"
+      }
+    },
+    {
+      "title_original": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+      "title_zh": "沙特阿拉伯誓言在胡塞武装袭击城市和能源设施后做出回应",
+      "url": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T13:58:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "沙特阿拉伯誓言在胡塞武装袭击城市和能源设施后做出回应\n- 已发表\n沙特当局称，伊朗支持的也门胡塞运动使用数十架无人机和导弹袭击了沙特阿拉伯的能源设施和其他民用基础设施，造成 73 人受伤。",
+        "Tuesday's attacks hit four south-western cities, causing fires at oil facilities and installations that led to a temporary halt in operations, according to Saudi Arabia's military and energy ministry.",
+        "The Saudi-led coalition in Yemen said that its forces would respond to the \"dangerous escalation\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities"
+      }
+    },
+    {
+      "title_original": "Renoir paintings worth millions stolen in French museum heist",
+      "title_zh": "雷诺阿价值数百万画作在法国博物馆抢劫中被盗",
+      "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-08T13:35:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "雷诺阿价值数百万画作在法国博物馆抢劫中被盗\n- 已发表\n印象派艺术家皮埃尔·奥古斯特·雷诺阿的两幅画在法国南部的一家博物馆被盗。",
+        "Two thieves broke into the Renoir Museum in Cagnes-sur-Mer early on Tuesday, seizing four paintings but dropping two of the works in the museum gardens as they escaped, local Mayor Bryan Masson said.",
+        "The paintings, each worth €9m (£7.7m; $10.4m), are the latest high-profile pieces to have been stolen in a string of recent heists in Europe which have thrust the security of art in galleries and museums into the spotlight."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Renoir paintings worth millions stolen in French museum heist"
+      }
+    },
+    {
+      "title_original": "South Korea Should Help Defend Ukraine’s Skies",
+      "title_zh": "韩国应帮助保卫乌克兰的天空",
+      "url": "https://foreignpolicy.com/2026/09/08/russia-ukraine-war-south-korea-air-defense-interceptors/",
+      "source": "Foreign Policy",
+      "source_score": 75,
+      "published_at": "2026-09-08T13:16:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "韩国应帮助保卫乌克兰的天空\n首尔可以证明自己是欧洲的真正合作伙伴，而不仅仅是一个机会主义者。",
+        "据乌克兰国防部称，7 月是自 2022 年 4 月以来乌克兰平民死亡人数最多的一个月，乌克兰仅拦截了俄罗斯 195 枚来袭弹道导弹中的 29 枚。",
+        "随着俄罗斯加强弹道导弹攻击，乌克兰防御此类导弹所需的拦截弹数量严重不足。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Foreign Policy"
+      ],
+      "all_titles": {
+        "en": "South Korea Should Help Defend Ukraine’s Skies"
+      }
+    }
+  ]
+}
