@@ -1,8 +1,883 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T01:14:53.972666+00:00",
-  "count": 35,
+  "generated_at": "2026-09-09T15:06:45.265808+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title_original": "Guerre au Moyen-Orient: le gaz européen dépasse les 80 euros le mégawattheure",
+      "title_zh": "Guerre au Moyen-Orient: le gaz européen dépasse les 80 euros le mégawattheure",
+      "url": "https://www.bfmtv.com/economie/video-guerre-au-moyen-orient-le-gaz-europeen-depasse-les-80-euros-le-megawattheure_VN-202609090616.html",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-09-09T14:56:29+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Guerre au Moyen-Orient: le gaz européen dépasse les 80 euros le mégawattheure\nLe cours du gaz européen est monté à son plus haut niveau depuis le début de l'année 2023 mercredi, dopé par la reprise depuis début septembre des frappes entre l'Iran et les États-Unis qui complique le remplissage des stocks avant l'hiver.",
+        "| Durée : 1:32",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: le gaz européen dépasse les 80 euros le mégawattheure"
+      }
+    },
+    {
+      "title_original": "Oil prices rise as Middle East conflict escalates",
+      "title_zh": "Oil prices rise as Middle East conflict escalates",
+      "url": "https://www.dw.com/en/oil-prices-rise-as-middle-east-conflict-escalates/a-79203547",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-09T14:17:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Oil prices rise as Middle East conflict escalates\nSeptember 9, 2026\nOil crude prices topped $100 ($86) a barrel on Wednesday for the first time since July amid concerns over oil supplies due to the conflict in the Middle East.",
+        "丹麦盛宝银行大宗商品策略主管 Ole Hansen 表示：“布伦特原油价格在 100 美元上方的波动反映出市场越来越必须改变对中东危机将在多长时间内继续抑制该地区供应的看法。”",
+        "The attacks on Saudi energy facilities by the Iranian-backed Houthisthreaten oil shipments on the Red Sea."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "en": "Oil prices rise as Middle East conflict escalates"
+      }
+    },
+    {
+      "title_original": "وول ستريت تفتتح منخفضة متأثرة بارتفاع النفط فوق 100دولار",
+      "title_zh": "وول ستريت تفتتح منخفضة متأثرة بارتفاع النفط فوق 100دولار",
+      "url": "https://www.reuters.com/ar/business/XXEQBEK535LVTJ2R5UQBNIKHRY-2026-09-09/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-09T14:01:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "وول ستريت تفتتح منخفضة متأثرة بارتفاع النفط فوق 100دولار    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "وول ستريت تفتتح منخفضة متأثرة بارتفاع النفط فوق 100دولار"
+      }
+    },
+    {
+      "title_original": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "title_zh": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-09T13:29:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Germany's Merz attacks AfD in stormy debate after far-right election win\n- Published\nGerman Chancellor Friedrich Merz has clashed with AfD leader Alice Weidel in parliament, calling her party a \"destructive force\" with a migration policy that amounts to \"ethnic cleansing\" for skilled workers.",
+        "Merz was addressing the Bundestag in the aftermath of the anti-immigration party's sweeping victory in the eastern state of Saxony-Anhalt where it won almost 44% of the vote, while the chancellor's conservatives saw their vote halved.",
+        "Weidel told MPs that voters had shown that Merz's coalition with the centre left was a total failure and his time was up."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Germany's Merz attacks AfD in stormy debate after far-right election win"
+      }
+    },
+    {
+      "title_original": "ウクライナのモルドバ国境検問所攻撃、ロシア無人機 物流ルート標的",
+      "title_zh": "ウクライナのモルドバ国境検問所攻撃、ロシア無人機 物流ルート標的",
+      "url": "https://jp.reuters.com/world/ukraine/YBR2IVXCSVJDLDP5ODOGR5H2AM-2026-09-09/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-09T13:07:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナのモルドバ国境検問所攻撃、ロシア無人機 物流ルート標的    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナのモルドバ国境検問所攻撃、ロシア無人機 物流ルート標的"
+      }
+    },
+    {
+      "title_original": "Oil hits $100 a barrel for first since July as Middle East conflict intensifies again",
+      "title_zh": "随着中东冲突再次加剧，油价自7月以来首次触及每桶100美元",
+      "url": "https://www.nbcnews.com/business/business-news/oil-hits-100-barrel-middle-east-conflict-intensifies-us-iran-trump-gas-rcna596752",
+      "source": "NBC News",
+      "source_score": 75,
+      "published_at": "2026-09-09T12:07:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "The price of oil breached the $100 threshold Wednesday for the first time since July, as new flare-ups in the United States’ war with Iran stoked fresh concern for global energy markets.",
+        "The spike came a day after the U.S.",
+        "军方表示，他们摧毁了五艘伊朗油轮，以回应对一艘海军军舰的导弹袭击企图。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "NBC News"
+      ],
+      "all_titles": {
+        "en": "Oil hits $100 a barrel for first since July as Middle East conflict intensifies again"
+      }
+    },
+    {
+      "title_original": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+      "title_zh": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-09T12:06:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "White House pulls Tetris-style 'Build The Wall' game after copyright concern\n- Published\nThe White House has taken down a Tetris-style game on its website called \"Build The Wall\", days after The Tetris Company raised concerns over its use of the game's likeness.",
+        "The game, which saw players stack blocks to build a wall to \"protect the border\" is one of five arcade games which have appeared on the White House website.",
+        "On 4 September the official Tetris account on X posted, external the firm was \"not involved in the creation\" of the game and it took \"copyright infringement very seriously\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "White House pulls Tetris-style 'Build The Wall' game after copyright concern"
+      }
+    },
+    {
+      "title_original": "北海ブレント先物が100ドル突破、中東情勢緊迫で供給懸念",
+      "title_zh": "北海ブレント先物が100ドル突破、中東情勢緊迫で供給懸念",
+      "url": "https://jp.reuters.com/world/us/ZI2MHTYIJFIDPOTJC73F4KBWPU-2026-09-09/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-09T12:06:14+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东紧张局势引发供应担忧，北海布伦特原油期货升至 100 美元以上 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "北海ブレント先物が100ドル突破、中東情勢緊迫で供給懸念"
+      }
+    },
+    {
+      "title_original": "Record number of attacks on education, global fund warns",
+      "title_zh": "Record number of attacks on education, global fund warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168300",
+      "source": "UN News - Global perspective Human stories",
+      "source_score": 40,
+      "published_at": "2026-09-09T12:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "教育专家周三警告说，虽然九月传统上标志着北半球学年的开始，但由于学习受到的攻击数量空前，有 9300 万儿童根本没有上课。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "UN News - Global perspective Human stories"
+      ],
+      "all_titles": {
+        "en": "Record number of attacks on education, global fund warns"
+      }
+    },
+    {
+      "title_original": "Le Brent dépasse les 100 dollars alors que le conflit au Moyen-Orient s'intensifie, attisant les craintes conc",
+      "title_zh": "Le Brent dépasse les 100 dollars alors que le conflit au Moyen-Orient s'intensifie, attisant les craintes conc",
+      "url": "https://www.boursorama.com/bourse/actualites/le-brent-depasse-les-100-dollars-alors-que-le-conflit-au-moyen-orient-s-intensifie-attisant-les-craintes-concernant-l-approvisionnement-72ee26f4e37bcb7bc54999ea322bdc61",
+      "source": "boursorama.com",
+      "source_score": 40,
+      "published_at": "2026-09-09T11:57:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "（（路透社使用机器学习和生成式人工智能自动翻译，请参阅以下免责声明：https://bit.ly/rtrsauto））\n* 布伦特原油价格自上月初以来已上涨四分之一\n* 低库存和中东出口下降有助于推动这一增长\n* 然而，布伦特原油价格仍低于 4 月份达到的今年最高水平 126 美元\n（添加了第 3 段中有关中东石油库存和石油出口的图表和详细信息）\n作者：托尼·门罗和亚历克斯·劳勒\n周三，油价六周来首次突破每桶 100 美元，因美国和伊朗军队之间不断升级的战斗加剧了对该地区供应的担忧，并引发了对通胀压力以及消费者和企业能源成本上涨的担忧。",
+        "全球石油基准布伦特原油自上月初以来已上涨四分之一，因为美国和伊朗之间持续六个月的冲突得到最终解决的希望逐渐渺茫。",
+        "伊朗支持的胡塞武装对沙特能源设施的袭击导致石油设施起火，本周油价上涨加速，增加了石油供应中断可能蔓延到整个海湾地区的风险。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "boursorama.com"
+      ],
+      "all_titles": {
+        "fr": "Le Brent dépasse les 100 dollars alors que le conflit au Moyen-Orient s'intensifie, attisant les craintes conc"
+      }
+    },
+    {
+      "title_original": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+      "title_zh": "监管机构称朝鲜已建造两层铀浓缩设施",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-09T11:29:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "监管机构称朝鲜已建造两层铀浓缩设施\n- 已发表\n世界核监管机构负责人本周表示，朝鲜建造了一座新的两层铀浓缩设施，称其引起“严重关切”。",
+        "新建筑是宁边主要核设施的一部分，据报道能够容纳多达 28 个用于浓缩铀的离心机级联。",
+        "国际原子能机构在上个月末发布的一份报告中表示，平壤还开始在另一个浓缩设施中运营一个扩建的附属设施。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "N Korea has built two-storey uranium enrichment facility, says watchdog"
+      }
+    },
+    {
+      "title_original": "Colombia's new president loosens gun control rules",
+      "title_zh": "哥伦比亚新​​总统放宽枪支管制规定",
+      "url": "https://www.bbc.co.uk/news/articles/cqlwekrl3dqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-09T11:01:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Colombia's new president loosens gun control rules\n- Published\nColombian President Abelardo de la Espriella has signed a decree which eases restrictions on people carrying legal firearms in public.",
+        "德拉埃斯普里埃拉在竞选总统期间承诺对犯罪采取铁腕手段，他表示“罪犯武装到牙齿，而正派人却无法自卫，这是不对的”。",
+        "该法令解除了已经实施了十年的禁令，这意味着即使拥有持枪许可证的人也不能在没有额外授权的情况下携带枪支。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Colombia's new president loosens gun control rules"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Tote und Verletzte auf beiden Seiten",
+      "title_zh": "Ukraine-Krieg: Tote und Verletzte auf beiden Seiten",
+      "url": "https://www.dw.com/de/ukraine-krieg-russland-deutschland-drohnen-kyjiw-schwarzes-meer-johann-wadephul-friedrich-merz/a-79199794",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-09T10:40:35+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争：双方死伤\n9.",
+        "2026 年 9 月\n四年半以来，俄罗斯一直试图征服乌克兰部分地区，平民再次成为战争的受害者。",
+        "乌克兰和俄罗斯都有伤亡报告。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Tote und Verletzte auf beiden Seiten"
+      }
+    },
+    {
+      "title_original": "小麦の国際価格が一進一退 ロシア・ウクライナの和平交渉難航で",
+      "title_zh": "俄罗斯和乌克兰和平谈判陷入僵局，国际小麦价格波动",
+      "url": "https://www.nikkei.com/article/DGXZQOUB082110Y6A900C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-09T10:10:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "本文仅供会员阅读\n俄罗斯和乌克兰和平谈判陷入僵局，国际小麦价格波动\n[会员专用文章]\n国际小麦价格波动较大。俄罗斯和乌克兰正处于战争状态，并且是世界上两个主要的小麦出口国，和平谈判的结果将对供需产生重大影响。这是因为谈判反复改善和恶化，投资者的买卖变得不稳定。",
+        "2日，芝加哥商业交易所期货价格一度触及每蒲式耳不到8美元的三年半新高。由于两国之间谈判不力导致运输问题，价格仍然坚挺。然而，随着谈判将取得进展的预期蔓延，要求……",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "小麦の国際価格が一進一退 ロシア・ウクライナの和平交渉難航で"
+      }
+    },
+    {
+      "title_original": "［社説］メッカ共同防衛協定を中東の安定につなげ",
+      "title_zh": "【社论】将麦加联合防御协议与中东稳定联系起来",
+      "url": "https://www.nikkei.com/article/DGXZQODK095SU0Z00C26A9000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-09T10:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "［社説］メッカ共同防衛協定を中東の安定につなげ\nサウジアラビアとパキスタン、トルコが防衛協定を結んだ。米国の力が陰るなか、域内の国々で安全保障の強化を目指している。中東情勢の激動の産物であり、地域の安定につながるよう期待する。",
+        "3カ国が先月合意した「メッカ共同防衛協定」は、署名したイスラム教の聖地にちなむ。促したのは米イランの衝突だった。",
+        "受到美国和以色列的攻击，伊朗对拥有美国军事基地的阿拉伯国家进行反击。美军无法保护自己，沙特人一定也意识到，即使他们提供了基地，也并不安全。防务合作多元化是理所当然的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "［社説］メッカ共同防衛協定を中東の安定につなげ"
+      }
+    },
+    {
+      "title_original": "Family of killed teen call for death penalty in D4vd trial",
+      "title_zh": "被害青少年家属在 D4vd 审判中呼吁判处死刑",
+      "url": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-09T09:58:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Family of killed teen call for death penalty in D4vd trial\n- Published\nThe family of 14-year-old Celeste Rivas Hernandez has lobbied for the death penalty if D4vd is found guilty murdering their daughter.",
+        "D4vd 原名大卫·安东尼·伯克 (David Anthony Burke)，被指控杀害了这名少年，2025 年 9 月 8 日，在一辆登记在他地址的特斯拉汽车后备箱中发现了这名少年被肢解的尸体。",
+        "Burke has pleaded not guilty to the charges."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Family of killed teen call for death penalty in D4vd trial"
+      }
+    },
+    {
+      "title_original": "美台协处长：台海冲突对全球经济冲击将超二战",
+      "title_zh": "美台协处长：台海冲突对全球经济冲击将超二战",
+      "url": "https://amp.dw.com/zh/%E7%BE%8E%E5%8F%B0%E5%8D%8F%E5%A4%84%E9%95%BF%E5%8F%B0%E6%B5%B7%E5%86%B2%E7%AA%81%E5%AF%B9%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E5%86%B2%E5%87%BB%E5%B0%86%E8%B6%85%E4%BA%8C%E6%88%98/a-79199312",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-09-09T09:40:48+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "美台协处长：台海冲突对全球经济冲击将超二战\n2026年9月9日\n（德国之声中文网）美国驻台北最高外交官周三（9月9日）表示，台海任何冲突对全球经济造成的影响都将超过第二次世界大战，而即将举行的美中峰会是避免误判的一次机会。",
+        "与多数国家一样，美国与中国所主张的台湾没有正式外交关系，但它是这个民主治理岛屿最重要的国际支持者和武器供应方。",
+        "美国在台协会处长谷立言（Raymond Greene）在台北一场防务论坛上说，没有哪个议题比如何确保台海和平更为紧迫、更为重要。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "zh": "美台协处长：台海冲突对全球经济冲击将超二战"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Brände nach Drohnenangriff auf russischen Exporthafen – Exporte gefährdet",
+      "title_zh": "Ukraine-Krieg: Brände nach Drohnenangriff auf russischen Exporthafen – Exporte gefährdet",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-09/ukraine-krieg-brande-nach-drohnenangriff-auf-russischen-exporthafen",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-09T08:33:43+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰战争：无人机袭击俄罗斯出口港口后起火——出口面临风险   Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Brände nach Drohnenangriff auf russischen Exporthafen – Exporte gefährdet"
+      }
+    },
+    {
+      "title_original": "Major Gulf bourses mixed amid escalating Middle East conflict",
+      "title_zh": "Major Gulf bourses mixed amid escalating Middle East conflict",
+      "url": "https://www.reuters.com/world/middle-east/major-gulf-bourses-mixed-amid-escalating-middle-east-conflict-2026-09-09/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-09T08:23:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Major Gulf bourses mixed amid escalating Middle East conflict    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Major Gulf bourses mixed amid escalating Middle East conflict"
+      }
+    },
+    {
+      "title_original": "Global oil prices hit $100 per barrel as Middle East conflict roils markets",
+      "title_zh": "Global oil prices hit $100 per barrel as Middle East conflict roils markets",
+      "url": "https://www.cnn.com/2026/09/09/economy/oil-price-iran-war",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-09-09T08:14:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Global oil prices are back at $100 per barrel, rising to their highest levels since July as fighting in the Middle East raises concerns about prolonged disruptions to oil supply.",
+        "Brent crude, the global oil benchmark, rose 2.8% Wednesday and traded at $100 per barrel for the first time since July.",
+        "US crude oil rose 2.9% to hit $95.70 per barrel, its highest level since June."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "en": "Global oil prices hit $100 per barrel as Middle East conflict roils markets"
+      }
+    },
+    {
+      "title_original": "برنت يتجاوز 100 دولار للبرميل مع احتدام الصراع في الشرق الأوسط | رويترز",
+      "title_zh": "برنت يتجاوز 100 دولار للبرميل مع احتدام الصراع في الشرق الأوسط | رويترز",
+      "url": "https://www.reuters.com/ar/business/T7GYREK625KNFMAJXYVGS7N57A-2026-09-09/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-09T08:03:06+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "برنت يتجاوز 100 دولار للبرميل مع احتدام الصراع في الشرق الأوسط | رويترز    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "برنت يتجاوز 100 دولار للبرميل مع احتدام الصراع في الشرق الأوسط | رويترز"
+      }
+    },
+    {
+      "title_original": "Family of British man found dead in Grenada ask local police to work with UK investigators",
+      "title_zh": "Family of British man found dead in Grenada ask local police to work with UK investigators",
+      "url": "https://www.theguardian.com/world/2026/sep/09/family-andrew-frederick-british-man-found-dead-grenada-local-police-uk-investigators",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-09T08:00:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Andrew Frederick’s body was found in property he was staying at in Grenada in January The family of a British father who was found dead in the Caribbean in January is urging authorities in Grenada to work with UK police to uncover the truth about his death.",
+        "Andrew Frederick’s body was found in the property he was staying at in Grenada on 4 January.",
+        "An autopsy, performed in the same week by a privately hired pathologist, concluded that the 47-year-old’s death was a homicide."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Family of British man found dead in Grenada ask local police to work with UK investigators"
+      }
+    },
+    {
+      "title_original": "Spencer Cox: America’s political divide is destroying families and friendships",
+      "title_zh": "Spencer Cox: America’s political divide is destroying families and friendships",
+      "url": "https://www.politico.com/video/2026/09/09/spencer-cox-americas-political-divide-is-destroying-families-and-friendships-2158622",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-09T04:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Spencer Cox: America’s political divide is destroying families and friendships",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Spencer Cox: America’s political divide is destroying families and friendships"
+      }
+    },
+    {
+      "title_original": "من إنهاء التمركز إلى تحصينات جديدة.. خيارات أميركية لتقليص الانتشار في الشرق الأوسط",
+      "title_zh": "من إنهاء التمركز إلى تحصينات جديدة.. خيارات أميركية لتقليص الانتشار في الشرق الأوسط",
+      "url": "https://asharq.com/politics/195666/%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%84%D8%AA%D9%82%D9%84%D9%8A%D8%B5-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/",
+      "source": "الشرق للأخبار",
+      "source_score": 40,
+      "published_at": "2026-09-09T07:00:20+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "من إنهاء التمركز إلى تحصينات جديدة..",
+        "خيارات أميركية لتقليص الانتشار في الشرق الأوسط    الشرق للأخبار",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "الشرق للأخبار"
+      ],
+      "all_titles": {
+        "ar": "من إنهاء التمركز إلى تحصينات جديدة.. خيارات أميركية لتقليص الانتشار في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+      "title_zh": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
+      "url": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-09T06:42:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests\n- Published\nThe Gambia's President Adama Barrow has urged citizens to remain calm over prolonged power cuts, saying the country is not alone in facing an electricity crisis that has affected several parts of West Africa.",
+        "His comments follow protests on Monday night in the capital Banjul and surrounding areas over blackouts that residents say have sometimes lasted up to 48 hours.",
+        "\"When you lie down in the heat and the dark, believe that you are not alone in that darkness,\" Barrow said, pledging to boost power supplies by next month."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : l'Iran affirme avoir attaqué deux bateaux américains et dix pétroliers",
+      "title_zh": "Guerre au Moyen-Orient : l'Iran affirme avoir attaqué deux bateaux américains et dix pétroliers",
+      "url": "https://www.cnews.fr/monde/2026-09-09/guerre-au-moyen-orient-liran-affirme-avoir-attaque-deux-bateaux-americains-et-dix",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-09-09T06:23:25+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Le cours du gaz européen monte fortement mercredi, poussé par les récentes attaques américaines et iraniennes visant des navires au Moyen-Orient et par des réserves gazières basses pour la saison en Europe, qui inquiètent avant l'hiver.",
+        "Vers 14H40 GMT, le contrat à terme du TTF néerlandais, la référence du gaz pour l'Europe, grimpait de 4,44%, à 79,21 euros le mégawattheure, après s'être affiché à 80,99 euros, son plus haut depuis janvier 2023.",
+        "Plusieurs navires ont été visés par des tirs dans la région du Golfe, a annoncé mercredi l'agence maritime britannique UKMTO, après que l'Iran a annoncé avoir pris pour cible une vingtaine de bateaux tentant d'emprunter le détroit d'Ormuz."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : l'Iran affirme avoir attaqué deux bateaux américains et dix pétroliers"
+      }
+    },
+    {
+      "title_original": "Hegseth hat einen schriftlichen Fragebogen nach Europa geschickt. Die Antworten könnten große militärische Bedeutung haben",
+      "title_zh": "Hegseth hat einen schriftlichen Fragebogen nach Europa geschickt. Die Antworten könnten große militärische Bedeutung haben",
+      "url": "https://www.focus.de/politik/ausland/hegseth-hat-einen-schriftlichen-fragebogen-nach-europa-geschickt-die-antworten-koennten-grosse-militaerische-bedeutung-haben_b7ee7c01-2ff6-43f6-9b99-780247c714c8.html",
+      "source": "FOCUS online",
+      "source_score": 40,
+      "published_at": "2026-09-09T06:03:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "USA schicken Nato-Staaten umstrittenen Fragenkatalog\nDas US-Verteidigungsministerium hat seinen Nato-Partnern in Europa einen ungewöhnlichen Fragenkatalog geschickt.",
+        "Die Staaten sollen unter anderem angeben, ob sie die außenpolitischen Prioritäten der Trump-Regierung öffentlich unterstützt haben.",
+        "Außerdem geht es um Verteidigungsausgaben, Waffenproduktion und die Nutzung amerikanischer Militärbasen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "FOCUS online"
+      ],
+      "all_titles": {
+        "de": "Hegseth hat einen schriftlichen Fragebogen nach Europa geschickt. Die Antworten könnten große militärische Bedeutung haben"
+      }
+    },
+    {
+      "title_original": "لماذا تفشل دول وتزدهر أخرى في الشرق الأوسط وأفريقيا؟",
+      "title_zh": "لماذا تفشل دول وتزدهر أخرى في الشرق الأوسط وأفريقيا؟",
+      "url": "https://www.aljazeera.net/opinions/2026/9/9/%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D8%AA%D9%81%D8%B4%D9%84-%D8%AF%D9%88%D9%84-%D9%88%D8%AA%D8%B2%D8%AF%D9%87%D8%B1-%D8%A3%D8%AE%D8%B1%D9%89-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-09T05:29:39+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "لماذا تفشل دول وتزدهر أخرى في الشرق الأوسط وأفريقيا؟\nتظل التساؤلات حول أسباب انهيار الأمم أو ازدهارها اقتصاديا جوهرية لفهم مسارات الدول، وفي هذا السياق، تبرز أهمية الأنظمة والقواعد التي تحكم المجتمعات وتوجه بوصلتها وتحدد مدى قدرتها على تحقيق التنمية المستدامة.",
+        "وعندما نتحدث عن أسباب نجاح الأمم أو إخفاقها، فإننا نتحدث في الواقع عن مستوى أدائها الاقتصادي.",
+        "لذا، فإن سؤال: لماذا تفشل الأمم أو تنجح اقتصاديا؟ يرتبط ذلك ارتباطا وثيقا بمؤسسات تلك الأمم؛ وأقصد بذلك القواعد التي تبتكرها المجتمعات لتحديد أنماط الحوافز والفرص."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "لماذا تفشل دول وتزدهر أخرى في الشرق الأوسط وأفريقيا؟"
+      }
+    },
+    {
+      "title_original": "京都先端科学大、ウクライナ学生が初めて卒業 ロシア侵略で受け入れ",
+      "title_zh": "京都先端科学大、ウクライナ学生が初めて卒業 ロシア侵略で受け入れ",
+      "url": "https://www.nikkei.com/article/DGXZQOUF091MF0Z00C26A9000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-09T05:12:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "京都先端科学大、ウクライナ学生が初めて卒業 ロシア侵略で受け入れ\n京都先端科学大学は9日、秋入学の2026年度の卒業式を京都市内で開いた。ロシアによるウクライナ侵略を受け、自国での就学・研究が困難となったウクライナからの留学生9人を含む124人が卒業した。",
+        "ウクライナの留学生の受け入れを始めたのは22年で、今回初めて卒業生を輩出した。",
+        "工学部を卒業したウクライナ留学生のイヴァン・バラノヴさん（22）は、通っていた大学の建物が戦争で崩壊したことを受けて、京都先端科学大に入学した。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "京都先端科学大、ウクライナ学生が初めて卒業 ロシア侵略で受け入れ"
+      }
+    },
+    {
+      "title_original": "Stefany Shaheen, daughter of Sen. Jeanne Shaheen, wins New Hampshire House primary",
+      "title_zh": "Stefany Shaheen, daughter of Sen. Jeanne Shaheen, wins New Hampshire House primary",
+      "url": "https://www.politico.com/news/2026/09/09/stefany-shaheen-wins-new-hampshire-house-primary-01068480",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-09T00:48:32-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "She won the Democratic primary for the open 1st District despite her rivals’ attempts to weaponize her family ties.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Stefany Shaheen, daughter of Sen. Jeanne Shaheen, wins New Hampshire House primary"
+      }
+    },
+    {
+      "title_original": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
+      "title_zh": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies",
+      "url": "https://www.theguardian.com/world/2026/sep/09/australian-surfers-jake-callum-robinson-homicide-trial-mexico-ntwnfb",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-09T04:46:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Three men are on trial over the death of brothers Jake and Callum Robinson and their friend, US citizen Jack Carter Rhoad, in Ensenada The father of two Australian surfers killed in Mexico two years ago testified in court on Tuesday that his life had been turned into hell, as the high-profile trial continued into its second day.",
+        "Three men are charged in the killing of Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and their 30-year-old American friend Jack Carter Rhoad, who were on a surfing trip to Mexico’s Pacific coast in April 2024.",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies"
+      }
+    },
+    {
+      "title_original": "Hong Kong's first leader after British handover dies",
+      "title_zh": "Hong Kong's first leader after British handover dies",
+      "url": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-09T04:24:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Hong Kong's first leader after British handover dies\n- Published\nTung Chee-hwa, Hong Kong's first leader after the city returned to Chinese rule, has died at the age of 89.",
+        "The former shipping scion took over the reins from the last British Governor Chris Patten in July 1997 when the UK handed Hong Kong back to China, ending more than 150 years of British control.",
+        "亚洲金融危机、两次重大流行病以及引发对其政府批评的历史性抗议活动，标志着董建华的任期充满坎坷。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hong Kong's first leader after British handover dies"
+      }
+    },
+    {
+      "title_original": "Pekín apela a la «reunificación» con Taiwán como una cuestión «obligatoria» para los taiwaneses",
+      "title_zh": "Pekín apela a la «reunificación» con Taiwán como una cuestión «obligatoria» para los taiwaneses",
+      "url": "https://www.eldebate.com/internacional/20260909/pekin-apela-reunificacion-taiwan-como-cuestion-obligatoria-taiwaneses_456751.html",
+      "source": "El Debate",
+      "source_score": 40,
+      "published_at": "2026-09-09T04:04:07+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Pekín apela a la «reunificación» con Taiwán como una cuestión «obligatoria» para los taiwaneses\nLos textos, que han generado debate a ambos lados del Estrecho\nChina afirmó este miércoles que la «reunificación» es para los taiwaneses una cuestión «obligatoria» y no «opcional», al celebrar que sectores de la isla hayan comenzado a debatir las condiciones y la viabilidad de la fórmula de 'un país, dos sistemas' propuesta por Pekín.",
+        "«La 'reunificación' nacional es una tendencia histórica imparable y, para los compatriotas de Taiwán, no es una cuestión opcional, sino obligatoria», declaró Chen Binhua, portavoz de la Oficina de Asuntos de Taiwán del Consejo de Estado , en una rueda de prensa.",
+        "Chen se pronunció así al ser preguntado por una serie de tres artículos publicados por Lee Chih-Tzer, profesor asociado de la Universidad Nacional de Educación de Changhua (Taiwán), sobre la posible aplicación en la isla de la fórmula de 'un país, dos sistemas', que rige temporalmente la autonomía parcial de Hong Kong y Macao."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "El Debate"
+      ],
+      "all_titles": {
+        "es": "Pekín apela a la «reunificación» con Taiwán como una cuestión «obligatoria» para los taiwaneses"
+      }
+    },
+    {
+      "title_original": "Babies born to anaemic mothers have smaller brains, study finds",
+      "title_zh": "Babies born to anaemic mothers have smaller brains, study finds",
+      "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-09T04:00:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regions linked to movement, learning and the regulation of emotion, according to a study.",
+        "Researchers said the differences, first detected at the age of one, could lead to cognitive problems when children started school.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Babies born to anaemic mothers have smaller brains, study finds"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Kyiv books in 1,000 Patriots as UK and EU open up missile aid",
+      "title_zh": "Ukraine war briefing: Kyiv books in 1,000 Patriots as UK and EU open up missile aid",
+      "url": "https://www.theguardian.com/world/2026/sep/09/ukraine-war-briefing-kyiv-books-in-1000-patriots-as-uk-and-eu-open-up-missile-aid",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-09-09T03:20:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "- \n  Ukraine is contracting a supply of about 1,000 Patriot missiles over the coming years with the help of allies and through an EU loan, Kyiv’s defence minister, Yevhenii Khmara, said on Tuesday as the country’s allies met.",
+        "Germany announced it is “urgently” sending Ukraine part of its stockpile of Patriot Pac-2 interceptors.",
+        "Berlin’s defence minister, Boris Pistorius, appealed to other supporters of Ukraine “to look into their own stocks and make similar deliveries”."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Kyiv books in 1,000 Patriots as UK and EU open up missile aid"
+      }
+    },
     {
       "title_original": "US slaps import ban on Canadian alcohol and other goods",
       "title_zh": "美国对加拿大酒类和其他商品实施进口禁令",
