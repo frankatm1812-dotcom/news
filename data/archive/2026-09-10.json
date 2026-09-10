@@ -1,8 +1,835 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T01:02:18.770850+00:00",
-  "count": 35,
+  "generated_at": "2026-09-10T15:00:04.155663+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title_original": "\"Les prix montent chaque heure\" en Iran : l'économie est asphyxiée, les manifestations reprennent",
+      "title_zh": "伊朗“物价每小时上涨”：经济受阻，示威重演",
+      "url": "https://www.france24.com/fr/moyen-orient/20260910-iran-crise-economie-inflation-retraites-sanctions-blocus-manifestations-repression",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-10T14:24:36+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "伊朗“物价每小时都在上涨”：经济受阻，示威活动恢复 法国 24 日",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "\"Les prix montent chaque heure\" en Iran : l'économie est asphyxiée, les manifestations reprennent"
+      }
+    },
+    {
+      "title_original": "German foreign minister urges voters to back Ukraine, NATO as far right surges",
+      "title_zh": "德国外长敦促选民支持乌克兰和北约，因为极右翼势力激增",
+      "url": "https://www.politico.eu/article/german-foreign-minister-johann-wadephul-urges-voters-to-back-ukraine-nato-as-far-right-surges/",
+      "source": "politico.eu",
+      "source_score": 75,
+      "published_at": "2026-09-10T14:06:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德国外交部长约翰·瓦德菲尔9月17日在魏玛李斯特音乐大学举行的新闻发布会上发表讲话。",
+        "| Jens Schlüter/法新社，盖蒂图片社\n柏林——德国外交部长约翰·瓦德菲尔周四表示，德国官员必须采取更多措施来说服选民继续支持乌克兰以及该国对北约的承诺。",
+        "他在柏林举行的德国大使会议上表示，北约正在接受一场“政治压力测试”，这既来自俄罗斯构成的外部威胁，也来自国内在最近的州选举中变得“明显且切实”的怀疑情绪。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "politico.eu"
+      ],
+      "all_titles": {
+        "en": "German foreign minister urges voters to back Ukraine, NATO as far right surges"
+      }
+    },
+    {
+      "title_original": "مع تصاعد التوترات بالشرق الأوسط.. قفزة جديدة بأسعار الوقود في أمريكا",
+      "title_zh": "随着中东紧张局势升级...美国燃油价格出现新的上涨",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/09/10/gas-prices-rise-by-more-than-five-cents-to-428-a-gallon",
+      "source": "arabic.cnn.com",
+      "source_score": 95,
+      "published_at": "2026-09-10T14:03:32+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "(CNN)——根据美国汽车协会 (AAA) 周四发布的每日数据，燃油价格每加仑上涨超过 5 美分，至 4.28 美元，为 6 月 2 日以来的最高水平。",
+        "此次最新上涨是在周三上涨超过 7 美分的基础上进行的。",
+        "此次上涨近 13 美分，是自 5 月初以来燃油价格最大的两天涨幅。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "arabic.cnn.com"
+      ],
+      "all_titles": {
+        "ar": "مع تصاعد التوترات بالشرق الأوسط.. قفزة جديدة بأسعار الوقود في أمريكا"
+      }
+    },
+    {
+      "title_original": "وول ستريت تفتح على انخفاض بعد بيانات أسعار المنتجين",
+      "title_zh": "生产者价格数据公布后华尔街开盘走低",
+      "url": "https://www.reuters.com/ar/business/V5VV4TPMLNNVRG4UB6A5XGQQHQ-2026-09-10/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-10T13:54:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "生产者价格数据公布后华尔街开盘走低 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "وول ستريت تفتح على انخفاض بعد بيانات أسعار المنتجين"
+      }
+    },
+    {
+      "title_original": "ترمب وبوتين.. مفاوضات جديدة تفتح باب التسوية في حرب أوكرانيا",
+      "title_zh": "特朗普和普京……新的谈判为解决乌克兰战争打开了大门",
+      "url": "https://www.aljazeera.net/blogs/2026/9/10/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%87%D9%84-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%85%D9%86",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-10T13:33:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- 特朗普重返克里姆林宫谈判桌以制止战争\n美国媒体淡化了美国总统特朗普的特使史蒂夫·威特科普夫和贾里德·库什纳访俄的重要性，并不认为此次访问有任何严重突破“固体解决方案”之墙的情况。",
+        "然而，两人在莫斯科（9月6日星期日）之后访问基辅表明，这次访问是他们与俄罗斯总统弗拉基米尔·普京在克里姆林宫“漫长而舒适”会晤的直接延伸，也反映了突破的规模和深度。",
+        "两名特使于周六离开莫斯科前往波兰，从那里乘坐火车前往乌克兰首都，他们携带了维特科夫所说的“新想法”，这些想法是在与克里姆林宫大师进行了三个小时的讨论时提出的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "ترمب وبوتين.. مفاوضات جديدة تفتح باب التسوية في حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "Nestle CEO says Middle East conflict driving inflation, higher supplier costs",
+      "title_zh": "雀巢首席执行官表示，中东冲突导致通货膨胀，供应商成本上升",
+      "url": "https://www.reuters.com/business/retail-consumer/nestle-ceo-says-middle-east-conflict-driving-inflation-higher-supplier-costs-2026-09-10/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-10T13:27:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "雀巢首席执行官表示，中东冲突导致通货膨胀，供应商成本上升 - 路透中文网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Nestle CEO says Middle East conflict driving inflation, higher supplier costs"
+      }
+    },
+    {
+      "title_original": "Japan seeks change to new UN world map over Russia 'misconception'",
+      "title_zh": "日本因俄罗斯“误解”寻求修改联合国新世界地图",
+      "url": "https://www.theguardian.com/world/2026/sep/10/japan-seeks-change-to-new-un-world-map-over-russia-misconception",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-10T12:55:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "新的“真实比例”地图缩小了欧洲和北美，扩大了非洲，并描绘了由莫斯科统治的有争议的千岛群岛 日本已要求修改联合国通过的新世界地图，因为它表示这使得有争议的千岛群岛看起来属于俄罗斯。",
+        "联合国大会周五投票通过了新地图，该地图扩大了非洲大陆，同时缩小了北美和欧洲，引起了美国的谴责。",
+        "继续阅读..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Japan seeks change to new UN world map over Russia 'misconception'"
+      }
+    },
+    {
+      "title_original": "Le prix du pétrole poursuit sa hausse, conséquences des guerres au Moyen-Orient",
+      "title_zh": "油价持续上涨，中东战争后果",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260910-le-prix-du-p%C3%A9trole-poursuit-sa-hausse-cons%C3%A9quences-des-guerres-au-moyen-orient",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-10T12:52:37+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "石油价格持续上涨，中东战争的后果 法国 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Le prix du pétrole poursuit sa hausse, conséquences des guerres au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "ウクライナ、ロシアの北極圏近くに無人機攻撃 3000キロ超主張",
+      "title_zh": "乌克兰声称无人机袭击俄罗斯北极圈3000多公里",
+      "url": "https://www.nikkei.com/article/DGXZQOCB10AG20Q6A910C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-10T12:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰声称无人机袭击俄罗斯北极圈3000多公里\n莫斯科基辅（共同社）——乌克兰军方特种作战部队9日宣布，他们使用无人机袭击了位于俄罗斯最北部、靠近北极圈的亚马尔-涅涅茨自治区新乌连戈伊的一家天然气加工厂。它飞行了3000多公里，创造了最远距离攻击的新纪录。",
+        "据俄罗斯国营天然气巨头俄罗斯天然气工业股份公司旗下公司介绍，新乌连戈伊是通过开发世界上最大的天然气田之一而发展起来的，也被称为“俄罗斯天然气之都”。",
+        "9日，乌拉尔联邦区总统全权代表乔加在通讯应用程序上宣布，乌克兰首次袭击联邦区北极地区。一架无人机碎片落在亚马尔-涅涅茨自治区一处能源设施上，引发火灾，但没有造成人员伤亡。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、ロシアの北極圏近くに無人機攻撃 3000キロ超主張"
+      }
+    },
+    {
+      "title_original": "Rutte resta importancia a posibles cambios políticos en Europa: \"La OTAN seguirá unida y fuerte\"",
+      "title_zh": "吕特淡化欧洲可能发生的政治变革：“北约将保持团结和强大”",
+      "url": "https://www.europapress.es/internacional/noticia-rutte-resta-importancia-posibles-cambios-politicos-europa-otan-seguira-unida-fuerte-20260910135445.html",
+      "source": "Europa Press",
+      "source_score": 40,
+      "published_at": "2026-09-10T11:54:45+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约秘书长马克·吕特本周四在柏林举行的德国使团团长会议上发表讲话。",
+        "- 北约/格温妮·埃克尔斯\n \n \n   9 月 10 日，布鲁塞尔",
+        "（欧洲新闻社）- \n   北约秘书长马克·吕特周四淡化了法国或德国等国家未来政府更迭可能改变大西洋联盟进程及其对乌克兰支持的可能性，确保无论选举结果如何，北约都将保持“团结”和“强大”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Europa Press"
+      ],
+      "all_titles": {
+        "es": "Rutte resta importancia a posibles cambios políticos en Europa: \"La OTAN seguirá unida y fuerte\""
+      }
+    },
+    {
+      "title_original": "アンジェリーナ・ジョリー、戦火のウクライナ東部を再訪。18歳の息子ノックスとボクシングジムに突然出現（フィガロジャポン）",
+      "title_zh": "安吉丽娜朱莉重访饱受战争蹂躏的乌克兰东部。突然带着 18 岁的儿子诺克斯出现在拳击馆（Figaro Japon 饰）",
+      "url": "https://news.yahoo.co.jp/articles/82f0d7895c101a1fcac6cb6c48def5e91c32ea8d",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-10T11:53:59+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "安吉丽娜朱莉重访饱受战争蹂躏的乌克兰东部。突然带着18岁的儿子诺克斯出现在拳击馆\n正在乌克兰访问的美国女演员安吉丽娜·朱莉意外出现在该国一家拳击馆，引起了人们的惊讶。乌克兰拳击联合会和俱乐部老板表示，9月6日，他在乌克兰逗留期间突然出现在东部城市哈尔科夫的一家拳击俱乐部。该联合会发布的照片​​中还有 18 岁的诺克斯，她和布拉德·皮特的儿子。",
+        "[照片] 与安吉丽娜·朱莉的纪念照！",
+        "点击查看拳击馆发布的照片>>>\nInstagram 上的一篇帖子写道：“著名女演员安吉丽娜·朱莉参观了哈尔科夫的 Spadkoyemets 拳击俱乐部。她的儿子诺克斯与乌克兰军人一起练习泰拳。”拳击俱乐部老板帕夫洛·奇奇科 (Paavlo Chichiko) 表示，他“不知道”安吉丽娜·朱莉已经预订了他的健身房。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "アンジェリーナ・ジョリー、戦火のウクライナ東部を再訪。18歳の息子ノックスとボクシングジムに突然出現（フィガロジャポン）"
+      }
+    },
+    {
+      "title_original": "NATO-Generalsekretär Rutte und Wadephul warnen in Berlin vor Russland",
+      "title_zh": "北约秘书长吕特和瓦德菲尔在柏林对俄罗斯发出警告",
+      "url": "https://de.euronews.com/my-europe/2026/09/10/nato-generalsekretar-rutte-und-wadephul-warnen-in-berlin-vor-russland",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-10T11:07:32+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "柏林大使会议的主题是北约安全、对乌克兰的支持以及来自俄罗斯的混合攻击。",
+        "北约秘书长吕特和外交部长瓦德菲尔强调了强大欧洲的重要性。",
+        "今天在柏林，北约秘书长马克·吕特和外交部长约翰·瓦德菲尔（基民盟）在大使会议上向媒体露面。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "NATO-Generalsekretär Rutte und Wadephul warnen in Berlin vor Russland"
+      }
+    },
+    {
+      "title_original": "Iran war won't end until after crucial November elections, says Trump",
+      "title_zh": "特朗普表示，伊朗战争要等到十一月关键选举之后才会结束",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-10T10:43:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "特朗普表示，伊朗战争要等到十一月关键选举之后才会结束\n- 已发表\n美国总统唐纳德·特朗普表示，他认为伊朗战争要到 11 月中期选举之后才会结束，并补充说在那之前油价不会下跌。",
+        "特朗普周三谈到伊朗领导人时说：“我认为战争将在选举后立即结束，因为他们无法再坚持下去了。”",
+        "他在前往德克萨斯州参加共和党第一次中期选举大会时发表了上述言论，并在那里重复了这些言论，认为为了阻止伊朗发展核武器，短期的经济痛苦是值得的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Iran war won't end until after crucial November elections, says Trump"
+      }
+    },
+    {
+      "title_original": "Russia’s new shelling tactics deepen suffering in Ukraine",
+      "title_zh": "俄罗斯新的炮击策略加深了乌克兰的苦难",
+      "url": "https://www.aljazeera.com/news/2026/9/10/russias-new-shelling-tactics-deepen-suffering-in-ukraine",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-10T10:25:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯新的炮击策略加深了乌克兰的苦难\n乌克兰人的睡眠时间越来越少，购买食物变得越来越困难，旅行常常充满风险和延误。",
+        "乌克兰基辅——奥琳娜·克拉科夫斯卡 (Olena Krakovska) 在基辅市中心一家购物中心地下室的一家小商店里销售美甲工具时，她没有听到或看到太多东西。",
+        "“我已经在防空洞里了。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russia’s new shelling tactics deepen suffering in Ukraine"
+      }
+    },
+    {
+      "title_original": "ウクライナ大統領機にロシアのドローンあわや直撃、8日にモルドバで",
+      "title_zh": "俄罗斯无人机8日在摩尔多瓦击中乌克兰总统专机",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-09-10/TL53B5KIJH8Y00",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-10T10:12:16+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯无人机8日在摩尔多瓦击中乌克兰总统专机",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ大統領機にロシアのドローンあわや直撃、8日にモルドバで"
+      }
+    },
+    {
+      "title_original": "Why so many incumbents lost primaries this year",
+      "title_zh": "为什么今年有这么多现任者在初选中失利",
+      "url": "https://www.politico.com/news/2026/09/10/why-so-many-incumbents-lost-primaries-this-year-01070117",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-10T05:55:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "在今年的初选中，反现任者的愤怒跨越了党派界限，而重新划分选区也无济于事。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Why so many incumbents lost primaries this year"
+      }
+    },
+    {
+      "title_original": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
+      "title_zh": "“人们践踏我”：菲律宾渡轮火灾幸存者回忆九死一生",
+      "url": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-10T09:35:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "“人们践踏我”：菲律宾渡轮火灾幸存者回忆九死一生\n- 已发表\n周三晚上，一艘开往菲律宾巴拉望省的渡轮上发生火灾，乘客们陷入混乱。",
+        "MV June Aster 上的 100 多名乘客之一罗兰·莱尔马 (Roland Lerma) 回忆道，船上充满了热气，疯狂的哭声划破夜空。",
+        "火灾已造成 5 人死亡、86 人失踪，在一个航运事故屡见不鲜的国家，这场火灾可能成为菲律宾有史以来最致命的海上灾难之一。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape"
+      }
+    },
+    {
+      "title_original": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+      "title_zh": "苹果新任老板豪赌1999英镑推出首款折叠式iPhone",
+      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-10T09:32:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "苹果新任老板豪赌1999英镑推出首款折叠式iPhone\n- 已发表\n苹果公司推出了有史以来最昂贵的 iPhone——一款售价至少 1,999 英镑的可折叠手持设备，标志着近 20 年来 iPhone 设计的首次重大改变。",
+        "iPhone Duo 是新任老板 John Ternus 的一次赌博，他本月接替了长期担任首席执行官的蒂姆·库克 (Tim Cook)。",
+        "苹果紧随韩国三星和中国华为等公司之后，进入可折叠手机市场相对较晚。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Apple's new boss starts with big gamble on £1,999 first folding iPhone"
+      }
+    },
+    {
+      "title_original": "El precio de la energía afronta un otoño al alza por la tensión en Oriente Medio",
+      "title_zh": "El precio de la energía afronta un otoño al alza por la tensión en Oriente Medio",
+      "url": "https://www.orm.es/informativos/el-precio-de-la-energia-afronta-un-otono-al-alza-por-la-tension-en-oriente-medio/",
+      "source": "Onda Regional de Murcia | ORM",
+      "source_score": 40,
+      "published_at": "2026-09-10T08:30:36+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "科米利亚斯天主教大学专家 Antonio García Amate 预测，今年冬天石油价格约为 100 美元，天然气价格可能达到 70-75 欧元\n受中东紧张局势和国际天然气竞争影响，能源价格面临秋季上涨。",
+        "科米利亚斯主教大学能源金融和地缘政治学教授 Antonio García Amate 警告称，今年冬天一桶石油价格可能保持在 100 美元左右，天然气价格可能达到每兆瓦时 70-75 欧元。",
+        "西班牙的起步相对有利，这要归功于其六座再气化工厂、阿尔及利亚的供应以及可再生能源的重要性，这使得在太阳能和风能发电量最大的时期电力更加便宜。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Onda Regional de Murcia | ORM"
+      ],
+      "all_titles": {
+        "es": "El precio de la energía afronta un otoño al alza por la tensión en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "NATO aircraft deployed in Poland as Russian jet-powered drones strike Ukraine",
+      "title_zh": "俄罗斯喷气式无人机袭击乌克兰时，北约飞机部署在波兰",
+      "url": "https://www.yahoo.com/news/world/articles/nato-aircraft-deployed-poland-russian-082736708.html",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-09-10T08:27:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "俄罗斯喷气式无人机袭击乌克兰时，北约飞机部署在波兰 雅虎",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "en": "NATO aircraft deployed in Poland as Russian jet-powered drones strike Ukraine"
+      }
+    },
+    {
+      "title_original": "DAX-Start, EZB-Geldpolitik und Geopolitik",
+      "title_zh": "DAX 推出、欧洲央行货币政策和地缘政治",
+      "url": "https://www.tagesschau.de/multimedia/audio/audio-3468850.html",
+      "source": "tagesschau.de",
+      "source_score": 40,
+      "published_at": "2026-09-10T07:58:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "主导航\n辅助导航\n内容\n页脚\n搜索词\n国内\n显示国内子菜单\n国外\n显示子菜单 国外\n经济\n显示子菜单 经济\n知识\n显示知识子菜单\n事实发现者\n显示事实查找器子菜单\n调查性\n文化\n选举\n显示子菜单选项\n天气\n显示天气子菜单\ntagesschau24 现场\n视频和音频\n显示视频和音频子菜单\n更多\n显示更多子菜单\n设置\n显示\n隐藏国内子菜单\n国内\n首页 国内\n国内政治\n社会\n区域性\n显示区域子菜单\n德国趋势\n选举\n就在中间\n隐藏国外子菜单\n国外\n国外主页\n欧洲\n美国\n非洲\n亚洲\n大洋洲\n工作室和记者\n隐藏经济子菜单\n经济\n首页 经济\n股票市场价格\n消费者\n公司简介\n经济状况\n劳动力市场\n金融\n显示财务子菜单\n世界经济\n能源\n数码\n隐藏知识子菜单\n知识\n首页知识\n健康\n气候与环境\n研究\n隐藏事实查找器子菜单\n事实发现者\n背景\n隐藏选项子菜单\n选举\n家乡选举结果\n州议会\n显示州议会子菜单\n联邦选举\n欧洲议会\n年表\n选举日期\n隐藏天气子菜单\n天气\n主页天气\n德国\n欧洲与世界\n风暴\n雨量雷达\n天气主题\n隐藏视频和音频子菜单\n视频和音频\n家庭视频和音频\n直播\n100 秒内的标签展示\n最后一批货\n晚间八点\n简单语言的标签\n晚上 8 点（手语）\n每日话题\n广播档案\n播客\n图片\n隐藏更多子菜单\n更多\n您的意见\n联系方式\n更正\n印记\n数据保护\n您还能在哪里找到我们\n关于我们\n捐款账户\n存档\n7天概览\n主题概述\n隐藏设置子菜单\n设置\n统计分析（来自 Nielsen 的“AGF 跟踪像素”\n深色模式设置\n视频预览设置\n显示来自的外部内容\n显示内容来自：\n外部提供商：\n隐私政策\n隐藏区域子菜单\n区域性\n巴登-符腾堡州\n巴伐利亚\n柏林\n勃兰登堡\n不来梅\n汉堡\n黑塞\n梅克伦堡-前波美拉尼亚\n下萨克森州\n北莱茵-威斯特法伦州\n莱茵兰-普法尔茨州\n萨尔州\n萨克森\n萨克森-安哈特州\n石勒苏益格-荷尔斯泰因州\n图林根州\n隐藏财务子菜单\n金融\n市场报告\n隐藏州议会子菜单\n州议会\n巴登-符腾堡州\n巴伐利亚\n柏林\n勃兰登堡\n不来梅\n汉堡\n黑塞\n梅克伦堡-前波美拉尼亚\n下萨克森州\n北莱茵-威斯特法伦州\n莱茵兰-普法尔茨州\n萨尔州\n萨克森\n萨克森-安哈特州\n石勒苏益格-荷尔斯泰因州\n图林根州\n体育表演\n媒体库\nARD 声音\n奇卡\n主页\n视频和音频\n音频\nDAX 推出、欧洲央行货币政策和地缘政治\n音频\nDAX 推出、欧洲央行货币政策和地缘政治\n截至：2026 年 9 月 10 日 • 上午 9:58\nThomas Spinnler，HR，tagesschau，2026 年 9 月 10 日 • 上午 9:45\n前往主页\n© ARD-aktuell / tagesschau.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "tagesschau.de"
+      ],
+      "all_titles": {
+        "de": "DAX-Start, EZB-Geldpolitik und Geopolitik"
+      }
+    },
+    {
+      "title_original": "Watch: Is Trump's $5,000 election pledge legal?",
+      "title_zh": "观看：特朗普 5000 美元的竞选承诺合法吗？",
+      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-10T07:12:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "观看：特朗普 5000 美元的竞选承诺合法吗？",
+        "唐纳德·特朗普承诺，如果共和党赢得 11 月中期选举，将向每个美国人提供 5,000 美元（3,700 英镑）。",
+        "美国总统没有透露该计划如何运作或资金从何而来的细节。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Watch: Is Trump's $5,000 election pledge legal?"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月10日の動き）",
+      "title_zh": "【不定时更新】俄罗斯军事入侵乌克兰（9月10日动向）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46987",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-10T06:42:15+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "【不时更新】俄罗斯军事入侵乌克兰（9月10日动向）NHK新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（9月10日の動き）"
+      }
+    },
+    {
+      "title_original": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "title_zh": "菲律宾渡轮发生“令人心碎”的火灾，造成5人死亡、86人失踪",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-10T06:30:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "菲律宾渡轮发生“令人心碎”的火灾，造成5人死亡、86人失踪\n- 已发表\n菲律宾海岸警卫队称，菲律宾一艘渡轮发生火灾，造成至少 5 人死亡、86 人失踪。",
+        "MV June Aster 号从马尼拉出发，载有 117 名乘客和 17 名船员，在接近目的地旅游胜地科隆时起火。",
+        "大火于周三当地时间 18:45（格林威治标准时间 10:45）爆发，截至周四 11:00 仍在燃烧。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry"
+      }
+    },
+    {
+      "title_original": "EXCLUSIVE: NATO allies foil Russian subsea cable sabotage plot",
+      "title_zh": "独家：北约盟国挫败俄罗斯海底电缆破坏阴谋",
+      "url": "https://www.reuters.com/world/europe/nato-allies-foil-russian-subsea-cable-sabotage-plot-2026-09-10/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-10T06:03:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "独家：北约盟国挫败俄罗斯海底电缆破坏阴谋 路透社",
+        "",
+        ""
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Yahoo",
+        "Reuters"
+      ],
+      "all_titles": {
+        "es": "Los aliados de la OTAN frustran un complot ruso para sabotear un cable submarino",
+        "en": "EXCLUSIVE: NATO allies foil Russian subsea cable sabotage plot"
+      }
+    },
+    {
+      "title_original": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
+      "title_zh": "《华尔街日报》出版商因阻止记者担任工会职务而在香港被定罪",
+      "url": "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-10T05:57:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "道琼斯因一项阻止郑秀玲在香港记者协会任职的罪名被定罪，但第二项指控被洗清。香港一家法院判定《华尔街日报》出版商阻止一名记者担任工会职务的罪名成立，此案引起了人们对香港新闻自由的担忧。",
+        "该报在郑秀玲于 2024 年被任命为香港记者协会 (HKJA) 主席几周后解雇了她。",
+        "当时她被告知，由于重组，她被正式解雇。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role"
+      }
+    },
+    {
+      "title_original": "بعد إلغاء سباق التحمل.. ماذا سيحدث لجائزتي قطر وأبوظبي في الفورمولا 1؟",
+      "title_zh": "取消耐力赛后……一级方程式赛车的卡塔尔和阿布扎比奖项会怎样？",
+      "url": "https://me.motorsport.com/f1/news/%D8%A8%D9%86-%D8%B3%D9%84%D9%8A%D9%85-%D9%84%D9%86-%D9%86%D8%AA%D8%B3%D8%B1%D8%B9-%D9%81%D9%8A-%D8%A5%D9%84%D8%BA%D8%A7%D8%A1-%D8%B3%D8%A8%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/10853889/",
+      "source": "موتورسبورت.كوم",
+      "source_score": 40,
+      "published_at": "2026-09-10T05:55:32+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "本·苏拉耶姆：“我们不会急于取消中东比赛”\n国际汽车联合会（FIA）主席穆罕默德·本·苏拉耶姆表示，除非绝对必要，否则他们不会急于将一级方程式赛季的最后两场比赛转移到另一个地点。",
+        "穆罕默德·本·苏拉耶姆，国际汽车联合会主席尼古拉斯·图姆巴扎斯\n摄影：Rudy Carisifoli/Motorsport Pictures\n由于中东地区目前的紧张局势，一级方程式赛季最后两场比赛——卡塔尔大奖赛和阿联酋大奖赛的未来仍然不确定。",
+        "一级方程式首席执行官斯特凡诺·多梅尼卡利此前曾表示，上述两场比赛可能会转移到欧洲。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "موتورسبورت.كوم"
+      ],
+      "all_titles": {
+        "ar": "بعد إلغاء سباق التحمل.. ماذا سيحدث لجائزتي قطر وأبوظبي في الفورمولا 1؟"
+      }
+    },
+    {
+      "title_original": "中東情勢がアフリカ経済に及ぼす影響 (2026年9月10日 No.3743)",
+      "title_zh": "中东局势对非洲经济的影响（2026年9月10日第3743期）",
+      "url": "https://www.keidanren.or.jp/journal/times/2026/0910_08.html",
+      "source": "keidanren.or.jp",
+      "source_score": 40,
+      "published_at": "2026-09-10T05:46:51+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "7月23日，经济团体联会在东京大手町的经济团体联会馆召开了非洲地区委员会企划委员会会议（主席为中冈幸志）。",
+        "双方听取了联合国开发计划署非洲部首席经济学家兼战略、分析和研究小组组长雷蒙德·吉尔平的介绍，阐述了中东局势对非洲经济及未来市场和商业前景的影响，并交换了意见。说明的概要如下。",
+        "■ 中东局势的影响\n许多非洲国家尚未完全从新冠病毒危机中恢复过来。在此情况下，针对近期中东局势，非洲国家经济金融形势出现不稳定，主要有以下三个因素。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "keidanren.or.jp"
+      ],
+      "all_titles": {
+        "ja": "中東情勢がアフリカ経済に及ぼす影響 (2026年9月10日 No.3743)"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : l’Iran riposte dans le détroit d’Ormuz, le pétrole à plus de 100 dollars… Le point sur la nuit",
+      "title_zh": "中东战争：伊朗霍尔木兹海峡报复，油价突破100美元……晚间更新",
+      "url": "https://www.ouest-france.fr/monde/proche-orient/guerre-au-moyen-orient-liran-riposte-dans-le-detroit-dormuz-le-petrole-a-plus-de-100-dollars-le-point-sur-la-nuit-df08d6ba-ac8c-11f1-8801-66f16947434c",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-09-10T04:49:45+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争：伊朗在霍尔木兹海峡进行报复，油价突破100美元......晚间更新 法国西部",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : l’Iran riposte dans le détroit d’Ormuz, le pétrole à plus de 100 dollars… Le point sur la nuit"
+      }
+    },
+    {
+      "title_original": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+      "title_zh": "俄罗斯新型喷气式无人机每天发射次数超过乌克兰防空系统",
+      "url": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-10T04:43:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯新型喷气式无人机每天发射次数超过乌克兰防空系统\n- 已发表\n英国广播公司验证对乌克兰空军数据的分析发现，整个八月份，俄罗斯每天都向乌克兰发射新型快速喷气动力无人机，从而升级了基辅防空系统难以对付的武器的使用。",
+        "这标志着乌克兰空军数据中首次记录了莫斯科新升级的杰兰无人机的日常攻击。",
+        "喷气式无人机和其他类型无人机的使用越来越多，促使总统弗拉基米尔·泽伦斯基谴责基辅上空正在发生的“恐怖”事件。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches"
+      }
+    },
+    {
+      "title_original": "Four key takeaways from  Republican midterms convention",
+      "title_zh": "共和党中期大会的四个关键要点",
+      "url": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-10T04:07:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "共和党中期大会的四个关键要点\n- 已发表\n共和党的第一次中期代表大会具有传统总统选举年集会的所有特征：穿着闪亮服装的支持者、候选人演讲的传送带以及出售竞选商品的摊贩。",
+        "但与普通大会不同的是，达拉斯没有举行正式的政党事务，这次活动只是为寻求提高投票率并避免在 11 月失去国会控制权的共和党人举行的集会。",
+        "唐纳德·特朗普总统对该党的控制仍然是绝对的，他在周三为期两天的活动开幕之夜发表了冗长的主题演讲。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Four key takeaways from  Republican midterms convention"
+      }
+    },
+    {
+      "title_original": "Hutíes de Yemen reportan ataques de fuerzas con apoyo saudí y otras noticias de Oriente Medio",
+      "title_zh": "也门胡塞武装报告沙特支持的部队发动袭击以及其他中东新闻",
+      "url": "https://www.latimes.com/espanol/internacional/articulo/2026-09-09/huties-de-yemen-reportan-ataques-de-fuerzas-con-apoyo-saudi-y-otras-noticias-de-oriente-medio",
+      "source": "Los Angeles Times",
+      "source_score": 40,
+      "published_at": "2026-09-10T03:48:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "也门胡塞武装报告沙特支持的部队发动袭击以及其他中东新闻\n- 分享通过\n伊朗支持的也门胡塞武装周三报道称，沙特领导的部队对也门四个省份发动了数十次空袭，以回应针对沙特领土的攻势，这场攻势导致数个石油设施起火，造成数十人受伤。",
+        "另外，伊朗官方媒体称，伊朗军队袭击了几艘油轮和两艘美国船只，以报复周二对伊朗船只的进攻。",
+        "美国武装部队否认军舰遭到袭击。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Los Angeles Times"
+      ],
+      "all_titles": {
+        "es": "Hutíes de Yemen reportan ataques de fuerzas con apoyo saudí y otras noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "La prolongación del conflicto en Oriente Medio recorta en 1,4 millones de barriles diarios la previsión mundial de refino de crudo para el cuarto trimestre de 2026",
+      "title_zh": "中东冲突延长导致2026年第四季度全球原油炼油量预测减少140万桶/日",
+      "url": "https://elperiodicodelaenergia.com/la-prolongacion-del-conflicto-en-oriente-medio-recorta-en-1-4-millones-de-barriles-diarios-la-prevision-mundial-de-refino-de-crudo-para-el-cuarto-trimestre-de-2026/",
+      "source": "El Periódico de la Energía",
+      "source_score": 40,
+      "published_at": "2026-09-10T03:33:24+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东冲突的延长导致 2026 年第四季度全球原油炼油量预测减少 140 万桶/日 El Periódico de la Energía",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "El Periódico de la Energía"
+      ],
+      "all_titles": {
+        "es": "La prolongación del conflicto en Oriente Medio recorta en 1,4 millones de barriles diarios la previsión mundial de refino de crudo para el cuarto trimestre de 2026"
+      }
+    },
     {
       "title_original": "Dan McKee becomes first governor in 8 years to lose primary",
       "title_zh": "丹·麦基 (Dan McKee) 成为 8 年来第一位在初选中失利的州长",
