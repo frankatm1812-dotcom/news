@@ -1,8 +1,858 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T01:01:37.996742+00:00",
-  "count": 35,
+  "generated_at": "2026-09-11T15:00:16.551203+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "Israel says it has destroyed major underground Hezbollah base",
+      "title_zh": "Israel says it has destroyed major underground Hezbollah base",
+      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-11T14:46:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Israel says it has destroyed major underground Hezbollah base\n- Published\nIsrael's military says it has destroyed a large underground complex operated by Hezbollah in southern Lebanon.",
+        "It said it used more than 1,000 tonnes of explosives to destroy two tunnels spanning more than 2km (1.2 miles) beneath the Ali Taher Ridge.",
+        "The blast triggered seismic activity equivalent to a magnitude 4.1 earthquake, according to the US Geological Survey."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israel says it has destroyed major underground Hezbollah base"
+      }
+    },
+    {
+      "title_original": "El puerto de Lisboa acoge las maniobras Bold Machina de la OTAN con presencia de fuerzas españolas",
+      "title_zh": "El puerto de Lisboa acoge las maniobras Bold Machina de la OTAN con presencia de fuerzas españolas",
+      "url": "https://www.abc.es/espana/puerto-lisboa-acoge-maniobras-bold-machina-otan-20260911162433-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-11T14:24:38+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "El puerto de Lisboa acoge las maniobras Bold Machina de la OTAN con presencia de fuerzas españolas\nLisboa, 11 sep (EFE/EPA).- Equipos de las fuerzas de operaciones especiales de España y otros países...",
+        "Lisboa, 11 sep (EFE/EPA).- Equipos de las fuerzas de operaciones especiales de España y otros países participaron este viernes en el ejercicio de entrenamiento BOLD MACHINA en el puerto de Lisboa junto con más de una veintena de empresas que pusieron a prueba sus ...",
+        "drones, vehículos marítimos no tripulados y sistemas de detección."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "El puerto de Lisboa acoge las maniobras Bold Machina de la OTAN con presencia de fuerzas españolas"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Orthodoxe Kirche schickt russischen Truppen Knochen aus dem Mittelalter",
+      "title_zh": "Ukraine-Krieg: Orthodoxe Kirche schickt russischen Truppen Knochen aus dem Mittelalter",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-orthodoxe-kirche-schickt-russischen-truppen-knochen-aus-dem-mittelalter-a-28a9954e-71df-4070-bd64-fcbd09dc51f7",
+      "source": "spiegel.de",
+      "source_score": 75,
+      "published_at": "2026-09-11T14:17:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Reliquie für die Moral Orthodoxe Kirche schickt russischen Truppen Knochen aus dem Mittelalter\nMit jahrhundertealten Knochen versucht die orthodoxe Kirche, die Moral der russischen Soldaten an der Front in der Ukraine zu heben.",
+        "Als jüngste Geste der Unterstützung für den Krieg von Präsident Wladimir Putin sendete die Kirche Knochenfragmente eines mittelalterlichen Großfürsten in die Ostukraine und erklärte, die Reliquie werde die Soldaten »geistig stärken«.",
+        "Am Dienstag wurde die Reliquie zunächst zum Kriegsdenkmal Sawur-Mohyla in der von Russland besetzten Region Donezk in der Ukraine gebracht."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "spiegel.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Orthodoxe Kirche schickt russischen Truppen Knochen aus dem Mittelalter"
+      }
+    },
+    {
+      "title_original": "追加利上げは成長損なう恐れ、中東情勢でインフレリスクも＝アイルランド中銀総裁",
+      "title_zh": "追加利上げは成長損なう恐れ、中東情勢でインフレリスクも＝アイルランド中銀総裁",
+      "url": "https://jp.reuters.com/jp/markets/japan/IVXN5KONPBKUDADZKSMCSCJFMY-2026-09-11/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-11T13:43:35+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "追加利上げは成長損なう恐れ、中東情勢でインフレリスクも＝アイルランド中銀総裁    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "追加利上げは成長損なう恐れ、中東情勢でインフレリスクも＝アイルランド中銀総裁"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : le président iranien prévient que les pressions contre l'Iran ont «atteint un stade critique et dangereux»",
+      "title_zh": "Guerre au Moyen-Orient : le président iranien prévient que les pressions contre l'Iran ont «atteint un stade critique et dangereux»",
+      "url": "https://www.lefigaro.fr/international/guerre-au-moyen-orient-le-president-iranien-previent-que-les-pressions-contre-l-iran-ont-atteint-un-stade-critique-et-dangereux-20260911",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-09-11T13:42:41+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : le président iranien prévient que les pressions contre l'Iran ont «atteint un stade critique et dangereux»\n«Lorsqu’un pays subit des pressions politiques et militaires sur son commerce, son énergie, ses infrastructures et son système financier, les répercussions dépassent ses frontières», a relevé Massoud Pezeshkian.",
+        "Passer la publicité Passer la publicité\nLe président iranien Massoud Pezeshkian a estimé vendredi 11 septembre que les pressions exercées par les États-Unis contre son pays avaient «atteint un stade critique et dangereux», lors d'une intervention en Inde à la veille du sommet du forum diplomatique des Brics.",
+        "«L'Iran a subi de lourdes sanctions ces dernières années, ces pressions ont atteint un stade critique et dangereux ces derniers mois à la suite de l'agression militaire des États-Unis et d'Israël contre l'Iran», a déclaré le président iranien, soulignant par ailleurs que «le monde actuel traverse une période d'une complexité sans précédent»."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : le président iranien prévient que les pressions contre l'Iran ont «atteint un stade critique et dangereux»"
+      }
+    },
+    {
+      "title_original": "Middle East Conflict Reshapes the Fertilizer Bill Brazilian Farms Pay",
+      "title_zh": "Middle East Conflict Reshapes the Fertilizer Bill Brazilian Farms Pay",
+      "url": "https://www.stonex.com/en-us/insights/middle-east-conflict-reshapes-the-fertilizer-bill-brazilian-farms-pay/",
+      "source": "stonex.com",
+      "source_score": 40,
+      "published_at": "2026-09-11T13:37:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Middle East Conflict Reshapes the Fertilizer Bill Brazilian Farms Pay    stonex.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "stonex.com"
+      ],
+      "all_titles": {
+        "en": "Middle East Conflict Reshapes the Fertilizer Bill Brazilian Farms Pay"
+      }
+    },
+    {
+      "title_original": "أزمات الشرق الأوسط تتصدر قمة بريكس في الهند وسط تباين مواقف أعضائها",
+      "title_zh": "أزمات الشرق الأوسط تتصدر قمة بريكس في الهند وسط تباين مواقف أعضائها",
+      "url": "https://www.aljazeera.net/news/2026/9/11/%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%88%D8%A8%D8%B2%D8%B4%D9%83%D9%8A%D8%A7%D9%86-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83%D8%A7%D9%86-%D9%81%D9%8A-%D9%82%D9%85%D8%A9-%D8%A8%D8%B1%D9%8A%D9%83%D8%B3",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-11T12:42:07+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "أزمات الشرق الأوسط تتصدر قمة بريكس في الهند وسط تباين مواقف أعضائها\nوصل الرئيس الروسي فلاديمير بوتين ونظيره الإيراني مسعود بزشكيان إلى العاصمة الهندية نيودلهي للمشاركة في محادثات تسبق انطلاق أعمال قمة مجموعة \"بريكس\" الـ18، غدا السبت.",
+        "وتُعقد القمة السنوية، التي تستمر يومين تحت شعار \"بناء الصمود والابتكار والتعاون والاستدامة\"، بحضور قادة تكتل \"بريكس\" الذي يضم 11 دولة، وتهيمن على جدول الأعمال النزاعات المسلحة والتحديات الاقتصادية، وفي مقدمتها الحرب في الشرق الأوسط وتداعيات حرب أوكرانيا مع روسيا.",
+        "ومن المتوقع أن تستحوذ الحرب على إيران، وتداعياتها على أسعار النفط والغاز، على جزء واسع من النقاشات في نيودلهي، حيث يرى الخبير الاقتصادي شيلان شاه من مركز الأبحاث \"كابيتال إيكونوميكس\" أن الحرب \"تشكّل اختبارا لتماسك المجموعة\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "أزمات الشرق الأوسط تتصدر قمة بريكس في الهند وسط تباين مواقف أعضائها"
+      }
+    },
+    {
+      "title_original": "A la suite d’une menace de grève, le géant américain Micron Technology annonce offrir jusqu’à 68 mois de salaire à ses employés à Taïwan",
+      "title_zh": "A la suite d’une menace de grève, le géant américain Micron Technology annonce offrir jusqu’à 68 mois de salaire à ses employés à Taïwan",
+      "url": "https://www.lemonde.fr/international/article/2026/09/11/a-la-suite-d-une-menace-de-greve-le-geant-americain-micron-technology-annonce-offrir-jusqu-a-68-mois-de-salaire-a-ses-employes-a-taiwan_6770575_3210.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-09-11T12:24:15+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "A la suite d’une menace de grève, le géant américain Micron Technology annonce offrir jusqu’à 68 mois de salaire à ses employés à Taïwan    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "A la suite d’une menace de grève, le géant américain Micron Technology annonce offrir jusqu’à 68 mois de salaire à ses employés à Taïwan"
+      }
+    },
+    {
+      "title_original": "Princess Diana's 'revenge dress' goes up for auction",
+      "title_zh": "Princess Diana's 'revenge dress' goes up for auction",
+      "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-11T12:04:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Princess Diana's 'revenge dress' goes up for auction\n- Published\nA dress worn by Princess Diana dubbed her \"revenge dress\" is being put up for auction.",
+        "The late Princess of Wales wore the strapless black silk evening dress to a party in London hours after her then-estranged husband Prince Charles admitted to committing adultery during their marriage.",
+        "Her dramatic arrival at the Serpentine Gallery in 1994 in the outfit became an iconic pop-culture moment."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Princess Diana's 'revenge dress' goes up for auction"
+      }
+    },
+    {
+      "title_original": "EQS-News: MICROIP sichert sich in Taiwan Großauftrag im Wert von 20 Mio. US-Dollar für eine intelligente Wohnsiedlung und treibt damit die Kommerzialisierung von Edge-KI voran",
+      "title_zh": "EQS-News: MICROIP sichert sich in Taiwan Großauftrag im Wert von 20 Mio. US-Dollar für eine intelligente Wohnsiedlung und treibt damit die Kommerzialisierung von Edge-KI voran",
+      "url": "https://www.onvista.de/news/2026/09-11-eqs-news-microip-sichert-sich-in-taiwan-grossauftrag-im-wert-von-20-mio-us-dollar-fuer-eine-intelligente-wohnsiedlung-und-treibt-damit-die-kommerzialisierung-von-edge-ki-voran-0-37-26552497",
+      "source": "Onvista",
+      "source_score": 40,
+      "published_at": "2026-09-11T11:50:22+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "EQS-News: MICROIP sichert sich in Taiwan Großauftrag im Wert von 20 Mio.",
+        "US-Dollar für eine intelligente Wohnsiedlung und treibt damit die Kommerzialisierung von Edge-KI voran    Onvista",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Onvista"
+      ],
+      "all_titles": {
+        "de": "EQS-News: MICROIP sichert sich in Taiwan Großauftrag im Wert von 20 Mio. US-Dollar für eine intelligente Wohnsiedlung und treibt damit die Kommerzialisierung von Edge-KI voran"
+      }
+    },
+    {
+      "title_original": "中东、俄乌冲突背景下中方对金砖峰会有何期待？外交部回应",
+      "title_zh": "中东、俄乌冲突背景下中方对金砖峰会有何期待？外交部回应",
+      "url": "https://news.ifeng.com/c/8wL3DEAYPgn",
+      "source": "news.ifeng.com",
+      "source_score": 40,
+      "published_at": "2026-09-11T11:34:41+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "中东、俄乌冲突背景下中方对金砖峰会有何期待？外交部回应\n澎湃新闻记者 杨文钦 朱郑勇\n9月11日，外交部发言人毛宁主持例行记者会。",
+        "印度报业托拉斯记者提问，考虑到此次金砖峰会举行的背景是中东和俄乌两场冲突仍在延宕，中方对此次峰会有无更多期待，有哪些优先事项？",
+        "毛宁表示，中方倡导共同、综合、合作、可持续的安全观，致力于推动热点问题政治解决。“中方期待同金砖国家一道，通过对话谈判化解争端，共同维护地区和世界和平稳定。”\n“特别声明：以上作品内容(包括在内的视频、图片或音频)为凤凰网旗下自媒体平台“大风号”用户上传并发布，本平台仅提供信息存储空间服务。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "news.ifeng.com"
+      ],
+      "all_titles": {
+        "zh": "中东、俄乌冲突背景下中方对金砖峰会有何期待？外交部回应"
+      }
+    },
+    {
+      "title_original": "25 años después del 11-S, el atentado que cambió la geopolítica",
+      "title_zh": "25 años después del 11-S, el atentado que cambió la geopolítica",
+      "url": "https://www.aragonplay.es/aragonnoticias/internacional/25-anos-11-s-atentado-cambio-geopolitica.html",
+      "source": "Aragón Play",
+      "source_score": 40,
+      "published_at": "2026-09-11T11:32:40+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "25 años después del 11-S, el atentado que cambió la geopolítica\nLos ataques en las Torres Gemelas de New York generaron una desconfianza hacia Washington y las políticas antiterroristas\nLos ataques de las Torres Gemelas dejaron 3.000 muertos y 25.000 heridos hace 25 años.",
+        "La respuesta de Estados Unidos, su 'War on terror' ('Guerra contra el terrorismo'), desencadenó consecuencias duraderas también para Europa, especialmente en la orientación y proyección de su política exterior.",
+        "El 11-S y la posterior invasión de Irak fracturaron a la Unión Europea en dos bandos a favor y en contra de esa guerra, pero también empujaron a Bruselas a buscar su propia voz en materia de seguridad y de exteriores, además de alimentar una desconfianza hacia Washington que no ha hecho sino empeorar en los últimos años."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Aragón Play"
+      ],
+      "all_titles": {
+        "es": "25 años después del 11-S, el atentado que cambió la geopolítica"
+      }
+    },
+    {
+      "title_original": "بنوك ترفع توقعاتها لأسعار النفط مع استمرار الاضطرابات في الخليج",
+      "title_zh": "بنوك ترفع توقعاتها لأسعار النفط مع استمرار الاضطرابات في الخليج",
+      "url": "https://www.reuters.com/ar/business/LPURYQDCTZOMLP5ESND4ZI5RHE-2026-09-11/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-11T10:57:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "بنوك ترفع توقعاتها لأسعار النفط مع استمرار الاضطرابات في الخليج    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "بنوك ترفع توقعاتها لأسعار النفط مع استمرار الاضطرابات في الخليج"
+      }
+    },
+    {
+      "title_original": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "title_zh": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-11T10:50:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Buddhist monk arrested in suspected $3m embezzlement scandal\n- Published\nThai police have arrested a Buddhist monk on suspicion of embezzling 100 million baht ($3m; £2.2m) from his monastery, along with a suspected female accomplice he was filmed having sex with.",
+        "Phra Wachirayan Wi, a former abbot at the prominent 14th-Century Wat Phutthaisawan in the ancient capital of Ayutthaya, allegedly pocketed donations meant for the temple on more than 20 occasions over two years.",
+        "In Thailand, Buddhist monks take a vow of celibacy and also renounce material possessions."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Buddhist monk arrested in suspected $3m embezzlement scandal"
+      }
+    },
+    {
+      "title_original": "Advertencia de China a Italia y la UE por visita taiwanesa",
+      "title_zh": "Advertencia de China a Italia y la UE por visita taiwanesa",
+      "url": "https://www.dw.com/es/la-vicepresidenta-de-taiw%C3%A1n-visita-italia-ante-la-indignaci%C3%B3n-de-pek%C3%ADn/a-79227918",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-11T10:00:45+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Advertencia de China a Italia y la UE por visita taiwanesa\n11 de septiembre de 2026\nLa vicepresidenta taiwanesa, Hsiao Bi-khim visitó por sorpresa Italia el viernes (11.09.2026) para participar en un foro político.",
+        "La respuesta de China no tardó en llegar, presentando el país el mismo viernes una protesta formal ante Italia y la Unión Europea por la inesperada y súbita visita de la política isleña.",
+        "对于台湾这样一位高级官员来说，这次访问不同寻常，并引发了北京方面的严厉反应。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Advertencia de China a Italia y la UE por visita taiwanesa"
+      }
+    },
+    {
+      "title_original": "Six Nigerians accused of romance scams to be extradited to the US",
+      "title_zh": "Six Nigerians accused of romance scams to be extradited to the US",
+      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-11T09:54:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Six Nigerians accused of romance scams to be extradited to the US\n- Published\nSouth African police are handing over six Nigerians wanted in the US for alleged online romance scams to FBI agents later on Friday.",
+        "The group is accused of targeting over 100 women in the US and defrauding them of more than 100m rand ($6m; £5m), the South African authorities said.",
+        "Those being extradited were arrested in 2021 and are believed to be members of crime syndicate Black Axe - a Nigerian mafia-style gang tied to human trafficking, internet fraud and murder."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Six Nigerians accused of romance scams to be extradited to the US"
+      }
+    },
+    {
+      "title_original": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+      "title_zh": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+      "url": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-11T09:38:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi\n- Published\nThe US is not a member of Brics, yet President Donald Trump's shadow will loom large over the group's summit in Delhi this weekend.",
+        "Leaders from 11 Brics nations - including host India, China, Russia, Brazil, South Africa, the UAE and Iran, with Saudi Arabia attending as an invited member - will hold talks on a wide range of issues.",
+        "But few will be as consequential as the impact of President Trump's policies."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi"
+      }
+    },
+    {
+      "title_original": "The nation’s cartoonists on the week in politics",
+      "title_zh": "全国漫画家的政治周",
+      "url": "https://www.politico.com/gallery/2026/09/11/the-nations-cartoonists-on-the-week-in-politics-01071749",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-11T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "每周，全国各地和各个政治领域的政治漫画家都会运用他们沾染墨水的技巧来捕捉政治世界中的弱点、模因、虚伪和其他令人头疼的事件。",
+        "这些劳动的成果是数以百计的漫画，它们娱乐并激怒了各种政治派别的读者。",
+        "Here's an offering of the best of this week's crop, picked fresh off the Toonosphere."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The nation’s cartoonists on the week in politics"
+      }
+    },
+    {
+      "title_original": "Taiwán condena a dos hombres por red vinculada al PC chino",
+      "title_zh": "台湾因与中国共产党有联系的网络而判处两名男子",
+      "url": "https://www.dw.com/es/taiw%C3%A1n-condena-a-dos-hombres-por-crear-una-red-vinculada-al-partido-comunista-chino/a-79224240",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-11T08:44:29+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾因与中国共产党有联系的网络而判处两名男子\n2026 年 9 月 11 日\n根据本周四（2026 年 9 月 10 日）发布的裁决，商人郑明嘉因台湾高等法院认为继续进行的活动而被判处最高刑期 10 年零 6 个月，而前台湾行政官员胡彭年则被判处 5 年有期徒刑，该裁决仍可上诉。",
+        "招聘活动\n法院称，在 2021 年至 2025 年间，程帮助中国官员接近台湾的潜在目标，提供联系信息并安排在中国的会议，中国声称对该岛拥有主权。",
+        "程成功地招募了胡作为可能的合作者，而另一次招募尝试却没有成功。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Taiwán condena a dos hombres por red vinculada al PC chino"
+      }
+    },
+    {
+      "title_original": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "title_zh": "人择阻止了利用人工智能制造生物武器的可能尝试",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-11T08:15:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Anthropic blocks possible attempt to use AI to make biological weapons\n- Published\nAnthropic says it has identified and disrupted attempts to use its AI model for \"malicious activity\" which could support the development of biological weapons.",
+        "该公司最近的威胁情报报告中得出的这一发现是人工智能研究人员和业内人士就该技术对人类潜在风险发出的一系列警告中的最新一项。",
+        "这些警告促使人们呼吁采取行动，美国参议员伯尼·桑德斯要求暂停先进人工智能的开发并禁止人工智能。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Anthropic blocks possible attempt to use AI to make biological weapons"
+      }
+    },
+    {
+      "title_original": "Se cumplen 25 años de unos atentados que cambiaron la geopolítica mundial",
+      "title_zh": "改变世界地缘政治的袭击事件已经过去 25 年了",
+      "url": "https://www.rtpa.es/noticias-internacional/2026-09-11/Se-cumplen-25-a%C3%B1os-de-unos-atentados-que-cambiaron-la-geopolitica-mundial_111789112643.html",
+      "source": "rtpa.es",
+      "source_score": 55,
+      "published_at": "2026-09-11T07:44:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "阿斯图里斯公国广播电台和电视台\n                            阿斯图里亚斯公国广播电台和电视台\n                        \n                    阿兰德\n                                            \n                                            掉落\n                                        \n                                    阿勒尔\n                                            阿米耶娃\n                                            阿维莱斯\n                                            贝尔蒙特·德·米兰达\n                                            比梅内斯\n                                            博阿尔\n                                            卡夫拉莱斯\n                                            卡布拉内斯\n                                            坎达莫\n                                            坎加斯·德·奥尼斯\n                                            坎加斯德尔纳尔塞亚\n                                            卡拉维亚\n                                            卡雷诺\n                                            案例\n                                            卡斯特里永\n                                            卡斯特罗波尔\n                                            科阿尼亚\n                                            科伦加\n                                            阿斯图里亚斯的科尔维拉\n                                            库迪列罗\n                                            德加尼亚\n                                            弗兰克\n                                            希洪\n                                            戈宗\n                                            学位\n                                            萨利梅·格兰达斯\n                                            伊比亚斯\n                                            伊利亚诺\n                                            岛屿\n                                            朗格雷奥\n                                            拉斯雷格拉斯\n                                            拉维安娜\n                                            莉娜\n                                            拉内拉\n                                            利亚内斯\n                                            米耶雷斯\n                                            莫尔辛\n                                            纳隆城墙\n                                            纳瓦\n                                            纳维亚\n                                            诺雷尼亚\n                                            奥尼斯\n                                            奥维耶多\n                                            帕尔雷斯\n                                            阿尔塔佩尼亚梅勒拉\n                                            下佩尼亚梅拉拉\n                                            佩索兹\n                                            皮洛尼亚\n                                            把\n                                            普拉维亚\n                                            普罗阿扎\n                                            基罗斯\n                                            里巴德代娃\n                                            里瓦德塞拉\n                                            阿里巴河岸\n                                            里奥萨\n                                            客房\n                                            圣马丁德奥斯科斯\n                                            圣马丁德尔雷奥雷利奥\n                                            圣蒂尔索德阿布雷斯\n                                            奥斯科斯的圣尤拉莉娅\n                                            圣哈德良\n                                            萨列戈\n                                            西罗\n                                            高估\n                                            恐惧\n                                            索托德尔巴尔科\n                                            塔皮亚·德·卡萨列戈",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "rtpa.es"
+      ],
+      "all_titles": {
+        "es": "Se cumplen 25 años de unos atentados que cambiaron la geopolítica mundial"
+      }
+    },
+    {
+      "title_original": "Press conference by the NATO Spokesperson",
+      "title_zh": "北约发言人举行新闻发布会",
+      "url": "https://www.nato.int/en/multimedia/multimedia/videos/2001/09/12/press-conference-by-the-nato-spokesperson",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-09-11T07:22:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "忘记密码了吗？",
+        "创建帐户\n                        \n                        \n    \n    \n        \n            \n                \n                    \n                        \n                            \n                                检查您的收件箱并输入验证码\n                            \n                        \n                        \n    \n                    \n                \n            \n        \n    \n \n                        \n                            我们已将验证码发送到您的电子邮件地址。",
+        "输入代码以验证您的帐户。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "Press conference by the NATO Spokesperson"
+      }
+    },
+    {
+      "title_original": "Los aliados de la OTAN frustran un sabotaje ruso contra cables submarinos",
+      "title_zh": "北约盟国阻止俄罗斯破坏海底电缆",
+      "url": "https://es.euronews.com/my-europe/2026/09/11/los-aliados-de-la-otan-frustran-un-sabotaje-ruso-contra-cables-submarinos",
+      "source": "es.euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-11T07:09:44+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西方高级官员透露，北约的联合行动成功挫败了俄罗斯旨在禁用关键海底数据电缆的秘密演习。",
+        "路透社援引两名西方官员的话说，北约盟国发现俄罗斯潜艇正在训练用不留痕迹的秘密武器破坏海底电缆。",
+        "俄罗斯的这次秘密行动是由高度保密的俄罗斯潜艇战局（GUGI）在挪威斯瓦尔巴群岛附近的北极水域进行的。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "es.euronews.com"
+      ],
+      "all_titles": {
+        "es": "Los aliados de la OTAN frustran un sabotaje ruso contra cables submarinos"
+      }
+    },
+    {
+      "title_original": "What to know about Sunday's election in Sweden, NATO's newest member",
+      "title_zh": "关于北约最新成员国瑞典周日的选举需要了解什么",
+      "url": "https://abcnews.com/International/wireStory/sundays-election-sweden-natos-newest-member-136357765",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_score": 75,
+      "published_at": "2026-09-11T06:46:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "关于北约最新成员国瑞典周日的选举需要了解什么\n瑞典将于周日举行选举，将决定保守派领导人是否继续掌权、极右翼政党首次赢得部长职位，或者中左翼是否重新掌权\n斯德哥尔摩——瑞典将于周日举行选举，届时将决定保守派领导人是否继续掌权、极右翼政党是否首次赢得部长职位，或者中左翼是否重新掌权。",
+        "乌尔夫·克里斯特森总理正在寻求连任欧盟国家的第二个四年任期，该国也是北约的最新成员国。",
+        "他的前任希望重新赢得职位。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      "all_titles": {
+        "en": "What to know about Sunday's election in Sweden, NATO's newest member"
+      }
+    },
+    {
+      "title_original": "مسؤول: عراقجي وقائد جيش باكستان ناقشا هاتفيا تهدئة صراع الشرق الأوسط",
+      "title_zh": "官方：阿拉奇与巴基斯坦陆军司令通电话讨论平息中东冲突",
+      "url": "https://www.reuters.com/ar/world/3IJO6PWWHJPDZBP7KGZ4G73OZA-2026-09-11/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-11T06:35:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "官方：阿拉奇和巴基斯坦陆军司令通过电话讨论平息中东冲突 路透",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "مسؤول: عراقجي وقائد جيش باكستان ناقشا هاتفيا تهدئة صراع الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Philippine rescuers board ferry 40 hours after blaze began",
+      "title_zh": "菲律宾救援人员在火灾发生 40 小时后登上渡轮",
+      "url": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-11T06:33:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "菲律宾救援人员在火灾发生 40 小时后登上渡轮\n- 已发表\n致命渡轮火灾发生 40 多个小时后，菲律宾救援人员登上 MV June Aster 烧焦的残骸，寻找数十名失踪人员。",
+        "已发现 5 人死亡，43 人已获救，其中许多人正在医院接受治疗。",
+        "目前仍有 84 人失踪。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Philippine rescuers board ferry 40 hours after blaze began"
+      }
+    },
+    {
+      "title_original": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+      "title_zh": "间谍、策略和错失的机会：人们如何吸取 9/11 的教训",
+      "url": "https://www.bbc.co.uk/news/articles/c1l68gmqq24o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-11T05:53:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "BBC 的安全记者写道，二十五年过去了，这些袭击已经定义了一代人的外交、安全和情报政策。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt"
+      }
+    },
+    {
+      "title_original": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "title_zh": "香港天安门活动人士被判最高七年监禁",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-11T05:41:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "香港天安门活动人士被判最高七年监禁\n- 已发表\n组织年度守夜活动纪念北京 1989 年镇压天安门广场抗议活动的三名香港活动人士被判处最高七年监禁。",
+        "根据香港颇具争议的国家安全法，其中两名被告——69岁的李卓人和41岁的周恒东——上个月被定罪为煽动他人颠覆国家政权。",
+        "第三名被告，74 岁的何俊仁 (Albert Ho) 一月份已认罪。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison"
+      }
+    },
+    {
+      "title_original": "ウクライナ無人機攻撃でロシアで2人死亡、キーウでも死者2人",
+      "title_zh": "乌克兰无人机袭击导致俄罗斯2人死亡、基辅2人死亡",
+      "url": "https://jp.reuters.com/jp/world/ukraine/J4FLQCXXJRMI5CYPSULOLXXL2M-2026-09-11/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-11T05:10:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰无人机袭击致俄罗斯2人死亡、基辅市另有2人死亡 - 路透中文网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ無人機攻撃でロシアで2人死亡、キーウでも死者2人"
+      }
+    },
+    {
+      "title_original": "La trampa de Oriente Medio y el auge de AfD: un análisis del choque europeo con Rusia",
+      "title_zh": "中东陷阱与选择党的崛起：欧洲与俄罗斯冲突的分析",
+      "url": "https://www.negocios.com/articulo/geopolitica/trampa-oriente-medio-auge-afd-analisis-choque-europeo-rusia/20260911063800493644.html",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-09-11T04:38:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "中东陷阱与选择党的崛起：欧洲与俄罗斯冲突的分析\n克里斯蒂安·拉梅萨从中东的地缘政治陷阱、德国选择党的崛起以及美国、俄罗斯与中东重要角色之间的复杂关系来分析欧洲与俄罗斯之间的冲突。",
+        "在似乎没有喘息机会的全球背景下，中东和欧洲政治的紧张局势以意想不到的方式交织在一起，产生了一种情况，即每一次运动都会产生不可预测的后果。",
+        "国际分析师克里斯蒂安·拉梅萨（Christian Lamesa）引导我们穿越地缘政治迷宫，其中所揭示的内容远比表面上看到的要多。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "La trampa de Oriente Medio y el auge de AfD: un análisis del choque europeo con Rusia"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : 9 civils tués à Gaza, Israël bombarde des tunnels du Hezbollah au Liban… Le point sur la nuit",
+      "title_zh": "中东战争：加沙9名平民丧生，以色列轰炸黎巴嫩真主党隧道……晚间更新",
+      "url": "https://www.ouest-france.fr/monde/proche-orient/guerre-au-moyen-orient-9-civils-tues-a-gaza-israel-bombarde-des-tunnels-du-hezbollah-au-liban-le-point-sur-la-nuit-9c153920-ad59-11f1-8801-66f16947434c",
+      "source": "ouest-france.fr",
+      "source_score": 40,
+      "published_at": "2026-09-11T04:32:31+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东战争：加沙 9 名平民丧生，以色列轰炸黎巴嫩真主党隧道……夜间更新 ouest-france.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "ouest-france.fr"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : 9 civils tués à Gaza, Israël bombarde des tunnels du Hezbollah au Liban… Le point sur la nuit"
+      }
+    },
+    {
+      "title_original": "11-Septembre : pourquoi les Etats-Unis sont toujours pris dans le piège du Moyen-Orient",
+      "title_zh": "9月11日：美国为何仍深陷中东陷阱",
+      "url": "https://www.lesechos.fr/monde/etats-unis/11-septembre-pourquoi-les-etats-unis-sont-toujours-pris-dans-le-piege-du-moyen-orient-2250990",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-09-11T04:30:28+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "9 月 11 日：为何美国仍深陷中东陷阱 《回声报》",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "11-Septembre : pourquoi les Etats-Unis sont toujours pris dans le piège du Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
+      "title_zh": "推出 1500 万美元基金，为结束全球女性生殖器切割创造“不可阻挡的动力”",
+      "url": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-11T04:00:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "她的地平线基金寻求 1 亿美元，以制止伤害全球 2.3 亿妇女和女童的做法 反对女性生殖器切割的前线活动家和领导人欢迎了前所未有的 1,550 万美元（1,140 万英镑）基金，旨在创造“不可阻挡的势头”，最终结束这种做法。",
+        "该基金的推出正值妇女权利日益受到攻击，捐助资金急剧减少，特别是当地社区女性生殖器残割幸存者领导的工作方面。",
+        "这被认为是结束女性生殖器切割做法的最大单笔慈善捐款。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide"
+      }
+    },
+    {
+      "title_original": "Ted Cruz on his 2028 lane, JD Vance and the GOP’s future",
+      "title_zh": "特德·克鲁兹 (Ted Cruz) 的 2028 年路线、JD·万斯 (JD Vance) 和共和党的未来",
+      "url": "https://www.politico.com/video/2026/09/10/ted-cruz-on-his-2028-lane-jd-vance-and-the-gops-future-2159892",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-10T23:59:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "特德·克鲁兹 (Ted Cruz) 的 2028 年路线、JD·万斯 (JD Vance) 和共和党的未来",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Ted Cruz on his 2028 lane, JD Vance and the GOP’s future"
+      }
+    },
     {
       "title_original": "صندوق النقد: الاقتصاد العالمي يمتص صدمة حرب الشرق الأوسط",
       "title_zh": "صندوق النقد: الاقتصاد العالمي يمتص صدمة حرب الشرق الأوسط",
