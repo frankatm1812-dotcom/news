@@ -1,8 +1,833 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12T01:05:25.679461+00:00",
-  "count": 35,
+  "generated_at": "2026-09-12T14:06:29.086309+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title_original": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+      "title_zh": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-12T13:56:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "A united Ireland would be 'fantastic' says Trump during Irish visit\n- Published\nUS President Donald Trump has said he would love to see a united Ireland while at a meeting with the Taoiseach (Irish Prime Minister) during a visit in Dublin.",
+        "Trump is on a two-day visit to the country where earlier he had a courtesy call with the Irish President Catherine Connolly at the Áras an Uachtaráin - the official residence of the Irish president.",
+        "He attended meetings in Dublin, before travelling to County Clare for the Amgen Irish Open golf tournament."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "A united Ireland would be 'fantastic' says Trump during Irish visit"
+      }
+    },
+    {
+      "title_original": "BRICS首脳会議、共同宣言発表 「関税や中東情勢を深く懸念」",
+      "title_zh": "BRICS首脳会議、共同宣言発表 「関税や中東情勢を深く懸念」",
+      "url": "https://www.nikkei.com/article/DGXZQOGM122MK0S6A910C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-12T13:21:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "この記事は会員限定記事です\nBRICS首脳会議「関税や中東情勢を深く懸念」 共同宣言を発表\n[会員限定記事]\n【ニューデリー=岩城聡】有力新興国でつくるBRICSの首脳会議が12日、インドの首都ニューデリーで開幕した。同日発表した共同宣言はトランプ米政権の関税政策や経済制裁を念頭に「一方的な関税引き上げや非関税障壁」に強い懸念を示した。",
+        "共同宣言は45ページ、計140項目に及ぶ。米イランの軍事衝突で、中東地域での緊張が高まっていることに対し「深い懸念」を表明した。さらなる事態悪化を招く行動を避け、最大限...",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "BRICS首脳会議、共同宣言発表 「関税や中東情勢を深く懸念」"
+      }
+    },
+    {
+      "title_original": "Record heatwaves in France set to make champagne stronger",
+      "title_zh": "法国创纪录的热浪将使香槟变得更烈",
+      "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-12T13:00:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Record heatwaves in France set to make champagne stronger\n- Published\nChampagne lovers may find themselves getting tipsy more quickly after French producers have been given the go-ahead to raise the alcohol content in a bottle of bubbly for the first time following this summer's record heatwave.",
+        "Winemakers can temporarily produce champagne with an alcohol content of up to 15% - above the 13% cap, industry officials have said.",
+        "The extreme heat and drought produced grapes with exceptionally higher sugar levels."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Record heatwaves in France set to make champagne stronger"
+      }
+    },
+    {
+      "title_original": "Los BRICS piden \"máxima contención\" en Oriente Medio",
+      "title_zh": "Los BRICS piden \"máxima contención\" en Oriente Medio",
+      "url": "https://www.dw.com/es/los-brics-piden-m%C3%A1xima-contenci%C3%B3n-en-oriente-medio/a-79245162",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-12T12:43:27+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Los BRICS piden \"máxima contención\" en Oriente Medio\n12 de septiembre de 2026\nLos líderes de los países BRICS, reunidos hoy en la India, adoptaron este sábado (12.09.2026) por unanimidad la 'Declaración de Nueva Delhi', que recoge sus posiciones sobre los principales asuntos globales y regionales y una hoja de ruta para reforzar la cooperación dentro del bloque.",
+        "\"Tenemos ante nosotros el borrador de la Declaración de Nueva Delhi del BRICS 2026\", dijo el primer ministro de la India, Narendra Modi, durante la sesión plenaria.",
+        "Modi explicó que el texto recoge \"la esencia de las deliberaciones y las posiciones sobre los principales asuntos globales y regionales\" y que también incluye \"una hoja de ruta futura para seguir fortaleciendo la cooperación dentro del BRICS\", sin que se conozca todavía en detalle el contenido de la declaración."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Los BRICS piden \"máxima contención\" en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Xi reivindica el papel de los BRICS en la paz en Oriente Medio y contra el proteccionismo",
+      "title_zh": "Xi reivindica el papel de los BRICS en la paz en Oriente Medio y contra el proteccionismo",
+      "url": "https://holanews.com/xi-reivindica-el-papel-de-los-brics-en-la-paz-en-oriente-medio-y-contra-el-proteccionismo/",
+      "source": "HolaNews",
+      "source_score": 40,
+      "published_at": "2026-09-12T12:00:58+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Nueva Delhi, 12 sep (EFE).- El presidente chino, Xi Jinping, afirmó este sábado que China trabajará con los BRICS para lograr la paz en Oriente Medio y el Golfo y pidió al grupo que se oponga a la confrontación de bloques, a las violaciones de la soberanía de otros países, al proteccionismo y que defienda la autoridad de Naciones Unidas.",
+        "Xi, que llegó en esta misma jornada a Nueva Delhi para participar en la cumbre de líderes del bloque, urgió en su intervención a los países presentes a que jueguen un «papel pionero en el mantenimiento de la paz y estabilidad», y defendió que deben «situarse con firmeza en el lado correcto de la historia».",
+        "También subrayó que la guerra «ha causado serias pérdidas a los pueblos de la región y no sirve a los intereses comunes de la comunidad internacional»."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "HolaNews"
+      ],
+      "all_titles": {
+        "es": "Xi reivindica el papel de los BRICS en la paz en Oriente Medio y contra el proteccionismo"
+      }
+    },
+    {
+      "title_original": "【速報】BRICS、中東の緊張に「深い懸念」",
+      "title_zh": "【速報】BRICS、中東の緊張に「深い懸念」",
+      "url": "https://www.47news.jp/14930911.html",
+      "source": "47NEWS",
+      "source_score": 40,
+      "published_at": "2026-09-12T11:47:16+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "都道府県のニュース\n【ニューデリー共同】BRICS首脳会議はニューデリー宣言で、中東の緊張の高まりに「深い懸念」を表明した。国際貿易の円滑な流れを維持するために協力する必要性を強調した。",
+        "国内外約100の拠点を軸に、世界情勢から地域の話題まで、旬のニュースを的確に、いち早くお届けします。",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "47NEWS"
+      ],
+      "all_titles": {
+        "ja": "【速報】BRICS、中東の緊張に「深い懸念」"
+      }
+    },
+    {
+      "title_original": "Russia strikes cargo vessels, steel plants across Ukraine",
+      "title_zh": "Russia strikes cargo vessels, steel plants across Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-12T11:14:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia attacks on cargo vessels, steel plants across Ukraine kill 3\nRussia’s Defence Ministry says its forces have struck several industrial facilities across Ukraine, as Moscow continues its targeted campaign of Kyiv’s industrial infrastructure.",
+        "Russian forces have struck several industrial facilities across Ukraine, as Moscow continues its targeted campaign against Kyiv’s manufacturing infrastructure.",
+        "Russian strikes on ten Ukrainian regions killed at least three people, injured dozens, and damaged residential buildings and infrastructure across the country, Ukraine’s President Volodymyr Zelenskyy said on Saturday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russia strikes cargo vessels, steel plants across Ukraine"
+      }
+    },
+    {
+      "title_original": "«رأس الخيمة العقارية» تفوز بجائزة «ستيفي» للشرق الأوسط وإفريقيا",
+      "title_zh": "«رأس الخيمة العقارية» تفوز بجائزة «ستيفي» للشرق الأوسط وإفريقيا",
+      "url": "https://www.alkhaleej.ae/2026-09-12/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%B1%D8%A3%D8%B3-%D8%A7%D9%84%D8%AE%D9%8A%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D9%81%D9%88%D8%B2-%D8%A8%D8%AC%D8%A7%D8%A6%D8%B2%D8%A9-%D8%B3%D8%AA%D9%8A%D9%81%D9%8A-%D9%84%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%88%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-09-12T10:52:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "شركة رأس الخيمة العقارية تفوز بجائزة «ستيفي» للشرق الأوسط وشمال إفريقيا خلال الحفل الذي أقيم بمدينة إسطنبول في تركيا، حيث تسلم الجائزة ياسر عبدالله الأحمد رئيس محلس إدارة الشركة.",
+        "وسلم الجائزة محمد مصبح النعيمي رئيس الغرفة الراعية لجوائز ستيفي للشرق الأوسط وشمال إفريقيا التي تُعنى بتكريم الابتكار والتميز والإنجازات في بيئة الأعمال في منطقة الشرق الأوسط وشمال إفريقيا، حيث شارك في نسخة 2026، أكثر من 1400 مرشح من المنطقة.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "«رأس الخيمة العقارية» تفوز بجائزة «ستيفي» للشرق الأوسط وإفريقيا"
+      }
+    },
+    {
+      "title_original": "【速報】中東と湾岸の和平達成に役割果たすと習主席",
+      "title_zh": "【速報】中東と湾岸の和平達成に役割果たすと習主席",
+      "url": "https://www.47news.jp/14930711.html",
+      "source": "47NEWS",
+      "source_score": 40,
+      "published_at": "2026-09-12T10:46:32+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "都道府県のニュース\n【ニューデリー共同】中国の習近平国家主席は12日、BRICS首脳会議で、中東と湾岸地域の戦争は人々に深刻な損失をもたらしているとし「加盟国と共に和平達成に役割を果たす」と表明した。国営通信新華社が報じた。",
+        "国内外約100の拠点を軸に、世界情勢から地域の話題まで、旬のニュースを的確に、いち早くお届けします。",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "47NEWS"
+      ],
+      "all_titles": {
+        "ja": "【速報】中東と湾岸の和平達成に役割果たすと習主席"
+      }
+    },
+    {
+      "title_original": "El precio del petróleo se dispara por la tensión en Oriente Medio",
+      "title_zh": "El precio del petróleo se dispara por la tensión en Oriente Medio",
+      "url": "https://www.abc.es/economia/precio-petroleo-dispara-tension-oriente-medio-20260912120808-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-12T10:08:12+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El precio del petróleo se dispara por la tensión en Oriente Medio\nMadrid, 12 sep (EFE).- El precio del petróleo y el gas natural vuelve a situarse en cotas elevadas t...",
+        "Madrid, 12 sep (EFE).- El precio del petróleo y el gas natural vuelve a situarse en cotas elevadas tras la reactivación de los ataques entre Estados Unidos e Irán en Oriente Medio, lo que aumentan las presiones inflacionistas, elevan el rendimiento de la deuda soberana ...",
+        "y lastran a las bolsas, según ha explicado en analista de XTB Manuel Pinto en una entrevista con la Agencia Efe."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "El precio del petróleo se dispara por la tensión en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "ウクライナ大統領、プーチン氏と直接会談意向 G20サミット参加なら（時事通信）",
+      "title_zh": "ウクライナ大統領、プーチン氏と直接会談意向 G20サミット参加なら（時事通信）",
+      "url": "https://news.yahoo.co.jp/articles/92bb3855c5c5d4867c66d890bfe0d1cf07f817a7",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-12T10:02:15+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ大統領、プーチン氏と直接会談意向 G20サミット参加なら\n【ベルリン時事】ウクライナのゼレンスキー大統領は11日、訪問先のカナダで、12月に米南部フロリダ州で予定されている20カ国・地域首脳会議（G20サミット）にロシアのプーチン大統領が出席する場合、直接会談を行う意向を示した。",
+        "【地図で見る】ウクライナ戦況マップ 和平協議の進展を図りたい考え。ドイツ放送局ドイチェ・ウェレ（DW）が12日、インタビューの内容を伝えた。",
+        "ゼレンスキー氏は「会って、話し、決断を下さなければならない」と述べた。また、ロシア軍は多大な犠牲を出しながら前線で停滞しているとし、「われわれは交渉で優位な立場にある」と強調した。プーチン氏は2020年以降、G20サミットに対面で出席していない。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ大統領、プーチン氏と直接会談意向 G20サミット参加なら（時事通信）"
+      }
+    },
+    {
+      "title_original": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "title_zh": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-12T10:00:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders\n- Published\nFor Ndaikech Ali, who has been traversing the streets of the Kenyan capital eking out a living as a tuk-tuk driver for the past nine years, Nairobi's traffic - not xenophobia - has been his biggest concern.",
+        "During his time in the East African nation, the Burundian says he has always found Kenyans to be friendly and welcoming - that is until last week, when the president ordered a crackdown on foreigners working as traders or operating small-scale businesses.",
+        "\"Now they have turned against us,\" he told the BBC at the Burundian embassy in Nairobi where many have been queuing this week for documents to allow them to travel back home."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders"
+      }
+    },
+    {
+      "title_original": "مجموعة دول بريكس تدعو في بيان إلى \"ضبط النفس\" إزاء تصاعد التوتر في الشرق الأوسط",
+      "title_zh": "مجموعة دول بريكس تدعو في بيان إلى \"ضبط النفس\" إزاء تصاعد التوتر في الشرق الأوسط",
+      "url": "https://www.france24.com/ar/%D8%A2%D8%B3%D9%8A%D8%A7/20260912-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%82%D9%85%D8%A9-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%A8%D8%B1%D9%8A%D9%83%D8%B3-%D9%86%D9%8A%D9%88%D8%AF%D9%84%D9%87%D9%8A-%D9%82%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%A7%D9%84%D9%87%D9%86%D8%AF-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-12T09:33:12+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "مجموعة دول بريكس تدعو في بيان إلى \"ضبط النفس\" إزاء تصاعد التوتر في الشرق الأوسط    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "مجموعة دول بريكس تدعو في بيان إلى \"ضبط النفس\" إزاء تصاعد التوتر في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "「中東＝石油」はもう古い？サウジが目指す「世界のAI拠点」の衝撃（ダイヤモンド・オンライン）",
+      "title_zh": "「中東＝石油」はもう古い？サウジが目指す「世界のAI拠点」の衝撃（ダイヤモンド・オンライン）",
+      "url": "https://news.yahoo.co.jp/articles/60ab403e119105d4c57f037d3a110d3b8c1ba8ef",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-12T09:00:36+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "「中東＝石油」はもう古い？サウジが目指す「世界のAI拠点」の衝撃\n「中東＝石油」という見方は、すでに古くなりつつある。この地域の経済と勢力図は大きく動いている。中東はこれからどこへ向かうのか。※本稿は、元外交官で著述家の山中俊之『世界のエリートが学んでいる教養としての超現代史』（SB新書）の一部を抜粋・編集したものです。",
+        "【この記事の画像を見る】 ● 湾岸諸国は「石油大国」から 新技術の投資拠点へ 中東が日本にとって重要なエネルギー供給源である点は今後も急には変わらないでしょうが、同時に、再生可能エネルギーの実験場としても重要性を増していくと考えられます。",
+        "湾岸諸国には「石油」のイメージが強いと思いますが、ふんだんな太陽光と広大な砂漠という「再生可能エネルギー」資源も豊富と言えます。これまで石油で蓄えた莫大な資本をそこに投じることで、「化石燃料輸出国」から「エネルギー・テクノロジー投資国」へとポジションチェンジする。これが、湾岸諸国の新たなエネルギー経済政策なのです。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "「中東＝石油」はもう古い？サウジが目指す「世界のAI拠点」の衝撃（ダイヤモンド・オンライン）"
+      }
+    },
+    {
+      "title_original": "特朗普表示不反对中国在美国建厂生产汽车",
+      "title_zh": "特朗普表示不反对中国在美国建厂生产汽车",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260912-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA-%E4%B8%8D%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%BB%BA%E5%8E%82%E7%94%9F%E4%BA%A7%E6%B1%BD%E8%BD%A6",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-09-12T08:54:36+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特朗普表示不反对中国在美国建厂生产汽车    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "zh": "特朗普表示不反对中国在美国建厂生产汽车"
+      }
+    },
+    {
+      "title_original": "«عالم وارنر براذرز» يجلب شخصيات «دي سي» إلى «الشرق الأوسط للأفلام»",
+      "title_zh": "«عالم وارنر براذرز» يجلب شخصيات «دي سي» إلى «الشرق الأوسط للأفلام»",
+      "url": "https://www.aletihad.ae/news/%D8%AF%D9%86%D9%8A%D8%A7/4691430/-%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D8%A7%D8%B1%D9%86%D8%B1-%D8%A8%D8%B1%D8%A7%D8%B0%D8%B1%D8%B2--%D9%8A%D8%AC%D9%84%D8%A8-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A7%D8%AA--%D8%AF%D9%8A-%D8%B3%D9%8A--%D8%A5%D9%84%D9%89--%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%84%D9%84",
+      "source": "الاتحاد للأخبار",
+      "source_score": 40,
+      "published_at": "2026-09-12T08:51:36+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "أبوظبي (الاتحاد) \nتستعد «عالم وارنر براذرز جزيرة ياس، أبوظبي»، أكبر مدينة ترفيهية داخلية في المنطقة، لنقل أجواء المواجهة الشهيرة بين «سوبرمان» و«ليكس لوثر» إلى معرض الشرق الأوسط للأفلام والقصص المصورة، حيث تدعو عشّاقهما إلى اختيار أحد الجانبين وخوض مواجهة غامرة مستوحاة من أحدث الألعاب الترفيهية التي تحتضنها المدينة «كريبتونايت كولايدر».ويمتد المعرض حتى 13 سبتمبر الجاري في مركز أدنيك أبوظبي، حيث يقدم «عالم وارنر براذرز» في جناحه تجربة غامرة تنقل الزوّار إلى أجواء مدينة متروبوليس، تعيد تجسيد المواجهة الشهيرة بين الأبطال الخارقين.",
+        "وتستوحي التجربة فكرتها من لعبة «كريبتونايت كولايدر» الجديدة، التي انضمت إلى المدينة الترفيهية هذا الصيف، وتدور حول المواجهة بين سوبرمان وعدوه اللدود ليكس لوثر، والتي تنبض بالحياة من خلال تحديات تفاعلية وتجارب مخصَّصة للجمهور وظهور شخصيات من عالم «وارنر براذرز».",
+        "وجرى افتتاح لعبة «كريبتونايت كولايدر» في يوليو 2026، لتصطحب الضيوف إلى قلب «مشروع إيفري مان» الذي أطلقه «ليكس لوثر» ضمن أحدث مخطَّطاته لتحدي قوى سوبرمان الاستثنائية."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "الاتحاد للأخبار"
+      ],
+      "all_titles": {
+        "ar": "«عالم وارنر براذرز» يجلب شخصيات «دي سي» إلى «الشرق الأوسط للأفلام»"
+      }
+    },
+    {
+      "title_original": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "title_zh": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-12T08:04:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial\n- Published\nGrammy-winning rapper Lil Durk was acquitted on Friday of all charges in a federal murder-for-hire case accusing him of orchestrating the revenge killing of a man shot dead in a daytime ambush in Los Angeles four years ago.",
+        "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
+        "Defence lawyer Drew Findling said the recording artist, whose real name is Durk Devontay Banks, was \"thankful\" following the verdict."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial"
+      }
+    },
+    {
+      "title_original": "قمة «بريكس» تنطلق اليوم في نيودلهي",
+      "title_zh": "قمة «بريكس» تنطلق اليوم في نيودلهي",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/5317389-%D9%82%D9%85%D8%A9-%D8%A8%D8%B1%D9%8A%D9%83%D8%B3-%D8%AA%D9%86%D8%B7%D9%84%D9%82-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D8%AF%D9%84%D9%87%D9%8A",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-09-12T07:48:37+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "وصل الرئيس الصيني شي جينبينغ، اليوم (السبت)، إلى نيودلهي، للمشاركة إلى جانب قادة الهند وروسيا وإيران في قمة لمجموعة بريكس تتصدرها ملفات النزاعات والتجارة والطاقة.",
+        "ويتوقع أن تهيمن الحرب التي اندلعت في الشرق الأوسط أواخر فبراير (شباط)، إثر الضربات الأميركية والإسرائيلية على إيران، والحرب المستمرة في أوكرانيا منذ بدء الغزو الروسي في 2022، وما نتج عنهما من الاضطرابات في التجارة العالمية وأسعار النفط، على محادثات القمة التي تنطلق السبت وتستمر يومين.",
+        "ويشكل حضور شي بحد ذاته حدثاً مهماً؛ إذ ستكون هذه أول زيارة له إلى البلاد منذ 2019، وهي تمثل خطوة كبيرة في مسار التقارب البطيء بين البلدين المتنافسين، بعد 6 سنوات من المواجهة العسكرية الدامية التي دارت بينهما على طول الحدود المتنازع عليها في منطقة الهيمالايا."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "قمة «بريكس» تنطلق اليوم في نيودلهي"
+      }
+    },
+    {
+      "title_original": "Les Houthis du Yémen s'emparent du stratégique détroit de Bab el-Mandeb",
+      "title_zh": "Les Houthis du Yémen s'emparent du stratégique détroit de Bab el-Mandeb",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260912-les-houthis-du-y%C3%A9men-s-emparent-du-strat%C3%A9gique-d%C3%A9troit-de-bab-el-mandeb",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-12T07:21:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Les Houthis du Yémen s'emparent du stratégique détroit de Bab el-Mandeb    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Les Houthis du Yémen s'emparent du stratégique détroit de Bab el-Mandeb"
+      }
+    },
+    {
+      "title_original": "Putin warnt Europa: Truppen in der Ukraine bedeuten Krieg mit Russland",
+      "title_zh": "Putin warnt Europa: Truppen in der Ukraine bedeuten Krieg mit Russland",
+      "url": "https://www.berliner-zeitung.de/article/putin-europa-truppen-ukraine-krieg-russland-10385873",
+      "source": "Berliner Zeitung",
+      "source_score": 40,
+      "published_at": "2026-09-12T06:59:39+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Der russische Präsident Wladimir Putin hat Europa mit deutlichen Worten vor der Stationierung eigener Soldaten in der Ukraine gewarnt.",
+        "Sollten europäische Staaten Truppen auf ukrainisches Gebiet schicken, wäre das nach seiner Darstellung gleichbedeutend mit einem Krieg gegen Russland.",
+        "„Jetzt sprechen sie darüber, dass sie darüber nachdenken, Truppen auf ukrainisches Gebiet zu entsenden."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Berliner Zeitung"
+      ],
+      "all_titles": {
+        "de": "Putin warnt Europa: Truppen in der Ukraine bedeuten Krieg mit Russland"
+      }
+    },
+    {
+      "title_original": "Sommet des Brics : un appel à la \"retenue maximale\" au Moyen-Orient lancé depuis New Delhi",
+      "title_zh": "Sommet des Brics : un appel à la \"retenue maximale\" au Moyen-Orient lancé depuis New Delhi",
+      "url": "https://www.france24.com/fr/asie-pacifique/20260912-xi-jinping-en-inde-pour-un-sommet-des-brics-en-plein-conflit-au-moyen-orient",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-12T06:50:01+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Sommet des Brics : un appel à la \"retenue maximale\" au Moyen-Orient lancé depuis New Delhi    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Sommet des Brics : un appel à la \"retenue maximale\" au Moyen-Orient lancé depuis New Delhi"
+      }
+    },
+    {
+      "title_original": "Navires russes en Méditerranée : l'OTAN suit le \"Syrian Express\"",
+      "title_zh": "Navires russes en Méditerranée : l'OTAN suit le \"Syrian Express\"",
+      "url": "https://fr.euronews.com/2026/09/12/la-russie-envoie-des-navires-sanctionnes-en-mediterranee-lotan-surveille-le-syrian-express",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-12T06:43:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Quatre navires russes, dont un cargo et un pétrolier sous sanctions escortés par un destroyer, sont entrés en Méditerranée via Gibraltar le 27 août, mettant fin à la première interruption de la présence navale russe dans la région depuis 2013.",
+        "La marine russe est de retour en Méditerranée pour la première fois depuis deux mois, mettant fin à ce que des sources militaires décrivent comme la plus longue interruption de sa présence dans la région depuis 2013.",
+        "Des navires russes auraient notamment été repérés en train de désactiver leurs transpondeurs de suivi avant de franchir le détroit de Gibraltar."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "fr": "Navires russes en Méditerranée : l'OTAN suit le \"Syrian Express\""
+      }
+    },
+    {
+      "title_original": "ウクライナ戦線で進化するドローン戦術…光ファイバードローンを用いた「待ち伏せ」作戦",
+      "title_zh": "ウクライナ戦線で進化するドローン戦術…光ファイバードローンを用いた「待ち伏せ」作戦",
+      "url": "https://www.businessinsider.jp/article/2609-ukraine-fiber-optic-drones-ambush-tactics/",
+      "source": "businessinsider.jp",
+      "source_score": 40,
+      "published_at": "2026-09-12T06:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- ウクライナ軍は、敵を欺くなど、これまでとは異なる方法で光ファイバードローンを活用していると同軍の兵士は語っている。",
+        "- 光ファイバードローンは、ロシア軍の防御壕を至近距離から偵察し、攻撃方法を決めるための情報を集められるという。",
+        "- 標的が近づくまで潜んで待機するドローンは、戦場でますます大きな脅威となっているという。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "businessinsider.jp"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ戦線で進化するドローン戦術…光ファイバードローンを用いた「待ち伏せ」作戦"
+      }
+    },
+    {
+      "title_original": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "title_zh": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-12T05:55:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC\n- Published\nUkraine is facing its \"toughest winter\" since Russia's full-scale invasion in 2022, a top United Nations official told the BBC.",
+        "Alexander De Croo, head of the UN development agency, said there was a risk of \"humanitarian catastrophe\" if Russian attacks cut off access to power and water.",
+        "Speaking in Ukraine, De Croo – the UN's third most senior official – accused Russia of systematically targeting the country's energy infrastructure."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC"
+      }
+    },
+    {
+      "title_original": "NATO commemorates the 9/11 terrorist attacks on the United States with solemn ceremony",
+      "title_zh": "NATO commemorates the 9/11 terrorist attacks on the United States with solemn ceremony",
+      "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/09/11/nato-commemorates-the-911-terrorist-attacks-on-the-united-states-with-solemn-ceremony",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-09-12T05:29:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Create an account\n                        \n                        \n    \n    \n        \n            \n                \n                    \n                        \n                            \n                                Check your inbox and enter verification code\n                            \n                        \n                        \n    \n                    \n                \n            \n        \n    \n \n                        \n                            We have sent a verification code to your email address.",
+        "Enter the code to verify your account.",
+        "This code will expire in 30 minutes."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO commemorates the 9/11 terrorist attacks on the United States with solemn ceremony"
+      }
+    },
+    {
+      "title_original": "TSK prevé doblar su cartera con tres obras en EEUU y Oriente Medio por 1.300 millones",
+      "title_zh": "TSK prevé doblar su cartera con tres obras en EEUU y Oriente Medio por 1.300 millones",
+      "url": "https://www.eleconomista.es/infraestructuras-servicios/noticias/14013507/09/26/tsk-preve-doblar-su-cartera-con-tres-obras-en-eeuu-y-oriente-medio-por-1300-millones.html",
+      "source": "El Economista",
+      "source_score": 40,
+      "published_at": "2026-09-12T05:00:34+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "TSK prevé doblar su cartera con tres obras en EEUU y Oriente Medio por 1.300 millones    El Economista",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "El Economista"
+      ],
+      "all_titles": {
+        "es": "TSK prevé doblar su cartera con tres obras en EEUU y Oriente Medio por 1.300 millones"
+      }
+    },
+    {
+      "title_original": "Géopolitique - L’Europe sous pression russe",
+      "title_zh": "Géopolitique - L’Europe sous pression russe",
+      "url": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260912-l-europe-sous-pression-russe",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-09-12T05:00:13+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La Russie poursuit sa guerre d’Ukraine.",
+        "Deux émissaires de Donald Trump étaient la semaine dernière à Moscou où ils ont rencontré Vladimir Poutine, avant de se rendre à Kiev.",
+        "Aucune avancée concrète n’a été annoncée et les frappes ont repris dès leur départ."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Géopolitique - L’Europe sous pression russe"
+      }
+    },
+    {
+      "title_original": "Death toll from Philippines ferry fire rises to 35, as officials warn toll will grow",
+      "title_zh": "Death toll from Philippines ferry fire rises to 35, as officials warn toll will grow",
+      "url": "https://www.theguardian.com/world/2026/sep/12/death-toll-from-philippines-ferry-fire-rises-to-35-as-officials-warn-toll-will-grow",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-12T04:53:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The deadly fire had begun in the ferry’s cargo hold, then tore through the ship within seconds The bodies of passengers killed in a ferry fire off the Philippines arrived at a port near the resort town of Coron, Palawan, on Saturday morning, as the country’s coast guard warned the death toll of 35 would grow.",
+        "Tents were being set up to receive 30 bodies brought from the M/V June Aster, which ran aground near the tourist hotspot after a fire erupted on Wednesday evening and tore through the vessel “in seconds”.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Death toll from Philippines ferry fire rises to 35, as officials warn toll will grow"
+      }
+    },
+    {
+      "title_original": "【分析】「シャチがホッキョクグマを捕食」、プーチン氏の世界は常に弱肉強食 トランプ氏のウクライナ和平構想に暗雲(1/2)",
+      "title_zh": "【分析】「シャチがホッキョクグマを捕食」、プーチン氏の世界は常に弱肉強食 トランプ氏のウクライナ和平構想に暗雲(1/2)",
+      "url": "https://www.cnn.co.jp/world/35252561.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-09-12T04:05:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "（CNN） ロシアのプーチン大統領は先月下旬、上海協力機構（SCO）首脳会議に出席するため中央アジアのキルギスを訪問した。この首脳会議には、中国の習近平（シーチンピン）国家主席、インドのモディ首相、イランのペゼシュキアン大統領も出席した。",
+        "首脳陣が首都ビシケクに集まったのは、地政学的な緊張が極めて高まる中でのことだった。イランと米国は新たな報復攻撃の応酬を繰り広げ、ロシアのドローン（無人機）やミサイルがウクライナを激しく攻撃。さらにドイツは、8月にライプチヒの空港を標的としたドローン攻撃について、ロシアに責任があると非難した。",
+        "だが、プーチン氏はこうした状況でも余裕を失っていないように見えた。今月1日夜の記者会見では、ある一つの主張をことさら明確にしようと努めている様子だった。それは、国家はダーウィン的な競争状態にあり、適者生存の争いではロシアが勝ち抜くというものだ。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "【分析】「シャチがホッキョクグマを捕食」、プーチン氏の世界は常に弱肉強食 トランプ氏のウクライナ和平構想に暗雲(1/2)"
+      }
+    },
+    {
+      "title_original": "El azulejo vuelve a mirar a Europa ante la inestabilidad de Oriente Medio: el mercado de Francia se recupera y roza la primera posición",
+      "title_zh": "El azulejo vuelve a mirar a Europa ante la inestabilidad de Oriente Medio: el mercado de Francia se recupera y roza la primera posición",
+      "url": "https://castellonplaza.com/castellonplaza/plazaceramica/el-azulejo-vuelve-a-mirar-a-europa-ante-la-inestabilidad-de-oriente-medio-el-mercado-de-francia-se-recupera-y-roza-la-primera-posicion",
+      "source": "Castellón Plaza",
+      "source_score": 40,
+      "published_at": "2026-09-12T04:04:18+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El azulejo vuelve a mirar a Europa ante la inestabilidad de Oriente Medio: el mercado de Francia se recupera y roza la primera posición    Castellón Plaza",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Castellón Plaza"
+      ],
+      "all_titles": {
+        "es": "El azulejo vuelve a mirar a Europa ante la inestabilidad de Oriente Medio: el mercado de Francia se recupera y roza la primera posición"
+      }
+    },
+    {
+      "title_original": "プーチンはウクライナ制圧の試みを決して諦めない＝ゼレンシキー宇大統領",
+      "title_zh": "プーチンはウクライナ制圧の試みを決して諦めない＝ゼレンシキー宇大統領",
+      "url": "https://www.ukrinform.jp/rubric-polytics/4163373-puchinhaukuraina-zhi-yano-shimiwo-jueshite-dimenaizerenshiki-yu-da-tong-ling.html",
+      "source": "ウクルインフォルム通信",
+      "source_score": 40,
+      "published_at": "2026-09-12T03:58:35+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "プーチンはウクライナ制圧の試みを決して諦めない＝ゼレンシキー宇大統領\nウクルインフォルム\n    ウクライナのゼレンシキー大統領は、ロシアの首脳プーチン氏はウクライナを完全に制圧するという考えを決して諦めないとの見方を示した。",
+        "ゼレンシキー大統領が、カナダ公共放送「ＣＢＣ」とのインタビューの際に発言した。",
+        "ゼレンシキー氏は、「プーチンはウクライナ全体を制圧したがっている。私たちが強力でなく、世界が傍観し、私たちが安全の保証を得られない場合、彼はそれを実行するだろう。どのような保証か？"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "ウクルインフォルム通信"
+      ],
+      "all_titles": {
+        "ja": "プーチンはウクライナ制圧の試みを決して諦めない＝ゼレンシキー宇大統領"
+      }
+    },
+    {
+      "title_original": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "title_zh": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-12T03:02:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Death toll from Philippines ferry fire climbs to 35, with dozens still missing\n- Published\nThe Philippine Coast Guard says it has recovered 30 bodies from the wreckage of a ferry that caught fire this week, bringing the total death toll to 35.",
+        "More than 130 people were on board the MV June Aster when the blaze erupted on Wednesday as it neared its destination at the tourist hotspot of Coron, after departing from Manila.",
+        "Forty-three people were rescued, with many receiving treatment in hospital, and searches continue for more than 50 people who remain unaccounted for."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Russian developers used AI to build ‘kamikaze’ attack drone software, Anthropic says",
+      "title_zh": "Ukraine war briefing: Russian developers used AI to build ‘kamikaze’ attack drone software, Anthropic says",
+      "url": "https://www.theguardian.com/world/2026/sep/12/ukraine-war-briefing-russian-developers-used-ai-to-build-kamikaze-attack-drone-software-anthropic-says",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-09-12T02:17:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  A small team of likely freelance developers in Russia used AI chatbot Claude to develop software for an autonomous swarm of first-person-view “kamikaze” attack drones, including terminal guidance, target selection and coordination between multiple aircraft, according to Anthropic, the company that developed Claude.",
+        "In a 154-page report describing how bad actors used its Claude AI system for state-sponsored surveillance and propaganda operations, Anthropic said the drone swarm was programmed to pick its own targets and crash into them to detonate, without a human making the final call.",
+        "In their programming, the freelance team repeatedly picked a location in Ukraine’s Donetsk region as their target and used VPNs to circumvent Anthropic’s geographic blocks."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Russian developers used AI to build ‘kamikaze’ attack drone software, Anthropic says"
+      }
+    },
     {
       "title_original": "Arrest made over the death of black woman found hanged from tree",
       "title_zh": "Arrest made over the death of black woman found hanged from tree",
