@@ -1,8 +1,883 @@
 {
   "date": "2026-09-13",
-  "generated_at": "2026-09-13T00:59:10.069118+00:00",
-  "count": 34,
+  "generated_at": "2026-09-13T14:56:36.634813+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "title_zh": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-13T14:53:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC\n- Published\nAn artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were \"genuinely frightened\" about the speed of its advancements and what it could mean for humanity.",
+        "\"I believe that if we don't slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future,\" he said.",
+        "Jacob Coxon was speaking to the BBC after his resignation post on the dangers of AI went viral on a backdrop of growing safety concerns about the industry."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC"
+      }
+    },
+    {
+      "title_original": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "title_zh": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
+      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-13T14:25:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists\n- Published\nPolice in Turkey have detained 47 people in a series of raids on gay bars and the homes of LGBTQ+ activists, officials say.",
+        "Raids took place in 12 provinces over the weekend as part of a campaign dubbed \"My Family is Safe\" that the Turkish government says has been designed to protect family values.",
+        "One of the targets of the operation was LGBTQ+ association Kaos GL."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists"
+      }
+    },
+    {
+      "title_original": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "title_zh": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-13T14:01:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Legendary Canadian boxer George Chuvalo dies aged 89\n- Published\nCanadian boxer George Chuvalo, a five-time national heavyweight champion, has died at the age of 89.",
+        "Out of 93 total professional fights in his career - 73 victories, 18 losses, and two draws - Chuvalo was never once knocked down to the canvas.",
+        "\"His photos have hung on our walls for decades."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Legendary Canadian boxer George Chuvalo dies aged 89"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Neue Friedensgespräche schon im Oktober?",
+      "title_zh": "Ukraine-Krieg: Neue Friedensgespräche schon im Oktober?",
+      "url": "https://www.dw.com/de/ukraine-krieg-friedensgespraeche-schon-im-oktober-drohnen-angriff-auf-zug-an-grenze-zu-polen/a-79251404",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-13T13:40:15+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: Neue Friedensgespräche schon im Oktober?",
+        "September 2026\nRussland und die Ukraine zeigen sich offen für eine baldige Wiederaufnahme ihrer Verhandlungen unter Vermittlung der USA.",
+        "Ziel sei es, den seit mehr als viereinhalb Jahren andauernden Krieg zu beenden, erklärte Kyrylo Budanow, der Stabschef des ukrainischen Präsidenten Wolodymyr Selenskyj."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Neue Friedensgespräche schon im Oktober?"
+      }
+    },
+    {
+      "title_original": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "title_zh": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-13T13:30:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea\n- Published\nSix people have died and 107 have been rescued from a capsized Indonesian passenger ferry in the Java Sea, authorities have said.",
+        "Another 130 people are still missing after contact was lost with the Virgo Transport8 ship, as it encountered bad weather.",
+        "The ferry was travelling from Surabaya to the South Kalimantan city of Banjarmasin and was last reported to be about 150km (93 miles) south of Banjarmasin around 02:00 on Sunday (18:00 GMT on Saturday)."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea"
+      }
+    },
+    {
+      "title_original": "Nur 800 Meter vom EU- und Nato-Staat entfernt Russland greift Ukraine nahe polnischem Grenzübergang an",
+      "title_zh": "Nur 800 Meter vom EU- und Nato-Staat entfernt Russland greift Ukraine nahe polnischem Grenzübergang an",
+      "url": "https://www.tagesspiegel.de/internationales/800-meter-von-polen-entfernt-russland-greift-ukraine-nahe-eines-wichtigen-grenzubergangs-mit-drohnen-an-16047215.html",
+      "source": "tagesspiegel.de",
+      "source_score": 75,
+      "published_at": "2026-09-13T13:16:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nur 800 Meter vom EU- und Nato-Staat entfernt: Russland greift Ukraine nahe polnischem Grenzübergang an\nBei einer Attacke in der Nähe eines Grenzpostens bei Jagodyn-Dorohusk wurde mindestens ein Lkw zerstört.",
+        "Einem Bericht zufolge war von Vorfällen im Westen der Ukraine auch ein Merz-Berater betroffen.",
+        "Stand:\nnun bevorzugt anzeigen lassen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "tagesspiegel.de"
+      ],
+      "all_titles": {
+        "de": "Nur 800 Meter vom EU- und Nato-Staat entfernt Russland greift Ukraine nahe polnischem Grenzübergang an"
+      }
+    },
+    {
+      "title_original": "Poland’s Sikorski Proposes NATO Drills to Pressure Kaliningrad",
+      "title_zh": "Poland’s Sikorski Proposes NATO Drills to Pressure Kaliningrad",
+      "url": "https://www.kyivpost.com/post/84403",
+      "source": "Kyiv Post",
+      "source_score": 40,
+      "published_at": "2026-09-13T12:40:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO should conduct aggressive military exercises along the borders of Russia’s Kaliningrad exclave to exploit Moscow’s local troop drawdown and compel the Kremlin to divert forces away from Ukraine, Polish Foreign Minister Radosław Sikorski said on Friday, Sept.",
+        "Speaking at the 22nd Annual Meeting of the Yalta European Strategy (YES 2026) in Kyiv, organized by the Victor Pinchuk Foundation, Sikorski stated that Poland monitors the Russian exclave closely and observed that Moscow has left the heavily militarized territory virtually depleted of conventional ground forces to replenish combat losses in Ukraine.",
+        "JOIN US ON TELEGRAM\nFollow our coverage of the war on the @Kyivpost_official."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Kyiv Post"
+      ],
+      "all_titles": {
+        "en": "Poland’s Sikorski Proposes NATO Drills to Pressure Kaliningrad"
+      }
+    },
+    {
+      "title_original": "At least six dead and 130 missing after Indonesian ferry capsizes, officials say",
+      "title_zh": "At least six dead and 130 missing after Indonesian ferry capsizes, officials say",
+      "url": "https://www.theguardian.com/world/2026/sep/13/indonesian-rescue-crews-searching-for-140-people-after-ferry-hit-bad-weather",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-13T12:18:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Search and rescue agency says 107 people brought to safety from vessel hit by bad weather in Java Sea Rescue workers in Indonesia said at least six people had died and 130 others were missing on Sunday after a ferry sailing between the islands of Java and Borneo capsized in bad weather.",
+        "Basarnas, Indonesia’s national search and rescue agency, said 107 people had been rescued from the Virgo ⁠Transport 8 vessel, which set sail on Saturday with 243 ​people onboard, including 30 crew members, ​from ‌the East Java ‌city of Surabaya.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "At least six dead and 130 missing after Indonesian ferry capsizes, officials say"
+      }
+    },
+    {
+      "title_original": "Ukrainian drones kill 2 in Russia as Moscow hits main port hub in Black Sea",
+      "title_zh": "Ukrainian drones kill 2 in Russia as Moscow hits main port hub in Black Sea",
+      "url": "https://apnews.com/article/russia-ukraine-war-drones-odesa-refinery-border-crossing-17bb6a0401abc3eaa7d4586150a41d7d",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-09-13T11:59:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukrainian drones kill 2 in Russia as Moscow hits main port hub in Black Sea    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "Ukrainian drones kill 2 in Russia as Moscow hits main port hub in Black Sea"
+      }
+    },
+    {
+      "title_original": "Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets",
+      "title_zh": "Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets",
+      "url": "https://www.reuters.com/business/aerospace-defense/lithuania-closes-vilnius-airport-nato-summons-jets-response-possible-drone-2026-09-13/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-13T11:39:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Lithuania says drone sighting turns out to be flock of birds, after NATO summons jets"
+      }
+    },
+    {
+      "title_original": "Rusia ataca la zona fronteriza entre Polonia y Ucrania, a pocos kilómetros de territorio OTAN",
+      "title_zh": "Rusia ataca la zona fronteriza entre Polonia y Ucrania, a pocos kilómetros de territorio OTAN",
+      "url": "https://elpais.com/internacional/2026-09-13/rusia-ataca-la-zona-fronteriza-entre-polonia-y-ucrania-a-pocos-kilometros-de-territorio-otan.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-09-13T11:29:31+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Rusia ataca la zona fronteriza entre Polonia y Ucrania, a pocos kilómetros de territorio OTAN\nUn dron ha alcanzado un tren que hacía la ruta entre Kiev y Varsovia, a menos de dos kilómetros de la frontera polaca.",
+        "Lituania suspende las operaciones en el aeropuerto de Vilnius por la posible presencia de un dron\nRusia ha vuelto a atacar a las puertas de la OTAN.",
+        "La reciente campaña contra pasos fronterizos entre Ucrania y sus aliados suma este domingo un nuevo golpe."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Rusia ataca la zona fronteriza entre Polonia y Ucrania, a pocos kilómetros de territorio OTAN"
+      }
+    },
+    {
+      "title_original": "Iran war reshapes Brics ties but also exposes divisions",
+      "title_zh": "Iran war reshapes Brics ties but also exposes divisions",
+      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-13T11:23:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Iran war reshapes Brics ties but also exposes divisions\n- Published\nThis weekend, some of the most powerful people in the world gathered in Delhi around a vast circular table.",
+        "Indian Prime Minister Narendra Modi announced that together, the leaders next to him should increasingly become \"rule-shapers\", not \"rule-takers\".",
+        "Among those listening were members of the Brics group, including Chinese President Xi Jinping, Russian President Vladimir Putin, Iran's President Masoud Pezeshkian, Abu Dhabi's Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan and South African President Cyril Ramaphosa."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Iran war reshapes Brics ties but also exposes divisions"
+      }
+    },
+    {
+      "title_original": "Agencia atómica rusa denuncia muertos en un ataque a camiones con combustible para Zaporiyia",
+      "title_zh": "Agencia atómica rusa denuncia muertos en un ataque a camiones con combustible para Zaporiyia",
+      "url": "https://efe.com/mundo/2026-09-13/guerra-ucrania-rusia-ataques-centrales/",
+      "source": "EFE - Agencia de noticias",
+      "source_score": 40,
+      "published_at": "2026-09-13T10:52:48+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Moscú (EFE).- El director de la agencia atómica rusa Rosarom, Alexéi Lijachov, denunció este domingo la muerte de dos militares rusos en un ataque ucraniano contra unos camiones con combustible para la central nuclear de Zaporiyia.",
+        "«El viernes se llevaron a cabo varios ataques combinados contra camiones cisterna que suministraban diésel a la central nuclear de Zaporiyia.",
+        "Dos militares murieron y un gran número de soldados rusos resultaron heridos, algunos de gravedad», declaró Lijachov, citado por la agencia Interfax."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "EFE - Agencia de noticias"
+      ],
+      "all_titles": {
+        "es": "Agencia atómica rusa denuncia muertos en un ataque a camiones con combustible para Zaporiyia"
+      }
+    },
+    {
+      "title_original": "Lituania cierra el aeropuerto de Vilna y la OTAN moviliza cazas ante la posible presencia de un dron",
+      "title_zh": "Lituania cierra el aeropuerto de Vilna y la OTAN moviliza cazas ante la posible presencia de un dron",
+      "url": "https://es.marketscreener.com/noticias/lituania-cierra-el-aeropuerto-de-vilna-y-la-otan-moviliza-cazas-ante-la-posible-presencia-de-un-dron-ce785bdcd98cf62d",
+      "source": "es.marketscreener.com",
+      "source_score": 40,
+      "published_at": "2026-09-13T10:47:19+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Lituania cierra el aeropuerto de Vilna y la OTAN moviliza cazas ante la posible presencia de un dron    es.marketscreener.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "es.marketscreener.com"
+      ],
+      "all_titles": {
+        "es": "Lituania cierra el aeropuerto de Vilna y la OTAN moviliza cazas ante la posible presencia de un dron"
+      }
+    },
+    {
+      "title_original": "Russia hits truck near Polish border in latest strike near NATO",
+      "title_zh": "Russia hits truck near Polish border in latest strike near NATO",
+      "url": "https://www.reuters.com/world/china/russia-hits-truck-near-polish-border-latest-strike-near-nato-2026-09-13/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-13T10:12:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russia hits truck near Polish border in latest strike near NATO    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Russia hits truck near Polish border in latest strike near NATO"
+      }
+    },
+    {
+      "title_original": "Són 4 Dies- 13-09-26 1era hora: Geopolítica i històries de cinema",
+      "title_zh": "Són 4 Dies- 13-09-26 1era hora: Geopolítica i històries de cinema",
+      "url": "https://www.rtve.es/play/audios/son-4-dies/son-4-dies-13-09-26-1era-hora-geopolitica-histories-cinema/17222955/",
+      "source": "RTVE.es",
+      "source_score": 55,
+      "published_at": "2026-09-13T09:40:20+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Són 4 diesSón 4 Dies- 13-09-26 1era hora: Geopolítica i històries de cinema13/09/2026\n          \n            \n              TP\n            \n          \nEl politòleg Ernest Pascual ha analitzat les darreres declaracions de Putin i Trump i l'ascens de l'ultradreta a les eleccions de Suècia.",
+        "Històries de cinema, amb Dani Agudo: La figura de Dalton Trumbo, guionista de talent i una de les víctimes de la caçera de bruixes del senador McCarthy.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "RTVE.es"
+      ],
+      "all_titles": {
+        "es": "Són 4 Dies- 13-09-26 1era hora: Geopolítica i històries de cinema"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Zwei Tote in Russland nach ukrainischen Angriffen",
+      "title_zh": "Ukraine-Krieg: Zwei Tote in Russland nach ukrainischen Angriffen",
+      "url": "https://www.tagesspiegel.de/internationales/dpa-ukraine-krieg-16046580.html",
+      "source": "tagesspiegel.de",
+      "source_score": 75,
+      "published_at": "2026-09-13T09:27:16+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Zwei Tote in Russland nach ukrainischen Angriffen\nDie Ukraine wehrt sich mit Drohnenangriffen gegen Russlands Angriffskrieg.",
+        "Die Folgen einer Attacke in der russischen Teilrepublik Tatarstan sind tödlich.",
+        "Stand:\nnun bevorzugt anzeigen lassen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "tagesspiegel.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Zwei Tote in Russland nach ukrainischen Angriffen"
+      }
+    },
+    {
+      "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "title_zh": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-13T09:05:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Dramatic insider warnings over AI fall flat with some in Silicon Valley\n- Published\nEach September, a who's who of executives from across Silicon Valley descends on San Francisco's Palace Hotel to charm investors at a conference hosted by the investment bank Goldman Sachs.",
+        "This past week, between talk of growth and potential returns, tech titans found themselves addressing the abrupt resignation of Anthropic researcher Jacob Coxon.",
+        "Coxon, a 27-year-old who worked at OpenAI before joining its chief rival Anthropic, said on Tuesday that people building artificial intelligence (AI) believed the technology could destroy humanity."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley"
+      }
+    },
+    {
+      "title_original": "حرب أوكرانيا.. محادثات ثلاثية مرتقبة في أكتوبر لبحث \"تسوية نهائية\"",
+      "title_zh": "حرب أوكرانيا.. محادثات ثلاثية مرتقبة في أكتوبر لبحث \"تسوية نهائية\"",
+      "url": "https://asharq.com/politics/196162/%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1-%D9%84%D8%A8%D8%AD%D8%AB-%D8%AA%D8%B3%D9%88%D9%8A%D8%A9-%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A9/",
+      "source": "الشرق للأخبار",
+      "source_score": 40,
+      "published_at": "2026-09-13T08:43:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "حرب أوكرانيا..",
+        "محادثات ثلاثية مرتقبة في أكتوبر لبحث \"تسوية نهائية\"    الشرق للأخبار",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "الشرق للأخبار"
+      ],
+      "all_titles": {
+        "ar": "حرب أوكرانيا.. محادثات ثلاثية مرتقبة في أكتوبر لبحث \"تسوية نهائية\""
+      }
+    },
+    {
+      "title_original": "Drohnen-Dauerfeuer, steigende Verluste: Russlands Wirtschaft im Ukraine-Krieg in Flammen",
+      "title_zh": "Drohnen-Dauerfeuer, steigende Verluste: Russlands Wirtschaft im Ukraine-Krieg in Flammen",
+      "url": "https://www.fr.de/politik/ukraine-krieg-aktuell-drohnen-dauerfeuer-trifft-russlands-wirtschaft-erneut-putins-verluste-steigen-zr-94489559.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-13T08:28:16+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg aktuell: Drohnen-Dauerfeuer trifft Russlands Wirtschaft erneut – Putins Verluste steigen\nUns auf Google folgen\nIm Ukraine-Krieg gerät Russlands Wirtschaft erneut ins Visier von Drohnenangriffen.",
+        "Putins Verluste steigen, seine Armee schickt über 450 Drohnen in einer Nacht.",
+        "Kiew/Moskau – Russlands Wirtschaft bleibt im aktuellen Ukraine-Krieg weiterhin ein regelmäßiges Ziel der ukrainischen Drohnen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Drohnen-Dauerfeuer, steigende Verluste: Russlands Wirtschaft im Ukraine-Krieg in Flammen"
+      }
+    },
+    {
+      "title_original": "Réunis en Inde, les dirigeants des Brics font l'éloge de leur coopération",
+      "title_zh": "Réunis en Inde, les dirigeants des Brics font l'éloge de leur coopération",
+      "url": "https://www.france24.com/fr/info-en-continu/20260913-apr%C3%A8s-le-conflit-au-moyen-orient-les-brics-au-chevet-de-la-croissance-mondiale",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-13T08:15:16+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Réunis en Inde, les dirigeants des Brics font l'éloge de leur coopération    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Réunis en Inde, les dirigeants des Brics font l'éloge de leur coopération"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : une frappe contre un navire commercial iranien dans le détroit d'Ormuz fait un mort et trois blessés, selon l'Iran",
+      "title_zh": "Guerre au Moyen-Orient : une frappe contre un navire commercial iranien dans le détroit d'Ormuz fait un mort et trois blessés, selon l'Iran",
+      "url": "https://www.cnews.fr/monde/2026-09-13/guerre-au-moyen-orient-une-frappe-contre-un-navire-commercial-iranien-dans-le",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-09-13T07:46:22+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Alors que les négociations entre les Etats-Unis et l'Iran semblent au point mort, un navire iranien a été ciblé dans le détroit d'Ormuz, selon le gouverneur de la ville de Qeshm, Amir Teymouri.",
+        "Une personne a été tuée et trois autres ont été blessées.",
+        "Suivez notre direct."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : une frappe contre un navire commercial iranien dans le détroit d'Ormuz fait un mort et trois blessés, selon l'Iran"
+      }
+    },
+    {
+      "title_original": "波兰及北约战机紧急升空巡逻，地面防空系统升至最高戒备",
+      "title_zh": "波兰及北约战机紧急升空巡逻，地面防空系统升至最高戒备",
+      "url": "https://wap.cj.sina.cn/7x24/5091282",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-09-13T07:45:19+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "新浪财经客户端\n你永远在大事现场\n打开APP\n波兰及北约战机紧急升空巡逻，地面防空系统升至最高戒备\n波兰武装部队作战司令部周日宣布，鉴于乌克兰境内无人机活动及空袭加剧，波兰及北约盟国战机已紧急升空执行防御性巡逻任务。同时，波兰地面防空系统和雷达侦察部队也已提升至最高战备状态。",
+        "声明：以上内容仅供资讯传播，不构成与新浪财经相关的任何投资建议。",
+        "最新快讯\n【特朗普在爱尔兰度假村对记者讲话的内容一览】 （一）美联储与利率政策：特朗普在被问及下周美联储利率决议时表示，他不知道美联储是否会加息，但强调美国的利率“应该是全球最低的”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "波兰及北约战机紧急升空巡逻，地面防空系统升至最高戒备"
+      }
+    },
+    {
+      "title_original": "الكرملين: مودي وشي عرضا المساعدة في محادثات لوقف حرب أوكرانيا",
+      "title_zh": "الكرملين: مودي وشي عرضا المساعدة في محادثات لوقف حرب أوكرانيا",
+      "url": "https://www.reuters.com/ar/world/WSPQHCYPSRPHTOIGUYXOHDDJ3E-2026-09-13/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-13T07:31:03+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الكرملين: مودي وشي عرضا المساعدة في محادثات لوقف حرب أوكرانيا    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الكرملين: مودي وشي عرضا المساعدة في محادثات لوقف حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "انتهاء الإغلاق المؤقت للمنافذ الحدودية العراقية مع إيران",
+      "title_zh": "انتهاء الإغلاق المؤقت للمنافذ الحدودية العراقية مع إيران",
+      "url": "https://www.tasnimnews.ir/ar/news/2026/09/13/3695266/%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A4%D9%82%D8%AA-%D9%84%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%DB%8C%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%DB%8C%D8%A9-%D9%85%D8%B9-%D8%A5%DB%8C%D8%B1%D8%A7%D9%86",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-09-13T06:48:19+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "وافادت وكالة تسنيم الدولية للانباء انه وبناءً على إعلان هيئة الإعلام الأمني في العراق، يُستأنف تنقل المسافرين والنشاط التجاري في المنافذ الحدودية الشيب (جذابة) وشلمجة ومندلي.",
+        "وقد اتُّخذ هذا القرار بناءً على توجيه علي فالح الزيدي، رئيس الوزراء والقائد العام للقوات المسلحة العراقية، وبعد مراجعة الوضع التشغيلي للمنافذ الحدودية وتحديد احتياجاتها التنظيمية والفنية.",
+        "وبموجب هذا القرار، استُؤنف تنقل المسافرين عبر منفذي الشيب (جذابة) وشلمجة اعتبارًا من صباح اليوم الأحد 13 سبتمبر 2026 عند الساعة السادسة صباحًا."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "انتهاء الإغلاق المؤقت للمنافذ الحدودية العراقية مع إيران"
+      }
+    },
+    {
+      "title_original": "„Putin kriegt nichts davon mit, weil Generäle brisante Nachrichten nicht melden\"",
+      "title_zh": "„Putin kriegt nichts davon mit, weil Generäle brisante Nachrichten nicht melden\"",
+      "url": "https://www.welt.de/videos/video6aa63664240b302c8a842e4b/ukraine-krieg-putin-kriegt-nichts-davon-mit-weil-generaele-brisante-nachrichten-nicht-melden.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-09-13T06:41:37+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Artikeltyp:VideoUkraine-Krieg\n„Putin kriegt nichts davon mit, weil Generäle brisante Nachrichten nicht melden\"\nRussland lehnt ein Treffen mit Selenskyj außerhalb Russlands ab.",
+        "Unterdessen erzielt die Ukraine bei Lyman Erfolge, hält diese aber bewusst zurück, um den Kreml nicht zu alarmieren, berichtet WELT-Reporter Christoph Wanner.",
+        "© Axel Springer Deutschland GmbH."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Putin kriegt nichts davon mit, weil Generäle brisante Nachrichten nicht melden\""
+      }
+    },
+    {
+      "title_original": "ウクライナへの全土攻撃で7人死亡、ゼレンスキー氏「世界の対応不十分」",
+      "title_zh": "ウクライナへの全土攻撃で7人死亡、ゼレンスキー氏「世界の対応不十分」",
+      "url": "https://www.afpbb.com/articles/-/3652677",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-09-13T06:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナへの全土攻撃で7人死亡、ゼレンスキー氏「世界の対応不十分」\nこのニュースをシェア\n【9月13日 AFP】ウクライナは12日、ロシアの全土に対する攻撃により少なくとも7人が死亡、約60人が負傷したと発表した。ロシアは、冬の到来を前に攻勢を強めている。",
+        "当局によると、南部ザポリージャ州、中部ジトーミル州でそれぞれ2人が亡くなった。また鉄鋼大手アルセロール・ミタルは、中部ドニプロペトロウシク州クリビーリフにある自社工場へのミサイル攻撃により、従業員2人が死亡し、生産施設が被害を受けたと発表した。",
+        "ジトーミル州の犠牲者2人は、首都キーウの西約230キロに位置するズビアヘルで食料品店が攻撃を受けた際に死亡した。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ウクライナへの全土攻撃で7人死亡、ゼレンスキー氏「世界の対応不十分」"
+      }
+    },
+    {
+      "title_original": "ＢＲＩＣＳ首脳、中東に「深い懸念」 共同宣言にイラン・ＵＡＥも署名",
+      "title_zh": "ＢＲＩＣＳ首脳、中東に「深い懸念」 共同宣言にイラン・ＵＡＥも署名",
+      "url": "https://jp.reuters.com/jp/world/us/QRJ6QHFTHVPONFJ7AXDLGOU4LQ-2026-09-13/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-13T05:22:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ＢＲＩＣＳ首脳、中東に「深い懸念」 共同宣言にイラン・ＵＡＥも署名    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ＢＲＩＣＳ首脳、中東に「深い懸念」 共同宣言にイラン・ＵＡＥも署名"
+      }
+    },
+    {
+      "title_original": "« Les accords d’Abraham ont plutôt encouragé la guerre que la paix au Moyen-Orient »",
+      "title_zh": "« Les accords d’Abraham ont plutôt encouragé la guerre que la paix au Moyen-Orient »",
+      "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/09/13/les-accords-d-abraham-ont-plutot-encourage-la-guerre-que-la-paix-au-moyen-orient_6772232_6116995.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-09-13T05:00:11+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "« Les accords d’Abraham ont plutôt encouragé la guerre que la paix au Moyen-Orient »    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "« Les accords d’Abraham ont plutôt encouragé la guerre que la paix au Moyen-Orient »"
+      }
+    },
+    {
+      "title_original": "Putin would rather keep killing than admit he’s lost. As a winter of misery looms in Ukraine, Nato must step in",
+      "title_zh": "Putin would rather keep killing than admit he’s lost. As a winter of misery looms in Ukraine, Nato must step in",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/13/putin-ukraine-nato-russia-forever-war-crime-against-humanity-western-democracies",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-09-13T05:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine’s people face a winter from hell.",
+        "Thwarted on the battlefield, Russia is stepping up systematic, daily attacks on civilians, their homes, schools, hospitals, workplaces, and the vital infrastructure that sustains human life.",
+        "Wave after wave of terrifying daytime ballistic missile and jet-drone strikes on Kyiv and other cities are destroying supermarket distribution hubs, pharmaceutical and medical facilities, logistics centres and warehouses."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Putin would rather keep killing than admit he’s lost. As a winter of misery looms in Ukraine, Nato must step in"
+      }
+    },
+    {
+      "title_original": "Putin advierte a la OTAN: tropas en Ucrania significan guerra directa con Rusia",
+      "title_zh": "Putin advierte a la OTAN: tropas en Ucrania significan guerra directa con Rusia",
+      "url": "https://www.moncloa.com/2026/09/13/putin-otan-ucrania-guerra-directa-3430592/",
+      "source": "moncloa.com",
+      "source_score": 40,
+      "published_at": "2026-09-13T04:34:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "EN 30 SEGUNDOS\n- ¿Qué ha pasado?",
+        "Vladímir Putin ha advertido que un despliegue de tropas de la OTAN en Ucrania equivaldría a una guerra directa con Rusia.",
+        "- ¿Quién está detrás?"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "moncloa.com"
+      ],
+      "all_titles": {
+        "es": "Putin advierte a la OTAN: tropas en Ucrania significan guerra directa con Rusia"
+      }
+    },
+    {
+      "title_original": "Qu’est-ce que la prise de contrôle des côtes du détroit de Bab el-Mandeb révèle de la position américaine au Moyen-Orient ?",
+      "title_zh": "Qu’est-ce que la prise de contrôle des côtes du détroit de Bab el-Mandeb révèle de la position américaine au Moyen-Orient ?",
+      "url": "https://legrandcontinent.eu/fr/2026/09/13/quest-ce-que-la-prise-de-controle-des-cotes-du-detroit-de-bab-el-mandeb-revele-de-la-position-americaine-au-moyen-orient/",
+      "source": "Le Grand Continent",
+      "source_score": 40,
+      "published_at": "2026-09-13T04:30:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Vendredi 11 septembre, le conflit au Moyen-Orient a pris un nouveau tournant particulièrement inquiétant : les Houthis du Yémen, alliés de Téhéran, ont pris le contrôle des côtes du détroit de Bab el-Mandeb, qui commande le passage de la mer Rouge vers l’océan Indien et donc l’accès au canal de Suez.",
+        "- Ils avaient également réussi à endommager, la veille, des installations pétrolières saoudiennes, et en particulier le pipeline traversant la péninsule arabique, qui a depuis été fermé, et qui permettait à l’Arabie Saoudite d’exporter une partie de sa production pétrolière en évitant le détroit d’Ormuz, via le port de Yanbu et la mer Rouge 1.",
+        "- Ce développement majeur risque d’aggraver les conséquences déjà catastrophiques du conflit déclenché par Donald Trump le 28 février."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Le Grand Continent"
+      ],
+      "all_titles": {
+        "fr": "Qu’est-ce que la prise de contrôle des côtes du détroit de Bab el-Mandeb révèle de la position américaine au Moyen-Orient ?"
+      }
+    },
+    {
+      "title_original": "¿Qué revela la toma de control de las costas del estrecho de Bab el-Mandeb sobre la postura estadounidense en Oriente Medio?",
+      "title_zh": "¿Qué revela la toma de control de las costas del estrecho de Bab el-Mandeb sobre la postura estadounidense en Oriente Medio?",
+      "url": "https://legrandcontinent.eu/es/2026/09/13/que-revela-toma-de-control-estrecho-bab-el-mandeb/",
+      "source": "Le Grand Continent",
+      "source_score": 40,
+      "published_at": "2026-09-13T04:30:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "El viernes 11 de septiembre, el conflicto en Oriente Medio dio un nuevo giro especialmente preocupante: los hutíes de Yemen, aliados de Teherán, han tomado el control de las costas del estrecho de Bab el-Mandeb, que controla el paso del mar Rojo al océano Índico y, por tanto, el acceso al canal de Suez.",
+        "- Además, el día anterior habían logrado causar daños en unas instalaciones petroleras saudíes, y, en particular, el oleoducto que atraviesa la península arábiga, que desde entonces ha sido cerrado y que permitía a Arabia Saudí exportar parte de su producción petrolera evitando el estrecho de Ormuz, a través del puerto de Yanbu y el mar Rojo 1.",
+        "- Este importante acontecimiento podría agravar las consecuencias, ya de por sí catastróficas, del conflicto desencadenado por Donald Trump el 28 de febrero."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Le Grand Continent"
+      ],
+      "all_titles": {
+        "es": "¿Qué revela la toma de control de las costas del estrecho de Bab el-Mandeb sobre la postura estadounidense en Oriente Medio?"
+      }
+    },
+    {
+      "title_original": "中东局势，传来大消息",
+      "title_zh": "中东局势，传来大消息",
+      "url": "https://k.sina.com.cn/article_1702925432_6580947801901b0qi.html?from=finance",
+      "source": "k.sina.com.cn",
+      "source_score": 40,
+      "published_at": "2026-09-13T03:25:16+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美军称对伊海上封锁已使99艘商船改变航向\n据央视新闻，当地时间9月11日，美军中央司令部称，美军持续执行针对伊朗的海上封锁行动。截至9月11日，美军已使99艘商船改变航向。",
+        "也门胡塞武装夺取西部大片土地并继续向南推进\n据新华社，也门胡塞武装11日称，该组织自9月3日发动攻势以来，已在也门西部攻占约5400平方公里土地。也门政府方面同日说，胡塞武装已控制该国整个西部海岸并继续向南推进。",
+        "胡塞武装发言人叶海亚·萨雷亚在该组织控制的马西拉电视台播出的视频声明中称，这场攻势针对的是西海岸“沙特支持部队的集结地”，将“敌对势力”驱逐出西南部塔伊兹省及红海沿岸荷台达省。声明称，对方“数百”名人员伤亡或被俘，与沙特战机的交战“击落9架飞机”。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "k.sina.com.cn"
+      ],
+      "all_titles": {
+        "zh": "中东局势，传来大消息"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : explosions dans le détroit d’Ormuz, attaques en Arabie saoudite… Les dernières infos",
+      "title_zh": "Guerre au Moyen-Orient : explosions dans le détroit d’Ormuz, attaques en Arabie saoudite… Les dernières infos",
+      "url": "https://www.ouest-france.fr/monde/proche-orient/guerre-au-moyen-orient-explosions-dans-le-detroit-dormuz-attaques-en-arabie-saoudite-les-dernieres-infos-69cfacb6-af1b-11f1-b773-22a20d9d91fa",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-09-13T03:14:38+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : explosions dans le détroit d’Ormuz, attaques en Arabie saoudite… Les dernières infos    Ouest-France",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : explosions dans le détroit d’Ormuz, attaques en Arabie saoudite… Les dernières infos"
+      }
+    },
     {
       "title_original": "Geopolitics: Africa Deserves its Own Position on Russia’s Policy Agenda",
       "title_zh": "地缘政治：非洲在俄罗斯政策议程上应有自己的立场",
