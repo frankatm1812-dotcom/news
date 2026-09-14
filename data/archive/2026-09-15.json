@@ -1,0 +1,882 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-14T16:58:27.351092+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "La relación entre un oficial español y una espía rusa alertó a la OTAN",
+      "title_zh": "La relación entre un oficial español y una espía rusa alertó a la OTAN",
+      "url": "https://es.euronews.com/my-europe/2026/09/14/alerta-otan-vinculos-alto-oficial-espanol-supuesta-espia-rusa",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-14T16:28:20+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Un alto oficial de la Armada española destinado en una base británica de la OTAN quedó bajo alerta de seguridad tras mantener una relación íntima con una mujer a la que conoció a través de Tinder.",
+        "Según revela 'The Telegraph', las autoridades sospechaban que la mujer podía ser una espía rusa.",
+        "La sombra del espionaje ruso ha sacudido de lleno a la Armada española."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "La relación entre un oficial español y una espía rusa alertó a la OTAN"
+      }
+    },
+    {
+      "title_original": "خنق الشرايين الأخيرة.. كيف يعيش اليمنيون إغلاق الطريق الوحيد بين تعز والمخا؟",
+      "title_zh": "خنق الشرايين الأخيرة.. كيف يعيش اليمنيون إغلاق الطريق الوحيد بين تعز والمخا؟",
+      "url": "https://www.bbc.com/arabic/bbc_arabic_radio/w1730n42940pvvk",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-14T16:14:20+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "BBC News,\nعربي\nإذهب الى المحتوى\nرئيسية\nشاهد\nالصفحة الحالية,\nاستمع\nأقسام\nرئيسية\nأخبار\nاقتصاد\nصحة وعلوم\nثقافة وفنون\nرياضة\nتحقيقات\nبودكاست\nيوميات الشرق الأوسط\n,\nخنق الشرايين الأخيرة..",
+        "كيف يعيش اليمنيون إغلاق الطريق الوحيد بين تعز والمخا؟\n14 سبتمبر/ أيلول 2026\nجهازك لا يدعم تشغيل الفيديو\nارتفاع أسعار الوقود في سوريا يعيق وصول الموظفين لأعمالهم ويدفعهم للمشاركة في الاحتجاجات",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "خنق الشرايين الأخيرة.. كيف يعيش اليمنيون إغلاق الطريق الوحيد بين تعز والمخا؟"
+      }
+    },
+    {
+      "title_original": "Ukraine’s war outlook worsens as Kyiv confronts budget and weapons shortfalls",
+      "title_zh": "Ukraine’s war outlook worsens as Kyiv confronts budget and weapons shortfalls",
+      "url": "https://www.washingtonpost.com/world/2026/09/14/ukraines-war-outlook-worsens-kyiv-confronts-budget-weapons-shortfalls/",
+      "source": "The Washington Post",
+      "source_score": 75,
+      "published_at": "2026-09-14T15:48:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine’s war outlook worsens as Kyiv confronts budget and weapons shortfalls    The Washington Post",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Washington Post"
+      ],
+      "all_titles": {
+        "en": "Ukraine’s war outlook worsens as Kyiv confronts budget and weapons shortfalls"
+      }
+    },
+    {
+      "title_original": "トランプ氏、ロシア・ウクライナがエネ施設攻撃停止で合意と主張",
+      "title_zh": "トランプ氏、ロシア・ウクライナがエネ施設攻撃停止で合意と主張",
+      "url": "https://jp.reuters.com/jp/world/ukraine/OUDBPL67BZPJPATWC5QCGQVKEY-2026-09-14/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-14T15:47:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "トランプ氏、ロシア・ウクライナがエネ施設攻撃停止で合意と主張    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、ロシア・ウクライナがエネ施設攻撃停止で合意と主張"
+      }
+    },
+    {
+      "title_original": "Russia’s drone strike near Ukraine-Poland border puts NATO neighbors on edge",
+      "title_zh": "Russia’s drone strike near Ukraine-Poland border puts NATO neighbors on edge",
+      "url": "https://www.cnn.com/2026/09/14/europe/russia-drone-strike-ukraine-poland-rail-nato-diplomacy-intl",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-09-14T15:37:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "It doesn’t really matter if they meant to do it.",
+        "The Russian drone strike that hit a train near Ukraine’s border with Poland as a group of former Western officials travelled out of the country is a clear escalation by Moscow.",
+        "Ukraine’s railway network said it believes former CIA chief David Petraeus, former UK prime minister Boris Johnson and other dignitaries who were all nearby, either at the local railway station or on trains, were likely targeted."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "en": "Russia’s drone strike near Ukraine-Poland border puts NATO neighbors on edge"
+      }
+    },
+    {
+      "title_original": "Trump attacks ‘sick conspiracy’ against AI as tech stocks slide",
+      "title_zh": "Trump attacks ‘sick conspiracy’ against AI as tech stocks slide",
+      "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-14T14:54:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "President hits out after Anthropic, OpenAI and SpaceX leaders back call to limit ‘reckless’ development Business news – live updates Donald Trump has dismissed calls to increase controls on AI as a “sick conspiracy”, as stocks linked to the technology slumped after appeals from leading developers on the weekend for the industry to slow down.",
+        "The US president wrote on social media: “The only control or ‘guardrails’ that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the USA has that, in spades!” Continue reading...",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Trump attacks ‘sick conspiracy’ against AI as tech stocks slide"
+      }
+    },
+    {
+      "title_original": "La relación por Tinder de un militar español con una mujer de origen ruso desata una investigación por espionaje en la OTAN",
+      "title_zh": "La relación por Tinder de un militar español con una mujer de origen ruso desata una investigación por espionaje en la OTAN",
+      "url": "https://elpais.com/internacional/2026-09-14/la-relacion-por-tinder-de-un-militar-espanol-con-una-mujer-de-origen-ruso-desata-una-investigacion-por-espionaje-en-la-otan.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-09-14T14:45:49+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La relación por Tinder de un militar español con una mujer de origen ruso desata una investigación por espionaje en la OTAN    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "La relación por Tinder de un militar español con una mujer de origen ruso desata una investigación por espionaje en la OTAN"
+      }
+    },
+    {
+      "title_original": "ロシア、ウクライナに攻撃停止求めるトランプ氏発言歓迎＝報道官",
+      "title_zh": "ロシア、ウクライナに攻撃停止求めるトランプ氏発言歓迎＝報道官",
+      "url": "https://jp.reuters.com/jp/world/ukraine/7GRD2LZOKZIDNJRVMHD4HXM3YA-2026-09-14/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-14T14:16:26+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア、ウクライナに攻撃停止求めるトランプ氏発言歓迎＝報道官    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナに攻撃停止求めるトランプ氏発言歓迎＝報道官"
+      }
+    },
+    {
+      "title_original": "Nato-Ostflanke: Pistorius gibt nun auch Versetzungsbefehl nach Litauen",
+      "title_zh": "Nato-Ostflanke: Pistorius gibt nun auch Versetzungsbefehl nach Litauen",
+      "url": "https://www.tagesspiegel.de/politik/dpa-nato-ostflanke-pistorius-gibt-nun-auch-versetzungsbefehl-nach-litauen-16051747.html",
+      "source": "tagesspiegel.de",
+      "source_score": 75,
+      "published_at": "2026-09-14T13:56:12+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nato-Ostflanke: Pistorius gibt nun auch Versetzungsbefehl nach Litauen\nDer deutschen Panzerbrigade an der litauischen Nato-Ostflanke fehlen noch hunderte Spezialisten.",
+        "Freiwilligkeit allein reicht nicht.",
+        "Nun wird die Versetzung ins Baltikum auch angeordnet."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "tagesspiegel.de"
+      ],
+      "all_titles": {
+        "de": "Nato-Ostflanke: Pistorius gibt nun auch Versetzungsbefehl nach Litauen"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient : les Houthis renforcent leur emprise sur le détroit de Bab-el-Mendeb",
+      "title_zh": "Moyen-Orient : les Houthis renforcent leur emprise sur le détroit de Bab-el-Mendeb",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260914-moyen-orient-les-houthis-renforcent-leur-emprise-sur-le-d%C3%A9troit-de-bab-el-mendeb",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-14T13:25:08+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Moyen-Orient : les Houthis renforcent leur emprise sur le détroit de Bab-el-Mendeb    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient : les Houthis renforcent leur emprise sur le détroit de Bab-el-Mendeb"
+      }
+    },
+    {
+      "title_original": "The London hospital funded by donors who invested in the slave trade",
+      "title_zh": "The London hospital funded by donors who invested in the slave trade",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/london-hospital-st-barts-funded-donors-invested-slave-trade",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-14T13:00:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "St Barts is one of many UK institutions whose benefactors were involved in the trafficking of enslaved Africans Inside the Great Hall of St Bartholomew’s North Wing, alongside stately portraits of the apostle from whom London’s oldest hospital takes its name and King Henry VIII, extravagant commemorative boards adorn the walls.",
+        "The Great Hall was a grand, formal space where governors weighed their philanthropic donations and drafted their wills, many while investing in the stock of companies built on the trafficking of enslaved Africans.",
+        "Today, many of those donors are commemorated in acrylic gold paint on the boards."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "The London hospital funded by donors who invested in the slave trade"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Après lui avoir fourni des Shahed, l’Iran a demandé à la Russie ses drones Geran-4 et Geran-5 perfectionnés pour les utiliser contre les États-Unis",
+      "title_zh": "Guerre au Moyen-Orient : Après lui avoir fourni des Shahed, l’Iran a demandé à la Russie ses drones Geran-4 et Geran-5 perfectionnés pour les utiliser contre les États-Unis",
+      "url": "https://www.lindependant.fr/2026/09/14/guerre-au-moyen-orient-apres-lui-avoir-fourni-des-shahed-liran-a-demande-a-la-russie-ses-drones-geran-4-et-geran-5-perfectionnes-pour-les-utiliser-13550722.php",
+      "source": "L'Indépendant",
+      "source_score": 40,
+      "published_at": "2026-09-14T12:57:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : Après lui avoir fourni des Shahed, l’Iran a demandé à la Russie ses drones Geran-4 et Geran-5 perfectionnés pour les utiliser contre les États-Unis    L'Indépendant",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "L'Indépendant"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Après lui avoir fourni des Shahed, l’Iran a demandé à la Russie ses drones Geran-4 et Geran-5 perfectionnés pour les utiliser contre les États-Unis"
+      }
+    },
+    {
+      "title_original": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
+      "title_zh": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO",
+      "url": "https://www.theguardian.com/world/2026/sep/14/aliko-dangote-nigeria-africa-richest-man-ipo",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-14T12:38:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Public offering of Aliko Dangote’s Nigerian oil refinery business could swell his net wealth by two-thirds The fortune of Africa’s richest person could swell by two thirds to nearly $60bn (£44bn) after his refinery in Nigeria listed publicly in the continent’s biggest-ever initial public offering.",
+        "If Monday’s flotation of Dangote Petroleum Refinery and Petrochemicals on the Nigerian exchange goes to plan, then Aliko Dangote will add a further $23bn (£17bn) to his $35bn net worth.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Africa’s richest man aiming to make $23bn from continent’s biggest-ever IPO"
+      }
+    },
+    {
+      "title_original": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "title_zh": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-14T12:18:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station\n- Published\nA Russian drone has hit a train near the Ukraine-Poland border shortly after former UK Prime Minister Boris Johnson and top European security officials had passed through.",
+        "No casualties were reported after the strike at Yahodyn, which hit the train's engine.",
+        "All the passengers had been evacuated, Ukrainian authorities said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Poland calls for ‘double’ support to Kyiv after Russian train attack",
+      "title_zh": "Ukraine war briefing: Poland calls for ‘double’ support to Kyiv after Russian train attack",
+      "url": "https://www.theguardian.com/world/2026/sep/14/ukraine-war-briefing-poland-calls-for-double-support-to-kyiv-after-russian-train-attack-near-border",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-09-14T11:51:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  Poland and Ukraine have denounced Russian strikes close to the Polish border as an “escalation” in the war after a train was targeted while former British prime minister Boris Johnson and ex-CIA director David Petraeus were at a border station nearby.",
+        "The escalation should lead to allies to “double” their support for Ukraine, Poland’s foreign minister said in Kyiv.",
+        "“This was just a few hundred metres from the Polish border, this affects the safety of my countrymen,” Radoslaw Sikorski said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Poland calls for ‘double’ support to Kyiv after Russian train attack"
+      }
+    },
+    {
+      "title_original": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
+      "title_zh": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says",
+      "url": "https://www.theguardian.com/world/2026/sep/14/ukraine-kallas-not-scared-russian-strike-train",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-09-14T11:47:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "The head of Nato has said a Russian drone attack on a train close to Ukraine’s border with Poland would not deter Kyiv’s western backers.",
+        "Mark Rutte said the strike on a passenger train showed how desperate Vladimir Putin had become.",
+        "“He thinks that he can stops us from supporting Ukraine and that he can undermine our unity."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Russian strike on passenger train will not deter Ukraine’s backers, Nato chief says"
+      }
+    },
+    {
+      "title_original": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "title_zh": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-14T11:35:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals\n- Published\nAuthorities in Zambia have warned people not to eat meat from wildlife after dozens of wild animals, including hippos, elephants, buffalo and a crocodile died following an anthrax outbreak.",
+        "A disaster management agency official said over the weekend that 12 people had been infected with the disease after consuming dead wildlife in the Munyamadzi River area.",
+        "The official urged the public not to consume meat from animals that die naturally or from unknown causes, while urging the public to report any such cases."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 12:45 Ukraine: Generalstaatsanwalt erhebt aus dem Ausland Vorwürfe +++",
+      "title_zh": "Ukraine-Krieg im Liveticker: +++ 12:45 Ukraine: Generalstaatsanwalt erhebt aus dem Ausland Vorwürfe +++",
+      "url": "https://www.n-tv.de/politik/12-45-Ukraine-Generalstaatsanwalt-erhebt-aus-dem-Ausland-Vorwuerfe-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-09-14T10:47:19+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg im Liveticker+++ 18:07 Jeden Monat sind Tausende Ukrainer mehr in Jobs +++\nRund viereinhalb Jahre nach Beginn des Ukraine-Kriegs sind rund 400.000 Ukrainerinnen und Ukrainer in Deutschland beschäftigt, davon knapp 350.000 sozialversicherungspflichtig.",
+        "Die Beschäftigungsquote ukrainischer Bürger lag zuletzt, also im Juni, bei 39,7 Prozent, wie eine Sprecherin der Bundesagentur für Arbeit (BA) sagt.",
+        "Die Zahl der ukrainischen Grundsicherungsempfänger lag demnach zuletzt bei 474.534 (Mai)."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 12:45 Ukraine: Generalstaatsanwalt erhebt aus dem Ausland Vorwürfe +++"
+      }
+    },
+    {
+      "title_original": "Nato would defeat Russia quickly if ‘we took our gloves off’, says Poland",
+      "title_zh": "Nato would defeat Russia quickly if ‘we took our gloves off’, says Poland",
+      "url": "https://www.independent.co.uk/news/world/europe/nato-russia-poland-attack-ukraine-b3049709.html",
+      "source": "The Independent",
+      "source_score": 55,
+      "published_at": "2026-09-14T10:41:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nato would defeat Russia quickly if ‘we took our gloves off’, says Poland\nPoland’s foreign minister said that the alliance had ‘overwhelming air superiority’ over Moscow\n- Bookmark\n- CommentsGo to comments\nPoland says it would defeat Russia quickly if Moscow attempted an attack on the alliance amid an increasing number of hybrid attacks on Europe.",
+        "Foreign minister Radoslaw Sikorksi said a victory against Vladimir Putin’s forces would be swift due to the “overwhelming superiority” of its air forces, even without support from the United States.",
+        "“If Russia attacked us and we took our gloves off, I think we would defeat Russia quite quickly."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "The Independent"
+      ],
+      "all_titles": {
+        "en": "Nato would defeat Russia quickly if ‘we took our gloves off’, says Poland"
+      }
+    },
+    {
+      "title_original": "Täglich 1.400 Tote: Russlands Verluste werden zum Personalproblem Putins – sein Zeitfenster schließt sich",
+      "title_zh": "Täglich 1.400 Tote: Russlands Verluste werden zum Personalproblem Putins – sein Zeitfenster schließt sich",
+      "url": "https://www.fr.de/politik/es-ist-bestaetigt-putin-hat-ein-personalproblem-und-nur-einen-riskanten-ausweg-zr-94491243.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-14T10:06:58+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putin hat ein Personalproblem: Russlands Zeitfenster im Ukraine-Krieg schließt sich\nUns auf Google folgen\nRussland verliert täglich über 1.400 Soldaten, rekrutiert aber zu wenig Ersatz.",
+        "Putins Ressourcen könnten schon im Jahr 2028 erschöpft sein.",
+        "Während sich Russlands Lage im Ukraine-Krieg zunehmend verzweifelt darstellt, hat der Chef des ukrainischen Militärgeheimdienstes eine bemerkenswerte Einschätzung abgegeben: Russland könnte bis 2028 praktisch nicht mehr über die Ressourcen verfügen, die nötig sind, um den Krieg aufrechtzuerhalten."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Täglich 1.400 Tote: Russlands Verluste werden zum Personalproblem Putins – sein Zeitfenster schließt sich"
+      }
+    },
+    {
+      "title_original": "Los inversores en renta variable estadounidenses estarán atentos a un posible giro hacia una postura más restrictiva en los anuncios de política monetaria de la Reserva Federal, centrándose esta semana en la geopolítica iraní.",
+      "title_zh": "Los inversores en renta variable estadounidenses estarán atentos a un posible giro hacia una postura más restrictiva en los anuncios de política monetaria de la Reserva Federal, centrándose esta semana en la geopolítica iraní.",
+      "url": "https://es.finance.yahoo.com/noticias/inversores-renta-variable-estadounidenses-estar%C3%A1n-093051425.html",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-09-14T09:30:51+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Los inversores en renta variable estadounidenses estarán atentos a un posible giro hacia una postura más restrictiva en los anuncios de política monetaria de la Reserva Federal, centrándose esta semana en la geopolítica iraní.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "es": "Los inversores en renta variable estadounidenses estarán atentos a un posible giro hacia una postura más restrictiva en los anuncios de política monetaria de la Reserva Federal, centrándose esta semana en la geopolítica iraní."
+      }
+    },
+    {
+      "title_original": "طيران الإمارات: ارتفاع في حجوزات موسم الشتاء بعد انتعاش بالصيف",
+      "title_zh": "طيران الإمارات: ارتفاع في حجوزات موسم الشتاء بعد انتعاش بالصيف",
+      "url": "https://www.reuters.com/ar/business/MDTVBWGH4RP3XKYIG4LEOB2ASU-2026-09-14/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-14T09:05:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "طيران الإمارات: ارتفاع في حجوزات موسم الشتاء بعد انتعاش بالصيف    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "طيران الإمارات: ارتفاع في حجوزات موسم الشتاء بعد انتعاش بالصيف"
+      }
+    },
+    {
+      "title_original": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "title_zh": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-14T08:58:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity\n- Published\nA Malaysian teenage boy charged with the high-profile murder of a female schoolmate has been acquitted, with the judge finding the boy was mentally unsound during the incident.",
+        "He had fatally stabbed Yap Shing Xuen in a toilet at their secondary school on the outskirts of the capital Kuala Lumpur.",
+        "The killing of the 16-year-old girl had shocked Malaysia and sparked debate about the effects of social media on children."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity"
+      }
+    },
+    {
+      "title_original": "Indonesian police investigate deaths of Australian man and two children in Bali as suspected murder-suicide",
+      "title_zh": "Indonesian police investigate deaths of Australian man and two children in Bali as suspected murder-suicide",
+      "url": "https://www.theguardian.com/world/2026/sep/14/indonesian-police-deaths-of-australian-man-and-two-children-ntwnfb",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-14T08:44:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Police in Bali believe the two young children died as a result of violence, while a 57-year-old man is believed to have taken his own life Indonesian police are investigating the deaths of three Australians who died in Bali over the weekend, with initial reports suggesting a father killed his two young children before taking his own life.",
+        "The man, 57, and his two children, seven and four, who are also Indonesian citizens, were discovered deceased in a bungalow in Kuta on Sunday morning.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Indonesian police investigate deaths of Australian man and two children in Bali as suspected murder-suicide"
+      }
+    },
+    {
+      "title_original": "ウクライナ検事総長解任、ゼレンスキー氏が議会に迅速な承認要請",
+      "title_zh": "ウクライナ検事総長解任、ゼレンスキー氏が議会に迅速な承認要請",
+      "url": "https://jp.reuters.com/jp/world/ukraine/TZEBBDJKFFPVZGRBZS46INTVEM-2026-09-14/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-14T08:37:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ検事総長解任、ゼレンスキー氏が議会に迅速な承認要請    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ検事総長解任、ゼレンスキー氏が議会に迅速な承認要請"
+      }
+    },
+    {
+      "title_original": "有報「地政学」リスク記載、過去最多430社 影響度や対応策開示も",
+      "title_zh": "有報「地政学」リスク記載、過去最多430社 影響度や対応策開示も",
+      "url": "https://www.nikkei.com/article/DGXZQOUB072A00X00C26A9000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-14T08:19:39+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "有報「地政学」リスク記載、過去最多430社 影響度や対応策開示も\n中東情勢の緊迫が続くなか、有価証券報告書で地政学リスクに言及する企業が増えている。2026年3月期は約430社と、直近5年間で最多となった。供給網への影響や原材料調達リスクに加え、対応策まで開示する動きも広がっている。",
+        "PwCアドバイザリー（東京・千代田）が東証プライム市場に上場する3月期企業のうち、26年3月期まで5期続けて有報を公表した1035社を調査した。大量の文字列から情報を取り出すテキストマイニングの手法を使い、有報の「事業等のリスク」の項目を分析した。",
+        "ロシアによるウクライナ侵略が契機となり、22年ごろから地政学リスクとして有報で明示する企業は増加傾向にある。26年は中東情勢の緊迫化も重なり、開示企業数は前年比で約120社増え、直近5年で最も多かった。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "有報「地政学」リスク記載、過去最多430社 影響度や対応策開示も"
+      }
+    },
+    {
+      "title_original": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, citing a global shortage",
+      "title_zh": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, citing a global shortage",
+      "url": "https://apnews.com/article/russia-ukraine-war-drones-odesa-refinery-border-crossing-17bb6a0401abc3eaa7d4586150a41d7d",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-09-14T07:55:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump calls on Ukraine to halt strikes on Russian diesel fuel, citing a global shortage    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, citing a global shortage"
+      }
+    },
+    {
+      "title_original": "森衆院議長 ウクライナ訪問へ 議長の訪問はロシア侵攻後初",
+      "title_zh": "森衆院議長 ウクライナ訪問へ 議長の訪問はロシア侵攻後初",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260914de50120",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-14T07:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "森衆院議長 ウクライナ訪問へ 議長の訪問はロシア侵攻後初    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "森衆院議長 ウクライナ訪問へ 議長の訪問はロシア侵攻後初"
+      }
+    },
+    {
+      "title_original": "Bali police investigate after Australian man and children found dead in home",
+      "title_zh": "Bali police investigate after Australian man and children found dead in home",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwzlwglldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-14T07:15:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Bali police investigate after Australian man and children found dead in home\n- Published\nPolice in Bali are investigating after the bodies of an Australian man and his two children were found dead in their bungalow in a popular tourist area.",
+        "Damien John Shaw, 56, and his two children, a boy aged six and a girl aged four, were found dead in their home in Kuta on Sunday.",
+        "Police said neighbours had checked in on the family after a call from the man's wife, who had become concerned after a phone call with her husband."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Bali police investigate after Australian man and children found dead in home"
+      }
+    },
+    {
+      "title_original": "美通胀与中东局势承压 铜锌价格震荡回调",
+      "title_zh": "美通胀与中东局势承压 铜锌价格震荡回调",
+      "url": "https://finance.sina.cn/futuremarket/qsyw/2026-09-14/detail-inirupfe4689353.d.html?vt=4&cid=76576&node_id=76576",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-09-14T06:57:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美通胀与中东局势承压 铜锌价格震荡回调\n（来源：五矿期货）\n研报正文\n【沪铜】\n【行情资讯】\n美国 CPI 数据略超预期，但市场已经较为充分计价加息预期，美股收红，铜价震荡略反弹，上周五伦铜 3M 收盘涨 0.31%至 14226 美元/吨，国内沪铜主力合约收至 108440 元/吨。LME 铜库存环比减少 275 至 234475 吨，注销仓单比例下滑，Cash/3M 小幅贴水。",
+        "国内上期所库存周环比减少 0.8 至 5.5 万吨，日度仓单下滑至 2.1 万吨。华东地区现货升水期货 65 元/吨，盘面大跌下游买盘明显改善。广东地区铜现货升水期货 200 元/吨，可流通货源偏少支撑基差报价，交投仍相对偏弱。国内铜现货进口转为盈利 600 元/吨左右。精废铜价差报 3210 元/吨，环比缩窄。",
+        "【策略观点】\n美国通胀数据稍强于预期，中东冲突预计短时间难以明显缓和，美联储货币政策紧缩预期维持，市场情绪相对承压。产业上看铜精矿供应维持紧张，以现货为原料的冶炼企业收入继续走低。美国暂时搁置精炼铜关税，LME 供应预期增加，但美铜伦铜价差并未明显逆转，叠加国内下游处于旺季，需求维持相对韧性且库存低位，预计短期铜价高位震荡。今日沪铜主力运行区间参考：107000-109200 元 /吨;伦铜 3M 运行区间参考：14000-14400 美元/吨。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "美通胀与中东局势承压 铜锌价格震荡回调"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : une rencontre stratégique entre l'Iran et les pays du Golfe annulée à la dernière minute",
+      "title_zh": "Guerre au Moyen-Orient : une rencontre stratégique entre l'Iran et les pays du Golfe annulée à la dernière minute",
+      "url": "https://www.cnews.fr/monde/2026-09-14/guerre-au-moyen-orient-une-rencontre-strategique-entre-liran-et-les-pays-du-golfe",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-09-14T06:54:29+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Annoncée vendredi par Bagdad, la rencontre prévue ce lundi à Oman avec des représentants de «l'Irak et d'autres pays du Golfe» visant à «favoriser une meilleure compréhension entre les pays de la région et contribuer à renforcer la sécurité régionale», a finalement été annulée.",
+        "Un sommet majeur sur le plan géostratégique en suspens.",
+        "La rencontre à Oman entre l'Iran et des représentants de l’Irak et d’autres pays du Golfe afin de «favoriser une meilleure compréhension entre les pays de la région et contribuer à renforcer la sécurité régionale commune», a été reportée."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : une rencontre stratégique entre l'Iran et les pays du Golfe annulée à la dernière minute"
+      }
+    },
+    {
+      "title_original": "戦争の「自動化」目指すウクライナ、前線兵士の地上ドローン置き換えを急ぐ（ロイター）",
+      "title_zh": "戦争の「自動化」目指すウクライナ、前線兵士の地上ドローン置き換えを急ぐ（ロイター）",
+      "url": "https://news.yahoo.co.jp/articles/035fe088a8da0c898709d96655c5da3ada776b0b",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-14T06:52:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "戦争の「自動化」目指すウクライナ、前線兵士の地上ドローン置き換えを急ぐ\nウクライナはロシアの侵攻を撃退するため、地上ドローン（UGV）の活用を進めている。兵員不足を「戦闘ロボット」で補う狙いで、軍の最高幹部は、兵士の命を守り、人間がより創造的に戦えるようになると語る。",
+        "◇ ウクライナ北東部の前線近くにあるこの工房では、軍の整備士たちが実戦投入に向けてロボットの準備を進めている。",
+        "これらの地上ドローン（UGV）は「ハイエナ」と呼ばれる。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "戦争の「自動化」目指すウクライナ、前線兵士の地上ドローン置き換えを急ぐ（ロイター）"
+      }
+    },
+    {
+      "title_original": "Nato-Generalsekretär Rutte: Das zeigt Putins \"Verzweiflung\"",
+      "title_zh": "Nato-Generalsekretär Rutte: Das zeigt Putins \"Verzweiflung\"",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101433960/ukraine-nato-generalsekretaer-rutte-sieht-putins-verzweiflung-.html",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-09-14T05:50:47+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Newsblog zum Krieg in der Ukraine Nato-Chef Rutte: Angriffe auf Bahn zeigen Putins \"Verzweiflung\"\nDer Nato-Generalsekretär sieht Wladimir Putin verzweifelt.",
+        "Selenskyjs Ex-Pressesprecherin wird sanktioniert.",
+        "Alle Entwicklungen im Newsblog."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Nato-Generalsekretär Rutte: Das zeigt Putins \"Verzweiflung\""
+      }
+    },
+    {
+      "title_original": "Geopolítica, gobernanza e inteligencia artificial, ejes centrales de ESG Spain 2026",
+      "title_zh": "Geopolítica, gobernanza e inteligencia artificial, ejes centrales de ESG Spain 2026",
+      "url": "https://www.compromisorse.com/rse/2026/09/14/geopolitica-gobernanza-e-inteligencia-artificial-ejes-centrales-de-esg-spain-2026/",
+      "source": "compromisorse.com",
+      "source_score": 40,
+      "published_at": "2026-09-14T05:48:15+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La incertidumbre geopolítica, la gobernanza empresarial en tiempos de transformación, la inteligencia artificial como palanca de competitividad y confianza, y el papel de las personas y el talento en la creación de valor centraron los debates de esta edición.",
+        "En la apertura del encuentro, el director general de Forética, Germán Granda, advirtió de que, aunque más del 90% del tejido empresarial vincula indisolublemente sostenibilidad y competitividad, un 70% alerta de que una transición ecológica \"desalineada\" amenaza con frenar el crecimiento y la generación de riqueza.",
+        "Ante este riesgo, Granda instó al sector corporativo a asumir su responsabilidad e integrar los factores sociales y ambientales como ejes estratégicos, destacándolos como un \"factor fundamental de resiliencia\" capaz de abrir nuevos mercados e impulsar una competitividad real basada en la inclusión, la tecnología y la confianza."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "compromisorse.com"
+      ],
+      "all_titles": {
+        "es": "Geopolítica, gobernanza e inteligencia artificial, ejes centrales de ESG Spain 2026"
+      }
+    },
+    {
+      "title_original": "ウクライナ、ロシアの攻撃激化で財政危機に直面＝経済相",
+      "title_zh": "ウクライナ、ロシアの攻撃激化で財政危機に直面＝経済相",
+      "url": "https://jp.reuters.com/jp/world/ukraine/ZRPB4VZG5RPFFEVYF7XCCEFKRA-2026-09-14/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-14T05:07:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ、ロシアの攻撃激化で財政危機に直面＝経済相    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、ロシアの攻撃激化で財政危機に直面＝経済相"
+      }
+    }
+  ]
+}
