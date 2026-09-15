@@ -1,8 +1,883 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T01:25:32.657116+00:00",
-  "count": 64,
+  "generated_at": "2026-09-15T15:34:54.083286+00:00",
+  "count": 99,
   "articles": [
+    {
+      "title_original": "En directo: la OTAN derriba un dron sobre Lituania; procedía \"muy probablemente\" de Rusia, según ministro italiano",
+      "title_zh": "En directo: la OTAN derriba un dron sobre Lituania; procedía \"muy probablemente\" de Rusia, según ministro italiano",
+      "url": "https://www.france24.com/es/europa/20260915-en-directo-la-otan-derriba-un-dron-sobre-lituania-proced%C3%ADa-muy-probablemente-de-rusia-seg%C3%BAn-ministro-italiano",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-15T15:20:58+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "En directo: la OTAN derriba un dron sobre Lituania; procedía \"muy probablemente\" de Rusia, según ministro italiano    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "es": "En directo: la OTAN derriba un dron sobre Lituania; procedía \"muy probablemente\" de Rusia, según ministro italiano"
+      }
+    },
+    {
+      "title_original": "British woman abducted in Malawi, police say",
+      "title_zh": "British woman abducted in Malawi, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-15T15:03:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "British woman abducted in Malawi, police say\n- Published\nPolice in Malawi are investigating the kidnapping of a British national who was abducted in the southern African nation's main city, Blantyre.",
+        "Nusrat Osman, 47, was seized at around 12:30 local time on Friday by four men who had been travelling in a grey Nissan Dualis, according to a police statement.",
+        "The authorities have offered a reward of more than $17,000 (£12,600) for \"credible information\" that could lead to the rescue of the mother of two young children and the prosecution of the perpetrators."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "British woman abducted in Malawi, police say"
+      }
+    },
+    {
+      "title_original": "中東緊張が拡大、原油は再び100ドルを超えるか（字幕・8日）",
+      "title_zh": "中東緊張が拡大、原油は再び100ドルを超えるか（字幕・8日）",
+      "url": "https://www.reuters.com/jp/video/watch/idOWjpvC45CDD8KXNPWS5CUD0C63MP8XG?chan=business&location=channel-item",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-15T14:12:46+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "中東緊張が拡大、原油は再び100ドルを超えるか（字幕・8日）    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "中東緊張が拡大、原油は再び100ドルを超えるか（字幕・8日）"
+      }
+    },
+    {
+      "title_original": "Drone incursions sow fear and chaos along NATO's Baltic and Finnish borders",
+      "title_zh": "Drone incursions sow fear and chaos along NATO's Baltic and Finnish borders",
+      "url": "https://www.reuters.com/business/aerospace-defense/drone-incursions-sow-fear-chaos-along-natos-baltic-finnish-borders-2026-09-15/",
+      "source": "reuters.com",
+      "source_score": 95,
+      "published_at": "2026-09-15T14:03:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Drone incursions sow fear and chaos along NATO's Baltic and Finnish borders    reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "reuters.com"
+      ],
+      "all_titles": {
+        "en": "Drone incursions sow fear and chaos along NATO's Baltic and Finnish borders"
+      }
+    },
+    {
+      "title_original": "NATO Shoots Down Drone That Entered Lithuanian Airspace",
+      "title_zh": "NATO Shoots Down Drone That Entered Lithuanian Airspace",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-15/nato-shoots-down-drone-that-entered-lithuanian-airspace-mu27y5vq",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-15T13:35:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO Shoots Down Drone That Entered Lithuanian Airspace    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "NATO Shoots Down Drone That Entered Lithuanian Airspace"
+      }
+    },
+    {
+      "title_original": "Suspected sabotage causes major Netherlands rail disruption",
+      "title_zh": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-15T13:33:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Suspected sabotage causes major Netherlands rail disruption\n- Published\nParts of the Netherlands, including Amsterdam, have been hit by major rail disruption after suspected sabotage to the tracks, the country's railway infrastructure operator has said.",
+        "A spokesperson for operator ProRail told the BBC disruption was not yet over but services were gradually recovering, after widespread cancellations and delays in the country's centre and north on Tuesday.",
+        "Pipes and cables were placed on the tracks in multiple locations, according to local media."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Suspected sabotage causes major Netherlands rail disruption"
+      }
+    },
+    {
+      "title_original": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "title_zh": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-15T13:05:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says\n- Published\nTwo sailors are missing and 23 others have been rescued following an attack on an oil tanker in the Strait of Hormuz, Oman says.",
+        "Oman's Maritime Security Centre said the Panama-flagged El Gaia was being towed to an Omani port on Tuesday after a fire broke out in its engine room, adding that the vessel was targeted 1.3 nautical miles (2.4km) north of the Musandam peninsula.",
+        "On Monday, Iran's Revolutionary Guards said the tanker hit naval mines and caught fire while passing through what they described as a restricted and unsafe route."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says"
+      }
+    },
+    {
+      "title_original": "Colombian ex-foreign minister charged over nanny's lie detector test",
+      "title_zh": "Colombian ex-foreign minister charged over nanny's lie detector test",
+      "url": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-15T12:59:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Colombian ex-foreign minister charged over nanny's lie detector test\n- Published\nProsecutors in Colombia have accused former foreign minister Laura Sarabia of abusing her power after she made her nanny take a lie detector test.",
+        "The scandal erupted in 2023, when Colombian news weekly Semana reported that a woman Sarabia had employed to look after her son had been hooked up to a polygraph and questioned over the alleged disappearance of a case full of cash from Sarabia's flat.",
+        "Sarabia, who was the chief of staff for President Gustavo Petro at the time, resigned in June 2023 but was later appointed as foreign minister and, following her resignation from that post, as Colombia's ambassador to the United Kingdom."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Colombian ex-foreign minister charged over nanny's lie detector test"
+      }
+    },
+    {
+      "title_original": "Geopolitics and grain don't mix, say these Montana farmers",
+      "title_zh": "Geopolitics and grain don't mix, say these Montana farmers",
+      "url": "https://www.npr.org/2026/09/15/nx-s1-5964930/canada-tariffs-hurting-montana-farmers",
+      "source": "npr.org",
+      "source_score": 40,
+      "published_at": "2026-09-15T12:33:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Geopolitics and grain don't mix, say these Montana farmers\nGREAT FALLS, Mont.",
+        "- The escalating trade fight between the Trump administration and Canada is just the latest headwind facing American farmers who were already dealing with soaring fuel and fertilizer prices.",
+        "After President Trump imposed tariffs on Canadian products, earlier this month Ottawa imposed retaliatory tariffs on $20 billion worth of U.S."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "npr.org"
+      ],
+      "all_titles": {
+        "en": "Geopolitics and grain don't mix, say these Montana farmers"
+      }
+    },
+    {
+      "title_original": "China inaugurará su Foro de defensa de Xiangshan con Taiwán, Oriente Medio e IA en el foco",
+      "title_zh": "China inaugurará su Foro de defensa de Xiangshan con Taiwán, Oriente Medio e IA en el foco",
+      "url": "https://www.abc.es/espana/china-inaugurara-foro-defensa-xiangshan-taiwan-oriente-20260915134307-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-15T11:43:11+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "China inaugurará su Foro de defensa de Xiangshan con Taiwán, Oriente Medio e IA en el foco\nPekín, 15 sep (EFE/EPA).- Pekín abre este miércoles una nueva edición del Foro Xiangshan, el princip...",
+        "Pekín, 15 sep (EFE/EPA).- Pekín abre este miércoles una nueva edición del Foro Xiangshan, el principal encuentro de diplomacia militar organizado por China, marcado por las tensiones en torno a Taiwán, la guerra en Ucrania, la inestabilidad en Oriente Medio y la competencia tecnológica ...",
+        "y militar entre Pekín y Washington."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "China inaugurará su Foro de defensa de Xiangshan con Taiwán, Oriente Medio e IA en el foco"
+      }
+    },
+    {
+      "title_original": "Denmark says Russian warship fired flares at military helicopter",
+      "title_zh": "Denmark says Russian warship fired flares at military helicopter",
+      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-15T11:40:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Denmark says Russian warship fired flares at military helicopter\n- Published\nDenmark has accused a Russian warship of firing two emergency flares at one of its helicopters while it was tracking the vessel in the Baltic Sea.",
+        "The Danish government has summoned the Russian ambassador over the incident, which it said happened during a \"routine\" monitoring operation on Monday.",
+        "Prime Minister Mette Frederiksen branded the Russian action \"reckless\" and said it was designed to \"intimidate and divide\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Denmark says Russian warship fired flares at military helicopter"
+      }
+    },
+    {
+      "title_original": "森英介衆院議長、ロシアの侵略は「蛮行」 ウクライナ議会で演説",
+      "title_zh": "森英介衆院議長、ロシアの侵略は「蛮行」 ウクライナ議会で演説",
+      "url": "https://www.nikkei.com/article/DGXZQOCB15AJE0V10C26A9000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-15T11:28:14+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "森英介衆院議長、ロシアの侵略は「蛮行」 ウクライナ議会で演説\n【キーウ=共同】森英介衆院議長は15日、ウクライナ首都キーウの最高会議（議会）で演説した。4年半を超え長期化するロシアの侵略について「国際社会の在り方や価値観を根底から覆す蛮行だ」と非難した。ロシアと北朝鮮の軍事協力に触れ「日本にとって人ごとではない」と述べ、ウクライナへの連帯と支援継続を表明した。ウクライナ議会によると、衆院議長が議会で演説したのは初めて。",
+        "森氏は14日にキーウ入りした。衆院議長の訪問は2022年2月のロシアの侵略開始後初めてで、日本の三権の長としては23年の当時の岸田文雄首相以来。森氏は1995年に発足した超党派の日本・ウクライナ友好議員連盟に当初から関わり、2011年から今年まで会長を務めた。ウクライナ情勢に詳しい。",
+        "ウクライナの民族衣装「ビシワンカ」を着て登壇すると、議場でスタンディングオベーションが起きた。演説ではロシアの侵略に対し「言葉では到底尽くし得ぬ深い悲しみと強い憤り」を感じると批判した。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "森英介衆院議長、ロシアの侵略は「蛮行」 ウクライナ議会で演説"
+      }
+    },
+    {
+      "title_original": "La OTAN derriba un dron que violó el espacio aéreo de Lituania",
+      "title_zh": "La OTAN derriba un dron que violó el espacio aéreo de Lituania",
+      "url": "https://es.euronews.com/my-europe/2026/09/15/la-otan-se-declara-comprometida-y-preparada-tras-derribar-un-dron-sobre-lituania",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-15T11:05:04+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Desde los países bálticos hasta Polonia, el flanco oriental de Europa vigila la guerra de Rusia para evitar que se extienda a sus propias fronteras.",
+        "La OTAN se mantiene \"vigilante, comprometida y preparada\", declaró el ministro de Exteriores de Lituania este martes, después de que un caza aliado destruyera un dron que había entrado en el espacio aéreo del país desde Bielorrusia, el último de una serie de incursiones aéreas que ponen a prueba la frontera oriental de la alianza con Rusia.",
+        "Kęstutis Budrys atribuyó la interceptación a la solidez de la defensa colectiva y agradeció a los aliados cuya presencia aérea, dijo, protege los cielos bálticos y refuerza la seguridad regional."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "La OTAN derriba un dron que violó el espacio aéreo de Lituania"
+      }
+    },
+    {
+      "title_original": "NATO jets shoot down drone over Lithuania",
+      "title_zh": "NATO jets shoot down drone over Lithuania",
+      "url": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-lithuania/a-79267975",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-09-15T10:50:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "NATO jets shoot down drone over Lithuania\nPublished September 15, 2026last updated September 15, 2026\nA drone which entered Lithuanian airspace in the early hours of Tuesday morning was shot down by NATO fighter jets in between the cities of Vilnius and Kaunas, Lithuanian authorities have confirmed.",
+        "Lithuania's National Crisis Management Center (NKVC) said the drone most likely came from neighboring Belarus, an ally of Russia in its ongoing war against Ukraine, and was flying west when it was shot down by an Italian jet.",
+        "Lithuanian President Gitanas Nauseda thanked the military alliance for its \"swift response.\"\n\"With Russia intensifying its aggression against Ukraine, such readiness is vital for our region,\" he wrote on social media."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "en": "NATO jets shoot down drone over Lithuania"
+      }
+    },
+    {
+      "title_original": "Un drone abattu par l’Otan au-dessus de la Lituanie, un hélicoptère danois visé par deux fusées éclairantes russes",
+      "title_zh": "Un drone abattu par l’Otan au-dessus de la Lituanie, un hélicoptère danois visé par deux fusées éclairantes russes",
+      "url": "https://www.mediapart.fr/journal/international/150926/un-drone-abattu-par-l-otan-au-dessus-de-la-lituanie-un-helicoptere-danois-vise-par-deux-fusees-ecla",
+      "source": "Mediapart",
+      "source_score": 55,
+      "published_at": "2026-09-15T10:13:44+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Les cookies et technologies similaires que nous utilisons sur Mediapart sont de différentes natures et nous permettent de poursuivre différentes finalités.",
+        "Certains sont nécessaires au fonctionnement du site et de l’application mobile (vous ne pouvez pas les refuser).",
+        "D’autres sont optionnels mais contribuent à faciliter votre expérience de lecteur ou de lectrice et d’une certaine façon à soutenir Mediapart."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Mediapart"
+      ],
+      "all_titles": {
+        "fr": "Un drone abattu par l’Otan au-dessus de la Lituanie, un hélicoptère danois visé par deux fusées éclairantes russes"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Waffen sprechen lauter als Trump",
+      "title_zh": "Ukraine-Krieg: Waffen sprechen lauter als Trump",
+      "url": "https://www.dw.com/de/ukraine-krieg-waffen-sprechen-lauter-als-us-pr%C3%A4sident-donald-trump-wolodymyr-selenskyj/a-79271022",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-09-15T09:48:16+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Ukraine-Krieg: Waffen sprechen lauter als Trump\nVeröffentlicht 15.",
+        "September 2026Zuletzt aktualisiert 15.",
+        "September 2026\nWas macht der Präsident eines von Russland angegriffenen Landes, der von Waffenlieferungen aus Washington abhängt, wenn er von dort eine Ankündigung hört, von der er - allem Anschein nach - nichts wusste?"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Waffen sprechen lauter als Trump"
+      }
+    },
+    {
+      "title_original": "Aviones de combate de la OTAN derriban un dron sobre Lituania por primera vez",
+      "title_zh": "Aviones de combate de la OTAN derriban un dron sobre Lituania por primera vez",
+      "url": "https://www.elmundo.es/internacional/2026/09/15/6aa9141ee85eceef0e8b4580.html",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-09-15T09:47:11+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Un avión de combate de la OTAN derribó un dron en Lituania poco después de la medianoche del martes, según informó el centro nacional de gestión de crisis de Lituania.",
+        "El dron, que probablemente procedía de Bielorrusia, fue derribado cerca de la aldea de Pratkunai, en el sur de Lituania, cerca de Kaunas, la segunda ciudad más grande del país.",
+        "Aún se desconoce su origen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "Aviones de combate de la OTAN derriban un dron sobre Lituania por primera vez"
+      }
+    },
+    {
+      "title_original": "中東産LPG2カ月連続上昇 9月積み対日価格、中東での戦闘再び激化で",
+      "title_zh": "中東産LPG2カ月連続上昇 9月積み対日価格、中東での戦闘再び激化で",
+      "url": "https://www.nikkei.com/article/DGXZQOUB115KQ0R10C26A9000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-15T09:24:59+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "この記事は会員限定記事です\n中東産LPG2カ月連続上昇 9月積み対日価格、中東での戦闘再び激化で\n[会員限定記事]\nサウジアラビアの国有石油会社サウジアラムコは、液化石油ガス（LPG）の9月積み対日価格を2カ月連続で引き上げる。米―イラン間の攻撃の応酬を受けた原油高を反映した。中東からの供給量も細っている。",
+        "LPGのうち、家庭での調理や給湯に使うプロパンは1トン625ドルと前月から5ドル（1%）高い。化学原料やカセットコンロ用ガスボンベの主成分となるブタンは同660ドルと20ドル（3%）上がった。いずれも2カ...",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "中東産LPG2カ月連続上昇 9月積み対日価格、中東での戦闘再び激化で"
+      }
+    },
+    {
+      "title_original": "リトアニア上空にドローン、ＮＡＴＯ戦闘機が撃墜 所属不明",
+      "title_zh": "リトアニア上空にドローン、ＮＡＴＯ戦闘機が撃墜 所属不明",
+      "url": "https://www.reuters.com/jp/world/ukraine/JZHASGC3BZKW3KARPLQKLSO3BM-2026-09-15/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-15T09:10:48+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "リトアニア上空にドローン、ＮＡＴＯ戦闘機が撃墜 所属不明    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "リトアニア上空にドローン、ＮＡＴＯ戦闘機が撃墜 所属不明"
+      }
+    },
+    {
+      "title_original": "Cazas de la OTAN interceptan un dron cerca de Kaunas (Lituania)",
+      "title_zh": "Cazas de la OTAN interceptan un dron cerca de Kaunas (Lituania)",
+      "url": "https://www.abc.es/internacional/cazas-otan-interceptan-dron-cerca-kaunas-lituania-20260915111041-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-15T09:10:45+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Cazas de la OTAN interceptan un dron cerca de Kaunas (Lituania)\nMúltiples cazas de la OTAN han derribado pasada la medianoche de este martes un dron en el espacio...",
+        "Múltiples cazas de la OTAN han derribado pasada la medianoche de este martes un dron en el espacio aéreo de Lituania, concretamente sobre el distrito de Kaunas, tras saltar las alarmas por el avistamiento del mismo, lo que ha puesto en alerta a varias zonas ...",
+        "del país, incluida la capital del país báltico, Vilna.(Fuente: DPA/OTAN/Ministerio de Defensa)"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Cazas de la OTAN interceptan un dron cerca de Kaunas (Lituania)"
+      }
+    },
+    {
+      "title_original": "铁路：重构国际关系重要角色——专访《火车地缘政治学》作者",
+      "title_zh": "铁路：重构国际关系重要角色——专访《火车地缘政治学》作者",
+      "url": "https://m.sohu.com/a/1076363107_114911?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-09-15T08:15:22+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "参考消息网9月15日报道法国国际关系与战略研究院网站9月4日刊发题为《“火车地缘政治学”——专访克洛德·勒布朗》的文章，作者是该研究院院长帕斯卡尔·博尼法斯。内容摘编如下：\n克洛德·勒布朗曾担任《国际信使》周刊和《青年非洲》月刊的主编，现为《舆论报》亚洲事务记者。在其著作《火车地缘政治学》出版发行之际，他接受法国国际关系与战略研究院院长帕斯卡尔·博尼法斯的采访。",
+        "象征国家实力\n帕斯卡尔·博尼法斯问：在你看来，了解一个国家状况的最佳方式之一是观察它的铁路。20世纪初，美国拥有全球三分之二的铁路里程；如今，中国的高铁里程超过世界其他国家的总和。我们能从中得出什么结论？",
+        "克洛德·勒布朗答：美国铁路的建设促进该国经济和技术实力的崛起，并增强其全球影响力。当美国海军准将马修·佩里率领“黑船”舰队抵达日本、“劝说”这个闭关两个半世纪的国家向世界开放时，他送给日本代表的第一件礼物便是一台四分之一比例的蒸汽机车模型。机车启动时，日本代表惊叹不已。几年后，日本建成令人印象深刻的铁路网。当时，华盛顿将火车视为一种提升实力的工具。如今，中国接过这一接力棒，将其铁路工业打造为与人工智能、电动汽车和半导体并列的尖端产业。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "铁路：重构国际关系重要角色——专访《火车地缘政治学》作者"
+      }
+    },
+    {
+      "title_original": "دبي تجمع 300 شركة في معرض الشرق الأوسط للدهانات",
+      "title_zh": "دبي تجمع 300 شركة في معرض الشرق الأوسط للدهانات",
+      "url": "https://www.alkhaleej.ae/2026-09-15/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF/%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/%D8%AF%D8%A8%D9%8A-%D8%AA%D8%AC%D9%85%D8%B9-300-%D8%B4%D8%B1%D9%83%D8%A9-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D9%84%D9%84%D8%AF%D9%87%D8%A7%D9%86%D8%A7%D8%AA",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-09-15T08:08:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "يعود معرض الشرق الأوسط للدهانات والطلاءات إلى دبي خلال الفترة من 28 إلى 30 سبتمبر 2026، ليدشن مرحلة جديدة في مسيرته الممتدة لأكثر من ثلاثة عقود، مع إقامة دورته الحادية والثلاثين للمرة الأولى في مركز دبي للمعارض – القاعات الشمالية، بمدينة إكسبو دبي.",
+        "يستقطب المعرض على مدى ثلاثة أيام أكثر من 5,000 من المصنعين وموردي المواد الخام والموزعين والمشترين والخبراء الفنيين والمتخصصين في صناعة الدهانات والطلاءات من المنطقة والعالم، جامعاً أبرز أطراف القطاع للاطلاع على أحدث المنتجات والتطورات التقنية، وتبادل الخبرات، وبحث فرص الأعمال والتعاون.",
+        "يأتي المعرض في ظل نمو متواصل يشهده سوق الدهانات والطلاءات في الشرق الأوسط، الذي تُقدّر قيمته بنحو 5.98 مليار دولار أمريكي، أي ما يعادل نحو 22 مليار درهم، في عام 2026، وفقاً لبيانات «موردور انتليجنس»."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "دبي تجمع 300 شركة في معرض الشرق الأوسط للدهانات"
+      }
+    },
+    {
+      "title_original": "Cazas de la OTAN interceptan un dron en el espacio aéreo de Lituania",
+      "title_zh": "Cazas de la OTAN interceptan un dron en el espacio aéreo de Lituania",
+      "url": "https://www.abc.es/internacional/cazas-otan-interceptan-dron-espacio-aereo-lituania-20260915093644-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-15T07:36:44+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Cazas de la OTAN interceptan un dron en el espacio aéreo de Lituania\nEl Ministerio de Defensa lituano reconoce que «las Fuerzas Armadas y los pilotos italianos que prestan servicio en la Misión de Defensa Aérea han dado una respuesta rápida y responsable»\nCorresponsal en Berlín\nPoco después de la media noche, los residentes de los condados de Vilna y Kaunas, en Lituania, recibieron mensajes oficiales de advertencia en sus teléfonos móviles: «Peligro aéreo».",
+        "Poco después, el Ministerio de Defensa confirmaba que cazas italianos de la OTAN habían ...",
+        "detectado y derribado un dron sobre el distrito de Kaisiadorys, cerca de Pratkunai."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Cazas de la OTAN interceptan un dron en el espacio aéreo de Lituania"
+      }
+    },
+    {
+      "title_original": "NATO ist bereit: Drohne aus Belarus über Litauen abgeschossen",
+      "title_zh": "NATO ist bereit: Drohne aus Belarus über Litauen abgeschossen",
+      "url": "https://de.euronews.com/my-europe/2026/09/15/nato-drohne-belarus-litauen",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-15T07:12:07+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Vom Baltikum bis nach Polen verfolgt der östliche Rand Europas aufmerksam Russlands Krieg in der Ukraine.",
+        "Die Staaten wollen verhindern, dass der Konflikt auf ihr eigenes Territorium übergreift.",
+        "Die NATO ist „wachsam, entschlossen und einsatzbereit“, sagte Litauens Außenminister am Dienstag."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "NATO ist bereit: Drohne aus Belarus über Litauen abgeschossen"
+      }
+    },
+    {
+      "title_original": "Cazas de la OTAN derriban un dron que volaba sobre Lituania procedente de Bielorrusia",
+      "title_zh": "Cazas de la OTAN derriban un dron que volaba sobre Lituania procedente de Bielorrusia",
+      "url": "https://elpais.com/internacional/2026-09-15/cazas-de-la-otan-derriban-un-dron-que-volaba-sobre-lituania-procedente-de-bielorrusia.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-09-15T07:07:31+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Cazas de la OTAN derriban un dron que volaba sobre Lituania procedente de Bielorrusia    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Cazas de la OTAN derriban un dron que volaba sobre Lituania procedente de Bielorrusia"
+      }
+    },
+    {
+      "title_original": "توقعات بتعافي طلب الصين والهند على الغاز الطبيعي المسال مع انتهاء حرب الشرق الأوسط",
+      "title_zh": "توقعات بتعافي طلب الصين والهند على الغاز الطبيعي المسال مع انتهاء حرب الشرق الأوسط",
+      "url": "https://www.reuters.com/ar/business/WUUHKRMN5ZOFDD7WMRNIWWBYDM-2026-09-15/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-15T06:59:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "توقعات بتعافي طلب الصين والهند على الغاز الطبيعي المسال مع انتهاء حرب الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "توقعات بتعافي طلب الصين والهند على الغاز الطبيعي المسال مع انتهاء حرب الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "+++ 08:30 Trump-Sohn bestätigt \"großzügiges Hochzeitsgeschenk\" von russischem Geschäftsmann +++",
+      "title_zh": "+++ 08:30 Trump-Sohn bestätigt \"großzügiges Hochzeitsgeschenk\" von russischem Geschäftsmann +++",
+      "url": "https://www.n-tv.de/politik/08-30-Trump-Sohn-bestaetigt-grosszuegiges-Hochzeitsgeschenk-von-russischem-Geschaeftsmann-id30859357.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-09-15T06:31:23+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg im Liveticker+++ 17:24 Dieses Jahr soll Russland schon 300.000 Soldaten verloren haben +++\nDer ukrainische Generalstab schätzt die Verluste der russischen Armee auf 301.030 gefallene und verwundete Soldaten seit Jahresbeginn.",
+        "Die größten Verluste hätten die russischen Streitkräfte in den letzten drei Sommermonaten erlitten, heißt es in einer Mitteilung.",
+        "Offizielle Zahlen zu den Verlusten der Kriegsparteien gibt es nicht."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "+++ 08:30 Trump-Sohn bestätigt \"großzügiges Hochzeitsgeschenk\" von russischem Geschäftsmann +++"
+      }
+    },
+    {
+      "title_original": "Drone abattu en Lituanie: ce que l'on sait de l'engin détruit par l'Otan après avoir 'pénétré l'espace aérien' européen",
+      "title_zh": "Drone abattu en Lituanie: ce que l'on sait de l'engin détruit par l'Otan après avoir 'pénétré l'espace aérien' européen",
+      "url": "https://information.tv5monde.com/international/drone-abattu-en-lituanie-ce-que-lon-sait-de-lengin-detruit-par-lotan-apres-avoir-penetre-lespace-aerien-europeen-2837564",
+      "source": "tv5monde",
+      "source_score": 40,
+      "published_at": "2026-09-15T06:20:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Drone abattu en Lituanie: ce que l'on sait de l'engin détruit par l'Otan après avoir 'pénétré l'espace aérien' européen    tv5monde",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "tv5monde"
+      ],
+      "all_titles": {
+        "fr": "Drone abattu en Lituanie: ce que l'on sait de l'engin détruit par l'Otan après avoir 'pénétré l'espace aérien' européen"
+      }
+    },
+    {
+      "title_original": "الطريق إلى باب المندب بلا وصاية خارجية",
+      "title_zh": "الطريق إلى باب المندب بلا وصاية خارجية",
+      "url": "https://www.tasnimnews.ir/ar/news/2026/09/15/3697063/%D8%A7%D9%84%D8%B7%D8%B1%DB%8C%D9%82-%D8%A5%D9%84%D9%89-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%A8-%D8%A8%D9%84%D8%A7-%D9%88%D8%B5%D8%A7%DB%8C%D8%A9-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C%D8%A9",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-09-15T06:17:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "عدنان عبدالله الجنيد.",
+        "حين تتحول الجغرافيا اليمنية من ساحة نفوذ إلى ورقة سيادية\nالمعادلة اليمنية اليوم تدخل مرحلة أكثر وضوحًا: السيادة في مواجهة الوصاية، والسلام في مواجهة العدوان، والتصعيد مقابل التصعيد، والحصار مقابل الحصار.",
+        "وما يجري في الساحل الغربي لا يمكن قراءته باعتباره حدثًا عسكريًا منفصلًا، بل باعتباره جزءًا من صراع أوسع حول القرار اليمني وموقع اليمن في معادلة البحر الأحمر."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "الطريق إلى باب المندب بلا وصاية خارجية"
+      }
+    },
+    {
+      "title_original": "Des avions de chasse de l’Otan abattent un drone volant au-dessus de la Lituanie",
+      "title_zh": "Des avions de chasse de l’Otan abattent un drone volant au-dessus de la Lituanie",
+      "url": "https://www.rfi.fr/fr/europe/20260915-des-avions-de-l-otan-abattent-un-drone-volant-au-dessus-de-la-lituanie",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-09-15T05:04:56+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Des avions de chasse de l’Otan abattent un drone volant au-dessus de la Lituanie    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Des avions de chasse de l’Otan abattent un drone volant au-dessus de la Lituanie"
+      }
+    },
+    {
+      "title_original": "Trump ha convertido la IA en un arma geopolítica. Y no va a parar",
+      "title_zh": "Trump ha convertido la IA en un arma geopolítica. Y no va a parar",
+      "url": "https://elordenmundial.com/trump-ia-arma-geopolitica-carrera-tecnologica-china/",
+      "source": "El Orden Mundial",
+      "source_score": 40,
+      "published_at": "2026-09-15T05:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "“Estamos por delante de China en inteligencia artificial, somos el país más avanzado del mundo y, francamente, quiero que siga siendo así”.",
+        "La respuesta de Donald Trump a los recientes llamados del sector para ralentizar el desarrollo de esta tecnología tiene una motivación clara: “Quien gane la carrera de la IA, gana”.",
+        "El propio director ejecutivo de Anthropic, Dario Amodei, también planteaba en su ensayo cómo Estados Unidos podía asegurar esa ventaja: restringiendo a China chips avanzados, equipos de fabricación y acceso remoto a centros de datos, frenando la “destilación” agresiva de los llamados “modelos de frontera” y reforzando la ciberseguridad para evitar el robo de datos."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "El Orden Mundial"
+      ],
+      "all_titles": {
+        "es": "Trump ha convertido la IA en un arma geopolítica. Y no va a parar"
+      }
+    },
+    {
+      "title_original": "Nato registriert mehr hybride Angriffe von Russland - Sabotage, Cyberattacken, Sprengstoffdrohnen",
+      "title_zh": "Nato registriert mehr hybride Angriffe von Russland - Sabotage, Cyberattacken, Sprengstoffdrohnen",
+      "url": "https://www.spiegel.de/ausland/nato-registriert-mehr-hybride-angriffe-von-russland-sabotage-cyberattacken-sprengstoffdrohnen-a-b3e72fc5-4538-4671-9390-a5d9ae84ba12",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-15T04:44:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Wachsende Bedrohung Nato registriert mehr hybride Angriffe Russlands\nHybride Angriffe Russlands auf Nato-Staaten nehmen offenbar deutlich zu.",
+        "Mehr als 200 habe das Militärbündnis im vergangenen Jahr erfasst.",
+        "Dabei seien die alltäglichen Cyberangriffe nicht eingerechnet, erklärte ein ranghoher Nato-Beamter in Brüssel gegenüber der Nachrichtenagentur dpa."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Nato registriert mehr hybride Angriffe von Russland - Sabotage, Cyberattacken, Sprengstoffdrohnen"
+      }
+    },
+    {
+      "title_original": "‘I believed the hype’: the white South Africans denied refugee status in the US",
+      "title_zh": "‘I believed the hype’: the white South Africans denied refugee status in the US",
+      "url": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-15T04:00:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Drive to save thousands of Afrikaners from false claims of ‘white genocide’ appears to show signs of slowing When Donald Trump announced in February 2025 that the US would accept Afrikaners from South Africa as refugees, many white South Africans who believed that they were victims of racism in their country thought that their prayers had been answered.",
+        "However, in the past few months, dozens of applicants to the refugee programme have been rejected, with many left dismayed and confused as to why they would be left to face what Trump has falsely claimed is a “white genocide” in South Africa.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘I believed the hype’: the white South Africans denied refugee status in the US"
+      }
+    },
+    {
+      "title_original": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
+      "title_zh": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow",
+      "url": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-15T04:00:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Almost 3,500 people have died in outbreak and experts say more must be done to ensure Bundibugyo is under control Authorities in the Democratic Republic of the Congo have announced that the Ebola outbreak ravaging parts of the country has reached its peak.",
+        "For the first time since the epidemic was declared in May, the numbers of people becoming infected is slowing down, according to officials.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Ebola outbreak in DRC has peaked, say authorities, as infection rates slow"
+      }
+    },
+    {
+      "title_original": "NATO戦闘機、リトアニア領空に侵入したドローンを撃墜",
+      "title_zh": "NATO戦闘機、リトアニア領空に侵入したドローンを撃墜",
+      "url": "https://www.bbc.com/japanese/articles/ck790x09vgvvo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-15T03:45:32+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "NATO戦闘機、リトアニア領空に侵入したドローンを撃墜\nハリー・セクリッチ\nリトアニアのギタナス・ナウセダ大統領は15日未明、同国領空に夜間に侵入したドローンを、北大西洋条約機構（NATO）の戦闘機が撃墜したと発表した。",
+        "当局によると、このドローンは日付が15日に変わってまもなく、隣国ベラルーシから、リトアニア南部にある第2の都市カウナス付近の上空に侵入したとみられる。",
+        "ナウセダ大統領はソーシャルメディア「X」で声明を発表。「リトアニア領空に侵入したドローンは、複数のNATO戦闘機によって撃墜された」とした。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "NATO戦闘機、リトアニア領空に侵入したドローンを撃墜"
+      }
+    },
     {
       "title_original": "ترمب وشي.. اكتشف الفرق في إدارة القوة والتفاوض",
       "title_zh": "ترمب وشي.. اكتشف الفرق في إدارة القوة والتفاوض",
