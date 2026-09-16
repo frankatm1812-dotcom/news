@@ -1,8 +1,883 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T01:23:55.989128+00:00",
-  "count": 35,
+  "generated_at": "2026-09-16T15:26:13.024924+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title_original": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
+      "title_zh": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
+      "url": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-16T15:02:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "String of female murder victims found near Johannesburg’s international airport, including five in the past week The discovery of the bodies of eight women around Johannesburg’s international airport, including five in the past week, has prompted an outpouring of fear, grief and anger over a lack of progress in tackling femicide.",
+        "When Elizabeth “Tsontso” Moselakgomo did not return after going for a run on 9 September, her eight-year-old daughter alerted relatives, who contacted police.",
+        "The 38-year-old’s body was found on Saturday and identified by relatives on Monday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa"
+      }
+    },
+    {
+      "title_original": "Eight German state premiers back Merz amid speculation over future",
+      "title_zh": "Eight German state premiers back Merz amid speculation over future",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T14:50:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Eight German state premiers back Merz amid speculation over future\n- Published\nThe leaders of eight German states have backed the nation's chancellor amid growing speculation about his political future.",
+        "The premiers - all of whom are part of Friedrich Merz's Christian Democratic Union (CDU) - wrote that restoring trust in their party lay in \"listening and taking political action, not in debates over personnel\".",
+        "Merz, who has only held the post for 16 months, is facing poor approval ratings while the anti-immigration, far-right Alternative for Germany (AfD) party is surging, prompting questions about whether he is an electoral liability."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Eight German state premiers back Merz amid speculation over future"
+      }
+    },
+    {
+      "title_original": "US limits visas for South African officials over alleged anti-white discrimination",
+      "title_zh": "US limits visas for South African officials over alleged anti-white discrimination",
+      "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T13:57:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "US limits visas for South African officials over alleged anti-white discrimination\n- Published\nThe US has announced visa restrictions targeting people it accuses of discriminating against South Africa's white minority, in the latest escalation of tensions between the two countries.",
+        "The Trump administration has criticised South Africa over several issues, including policies aimed at addressing racial inequality that it says discriminate against Afrikaners, descendants mainly of Dutch and French settlers.",
+        "South Africa has repeatedly denied the claim."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US limits visas for South African officials over alleged anti-white discrimination"
+      }
+    },
+    {
+      "title_original": "Russische Sprengstoffdrohne vor polnischer Ostseeküste entdeckt",
+      "title_zh": "Russische Sprengstoffdrohne vor polnischer Ostseeküste entdeckt",
+      "url": "https://www.spiegel.de/ausland/rusinowo-russische-sprengstoff-drohne-vor-polnischer-ostseekueste-entdeckt-a-53f4c524-bf72-400c-8dad-442e8291a62b",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-16T13:30:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nahe Badeort Rusinowo Russische Sprengstoffdrohne vor polnischer Ostseeküste entdeckt\nErneut ist auf Nato-Territorium eine russische Sprengstoffdrohne entdeckt worden: Polnische Streitkräfte fischten das Fluggerät am Montag vor der Küste des Landes aus der Ostsee.",
+        "Die Drohne vom Typ Gerbera-2 sei mit einem »Gefechtskopf mit Zünder« ausgestattet gewesen, erklärte nun der Militärstaatsanwalt Bartosz Okoniewski.",
+        "Es liefen Ermittlungen unter dem Verdacht der Gefährdung »von Leben oder Gesundheit vieler Menschen sowie von Eigentum von großem Wert«."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Russische Sprengstoffdrohne vor polnischer Ostseeküste entdeckt"
+      }
+    },
+    {
+      "title_original": "Legendary Nigerian actor Olu Jacobs dies aged 84",
+      "title_zh": "Legendary Nigerian actor Olu Jacobs dies aged 84",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gr5jnd134o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T13:29:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Legendary Nigerian actor Olu Jacobs dies aged 84\n- Published\nOlu Jacobs, one of Nigeria's best known actors, whose career spanned several decades across theatre, television and film, has died at the age of 84.",
+        "His wife, veteran actress Joke Silva, announced his death and asked for privacy while the family mourns.",
+        "Silva announced his passing in a statement describing the celebrated actor as \"The Lion of Lufodo\" and saying his life was \"well lived and fought\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Legendary Nigerian actor Olu Jacobs dies aged 84"
+      }
+    },
+    {
+      "title_original": "Battle of Chile director Patricio Guzmán dies aged 85",
+      "title_zh": "Battle of Chile director Patricio Guzmán dies aged 85",
+      "url": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-16T13:15:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Passionate documentary maker won international acclaim for unsparing but poetic films exploring the impact of the Pinochet regime in Chile Patricio Guzmán, the film-maker who chronicled Chile’s bloody 1970s political strife and its subsequent social and political turmoil in films such as The Battle of Chile and Nostalgia for the Light, has died aged 85.",
+        "According to Chilean news outlet Emol , Guzmán died on Tuesday in Paris after a cardiorespiratory arrest.",
+        "Guzmán’s chief preoccupation throughout his career was the carnage unleashed by Augusto Pinochet’s coup in 1973 against Salvador Allende, Chile’s elected president."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Battle of Chile director Patricio Guzmán dies aged 85"
+      }
+    },
+    {
+      "title_original": "EU chief backs plan for Canada to become 'associate member'",
+      "title_zh": "EU chief backs plan for Canada to become 'associate member'",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T12:36:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "EU chief backs plan for Canada to become 'associate member'\n- Published\nThe president of the European Commission has backed proposals for Canada to become the EU's first \"associate member\".",
+        "Ursula von der Leyen told the European Parliament on Wednesday she wanted to work on \"opening the door\" for Canada, which would involve closer ties on various key sectors.",
+        "Canadian Prime Minister Mark Carney last week spoke of seeking a \"unique alliance\" with the EU."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "EU chief backs plan for Canada to become 'associate member'"
+      }
+    },
+    {
+      "title_original": "معادلة حرجة أمام لوكاشينكو.. هل تستدرج موسكو بيلاروسيا للمشاركة في حرب أوكرانيا؟",
+      "title_zh": "معادلة حرجة أمام لوكاشينكو.. هل تستدرج موسكو بيلاروسيا للمشاركة في حرب أوكرانيا؟",
+      "url": "https://www.aljazeera.net/politics/2026/9/16/%D8%A8%D8%B9%D8%AF-%D8%A5%D9%86%D8%B0%D8%A7%D8%B1-%D8%B2%D9%8A%D9%84%D9%8A%D9%86%D8%B3%D9%83%D9%8A-%D9%87%D9%84-%D8%AA%D8%B3%D8%AA%D8%AF%D8%B1%D8%AC-%D9%85%D9%88%D8%B3%D9%83%D9%88",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-16T12:27:25+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "معادلة حرجة أمام لوكاشينكو..",
+        "هل تستدرج موسكو بيلاروسيا للمشاركة في حرب أوكرانيا؟\nأعاد تحذير الرئيس الأوكراني فولوديمير زيلينسكي لبيلاروسيا تسليط الضوء على الدور الذي تؤديه مينسك في الحرب، وسط اتهامات باستخدام أراضيها لتوجيه ضربات روسية، ومخاوف من تحولها إلى جبهة جديدة في الصراع.",
+        "وفي تقرير للجزيرة، يبرز التصعيد الأخير بوصفه حلقة جديدة في علاقة معقدة بين موسكو ومينسك، بدأت منذ سنوات وتحولت بعد حرب أوكرانيا إلى ارتباط عسكري واقتصادي أعمق، فيما تزداد الضغوط على بيلاروسيا لتوسيع دورها."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "معادلة حرجة أمام لوكاشينكو.. هل تستدرج موسكو بيلاروسيا للمشاركة في حرب أوكرانيا؟"
+      }
+    },
+    {
+      "title_original": "ロシア軍、ウクライナ南部ニコポリ地区のバスを無人機で攻撃　５名死亡、７名負傷",
+      "title_zh": "ロシア軍、ウクライナ南部ニコポリ地区のバスを無人機で攻撃　５名死亡、７名負傷",
+      "url": "https://www.ukrinform.jp/rubric-ato/4164661-roshia-junukuraina-nan-bunikopori-de-qunobasuwo-wu-ren-jide-gong-jiming-si-wangming-fu-shang.html",
+      "source": "ウクルインフォルム通信",
+      "source_score": 40,
+      "published_at": "2026-09-16T12:20:15+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア軍、ウクライナ南部ニコポリ地区のバスを無人機で攻撃 ５名死亡、７名負傷\nウクルインフォルム\n    ウクライナへの全面侵略を続けるロシア軍は１６日、同国南部ドニプロペトロウシク州ニコポリ地区にて無人機でバスを攻撃した。これにより５名が死亡、７名が負傷した。",
+        "ハンジャ・ドニプロペトロウシク州軍行政府長官がテレグラム・チャンネルで報告した。",
+        "ハンジャ氏は、「ロシア軍人がバスに無人機を狙った。５名がその場で死亡した。７名の負傷者は現在医師が診ている。彼らには必要な全ての支援が提供されている」と伝えた。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "ウクルインフォルム通信"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍、ウクライナ南部ニコポリ地区のバスを無人機で攻撃　５名死亡、７名負傷"
+      }
+    },
+    {
+      "title_original": "中东局势再升级？沙特指责胡塞无人机袭击麦加“越红线”，威胁更大报复",
+      "title_zh": "中东局势再升级？沙特指责胡塞无人机袭击麦加“越红线”，威胁更大报复",
+      "url": "https://wallstreetcn.com/articles/3781903",
+      "source": "华尔街见闻",
+      "source_score": 40,
+      "published_at": "2026-09-16T12:17:03+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中东局势再升级？沙特指责胡塞无人机袭击麦加“越红线”，威胁更大报复    华尔街见闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "华尔街见闻"
+      ],
+      "all_titles": {
+        "zh": "中东局势再升级？沙特指责胡塞无人机袭击麦加“越红线”，威胁更大报复"
+      }
+    },
+    {
+      "title_original": "Philippines' Duterte seen in person at International Criminal Court for first time",
+      "title_zh": "Philippines' Duterte seen in person at International Criminal Court for first time",
+      "url": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T11:50:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Philippines' Duterte seen in person at International Criminal Court for first time\n- Published\nFormer Philippine President Rodrigo Duterte has appeared in person at the International Criminal Court in The Hague, where he is due to be tried for alleged crimes against humanity.",
+        "He is facing charges over his bloody war on drugs, which saw tens of thousands of small-time drug dealers allegedly executed summarily.",
+        "The 81-year-old wore a dark suit and white shirt on Wednesday, which marked the first time he has been seen in person since his arrest in Manila 18 months ago."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Philippines' Duterte seen in person at International Criminal Court for first time"
+      }
+    },
+    {
+      "title_original": "El dron derribado por la OTAN en Lituania estaba cargado con explosivos",
+      "title_zh": "El dron derribado por la OTAN en Lituania estaba cargado con explosivos",
+      "url": "https://www.abc.es/internacional/dron-derribado-otan-lituania-cargado-explosivos-20260916132110-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-16T11:21:11+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "El dron derribado por la OTAN en Lituania estaba cargado con explosivos\nAl igual que el reciente intento fallido de ataque en el aeropuerto de Leipzig, el objetivo de este dron era una infraestructura clave, la planta hidroeléctrica de Krunonis\nCorresponsal en Berlín\nLos pilotos de los cazas italianos de la OTAN que derribaron el dron que había entrado en el espacio aéreo lituano, en la madrugada del martes, lo sospecharon desde que tuvieron contacto visual con el objeto volador no tripulado.",
+        "Ahora lo confirma el ministro ...",
+        "de Defensa de Lituania, Robertas Kaunas: el nuevo dron interceptado cerca de la central de bombeo de Kruonis, la única planta hidroeléctrica de almacenamiento por bombeo de todo el Báltico, portaba una carga explosiva que fue hallada entre los restos del aparato y desactivada por fuerzas especiales."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "El dron derribado por la OTAN en Lituania estaba cargado con explosivos"
+      }
+    },
+    {
+      "title_original": "Colombia and Brazil deadliest countries for environmental activists, report says",
+      "title_zh": "Colombia and Brazil deadliest countries for environmental activists, report says",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T11:02:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Colombia and Brazil deadliest countries for environmental activists, report says\n- Published\nColombia has again topped the list of countries with the highest number of killings of land and environmental activists, according to an annual report by campaign group Global Witness, external.",
+        "Out of at least 124 activists killed globally in 2025, 39 were murdered in Colombia, followed by Brazil with 26.",
+        "Global Witness says that 85% of the documented killings took place in Latin America, making it the deadliest region for every year since the group started publishing its reports in 2012."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Colombia and Brazil deadliest countries for environmental activists, report says"
+      }
+    },
+    {
+      "title_original": "ウクライナのバス・列車にロシア無人機、5人死亡 強まる輸送網攻撃",
+      "title_zh": "ウクライナのバス・列車にロシア無人機、5人死亡 強まる輸送網攻撃",
+      "url": "https://www.reuters.com/jp/world/ukraine/HF6ZCTLD35OXHE3NPHHP6WGLNE-2026-09-16/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-16T10:37:29+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナのバス・列車にロシア無人機、5人死亡 強まる輸送網攻撃    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナのバス・列車にロシア無人機、5人死亡 強まる輸送網攻撃"
+      }
+    },
+    {
+      "title_original": "مصافي اليابان تسارع لشراء نفط الشرق الأوسط بعد تعطل مسار إمدادات سعودي",
+      "title_zh": "مصافي اليابان تسارع لشراء نفط الشرق الأوسط بعد تعطل مسار إمدادات سعودي",
+      "url": "https://www.aljazeera.net/ebusiness/2026/9/16/%D9%85%D8%B5%D8%A7%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D8%AA%D8%B3%D8%A7%D8%B1%D8%B9-%D9%84%D8%B4%D8%B1%D8%A7%D8%A1-%D9%86%D9%81%D8%B7-%D8%A7%D9%84%D8%B4%D8%B1%D9%82",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-16T10:05:02+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "مصافي اليابان تسارع لشراء نفط الشرق الأوسط بعد تعطل مسار إمدادات سعودي\nكثفت مصافي التكرير اليابانية مشترياتها من نفط الشرق الأوسط، مع تصاعد المخاوف بشأن سرعة وصول الإمدادات بعد إغلاق خط أنابيب سعودي رئيسي، وسط منافسة متزايدة بين المشترين الآسيويين للحصول على شحنات الخام المتاحة.",
+        "وذكرت بلومبيرغ، نقلا عن متعاملين مطلعين، أن شركتي إينيوس هولدينغز وإديميتسو كوسان اليابانيتين اشترتا مؤخرا خاما عمانيا للتحميل في أكتوبر/تشرين الأول، في خطوة جاءت أبكر من المعتاد.",
+        "قصص مقترحة\nlist of 2 items\nوبحسب الوكالة، فإن شحنات الخليج العربي التي تشتريها المصافي عادة خلال سبتمبر/أيلول يجري تحميلها في نوفمبر/تشرين الثاني، ما يشير إلى تحرك المشترين لتأمين احتياجاتهم في فترة أقرب مع تزايد المخاوف بشأن الإمدادات."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "مصافي اليابان تسارع لشراء نفط الشرق الأوسط بعد تعطل مسار إمدادات سعودي"
+      }
+    },
+    {
+      "title_original": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "title_zh": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T10:02:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "OpenAI boss says world 'right to be afraid' but should trust AI firms\n- Published\nThe boss of ChatGPT-maker OpenAI says people should have more faith in AI firms to keep the tech safe, amid rising public concerns about the risks.",
+        "\"The world should trust that we are going to do the right thing because it's the right thing and we feel the magnitude of this,\" Sam Altman said on Tuesday during a conference in San Francisco.",
+        "He accepted people were justified in being concerned about AI, as the capability of the tools has progressed rapidly."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "OpenAI boss says world 'right to be afraid' but should trust AI firms"
+      }
+    },
+    {
+      "title_original": "Journalist and pilot among three killed after news helicopter crashes in LA",
+      "title_zh": "Journalist and pilot among three killed after news helicopter crashes in LA",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T09:49:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Journalist and pilot among three killed after news helicopter crashes in LA\n- Published\nPhotojournalist Eliana Moreno and pilot George Marciniw have been named as being among three people killed after an NBC Los Angeles helicopter crashed in the city's suburbs, the station has confirmed.",
+        "NBC Los Angeles said its NewsChopper4, which also operated for Telemundo 52, was in the area on Tuesday reporting on a deadly bus crash which killed two people.",
+        "Fire officials said an unidentified pedestrian was also killed, and two others were taken to hospital."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Journalist and pilot among three killed after news helicopter crashes in LA"
+      }
+    },
+    {
+      "title_original": "Michelin-starred Seoul restaurant fined for serving dessert topped with ants",
+      "title_zh": "Michelin-starred Seoul restaurant fined for serving dessert topped with ants",
+      "url": "https://www.theguardian.com/world/2026/sep/16/michelin-starred-seoul-restaurant-evett-fined-dessert-ants",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-16T09:09:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Prosecutors sought jail term for chief executive of Evett after insects not approved for consumption were on menu A South Korean court has fined the operator of one of Seoul’s most celebrated restaurants and its chief executive for serving a dessert topped with ants, an insect not approved for consumption under local food safety law.",
+        "The operator of Evett, a two-Michelin-star restaurant in the affluent Gangnam district, was fined 10m won (£5,400) and its chief executive 15m won, Newsis reported .",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Michelin-starred Seoul restaurant fined for serving dessert topped with ants"
+      }
+    },
+    {
+      "title_original": "EU chief von der Leyen calls for EU security mechanism to respond to drone incidents and sabotage",
+      "title_zh": "EU chief von der Leyen calls for EU security mechanism to respond to drone incidents and sabotage",
+      "url": "https://apnews.com/article/nato-drones-europe-eu-security-leyen-russia-4ce4fef2ba8e3866e436655075afc6d3",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-09-16T09:02:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "EU chief von der Leyen calls for EU security mechanism to respond to drone incidents and sabotage    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "EU chief von der Leyen calls for EU security mechanism to respond to drone incidents and sabotage"
+      }
+    },
+    {
+      "title_original": "Swiss set to reject tighter neutrality rules barring NATO cooperation, polls show",
+      "title_zh": "Swiss set to reject tighter neutrality rules barring NATO cooperation, polls show",
+      "url": "https://www.reuters.com/business/aerospace-defense/swiss-set-reject-tighter-neutrality-rules-barring-nato-cooperation-polls-show-2026-09-16/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-16T08:32:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Swiss set to reject tighter neutrality rules barring NATO cooperation, polls show    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Swiss set to reject tighter neutrality rules barring NATO cooperation, polls show"
+      }
+    },
+    {
+      "title_original": "ENEOSと出光興産、中東産原油の調達急ぐ－中国・インド勢も積極購入",
+      "title_zh": "ENEOSと出光興産、中東産原油の調達急ぐ－中国・インド勢も積極購入",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-09-16/TLG4CLR24U8R00",
+      "source": "Bloomberg",
+      "source_score": 95,
+      "published_at": "2026-09-16T07:56:35+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ENEOSと出光興産、中東産原油の調達急ぐ－中国・インド勢も積極購入    Bloomberg",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Bloomberg"
+      ],
+      "all_titles": {
+        "ja": "ENEOSと出光興産、中東産原油の調達急ぐ－中国・インド勢も積極購入"
+      }
+    },
+    {
+      "title_original": "إنديان أويل تشتري 4 ملايين برميل من النفط من الشرق الأوسط وأفريقيا",
+      "title_zh": "إنديان أويل تشتري 4 ملايين برميل من النفط من الشرق الأوسط وأفريقيا",
+      "url": "https://www.reuters.com/ar/business/4OCD6ZUZZNIENLQGM6CRWQXEOQ-2026-09-16/",
+      "source": "reuters.com",
+      "source_score": 95,
+      "published_at": "2026-09-16T07:37:28+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "إنديان أويل تشتري 4 ملايين برميل من النفط من الشرق الأوسط وأفريقيا    reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "reuters.com"
+      ],
+      "all_titles": {
+        "ar": "إنديان أويل تشتري 4 ملايين برميل من النفط من الشرق الأوسط وأفريقيا"
+      }
+    },
+    {
+      "title_original": "ウクライナ南東部で旅客バスに攻撃、5人死亡＝当局者",
+      "title_zh": "ウクライナ南東部で旅客バスに攻撃、5人死亡＝当局者",
+      "url": "https://www.reuters.com/jp/world/ukraine/BU4SPHZ4PRMOBFPYODWS4SJ6PU-2026-09-16/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-16T07:27:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ南東部で旅客バスに攻撃、5人死亡＝当局者    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ南東部で旅客バスに攻撃、5人死亡＝当局者"
+      }
+    },
+    {
+      "title_original": "España asume el liderazgo de una fuerza naval de la OTAN en el Atlántico Norte",
+      "title_zh": "España asume el liderazgo de una fuerza naval de la OTAN en el Atlántico Norte",
+      "url": "https://aesmide.es/espana-asume-el-liderazgo-de-una-fuerza-naval-de-la-otan-en-el-atlantico-norte/",
+      "source": "Aesmide",
+      "source_score": 40,
+      "published_at": "2026-09-16T07:04:30+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "España ha asumido desde el pasado 1 de julio el mando de una de las fuerzas navales regionales de la OTAN encargadas de la vigilancia del Atlántico Norte, responsabilidad que mantendrá hasta el 30 de junio de 2027.",
+        "Es la primera ocasión en la que la Armada española desempeña este cometido, en un contexto marcado por el refuerzo de la seguridad del flanco norte de la Alianza.",
+        "El mando ha sido confiado al vicealmirante Juan Bautista Pérez Puig, comandante del Cuartel General Marítimo de Alta Disponibilidad español y del Spanish Maritime Forces Headquarters (SPMARFOR), que ejerce como comandante de la fuerza multinacional durante este periodo."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Aesmide"
+      ],
+      "all_titles": {
+        "es": "España asume el liderazgo de una fuerza naval de la OTAN en el Atlántico Norte"
+      }
+    },
+    {
+      "title_original": "ガソリン補助金、過去最高51円 中東情勢悪化で前週から15円増",
+      "title_zh": "ガソリン補助金、過去最高51円 中東情勢悪化で前週から15円増",
+      "url": "https://www.asahi.com/articles/ASV9J213DV9JULFA00QM.html",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-09-16T07:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ガソリン補助金、過去最高51円 中東情勢悪化で前週から15円増    朝日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "ガソリン補助金、過去最高51円 中東情勢悪化で前週から15円増"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月16日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（9月16日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46993",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-16T06:48:05+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（9月16日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（9月16日の動き）"
+      }
+    },
+    {
+      "title_original": "NY原油、4カ月ぶりに高値 中東産原油の供給停滞、深刻化か",
+      "title_zh": "NY原油、4カ月ぶりに高値 中東産原油の供給停滞、深刻化か",
+      "url": "https://mainichi.jp/articles/20260916/k00/00m/020/073000c",
+      "source": "毎日新聞",
+      "source_score": 40,
+      "published_at": "2026-09-16T06:14:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "NY原油、4カ月ぶりに高値 中東産原油の供給停滞、深刻化か    毎日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "毎日新聞"
+      ],
+      "all_titles": {
+        "ja": "NY原油、4カ月ぶりに高値 中東産原油の供給停滞、深刻化か"
+      }
+    },
+    {
+      "title_original": "Ukraine war drives European demand for bigger, cheaper missile arsenals",
+      "title_zh": "Ukraine war drives European demand for bigger, cheaper missile arsenals",
+      "url": "https://www.reuters.com/business/aerospace-defense/ukraine-war-drives-european-demand-bigger-cheaper-missile-arsenals-2026-09-16/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-16T06:08:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine war drives European demand for bigger, cheaper missile arsenals    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Ukraine war drives European demand for bigger, cheaper missile arsenals"
+      }
+    },
+    {
+      "title_original": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
+      "title_zh": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year",
+      "url": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-16T06:00:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Twenty-five years after 9/11, figures compiled by conflict monitor underline how Sahel region has become centre of Islamist terror Islamist extremist violence in Africa’s Sahel region is set to reach historic highs after a series of sweeping offensives by groups linked to al-Qaida and Islamic State, according to new figures compiled by the conflict monitor Acled .",
+        "As the US marks the 25th anniversary of the 9/11 attacks launched by al-Qaida against targets in Washington and New York, the statistics underline the continued expansion of the veteran organisation in parts of Africa – in stark contrast with its relative weakness elsewhere.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Al-Qaida and IS-linked violence in Africa’s Sahel belt set to hit record levels this year"
+      }
+    },
+    {
+      "title_original": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
+      "title_zh": "Slave-trade wealth was embedded in Britain’s financial system, research finds",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-16T05:00:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Dozens of Bank of England directors and founding subscribers invested in trafficking of enslaved Africans The Bank of England and the British financial system were for centuries deeply involved in the enslavement and transatlantic trafficking of millions of African people, according to new research on Britain’s slavery history.",
+        "Research by historians compiling the Register of British Slave Traders has found that the scale of the financial system’s involvement in enslavement is greater than previously known or acknowledged.",
+        "The Bank of England, the central bank owned by the government since nationalisation by Clement Attlee’s Labour administration in 1946, had dozens of financiers involved in its foundation who were also significant investors in the transatlantic trafficking of enslaved Africans."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Slave-trade wealth was embedded in Britain’s financial system, research finds"
+      }
+    },
+    {
+      "title_original": "People protecting nature and land set up self-defence units amid threat of murder",
+      "title_zh": "People protecting nature and land set up self-defence units amid threat of murder",
+      "url": "https://www.theguardian.com/world/2026/sep/16/nature-land-defenders-self-defence-murder-organised-crime",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-16T05:00:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Defenders of forests and rivers killed at rate of one every three days in 2025, with 85% of deaths in Latin America Nature and land defenders were murdered at the rate of one every three days last year, prompting many communities to set up self-defence units, according to the latest annual death toll by the independent watchdog Global Witness.",
+        "Organised crime groups or professional killers were implicated in more than a third of the 124 killings of defenders in 2025 as narco-trafficking activities overlapped with intrusions into indigenous territories and environmental crime, such as illegal logging and wildcat gold mining.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "People protecting nature and land set up self-defence units amid threat of murder"
+      }
+    },
+    {
+      "title_original": "Belarus mobilisiert Streitkräfte für Übung nahe strategischer Nato-Schwachstelle",
+      "title_zh": "Belarus mobilisiert Streitkräfte für Übung nahe strategischer Nato-Schwachstelle",
+      "url": "https://de.euronews.com/my-europe/2026/09/16/belarus-nato-schwachstelle-suwalki",
+      "source": "de.euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-16T04:41:30+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Wenige Kilometer von Polen und Litauen entfernt lässt Belarus seine Streitkräfte trainieren, ausgerechnet im sensibelsten Grenzabschnitt der Nato-Ostflanke.",
+        "Minsk spricht von einer reinen Verteidigungsübung.",
+        "In Belarus haben nahe der Grenzen zu Polen und Litauen viertägige Militärübungen begonnen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "de.euronews.com"
+      ],
+      "all_titles": {
+        "de": "Belarus mobilisiert Streitkräfte für Übung nahe strategischer Nato-Schwachstelle"
+      }
+    },
+    {
+      "title_original": "DÉCRYPTAGE. Guerre en Ukraine : drone intercepté par l'OTAN en Lituanie... Quel acte entraînerait une riposte armée des alliés contre l'agresseur",
+      "title_zh": "DÉCRYPTAGE. Guerre en Ukraine : drone intercepté par l'OTAN en Lituanie... Quel acte entraînerait une riposte armée des alliés contre l'agresseur",
+      "url": "https://www.ladepeche.fr/2026/09/16/decryptage-guerre-en-ukraine-drone-intercepte-par-lotan-en-lituanie-quel-acte-entrainerait-une-riposte-armee-des-allies-contre-lagresseur-13552161.php",
+      "source": "ladepeche.fr",
+      "source_score": 40,
+      "published_at": "2026-09-16T04:13:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Guerre en Ukraine : drone intercepté par l'OTAN en Lituanie...",
+        "Quel acte entraînerait une riposte armée des alliés contre l'agresseur    ladepeche.fr",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "ladepeche.fr"
+      ],
+      "all_titles": {
+        "fr": "DÉCRYPTAGE. Guerre en Ukraine : drone intercepté par l'OTAN en Lituanie... Quel acte entraînerait une riposte armée des alliés contre l'agresseur"
+      }
+    },
+    {
+      "title_original": "原油の代替調達進む 中東再び緊迫、紅海経由も先行きに暗雲 - 日経ヴェリタス",
+      "title_zh": "原油の代替調達進む 中東再び緊迫、紅海経由も先行きに暗雲 - 日経ヴェリタス",
+      "url": "https://www.nikkei.com/prime/veritas/article/DGXZQOUB162TD0W6A910C2000000",
+      "source": "nikkei.com",
+      "source_score": 95,
+      "published_at": "2026-09-16T04:09:20+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "輸送の要衝ホルムズ海峡を通らないルートでの原油の代替調達が進んできた。米国産だけでなく、中東産でも紅海経由という代替ルートからの調達が増えている。中東情勢が再び緊迫しており、先行きには暗雲が漂う。日本は改めて供給制約に直面しかねない。財務省が16日に発表した8月の貿易統計によると、原粗油の輸入は前年同月比3.6%増の1159万キロリットルと2カ月連続で前年を上回った。輸入数量は米国とイランの戦...",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "nikkei.com"
+      ],
+      "all_titles": {
+        "ja": "原油の代替調達進む 中東再び緊迫、紅海経由も先行きに暗雲 - 日経ヴェリタス"
+      }
+    },
+    {
+      "title_original": "Sin noticias de Rutte: el secretario general de la OTAN no viaja a España desde enero de 2025 pero multiplica sus visitas a otros socios",
+      "title_zh": "Sin noticias de Rutte: el secretario general de la OTAN no viaja a España desde enero de 2025 pero multiplica sus visitas a otros socios",
+      "url": "https://www.infodefensa.com/texto-diario/mostrar/6016102/noticias-rutte-secretario-general-otan-no-viaja-espana-desde-enero-2025-pero-multiplica-visitas-otros-socios",
+      "source": "Infodefensa",
+      "source_score": 40,
+      "published_at": "2026-09-16T04:03:04+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Sin noticias de Rutte: el secretario general de la OTAN no viaja a España desde enero de 2025 pero multiplica sus visitas a otros socios    Infodefensa",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Infodefensa"
+      ],
+      "all_titles": {
+        "es": "Sin noticias de Rutte: el secretario general de la OTAN no viaja a España desde enero de 2025 pero multiplica sus visitas a otros socios"
+      }
+    },
     {
       "title_original": "俄罗斯“影子舰队”频繁出没北约“盲区”：爱尔兰水域",
       "title_zh": "俄罗斯“影子舰队”频繁出没北约“盲区”：爱尔兰水域",
