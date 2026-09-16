@@ -1,0 +1,882 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T01:23:55.989128+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "俄罗斯“影子舰队”频繁出没北约“盲区”：爱尔兰水域",
+      "title_zh": "俄罗斯“影子舰队”频繁出没北约“盲区”：爱尔兰水域",
+      "url": "https://cn.wsj.com/articles/russias-shadow-fleet-is-sailing-in-natos-blind-spot-irish-waters-76d45a86",
+      "source": "华尔街日报中文网",
+      "source_score": 95,
+      "published_at": "2026-09-16T01:04:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄罗斯“影子舰队”频繁出没北约“盲区”：爱尔兰水域    华尔街日报中文网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "华尔街日报中文网"
+      ],
+      "all_titles": {
+        "zh": "俄罗斯“影子舰队”频繁出没北约“盲区”：爱尔兰水域"
+      }
+    },
+    {
+      "title_original": "ウクライナ、対ドローン新兵器を試験中 シャヘド撃墜成功＝大統領",
+      "title_zh": "ウクライナ、対ドローン新兵器を試験中 シャヘド撃墜成功＝大統領",
+      "url": "https://www.reuters.com/jp/world/ukraine/RSL4PIYHQFLJRLI2CJISVFEEIA-2026-09-16/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-16T00:53:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ、対ドローン新兵器を試験中 シャヘド撃墜成功＝大統領    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、対ドローン新兵器を試験中 シャヘド撃墜成功＝大統領"
+      }
+    },
+    {
+      "title_original": "ロシア国防省 ウクライナ西部の国境検問所など攻撃の映像公開",
+      "title_zh": "ロシア国防省 ウクライナ西部の国境検問所など攻撃の映像公開",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50475",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-16T00:22:36+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア国防省 ウクライナ西部の国境検問所など攻撃の映像公開    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア国防省 ウクライナ西部の国境検問所など攻撃の映像公開"
+      }
+    },
+    {
+      "title_original": "中东局势持续紧张致油价飙升 美政府“冷处理”油价飙升",
+      "title_zh": "中东局势持续紧张致油价飙升 美政府“冷处理”油价飙升",
+      "url": "http://www.china.com.cn/txt/2026-09/16/content_118697818.shtml",
+      "source": "中国网",
+      "source_score": 40,
+      "published_at": "2026-09-16T00:08:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中东局势持续紧张致油价飙升 美政府“冷处理”油价飙升    中国网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "中国网"
+      ],
+      "all_titles": {
+        "zh": "中东局势持续紧张致油价飙升 美政府“冷处理”油价飙升"
+      }
+    },
+    {
+      "title_original": "ポーランド、ウクライナ国境の警備を強化 ロシアの相次ぐ攻撃でNATO加盟国に懸念",
+      "title_zh": "ポーランド、ウクライナ国境の警備を強化 ロシアの相次ぐ攻撃でNATO加盟国に懸念",
+      "url": "https://www.cnn.co.jp/world/35252649.html",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-09-15T23:55:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ポーランド、ウクライナ国境の警備を強化 ロシアの相次ぐ攻撃でNATO加盟国に懸念\n（CNN） ポーランドのコシニャクカミシュ国防相は15日、国境検問所付近へのロシアの相次ぐドローン（無人機）攻撃で北大西洋条約機構（NATO）加盟国の懸念が高まったことを受け、ウクライナ国境の警備を強化していると発表した。",
+        "コシニャクカミシュ氏はX（旧ツイッター）への投稿で「ここ数日の状況は、ロシアの行動で欧州全体の安全が脅かされていることを示している。政府の決定に従い、国境警備隊の使用するインフラの強化が進められている」と述べた。先週末に発生した2回の攻撃を受けたもので、うち1回は欧米の元高官らが移動に使っていた列車に着弾した。",
+        "ロシア国防省は15日、ポーランド国境付近へ2回の攻撃を行ったことを確認。軍事物資を輸送する列車だったと主張した。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ポーランド、ウクライナ国境の警備を強化 ロシアの相次ぐ攻撃でNATO加盟国に懸念"
+      }
+    },
+    {
+      "title_original": "USA-Reise: Hegseth: Deutsche Industrie für Nato-Verteidigung nutzen",
+      "title_zh": "USA-Reise: Hegseth: Deutsche Industrie für Nato-Verteidigung nutzen",
+      "url": "https://www.tagesspiegel.de/internationales/dpa-usa-reise-hegseth-deutsche-industrie-fur-nato-verteidigung-nutzen-16057253.html",
+      "source": "tagesspiegel.de",
+      "source_score": 75,
+      "published_at": "2026-09-15T23:16:08+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "USA-Reise: Hegseth: Deutsche Industrie für Nato-Verteidigung nutzen\nDer „Kriegsminister“ ist voll des Lobes für Deutschlands Kurs in der Nato.",
+        "Beim Besuch von Pistorius wird eine vertiefte Zusammenarbeit beim Bau von Waffen und Munition vereinbart.",
+        "Stand:\nnun bevorzugt anzeigen lassen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "tagesspiegel.de"
+      ],
+      "all_titles": {
+        "de": "USA-Reise: Hegseth: Deutsche Industrie für Nato-Verteidigung nutzen"
+      }
+    },
+    {
+      "title_original": "Litauen: Abgeschossene Drohne war laut Regierung mit Sprengsatz bestückt",
+      "title_zh": "Litauen: Abgeschossene Drohne war laut Regierung mit Sprengsatz bestückt",
+      "url": "https://www.spiegel.de/ausland/litauen-abgeschossene-drohne-war-laut-regierung-mit-sprengsatz-bestueckt-a-edd1cbc5-b077-458f-9930-f140c6ff4f20",
+      "source": "spiegel.de",
+      "source_score": 75,
+      "published_at": "2026-09-15T22:47:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Sorge im Nato-Land Abgeschossene Drohne war laut Litauens Regierung mit Sprengsatz bestückt\nWieder hat es an der Ostflanke der Nato einen Zwischenfall mit einer Drohne gegeben.",
+        "Und das Flugobjekt war nach Angaben aus Litauen mit Sprengstoff bewaffnet.",
+        "Dies teilte Verteidigungsminister Robertas Kaunas mit."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "spiegel.de"
+      ],
+      "all_titles": {
+        "de": "Litauen: Abgeschossene Drohne war laut Regierung mit Sprengsatz bestückt"
+      }
+    },
+    {
+      "title_original": "NATO jet shoots down suspected Russian drone over Lithuania",
+      "title_zh": "NATO jet shoots down suspected Russian drone over Lithuania",
+      "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-15T22:39:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO jet shoots down suspected Russian drone over Lithuania\nEU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.",
+        "An Italian fighter jet flying for NATO has brought down what officials said was a suspected Russian drone in Lithuanian airspace.",
+        "According to Lithuania’s national crisis management centre, the drone entered the country’s airspace on Tuesday from Belarus and was shot down near the small settlement of Pratkunai in central Lithuania, just north of the country’s second-largest city, Kaunas."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "NATO jet shoots down suspected Russian drone over Lithuania"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー氏「ロ無人機がモルドバ領空攻撃」、搭乗機経由中2回",
+      "title_zh": "ゼレンスキー氏「ロ無人機がモルドバ領空攻撃」、搭乗機経由中2回",
+      "url": "https://www.reuters.com/jp/world/ukraine/OJ2WNBMS2NIRHNCTBJF5UO6DQ4-2026-09-15/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-15T22:02:24+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ゼレンスキー氏「ロ無人機がモルドバ領空攻撃」、搭乗機経由中2回    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー氏「ロ無人機がモルドバ領空攻撃」、搭乗機経由中2回"
+      }
+    },
+    {
+      "title_original": "デンマーク軍のヘリにロシア艦船がフレア使用 NATOが非難",
+      "title_zh": "デンマーク軍のヘリにロシア艦船がフレア使用 NATOが非難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260916de50471",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-15T21:40:33+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "デンマーク軍のヘリにロシア艦船がフレア使用 NATOが非難    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "デンマーク軍のヘリにロシア艦船がフレア使用 NATOが非難"
+      }
+    },
+    {
+      "title_original": "Department of Investigation eyes NYPD disability pensions",
+      "title_zh": "Department of Investigation eyes NYPD disability pensions",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/15/department-of-investigation-eyes-nypd-disability-pensions-01078076",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-15T17:28:42-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Department of Investigation eyes NYPD disability pensions",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Department of Investigation eyes NYPD disability pensions"
+      }
+    },
+    {
+      "title_original": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "title_zh": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-15T21:07:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "All support acts on Ed Sheeran's US tour quit after Macklemore dropped\n- Published\nAll of the remaining support acts on Ed Sheeran's US tour have quit, after the rapper Macklemore was dropped from the line-up for making pro-Palestinian remarks on stage.",
+        "Among them were Finneas, the brother of pop star Billie Eilish, who said in a statement: \"Artists must not be silenced when they speak up for the oppressed.\"\nIrish singer-songwriter Aaron Rowe and Danish band Lukas Graham also announced their departure.",
+        "Irish folk band Beoga, who perform with Sheeran on stage every night, dropped out too."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped"
+      }
+    },
+    {
+      "title_original": "Are Drone Incursions Europe’s New Normal?",
+      "title_zh": "Are Drone Incursions Europe’s New Normal?",
+      "url": "https://foreignpolicy.com/2026/09/15/nato-russia-drone-lithuania-incursion-ukraine-denmark-oil/",
+      "source": "Foreign Policy",
+      "source_score": 75,
+      "published_at": "2026-09-15T20:56:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Are Drone Incursions Europe’s New Normal?",
+        "NATO suspects that Russia is behind the latest airspace violation in Lithuania.",
+        "Welcome back to World Brief, where we’re looking at NATO intercepting a drone in Lithuania, the threat of Houthi attacks in Saudi Arabia, and a long-running maritime dispute between Thailand and Cambodia."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Foreign Policy"
+      ],
+      "all_titles": {
+        "en": "Are Drone Incursions Europe’s New Normal?"
+      }
+    },
+    {
+      "title_original": "وول ستريت تتراجع مع ارتفاع أسعار النفط وعائدات السندات الأمريكية",
+      "title_zh": "وول ستريت تتراجع مع ارتفاع أسعار النفط وعائدات السندات الأمريكية",
+      "url": "https://www.reuters.com/ar/business/LZPT5AD2IBO2PHXGHVAEE4YYYQ-2026-09-15/",
+      "source": "reuters.com",
+      "source_score": 95,
+      "published_at": "2026-09-15T20:54:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "وول ستريت تتراجع مع ارتفاع أسعار النفط وعائدات السندات الأمريكية    reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "reuters.com"
+      ],
+      "all_titles": {
+        "ar": "وول ستريت تتراجع مع ارتفاع أسعار النفط وعائدات السندات الأمريكية"
+      }
+    },
+    {
+      "title_original": "منتزه مليحة الوطني «أفضل منتزه وطني في الشرق الأوسط 2026»",
+      "title_zh": "منتزه مليحة الوطني «أفضل منتزه وطني في الشرق الأوسط 2026»",
+      "url": "https://www.aletihad.ae/news/%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA/4692319/%D9%85%D9%86%D8%AA%D8%B2%D9%87-%D9%85%D9%84%D9%8A%D8%AD%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A--%D8%A3%D9%81%D8%B6%D9%84-%D9%85%D9%86%D8%AA%D8%B2%D9%87-%D9%88%D8%B7%D9%86%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-2026",
+      "source": "الاتحاد للأخبار",
+      "source_score": 40,
+      "published_at": "2026-09-15T20:18:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "الشارقة (وام) \nحصد منتزه مليحة الوطني جائزة «أفضل منتزه وطني في الشرق الأوسط لعام 2026» ضمن فعاليات الدورة الـ33 من جوائز السفر العالمية؛ تقديراً لما يقدمه المنتزه من مزيج فريد يجمع بين الإرث الأثري والمناظر الطبيعية الخلابة والسياحة البيئية والتجارب الاستكشافية التي تأخذ الزوار في رحلة غامرة في قلب الصحراء.",
+        "جاء هذا الفوز في فئة شديدة التنافسية وسط منافسة قوية مع أربعة منتزهات أخرى فقط في المنطقة ضمتها القائمة القصيرة للجائزة ليؤكد التزام منتزه مليحة الوطني الراسخ بالحفاظ على الإرث الأثري الغني للمنطقة مع تقديمه في الوقت ذاته تجارب سياحية بيئية وتعليمية بمستوى عالمي حيث تُعد جوائز السفر العالمية التي انطلقت عام 1993 مرجعاً معتمداً للتميز في قطاعات السفر والسياحة والضيافة على مستوى العالم.",
+        "وقال عمر آل علي مدير مليحة والمشاريع الإستراتيجية: نفخر بحصد هذا التكريم الذي يُعد محطة مهمة في مسيرة منتزه مليحة الوطني، ويأتي ثمرة للدعم الذي لمسناه من زوارنا وشركائنا ومجتمعنا، فمليحة وجهة يلتقي فيها التاريخ بالطبيعة والاكتشاف، وسنواصل السعي لتقديم تجارب تُقرّب الناس أكثر من هذا المكان الاستثنائي وتُطلع زوارنا من دولة الإمارات ومختلف أنحاء العالم على عمق إرث الشارقة."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "الاتحاد للأخبار"
+      ],
+      "all_titles": {
+        "ar": "منتزه مليحة الوطني «أفضل منتزه وطني في الشرق الأوسط 2026»"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Deux marins toujours recherchés par Oman après l’attaque d’un pétrolier à Ormuz",
+      "title_zh": "Guerre au Moyen-Orient : Deux marins toujours recherchés par Oman après l’attaque d’un pétrolier à Ormuz",
+      "url": "https://www.20minutes.fr/monde/4245703-20260915-guerre-moyen-orient-deux-marins-toujours-recherches-oman-apres-attaque-petrolier-ormuz",
+      "source": "20 Minutes",
+      "source_score": 40,
+      "published_at": "2026-09-15T20:17:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : Deux marins toujours recherchés par Oman après l’attaque d’un pétrolier à Ormuz\nGUERRE AU MOYEN-ORIENT•Ce mardi, les autorités d’Oman recherchent toujours deux marins après une attaque contre un pétrolier dans le détroit d’Ormuz.",
+        "23 autres marins ont pu être évacués\n20 Minutes avec AFP\nDans le détroit d’Ormuz, les recherches se poursuivent pour retrouver deux membres d’équipage d’un pétrolier battant pavillon panaméen.",
+        "Les autorités d’Oman ont indiqué mardi que 23 autres marins du navire Elgaia avaient pu être évacués après une attaque au nord-ouest de la péninsule de Moussandam."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "20 Minutes"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Deux marins toujours recherchés par Oman après l’attaque d’un pétrolier à Ormuz"
+      }
+    },
+    {
+      "title_original": "ウクライナ戦争が問う「報道の自由」 汚職追及でメディアに存在感",
+      "title_zh": "ウクライナ戦争が問う「報道の自由」 汚職追及でメディアに存在感",
+      "url": "https://www.nikkei.com/article/DGXZQOCD108570Q6A910C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-15T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "この記事は会員限定記事です\nウクライナ戦争が問う「報道の自由」 汚職追及でメディアに存在感\n編集委員 坂井光\n[会員限定記事]\n戦時下の報道はどうあるべきか――。ロシアとウクライナの対照的な対応は、その問いに大きな示唆を与えてくれる。",
+        "9月7日、ウクライナのクラフチェンコ検事総長が辞任を表明した。部下の幹部が汚職疑惑で逮捕され、本人も関与が指摘されていたからだ。ゼレンスキー大統領とも関係が近い検事総長は疑惑を否定したが「政治的判断」で辞任を決めた。",
+        "メディア主導で汚職疑惑を追及\nロシアの侵略以降、ウクライナでは政権や軍の..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ戦争が問う「報道の自由」 汚職追及でメディアに存在感"
+      }
+    },
+    {
+      "title_original": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
+      "title_zh": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election",
+      "url": "https://www.theguardian.com/world/2026/sep/15/brazil-supreme-court-presidential-election",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-15T19:14:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Scandal explodes as country’s election campaign peaks, with polls suggesting dead heat between candidates Brazil’s supreme court has been thrust into what experts consider the greatest crisis since the return of democracy in the 1980s, as two rival judges lock horns on the eve of the presidential election with unpredictable consequences for Latin America’s largest democracy.",
+        "The politically charged dispute exploded into public view on Tuesday as judges traded insults and accusations during a heated supreme court hearing that was livestreamed into millions of Brazilian homes.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Ferocious fight among Brazil’s supreme court erupts on eve of presidential election"
+      }
+    },
+    {
+      "title_original": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
+      "title_zh": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
+      "url": "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-15T19:08:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Prime minister speaks of strengthening Canada’s economic and political ties to Europe at Canada Investment Summit Mark Carney said Canada will pursue a “unique security and economic alliance” with Europe as he positions his country as a base to build in the “new global economic order”.",
+        "Speaking to investors, company executives and government ministers at the inaugural Canada Investment Summit on Tuesday, the prime minister pitched Canada as a “safe harbour” and lucrative home for foreign capital as his government looks to reduce its reliance on trade with the United States.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat"
+      }
+    },
+    {
+      "title_original": "Nigeria arrests alleged Mexican drug kingpin at international airport",
+      "title_zh": "Nigeria arrests alleged Mexican drug kingpin at international airport",
+      "url": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-15T18:49:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Nigeria arrests alleged Mexican drug kingpin at international airport\n- Published\nAn alleged Mexican drug kingpin was arrested in Nigeria last month as he tried to leave the country, the drug enforcement authority has just revealed.",
+        "That arrest resulted in the discovery of a suspected industrial-scale methamphetamine laboratory - the third such find allegedly linked to Mexicans in four months.",
+        "When Arturo Carrera Loaiza, 40, was detained at Lagos international airport, officials allegedly found digital images of him wearing what they believed to be a laboratory coat alongside equipment consistent with meth production."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nigeria arrests alleged Mexican drug kingpin at international airport"
+      }
+    },
+    {
+      "title_original": "VIDÉO. Lituanie : l?OTAN abat un drone dans son espace aérien",
+      "title_zh": "VIDÉO. Lituanie : l?OTAN abat un drone dans son espace aérien",
+      "url": "https://information.tv5monde.com/international/video/lituanie-lotan-abat-un-drone-dans-son-espace-aerien-2837679",
+      "source": "tv5monde",
+      "source_score": 40,
+      "published_at": "2026-09-15T18:18:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Lituanie : l?OTAN abat un drone dans son espace aérien    tv5monde",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "tv5monde"
+      ],
+      "all_titles": {
+        "fr": "VIDÉO. Lituanie : l?OTAN abat un drone dans son espace aérien"
+      }
+    },
+    {
+      "title_original": "South African president vows justice as more women's bodies found near Johannesburg",
+      "title_zh": "South African president vows justice as more women's bodies found near Johannesburg",
+      "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-15T18:01:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "South African president vows justice as more women's bodies found near Johannesburg\n- Published\nSouth Africa's President Cyril Ramaphosa has vowed that \"no stone will be left unturned\" in finding those behind the killings of several women in and around the town of Kempton Park, north-east of Johannesburg, over the last two months.",
+        "Another body was discovered on Tuesday morning and police say their investigation now includes the deaths of seven women most of whom have been found either partially or fully naked.",
+        "\"These incidents are causing fear and uncertainty in our communities, and especially among women,\" the president said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "South African president vows justice as more women's bodies found near Johannesburg"
+      }
+    },
+    {
+      "title_original": "British woman abducted in Malawi, police say",
+      "title_zh": "British woman abducted in Malawi, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-15T17:44:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "British woman abducted in Malawi, police say\n- Published\nPolice in Malawi are investigating the kidnapping of a British national who was abducted in the southern African nation's main city, Blantyre.",
+        "Nusrat Osman, 47, was seized at around 12:30 local time on Friday by four men who had been travelling in a grey Nissan Dualis, according to a police statement.",
+        "The authorities have offered a reward of more than $17,000 (£12,600) for \"credible information\" that could lead to the rescue of the mother of two young children and the prosecution of the perpetrators."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "British woman abducted in Malawi, police say"
+      }
+    },
+    {
+      "title_original": "Suspected sabotage causes major Netherlands rail disruption",
+      "title_zh": "Suspected sabotage causes major Netherlands rail disruption",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-15T16:55:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Suspected sabotage causes major Netherlands rail disruption\n- Published\nParts of the Netherlands, including Amsterdam, were hit by major rail disruption after suspected sabotage to the tracks on Tuesday morning, the country's railway infrastructure operator said.",
+        "ProRail said pipes and cables were laid on tracks at multiple locations in the country's centre and north in more than 35 incidents.",
+        "It added the acts appeared to be intentional, causing widespread cancellations and delays, with new disruptions occurring in some places after objects had initially been removed."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Suspected sabotage causes major Netherlands rail disruption"
+      }
+    },
+    {
+      "title_original": "リトアニア上空でドローン撃墜、ロシアから飛来の可能性 爆発物搭載",
+      "title_zh": "リトアニア上空でドローン撃墜、ロシアから飛来の可能性 爆発物搭載",
+      "url": "https://www.reuters.com/jp/world/ukraine/JZHASGC3BZKW3KARPLQKLSO3BM-2026-09-15/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-15T16:28:50+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "リトアニア上空でドローン撃墜、ロシアから飛来の可能性 爆発物搭載    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "リトアニア上空でドローン撃墜、ロシアから飛来の可能性 爆発物搭載"
+      }
+    },
+    {
+      "title_original": "السعودية تتعهّد برد حازم على هجمات الحوثيين، وجبهات القتال في اليمن في تطورات متسارعة",
+      "title_zh": "السعودية تتعهّد برد حازم على هجمات الحوثيين، وجبهات القتال في اليمن في تطورات متسارعة",
+      "url": "https://www.bbc.com/arabic/bbc_arabic_radio/w1730n42940srrn",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-15T16:28:47+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "BBC News,\nعربي\nإذهب الى المحتوى\nرئيسية\nشاهد\nالصفحة الحالية,\nاستمع\nأقسام\nرئيسية\nأخبار\nاقتصاد\nصحة وعلوم\nثقافة وفنون\nرياضة\nتحقيقات\nبودكاست\nيوميات الشرق الأوسط\n,\nالسعودية تتعهّد برد حازم على هجمات الحوثيين، وجبهات القتال في اليمن في تطورات متسارعة\n15 سبتمبر/ أيلول 2026\nجهازك لا يدعم تشغيل الفيديو\nوفي الضفة الغربية تتصاعد وتيرة التصعيد الإسرائيلي",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "السعودية تتعهّد برد حازم على هجمات الحوثيين، وجبهات القتال في اليمن في تطورات متسارعة"
+      }
+    },
+    {
+      "title_original": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "title_zh": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-15T16:13:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says\n- Published\nTwo sailors are missing and 23 others have been rescued following an attack on an oil tanker in the Strait of Hormuz, Oman says.",
+        "Oman's Maritime Security Centre said the Panama-flagged El Gaia was being towed to an Omani port on Tuesday after a fire broke out in its engine room, adding that the vessel was targeted 1.3 nautical miles (2.4km) north of the Musandam peninsula.",
+        "On Monday, Iran's Revolutionary Guards said the tanker hit naval mines and caught fire while passing through what they described as a restricted and unsafe route."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says"
+      }
+    },
+    {
+      "title_original": "Indonesian wildfires threaten leading orangutan research site in Borneo",
+      "title_zh": "Indonesian wildfires threaten leading orangutan research site in Borneo",
+      "url": "https://www.theguardian.com/environment/2026/sep/15/indonesia-wildfires-threaten-leading-orangutan-research-site-borneo-cabang-panti",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-15T15:57:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Critically endangered Bornean orangutans flee forests as staff at Cabang Panti work round the clock to stave off blaze Wildfires in Indonesia are sweeping through a critical research site for Bornean orangutans and are now threatening a celebrated research camp, home to one of the world’s longest-running studies of wild apes.",
+        "In the past few days, the fires have burned within 200 metres of Rangkong research station, a satellite of Cabang Panti research station, which lies about four miles north in Gunung Palung national park.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Indonesian wildfires threaten leading orangutan research site in Borneo"
+      }
+    },
+    {
+      "title_original": "NATO reaffirms its steadfast commitment to stability in the Western Balkans, following update by the KFOR Commander",
+      "title_zh": "NATO reaffirms its steadfast commitment to stability in the Western Balkans, following update by the KFOR Commander",
+      "url": "https://www.nato.int/en/news-and-events/articles/news/2026/09/15/nato-reaffirms-its-steadfast-commitment-to-stability-in-the-western-balkans-following-update-by-the-kfor-commander",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-09-15T15:29:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO reaffirms its steadfast commitment to stability in the Western Balkans, following update by the KFOR Commander    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO reaffirms its steadfast commitment to stability in the Western Balkans, following update by the KFOR Commander"
+      }
+    },
+    {
+      "title_original": "Moskau warnt westliche Politiker vor Zugreisen in die Ukraine",
+      "title_zh": "Moskau warnt westliche Politiker vor Zugreisen in die Ukraine",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-russland-warnt-westliche-politiker-vor-zugreisen-nach-kyjiw-a-2f4a69b4-e33a-48c2-b481-779d519a65a4",
+      "source": "spiegel.de",
+      "source_score": 75,
+      "published_at": "2026-09-15T14:54:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Nach Drohnenangriff Moskau warnt westliche Politiker vor Zugreisen in die Ukraine\nDas Wochenende hat gezeigt: Russland nimmt die Bahnlinie zwischen Kyjiw und Warschau ins Visier.",
+        "Eine russische Drohne traf einen Zug nahe der Grenze zu Polen.",
+        "In einem anderen Zug unweit davon saßen bekannte Politiker wie der schwedische Ex-Premier Carl Bildt, Großbritanniens Ex-Premier Boris Johnson oder die ehemalige finnische Premierministerin Sanna Marin."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "spiegel.de"
+      ],
+      "all_titles": {
+        "de": "Moskau warnt westliche Politiker vor Zugreisen in die Ukraine"
+      }
+    },
+    {
+      "title_original": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter",
+      "title_zh": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter",
+      "url": "https://apnews.com/article/russia-ukraine-war-lithuania-drone-downed-nato-9671662649ebed2eca41879982f366ad",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-09-15T14:51:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter"
+      }
+    },
+    {
+      "title_original": "Ash from Mount Etna grounds flights at Sicily airport",
+      "title_zh": "Ash from Mount Etna grounds flights at Sicily airport",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-15T14:35:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ash from Mount Etna grounds flights at Sicily airport\n- Published\nAll flights have been suspended from one of Italy's busiest airports because of volcanic ash released from nearby Mount Etna.",
+        "It is the second time in recent months that Catania International Airport, on the island of Sicily, has stopped flights due to emissions from Etna, which is Europe's tallest active volcano and erupts frequently.",
+        "Airport officials said arrivals and departures, which were first halted on Monday, would be suspended until 22:00 (20:00 GMT) on Tuesday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ash from Mount Etna grounds flights at Sicily airport"
+      }
+    },
+    {
+      "title_original": "Ce que l'on sait du drone abattu par l'Otan au-dessus de la Lituanie",
+      "title_zh": "Ce que l'on sait du drone abattu par l'Otan au-dessus de la Lituanie",
+      "url": "https://www.franceinfo.fr/monde/otan/ce-que-l-on-sait-du-drone-abattu-par-l-otan-au-dessus-de-la-lituanie_8193305.html",
+      "source": "franceinfo",
+      "source_score": 40,
+      "published_at": "2026-09-15T14:14:21+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ce que l'on sait du drone abattu par l'Otan au-dessus de la Lituanie\nDeux avions de chasse italiens, en mission pour l'Alliance atlantique, ont abattu dans la nuit de lundi à mardi un drone d'origine indéterminée au-dessus de la Lituanie.",
+        "La Russie, soupçonnée de précédentes intrusions similaires en Europe, n'a pas commenté l'incident.",
+        "Une tentative de déstabilisation de la part de la Russie ?"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "franceinfo"
+      ],
+      "all_titles": {
+        "fr": "Ce que l'on sait du drone abattu par l'Otan au-dessus de la Lituanie"
+      }
+    },
+    {
+      "title_original": "More than 100,000 people in Japan are now aged 100 or older",
+      "title_zh": "More than 100,000 people in Japan are now aged 100 or older",
+      "url": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-15T13:43:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "More than 100,000 people in Japan are now aged 100 or older\n- Published\nThe number of people aged 100 or more in Japan has exceeded 100,000 for the first time, according to the health ministry.",
+        "Figures show Japan is now home to 107,677 centenarians, the highest number in the world, of whom 88% are women.",
+        "The oldest woman is Kishimoto Fuyo, a 114-year-old from Kyoto City and the oldest man is Kato Hikaru, a 112-year-old from Kumamoto."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "More than 100,000 people in Japan are now aged 100 or older"
+      }
+    },
+    {
+      "title_original": "NATO Shoots Down Drone That Entered Lithuanian Airspace",
+      "title_zh": "NATO Shoots Down Drone That Entered Lithuanian Airspace",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-15/nato-shoots-down-drone-that-entered-lithuanian-airspace-mu27y5vq",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-15T13:35:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO Shoots Down Drone That Entered Lithuanian Airspace    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "NATO Shoots Down Drone That Entered Lithuanian Airspace"
+      }
+    }
+  ]
+}
