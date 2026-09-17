@@ -1,0 +1,882 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T01:22:13.596786+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "欧州委員長、カナダのEU「準加盟国」入り計画を支持　施政方針演説で",
+      "title_zh": "欧州委員長、カナダのEU「準加盟国」入り計画を支持　施政方針演説で",
+      "url": "https://www.bbc.com/japanese/articles/cqvgydgxn5ygo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-17T01:10:22+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "欧州委員長、カナダのEU「準加盟国」入り計画を支持 施政方針演説で\nエイミー・ウォーカー記者、ニック・ビーク欧州担当編集委員\n欧州委員会のウルズラ・フォン・デア・ライエン委員長は16日、カナダが欧州連合（EU）初の「準加盟国」となる提案を支持した。委員長はこの日の欧州議会で、カナダに「扉を開く」ための取り組みを行いたいとし、そのためには様々な主要分野でこれまで以上に緊密な関係を築く必要があると述べた。これについて記者団に質問されたドナルド・トランプ米大統領は、「笑える」話だと一蹴した。",
+        "カナダのマーク・カーニー首相は13日、EUとの「特別な同盟関係」の構築を目指すと述べた。カナダは現在、アメリカとの関係が緊迫しており、貿易をめぐる対立も激化している。",
+        "フォン・デア・ライエン委員長は、トランプ氏の名前こそ挙げなかったものの、カナダに何らかの形でEU加盟の機会を与えることは「他国に対抗するための提携ではなく、私たちが共に強くなるためだ」と述べた。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "欧州委員長、カナダのEU「準加盟国」入り計画を支持　施政方針演説で"
+      }
+    },
+    {
+      "title_original": "Congress passes sweeping US sanctions bill targeting Russia",
+      "title_zh": "Congress passes sweeping US sanctions bill targeting Russia",
+      "url": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-17T00:56:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Congress passes sweeping US sanctions bill targeting Russia\nThe bill marks the first time in more than two years the US Congress has passed legislation assisting Ukraine.",
+        "The United States House of Representatives has passed a bipartisan sanctions bill targeting Russia over its continued war in Ukraine.",
+        "Lawmakers on Wednesday voted to send the sweeping legislation, championed by the late Republican Senator Lindsey Graham of South Carolina, to US President Donald Trump’s desk, ending more than a year of delays and obstacles."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Congress passes sweeping US sanctions bill targeting Russia"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen",
+      "title_zh": "Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen",
+      "url": "https://www.tagesspiegel.de/internationales/dpa-ukraine-krieg-us-kongress-beschliesst-gesetz-fur-russland-sanktionen-16062245.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-09-17T00:10:07+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen\nGibt es bald neue US-Sanktionen gegen Russland?",
+        "Ein Gesetz dazu hat nun das US-Parlament passiert.",
+        "Der Schritt könnte auch die Beziehungen zu China belasten."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: US-Kongress beschließt Gesetz für Russland-Sanktionen"
+      }
+    },
+    {
+      "title_original": "Putins Krieg in der Ukraine: US-Kongress beschließt Gesetz für Sanktionen gegen Russland",
+      "title_zh": "Putins Krieg in der Ukraine: US-Kongress beschließt Gesetz für Sanktionen gegen Russland",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-us-kongress-erhoeht-mit-sanktionsgesetz-den-druck-auf-russland-a-fa55cbbc-468d-4641-9032-82892cc931da",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-16T23:51:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putins Krieg in der Ukraine US-Kongress beschließt Gesetz für Sanktionen gegen Russland\nIn den USA hat nach dem Senat auch das Repräsentantenhaus für ein Sanktionsgesetz gestimmt, um Russland wegen des Ukrainekriegs stärker unter Druck zu setzen.",
+        "Neben direkten Strafmaßnahmen gegen russische Politiker und Firmen soll das Gesetz die russischen Öl- und Gasexporte eindämmen, mit denen Russland seinen Angriffskrieg finanziert.",
+        "Die Abgeordneten im Repräsentantenhaus stimmten mit einer überparteilichen Mehrheit von 262 zu 159 Stimmen für das Gesetz ."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Putins Krieg in der Ukraine: US-Kongress beschließt Gesetz für Sanktionen gegen Russland"
+      }
+    },
+    {
+      "title_original": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+      "title_zh": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T23:41:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC\n- Published\nThe boss of Snapchat says the firm would be \"willing to implement\" time limits for teens, following a call from Meta for it to take action.",
+        "Evan Spiegel told the BBC in an interview at the company's California headquarters that he believed setting a maximum amount of time that young users could spend on the app could be \"an important step forward for the industry.\"\nHis comments came as the firm revealed a slew of new features for its upcoming Specs glasses, which it said could connect to Apple iPhone and Mac devices.",
+        "Meta has been pressuring other social media companies to join it in making platform changes it agreed to as part of a recent multi-billion dollar legal settlement with US states."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC"
+      }
+    },
+    {
+      "title_original": "Ukraine verkauft Millionen Kriegsdaten an KI-Firmen – mit weitreichenden Folgen",
+      "title_zh": "Ukraine verkauft Millionen Kriegsdaten an KI-Firmen – mit weitreichenden Folgen",
+      "url": "https://t3n.de/news/drohnendaten-ukraine-krieg-ressource-ki-1762026/",
+      "source": "t3n",
+      "source_score": 40,
+      "published_at": "2026-09-16T22:58:45+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Drohnendaten aus dem Ukraine-Krieg: Wie militärische Einsätze zu einer neuen Ressource für KI-Firmen werden\nDie Schlachtfelder in der Ukraine sind übersät mit den Überresten von Drohnen, die sich mittlerweile fest als entscheidende Waffe der modernen Kriegsführung etabliert haben.",
+        "Doch hinter all den Trümmern verbirgt sich eine neue Goldgrube für die Verteidigungsindustrie.",
+        "Denn die von Drohnen generierten Daten werden die Kriege, in denen sie zum Einsatz kommen, bei weitem überdauern und zunehmend Teil einer KI-Architektur, die sogar unser ziviles Leben prägt."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "t3n"
+      ],
+      "all_titles": {
+        "de": "Ukraine verkauft Millionen Kriegsdaten an KI-Firmen – mit weitreichenden Folgen"
+      }
+    },
+    {
+      "title_original": "„Die hauen einfach ab“ – die Folgen des deutschen Abzugs aus Erbil",
+      "title_zh": "„Die hauen einfach ab“ – die Folgen des deutschen Abzugs aus Erbil",
+      "url": "https://www.welt.de/politik/ausland/plus6aa68ea0240b302c8a8433bc/naher-osten-die-hauen-einfach-ab-die-folgen-des-deutschen-abzugs-aus-erbil.html",
+      "source": "welt.de",
+      "source_score": 40,
+      "published_at": "2026-09-16T22:53:44+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Hauptnavigation: Nutzen Sie die Tabulatortaste, um durch die Menüpunkte zu navigieren.",
+        "Öffnen Sie Untermenüs mit der Leertaste.",
+        "Schließen Sie Untermenüs mit der Escape-Taste."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "welt.de"
+      ],
+      "all_titles": {
+        "de": "„Die hauen einfach ab“ – die Folgen des deutschen Abzugs aus Erbil"
+      }
+    },
+    {
+      "title_original": "مفاوضات حرب أوكرانيا ـ قراءة في الحسابات الروسية والأمريكية والأوكراني",
+      "title_zh": "مفاوضات حرب أوكرانيا ـ قراءة في الحسابات الروسية والأمريكية والأوكراني",
+      "url": "https://www.europarabct.com/%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D9%80-%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B3%D8%A7%D8%A8/",
+      "source": "المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات",
+      "source_score": 40,
+      "published_at": "2026-09-16T22:34:37+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات ـ ألمانيا وهولندا،ECCI\nمفاوضات حرب أوكرانيا ـ قراءة في الحسابات الروسية والأمريكية والأوكراني\nتدخل مفاوضات السلام بشأن حرب أوكرانيا مرحلة تتسم بتعقيدات سياسية وأمنية متزايدة، في ظل استمرار الخلافات بشأن شروط التسوية وضمانات الأمن ومستقبل الأراضي المتنازع عليها.",
+        "وتتداخل في مسار المفاوضات مصالح أوكرانيا وروسيا والولايات المتحدة والدول الأوروبية، بما يجعل أي اتفاق محتمل مرتبطًا بتوازنات أمنية وسياسية تتجاوز طرفي الصراع.",
+        "استعداد من جانب روسيا للحوار\nتشير المفاوضات الأمريكية إلى “استعداد جديد” من جانب روسيا للحوار، لكن خبراء لا يتوقعون حلًا سريعًا للحرب في أوكرانيا."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات"
+      ],
+      "all_titles": {
+        "ar": "مفاوضات حرب أوكرانيا ـ قراءة في الحسابات الروسية والأمريكية والأوكراني"
+      }
+    },
+    {
+      "title_original": "ロシア総選挙にウクライナ参戦兵士が相次ぎ出馬…統一ロシア、82人を公認（中央日報日本語版）",
+      "title_zh": "ロシア総選挙にウクライナ参戦兵士が相次ぎ出馬…統一ロシア、82人を公認（中央日報日本語版）",
+      "url": "https://news.yahoo.co.jp/articles/7f709fbe53b2aab654e3ca8bc67de64e3aab01be",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-16T22:19:11+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ロシア総選挙にウクライナ参戦兵士が相次ぎ出馬…統一ロシア、82人を公認\nロシアの総選挙と地方選挙に、ウクライナ戦争に参戦した兵士たちが相次いで出馬する。ウラジーミル・プーチン大統領が彼らを「真のエリート」として前面に押し出す中、与党勢力が参戦経験を政治的資産として活用しているとの分析が出ている。",
+        "16日（現地時間）、タス通信およびRIAノーボスチ通信などによると、ドミトリー・メドベージェフ国家安全保障会議副議長は、自身が代表を務める統一ロシアが、ロシアが「特別軍事作戦」と呼ぶウクライナ戦争に参加した82人を下院議員候補として公認したと明らかにした。",
+        "メドベージェフ副議長は「われわれの候補の多くは武器を手に祖国を守った人々だ」とし、「地方選挙にも数百人の退役軍人が出馬する」と述べた。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア総選挙にウクライナ参戦兵士が相次ぎ出馬…統一ロシア、82人を公認（中央日報日本語版）"
+      }
+    },
+    {
+      "title_original": "El Báltico, en alerta por Bielorrusia",
+      "title_zh": "El Báltico, en alerta por Bielorrusia",
+      "url": "https://www.rtve.es/play/videos/telediario-2/baltico-guardia-despues-avion-otan-derribara-dron-procedente-bielorrusia/17228233/",
+      "source": "RTVE.es",
+      "source_score": 55,
+      "published_at": "2026-09-16T22:01:09+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Telediario 2\n                                \n                                \n                                El báltico, en guardia después de que un avión de la OTAN derribara un dron procedente de Bielorrusia\n                                \n                            \n                            \n                                \n                                \n                                \n                                \n                                \n                            \n                            \n                            \n                        Cazas de la OTAN han derribado un dron cargado con explosivos que violó el espacio aéreo de Lituania tras irrumpir desde la vecina Bielorrusia y...",
+        "17/09/2026 00:01:09",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "RTVE.es"
+      ],
+      "all_titles": {
+        "es": "El Báltico, en alerta por Bielorrusia"
+      }
+    },
+    {
+      "title_original": "Nato leader warns of ‘most dangerous and complex security environment in a generation’",
+      "title_zh": "Nato leader warns of ‘most dangerous and complex security environment in a generation’",
+      "url": "https://www.theguardian.com/world/2026/sep/16/nato-leader-warns-of-most-dangerous-and-complex-security-environment-in-a-generation",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-09-16T21:21:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nato needs “more UK and more Europe” to deal with the most dangerous security environment faced by the west in a generation, the secretary general of the 32-country military alliance said this afternoon on a visit to the UK.",
+        "Mark Rutte praised Britain for promising to increase defence spending in line with US demands after a meeting prime minister Andy Burnham – but argued that the military and financial effort must continue into the future.",
+        "“It is essential that your armed forces continue to provide the hard power Nato needs,” Rutte said in a speech to a specialist audience at Ditchley Park, a wartime retreat used by Winston Churchill in Oxfordshire."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Nato leader warns of ‘most dangerous and complex security environment in a generation’"
+      }
+    },
+    {
+      "title_original": "原油は反落、中東の供給障害に緩和の兆し－テクニカル面で過熱感も",
+      "title_zh": "原油は反落、中東の供給障害に緩和の兆し－テクニカル面で過熱感も",
+      "url": "https://www.bloomberg.com/jp/news/articles/2026-09-16/TLH40JT96OSH00",
+      "source": "Bloomberg",
+      "source_score": 95,
+      "published_at": "2026-09-16T21:07:41+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "原油は反落、中東の供給障害に緩和の兆し－テクニカル面で過熱感も    Bloomberg",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Bloomberg"
+      ],
+      "all_titles": {
+        "ja": "原油は反落、中東の供給障害に緩和の兆し－テクニカル面で過熱感も"
+      }
+    },
+    {
+      "title_original": "Jay Jacobs gets his first-ever challenger for state Dem chair",
+      "title_zh": "Jay Jacobs gets his first-ever challenger for state Dem chair",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/16/jay-jacobs-gets-his-first-ever-challenger-for-state-dem-chair-01080908",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-16T16:52:59-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Jay Jacobs gets his first-ever challenger for state Dem chair",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Jay Jacobs gets his first-ever challenger for state Dem chair"
+      }
+    },
+    {
+      "title_original": "L'Arabie saoudite accuse les Houthis d'avoir mené une attaque de drone visant La Mecque",
+      "title_zh": "L'Arabie saoudite accuse les Houthis d'avoir mené une attaque de drone visant La Mecque",
+      "url": "https://www.france24.com/fr/moyen-orient/20260916-arabie-saoudite-accuse-les-houthis-d-avoir-men%C3%A9-une-attaque-de-drone-visant-la-mecque",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-16T20:40:14+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "L'Arabie saoudite accuse les Houthis d'avoir mené une attaque de drone visant La Mecque    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "L'Arabie saoudite accuse les Houthis d'avoir mené une attaque de drone visant La Mecque"
+      }
+    },
+    {
+      "title_original": "The Russia-Ukraine War Report Card, Sept. 16, 2026",
+      "title_zh": "The Russia-Ukraine War Report Card, Sept. 16, 2026",
+      "url": "https://www.russiamatters.org/news/russia-ukraine-war-report-card/russia-ukraine-war-report-card-sept-16-2026",
+      "source": "Russia Matters",
+      "source_score": 40,
+      "published_at": "2026-09-16T20:16:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "The Russia-Ukraine War Report Card, Sept.",
+        "16, 2026    Russia Matters",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Russia Matters"
+      ],
+      "all_titles": {
+        "en": "The Russia-Ukraine War Report Card, Sept. 16, 2026"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Des photos de soldats dévoilent d’importants dégâts sur les bases américaines",
+      "title_zh": "Guerre au Moyen-Orient : Des photos de soldats dévoilent d’importants dégâts sur les bases américaines",
+      "url": "https://www.20minutes.fr/monde/etats-unis/4246008-20260916-guerre-moyen-orient-photos-soldats-devoilent-importants-degats-bases-americaines",
+      "source": "20 Minutes",
+      "source_score": 40,
+      "published_at": "2026-09-16T20:13:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : Des photos de soldats dévoilent d’importants dégâts sur les bases américaines\nFRAPPES IRANIENNES•Des photos de soldats et un rapport du Pentagone révèlent l’ampleur des dégâts causés par les frappes iraniennes contre plusieurs bases américaines au Moyen-Orient\nL.G.",
+        "avec AFP\nDes centaines de bâtiments touchés et des dizaines d’appareils détruits ou endommagés… L’ampleur des dégâts subis par les installations militaires américaines au Moyen-Orient apparaît dans des documents officiels et des images publiées mardi par CBS News.",
+        "Les photos, prises par des soldats américains sur une base en Arabie saoudite et deux autres au Koweït, montrent notamment un avion détruit, des tentes déchirées et des baraquements éventrés."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "20 Minutes"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Des photos de soldats dévoilent d’importants dégâts sur les bases américaines"
+      }
+    },
+    {
+      "title_original": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+      "title_zh": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+      "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T19:59:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US House votes to hold billionaire Epstein associate Leon Black in contempt\n- Published\nThe US House of Representatives has agreed to hold billionaire Leon Black in contempt of Congress for defying a legal summons related to its investigation into convicted sex offender Jeffrey Epstein.",
+        "Black, who had business ties to Epstein, did not comply with a subpoena ordering him to appear before the House Oversight Committee earlier this month and share documents related to Epstein.",
+        "Lawyers for Black, who has sued over the summons, called the contempt move \"outrageous\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US House votes to hold billionaire Epstein associate Leon Black in contempt"
+      }
+    },
+    {
+      "title_original": "Visite du secrétaire général de l’OTAN au Royaume-Uni",
+      "title_zh": "Visite du secrétaire général de l’OTAN au Royaume-Uni",
+      "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/09/16/nato-secretary-general-visits-the-united-kingdom",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-09-16T19:18:45+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Accédez aux ressources médiatiques officielles de l'OTAN.",
+        "Un contenu de qualité professionnelle, diffusé sur les dernières actualités.",
+        "La référence pour les professionnels des médias."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "fr": "Visite du secrétaire général de l’OTAN au Royaume-Uni"
+      }
+    },
+    {
+      "title_original": "Trump chief of staff Susie Wiles announces she's cancer-free",
+      "title_zh": "Trump chief of staff Susie Wiles announces she's cancer-free",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9xrx80ekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T19:12:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump chief of staff Susie Wiles announces she's cancer-free\n- Published\nWhite House Chief of Staff Susie Wiles has announced she is free of cancer, exactly six months after she announced her diagnosis.",
+        "In a post on X, Wiles said her pathology tests \"came back clear\" after a visit to the Mayo Clinic earlier this week.",
+        "Wiles, 69, is considered among the most powerful figures in the Trump administration and someone particularly close to the US president."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump chief of staff Susie Wiles announces she's cancer-free"
+      }
+    },
+    {
+      "title_original": "Photos show widespread damage at US sites from Iranian attacks",
+      "title_zh": "Photos show widespread damage at US sites from Iranian attacks",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T18:36:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Photos show widespread damage at US sites from Iranian attacks\n- Published\nImages showing widespread damage to multiple US sites in the Middle East from Iranian strikes have been obtained by the BBC's US partner CBS.",
+        "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings.",
+        "The undated photos were taken at US bases and sites in Saudi Arabia and Kuwait."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Photos show widespread damage at US sites from Iranian attacks"
+      }
+    },
+    {
+      "title_original": "欧州委員長、「欧州安保理」創設を支持 ウクライナ・カナダなど参加構想",
+      "title_zh": "欧州委員長、「欧州安保理」創設を支持 ウクライナ・カナダなど参加構想",
+      "url": "https://www.reuters.com/jp/world/ukraine/FMJOSL7SURNKFFM6567BCUVD6E-2026-09-16/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-16T17:39:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧州委員長、「欧州安保理」創設を支持 ウクライナ・カナダなど参加構想    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "欧州委員長、「欧州安保理」創設を支持 ウクライナ・カナダなど参加構想"
+      }
+    },
+    {
+      "title_original": "NATO’s response to Putin’s hybrid war is ‘highly underwhelming,’ says fmr. US diplomat",
+      "title_zh": "NATO’s response to Putin’s hybrid war is ‘highly underwhelming,’ says fmr. US diplomat",
+      "url": "https://www.cnn.com/2026/09/16/tv/video/amanpour-carpenter",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-09-16T17:25:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Video Ad Feedback\n  NATO’s response to Putin’s hybrid war is ‘highly underwhelming,’ says fmr.",
+        "US diplomat\n                \n                        \n                              \n                        Christiane Amanpour speaks with Michael Carpenter, the former U.S.",
+        "Permanent Representative to the OSCE, about Russia's attack on a Ukrainian train station and NATO's possible response to it in the future."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "en": "NATO’s response to Putin’s hybrid war is ‘highly underwhelming,’ says fmr. US diplomat"
+      }
+    },
+    {
+      "title_original": "NATO Secretary General visits the United Kingdom",
+      "title_zh": "NATO Secretary General visits the United Kingdom",
+      "url": "https://www.nato.int/en/news-and-events/articles/news/2026/09/16/nato-secretary-general-visits-the-united-kingdom",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-09-16T17:21:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Create an account\n                        \n                        \n    \n    \n        \n            \n                \n                    \n                        \n                            \n                                Check your inbox and enter verification code\n                            \n                        \n                        \n    \n                    \n                \n            \n        \n    \n \n                        \n                            We have sent a verification code to your email address.",
+        "Enter the code to verify your account.",
+        "This code will expire in 30 minutes."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO Secretary General visits the United Kingdom"
+      }
+    },
+    {
+      "title_original": "La UE propone una OTAN europea sin EEUU, pero con Canadá",
+      "title_zh": "La UE propone una OTAN europea sin EEUU, pero con Canadá",
+      "url": "https://lacronicadesalamanca.com/702096-ue-propone-otan-europea-sin-eeuu-pero-con-canada/",
+      "source": "La Crónica de Salamanca",
+      "source_score": 40,
+      "published_at": "2026-09-16T17:20:12+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La presidenta de la Comisión Europea, Ursula von der Leyen, ha anunciado la creación de un Consejo Europeo de Seguridad y de un protocolo de emergencia similar al de la OTAN para blindar al continente ante el aumento de los sabotajes.",
+        "Durante su discurso sobre el estado de la Unión, la dirigente ha apostado por una estrategia de defensa propia que integrará a socios clave como Canadá o el Reino Unido, dejando al margen a Estados Unidos, para dar una respuesta unitaria y rápida a la escalada de ataques híbridos.",
+        "Para adaptar las herramientas del bloque a un escenario internacional cada vez más hostil, la Unión Europea trabaja en el diseño de una nueva arquitectura defensiva."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "La Crónica de Salamanca"
+      ],
+      "all_titles": {
+        "es": "La UE propone una OTAN europea sin EEUU, pero con Canadá"
+      }
+    },
+    {
+      "title_original": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "title_zh": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T17:16:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say\n- Published\nAt least 21 people have been killed, including eight children, after a war-damaged building collapsed in the Gaza Strip overnight, rescuers and medics say.",
+        "Witnesses told the BBC that the six-storey building in Gaza City's Tal al-Hawa area had been left tilting dangerously to one side after an Israeli strike more than a year ago.",
+        "Displaced families had lived inside because they were desperate, they said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say"
+      }
+    },
+    {
+      "title_original": "يوميات الشرق الأوسط 16/09/2026 GMT",
+      "title_zh": "يوميات الشرق الأوسط 16/09/2026 GMT",
+      "url": "https://www.bbc.com/arabic/bbc_arabic_radio/w1730n42940wnnr",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-16T16:38:32+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "BBC News,\nعربي\nإذهب الى المحتوى\nرئيسية\nشاهد\nالصفحة الحالية,\nاستمع\nأقسام\nرئيسية\nأخبار\nاقتصاد\nصحة وعلوم\nثقافة وفنون\nرياضة\nتحقيقات\nبودكاست\nيوميات الشرق الأوسط\n,\nبعد مقتل وإصابة العشرات في انهيار بناية بقطاع غزة..",
+        "كم مبنى آيل للسقوط يؤوي النازحين في القطاع؟\n16 سبتمبر/ أيلول 2026\nجهازك لا يدعم تشغيل الفيديو\nفي الذكرى الثانية لانفجارات البيجرز..",
+        "كيف غير الحادث مفاهيم إصابات العيون للأبد؟"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "يوميات الشرق الأوسط 16/09/2026 GMT"
+      }
+    },
+    {
+      "title_original": "حرب أوكرانيا تقترب أكثر من حدود «ناتو»... أين يمكن أن يصل التصعيد الروسي؟",
+      "title_zh": "حرب أوكرانيا تقترب أكثر من حدود «ناتو»... أين يمكن أن يصل التصعيد الروسي؟",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/5318219-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D9%82%D8%AA%D8%B1%D8%A8-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-%D8%AD%D8%AF%D9%88%D8%AF-%D9%86%D8%A7%D8%AA%D9%88-%D8%A3%D9%8A%D9%86-%D9%8A%D9%85%D9%83%D9%86-%D8%A3%D9%86-%D9%8A%D8%B5%D9%84-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A%D8%9F",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-09-16T15:55:39+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "أعادت ضربة روسية استهدفت قطاراً للركاب قرب الحدود الأوكرانية مع بولندا، الأحد، المخاوف من اقتراب تداعيات الحرب أكثر من أراضي حلف شمال الأطلسي (ناتو)، في وقت تواجه فيه دول أوروبية سلسلة من المسيّرات وعمليات التخريب والهجمات الإلكترونية تتهم فيها موسكو بالوقوف خلف عدد منها.",
+        "وأصابت مسيّرة روسية قاطرة قطار للركاب في منطقة ياهودين، على مسافة نحو كيلومترين من الحدود البولندية، بعد وقت قصير من مرور قطار كان يقلّ شخصيات غربية، بينها رئيس الوزراء البريطاني الأسبق بوريس جونسون الذي كان رئيس وزراء بريطانيا حين بدأت روسيا غزوها أوكرانيا في فبراير (شباط) 2022.",
+        "ووصف وزير الخارجية البولندي رادوسلاف سيكورسكي الهجوم بأنه تصعيد، في حين حذّر رئيس الوزراء البولندي دونالد توسك من تكثيف التحركات الروسية خلال الأسابيع والأشهر المقبلة، في وقت قال وزير الخارجية الفرنسي جان نويل بارو إن موسكو تسعى إلى «ترهيب الأوروبيين وتقسيمهم»."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "حرب أوكرانيا تقترب أكثر من حدود «ناتو»... أين يمكن أن يصل التصعيد الروسي؟"
+      }
+    },
+    {
+      "title_original": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+      "title_zh": "Michelin-starred Seoul restaurant fined for using ants as garnish",
+      "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T15:48:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Michelin-starred Seoul restaurant fined for using ants as garnish\n- Published\nA two Michelin-starred restaurant in Seoul has been fined for using ants as a dessert garnish.",
+        "The owner of Evett in the South Korean capital was fined 15 million won (£8,144; $10,965), while the company operating the restaurant was fined 10 million won for violating the Food Sanitation Act, local media report.",
+        "Ants are not among the 10 insect species approved for human consumption in the east Asian nation."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Michelin-starred Seoul restaurant fined for using ants as garnish"
+      }
+    },
+    {
+      "title_original": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
+      "title_zh": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T15:33:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting\n- Published\nCharlie Kirk's family has accused the Utah Valley University and state officials of \"stunning failures and reckless decisions\" that they say led to the conservative activist's 2025 assassination during a campus event.",
+        "In a legal notice, lawyers for the family say Kirk's Turning Point USA event at the university campus was not properly secured or monitored, making him an easy target.",
+        "Kirk, 31, was speaking to a crowd of thousands on the university campus, when he was shot and killed by a gunman positioned on a roof."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting"
+      }
+    },
+    {
+      "title_original": "التهدئة في الشرق الأوسط، تعزيز السلام، ضوابط الذكاء الاصطناعي - رسائل من الأمين العام في مؤتمره الصحفي السنوي",
+      "title_zh": "التهدئة في الشرق الأوسط، تعزيز السلام، ضوابط الذكاء الاصطناعي - رسائل من الأمين العام في مؤتمره الصحفي السنوي",
+      "url": "https://news.un.org/ar/story/2026/09/1145339",
+      "source": "UN News",
+      "source_score": 40,
+      "published_at": "2026-09-16T15:16:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "التهدئة في الشرق الأوسط، تعزيز السلام، ضوابط الذكاء الاصطناعي - رسائل من الأمين العام في مؤتمره الصحفي السنوي\nدعا الأمين العام للأمم المتحدة أنطونيو غوتيريش قادة العالم إلى الوفاء بوعودهم والالتزام بميثاق الأمم المتحدة، والدفاع عن القانون الدولي، وحماية حقوق الإنسان، والاستثمار في التنمية المستدامة والشاملة، والدفع من أجل السلام.",
+        "جاءت دعوة الأمين العام خلال مؤتمره الصحفي قبيل افتتاح الأسبوع رفيع المستوى للدورة الحادية والثمانين للجمعية العامة، والذي يعقده للمرة الأخيرة بصفته أمينا عاما للأمم المتحدة، فيما يستعد قادة العالم للاجتماع في مقر المنظمة بنيويورك.",
+        "وقال الأمين العام إن العالم يدخل مرحلة من \"عدم اليقين العميق\"، تتسم بتحولات في موازين القوة وتغيرات متسارعة وتهديدات متزايدة تتطلب تعزيز التعاون الدولي."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "UN News"
+      ],
+      "all_titles": {
+        "ar": "التهدئة في الشرق الأوسط، تعزيز السلام، ضوابط الذكاء الاصطناعي - رسائل من الأمين العام في مؤتمره الصحفي السنوي"
+      }
+    },
+    {
+      "title_original": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
+      "title_zh": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
+      "url": "https://www.theguardian.com/world/2026/sep/16/discovery-women-bodies-anger-femicide-south-africa",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-16T15:02:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "String of female murder victims found near Johannesburg’s international airport, including five in the past week The discovery of the bodies of eight women around Johannesburg’s international airport, including five in the past week, has prompted an outpouring of fear, grief and anger over a lack of progress in tackling femicide.",
+        "When Elizabeth “Tsontso” Moselakgomo did not return after going for a run on 9 September, her eight-year-old daughter alerted relatives, who contacted police.",
+        "The 38-year-old’s body was found on Saturday and identified by relatives on Monday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa"
+      }
+    },
+    {
+      "title_original": "Eight German state premiers back Merz amid speculation over future",
+      "title_zh": "Eight German state premiers back Merz amid speculation over future",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T14:50:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Eight German state premiers back Merz amid speculation over future\n- Published\nThe leaders of eight German states have backed the nation's chancellor amid growing speculation about his political future.",
+        "The premiers - all of whom are part of Friedrich Merz's Christian Democratic Union (CDU) - wrote that restoring trust in their party lay in \"listening and taking political action, not in debates over personnel\".",
+        "Merz, who has only held the post for 16 months, is facing poor approval ratings while the anti-immigration, far-right Alternative for Germany (AfD) party is surging, prompting questions about whether he is an electoral liability."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Eight German state premiers back Merz amid speculation over future"
+      }
+    },
+    {
+      "title_original": "«أوبن إيه آي» توسع نطاق خدمة إعلانات «ChatGPT» لتشمل منطقة الشرق الأوسط وشمال إفريقيا",
+      "title_zh": "«أوبن إيه آي» توسع نطاق خدمة إعلانات «ChatGPT» لتشمل منطقة الشرق الأوسط وشمال إفريقيا",
+      "url": "https://www.albayan.ae/economy/1552481",
+      "source": "البيان",
+      "source_score": 40,
+      "published_at": "2026-09-16T14:19:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "أعلنت شركة «أوبن إيه آي» عن توسيع نطاق خدمات الإعلانات عبر ChatGPT Ads في منطقة الشرق الأوسط وشمال إفريقيا، بما في ذلك الإمارات والسعودية وقطر ومصر والكويت والمغرب، تركيا، والأردن والبحرين، مما يتيح للشركات ووكالات الإعلام طريقة جديدة للوصول إلى المستخدمين أثناء استكشافهم لأفكار جديدة، أو مقارنتهم بين الخيارات المتاحة، أو اتخاذهم للقرارات.",
+        "ويتيح ChatGPT بيئة إعلانية أكثر تفاعلية مبنية على اختيارات المستخدمين وطريقتهم في التعبير، حيث يستخدم الناس ChatGPT للوصول إلى إجابة سؤال ما أو تحقيق هدف أو مهمة محددة يرغبون في إنجازها، وليس لمجرد التصفح.",
+        "وعالميًا، تٌظهر 20% من المحادثات بالفعل نية تجارية واضحة، بينما تجري نسبة أكبر بكثير منها بالتزامن مع عملية شراء أو اتخاذ قرار تجاري."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "البيان"
+      ],
+      "all_titles": {
+        "ar": "«أوبن إيه آي» توسع نطاق خدمة إعلانات «ChatGPT» لتشمل منطقة الشرق الأوسط وشمال إفريقيا"
+      }
+    },
+    {
+      "title_original": "US limits visas for South African officials over alleged anti-white discrimination",
+      "title_zh": "US limits visas for South African officials over alleged anti-white discrimination",
+      "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-16T13:57:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "US limits visas for South African officials over alleged anti-white discrimination\n- Published\nThe US has announced visa restrictions targeting people it accuses of discriminating against South Africa's white minority, in the latest escalation of tensions between the two countries.",
+        "The Trump administration has criticised South Africa over several issues, including policies aimed at addressing racial inequality that it says discriminate against Afrikaners, descendants mainly of Dutch and French settlers.",
+        "South Africa has repeatedly denied the claim."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US limits visas for South African officials over alleged anti-white discrimination"
+      }
+    },
+    {
+      "title_original": "Russische Sprengstoffdrohne vor polnischer Ostseeküste entdeckt",
+      "title_zh": "Russische Sprengstoffdrohne vor polnischer Ostseeküste entdeckt",
+      "url": "https://www.spiegel.de/ausland/rusinowo-russische-sprengstoff-drohne-vor-polnischer-ostseekueste-entdeckt-a-53f4c524-bf72-400c-8dad-442e8291a62b",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-16T13:30:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nahe Badeort Rusinowo Russische Sprengstoffdrohne vor polnischer Ostseeküste entdeckt\nErneut ist auf Nato-Territorium eine russische Sprengstoffdrohne entdeckt worden: Polnische Streitkräfte fischten das Fluggerät am Montag vor der Küste des Landes aus der Ostsee.",
+        "Die Drohne vom Typ Gerbera-2 sei mit einem »Gefechtskopf mit Zünder« ausgestattet gewesen, erklärte nun der Militärstaatsanwalt Bartosz Okoniewski.",
+        "Es liefen Ermittlungen unter dem Verdacht der Gefährdung »von Leben oder Gesundheit vieler Menschen sowie von Eigentum von großem Wert«."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Russische Sprengstoffdrohne vor polnischer Ostseeküste entdeckt"
+      }
+    }
+  ]
+}
