@@ -1,0 +1,882 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T01:16:38.256104+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Russia’s parliamentary elections will not be a referendum on the Ukraine war – or anything, really",
+      "title_zh": "Russia’s parliamentary elections will not be a referendum on the Ukraine war – or anything, really",
+      "url": "https://theconversation.com/russias-parliamentary-elections-will-not-be-a-referendum-on-the-ukraine-war-or-anything-really-291445",
+      "source": "The Conversation",
+      "source_score": 40,
+      "published_at": "2026-09-18T01:09:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia is not a democracy.",
+        "However, Russia does have elections – many of them, in fact.",
+        "From September 18-20, Russian voters will elect their national parliamentary representatives (to the Russian State Duma), as well as 11 governors, deputies to 39 regional assemblies, and deputies to other lower-level representative bodies."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Conversation"
+      ],
+      "all_titles": {
+        "en": "Russia’s parliamentary elections will not be a referendum on the Ukraine war – or anything, really"
+      }
+    },
+    {
+      "title_original": "中国、ジブチ基地を増強 中東・アフリカでの監視能力向上＝報告書（ロイター）",
+      "title_zh": "中国、ジブチ基地を増強 中東・アフリカでの監視能力向上＝報告書（ロイター）",
+      "url": "https://news.yahoo.co.jp/articles/493111b1052618029bf5ffe5a078e1b92fada832",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-18T00:47:12+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国、ジブチ基地を増強 中東・アフリカでの監視能力向上＝報告書\n[ワシントン １７日 ロイター] - 中国はアフリカ東部ジブチにある軍事基地を増強しており、中東とアフリカ全域における軍事活動の監視能力が大幅に高まる見通しだと、米シンクタンクが１７日公表した報告書で指摘した。",
+        "米首都ワシントンに拠点を置くシンクタンク、戦略国際問題研究所（ＣＳＩＳ）によると、商用衛星画像から、同基地に新たなアンテナや衛星通信機器などの装備が設置されたことが確認された。",
+        "この基地は中国軍が唯一公式に認めている海外軍事拠点だ。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "中国、ジブチ基地を増強 中東・アフリカでの監視能力向上＝報告書（ロイター）"
+      }
+    },
+    {
+      "title_original": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
+      "title_zh": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol",
+      "url": "https://www.theguardian.com/world/2026/sep/18/nigeria-deaths-suspected-methanol-alcohol-brew-drink",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-18T00:23:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Drinking locally made alcohol is common in Nigeria, especially in rural areas where it is more affordable and poorly regulated At least 48 people have died and about 100 others are receiving treatment in southern Nigeria after consuming a locally brewed alcoholic concoction suspected to contain methanol, officials said on Thursday.",
+        "Banji Ajaka, Ondo state’s commissioner for health, said the cases had been reported in the Odigbo and Irele local government areas.",
+        "A total of 182 people are believed to have been affected and some are being treated in the hospital, he said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Almost 50 dead in Nigeria after drinking alcohol suspected to contain methanol"
+      }
+    },
+    {
+      "title_original": "لجنة أمريكية توافق على الاستثمار الأجنبي في اندماج باراماونت ووارنر براذرز",
+      "title_zh": "لجنة أمريكية توافق على الاستثمار الأجنبي في اندماج باراماونت ووارنر براذرز",
+      "url": "https://www.reuters.com/ar/business/DX64LM5OANK5XPXVUXV75XGMVM-2026-09-17/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-17T23:55:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "لجنة أمريكية توافق على الاستثمار الأجنبي في اندماج باراماونت ووارنر براذرز    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "لجنة أمريكية توافق على الاستثمار الأجنبي في اندماج باراماونت ووارنر براذرز"
+      }
+    },
+    {
+      "title_original": "ロシア、ウクライナ支援国に「ハイブリッド」攻撃計画＝ポーランド首相",
+      "title_zh": "ロシア、ウクライナ支援国に「ハイブリッド」攻撃計画＝ポーランド首相",
+      "url": "https://www.reuters.com/jp/world/ukraine/APNLQIL74ZJWXHGZYPJFEYI2X4-2026-09-17/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-17T23:13:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア、ウクライナ支援国に「ハイブリッド」攻撃計画＝ポーランド首相    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナ支援国に「ハイブリッド」攻撃計画＝ポーランド首相"
+      }
+    },
+    {
+      "title_original": "تقرير: تحديث القاعدة الصينية في جيبوتي يعزز قدراتها للمراقبة",
+      "title_zh": "تقرير: تحديث القاعدة الصينية في جيبوتي يعزز قدراتها للمراقبة",
+      "url": "https://www.reuters.com/ar/world/5HKITGYSSZJNHCPN4375LIFJE4-2026-09-17/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-17T22:45:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تقرير: تحديث القاعدة الصينية في جيبوتي يعزز قدراتها للمراقبة    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "تقرير: تحديث القاعدة الصينية في جيبوتي يعزز قدراتها للمراقبة"
+      }
+    },
+    {
+      "title_original": "Poland warns Russia is planning drone or rocket strikes on NATO territory",
+      "title_zh": "Poland warns Russia is planning drone or rocket strikes on NATO territory",
+      "url": "https://apnews.com/article/poland-russia-ukraine-nato-baltics-drones-rockets-818fe48227ee28d60fe86d8fe6485f5c",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-09-17T22:42:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Poland warns Russia is planning drone or rocket strikes on NATO territory    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "Poland warns Russia is planning drone or rocket strikes on NATO territory"
+      }
+    },
+    {
+      "title_original": "秦安：台海打起来，台湾同胞终于想清楚了这两件大事情！",
+      "title_zh": "秦安：台海打起来，台湾同胞终于想清楚了这两件大事情！",
+      "url": "https://m.sohu.com/a/1077593698_121954805?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-09-17T22:10:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "今天，看到“看台海”发布的台北市民街访视频，受访台北市民张先生直言，一旦台海爆发冲突，大陆几枚导弹就能打击关键设施，台湾很难扛住，美国不会真正出兵帮忙。",
+        "很清楚，台海打起来，台湾同胞想清楚了两件事：一是解放军导弹扛不住；二是“美国协防”靠不住。想清楚了这两点，也就是戳破了民进党长期渲染的“美国协防”谎言。事实上，不仅仅如此，包括美国在内，都在告诉这样一个事实：大陆打击扛不住，美军协防靠不住，台军自己防不住。",
+        "第一，从“九三阅兵”，到解放军公布“东风系列”导弹实弹发射视频，越来越多岛内民众看清现实。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "秦安：台海打起来，台湾同胞终于想清楚了这两件大事情！"
+      }
+    },
+    {
+      "title_original": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "title_zh": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-17T21:41:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark\n- Published\nThe US government has granted visas to Iranian officials so they can travel to the UN General Assembly in New York next week, as the war between the two countries grinds into its seventh month.",
+        "The BBC understands the core delegation permitted to attend includes Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi.",
+        "A spokesman for the US State Department confirmed the decision on Thursday, saying that the delegation will be placed under travel restrictions and will be banned from purchasing certain American products."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark"
+      }
+    },
+    {
+      "title_original": "[FT]中東戦線拡大、新たな脅威 説得力失う「米優位」の主張",
+      "title_zh": "[FT]中東戦線拡大、新たな脅威 説得力失う「米優位」の主張",
+      "url": "https://www.nikkei.com/article/DGXZQOCB160N50W6A910C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-17T21:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "この記事は会員限定記事です\n[FT]中東戦線拡大、新たな脅威 説得力失う「米優位」の主張\nチーフ・フォーリン・アフェアーズ・コメンテーター ギデオン・ラックマン\n[会員限定記事]\nこの数カ月間、米国とイランの紛争は戦争と和平の間で揺れ動いてきた。外交的な解決策を模索する動きは断続的な戦闘によって、たびたび中断されてきた。しかし、この1週間強で湾岸地域の戦闘は劇的に拡大し、和平への取り組みは行き詰まりを見せている。",
+        "イランと緊密な関係にあるイエメンの武装組織フーシが、イエメンの紅海沿岸の大部分を掌握したことで注目が紛争の新たな前線に移っている。フーシは8日、サウジアラビアの...",
+        "Gideon Rachman　英国生まれ。英BBCや英エコノミストなどを経て2006年FTに入社。同年、現在の外交関係の論評責任者に。2016年政治分野のジャーナリストとして英オーウェル賞を受賞。著書に「Easternization」(2016年)などがある。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "[FT]中東戦線拡大、新たな脅威 説得力失う「米優位」の主張"
+      }
+    },
+    {
+      "title_original": "ＥＵ、ウクライナに33億ユーロ拠出へ ミサイル・無人機調達に＝欧州委員長 | ロイター",
+      "title_zh": "ＥＵ、ウクライナに33億ユーロ拠出へ ミサイル・無人機調達に＝欧州委員長 | ロイター",
+      "url": "https://www.reuters.com/jp/world/ukraine/N66EGMN5KBL6PFP33KGMQFZRBU-2026-09-17/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-17T21:14:31+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ＥＵ、ウクライナに33億ユーロ拠出へ ミサイル・無人機調達に＝欧州委員長 | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ＥＵ、ウクライナに33億ユーロ拠出へ ミサイル・無人機調達に＝欧州委員長 | ロイター"
+      }
+    },
+    {
+      "title_original": "New cat species identified for first time in more than a century in Bolivia",
+      "title_zh": "New cat species identified for first time in more than a century in Bolivia",
+      "url": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-17T20:43:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking the first time a new living feline species has been formally named and described in more than a century.",
+        "The cat, called tilcayo by local communities, is part of a group called tiger ⁠cats found across much of South ⁠America.",
+        "It was found in Bolivia’s ​lush Yungas forest, a mountainous region where forests are often covered by clouds and surrounded by high humidity, according to researchers."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "New cat species identified for first time in more than a century in Bolivia"
+      }
+    },
+    {
+      "title_original": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "title_zh": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-17T20:34:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "UN experts say grounds to believe US committed war crimes in Iran strikes\n- Published\nUN human rights experts say there are reasonable grounds to believe the US committed war crimes in two strikes in Iran that killed at least 177 civilians.",
+        "A new report by the Independent International Fact-Finding Mission on Iran, external said February's missile strikes on a primary school in Minab and a sports complex in Lamerd constituted indiscriminate attacks causing civilian deaths and damage to civilian infrastructure.",
+        "The US previously denied striking Lamerd and said it was investigating what happened in Minab."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "UN experts say grounds to believe US committed war crimes in Iran strikes"
+      }
+    },
+    {
+      "title_original": "ロシア ウクライナ侵攻開始後初の議会下院選挙始まる",
+      "title_zh": "ロシア ウクライナ侵攻開始後初の議会下院選挙始まる",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260917de50926",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-17T20:09:06+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア ウクライナ侵攻開始後初の議会下院選挙始まる    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア ウクライナ侵攻開始後初の議会下院選挙始まる"
+      }
+    },
+    {
+      "title_original": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
+      "title_zh": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
+      "url": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-17T20:01:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russia’s plans may include strikes against Ukraine’s allies, Poland says\nWarsaw also says it has scrambled military planes in response to a Russian attack in western Ukraine, close to its border.",
+        "Polish Prime Minister Donald Tusk says that intelligence information suggests Russia plans to launch drone and missile attacks against countries supporting Ukraine.",
+        "Warsaw’s leader outlined the assessment during an address to parliament on Thursday, saying that the attacks will be meant to weaken NATO’s ability to act collectively in response."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russia’s plans may include strikes against Ukraine’s allies, Poland says"
+      }
+    },
+    {
+      "title_original": "Russia ‘sabotaging’ power supply lines at Zaporizhzhia plant: Greenpeace",
+      "title_zh": "Russia ‘sabotaging’ power supply lines at Zaporizhzhia plant: Greenpeace",
+      "url": "https://www.aljazeera.com/news/2026/9/17/russia-sabotaging-power-supply-lines-at-zaporizhzhia-plant-greenpeace",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-17T19:46:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia ‘sabotaging’ power supply lines at Zaporizhzhia plant: Greenpeace\nInvestigation finds no evidence of Russia’s claims that Ukrainian attacks hit the nuclear power plant.",
+        "Russia is sabotaging the Zaporizhzhia nuclear power plant in occupied southeastern Ukraine and blaming it on Kyiv to “confuse and distract” from the threats posed by its “illegal occupation and war”, Greenpeace has warned.",
+        "In a report published on Thursday, the environmental group concluded that Moscow is “deliberately sabotaging” the plant’s electricity supply while engaging in a “disinformation campaign” about the attacks."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russia ‘sabotaging’ power supply lines at Zaporizhzhia plant: Greenpeace"
+      }
+    },
+    {
+      "title_original": "Préparation, protection et résilience: l’OTAN publie ses grandes orientations en la matière",
+      "title_zh": "Préparation, protection et résilience: l’OTAN publie ses grandes orientations en la matière",
+      "url": "https://www.nato.int/fr/news-and-events/articles/news/2026/09/17/prepare-protect-prevail-nato-publishes-baseline-requirements-for-resilience",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-09-17T18:56:46+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Accédez aux ressources médiatiques officielles de l'OTAN.",
+        "Un contenu de qualité professionnelle, diffusé sur les dernières actualités.",
+        "La référence pour les professionnels des médias."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "fr": "Préparation, protection et résilience: l’OTAN publie ses grandes orientations en la matière"
+      }
+    },
+    {
+      "title_original": "Polen: Donald Tusk warnt vor russischen Drohnenangriffen auf Ukraine-Verbündete",
+      "title_zh": "Polen: Donald Tusk warnt vor russischen Drohnenangriffen auf Ukraine-Verbündete",
+      "url": "https://www.spiegel.de/ausland/polen-donald-tusk-warnt-vor-russischen-drohnenangriffen-auf-ukraine-verbuendete-a-52821ea2-2400-4aab-bc2c-ac3021d955f4",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-17T18:45:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Polnische Geheimdienstinformationen Tusk warnt vor russischen Drohnenangriffen auf Ukraine-Verbündete\nDer polnische Regierungschef Donald Tusk hat vor russischen Angriffen auf Verbündete der Ukraine mit Drohnen und Raketen gewarnt.",
+        "»Der russische Plan« umfasse nach Geheimdienstinformationen »hybride Angriffe« auf Länder, welche die von Russland angegriffene Ukraine unterstützten, sagte Tusk im Parlament in Warschau.",
+        "Dies betreffe auch Polen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Polen: Donald Tusk warnt vor russischen Drohnenangriffen auf Ukraine-Verbündete"
+      }
+    },
+    {
+      "title_original": "معركة بلا رصاص.. هل سقطت تايوان في فخ الأناكوندا؟",
+      "title_zh": "معركة بلا رصاص.. هل سقطت تايوان في فخ الأناكوندا؟",
+      "url": "https://www.aljazeera.net/politics/2026/9/17/%D8%AD%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%86%D8%A7%D9%83%D9%88%D9%86%D8%AF%D8%A7-%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D8%A8%D9%84%D8%A7-%D8%B1%D8%B5%D8%A7%D8%B5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-17T18:24:37+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "معركة بلا رصاص..",
+        "هل سقطت تايوان في فخ الأناكوندا؟\n\"أعظم فنون الحرب أن تُخضع العدو دون قتال\"\nفي مناطق المستنقعات وسهول السافانا في فنزويلا، بينما كان قطيع من خنازير الماء (الكابيبارا)، أحد أكبر القوارض في العالم يتغذى على العشب بجوار الماء، لم يكن يدرك الخطر الكامن تحت الماء، ألا وهو ثعبان الأناكوندا، أحد أكبر وأقوى الثعابين في العالم.",
+        "يقترب المفترس من الأسفل ببطء، يباغت أحد حيوانات القطيع، ولكن بدلا من أن يلدغه ليقتله بالسم، كما هو معروف عن الكثير من الثعابين، تتبع الأناكوندا طريقة أخرى في الافتراس، حيث تحيط الفريسة بجسمها وتضغط عليها بقوة، ومع مرور الزمن، القصير بطبيعة الحال، تموت الفريسة بسبب الضغط على التنفس والدورة الدموية ومن ثم تبتلعها الأناكوندا."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "معركة بلا رصاص.. هل سقطت تايوان في فخ الأناكوندا؟"
+      }
+    },
+    {
+      "title_original": "33rd Multinational Military Medical Engagement in United Kingdom challenges NATO and partner nations to implement solutions.",
+      "title_zh": "33rd Multinational Military Medical Engagement in United Kingdom challenges NATO and partner nations to implement solutions.",
+      "url": "https://www.army.mil/article/295458",
+      "source": "army.mil",
+      "source_score": 40,
+      "published_at": "2026-09-17T18:08:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "33rd Multinational Military Medical Engagement in United Kingdom challenges NATO and partner nations to implement solutions.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "army.mil"
+      ],
+      "all_titles": {
+        "en": "33rd Multinational Military Medical Engagement in United Kingdom challenges NATO and partner nations to implement solutions."
+      }
+    },
+    {
+      "title_original": "Democratic advisers are warning their candidates not to go too hard at AI",
+      "title_zh": "Democratic advisers are warning their candidates not to go too hard at AI",
+      "url": "https://www.politico.com/news/2026/09/17/democrats-ai-regulation-midterms-warnings-01082564",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-17T13:55:20-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Democratic consultants are warning their candidates in some key races not to lean into AI regulations out of fear that powerful tech groups could spend heavily against them.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Democratic advisers are warning their candidates not to go too hard at AI"
+      }
+    },
+    {
+      "title_original": "上値重い、金利高止まり警戒 中東情勢への懸念も＝来週の東京株式市場",
+      "title_zh": "上値重い、金利高止まり警戒 中東情勢への懸念も＝来週の東京株式市場",
+      "url": "https://www.reuters.com/jp/markets/japan/funds/CLWHESDEAVLXNH2DHY3F7FCZAQ-2023-10-13/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-17T17:41:32+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "上値重い、金利高止まり警戒 中東情勢への懸念も＝来週の東京株式市場    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "上値重い、金利高止まり警戒 中東情勢への懸念も＝来週の東京株式市場"
+      }
+    },
+    {
+      "title_original": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "title_zh": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-17T17:08:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting\n- Published\nThe wife of a US scholar imprisoned in China on charges of spying and endangering national security has asked President Donald Trump to secure his release when he meets Chinese President Xi Jinping at the White House next week.",
+        "U Min Zin, the director at a think tank focused on Myanmar, was arrested on 3 June after travelling to the Chinese city of Kunming for an academic conference.",
+        "\"I'm deeply hopeful that President Trump will raise my husband's case with President Xi Jinping at the summit next week,\" his wife, Sylvia Zin, testified to Congress on Wednesday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting"
+      }
+    },
+    {
+      "title_original": "باكستان تعلن تدابير تقشفية لترشيد الوقود وسط تصاعد صراع الشرق الأوسط",
+      "title_zh": "باكستان تعلن تدابير تقشفية لترشيد الوقود وسط تصاعد صراع الشرق الأوسط",
+      "url": "https://www.reuters.com/ar/business/H7HU36SDKBLN5FKNDIT4CXKDXM-2026-09-17/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-17T16:53:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "باكستان تعلن تدابير تقشفية لترشيد الوقود وسط تصاعد صراع الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "باكستان تعلن تدابير تقشفية لترشيد الوقود وسط تصاعد صراع الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Poland Warns That Russia Plans to Strike Ukraine’s NATO Allies",
+      "title_zh": "Poland Warns That Russia Plans to Strike Ukraine’s NATO Allies",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-17/poland-warns-that-russia-plans-to-strike-ukraine-s-nato-allies",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-17T16:30:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Poland Warns That Russia Plans to Strike Ukraine’s NATO Allies    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Poland Warns That Russia Plans to Strike Ukraine’s NATO Allies"
+      }
+    },
+    {
+      "title_original": "Así es Asia - IA y geopolítica: ¿qué está en juego entre China y Estados Unidos?",
+      "title_zh": "Así es Asia - IA y geopolítica: ¿qué está en juego entre China y Estados Unidos?",
+      "url": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20260917-ia-y-geopol%C3%ADtica-qu%C3%A9-est%C3%A1-en-juego-entre-china-y-estados-unidos",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-17T16:02:30+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Así es Asia - IA y geopolítica: ¿qué está en juego entre China y Estados Unidos?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "es": "Así es Asia - IA y geopolítica: ¿qué está en juego entre China y Estados Unidos?"
+      }
+    },
+    {
+      "title_original": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
+      "title_zh": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
+      "url": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-17T15:46:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that means Europe live – latest updates Mark Carney received a rapturous reception in the European parliament when he gave his speech on Thursday welcoming a proposal for Canada to become the EU’s first-ever associate member.",
+        "Politicians queued to shake his hand and take selfies.",
+        "One described the speech as a historic moment."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan"
+      }
+    },
+    {
+      "title_original": "التصعيد العسكري المتواصل في اليمن يدفع أكثر من 122 ألف شخص إلى مغادرة مناطقهم خلال النصف الأول من سبتمبر الجاري وسط ظروف قاسية",
+      "title_zh": "التصعيد العسكري المتواصل في اليمن يدفع أكثر من 122 ألف شخص إلى مغادرة مناطقهم خلال النصف الأول من سبتمبر الجاري وسط ظروف قاسية",
+      "url": "https://www.bbc.com/arabic/bbc_arabic_radio/w1730n42940zkkv",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-17T15:44:29+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "BBC News,\nعربي\nإذهب الى المحتوى\nرئيسية\nشاهد\nالصفحة الحالية,\nاستمع\nأقسام\nرئيسية\nأخبار\nاقتصاد\nصحة وعلوم\nثقافة وفنون\nرياضة\nتحقيقات\nبودكاست\nيوميات الشرق الأوسط\n,\nالتصعيد العسكري المتواصل في اليمن يدفع أكثر من 122 ألف شخص إلى مغادرة مناطقهم خلال النصف الأول من سبتمبر الجاري وسط ظروف قاسية\n17 سبتمبر/ أيلول 2026\nجهازك لا يدعم تشغيل الفيديو\nهجوم جديد للمستوطنين على قرية بالضفة الغربية، وارتفاع عدد ضحايا انهيار منجم ذهب بالسودان",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "التصعيد العسكري المتواصل في اليمن يدفع أكثر من 122 ألف شخص إلى مغادرة مناطقهم خلال النصف الأول من سبتمبر الجاري وسط ظروف قاسية"
+      }
+    },
+    {
+      "title_original": "Rusia está intensificando sus ataques contra Europa. El riesgo de un paso en falso aumenta cada día",
+      "title_zh": "Rusia está intensificando sus ataques contra Europa. El riesgo de un paso en falso aumenta cada día",
+      "url": "https://cnnespanol.cnn.com/2026/09/17/mundo/rusia-intensifica-ataques-europa-otan-trax",
+      "source": "CNN en Español",
+      "source_score": 95,
+      "published_at": "2026-09-17T15:27:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Se trata de una estrategia basada en una contradicción.",
+        "Los ataques de Rusia contra Europa buscan hacer que la guerra parezca más cercana, sin empezarla oficialmente.",
+        "Provocar, sin forzar una respuesta."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "CNN en Español"
+      ],
+      "all_titles": {
+        "es": "Rusia está intensificando sus ataques contra Europa. El riesgo de un paso en falso aumenta cada día"
+      }
+    },
+    {
+      "title_original": "Hyrox athlete apologises for continuing race after soiling herself",
+      "title_zh": "Hyrox athlete apologises for continuing race after soiling herself",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e35qyqlx0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-17T15:05:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Hyrox athlete apologises for continuing race after soiling herself\n- Published\nAn Australian athlete who faced criticism for continuing to compete in a Hyrox event after soiling herself has apologised and said she will retroactively withdraw from the race.",
+        "Joanna Wietrzyk offered her \"sincere apology\" for the incident during the indoor fitness competition in Beijing on Saturday, saying she should have \"made a different choice\" and exited the event.",
+        "Footage of Wietrzyk competing after soiling herself raised concerns about hygiene, leading Hyrox co-founder Moritz Fürste to apologise for the handling of the situation."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hyrox athlete apologises for continuing race after soiling herself"
+      }
+    },
+    {
+      "title_original": "Le chef de la diplomatie chinoise a parlé du Moyen-Orient avec Marco Rubio",
+      "title_zh": "Le chef de la diplomatie chinoise a parlé du Moyen-Orient avec Marco Rubio",
+      "url": "https://www.noovo.info/nouvelles/international/conflit-moyen-orient/article/appel-telephonique-entre-le-chef-de-la-diplomatie-chinoise-et-marco-rubio/",
+      "source": "Noovo Info",
+      "source_score": 40,
+      "published_at": "2026-09-17T14:40:12+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Le ministre chinois des Affaires étrangères Wang Yi s’est entretenu jeudi du Moyen-Orient avec le secrétaire d’État américain Marco Rubio, quelques jours avant une rencontre attendue entre les présidents de leurs deux pays, a annoncé la presse officielle chinoise.",
+        "Wang a déclaré au téléphone à M.",
+        "Rubio que la Chine et les États-Unis «devraient se préparer au prochain stade des échanges de haut niveau dans un esprit d’égalité, de respect mutuel et de bénéfice réciproque», a écrit l’agence de presse officielle Chine Nouvelle."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Noovo Info"
+      ],
+      "all_titles": {
+        "fr": "Le chef de la diplomatie chinoise a parlé du Moyen-Orient avec Marco Rubio"
+      }
+    },
+    {
+      "title_original": "Micron Technology à Taïwan: après des propositions de la direction, les salariés réclament davantage",
+      "title_zh": "Micron Technology à Taïwan: après des propositions de la direction, les salariés réclament davantage",
+      "url": "https://information.tv5monde.com/economie/micron-technology-taiwan-apres-des-propositions-de-la-direction-les-salaries-reclament-davantage-2837910",
+      "source": "tv5monde",
+      "source_score": 40,
+      "published_at": "2026-09-17T14:33:04+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Micron Technology à Taïwan: après des propositions de la direction, les salariés réclament davantage    tv5monde",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "tv5monde"
+      ],
+      "all_titles": {
+        "fr": "Micron Technology à Taïwan: après des propositions de la direction, les salariés réclament davantage"
+      }
+    },
+    {
+      "title_original": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing gewinnt am Donnerstagnachmittag an Boden",
+      "title_zh": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing gewinnt am Donnerstagnachmittag an Boden",
+      "url": "https://www.finanzen.net/nachricht/aktien/taiwan_semiconductor_manufacturing-aktie-kursbewegung-17-09-2026-12722314",
+      "source": "Finanzen.net",
+      "source_score": 40,
+      "published_at": "2026-09-17T14:08:35+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing gewinnt am Donnerstagnachmittag an Boden\nDie Aktie von Taiwan Semiconductor Manufacturing gehört am Donnerstagnachmittag zu den erfolgreicheren des Tages.",
+        "Die Taiwan Semiconductor Manufacturing-Aktie konnte zuletzt im New York-Handel zulegen und verteuerte sich um 1,7 Prozent auf 424,89 USD.",
+        "Werte in diesem Artikel  \n Die Taiwan Semiconductor Manufacturing-Aktie konnte um 15:53 Uhr im New York-Handel zulegen und verteuerte sich um 1,7 Prozent auf 424,89 USD."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Finanzen.net"
+      ],
+      "all_titles": {
+        "de": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing gewinnt am Donnerstagnachmittag an Boden"
+      }
+    },
+    {
+      "title_original": "«كليبر جروب» العالمية تطلق عملياتها رسمياً في الإمارات",
+      "title_zh": "«كليبر جروب» العالمية تطلق عملياتها رسمياً في الإمارات",
+      "url": "https://www.albayan.ae/economy/business/uae-economy/1552713",
+      "source": "البيان",
+      "source_score": 40,
+      "published_at": "2026-09-17T13:47:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "أعلنت «كليبر KLEBER GROUP» المجموعة العالمية المتخصصة في تقديم استشارات وحلول الاتصال والتسويق لقطاعات السفر والرفاهية وأسلوب الحياة، الإطلاق الرسمي لعملياتها في دولة الإمارات.",
+        "وتأتي هذه الخطوة عبر تأسيس حضور استراتيجي للمجموعة في كل من العاصمة أبوظبي وإمارة دبي، لتمثل مرحلة جديدة من خطط نموها وتوسعها في منطقة الشرق الأوسط وشمال أفريقيا.",
+        "ويتزامن هذا الإطلاق في دبي مع فعاليات «سوق السفر العربي» الذي يُعد أحد أبرز الأحداث الدولية الرائدة في قطاع السفر والسياحة بالمنطقة، والذي يجمع تحت مظلته نخبة من ممثلي الوجهات، وهيئات السياحة، وعلامات الضيافة، وشركات الطيران، والمستثمرين، وقادة الصناعة على المستويين الإقليمي والدولي."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "البيان"
+      ],
+      "all_titles": {
+        "ar": "«كليبر جروب» العالمية تطلق عملياتها رسمياً في الإمارات"
+      }
+    },
+    {
+      "title_original": "Ninth woman's body found as South African police investigate string of deaths",
+      "title_zh": "Ninth woman's body found as South African police investigate string of deaths",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-17T13:44:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Ninth woman's body found as South African police investigate string of deaths\n- Published\nPolice in South Africa have confirmed the discovery of a ninth woman's body in just two months, amid growing concern over a string of unexplained deaths east of Johannesburg.",
+        "The latest victim was found half-naked and wrapped in a sheet on the side of a road in Dawn Park on Thursday morning, police said.",
+        "Her identity has not yet been released."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ninth woman's body found as South African police investigate string of deaths"
+      }
+    }
+  ]
+}
