@@ -1,8 +1,883 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T01:16:38.256104+00:00",
-  "count": 35,
+  "generated_at": "2026-09-18T14:59:49.677083+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title_original": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "title_zh": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-18T14:42:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russian hybrid attacks against Europe intensifying, says Macron\n- Published\nFrench President Emmanuel Macron has warned that the threat of hybrid attacks by Russia against Europe and France has intensified.",
+        "In a news conference at the Elysee Palace, Macron said he had ordered a plan to protect critical infrastructure and defence industry sites in the face of this threat.",
+        "He said France had been targeted by Russian hybrid attacks in the past few weeks which would not be left \"without a response\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russian hybrid attacks against Europe intensifying, says Macron"
+      }
+    },
+    {
+      "title_original": "¿Puede alguien frenar la expansión marítima de China?",
+      "title_zh": "¿Puede alguien frenar la expansión marítima de China?",
+      "url": "https://www.dw.com/es/c%C3%B3mo-funciona-la-guerra-de-zona-gris-de-china-en-el-pac%C3%ADfico/video-79290704",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-18T14:21:54+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "China está reforzando su presencia marítima desde el Mar de China Meridional hasta las aguas situadas al este de Taiwán.",
+        "Lo hace mediante una estrategia conocida como guerra de zona gris: acciones que no llegan a ser una guerra abierta, pero que sirven para aumentar su control e influencia.",
+        "Islas artificiales convertidas en bases militares, patrullas de guardacostas, presión sobre barcos civiles y desafíos constantes a países como Filipinas, Japón o Taiwán."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "¿Puede alguien frenar la expansión marítima de China?"
+      }
+    },
+    {
+      "title_original": "Video: Russia Holds First Parliamentary Elections Since Ukraine War Began",
+      "title_zh": "Video: Russia Holds First Parliamentary Elections Since Ukraine War Began",
+      "url": "https://www.nytimes.com/video/world/europe/100000011160531/russia-parliamentary-elections-ukraine-war.html",
+      "source": "The New York Times",
+      "source_score": 95,
+      "published_at": "2026-09-18T13:47:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Video: Russia Holds First Parliamentary Elections Since Ukraine War Began    The New York Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The New York Times"
+      ],
+      "all_titles": {
+        "en": "Video: Russia Holds First Parliamentary Elections Since Ukraine War Began"
+      }
+    },
+    {
+      "title_original": "Putin casts vote online in first Russian parliamentary elections since Ukraine war",
+      "title_zh": "Putin casts vote online in first Russian parliamentary elections since Ukraine war",
+      "url": "https://www.cnn.com/2026/09/18/world/video/putin-russiaeelctions-war-intldsk",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-09-18T13:35:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Video Ad Feedback\n  Putin casts vote online in first Russian parliamentary elections since Ukraine war\n                \n                        Russian President Vladimir Putin cast his vote online in elections for Russia’s lower house, the Duma.",
+        "In footage shared by Russian state media, Putin can be seen navigating the online voting system and responding enthusiastically after successfully casting his vote.",
+        "0:22\n                            \n                                 • Source:\n                \n                    CNN\n        \n                    \n                \n      \n          World News\n      \n      14 videos\n    \n    Video Ad Feedback\n  Putin casts vote online in first Russian parliamentary elections since Ukraine war\n                \n                    \n                Video Ad Feedback\n  Could Canada become Europe’s first ‘associate member’?"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "en": "Putin casts vote online in first Russian parliamentary elections since Ukraine war"
+      }
+    },
+    {
+      "title_original": "US envoy raps Czech Republic for lagging on defence spending",
+      "title_zh": "US envoy raps Czech Republic for lagging on defence spending",
+      "url": "https://www.reuters.com/world/us-envoy-raps-czech-republic-lagging-defence-spending-2026-09-18/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-18T13:33:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US envoy raps Czech Republic for lagging on defence spending    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "US envoy raps Czech Republic for lagging on defence spending"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月18日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（9月18日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46995",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-18T12:57:26+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（9月18日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（9月18日の動き）"
+      }
+    },
+    {
+      "title_original": "مناظرات غائبة وشعارات موحدة.. حرب أوكرانيا تبتلع التنافس السياسي في روسيا",
+      "title_zh": "مناظرات غائبة وشعارات موحدة.. حرب أوكرانيا تبتلع التنافس السياسي في روسيا",
+      "url": "https://www.aljazeera.net/politics/2026/9/18/%D9%85%D9%86%D8%A7%D8%B8%D8%B1%D8%A7%D8%AA-%D8%BA%D8%A7%D8%A6%D8%A8%D8%A9-%D9%88%D8%B4%D8%B9%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D9%88%D8%AD%D8%AF%D8%A9-%D8%AD%D8%B1%D8%A8",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-18T12:32:38+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "مناظرات غائبة وشعارات موحدة..",
+        "حرب أوكرانيا تبتلع التنافس السياسي في روسيا\nتمضي روسيا في انتخابات تشريعية بدأت اليوم الجمعة على مدى 3 أيام، يتنافس فيها 11 حزبا سياسيا على 450 مقعدا في مجلس الدوما، لكن المشهد لا يوحي بتعدد حقيقي في الخيارات، فشعارات الأحزاب تكاد تتوحد على دعم العمليات العسكرية حتى تحقيق أهدافها.",
+        "وتتصدر صور جبهات القتال الحملات الانتخابية، في وقت تصاغ فيه البرامج بلغة الحرب وشعاراتها، في مؤشر على أن الملف الأوكراني يطغى على كل ما عداه، وفق تقرير للجزيرة أعده أمين درغامي."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "مناظرات غائبة وشعارات موحدة.. حرب أوكرانيا تبتلع التنافس السياسي في روسيا"
+      }
+    },
+    {
+      "title_original": "Police begin operation to move migrants from Ceuta beaches",
+      "title_zh": "Police begin operation to move migrants from Ceuta beaches",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-18T11:59:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Police begin operation to move migrants from Ceuta beaches\n- Published\nPolice have begun moving hundreds of migrants in Ceuta to a new tented site in the port area of the Spanish territory in north Africa.",
+        "Officers struggled to contain crowds of people jostling to secure a place at the site after weeks of living on the beaches.",
+        "Shots could be heard, with reports that police fired into the air."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Police begin operation to move migrants from Ceuta beaches"
+      }
+    },
+    {
+      "title_original": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+      "title_zh": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+      "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-18T11:49:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children\n- Published\nThe lone holdout juror in the trial of Lindsay Clancy has said he \"didn't have any doubts\" that she was criminally responsible for killing her three children.",
+        "\"Based on all the physical evidence, key witnesses and what the prosecution presents, I thought it was enough proof that she knew exactly what she was doing and planned it,\" Michael Desronvil said in a statement to CBS News, the BBC's US partner.",
+        "The judge declared a mistrial on 4 September after the jury failed to reach a unanimous verdict following nearly 40 hours of deliberating."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children"
+      }
+    },
+    {
+      "title_original": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+      "title_zh": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-18T11:39:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque\n- Published\nAt least 16 people, including five police officers, have been killed after a vehicle loaded with explosives rammed into a mosque in north-western Pakistan, according to a senior police official in Peshawar.",
+        "A gun battle is still ongoing between attackers and security forces at the mosque, near police headquarters, in the Kohat district of Khyber Pakhtunkhwa.",
+        "One of the assailants has reportedly been killed, an officer says, and a rescue operation is under way."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "At least 16 killed after vehicle loaded with explosives rams into Pakistan mosque"
+      }
+    },
+    {
+      "title_original": "وزير إيطالي: أزمتا الشرق الأوسط وأوكرانيا ترفعان عبء الديون بمعدل مروع",
+      "title_zh": "وزير إيطالي: أزمتا الشرق الأوسط وأوكرانيا ترفعان عبء الديون بمعدل مروع",
+      "url": "https://www.reuters.com/ar/business/AAZTVFGFPZMHVEYLFW7SARCFCE-2026-09-18/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-18T11:34:09+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "وزير إيطالي: أزمتا الشرق الأوسط وأوكرانيا ترفعان عبء الديون بمعدل مروع    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "وزير إيطالي: أزمتا الشرق الأوسط وأوكرانيا ترفعان عبء الديون بمعدل مروع"
+      }
+    },
+    {
+      "title_original": "Slovakia’s Fico casts doubt over NATO mutual defense clause",
+      "title_zh": "Slovakia’s Fico casts doubt over NATO mutual defense clause",
+      "url": "https://www.politico.eu/article/slovakia-robert-fico-casts-doubt-over-nato-mutual-defense-clause/",
+      "source": "politico.eu",
+      "source_score": 75,
+      "published_at": "2026-09-18T10:51:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Slovak Prime Minister Robert Fico has said he does not want to see his country dragged into war over NATO's Article 5 mutual defense clause, raising fresh questions about the populist leader’s commitment to the alliance.",
+        "“I don’t want Slovakia to be part of any military conflict because of some Article 5,” Fico said on Thursday in the Slovak city of Prešov.",
+        "“We are part of NATO, we value that, and we are committed to cooperation and fulfilling our obligations."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "politico.eu"
+      ],
+      "all_titles": {
+        "en": "Slovakia’s Fico casts doubt over NATO mutual defense clause"
+      }
+    },
+    {
+      "title_original": "Ukraine fires drone barrage as Russia launches elections",
+      "title_zh": "Ukraine fires drone barrage as Russia launches elections",
+      "url": "https://www.aljazeera.com/news/2026/9/18/ukraine-fires-drone-barrage-as-russia-launches-elections",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-18T10:39:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine fires drone barrage as Russia launches elections\nThe first election since the Kremlin invaded its neighbour is expected to gauge public support for the ongoing war.",
+        "Ukraine has launched a barrage of drones on Moscow and other regions as Russia opened polls for its first parliamentary elections since the start of the war.",
+        "More than 350 Ukrainian drones targeted the Russian capital on Friday morning, Moscow’s mayor reported."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Ukraine fires drone barrage as Russia launches elections"
+      }
+    },
+    {
+      "title_original": "高市首相の指示書、市場との対話・中東対応を強調 内閣改造で更新",
+      "title_zh": "高市首相の指示書、市場との対話・中東対応を強調 内閣改造で更新",
+      "url": "https://www.nikkei.com/article/DGXZQOUA182U70Y6A910C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-18T10:01:13+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "この記事は会員限定記事です\n高市首相の指示書、市場との対話・中東対応を強調 内閣改造で更新\n[会員限定記事]\n高市早苗首相は17日の内閣改造にあわせて、各閣僚に政策遂行に向けた指示書を渡した。2月の組閣時の指示書と比べると、市場との対話やエネルギー調達の重要性を強調する文言が加わった。金融市場や中東情勢などの変化を反映させた。",
+        "「市場の信認を確保していくため、国民や国内外の市場関係者に経済財政運営について透明性高く、一貫した説明を行う」。片山さつき財務相と城内実経済財政相にはこう指示した。2月の指示書に...",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "高市首相の指示書、市場との対話・中東対応を強調 内閣改造で更新"
+      }
+    },
+    {
+      "title_original": "Geopolitik - HDE-Appell für mehr internationale Zusammenarbeit",
+      "title_zh": "Geopolitik - HDE-Appell für mehr internationale Zusammenarbeit",
+      "url": "https://lebensmittelpraxis.de/handel-aktuell/49859-geopolitik-hde-appell-fuer-mehr-internationale-zusammenarbeit.html",
+      "source": "Lebensmittelpraxis.de",
+      "source_score": 40,
+      "published_at": "2026-09-18T09:58:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Der HDE ist einer der Unterzeichner des „Gemeinsamen Appells für internationale Zusammenarbeit“.",
+        "Insgesamt 21 Unterschriften von Unternehmen und Verbänden hat das Dokument.",
+        "Auch das Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung hat signiert."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Lebensmittelpraxis.de"
+      ],
+      "all_titles": {
+        "de": "Geopolitik - HDE-Appell für mehr internationale Zusammenarbeit"
+      }
+    },
+    {
+      "title_original": "فيديو. روسيا تجري انتخابات الدوما في عموم البلاد وحرب أوكرانيا تعيد تشكيل التصويت",
+      "title_zh": "فيديو. روسيا تجري انتخابات الدوما في عموم البلاد وحرب أوكرانيا تعيد تشكيل التصويت",
+      "url": "https://arabic.euronews.com/video/2026/09/18/russia-holds-nationwide-duma-elections-as-the-war-in-ukraine-reshapes-the-vote",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-18T09:42:50+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "روسيا تجري انتخابات الدوما في عموم البلاد وحرب أوكرانيا تعيد تشكيل التصويت    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "فيديو. روسيا تجري انتخابات الدوما في عموم البلاد وحرب أوكرانيا تعيد تشكيل التصويت"
+      }
+    },
+    {
+      "title_original": "The nation’s cartoonists on the week in politics",
+      "title_zh": "The nation’s cartoonists on the week in politics",
+      "url": "https://www.politico.com/gallery/2026/09/18/the-nations-cartoonists-on-the-week-in-politics-01082589",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-18T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.",
+        "The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.",
+        "Here's an offering of the best of this week's crop, picked fresh off the Toonosphere."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The nation’s cartoonists on the week in politics"
+      }
+    },
+    {
+      "title_original": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
+      "title_zh": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon",
+      "url": "https://www.theguardian.com/environment/2026/sep/18/weather-tracker-thunderstorms-spain-japan-typhoon",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-18T08:36:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "At least one person dead as stormy weather causes severe flooding in Barcelona and Valencia Intense and slow-moving thunderstorms broke out on Wednesday afternoon across parts of eastern Spain, bringing some severe flooding and killing at least one person .",
+        "Storms first struck over the Castilla-La Mancha region during the afternoon before passing over Spain’s east coast, becoming very slow-moving and continuing overnight.",
+        "Torrential rainfall, strong winds and large hail were reported in Valencia and Barcelona, causing widespread flooding in both cities."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon"
+      }
+    },
+    {
+      "title_original": "ロシア軍、訓練用ミサイル実戦転用 ウクライナ防空網消耗狙う",
+      "title_zh": "ロシア軍、訓練用ミサイル実戦転用 ウクライナ防空網消耗狙う",
+      "url": "https://www.reuters.com/jp/world/ukraine/2PCE4QCPSVIT5PCZSFXUMWDOUU-2026-09-18/",
+      "source": "reuters.com",
+      "source_score": 95,
+      "published_at": "2026-09-18T08:21:50+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア軍、訓練用ミサイル実戦転用 ウクライナ防空網消耗狙う    reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "reuters.com"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍、訓練用ミサイル実戦転用 ウクライナ防空網消耗狙う"
+      }
+    },
+    {
+      "title_original": "حقائق-مباحثات في واشنطن بين ترامب وشي ستتناول أزمة إيران",
+      "title_zh": "حقائق-مباحثات في واشنطن بين ترامب وشي ستتناول أزمة إيران",
+      "url": "https://www.reuters.com/ar/world/BBI7T2CNZZP2VL3XR7EDWZMIII-2026-09-18/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-18T08:16:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "حقائق-مباحثات في واشنطن بين ترامب وشي ستتناول أزمة إيران    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "حقائق-مباحثات في واشنطن بين ترامب وشي ستتناول أزمة إيران"
+      }
+    },
+    {
+      "title_original": "\"Große Fortschritte\" bei US-Verhandlungen mit Polen – Folgen für die Nato?",
+      "title_zh": "\"Große Fortschritte\" bei US-Verhandlungen mit Polen – Folgen für die Nato?",
+      "url": "https://web.de/magazine/politik/us-politik/grosse-fortschritte-us-verhandlungen-polen-folgen-nato-42738154",
+      "source": "WEB.DE",
+      "source_score": 40,
+      "published_at": "2026-09-18T07:57:51+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Zwischen Washington und Warschau laufen intensive Verhandlungen über eine dauerhafte US-Präsenz auf polnischem Boden.",
+        "Für die Nato-Ostflanke könnte das weitreichende Folgen haben.",
+        "US-Präsident \nNawrocki versteht sich gut mit Trump\nPolens rechtsnationaler Staatschef Nawrocki versicherte, dass Warschau \"alles daransetzen wird, den bestmöglichen Standort für den Stützpunkt der US-Armee bereitzustellen\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "WEB.DE"
+      ],
+      "all_titles": {
+        "de": "\"Große Fortschritte\" bei US-Verhandlungen mit Polen – Folgen für die Nato?"
+      }
+    },
+    {
+      "title_original": "Feu vert de l'administration Trump à la vente de 48 F-35 à l'Arabie saoudite",
+      "title_zh": "Feu vert de l'administration Trump à la vente de 48 F-35 à l'Arabie saoudite",
+      "url": "https://www.france24.com/fr/moyen-orient/20260918-administration-trump-donne-feu-vert-vente-48-avions-f-35-arabie-saoudite",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-18T07:17:48+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Feu vert de l'administration Trump à la vente de 48 F-35 à l'Arabie saoudite    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Feu vert de l'administration Trump à la vente de 48 F-35 à l'Arabie saoudite"
+      }
+    },
+    {
+      "title_original": "Japan raises interest rate to new 31-year high to curb rising prices",
+      "title_zh": "Japan raises interest rate to new 31-year high to curb rising prices",
+      "url": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-18T07:14:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Japan raises interest rate to new 31-year high to curb rising prices\n- Published\nJapan's central bank has raised its main interest rate to a fresh 31-year high as it continues to move away from decades of ultra-low borrowing costs and as the country faces increasing economic pressures.",
+        "In a widely expected move on Friday, the Bank of Japan (BOJ) increased the rate from 1% to 1.25% - a level not seen since 1995.",
+        "It comes as major central banks around the world are hiking rates as higher energy prices caused by the Iran war are helping to push up inflation."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Japan raises interest rate to new 31-year high to curb rising prices"
+      }
+    },
+    {
+      "title_original": "South Korean president rules out military involvement in Middle East conflict",
+      "title_zh": "South Korean president rules out military involvement in Middle East conflict",
+      "url": "https://www.nbcnews.com/world/asia/south-korea-rules-out-military-involvement-middle-east-conflict-rcna598489",
+      "source": "NBC News",
+      "source_score": 75,
+      "published_at": "2026-09-18T06:45:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "SEOUL, South Korea — South Korean President Lee Jae Myung said Friday that he would not deploy military assets to the Middle East in a way that could draw the country into conflict, but that Seoul was reviewing whether to play a greater role in safeguarding navigation in the region.",
+        "South Korea has maintained a naval presence off the coast of Somalia in an anti-piracy mission, while resisting calls from U.S.",
+        "President Donald Trump to play a more active military role in supporting Washington over the war in Iran."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "NBC News"
+      ],
+      "all_titles": {
+        "en": "South Korean president rules out military involvement in Middle East conflict"
+      }
+    },
+    {
+      "title_original": "Un expresidente ruso amenaza con ‘borrar del mapa’ a este país de la OTAN: “Nadie saldrá en su defensa”",
+      "title_zh": "Un expresidente ruso amenaza con ‘borrar del mapa’ a este país de la OTAN: “Nadie saldrá en su defensa”",
+      "url": "https://as.com/actualidad/politica/un-expresidente-ruso-amenaza-con-borrar-del-mapa-a-este-pais-de-la-otan-nadie-saldra-en-su-defensa-f202609-n/",
+      "source": "Diario AS",
+      "source_score": 40,
+      "published_at": "2026-09-18T06:41:57+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Un expresidente ruso amenaza con ‘borrar del mapa’ a este país de la OTAN: “Nadie saldrá en su defensa”    Diario AS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Diario AS"
+      ],
+      "all_titles": {
+        "es": "Un expresidente ruso amenaza con ‘borrar del mapa’ a este país de la OTAN: “Nadie saldrá en su defensa”"
+      }
+    },
+    {
+      "title_original": "Seúl rechaza desplegar a su Ejército a la guerra en Oriente Medio pese a presión de Trump",
+      "title_zh": "Seúl rechaza desplegar a su Ejército a la guerra en Oriente Medio pese a presión de Trump",
+      "url": "https://www.abc.es/internacional/seul-rechaza-desplegar-ejercito-guerra-oriente-medio-20260918081004-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-18T06:10:09+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Seúl rechaza desplegar a su Ejército a la guerra en Oriente Medio pese a presión de Trump\nSeúl, 18 sep (EFE).- El presidente de Corea del Sur, Lee Jae Myung, afirmó este viernes que no despl...",
+        "Seúl, 18 sep (EFE).- El presidente de Corea del Sur, Lee Jae Myung, afirmó este viernes que no desplegará a sus fuerzas militares a Oriente Medio para involucrarse en la guerra, en medio de las presiones de Estados Unidos al respecto, aunque señaló que estudia ...",
+        "reforzar las actividades destinadas a proteger sus buques y rutas de suministro energético."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Seúl rechaza desplegar a su Ejército a la guerra en Oriente Medio pese a presión de Trump"
+      }
+    },
+    {
+      "title_original": "تراجع النفط رغم استمرار التوترات في الشرق الأوسط",
+      "title_zh": "تراجع النفط رغم استمرار التوترات في الشرق الأوسط",
+      "url": "https://arabic.anf-news.com/akhr-l-khbr/y-140649",
+      "source": "ANF | Articles",
+      "source_score": 55,
+      "published_at": "2026-09-18T05:52:27+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "بحلول الساعة 0319 بتوقيت جرينتش، هبطت العقود الآجلة لخام برنت 79 سنتا أو 0.75 بالمئة إلى 104 دولارات للبرميل، وتراجعت العقود الآجلة لخام غرب تكساس الوسيط الأمريكي 70 سنتًا، أو 0.69 بالمئة إلى 101.20 دولار للبرميل.",
+        "ونزل الخامان القياسيان واحدا بالمئة تقريبا عند التسوية أمس الخميس.",
+        "ويتجه برنت نحو أول خسارة أسبوعية له في ثلاثة أسابيع بانخفاض 0.5 بالمئة، في حين من المتوقع أن يحقق الخام الأمريكي مكاسب 1.2 بالمئة."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "ANF | Articles"
+      ],
+      "all_titles": {
+        "ar": "تراجع النفط رغم استمرار التوترات في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : un pétrolier touché ; le Pakistan promet de défendre son allié saoudien.",
+      "title_zh": "Guerre au Moyen-Orient : un pétrolier touché ; le Pakistan promet de défendre son allié saoudien.",
+      "url": "https://www.la-croix.com/international/direct-guerre-iran-israel-usa-jour-198-moyen-orient-bilan-resume-aujourdhui-20260918",
+      "source": "La Croix",
+      "source_score": 40,
+      "published_at": "2026-09-18T05:25:58+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Le Pakistan promet son soutien total à l’Arabie saoudite\nLe Pakistan défendra « jusqu’au bout » son allié, l’Arabie saoudite, a vendredi 18 septembre déclaré le porte-parole de l’armée pakistanaise, alors que le royaume fait face à une intensification des attaques des rebelles houthistes pro-iraniens du Yémen.",
+        "Cette semaine, les forces houthistes ont fait état de nouvelles frappes aériennes saoudiennes, tandis que Riyad a accusé le groupe d’avoir lancé une attaque « lâche » visant La Mecque, la ville sainte de l’islam, provoquant une vague d’indignation dans l’ensemble du monde musulman.",
+        "« Nous irons jusqu’au bout pour la sécurité des (deux sanctuaires saints) et du Royaume d’Arabie saoudite », a-t-il déclaré."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "La Croix"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : un pétrolier touché ; le Pakistan promet de défendre son allié saoudien."
+      }
+    },
+    {
+      "title_original": "Tusk warnt vor russischen Angriffen auf Nato-Staaten in den nächsten Wochen",
+      "title_zh": "Tusk warnt vor russischen Angriffen auf Nato-Staaten in den nächsten Wochen",
+      "url": "https://www.welt.de/politik/ausland/article6aacc5557a2a14cb01becbc2/ukraine-krieg-der-kritischste-moment-tusk-warnt-vor-russischen-angriffen-auf-nato-staaten-in-den-naechsten-wochen.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-09-18T05:12:23+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Tusk warnt vor russischen Angriffen auf Nato-Staaten in den nächsten Wochen\nPolens Ministerpräsident Donald Tusk erwartet stärkere russische Angriffe auf die Ukraine, aber auch auf ihre Unterstützer.",
+        "Die offizielle russische Darstellung werde anschließend lauten, es habe sich um einen Unfall gehandelt, sagt er.",
+        "Klicken Sie hier, um sich Artikel von WELT in der Google-Suche bevorzugt anzeigen zu lassen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Tusk warnt vor russischen Angriffen auf Nato-Staaten in den nächsten Wochen"
+      }
+    },
+    {
+      "title_original": "Schwere Zeiten für Polen: Tusk rechnet mit russischen Angriffen auf NATO-Gebiet",
+      "title_zh": "Schwere Zeiten für Polen: Tusk rechnet mit russischen Angriffen auf NATO-Gebiet",
+      "url": "https://de.euronews.com/my-europe/2026/09/18/polen-tusk-russischen-angriffen-nato-gebiet",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-18T04:38:22+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Premier Donald Tusk legt im Sejm ein Szenario für kommende Monate vor.",
+        "Er spricht von „ernsten Ereignissen“, fordert mentale Bereitschaft und warnt vor hybriden Angriffen auf Polen und andere Ukraine-Unterstützer.",
+        "Ministerpräsident Donald Tusk hat in einer Sondersitzung im Sejm, dem polnischen Parlament, erklärt, er lege der Öffentlichkeit und den Abgeordneten „das wahrscheinlichste Szenario für die nächsten Monate“ dar."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "Schwere Zeiten für Polen: Tusk rechnet mit russischen Angriffen auf NATO-Gebiet"
+      }
+    },
+    {
+      "title_original": "Mouvement Paris-Bruxelles OVHcloud : Octave Klaba recrute un colonel à l'Otan pour accélérer sur la défense",
+      "title_zh": "Mouvement Paris-Bruxelles OVHcloud : Octave Klaba recrute un colonel à l'Otan pour accélérer sur la défense",
+      "url": "https://www.lalettre.fr/fr/entreprises_defense-et-aeronautique/2026/09/18/ovhcloud--octave-klaba-recrute-un-colonel-a-l-otan-pour-accelerer-sur-la-defense,110879902-art",
+      "source": "lalettre.fr",
+      "source_score": 40,
+      "published_at": "2026-09-18T04:20:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Mouvement Paris-Bruxelles OVHcloud : Octave Klaba recrute un colonel à l'Otan pour accélérer sur la défense    lalettre.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "lalettre.fr"
+      ],
+      "all_titles": {
+        "fr": "Mouvement Paris-Bruxelles OVHcloud : Octave Klaba recrute un colonel à l'Otan pour accélérer sur la défense"
+      }
+    },
+    {
+      "title_original": "Bill Cassidy on vaccines, RFK Jr. and the fight for public trust",
+      "title_zh": "Bill Cassidy on vaccines, RFK Jr. and the fight for public trust",
+      "url": "https://www.politico.com/video/2026/09/17/bill-cassidy-on-vaccines-rfk-jr-and-the-fight-for-public-trust-2168766",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-17T23:59:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Bill Cassidy on vaccines, RFK Jr.",
+        "and the fight for public trust",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Bill Cassidy on vaccines, RFK Jr. and the fight for public trust"
+      }
+    },
+    {
+      "title_original": "中东局势错综复杂 国际金价震荡收涨｜工行连线",
+      "title_zh": "中东局势错综复杂 国际金价震荡收涨｜工行连线",
+      "url": "https://www.yicai.com/video/103369569.html",
+      "source": "第一财经",
+      "source_score": 40,
+      "published_at": "2026-09-18T03:32:19+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "打开微信，点击底部的“发现”，使用“扫一扫”即可将网页分享至朋友圈。",
+        "第一财经2026-09-18 11:31:08\n作者：上午市场零距离 责编：詹凌览\n本周四国际金价震荡收涨，开盘报4264.01美元/盎司，最高上行至4381.50美元/盎司，最低下探至4256.80美元/盎司，最终报收于4341.01美元/盎司。",
+        "经济数据方面，美国上周初请失业金人数公布为19.6万人，低于市场预期20.8万人，低于前值20.6万人。美股、美债周四双双反弹，标普500指数创下六周最大单日涨幅，美元指数下跌，国际金价震荡收涨。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "第一财经"
+      ],
+      "all_titles": {
+        "zh": "中东局势错综复杂 国际金价震荡收涨｜工行连线"
+      }
+    },
+    {
+      "title_original": "Les Etats-Unis approuvent la vente de 48 avions furtifs F-35 à l’Arabie saoudite, en pleine guerre au Moyen-Orient",
+      "title_zh": "Les Etats-Unis approuvent la vente de 48 avions furtifs F-35 à l’Arabie saoudite, en pleine guerre au Moyen-Orient",
+      "url": "https://www.lemonde.fr/international/article/2026/09/18/washington-pret-a-vendre-48-avions-furtifs-f-35-a-l-arabie-saoudite-en-plein-conflit-au-moyen-orient_6776659_3210.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-09-18T03:21:53+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Les Etats-Unis approuvent la vente de 48 avions furtifs F-35 à l’Arabie saoudite, en pleine guerre au Moyen-Orient    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "Les Etats-Unis approuvent la vente de 48 avions furtifs F-35 à l’Arabie saoudite, en pleine guerre au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "韓国、中東紛争に巻き込まれるような軍事資産は派遣せず＝大統領",
+      "title_zh": "韓国、中東紛争に巻き込まれるような軍事資産は派遣せず＝大統領",
+      "url": "https://www.reuters.com/jp/world/us/HIXK7PTR5VJJLPK7C2APSFJHDY-2026-09-18/",
+      "source": "reuters.com",
+      "source_score": 95,
+      "published_at": "2026-09-18T03:16:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "韓国、中東紛争に巻き込まれるような軍事資産は派遣せず＝大統領    reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "reuters.com"
+      ],
+      "all_titles": {
+        "ja": "韓国、中東紛争に巻き込まれるような軍事資産は派遣せず＝大統領"
+      }
+    },
     {
       "title_original": "Russia’s parliamentary elections will not be a referendum on the Ukraine war – or anything, really",
       "title_zh": "Russia’s parliamentary elections will not be a referendum on the Ukraine war – or anything, really",
