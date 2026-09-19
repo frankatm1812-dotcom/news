@@ -1,8 +1,858 @@
 {
   "date": "2026-09-19",
-  "generated_at": "2026-09-19T01:09:29.433387+00:00",
-  "count": 35,
+  "generated_at": "2026-09-19T14:24:34.985010+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "‘States should have a say’: Candidates for governor race to take on AI regulation",
+      "title_zh": "‘States should have a say’: Candidates for governor race to take on AI regulation",
+      "url": "https://www.politico.com/news/2026/09/19/governor-candidates-ai-regulation-states-midterms-01084879",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-19T10:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "They were already taking on data centers as a Big Tech boogeyman.",
+        "Now, they have to take on artificial intelligence itself.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "‘States should have a say’: Candidates for governor race to take on AI regulation"
+      }
+    },
+    {
+      "title_original": "Google's Gemini AI hacked three companies in security test",
+      "title_zh": "Google's Gemini AI hacked three companies in security test",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-19T13:39:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Google's Gemini AI hacked three companies in security test\n- Published\nGoogle's AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.",
+        "Gemini found \"public information online and guessed credentials to access websites it thought were part of the test\", a Google official told the BBC, noting that in each instance \"the model stopped\".",
+        "The affected companies were informed about the breaches, which happened in May."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Google's Gemini AI hacked three companies in security test"
+      }
+    },
+    {
+      "title_original": "El Boletín de Coyuntura de Economistas de Aragón destaca la incertidumbre geopolítica en el primer cuatrimestre del año",
+      "title_zh": "El Boletín de Coyuntura de Economistas de Aragón destaca la incertidumbre geopolítica en el primer cuatrimestre del año",
+      "url": "https://www.europapress.es/aragon/noticia-boletin-coyuntura-economistas-aragon-destaca-incertidumbre-geopolitica-primer-cuatrimestre-ano-20260919151950.html",
+      "source": "Europa Press",
+      "source_score": 40,
+      "published_at": "2026-09-19T13:19:50+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Archivo - Imagen de la fábrica de Stellantis en Figueruelas (Zaragoza).",
+        "- RAMÓN COMET - EUROPA PRESS - Archivo\n \n \n   ZARAGOZA 19 Sep.",
+        "(EUROPA PRESS) - \n   El Boletín de Coyuntura del Colegio de Economistas de Aragón correspondiente al primer cuatrimestre de 2026 destaca la \"incertidumbre geopolítica derivada de los conflictos internacionales\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Europa Press"
+      ],
+      "all_titles": {
+        "es": "El Boletín de Coyuntura de Economistas de Aragón destaca la incertidumbre geopolítica en el primer cuatrimestre del año"
+      }
+    },
+    {
+      "title_original": "Arabie saoudite : des flammes visibles près de l'aéroport de Riyad après de fortes explosions",
+      "title_zh": "Arabie saoudite : des flammes visibles près de l'aéroport de Riyad après de fortes explosions",
+      "url": "https://www.france24.com/fr/moyen-orient/20260919-arabie-saoudite-flammes-fumee-noire-visibles-pres-a%C3%A9roport-de-riyad-apr%C3%A8s-de-fortes-explosions-reservoir-incendie",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-19T12:50:19+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Arabie saoudite : des flammes visibles près de l'aéroport de Riyad après de fortes explosions    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Arabie saoudite : des flammes visibles près de l'aéroport de Riyad après de fortes explosions"
+      }
+    },
+    {
+      "title_original": "US Strikes Deal Over Greenland to End Row That Threatened NATO",
+      "title_zh": "US Strikes Deal Over Greenland to End Row That Threatened NATO",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-19/us-strikes-deal-over-greenland-to-end-row-that-threatened-nato",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-19T12:48:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US Strikes Deal Over Greenland to End Row That Threatened NATO    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "US Strikes Deal Over Greenland to End Row That Threatened NATO"
+      }
+    },
+    {
+      "title_original": "Greenland, Denmark say US deal will not cede sovereignty",
+      "title_zh": "Greenland, Denmark say US deal will not cede sovereignty",
+      "url": "https://www.reuters.com/world/europe/greenland-denmark-say-us-deal-will-not-cede-sovereignty-2026-09-19/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-19T12:14:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Greenland, Denmark say US deal will not cede sovereignty    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Greenland, Denmark say US deal will not cede sovereignty"
+      }
+    },
+    {
+      "title_original": "La OTAN acoge con “satisfacción” el acuerdo de EE UU y Dinamarca sobre Groenlandia",
+      "title_zh": "La OTAN acoge con “satisfacción” el acuerdo de EE UU y Dinamarca sobre Groenlandia",
+      "url": "https://elpais.com/internacional/2026-09-19/la-otan-acoge-con-satisfaccion-el-acuerdo-de-ee-uu-y-dinamarca-sobre-groenlandia.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-09-19T11:54:57+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "La OTAN acoge con “satisfacción” el acuerdo de EE UU y Dinamarca sobre Groenlandia    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "La OTAN acoge con “satisfacción” el acuerdo de EE UU y Dinamarca sobre Groenlandia"
+      }
+    },
+    {
+      "title_original": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "title_zh": "Shark attack prompts rare kill order in Western Australia as victim named",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-19T11:50:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Greg O'Neill \"loved the ocean\", his family say, as police boats and helicopters patrol Perth's beaches in search of his body and the shark that attacked him.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Shark attack prompts rare kill order in Western Australia as victim named"
+      }
+    },
+    {
+      "title_original": "Gegen Ukraine-Krieg-Finanzierung: Trump unterzeichnet neues Russland-Sanktionspaket",
+      "title_zh": "Gegen Ukraine-Krieg-Finanzierung: Trump unterzeichnet neues Russland-Sanktionspaket",
+      "url": "https://de.euronews.com/2026/09/19/trump-russland-sanktionspaket",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-19T11:11:52+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Der Gesetzentwurf stieß bei Demokraten auf Widerstand.",
+        "Sie wollten schärfere Russland-Sanktionen, lehnten aber Klauseln zu Strafzöllen Trumps gegen Käufer russischer Energie ab.",
+        "US-Präsident Donald Trump hat am Freitag ein umfassendes Sanktionspaket als Gesetz unterschrieben."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "Gegen Ukraine-Krieg-Finanzierung: Trump unterzeichnet neues Russland-Sanktionspaket"
+      }
+    },
+    {
+      "title_original": "Les Etats-Unis ont renoncé à l’arraisonnement d’un navire chinois au Moyen-Orient, envisagé sur la base d’un rapport en partie rédigé par IA, selon CNN",
+      "title_zh": "Les Etats-Unis ont renoncé à l’arraisonnement d’un navire chinois au Moyen-Orient, envisagé sur la base d’un rapport en partie rédigé par IA, selon CNN",
+      "url": "https://www.lemonde.fr/international/article/2026/09/19/les-etats-unis-ont-renonce-a-l-arraisonnement-d-un-navire-chinois-au-moyen-orient-envisage-sur-la-base-d-un-rapport-en-partie-redige-par-ia-selon-cnn_6777674_3210.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-09-19T11:03:32+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Les Etats-Unis ont renoncé à l’arraisonnement d’un navire chinois au Moyen-Orient, envisagé sur la base d’un rapport en partie rédigé par IA, selon CNN    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "Les Etats-Unis ont renoncé à l’arraisonnement d’un navire chinois au Moyen-Orient, envisagé sur la base d’un rapport en partie rédigé par IA, selon CNN"
+      }
+    },
+    {
+      "title_original": "中東緊迫化でタンカー1日100万ドル、運賃連動の金融商品にマネー流入",
+      "title_zh": "中東緊迫化でタンカー1日100万ドル、運賃連動の金融商品にマネー流入",
+      "url": "https://www.nikkei.com/article/DGXZQOUB17A960X10C26A9000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-19T10:46:56+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "この記事は会員限定記事です\n中東緊迫化でタンカー1日100万ドル、運賃連動の金融商品にマネー流入\n[会員限定記事]\n中東情勢の緊迫化を受け、原油や石油製品を運ぶタンカーの運賃が高騰している。ホルムズ海峡の事実上の封鎖をカバーしていた代替輸送も縮小している。運賃の上昇で、運賃に連動する金融商品には投資マネーが流入し活況となっている。",
+        "英ロンドン証券取引所グループ（LSEG）によると、中東と極東を結ぶ大型オイルタンカー（VLCC、載荷重量約30万トン）の運賃は1日あたりの用船料に換算すると121万ドル台と8月末に...",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "中東緊迫化でタンカー1日100万ドル、運賃連動の金融商品にマネー流入"
+      }
+    },
+    {
+      "title_original": "US approves potential US$2.7 billion sale of Ukraine air defence equipment",
+      "title_zh": "US approves potential US$2.7 billion sale of Ukraine air defence equipment",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3368109/ukraine-war-us-approves-potential-us27-billion-sale-air-defence-equipment",
+      "source": "South China Morning Post",
+      "source_score": 55,
+      "published_at": "2026-09-19T10:22:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war: US approves potential US$2.7 billion sale of air defence equipment\nKyiv wants to buy multiple types of missiles, launchers and counter-drone radars, the US government says\nThe United States has approved a potential US$2.68 billion sale of air defence equipment to Ukraine, after Kyiv made repeated pleas for support to fend off Russian attacks.",
+        "The State Department said in a congressional notification on Friday that it made “a determination approving a possible Foreign Military Sale to the Government of Ukraine” for buying air defence development upgrades and related equipment and services.",
+        "Kyiv has requested to buy equipment including multiple types of missiles, launchers and counter-drone radars, according to the State Department."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "South China Morning Post"
+      ],
+      "all_titles": {
+        "en": "US approves potential US$2.7 billion sale of Ukraine air defence equipment"
+      }
+    },
+    {
+      "title_original": "La OTAN respalda el próximo acuerdo entre EEUU, Dinamarca y Groenlandia para reforzar la seguridad en el Ártico",
+      "title_zh": "La OTAN respalda el próximo acuerdo entre EEUU, Dinamarca y Groenlandia para reforzar la seguridad en el Ártico",
+      "url": "https://www.democrata.es/politica/otan-respalda-proximo-acuerdo-entre-eeuu-dinamarca-groenlandia-reforzar-seguridad-en-artico/",
+      "source": "Demócrata",
+      "source_score": 40,
+      "published_at": "2026-09-19T10:12:33+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La OTAN respalda el próximo acuerdo entre EEUU, Dinamarca y Groenlandia para reforzar la seguridad en el Ártico    Demócrata",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Demócrata"
+      ],
+      "all_titles": {
+        "es": "La OTAN respalda el próximo acuerdo entre EEUU, Dinamarca y Groenlandia para reforzar la seguridad en el Ártico"
+      }
+    },
+    {
+      "title_original": "Inside the secret race to become NATO’s next top general",
+      "title_zh": "Inside the secret race to become NATO’s next top general",
+      "url": "https://www.politico.eu/article/nato-chair-military-committee-carsten-breuer-jennie-carignan/",
+      "source": "politico.eu",
+      "source_score": 75,
+      "published_at": "2026-09-19T10:09:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "BRUSSELS — NATO’s most senior commanders elect a new leader on Saturday in a consequential vote that will help shape how the alliance prepares for a potential Russian incursion and navigates persisting transatlantic tensions.",
+        "The alliance’s 32 chiefs of defense staff will elect a new chair of NATO’s most senior military body, the military committee, in Copenhagen in a hush-hush ballot — and choose between two candidates: Germany’s Gen.",
+        "Carsten Breuer and Canada’s Gen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "politico.eu"
+      ],
+      "all_titles": {
+        "en": "Inside the secret race to become NATO’s next top general"
+      }
+    },
+    {
+      "title_original": "北约发言人表示：北约将继续在加强北极地区安全方面履行自身职责。",
+      "title_zh": "北约发言人表示：北约将继续在加强北极地区安全方面履行自身职责。",
+      "url": "https://wap.cj.sina.cn/7x24/5103177",
+      "source": "新浪财经_金融信息服务商",
+      "source_score": 40,
+      "published_at": "2026-09-19T09:22:50+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "新浪财经客户端\n你永远在大事现场\n打开APP\n北约发言人表示：北约将继续在加强北极地区安全方面履行自身职责。",
+        "声明：以上内容仅供资讯传播，不构成与新浪财经相关的任何投资建议。",
+        "最新快讯\n美国中央司令部司令库珀：过去几个月，超过10亿桶石油经由霍尔木兹海峡运输。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "新浪财经_金融信息服务商"
+      ],
+      "all_titles": {
+        "zh": "北约发言人表示：北约将继续在加强北极地区安全方面履行自身职责。"
+      }
+    },
+    {
+      "title_original": "Opening remarks by the Chair of the NATO Military Committee, the Minister of Defence of Denmark and the Chief of Defence of Denmark",
+      "title_zh": "Opening remarks by the Chair of the NATO Military Committee, the Minister of Defence of Denmark and the Chief of Defence of Denmark",
+      "url": "https://www.nato.int/en/multimedia/multimedia/audios/2026/09/19/opening-remarks-by-the-chair-of-the-nato-military-committee-the-minister-of-defence-of-denmark-and-the-chief-of-defence-of-denmark",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-09-19T08:53:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Opening remarks by the Chair of the NATO Military Committee, the Minister of Defence of Denmark and the Chief of Defence of Denmark    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "Opening remarks by the Chair of the NATO Military Committee, the Minister of Defence of Denmark and the Chief of Defence of Denmark"
+      }
+    },
+    {
+      "title_original": "ロシアが英国臨時大使呼び出し、ウクライナへの兵器供給拡大で「強い対立姿勢」",
+      "title_zh": "ロシアが英国臨時大使呼び出し、ウクライナへの兵器供給拡大で「強い対立姿勢」",
+      "url": "https://www.afpbb.com/articles/-/3653797",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-09-19T08:25:30+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシアが英国代理大使呼び出し、ウクライナへの兵器供給拡大で「強い対立姿勢」\nこのニュースをシェア\n【9月19日 AFP】ロシアは18日、駐ロシア英国臨時代理大使を呼び出し、ウクライナへの兵器供給が「エスカレート」しているとして、同国の「対立姿勢」を強く批判した。",
+        "ロシアは英国を最も敵対的な西側諸国の一つとみなしており、両国関係はウクライナ侵攻以前から悪化している。",
+        "英国はウクライナの主要な同盟国であり、就任したばかりのアンディ・バーナム新首相は初の外国訪問先としてキーウを選んだ。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ロシアが英国臨時大使呼び出し、ウクライナへの兵器供給拡大で「強い対立姿勢」"
+      }
+    },
+    {
+      "title_original": "Dinamarca celebra un acuerdo con EE.UU. «que refuerza la seguridad de la OTAN y de Europa»",
+      "title_zh": "Dinamarca celebra un acuerdo con EE.UU. «que refuerza la seguridad de la OTAN y de Europa»",
+      "url": "https://www.abc.es/internacional/dinamarca-celebra-acuerdo-eeuu-refuerza-seguridad-otan-20260919101607-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-19T08:16:07+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Dinamarca celebra un acuerdo con EE.UU.",
+        "«que refuerza la seguridad de la OTAN y de Europa»\nLa primera ministra danesa ha señalado en un comunicado que el pacto, que se espera sea firmado la próxima semana en Nueva York, reconocerá «la soberanía e integridad territorial del Reino y el derecho del pueblo groenlandés a la autodeterminación»\nCorresponsal en Berlín\n«Me complace que exista la posibilidad de un buen acuerdo para Groenlandia, el Reino de Dinamarca y los Estados Unidos», se ha felicitado en un comunicado oficial la primera ministra danesa, Mett Frederiksen, que se ha referido a un inminente acuerdo «que refuerza ...",
+        "nuestra seguridad común en el Ártico y la zona del Atlántico Norte y, por tanto, también es bueno para la OTAN y para Europa»."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Dinamarca celebra un acuerdo con EE.UU. «que refuerza la seguridad de la OTAN y de Europa»"
+      }
+    },
+    {
+      "title_original": "نائب رئيس الوزراء الصيني يزور الولايات المتحدة قبل قمة شي وترمب",
+      "title_zh": "نائب رئيس الوزراء الصيني يزور الولايات المتحدة قبل قمة شي وترمب",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/5320051-%D9%86%D8%A7%D8%A6%D8%A8-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A-%D9%8A%D8%B2%D9%88%D8%B1-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%82%D8%A8%D9%84-%D9%82%D9%85%D8%A9-%D8%B4%D9%8A-%D9%88%D8%AA%D8%B1%D9%85%D8%A8",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-09-19T08:08:13+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "نائب رئيس الوزراء الصيني يزور الولايات المتحدة قبل قمة شي وترمبhttps://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/5320051-%D9%86%D8%A7%D8%A6%D8%A8-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B5%D9%8A%D9%86%D9%8A-%D9%8A%D8%B2%D9%88%D8%B1-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%82%D8%A8%D9%84-%D9%82%D9%85%D8%A9-%D8%B4%D9%8A-%D9%88%D8%AA%D8%B1%D9%85%D8%A8\nنائب رئيس الوزراء الصيني يزور الولايات المتحدة قبل قمة شي وترمب\nنائب رئيس الوزراء الصيني وكبير المفاوضين للشؤون التجارية هي ليفينغ خلال لقائه وزير الخزانة الأميركي سكوت بيسنت في باريس يوم 16 مارس (آذار) 2026 (رويترز)\nنائب رئيس الوزراء الصيني يزور الولايات المتحدة قبل قمة شي وترمب\nنائب رئيس الوزراء الصيني وكبير المفاوضين للشؤون التجارية هي ليفينغ خلال لقائه وزير الخزانة الأميركي سكوت بيسنت في باريس يوم 16 مارس (آذار) 2026 (رويترز)\nيزور نائب رئيس الوزراء الصيني وكبير المفاوضين للشؤون التجارية هي ليفينغ، الولايات المتحدة، قبل القمة المرتقبة بين الرئيس الأميركي دونالد ترمب ونظيره الصيني شي جينبينغ، بحسب ما أفادت به وسائل إعلام صينية رسمية اليوم (السبت).",
+        "ويجري رئيسا أكبر قوتين اقتصاديتين في العالم محادثات بالبيت الأبيض في 24 سبتمبر (أيلول)، في لقاء يهدف إلى الحد من التوترات حول التجارة والتكنولوجيا ومسائل استراتيجية بصورة عامة.",
+        "وفي حين لا تزال الهدنة التجارية التي توصل إليها الطرفان قبل نحو عام صامدة، فإنهما لم ينجحا بعد في التوصل إلى اتفاق دائم."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "نائب رئيس الوزراء الصيني يزور الولايات المتحدة قبل قمة شي وترمب"
+      }
+    },
+    {
+      "title_original": "مصادر لـ«الشرق الأوسط»: الأردن استجاب للطلب السوري باستضافة لقاءات مع إسرائيل",
+      "title_zh": "مصادر لـ«الشرق الأوسط»: الأردن استجاب للطلب السوري باستضافة لقاءات مع إسرائيل",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5310662-%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D9%84%D9%80%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A7%D8%B3%D8%AA%D8%AC%D8%A7%D8%A8-%D9%84%D9%84%D8%B7%D9%84%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D9%84%D9%82%D8%A7%D8%A1%D8%A7%D8%AA",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-09-19T07:55:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "تأخرت الحكومة الأردنية في إصدار بيان يؤكد صحة الاجتماعات الأمنية السورية الإسرائيلية في عمان، لتلجأ الاثنين لبث تصريحات على لسان مصدر رسمي يؤكد أنّ «الأردن استضاف (الأحد) اجتماعاً بين مسؤولين سوريين وإسرائيليين، تلبية لطلب الأشقاء في الجمهورية العربية السورية»؛ على أن مصادر أكدت لـ«الشرق الأوسط» أن عمّان «ليست طرفاً في المحادثات أو المباحثات بين دمشق وتل أبيب».",
+        "وبينما نحا رسميون إلى ترك الإعلان الرسمي للجانب السوري، الذي طلب من عمّان استضافة الاجتماع، فإن الأردن اعتبر الطلب السوري «شكلاً يعزز ثقة القيادة السورية الجديدة بدور الأردن في دعم جهود استقرار الجنوب السوري، بما يضمن وحدة الأراضي السورية تحت السيادة السورية، وجدية تحذيرات المملكة من محاولات إسرائيل في فرض واقع جديد في مناطق الجنوب السوري، وهو مشروع توسعي تفرضه دولة الاحتلال».",
+        "لكن آخرين طلبوا التعريف بدور الأردن في استضافة الاجتماعات السورية الإسرائيلية، باعتبار هذه الخطوة فرصة للاعتراف بدور المملكة في استقرار دول الجوار، مستفيدة من حيوية اتصالاتها بجميع الأطراف، باستثناء الاتصال السياسي والدبلوماسي مع الحكومة الإسرائيلية الحالية بقيادة بنيامين نتنياهو، الذي يصفه الجانب الرسمي الأردني بـ«الكاذب»."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مصادر لـ«الشرق الأوسط»: الأردن استجاب للطلب السوري باستضافة لقاءات مع إسرائيل"
+      }
+    },
+    {
+      "title_original": "Javier Martínez: El mundo sin miedo a lo nuclear y la tensión crecente con la OTAN",
+      "title_zh": "Javier Martínez: El mundo sin miedo a lo nuclear y la tensión crecente con la OTAN",
+      "url": "https://www.negocios.com/articulo/geopolitica/mundo-miedo-nuclear-tension-crecente-otan-mirada-profunda/20260919092133494026.html",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-09-19T07:21:33+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Javier Martínez: El mundo sin miedo a lo nuclear y la tensión crecente con la OTAN\nEuropa vuelve a mirar hacia el arsenal nuclear ruso en un momento especialmente delicado.",
+        "El analista geopolítico Javier Martínez sostiene en Negocios TV que el temor que durante décadas actuó como freno psicológico frente a una confrontación atómica empieza a debilitarse.",
+        "Su planteamiento coincide con una realidad verificable: Estados Unidos y Rusia atraviesan el periodo de menor regulación de sus arsenales estratégicos en más de medio siglo, mientras la OTAN refuerza simultáneamente sus capacidades convencionales y nucleares."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "Javier Martínez: El mundo sin miedo a lo nuclear y la tensión crecente con la OTAN"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月19日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（9月19日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46997",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-19T06:46:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（9月19日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（9月19日の動き）"
+      }
+    },
+    {
+      "title_original": "Could US pull one-third of troops from Europe? What that would mean",
+      "title_zh": "Could US pull one-third of troops from Europe? What that would mean",
+      "url": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-19T06:38:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Could US pull one-third of troops from Europe?",
+        "What that would mean\nUS Pentagon is reportedly considering proposals for reducing military footprint across the Atlantic.",
+        "The United States is reportedly considering a significant reduction in its military presence in Europe after its allies there refused to allow Washington to use their airbases for the war on Iran."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Could US pull one-third of troops from Europe? What that would mean"
+      }
+    },
+    {
+      "title_original": "Russlands vielsagende „Wahl“ im Ukraine-Krieg – Putin fürchtet „jede Form von Unmutsbekundung“",
+      "title_zh": "Russlands vielsagende „Wahl“ im Ukraine-Krieg – Putin fürchtet „jede Form von Unmutsbekundung“",
+      "url": "https://www.fr.de/politik/putins-wahl-im-ukraine-krieg-fuerchten-jede-form-von-unmutsbekundung-zr-94500144.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-19T06:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russlands vielsagende „Wahl“ im Ukraine-Krieg – Putin fürchtet „jede Form von Unmutsbekundung“\nUns auf Google folgen\nSeit der letzten russischen Parlamentswahl hat Wladimir Putin die Daumenschrauben weiter angezogen.",
+        "Eine Expertin erklärt, wie die Menschen reagieren.",
+        "Russland „wählt“ am Sonntag ein neues Parlament – zum ersten Mal seit Wladimir Putins Armee 2022 die gesamte Ukraine überfallen hat."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Russlands vielsagende „Wahl“ im Ukraine-Krieg – Putin fürchtet „jede Form von Unmutsbekundung“"
+      }
+    },
+    {
+      "title_original": "„Reales Risiko“: Tusk rechnet mit baldigen russischen Angriffen auf NATO-Ostflanke",
+      "title_zh": "„Reales Risiko“: Tusk rechnet mit baldigen russischen Angriffen auf NATO-Ostflanke",
+      "url": "https://www.fr.de/politik/tusk-rechnet-mit-baldigen-russischen-angriffen-auf-natostaaten-zr-94500137.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-19T05:39:41+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "„Reales Risiko“: Tusk rechnet mit baldigen russischen Angriffen auf NATO-Ostflanke\nUns auf Google folgen\nTusk warnt vor russischen Angriffen auf die NATO-Ostflanke.",
+        "Doch Polen hat offenbar ein Ass im Ärmel, das Putin gar nicht gefallen dürfte.",
+        "Warschau – Der polnische Ministerpräsident Donald Tusk hat vor dem Parlament in Warschau eindringlich vor russischen Angriffen auf Verbündete der Ukraine gewarnt."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "„Reales Risiko“: Tusk rechnet mit baldigen russischen Angriffen auf NATO-Ostflanke"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Les Houthis ont-ils été sous-estimés ?",
+      "title_zh": "Guerre au Moyen-Orient : Les Houthis ont-ils été sous-estimés ?",
+      "url": "https://www.20minutes.fr/monde/yemen/4246313-20260919-guerre-moyen-orient-houthis-sous-estimes",
+      "source": "20 Minutes",
+      "source_score": 40,
+      "published_at": "2026-09-19T05:02:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Mathilde Durand\nL'essentiel\n- Les combattants Houthis ont pris le contrôle du littoral yéménite qui borde la mer Rouge, renforçant leur emprise sur le stratégique détroit de Bab el-Mandeb à l’occasion d’une offensive éclair.",
+        "- La communauté internationale s’inquiète pour la situation de ce point majeur du commerce international, alors que les combats reprennent au Yémen entre rebelles et forces du gouvernement reconnu, soutenues par l’Arabie saoudite.",
+        "- Les Houthis, à la tête d’un tiers du pays depuis plusieurs années, ont-ils été sous-estimés ?"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "20 Minutes"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Les Houthis ont-ils été sous-estimés ?"
+      }
+    },
+    {
+      "title_original": "\"Contrôle permanent\", \"bon pour l'Otan et l'Europe\", bases militaires : que change l'accord sur le Groenland annoncé par Donald Trump avec le Danemark ?",
+      "title_zh": "\"Contrôle permanent\", \"bon pour l'Otan et l'Europe\", bases militaires : que change l'accord sur le Groenland annoncé par Donald Trump avec le Danemark ?",
+      "url": "https://www.rtl.fr/actu/international/controle-permanent-bon-pour-l-otan-et-l-europe-bases-militaires-que-change-l-accord-sur-le-groenland-annonce-par-donald-trump-avec-le-danemark-7900674296",
+      "source": "RTL",
+      "source_score": 55,
+      "published_at": "2026-09-19T04:58:37+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "\"Contrôle permanent\", \"bon pour l'Otan et l'Europe\", bases militaires : que change l'accord sur le Groenland annoncé par Donald Trump avec le Danemark ?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "RTL"
+      ],
+      "all_titles": {
+        "fr": "\"Contrôle permanent\", \"bon pour l'Otan et l'Europe\", bases militaires : que change l'accord sur le Groenland annoncé par Donald Trump avec le Danemark ?"
+      }
+    },
+    {
+      "title_original": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
+      "title_zh": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告",
+      "url": "https://www.bbc.com/japanese/articles/cx8d3l9dqqymo",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-19T04:27:46+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告\nフランスのエマニュエル・マクロン大統領は18日、ロシアによる欧州およびフランスに対するハイブリッド攻撃の脅威が高まっていると警告した。",
+        "マクロン大統領はフランス大統領府（エリゼ宮）で記者会見し、この脅威を前にして、重要なインフラ施設と防衛産業施設を保護するための計画を指示したと述べた。",
+        "大統領は、フランスはこの数週間、ロシアによるハイブリッド攻撃の標的となっており、「対応しない」わけにはいかないと述べた。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "マクロン氏、ロシアによる欧州へのハイブリッド攻撃が激化と警告"
+      }
+    },
+    {
+      "title_original": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+      "title_zh": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+      "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-19T04:20:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks\n- Published\nResidents in Saudi Arabia's Riyadh have been given the all-clear after air raid alerts were issued and explosions were reported in the capital.",
+        "It was the first time alerts have been issued in Riyadh since the Houthis increased their attacks and declared a \"maritime embargo\" on the Saudis in July.",
+        "The Saudi Civil Defence sent alerts for the capital and several other regions late on Friday night and Saturday morning (local time) as the Kingdom's conflict with the Iran-backed Houthis continued to escalate."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks"
+      }
+    },
+    {
+      "title_original": "أمريكا تدرس تأجيل مبيعات أسلحة لتايوان لما بعد قمتي \"أبيك\" و\"G20\"",
+      "title_zh": "أمريكا تدرس تأجيل مبيعات أسلحة لتايوان لما بعد قمتي \"أبيك\" و\"G20\"",
+      "url": "https://www.albayan.ae/news/world/1553033",
+      "source": "albayan.ae",
+      "source_score": 40,
+      "published_at": "2026-09-19T04:11:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "أفادت صحيفة ساوث تشاينا مورننغ بوست اليوم السبت بأن الولايات المتحدة تدرس تأجيل الإعلان عن صفقات أسلحة كبرى لتايوان إلى ما بعد قمة منتدى التعاون الاقتصادي لدول آسيا والمحيط الهادي (أبيك) المقرر عقدها في نوفمبر في شنتشن بالصين.",
+        "ونقلت الصحيفة عن مصادر متعددة أن هناك احتمالا قويا بأن يمدد الرئيس دونالد ترامب فترة التأجيل حتى نهاية العام، إذ من المتوقع أن يزور الرئيس الصيني شي جين بينغ ولاية فلوريدا لحضور قمة مجموعة العشرين في ديسمبر.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "albayan.ae"
+      ],
+      "all_titles": {
+        "ar": "أمريكا تدرس تأجيل مبيعات أسلحة لتايوان لما بعد قمتي \"أبيك\" و\"G20\""
+      }
+    },
+    {
+      "title_original": "Los ataques atribuidos a Rusia se multiplican en Europa y llegan a las puertas de la OTAN",
+      "title_zh": "Los ataques atribuidos a Rusia se multiplican en Europa y llegan a las puertas de la OTAN",
+      "url": "https://elpais.com/internacional/2026-09-19/los-ataques-atribuidos-a-rusia-se-multiplican-en-europa-y-llegan-a-las-puertas-de-la-otan.html",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-09-19T03:30:01+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Los ataques atribuidos a Rusia se multiplican en Europa y llegan a las puertas de la OTAN\nMacron ordena proteger las infraestructuras críticas francesas tras seis semanas de incidentes que se han acercado a las fronteras de la Unión\nEl presidente francés, Emmanuel Macron, pidió este viernes a su Gobierno un plan para proteger las infraestructuras críticas y las instalaciones más sensibles de su industria de defensa frente a los drones y los ciberataques.",
+        "“En las últimas semanas, la amenaza híbrida rusa contra los europeos y Francia se ha intensificado”, ha declarado tras reunir en el Elíseo a los líderes de los principales partidos.",
+        "El anuncio llega tras seis semanas de distintos ataques en cinco países de la OTAN y en la frontera de Ucrania con sus vecinos, uno de ellos ha causado dos muertos."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Los ataques atribuidos a Rusia se multiplican en Europa y llegan a las puertas de la OTAN"
+      }
+    },
+    {
+      "title_original": "La leçon de géopolitique - Allemagne : pourquoi l'extrême droite est-elle de retour ?",
+      "title_zh": "La leçon de géopolitique - Allemagne : pourquoi l'extrême droite est-elle de retour ?",
+      "url": "https://www.arte.tv/fr/videos/127410-021-A/la-lecon-de-geopolitique-allemagne-pourquoi-l-extreme-droite-est-elle-de-retour/",
+      "source": "Arte.tv",
+      "source_score": 55,
+      "published_at": "2026-09-19T03:03:32+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La leçon de géopolitique - Allemagne : pourquoi l'extrême droite est-elle de retour ?",
+        "Avec François Hublet\n16 min\nDisponible jusqu'au 20/09/2029\nEn Saxe-Anhalt, l’Alternative pour l’Allemagne (AfD), un parti antimigrants, russophile et pro-Trump, a recueilli 43,8% des voix le week-end du 6 septembre.",
+        "Un résultat historique pour l’extrême droite en Allemagne commentée par François Hublet, rédacteur en chef des Bulletins des élections de l'Union Européenne (BLUE), une publication du Groupe d'études géopolitiques."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Arte.tv"
+      ],
+      "all_titles": {
+        "fr": "La leçon de géopolitique - Allemagne : pourquoi l'extrême droite est-elle de retour ?"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Russland nennt Trump-Vorstoß eine „sehr gute Idee“ – und schiebt neue Forderungen hinterher",
+      "title_zh": "Ukraine-Krieg: Russland nennt Trump-Vorstoß eine „sehr gute Idee“ – und schiebt neue Forderungen hinterher",
+      "url": "https://www.fr.de/politik/nennt-trump-vorstoss-eine-sehr-gute-idee-ukraine-waffenruhe-kreml-zr-94494202.html",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-19T02:46:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ende vom Ukraine-Krieg: Kreml nennt Trump-Vorstoß eine „sehr gute Idee“\nUns auf Google folgen\nTrump verkündet eine Einigung im Ukraine-Krieg, doch Selenskyj widerspricht.",
+        "Russland lobt den Vorstoß – und stellt gleich weitere Forderungen für eine Waffenruhe.",
+        "Kiew/Moskau – Während ukrainische Streitkräfte am Dienstagmorgen die Syzran-Ölraffinerie des russischen Staatskonzerns Rosneft angegriffen haben und Russland zeitgleich Kiew mit Drohnen beschoss, hat der Kreml den Vorschlag von US-Präsident Donald Trump begrüßt, gegenseitige Angriffe auf Energieinfrastruktur zu stoppen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Russland nennt Trump-Vorstoß eine „sehr gute Idee“ – und schiebt neue Forderungen hinterher"
+      }
+    },
+    {
+      "title_original": "Donald Trump annonce un accord de sécurité avec le Groenland, mettant fin au contentieux avec le Danemark, l’UE et l’OTAN",
+      "title_zh": "Donald Trump annonce un accord de sécurité avec le Groenland, mettant fin au contentieux avec le Danemark, l’UE et l’OTAN",
+      "url": "https://www.lemonde.fr/international/article/2026/09/19/donald-trump-annonce-un-accord-de-securite-avec-le-groenland-mettant-fin-au-contentieux-avec-le-danemark-l-ue-et-l-otan_6777111_3210.html",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-09-19T02:30:27+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Donald Trump annonce un accord de sécurité avec le Groenland, mettant fin au contentieux avec le Danemark, l’UE et l’OTAN    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "Donald Trump annonce un accord de sécurité avec le Groenland, mettant fin au contentieux avec le Danemark, l’UE et l’OTAN"
+      }
+    },
     {
       "title_original": "Ukraine war briefing: Zelenskyy reaches out to eastern Europe for new trade and security partnership",
       "title_zh": "Ukraine war briefing: Zelenskyy reaches out to eastern Europe for new trade and security partnership",
