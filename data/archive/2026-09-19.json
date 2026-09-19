@@ -1,0 +1,882 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T01:09:29.433387+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Ukraine war briefing: Zelenskyy reaches out to eastern Europe for new trade and security partnership",
+      "title_zh": "Ukraine war briefing: Zelenskyy reaches out to eastern Europe for new trade and security partnership",
+      "url": "https://www.theguardian.com/world/2026/sep/19/ukraine-war-briefing-zelenskyy-reaches-out-to-eastern-europe-for-new-trade-and-security-partnership",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-09-19T01:04:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  Ukrainian president Volodymyr Zelenskyy launched on Friday a new trade and security scheme with a group of eight countries from the Carpathian region of central and eastern Europe.",
+        "In a comment summing up the outcome of the meeting, Zelenskyy said on Telegram that 50 agreements had been signed for a total value of more than €1bn ($1.15bn).",
+        "He gave few details, but said more than half the accords dealt with energy, particularly solar and wind power, with the aim of energy independence from Russia."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Zelenskyy reaches out to eastern Europe for new trade and security partnership"
+      }
+    },
+    {
+      "title_original": "ウクライナ戦争、民間人と捕虜数百人以上が性暴力被害 国連",
+      "title_zh": "ウクライナ戦争、民間人と捕虜数百人以上が性暴力被害 国連",
+      "url": "https://www.afpbb.com/articles/-/3653771",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-09-19T00:58:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ戦争、民間人と捕虜数百人以上が性暴力被害 国連\nこのニュースをシェア\n【9月19日 AFP】国連人権高等弁務官事務所（OHCHR）は18日、ロシアが2022年にウクライナへの全面侵攻を開始して以来、民間人および戦争捕虜（ほりょ）数百人以上が性暴力や拷問を受けており、その圧倒的多数がロシア側当局者によるものだとする報告書を公表した。",
+        "OHCHRは、確認できた事例の89％がロシア側当局者の犯行で、「兵士、刑務官、連邦保安庁（FSB）職員ら」によって実行されたと結論付けた。",
+        "残る11％についてはウクライナ側の当局者による犯行とし、両国に対して迅速な調査を行い、加害者を逮捕して法の裁きを受けさせるよう求めた。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ戦争、民間人と捕虜数百人以上が性暴力被害 国連"
+      }
+    },
+    {
+      "title_original": "Trump signs sweeping Russia sanctions over Ukraine war",
+      "title_zh": "Trump signs sweeping Russia sanctions over Ukraine war",
+      "url": "https://www.aljazeera.com/news/2026/9/19/trump-signs-sweeping-russia-sanctions-over-ukraine-war",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-19T00:49:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump signs sweeping Russia sanctions over Ukraine war\nNew US law imposes harsh measures on Russia, aims to weaken Kremlin’s war funding and push for Ukraine negotiations.",
+        "US President Donald Trump has signed into law a sweeping sanctions package targeting Russia over its war in Ukraine, days after Congress sent the bill to the White House with rare bipartisan support.",
+        "Signed on Friday, the legislation, known as the Lindsey O Graham Sanctioning Russia and Iran Act of 2026, honours the late Republican senator who spent more than a year negotiating it before his sudden death in July."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Trump signs sweeping Russia sanctions over Ukraine war"
+      }
+    },
+    {
+      "title_original": "كوريا الجنوبية وأمريكا تناقشان دور سول في الشرق الأوسط واتفاق استثمار",
+      "title_zh": "كوريا الجنوبية وأمريكا تناقشان دور سول في الشرق الأوسط واتفاق استثمار",
+      "url": "https://www.reuters.com/ar/business/SVJ2D6SZCRNUTHBV2BRWGSXWR4-2026-09-18/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-18T23:51:57+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "كوريا الجنوبية وأمريكا تناقشان دور سول في الشرق الأوسط واتفاق استثمار    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "كوريا الجنوبية وأمريكا تناقشان دور سول في الشرق الأوسط واتفاق استثمار"
+      }
+    },
+    {
+      "title_original": "Trump says he is banning CNN and Politico from White House",
+      "title_zh": "Trump says he is banning CNN and Politico from White House",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-18T23:26:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump says he is banning CNN and Politico from White House\n- Published\nUS President Donald Trump has announced that he is \"immediately\" banning CNN, MS NOW and Politico from the White House, the latest twist in his fraught relationship with media outlets.",
+        "In a post on Truth Social on Friday, Trump said that the outlets \"constantly write or report fiction or lies\" about his administration, although he provided no examples.",
+        "Trump later called it a \"very simple ban\", but did not explain how it would work."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump says he is banning CNN and Politico from White House"
+      }
+    },
+    {
+      "title_original": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
+      "title_zh": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",
+      "url": "https://www.theguardian.com/us-news/2026/sep/18/us-men-deported-hotel-equatorial-guinea",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-18T23:08:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Group trapped at Hotel Bamy after US removal as rights groups sound alarm over poor conditions and violence Two men that the Trump administration expelled to Equatorial Guinea were bound, fitted with bags over their heads, beaten and pushed down a flight of stairs, all in plain view of other US deportees, according to witnesses and human rights lawyers.",
+        "The men – one from Egypt and one from Eritrea – were then taken to a prison.",
+        "About 30 detainees from the US remain trapped at a hotel in the outskirts of the coastal city of Malabo after being deported from the US."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say"
+      }
+    },
+    {
+      "title_original": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "title_zh": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-18T22:58:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US and Denmark reach deal over Greenland after Trump annexation threats"
+      }
+    },
+    {
+      "title_original": "Le Danemark salue l'accord sur le Groenland, «bon pour l'Otan et l'Europe»",
+      "title_zh": "Le Danemark salue l'accord sur le Groenland, «bon pour l'Otan et l'Europe»",
+      "url": "https://www.lefigaro.fr/international/le-danemark-salue-l-accord-sur-le-groenland-bon-pour-l-otan-et-l-europe-20260919",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-09-18T22:46:47+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La première ministre du Danemark Mette Frederiksen, entouré du président de la Lituanie Gitanas Nauseda et du premier ministre de l’Estonie, Kristen Michal, à Rovaniemi, le 14 septembre 2026.",
+        "Jouni Porsanger / REUTERS\nSelon la première ministre danoise Mette Frederiksen, cet accord «renforce notre sécurité commune dans l’Arctique et dans l’Atlantique Nord».",
+        "La première ministre danoise Mette Frederiksen a salué vendredi l'accord annoncé par les États-Unis sur le Groenland, assurant qu'il serait «bon pour l'Otan et l'Europe»."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Le Danemark salue l'accord sur le Groenland, «bon pour l'Otan et l'Europe»"
+      }
+    },
+    {
+      "title_original": "Accely تعيّن Murali Kurra رئيسًا تنفيذيًا للإيرادات في الشرق الأوسط",
+      "title_zh": "Accely تعيّن Murali Kurra رئيسًا تنفيذيًا للإيرادات في الشرق الأوسط",
+      "url": "https://www.prnewswire.com/ae/ar/news-releases/u0061u0063u0063u0065u006Cu0079u002Du062Au0639u064Au0651u0646u002Du006Du0075u0072u0061u006Cu0069u002Du006Bu0075u0072u0072u0061u002Du0631u0626-302883675.html",
+      "source": "PR Newswire",
+      "source_score": 40,
+      "published_at": "2026-09-18T22:45:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "دبي، الإمارات العربية المتحدة, 19 سبتمبر 2026 /PRNewswire/ -- عيّنت Accely، وهي شريك ذهبي عالمي لـSAP وشركة متخصصة في تحوّل المؤسسات، Murali Kurra رئيسًا تنفيذيًا للإيرادات في الشرق الأوسط.",
+        "وسيتولى قيادة المبيعات في مختلف أنحاء المنطقة، ومسؤولية استراتيجية الإيرادات لدى Accely، بما يشمل تنمية الحسابات الحالية وتجديد العقود ودخول أسواق جديدة.",
+        "أمضى Murali أكثر من عشرين عامًا في مجال تطبيقات المؤسسات ومنظومة SAP، شغل خلالها مناصب عليا في المبيعات والقيادة لدى IBM وDXC Technology وFujitsu وBristlecone وZensar Technologies وEdraky."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "PR Newswire"
+      ],
+      "all_titles": {
+        "ar": "Accely تعيّن Murali Kurra رئيسًا تنفيذيًا للإيرادات في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Europa no posee los medios ni la cohesión para dejar de depender de la defensa de la OTAN",
+      "title_zh": "Europa no posee los medios ni la cohesión para dejar de depender de la defensa de la OTAN",
+      "url": "https://www.elindependiente.com/economia/2026/09/19/europa-no-posee-los-medios-ni-la-cohesion-para-dejar-de-depender-de-la-defensa-de-la-otan/",
+      "source": "El Independiente",
+      "source_score": 40,
+      "published_at": "2026-09-18T22:03:31+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La autonomía estratégica es la meta más ambiciosa -y lejana- que quieren alcanzar los aliados europeos.",
+        "Los millones de euros están llegando para aumentar las capacidades, la tecnología y perfeccionar la organización entre los países del continente.",
+        "Pero más allá que se quiera dejar de depender de la OTAN, el papel que desempeña la Alianza Atlántica en la protección europea es innegable."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "El Independiente"
+      ],
+      "all_titles": {
+        "es": "Europa no posee los medios ni la cohesión para dejar de depender de la defensa de la OTAN"
+      }
+    },
+    {
+      "title_original": "من التجارة إلى تايوان وإيران.. ماذا ينتظر قمة ترمب وشي؟",
+      "title_zh": "من التجارة إلى تايوان وإيران.. ماذا ينتظر قمة ترمب وشي؟",
+      "url": "https://asharq.com/videos/shorts/13881/%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A5%D9%84%D9%89-%D8%AA%D8%A7%D9%8A%D9%88%D8%A7%D9%86-%D9%88%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%85%D8%A7%D8%B0%D8%A7-%D9%8A%D9%86%D8%AA%D8%B8%D8%B1-%D9%82%D9%85%D8%A9-%D8%AA%D8%B1%D9%85%D8%A8-%D9%88%D8%B4%D9%8A/",
+      "source": "الشرق للأخبار",
+      "source_score": 40,
+      "published_at": "2026-09-18T21:51:42+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "من التجارة إلى تايوان وإيران..",
+        "ماذا ينتظر قمة ترمب وشي؟    الشرق للأخبار",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "الشرق للأخبار"
+      ],
+      "all_titles": {
+        "ar": "من التجارة إلى تايوان وإيران.. ماذا ينتظر قمة ترمب وشي؟"
+      }
+    },
+    {
+      "title_original": "صندوق النقد يتوقع انكماشا حادا للنشاط الاقتصادي اللبناني في 2026",
+      "title_zh": "صندوق النقد يتوقع انكماشا حادا للنشاط الاقتصادي اللبناني في 2026",
+      "url": "https://www.reuters.com/ar/business/M7MQLJNXE5L4LFRIRAPWVUT5BI-2026-09-18/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-18T21:23:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "صندوق النقد يتوقع انكماشا حادا للنشاط الاقتصادي اللبناني في 2026    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "صندوق النقد يتوقع انكماشا حادا للنشاط الاقتصادي اللبناني في 2026"
+      }
+    },
+    {
+      "title_original": "Germany receives first F-35 jet from US as NATO boosts military spending",
+      "title_zh": "Germany receives first F-35 jet from US as NATO boosts military spending",
+      "url": "https://www.aljazeera.com/news/2026/9/18/germany-receives-first-f-35-jet-from-us-as-nato-boosts-military-spending",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-18T21:07:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Germany receives first F-35 jet from US as NATO boosts military spending\nGermany received the first of nearly three dozen F-35 stealth warplanes it ordered four years ago from Lockheed Martin.",
+        "Germany has received its first F-35A Lightning II fighter jet, as the country accelerates a major military buildup and increases defence spending amid a broader push by European NATO members to strengthen their armed forces.",
+        "The delivery on Friday is part of Germany’s effort to fulfil NATO nuclear-sharing duties and modernise its military after decades of relatively low defence spending."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Germany receives first F-35 jet from US as NATO boosts military spending"
+      }
+    },
+    {
+      "title_original": "ロシア下院選挙 プーチン大統領も投票 ウクライナは厳しく非難",
+      "title_zh": "ロシア下院選挙 プーチン大統領も投票 ウクライナは厳しく非難",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260919de51182",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-18T21:00:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア下院選挙 プーチン大統領も投票 ウクライナは厳しく非難    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア下院選挙 プーチン大統領も投票 ウクライナは厳しく非難"
+      }
+    },
+    {
+      "title_original": "Widespread sexual violence in Ukraine war, most cases tied to Russia, says UN report",
+      "title_zh": "Widespread sexual violence in Ukraine war, most cases tied to Russia, says UN report",
+      "url": "https://www.reuters.com/world/widespread-sexual-violence-ukraine-war-most-cases-tied-russia-says-un-report-2026-09-18/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-18T20:38:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Widespread sexual violence in Ukraine war, most cases tied to Russia, says UN report    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Widespread sexual violence in Ukraine war, most cases tied to Russia, says UN report"
+      }
+    },
+    {
+      "title_original": "Tusk dispara la alarma: Rusia prepara ataques híbridos contra la OTAN",
+      "title_zh": "Tusk dispara la alarma: Rusia prepara ataques híbridos contra la OTAN",
+      "url": "https://www.negocios.com/articulo/geopolitica/donald-tusk-alerta-posibles-ataques-hibridos-rusos-suelo-otan/20260918210913493986.html",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-09-18T19:09:13+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Tusk dispara la alarma: Rusia prepara ataques híbridos contra la OTAN\nDonald Tusk ha lanzado una de las advertencias más graves de los últimos meses sobre la seguridad del flanco oriental europeo.",
+        "El primer ministro de Polonia aseguró el 17 de septiembre ante el Parlamento que, según información de inteligencia disponible para Varsovia, existen planes para ejecutar ataques híbridos con drones y misiles contra países que respaldan a Ucrania, incluida Polonia.",
+        "Tusk sostuvo que finales de otoño y el invierno pueden convertirse en el periodo «más crítico» de la guerra hasta ahora."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "Tusk dispara la alarma: Rusia prepara ataques híbridos contra la OTAN"
+      }
+    },
+    {
+      "title_original": "La guerre au Moyen-Orient, combustible du populisme dans le monde",
+      "title_zh": "La guerre au Moyen-Orient, combustible du populisme dans le monde",
+      "url": "https://www.lanouvellerepublique.fr/a-la-une/la-guerre-au-moyen-orient-combustible-du-populisme-dans-le-monde-1789758133",
+      "source": "lanouvellerepublique.fr",
+      "source_score": 40,
+      "published_at": "2026-09-18T19:02:13+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Par Matthieu Le Gall\nCette colère sourde, en France, face à l’envolée des prix des carburants, qui s’échappe vers la surface comme les bulles d’une eau frémissante, est déjà entrée en ébullition ailleurs sur la planète.",
+        "Au Guatemala, en Syrie, des habitants protestent parfois violemment.",
+        "Dans les pays en développement du sous-continent asiatique, dont les économies dépendent principalement du pétrole extrait au Moyen-Orient, le quotidien des travailleurs pauvres s’est encore durci et leur exaspération provoque, en réaction, le raidissement des autorités."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "lanouvellerepublique.fr"
+      ],
+      "all_titles": {
+        "fr": "La guerre au Moyen-Orient, combustible du populisme dans le monde"
+      }
+    },
+    {
+      "title_original": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "title_zh": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+      "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-18T18:56:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+        "US President Donald Trump has claimed the Kennedy Center in Washington DC has been losing \"tens of millions of dollars, even hundreds of millions of dollars\" for years.",
+        "Trump, who wants his name on the famous performing arts venue, was photographed onboard Air Force One looking at a poster with a headline that appeared to tout the demolition of the site."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Is the Kennedy Center losing 'hundreds of millions of dollars'?"
+      }
+    },
+    {
+      "title_original": "Russians vote as Ukraine war drags on for fifth year",
+      "title_zh": "Russians vote as Ukraine war drags on for fifth year",
+      "url": "https://www.courthousenews.com/russians-vote-as-ukraine-war-drags-on-for-fifth-year/",
+      "source": "Courthouse News",
+      "source_score": 55,
+      "published_at": "2026-09-18T18:47:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "(AFP) — Russians began voting Friday in a tightly controlled three-day election expected to tighten President Vladimir Putin’s 26-year grip on power as the country enters its fifth year of war with Ukraine.",
+        "It is Russia’s first parliamentary election since Moscow sent troops into Ukraine in February 2022, setting off a conflict that has killed hundreds of thousands of people.",
+        "Only parties that support Putin and the Kremlin’s military campaign have been registered to run."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Courthouse News"
+      ],
+      "all_titles": {
+        "en": "Russians vote as Ukraine war drags on for fifth year"
+      }
+    },
+    {
+      "title_original": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "title_zh": "Russian hybrid attacks against Europe intensifying, says Macron",
+      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-18T18:04:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russian hybrid attacks against Europe intensifying, says Macron\n- Published\nFrench President Emmanuel Macron has warned that the threat of hybrid attacks by Russia against Europe and France has intensified.",
+        "In a news conference at the Elysee Palace, Macron said he had ordered a plan to protect critical infrastructure and defence industry sites in the face of this threat.",
+        "He said France had been targeted by Russian hybrid attacks in the past few weeks which would not be left \"without a response\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russian hybrid attacks against Europe intensifying, says Macron"
+      }
+    },
+    {
+      "title_original": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "title_zh": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-18T17:57:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran\n- Published\nInvestment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that \"we simply don't know how to model the endgame\".",
+        "The bank said it assumed at the start of the conflict that there would be \"economic red lines\" that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June.",
+        "It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran"
+      }
+    },
+    {
+      "title_original": "European leaders prepare public for ‘intensified threat’ from Putin",
+      "title_zh": "European leaders prepare public for ‘intensified threat’ from Putin",
+      "url": "https://www.politico.eu/article/russia-vladimir-putin-nato-drone-attacks-europe-leaders-warning/",
+      "source": "politico.eu",
+      "source_score": 75,
+      "published_at": "2026-09-18T17:35:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "BRUSSELS — Top European officials are increasingly alarmed that Russia could stage drone or missile attacks against NATO countries as Moscow steps up its hybrid campaign across the continent.",
+        "The warnings underscore a growing sense of anxiety in Europe amid fast-proliferating incidents of airspace violations and sabotage attempts in recent months.",
+        "NATO allies have repeatedly said they see the attacks as pressure from the Kremlin to reduce their support for Ukraine but have muted their response over fears of escalation."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "politico.eu"
+      ],
+      "all_titles": {
+        "en": "European leaders prepare public for ‘intensified threat’ from Putin"
+      }
+    },
+    {
+      "title_original": "صفقات وعقوبات.. ترمب يبحث مقاربة جديدة لدفع بوتين نحو إنهاء حرب أوكرانيا",
+      "title_zh": "صفقات وعقوبات.. ترمب يبحث مقاربة جديدة لدفع بوتين نحو إنهاء حرب أوكرانيا",
+      "url": "https://asharq.com/politics/196793/%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D8%A8%D8%AD%D8%AB-%D9%85%D9%82%D8%A7%D8%B1%D8%A8%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%AF%D9%81%D8%B9-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%86%D8%AD%D9%88-%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%AD%D8%B1%D8%A8-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7/",
+      "source": "الشرق للأخبار",
+      "source_score": 40,
+      "published_at": "2026-09-18T16:57:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "صفقات وعقوبات..",
+        "ترمب يبحث مقاربة جديدة لدفع بوتين نحو إنهاء حرب أوكرانيا    الشرق للأخبار",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "الشرق للأخبار"
+      ],
+      "all_titles": {
+        "ar": "صفقات وعقوبات.. ترمب يبحث مقاربة جديدة لدفع بوتين نحو إنهاء حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "Trump touts plan for new U.S. base in Poland as NATO ally's leader warns of \"real risk\" from Russia",
+      "title_zh": "Trump touts plan for new U.S. base in Poland as NATO ally's leader warns of \"real risk\" from Russia",
+      "url": "https://www.cbsnews.com/news/trump-poland-us-military-base-russia-ukraine-war-nato/",
+      "source": "CBS News",
+      "source_score": 75,
+      "published_at": "2026-09-18T16:34:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Trump touts plan for new U.S.",
+        "base in Poland as NATO ally's leader warns of \"real risk\" from Russia\nBerlin — The U.S.",
+        "has made \"major progress\" on plans to establish a permanent U.S."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "CBS News"
+      ],
+      "all_titles": {
+        "en": "Trump touts plan for new U.S. base in Poland as NATO ally's leader warns of \"real risk\" from Russia"
+      }
+    },
+    {
+      "title_original": "トランプ政権、ウクライナ和平合意前にロシアと経済取引を検討",
+      "title_zh": "トランプ政権、ウクライナ和平合意前にロシアと経済取引を検討",
+      "url": "https://www.nikkei.com/article/DGXZQOGN18C450Y6A910C2000000/",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-18T16:22:32+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "この記事は会員限定記事です\nトランプ政権、ウクライナ和平合意前にロシアと経済取引を検討\n(更新)[会員限定記事]\n【ワシントン=飛田臨太郎】トランプ米政権がロシアとの経済協力をウクライナとの和平合意前の段階で認める案を検討している。米紙ニューヨーク・タイムズ（NYT）が17日に報じた。",
+        "強硬なロシアのプーチン大統領を交渉に引き出すためだが、和平が実現しなければロシアを利するだけになる。トランプ氏は2025年に「戦争を解決するまではビジネスはしない」と述べ、あくまで和平合意の後になると説明していた。",
+        "2022年2月、ロシアがウクライナに侵略しました。戦況や世界各国の動きなど、関連する最新ニュースと解説をまとめました。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "トランプ政権、ウクライナ和平合意前にロシアと経済取引を検討"
+      }
+    },
+    {
+      "title_original": "US NATO Envoy Whitaker Warns Patriot Shortage Means Washington, Allies Must 'Dig Deep'",
+      "title_zh": "US NATO Envoy Whitaker Warns Patriot Shortage Means Washington, Allies Must 'Dig Deep'",
+      "url": "https://www.rferl.org/a/us-nato-envoy-whitaker-patriot-shortage-ukraine/33858935.html",
+      "source": "rferl.org",
+      "source_score": 40,
+      "published_at": "2026-09-18T15:52:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US Ambassador to NATO Matthew Whitaker has warned that global demand for missiles for Patriot air defense systems is “outpacing supply” and that Washington and its allies would have to “dig deep” to support Ukraine.",
+        "Speaking in an interview with RFE/RL on September 18, Whitaker said an increasingly dangerous international environment was leading to a shortage of Patriot interceptor missiles and that manufacturing capacity was not keeping up.",
+        "“The Ukrainians obviously are working very hard, in addition to everything we're doing on the Patriot front, to create some sovereign capabilities, some native interceptors,” Whitaker said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "rferl.org"
+      ],
+      "all_titles": {
+        "en": "US NATO Envoy Whitaker Warns Patriot Shortage Means Washington, Allies Must 'Dig Deep'"
+      }
+    },
+    {
+      "title_original": "Dozens of suspected illegal miners die in Nigerian custody",
+      "title_zh": "Dozens of suspected illegal miners die in Nigerian custody",
+      "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-18T15:47:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Dozens of suspected illegal miners die in Nigerian custody\n- Published\nThirty-seven people accused of illegal mining in north-central Nigeria have died in custody, official say.",
+        "Police have set up an investigation into the deaths, which the Nigerian Security and Civil Defence Corps (NSCDC) blamed on an apparent disease outbreak.",
+        "However, an intelligence report shared with AFP news agency suggested the group had died because of overcrowding and poor ventilation inside the detention facility in Niger state."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Dozens of suspected illegal miners die in Nigerian custody"
+      }
+    },
+    {
+      "title_original": "„Das wahrscheinlichste Szenario für die nächsten Monate“ – So konkret ist Polens Warnung vor Putin",
+      "title_zh": "„Das wahrscheinlichste Szenario für die nächsten Monate“ – So konkret ist Polens Warnung vor Putin",
+      "url": "https://www.welt.de/politik/ausland/plus6aad23c3708e760b5e0630d6/moskaus-angriffsplaene-das-wahrscheinlichste-szenario-fuer-die-naechsten-monate-so-konkret-ist-polens-warnung-vor-putin.html",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-09-18T15:35:19+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Hauptnavigation: Nutzen Sie die Tabulatortaste, um durch die Menüpunkte zu navigieren.",
+        "Öffnen Sie Untermenüs mit der Leertaste.",
+        "Schließen Sie Untermenüs mit der Escape-Taste."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Das wahrscheinlichste Szenario für die nächsten Monate“ – So konkret ist Polens Warnung vor Putin"
+      }
+    },
+    {
+      "title_original": "San Diego gas surges past $6.18 as Middle East conflict drives up pump prices",
+      "title_zh": "San Diego gas surges past $6.18 as Middle East conflict drives up pump prices",
+      "url": "https://www.kpbs.org/news/economy/2026/09/18/san-diego-gas-surges-past-6-18-as-middle-east-conflict-drives-up-pump-prices",
+      "source": "KPBS",
+      "source_score": 40,
+      "published_at": "2026-09-18T14:54:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "The average price of a gallon of self-serve regular gasoline in San Diego County rose today for the 30th time in 31 days, increasing 2.9 cents to $6.186, its highest amount since May 12.",
+        "The average price has increased 50.4 cents over the past 31 days, including 4.3 cents Thursday, according to figures from the AAA and Oil Price Information Service.",
+        "It rose 12 consecutive days, dropped four-tenths of a cent Aug."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "KPBS"
+      ],
+      "all_titles": {
+        "en": "San Diego gas surges past $6.18 as Middle East conflict drives up pump prices"
+      }
+    },
+    {
+      "title_original": "الصليب الأحمر: لم يسمح لنا بالوصول لأسرى حرب أوكرانيين منذ 2024",
+      "title_zh": "الصليب الأحمر: لم يسمح لنا بالوصول لأسرى حرب أوكرانيين منذ 2024",
+      "url": "https://www.reuters.com/ar/world/AO2XR54ID5IJNENN4VS3IBBQ6Y-2026-09-18/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-18T14:52:09+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الصليب الأحمر: لم يسمح لنا بالوصول لأسرى حرب أوكرانيين منذ 2024    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الصليب الأحمر: لم يسمح لنا بالوصول لأسرى حرب أوكرانيين منذ 2024"
+      }
+    },
+    {
+      "title_original": "إعلام فرنسي: \"الموساد\" اخترق هاتف مستشارة الإليزيه لشؤون الشرق الأوسط",
+      "title_zh": "إعلام فرنسي: \"الموساد\" اخترق هاتف مستشارة الإليزيه لشؤون الشرق الأوسط",
+      "url": "https://www.aa.com.tr/ar/%D8%AF%D9%88%D9%84%D9%8A/%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D8%A7%D8%AF-%D8%A7%D8%AE%D8%AA%D8%B1%D9%82-%D9%87%D8%A7%D8%AA%D9%81-%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%84%D9%8A%D8%B2%D9%8A%D9%87-%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7/4061301",
+      "source": "Anadolu Ajansı",
+      "source_score": 40,
+      "published_at": "2026-09-18T14:46:30+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Esra Taşkın, Muhammed Kılıç\n18 سبتمبر 2026•تحديث: 18 سبتمبر 2026\nباريس/ الأناضول\nأفادت مجلة \"تشالنجز\" الفرنسية، الجمعة، بأن جهاز الاستخبارات الإسرائيلي \"الموساد\" اخترق هاتف دورا كاتوتي، مستشارة شؤون شمال إفريقيا والشرق الأوسط في المكتب الدبلوماسي للرئاسة الفرنسية (قصر الإليزيه).",
+        "وأشارت المجلة استنادا إلى مصدر دبلوماسي فرنسي، إلى أن اختراق الموساد هاتف كاتوتي كُشف خلال فحص أمني.",
+        "وأوضحت أن عملية الاختراق نُفذت بأسلوب التصيد الإلكتروني، بعدما ردت كاتوتي على رسالة مزيفة اعتقدت أنها مرسلة من السلطة الفلسطينية."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Anadolu Ajansı"
+      ],
+      "all_titles": {
+        "ar": "إعلام فرنسي: \"الموساد\" اخترق هاتف مستشارة الإليزيه لشؤون الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "شاهد.. بوتين يصوّت إلكترونياً بأول انتخابات برلمانية روسية منذ حرب أوكرانيا",
+      "title_zh": "شاهد.. بوتين يصوّت إلكترونياً بأول انتخابات برلمانية روسية منذ حرب أوكرانيا",
+      "url": "https://arabic.cnn.com/world/video/2026/09/18/v202012-putin-casts-vote-online-in-first-russian-parliamentary-elections-since-ukraine-war",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-09-18T13:56:50+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Video Ad Feedback\n  شاهد..",
+        "بوتين يصوّت إلكترونياً بأول انتخابات برلمانية روسية منذ حرب أوكرانيا\n                \n                        أدلى الرئيس الروسي فلاديمير بوتين بصوته إلكترونياً في انتخابات مجلس الدوما (مجلس النواب الروسي)، في أول انتخابات برلمانية روسية منذ بدء الحرب في أوكرانيا في فبراير/شباط 2022.",
+        "0:22\n                            \n                                 • مصدر:\n                \n                    CNN\n        \n                    \n                \n      \n          قد يهمك أيضًا\n      \n      15 فيديو\n    \n    Video Ad Feedback\n  شاهد.."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "شاهد.. بوتين يصوّت إلكترونياً بأول انتخابات برلمانية روسية منذ حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "原创 北约大鱼被团灭？俄军刚轰炸完，西方多个“运尸队”赶到乌边境",
+      "title_zh": "原创 北约大鱼被团灭？俄军刚轰炸完，西方多个“运尸队”赶到乌边境",
+      "url": "https://m.sohu.com/a/1077964721_122483031?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-09-18T13:55:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "相信对于许多人来说，当被问及现在仍在持续的冲突的时候，第一时间想到的就是俄乌冲突。",
+        "从2022年爆发，到今年2026年，战争已经维持了4年的时间。而在这4年时间里，俄乌双方均为此付出了惨痛的代价，可冲突非但没有结束，反而愈演愈烈。",
+        "随着乌克兰在战场上逐渐陷入困境，特朗普上台后美俄在沙特举行了没有乌克兰参加的谈判，整个国际局势都在发生变化。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "原创 北约大鱼被团灭？俄军刚轰炸完，西方多个“运尸队”赶到乌边境"
+      }
+    },
+    {
+      "title_original": "إنجينيرز إنديا تتوقع تحقيق مكاسب من خطط الشرق الأوسط لتجاوز مضيق هرمز",
+      "title_zh": "إنجينيرز إنديا تتوقع تحقيق مكاسب من خطط الشرق الأوسط لتجاوز مضيق هرمز",
+      "url": "https://www.reuters.com/ar/business/PJ3XQSMZPJKD5GULX7SBPCFJSM-2026-09-18/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-18T13:31:19+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "إنجينيرز إنديا تتوقع تحقيق مكاسب من خطط الشرق الأوسط لتجاوز مضيق هرمز    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "إنجينيرز إنديا تتوقع تحقيق مكاسب من خطط الشرق الأوسط لتجاوز مضيق هرمز"
+      }
+    },
+    {
+      "title_original": "„Wegen irgendeines Artikels 5“ Slowakischer Regierungschef stellt Beistandspflicht der Nato infrage",
+      "title_zh": "„Wegen irgendeines Artikels 5“ Slowakischer Regierungschef stellt Beistandspflicht der Nato infrage",
+      "url": "https://www.tagesspiegel.de/internationales/wegen-irgendeines-artikels-5-slowakischer-regierungschef-stellt-beistandspflicht-der-nato-infrage-16068866.html",
+      "source": "tagesspiegel.de",
+      "source_score": 75,
+      "published_at": "2026-09-18T13:24:40+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "„Wegen irgendeines Artikels 5“: Slowakischer Regierungschef stellt Beistandspflicht der Nato infrage\nRobert Fico will sein Land aus einem Konflikt mit Russland heraushalten.",
+        "Es gebe Versuche, „einen Vorwand für einen größeren Konflikt zwischen der Nato und Russland“ zu finden, meint der Ministerpräsident.",
+        "Stand:\nnun bevorzugt anzeigen lassen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "tagesspiegel.de"
+      ],
+      "all_titles": {
+        "de": "„Wegen irgendeines Artikels 5“ Slowakischer Regierungschef stellt Beistandspflicht der Nato infrage"
+      }
+    }
+  ]
+}
