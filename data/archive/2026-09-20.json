@@ -1,8 +1,858 @@
 {
   "date": "2026-09-20",
-  "generated_at": "2026-09-20T01:04:42.659510+00:00",
-  "count": 34,
+  "generated_at": "2026-09-20T14:42:54.686124+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title_original": "Russian exiles cast votes to voice dissent to Putin and Ukraine war",
+      "title_zh": "Russian exiles cast votes to voice dissent to Putin and Ukraine war",
+      "url": "https://www.reuters.com/world/russian-exiles-cast-votes-voice-dissent-putin-ukraine-war-2026-09-20/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-20T14:23:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian exiles cast votes to voice dissent to Putin and Ukraine war    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Russian exiles cast votes to voice dissent to Putin and Ukraine war"
+      }
+    },
+    {
+      "title_original": "L'Iran ferme un centre culturel lié à l'ambassade de France, accusé d'\"activités illégales\"",
+      "title_zh": "L'Iran ferme un centre culturel lié à l'ambassade de France, accusé d'\"activités illégales\"",
+      "url": "https://www.france24.com/fr/moyen-orient/20260920-l-iran-ferme-un-centre-culturel-li%C3%A9-%C3%A0-l-ambassade-de-france-accus%C3%A9-d-activit%C3%A9s-ill%C3%A9gales",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-20T13:58:27+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "L'Iran ferme un centre culturel lié à l'ambassade de France, accusé d'\"activités illégales\"    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "L'Iran ferme un centre culturel lié à l'ambassade de France, accusé d'\"activités illégales\""
+      }
+    },
+    {
+      "title_original": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "title_zh": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-20T13:50:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump says his planned triumphal arch will double as a military complex to store ammunition\n- Published\nUS President Donald Trump has said his proposed triumphal arch will double as a complex to store military equipment, complete with the ability to deploy snipers and drones.",
+        "In a Sunday morning post, Trump said he is updating the plans at the \"strong request\" of the US military and for \"national security purposes\".",
+        "The \"top grade\" military complex and arch will \"house, store, and have the rapid ability to use large numbers of drones, plus Snipers, on both the roof and plaza areas, and additionally have and hold large quantities of sniper ammunition in storage\", he said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump says his planned triumphal arch will double as a military complex to store ammunition"
+      }
+    },
+    {
+      "title_original": "كاظم الساهر لـ«الشرق الأوسط»: حماية «القصيدة الغنائية» أهم أهدافي",
+      "title_zh": "كاظم الساهر لـ«الشرق الأوسط»: حماية «القصيدة الغنائية» أهم أهدافي",
+      "url": "https://aawsat.com/%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%81%D9%86%D9%88%D9%86/%D8%A7%D9%84%D9%88%D8%AA%D8%B1-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3/5319911-%D9%83%D8%A7%D8%B8%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D9%87%D8%B1-%D9%84%D9%80%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%B5%D9%8A%D8%AF%D8%A9-%D8%A7%D9%84%D8%BA%D9%86%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A3%D9%87%D9%85-%D8%A3%D9%87%D8%AF%D8%A7%D9%81%D9%8A",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-09-20T13:41:12+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "قُبيل حفله الغنائي في القاهرة، تغزّل الفنان العراقي كاظم الساهر في مصر، واصفاً إياها بأنها تمثل بالنسبة إليه «البساطة وعدم التكلف»، وقال إنها «بلد قريب إلى قلبه بشكل لا يمكن وصفه، وشعبها سريع البديهة، ويتميز بالطيبة ويعشق الضحك و(النكت) في عز الألم وبحر المعاناة»، وفق تعبيره.",
+        "وتم الكشف عن أن الحفل المقرر له مساء الجمعة قد رفع شعار كامل العدد، بعد أيام قليلة من الإعلان عنه، وذلك للاحتفاء بألبوم كاظم الجديد «بلا عنوان»، وقال كاظم في تصريحات لـ«الشرق الأوسط» إنه «يحب لقاء جمهوره بكل جديد سواء في حفلاته أو ظهوره الإعلامي، كما أنه يفضل الظهور كذلك على السوشيال ميديا عبر أعماله وإنجازاته المهنية».",
+        "ويأتي حفل كاظم الساهر في العاصمة المصرية القاهرة، بعد غياب عن الحفلات بها منذ عدة سنوات، رغم مشاركته قبل عامين في مهرجان «العلمين الجديدة» ضمن جولته العالمية التي حملت عنوان «بين الأمس واليوم»."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "كاظم الساهر لـ«الشرق الأوسط»: حماية «القصيدة الغنائية» أهم أهدافي"
+      }
+    },
+    {
+      "title_original": "Breuer wird Chef des Nato-Militärausschusses: Deutscher Einfluss in der Nato wächst",
+      "title_zh": "Breuer wird Chef des Nato-Militärausschusses: Deutscher Einfluss in der Nato wächst",
+      "url": "https://rp-online.de/politik/deutschland/breuer-in-der-nato-deutscher-einfluss-waechst_aid-155097093",
+      "source": "RP Online",
+      "source_score": 40,
+      "published_at": "2026-09-20T13:21:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Carsten Breuer ist zwar der ranghöchste Soldat Deutschlands.",
+        "Doch der 61-jährige Generalinspekteur der Bundeswehr hat sich seit geraumer Zeit auch einen Ruf als politisch denkender Kopf erarbeitet.",
+        "Und so passt es gut, dass der Nato-Militärausschuss Breuer am Samstag zum neuen Chef gewählt hat."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "RP Online"
+      ],
+      "all_titles": {
+        "de": "Breuer wird Chef des Nato-Militärausschusses: Deutscher Einfluss in der Nato wächst"
+      }
+    },
+    {
+      "title_original": "Un israelí muere baleado en Cisjordania y otros sucesos en Oriente Medio",
+      "title_zh": "Un israelí muere baleado en Cisjordania y otros sucesos en Oriente Medio",
+      "url": "https://apnews.com/article/oriente-medio-cisjordania-israel-violencia-yemen-iran-18b890622284cb5ba7bc064db1f1e5d8",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-09-20T12:30:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Un israelí muere baleado en Cisjordania y otros sucesos en Oriente Medio    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "es": "Un israelí muere baleado en Cisjordania y otros sucesos en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Michelle Bachelet withdraws from race to become UN secretary general",
+      "title_zh": "Michelle Bachelet withdraws from race to become UN secretary general",
+      "url": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-20T12:04:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Former president of Chile drops out after support collapsed in security council straw poll, leaving seven candidates in contest Michelle Bachelet, a former president of Chile, has withdrawn her candidacy to become the next secretary general of the ⁠UN, ending an attempt ​that had struggled to gain traction among security council members.",
+        "Bachelet, 74, announced ⁠her decision in a video posted on Instagram on Saturday, saying: “I will now continue, with the ⁠same determination as always, my international work.” Continue reading...",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Michelle Bachelet withdraws from race to become UN secretary general"
+      }
+    },
+    {
+      "title_original": "ウクライナがモスクワ攻撃、ロシア下院選最終日 与党が多数派維持へ",
+      "title_zh": "ウクライナがモスクワ攻撃、ロシア下院選最終日 与党が多数派維持へ",
+      "url": "https://www.reuters.com/jp/world/ukraine/RO3BPNNREBMYFFSL7FSZ4QDVEM-2026-09-20/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-20T12:01:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナがモスクワ攻撃、ロシア下院選最終日 与党が多数派維持へ    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナがモスクワ攻撃、ロシア下院選最終日 与党が多数派維持へ"
+      }
+    },
+    {
+      "title_original": "وزير تايواني في زيارة نادرة للصين لحضور فعالية لمنتدى أبك",
+      "title_zh": "وزير تايواني في زيارة نادرة للصين لحضور فعالية لمنتدى أبك",
+      "url": "https://www.reuters.com/ar/business/SAKAOJOH2FKIZG3F3ZHL57RZ2Y-2026-09-20/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-20T11:05:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "وزير تايواني في زيارة نادرة للصين لحضور فعالية لمنتدى أبك    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "وزير تايواني في زيارة نادرة للصين لحضور فعالية لمنتدى أبك"
+      }
+    },
+    {
+      "title_original": "Manifestations en Syrie, feux de forêt à Quito, Céline Dion sur scène : la semaine en images",
+      "title_zh": "Manifestations en Syrie, feux de forêt à Quito, Céline Dion sur scène : la semaine en images",
+      "url": "https://www.france24.com/fr/moyen-orient/20260920-mark-carney-incendie-for%C3%AAt-equateur-celine-dion-concert-paris-zidane-mbappe-semaine-en-images",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-20T10:50:28+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Manifestations en Syrie, feux de forêt à Quito, Céline Dion sur scène : la semaine en images    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Manifestations en Syrie, feux de forêt à Quito, Céline Dion sur scène : la semaine en images"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月20日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（9月20日の動き）",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260828de46998",
+      "source": "news.web.nhk",
+      "source_score": 95,
+      "published_at": "2026-09-20T10:45:48+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（9月20日の動き）    news.web.nhk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "news.web.nhk"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（9月20日の動き）"
+      }
+    },
+    {
+      "title_original": "Bundeswehr: Der Corona-General hat nun bei der Nato ein gewichtiges Wort - Politik - SZ.de",
+      "title_zh": "Bundeswehr: Der Corona-General hat nun bei der Nato ein gewichtiges Wort - Politik - SZ.de",
+      "url": "https://www.sueddeutsche.de/politik/bundeswehr-nato-verteidigung-russland-li.3547994",
+      "source": "SZ.de",
+      "source_score": 40,
+      "published_at": "2026-09-20T10:40:21+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "„Es ist nicht vorbei, bis es vorbei ist.“ Diesen Gedanken dürfte Generalinspekteur Carsten Breuer im Hinterkopf gehabt haben, als er vor wenigen Tagen nach Prag reiste.",
+        "Dort hielt er beim Prague Defence Summit, einem Verteidigungsgipfel, eine Rede über die Auswirkungen neuer Technologien auf die Militärstrategie.",
+        "Im Publikum saßen Militärs, Rüstungsfirmen und Vertreter aus dem gesamten Nato-Raum und darüber hinaus."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "SZ.de"
+      ],
+      "all_titles": {
+        "de": "Bundeswehr: Der Corona-General hat nun bei der Nato ein gewichtiges Wort - Politik - SZ.de"
+      }
+    },
+    {
+      "title_original": "Taiwan gehen die Soldaten aus: Was heißt das für einen möglichen Konflikt mit China?",
+      "title_zh": "Taiwan gehen die Soldaten aus: Was heißt das für einen möglichen Konflikt mit China?",
+      "url": "https://www.tagesspiegel.de/internationales/taiwan-gehen-die-soldaten-aus-was-heisst-das-fur-einen-moglichen-konflikt-mit-china-16063897.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-09-20T10:33:41+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwan gehen die Soldaten aus: Was heißt das für einen möglichen Konflikt mit China?",
+        "Taiwans Bevölkerung schrumpft und altert, während die militärische Bedrohung durch China wächst.",
+        "Schon heute kann Taipeh viele Stellen in seinen Streitkräften nicht besetzen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Taiwan gehen die Soldaten aus: Was heißt das für einen möglichen Konflikt mit China?"
+      }
+    },
+    {
+      "title_original": "Le général allemand Carsten Breuer élu président du comité militaire de l'Otan",
+      "title_zh": "Le général allemand Carsten Breuer élu président du comité militaire de l'Otan",
+      "url": "https://fr.euronews.com/my-europe/2026/09/20/le-general-allemand-carsten-breuer-elu-president-du-comite-militaire-de-lotan",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-20T09:47:34+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Le chef de la Défense allemand Carsten Breuer a été élu prochain président du Comité militaire de l'Otan.",
+        "Il prendra ses fonctions en juillet 2027 pour un mandat de trois ans, comme principal conseiller militaire de l'alliance.",
+        "Le général Carsten Breuer, chef de la défense allemande, a été choisi samedi pour prendre la tête du comité militaire de l'Otan, la plus haute autorité militaire de l'alliance et son principal organe consultatif auprès de sa direction politique."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "fr": "Le général allemand Carsten Breuer élu président du comité militaire de l'Otan"
+      }
+    },
+    {
+      "title_original": "Fico: Ukraine-Krieg \"weder unser Krieg noch ein Krieg der Nato\"",
+      "title_zh": "Fico: Ukraine-Krieg \"weder unser Krieg noch ein Krieg der Nato\"",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/fico-ukraine-krieg-krieg-krieg-nato-42745140",
+      "source": "web.de",
+      "source_score": 40,
+      "published_at": "2026-09-20T09:37:01+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ein in Social-Media-Kanälen verkürzt wiedergegebenes Zitat Ficos sorgte für Aufsehen.",
+        "Jetzt legt der slowakische Premier trotzig nach – und könnte damit erst recht provozieren.",
+        "Der slowakische Ministerpräsident Robert Fico hat seine Forderung erhärtet, die Nato dürfe sich nicht in einen Krieg gegen Russland hineinziehen lassen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "web.de"
+      ],
+      "all_titles": {
+        "de": "Fico: Ukraine-Krieg \"weder unser Krieg noch ein Krieg der Nato\""
+      }
+    },
+    {
+      "title_original": "Conflit au Moyen-Orient: l’Iran transmet ses conditions à Washington pour reprendre les négociations",
+      "title_zh": "Conflit au Moyen-Orient: l’Iran transmet ses conditions à Washington pour reprendre les négociations",
+      "url": "https://vovworld.vn/fr-CH/actualites/conflit-au-moyen-orient-liran-transmet-ses-conditions-a-washington-pour-reprendre-les-negociations-2466857.vov5",
+      "source": "VOV World",
+      "source_score": 40,
+      "published_at": "2026-09-20T09:30:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "[VOVWORLD] - L’Iran a transmis aux États-Unis, par l’intermédiaire du Qatar, ses conditions pour reprendre les négociations, a déclaré, samedi 19 septembre, le secrétaire du Conseil suprême de sécurité nationale iranien, Mohsen Rezaei, qui a ajouté que Téhéran attendait désormais la réponse du président américain Donald Trump.",
+        "Le secrétaire du Conseil suprême de la sécurité nationale iranien, Mohsen Rezaei.",
+        "Photo: Reuters."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "VOV World"
+      ],
+      "all_titles": {
+        "fr": "Conflit au Moyen-Orient: l’Iran transmet ses conditions à Washington pour reprendre les négociations"
+      }
+    },
+    {
+      "title_original": "La OTAN diseña en el este planes que rebasan la capacidad terrestre actual de sus aliados europeos",
+      "title_zh": "La OTAN diseña en el este planes que rebasan la capacidad terrestre actual de sus aliados europeos",
+      "url": "https://www.democrata.es/politica/la-otan-disena-en-el-este-planes-que-rebasan-la-capacidad-terrestre-actual-de-sus-aliados-europeos/",
+      "source": "Demócrata",
+      "source_score": 40,
+      "published_at": "2026-09-20T09:14:52+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La OTAN diseña en el este planes que rebasan la capacidad terrestre actual de sus aliados europeos    Demócrata",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Demócrata"
+      ],
+      "all_titles": {
+        "es": "La OTAN diseña en el este planes que rebasan la capacidad terrestre actual de sus aliados europeos"
+      }
+    },
+    {
+      "title_original": "La OTAN dice que el acuerdo de EEUU sobre Groenlandia \"es muy bienvenido\"",
+      "title_zh": "La OTAN dice que el acuerdo de EEUU sobre Groenlandia \"es muy bienvenido\"",
+      "url": "https://www.abc.es/internacional/otan-dice-acuerdo-eeuu-sobre-groenlandia-bienvenido-20260920103000-nt.html",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-20T08:30:05+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La OTAN dice que el acuerdo de EEUU sobre Groenlandia \"es muy bienvenido\"\nLa OTAN ha celebrado este sábado el acuerdo anunciado en la víspera por el presidente de Estados...",
+        "La OTAN ha celebrado este sábado el acuerdo anunciado en la víspera por el presidente de Estados Unidos, Donald Trump, sobre la seguridad en Groenlandia alcanzado con las autoriades de Dinamarca y con las de este territorio autónomo danés.",
+        "El presidente del Comité Militar de ..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "La OTAN dice que el acuerdo de EEUU sobre Groenlandia \"es muy bienvenido\""
+      }
+    },
+    {
+      "title_original": "زيادة واردات الصين من نفط روسيا في أغسطس مع تراجع إمدادات الشرق الأوسط",
+      "title_zh": "زيادة واردات الصين من نفط روسيا في أغسطس مع تراجع إمدادات الشرق الأوسط",
+      "url": "https://www.reuters.com/ar/business/4Q2RDYEDDNPBFEVZWU7F3CCER4-2026-09-20/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-20T08:23:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "زيادة واردات الصين من نفط روسيا في أغسطس مع تراجع إمدادات الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "زيادة واردات الصين من نفط روسيا في أغسطس مع تراجع إمدادات الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "German elections under way which could decide fate of Chancellor Merz",
+      "title_zh": "German elections under way which could decide fate of Chancellor Merz",
+      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-20T07:57:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "German elections under way which could decide fate of Chancellor Merz\n- Published\nLocal elections are taking place in two German states on Sunday which could increase the political pressure on Chancellor Friedrich Merz.",
+        "Opinion polls in Berlin and Mecklenburg-Vorpommerm suggest Merz's Christian Democratic Union (CDU) is at risk of damaging defeats, which would raise further questions about the chancellor's future.",
+        "These latest elections come after the far-right Alternative for Germany (AfD) party won a major victory in the state of Saxony-Anhalt two weeks ago, while the CDU saw its vote halved."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "German elections under way which could decide fate of Chancellor Merz"
+      }
+    },
+    {
+      "title_original": "Ukraine schickt am Wahltag offenbar Drohnen nach Moskau",
+      "title_zh": "Ukraine schickt am Wahltag offenbar Drohnen nach Moskau",
+      "url": "https://www.spiegel.de/ausland/ukraine-krieg-berichte-ueber-drohnen-am-wahltag-auf-moskau-a-98248327-c245-4444-9a08-68a6bfcece15",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-20T07:33:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Berichte über Tote Ukraine schickt am Wahltag offenbar Drohnen nach Moskau\nDie Ukraine hat russischen Angaben zufolge erneut Moskau ins Ziel genommen.",
+        "Seit Mitternacht seien mehr als 180 anfliegende Drohnen abgefangen worden, berichtet die staatliche Nachrichtenagentur Tass unter Berufung auf Sergej Sobjanin, den Bürgermeister der Millionenmetropole.",
+        "Mindestens zwei Menschen seien getötet und mehrere verletzt worden, heißt es."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine schickt am Wahltag offenbar Drohnen nach Moskau"
+      }
+    },
+    {
+      "title_original": "EEUU pone en alerta a sus ciudadanos en 9 países de Oriente Medio",
+      "title_zh": "EEUU pone en alerta a sus ciudadanos en 9 países de Oriente Medio",
+      "url": "https://www.negocios.com/articulo/geopolitica/eeuu-pone-alerta-ciudadanos-9-paises-oriente-medio/20260920090650494090.html",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-09-20T07:06:50+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "EEUU pone en alerta a sus ciudadanos en 9 países de Oriente Medio\nWashington eleva la vigilancia para sus ciudadanos en Oriente Medio ante el riesgo de ataques, cierres del espacio aéreo y nuevas interrupciones de vuelos.",
+        "Estados Unidos ha activado nuevas alertas de seguridad para sus ciudadanos vinculadas a nueve países de Oriente Medio: Irak, Baréin, Omán, Arabia Saudí, Irán, Qatar, Líbano, Kuwait y Jordania.",
+        "El mensaje difundido el 19 de septiembre advierte de que el entorno regional sigue siendo «complejo» y existe riesgo de una escalada difícil de anticipar."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "EEUU pone en alerta a sus ciudadanos en 9 países de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "قادة العالم يجتمعون بالأمم المتحدة... والذكاء الاصطناعي على جدول الأعمال",
+      "title_zh": "قادة العالم يجتمعون بالأمم المتحدة... والذكاء الاصطناعي على جدول الأعمال",
+      "url": "https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7/5320340-%D9%82%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%8A%D8%AC%D8%AA%D9%85%D8%B9%D9%88%D9%86-%D8%A8%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%88%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D8%B9%D9%84%D9%89-%D8%AC%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-09-20T07:05:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "يشارك قادة العالم في اجتماعات الجمعية العامة للأمم المتحدة في نيويورك، هذا الأسبوع، وسط ترقب لحضور الرئيس الأميركي دونالد ترمب للعام الثاني على التوالي، وتركيز المناقشات على اتساع رقعة الصراعات بالشرق الأوسط، وأوكرانيا، ومخاطر الذكاء الاصطناعي.",
+        "ويشارك نحو 130 رئيس دولة وحكومة في الاجتماعات في وقت يواجه فيه النظام الدولي الذي تَشكَّل بعد الحرب العالمية الثانية ضغوطاً متزايدة، بينما تكافح الأمم المتحدة للحفاظ على دورها وتأثيرها في ظلِّ انتقادات ترمب الذي خفَّض الإسهامات الأميركية، وانسحب من عشرات المنظمات التابعة للأمم المتحدة، حسبما أفادت وكالة «رويترز» للأنباء.",
+        "ويغيب الرئيس الصيني شي جينبينغ عن اجتماعات نيويورك مفضِّلاً عقد محادثات ثنائية مع ترمب في واشنطن يوم الخميس."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "قادة العالم يجتمعون بالأمم المتحدة... والذكاء الاصطناعي على جدول الأعمال"
+      }
+    },
+    {
+      "title_original": "下院選最終日のモスクワ周辺に「前例のない」ドローン攻撃 2人死亡（ＡＦＰ＝時事）",
+      "title_zh": "下院選最終日のモスクワ周辺に「前例のない」ドローン攻撃 2人死亡（ＡＦＰ＝時事）",
+      "url": "https://news.yahoo.co.jp/articles/5eeef8b4e311cd5ddf3ec1d09a169ac98da2d77c",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-20T06:37:24+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "下院選最終日のモスクワ周辺に「前例のない」ドローン攻撃 2人死亡\n【AFP＝時事】ロシアの首都モスクワや周辺地域で20日、1000機を超えるドローンによる攻撃があり、当局によると少なくとも2人が死亡し、製油所が損傷した。国内ではこの日、下院選の最終日を迎えている。",
+        "【関連記事】ウクライナ戦争、民間人と捕虜数百人以上が性暴力被害 国連 モスクワのセルゲイ・ソビャニン市長は、1600機以上のドローンが迎撃、あるいは撃墜され、そのうち450機がモスクワを標的としていたと発表した。",
+        "ウラジーミル・プーチン大統領の26年にわたる長期政権をさらに強固なものにするとみられる、厳格に管理された選挙をウクライナが干渉しようとしたと、ソビャニン市長は非難。「この前例のない攻撃は、明らかに選挙の妨害を狙って計画されたものだ。しかし敵の企みは失敗に終わった」と、テレグラムに投稿した。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "下院選最終日のモスクワ周辺に「前例のない」ドローン攻撃 2人死亡（ＡＦＰ＝時事）"
+      }
+    },
+    {
+      "title_original": "モスクワ製油所に無人機攻撃、下院選投票「ウクライナが妨害」と非難",
+      "title_zh": "モスクワ製油所に無人機攻撃、下院選投票「ウクライナが妨害」と非難",
+      "url": "https://www.nikkei.com/article/DGXZQOGR200NY0Q6A920C2000000/",
+      "source": "nikkei.com",
+      "source_score": 95,
+      "published_at": "2026-09-20T06:32:51+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "この記事は会員限定記事です\nモスクワ製油所に無人機攻撃、下院選投票「ウクライナが妨害」と非難\n(更新)[会員限定記事]\n【モスクワ=小川知世】ロシアの首都モスクワのソビャーニン市長は20日、ウクライナによるドローン（無人機）攻撃で製油所の施設が損傷したと発表した。ロシア下院選の投票日にあわせて「選挙を妨害する目的」で攻撃が計画されたと非難した。",
+        "ロシアでは18〜20日にウクライナへの全面侵略後、初の下院選の投票を実施している。モスクワの製油所は6月にも相次ぐ無人機攻撃を防げず、火災が発生した。下院選投票の最終日に...",
+        "2022年2月、ロシアがウクライナに侵略しました。戦況や世界各国の動きなど、関連する最新ニュースと解説をまとめました。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "nikkei.com"
+      ],
+      "all_titles": {
+        "ja": "モスクワ製油所に無人機攻撃、下院選投票「ウクライナが妨害」と非難"
+      }
+    },
+    {
+      "title_original": "Why China is pushing back on US warnings over rapid AI development",
+      "title_zh": "Why China is pushing back on US warnings over rapid AI development",
+      "url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-20T06:00:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Beijing believes slowdown calls aim to lock in US advantage, and is pursuing a different balance between safety and pace China bogeyman looms large over American firms’ AI doomsday scenario About two years ago, education entrepreneur Boris But had what he calls a “penny-drop moment” – that, like countless others in China, his company needed to embrace AI before it was made obsolete by it.",
+        "His clients, well-off parents looking to send their children to study overseas, had begun arriving in his office reeling off information and opinions gleaned not from rival firms, but from chatbots.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Why China is pushing back on US warnings over rapid AI development"
+      }
+    },
+    {
+      "title_original": "Bewegung an der Nato-Grenze: Das hat Putin mit Europa vor",
+      "title_zh": "Bewegung an der Nato-Grenze: Das hat Putin mit Europa vor",
+      "url": "https://www.derwesten.de/aktuelles/nato-grenze-putin-europa-plaene-id302163153.html",
+      "source": "DerWesten",
+      "source_score": 40,
+      "published_at": "2026-09-20T05:34:16+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Tausende leere Krankenhausbetten, bereit für verwundete Soldaten – noch bevor der nächste Schuss fällt.",
+        "Was nach einem Kriegsszenario klingt, soll laut Berichten aus russischen Militärkreisen bereits ab Herbst 2026 Realität werden.",
+        "Zivile Krankenhäuser im Nordwesten Russlands sollen dann je nach Quelle zwischen 16.000 und 20.000 zusätzliche Betten für Militärpatienten bereithalten."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "DerWesten"
+      ],
+      "all_titles": {
+        "de": "Bewegung an der Nato-Grenze: Das hat Putin mit Europa vor"
+      }
+    },
+    {
+      "title_original": "ترمب يقطع عطلته فجأة وواشنطن تحذر رعاياها في الشرق الأوسط",
+      "title_zh": "ترمب يقطع عطلته فجأة وواشنطن تحذر رعاياها في الشرق الأوسط",
+      "url": "https://www.aljazeera.net/news/2026/9/20/%D8%AA%D8%B1%D9%85%D8%A8-%D9%8A%D9%82%D8%B7%D8%B9-%D8%B9%D8%B7%D9%84%D8%AA%D9%87-%D9%81%D8%AC%D8%A3%D8%A9-%D9%88%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AD%D8%B0%D8%B1",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-20T05:05:07+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ترمب يقطع عطلته فجأة وواشنطن تحذر رعاياها في الشرق الأوسط\nقطع الرئيس الأمريكي دونالد ترمب عطلة نهاية الأسبوع التي كان يقضيها في منتجع كامب ديفيد بولاية ماريلاند، وعاد بشكل مفاجئ إلى البيت الأبيض مساء السبت، قبل الموعد المقرر لعودته يوم الأحد، من دون أن تقدّم إدارته أي تفسير رسمي لهذا التغيير المفاجئ في الجدول.",
+        "وتأتي هذه الخطوة في ظل تصاعد حاد للتوترات في الشرق الأوسط، بعدما أعلن التحالف العسكري بقيادة السعودية، أن جماعة أنصار الله (الحوثيين) في اليمن أطلقت فجر السبت صاروخا باليستيا باتجاه العاصمة الرياض، عقب اندلاع حريق قرب مطارها الدولي.",
+        "وأفاد التحالف بأنه تمكّن من اعتراض الصاروخ، ولم تسجَّل أنباء عن سقوط ضحايا أو وقوع أضرار، فيما ذكر سكان في الرياض أنهم سمعوا دوي انفجار وشاهدوا أعمدة دخان تتصاعد قرب المطار."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "ترمب يقطع عطلته فجأة وواشنطن تحذر رعاياها في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "【速報】ウクライナ、日本との首脳会談要請",
+      "title_zh": "【速報】ウクライナ、日本との首脳会談要請",
+      "url": "https://www.47news.jp/14970277.html",
+      "source": "47NEWS",
+      "source_score": 40,
+      "published_at": "2026-09-20T04:32:50+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "都道府県のニュース\n【キーウ共同】ウクライナ政府が今月の米国での国連総会に合わせ、ゼレンスキー大統領と高市早苗首相の会談を日本側に要請したことが20日、ウクライナ高官の話で分かった。無人機システムの技術分野で防衛協力を進める狙い。",
+        "国内外約100の拠点を軸に、世界情勢から地域の話題まで、旬のニュースを的確に、いち早くお届けします。",
+        "米国のニュース・速報＞\nウォロディミル・ゼレンスキーのニュース・速報＞\n高市早苗のニュース・速報＞"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "47NEWS"
+      ],
+      "all_titles": {
+        "ja": "【速報】ウクライナ、日本との首脳会談要請"
+      }
+    },
+    {
+      "title_original": "台海谍战剧《交锋》，何以在两岸引起轰动？",
+      "title_zh": "台海谍战剧《交锋》，何以在两岸引起轰动？",
+      "url": "https://www.itaiwannews.cn/2026-09-20/33c356b0-8205-f306-fc4b-8cc1a7bc65e2.html",
+      "source": "itaiwannews.cn",
+      "source_score": 40,
+      "published_at": "2026-09-20T04:07:48+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台海谍战剧《交锋》，何以在两岸引起轰动？",
+        "台海谍战题材电视剧《交锋》自9月6日播出以来，持续受到两岸观众的热切关注和高度肯定。大陆观众看得“过瘾”并直呼创作“尺度大”，台湾民众强烈地表达了“想看”意愿，岛内媒体则用“罕见”来形容。一部电视剧，何以在两岸引起轰动？",
+        "不同于以往谍战片多以抗日战争、国共内战等为背景，电视剧《交锋》以1995年李登辉窜访美国引发台海危机为背景。该剧开头即以旁白讲述，“近来，台湾地区领导人李登辉在与日本某作家对谈时，抛出了所谓‘身为台湾人的悲哀’等错误言论，煽动族群对立和分离意识。这些言论严重歪曲历史事实，破坏两岸关系基础，两岸关系发展面临严峻考验”。这划定了该剧的叙事基调和底色：《交锋》不是一部虚构的爽剧，而是一部以真实历史为底本的“隐蔽战线”谍战作品。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "itaiwannews.cn"
+      ],
+      "all_titles": {
+        "zh": "台海谍战剧《交锋》，何以在两岸引起轰动？"
+      }
+    },
+    {
+      "title_original": "ロシア ウクライナ侵攻以降で初の議会下院選挙 政権のねらいは",
+      "title_zh": "ロシア ウクライナ侵攻以降で初の議会下院選挙 政権のねらいは",
+      "url": "https://news.web.nhk/newsweb/na/nd-20260920de51340",
+      "source": "news.web.nhk",
+      "source_score": 95,
+      "published_at": "2026-09-20T04:01:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア ウクライナ侵攻以降で初の議会下院選挙 政権のねらいは    news.web.nhk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "news.web.nhk"
+      ],
+      "all_titles": {
+        "ja": "ロシア ウクライナ侵攻以降で初の議会下院選挙 政権のねらいは"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Kyiv denounces Russia’s inclusion of annexed regions in parliamentary elections",
+      "title_zh": "Ukraine war briefing: Kyiv denounces Russia’s inclusion of annexed regions in parliamentary elections",
+      "url": "https://www.theguardian.com/world/2026/sep/20/ukraine-war-briefing-kyiv-denounces-russias-inclusion-of-annexed-regions-in-parliamentary-elections",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-09-20T03:14:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "- \n  Ukraine has denounced Moscow for having Russia’s parliamentary elections for the first time include residents of regions it illegally annexed from Ukraine during the war.",
+        "Kyiv officials called the action illegal and a human rights activist described residents there as being coerced to participate in the poll, which is part of Kremlin efforts to cement its gains in Ukraine.",
+        "The vote across Russia started on Friday and lasts until Sunday but balloting has in fact been under way in the annexed parts of Ukraine and some areas on the Russian side of the border since the end of last month, with Russian officials citing security reasons for the extended period."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Kyiv denounces Russia’s inclusion of annexed regions in parliamentary elections"
+      }
+    },
+    {
+      "title_original": "关注俄乌冲突：俄称控制多个定居点 乌称打击俄物流仓库",
+      "title_zh": "关注俄乌冲突：俄称控制多个定居点 乌称打击俄物流仓库",
+      "url": "https://www.chinanews.com.cn/gj/shipin/2026/09-20/news1069467.shtml",
+      "source": "chinanews.com.cn",
+      "source_score": 40,
+      "published_at": "2026-09-20T03:07:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "即时\n时政\n财经\n同心\n东西问\n国际\n社会\n理论·评论\n中国侨网\n大湾区\n文娱\n体育\n教育\n法治\n健康\n生活\n铸牢中华民族共同体意识\n宗教\n一带一路\n中国—东盟商贸资讯平台\n中国新闻周刊\n国是直通车\n创意\n直播\n视频\n图片\n专栏\n各地\n安徽\n|\n北京\n|\n重庆\n|\n福建\n|\n甘肃\n|\n贵州\n|\n广东\n|\n广西\n|\n海南\n|\n河北\n|\n河南\n|\n湖北\n|\n湖南\n|\n黑龙江\n|\n江苏\n|\n江西\n|\n吉林\n|\n辽宁\n|\n内蒙古\n|\n宁夏\n|\n青海\n|\n山东\n|\n山西\n|\n陕西\n|\n上海\n|\n四川\n|\n天津\n|\n新疆\n|\n兵团\n|\n云南\n|\n浙江\n搜 索\n即时\n时政\n高层\n|\n人事\n|\n反腐\n|\n深度\n|\n两岸\n|\n科教\n|\n军事\n东西问\n中外对话\n|\n世界观\n|\n广角镜\n|\nZ世代\n|\n洋腔队\n|\n舆论场\n|\n新漫评\n|\n思享家\n|\n会客厅\n|\n研究院\n|\n问西东\n财经\n宏观\n|\n产经\n|\n中国新观察\n|\n三里河\n|\n民生调查局\n|\n中新财评\n|\n商业风云录\n|\n智库\n|\n公益\n国际\n世界观\n|\n国际识局\n|\n国际人物\n|\n国际热评\n|\n新漫评\n|\n国际视野\n社会\n热点追踪\n|\n中新真探\n|\n新闻浮世绘\n|\n中新法治\n|\n第一现场\n大湾区\n港澳\n|\n风向标\n|\n快车道\n|\n青年说\n|\n专家建言\n|\n湾得福\n|\nVideo\n|\n湾区MAP\n健康\n大医生来了\n|\n医学的温度\n|\n医药新观察\n教育\n法治\n生活\n华人\n同心\n统战要闻\n|\n统战时讯\n|\n各地统战\n铸牢中华民族共同体意识\n民族传承\n|\n政策法规\n|\n学术动态\n|\n地方实践\n|\n国际传播\n一带一路\n热点聚焦\n|\n深度访谈\n|\n各方关注\n|\n海外视角\n|\n项目动态\n|\n丰硕成果\n文娱\n文化漫谈\n|\n艺苑大观\n|\n收藏考古\n|\n星闻联播\n|\n影音综艺\n体育\n独家视角\n|\n绿茵赛场\n|\n篮坛竞技\n|\n综合其他\n|\n视频播报\n视频\n热点\n|\n国内\n|\n社会\n|\n国际\n|\n军事\n|\n文娱\n|\n体育\n|\n财经\n|\n港澳台侨\n|\n微视界\n|\n洋腔队\n|\nZ世代\n|\n澜湄印象\n|\n中国风\n|\n中国新视野\n图片\n中新画报\n|\n国内\n|\n社会\n|\n国际\n|\n娱乐\n|\n体育\n|\n军事\n|\n科技\n|\n港澳台侨\n|\n凡人歌\n创意\n理论\n直播\n专题\n专栏\n最新\n热点\n国内\n社会\n国际\n军事\n文娱\n体育\n财经\n港澳台侨\n微视界\n洋腔队\nZ世代\n澜湄印象\n中国风\n中国新视野\n关注俄乌冲突：俄称控制多个定居点 乌称打击俄物流仓库\n发布时间：2026年09月20日 11:07 来源：央视新闻\n分享到\n精彩视频\n第20届亚运会开幕！中国体育代表团看点足！",
+        "台湾青年打卡张雪机车：真是大开眼界 期待早日进入台湾市场\n“万物可贴”的仁和，贴丢了什么？",
+        "又燃又萌！快来围观东博会上的“钢铁足球队员”\n新疆阿勒泰：漫山金黄 宛如童话世界\n锚定高质量发展新路径 李家超解读香港第一个五年规划\n直击现场！“九一八”撞钟鸣警仪式举行\n日本裔“台独”分子矢板明夫妄称大陆没户外贩卖机\n浙江绍兴：一笔一水，一城风流\n藏族讲解员：把长征中民族团结、不屈奋斗的精神，讲给更多台湾同胞听\n“怪人”不怪！走近孤独症儿童\n三大国宝壁画齐聚山西芮城 同空间并置展千年文脉\n责任编辑：【王祎】\n特别推荐\n新兵母亲凌晨四点包“出门饺子”送儿参军\n新疆阿勒泰：漫山金黄 宛如童话世界\n三大国宝壁画齐聚山西芮城 同空间并置展千年文脉\n满载货物的货船通过平陆运河 驶向深蓝\n平陆运河正式通航！航拍视角看运河雄姿\n发表评论\n文明上网理性发言，请遵守新闻评论服务协议\n热门视频\n文物回家！美国向中国返还64件（套）文物艺术品和古生物化石，中方回应\n“万物可贴”的仁和，贴丢了什么？"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "chinanews.com.cn"
+      ],
+      "all_titles": {
+        "zh": "关注俄乌冲突：俄称控制多个定居点 乌称打击俄物流仓库"
+      }
+    },
+    {
+      "title_original": "El turismo en Oriente Medio se prepara para un fuerte crecimiento",
+      "title_zh": "El turismo en Oriente Medio se prepara para un fuerte crecimiento",
+      "url": "https://www.expreso.info/noticias/agenda_profesional/114564_el_turismo_en_oriente_medio_se_prepara_para_un_fuerte",
+      "source": "Expreso - Diario de viajes y turismo",
+      "source_score": 40,
+      "published_at": "2026-09-20T03:02:47+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Menú de navegación\nEl turismo en Oriente Medio se prepara para un fuerte crecimiento\nEXPRESO - 20.09.2026\nEl informe ‘ATM Travel Trends 2026’ prevé que el gasto de los visitantes internacionales en Oriente Medio aumentará en 116.000 millones de dólares, un 57% más, entre 2025 y 2030.",
+        "El gasto de los visitantes internacionales en Oriente Medio aumentará en 116.000 millones de dólares (un 57 %) entre 2025 y 2030, según el recién presentado informe ATM Travel Trends 2026, elaborado por Arabian Travel Market en colaboración con Tourism Economics, una empresa de Oxford Economics.",
+        "Dave Goodger, director general para EMEA de Tourism Economics, presentó las conclusiones durante la sesión ‘ATM Annual Trends Report: Middle East Momentum & Market Shifts on the Global Stage’ (Informe anual de tendencias de ATM: impulso de Oriente Medio y cambios del mercado en el escenario global) en la feria ATM 2026, celebrada recientemente en el Dubai World Trade Centre."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Expreso - Diario de viajes y turismo"
+      ],
+      "all_titles": {
+        "es": "El turismo en Oriente Medio se prepara para un fuerte crecimiento"
+      }
+    },
     {
       "title_original": "Slowakei fordert mehr Diplomatie: Fico: Ukraine-Krieg \"weder unser Krieg noch ein Krieg der Nato\"",
       "title_zh": "Slowakei fordert mehr Diplomatie: Fico: Ukraine-Krieg \"weder unser Krieg noch ein Krieg der Nato\"",
