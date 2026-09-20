@@ -1,0 +1,858 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T01:04:42.659510+00:00",
+  "count": 34,
+  "articles": [
+    {
+      "title_original": "Slowakei fordert mehr Diplomatie: Fico: Ukraine-Krieg \"weder unser Krieg noch ein Krieg der Nato\"",
+      "title_zh": "Slowakei fordert mehr Diplomatie: Fico: Ukraine-Krieg \"weder unser Krieg noch ein Krieg der Nato\"",
+      "url": "https://www.n-tv.de/politik/Fico-Ukraine-Krieg-weder-unser-Krieg-noch-ein-Krieg-der-Nato-id31325492.html",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-09-20T00:57:52+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Slowakei fordert mehr DiplomatieFico: Ukraine-Krieg \"weder unser Krieg noch ein Krieg der Nato\"\nEin verkürzt verbreitetes Zitat zur drohenden Eskalation des Ukraine-Krieges bringt Robert Fico in Erklärungsnot.",
+        "Statt zurückzurudern, legt der slowakische Regierungschef nach.",
+        "Auf die westliche Bündnistreue sei \"wenig Verlass\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Slowakei fordert mehr Diplomatie: Fico: Ukraine-Krieg \"weder unser Krieg noch ein Krieg der Nato\""
+      }
+    },
+    {
+      "title_original": "Ed Sheeran addresses Macklemore controversy at Philadelphia show",
+      "title_zh": "Ed Sheeran addresses Macklemore controversy at Philadelphia show",
+      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-20T00:53:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Ed Sheeran addresses Macklemore controversy at Philadelphia show\n- Published\nSinger Ed Sheeran opened his latest concert alone onstage and apologised to his fans for making \"mistakes\" as he handled the fallout from the controversy over American rapper Macklemore being dropped from his tour over pro-Palestinian remarks.",
+        "\"I never wanted to be an activist musician but this has put me in the middle of an important and passionate argument about free speech and the most complex political issue on the planet,\" he said.",
+        "Saturday's show at a Philadelphia sports stadium was the first time he has addressed the matter in person."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ed Sheeran addresses Macklemore controversy at Philadelphia show"
+      }
+    },
+    {
+      "title_original": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "title_zh": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-19T23:49:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Houthis say they targeted Saudi capital with ballistic missiles"
+      }
+    },
+    {
+      "title_original": "Cultural treasures are being destroyed by war, and people want justice",
+      "title_zh": "Cultural treasures are being destroyed by war, and people want justice",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-19T23:18:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "August was a brutal month for Ukraine.",
+        "Russian aerial attacks increased significantly, launching thousands of drones.",
+        "Kyiv was intensely bombarded, as were the southern cities of Mykolaiv and Odesa."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Cultural treasures are being destroyed by war, and people want justice"
+      }
+    },
+    {
+      "title_original": "أمريكا تحذر مواطنيها في الشرق الأوسط من \"تصعيد غير متوقع\"",
+      "title_zh": "أمريكا تحذر مواطنيها في الشرق الأوسط من \"تصعيد غير متوقع\"",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/09/20/consular-information-for-americans-in-the-middle-east",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-09-19T23:05:46+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "(CNN)-- وجهت وزارة الخارجية الأمريكية، الأحد، تحذيرا لمواطنيها في عدة دول بالشرق الأوسط من احتمال \"تصعيد سريع\" بين الحوثيين والسعودية، بجانب احتمالية استهداف إيران أو الجماعات الموالية لها للمصالح الأمريكية.",
+        "وذكرت الوزارة عبر موقعها الرسمي وحساباتها على مواقع التواصل الاجتماعي أنه \"نظرًا للتوترات في الشرق الأوسط، لا تزال البيئة الأمنية معقدة مع احتمال حدوث تصعيد غير متوقع\".",
+        "وتابعت: \"يتعين على المواطنين الأمريكيين الموجودين حاليا في الشرق الأوسط توخي أقصى درجات الحيطة والحذر، والبقاء على دراية باحتمالية إلغاء الرحلات الجوية، وإغلاق المجال الجوي، واضطرابات السفر\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "أمريكا تحذر مواطنيها في الشرق الأوسط من \"تصعيد غير متوقع\""
+      }
+    },
+    {
+      "title_original": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "title_zh": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-19T23:01:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Our head teacher was an abuser.",
+        "We joined forces to get justice - now we're married\n- Published\nWarning: This story contains details of sexual assault\nThe voice on the end of the phone made Yusron Azzahidi's stomach lurch.",
+        "He had rung his sister's number after she had texted, urgently asking him to call."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Our head teacher was an abuser. We joined forces to get justice - now we're married"
+      }
+    },
+    {
+      "title_original": "US and Denmark reach deal over Greenland's security after Trump threats",
+      "title_zh": "US and Denmark reach deal over Greenland's security after Trump threats",
+      "url": "https://www.bbc.com/news/articles/c63d7lexyym1o",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-19T23:00:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'\nThe US and Denmark have announced a deal on Greenland's security, resolving a diplomatic dispute sparked by President Donald Trump's threats to seize it by force.",
+        "Nato said the deal would help stabilise the region, as Trump said Denmark would grant the US \"permanent control over security, and all other needs\" in the semi-autonomous Danish territory in the Arctic.",
+        "The leaders of Denmark and Greenland welcomed the deal to \"strengthen security\", saying it was expected to be signed next week - but did not outline its contents."
+      ],
+      "credibility": "green",
+      "credibility_label": "🟢 已确认（2个来源）",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC",
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'"
+      }
+    },
+    {
+      "title_original": "EEUU avisa a la OTAN: la escasez de misiles se retrasa entregas hasta cinco años y tensiona la defensa europea",
+      "title_zh": "EEUU avisa a la OTAN: la escasez de misiles se retrasa entregas hasta cinco años y tensiona la defensa europea",
+      "url": "https://www.moncloa.com/2026/09/19/escasez-misiles-eeuu-otan-retrasos-3434458/",
+      "source": "moncloa.com",
+      "source_score": 40,
+      "published_at": "2026-09-19T21:55:49+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La escasez de misiles estadounidense retrasará hasta cinco años las entregas a los aliados europeos, según el aviso que Washington ha trasladado a la OTAN.",
+        "Qué se retrasa exactamente y hasta cuándo\nEl primer destinatario del aviso ha sido Berlín.",
+        "Alemania pidió a la Casa Blanca que acelerase la entrega de misiles de crucero Tomahawk y de lanzadores terrestres Typhon, el sistema que dispara SM-6 y Tomahawk desde plataformas móviles en tierra."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "moncloa.com"
+      ],
+      "all_titles": {
+        "es": "EEUU avisa a la OTAN: la escasez de misiles se retrasa entregas hasta cinco años y tensiona la defensa europea"
+      }
+    },
+    {
+      "title_original": "Europe braces for possible Russian escalation against it, as hybrid threats intensify",
+      "title_zh": "Europe braces for possible Russian escalation against it, as hybrid threats intensify",
+      "url": "https://www.timesofisrael.com/europe-braces-for-possible-russian-escalation-against-it-as-hybrid-threats-intensify/",
+      "source": "The Times of Israel",
+      "source_score": 40,
+      "published_at": "2026-09-19T21:29:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Europe braces for possible Russian escalation against it, as hybrid threats intensify    The Times of Israel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Times of Israel"
+      ],
+      "all_titles": {
+        "en": "Europe braces for possible Russian escalation against it, as hybrid threats intensify"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Mutter und Kinder bei Angriff im Kiewer Umland getötet",
+      "title_zh": "Ukraine-Krieg: Mutter und Kinder bei Angriff im Kiewer Umland getötet",
+      "url": "https://www.tagesspiegel.de/internationales/dpa-ukraine-krieg-mutter-und-kinder-bei-angriff-im-kiewer-umland-getotet-16075850.html",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-09-19T21:11:45+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Mutter und Kinder bei Angriff im Kiewer Umland getötet\nDie ukrainische Hauptstadt Kiew und das umliegende Gebiet werden regelmäßig von russischen Drohnen und Raketen angegriffen.",
+        "Bei einer weiteren Attacke kommt es zu einer Tragödie.",
+        "Stand:\nnun bevorzugt anzeigen lassen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Mutter und Kinder bei Angriff im Kiewer Umland getötet"
+      }
+    },
+    {
+      "title_original": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "title_zh": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-19T21:01:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar\n- Published\nUS President Donald Trump has announced that he will form an \"AI Force\" and appoint an artificial intelligence tsar amid warnings about the emergent technology.",
+        "In a social media post on Saturday, he said his administration \"will not in any way hinder or stifle the growth\" of the industry, and pushed back against calls to slow down the development of AI until better safeguards are put in place.",
+        "His post came as a slew of warnings about the potential dangers of AI have spurred calls for coordinated action on the technology's development."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar"
+      }
+    },
+    {
+      "title_original": "「ウクライナ支援打ち切る」 フランス大統領選最有力・ルペン氏率いる国民連合幹部の発言が波紋",
+      "title_zh": "「ウクライナ支援打ち切る」 フランス大統領選最有力・ルペン氏率いる国民連合幹部の発言が波紋",
+      "url": "https://www.tokyo-np.co.jp/article/516636",
+      "source": "東京新聞",
+      "source_score": 40,
+      "published_at": "2026-09-19T21:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "【ブリュッセル＝池内琢】2027年4月のフランス大統領選を巡り、移民排斥を掲げる極右政党「国民連合」の幹部が、政権を取った場合に「（ロシアの侵攻を受ける）ウクライナ支援を打ち切る」と発言し、波紋を広げ...",
+        "残り 1296/1397 文字\nこの記事は会員限定です。",
+        "- 有料会員に登録すると\n- 会員向け記事が読み放題\n- 記事にコメントが書ける\n- 紙面ビューアーが読める（プレミアム会員）\n※宅配（紙）をご購読されている方は、お得な宅配プレミアムプラン（紙の購読料＋300円）がオススメです。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "東京新聞"
+      ],
+      "all_titles": {
+        "ja": "「ウクライナ支援打ち切る」 フランス大統領選最有力・ルペン氏率いる国民連合幹部の発言が波紋"
+      }
+    },
+    {
+      "title_original": "Las sospechas sobre Janina White que hundieron al capitán español de la OTAN: \"Yayo, dispara como un policía de operaciones especiales o un militar. Esa no ha aprendido en un club de tiro...\"",
+      "title_zh": "Las sospechas sobre Janina White que hundieron al capitán español de la OTAN: \"Yayo, dispara como un policía de operaciones especiales o un militar. Esa no ha aprendido en un club de tiro...\"",
+      "url": "https://www.elmundo.es/cronica/2026/09/19/6aad9bbae4d4d858198b459a.html",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-09-19T20:38:45+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Las sospechas sobre Janina White que hundieron al capitán español de la OTAN: \"Yayo, dispara como un policía de operaciones especiales o un militar.",
+        "Esa no ha aprendido en un club de tiro...\"    El Mundo",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "Las sospechas sobre Janina White que hundieron al capitán español de la OTAN: \"Yayo, dispara como un policía de operaciones especiales o un militar. Esa no ha aprendido en un club de tiro...\""
+      }
+    },
+    {
+      "title_original": "(S+) Russland-Ukraine-Krieg: Eine Reise entlang dem Dnipro – und durch eine Ukraine im Krieg",
+      "title_zh": "(S+) Russland-Ukraine-Krieg: Eine Reise entlang dem Dnipro – und durch eine Ukraine im Krieg",
+      "url": "https://www.spiegel.de/ausland/russland-ukraine-krieg-eine-reise-entlang-dem-dnipro-und-durch-eine-ukraine-im-krieg-a-68a30900-6279-4e63-afd9-36bd43784586",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-19T19:41:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Dieser Ausdruck wurde am 20.09.2026 erstellt und ist ausschließlich für den persönlichen Gebrauch lizenziert.",
+        "Andere Nutzungen verletzen das Urheberrecht\nAutomatisch erstellt mit KI.",
+        "Mehr Informationen dazu hier."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "(S+) Russland-Ukraine-Krieg: Eine Reise entlang dem Dnipro – und durch eine Ukraine im Krieg"
+      }
+    },
+    {
+      "title_original": "Journalists denied White House access after Trump banned some media outlets",
+      "title_zh": "Journalists denied White House access after Trump banned some media outlets",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-19T19:13:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Journalists denied White House access after Trump banned some media outlets\n- Published\nPolitico, CNN and MS NOW journalists have been denied access to the White House after US President Donald Trump announced he was banning the outlets.",
+        "An MS NOW reporter and a photographer tried entering the White House grounds on Saturday morning, but their badges would not scan and an officer confiscated them, the outlet reported.",
+        "Both CNN and Politico also said Saturday morning that their reporters were denied access and had their badges seized."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Journalists denied White House access after Trump banned some media outlets"
+      }
+    },
+    {
+      "title_original": "Slovak PM Fico says some in West seek war between Russia and NATO",
+      "title_zh": "Slovak PM Fico says some in West seek war between Russia and NATO",
+      "url": "https://www.reuters.com/world/slovak-pm-fico-says-some-west-seek-war-between-russia-nato-2026-09-19/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-19T19:11:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Slovak PM Fico says some in West seek war between Russia and NATO    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Slovak PM Fico says some in West seek war between Russia and NATO"
+      }
+    },
+    {
+      "title_original": "La OTAN dice que el acuerdo de EEUU sobre Groenlandia \"es muy bienvenido\"",
+      "title_zh": "La OTAN dice que el acuerdo de EEUU sobre Groenlandia \"es muy bienvenido\"",
+      "url": "https://www.europapress.es/internacional/noticia-otan-dice-acuerdo-eeuu-groenlandia-muy-bienvenido-20260919210050.html",
+      "source": "Europa Press",
+      "source_score": 40,
+      "published_at": "2026-09-19T19:00:50+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Archivo - El almirante Giuseppe Cavo Dragone, presidente del Comité Militar de la OTAN - Mauro Scrobogna / Zuma Press / Europa Press\n \n \n    MADRID 19 Sep.",
+        "(EUROPA PRESS) - \n   La OTAN ha celebrado este sábado el acuerdo anunciado en la víspera por el presidente de Estados Unidos, Donald Trump, sobre la seguridad en Groenlandia alcanzado con las autoriades de Dinamarca y con las de este territorio autónomo danés.",
+        "El presidente del Comité Militar de la Alianza Atlántica, el almirante Giuseppe Cavo Dragone, ha señalado que \"desde el punto de vista de la OTAN, se trata de un acuerdo, por lo que es muy bienvenido\" durante una rueda de prensa al término de un encuentro con los jefes de Defensa de los países aliados en Copenhague."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Europa Press"
+      ],
+      "all_titles": {
+        "es": "La OTAN dice que el acuerdo de EEUU sobre Groenlandia \"es muy bienvenido\""
+      }
+    },
+    {
+      "title_original": "中東情勢激化で原油供給を懸念 平均株価6万5千円推移",
+      "title_zh": "中東情勢激化で原油供給を懸念 平均株価6万5千円推移",
+      "url": "https://www.okinawatimes.co.jp/articles/-/1928017",
+      "source": "沖縄タイムス社",
+      "source_score": 40,
+      "published_at": "2026-09-19T19:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "今週の金融市場は中東情勢や原油価格に注目が集まりそうだ。日経平均株価（２２５種）は６万５０００円前後で推移するとの見方が出ている。外国為替市場の円相場は１ドル＝１５５～１５９円、債券市場は長期金利の指標となる新発１０年債利回りが２・９％台で動きそうだ。",
+        "有料この記事は有料会員限定です。会員登録すると、続きをお読み頂けます。",
+        "※ 無料期間中に解約すると、料金はかかりません。"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "沖縄タイムス社"
+      ],
+      "all_titles": {
+        "ja": "中東情勢激化で原油供給を懸念 平均株価6万5千円推移"
+      }
+    },
+    {
+      "title_original": "La capitale saoudienne sous le feu des Houthis",
+      "title_zh": "La capitale saoudienne sous le feu des Houthis",
+      "url": "https://www.lesechos.fr/monde/afrique-moyen-orient/la-capitale-saoudienne-sous-le-feu-des-houthis-2252527",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-09-19T18:13:07+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La capitale saoudienne sous le feu des Houthis    Les Echos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "La capitale saoudienne sous le feu des Houthis"
+      }
+    },
+    {
+      "title_original": "نتنياهو: هاجمنا إيران بقوة هائلة وغيّرنا الشرق الأوسط",
+      "title_zh": "نتنياهو: هاجمنا إيران بقوة هائلة وغيّرنا الشرق الأوسط",
+      "url": "https://www.iranintl.com/ar/202609198038",
+      "source": "Iran International",
+      "source_score": 40,
+      "published_at": "2026-09-19T17:51:08+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "قال رئيس الوزراء الإسرائيلي، بنيامين نتنياهو، خلال حملة انتخابية لحزب الليكود، إن إسرائيل \"غيّرت الشرق الأوسط\"، وإن عليها الآن مواصلة مسار العمليات العسكرية من أجل \"إكمال المهمة\" و\"ضمان مستقبل\" البلاد.",
+        "وأعاد نتنياهو، السبت 19 سبتمبر (أيلول)، نشر جزء من كلمته التي ألقاها خلال فعالية استضافها حزب الليكود في مركز \"إكسبو تل أبيب\" للمعارض، عبر حسابه على منصة \"إكس\".",
+        "وقال: \"فكروا أين كنا قبل ثلاث سنوات وأين نحن اليوم."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Iran International"
+      ],
+      "all_titles": {
+        "ar": "نتنياهو: هاجمنا إيران بقوة هائلة وغيّرنا الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Verdächtige Truppenbewegungen: Was treibt Putin an der Nato-Grenze?",
+      "title_zh": "Verdächtige Truppenbewegungen: Was treibt Putin an der Nato-Grenze?",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/verdaechtige-truppenbewegungen-was-treibt-putin-an-der-nato-grenze-6aaea638556d2f0b574e91ce",
+      "source": "BILD",
+      "source_score": 40,
+      "published_at": "2026-09-19T17:40:14+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Verdächtige Truppenbewegungen: Was treibt Putin an der Nato-Grenze?",
+        "Berlin/Moskau – Während Deutschland und Schweden auf Gotland den militärischen Ernstfall proben, bereitet sich Russland auf der anderen Seite der Nato-Grenze offenbar auf eine weitere Eskalation vor.",
+        "Im Nordwesten des Landes sollen offenbar Tausende zusätzliche Krankenhausbetten für verwundete Soldaten bereitgestellt werden."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BILD"
+      ],
+      "all_titles": {
+        "de": "Verdächtige Truppenbewegungen: Was treibt Putin an der Nato-Grenze?"
+      }
+    },
+    {
+      "title_original": "Bundeswehr-General Carsten Breuer wird NATO-Militärchef",
+      "title_zh": "Bundeswehr-General Carsten Breuer wird NATO-Militärchef",
+      "url": "https://de.euronews.com/my-europe/2026/09/19/bundeswehr-general-carsten-breuer-wird-nato-militarchef",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-19T17:12:11+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Deutschlands Verteidigungschef Carsten Breuer ist zum nächsten Vorsitzenden des NATO-Militärausschusses gewählt worden.",
+        "Er tritt das Amt im Juli 2027 für eine Amtszeit von drei Jahren als wichtigster militärischer Berater des Bündnisses an.",
+        "Die NATO hat General Carsten Breuer, den Generalinspekteur der Bundeswehr, am Samstag zum nächsten Vorsitzenden ihres Militärausschusses bestimmt."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "Bundeswehr-General Carsten Breuer wird NATO-Militärchef"
+      }
+    },
+    {
+      "title_original": "General alemán asume mando de Comité Militar de la OTAN",
+      "title_zh": "General alemán asume mando de Comité Militar de la OTAN",
+      "url": "https://www.dw.com/es/general-alem%C3%A1n-asume-mando-de-comit%C3%A9-militar-de-la-otan/a-79339848",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-19T16:41:04+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "General alemán asume mando de Comité Militar de la OTAN\n19 de septiembre de 2026\nEl general Carsten Breuer, jefe de la Defensa de Alemania y por tanto oficial de mayor rango en la estructura de las fuerzas armadas germanas, fue elegido este sábado (19.09.2026) como el próximo titular del Comité Militar de la OTAN, la máxima autoridad militar de la alianza y un órgano clave para asesorar a los líderes políticos de los países que integran el grupo.",
+        "Los jefes militares de los 32 países de la alianza eligieron a Breuer en una reunión celebrada en Copenhague, según indicó el actual presidente del comité, el almirante italiano Giuseppe Cavo Dragone, en una publicación en X (Twitter).",
+        "Breuer asumirá el cargo el próximo verano boreal, es decir en julio de 2027, en sustitución de Dragone."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "General alemán asume mando de Comité Militar de la OTAN"
+      }
+    },
+    {
+      "title_original": "Germany’s top general to lead NATO’s highest military authority",
+      "title_zh": "Germany’s top general to lead NATO’s highest military authority",
+      "url": "https://www.politico.eu/article/germany-carsten-breuer-nato-military-committee/",
+      "source": "politico.eu",
+      "source_score": 75,
+      "published_at": "2026-09-19T16:33:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Germany's chief of defense Carsten Breuer will take over as chair of NATO's highest military authority, after a majority of the alliance's top generals backed his candidacy in a secret vote on Saturday.",
+        "Breuer, who has led Germany's armed forces since 2023, won the support of at least 17 of NATO's 32 chiefs of defenseduring a closed-door ballot to become the chair of NATO's military committee in Copenhagen.",
+        "\"Congratulations to General Carsten Breuer,\" the current chair, Italy's Adm."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "politico.eu"
+      ],
+      "all_titles": {
+        "en": "Germany’s top general to lead NATO’s highest military authority"
+      }
+    },
+    {
+      "title_original": "Dinamarca: acuerdo sobre Groenlandia beneficia a la OTAN",
+      "title_zh": "Dinamarca: acuerdo sobre Groenlandia beneficia a la OTAN",
+      "url": "https://www.dw.com/es/dinamarca-acuerdo-con-eeuu-sobre-groenlandia-beneficia-a-la-otan/a-79339680",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-19T16:32:45+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Dinamarca: acuerdo sobre Groenlandia beneficia a la OTAN\n19 de septiembre de 2026\nLa primera ministra de Dinamarca, Mette Frederiksen, se mostró convencida este sábado (19.09.2026) de que el acuerdo logrado con Estados Unidos sobre Groenlandia \"fortalece nuestra seguridad común en el Ártico y en el Atlántico Norte y por consiguiente es bueno también para la OTAN y para Europa”.",
+        "El presidente estadounidense, Donald Trump, aseguró que esto impedirá que Rusia o China instalen bases en la región.",
+        "A través de un comunicado, Frederiksen sostuvo que el pacto \"al mismo tiempo reconoce la soberanía y la integridad territorial del Reino, así como el derecho del pueblo groenlandés a la autodeterminación\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Dinamarca: acuerdo sobre Groenlandia beneficia a la OTAN"
+      }
+    },
+    {
+      "title_original": "Farm-state Republicans are having a cow over Trump's beef imports as Election Day approaches",
+      "title_zh": "Farm-state Republicans are having a cow over Trump's beef imports as Election Day approaches",
+      "url": "https://www.politico.com/news/2026/09/19/trumps-beef-plan-problem-nebraska-iowa-kansas-texas-01084910",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-19T12:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The move to import foreign beef infuriated Republicans in farm states facing tough reelections — and gave Democrats and independents a rare opening with rural voters.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Farm-state Republicans are having a cow over Trump's beef imports as Election Day approaches"
+      }
+    },
+    {
+      "title_original": "German general Breuer elected to head top NATO military body",
+      "title_zh": "German general Breuer elected to head top NATO military body",
+      "url": "https://www.reuters.com/business/aerospace-defense/german-general-breuer-elected-head-top-nato-military-body-2026-09-19/",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-19T15:33:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "German general Breuer elected to head top NATO military body    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "German general Breuer elected to head top NATO military body"
+      }
+    },
+    {
+      "title_original": "General Breuer wird Vorsitzender des Nato-Militärausschusses",
+      "title_zh": "General Breuer wird Vorsitzender des Nato-Militärausschusses",
+      "url": "https://www.spiegel.de/politik/nato-carsten-breuer-wird-vorsitzender-von-militaerausschuss-a-9959cc51-bbd3-4e74-8068-b56a3aba2308",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-19T15:27:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Deutschlands ranghöchster Soldat General Breuer wird Vorsitzender des Nato-Militärausschusses\nDeutschlands ranghöchster Soldat wird neuer Vorsitzender des Nato-Militärausschusses.",
+        "Generalinspekteur Carsten Breuer ist zum Nachfolger des italienischen Admirals Giuseppe Cavo Dragone gewählt worden.",
+        "Die nationalen Militärvertreter des Bündnisses bestimmten den 61-Jährigen bei einem Treffen in Kopenhagen für den Posten."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "General Breuer wird Vorsitzender des Nato-Militärausschusses"
+      }
+    },
+    {
+      "title_original": "1390 شهيدا منذ وقف النار في غزة",
+      "title_zh": "1390 شهيدا منذ وقف النار في غزة",
+      "url": "https://www.tasnimnews.ir/ar/news/2026/09/19/3700702/1390-%D8%B4%D9%87%DB%8C%D8%AF%D8%A7-%D9%85%D9%86%D8%B0-%D9%88%D9%82%D9%81-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D9%81%DB%8C-%D8%BA%D8%B2%D8%A9",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-09-19T14:49:06+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "وأفادت الوزارة، في تقريرها الإحصائي اليومي، بأن حصيلة الشهداء منذ وقف إطلاق النار في 10 أكتوبر/تشرين الأول 2025 ارتفعت إلى 1,390 شهيدًا، إضافة إلى 4,801 إصابة، فيما بلغ إجمالي حالات الانتشال من تحت الأنقاض 831 حالة.",
+        "ووفق التقرير، ارتفعت الحصيلة التراكمية للعدوان الإسرائيلي على قطاع غزة منذ بدايته إلى 73,910 شهداء و174,914 إصابة.",
+        "وأوضحت الوزارة أنها أضافت 85 شهيدًا إلى الإحصائية التراكمية، بعد استكمال بياناتهم واعتمادها من لجنة اعتماد الشهداء، وذلك منذ آخر تحديث للإحصائية في 5 سبتمبر/أيلول 2026."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "1390 شهيدا منذ وقف النار في غزة"
+      }
+    },
+    {
+      "title_original": "The POLITICO Poll Electability Experiment",
+      "title_zh": "The POLITICO Poll Electability Experiment",
+      "url": "https://www.politico.com/f/?id=000001a0-ba1e-d805-aff0-fe7f837b0000",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-19T10:43:36-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Respondents presented with 2 choices of candidates with various traits.",
+        "Results represent the estimated impact of each trait on likelihood of selection.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The POLITICO Poll Electability Experiment"
+      }
+    },
+    {
+      "title_original": "Converse pulls 'deeply upsetting' advert after backlash",
+      "title_zh": "Converse pulls 'deeply upsetting' advert after backlash",
+      "url": "https://www.bbc.co.uk/news/articles/crwyzj53pl1lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-19T14:05:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Converse pulls 'deeply upsetting' advert after backlash\n- Published\nAmerican footwear brand Converse has pulled an advert that social media users said evoked Ku Klux Klan imagery, saying it recognised \"that we got this wrong\".",
+        "The photo, posted to the company's Instagram account, received backlash online after critics described lighting in the image as looking like a white pointed hood.",
+        "A pair of shoes, dangling in the picture, were also likened to an image of a lynching victim by social media users."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Converse pulls 'deeply upsetting' advert after backlash"
+      }
+    },
+    {
+      "title_original": "Without federal action, candidates for governor see an opening on AI",
+      "title_zh": "Without federal action, candidates for governor see an opening on AI",
+      "url": "https://www.politico.com/news/2026/09/19/governor-candidates-ai-regulation-states-midterms-01084879",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-19T10:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "They were already taking on data centers as a Big Tech boogeyman.",
+        "Now, they have to take on artificial intelligence itself.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Without federal action, candidates for governor see an opening on AI"
+      }
+    },
+    {
+      "title_original": "Google's Gemini AI hacked three companies in security test",
+      "title_zh": "Google's Gemini AI hacked three companies in security test",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-19T13:39:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Google's Gemini AI hacked three companies in security test\n- Published\nGoogle's AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.",
+        "Gemini found \"public information online and guessed credentials to access websites it thought were part of the test\", a Google official told the BBC, noting that in each instance \"the model stopped\".",
+        "The affected companies were informed about the breaches, which happened in May."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Google's Gemini AI hacked three companies in security test"
+      }
+    },
+    {
+      "title_original": "Russie : \"Son armée piétine en Ukraine, alors elle accuse l'OTAN\"",
+      "title_zh": "Russie : \"Son armée piétine en Ukraine, alors elle accuse l'OTAN\"",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260919-russie-son-arm%C3%A9e-pi%C3%A9tine-en-ukraine-alors-elle-accuse-l-otan",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-19T13:30:03+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russie : \"Son armée piétine en Ukraine, alors elle accuse l'OTAN\"    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Russie : \"Son armée piétine en Ukraine, alors elle accuse l'OTAN\""
+      }
+    }
+  ]
+}
