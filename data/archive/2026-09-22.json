@@ -1,8 +1,883 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T01:36:04.074365+00:00",
-  "count": 62,
+  "generated_at": "2026-09-22T15:31:46.704909+00:00",
+  "count": 97,
   "articles": [
+    {
+      "title_original": "Autopsy shows Hayden Panettiere died from a drug overdose",
+      "title_zh": "Autopsy shows Hayden Panettiere died from a drug overdose",
+      "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-22T15:17:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Autopsy shows Hayden Panettiere died from a drug overdose\n- Published\nChild star Hayden Panettiere died from the toxic effects of fentanyl, Xanax and several other drugs in her system, according to an autopsy completed by the Greenville County Coroner's Office in South Carolina.",
+        "The coroner's office said Panettiere's death was an accident and that no signs of trauma were discovered that would have contributed to her death.",
+        "Panettiere died last month at the age of 36 after she was found unresponsive at a South Carolina residence."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Autopsy shows Hayden Panettiere died from a drug overdose"
+      }
+    },
+    {
+      "title_original": "トランプ氏、国連で米の強さ強調 イラン核保有認めずと再表明",
+      "title_zh": "トランプ氏、国連で米の強さ強調 イラン核保有認めずと再表明",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPalkwQkoxbU5mRjFoQXNsY0NwbGRISkRvWW1ITG1yRTFZeDdaZ2ZBQWJCVUpKSXN5RGk3VnpmYUZqb3JpbHh5a01nZDJyNUtTWklETU5VT0pJSldxblJ2bGZHdEVUVUVIc2RaNnFoZTNXOE1IU2xxZWZERGJlNGlSQlJjTjFGQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-22T14:49:45+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "トランプ氏、国連で米の強さ強調 イラン核保有認めずと再表明    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、国連で米の強さ強調 イラン核保有認めずと再表明"
+      }
+    },
+    {
+      "title_original": "Never mind Trump – if Europe wants to save Nato, it must win over the American people | Leslie Vinjamuri",
+      "title_zh": "Never mind Trump – if Europe wants to save Nato, it must win over the American people | Leslie Vinjamuri",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR1B0MlRVRWFQVS1YMzZZeTZLdGQtV0dGRzA2cmJmR1FUaXN6cnZNVUJNd05uUllVQkVlNW9vSXhLaG54aGU5N0x2d3VmRnFNNHR0dmlGdzg2WWkxMk9VbVpxUDZQRjNMRnJIS2VQNjFiVEdmYUhqazFMNTUxa2xVU3g4R29EV19USHBlRVg4elFJZlN0MV9BZ1o5VkQ5Z2JJNVRv?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-09-22T14:30:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Never mind Trump – if Europe wants to save Nato, it must win over the American people | Leslie Vinjamuri    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Never mind Trump – if Europe wants to save Nato, it must win over the American people | Leslie Vinjamuri"
+      }
+    },
+    {
+      "title_original": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
+      "title_zh": "Veteran BBC Africa correspondent Mark Doyle dies aged 67",
+      "url": "https://www.bbc.co.uk/news/articles/cq986214den3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-22T14:16:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Veteran BBC Africa correspondent Mark Doyle dies aged 67\n- Published\nBritish journalist Mark Doyle, best known for his reporting on conflicts in Africa in the 1990s and 2000s, has died aged 67 after a short illness.",
+        "After living in Africa, he joined the BBC in 1986.",
+        "Doyle became East Africa correspondent in 1993 and made his mark covering the Rwandan genocide a year later."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Veteran BBC Africa correspondent Mark Doyle dies aged 67"
+      }
+    },
+    {
+      "title_original": "ناسداك يقود وول ستريت نحو الارتفاع وسط تطورات الشرق الأوسط",
+      "title_zh": "ناسداك يقود وول ستريت نحو الارتفاع وسط تطورات الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRZ2lkUU9rRVlhb1hzM1VWTTNmYmFzdUJUdHNOaGpWZEY3QkVJbXdYclJZbDRaZnNzMTJycjIwN0ZMNjE2RER0TmE2R0hsSVNta3U1d0R6dHBRMzhTM0RUYnotVE83UGNDa204VkV0bkdZS1NRTzBRRWhZaVRNZlk?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-22T14:00:41+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ناسداك يقود وول ستريت نحو الارتفاع وسط تطورات الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "ناسداك يقود وول ستريت نحو الارتفاع وسط تطورات الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Iran, Oman, Koweït… ces pays du Moyen-Orient qui pourraient racheter l’OM",
+      "title_zh": "Iran, Oman, Koweït… ces pays du Moyen-Orient qui pourraient racheter l’OM",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOelI2RzVfbUQ5M3lYUnhFSUktMUZUcnZJelhXcWhHSzRYZFkzUGg1TXFsakVGLU45LUJMWmFlY1ZiUWExdi1vR04xVnhnYkl4VFJha0F0dFE5VXh3cUJsOXBfWGx0RXVsSlVwc0ZxS0VaTGUyMmxQNUZ6Qm9MLVNtZGdtak5FRGxQUjBsaHlkVjdKTUZCUWtvbnRyOFljblpWam5renlORVZlWHZFc1ZHNkhuOUU0NEhUQ3c?oc=5",
+      "source": "Foot Mercato",
+      "source_score": 40,
+      "published_at": "2026-09-22T13:03:33+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Iran, Oman, Koweït… ces pays du Moyen-Orient qui pourraient racheter l’OM    Foot Mercato",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Foot Mercato"
+      ],
+      "all_titles": {
+        "fr": "Iran, Oman, Koweït… ces pays du Moyen-Orient qui pourraient racheter l’OM"
+      }
+    },
+    {
+      "title_original": "南方财经全媒体集团",
+      "title_zh": "南方财经全媒体集团",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FUUN3OUZ2ZXlDeHptdWx1aGwxaTBORVI2aEpUb1ljVmxHbkM2YkZuRWY2RlcxUUprbVF3akNZYUVySkNCOFNURDZCQjBmWXVtcHh1Z3Y3NE9rdkM3VWhuZHN6NTFJZw?oc=5",
+      "source": "南方财经",
+      "source_score": 40,
+      "published_at": "2026-09-22T13:00:42+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "南方财经全媒体集团    南方财经",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "南方财经"
+      ],
+      "all_titles": {
+        "zh": "南方财经全媒体集团"
+      }
+    },
+    {
+      "title_original": "Developing El Niño becomes strongest on record weeks before expected peak",
+      "title_zh": "Developing El Niño becomes strongest on record weeks before expected peak",
+      "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-22T12:54:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Developing El Niño becomes strongest on record weeks before expected peak\n- Published\nThe developing El Niño climate phenomenon is now the strongest on record, according to scientists monitoring Pacific Ocean temperatures.",
+        "Daily sea surface temperatures in a key region of the central-eastern Pacific were 3.05C above average on 19 September - exceeding the previous record of 3.02C set during the very strong El Niño of 2015.",
+        "Some longer-term measures of El Niño have not yet hit record levels but this is likely to change, with the peak not expected until later this year."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Developing El Niño becomes strongest on record weeks before expected peak"
+      }
+    },
+    {
+      "title_original": "Small Russian incursion could pose major test for NATO, report warns",
+      "title_zh": "Small Russian incursion could pose major test for NATO, report warns",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRTF4c29kRURfZm1nM2wyNFozUjJnWVpHRDhIc1R6M2xTSzhmZXkweVZmX0RoSGExdU9EMFZEel9XTjlBa2IxN2VVaGpuczJLU21OSlhyX1dwSUFtZlpKSkNZb1lscGs2UnZiMVhYSFpaemZLTzlWZ3o5ZlNHZ1UwVEw0Y3EzSjhHTFRwdEp0ZTc0M210eGtxbw?oc=5",
+      "source": "stripes.com",
+      "source_score": 40,
+      "published_at": "2026-09-22T12:22:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Small Russian incursion could pose major test for NATO, report warns    stripes.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "stripes.com"
+      ],
+      "all_titles": {
+        "en": "Small Russian incursion could pose major test for NATO, report warns"
+      }
+    },
+    {
+      "title_original": "(S+) Taiwan: Fremdgegangen? Kopf ab!",
+      "title_zh": "(S+) Taiwan: Fremdgegangen? Kopf ab!",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaTE1bU5zNE9yaVROc0VwakxDTl8ybTEzNE1KR25IVzVoOFVBYV9uYnNrRXB4UkdHNXFVbE5BQTJINHEtczNIMU8xSXJ4bjdla2FDZE9VODFOMkdRLXVFbG90Q3JUTDFoWUl5NURaNnluZjhHNTB6M19uWDJpOS1XdlJnaFdXQzJxajhTdmVQRzJYUUNOaWdreTBsQWxNR0pMNjlyWmlCTFExX1kzbU1pRUN2Q2hrRkRJQ2NUWFNOcExZaGMxYTktQVBlU2VIb0lnME03Rm5McVh2ZS1zMHIzUVBB?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-22T12:17:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "(S+) Taiwan: Fremdgegangen?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "(S+) Taiwan: Fremdgegangen? Kopf ab!"
+      }
+    },
+    {
+      "title_original": "British man missing after diving into Lake Como to rescue teenager",
+      "title_zh": "British man missing after diving into Lake Como to rescue teenager",
+      "url": "https://www.bbc.co.uk/news/articles/cx8d38djqm25o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-22T11:44:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "British man missing after diving into Lake Como to rescue teenager\n- Published\nItalian authorities are searching for a British man who went missing after diving into Lake Como to rescue a teenager.",
+        "The local coastguard said the man, in his late thirties, had been attempting to rescue two people - a father and his 16-year-old son - who were in distress in the water near the lake's western shore on Monday afternoon, local officials said.",
+        "The man, who was friends with the family, had been on a boating trip with them at the time, the coastguard said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "British man missing after diving into Lake Como to rescue teenager"
+      }
+    },
+    {
+      "title_original": "Doctor in court to face Rwanda genocide charges in UK",
+      "title_zh": "Doctor in court to face Rwanda genocide charges in UK",
+      "url": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-22T11:25:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Doctor in court to face Rwanda genocide charges\n- Published\nA 65-year-old doctor has appeared in court, the first person in the UK to be charged over the genocide in Rwanda in 1994.",
+        "Dr Vincent Brown, formerly Dr Vincent Bajinya, who is in custody, confirmed his name and address from the dock at Westminster Magistrates' Court.",
+        "He was charged following a seven year British investigation into the killings."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Doctor in court to face Rwanda genocide charges in UK"
+      }
+    },
+    {
+      "title_original": "Lithuania has evacuation plans in face of Russia threats, PM says",
+      "title_zh": "Lithuania has evacuation plans in face of Russia threats, PM says",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3MHZvTWdTalhoYmhSWk5ZUWptY2VyN2VScmNBcmJ0SDhaVUJ4VnRWTWRJVWpKQXVKbDRRWHZPbURjX0ctd3kzV1lMMl9yRW1tMHVRY1M3MWk4M0U?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-22T10:45:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Lithuania has evacuation plans in face of Russia threats, PM says    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "en": "Lithuania has evacuation plans in face of Russia threats, PM says"
+      }
+    },
+    {
+      "title_original": "كيف تُبنى بيئة فنية متجددة في الشرق الأوسط؟",
+      "title_zh": "كيف تُبنى بيئة فنية متجددة في الشرق الأوسط؟",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR1ZjakVjUzFSdUdTdzgzMnpSUDhtLWEtcmJ0WVNpN0ZYMTNrNjQxS2FoSDZBNHdHWmdvcU5kTUtjSWxmNnNHRU55T2FxR1RGaEdaN2JNVFJnTHlnLS1UV0hBUEVoeTF6UWNkYnZqdVRaZlRiUk5YelFJVGdsNVktTnBuVi1ic0dCMUJVeQ?oc=5",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-09-22T10:31:26+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "كيف تُبنى بيئة فنية متجددة في الشرق الأوسط؟    CNN Arabic",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "كيف تُبنى بيئة فنية متجددة في الشرق الأوسط؟"
+      }
+    },
+    {
+      "title_original": "学习进行时丨中美关系的未来由青年创造",
+      "title_zh": "学习进行时丨中美关系的未来由青年创造",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUDYtX0pGdWpXWTZQTWg0dEdIQXVPYkxTZHJaQUxUWk1lV0J1Unk1d1JwaW1sLXQ2RHpVZHJ0VDJvc3pwRVkxOUVkalk2ZE5uN3dHZGFqLVJRcDR1Y2FqT1N4Q0lrdGpnYm5pYWYzejlVWVZWaFU2dmZfZTFlaTQzVkF1bmFjc2hBeVZn?oc=5",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-09-22T10:21:50+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "学习进行时丨中美关系的未来由青年创造    新华网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "zh": "学习进行时丨中美关系的未来由青年创造"
+      }
+    },
+    {
+      "title_original": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong",
+      "title_zh": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong",
+      "url": "https://www.theguardian.com/world/2026/sep/22/australia-investigating-how-f-35-fighter-jet-parts-bound-for-us-went-missing-in-hong-kong",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-22T10:00:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Disappearance of jet components sparks concern some of the program’s technology secrets could have been exposed Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Department of Defence is examining how F-35 fighter jet parts bound for the US from Australia were unexpectedly diverted to Hong Kong, the acting prime minister, Richard Marles, has said.",
+        "Marles said “very much everything that has occurred at the Australian end” would be reviewed, but claimed the technology parts were not “sensitive”, as first reported by Politico over the weekend .",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong"
+      }
+    },
+    {
+      "title_original": "بيانات: تراجع حركة الملاحة البحرية عبر مضيق هرمز لسفينتين فقط أمس",
+      "title_zh": "بيانات: تراجع حركة الملاحة البحرية عبر مضيق هرمز لسفينتين فقط أمس",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yUGk4N2hzVnhPMVgtVkM0MWZ3elk3Ml9oN0h6NUJQN21zNzc3LU9FSnVBY0x5c0JIcE5VLUhqbmo2N0tiamZpTFNQazdjN21UWnJfMUZXZ1RuMy1PdnNUbE5wdUJ4QWRYSWFWZFMtS1ByV2pPZ0N3OFJuX1BRUGc?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-22T09:33:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "بيانات: تراجع حركة الملاحة البحرية عبر مضيق هرمز لسفينتين فقط أمس    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "بيانات: تراجع حركة الملاحة البحرية عبر مضيق هرمز لسفينتين فقط أمس"
+      }
+    },
+    {
+      "title_original": "Geheimdienstler warnen vor russischen Aggressionen auf Nato-Gebiet – Finnland sieht „Überreaktion“",
+      "title_zh": "Geheimdienstler warnen vor russischen Aggressionen auf Nato-Gebiet – Finnland sieht „Überreaktion“",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZV9wSzZqZHpQVk51LTIwQUJITmdnQnRDbG91V1d6Mm95aXdLLUtXWk9ZYW9YSlhkY2tTOFFGU0twUkwyVGJ3bEVJekVoS29wYk53MGNIOXgwOHJkc0xYbmhZSmc5blJsSm1Zb1d5b001elpKYThXdjNXZHdfby1MV204MTVaMDJrTVByd092a1lhR3JjVnM5NjNPTjNGT0RfbzlMWmM4NVJWbW1seFpVZDJtMENFTldaM3QxT3Z6UW5FbG1ZR0NacmdLa2puMkZ2WnppZWxZb1NwQWVUNnJfX3RfWDlJWFhUeU1fUURSenZkMGlnUi1FSUpuU05SYTNVSWV2UFZ5WWNaQQ?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-09-22T09:16:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Geheimdienstler warnen vor russischen Aggressionen auf Nato-Gebiet – Finnland sieht „Überreaktion“    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Geheimdienstler warnen vor russischen Aggressionen auf Nato-Gebiet – Finnland sieht „Überreaktion“"
+      }
+    },
+    {
+      "title_original": "Republicans were bullish about the Senate. Now they’re playing defense in red states.",
+      "title_zh": "Republicans were bullish about the Senate. Now they’re playing defense in red states.",
+      "url": "https://www.politico.com/news/2026/09/22/republicans-senate-house-map-midterm-fears-01086866",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-22T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "President Donald Trump’s economic agenda is becoming a particular problem in the Midwest.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Republicans were bullish about the Senate. Now they’re playing defense in red states."
+      }
+    },
+    {
+      "title_original": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war",
+      "title_zh": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3VOUDE2WFpHSE50Nk40elJZZ1pObDJFano0bmpvN2ZpMmJrc2pJSVlqTlQ3QTFySFNnZldHLUR0T3U3UGpEaV9MazBNNldTY1dCRm5tY254bWFhYW5rQkk0bXpiT0tkX3FzdHQxbThaaTJWakM1X29YclJuSDFNS0xzdUhpSmhaZWp4U9IBkgFBVV95cUxNTnlqQ25DZ1V5RUY1OXB6UFFCYzZuV0lIM3d2Z1ByT2F0ZlJURVhUQlFvWVp6QlU4UkhJRTJQVTgxaWwyY21TUWhfVHd5NWxFQjNPMkFvcFdVTll4RlRNd2lONy1FLVlCZUhGOWdwZlFFUHozRHZsNVhvdU84cHh0Z0YtYTY0UHJnQ2NuZUpLZEE1UQ?oc=5",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-09-22T08:54:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war    CNBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war"
+      }
+    },
+    {
+      "title_original": "مجموعة BMW الشرق الأوسط تعيّن وكيلاً رسمياً لعلامتي BMW وMINI في سوريا إيذاناً ببدء فصل جديد في مسيرة العلامتَين العالمييتين في السوق السورية",
+      "title_zh": "مجموعة BMW الشرق الأوسط تعيّن وكيلاً رسمياً لعلامتي BMW وMINI في سوريا إيذاناً ببدء فصل جديد في مسيرة العلامتَين العالمييتين في السوق السورية",
+      "url": "https://news.google.com/rss/articles/CBMiqAlBVV95cUxOb0ROeWRCSmVoMkh1aFlTTnB5NHdmLTFsZ1c4YnA1dUQ5VWpkT01wbW1xMkdQRXJOYzl5YnpDMy1OaFJJd0pBRHpDai1LbkV5eTExQzh2eFl4YTBjMHFXMFNSZTBuaVlXSmFTNy1PYVVqdlgwOVp6bnpHeFZRU2Z0eTNDaFl3aGN1LXJCc0FRQ1RGUjF2VU1xNFhSVThJVmVFQ0lWQ2ktOVNVbFF3MGNnRGtjZ09tSHJZallMUHpSUExNM2l5Q0Q5Sjk2Unk4WEp3UHJhNmRicnZQdS1sZkNaLVRORVF4TDV2Y2xEQmxpaWxoY3d2TGZwdWFTMWlha2xYMlFqZ1B2a25MaFdaeGpXOVQ5SjhhV2xUeU9wRGwyVzdCUW00bi1uTXFqRlhnLWthWnRKZ3ZVZmoxVWdMZWNOQjc3Z2lzTlYxNEJGZklsSXYzeWJENElHVnZMZGIwZ215YUoxZk05MWNLaGpIeXkyS0hoTGc5TlFjVE1uR0E2VFZMN3VFR3FoUDVOUXN2QktQZ0NLRWxTRnRaeGprRC1BY0FhcWUzLWQ3V3hFRlBVbGJzNmQ3aXk1eml2S2d2a2VEUV9Nc18tRjFrN3A5TWU1aV9jQV9hZkh5Zl9RY3JfYWVzR2VQLU1lRmdOQ05jZnJsZmNzT2xocmpUR3ZrUWlEQkdQWVN3bWUtMl9Jd2RvM3FKMldFRy1aSVRDdGpGaU1lMUx0NVcxTGQwdWVFMk9wbUtPOW5GeTNFWmpFaHd0di1TUDRfZWYzTjdmTXdVX1ROeU5NUkpVSlBidDFFUWhpS3BWNnVJTU9OZkxCRFIzelZndzJzTGloekw3M280aVJtSzE2Um1zUmlVbDlHZ2VhMFlrR0lzQXlVYVI4Q3ZZbzN3QTItaE1JWk1TenFhMDc2Y2VnYjBCSENfQ2Z4U0lyUVpvOXVLVEFjSGZoRFh5SGVnbHB4RGNNdGFzQzJqdEt6Y2MtRThBMmFqR2J3OUdFU25NN3djUjE2OVk4ZlhadUVLVEpUaWFBUXZaU2VVWGtiaEp5ZGtLZkVNRlRBSnlWMEpWSG1QQ1dqZ25haFMzV1lrR1FHREhKSFV4c3NhenRkUFBsSzhBU0p5S19KTE5rXzVMblBhNmFVR0xWR3Bjbi1xSVRqVlVGRGNvOXpJOWM1RldoT3IzUVFqaTNWUnl2S3ppdXhDQlpZQlVKWWI0OXFubzJ6QWlJY21lY3d4bWV1dG5uXzVPc3ZsRGtRRWFHWEd6TC1FbmwxZ0FNYlh0VnpwOHU1YTAxSm9PV1l2a0hMdFdQRWJWN1hYZlpta2tsSmIxOUpEUkpfQ0xfS0txcGdxYUdhUzZ2LVNEN1M2VFFYSTBrbmJQRU00SnZBUWVrRGxXZ201M0p3NUFkZXJhYTNWdUxVOXMxZ1VCblp0c29sYlJVR2ExNXNiNEFiOG5ZRUNvOHV2UkNKQldINFI3aXBpYVEtQ3pCSGN3WkdIeWJ5dnUzY0VPdXM5UEk1dDU0VGgxRlhoYVpmN21RNENqaTZza3RVdnlnRE5uTUZnNi1RSmNRQmZPd2dwTFlJXzFSNTlzVDdqemZO?oc=5",
+      "source": "Zawya",
+      "source_score": 40,
+      "published_at": "2026-09-22T08:20:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "مجموعة BMW الشرق الأوسط تعيّن وكيلاً رسمياً لعلامتي BMW وMINI في سوريا إيذاناً ببدء فصل جديد في مسيرة العلامتَين العالمييتين في السوق السورية    Zawya",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Zawya"
+      ],
+      "all_titles": {
+        "ar": "مجموعة BMW الشرق الأوسط تعيّن وكيلاً رسمياً لعلامتي BMW وMINI في سوريا إيذاناً ببدء فصل جديد في مسيرة العلامتَين العالمييتين في السوق السورية"
+      }
+    },
+    {
+      "title_original": "Major US outlets suspend shared Trump coverage in protest at media ban",
+      "title_zh": "Major US outlets suspend shared Trump coverage in protest at media ban",
+      "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-22T08:17:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Major US outlets suspend shared Trump coverage in protest at media ban\n- Published\nMajor US television networks suspended their pooled coverage of President Donald Trump on Monday in response to CNN, Politico and MS NOW being barred from the White House.",
+        "Trump announced the ban on Friday as he accused the organisations of writing \"fiction or lies\" about his administration.",
+        "The companies said their reporters were denied access to the building on Saturday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Major US outlets suspend shared Trump coverage in protest at media ban"
+      }
+    },
+    {
+      "title_original": "Beziehungsstatus: kompliziert",
+      "title_zh": "Beziehungsstatus: kompliziert",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdGExZG0tMmg2NTJEMnZZcVVDc1JMdjdNTFBRU25nVXNQdkdqU0Zqcy1RZ2tfbU41ZThxNGJHbDQ0djVuTDQ5T2lnaHQyMHNpQzhCbGY0VkMxWVNqdHNoWXRsOHJCUzdqZ1RubXF4N2RiekJrczVMOVROQ2RMMW0yTGpBVEpUSXBOMmxYYldqLUw?oc=5",
+      "source": "Journal für Internationale Politik und Gesellschaft",
+      "source_score": 40,
+      "published_at": "2026-09-22T08:03:17+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Beziehungsstatus: kompliziert    Journal für Internationale Politik und Gesellschaft",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Journal für Internationale Politik und Gesellschaft"
+      ],
+      "all_titles": {
+        "de": "Beziehungsstatus: kompliziert"
+      }
+    },
+    {
+      "title_original": "L'OTAN avait construit 10.000 km de pipelines pour arrêter l'URSS: face à la Russie aujourd'hui, ses chars sont désormais trop loin de son réseau de carburant",
+      "title_zh": "L'OTAN avait construit 10.000 km de pipelines pour arrêter l'URSS: face à la Russie aujourd'hui, ses chars sont désormais trop loin de son réseau de carburant",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPSUFKS2xSNGZqWkJURHdSd0NYOEgyeVVJV211NjRTS1RIV0ZsbDFjZ1lSTy1RYmlhaU80NUNlLThPckFTdXl5bTBRblNkWFF2R1FzMFhyaGplWlYtV3RfOUhPUktTVC16Q2VHd29hNmQxMTVDWG9fS3QtLWxHaTV0RWtkbkZXamRNMHgyUmhzRVN2ZWFKUnN5VG1FazJDU0F6d0NneXhtdjVITHoyMlhTNmplbjNlSktmMEVKeXk1bmpMa05lb3ZrcGtPX1l3RmgxNG03ZWFDQVhCY1g2UEhZLUdIXzJmZWh6LUIweHlHY1Q0TlowamU3U18xdS1nekluWWV5NUJuVlQwTlJUMWJjNFd0emxuRFhvbE5vcjluaVJ4QmRQVUgxRVhiQU9vOEZVOWtfWDhTV0Z6T284c1F4dkZkY2Q?oc=5",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-09-22T07:23:31+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "L'OTAN avait construit 10.000 km de pipelines pour arrêter l'URSS: face à la Russie aujourd'hui, ses chars sont désormais trop loin de son réseau de carburant    BFM",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "L'OTAN avait construit 10.000 km de pipelines pour arrêter l'URSS: face à la Russie aujourd'hui, ses chars sont désormais trop loin de son réseau de carburant"
+      }
+    },
+    {
+      "title_original": "跟着习主席看世界 | 走进美国：中美关系稳定是世界的利好",
+      "title_zh": "跟着习主席看世界 | 走进美国：中美关系稳定是世界的利好",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTHJIblpGNmwtSU45Qll1dmhpbHVKUnZKNUxjSzdwd2U3alJRd1NhTWZ0MktFM3V1MEN6OTZMSm1YSVZ3MUtkMzRMMVE0bURtYmtKMzQ5bWFpYVBwZ2lVeWRkbWZlUGlIamlyZVFSQXR4Ylg0VHlpVkVEeDVEd21MX00xZXJlMFl6U3BTYg?oc=5",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-09-22T07:19:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "跟着习主席看世界 | 走进美国：中美关系稳定是世界的利好    搜狐网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "跟着习主席看世界 | 走进美国：中美关系稳定是世界的利好"
+      }
+    },
+    {
+      "title_original": "G7外相 ウクライナ対応などで緊密連携 フーシ派非難の共同声明",
+      "title_zh": "G7外相 ウクライナ対応などで緊密連携 フーシ派非難の共同声明",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YQ2ZzZ1NzUERnaXNpaUxIZnVOVW9Hal8zNFAtZTk2bUpiQjE0eVAxTmdXY3E1NXBZUVdic0hQc1JQRGQwbHRUUWpTSU9oZTJfanJ3U2h1NWNZZUxFTF9V?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-22T07:05:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "G7外相 ウクライナ対応などで緊密連携 フーシ派非難の共同声明    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "G7外相 ウクライナ対応などで緊密連携 フーシ派非難の共同声明"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Frau und Kleinkind bei Angriff Russlands getötet",
+      "title_zh": "Ukraine-Krieg: Frau und Kleinkind bei Angriff Russlands getötet",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaUtxM1Vacjhmd25mSDJoY0RBb2FLWTkwVTl2R1pLUDZraXFBQ2V0TVJmSUZoZWNpTXZVRHB5NlVEcXVRMkFuSVVKc2NOcE9qX0htazFSNUpkeVA2ZHlUcUFIUk9BbVhnc1c4U0hKVENGNldpaXdsTUptQWdCaVo2aWNHTk51SERKOG1HY19JcXVNVnptMHdrY3RPM3JUSHhvemNyZjBlY0VIRUhkY1dIU1VyME9haDg0dF9JVXlOTDZ6Si0zSnRkN05kcE9ONUk?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-22T06:11:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Frau und Kleinkind bei Angriff Russlands getötet    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Frau und Kleinkind bei Angriff Russlands getötet"
+      }
+    },
+    {
+      "title_original": "北约部队在波罗的海国家演习以适应战争新打法",
+      "title_zh": "北约部队在波罗的海国家演习以适应战争新打法",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWJfU2tXa1F0Yk00LVlKU19Ma2E1bjI3YXQyN0pDYXBZRG9BQWpXeEUtcmFmNWY1Tml4QjVnVmpYeXh2VElvalU2MHA2c042Y1BHc2NJU0FEM3FjdDVMSTBULUdOUFNWSG9VSnV3bm1qTnR6Y2x0N3lEd29CTEQ4Y2JhcXc5aFZlVFBXLXpueUlyVWdSY2UtTmVjVHdRTVVLTElR?oc=5",
+      "source": "华尔街日报中文网",
+      "source_score": 95,
+      "published_at": "2026-09-22T05:43:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约部队在波罗的海国家演习以适应战争新打法    华尔街日报中文网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "华尔街日报中文网"
+      ],
+      "all_titles": {
+        "zh": "北约部队在波罗的海国家演习以适应战争新打法"
+      }
+    },
+    {
+      "title_original": "ترمب وماكرون يبحثان حرب أوكرانيا وأوروبا تناقش استمرار العقوبات ضد روسيا",
+      "title_zh": "ترمب وماكرون يبحثان حرب أوكرانيا وأوروبا تناقش استمرار العقوبات ضد روسيا",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0cUZoT3duLU1IeW9FdFR3NENvUEZzQXVwR0FlMDFhU28xSGxNSksyY2RHbUpybjFNSnI0UnJDdi1yMll4RW1QUFFaaGNiTDhQRVJwaGNFQXHSAV5BVV95cUxNMXh2OEExVURUY0JFSVNDY2ZyZEJYNWoxZjhlUmZEYkMwbU1WcXJEOURwUEN1andiUHo3Nk5VRVBYd0V1T1dYWEhiNnpZek91T1dJaWxxbVB6d3ZIcV9n?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-22T05:37:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ترمب وماكرون يبحثان حرب أوكرانيا وأوروبا تناقش استمرار العقوبات ضد روسيا    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "ترمب وماكرون يبحثان حرب أوكرانيا وأوروبا تناقش استمرار العقوبات ضد روسيا"
+      }
+    },
+    {
+      "title_original": "Outrage in India over viral video of teen molested and her friend beaten",
+      "title_zh": "Outrage in India over viral video of teen molested and her friend beaten",
+      "url": "https://www.bbc.co.uk/news/articles/cmz6z2vx65jeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-22T05:14:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Outrage in India over viral video of teen molested and her friend beaten\n- Published\nA video showing a teenaged girl being sexually assaulted and her male friend beaten by a group of men in India's Bihar state has sparked widespread outrage.",
+        "The school students, both minors, were stopped in Jamui district on 19 September.",
+        "Footage shared widely online shows them surrounded and repeatedly pleading to be allowed to leave."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Outrage in India over viral video of teen molested and her friend beaten"
+      }
+    },
+    {
+      "title_original": "At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides",
+      "title_zh": "At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides",
+      "url": "https://www.theguardian.com/world/2026/sep/22/typhoon-dujuan-japan-latest-weather-millions-told-to-evacuate-tokyo",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-22T04:48:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Rescuers search for missing in collapsed homes after storm causes landslides, travel chaos and power outages Typhoon Dujuan has killed at least four people and injured 22 in Japan, while tens of thousands of houses near Tokyo remained without power after the storm swept through the region, authorities said on Tuesday.",
+        "Dujuan – which brought violent winds of 144km/h (89mph) – was moving away from Japan on Tuesday morning, allowing authorities to downgrade most heavy rain and landslide warnings.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "At least four people killed in Japan as typhoon Dujuan triggers heavy rain, landslides"
+      }
+    },
+    {
+      "title_original": "リトアニア、ロシアに「反撃」する用意と避難計画を立てていると　BBCが首相を取材",
+      "title_zh": "リトアニア、ロシアに「反撃」する用意と避難計画を立てていると　BBCが首相を取材",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tUEI0ZmhlV25nOWFCTGRndXFBOTQycXZrZW4zcTg2bmxLdFdZWEJyRnlBZloydks4TDZVakhvTnJHVVJCQmRqeGdZYkZrYXBzNFZyVHZPVXNXS1B6TkVaWtIBZkFVX3lxTE1uSGVaY1hCQVFPQnFwVnFVT0k5WHlIaUc4TUFKS2k4eFQ1M2MzOGpud3RwY3JHdjdFeEdveEdRampFYXllN09vRFh6R3ltQUNRcnphakxBZUhYSHJmOVJVT29TUmFzdw?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-22T04:35:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "リトアニア、ロシアに「反撃」する用意と避難計画を立てていると BBCが首相を取材    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "リトアニア、ロシアに「反撃」する用意と避難計画を立てていると　BBCが首相を取材"
+      }
+    },
+    {
+      "title_original": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
+      "title_zh": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting",
+      "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-22T04:29:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use British Columbia has sued OpenAI in California, saying a mass shooting at a school in the province could have been prevented if the company had warned local ⁠law enforcement that the shooter ⁠had used ChatGPT to ​plan the massacre.",
+        "The lawsuit filed in San Francisco federal court on Monday names OpenAI and its CEO, Sam Altman, as defendants.",
+        "It is seeking damages to fund recovery efforts in the province after the February attack, as well as an order directing changes to the way the company handles ChatGPT conversations that could lead to violence."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : le G7 exige l’arrêt immédiat des attaques des Houthis et leurs menaces sur le détroit de Bab el-Mandeb",
+      "title_zh": "Guerre au Moyen-Orient : le G7 exige l’arrêt immédiat des attaques des Houthis et leurs menaces sur le détroit de Bab el-Mandeb",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOSEYtWDhhMXRJRFNPVGRJX29sREpPazFlS1RhM2ZqbmxkRW5QU1V4N2NBSlJpVjBleUNmTm5iY0xBbVNYeE1iMVU1dGpxcWV0dUZqdjNfcnllS3JBNDAzWEpmN05zRHpva0dkQlEwRDNKdjIxMDhwN0o0NS1vUjdxbWVldF84c2poNThKRXRhQjFyQTN0c29qcU9RRE1CVkRCbVZZcnpnSkFhT0NvTWRROHd0ZWFyRVdHb3hPb1JEbktKTmN0NG9YTzNBQmhrX2hfeXF1QWk5ZEhXRXVVSHpvRzRieV85SXZiX09NMTE2eVdWbkF4Ukh0OHhDdkx5aUFlVVFOazVOTlFkbjgtOEVCcGdJLV9rbGRv?oc=5",
+      "source": "Sud Ouest",
+      "source_score": 40,
+      "published_at": "2026-09-22T04:25:48+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : le G7 exige l’arrêt immédiat des attaques des Houthis et leurs menaces sur le détroit de Bab el-Mandeb    Sud Ouest",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Sud Ouest"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : le G7 exige l’arrêt immédiat des attaques des Houthis et leurs menaces sur le détroit de Bab el-Mandeb"
+      }
+    },
+    {
+      "title_original": "【全文】ウクライナ ゼレンスキー大統領インタビュー",
+      "title_zh": "【全文】ウクライナ ゼレンスキー大統領インタビュー",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkZXRrTFFENWZYR1lJdDBqYVVOMmViYkhpVXd0YV9fV0w0TVNPbWtXenBjQndabGpsNFRuVlhSSHNWbG5nQnpLZUhydXY0dlhTUE9JWUtVczAwVTVMbWRV?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-22T03:56:12+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【全文】ウクライナ ゼレンスキー大統領インタビュー    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【全文】ウクライナ ゼレンスキー大統領インタビュー"
+      }
+    },
     {
       "title_original": "欧情报首长警告俄威胁升高 数月内或试探北约 | 俄罗斯 | 欧洲情报首长 | 乌克兰 | 新唐人电视台",
       "title_zh": "欧情报首长警告俄威胁升高 数月内或试探北约 | 俄罗斯 | 欧洲情报首长 | 乌克兰 | 新唐人电视台",
