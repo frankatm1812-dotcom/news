@@ -1,8 +1,533 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-21T17:02:57.398216+00:00",
-  "count": 35,
+  "generated_at": "2026-09-22T01:36:04.074365+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title_original": "欧情报首长警告俄威胁升高 数月内或试探北约 | 俄罗斯 | 欧洲情报首长 | 乌克兰 | 新唐人电视台",
+      "title_zh": "欧情报首长警告俄威胁升高 数月内或试探北约 | 俄罗斯 | 欧洲情报首长 | 乌克兰 | 新唐人电视台",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zYmJvTXNUell5U2ZZVGFwTlZOb0ZEbTY1S0ZLTVpFNmxwQTVPeERjYXJSbXZwaGN0MElSeDJhOTdYbEJlSXI2RkNfY2EtdHFhb3N4Mi1BRkF2WFAwRHMyYw?oc=5",
+      "source": "新唐人電視台",
+      "source_score": 40,
+      "published_at": "2026-09-22T01:16:57+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "欧情报首长警告俄威胁升高 数月内或试探北约 | 俄罗斯 | 欧洲情报首长 | 乌克兰 | 新唐人电视台    新唐人電視台",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "新唐人電視台"
+      ],
+      "all_titles": {
+        "zh": "欧情报首长警告俄威胁升高 数月内或试探北约 | 俄罗斯 | 欧洲情报首长 | 乌克兰 | 新唐人电视台"
+      }
+    },
+    {
+      "title_original": "La rencontre entre Emmanuel Macron et Donald Trump sur le Moyen-Orient et l’Ukraine a été « très constructive », selon le président français",
+      "title_zh": "La rencontre entre Emmanuel Macron et Donald Trump sur le Moyen-Orient et l’Ukraine a été « très constructive », selon le président français",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxORUUyMllIX3VYaXlVZUJXalVTSXJEXzJuNzM1TmRsaTMxRFNMNVA5RjVjSTZ0U0hTc1Q5ajdWdWpVNThodzV1cDh4RWw2bVkxRjF2WFNseXJhZDZpSWZlcV9ZWHBVd0syemkyRmFYNzVmX2J0MGRHTVR5by0tMnpwRDBWMmdWcTdsQ1VBV1BnaUtOWmFSNTB6S2dCanJ0MTloRVpZMTJLRUFGOGtLOUdURlc5aDB3T05ia3RqX3Nrd1REUS1HWDhDdHFaLXRPdlIyYnV2dzJCb0dzWWwxWkVKRTA0MjZkSk9FcEtXX1p3ZFhjRHBla0dpZFM2QUR1ZUVLRTNBenlIaWhQVVJQbDVjX1gzdjU0b1ZTS1JrTmhBSXRSZGpDN0lDMG81WXBzRHFYalM4?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-09-22T00:49:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La rencontre entre Emmanuel Macron et Donald Trump sur le Moyen-Orient et l’Ukraine a été « très constructive », selon le président français    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "La rencontre entre Emmanuel Macron et Donald Trump sur le Moyen-Orient et l’Ukraine a été « très constructive », selon le président français"
+      }
+    },
+    {
+      "title_original": "春泉产业信托获Mercuria Holdings Co., Ltd.增持12万股 每股作价1.29港元",
+      "title_zh": "春泉产业信托获Mercuria Holdings Co., Ltd.增持12万股 每股作价1.29港元",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSl90bERJUFNmMHc2dTJJSGREX3pSTVYtZmVIZmJaQXZ5LTh3OV9CWTBsd2ItcC0yazk5cWt0UGdITGZBRk92QzZtQlFiMWtrR2ZvSGliREl4c2ppSnFuaFNUaVJESndBVzVlRERyVXBOZ05GMHM4VG5yUDVTeVZWMEM0S0lycGR2bFE?oc=5",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-09-22T00:26:03+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "春泉产业信托获Mercuria Holdings Co., Ltd.增持12万股 每股作价1.29港元    新浪财经",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "春泉产业信托获Mercuria Holdings Co., Ltd.增持12万股 每股作价1.29港元"
+      }
+    },
+    {
+      "title_original": "西側政治家がNATOとロシアの直接戦争を画策 スロバキア首相（ＡＦＰ＝時事）",
+      "title_zh": "西側政治家がNATOとロシアの直接戦争を画策 スロバキア首相（ＡＦＰ＝時事）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YbEVhVVpFdE4tRDlCLWFzUDVNUExRZVNYS3NuLVQ2X3c5NEJycjBjYWVNWEVjZGVKa2IwV2NQTUtvRWwyaWVUWHpTR1ZIRm1hdVdDaUZ2VXI2emlQSmc5SzhmZkN5ZThydi15SWR4NTdaWDRKQjc1bXNlUU9RZFE?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-22T00:07:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "西側政治家がNATOとロシアの直接戦争を画策 スロバキア首相（ＡＦＰ＝時事）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "西側政治家がNATOとロシアの直接戦争を画策 スロバキア首相（ＡＦＰ＝時事）"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: EU will Sanktionen gegen russische Milliardäre aufheben",
+      "title_zh": "Ukraine-Krieg: EU will Sanktionen gegen russische Milliardäre aufheben",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa1FjdjVIMnN3dVNWUkJjdjVNTjMwMDc5NWx4MndqMW1vRVgtRnNPMlZSZy1uYVdMRC1qc0V0ZkltRlU3dzRaa1JFY01JVmdTLWZfVmR0X1lfNHAtdHJpTV8zZWhSaUx2eUppTUtLbS1ZLXRVeTFqbThaTVZxR0xGZUF5SWdZbzNwQm9tSDBzVFpPYkhNMUhpNWE5bUpnZ3RpMm81aWdkbDdXRDFkSGJscFNHdkxmZE5MTTJ1U1U1MA?oc=5",
+      "source": "TAG24",
+      "source_score": 40,
+      "published_at": "2026-09-21T23:31:16+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: EU will Sanktionen gegen russische Milliardäre aufheben    TAG24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "TAG24"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: EU will Sanktionen gegen russische Milliardäre aufheben"
+      }
+    },
+    {
+      "title_original": "Dinamarca, Groenlandia y EE.UU. firman el acuerdo OTAN que pone el Ártico bajo vigilancia permanente",
+      "title_zh": "Dinamarca, Groenlandia y EE.UU. firman el acuerdo OTAN que pone el Ártico bajo vigilancia permanente",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUF9NTE9lM0h4eURjOGx4SzMwLTBwSlVCREx6LUk5XzVCejhfLXhTVm83OEFXR2Z6YmZyZ2I5TnBaT2pYRlVYZEVsbzB0YkFUVjc4dXB2bDU3V2NmTEsxbTQ3ZDRnaDZhZWliUmptUmZNWlhXMXBXNUZ0dVlaVTN0OQ?oc=5",
+      "source": "moncloa.com",
+      "source_score": 40,
+      "published_at": "2026-09-21T23:15:27+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Dinamarca, Groenlandia y EE.UU.",
+        "firman el acuerdo OTAN que pone el Ártico bajo vigilancia permanente    moncloa.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "moncloa.com"
+      ],
+      "all_titles": {
+        "es": "Dinamarca, Groenlandia y EE.UU. firman el acuerdo OTAN que pone el Ártico bajo vigilancia permanente"
+      }
+    },
+    {
+      "title_original": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+      "title_zh": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
+      "url": "https://www.theguardian.com/us-news/2026/sep/21/africa-healthcare-aid-program-withdrawl",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-21T22:33:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Accra Reset’s report states countries in the region and global south should take greater control of their health development after USAID debacle The United States’ withdrawal from key aid programs has put has put healthcare in Africa and the Global South “under growing strain” a new report warns.",
+        "The report says the Trump administration’s cuts to programs such as US Agency for International Development (USAID), as well as the Covid-19 pandemic and rising costs of living globally have brought “new urgency” for the need to reform healthcare in the region.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns"
+      }
+    },
+    {
+      "title_original": "FIU students urged to skip social media summaries on Middle East conflict",
+      "title_zh": "FIU students urged to skip social media summaries on Middle East conflict",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc2lxczBnbnZVSGRwTGEzeHotcFY5R2dLMW04YkxySzVrdmJRbTBoamZXZk8xSkxZTC1pSjVfUFhtOGZaSFpQQm9IbEtxNGo1aVJIdmpQdkpwWVJhTE9GTG5lYnh4Y1FTSVNIMG9uWjI2MmZHX200NmxEUTROcVZWWFpYWVpadU94aXdZdzYta21aN2JBdkR2Z0hCWXZUZmNSbGZPMzVydS1sc2Fv?oc=5",
+      "source": "PantherNOW",
+      "source_score": 40,
+      "published_at": "2026-09-21T22:26:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "FIU students urged to skip social media summaries on Middle East conflict    PantherNOW",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "PantherNOW"
+      ],
+      "all_titles": {
+        "en": "FIU students urged to skip social media summaries on Middle East conflict"
+      }
+    },
+    {
+      "title_original": "Hutíes dicen que no atacarán buques de EEUU en el mar Rojo y otras novedades en Oriente Medio",
+      "title_zh": "Hutíes dicen que no atacarán buques de EEUU en el mar Rojo y otras novedades en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0tXRmlycEpjVXVxd3VPeWtuMnNmR3FxYjg5dlR3OTVEZ3ViT3F0OTdMSEp4eUZka0lmMnNRcXpodW00cEk5eWZBX0hlMTI5UjZ2clFfUmRvaXVwZ1J3dG9XNmVMaWFGcE1Rc0pQRGNTV2NwTUtxQUxYVHV3SGJ6V0hSdEJreDVlRUs1dDdia20zRlNRWS1td0c3RF9HMzl2Z3RyY1pjVXVZWnY4bUFEUGRRdkh3OG4wME5EWmFUSVppMFlLSFoxLU5aR0tDSV9GVHJqeC0xVmNJWkx2UXVKMFl3M0JfQ3NjUDVkdURVaDk?oc=5",
+      "source": "latimes.com",
+      "source_score": 40,
+      "published_at": "2026-09-21T22:20:45+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Hutíes dicen que no atacarán buques de EEUU en el mar Rojo y otras novedades en Oriente Medio    latimes.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "latimes.com"
+      ],
+      "all_titles": {
+        "es": "Hutíes dicen que no atacarán buques de EEUU en el mar Rojo y otras novedades en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Wendepunkt laut Geheimdiensten erreicht: Russlands unsichtbarer Krieg gegen Europa hat längst begonnen",
+      "title_zh": "Wendepunkt laut Geheimdiensten erreicht: Russlands unsichtbarer Krieg gegen Europa hat längst begonnen",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObGxKNHBzaGYtc1habjVtZ0lESkc2SzlKdFVoU0p1NzRMeldRNkkzemx5SmxfU093Um4yekxWeUhZOER4VUQ5c0wtbDVJeHd3QW53RlRpZFVPcEFaMTd6Q1VpSC1ENWk1RUQ2eW9iUFZJbVB2YlQ4T2JoWW9xQ0J0WUNNdjFtZEhIY3lwckdGazZRWU0xbGxackkwYy1zVElQYWczdlFhUi1nYTkyeFo3WkNibjhFRG5Xenp6QXhR?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-21T21:13:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Wendepunkt laut Geheimdiensten erreicht: Russlands unsichtbarer Krieg gegen Europa hat längst begonnen    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Wendepunkt laut Geheimdiensten erreicht: Russlands unsichtbarer Krieg gegen Europa hat längst begonnen"
+      }
+    },
+    {
+      "title_original": "ウクライナ侵攻後初となるロシア下院選 与党「統一ロシア」が4分の3超の議席確保し圧勝 プーチン大統領「国民が政権と侵攻を強く支持」アピールか",
+      "title_zh": "ウクライナ侵攻後初となるロシア下院選 与党「統一ロシア」が4分の3超の議席確保し圧勝 プーチン大統領「国民が政権と侵攻を強く支持」アピールか",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNRnFvWC1EUDNDcVRlbzdnUzFSQWRELTAxeFhIMEhfVG9SOWJTbnNrVWMybzNDZXdTRHJaV3c2TGlNRmpRX080WEk0ZEoxQjJpemMzTWZnTQ?oc=5",
+      "source": "newsdig.tbs.co.jp",
+      "source_score": 40,
+      "published_at": "2026-09-21T21:03:26+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ侵攻後初となるロシア下院選 与党「統一ロシア」が4分の3超の議席確保し圧勝 プーチン大統領「国民が政権と侵攻を強く支持」アピールか    newsdig.tbs.co.jp",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "newsdig.tbs.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ侵攻後初となるロシア下院選 与党「統一ロシア」が4分の3超の議席確保し圧勝 プーチン大統領「国民が政権と侵攻を強く支持」アピールか"
+      }
+    },
+    {
+      "title_original": "「戦場のイノベーション」ドローン ウクライナから米軍、自衛隊へ [高市政権の安保見直し][安全保障関連3文書]",
+      "title_zh": "「戦場のイノベーション」ドローン ウクライナから米軍、自衛隊へ [高市政権の安保見直し][安全保障関連3文書]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfMWRBVG11eHItMVBneEEtaE1qb3RDVkhLa3k4Q19JRFN6LS13dTNFQmtlOUNmT25MaFMxbHJlSEkxS2h3eGlEcDhUNjVHVzFsS1VqZFJjMXVCV1gtanNQZEM4R0pVN0U?oc=5",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-09-21T21:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "「戦場のイノベーション」ドローン ウクライナから米軍、自衛隊へ [高市政権の安保見直し][安全保障関連3文書]    朝日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "「戦場のイノベーション」ドローン ウクライナから米軍、自衛隊へ [高市政権の安保見直し][安全保障関連3文書]"
+      }
+    },
+    {
+      "title_original": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "title_zh": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-21T20:26:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan\n- Published\nAlmost two million people are under evacuation orders in Japan as Typhoon Dujuan batters a number of the country's prefectures.",
+        "The country's public broadcaster, NHK, reported that two people had died and four others were missing as a result of the typhoon.",
+        "It also reported four were missing in Kanagawa prefecture."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan"
+      }
+    },
+    {
+      "title_original": "Europe is under attack from three sides – but the EU and Nato are unfit to defend us | Nathalie Tocci",
+      "title_zh": "Europe is under attack from three sides – but the EU and Nato are unfit to defend us | Nathalie Tocci",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFJhUjFud0NCenBjb2hQRlhMeDNhZzFJRV9lMks4bllCa1dvUHdvQXNad3NxN2Vub1haUUlGVXJ3ZWxWeEJkWjc3Z2psS2xwNFQwbjBTSU9KeXF5Y0FFVXZ4RDJ1RXR5UnRvaTluMlRCNUduTnBmUlM3dWhuQ2pCNFRwYVRmT25wazVQQlhFSnFad1BLd2huN0c3el81Z0YxX3E5YXVJMWNWYzg2bHc?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-09-21T20:25:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Europe is under attack from three sides – but the EU and Nato are unfit to defend us | Nathalie Tocci    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Europe is under attack from three sides – but the EU and Nato are unfit to defend us | Nathalie Tocci"
+      }
+    },
+    {
+      "title_original": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
+      "title_zh": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
+      "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-21T20:21:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Airlines criticise air traffic control as second glitch causes more disruption in UK"
+      }
+    },
+    {
+      "title_original": "Putin consolidates grip on Russia as 49 Ukraine war veterans elected to parliament",
+      "title_zh": "Putin consolidates grip on Russia as 49 Ukraine war veterans elected to parliament",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbG9WN2lnUlhwRVNIeEctVGVIS0s1SnZEem90eVpyc1FaYjZpYmcwaTJWajFlLXEyWUF0eXpHTDk5UmlaRWRudE50dmdfeTdlUVpLYmdaelp4YjB4UV9UZTZyUXQ3NFh2LVNqTUdFVWxzbU1RRkk3NW1lZjhvTms3YU1SNFdZZXFFSFZwLU1ES2Nfd0xZdDhxdmcxZGdjQktzUGxYdDJlYW5xS1o2RzU0?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-09-21T19:28:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putin consolidates grip on Russia as 49 Ukraine war veterans elected to parliament    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Putin consolidates grip on Russia as 49 Ukraine war veterans elected to parliament"
+      }
+    },
+    {
+      "title_original": "The art of dealing with Trump",
+      "title_zh": "The art of dealing with Trump",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/21/the-art-of-dealing-with-trump-01086271",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-21T15:23:36-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The art of dealing with Trump",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The art of dealing with Trump"
+      }
+    },
+    {
+      "title_original": "القيادة السعودية تعزي نائب رئيس الإمارات في وفاة أحمد بن راشد",
+      "title_zh": "القيادة السعودية تعزي نائب رئيس الإمارات في وفاة أحمد بن راشد",
+      "url": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxOQWpLaGlSN0xOXzNwOTE4ZlRhdGtxdFdnSmVDNVhIbWFTQ205cDlWWXBFcUtMcTktd0REWWE0RlJQcktveHdGdW5hMVdCajlYZjhwVnFweVpsZU8wbUxORkE4bC1sbDlJNFJxdjg1Znd1M3A5WnpvVTdTMlV3eUQtWFdmQ3hPNFZpUV9fQWVZUGhtOGJ6LV9IbFJ3UnFmZnpDckhYMDhQRzRQQzRYUDRBTmlaazFtaTdlNFBYYWZDV3N5blVVTGZadEpqNEJiVEVFMEZqWnVkQm51YW5NNG1OVC1lTkZhSXhjOUZTc1BXN2NFWmlWQ19zUjNJTGJ6RXlucUItOVVEdU5qRldkc01VYS12ZHZBeXk0WjNRQ2REZUpZWGlIVzJqYW01SlhYd05nWWZ0dXI4R08zV214d2NqQUYwUEdXWDZvVi1DMFRVZVhvUHFZV0dDcVlhdDRLUHJpcDJIX05pM21Yd2p3UVhOUGZidDBQYm5zMmF0M1dKNDhkNHk0MzZUeThsQjFneVlEamlQZTM4VjZtTDZNSVViZGxrSUdBc0VoeE9QMkNtWGVfRGY2MnlldG1PdVlmVHM1aHdHZWVSWmtNVEdoR21CdERDQkFHaVFEWUZaVzFidlRKQU40N3h3dUV6ZkM2bTNEMW55VGdKZEtzS3VPa3J4eUsya0VxZW5fODVTb19mcXdvVGpmWHR5WnZtMTlxc2FoajhodGU1RDlieGRZRlBkOTZRUjZFUUNFaVk3WHRPcjl1QXZkM0N4X1lxOEFPbFhpdjlVd2hRQjVVMnN6WUN6U0FZbFd3YUxIM0pxTkd5NTRwR3UtVWxaeVpR?oc=5",
+      "source": "aawsat.com",
+      "source_score": 40,
+      "published_at": "2026-09-21T17:54:24+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "القيادة السعودية تعزي نائب رئيس الإمارات في وفاة أحمد بن راشد    aawsat.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "aawsat.com"
+      ],
+      "all_titles": {
+        "ar": "القيادة السعودية تعزي نائب رئيس الإمارات في وفاة أحمد بن راشد"
+      }
+    },
+    {
+      "title_original": "Houthi offensive threatens to pull US deeper into Middle East conflict",
+      "title_zh": "Houthi offensive threatens to pull US deeper into Middle East conflict",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMGZpNlVYLXpqbUF3SGdzTkl5anFSWlFUNmwxdkM3bWJ5dEdaOUt0QjFJRGRvVWw0Mno2YXRqb3VabElfdmFiZGNzU2VyQjdzcUJTb0ZtY0tURDBPakprM3ZyYVpma0k0MF9Jb3Raei1qeXg4OENzZlFCMHBsS0dxal9tTW1UcFJGbzlKUWFtTXY0SUczX1lpOXlvVUh3M0Z0TEZzNjZ1V0o1MnFXdzljTGk1OHRnQmxVdFpSZ1o3LU5Tb21BUDB5T2NNMGhJaWZxNnFZcXF6ZVNIVDBXRXgwU0hYMV8yMHBycEg3Sm1hd21KRklidlpPUXFFRnU2RVV0?oc=5",
+      "source": "WBFF",
+      "source_score": 40,
+      "published_at": "2026-09-21T17:39:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Houthi offensive threatens to pull US deeper into Middle East conflict    WBFF",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "WBFF"
+      ],
+      "all_titles": {
+        "en": "Houthi offensive threatens to pull US deeper into Middle East conflict"
+      }
+    },
+    {
+      "title_original": "Colombia declares public calamity as wildfire threatens popular tourist area",
+      "title_zh": "Colombia declares public calamity as wildfire threatens popular tourist area",
+      "url": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-21T17:13:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Wildfire forces evacuations and burns through mountains surrounding Villa de Leyva in the north-east Colombian authorities declared a public calamity as a wildfire burned through mountains surrounding one of the country’s best-known colonial towns in the north-east, scorching large swaths of vegetation and forcing evacuations.",
+        "Nearly 20 active fires are burning across the South American country.",
+        "Dry conditions have increased fire danger in Colombia as it braces for the effects of El Niño, which can help wildfires spread."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Colombia declares public calamity as wildfire threatens popular tourist area"
+      }
+    },
+    {
+      "title_original": "Seven Ethiopian rebel groups form new alliance",
+      "title_zh": "Seven Ethiopian rebel groups form new alliance",
+      "url": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-21T17:02:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Seven Ethiopian rebel groups form new alliance\n- Published\nSeveral of the rebel groups which have been fighting the Ethiopian authorities in different parts of the country have announced they have formed an alliance to remove the government in Addis Ababa.",
+        "The alliance brings together the Fano militia in Amhara, the Oromo Liberation Army (OLA), Tigray People's Liberation Front (TPLF) and four other smaller groupings in a coalition named Alliance for Survival.",
+        "The seven groups accuse Prime Minister Abiy Ahmed's government of presiding over \"war, genocide, mass destruction and utter poverty\", claiming Ethiopia is at risk of disintegration."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Seven Ethiopian rebel groups form new alliance"
+      }
+    },
     {
       "title_original": "First UK charges brought over 1994 Rwanda genocide",
       "title_zh": "First UK charges brought over 1994 Rwanda genocide",
@@ -51,6 +576,56 @@
       ],
       "all_titles": {
         "en": "Merz vows to keep coalition together for Germany's 'democratic future'"
+      }
+    },
+    {
+      "title_original": "共同擘画中美关系新篇章——写在习近平主席对美国进行国事访问之际",
+      "title_zh": "共同擘画中美关系新篇章——写在习近平主席对美国进行国事访问之际",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kbHZtWnVMY3NHZkFHSTRMMDkxRUFPbTN5bk5RWnlkeEZGc19MdjNvWGIwa0JLZUVRRTVjMzViaUR4MElsWEppSVd1bmk4akZvUVVGeWtYdlRydmo2eUl6Qw?oc=5",
+      "source": "thepaper.cn",
+      "source_score": 40,
+      "published_at": "2026-09-21T16:35:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "共同擘画中美关系新篇章——写在习近平主席对美国进行国事访问之际    thepaper.cn",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "thepaper.cn"
+      ],
+      "all_titles": {
+        "zh": "共同擘画中美关系新篇章——写在习近平主席对美国进行国事访问之际"
+      }
+    },
+    {
+      "title_original": "التوتر يتصاعد في الشرق الأوسط قبيل اجتماعات الأمم المتحدة.. إليك أبرز المستجدات",
+      "title_zh": "التوتر يتصاعد في الشرق الأوسط قبيل اجتماعات الأمم المتحدة.. إليك أبرز المستجدات",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWnNIdXNqUjBmcFh2Q1J6V3FiUTNuMzlpb2E5dVlOWlFRbTM3eHlncklYam5ZSU1OQjRHM3pKNE00bVg5R05NcnBVa3NJaHlCWF95cV9TZXN2Z2FfSWF3WjBUNkpBcEZzY1RoUmw5ekhZYlJjNG5HMTh0aFR6eWJlcVNKUHFWNnF5N1praXZEcXZVbkFrM2FrenMwN2duS0RMUUpFWUFTZ2VQWHQ1QVgxRHJPQzV2TngtUVpXZlNEMUZGRkhuT2c?oc=5",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-09-21T16:26:07+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "التوتر يتصاعد في الشرق الأوسط قبيل اجتماعات الأمم المتحدة..",
+        "إليك أبرز المستجدات    CNN Arabic",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "التوتر يتصاعد في الشرق الأوسط قبيل اجتماعات الأمم المتحدة.. إليك أبرز المستجدات"
       }
     },
     {
@@ -129,6 +704,56 @@
       }
     },
     {
+      "title_original": "Xhaka under investigation over Covid-19 certificate",
+      "title_zh": "Xhaka under investigation over Covid-19 certificate",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-21T15:24:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Xhaka under investigation over Covid-19 certificate\n- Published\nSwitzerland captain Granit Xhaka is under investigation by Swiss prosecutors over allegations he obtained a forged Covid-19 vaccination certificate.",
+        "The 33-year-old is alleged to have obtained the certificate in 2022, when it was a requirement in Switzerland for some travel abroad.",
+        "The public prosecutor's office of the city of Lucerne confirmed the investigation was under way to determine whether any criminal behaviour took place in obtaining a \"false or forged\" certificate."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Xhaka under investigation over Covid-19 certificate"
+      }
+    },
+    {
+      "title_original": "Pritzker says he’s lost 80 pounds on GLP-1 since diabetes diagnosis",
+      "title_zh": "Pritzker says he’s lost 80 pounds on GLP-1 since diabetes diagnosis",
+      "url": "https://www.politico.com/news/2026/09/21/pritzker-says-hes-lost-80-pounds-on-glp-1-since-diabetes-diagnosis-01086118",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-21T11:10:14-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The Illinois governor reveals he’s been on a GLP-1 since being diagnosed with Type 2 diabetes two years ago.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Pritzker says he’s lost 80 pounds on GLP-1 since diabetes diagnosis"
+      }
+    },
+    {
       "title_original": "フーシの攻勢で新局面 中東情勢まとめ読み",
       "title_zh": "フーシの攻勢で新局面 中東情勢まとめ読み",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BNG5LVHlISDRybzVzVW1XNVA0NzRNbEhBY2xOVG9LZHlBdDFWdlR6dUotNTFjU1dGOXJ2c1ZtS2o1Wmt1QkxQQkpJa2d5Vzk3anBOYWF6NlFPcTJFcEZEZ1FweFd5UlJJZm9idXVZbXFoVDgwdXZR?oc=5",
@@ -179,6 +804,31 @@
       }
     },
     {
+      "title_original": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "title_zh": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-21T14:14:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war\n- Published\nIbrahim Issa, 50, is from the Yemeni coastal town of Dhubab, right on the front lines of the war between Yemen's Houthis and the Saudi-backed pro-government forces fighting them.",
+        "Today he sits, surrounded by his family, on a tarpaulin spread over a sandy floor inside a vast open-sided warehouse at Markazi camp in Obock, northern Djibouti, packed with Yemeni families who have fled by boat across the narrow Bab al-Mandab Strait.",
+        "After their sea crossing, Yemeni refugees have made their way by truck and on foot to this camp, jointly administered by the government and the UN."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war"
+      }
+    },
+    {
       "title_original": "تراجع معظم أسواق الخليج مع استمرار صراع الشرق الأوسط",
       "title_zh": "تراجع معظم أسواق الخليج مع استمرار صراع الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85M0pFX3dZNDZ6QTZHbVZRemo4TFNaVElvYkh3elpMTjk2SUtnZGJPMjVGMzB2TVg3bnptOUtxZGtqTHZsWndQY2tVVjJWbWI4SHVPV0pzMWs3aUdPZURiUFZXczdoS0RnWWg5ZENtSU1veS1weWN0bER1cmxEVTA?oc=5",
@@ -226,6 +876,31 @@
       ],
       "all_titles": {
         "en": "Denmark says NATO shares responsibility for Arctic security under Greenland deal"
+      }
+    },
+    {
+      "title_original": "时政镜距离丨让中美关系这艘大船平稳前行",
+      "title_zh": "时政镜距离丨让中美关系这艘大船平稳前行",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uUUdNZVRWbW84U1h3bmprYkNhYmY5ZFllSEtOZ2I1aVE4ZHRiZWdWUTJZTVFvczctZURUY0xGZ2lYamVBWm9kTzBfSjVrLTFqVkQwb3JIakdtLU95Vm5lUlk3X3VCZXdjNmtOakJzWDd4bHlCejh3?oc=5",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-09-21T13:53:19+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "时政镜距离丨让中美关系这艘大船平稳前行    新华网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "zh": "时政镜距离丨让中美关系这艘大船平稳前行"
       }
     },
     {
