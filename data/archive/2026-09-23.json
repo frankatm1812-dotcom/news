@@ -1,8 +1,858 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T01:28:51.768819+00:00",
-  "count": 35,
+  "generated_at": "2026-09-23T15:27:26.499164+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "title_zh": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-23T14:55:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war\n- Published\nEthiopia's government and the party in control of the northern region of Tigray have accused each other of launching offensives, escalating fears of a return to full-scale conflict.",
+        "Getachew Reda, a cabinet minister and adviser to Ethiopia's prime minister, said Tigrayan fighters had taken control of federally administered airports in Tigray and launched offensives in neighbouring Afar and Amhara regions.",
+        "Earlier, the Tigrayan authorities said their forces had been forced to enter a \"defensive war\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war"
+      }
+    },
+    {
+      "title_original": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+      "title_zh": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
+      "url": "https://www.bbc.co.uk/news/articles/cwp84rrrymd0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-23T14:32:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire\n- Published\nFrench national Martin Ryan has been pardoned and his release from prison ordered by Azerbaijani President Ilham Aliyev after he was jailed on charges of spying.",
+        "His release came hours after the EU agreed to lift sanctions on two Russian billionaires, prompting anger from Ukraine.",
+        "Diplomats had indicated that France had pushed for an end to restrictions on one of the businessmen, Alisher Usmanov."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire"
+      }
+    },
+    {
+      "title_original": "Du couloir de la mort aux cryptos : Babak Zanjani, homme clé de l'Iran pour contourner les sanctions",
+      "title_zh": "Du couloir de la mort aux cryptos : Babak Zanjani, homme clé de l'Iran pour contourner les sanctions",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObDhDenF6dFBLcVdGdmxxS0p0V01XanltclJOOC1BY2dKekh5aHVpVnpEdUlvVTRhVXFhUjdrMXJ2dTVQNm1pSFJKd0hES2pOck9TdHRGeXc1UHRibl9ycTFDRUN1eHRwNjlhMFRUOTBkMkFkX1c1MkpOc0FhMHBTXzEyblJFWVpEalJOblVTcnBBYVJtck16ZzZKV3VmV082NVcycHViWWtjN0tlQWZKcGIxSVVYOFprYk9FZW5wMm9Vek50LTFHVGdOY2lKVWVlQnBKb0VIM1Q?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-23T14:04:56+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Du couloir de la mort aux cryptos : Babak Zanjani, homme clé de l'Iran pour contourner les sanctions    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Du couloir de la mort aux cryptos : Babak Zanjani, homme clé de l'Iran pour contourner les sanctions"
+      }
+    },
+    {
+      "title_original": "Eleven killed in mass shooting at house in South Africa",
+      "title_zh": "Eleven killed in mass shooting at house in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-23T14:02:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Eleven killed in mass shooting at house in South Africa\n- Published\nAt least 11 people have been killed in a mass shooting in a residential building near the South African city of Durban.",
+        "Gunmen stormed a house in the KwaMakhutha township late on Tuesday and opened fire on 14 people.",
+        "Ten were killed at the scene and four were taken to hospital, where one later died from their injuries, police said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Eleven killed in mass shooting at house in South Africa"
+      }
+    },
+    {
+      "title_original": "Slovakia: PM Robert Fico's NATO Article 5 remarks trigger questions about his country's NATO commitment",
+      "title_zh": "Slovakia: PM Robert Fico's NATO Article 5 remarks trigger questions about his country's NATO commitment",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMFpMZDZrWk1iOFhlcXRSdVZiU3ppVjkzUTR4cHN2OUJyUnhXTXFGQ25vc2dZb3ozSmtzRGR6VGZHcjRTVHFnaFlGMXN1MXRmUkdFVlF4VnB2cV9NRWt6bF9haVRGaUQ5V0Vkc0ZoblZ5N3NZc0k0dlo3YjUtVnJqazJMNVVJNy1vQl9aSDlhZVRBX094SFFwVDFvVHdxc1ZVZ29BVjlqeVd4dDFmazIxb0tVU2R3dVpWSkJScDI5NzhNbVpGZGN3WE9YWjlkS083Q3M1R3BhOFFKZ1FYdVVnWU1XMnczd9IB5gFBVV95cUxPbDhpSEZKTHhGYm9laXFqeGNhTmk2UDZlc3ZnT1RoU0dacmI5YWdpZWJDY1g0Q1hPWDRZOVpGWDVaNEY3clZaMlBKLThDd0hialVtMGFfeXdpQVlhcHl5ZS1ESnlYUXo2WHNuS0ptd0xNeDR1UmJhOUtFN3EzNmRCUDUwTWpWeXdMeWw4SGVTRjZYT1Z4cTRmbHhvUk9sY2lfSmhVNEttRGRaQ1d5R0VmaFNGUHJFd01ESnVTNExwemExeEg0ZjNkWVFSNGstTjlua2VWMEVNMFVnR19zTlQ0aGlibG15Zw?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-23T13:35:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Slovakia: PM Robert Fico's NATO Article 5 remarks trigger questions about his country's NATO commitment    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "en": "Slovakia: PM Robert Fico's NATO Article 5 remarks trigger questions about his country's NATO commitment"
+      }
+    },
+    {
+      "title_original": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
+      "title_zh": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
+      "url": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-23T13:20:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79\n- Published\nRock star Angry Anderson, whose music famously soundtracked the wedding of Kylie Minogue and Jason Donovan's characters in Australian TV soap Neighbours, has died at the age of 79.",
+        "The musician, whose real name was Gary Anderson, rose to fame as the frontman of Rose Tattoo, one of Australia's most revered rock bands, from 1976.",
+        "His solo song Suddenly became a global hit after it was played during the wedding of Minogue and Donovan's characters Scott and Charlene in Neighbours."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79"
+      }
+    },
+    {
+      "title_original": "عاجل. \"أمن الشرق الأوسط يُنسج في دمشق\".. الشرع: إسرائيل \"بشذوذها\" تتعدّى علينا والجولان ستبقى أرضاً سورية",
+      "title_zh": "عاجل. \"أمن الشرق الأوسط يُنسج في دمشق\".. الشرع: إسرائيل \"بشذوذها\" تتعدّى علينا والجولان ستبقى أرضاً سورية",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUE5NdC1Ed0lKeEttSmZDUnVfa0d1czlXV2lWRkFWc21jLTB4R3U1ZVNLNEZ6WDg0YldUMmV6SUM3V3VBemFvTnJJc0xhQkpzR3o5b21mZmRibzhmNHFmWWdVSG9TMFNzb3BvOTRRTmRmY1V4bUZDNEFwdWdSR1FRbXM3bVNoZ2UzQ0haVnJKamlZS1pKWWV0WDJZTkxGSllGSDNudEtmTWZ4YkY5Q2padFRxRGNwdmU1Z0RWcWE5SQ?oc=5",
+      "source": "Euronews",
+      "source_score": 75,
+      "published_at": "2026-09-23T13:19:35+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "\"أمن الشرق الأوسط يُنسج في دمشق\"..",
+        "الشرع: إسرائيل \"بشذوذها\" تتعدّى علينا والجولان ستبقى أرضاً سورية    Euronews",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Euronews"
+      ],
+      "all_titles": {
+        "ar": "عاجل. \"أمن الشرق الأوسط يُنسج في دمشق\".. الشرع: إسرائيل \"بشذوذها\" تتعدّى علينا والجولان ستبقى أرضاً سورية"
+      }
+    },
+    {
+      "title_original": "Can Mitch Landrieu break through in 2028?",
+      "title_zh": "Can Mitch Landrieu break through in 2028?",
+      "url": "https://www.politico.com/video/2026/09/23/can-mitch-landrieu-break-through-in-2028-2178694",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-23T09:02:43-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Can Mitch Landrieu break through in 2028?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Can Mitch Landrieu break through in 2028?"
+      }
+    },
+    {
+      "title_original": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+      "title_zh": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-23T12:24:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico\n- Published\nHurricane Polo, a large storm off the coast of Mexico, has been downgraded to category 4 but remains \"very powerful\", the US National Hurricane Center said.",
+        "The Pacific hurricane, one of the strongest of the season, was projected to head towards the coast of south-western Mexico, bringing intense wind and rain, though was not expected to make landfall.",
+        "A Hurricane Hunter aircraft, operated by the US National Oceanic and Atmospheric Administration (Noaa), flew into the storm on Tuesday and recorded sustained wind speeds near 180 mph (285 km/h), with stronger gusts."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico"
+      }
+    },
+    {
+      "title_original": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+      "title_zh": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
+      "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-23T12:22:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Dolly Parton's manager accuses her nephew of 'threats and intimidation'\n- Published\nDolly Parton's management company has accused her nephew of \"threats, intimidation, and coercion\", revealing a bitter battle over the late star's legacy and business interests.",
+        "The accusations against Bryan Seaver, who was Parton's head of security and was handpicked to announce her death last month, have been made public in US legal documents filed this week.",
+        "The company that manages Parton's businesses and properties, She's Alive, is seeking a temporary civil restraining order against him."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'"
+      }
+    },
+    {
+      "title_original": "OpenAI gives cyber defence tools to Ukraine",
+      "title_zh": "OpenAI gives cyber defence tools to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-23T12:01:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "OpenAI gives cyber defence tools to Ukraine\n- Published\nThe tech giant OpenAI will share its AI cyber defence system Daybreak for free with the Ukraine government to help it protect civilian infrastructure, like hospitals and power plants, from cyber-attacks.",
+        "According to the Computer Emergency Response Team of Ukraine (CERT-UA), the national cyber incident response team, Ukraine recorded nearly 6,000 attacks in 2025.",
+        "Daybreak is able to quickly identify weaknesses in digital systems and help develop fixes."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "OpenAI gives cyber defence tools to Ukraine"
+      }
+    },
+    {
+      "title_original": "South Sudan's president dissolves government ahead of country's first elections",
+      "title_zh": "South Sudan's president dissolves government ahead of country's first elections",
+      "url": "https://www.bbc.co.uk/news/articles/c8750ykkglq1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-23T11:16:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "South Sudan's president dissolves government ahead of country's first elections\n- Published\nSouth Sudan President Salva Kiir has dissolved the transitional government, three months before the country's first election since its independence in 2011.",
+        "The country has previously postponed elections twice and extended the transitional period several times.",
+        "Under the amended law, signed on Monday, Kiir removed the country's five vice-presidents and dissolved parliament, as well as national and state governments."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "South Sudan's president dissolves government ahead of country's first elections"
+      }
+    },
+    {
+      "title_original": "ロシア国防省、ウクライナのJT工場を攻撃と発表 負傷者なし",
+      "title_zh": "ロシア国防省、ウクライナのJT工場を攻撃と発表 負傷者なし",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IYnhGVE9adkc3ZGQxUUJYTEVhUUZjX0x2VDVuNVVTRGRxWThnQ0ZXZjBBdVpSTTcyX1lVZUwyVUZmR1B2V2JoS0ZqdDdwV2xfT0lYcVRpUGhKUWtJdVIydXo1djVYdW1rYUJhQQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-23T11:12:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ロシア国防省、ウクライナのJT工場を攻撃と発表 負傷者なし    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ロシア国防省、ウクライナのJT工場を攻撃と発表 負傷者なし"
+      }
+    },
+    {
+      "title_original": "Indian billionaire’s payments firm plots biggest London flotation in years",
+      "title_zh": "Indian billionaire’s payments firm plots biggest London flotation in years",
+      "url": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-23T11:08:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Sunil Bharti Mittal’s Airtel Money targets $9bn IPO in boost for ailing UK stock market A payments business that operates across Africa and is ultimately controlled by an Indian billionaire has announced its intention to float on the struggling London Stock Exchange .",
+        "Airtel Money, the mobile money arm of Airtel Africa, is planning one of the biggest UK listings in years, in a boost for the shrinking London market that has faced a string of recent departures .",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Indian billionaire’s payments firm plots biggest London flotation in years"
+      }
+    },
+    {
+      "title_original": "美国将在格陵兰岛扩张军事存在 非北约国家被禁止开发敏感领域",
+      "title_zh": "美国将在格陵兰岛扩张军事存在 非北约国家被禁止开发敏感领域",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uUDIxM2JuLXpWaWR5RlRlYVRubFhseHhpb2t2TmVISmNMU3hXVUNkdXdwRzRqOE1OT2htd0hTMktZR0VqUlJRN251NElsRDl0RktyOWlmcjhPdkVpeHpLWEhRYW9NLXFqTGc?oc=5",
+      "source": "财新",
+      "source_score": 75,
+      "published_at": "2026-09-23T09:59:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国将在格陵兰岛扩张军事存在 非北约国家被禁止开发敏感领域    财新",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "财新"
+      ],
+      "all_titles": {
+        "zh": "美国将在格陵兰岛扩张军事存在 非北约国家被禁止开发敏感领域"
+      }
+    },
+    {
+      "title_original": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+      "title_zh": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
+      "url": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-23T09:48:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump meets US-backed Venezuelan president for first time since Maduro seized\n- Published\nUS President Donald Trump has held talks with Venezuela's interim President Delcy Rodríguez at the UN General Assembly, their first face-to-face meeting since the White House backed her to take over the South American country's government.",
+        "Rodríguez succeeded Nicolás Maduro shortly after US forces conducted a raid on the Venezuelan capital Caracas and seized him.",
+        "The pair met a few kilometres from the New York jail where Maduro is awaiting trial for drug trafficking and other charges."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump meets US-backed Venezuelan president for first time since Maduro seized"
+      }
+    },
+    {
+      "title_original": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech",
+      "title_zh": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXpEYjd0OUZLUmJLOVVrMVBYRUd1T0s5YXVETHRSUnd0MVI0LVZBalhSaFRfWkRFZUhTTlh1cGgtRjRjNFU2enBXT0RFc0htQmtYaDR2N1c0NGpjOElwSFU4ekkyeTFuQXcyQ0FpdEhXTmJRNXNlbzNKVFFIQjM4RHFn?oc=5",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-09-23T09:47:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech    CNBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech"
+      }
+    },
+    {
+      "title_original": "(S+) Russlands neues Kriegsziel? Die Vernichtung der ukrainischen Wirtschaft",
+      "title_zh": "(S+) Russlands neues Kriegsziel? Die Vernichtung der ukrainischen Wirtschaft",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWXUxMF9MeTdJRk9JdjQ0Nm45U2RBV0xSOWJQNndMODRKN0ZtZlBOblVQYW1kVkU5ZGRnVXlBQTNyU21HVmFqRUs2OHhPcXlPMmRQNHhSX0hzaE1JSmRuUFBYU0EtR3Z2ZjNva1VpSDY1VmNBMllhSzRKWDc5SVVROW40bzRLbkZDN0diT1d3MkJKS0tVNUlTLUpLblMtLXJNSlZFOWR6Yzh5WF80SkN2MzhYUHp6al81cW40RHZqR0I3enlzUlFrV2t4Q0NMMUtFd205REUweVpFZDhaa213V3pmZUZjQQ?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-23T09:19:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "(S+) Russlands neues Kriegsziel?",
+        "Die Vernichtung der ukrainischen Wirtschaft    Spiegel",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "(S+) Russlands neues Kriegsziel? Die Vernichtung der ukrainischen Wirtschaft"
+      }
+    },
+    {
+      "title_original": "习近平对美国进行国事访问",
+      "title_zh": "习近平对美国进行国事访问",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZUXVBN0k5VUwxc2tNVWJoalFBaGJocy1mLU04emhqU25qTXpodmh0UVdyekdfZ3FWZVlsdTVfZ0t2Q242TjdPbWtUbS14ZWhYY0d1ejZ5dXdPenpxZkIwaUJMeThRNDBZa2Q2aklB?oc=5",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-09-23T09:06:39+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "习近平对美国进行国事访问    新华网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "zh": "习近平对美国进行国事访问"
+      }
+    },
+    {
+      "title_original": "NATO jets scrambled in Poland, Romania as Russia strikes Ukraine",
+      "title_zh": "NATO jets scrambled in Poland, Romania as Russia strikes Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS0RaN1MweFdXRlY0SW9vakZlZUp1NkRkakhrdUxab0Y1V1Mzak44VWtubFY4YWlKak9YNWtCVExKa2cxZFo3bEFXX2ZyWV9WMFhuV1pPX0JBVTM0MGFXWG1PYjU1LXQ0d2wzWC03SlZieWgybmpTLURPaC1uaUV5RnBaX0lHdWViY1VMUFNDTFdncVJ0Z3lNd3dvUnYzNzVMdG81aXlEZXdjMmJadDNV0gG0AUFVX3lxTE1ySEFUT1hJak1nSXJjandmOVFJbjZGM2VJZjFxYW5HZDQwQjhPTkRWakV1VkxRbTBwWFplWTI5UURMRFlnak9rWnlucnhMTXh0Z09VSVZFblAzc1lpc193SjB6NFUtTVNlQmItZFBKaGtYbU1vYThTT2VQbUVnQnFKZXlBeF9VR0c2bHhsY1REblQ3aEpET1hzaDdROXRCY242MEdmOEJ0WUE2aDhTcDdUSWpXRg?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_score": 75,
+      "published_at": "2026-09-23T08:34:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO jets scrambled in Poland, Romania as Russia strikes Ukraine    ABC News - Breaking News, Latest News and Videos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      "all_titles": {
+        "en": "NATO jets scrambled in Poland, Romania as Russia strikes Ukraine"
+      }
+    },
+    {
+      "title_original": "\"EQT\" تفتتح مكتباً في أبوظبي ضمن التزامها بالتوسع في الشرق الأوسط",
+      "title_zh": "\"EQT\" تفتتح مكتباً في أبوظبي ضمن التزامها بالتوسع في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxNTWVqQ2RTR1lpYlpUR2Q3NHlJNHI2T2ZMeEN2N0Rub1V3QTNCUV9Uc1p4OGFiZkRKWjlYZFlTTTNST19qamxZeUJjS3lqaXJfNFZnMWc1OE51elRwdzNOa2RvZXlnLXg4TXlKdjgyUUQ2YUpEMjlGU2JrSEw1Y0tjNFBsR1h6a0ZwZllWdGtLWWc4Zi1rcW1tZWtWaHlWLW5hWFZabFBjaWlnRUZSQnpVTk1FaUNGZkFOY2J4ZmlYcVVRV0hQMjZzY0RMYVpvZlI1UlhuWHhDOE9Kb2JmR3dRY0l1ME90STZOQUtJQnpjZWM4dFF0TUJ1WGlFZUZmbzhaTG5fX0pSbWxSTjA2YXhQdnBTVTNVV0Y2RHRHaVdGUmRyNXZPdWlzSUYtUnN6MGJwX01BUmlXdzZ6LXc1eFRnYXRaWUdnYjI0cDk1UDVVTU96eGJ4TTJNbkJvaEpUZWJSZEpremtxdW5WbzNXY0djLXVoRlgtY3pHRzg5RU1YZHFDSzNQb1FOSE03SEtFVVY2ZVY4V2JSMUI3Q0RVUFBIZjlYMWwyRHdpLWFFZ0NaX1ZnaEd3VHlnTG1pVXlOR0xfYXNmVDhtOE9HTlpiRWYtWC1vbUczc3N5TXpNY19wQTM?oc=5",
+      "source": "الشرق بلومبرغ",
+      "source_score": 40,
+      "published_at": "2026-09-23T08:22:22+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "\"EQT\" تفتتح مكتباً في أبوظبي ضمن التزامها بالتوسع في الشرق الأوسط    الشرق بلومبرغ",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "الشرق بلومبرغ"
+      ],
+      "all_titles": {
+        "ar": "\"EQT\" تفتتح مكتباً في أبوظبي ضمن التزامها بالتوسع في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "中美关系这艘“大船”如何行稳致远？重温习近平主席讲话金句",
+      "title_zh": "中美关系这艘“大船”如何行稳致远？重温习近平主席讲话金句",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13eTVtdFBMV2lvZ09fMlpYT0lkeFhZZW9uNzFsVHlnVlRvVUc0LUk0cFlKOGJ6Tl9DOGozZ01FeHQ2STFEY01DdjluV0tReEJHcmFFVV9yMkE0VzlHWWpMQzJacC1IWjhXUFJMUy1ITQ?oc=5",
+      "source": "中国经济网",
+      "source_score": 40,
+      "published_at": "2026-09-23T08:16:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中美关系这艘“大船”如何行稳致远？重温习近平主席讲话金句    中国经济网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "中国经济网"
+      ],
+      "all_titles": {
+        "zh": "中美关系这艘“大船”如何行稳致远？重温习近平主席讲话金句"
+      }
+    },
+    {
+      "title_original": "تايوان تراقب بحذر لقاء ترامب والزعيم الصيني.. لماذا؟",
+      "title_zh": "تايوان تراقب بحذر لقاء ترامب والزعيم الصيني.. لماذا؟",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcFdaNTZLUjJCdHhRM2VhUER1NXJMbW9uUFFqdndCcEFYNV92WDhMQXlXTjZLTEFBTE1OOWRycHJLcC1iMVlHSFJaOFZaeC1TeTl2dUJ4RUVsSG1RN2d6WTl5TWVKN2pJY1hjY2djSmFLWlh2alRjdWpTNk1pME96V3A2REdUdHNRazlsMFBTTkdKR2ZCTjg3QVFNZW1LcDBwQjhr?oc=5",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-09-23T07:45:34+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "تايوان تراقب بحذر لقاء ترامب والزعيم الصيني..",
+        "لماذا؟    CNN Arabic",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "تايوان تراقب بحذر لقاء ترامب والزعيم الصيني.. لماذا؟"
+      }
+    },
+    {
+      "title_original": "格雷厄姆·艾利森：中美关系显现稳定迹象，但竞争仍将持续",
+      "title_zh": "格雷厄姆·艾利森：中美关系显现稳定迹象，但竞争仍将持续",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zLUlnT0xoS2JCSlZWWHRQR09yN0ZsMEtCRDZSVTQ3OGpLVmRaQjlsb2VUR01fTkJMLWlLSWIzOEFpVEJPZWhxa3ZVc01FTlp0MVdwS1JCNzZnLVpUZ0lRQ1J3?oc=5",
+      "source": "财新",
+      "source_score": 75,
+      "published_at": "2026-09-23T07:18:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "格雷厄姆·艾利森：中美关系显现稳定迹象，但竞争仍将持续    财新",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "财新"
+      ],
+      "all_titles": {
+        "zh": "格雷厄姆·艾利森：中美关系显现稳定迹象，但竞争仍将持续"
+      }
+    },
+    {
+      "title_original": "\"علي بابا\" توسع مراكز بياناتها للذكاء الاصطناعي إلى أوروبا والشرق الأوسط",
+      "title_zh": "\"علي بابا\" توسع مراكز بياناتها للذكاء الاصطناعي إلى أوروبا والشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxPQlRDQ3ZaME5OUzNmLXVpdl9XZWhzXzB6emVsTnJMUTF1TURIeEtvMldsUTVxajBsQ1NlcVpLQnczSncwaWdQdXFlV1RkQXQzemlOWjdWcU0ydFdlbXRVd1FxdmY2WHZmcE92ZjNXX0pqalpNOUxwTjFyalp6WjhNSFg4QmQtS3hmSWNEUzZFdTBlNEZaSXlqcmtGdHdrQllSRW50bWcyZXJmMTRqVVlmUU1wRjhiRlU1UEg4Vy16eWVKbFZGVkpINEtkNUducEZaYjl0RXVOcmpiOGtmX3Y3X3hyYnl2LVZFUDhra3dEa3JvN3UwMTRwaFZzeFVxd0ZGYWRadHY5NF9UWTFTZ0owTlM0VUVQeDRNN1EzZlVoVEZWQTFrWW1aNEpFQVdSUDFxSFUxOE55VE8yWHlZVTdPcGprMnpoMXB0QU5XVWZOb0FtcXo5Y2UzaGxYVE13Vkl3N2lOYTVGYm82RGxmWnQ5Q1ZlaXpjcWdEOS1GbGU1bEtMTXQ5NUs5aHA1Ukd0YnVoazF5M0ZSQ2ZwOWo3V1dVTXdyck5faEM0bl9RTC0wT3ZGclFfWGpaTmdzQ21iZm9SRndyeEZTNGtlbzZ6ZTVsQ090MmN2eURyQThB?oc=5",
+      "source": "الشرق بلومبرغ",
+      "source_score": 40,
+      "published_at": "2026-09-23T07:08:01+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "\"علي بابا\" توسع مراكز بياناتها للذكاء الاصطناعي إلى أوروبا والشرق الأوسط    الشرق بلومبرغ",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "الشرق بلومبرغ"
+      ],
+      "all_titles": {
+        "ar": "\"علي بابا\" توسع مراكز بياناتها للذكاء الاصطناعي إلى أوروبا والشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "NATO Secretary General visits the United States of America",
+      "title_zh": "NATO Secretary General visits the United States of America",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0gzaTdvblJHNDVyNC1PVVFtclFtNVJVYlh4MVh3Z21TWFZ2NC02dnBSRUJqU1Jrb1NoU0hmM1I3eXNyaDBjMVRhWm5zQi0weUNkUVBzcGZ1S1M5ZzRTZjUzNjVBc0pIeEUyRlFZclIwbmRRT0tSZ2dOQUZfM213NjJZRU5ZSk45MXZxMFJpMU10dEtWekZEc1U4R2cxbHJOb29MTzBRVHhOZEl0V3R2V09WbFljcjMwU2Vhb2hRUQ?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-09-23T06:47:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "NATO Secretary General visits the United States of America    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO Secretary General visits the United States of America"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Wolodymyr Selenskyj bietet begrenzte Waffenruhe für Energieanlagen an",
+      "title_zh": "Ukraine-Krieg: Wolodymyr Selenskyj bietet begrenzte Waffenruhe für Energieanlagen an",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPblZXMlVURXFNUERUOTJBTVF2bnNQajFQQUZfSnhqQlZSeGEwWjU4RU5SeWFESENMLWFFcDZTQXlFeDJRazU3WXo3d0t5QU5RMzlJS3lpZzBDZHVHbDhDc0FZb29fVnprVTlQdVhxRFNOcy1VVF9yMklxOV9va2lpVklXRlZIX2p0UFBtZXZwLXRkcGhTTlJsb3l0NGg4elZxODU5ZVBubXRYUm8tYWNINThYT0txTExmR0FDcmtyQnJQUHBmMWlFaWltd29VNzlkdDFPSVRRcw?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-23T06:26:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Wolodymyr Selenskyj bietet begrenzte Waffenruhe für Energieanlagen an    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Wolodymyr Selenskyj bietet begrenzte Waffenruhe für Energieanlagen an"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月23日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（9月23日の動き）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ia3hBbnlseTJUQTFFVGZHVWR0NGVXdlFsRlhPQUw5bjg4NDZQWk1xc3hzZF9CTGJ3UlNYVjhsUkNfWWhFbXVWMl93NWtMdU9kZVhLYXJtc1VIbEd2UjN3?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-23T06:13:48+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（9月23日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（9月23日の動き）"
+      }
+    },
+    {
+      "title_original": "إي.كيو.تي السويدية تطلق منصة في الشرق الأوسط وتفتح مكتبا بأبوظبي",
+      "title_zh": "إي.كيو.تي السويدية تطلق منصة في الشرق الأوسط وتفتح مكتبا بأبوظبي",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpN0ZBZ01YeDhWNmozVU5Ba0lfZnRneU0yM0lOVGtIXzBIR3ZBallsUDBBV1M5dnVJM0kteVZ0V1lacFhNc2xscDdGZTFqNndCM19WbWlKQUFHbENGUTZfNld4dVlrOFVCTXlqcG9aYm1uT3VualZyZ3ZJelVNcDg?oc=5",
+      "source": "reuters.com",
+      "source_score": 95,
+      "published_at": "2026-09-23T06:05:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "إي.كيو.تي السويدية تطلق منصة في الشرق الأوسط وتفتح مكتبا بأبوظبي    reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "reuters.com"
+      ],
+      "all_titles": {
+        "ar": "إي.كيو.تي السويدية تطلق منصة في الشرق الأوسط وتفتح مكتبا بأبوظبي"
+      }
+    },
+    {
+      "title_original": "Estados Unidos empuja a Europa a rearmarse, tras 80 años de paz",
+      "title_zh": "Estados Unidos empuja a Europa a rearmarse, tras 80 años de paz",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeW1JZ3N1VlExQ1VLUUU4dUp1UDFLbFFjVF9BZFBzbjgzVWgxYXl4WUxCRmY5VmpldG9qZTJHN1RySTlnLUp3UG9wcmpYY2VVdkhrUlczamxlNUJIT0ZGTkZYbmRVcVlQWmdjNmRzRldkUTBoUWl5VjJpTUVweUZ6Z194Tmd4elZDNDdlVVBpclRzWUtFNkdGcVozSzU2ZnA5V29UN0p3ZFI0MkVH?oc=5",
+      "source": "RTVE.es",
+      "source_score": 55,
+      "published_at": "2026-09-23T05:15:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Estados Unidos empuja a Europa a rearmarse, tras 80 años de paz    RTVE.es",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "RTVE.es"
+      ],
+      "all_titles": {
+        "es": "Estados Unidos empuja a Europa a rearmarse, tras 80 años de paz"
+      }
+    },
+    {
+      "title_original": "Reports of violence against women in Gaza surge, UN agency finds",
+      "title_zh": "Reports of violence against women in Gaza surge, UN agency finds",
+      "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-23T05:02:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Reports of violence against women in Gaza surge, UN agency finds\n- Published\nThere has been a sharp rise in reports of violence against women and girls in the Gaza Strip, including early and forced marriage, according to a series of recent reports from the UN Population Fund (UNFPA).",
+        "One report, which analyses data collected by 10 organisations, says, external the protracted crisis in war-torn Gaza has \"created conditions in which women and girls face escalating risks of gender-based violence\".",
+        "It also warns that there has been a \"severe escalation\" in the number of early and forced marriage incidents in the second quarter of this year."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Reports of violence against women in Gaza surge, UN agency finds"
+      }
+    },
+    {
+      "title_original": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
+      "title_zh": "More than 170,000 respiratory cases recorded in haze-choked Indonesia",
+      "url": "https://www.bbc.co.uk/news/articles/cq62j13gnyrko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-23T04:20:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "More than 170,000 respiratory cases recorded in haze-choked Indonesia\n- Published\nSome 175,000 people in Indonesia have suffered from respiratory illness since August, its health ministry said, as it continues to battle wildfires that have raged for weeks.",
+        "More than 40,000 cases – which range from coughs to bronchitis and more serious conditions like pneumonia – involve toddlers.",
+        "Forest fires have blanketed parts of the country as well as neighbouring Malaysia and Singapore in toxic smog, pushing air quality indices into \"unhealthy\" territory."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "More than 170,000 respiratory cases recorded in haze-choked Indonesia"
+      }
+    },
+    {
+      "title_original": "Neuer Verein schlägt Brücke zwischen Dresden und Taiwan",
+      "title_zh": "Neuer Verein schlägt Brücke zwischen Dresden und Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLTJobTc4U25RM3VIa3lqYnlEYWxMT19pbzFGZlE5OU43ZEMzemtyTG5xR1BxRUxoSTBQM05wWDVsbzZaSWlUcGNpQVFCbmdqUkVFRTl1X1VyTDVnWGJXNm9qMUdWenp2Uml6bUk1QU16WWxQN25mVWtBbkMyS3AzWW9zR1lzdkF6bGQ1QWxUMVlxV1JsTjJ4VlBtX3dSSmVaZXY0?oc=5",
+      "source": "Radio Dresden",
+      "source_score": 40,
+      "published_at": "2026-09-23T04:11:04+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Neuer Verein schlägt Brücke zwischen Dresden und Taiwan    Radio Dresden",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Radio Dresden"
+      ],
+      "all_titles": {
+        "de": "Neuer Verein schlägt Brücke zwischen Dresden und Taiwan"
+      }
+    },
+    {
+      "title_original": "La OTAN da un giro a su defensa aérea: así funcionará su nuevo escudo \"360 grados\"",
+      "title_zh": "La OTAN da un giro a su defensa aérea: así funcionará su nuevo escudo \"360 grados\"",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUXBhN3YyM2JWc0Y0ODlKS1VNLXR4VXFFRDRGRklxUFMxMU5WTWItNnIzem1ramM4bnF5WmhvY3RuWGw3WDMzTV9Ubm92amNTTmx2bUllQWpmQUZGRDdtSDkxVXhvZmthLVVuWW55VUthdURkWXBxaENFUWpjTHY3bnRvMDY5VzZTMDBuTVNmemhlWl9YYkRSUUgxX0NYMGhXeTYxVmdQQ2dmMnV2RDZnb0tpblhXejZrcGYxV2xaQ3dhbE8wTGs5Wkp0V3k5akpJUlIw0gHnAUFVX3lxTFBSd3ctR3VOZ2xuYUVQM1FYSnZoQjIxNVdQTUY5NEpsMTZZcE9GUzFiLWNSYjRrMldQTURDZ0JEWTl4UE1uTThUbXNHTzFRNjNuSFl2WGJFdHlZbnh2b3YzLXdPNjJZVnIzSGpFTUtwVFF5Y1pHb0s0QmVjckVfS2R3VlFMcTdRdVgteWp2ZjhqdWtmVFIzWTNaNlZZNS1CczktR2FBTkNsbGQ0VWhHbGQ5RDZHQU9XOFBTVGVlcnJCeDdzbGgwQ2ZtQmY4YWVvVloyRm5nN1p1NlA2ZVhfT2NQbU1TRUREWQ?oc=5",
+      "source": "La Razón",
+      "source_score": 40,
+      "published_at": "2026-09-23T04:10:13+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La OTAN da un giro a su defensa aérea: así funcionará su nuevo escudo \"360 grados\"    La Razón",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "La Razón"
+      ],
+      "all_titles": {
+        "es": "La OTAN da un giro a su defensa aérea: así funcionará su nuevo escudo \"360 grados\""
+      }
+    },
     {
       "title_original": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
       "title_zh": "Jamaica hails King’s decision to refer slavery reparations petition to privy council as ‘really big deal’",
