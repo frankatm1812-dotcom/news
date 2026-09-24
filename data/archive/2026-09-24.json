@@ -1,8 +1,883 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T01:20:57.485434+00:00",
-  "count": 35,
+  "generated_at": "2026-09-24T15:49:46.270789+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月25日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（9月25日の動き）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UQXVjS0hkT2NsNGl2NFNvaVZOdER5WUVxa2lmR1diWlJVN1hWYnl2aWZlSUh0Ymp3a2YzcWR0bEZVOFpsM0JVZUg1dU1YZmtHRmY2RDNvN1FjcEk4NkZj?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-24T15:45:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（9月25日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（9月25日の動き）"
+      }
+    },
+    {
+      "title_original": "Denmark Warns of Rising Risk of Russian Attack on a NATO State",
+      "title_zh": "Denmark Warns of Rising Risk of Russian Attack on a NATO State",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkVnX09pSEVic3ZyNWtQRi1hMDBlRkNtRDJpNDdSanQ5NlRDN3B4RkQ3akdvS0F6OUNBSW1CNHRhVm9sbXhSbnhFby1tQWxGc3JGdlh4X0VIVHUxUWx1WUNLc19HMW4yb014d1E1VHJZY2d4Qnd0cGk0c2x6ZWQ4R21oaEVJb1BtVzkteXZkYzE0WnAtTVdOYW1UTXdaWC00Wl9lSS1Ld3RycmJOaVlTZV8wQQ?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-24T15:01:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Denmark Warns of Rising Risk of Russian Attack on a NATO State    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Denmark Warns of Rising Risk of Russian Attack on a NATO State"
+      }
+    },
+    {
+      "title_original": "德语媒体：暗流涌动的中美关系",
+      "title_zh": "德语媒体：暗流涌动的中美关系",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVkk5ajRGNFp6dmljb2ZpUDNwbFhoU1lucGRqSVlfazRxYkFkVG84VjJwOTdQdE85aEdpRHZ4RDVSLWJjVUJ6RVlvTFc1X1k2UUM3RTVzR1dGMGF1eThjcUltdTlEVExnV0FjYmo5eVE3T2x3cTlaNlNHeUtUZW9Tb25BNk9iS1NLcU9yN3Z6YU1uV3RPYXR0aGdKcHdtREJOVms4ZlZXX2dDdTBMSkp2VVcxemVQcVJFS1ZOSi1sZWhRTG9xMFRLc3Y5MllDWEVQUnZKa2JrNVpvaUhoRmVZWmxQTkLSAeQBQVVfeXFMUFZyVkRRZnZpYUZzODZ5bVdhNjhxNVlPWmpabm9kNGhZdEpqWFZqS1p1NnFGTnY1TERpUkdYOTFfLUd0cldFT2dTN0lCU3ZpdnlwRWliVXFXVThMczB5cXJ4ak1sQ0dNWkJYYVJUQ21rVXdwMWtxMEtwWjZCWktTYTlBaVdSeVFmazdIbTlCMW8tZ19FemVoZ1JJMGtPSWxZa2dMNWREa3FXNXcwSmVjTlpJaURmOUtYLXNJY1lCdW9KeXVhTm9iZXF6bndPSnB4cHVLMmpHX2JYV3N1YlFud19iUkRM?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-24T14:45:43+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德语媒体：暗流涌动的中美关系    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "zh": "德语媒体：暗流涌动的中美关系"
+      }
+    },
+    {
+      "title_original": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "title_zh": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-24T14:37:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "105-year-old investigated for crimes at Nazi PoW camp in Germany\n- Published\nGerman prosecutors are investigating a man aged 105 over allegations that he was an accessory to multiple counts of murder at a Nazi prisoner of war camp in World War Two.",
+        "The suspect is alleged to have been a camp guard at Stalag 326 VI K in Senne in northwestern Germany.",
+        "A similar case had also been under way involving a second former camp guard at Senne, Dortmund public prosecutor Sonja Frodermann said in a statement."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "105-year-old investigated for crimes at Nazi PoW camp in Germany"
+      }
+    },
+    {
+      "title_original": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "title_zh": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-24T14:08:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+        "- Published\nAn OpenAI agent has gone \"rogue\" and \"infiltrated\" an Australian government website in what cyber-security experts are calling the first hack of its kind.",
+        "But why did it take the government months to discover what happened - and could it happen again?"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?"
+      }
+    },
+    {
+      "title_original": "US to provide critical but more limited capabilities to NATO, top commander says",
+      "title_zh": "US to provide critical but more limited capabilities to NATO, top commander says",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWhWb1lNVDhBc3dVd29qUy1mQmJUZktsZUVVMFlCZ2t6TExRVnhhanRBS0FXYVJUODc5Y29faVdKWlpuWFV0NkYwUFRHV0FVWlYtT2xOSFlsY2dZSERaWVhKZ1NBOGJNSmJJek1GeWg2R1d2eEdOd1V0N3hFSWIzNTlZc0wxeFBQUUpGSkNlOE1TLUtGMkZidmxWUVljdzhlU1B5amFQNzVVQ3Zyb0hEaQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-24T13:38:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "US to provide critical but more limited capabilities to NATO, top commander says    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "US to provide critical but more limited capabilities to NATO, top commander says"
+      }
+    },
+    {
+      "title_original": "Moldovan Premier Says His Country Has No Plans to Join NATO",
+      "title_zh": "Moldovan Premier Says His Country Has No Plans to Join NATO",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGp6dTY1bk85R2lybG5PeVNIVHVpSE5KMmFIX3dONk1SMGRLR1dNbFFSSXNwR1Z5XzlEZklpYUpNb2JCR3ZESW9NeUo4VG9xQzR2MWtUTXNnWDlER2JrZEtnZkVBQmVKV2hNbmpBMFpmX1M1MWxoT1Z6cThTemd5TlZGeXE5V0R3dnNJcmJBemNBWjlUeEE1S1hfa0ZZN2xrNHBwVmEyUkw2bEMzbmNR?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-24T13:26:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Moldovan Premier Says His Country Has No Plans to Join NATO    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Moldovan Premier Says His Country Has No Plans to Join NATO"
+      }
+    },
+    {
+      "title_original": "Dinamarca alerta de un posible ataque ruso contra un país de la OTAN en los próximos meses",
+      "title_zh": "Dinamarca alerta de un posible ataque ruso contra un país de la OTAN en los próximos meses",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3Z4VTdvNEdhS0RLX3hoUFEza0E2MWJhODQyOGhwT2tGNko0dzJvX0hIWG95SHBrYTJCRnNfeXJCdzgweFdiaThZZ0F0czEyWHNNcWE5cDFCMkVfYVpld0Q0N3RDVnozSTgzNGNzUmtDSUthMnZNSFFyT21PZ3pxY1RMNDFtSmNTak44UWpRMFpZS0dZZjRTN3lJcDVKX1JValJJb0hkSTNKbzh2ZDFwcTVYanBUVVRkT3h5aGdoSzBsUFNYblpfOHZhQjBocl9hZlg3YnpB0gHqAUFVX3lxTE5SLUZuTzZqM3FYSTBxWnlGMk1hZld1Z0pMSlEzbV92a0ktMElMUjZ3LWxBUGVXekk0MXBwTkRvQ3JGWTNVVFgzMG51Qm13N1E3ZGRyTjhxNUhPd0E3NGJYaDZDenFkZkVnVFZ3UHhRSzBDTm1KTmpDRk5sOVVGZXBpLTlHOEYyR2Qyc0dRM1JYclJ3VUt5eU9Ya1dKbnZObzRfaWpuN3hDY1lTLWlGV2ZmWVRIMWxDN1RkRkNmWF9zbWJRcEsyMjMwV3k0NEVFRXQ0cHlWanJLTHJJQVljVEJvT0JjTUJrT0RhQQ?oc=5",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-09-24T13:19:16+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Dinamarca alerta de un posible ataque ruso contra un país de la OTAN en los próximos meses    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Dinamarca alerta de un posible ataque ruso contra un país de la OTAN en los próximos meses"
+      }
+    },
+    {
+      "title_original": "من بينها تايوان وإيران.. 4 ملفات ساخنة على طاولة ترامب وشي في واشنطن",
+      "title_zh": "من بينها تايوان وإيران.. 4 ملفات ساخنة على طاولة ترامب وشي في واشنطن",
+      "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxPeFpCYUliRC1fQnloYllUUWd1amV1Zy1jdFlnSkpnak5LbnpkWTF2YTV2WVF4NERBS01SejVCZURFbk9FQVhLRDJQVE5TVWNYWmZyYWlwOHZoX0RXc2tEVlJUZzJud1BpelRQTXJuNldfMHdic3dxRTNqSDMwQmJFLTU0ZElsMXpuNFNtdnM1X2lmM1JpVVp3c05SeE1PNURLOXdiMVZBTTRpazNIQURCY0I5UFNoU21CMUpxaEE5azEzbmlTMWhyY2JwQm9PV3VlZ2VVZ0N1ZmZEc0x1akR3bXpnSFZCTE1Ic2NXZkctZFVkQlpUNFB0REVMZ3E4RXQ3cVM5MUVoOVIxRVR3WWU1UEd5R3FoTER3ekFwd0tsYUtSVm5HdU1VenRDUEY3amQ4V2ZKMFcxQ2pIZFNmTGZsY3ZncVU1ejJ2YjQyOVZRTkxDU2Y0X1Q5ZEtLTHB0TjEtQzNIaVRXOEdQXzZNVm96aUJuX1hEeXpKYmhSNGVpczVxa3ExNzV2TWtxNkVOSFUwQ2IxOGhyNUxIVW10UENxTFZscWF2MHczY0M4MXZwTGxDVlFGSXJYZEF5ZVp4NUE4V2tLV2tCc2lvSWRpclFtZ1BuZi1KUjlYc1A5d1RrdnpvbzVHWE53SGlRNDY3R1NpUEVHd1hrUU5RR2d4T1pRc21WdWtVaXFDVnFUbGNCTlFoNWdX?oc=5",
+      "source": "CNBC عربية",
+      "source_score": 75,
+      "published_at": "2026-09-24T12:18:41+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "من بينها تايوان وإيران..",
+        "4 ملفات ساخنة على طاولة ترامب وشي في واشنطن    CNBC عربية",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "CNBC عربية"
+      ],
+      "all_titles": {
+        "ar": "من بينها تايوان وإيران.. 4 ملفات ساخنة على طاولة ترامب وشي في واشنطن"
+      }
+    },
+    {
+      "title_original": "从习近平四次访美 看中美关系近年的发展脉络",
+      "title_zh": "从习近平四次访美 看中美关系近年的发展脉络",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQa181SDdZWndMRWxCTWkxSG5HZjdMOW5BS1NzZHRzV09wUzRPQXdkOWw1c0RrUlRKMnR5VmlxNGN0b1BYSXp3VW9tYjlvNE5wVmYydmlOVTg5dnVSSXFqRTBRakZUaDJNWjdFLXRMOVpDX0I1RTJEamlPbHlwMnRjR3NnRWpKbU5GM1E5LXhaQkZvZm5lRWxqZzJpZm5QcFFzNUo2Z3Y4dGRMdlJ3VHMyd0RZVjB2aFFVQnl0Z0ZzREJQS0dDMHozVThVRm5vd2VmcDJ6X1kyOXpRU1V0RTlGMS1BbWFMQnBFQUhxeE5vVU8xcDU2aUY0WWxyOHJpSk1DYVJqMDhHNjZxRXR5NnBKNFBwOGxVN2JJaExZNDN4UkxCTHg3c0hzekg0RVVPcUJubTB2ZGFvMk4wUQ?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-24T12:10:14+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "从习近平四次访美 看中美关系近年的发展脉络    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "zh": "从习近平四次访美 看中美关系近年的发展脉络"
+      }
+    },
+    {
+      "title_original": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "title_zh": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-24T11:59:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat\n- Published\nA fire at a Starlink satellite station in central Poland was a deliberate \"act of sabotage\", a government minister has said.",
+        "Polish Deputy Prime Minister Krzysztof Gawkowski said the fire in the Masovian Voivodeship province was \"deliberately designed to disable the station...",
+        "disrupting internet access for various institutions, including the Ukrainian army\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat"
+      }
+    },
+    {
+      "title_original": "Israelisches Tarnsystem für Spezialkräfte eines NATO-Staats",
+      "title_zh": "Israelisches Tarnsystem für Spezialkräfte eines NATO-Staats",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jTWxaRDVrLVVrS1JyZWlzM0UxcmZRQlQyM0NIY1UyUHV4SkNMdjQwNzhmMDhyOER5X09ld19NTzJWUDdZWklCdXpVLUt5R1NUTzZqazI1UWJzREthSDl6ZkF6V0F2UW4tOFYzdjBvWFV1aXZaSGZ0enFDYVptdw?oc=5",
+      "source": "ESUT - Europäische Sicherheit & Technik",
+      "source_score": 40,
+      "published_at": "2026-09-24T11:38:02+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Israelisches Tarnsystem für Spezialkräfte eines NATO-Staats    ESUT - Europäische Sicherheit & Technik",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "ESUT - Europäische Sicherheit & Technik"
+      ],
+      "all_titles": {
+        "de": "Israelisches Tarnsystem für Spezialkräfte eines NATO-Staats"
+      }
+    },
+    {
+      "title_original": "Dinamarca advierte que Rusia intensificará su guerra híbrida contra la OTAN en los próximos meses y no excluye invasiones",
+      "title_zh": "Dinamarca advierte que Rusia intensificará su guerra híbrida contra la OTAN en los próximos meses y no excluye invasiones",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZzg3Tm9La0FmWG8ySk83a1RKXzVOR3l1XzRLQk94TjNvb3UxWVkzUkoyM0Rpa2dLZUllT0FPQTVPeHdUcThfeGoybWlWUzZjRGliUTdVSi05R1ZmNkZKR0txdXViRDlnMEtlcTRDeHFnWmMxQUR5b3o2bDQzbFJpNWVUb0dtV1JoQmtCLTZ3VTY1eUQ3bXlDaXZ6OHlNRXJsdS13N0lmUVRnVGtVM2JuU1JFd3FwV0VneXVQTElTamgwSGZzU3BzMnpJQXNnR0dWZEoxbGVJOUJFRmdlc3Z0NTQtQjdqbDJKX2lfdnVwTFFqLWxLcHFv0gH8AUFVX3lxTE5ONVFTYlJMcDJfdjFaMzVYZDdNc0RkN3FPcEhSUUhRMHhMZXV2VTE0ZHB3cmhldzdDTDFIeWJZME85dXRsdXdTSmVMNnFKRDlNN1lodkVsWmxoOE45QV9VM3lrY0d4ZGlib3pmV1kwbERKMkFTVks4cm1fNzBXMjF1VUNaSnNzMlprY3k2ZzFvTWgwVWhMam9wck5ZZXlrQk5BN3F0SXJFS09QM292Q0lIMXdGZkVlSUw2aWsycGw2UThzdHlRbHh6WE01RmVLSlRSQkxLYXc0S3BOb3Q0d3NKUDE3V3UtUlFDeDFtRGkxNVZUbHBfMWpZNTVfNA?oc=5",
+      "source": "El Español",
+      "source_score": 40,
+      "published_at": "2026-09-24T11:34:05+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Dinamarca advierte que Rusia intensificará su guerra híbrida contra la OTAN en los próximos meses y no excluye invasiones    El Español",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "El Español"
+      ],
+      "all_titles": {
+        "es": "Dinamarca advierte que Rusia intensificará su guerra híbrida contra la OTAN en los próximos meses y no excluye invasiones"
+      }
+    },
+    {
+      "title_original": "Trump verliert die Geduld mit Putin: Russland steht bei UN-Debatte mit dem Rücken zur Wand",
+      "title_zh": "Trump verliert die Geduld mit Putin: Russland steht bei UN-Debatte mit dem Rücken zur Wand",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT0t6dUltRVNJeGZjTGw0NDZuaE5FaWNsSGdyalNxX2RKbUM1TzFHU2ZEaG5rSlJfNVdCUGVXbUtUcXpBMEJjX0hBa0dsYU9XaVJzSjJseFB5U043cHNCeU5tZE9ZMUhnUk4tT0toWlJzRmxZeldKWXpoZV9mRmdhMk1iOWdKS29hS3ZlSGpXQjlEdWFyVFdrb2pTVzFNeU9CMGc5WVFaRVFkY2M4VjhHb1VURmpYb1ExcmhJU0Z3MlRhbGpXcHVHMHY0UF9BOHFxU3BlM2wzNTAwbUNtdWNsT3ZKQ1k5MUU2SkE?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-09-24T11:30:50+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Trump verliert die Geduld mit Putin: Russland steht bei UN-Debatte mit dem Rücken zur Wand    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Trump verliert die Geduld mit Putin: Russland steht bei UN-Debatte mit dem Rücken zur Wand"
+      }
+    },
+    {
+      "title_original": "Denmark says Russian invasion of NATO country 'highly unlikely' but cannot be ruled out",
+      "title_zh": "Denmark says Russian invasion of NATO country 'highly unlikely' but cannot be ruled out",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSXQta0xqODNLOGNQczVJOUJjSUZQUGNJNVVuWWRKa1FaOGJlWHladE9WdGJIeGJnc3NHQVhWeXlzQnFKR1RKMndwbURGODV6ZEE0RGZoWFZrN0x5ck5tOEZISXFuQnBlemZDeFZoM2hBSGlQeFRWNjdZRGl5ZXlTLVA2a3c1WGllcjQ3UUlKNXhuYi1QdFFiUkhJaVhJOUttblEyYnpHOXZHOFVjdXl2SmNOT1ZCVDliX2tEeEFR?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-24T10:48:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Denmark says Russian invasion of NATO country 'highly unlikely' but cannot be ruled out    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "en": "Denmark says Russian invasion of NATO country 'highly unlikely' but cannot be ruled out"
+      }
+    },
+    {
+      "title_original": "ロシア軍がウクライナ攻撃、8人死亡 病院や農場も被害",
+      "title_zh": "ロシア軍がウクライナ攻撃、8人死亡 病院や農場も被害",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNFI0YmMyVEdIbm0zSmI4ZTZhTjR3MUdRcGZhbENpVUpSYVY3QUVTRVo5YkxJQ0VCREJMZTFhTHNjQVhmQzhWRVdUcWtuVHBNRzhUTFpQZnRkRmJLMV8yYURPYWNxS0FPckp6ZUowWWJTVFNTQjVXcE9ZV1RJTWE2TWV5WDNnQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-24T10:02:13+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア軍がウクライナ攻撃、8人死亡 病院や農場も被害    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍がウクライナ攻撃、8人死亡 病院や農場も被害"
+      }
+    },
+    {
+      "title_original": "الصين تدعو أمريكا إلى \"الحذر الشديد\" بشأن بيع الأسلحة لتايوان",
+      "title_zh": "الصين تدعو أمريكا إلى \"الحذر الشديد\" بشأن بيع الأسلحة لتايوان",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sT09sLXBSOWxoRUdILXBSNm9FTFh3ZEp0MGhQdm43bU5wN0FzdXgzNGJGNGVpcmlQdjd2OWtPcTlSdU92a0FMX3BaSUhsR0VnV2dMNG5VOHpaU0xnMlh0bjJ4dWp2RnZDekxQUDN5eDFCM3owbXZ5bEtBZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-24T09:51:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الصين تدعو أمريكا إلى \"الحذر الشديد\" بشأن بيع الأسلحة لتايوان    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الصين تدعو أمريكا إلى \"الحذر الشديد\" بشأن بيع الأسلحة لتايوان"
+      }
+    },
+    {
+      "title_original": "L'Iran menace d'étendre le conflit au Moyen-Orient \"jusqu'à l'océan Indien\" en cas de nouvelles attaques américaines",
+      "title_zh": "L'Iran menace d'étendre le conflit au Moyen-Orient \"jusqu'à l'océan Indien\" en cas de nouvelles attaques américaines",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQN1ktX2J0Qm5WRy1uV18xTURWRnFxQ0JBcXNyeGlWZlVjbTV3cmVGdVd3eHE1TlhuclNCUC1zT1Ffa3BuY0N6endXaU5jVjFOb1JqYklteVJZYUxmdVExb3J2LUFMc2NqV3RPSXlUcElYbFJ0aEE0Z1AtYzZTYXZZbEQybE03OEtaU0NBWHNkc3YwWU5YZHlWWGFrNjdmc24wRkttYkNjTnc4NGkyVkNyeWhDd2tlQV9ZQUE4ZGUxRGRQLVlpMHMwN3ZGT1VrSFRlV0sxaHZ6SU92YjFHLWVuZThUTzFvQVBNSXhUVmcxN1V5cjNZMTFXYmZtUjBWdktXOWRIUVduaXQ2bFU?oc=5",
+      "source": "franceinfo",
+      "source_score": 40,
+      "published_at": "2026-09-24T09:48:34+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "L'Iran menace d'étendre le conflit au Moyen-Orient \"jusqu'à l'océan Indien\" en cas de nouvelles attaques américaines    franceinfo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "franceinfo"
+      ],
+      "all_titles": {
+        "fr": "L'Iran menace d'étendre le conflit au Moyen-Orient \"jusqu'à l'océan Indien\" en cas de nouvelles attaques américaines"
+      }
+    },
+    {
+      "title_original": "Face aux activités chinoises, Taïwan muscle sa présence maritime autour des Pratas.",
+      "title_zh": "Face aux activités chinoises, Taïwan muscle sa présence maritime autour des Pratas.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUVRJVnE2bUg2VEVVRTJ5YW01SENadjNyam80LVRrYU5obTVuOXRoU2MxM0U0S0VtX0llaF9BMG5OUnotXzI4S0x6NGxyMTZOcW1RM0ZaZ29VOFJfdG52RHljRlZWZThnYTdYemRwY1VMTmcyaktNOVJGc2x6ZXNXWXh4b255VldGUGFaVXE0cVVMQU01YVNiN2lSZHB0YzZXYjhncHVfclNDZXY1dXc?oc=5",
+      "source": "Theatrum Belli",
+      "source_score": 40,
+      "published_at": "2026-09-24T09:39:10+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Face aux activités chinoises, Taïwan muscle sa présence maritime autour des Pratas.",
+        "Theatrum Belli",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Theatrum Belli"
+      ],
+      "all_titles": {
+        "fr": "Face aux activités chinoises, Taïwan muscle sa présence maritime autour des Pratas."
+      }
+    },
+    {
+      "title_original": "As Russia Steps Up Shadow War, Europeans Waver on How to Respond",
+      "title_zh": "As Russia Steps Up Shadow War, Europeans Waver on How to Respond",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVHB1cnRueGNTU1pPYUJFdm8zMDcwZ0pMZDRuVGhrZkZNYXA1Z0dBRzhlQk9FX0JsWU1yR3g0YkUwa094NWozVnA3NGRkVk1QY2p4RTBjajMyTDhSSEpESlIwLWZ6YjJkSTBRMDh3QktSWm1RUElGWnNpbW5vTkRJZS03TWh4SjVHREllc29hVQ?oc=5",
+      "source": "The New York Times",
+      "source_score": 95,
+      "published_at": "2026-09-24T09:02:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "As Russia Steps Up Shadow War, Europeans Waver on How to Respond    The New York Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The New York Times"
+      ],
+      "all_titles": {
+        "en": "As Russia Steps Up Shadow War, Europeans Waver on How to Respond"
+      }
+    },
+    {
+      "title_original": "Alarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket",
+      "title_zh": "Alarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket",
+      "url": "https://www.theguardian.com/business/2026/sep/24/eu-sales-chinese-hybrid-cars-rocket",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-24T08:34:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Explosive growth in imported vehicles omitted from EV tariffs fuels concern for future of European carmakers EU imports three times more from China than bloc exports there Business news – live updates Sales of Chinese hybrid cars have rocketed in the EU in the past four and a half years, data shows, underlining growing concerns in Brussels over the future of the European car industry.",
+        "In 2022, just 659 Chinese-made fully hybrid cars (vehicles in which the petrol or diesel engine charge the motor and battery) were sold in the EU.",
+        "However, after Brussels imposed anti-subsidy tariffs on fully electric cars from China in 2024, sales of hybrids have shot up to 160,662 in the first seven months of this year."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Alarm bells sound in Brussels as EU sales of Chinese hybrid cars rocket"
+      }
+    },
+    {
+      "title_original": "Why India's Election Commission is in the eye of a storm - again",
+      "title_zh": "Why India's Election Commission is in the eye of a storm - again",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-24T08:26:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Why India's Election Commission is in the eye of a storm - again\n- Published\nIndia's Election Commission (ECI) is facing yet another crisis of credibility after a series of fresh allegations of irregularities against its chief.",
+        "One of the most trusted public institutions in the world's largest democracy, the three-member commission is headed by the Chief Election Commissioner (CEC) Gyanesh Kumar and includes Sukhbir Singh Sandhu and Vivek Joshi as commissioners.",
+        "The latest row broke out after a report in the Indian Express newspaper, external said that in the past few months, CEC Kumar had been repeatedly questioned by his two colleagues over the integrity of the voter database, changes to the way new voters are enrolled and the security of the electoral rolls itself."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Why India's Election Commission is in the eye of a storm - again"
+      }
+    },
+    {
+      "title_original": "أسهم أوروبا تتراجع بفعل التوتر في الشرق الأوسط وقبل محادثات ترامب وشي",
+      "title_zh": "أسهم أوروبا تتراجع بفعل التوتر في الشرق الأوسط وقبل محادثات ترامب وشي",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PNjF1MUpnWHl1NHA3M2ZveV9uNjIzZGdPV1I2dWZBa0tZeXM2UUxucGpLVkViRzRnVnQ5MlpRXy11a1paTzdfRUFOZGJyVTVRa2dzeFBDMlVQcVJfMU0tSHc1cktQbS00LXlUZ2NHcmV2Q25DTFdiRTNXNi0tWmM?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-24T08:17:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "أسهم أوروبا تتراجع بفعل التوتر في الشرق الأوسط وقبل محادثات ترامب وشي    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "أسهم أوروبا تتراجع بفعل التوتر في الشرق الأوسط وقبل محادثات ترامب وشي"
+      }
+    },
+    {
+      "title_original": "تراجع الأسهم الأوروبية مع استمرار التوترات في الشرق الأوسط",
+      "title_zh": "تراجع الأسهم الأوروبية مع استمرار التوترات في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPRVdKMmJPS2pJX1MtSVVpempPQTFiOGhXN1lKVFJyS2JjTHNrMkp6ZzdvT3hRQWhQSjJ3X3Z4dktrRkJnc2tEck1pWkxVRUV2VHY5MXh0d0U3bFIxclJnMGl3Ql9XQUsxbXBrWFVTZDFibEVmanVCX0Z0c3NnaUtRNTF0bllxanBWZ29SSlpFM1JkYV9tcXpKRm9pUEQ1bnhkVUFQbjh1djRabEVHZm1XOGloNVQ1R2k4dklxS1RHaUJZajlQRF9OTFhUblgtQ3hXTGw5cEhUVTBSQ0QxWGxaRXFHbGhObGoteDZSRzVBcDJLTmxCUVBJZ1RPNGxoZEZROUF0LTRUS2d5TjNhYmVfa2hoX1plc2lHOWFfSmJzMEJwRzFUNlBUREpaUjNsS0JEMm93ak82RVdXS0t6OUE0dXFBY0ptNXV6WkRJeWlHUjEtLWRiWFRQMVFUTXRWZU9UckZDTGJhbTVmU1gtWUx3NDN6TTZVbmNnWFNEaUh1VjZMQ24wTENyalEtYVluZElwLU9JS0RBRWw4M2phQjRYUUhmTUNCVlhDbXlvTXZZYkptMWhUMlpRemQwUk0yTF9QVzA4YXJUdkM5LTFKM21oS056UklUX19HbW5KNXZqcDJvc0NBY0xTQmd5ZXhpQnF6cFg2Sw?oc=5",
+      "source": "CNBC عربية",
+      "source_score": 75,
+      "published_at": "2026-09-24T07:44:04+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "تراجع الأسهم الأوروبية مع استمرار التوترات في الشرق الأوسط    CNBC عربية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "CNBC عربية"
+      ],
+      "all_titles": {
+        "ar": "تراجع الأسهم الأوروبية مع استمرار التوترات في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "هاميلتون يطالب بختام الموسم في الشرق الأوسط رغم الغموض.. \"أحب الذهاب إلى هناك\" ويكشف موقفه من إيمولا في ديسمبر",
+      "title_zh": "هاميلتون يطالب بختام الموسم في الشرق الأوسط رغم الغموض.. \"أحب الذهاب إلى هناك\" ويكشف موقفه من إيمولا في ديسمبر",
+      "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOeFNCczhSc28yczNoWERRYWFOcWpUMWRxLVZBSnphMUx3NTdTUTMwVXhDYWJzZko0M2RoYjhMMmJsdUFqV2JvTk5QM1FIWXdkU01MS3BFb2xtdkNiYWxaRHE5ZnpzSHlCYXFieTkyazJtM3RtMnlIQlJqbzVVOHUyRnEwbTd2U1ZTb2FuMlgyNnlhX3g1MUc2QU51SEFlTDJmU2otalNIbWJYWDVtYjlzV195Z00xTEFlYlk2dmx3UXRsdkdjaVQyd3J2QUpvQjUySE9vUE5IVTFCdWhpNkZGSElaYkNsajJiRnktY0lVVjQ0UHFFWXM2LVZBZUlmRm1MTTJhTHBYODVZUHZEUDQwbkRFYVJIU05CNmE2b3VLNXpSLVFtdjFYZnNmV3NlR2VWaTlzRlVnNjNVWkVONm1fMEpxcmtSZGdOdjRoZzVnYVpCRV9zdTZvR0dtVTBZWmdrTGhqYXRKSXJHa1hYVFNNSFRjVVBQYmxVQkZTTTBBMUtfRTc3c0VubmxHYUZhOWduay1DbTAyc1cwYWE0aXl1QW02UkVzdFpLU0VfNXNVdWlxUXZtNVNhb3FVMjdqM1lvVUZRYkMxNDFPYlJiWENERzI0b3ZkUTJqVllPUzV1WmxxMDg4cDlqWmpsd3RoNU1MT05kUUJtSmlQdnR2RUJrUm0zTkJod3Y1LU1adlhYanVycEJ6a08zT3g0MTU2SjFCOGRZM1ZodjktZmVhQXFTdU5pXzUxQTg?oc=5",
+      "source": "موتورسبورت.كوم",
+      "source_score": 40,
+      "published_at": "2026-09-24T07:35:02+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "هاميلتون يطالب بختام الموسم في الشرق الأوسط رغم الغموض..",
+        "\"أحب الذهاب إلى هناك\" ويكشف موقفه من إيمولا في ديسمبر    موتورسبورت.كوم",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "موتورسبورت.كوم"
+      ],
+      "all_titles": {
+        "ar": "هاميلتون يطالب بختام الموسم في الشرق الأوسط رغم الغموض.. \"أحب الذهاب إلى هناك\" ويكشف موقفه من إيمولا في ديسمبر"
+      }
+    },
+    {
+      "title_original": "El Gobierno traslada al sector agroalimentario la voluntad de seguir apoyándolo una vez que finalice la vigencia del actual plan de respuesta al conflicto en Oriente Medio",
+      "title_zh": "El Gobierno traslada al sector agroalimentario la voluntad de seguir apoyándolo una vez que finalice la vigencia del actual plan de respuesta al conflicto en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPa3RQalk5akZBZC0xM1lheTZSWGtfYmRqWXhKLXhTZlFyNmVEZWltTkc5Tnl1TV9YN3ZTS3ZJcnJ5dkFrMlRoMmNUREJiYThYVFJpWFJhZWdmMjNPbEc0Vmo5Mk8xenotNEQweGh1Q3FqVE91SldnN1hRRUVZbkg3UjJ5X3RKTTVnMmdRTWcxS3lXWG1iVW9kdnhUQXNxTVJ5TzBkWFlNZGplSzl4V2VUMjFXSHdfNWJfQmhSbmZiNXUzTTlLRkw4NXNoTHc3bkhjUndzclJsNnlNVkF6VWRPMHFucVVtQWI4QlRPN1VuaFhfSWFzU0tfYUhVZmRqZ1lZaVk1Y2tPZTNVUWZCY2VrR0JhQUIybkxwVmZ2b196M0ZyOXBLTzBCalZNblRYYkNhLUNsOGNoWmo1ZTlEQWtWd3pGekJwVUJVMDVBUmY5MHdtZjZwUnNBR0NxWmk0a01DTkhSYVJETzZyd20zbkJlY2FiTUhHdldpakdwb1k2b1BRNEJUUUpQUUozeUZndw?oc=5",
+      "source": "mapa.gob.es",
+      "source_score": 40,
+      "published_at": "2026-09-24T07:33:11+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El Gobierno traslada al sector agroalimentario la voluntad de seguir apoyándolo una vez que finalice la vigencia del actual plan de respuesta al conflicto en Oriente Medio    mapa.gob.es",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "mapa.gob.es"
+      ],
+      "all_titles": {
+        "es": "El Gobierno traslada al sector agroalimentario la voluntad de seguir apoyándolo una vez que finalice la vigencia del actual plan de respuesta al conflicto en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "title_zh": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-24T06:47:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Teen rocker Nene Royal becomes first Thai to win America's Got Talent\n- Published\nNene Royal, a 16-year-old rocker, has been crowned the latest winner of America's Got Talent - making her the first ever Thai winner of the long-running talent show.",
+        "For the show's finals on Tuesday in California, Nene, whose real name is Rattikarn Amloy, performed a rendition of Seven Nation Army by American rock duo The White Stripes.",
+        "Her heavy metal performances trumped nine other finalists, including magician acts, canine performers and even a robot dance crew."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent"
+      }
+    },
+    {
+      "title_original": "„Hätte im Panzer von Südostfinnland bis St. Petersburg fahren können“: General a.D. erklärt Putins NATO-Lüge",
+      "title_zh": "„Hätte im Panzer von Südostfinnland bis St. Petersburg fahren können“: General a.D. erklärt Putins NATO-Lüge",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdWVhc3RYYlFRNU5UQVJkaThBRUVYLV9oaE51U0hlaU5WWURCRGlwTnZodjI1MXotM0RnNExUWklMSlZTbkxmMDgxVVNCN1RtYURETUxMVVRNN1YtZWprZ0k4VXBzTTI3aHN6eTcwSm92ZGdHblE3RTZlSXF1VVBIb0tHeVhXeXd6YlVjYVZaVlB5VVF1OFlMeUh0RFZoREIyZ1ZQb3NFSnRsZmRyM2N3?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-24T05:56:11+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "„Hätte im Panzer von Südostfinnland bis St.",
+        "Petersburg fahren können“: General a.D.",
+        "erklärt Putins NATO-Lüge    Frankfurter Rundschau"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "„Hätte im Panzer von Südostfinnland bis St. Petersburg fahren können“: General a.D. erklärt Putins NATO-Lüge"
+      }
+    },
+    {
+      "title_original": "Trump’s push to acquire Greenland almost broke NATO. The winner of it all may be ... Greenland",
+      "title_zh": "Trump’s push to acquire Greenland almost broke NATO. The winner of it all may be ... Greenland",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEs5ZWdVZEpDclBicnExV3ZsYktma3d4bXY3b3RmT0pqTDk5R0Z3UWlndndNVEVxZ21KX1dmNmJacElHWHItQTktZDRXU1ZydHdITUw3cC1LSzNkY0xQMjJlUkxEM0gzY2J0dWsyQS1HVWQ4TzFoZEVlWG9qOTROWGdPRHVpeVJYNlBlSXJHeW1xalRJTmZWQWw3bFhDbjVxRVlnTExyZw?oc=5",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-09-24T05:52:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Trump’s push to acquire Greenland almost broke NATO.",
+        "The winner of it all may be ...",
+        "Greenland    AP News"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "Trump’s push to acquire Greenland almost broke NATO. The winner of it all may be ... Greenland"
+      }
+    },
+    {
+      "title_original": "La OTAN fortalece su resiliencia ante nuevas amenazas",
+      "title_zh": "La OTAN fortalece su resiliencia ante nuevas amenazas",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSlA5TFJEbkxCejQ1ZC1qN2IzLUVFenNGOHh6WW9BS3VkbE10eEdZemM1VXVuaGQ2R3JqVDFDLWtUaVNSMHVVVVRqQndxUEtZWS1PYUc2dEZHRFBnVXNDaW9wck53V3RSVzlYV19Eb29OZDZ4TnRmOHF6Nkh1WGxzdmhoeUFuY3RDSk5mN3hpQk15a0VRLXZRanplbw?oc=5",
+      "source": "observatorio.cisde.es",
+      "source_score": 40,
+      "published_at": "2026-09-24T05:44:32+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La OTAN fortalece su resiliencia ante nuevas amenazas    observatorio.cisde.es",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "observatorio.cisde.es"
+      ],
+      "all_titles": {
+        "es": "La OTAN fortalece su resiliencia ante nuevas amenazas"
+      }
+    },
+    {
+      "title_original": "„Die Lage hier an der Front ist äußerst unübersichtlich“",
+      "title_zh": "„Die Lage hier an der Front ist äußerst unübersichtlich“",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORW1MLWpqM00zZV85T3RPSkpzdU9BYUdjbmFUZk5fcHYyaEh6TWFjeU9mdldKXzBrSEJzUHZsb3dVSVFGWTRQODZudHlVWnJwd19DLXZpUWdaY0FHR25sc3VZRFhna204YmtVTHhSblJYeGVFMm5RWmphSHNEa1lTVi1qRmtpUXVmWU5tSjQ0ZGZHd2NhQkpHZHFjRm43UlZwZkRqTXgtV0xkMnhHY1huYlhsaTJrTWVJakd4emRfOGdlZGtPZmp2aUp0RmpOc3ZKNHI2ODJQWEY5dw?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-09-24T05:37:08+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "„Die Lage hier an der Front ist äußerst unübersichtlich“    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Die Lage hier an der Front ist äußerst unübersichtlich“"
+      }
+    },
+    {
+      "title_original": "Russischer Angriff mit ballistischen Raketen – Tote und Verletzte in Kyjiw",
+      "title_zh": "Russischer Angriff mit ballistischen Raketen – Tote und Verletzte in Kyjiw",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcnd3MjBkem12dkJ1blZLdzFsaG9LdDZxbkdfaEpvQ3I2TFd0d1pWa1NlREstZnFiaDdOYmx2Z3JndjAzN1RIOGZUSEc5WjZnQU5CLUdFeXc3REc3SjFnT1FNRGt4eVJxeUs3UmdDRi1KNDZqZ2J2UDlDNlhTMG80VDBzVEJLTy1jVHRlOF9rakRFeE8zTDJmblBnYTNQWmJtcXNJOTR0RF9HbnZpeEFwaHo3NHgtVXRyTE9Ca1ZfRTNrdHNVcGJPSTlFZndvUHpwZk9tcjFEZ1djcmNSbEZob0JCSVlUMkxJRXlqZQ?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-24T04:58:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Russischer Angriff mit ballistischen Raketen – Tote und Verletzte in Kyjiw    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Russischer Angriff mit ballistischen Raketen – Tote und Verletzte in Kyjiw"
+      }
+    },
+    {
+      "title_original": "Un estudio explica cómo Rusia podría atacar a un país europeo de la OTAN con drones y agentes infiltrados para “romper la Alianza”",
+      "title_zh": "Un estudio explica cómo Rusia podría atacar a un país europeo de la OTAN con drones y agentes infiltrados para “romper la Alianza”",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdjViZFZfT0FmbktUNXBuaTZ5Zi1ackF4eS1BODVHZGdsM0lTZk00WlZfVFU4VE55ZHdGcG9hZUFKTGQ2d3phemNrd2dpN2N0YmVlWjB2bmRSaEJXeFk0TFNkbWtmckI0Q3lIMjdjMWk5TncxR2o0em1SdWZnM3ZTdHZNVTRKRk5kQ2l1eUZ5aHZCelBkWFFqS1M4V3RDQklZT0NiS204VXQ1MTM5OEVaX25zMTNhSGZhbEptUDhHRzJ6X2pxcVhVQk55ZnhqSW15dlZtR1JwR0ZHLTduSV81TnI1MnNCWlpLNVJtdUw5NG1aX21PcGNNS0xJNUJIeTlx0gGbAkFVX3lxTFBLZDVlb1VQQjhUQ3hWX0F2UFRjQmRkMzZBVHYwY25ZZHJrZjVjWUdQV21LbkdxbW5LMnhYeHZDcnpES2dEaXEtaEtPOTV1OC1feUQzQ2NIYTF3aHB4TGZOa0E3YnBSbnVxUTB2Q3gyMGIzU0lYaEV6WWRTZkFtT2lDb0l0bTk1c2ZZSWwyNVdXMk53dEg4ZkViVVA4UFRuSnJxXzV2QW5mMEMzbDlZODZqczEwUEdQakFPTmFFa1pPNFRfNHNiZ0ZObVJfb3k3Wjg5djYtUHlIc21XLWxHNzZlSHdUcXdQclIxV093aUhnd013ejdjb3EybExFMnVYcTg1QW14eHc2M1RzdGJxT0RUQnp5bkRzU1BKZFk?oc=5",
+      "source": "Infobae",
+      "source_score": 40,
+      "published_at": "2026-09-24T04:42:25+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Un estudio explica cómo Rusia podría atacar a un país europeo de la OTAN con drones y agentes infiltrados para “romper la Alianza”    Infobae",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Infobae"
+      ],
+      "all_titles": {
+        "es": "Un estudio explica cómo Rusia podría atacar a un país europeo de la OTAN con drones y agentes infiltrados para “romper la Alianza”"
+      }
+    },
+    {
+      "title_original": "「危機管理カンファレンス2026秋」で地政学リスク時代のレジリエンス戦略を講演 | 【公式】スペクティ（株式会社Spectee）",
+      "title_zh": "「危機管理カンファレンス2026秋」で地政学リスク時代のレジリエンス戦略を講演 | 【公式】スペクティ（株式会社Spectee）",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mYnNQc0dUU3ZRRFV1dExPVEluT1pJcVYzS0JYMVB0c09kckFhM3p4LTlfVnJfMzdHTF9jaTlmN084VzQ3VXlrRA?oc=5",
+      "source": "スペクティ",
+      "source_score": 40,
+      "published_at": "2026-09-24T04:37:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "「危機管理カンファレンス2026秋」で地政学リスク時代のレジリエンス戦略を講演 | 【公式】スペクティ（株式会社Spectee）    スペクティ",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "スペクティ"
+      ],
+      "all_titles": {
+        "ja": "「危機管理カンファレンス2026秋」で地政学リスク時代のレジリエンス戦略を講演 | 【公式】スペクティ（株式会社Spectee）"
+      }
+    },
+    {
+      "title_original": "POINT DE VUE. Géopolitique : le triomphe de l’irrationalité",
+      "title_zh": "POINT DE VUE. Géopolitique : le triomphe de l’irrationalité",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTjJIc19mdWFnUjFrbThQb2lhVU1FODdEYk1sY0wzbWxHUnNlSkZpM253alZySzhFWG1EV1MzOUNDU28xT0tKVV9RUGY3X2dQcE4zLVQwelRVMGF2bjN5aTJYV1BqVUd1RVdHSDVXa2NvZU5jbHZySGtqYTNiY2U1Rm5jQ2NKbTNVd0hlRUZ6a1EzU3FHWnlyblVrWnAxSU1LSERzMTFEZkJMQ3VjX20ySWlaQnVBaDF1bmF6MWNXWTlMTVdXMzBEalFFYldCS3ZiUmdDMFY0eG40aVhJUnhoZENCd09QVVl5YUVUUg?oc=5",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-09-24T04:30:37+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "POINT DE VUE.",
+        "Géopolitique : le triomphe de l’irrationalité    Ouest-France",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "POINT DE VUE. Géopolitique : le triomphe de l’irrationalité"
+      }
+    },
     {
       "title_original": "欧州閣僚、ロシアの欧州全域での破壊工作やサイバー攻撃に警戒",
       "title_zh": "欧州閣僚、ロシアの欧州全域での破壊工作やサイバー攻撃に警戒",
