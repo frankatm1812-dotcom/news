@@ -1,8 +1,858 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T01:27:42.013094+00:00",
-  "count": 35,
+  "generated_at": "2026-09-25T15:49:20.741195+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "شي: العلاقات الأمريكية الصينية ستكون قائمة على الاستقرار الاستراتيجي",
+      "title_zh": "شي: العلاقات الأمريكية الصينية ستكون قائمة على الاستقرار الاستراتيجي",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VVkRacEc3d2hfOVFuTzlaMF9maEo3MEFSLWdmODBoZG5aREx2Y2V2M09JajZKZDNPaU1WOVdlVHc2M2lWdnc4S2tNak10c2hNcXY2Z1l4bzRuWlBneUtyTDlTRkJrSWlwLUtscEwtQ3VVVU1MVG5obUdMNA?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-25T15:27:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "شي: العلاقات الأمريكية الصينية ستكون قائمة على الاستقرار الاستراتيجي    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "شي: العلاقات الأمريكية الصينية ستكون قائمة على الاستقرار الاستراتيجي"
+      }
+    },
+    {
+      "title_original": "US seeking to revive Russia-Ukraine ceasefire talks",
+      "title_zh": "US seeking to revive Russia-Ukraine ceasefire talks",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYVJXWDBlXzQzd0ttd3BLOUZIR1hUbERsUmFxN2VHd2tVb0tOZTdUM29iNUQycTdaci1ETVVpVnRQbzhqQlpRdWY2NlJ1dGJKSnI2VF9oaDJmMm9KRmYtdlZvWDFCR05uRUZRR3QwdXh3VnE0UVRfTE9ORS1oS01YX2NORERCNW5TYjZ5b09QZzlFeDU4QUxR0gGcAUFVX3lxTE9Vc0NoMzdJWnVxUEw0MTdxeUtZQ2h6d05nclgwN3JnX0owRm5XcjZneXo0R0xjTmI0ckdZYkRlR3ZuZ1Fkc2FWZzhyVTI2MlRxX200T0k1c1FfU0ZVUXcydExtZGRCTV8zOGptd3R6WDJ5X0ozZFY1d1F5MlJOSnFZa3N3Vk5ZMGd6WWxzY2dpQlRxWV8yUFFlY0lZYg?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-25T14:59:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "US seeking to revive Russia-Ukraine ceasefire talks    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "US seeking to revive Russia-Ukraine ceasefire talks"
+      }
+    },
+    {
+      "title_original": "NYダウ反発で始まる、一時200ドル超高 中東情勢の懸念後退で原油安",
+      "title_zh": "NYダウ反発で始まる、一時200ドル超高 中東情勢の懸念後退で原油安",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wZzBwM2RVVVBqUmczS0piVVpYbGw1ZUd0Vjcxc0RuY1NwS1A2LXhKMTYtQVVMSmF0SHpKam5vQWk0NXJfN3pxTEcwZk5feWhFT0JyampOdGh2OGdzSnNIUzRPbkw0eHItaEdmYQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-25T14:39:48+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "NYダウ反発で始まる、一時200ドル超高 中東情勢の懸念後退で原油安    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "NYダウ反発で始まる、一時200ドル超高 中東情勢の懸念後退で原油安"
+      }
+    },
+    {
+      "title_original": "'Lithuanian skies are NATO skies': DW interview with Lithuania's premier Mindaugas Sinkevicius",
+      "title_zh": "'Lithuanian skies are NATO skies': DW interview with Lithuania's premier Mindaugas Sinkevicius",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUVNWlctOUJSdUhnY2xXUVA2R0xKRkphME9uS0JzaHNKcWJrd21ROFhyOXJDd3JJQVBkVnA5ZjI3NzBPanpqNW1iMUNmMlgtLU1jUWt0Z09CMkViY3BvTVd6MFBjd3hIN01LRUdkMlBDTnJieGZHczNTZ2VnYnVHcGFVT2VsYjN2bFZmNVJWbDRMVDFGaEVqRGU2dFUzemt4VFZoTGJZdk5nU0c1T0pRbkI3YmtKTktMSTdCejZHcllfenQ0NzVwajJn0gHKAUFVX3lxTE5CT2NUdzlOSllsUk4xcVNIaVBKUEVoS3pqYmdnSUJHazgxSUhHSHpmeTZIbTF0aDYwTEZVNHdWekxMVkhtbGZFY1QyY3lfT3FBYmlmYTR2cTJNV0pONDVOXzN4TFJKNHRtNk5Jb1l6TlFWSlVJdHlrWERSVVBQRjUyajdIYVJ3MnEwWmdIMDQ5cHZRclAzVFU4MGlmV0tFRk1IMkIzZ3FMem16dEx3eDVfOUJSeUVGMjQ2YU81cEJvVy1KS2hvNUFZTGc?oc=5",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-09-25T14:37:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "'Lithuanian skies are NATO skies': DW interview with Lithuania's premier Mindaugas Sinkevicius    dw.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "en": "'Lithuanian skies are NATO skies': DW interview with Lithuania's premier Mindaugas Sinkevicius"
+      }
+    },
+    {
+      "title_original": "Xi pide a Trump no apoyar independencia de Taiwán",
+      "title_zh": "Xi pide a Trump no apoyar independencia de Taiwán",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNUZIZFpVbTFwQkJWeFR0WWdrdG9nS2J1TlpmdGhhdkNVUkQ2TGV2R3dNQXZYNVJ5QTBMQzVoX3hnY3NHSC1FdUEtdnBpMkQ1MncwVE50ZzlhbU81LUdDQTB0cHpLUUxCTWhmRTJ2REd4WUt1SC1yMnFtVmo4NFVuQ1l1dWM1dU1yQlBkWFhXOTDSAZABQVVfeXFMTi1FU1doYXh5RF9KYjhHWmNlTUNJak1zYlh4aE80cmZpOVUzZVN6dDlITmp6b1E2U3k3QnA1bHhTRXRYcl8xeVVST2t4cnpKU2Z0UE1RWVQ0cUwyaVZqT0NMNEFSTUo1UldUR3JVNHJTR2ZGMDNkdlVUREhUaXdzWkNUdWxLZFhpS2hSR0I2QzZD?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-25T14:26:11+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Xi pide a Trump no apoyar independencia de Taiwán    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Xi pide a Trump no apoyar independencia de Taiwán"
+      }
+    },
+    {
+      "title_original": "Erster gemeinsamer Nato-Einsatz Finnland und Schweden fangen russische Jets über der Ostsee ab",
+      "title_zh": "Erster gemeinsamer Nato-Einsatz Finnland und Schweden fangen russische Jets über der Ostsee ab",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQXzBCbU9WYl8xdVRCMjRnb2NVWm5aWnhELUhQZ3lIVDRIelpHUVFwcnVzdmYyYmY1NW1tMEFjclpxSnltNEJGcnFaY1ZBZkNvcTRDSnFRMUZSTDB3NTZ0WjJrOTd3MjY1ZGRWZXpGSkZQNHhmSl9FV3JPWWVtd2VYeFlMWC1JVEdhU3Y0NTZqVHdYSHZIRFJzd2p3bDNEME1TcXBmeEdpeXFzaFNqUmZ6YXltZDNPa0E5ZFg5MmtzYXU5NmVSb2V0Y2tkaWJOVk5CSWxZcEhRaUxfMTM4N05WaW5PSjdfZjg?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-09-25T13:38:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Erster gemeinsamer Nato-Einsatz Finnland und Schweden fangen russische Jets über der Ostsee ab    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Erster gemeinsamer Nato-Einsatz Finnland und Schweden fangen russische Jets über der Ostsee ab"
+      }
+    },
+    {
+      "title_original": "Man shot during 2024 Trump campaign rally in Butler dies",
+      "title_zh": "Man shot during 2024 Trump campaign rally in Butler dies",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-25T13:23:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Man shot during 2024 Trump campaign rally in Butler dies\n- Published\nOne of the three attendees who was shot at Donald Trump's 2024 presidential campaign rally in Butler, Pennsylvania, has passed away from complications stemming from his injuries, according to the Pennsylvania attorney general.",
+        "Jim Copenhaver, 76, was struck twice when a gunman opened fire from a nearby rooftop.",
+        "Another attendee, Corey Comperatore, was killed in the shooting and Trump's ear was grazed by a bullet."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Man shot during 2024 Trump campaign rally in Butler dies"
+      }
+    },
+    {
+      "title_original": "الكرملين: تركيا قدمت مقترحات حول الملاحة في البحر الأسود",
+      "title_zh": "الكرملين: تركيا قدمت مقترحات حول الملاحة في البحر الأسود",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FZms2SU15MWdkSkZQUjFsYkN3a2EzN3ZsMi1YQTVpbmtyNmlMb19LRW1CMk9zcHRtSDNROXVodjI4UVc0aXpSRGk5RWlYTmsydGY5QmFxQW9ObGQzLTBlUVdvTTJ6MDlxVFhhNkFBVHIzdEl5ZWhCRDlXNmxqNDA?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-25T12:58:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الكرملين: تركيا قدمت مقترحات حول الملاحة في البحر الأسود    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الكرملين: تركيا قدمت مقترحات حول الملاحة في البحر الأسود"
+      }
+    },
+    {
+      "title_original": "Pomp over progress in Xi’s US summit with Trump is a win for China",
+      "title_zh": "Pomp over progress in Xi’s US summit with Trump is a win for China",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-25T12:41:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "While US president hailed visit as ‘great’, almost nothing of substance was achieved on resolving thorny issues Key takeaways from the Trump-Xi summit in Washington If the Beijing meeting between Donald Trump and Xi Jinping in May was the “ stalemate summit ”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs.",
+        "Instead, it was described as a celebration of “ diplotainment ” rather than diplomacy, where pomp prevailed over progress and where one of the main outcomes was the news that two giant pandas would soon be sent from China to Atlanta zoo.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Pomp over progress in Xi’s US summit with Trump is a win for China"
+      }
+    },
+    {
+      "title_original": "Prise dans les turbulences de la crise au Moyen-Orient, l’économie égyptienne résiste",
+      "title_zh": "Prise dans les turbulences de la crise au Moyen-Orient, l’économie égyptienne résiste",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLUFOaFF2RVNOY2Zrb0UyVWE5bkJWZG9fcnJpTm84aW54V2RiZ0xiS3NkY0R0RHhvN3ZIemRrdVdoZkhFX2lyUVhxcXZVWUtqM29HdWd6V0VUU1ozN2NacWN4dnBwMmhlMXhJN2sydFFjZmhJYUhic0V6eGpOZnM5XzdET2ZTTHo4ZFF5RXBfUThNVTRmVDhvbjJjZDBqb29jOXZaMElOX2NqaU5wTGpocDY5UlRUZ0oyUkV4clhNcEptbFI5alRlQlZqSWxnWG95c0NLLUlYQ05rdVdkc0toUFJfMGZ0ME1N?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-09-25T12:31:22+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Prise dans les turbulences de la crise au Moyen-Orient, l’économie égyptienne résiste    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "Prise dans les turbulences de la crise au Moyen-Orient, l’économie égyptienne résiste"
+      }
+    },
+    {
+      "title_original": "Drohnenangriffe in Polen, Moldau, Rumänien: Russland führt immer offener Krieg im Osten von EU und NATO",
+      "title_zh": "Drohnenangriffe in Polen, Moldau, Rumänien: Russland führt immer offener Krieg im Osten von EU und NATO",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNclF4Unh2VlV0ZzFkaTNaODh0b2RNbGdJQ2VkNEExQjhJVDI1Sm43alY2MkE4N2cwWUdZMi16d1U0emZuOGVaRGZNMEdsclZ6ZHg0OWg4Nmt5U0hHUjNoNkVpU2p5TkdaNkhsdzgxNW5zT215Z3hEanhQeTJwTTcwcWlMLUJfeUM3TEJuQnZyZWk0aG91US1DQU81aTVPd9IBngFBVV95cUxQa21wTC13ZDUwZG1RYjlmVXVHbXRTS2MtSFZoMVVucEJadF80OGNtcy1xSlQxbFZUcmJOb1I1eTYwV0xiVDZKSGFXWEVIdjNDUGRDQnI2TGgtS1lVcGpiN2FDYU13ekFXek5NR0FWTHZ5WTlUc1VyZmJJNGV0cENmZlVYbXRLbUo0MUJhSDBkdTU1SXU1S0M3N3RqX3RFQQ?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-25T11:53:52+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Drohnenangriffe in Polen, Moldau, Rumänien: Russland führt immer offener Krieg im Osten von EU und NATO    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Drohnenangriffe in Polen, Moldau, Rumänien: Russland führt immer offener Krieg im Osten von EU und NATO"
+      }
+    },
+    {
+      "title_original": "ＵＡＥで3カ国協議、米が提案とウクライナ大統領 ロも近く開催示唆",
+      "title_zh": "ＵＡＥで3カ国協議、米が提案とウクライナ大統領 ロも近く開催示唆",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUVkxZkI3YnZzZHROWlg3bm01ZG9vOUV3a201QlVGRkNVSFpZa3lZVWN0bktXN3ZoRzQtV2llbk45ZUNBMC1jSTlPU1RVQm0tZDQzRkJVZ2ViZERlNVlOQmRZYzBlejBKZmFfYlB4OUV0ZTFCTkUxWll2QWFHeGp5cVBzQmpoUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-25T11:30:40+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ＵＡＥで3カ国協議、米が提案とウクライナ大統領 ロも近く開催示唆    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ＵＡＥで3カ国協議、米が提案とウクライナ大統領 ロも近く開催示唆"
+      }
+    },
+    {
+      "title_original": "ウクライナ財政・国防支援、ＥＵ・ＩＭＦも重要性理解＝大統領",
+      "title_zh": "ウクライナ財政・国防支援、ＥＵ・ＩＭＦも重要性理解＝大統領",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLUFBQThTcHkyOVNMZGphd3pKQ2NIUkl3bGszRjI4TnRyS1R0NkM4Mi16QXBpSFVsSzZLb0g0cXdBbkdLaXRLbDBMNW96dVpVc2R1TmdnaHFpLVVtOTI0dXRPdkVxbzE5M3lqdDBfVXpqZEs5bl9oeF82cHlTZjBsU0RSaXpJZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-25T11:04:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ財政・国防支援、ＥＵ・ＩＭＦも重要性理解＝大統領    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ財政・国防支援、ＥＵ・ＩＭＦも重要性理解＝大統領"
+      }
+    },
+    {
+      "title_original": "Kremlin hails election of nearly 50 Ukraine war veterans to Russian parliament",
+      "title_zh": "Kremlin hails election of nearly 50 Ukraine war veterans to Russian parliament",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWU9LMkx3bFZ0QUs0QTZwS3JCSjVBT0phSlhocGxreUNOQkFjekV1X0JlVjU3aUxkUk9icDdiZjY5T2NjQm9NQ2xRQ3I1RVh4aUI4aTFBQ20xdUphODdGV1dtSjJLSnp6dUZYMlgxTkhQM1hGSXVFZzI5Y2Yzb0YxUGZqM2FrRExiZ1BIX0tDVWtSLVNiTEc3MWdYQWpPWEdnandra2hkOA?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-25T10:57:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Kremlin hails election of nearly 50 Ukraine war veterans to Russian parliament    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Kremlin hails election of nearly 50 Ukraine war veterans to Russian parliament"
+      }
+    },
+    {
+      "title_original": "ウクライナの捕虜となった北朝鮮兵２人の韓国引き渡し「非公開とする合意破り、残念」…李在明大統領が投稿",
+      "title_zh": "ウクライナの捕虜となった北朝鮮兵２人の韓国引き渡し「非公開とする合意破り、残念」…李在明大統領が投稿",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81S2JMdXdwOTYxOWtrYUx1bTZHQmhRY25sZmlOWDVGcVpFOU9tOTFZSHo1SU9OQlNkbjgyekhZT3MwUFRkUUZjY20xWUpDdFBpMlA3V0lGdlNJaklZb1drOTRB?oc=5",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-09-25T10:40:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナの捕虜となった北朝鮮兵２人の韓国引き渡し「非公開とする合意破り、残念」…李在明大統領が投稿    読売新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの捕虜となった北朝鮮兵２人の韓国引き渡し「非公開とする合意破り、残念」…李在明大統領が投稿"
+      }
+    },
+    {
+      "title_original": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+      "title_zh": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+      "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-25T10:36:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Trump and Xi exchange warm words at state dinner but little progress on key issues\n- Published\nUS President Donald Trump and China's President Xi Jinping exchanged warm words at a lavish White House state dinner but gave little indication of progress on pressing issues.",
+        "Xi stressed that they should ensure AI remain \"under human control\" and act \"as responsible major countries\", while Trump toasted a future of \"harmony, peace and success\" for both nations.",
+        "But tensions remain despite the diplomatic niceties, including over Taiwan - with Xi urging Trump earlier in the day to take the \"correct position\" on the self-governing island which Beijing claims, amid a weapons package paused by Trump."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump and Xi exchange warm words at state dinner but little progress on key issues"
+      }
+    },
+    {
+      "title_original": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "title_zh": "Hurricane Polo barrels towards Baja California region of Mexico",
+      "url": "https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-25T10:28:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been notably active in recent months.",
+        "On 22 September, a measurement of 892 millibars was registered for Hurricane Polo, making it the second-most intense hurricane on record in the east Pacific.",
+        "It is fuelled by exceptionally warm waters across the Pacific Ocean, providing favourable conditions for the system to maintain its considerable strength."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Hurricane Polo barrels towards Baja California region of Mexico"
+      }
+    },
+    {
+      "title_original": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+      "title_zh": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-25T09:48:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "US backs Elon Musk's bid to overturn €120m EU fine against X\n- Published\nThe US government is seeking to join Elon Musk's legal challenge to overturn a €120m (£105m) EU fine against X over its blue tick badges.",
+        "In December 2025, the European Commission said the platform \"deceives users\" by allowing people to pay for a blue verified check mark, because it is not \"meaningfully verifying\" who is behind the account.",
+        "But US Assistant Attorney General Brett A."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US backs Elon Musk's bid to overturn €120m EU fine against X"
+      }
+    },
+    {
+      "title_original": "كيف أصبحت ضربات إيران على القواعد الأميركية في الشرق الأوسط أكثر دقة؟",
+      "title_zh": "كيف أصبحت ضربات إيران على القواعد الأميركية في الشرق الأوسط أكثر دقة؟",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN1NDamgyMUNHNjFPSXZwakl5aFBpN0dvb3F6eTNZbUhaVGVDN2dtZXE4SzZ4cnR3V0tfbmVxZ1VkVG4tRzAyS1ZuUGRDOEVQaUpLV3g1MmltTUl0a1pmLUhVV3I4N2J4SjNmeVdvMXFQejZEVWc2akNsSDc5ekVBOU5fOTllT0h6VHlya0dR?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-25T09:40:19+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "كيف أصبحت ضربات إيران على القواعد الأميركية في الشرق الأوسط أكثر دقة؟    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "كيف أصبحت ضربات إيران على القواعد الأميركية في الشرق الأوسط أكثر دقة؟"
+      }
+    },
+    {
+      "title_original": "The nation’s cartoonists on the week in politics",
+      "title_zh": "The nation’s cartoonists on the week in politics",
+      "url": "https://www.politico.com/gallery/2026/09/25/the-nations-cartoonists-on-the-week-in-politics-01092570",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-25T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.",
+        "The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.",
+        "Here's an offering of the best of this week's crop, picked fresh off the Toonosphere."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The nation’s cartoonists on the week in politics"
+      }
+    },
+    {
+      "title_original": "زيلينسكي: دول بالشرق الأوسط تشارك في محادثات البحر الأسود",
+      "title_zh": "زيلينسكي: دول بالشرق الأوسط تشارك في محادثات البحر الأسود",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaUFFJU1E3azl0R3VFQmlpLU13NGgwZ1hMaWxpQVhLWmdYYWFYMy03SFdLT2ktNU1ubDZ0RElDVDE1eVdELTVyTUlYZE9xaUpVNWduODQwd0hCY0sySXJtTmN4c1Byc2t4V0hQX3lrVjIydHdzdE9panVURFpjT2c?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-25T08:33:07+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "زيلينسكي: دول بالشرق الأوسط تشارك في محادثات البحر الأسود    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "زيلينسكي: دول بالشرق الأوسط تشارك في محادثات البحر الأسود"
+      }
+    },
+    {
+      "title_original": "ウクライナ戦費、4兆円不足の試算 港湾インフラ攻撃で輸出まひ",
+      "title_zh": "ウクライナ戦費、4兆円不足の試算 港湾インフラ攻撃で輸出まひ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05VjVkOHh0SnVqSS1naTRjSFVERXBVcGtIam05SmVFRGpqalF0cnNObzRMaVN5d1N6NXdnR2ZWWVpIYTl4UEpDNEh2N2tpNlVVcWRZVHJGYVNjX1JwU0EtRm5jdmd0WFEtMi1yYQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-25T08:14:46+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ戦費、4兆円不足の試算 港湾インフラ攻撃で輸出まひ    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ戦費、4兆円不足の試算 港湾インフラ攻撃で輸出まひ"
+      }
+    },
+    {
+      "title_original": "キーウで少年死亡、ロの無人機攻撃 南部でも1人死亡",
+      "title_zh": "キーウで少年死亡、ロの無人機攻撃 南部でも1人死亡",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWdCVUtCSjVONUtyT0NFYWh0bUpHaVlHUUNjMldEMGN2WnRNOVl3c0x5NExpdkplNHlxRE1CdU8tNWFvbDFHeVVoMlA5WjJXcERfcDRYMDYzaDY3aGp6RE1xN2Rhb0hqVkRDVFRsSGppdEFIYVc1ZGNyanVfaUtUUGk5YTU0Zw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-25T07:55:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "キーウで少年死亡、ロの無人機攻撃 南部でも1人死亡    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "キーウで少年死亡、ロの無人機攻撃 南部でも1人死亡"
+      }
+    },
+    {
+      "title_original": "Rutte dice que la OTAN está \"preparada\" para ataques híbridos rusos",
+      "title_zh": "Rutte dice que la OTAN está \"preparada\" para ataques híbridos rusos",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONk5lQktFdFlfbnV2VENJM3FDZExkYVI3b0RqUXlyX05UUm5xSERhUkNZSXhXRzBSRUNINWl5eUp0ZlJCbl9NREwxQmpUTW1wSThCd2kyQmdYaGdlMTdianprbWY1T3lhZWswREtZd3ZyaVNLZ25Ddm5FUEVNTVlIWmJkSnBhb09qUHR5YjJsc3RFT3FuUnJSVkltRFJGZzZ2Sk94M3JzMEJWTHFIYVFSaWRhX0U4Vzh1VkJyNnRnem5RNTRuUU1J?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-25T07:20:08+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Rutte dice que la OTAN está \"preparada\" para ataques híbridos rusos    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "es": "Rutte dice que la OTAN está \"preparada\" para ataques híbridos rusos"
+      }
+    },
+    {
+      "title_original": "金句海报丨为中美关系提供新的战略指引",
+      "title_zh": "金句海报丨为中美关系提供新的战略指引",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XUERRbF9nY3JYMWtIYUxXS3NVSkxxMlpabzdnbmI0SW5GUEpMWWRIVnEyejg2SVJxdVBSd1JKMTJwcDI5aFF3SnRoUHlmNnhrQWNpazBzNjdmWGxJSEV1dldjTlVISnVpQUxManR5bFA0djlIT3RR?oc=5",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-09-25T07:13:47+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "金句海报丨为中美关系提供新的战略指引    新华网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "zh": "金句海报丨为中美关系提供新的战略指引"
+      }
+    },
+    {
+      "title_original": "Xi und Trump: Kein Wort über Taiwan in der Öffentlichkeit",
+      "title_zh": "Xi und Trump: Kein Wort über Taiwan in der Öffentlichkeit",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWmhKcnZHV2tJODU5QXFIeVJzMmRwbG5BaV9UWk5xVlBza3NBbUNidjVZX1FpX015RW5tTXV6Q09jWGdVLWQwcnBjcU1seVVPN2lhOUNlOWpXdDdxbkxoM1lncDljb1RUSGpHWHlsbElnZEpRMjJJQTg5V0FnN25uSTBnYVl1STUtTk1LN1hvOE5EV0I4YmFpQzdyb1A4MldL0gGgAUFVX3lxTE84Y0pqLVd5OE9Oa1pWZy1SU1h6M1FSMUFMdkdiNHdCcV9BWWJ4M3JuT0FpaFVkdG5Oam9SWmo3MjZfM1ZtQXRZRmgwRmJrdFcxNVJuaU5yUkgxX3dXWDFfV2ZKY2g2elhoY0hkbWNxYlZZX2ZVdFJPUDI2Mk9yVnhodk5DcHVXSi11MlQzUllxSlpaTlUzbjBsc3NpTTVpbjI?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-25T06:48:01+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Xi und Trump: Kein Wort über Taiwan in der Öffentlichkeit    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Xi und Trump: Kein Wort über Taiwan in der Öffentlichkeit"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : les Etats-Unis et l'Iran envisageraient un accord progressif pour rouvrir le détroit d'Ormuz",
+      "title_zh": "Guerre au Moyen-Orient : les Etats-Unis et l'Iran envisageraient un accord progressif pour rouvrir le détroit d'Ormuz",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTU5OSlFId2QxN3M5Z19ScE12TER4NVN4cTRfd0Vrc2hJUXludHoxa3ZlTE5aRWYxRlUtMF9RYk16Wkhka2E3SWtJTUV3UE54RXNaN3hWSE9NWllVdzZ3QjVUVnppY2hweWl5bUp2bGh6d3lWUFJNVHM5aUU4UzJ1dnY3RWhlVW5WOG9HeFZ3bUgwaGU3UWpUTXpFcGdyLVBCZ1FaakRUV2I4MFlPNmlLc1FIMzZDUWZUV2ZGa0QzM3UtXzNFLTBOelpiNndOWW5Dbld6NjdGUUlCU3hiVEFZblEwTTQ0QTBFemI5ZFlDTHcyV1R3RTdxcDlBQXczWC1MTVlR?oc=5",
+      "source": "lesechos.fr",
+      "source_score": 40,
+      "published_at": "2026-09-25T06:47:36+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : les Etats-Unis et l'Iran envisageraient un accord progressif pour rouvrir le détroit d'Ormuz    lesechos.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "lesechos.fr"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : les Etats-Unis et l'Iran envisageraient un accord progressif pour rouvrir le détroit d'Ormuz"
+      }
+    },
+    {
+      "title_original": "Denmark Warns of Rising Risk of Russian Attack on a NATO State",
+      "title_zh": "Denmark Warns of Rising Risk of Russian Attack on a NATO State",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkVnX09pSEVic3ZyNWtQRi1hMDBlRkNtRDJpNDdSanQ5NlRDN3B4RkQ3akdvS0F6OUNBSW1CNHRhVm9sbXhSbnhFby1tQWxGc3JGdlh4X0VIVHUxUWx1WUNLc19HMW4yb014d1E1VHJZY2d4Qnd0cGk0c2x6ZWQ4R21oaEVJb1BtVzkteXZkYzE0WnAtTVdOYW1UTXdaWC00Wl9lSS1Ld3RycmJOaVlTZV8wQQ?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-25T06:26:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Denmark Warns of Rising Risk of Russian Attack on a NATO State    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Denmark Warns of Rising Risk of Russian Attack on a NATO State"
+      }
+    },
+    {
+      "title_original": "Vladimir Poutine pourrait-il vraiment attaquer l’Otan ? La Russie aurait une stratégie bien spécifique pour s’y prendre",
+      "title_zh": "Vladimir Poutine pourrait-il vraiment attaquer l’Otan ? La Russie aurait une stratégie bien spécifique pour s’y prendre",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS2k2Z2YtMVhRQzNISTg2VXJJS0xlM09qX1RSX2lhVjE2cHg1bnlSTGczSkIzZVliaExReEU3RTFBa01QbHpvdFdaZHRIbTh6MzFTcm5uT2hQYTJoSHliSjVkbnJRZUJBd0l5amJUcjJ1OVhxbGVka3BCR1RHOTlRazh1dF9QdGptS1NSSGQtZnlkTG9TU1diM0JWYjZQN1gyNU12cDhYMUROTXVBbXpROEliOW5SYUlxWG53NzQ0WGlaSU1rREVsLUJTRWdyMDZEYWNldFBpaXFIbFE?oc=5",
+      "source": "RTL Info",
+      "source_score": 55,
+      "published_at": "2026-09-25T05:47:04+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Vladimir Poutine pourrait-il vraiment attaquer l’Otan ?",
+        "La Russie aurait une stratégie bien spécifique pour s’y prendre    RTL Info",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "RTL Info"
+      ],
+      "all_titles": {
+        "fr": "Vladimir Poutine pourrait-il vraiment attaquer l’Otan ? La Russie aurait une stratégie bien spécifique pour s’y prendre"
+      }
+    },
+    {
+      "title_original": "习言道｜中美关系又站在新的历史起点上",
+      "title_zh": "习言道｜中美关系又站在新的历史起点上",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fem12OVBVdm1QcElHOENhbXNJZ3NzTkE5dnFEMGhMZ2stSkpRWXNLeVNIZFlFelE3X0luMnpUSHBTZ0dQRXVlRHgtX1J5dmZtWWt5X2RiN0tzZ2szamN2MC0xN0dLWG9F?oc=5",
+      "source": "chinanews.com.cn",
+      "source_score": 40,
+      "published_at": "2026-09-25T05:43:56+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "习言道｜中美关系又站在新的历史起点上    chinanews.com.cn",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "chinanews.com.cn"
+      ],
+      "all_titles": {
+        "zh": "习言道｜中美关系又站在新的历史起点上"
+      }
+    },
+    {
+      "title_original": "Geopolítica actual: Trump, Xi Jinping y Putin en el tablero global",
+      "title_zh": "Geopolítica actual: Trump, Xi Jinping y Putin en el tablero global",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUUVMcnI5bFkxUEJzbFNYdkc0bXl2WlhfSUVPSVk5dFI4ZldyRy0tLTc2Rm9KZjl3M3NrSTBxZjR6dVE3aDlNNFhNRWwteHlLWEdSRmdSLTZSTXVOLWhuc3p1dklhUWw4b1NjdWUxM0dJbDBsNFVCb0dXS0VwdERZRTVEWlU0emtsUHo0OTFOaTZxdFAwX3hhb3VPX0RxZkZjdGxVQnNhSEtQWC1Hd2h2QllXeTVoQV9MTDVQOGlmbksyLUJKdk1j0gHMAUFVX3lxTE1BT0ExQjZ0Nld6NGoybEJ1Y1BKbGNIOUZuczBOeko4b3VCNkcwdWJ1OXdia0VCdFA2VDFtWDFSZ3NZdkttQ0piSVJTMGI2U1paSW5GSW42anc2ZG5Eb09JelZDMGVZZ1BfTGxTSWc4RzBOX19sTzBNRXlJQ1dYbElTV193VkFUVTlEOEpNWDZwcHozUHRkTDZCaWFLb0Y5ZWprMDRfNHNLTmh5TjRCUnY4Z240Nl9FTVJ1YzFYQTlyR0NGUDU2MVVTME8zdw?oc=5",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-09-25T05:20:18+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Geopolítica actual: Trump, Xi Jinping y Putin en el tablero global    Negocios.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "Geopolítica actual: Trump, Xi Jinping y Putin en el tablero global"
+      }
+    },
+    {
+      "title_original": "Putin’s Shadow War Is Testing NATO’s Restraint",
+      "title_zh": "Putin’s Shadow War Is Testing NATO’s Restraint",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYnFQYXVGSkdKdS1OQlNDZkM0V05jamNzUVRhUk5pUTFMZUhWczlvdi1PSUtCMXpQbmJWeHY5STJ2NlBtU21qMllvUklvVTVCZVZkZGF1eWZVVjRHay1JZGxsUExTcWpTOTZSWGE4RXo0eDczWkdCZXBLYXcwdnRFUmJoMGZCcmNyUmJjZ2M0Y3UwS1M1Y25hV2Raa29OZ19wRFE?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-25T04:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Putin’s Shadow War Is Testing NATO’s Restraint    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Putin’s Shadow War Is Testing NATO’s Restraint"
+      }
+    },
+    {
+      "title_original": "Gina Hinojosa wants to make Texas a test case for Democrats’ future",
+      "title_zh": "Gina Hinojosa wants to make Texas a test case for Democrats’ future",
+      "url": "https://www.politico.com/video/2026/09/24/gina-hinojosa-wants-to-make-texas-a-test-case-for-democrats-future-2181012",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-24T23:59:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Gina Hinojosa wants to make Texas a test case for Democrats’ future",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Gina Hinojosa wants to make Texas a test case for Democrats’ future"
+      }
+    },
+    {
+      "title_original": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "title_zh": "Xi got Trump's red carpet welcome - but not everything he wanted",
+      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-25T03:57:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Xi got Trump's red carpet welcome - but not everything he wanted\n- Published\nPresident Xi Jinping's summits with Donald Trump have one clear aim.",
+        "China believes the United States is trying to contain its rise as a superpower, and it wants Washington to stay out of its way - particularly when it comes to trade, technology and Taiwan.",
+        "On this visit, however, despite Trump rolling out the red carpet for him, the Chinese leader didn't get everything he wanted."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Xi got Trump's red carpet welcome - but not everything he wanted"
+      }
+    },
     {
       "title_original": "这份倡议，关乎中美关系的未来（一见）",
       "title_zh": "这份倡议，关乎中美关系的未来（一见）",
