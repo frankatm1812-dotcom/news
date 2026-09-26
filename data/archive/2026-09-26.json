@@ -1,8 +1,833 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T01:30:59.275746+00:00",
-  "count": 35,
+  "generated_at": "2026-09-26T14:59:01.442186+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title_original": "Trump dice que presidente de China, Xi, comprende su postura respecto a Taiwán",
+      "title_zh": "Trump dice que presidente de China, Xi, comprende su postura respecto a Taiwán",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObkY0eUd1RmNDbk9zMjM4Y3JZQXZlS25yY3Rxdy1seThMUkFCRlhOXzA4WGFWbFFFUWdOUGFiY0JsdmtpZlhQQmphSl83TzVtb2dsTEd6aVU5SHV6cEVpcjFMN3RMWWZrSG8wUE5hUEtleFd4ckIyT1VrdkhaX1pnY0VZaUc0ei1HeHhxM1JCRlowUQ?oc=5",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-09-26T14:30:37+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Trump dice que presidente de China, Xi, comprende su postura respecto a Taiwán    Yahoo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "es": "Trump dice que presidente de China, Xi, comprende su postura respecto a Taiwán"
+      }
+    },
+    {
+      "title_original": "ترامب: الرئيس الصيني شي يتفهم موقفي بشأن تايوان",
+      "title_zh": "ترامب: الرئيس الصيني شي يتفهم موقفي بشأن تايوان",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vSHU2UUs0N1V5MjJjeUFXcVZvZ2tjSG1uNzJIdi1mOEZBSnNGQkx0d3VWMmlMX0M4UU10VU1PT2RRcy1aMGg1MWFzZzhudVNWTWt2TncxQUhFU0o5SjRPMkhIM3oyTExDVm13dUdNRjRtZllIWE5mTFBCaw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-26T14:11:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ترامب: الرئيس الصيني شي يتفهم موقفي بشأن تايوان    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "ترامب: الرئيس الصيني شي يتفهم موقفي بشأن تايوان"
+      }
+    },
+    {
+      "title_original": "الأمين في ذكرى الشهادة",
+      "title_zh": "الأمين في ذكرى الشهادة",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQjZtUmxSMzB3eXdMbXlCenJwX05jalJSN0hmd1dvbm03d0dEUmtsWWpOVHNkUHNRSHFOaTVVYzdMeUJsNTRGMDduUlNnRTlrZDR4U1dKdndLRWdqQ00xLUlHbG1yTzVEZm5hTHNSc0txaFU5b05mTlRSUzFnd3AtOC1lb29xUmNWUUlvRnJFWGJXWndySVlVYlBRd2VhR3I0akVEeHlQMEJJNlo4VlZfN1VWSEdETkNYc2ozWVFlQWt2NjV4NmZGeTU1V2J0WFpXbFg5N3NtdmhrY0xqTVdWUDJUWVVlTWVPTGxaOURMN2c0U19JeUN3SHplX3VSTEnSAYQCQVVfeXFMUFVNblhZLUM1VDcyTjBPLU9YeFByRDNuYk84eDNfOU4ydWxibnB3WW81MzJ5N1pvXzY0YmZxVHlQVGpPWmRDWkxRa1cxZEpwbVpkWUVwVVlxOHF1SWZUSjhjS2VjamVzLVhuc29XX1F4a0l3dVFOV1o3SU4yM2t3SDNlczV4LWIyeFR1ZlprLVhfa25leTNKTkxCSXljUncxX05QenA1Q2FxcDEyRHNsWk5QUnlCZFRBOTRzNlRybjA4ZlZ2ckJXR3ptTE1sbXhuRmJrcE1tb2xuVTNDZUpyQXExeWt6V1d2NWthakxHYnJxZHozbTc2d0NSRklzdGhFQ0ZpUTQ?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-09-26T13:48:36+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "الأمين في ذكرى الشهادة    تسنیم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "الأمين في ذكرى الشهادة"
+      }
+    },
+    {
+      "title_original": "تايوان ترصد 5 طائرات عسكرية و11 سفينة صينية حول أراضيها",
+      "title_zh": "تايوان ترصد 5 طائرات عسكرية و11 سفينة صينية حول أراضيها",
+      "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxPUTY1WVdyaEM2MExhV294bV9pckxwNkRwUEh1aTZmV05mUGdGcmNpX3dicWJzcDFhREhYdWZvdThTR0o0MGlHMEVIbmFjZFNvb2RPLUxXWF9yVGxuUm1yMjExR1JoOXhWU1EwVHNoUDhpNEpSWlZHQmo4RTVHaFhHUjNQVHB3MGlzU0U2d0lLX1JyWjhBR2pVMjNLSk9JUnhsLWtKRFlyMGJKeUlZVmNiRFpmMmJEQ0xIUEZIT18yNUp2dm93Vzd2UXMtV3RNWlVUcTdsbk4tNldkX0JoaWVtNGxQYkU4NmF6T3MyTGdmdjNEOFFfcU96eUVBWEFHa01fLVQxdk5HcmRYdVI0Z05IZkswZERFLVBBaS00MDhGMl9YUVJmQXRoYl9OWmNfamU2ZzVKSC16WklOYnlRQmpzNlFEaVV6bEFkRzlneUtfczdSXzZuV0IxZlpUWFF6SHIzUTYyaXF5Z3otZUEwUkw3NWZoMk5hM2hjNWk0aXU5VXJ3djFxNUwzcXhiaUNaX1ItLWlVX2JGdWplV3gzSnlNbVlvRms2a0w2ckxEa29Ga1Jjd2R4bEh2U2hfV2pDbUdKa0pySjl1YXBKZTcxVGlwOTFlY0h2NW05N0pmNjVFUlVrTWhYQ1JDaFRZblNCSVNlY3lJ?oc=5",
+      "source": "alghad.tv",
+      "source_score": 40,
+      "published_at": "2026-09-26T13:28:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تايوان ترصد 5 طائرات عسكرية و11 سفينة صينية حول أراضيها    alghad.tv",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "alghad.tv"
+      ],
+      "all_titles": {
+        "ar": "تايوان ترصد 5 طائرات عسكرية و11 سفينة صينية حول أراضيها"
+      }
+    },
+    {
+      "title_original": "Huge crowds greet Pope in Paris for open-air Mass",
+      "title_zh": "Huge crowds greet Pope in Paris for open-air Mass",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-26T13:23:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Huge crowds greet Pope in Paris for open-air Mass\n- Published\nHundreds of thousands of people have greeted Pope Leo XIV in the centre of Paris for a giant open-air Mass.",
+        "Crowds cheered as the pontiff moved down the Champs-Élysées Avenue beneath the Arc de Triomphe, waving to crowds from his popemobile.",
+        "The head of the Catholic Church blessed several babies as he stopped at different stages along the avenue as chants of \"Leo, Leo\" rang out."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Huge crowds greet Pope in Paris for open-air Mass"
+      }
+    },
+    {
+      "title_original": "Built by Ukrainian officers from real combat, DWAC course is now \"NATO Selected\"",
+      "title_zh": "Built by Ukrainian officers from real combat, DWAC course is now \"NATO Selected\"",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVl82cy1qWlhmcm5ES0wzeUhaUml0YWR4MW1vZTJTSkZRSTU3N3RqZ1VON3Z3Q2VvTFhqbDVLZWJWUUNtQUItSDUzMTZrYUhZQzYxOUFXMFB0ZFI5M2plTS0wSURsZWFLRm0wVXFMOFFNQnVGR1dsYUY3SFZ1c3I0b29WVmtsRVM5bmh3VkQyN1p2d1BrQmtpN3JDRnl3X1R0Z09WSXE2bkdMTWtGVUoxT0NhUWlCYUNr?oc=5",
+      "source": "euromaidanpress.com",
+      "source_score": 40,
+      "published_at": "2026-09-26T12:54:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Built by Ukrainian officers from real combat, DWAC course is now \"NATO Selected\"    euromaidanpress.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "euromaidanpress.com"
+      ],
+      "all_titles": {
+        "en": "Built by Ukrainian officers from real combat, DWAC course is now \"NATO Selected\""
+      }
+    },
+    {
+      "title_original": "British national among six dead in building explosion close to Acropolis in Athens",
+      "title_zh": "British national among six dead in building explosion close to Acropolis in Athens",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-26T12:47:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "British national among six dead in building explosion close to Acropolis in Athens\n- Published\nSix people have died, including a British national, in an explosion that destroyed a building housing a holiday rental property in the historic centre of Athens.",
+        "The blast on Friday happened in the Plaka area of the Greek capital, a neighbourhood close to tourist sites such as the Acropolis.",
+        "Four American holidaymakers were among the dead, along with a UK national and Greek national - reportedly an elderly couple who lived in the same building."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "British national among six dead in building explosion close to Acropolis in Athens"
+      }
+    },
+    {
+      "title_original": "Trump publica un mapa con el \"estrecho Trump\" frente a Irán y otras noticias en Oriente Medio",
+      "title_zh": "Trump publica un mapa con el \"estrecho Trump\" frente a Irán y otras noticias en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObjFESlYycWE4NVZqMFZ6MFlET29pbmEwU2tNQ0otT3pZZ21ScTZXd09Mc2t0STRSMzNRZDExX3NvTU5LOGo1QVdzaUJPbF9JdDloUlBaYklQcE5DYU1FSVYxdVo5TWE2QVFRc0tsbGJ6R1Rhc3FnREdXdmtTU3dvNHNyVkk2NkRMRTZ1UmVsYzk1dXFfcktWUkZ6UGtJNXlxSDNRUVp6cEY4WFc2OEFPd2FXdEcwRXhBdHdPX2JYcVRVRTlMRmxqQ0pzWQ?oc=5",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-09-26T12:20:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Trump publica un mapa con el \"estrecho Trump\" frente a Irán y otras noticias en Oriente Medio    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "es": "Trump publica un mapa con el \"estrecho Trump\" frente a Irán y otras noticias en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "视频丨中美关系定位内涵进一步丰富 将如何引领未来两国关系发展",
+      "title_zh": "视频丨中美关系定位内涵进一步丰富 将如何引领未来两国关系发展",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CaTlsd0UwTnJpSGg1SGpsTWpYQkVpTGMtRFRzdVFMQWVRMkNEaWFQVGliSkxjZmNlQUlMV3lzVGJVc0duTWJNa2dFU1hBWGNtQmlfSW9rV2dZWlpYU3B2SDFwTmdKM0xHaHRz?oc=5",
+      "source": "群众新闻网",
+      "source_score": 40,
+      "published_at": "2026-09-26T11:49:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "视频丨中美关系定位内涵进一步丰富 将如何引领未来两国关系发展    群众新闻网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "群众新闻网"
+      ],
+      "all_titles": {
+        "zh": "视频丨中美关系定位内涵进一步丰富 将如何引领未来两国关系发展"
+      }
+    },
+    {
+      "title_original": "Ukraine War, Day 1,675: Russia’s Strikes Close Largest Steelmaker",
+      "title_zh": "Ukraine War, Day 1,675: Russia’s Strikes Close Largest Steelmaker",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEhqVWloWVoyNUlOMVR5UkROVW5aUGFGR0VTOWVkZ3VzbWphcFhzMUg3bTZ5ZFF5X3NDZmdwNFg3NWR6cVpDRm5ESUFSZ2hHR3RUQVF3S0pqclBuWVFYWmZyaXRDank0MkFCNVJEeXphUVlMZnV5WmU5Wnk5VTkxR2hlbW15SXN6MWs1ZA?oc=5",
+      "source": "EA WorldView",
+      "source_score": 40,
+      "published_at": "2026-09-26T11:48:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine War, Day 1,675: Russia’s Strikes Close Largest Steelmaker    EA WorldView",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "EA WorldView"
+      ],
+      "all_titles": {
+        "en": "Ukraine War, Day 1,675: Russia’s Strikes Close Largest Steelmaker"
+      }
+    },
+    {
+      "title_original": "لماذا رفض ترامب العرض الإيراني لفتح مضيق هرمز؟",
+      "title_zh": "لماذا رفض ترامب العرض الإيراني لفتح مضيق هرمز؟",
+      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxQODdBRWxQNmRhTUFqZlZiTDBkam82amcwLUFiTXp6a3RFbTB2ODdFUGhzUWJHSHZjRlVoNUdNemdNWklaeF9LZ2FWTkxfTWhGS2ZOR19RTU55ZnNJSFNRSTRHXzRCZzd2cGo2V29IaGdSTUdVQzc5RzlEak9vU05CNTlvcHBFcWRheENQZWl1YlRsdWFzWnFZNURTMVZmd0FSMFU2aEE3RHotNmRuR1pKYlJuMlhIZEVPNGNSM2JhbTZQbXd3TUo5WXVESWtuZkhXZU5aZnoxZzRORVVvM1NweDhJTlhkSXVTZG84Z3dxZkZmYUlWcmUtY2RIakVHRHRMMmtvU2taQkhFSWh4OFR6cl9EaDFxaHFIY1ljSl9RREV6SDJDdDVNVzB0ODYwWWJPakZFazZkRUl6RDhmOWNVN090dHc0b0VvbEZfZU9JRXhQSmtsMUR4cURNamREa3VYRWpwMWtCNUJRM1ZHbzV0TXhoX2hRNkxLRnliV194bGk3bjlPSFpWVGRacXVULXhwaGU1R055WG9zR1BYR3Y4Si1OazBoQllqVmEtUGxXX2Q?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-26T11:47:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "لماذا رفض ترامب العرض الإيراني لفتح مضيق هرمز؟    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "لماذا رفض ترامب العرض الإيراني لفتح مضيق هرمز؟"
+      }
+    },
+    {
+      "title_original": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "title_zh": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-26T10:44:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Republic of Ireland confirm rescheduled news conference before controversial Israel game"
+      }
+    },
+    {
+      "title_original": "تايوان ترصد تحركات صينية وتؤكد استمرار الدعم الأمريكي",
+      "title_zh": "تايوان ترصد تحركات صينية وتؤكد استمرار الدعم الأمريكي",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUoyLTVSd3pHWnFsQVpfc1hFUl9PVnljdVJsTmwwbTZ4bTJMdXZ6bkk4bnNRQ0NUb09WbUlTZFZWcmhlN3BacDViODZ3RGZUMTRERHp3bGNTWm9IVGtqZjFNOTN5ZE9mQ0pjRVlXc1VZMXB1VG1rS2NRQmdvLTllNWhqNXZnOFHSAYwBQVVfeXFMT3RaVldBSnR1RnJVV1hLRU5zQnRSRlJVbU5adWd0UXlLWGpqWUFmZDBnMzB3eDR1V05RQS1PS0w3SndrV29qM3FpTlc5Vmg3RDRyWk43TDhQWjQtZTZKeEFVT3dxN0NhdThOcHViNzI3RThIbHNYbUF4bW5vazJIREV6T3hmXy01ZTYycnM?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-26T10:44:02+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "تايوان ترصد تحركات صينية وتؤكد استمرار الدعم الأمريكي    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "تايوان ترصد تحركات صينية وتؤكد استمرار الدعم الأمريكي"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Selenskyj: Tote und Verletzte durch russische Angriffe",
+      "title_zh": "Ukraine-Krieg: Selenskyj: Tote und Verletzte durch russische Angriffe",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc0Uwckc2WmRCMXQxQkF0MnhXVmlIbVI2SGdEcGVjQ0VhSElZY3ExSm50OVVwNjBhdlZyYkduLWhKTjBOM2JNQ3h5VDYyWkVTZl9tWnpjWTZZTG14c1RHMUNzUDV0eWFPSXFjSThLeEIwNXRoSDVuNGI4SHZYc3RVbEMyUGxWOC14ZUZqMXc2bXdOdFZwOVJ3eXhIaVNOZVdLUzhvMVl4djFJX0I5Y2FxSXRYUkhVTDFFNnlmeVBKOEFOTllBM3dfOA?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-09-26T10:38:52+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Selenskyj: Tote und Verletzte durch russische Angriffe    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Selenskyj: Tote und Verletzte durch russische Angriffe"
+      }
+    },
+    {
+      "title_original": "2 cazas españoles activados de nuevo en Rumanía por un dron ruso",
+      "title_zh": "2 cazas españoles activados de nuevo en Rumanía por un dron ruso",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUJtRGVrTlRtTGo5c2dPZF8zcjdwNVYyVWo5YjRFbjVveldYOF9OUzdBNmw1SjRxVzlqdWdGaFRhR19leG1HSVpEaEd0aVJoRmRJd3BsVG5WR09lWl9LaHhhOWRrOG1OSF9CWGpvRmxjWUl4ZzNJa0RYeXJPVEFoZVhhRmJtQm9JNERQYWEteU5JclpVWHpwNVRmTzZhXzJuZFliVUdmUHJRZ2FMU0JYQ0Zn?oc=5",
+      "source": "RTVE.es",
+      "source_score": 55,
+      "published_at": "2026-09-26T09:55:07+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "2 cazas españoles activados de nuevo en Rumanía por un dron ruso    RTVE.es",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "RTVE.es"
+      ],
+      "all_titles": {
+        "es": "2 cazas españoles activados de nuevo en Rumanía por un dron ruso"
+      }
+    },
+    {
+      "title_original": "Menaces sur l’information - La désinformation climatique comme arme géopolitique",
+      "title_zh": "Menaces sur l’information - La désinformation climatique comme arme géopolitique",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZTl1alBOUy1PNGVJS3RpUzFWQXlYMzJaWkdvSDVFUEozQVg1SzEyelUxcWdSTWRGYzNPd1NwWjF5RmtrcENBaExHVXFkSVdKZVJwNEhybDF3Y2pGcHQ3OFJidTlqc2NOSFl1RFo1T01LZU83RHI4SkdGMmxfWWxXeko2X0FKQ0diWnpBbXdUZi1udnRPYnMtbi1iY0dZb1Rmd3JLOU1rRGlJcXJTUE4tazVDX2dNSXNkSmVWM1pZYTFVZUFtRUlj?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-09-26T09:42:17+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Menaces sur l’information - La désinformation climatique comme arme géopolitique    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Menaces sur l’information - La désinformation climatique comme arme géopolitique"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - USA schlagen Dreiertreffen mit Russland und Ukraine vor",
+      "title_zh": "Ukraine-Krieg - USA schlagen Dreiertreffen mit Russland und Ukraine vor",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLXFWbEdSN3ZWaENheUJnQ0VldHMzQ2lKZUVtU2JRdUZPVUpUdXdvV1ZVaXVfRHA2SWduZ25MRVZlREk3clV0Z3FDR0pJZkM2dzFpSUZQUXZra181WWZyeTZwVVhjWHN0YVcyd2tCa1F6UGhXTWtjZldxVUxFMWU5OUY0MTVnbi1ULUFMa0V3VnE3cFJzVXJMaDBwdw?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-09-26T09:27:01+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg - USA schlagen Dreiertreffen mit Russland und Ukraine vor    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - USA schlagen Dreiertreffen mit Russland und Ukraine vor"
+      }
+    },
+    {
+      "title_original": "Taiwan verlangt von Trump jetzt ein klares Signal",
+      "title_zh": "Taiwan verlangt von Trump jetzt ein klares Signal",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdDBQcWgweWR0WkdIOFdFb1lNU2E4ZHhkOHZ3WTh3WFZmX3dMQUNrRGdVZWdwSW00bmY1OXZ4M0Z1LVdwQXNDMjMyT190UHVzUVRqeW1aVl8taTFLbGc5OGg1Tzlpc2ZrMndKQTdLdnBCOXY5UXNvdlpid2lJZ3ZuMGJGemFCeGZ5dGtjVXI0YldDQ0l0elVMUWJuMjE4eUZNQkx1QVpWRjluN1IxaElpUFZzRm5BYWEwNkZVVnZoaWtMSzQ?oc=5",
+      "source": "MOPO",
+      "source_score": 40,
+      "published_at": "2026-09-26T08:46:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwan verlangt von Trump jetzt ein klares Signal    MOPO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "MOPO"
+      ],
+      "all_titles": {
+        "de": "Taiwan verlangt von Trump jetzt ein klares Signal"
+      }
+    },
+    {
+      "title_original": "UNGA Voices Address Kurdish Question, Ukraine and NATO",
+      "title_zh": "UNGA Voices Address Kurdish Question, Ukraine and NATO",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWlpFTTV2dGdkdlRGM1MzRlZfanlGUkNnU3d0S0ZFdUEyaElqT0JPaUREdUliWU1sYVdLNF9ZVkZXcVRFN2t6c3RqeUdud3ZxRl9RaTY3cGNRQUdyZTQwVFhjc1lhLXJydVN1WTNpSDVhYXVaYnZxSnNndjFTZVZFNnRmRUZlMDYwdWp5THRXRVNGejZpc3R3bUpvRkhTZw?oc=5",
+      "source": "کوردستان 24",
+      "source_score": 40,
+      "published_at": "2026-09-26T08:42:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "UNGA Voices Address Kurdish Question, Ukraine and NATO    کوردستان 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "کوردستان 24"
+      ],
+      "all_titles": {
+        "en": "UNGA Voices Address Kurdish Question, Ukraine and NATO"
+      }
+    },
+    {
+      "title_original": "كذبة العصر: حين تتحول مكة إلى ورقة في معركة البوصلة",
+      "title_zh": "كذبة العصر: حين تتحول مكة إلى ورقة في معركة البوصلة",
+      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOd1NYSVN3SUxCT25XdnlmMHlDVmNNaXQzcmRjSVRBOVNvRmNFX0dLTy1pLWRxd3hRQWJCYS1GM1YxeVQ3WEpYdXJXRUxOQlFkbERwMjBLQ1IwdkxpUHpRaTM2djlKTllIbVBSd0hETnYyb1MxbnlnQ3VoVkhHa1gxVFIxMUhZREpzcEFUV0VqR3hTUHB3YWFzMThWRWNDUjVzM1Bmd2NtZ2JOMnpnRGoxblM0anpfcmFVOVpPRWdLODlEUnAxeGVNdlh5bVBLTXVaYmVyWE9fZG5SMlVkWURNeHdaaDNnajU1TnRkVHNWeE9SV3JnY0twc0VEcHcwNFI1U1I0T3YyeVRwc2xYckFlSTRxa3pMUVVZREkyem9MVnRtVWN6bDZCM3hlalgtcS1kQmVZb0tKNE9ETDVNVlVLWG1wNDlCM0l6cjVJYjR3c3JJWkV2RExYVzVTZ3NVY1V1cjZZNU5VaS0xaEZjUnRPSDJOMDY0QmhpTEZnRDhwOEFJSzktVFZpQWNON2d0U0Q5dUdZTzJlMHFxcTJtbjlxbmNNbHRkUEthQ2JTbmlldkVnQktFbURv0gG8A0FVX3lxTE1pQkUteXltb1Y5UDd5VV9BaDUzNkhtWGRiMWd4cERGLTFCMWJVTWJSRHpaN1lxNFVoT09YZ2FnRVJ2Smx2bkEwYlJJcS1OREhJZmlIX1RqNkFDTTJnbENJQ3dMemlFZmREY3VKNy1tYnM3RW1hUjZzZzZJNF9SVXEyZGJxRFdXM3RncnNSRlBsazBxTUliYTlQY1NoeGU3bUhyWHdBemZjbkxxRzlOMHF0cTVRYzQ4VGtsVU9Gb1lmNkFOUEtMRWMtZU9GQk9wRkduekVlb0VtZTkzN3d5NXVCdV93RkJRdVVZRmgtRFpRemk2RkQxNTA3NnlZQWdtWjdNbUZadXZzaFdoTFcxa0pKWU45Y3l4ZHJ6RnVVM3o1WUQ0b3pvWC1kOWZiT3AzajdOTDE0b0kyQWdmb0lobGdoQ0lJdUdValBBTElYZmhVSm93RjBjSVFFWFN0WGYySG1SMTNLMXFMd1BIdzJvNnBvNDMwMlBoV2RpNEtVZE9TWnNIUG1BN3R0LVZjbVBJcGJGaTJpRFp6OFczVUhIZU1lZnRKNHJuQVdiUjgtYTUtMk16RlZacDhrOE1IOA?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-09-26T08:28:12+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "كذبة العصر: حين تتحول مكة إلى ورقة في معركة البوصلة    تسنیم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "كذبة العصر: حين تتحول مكة إلى ورقة في معركة البوصلة"
+      }
+    },
+    {
+      "title_original": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+      "title_zh": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+      "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-26T07:58:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week before the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt.",
+        "The decision ends the operation, offering, intermediation and advertising of betting.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Lula bans fixed-odds sports betting a week before Brazilian elections"
+      }
+    },
+    {
+      "title_original": "Bangkok roads submerged as flood disaster declared",
+      "title_zh": "Bangkok roads submerged as flood disaster declared",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-26T07:21:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Bangkok roads submerged as flood disaster declared\n- Published\nA flood emergency disaster has been declared across Bangkok after 48 hours of heavy rain left roads in the Thai capital submerged.",
+        "People have been urged to stay at home and those living close to the city's network of canals have been advised to move their belongings to upper floors.",
+        "Thunderstorms are common in Thailand at this time of year but extreme weather in recent days has inundated Bangkok's drainage system, causing traffic chaos on roads that are already famously congested."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Bangkok roads submerged as flood disaster declared"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判",
+      "title_zh": "ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hWkYxcVRic2JYNDV1UzhrS0lLanFaWmkxd1RSVHQ5T0plcTNCV285eXR6X3FaeGpQa2FGcm5QdVhWQWhVcW14RG1mWnkweGdPZ3d0N1FqY3ozTG5QX3Myb9IBZkFVX3lxTFBTVDM0NkdMbTdDX040a2xaRGNuWS1vc2VwYmtEYkIyS1BYLURLV2F5V0ZSR3VPSkRlY1d3Tm14ckpQcDJRclM0aGZjTTZtSzc5cTR3X0ZYdEMxRDlISXVhT3NMekNWZw?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-09-26T07:10:48+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー大統領、ロシアがウクライナのデータセンター攻撃で「日常生活」を標的にしていると批判"
+      }
+    },
+    {
+      "title_original": "مسؤول تايواني: تسليح تايوان يصب في مصلحة أمريكا",
+      "title_zh": "مسؤول تايواني: تسليح تايوان يصب في مصلحة أمريكا",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQQ3RYMW9OSHpCU2w2VXJteExqZV9kNGVqSEJwcEZ2emtXOS1tQl9UVTA1dU9nWFZ3RVRCSE5peDJnTzlrTGVMaXByWDNwTGU2NTZNbjZrRTJMbUhBdlYwZks0ZDQ0LWpjWGVTdjU5RGFRbWJQRXFibVRJN1g5eENKX3JNVkhZX1NRSFc4UEtybFNjelRQWkZBSjVlN2NRYWxqckRaNDZwN1FxM3ZMNlRQTTY2OFg4aW94Q2ltZDVtaXVSVkpTQm5jdlR5dzBKbVVjRGFrWUs5WlNkZ1ZiUDRNaUxqRjFIV3RheGlaRmlrTkZTcWUxQTFQV29nbnJPaThpeXg5aWMxdUIyeFZVdWJDSm5VOEhZcXhWRE13QnVLS0dHTlhrSGY5WHhJUWkxVXMySmsxdDN5Vy1HLVJGWWFxUnZIV1VnYlE?oc=5",
+      "source": "القدس العربي",
+      "source_score": 40,
+      "published_at": "2026-09-26T06:51:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "مسؤول تايواني: تسليح تايوان يصب في مصلحة أمريكا    القدس العربي",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "القدس العربي"
+      ],
+      "all_titles": {
+        "ar": "مسؤول تايواني: تسليح تايوان يصب في مصلحة أمريكا"
+      }
+    },
+    {
+      "title_original": "US-Waffenlieferungen an Taiwan: Taiwan hofft auf Waffenlieferung der USA",
+      "title_zh": "US-Waffenlieferungen an Taiwan: Taiwan hofft auf Waffenlieferung der USA",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXVkSmhYdnV2NDJoZVB3dXR2eUY0TW9IaklaS3hodXdHWEZGc0o1TVBZSTZWUm1wanVjT0N2ZUEzSDVjeldNRlhyZXIyWFV6dzNpVjlvVWxPc3h2LV8ydTR3SDRrb0lMZkotLXNBM2dfalJQdndJTGMxRVpOal9QMG42Q3pKd0NlenNac0FpelpTajlnTUlFWlhpM2ZiWk9HTWhuS0ZmMjhUZw?oc=5",
+      "source": "DIE ZEIT",
+      "source_score": 40,
+      "published_at": "2026-09-26T06:26:02+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "US-Waffenlieferungen an Taiwan: Taiwan hofft auf Waffenlieferung der USA    DIE ZEIT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "DIE ZEIT"
+      ],
+      "all_titles": {
+        "de": "US-Waffenlieferungen an Taiwan: Taiwan hofft auf Waffenlieferung der USA"
+      }
+    },
+    {
+      "title_original": "拾光纪·白宫里的三张照片，见证中美关系行稳致远",
+      "title_zh": "拾光纪·白宫里的三张照片，见证中美关系行稳致远",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56LVVac2NsTkMxXzBOZy1iWVEzM0ZNMkp1dGhqNkxVcGRJeWJVOFdpSFFqV1laS0NQN18tQ1BpbVQwWGQ5UWtzOXpiN21COFpTQ3YwZy1SZVZlWkxvVW9USV9WRGxfUQ?oc=5",
+      "source": "光明网",
+      "source_score": 40,
+      "published_at": "2026-09-26T05:46:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "拾光纪·白宫里的三张照片，见证中美关系行稳致远    光明网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "光明网"
+      ],
+      "all_titles": {
+        "zh": "拾光纪·白宫里的三张照片，见证中美关系行稳致远"
+      }
+    },
+    {
+      "title_original": "White House bars CNN from travelling with Trump on Air Force One",
+      "title_zh": "White House bars CNN from travelling with Trump on Air Force One",
+      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-26T05:09:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "White House bars CNN from travelling with Trump on Air Force One\n- Published\nBroadcaster CNN has been barred from travelling with US President Donald Trump on Air Force One for a trip to Tennessee on Saturday.",
+        "The move is the latest in a battle between the White House and the media after it was forced to lift its ban on some news outlets.",
+        "CNN was scheduled to fly with Trump for his trip to Tennessee for a college American football game until a note released on Friday night by the White House did not list the broadcaster on the media schedule."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "White House bars CNN from travelling with Trump on Air Force One"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient: Donald Trump refuse l'offre de l'Iran pour rouvrir le détroit d'Ormuz sous sept jours",
+      "title_zh": "Guerre au Moyen-Orient: Donald Trump refuse l'offre de l'Iran pour rouvrir le détroit d'Ormuz sous sept jours",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOanRyLUE1bDdIeEhLRjg4M3R4ODBPWVZ0RmlLVUZudGc0UFRTWUVLR1dYVGNhS3hJbXhac0ZIcjdIVmZSQ2wyQkQ1VWtmUGpSbGZTbmJKVU5EYU9ySFFRN0xkVE5OTHdkckxNQ1BhaUJLZGxCc2p2akRVQUdqZTZtcGk0YXo3Qy1EQ29oenhsUWtoUkU1MDV4b1AyRncxLTVDU0RjQWEyeXBROVRaY1ptNEoyeGhGcDJFRWtOb1ExZHFsTDQycHZ3V1g1dmdCQjZlQmZZMzByYVVXYXB0OW12WXotZWN5UWZMdnhaaG5zQW81NjFmZm1LUW9wWHIwMTJvMEZSbC0wSUpLX1pLRGUxRlNqc0d2YWJuWTJOd1laMzhyRmY3a1lEb0Zqdw?oc=5",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-09-26T04:10:45+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient: Donald Trump refuse l'offre de l'Iran pour rouvrir le détroit d'Ormuz sous sept jours    BFM",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: Donald Trump refuse l'offre de l'Iran pour rouvrir le détroit d'Ormuz sous sept jours"
+      }
+    },
+    {
+      "title_original": "De Tinder a la OTAN: cómo entra Rusia por la puerta de atrás",
+      "title_zh": "De Tinder a la OTAN: cómo entra Rusia por la puerta de atrás",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEhmU0kxbFY2bjBVUVNHUVJNQmpxSms3Z2xBTEZaQUpUMWwweXN3ZlF5TkpYaXdyNFM1M0NrVFByT0hiRm8yYVZjbkduZVhzVUhoVDc4N3VnSk41QU94UEhCdDJGU0swVWMxUTIxdDctSHozWlBUMlRuYjNPOVRHdWsweDlkclpIN0V0RzVXNWZsUkZldDcwMlQ4OHotZGVLeTJCRFFxdXU1ZUdvaXdCdlV2aDYtazTSAcsBQVVfeXFMUE1FZ1ZXNG5XZGo3aFhuZ0JJQlQ2b3lpRmRwV1RVcmJ2SGgwSGhDX2JXQzhXWGJ1UmFsa2d0NnlEYTlON0FyNGFCclBVbDJuR3NZamVzSWJDQjhjN2FwN01TYXk5aV96VWNKYTZtT2dNeWhZNGl6YWJfX25saG1SWDQ5Y2NzTGVhbzZtRzdrZTJTSk1Wc2NwcnAwaFZabzduRmZ4Vm0zaV9ZM3NOZnZaZzc3QWZwcTdKWGQxS1E5T041VmVoRUk0MTBDV2M?oc=5",
+      "source": "La Razón",
+      "source_score": 40,
+      "published_at": "2026-09-26T04:10:14+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "De Tinder a la OTAN: cómo entra Rusia por la puerta de atrás    La Razón",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "La Razón"
+      ],
+      "all_titles": {
+        "es": "De Tinder a la OTAN: cómo entra Rusia por la puerta de atrás"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : l’Iran propose un plan pour le détroit d’Ormuz, Donald Trump le rejette… Les dernières infos",
+      "title_zh": "Guerre au Moyen-Orient : l’Iran propose un plan pour le détroit d’Ormuz, Donald Trump le rejette… Les dernières infos",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQUFMU2lvUVEzU2ZSR2ZWNmw1U0ZUZUtaQTZ5S2JGbTFWc054NDdqdFRjcGdZZjI5VHBJQ0ZuWUVnLVBDQ3BuT3phTEZ0aXpVV2tMTzJmTEh0endKRFU5bzJZc08tald0OFA0NnhtVFQwemlOendmYTdhVU9rR3dKZ3BuSXQ0dUU5dkdpU3RiTEJWTHJZYnljTlFqNEFqYUUwNU1DTV8yNlVzNVpMWGJzMk1Tb3UtNkhCMlBpTV9iOUhDU3U3WWFrRDliNENRZFNqdTZOUmJCYklKRm9YbzZkWWRwdzJna0hiUnotX2NocXFKQXNzUVU3aXRUanBqMUEwUHdEM2l6Y2o3WjBwT3UzNl9MdTlHQQ?oc=5",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-09-26T04:03:02+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : l’Iran propose un plan pour le détroit d’Ormuz, Donald Trump le rejette… Les dernières infos    Ouest-France",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : l’Iran propose un plan pour le détroit d’Ormuz, Donald Trump le rejette… Les dernières infos"
+      }
+    },
+    {
+      "title_original": "習氏、11年ぶりの国賓訪米で米中関係の安定誇示 来年の共産党大会へ内外の環境整備を加速",
+      "title_zh": "習氏、11年ぶりの国賓訪米で米中関係の安定誇示 来年の共産党大会へ内外の環境整備を加速",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GbXcyV3dDUUNPNXhpejVBbERjZHdDVlNRTWRVQTVzWjIzc2pMWTFOMFR0VTlKQWRrb3pVbDlmTXQzODQ1ZFprcGJLVXJHOTVCVjJpNGJ5Y2x2bHhsVkw5R181ZVFWZEpQTE11UEF4YXVVT0paREE?oc=5",
+      "source": "産経ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-26T03:45:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "習氏、11年ぶりの国賓訪米で米中関係の安定誇示 来年の共産党大会へ内外の環境整備を加速    産経ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "産経ニュース"
+      ],
+      "all_titles": {
+        "ja": "習氏、11年ぶりの国賓訪米で米中関係の安定誇示 来年の共産党大会へ内外の環境整備を加速"
+      }
+    },
+    {
+      "title_original": "Cómo la geopolítica está propiciando un regreso a la mina",
+      "title_zh": "Cómo la geopolítica está propiciando un regreso a la mina",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUHdLNHNOYktjR0VrcjZNTExfbUJvNXdNLWVSNWJZeFY0azRCa2ladHlUNzYyUnUzMEFKdlJ5RTFockFZa1lkcHlrUkdNRUNKVXBibWRMNFpfSVI3Skd4OGROUV9jbkJCSDZBUzBpVFFMUHNNbi1qTEVpcmVFSlJzUThSSEJxRnQ5Ym90TTZxNnVRdFBNazhCV2ttZVHSAbABQVVfeXFMUG5FT2cyMEt4V2sxdGVhTHRfMWRtOWhJQVEwMXpCRldnZ0hVTWVzdGNBcS1fbWNzSjhKbDJ2RTNyaTVvbGdDaDNDaW5NNnAtYVA5N01KdXRXY0xCN3J3dExDX2s5ZjlUYUg0WFJkSGlTQnh0ei1TNmV5cjhsNDhGOFJFZm1oX21jTlNpWl93UmRjajBYTHRKOGdOTkZsazJQbGVJanJGcmt5eXFMRjBIV1g?oc=5",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-09-26T03:40:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Cómo la geopolítica está propiciando un regreso a la mina    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Cómo la geopolítica está propiciando un regreso a la mina"
+      }
+    },
+    {
+      "title_original": "Brazil's Lula bans online gambling ahead of presidential election",
+      "title_zh": "Brazil's Lula bans online gambling ahead of presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-26T03:22:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Brazil's Lula bans online gambling ahead of presidential election\n- Published\nBrazilian President Luiz Inácio Lula da Silva has announced a ban on online gambling, just days before an election in which he is seeking a fourth term as the country's leader.",
+        "Lula, who is running against the son of the incarcerated former Brazilian President Jair Bolsonaro, signed a provisional order on Friday that \"prohibits all sports betting and online casinos\".",
+        "The online gambling industry in Brazil was legalised in 2018 and has since been blamed for widespread household income losses due to addiction."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Brazil's Lula bans online gambling ahead of presidential election"
+      }
+    },
     {
       "title_original": "OpenAI investigating 'dozens' of instances of agents acting improperly",
       "title_zh": "OpenAI investigating 'dozens' of instances of agents acting improperly",
