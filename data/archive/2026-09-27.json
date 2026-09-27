@@ -1,8 +1,858 @@
 {
   "date": "2026-09-27",
-  "generated_at": "2026-09-27T01:24:13.977591+00:00",
-  "count": 35,
+  "generated_at": "2026-09-27T15:39:54.534497+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "第一观察｜中美关系新定位内涵进一步拓展",
+      "title_zh": "第一观察｜中美关系新定位内涵进一步拓展",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xS2tUeXduMjVhR0JxOXBGRkgzOHktZHFvN19Xdk54R2t1dGtTeWlEWUNtbkRfaG5kS1NfYVNDODNjTEZuVnJOMFlkeF9fRmg2Ylh2Y2hiSGwtaWQ4TTlZZU1QakZpR2FhelJ0QVdDd1hQdHhQM0d3?oc=5",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-09-27T15:09:51+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "第一观察｜中美关系新定位内涵进一步拓展    新华网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "zh": "第一观察｜中美关系新定位内涵进一步拓展"
+      }
+    },
+    {
+      "title_original": "维文：中美关系暂处“休战” 须持续对话化解分歧",
+      "title_zh": "维文：中美关系暂处“休战” 须持续对话化解分歧",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2WU5NV2ZyTUJZQVp4djdsMWhHYjBOTlJzYV83V1hMOFJXNGtNWVFJUUhub2tTUWNYODlFN3V1UFlMc044ajFmWXB4eGJTVzdjc1BQejBuMVB4TFAxeVZPU0MzM1V2aXZsUEpndVRVbw?oc=5",
+      "source": "联合早报",
+      "source_score": 40,
+      "published_at": "2026-09-27T15:05:46+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "维文：中美关系暂处“休战” 须持续对话化解分歧    联合早报",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "联合早报"
+      ],
+      "all_titles": {
+        "zh": "维文：中美关系暂处“休战” 须持续对话化解分歧"
+      }
+    },
+    {
+      "title_original": "Two mass shootings in South Africa leave 27 dead",
+      "title_zh": "Two mass shootings in South Africa leave 27 dead",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-27T14:09:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Two mass shootings in South Africa leave 27 dead\n- Published\nTwenty-seven people have been killed in two mass shootings hours apart in South Africa, the latest gun violence to hit the country.",
+        "Seventeen people were killed when eight gunmen stormed a bar close to Johannesburg on Saturday evening, with 15 more injured.",
+        "In a separate shooting in the early hours of Sunday morning, 10 people were killed outside an entertainment venue in a township near Cape Town and a further 11 were injured."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Two mass shootings in South Africa leave 27 dead"
+      }
+    },
+    {
+      "title_original": "ICE puts vulnerable Republicans in a bind weeks before midterms",
+      "title_zh": "ICE puts vulnerable Republicans in a bind weeks before midterms",
+      "url": "https://www.politico.com/news/2026/09/27/ice-crackdown-immigration-republicans-midterms-01093912",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-27T10:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Immigration enforcement in Kansas, Texas, Florida and beyond is forcing battleground Republicans to answer for the fallout.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "ICE puts vulnerable Republicans in a bind weeks before midterms"
+      }
+    },
+    {
+      "title_original": "At least 27 dead after two mass shootings in South Africa, police say",
+      "title_zh": "At least 27 dead after two mass shootings in South Africa, police say",
+      "url": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-27T13:46:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, as the country grapples with one of the world’s highest murder rates amid investigations into corruption and criminality within the police.",
+        "The South African police service said on Sunday that 17 people were killed on Saturday night when eight suspects armed with AK-47 assault rifles and pistols opened fire at a bar in Wedela township, about 50 miles south-west of central Johannesburg.",
+        "At least 15 other people sustained gunshot injuries in that attack, police said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "At least 27 dead after two mass shootings in South Africa, police say"
+      }
+    },
+    {
+      "title_original": "L’Iran affirme avoir saisi un drone sous-marin américain à Ormuz",
+      "title_zh": "L’Iran affirme avoir saisi un drone sous-marin américain à Ormuz",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR2NiMVkxZXBJN2l5V0RZYmFmUnUyMS1VcC1GS002N1ZNeDVIRlczdjFZbE9wZ0NkVlJIMEF0SUZBRlpWRXNXTUxxcmF4LVFtQVpuT1B1SElrUjQ5clpzWXdVNk5DeHRHOHhMdlVSOTJOWDFkblZueDBpQXVUdXBxdGQ0UTQ2d3FOSHVPVGFrZl9VbzdTbmFhLXFfa05vNDdiazRVcGVGNXFBeTNPTFBkT0xiTHEwWWJkV0dOeFEzTWtYZlRFd2lIUUhaZThRRjVvb3FwSEc0TDJMM0k0?oc=5",
+      "source": "20 Minutes",
+      "source_score": 40,
+      "published_at": "2026-09-27T13:36:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "L’Iran affirme avoir saisi un drone sous-marin américain à Ormuz    20 Minutes",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "20 Minutes"
+      ],
+      "all_titles": {
+        "fr": "L’Iran affirme avoir saisi un drone sous-marin américain à Ormuz"
+      }
+    },
+    {
+      "title_original": "Two giant pandas set off to Atlanta zoo from China after Xi-Trump summit",
+      "title_zh": "Two giant pandas set off to Atlanta zoo from China after Xi-Trump summit",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-27T13:14:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Pandas departed Chengdu for their new homes in Georgia as part of agreement between Chinese and US governments Two giant pandas departed Chengdu in south-western China early on Sunday for their new homes in Atlanta , Georgia, as part of an agreement between the Chinese and US governments.",
+        "While in Washington DC for a three - day summit with Donald Trump , Chinese president Xi Jinping announced that the pandas would arrive in Atlanta in the coming days.",
+        "The loan of the pandas to the Atlanta zoo was one of the few concrete outcomes to come out of Xi’s state visit with the US president, which saw expressions of goodwill between the leaders, but no fixes to any of the longstanding differences between the two countries."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Two giant pandas set off to Atlanta zoo from China after Xi-Trump summit"
+      }
+    },
+    {
+      "title_original": "近镜头丨习近平主席访美书写中美关系历史新篇",
+      "title_zh": "近镜头丨习近平主席访美书写中美关系历史新篇",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjLUxmMFpINzdvdS05ekRNUkJ4OWRpd2V0VU5IUU85bEdtUjRzaWlJb0xTYnR3YUFObVdVY3hOUmIydUR1clBEOG43QTVma0NOaFBGRXZSWVhaSWg3ckVGbEN5TU9Ydk1sVlFESGtvSENFd3RlMDZR?oc=5",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-09-27T12:40:41+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "近镜头丨习近平主席访美书写中美关系历史新篇    新华网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "zh": "近镜头丨习近平主席访美书写中美关系历史新篇"
+      }
+    },
+    {
+      "title_original": "Ten climbers missing after avalanche hits Himalayan base camp",
+      "title_zh": "Ten climbers missing after avalanche hits Himalayan base camp",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-27T12:36:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ten climbers missing after avalanche hits Himalayan base camp\n- Published\nAt least 10 Nepalese climbers who were preparing to lead an expedition in the Himalayas are missing after an avalanche hit a base camp on Sunday morning.",
+        "The climb's organisers said the local guides were at a staging point close to the Himlung Himal peak in Manang district when the avalanche struck.",
+        "Forecasts showed there was heavy snowfall around the 7,126m (23,380ft) peak in recent days, which lies on Nepal's border with Tibet."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ten climbers missing after avalanche hits Himalayan base camp"
+      }
+    },
+    {
+      "title_original": "Early results show Swiss voters are on track to reject a push to tighten neutrality rules",
+      "title_zh": "Early results show Swiss voters are on track to reject a push to tighten neutrality rules",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXFyNkpXRHJzY0NPaEJRcG1rREF5ZkZ4d1Ftb3d2c2pqQjlPSml2NFVCS3RNMml2dVd1ME1iQ0QtMDJoVnhqRWVvcFJ2VnA5NGpiNmdKbG1HQVdHdUFDV1MtN2h3OWtsTUp2bTdWbmJoX2Y0T1RMRzFVTjE3bXpWMFhyMkdaSkktNFBVS3BNNnZIUElhTHBtcDdmNDMwQVVpaWViNHJ0T2ZqOXdEblQ2N2VSYnQySG8?oc=5",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-09-27T12:06:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Early results show Swiss voters are on track to reject a push to tighten neutrality rules    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "Early results show Swiss voters are on track to reject a push to tighten neutrality rules"
+      }
+    },
+    {
+      "title_original": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+      "title_zh": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-27T11:38:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit\n- Published\nPope Leo has called on French bishops to root out the \"scourge\" of sexual abuse in the Roman Catholic church, telling them to \"maintain the greatest vigilance\", ahead of a meeting with abuse survivors.",
+        "The Pope delivered the message to bishops during a private meeting at the Sanctuary of Our Holy Lady of Lourdes, a holy site in southern France, on the third day of his four-day official visit to France.",
+        "A 2021 inquiry found that clergy or lay members of the Church had abused about 330,000 people as children in France over 70 years."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit"
+      }
+    },
+    {
+      "title_original": "王毅谈习近平访美：拓展中美关系新定位-欧时大参–欧时网",
+      "title_zh": "王毅谈习近平访美：拓展中美关系新定位-欧时大参–欧时网",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS09xNS1yQXRBem5JY0xWTmxTX0ROYW5ac2xtQllyeTdsNWd4YVlHVkN5bC1sZ1hsTlA4ZUNCNHoyQjgzcEM1SVZUeTlBMVRSeTlRMDFaRUlzMWdsQkdyTzQ4anpUbmRHbGZzenRxUHZuTnNVOEZ3c29zTWJTd3dRR295XzZXRnEyNTZOc3o1cmhGbWEtSHZ1THNaX09TVEpS?oc=5",
+      "source": "oushinet.com",
+      "source_score": 40,
+      "published_at": "2026-09-27T11:09:19+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "王毅谈习近平访美：拓展中美关系新定位-欧时大参–欧时网    oushinet.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "oushinet.com"
+      ],
+      "all_titles": {
+        "zh": "王毅谈习近平访美：拓展中美关系新定位-欧时大参–欧时网"
+      }
+    },
+    {
+      "title_original": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
+      "title_zh": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
+      "url": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-27T11:00:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Two troops of chacma baboons are breaking into homes and shops but animal rights activists insist coexistence is the answer Cape Town’s city council has said it will “imminently” round up two baboon troops coming into repeated conflict with residents .",
+        "The animals will be sterilised and permanently moved to a newly constructed sanctuary.",
+        "The plan has been fiercely criticised by animal rights activists, who say the monkeys should remain roaming freely, and that less destructive options have not been properly considered."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys"
+      }
+    },
+    {
+      "title_original": "习言道｜习近平美国之行：中美关系从温故到知新",
+      "title_zh": "习言道｜习近平美国之行：中美关系从温故到知新",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2eUZwQUd4Y2VCYW9reFpzd0xjaG94cVpFc2dMZHJQaU5nWkFJZjFXdG83MmFZRkpGemE4VWY0YzhxZE43WVIzODRYZGhabEl5TkNsNVh5QTF5VHJabW5DalBGQU5zMXlW?oc=5",
+      "source": "chinanews.com.cn",
+      "source_score": 40,
+      "published_at": "2026-09-27T10:29:09+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "习言道｜习近平美国之行：中美关系从温故到知新    chinanews.com.cn",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "chinanews.com.cn"
+      ],
+      "all_titles": {
+        "zh": "习言道｜习近平美国之行：中美关系从温故到知新"
+      }
+    },
+    {
+      "title_original": "\"حياد نشط\" أم \"حياد كامل\".. أي معيار يحدد تعاون سويسرا مع حلف الناتو؟",
+      "title_zh": "\"حياد نشط\" أم \"حياد كامل\".. أي معيار يحدد تعاون سويسرا مع حلف الناتو؟",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOWWc2UmRRTWlLcFc4RTVnNklsVlBib3RocGZSUmRwOVh6eF9xYUV1ckNzZ2M5akRjd21NTzVDdjFic3NGOVNwTTQwVFd4SVIwZlJWN3djYTBOSGkzdXA3S1o2bjVkOVRqNWYzLUxpbEFBQmRrUy1TNEV5dnQwX09RY19WTnh2eldwSXVVaWRORmcySklDUUFPRDkzMXota0NDRmJmQ3Q5ek5qd01YWU5XRlJfNUt4b3ItN3MtSmJIWkRqZGVYZ1FlNHdocjdPbVpCV2M1eG0xM2dLMFI0MW13cjFNWWJxZ0ZSX21SaE1fSUJBYmpOSGdzY1FlYS1ndE95ZFpaNU43MGhKbVpvZ3p2MHZ1ZDBOXzgzVFZVSENlVE9TbkVvOTRQNTBpOWRKcHpEUWxHc0VzLU44QVRLQmxOd3dRYjg?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-27T09:55:32+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "\"حياد نشط\" أم \"حياد كامل\"..",
+        "أي معيار يحدد تعاون سويسرا مع حلف الناتو؟    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "\"حياد نشط\" أم \"حياد كامل\".. أي معيار يحدد تعاون سويسرا مع حلف الناتو؟"
+      }
+    },
+    {
+      "title_original": "Poland fears Ukraine war could spill over",
+      "title_zh": "Poland fears Ukraine war could spill over",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NYjB2TlQ3V3RWZ3BIR182RHp0ckp3ejM3STNaY2JQZTk0M2tpdTRVTllLRmxCUHlWQ2FuaWJBYXZrek9MeHhWY1BqNjVrYnIwS2c1Sm13WlR6UFh4TTk0T1RkanFzU05zamxqNmRPRmpTUlZRZXQtSw?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-09-27T09:52:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Poland fears Ukraine war could spill over    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "en": "Poland fears Ukraine war could spill over"
+      }
+    },
+    {
+      "title_original": "ロシア軍、ウクライナの通信関連施設への攻撃強化…ゼレンスキー大統領「日常生活が標的だ」（読売新聞オンライン）",
+      "title_zh": "ロシア軍、ウクライナの通信関連施設への攻撃強化…ゼレンスキー大統領「日常生活が標的だ」（読売新聞オンライン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oREV2eENReHJuRG5fekczVnB0Q2t0djNZQlVfZk1YV1RkNGxEN3AzMkFwc0lWTnhXX2xpOEp6QjRZMkp4WEhPOG9VbTdwcHlfTkpWbmhFZkRSS0xjZkh5UU5VN0hMOW00Vm9TTW5yVGJFY011YldIMldNQ0lGTjg?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-27T09:36:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア軍、ウクライナの通信関連施設への攻撃強化…ゼレンスキー大統領「日常生活が標的だ」（読売新聞オンライン）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍、ウクライナの通信関連施設への攻撃強化…ゼレンスキー大統領「日常生活が標的だ」（読売新聞オンライン）"
+      }
+    },
+    {
+      "title_original": "Spannungen an der Nato-Ostflanke Russisches Medium löscht Artikel mit Atomdrohung gegen Litauen",
+      "title_zh": "Spannungen an der Nato-Ostflanke Russisches Medium löscht Artikel mit Atomdrohung gegen Litauen",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX2tSNDFRWDJJMTQwaHQ5VlBMXzhJc2pteXFLRDBpZHBMUldlNzVNNU9Qc3hZRUhRUnVlTzFfQWtkV294eFVXdzI5ZXptOWd1WVRhejA5TjZacWxIYWNnaWdScWQyT0U2MFpRWEdVQ0drT1ppRktCdlhySjN3OE03UUd5dEkwRFBybWFhRnJFbG0zdnZMQ1FZZXI0NURqeW1xcDd2QXA0Yl9rNkhkYTNOWDJnUUN2S1dXN2JkS2M1NkhHem5iYll3RXc4TGdLWW5qNi12VVNzMVJhQ1REQ19qS19meEQ2anBI?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-09-27T09:33:41+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Spannungen an der Nato-Ostflanke Russisches Medium löscht Artikel mit Atomdrohung gegen Litauen    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Spannungen an der Nato-Ostflanke Russisches Medium löscht Artikel mit Atomdrohung gegen Litauen"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : un ministre israélien veut annexer Gaza ; fermeture des écoles à Riyad",
+      "title_zh": "Guerre au Moyen-Orient : un ministre israélien veut annexer Gaza ; fermeture des écoles à Riyad",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdEd6OHVGWWhzbVpTbXpDSHItRDRZUldKR2M2RnpCUXdBWHlUeTZQZGU4LWVob1pNbF9hWF9HbG5JTC1ZQ2t5NDVyQTd1S2xXUE5kTTJoQ3F5cnpRa1RHRXhMZXFwNk1FS3hNQ2ZVY3VCczRnLUlFcUVBbFlRYVdWd1VVU2hmSEE3VTdIRHJNTkttdVVRQU11ZFBhWGhWY2hwTjlMTHI2ZHRNb0EyT0hwS2ZTZDFOQXhDS0FQZDdfYVE?oc=5",
+      "source": "La Croix",
+      "source_score": 40,
+      "published_at": "2026-09-27T09:16:56+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : un ministre israélien veut annexer Gaza ; fermeture des écoles à Riyad    La Croix",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "La Croix"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : un ministre israélien veut annexer Gaza ; fermeture des écoles à Riyad"
+      }
+    },
+    {
+      "title_original": "ロシア軍、ウクライナの日本料理チェーンの倉庫を破壊",
+      "title_zh": "ロシア軍、ウクライナの日本料理チェーンの倉庫を破壊",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON3dralZhOGdWRE1iU0JvazNmVTdrMEtHU3BJdG41ZURJakQ5Wnk0N1ZCX2NDZnIyQkNFTGhMVkUxTHBVU251V2lxUGhyckNvWElRUXJXejNNT1dsTm5TNlFfeHFhckhxeWp0RHMzTExDdVFWemZoM1g2Qkl3NkxEdVN4U0NKU3RDOTdOWXhfQTU2ZXlrRWN2Vmw4T3VkdjQ4ZlA3a2pWZUZDa0pX0gGyAUFVX3lxTFBGV3o4WmtMeHRpUGxMREJCMTk4dGZ6dTB2S2cyQkFMZnNQZXB3MVZtbk5vYm5IX0dlUW5ma3pmSkh0SDdzcmxJelA2OUhfdVg3cUpmdFdCVzJzOEVHNFpCLTMzaS0wOXE3WnhzekpSZ1k5ZjJfUkNCSW4xeW1pb0dLS3c5dWFKRExidTJUQXlkM3ZFb0lfVnJvV2tqSmYtYjk1dWdVdFVOQnduTXVGRzRaM0E?oc=5",
+      "source": "ウクルインフォルム",
+      "source_score": 40,
+      "published_at": "2026-09-27T08:31:49+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ロシア軍、ウクライナの日本料理チェーンの倉庫を破壊    ウクルインフォルム",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "ウクルインフォルム"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍、ウクライナの日本料理チェーンの倉庫を破壊"
+      }
+    },
+    {
+      "title_original": "La tensión geopolítica provoca que los conductores europeos paguen 30 euros más al llenar el depósito del coche y los transportistas 236",
+      "title_zh": "La tensión geopolítica provoca que los conductores europeos paguen 30 euros más al llenar el depósito del coche y los transportistas 236",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZGpEOTN1RVJWemx5VkRDTVFxOE5CYWp1YXFNYjRRNUQ4UnlWYXczTVBIdE5Say1QQzFuaGFqTHQxd2xqU1gxdjI1R0c0bGUyRWMzdFVNZ3FjTUpvNTFqaV8xenJHY0NCLUV1aFE4dENlMDNTaWJxOWtNdDFraUItNGt1RVlydU5sXzIxZFpCRXVrLUZaZWhOTnNPTUFHVXhsQU9CaC1WQTFHMV9oU1BEOGdiaXEyZmRfcFhwdmFOSHluX3RNZXk5dFFKWDdWWEhJaGNYSk4yLVREMWEwMXpxZlpJNzY2Vk50akxJWmM3cGxaRWJkcTNhMnpFS3BIUWpsOFM5dWp0WmZiSGgwZ3ViNdIBpAJBVV95cUxPemZ1bE1hdkZiU1MzR3pHaGpqWnQ4RkxDVE9PMGVldUVvdTZ1RmItRkV6a0FueXl2NGhaQ3ZfNGhTUVdwdVJDRVNJVnAyempFc3Z3SS0yb0FlZ1NSbUhFemdQMWVuX0V6NnRGcUh6MFZvZ2Q5Y0JZdk51MGZjRWRzZnVaTDFrYXp1VjVjdjJqR2gyeWVlemVNanVfNE5US3I3WlpXdmFBUHVuUjlCbEl5ckFROEVIdTZZb2h2Rm9va1ZFTDNQOFctMklvSkVEV1BjclZzT3dVM2tXbGdfdnF4NGI4TWdwbWNjWVpUa294SDU2Z0RBV29tM0RPQ2tta3FLTk9sWEM2VFVwOWVRcmYxUXdjM1E1aS1oRk1zUzFyQ1NIVV90?oc=5",
+      "source": "La Razón",
+      "source_score": 40,
+      "published_at": "2026-09-27T08:17:32+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La tensión geopolítica provoca que los conductores europeos paguen 30 euros más al llenar el depósito del coche y los transportistas 236    La Razón",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "La Razón"
+      ],
+      "all_titles": {
+        "es": "La tensión geopolítica provoca que los conductores europeos paguen 30 euros más al llenar el depósito del coche y los transportistas 236"
+      }
+    },
+    {
+      "title_original": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "title_zh": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-27T07:44:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal\n- Published\nOnly a \"negotiated solution\" can end the conflict between the US and Iran, Tehran's foreign minister has said, after President Donald Trump publicly rejected a proposal to reopen the Strait of Hormuz.",
+        "Trump told reporters at the White House that Iran's proposal was not \"acceptable\" and that Tehran wanted to make a deal to open the strait to commercial shipping within seven days because \"they're losing so badly\".",
+        "In a post on Telegram, Iranian Foreign Minister Abbas Araghchi acknowledged Trump's rejection, but said Iran would wait for a \"definitive\" official US response."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal"
+      }
+    },
+    {
+      "title_original": "Taiwán defiende que avanzar en la venta de armas es de \"interés vital\" para Estados Unidos tras la visita de Xi Jinping",
+      "title_zh": "Taiwán defiende que avanzar en la venta de armas es de \"interés vital\" para Estados Unidos tras la visita de Xi Jinping",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZGlEa2pVaXY3UXNxMFJ5WWlHN0NQZENMQUZHYllGOFJjTTZteW1VSkkzNmxjZjJheWtyVDRwVVVKYi1LR08xUjlnUXphQ2FqNEdCY290dkQ3MXlmOGQyVElvTmUtWkRCMkcycVdlTlRQMU5uNHdfLTNmY2piNTRwWkV0VTRSdUZaMktTbFB1Nkd3V2duaWpYNG5IYUVmY0lnWG43MnUwcmdNekZYMUU3ZFpoSUw3QnpDeElnSjRlUTVTa01WUGpHeXlDeFpiR0F4MXZ5M1N1endWRXNleFc1empqdEdxbmxKNjlUSzJzUdIBgwJBVV95cUxNQUttaFdUSWExUUlUMmplSFpPek4wZTVDSDFEN1ZsYkN4X1hUYXUzbjNVQlJHaUVBamNneE5JcEpiR3UtU0ROS213Nm9tZi0ydkN4RmVGejVSQmE0QkVOT0pET3VVU2s0ejZRa0dvMWRydWNHUXJsUG1CY2FZS2ltRWF4Y2VwV3MwMnBOY2tMVzBxajVCbzVMX2F4aEtjd1hZMW1xcTFEYjlfSWRGYjlsLTIxbFJYUXNaalFNVThmRjJyUkRHdXQtbVBpZlR4Q2dsMUxLeEFPVk4wdVVPdGtubGp5TlRYRXdERnVLdVFTVUhMakxzeWF0T3dQQmFTc2lub0R3?oc=5",
+      "source": "La Razón",
+      "source_score": 40,
+      "published_at": "2026-09-27T07:31:56+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Taiwán defiende que avanzar en la venta de armas es de \"interés vital\" para Estados Unidos tras la visita de Xi Jinping    La Razón",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "La Razón"
+      ],
+      "all_titles": {
+        "es": "Taiwán defiende que avanzar en la venta de armas es de \"interés vital\" para Estados Unidos tras la visita de Xi Jinping"
+      }
+    },
+    {
+      "title_original": "La cifra de muertos palestinos en Gaza supera los 74.000 y otras noticias de Oriente Medio",
+      "title_zh": "La cifra de muertos palestinos en Gaza supera los 74.000 y otras noticias de Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVFVQdjY0YS1IdzV0dkxOajFfRU5RMHJ0S1RpYllUaGdNclpfMG5fcTlEd0FYQjYwNktrUFdkVjVmbE8tbWg1UlNtTXpxRFc5YkEwUkE2QTIyalluVlpMcTNFR09Oazk1OVRmb3Nua09nLVJKUmN2b2tfRmhia05rblZCdWt3MGx1aFhWZG53ZWItazd4WGphcmM2TDZVcEExNEZfQ2dIMmFmVXRNbEU1Mm5uQnZ0TmlaYVVudlgybDIzdlhSVjBEZ0lMdGtNWnZnUTVmTmZHemc3OTU3NGVjY0dqQmNTeWlG?oc=5",
+      "source": "independentespanol.com",
+      "source_score": 40,
+      "published_at": "2026-09-27T07:25:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La cifra de muertos palestinos en Gaza supera los 74.000 y otras noticias de Oriente Medio    independentespanol.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "independentespanol.com"
+      ],
+      "all_titles": {
+        "es": "La cifra de muertos palestinos en Gaza supera los 74.000 y otras noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "دبي تدشّن أذكى ميدان لاختبار التنقل ذاتي القيادة في الشرق الأوسط",
+      "title_zh": "دبي تدشّن أذكى ميدان لاختبار التنقل ذاتي القيادة في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxOaHYwd0dFakd3cmhzOWJfMm52WU4zQXphclJHeTJJMHAzMERDZDVUcUtyT3lyTjBFNkkxWnIyb0NNU3dxN2NTYkxabDJudzFPYWVtWWtWdk8za1hRZWp0YTJaYkhHcnRZRzVjN0IzNVNKYWJubjFuX21IZHUwY2xKSnlyWm5PZXAzZEM3M2dHMjBTRTZjN2s4Z0NoM2JDZnJoMnFHS0tDaHB5TVJPckkzM0ZTVmU1M29ycTlUVk1HTE9VQWdvcUZPal9QWUlFUU9CNEQ1WFV6Q1BGb3hwanhiMzFJdW40RDA1eFBOa08zT2tmNl9ub05lLVdFblpuVFo2ZmJELTFzUjgyZUtDbUFUbUdpYUFkOUNlRms4S2pva1lDUFlaMl9vNnpNTkdHSDNZcUdBa0hoTFlZS3VudEFmNGpTVEJ0ZkxlVkNjMmRkWHRUR1RKWTdoamw1OVlpVUthTXlHNzc4ZVdRMi1ZYUxleG5BLW45OFlRQk1remg4TDZJRUlGRW5ZUW8zTF9HRDljcjByS1FnZDgtT0piTUZPU0pMeW1uUUJDbU1rejFRYVJVQmZwUzN1bXU3LTduN1BycGR2YXRxenZJM0VLRHlqZXRyQVZwZkpkZjc5OEQ5SzlEdXRMSklzSXE0S0hSOGFCLU1FUzZLZFJRaml5a0NjRlc2Zy15ckxSWjdzMHVkYTVsSGdldURpR194X1h1SEExLW5YVUFtTGxLLW5wQWEyaVJSS2lqemxicGMzdWp3d3dQaGs?oc=5",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-09-27T06:48:40+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "دبي تدشّن أذكى ميدان لاختبار التنقل ذاتي القيادة في الشرق الأوسط    صحيفة الخليج",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "دبي تدشّن أذكى ميدان لاختبار التنقل ذاتي القيادة في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "特稿｜为中美关系提供新的战略指引——美国各界高度评价习近平主席对美国进行国事访问",
+      "title_zh": "特稿｜为中美关系提供新的战略指引——美国各界高度评价习近平主席对美国进行国事访问",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xVmM0S0xwcGRGcU1takMzRjJ3Z1pWR0dHREN0MmdvQUxVYkx1SThIRmNIRjRaNndPMlNfRnZPSHZjeFlJTEJpXzE2TG5ET2FiQklrNUhMSTRobzBUSTFJcTdyenlmMm16?oc=5",
+      "source": "紫牛新闻",
+      "source_score": 40,
+      "published_at": "2026-09-27T06:37:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "特稿｜为中美关系提供新的战略指引——美国各界高度评价习近平主席对美国进行国事访问    紫牛新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "紫牛新闻"
+      ],
+      "all_titles": {
+        "zh": "特稿｜为中美关系提供新的战略指引——美国各界高度评价习近平主席对美国进行国事访问"
+      }
+    },
+    {
+      "title_original": "Swiss voters reject tighter neutrality rules that would have curbed NATO cooperation",
+      "title_zh": "Swiss voters reject tighter neutrality rules that would have curbed NATO cooperation",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWVA4TkVYNVNZdVQwNGlVdnh1THlUXzlrYm04SXVMeGdrOHhEZXVhMV9iZ3EyNGUwVlRkN0x0QmtQaC0zQXNjd0RYRjhnWmlDVlNLZ3pSaGlVMTFRbEtCRHg2eVhkME9VMEFncTQ0Nk5rV0ljTFdxNENxU2xiNjQ4WEhDMF9STXg1N3JXT3YwcGxQbURCeEVHSXNiTW4zNk5rc0hhamFYLWFpMkhGSFZ3TF9HbzR2NWhxZ0tZ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-27T06:03:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Swiss voters reject tighter neutrality rules that would have curbed NATO cooperation    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Swiss voters reject tighter neutrality rules that would have curbed NATO cooperation"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月27日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（9月27日の動き）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FbHh5R01PZWZaZU1veFQ3M0xjNUtjTTZpWUFNYVNWbnB4Q1I3TENfV2dKRzhGSGFmektOX2NQZWxIQ05jN2sxamVRYU0xeE5Na3NFTnpsZ3RzTE9QXzhv?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-27T05:39:46+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（9月27日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（9月27日の動き）"
+      }
+    },
+    {
+      "title_original": "Was Putin schon 1994 verriet – und wie man mit Russland verhandelt: Ein Buch liefert Lehren für den Ukraine-Krieg",
+      "title_zh": "Was Putin schon 1994 verriet – und wie man mit Russland verhandelt: Ein Buch liefert Lehren für den Ukraine-Krieg",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVHp3bVFGdm5Bc0pCNVoyRU1TOTh4T0M5VUJjYzBPcW1qOGR6MGpEWndBXy13WTlWczN6dGZYbmRPbDZKeVdZVmlMZFR3WW44cmZrVnExTEotNFZLMVdwdFlRM3plcjdDQ3JFeF9EeG45LWpiWUFxdGZKVjI1d0lwdk1acU4zZ1N4dWktTnh4QXA4bXh3X1p6am9fRTdBUUg2TDFrQkxvbnNLY1FlRUZfRnd6N1kzbm1iOEo3eUNSMXoyNmZWbkg4Qw?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-27T05:31:36+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Was Putin schon 1994 verriet – und wie man mit Russland verhandelt: Ein Buch liefert Lehren für den Ukraine-Krieg    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Was Putin schon 1994 verriet – und wie man mit Russland verhandelt: Ein Buch liefert Lehren für den Ukraine-Krieg"
+      }
+    },
+    {
+      "title_original": "Erdogan im Interview: „Halten es nicht für richtig, der Türkei die Wahl aufzuzwingen“ – Kurs zwischen Ost und West",
+      "title_zh": "Erdogan im Interview: „Halten es nicht für richtig, der Türkei die Wahl aufzuzwingen“ – Kurs zwischen Ost und West",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOERCSE56VFg0eXVvamNkUV9TbWc3Smk2aGN0RFQzTFdRYTQ5UWdSYVhfUlFZMEZRV0JGTG9xOGk4MHVsNFMxNUMzQzFadTdPMjNqT3JrZEhsRXZTR2EtMTY5dFFGc2RkYnZJOVBJN0p1WWhmRW5fUmFGMGFMek80aDNNQlJGWHBxOS13M2NRdWlJWldSVGFKbFhsNlJkVnIxRmdBZk44akIyVnRybWN6RQ?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-27T05:28:06+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Erdogan im Interview: „Halten es nicht für richtig, der Türkei die Wahl aufzuzwingen“ – Kurs zwischen Ost und West    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Erdogan im Interview: „Halten es nicht für richtig, der Türkei die Wahl aufzuzwingen“ – Kurs zwischen Ost und West"
+      }
+    },
+    {
+      "title_original": "Bangkok roads submerged as flood disaster declared",
+      "title_zh": "Bangkok roads submerged as flood disaster declared",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-27T04:45:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Bangkok roads submerged as flood disaster declared\n- Published\nA flood emergency disaster has been declared across Bangkok after more than 300mm (12in) of rain fell since Thursday, leaving roads in the Thai capital submerged.",
+        "On Sunday, Bangkok's Metropolitan Authority said the rains have subsided, but canal water levels remain high.",
+        "The city's governor has warned that the flooding is not yet over."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Bangkok roads submerged as flood disaster declared"
+      }
+    },
+    {
+      "title_original": "La OTAN cubre desde el sur el inviable ataque a Ceuta",
+      "title_zh": "La OTAN cubre desde el sur el inviable ataque a Ceuta",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTdvS2cwbVNjVmo3bjJ6Q2NzckZfZk9uSFp3enhPRkdCZU5rUXUxNjZMSkJhMmVsX0tlQ0VQeE05cWZjYUZlSTh1WUFaYWtUNUU2WnFwUzZ0TTZzYlJZc2NVRXBjdVBtRUtPeEt2UDgySEV0X3ltVmdUbGt2aWxMNGdyYkItZzVDbVRBQ3Q2bElWOGPSAZgBQVVfeXFMTXRRYUxVc2gwMUFIMlY1MDJoNm83eUlvaVU1eDVvZnd5cXh1RlZnVk9KV01Wb1NqakFwUXhvTm1sRmZSRnVTMk9jNGNmM0k3YUpUckVuRk1jYUJ6RXBBU1luYW4xS3ByRkViNV9IRkVvRldvelZ2R3B5YUVkNGpqbkNIbGY1Mm1vQXkwcFgxVHhfRjlnc0dYTTg?oc=5",
+      "source": "Diario de Sevilla",
+      "source_score": 40,
+      "published_at": "2026-09-27T04:30:55+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La OTAN cubre desde el sur el inviable ataque a Ceuta    Diario de Sevilla",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Diario de Sevilla"
+      ],
+      "all_titles": {
+        "es": "La OTAN cubre desde el sur el inviable ataque a Ceuta"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient: l'Iran maintient ses conditions pour rouvrir le détroit d'Ormuz malgré le refus de Donald Trump",
+      "title_zh": "Guerre au Moyen-Orient: l'Iran maintient ses conditions pour rouvrir le détroit d'Ormuz malgré le refus de Donald Trump",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRDRIS01KalFDNnozSUtxRE9FYzlKbVJvaWVnQVAtRDBUV010aTNIVEpQdHNRQ1RpVU1tUzRYLUpuYVJuY2l3Ui1sOHk2ZVNxLWJLVlAtOEFVc0dSTXpDZXVIR2VhVFpmWUJvYzMtU08wUEozRGQ1VHpLTkdjbkM3WHh0WG5WQ1VZekg4WWE3d2hDZFZON2F3b293VExZd3p4RlZxVURRaXRyb0xEeEdmaV9kYm9Mb1RacUxvaFFsVmhoSDh4bUxuTERYRjk5cmVsejgwbExvZ3dNNW1QSzVlNXRDNzNJbFN0a0haczJlX0ZqT1JSR245NFNtUjhTMkN3V3VuX3JyY3JpSTdvaFdlRjZfQ2NuWVNPdG92S0Zn?oc=5",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-09-27T04:11:54+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient: l'Iran maintient ses conditions pour rouvrir le détroit d'Ormuz malgré le refus de Donald Trump    BFM",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: l'Iran maintient ses conditions pour rouvrir le détroit d'Ormuz malgré le refus de Donald Trump"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Donald Trump refuse encore le plan iranien, Téhéran attend une réponse… Les dernières infos",
+      "title_zh": "Guerre au Moyen-Orient : Donald Trump refuse encore le plan iranien, Téhéran attend une réponse… Les dernières infos",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNX3BkbDNTdnZrMkhHZXhhRzhOeld6REM3eGhJOXl3RWpTQTl2SF9GLUpiYWRoa3NNOTk0MXNueG45WHFxeW4zWHpncEFsY3pjM0VtY0dXZ29kR0RNeDBnSFUwODAydm5EeW1HLTZJTElzcmlYbmY2MlYxVF9iVjEwWjhaSHRaOGlTakRRNDkwRjFDRVBDUl9pSkxLXzZRRkRwYTJnUVBhcWp5OHdES0FXWkZtWWxwWHNKWUgwWnZXX0w0Zk1wbG1YWkplRXVnN3lWZ05xcjhxVHhVckNMNnRvREMxSTJvS1c0dDBoeTBRbXdDMGM3bEpEVnNuRkpWQ05qWnVpQWJ2OXJ6dUtCdklEQnYtVzNSYU0?oc=5",
+      "source": "ouest-france.fr",
+      "source_score": 40,
+      "published_at": "2026-09-27T04:06:02+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : Donald Trump refuse encore le plan iranien, Téhéran attend une réponse… Les dernières infos    ouest-france.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "ouest-france.fr"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Donald Trump refuse encore le plan iranien, Téhéran attend une réponse… Les dernières infos"
+      }
+    },
     {
       "title_original": "قضايا الشرق الأوسط وأزمة هرمز تتصدر خطابات اليوم الخامس من المناقشة العامة للجمعية العامة للأمم المتحدة",
       "title_zh": "قضايا الشرق الأوسط وأزمة هرمز تتصدر خطابات اليوم الخامس من المناقشة العامة للجمعية العامة للأمم المتحدة",
