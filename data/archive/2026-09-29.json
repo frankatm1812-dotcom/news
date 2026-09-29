@@ -1,8 +1,583 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-28T18:36:28.735964+00:00",
-  "count": 35,
+  "generated_at": "2026-09-29T02:34:49.331177+00:00",
+  "count": 59,
   "articles": [
+    {
+      "title_original": "OpenAI scraps rollout of new model over safety concerns",
+      "title_zh": "OpenAI scraps rollout of new model over safety concerns",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-29T02:29:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "OpenAI scraps rollout of new model over safety concerns\n- Published\nOpenAI will not release its new AI model - GPT-6.1 Astra - due to safety concerns, the ChatGPT-maker confirmed on Tuesday.",
+        "The AI system - which performs tasks like browsing the web and using apps by itself - \"didn't quite meet the bar\" of the company's standards, Saachi Jain, head of safety systems at OpenAI, said.",
+        "On Tuesday, OpenAI also issued an update on incidents - that occurred in June but were not made public until last week - in which its models accessed Australian government websites and systems without authorisation."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "OpenAI scraps rollout of new model over safety concerns"
+      }
+    },
+    {
+      "title_original": "Pekín reclama a Japón corregir su postura sobre Taiwán para restablecer la relación bilateral",
+      "title_zh": "Pekín reclama a Japón corregir su postura sobre Taiwán para restablecer la relación bilateral",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMl9CMEpudFBCdlB2VjU3QXJuM2xEQm9STWFYYWx0dHU1enRiMEFjMVhoanBxVXZUUXJwWkEyQTE3UE50R2tJWE96TUw3TEo0T3BsaG5mZ3ZrbnloUUZ4c0RuYTdMZThpMU1NX0NDN05qN1BoZzJQSUxfaEVvWjB5QTF6R0d4a2Y1Y19POEVOenpQUElpWUh1NTNocjlIZnlxd2lnSEV4SzBoUVZHLWhhRk1LS0hVOG1GUGllUDMwUXdDck41NzNwX2RZd3JNd9IB0wFBVV95cUxOMUR6NThaUmIxalFWTnZQNUVPN1hBSmhmamtfMTYwRlN3RlVfdTk2eGlJNHgydkFBUkNtTHFZWUtTdmg2T3VPZkk3a2pibVVZUTBqSnRzclhsUHZwcUk4TzlvZ21sRzZPbC1EM2JjUTIzS0l6UThTUnF3RU5TYUMzVHJRU0xSOHJNbno3WHdCelRhZFBtOVM4SmtHM2lqaWp2Nm9BeHBoSEE0Y0d0ZU0tbV91N0wzWmMwZUM3OU9TeTRnZDhTNU5YUGRrckxZSkhBWUNz?oc=5",
+      "source": "Demócrata",
+      "source_score": 40,
+      "published_at": "2026-09-29T02:24:50+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Pekín reclama a Japón corregir su postura sobre Taiwán para restablecer la relación bilateral    Demócrata",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Demócrata"
+      ],
+      "all_titles": {
+        "es": "Pekín reclama a Japón corregir su postura sobre Taiwán para restablecer la relación bilateral"
+      }
+    },
+    {
+      "title_original": "原油先物続伸、中東の供給懸念根強く 輸出は回復の兆し",
+      "title_zh": "原油先物続伸、中東の供給懸念根強く 輸出は回復の兆し",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2Q3VLSFNGUEcxbllqajNyZjV3bWZ2QjZTZTNibzAtLUtiTXhmY2lIMFBXWTd1dFFmS3g5bWd1MThMU2lMQW4xV3JEcUdvS1JlY0NnWGQ4Z0UxZ2hDOUtIWnZ6T2VkMENzNDYwb1NvUHFHTHN3S0tVbFZvcjB5Zw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-29T01:14:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物続伸、中東の供給懸念根強く 輸出は回復の兆し    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物続伸、中東の供給懸念根強く 輸出は回復の兆し"
+      }
+    },
+    {
+      "title_original": "外壁にしがみついて救助を待つ男性ら ウクライナ首都キーウでロシアの攻撃、建物で火災発生",
+      "title_zh": "外壁にしがみついて救助を待つ男性ら ウクライナ首都キーウでロシアの攻撃、建物で火災発生",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WUUs4X09DTDVzcTd5TFplV2JPSjJILWxuZVVHcWJZaFJtbjZNaXlfa3c1blhqVjBKY3JDWnFwQ3Rod0lxb0FWVWVNaGVnOVY1MzJ0b05PWkd5emxKQWc1WTB5RE8zM09jNjJkSS1WaXhoSzVRWW10TGVhZUhKdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-29T01:03:11+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "外壁にしがみついて救助を待つ男性ら ウクライナ首都キーウでロシアの攻撃、建物で火災発生    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "外壁にしがみついて救助を待つ男性ら ウクライナ首都キーウでロシアの攻撃、建物で火災発生"
+      }
+    },
+    {
+      "title_original": "النفط يرتفع لجلسة ثانية وسط مخاوف حيال إمدادات الشرق الأوسط",
+      "title_zh": "النفط يرتفع لجلسة ثانية وسط مخاوف حيال إمدادات الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XNUhSNVMybFZfRjh3ckFXRkw1MDVnVlQ1Z2lKcGNhWE1IN1JDTlRUZ1dQQjdLdVpzaHY4SGVwbEZlenAwNGdVS29fYW5fUTNWRlE1eXA0OWkyOFJWRWVuWGVwcG9pZmhVTElydXVmcTBFOWZnMGt0cWE5M2c3c2c?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-29T00:57:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "النفط يرتفع لجلسة ثانية وسط مخاوف حيال إمدادات الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "النفط يرتفع لجلسة ثانية وسط مخاوف حيال إمدادات الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "ロシア、27年国防費はウクライナ侵攻後の最高額に",
+      "title_zh": "ロシア、27年国防費はウクライナ侵攻後の最高額に",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWGVUMU9xNlBNTEtyRHV4UjVGRXpYYTBFbjhUU1U0S3IyNFFPcWt3UUNQTTdTWWpaeU55UXU2Y3VpWWhEbnVaMDliUzJjYTdza09RcFp3OEthR1RoZjJwNzRCajlmQ3pwT21fRm1YZFRHSU1YeGpnNVRvSFRST0JyTllnQVFZZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-29T00:19:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア、27年国防費はウクライナ侵攻後の最高額に    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア、27年国防費はウクライナ侵攻後の最高額に"
+      }
+    },
+    {
+      "title_original": "北朝鮮、ロシアに1万人の追加派兵準備 ゼレンスキー氏指摘",
+      "title_zh": "北朝鮮、ロシアに1万人の追加派兵準備 ゼレンスキー氏指摘",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNamdEc2Z5dTRsZGloQ0xxUXh6UVdnZ2dVWDQxV3NfTkRndHdVWGF6VzdvLWZJRXpsZW9BZGxuNXRaVlNjWVZxTXlWbVJPUTlDVndzSmRQZ0VaTEtGX3lpZXZwdXlhUGNmLVlLQVY5VVVkQlRicDIyMlZ0bmlfNlAtejdJOWdldw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-28T23:55:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北朝鮮、ロシアに1万人の追加派兵準備 ゼレンスキー氏指摘    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "北朝鮮、ロシアに1万人の追加派兵準備 ゼレンスキー氏指摘"
+      }
+    },
+    {
+      "title_original": "ロシアがウクライナ各地をドローン攻撃、キーウでは科学研究機関が被害",
+      "title_zh": "ロシアがウクライナ各地をドローン攻撃、キーウでは科学研究機関が被害",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeVhONXp3V0VkWHBoazVnR0xSNExDMjh5WlNGc2VsUUxQRGcwNXlhSndudXl1Y3gtU09XbnRFSElCRXNVZjdtUWNVWVZiUlAwWC15LXJXaG5mRGFpQzVUdVZFclhEQ2RMZlV5TzZDampqUXhmbXJac3MxWlhsU25rZTFZNTItUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-28T22:51:15+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシアがウクライナ各地をドローン攻撃、キーウでは科学研究機関が被害    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシアがウクライナ各地をドローン攻撃、キーウでは科学研究機関が被害"
+      }
+    },
+    {
+      "title_original": "三张照片，见证中美关系的刻度（一见）",
+      "title_zh": "三张照片，见证中美关系的刻度（一见）",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa0UxUHRhRk54a05BdFNlWFhxYzlERHZtVGFWZE1KTkUzNGpZcXRaSGJpd2FXWHhGbFFlTVVpaFJwOHVWM3o0enR5TWlJSHZDdDZDMmFnMHEyUnA3ZUdpRFRURlJKSWc3VVNkbkVkcTc1aFFYZi1uTDkzN3FPUXBFb1pxbw?oc=5",
+      "source": "人民日报",
+      "source_score": 95,
+      "published_at": "2026-09-28T22:48:33+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "三张照片，见证中美关系的刻度（一见）    人民日报",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "人民日报"
+      ],
+      "all_titles": {
+        "zh": "三张照片，见证中美关系的刻度（一见）"
+      }
+    },
+    {
+      "title_original": "Pentagon Policy Chief Says NATO Allies Back Europe Defense Shift",
+      "title_zh": "Pentagon Policy Chief Says NATO Allies Back Europe Defense Shift",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2NUcGF3TjFra2hSOHItZ01hV2JpSHZfTzcwa0JVejNLemkxSTBhUG85Z2gySHJUM0lkNExzSWZJbEN2Q3NwVmxuUHpWRkptdjhXVkRoT0hvWHNXc1hZc0RuaGhpVFotWExiRkE1N1BUblZVQ19HbnJTQ2YtLXlLZTJTTFNJbWJwaTFKUWhyZUsxNUtJbTR6YTdNcEJvdURCNURUeUpVNEJDdDlrRFViNm1GRTFmQQ?oc=5",
+      "source": "Bloomberg",
+      "source_score": 95,
+      "published_at": "2026-09-28T22:35:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Pentagon Policy Chief Says NATO Allies Back Europe Defense Shift    Bloomberg",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Bloomberg"
+      ],
+      "all_titles": {
+        "en": "Pentagon Policy Chief Says NATO Allies Back Europe Defense Shift"
+      }
+    },
+    {
+      "title_original": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
+      "title_zh": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
+      "url": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-28T22:27:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Tennessee governor rejects clemency bid for Christa Pike as execution looms\n- Published\nTennessee Governor Bill Lee has denied a clemency request from death row inmate Christa Pike, who is scheduled to be executed by lethal injection on Wednesday.",
+        "Pike, now 50, was 18 when she and her then-boyfriend beat, tortured and murdered Colleen Slemmer, a 19-year-old they met at a job training camp for troubled teens.",
+        "She may have one last chance at halting her execution as her attorneys have filed a petition with the US Supreme Court hoping for a last-minute reprieve."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Tennessee governor rejects clemency bid for Christa Pike as execution looms"
+      }
+    },
+    {
+      "title_original": "携手牵引中美关系大船行稳致远",
+      "title_zh": "携手牵引中美关系大船行稳致远",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4d2VzanFINHFoTGdXOENvMUZKYVdoVUhkLTRMMVY4MGljWU56NVlPcnhTWlpybkU3eWxsanUwU0thREtSMzBlWXh6SE5QLVJsU2xuOFZhV2I1SHhkTW01Q3VYRHNBaHNidG9pYUhvRQ?oc=5",
+      "source": "中国经济网",
+      "source_score": 40,
+      "published_at": "2026-09-28T22:17:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "携手牵引中美关系大船行稳致远    中国经济网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "中国经济网"
+      ],
+      "all_titles": {
+        "zh": "携手牵引中美关系大船行稳致远"
+      }
+    },
+    {
+      "title_original": "French PM warns against escalation of school protests after 164 arrested",
+      "title_zh": "French PM warns against escalation of school protests after 164 arrested",
+      "url": "https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-28T21:46:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "French PM warns against escalation of school protests after 164 arrested\n- Published\nFrance's Prime Minister Sébastien Lecornu has warned that any escalation in the country's current wave of student protests would be \"irresponsible\", following the arrests of 164 people on Monday.",
+        "The demonstrations, which began in Paris and have seen teenagers blockading their schools for days, stem from issues including overcrowded classes and teacher shortages.",
+        "Lecornu cited reported incidents at protests in a post on X, saying: \"Fireworks, fires, violence near high schools: nothing justifies endangering students, staff, or police officers.\"\nBut a French union that defends the interests of high school students said the protests were a \"legitimate response\" to the conditions they face."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "French PM warns against escalation of school protests after 164 arrested"
+      }
+    },
+    {
+      "title_original": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
+      "title_zh": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSU9Lc1hBTTgyNGFuNDRKdjdzUW5DWl9HVGdoYUNtZVI5MVItakl1X3NsV2pnM3ZnVWxzd0ZCaF93UDQ1SjBySTI1RF9LbDhXVXdrNWdoQnJpY1JOY2NOQmNiN2l3cGdBdklhM2Y5b3BMYllCWjRLRHo3R1hDemFaQk9HckNmNnB1SU45VTZ5SXdxd1dfVUZBYkI0bHJKX0ROOFl1S0IxcElVT3dobWNPSHB0bl9RSzlvcFJ6R9IBwgFBVV95cUxNQVJ3VlkxdDFwNURpYm4xNWFhWDVrMld1Wm4wU3BCdTc1MU1yVlVqeHAydDlfR3l1TFp0c0JEVFpWbnM2ZHhCZW41bUdfcjJvZ3E1NEFFNU91Wnk5aENBVzRPYWFTT1lmXzdNUUJFWEE3TFhxLVhsOXZOVFhWeTZpZDkyakJhcjBpLXpndnRhN3kzY2tmdGNDWXc1ZDhrYXk0R1dqZUJycjdjVk1aRFNkb01wN2lqZGVnNXJUOTRmOWU1Zw?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-28T21:14:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "‘Friendship pandas’ arrive in Atlanta, marking US-China relations moment"
+      }
+    },
+    {
+      "title_original": "ＮＹ外為市場＝ドル横ばい、中東情勢にらみ原油高 週内の主要経済指標にも注目",
+      "title_zh": "ＮＹ外為市場＝ドル横ばい、中東情勢にらみ原油高 週内の主要経済指標にも注目",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtWVRPcjlsM0dLNlJHeEd3WThxM2NhNUZxZ0s5bnVUQlZhenpDVElXU2JONVhEOUp1ajhyWXBKVXpHMlNZOHFMMlBrdXZuREVJeTh5YS0zeUtnOThuTTVVRWJZemxmOXlwMW5oTDBYcWFSNUtGa2NQejB5RHFkUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-28T21:14:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ＮＹ外為市場＝ドル横ばい、中東情勢にらみ原油高 週内の主要経済指標にも注目    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ＮＹ外為市場＝ドル横ばい、中東情勢にらみ原油高 週内の主要経済指標にも注目"
+      }
+    },
+    {
+      "title_original": "Menin’s AI moment",
+      "title_zh": "Menin’s AI moment",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/28/menins-ai-moment-01095807",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-28T16:50:16-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Menin’s AI moment",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Menin’s AI moment"
+      }
+    },
+    {
+      "title_original": "Netanyahu se reúne con líder emiratí en viaje secreto a Abu Dabi y más noticias de Oriente Medio",
+      "title_zh": "Netanyahu se reúne con líder emiratí en viaje secreto a Abu Dabi y más noticias de Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWW4za3U3YWx1VW9naG05YWJZRWx6OEtEM0ZVMDRhYVVZVVExRGx5dGpPTFdqMFBLb29aWUdNT3I0UU9NYXlta3ZSMHFUckVoMm9kbnNONGxUR3ZBZkNxd20tNGM0c3hOVTR2Wk5ES0FGdGdSOEgtNE1GYWJnWHNlZzJyMkhMUXNpNDVZb0IxRkl5d0NPby1SeHp5OUYwZU91OWxmbk1RazBIS1ZiR3RNWjJjUmdRRkUzaUVmWVktX2pzVUtTbTVUWlA2MTNaX1NvZk1vVDE5bTdxVlBhNjV0VURqeTM4ZDg5ZVd6cDk3M2pnUQ?oc=5",
+      "source": "Los Angeles Times",
+      "source_score": 40,
+      "published_at": "2026-09-28T20:31:26+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Netanyahu se reúne con líder emiratí en viaje secreto a Abu Dabi y más noticias de Oriente Medio    Los Angeles Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Los Angeles Times"
+      ],
+      "all_titles": {
+        "es": "Netanyahu se reúne con líder emiratí en viaje secreto a Abu Dabi y más noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Stand-up comic released after being convicted of insulting Erdoğan",
+      "title_zh": "Stand-up comic released after being convicted of insulting Erdoğan",
+      "url": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-28T20:23:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Stand-up comic released after being convicted of insulting Erdoğan\n- Published\nAn Istanbul court has convicted a popular comedian of insulting President Recep Tayyip Erdoğan – and handed down a sentence of almost 19 months – but ordered his release due to time served.",
+        "It has also placed him under a travel ban, preventing him from travelling outside Turkey.",
+        "A final decision in the case will come from the court of appeals."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Stand-up comic released after being convicted of insulting Erdoğan"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient: les cours du pétrole tiraillés face aux incertitudes diplomatiques",
+      "title_zh": "Moyen-Orient: les cours du pétrole tiraillés face aux incertitudes diplomatiques",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVpLYTEtWnNMQVNkZ1pEdlB4ZHRFNklqbFBnelRlSlFIamE4Rnc2U081M3NEVmtqbGFpTWNNSmk0Qjh3QmlXTUhXemtweE8zU0kzRkxBTVlhYnhTaXFHQVBmZ2o5cG1tOUNTVmRXYzdsbjNtdURob0hXVWpMS3o3dDV0STR2VzRGLUFFb3pRMVNmUENYZWFYelBlbUdNeHB6TkgyMGlNYXJneHNvV09jQVBDdDVJWF9sbzZlZ3FQVQ?oc=5",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-09-28T19:58:48+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Moyen-Orient: les cours du pétrole tiraillés face aux incertitudes diplomatiques    Le Figaro",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient: les cours du pétrole tiraillés face aux incertitudes diplomatiques"
+      }
+    },
+    {
+      "title_original": "El comercio exterior y la geopolítica abren el III Summit del Frío 2026",
+      "title_zh": "El comercio exterior y la geopolítica abren el III Summit del Frío 2026",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamdYVGJuTWUweE1INXl3M1JxXzVGRVAtcEhaZGxvYm5TLWdQV19JU2J1Skw2d2k3VmZWNmpmQkI1RENyZVBlODc3S3BvTGFDdXdxOC1wTXdoQUxuY05zd0ZYdGd1dS16aHlxWEdYSlZSQzVFWTg4QUF4REt1Y0d3OUpqSnc3eGtiZmx3TkJ5SWZfakxmR0s4aW1EdmdnclJfaWw0ZkVXdHd5dklRQ050cV96cjJ3ek92?oc=5",
+      "source": "cadenadesuministro.es",
+      "source_score": 40,
+      "published_at": "2026-09-28T19:30:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "El comercio exterior y la geopolítica abren el III Summit del Frío 2026    cadenadesuministro.es",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "cadenadesuministro.es"
+      ],
+      "all_titles": {
+        "es": "El comercio exterior y la geopolítica abren el III Summit del Frío 2026"
+      }
+    },
+    {
+      "title_original": "Retornos bonos Tesoro EEUU suben con el foco en Oriente Medio y apuestas alzas tasas Fed",
+      "title_zh": "Retornos bonos Tesoro EEUU suben con el foco en Oriente Medio y apuestas alzas tasas Fed",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0U2VNMk5UeVM1RjR1eGtXbkE5N2JOUWZBWGI4ZkZ0OXFpZHFvMzhMVWQ2YnhDb0laQXRzYXVWMnpiczlibVl0ZFB5RlhxUGxwMkxTNWJEVlR0QUdfd2p3WGlRenhxYVVDLXJZOW5uaEhZZExGZWJz?oc=5",
+      "source": "TradingView",
+      "source_score": 40,
+      "published_at": "2026-09-28T19:25:39+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Retornos bonos Tesoro EEUU suben con el foco en Oriente Medio y apuestas alzas tasas Fed    TradingView",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "TradingView"
+      ],
+      "all_titles": {
+        "es": "Retornos bonos Tesoro EEUU suben con el foco en Oriente Medio y apuestas alzas tasas Fed"
+      }
+    },
+    {
+      "title_original": "丹麦常驻联合国代表：丹麦、格陵兰和美国签署安全协议 加强格陵兰、北约地区及美洲大陆防务",
+      "title_zh": "丹麦常驻联合国代表：丹麦、格陵兰和美国签署安全协议 加强格陵兰、北约地区及美洲大陆防务",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBkZ0wtYkF1dnhTZHdCNEtpT2hOU2JZS1BNYkdMUnFmQ3gxUnRPRmZSNGZidlR2UXI0NTRSdlFROGJha0pidzB4V3BlR0g0XzZWbUJOclJsVQ?oc=5",
+      "source": "UN News",
+      "source_score": 40,
+      "published_at": "2026-09-28T19:25:04+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "丹麦常驻联合国代表：丹麦、格陵兰和美国签署安全协议 加强格陵兰、北约地区及美洲大陆防务    UN News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "UN News"
+      ],
+      "all_titles": {
+        "zh": "丹麦常驻联合国代表：丹麦、格陵兰和美国签署安全协议 加强格陵兰、北约地区及美洲大陆防务"
+      }
+    },
+    {
+      "title_original": "El máximo responsable militar de la OTAN insta a los países a condenar los actos de sabotaje rusos",
+      "title_zh": "El máximo responsable militar de la OTAN insta a los países a condenar los actos de sabotaje rusos",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTgxaEdEank4VXduZGdJTHNtbF9aZjlNaDRtM242QlRfR2JqUnZDa0Mya0NpdzhoOGpablFQZUVwY2tmUE9JYk1uZ1QwZXZOYWVldmVmNHNJZ1RiZDNhT0lCb2Q5QjNHUzJaWm43ZGhtRTRKTzRTU2tYX2V5YUR6UkVjQ20xUVR1UzdwYnBXYmdFT0ct?oc=5",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-09-28T18:31:16+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "El máximo responsable militar de la OTAN insta a los países a condenar los actos de sabotaje rusos    Yahoo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "es": "El máximo responsable militar de la OTAN insta a los países a condenar los actos de sabotaje rusos"
+      }
+    },
     {
       "title_original": "Pope Leo urges concessions for peace as Ukraine war drags on",
       "title_zh": "Pope Leo urges concessions for peace as Ukraine war drags on",
@@ -176,6 +751,31 @@
       ],
       "all_titles": {
         "ar": "السلطات الإسرائيلية تغلق الطرق المؤدية للبلدة القديمة بالقدس، مع استمرار الإغلاق الشامل بالضفة الغربية، فكيف يتأثر المواطنون؟"
+      }
+    },
+    {
+      "title_original": "Four bodies found after avalanche hits Himalayan climbing group",
+      "title_zh": "Four bodies found after avalanche hits Himalayan climbing group",
+      "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-28T16:13:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Four bodies found after avalanche hits Himalayan climbing group\n- Published\nRescuers have recovered four bodies from the site of an avalanche that struck a climbing group camping in the Nepalese part of the Himalayas.",
+        "A dozen people are still thought to be missing after a sheet of snow fell on the base camp of Himlung Himal peak on Manang district on Sunday morning.",
+        "The group of Nepalese nationals, including climbers and support staff, had been sent ahead of foreign climbers to prepare the camp and fix ropes."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Four bodies found after avalanche hits Himalayan climbing group"
       }
     },
     {
