@@ -1,8 +1,658 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-29T16:54:02.708150+00:00",
-  "count": 35,
+  "generated_at": "2026-09-30T02:04:28.652898+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title_original": "Guerre au Moyen-Orient : sept morts à Gaza, un ministre israélien défend Jordan Bardella… Les dernières infos",
+      "title_zh": "Guerre au Moyen-Orient : sept morts à Gaza, un ministre israélien défend Jordan Bardella… Les dernières infos",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOR1cwblJ2OEFGOG5NY1pCZTViV3RZQ0lwMF8zRDFZS1lPVVdtWkJ6eUxoVUdIS0xuTDdBTVFQOU9tbmdvellyVW5qallLNFhaOHpZajR2SnNtX3I0SDFwZ1JIblRqUTlmSzhPTnBycWxPVlFyQnB4WWx3YldoQl9DcjRZOHgtUElVTUF6SmVIODM5WldpYmVaa0wzV3Y5Q1ptSWx5TjgzX3VBOUpRZ2ZIN25OS3lVM2d3X2g5bTliUk1tZDE4ajVjTHhHZHNhRFJzZC1fQUNPRnpGbG01aTUzM3VFRXh1WUxVQklKSWVnN3NObTdUcmRTMEh2b2NlTDhzaUR6TDVpUlV1b21RMXNMaUVYNjZmU0dWRkE?oc=5",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-09-30T01:56:11+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : sept morts à Gaza, un ministre israélien défend Jordan Bardella… Les dernières infos    Ouest-France",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : sept morts à Gaza, un ministre israélien défend Jordan Bardella… Les dernières infos"
+      }
+    },
+    {
+      "title_original": "AIRCOM strengthens NATO targeting expertise in ACO",
+      "title_zh": "AIRCOM strengthens NATO targeting expertise in ACO",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZVRQdEkyaVlLNmdNQk1NY0t1M3VGclllZlpnNVdVcUJnUFZYNmxjYU5fOWJxYWVZOW5qQ3hnM1JtY1VScnp4MklmVU5QU2xPTmxJM3FuYWlSTVg2QzNYLTJUb3pqX3RzRk9BblZJc0wxWjdYOEZTVkxNdkNjOHNKTlZ1eEp1c28tdGZTV24xQjB6Zw?oc=5",
+      "source": "ac.nato.int",
+      "source_score": 40,
+      "published_at": "2026-09-30T01:52:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "AIRCOM strengthens NATO targeting expertise in ACO    ac.nato.int",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "ac.nato.int"
+      ],
+      "all_titles": {
+        "en": "AIRCOM strengthens NATO targeting expertise in ACO"
+      }
+    },
+    {
+      "title_original": "Les prix du pétrole remontent légèrement après une forte baisse au Moyen-Orient",
+      "title_zh": "Les prix du pétrole remontent légèrement après une forte baisse au Moyen-Orient",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObjI0LU9RU0dBdWlDM0RhWDlGaDZhWVZLQy1qZGVhMWVhM0g5Sm5BN3ZWYWk2Ui0ta18wNmdZQm1EdjV0b25tWkZSR0ZOTWRUbmZsWGVPZEEyWFh2MDRCREJKSnVKUEh3ZjV5MFU0VnVYeWhSNDNpUTZ4MWpFR1BvY2Z2dm5WQjdKRkozUk93UHVXWmM0RFgtNTNKZWFQZnFpWjdVclR6bG9RMVdXM0J1djFNSm5HcXVITTg3VDlCY2tFa2RNdF9NU1JHY21nUQ?oc=5",
+      "source": "Investing.com France",
+      "source_score": 40,
+      "published_at": "2026-09-30T01:33:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Les prix du pétrole remontent légèrement après une forte baisse au Moyen-Orient    Investing.com France",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Investing.com France"
+      ],
+      "all_titles": {
+        "fr": "Les prix du pétrole remontent légèrement après une forte baisse au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "ウクライナ人道危機 人びとの命を守る最前線 ～ウクライナ赤十字社緊急対応チームの活動～｜トピックス｜国際活動について",
+      "title_zh": "ウクライナ人道危機 人びとの命を守る最前線 ～ウクライナ赤十字社緊急対応チームの活動～｜トピックス｜国際活動について",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tY1JKeTlhUC15VGUzSXUycEF3MnRzSDNnS2Zvc1RRZXNJam5hS0NBOWIwU3RmRTdFOVRzNGhsTXhiQWRrempVVldFMTRRemY4bjRCS0I0TEdQX0ZzRWhkaU5SdkFaUTNzbTJvQWNnaw?oc=5",
+      "source": "日本赤十字社",
+      "source_score": 40,
+      "published_at": "2026-09-30T01:01:59+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ人道危機 人びとの命を守る最前線 ～ウクライナ赤十字社緊急対応チームの活動～｜トピックス｜国際活動について    日本赤十字社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "日本赤十字社"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ人道危機 人びとの命を守る最前線 ～ウクライナ赤十字社緊急対応チームの活動～｜トピックス｜国際活動について"
+      }
+    },
+    {
+      "title_original": "ＥＵ、ウクライナの輸出枠再交渉を拒否",
+      "title_zh": "ＥＵ、ウクライナの輸出枠再交渉を拒否",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc1JubGQ2RWwzRmliQ09Za3hPV0JyWk1tTF9jeFJZOTNjS2NGNzRrcERzWk1nalVnS1JYRTdoOTEwa18xZ0Nma0I0MWVVOFF6ZDRBSHdheWE0ZUt2bVRrQTBrTGRyckc4WlBLaXA3YjVGZEJjRzRvcjBZNTR2NUNlcGtHN29aZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-30T00:53:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ＥＵ、ウクライナの輸出枠再交渉を拒否    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ＥＵ、ウクライナの輸出枠再交渉を拒否"
+      }
+    },
+    {
+      "title_original": "PARIS : Conflit au Moyen-Orient - L'inflation, une onde de choc économique durable jusqu'en 2027",
+      "title_zh": "PARIS : Conflit au Moyen-Orient - L'inflation, une onde de choc économique durable jusqu'en 2027",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU1VpaEMtZTU5ZnpkeVFhVzA4dHR5cUt6bkJ5VlhJLWphVDM1WTQ4aFVCaUxCTzI4SExNVnQtRGdVcEtVaFd0eU1uN0V5M1B2NkRNVDM0TVVFaHdDbi14aXVLaE5MNk11QVlBcmRKR09UdEFqamRFcmtiNVcyN3ZRMWxVbERBVGJzbmNyZnBtUGYyTUlacFpiWTh1TWNlQ3BxRHdOdkNMbEZKMEw2aXlBbm80bEs?oc=5",
+      "source": "Presse Agence",
+      "source_score": 40,
+      "published_at": "2026-09-30T00:00:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "PARIS : Conflit au Moyen-Orient - L'inflation, une onde de choc économique durable jusqu'en 2027    Presse Agence",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Presse Agence"
+      ],
+      "all_titles": {
+        "fr": "PARIS : Conflit au Moyen-Orient - L'inflation, une onde de choc économique durable jusqu'en 2027"
+      }
+    },
+    {
+      "title_original": "Irán afirma que guerra de Trump ha fracasado y otros acontecimientos en Oriente Medio",
+      "title_zh": "Irán afirma que guerra de Trump ha fracasado y otros acontecimientos en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdkJFWGR3SXR1Sm9QbE5HVGN3NjQxYVVRclMzc1FGcFZaVWs0VzRGX2lSS0EtOFJFcm5BNE9CNmZCV29MV2t6ZVh3T2F4TVVSQm5ETmVHd193QS1WM3lMaWNOT3M2eHplSFRVanEzaG9JMlpzb21saUNUOWt1MlMxaXFMTWc0Z3ZyR254emZBeFpiNzJKTjQ0ekFPcW5GRkRNcjVPd3F4MG5ueHpnUDNRUDVBN0xKY3ZXOGJhT2tKMUZRd0dYWF80aFZIMkdHSmNsa3g0SWIyMlhUZkVoOXI0aFFxWTdZdw?oc=5",
+      "source": "Los Angeles Times",
+      "source_score": 40,
+      "published_at": "2026-09-29T23:29:10+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Irán afirma que guerra de Trump ha fracasado y otros acontecimientos en Oriente Medio    Los Angeles Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Los Angeles Times"
+      ],
+      "all_titles": {
+        "es": "Irán afirma que guerra de Trump ha fracasado y otros acontecimientos en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Chinese AI tool told researchers how to make bioweapons",
+      "title_zh": "Chinese AI tool told researchers how to make bioweapons",
+      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-29T23:15:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Chinese AI tool told researchers how to make bioweapons\n- Published\nChinese AI developer Moonshot is conducting an internal review after researchers were able to persuade two of its popular Kimi models to tell them how to make biological weapons and carry out assassinations.",
+        "Mindgard, which tests the security of AI systems, told the BBC it discovered in July that Kimi K2.6 and K3 Swarm could evade safety limits put in place by developers.",
+        "It arose during a process called \"jailbreaking\", where researchers use a series of complex instructions to see if AI tools ignore guardrails - which Mindgard said should have stopped Kimi from discussing concerning topics."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Chinese AI tool told researchers how to make bioweapons"
+      }
+    },
+    {
+      "title_original": "South Africa to clean up high-risk areas after 12 women killed",
+      "title_zh": "South Africa to clean up high-risk areas after 12 women killed",
+      "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-29T22:33:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "South Africa to clean up high-risk areas after 12 women killed\n- Published\nSouth Africa's President Cyril Ramaphosa on Tuesday announced a clean-up of high-risk areas across the country, after the bodies of 12 women were discovered in an area east of Johannesburg in just two months.",
+        "The deaths sparked a national outcry about the scale of violence against women in South Africa, which has one of the highest rates of gender-based violence in the world.",
+        "Ramaphosa announced what he called a multidisciplinary, national-level emergency response to the murders, for which there have been four arrests."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "South Africa to clean up high-risk areas after 12 women killed"
+      }
+    },
+    {
+      "title_original": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
+      "title_zh": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
+      "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-29T22:33:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries"
+      }
+    },
+    {
+      "title_original": "Poland braces for potential confrontation as Russia tests NATO defenses",
+      "title_zh": "Poland braces for potential confrontation as Russia tests NATO defenses",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbXR3dmJqUnNhV3Y5ZjhVV1V0eUMxeWNhTHZnNXM5ZjlUX3ROSDNKSFJVYlB4ZWpVaW9vb2ExR1dZaFFYcDVPeXF4VkcxWmlYblloejRIOVloY1RCVzZhUVA5Nkw5cjVKMDVYaEEzaU02Q3BaNG1nd1Z5dUM1dmUzd1hob3dGa2NFakZKcGlwUV83cUd6djcxM29DTVZ4RFZ1RGU1VFM1cXU?oc=5",
+      "source": "PBS",
+      "source_score": 40,
+      "published_at": "2026-09-29T22:30:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Poland braces for potential confrontation as Russia tests NATO defenses    PBS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "PBS"
+      ],
+      "all_titles": {
+        "en": "Poland braces for potential confrontation as Russia tests NATO defenses"
+      }
+    },
+    {
+      "title_original": "ロシアで重大犯罪が急増 顕在化する「ウクライナ帰還兵」問題",
+      "title_zh": "ロシアで重大犯罪が急増 顕在化する「ウクライナ帰還兵」問題",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xbGtyRG1xdTkzQWFwNUg0amFwRGZiUE9JX3E5VGJJTUZrWVNuLUIwNGNSeHBRVkJvdEdqLW9hc1MtYzlyR0ZQaG95UTgwNmpzWHVfcS1BNGtldw?oc=5",
+      "source": "Forbes JAPAN",
+      "source_score": 55,
+      "published_at": "2026-09-29T22:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ロシアで重大犯罪が急増 顕在化する「ウクライナ帰還兵」問題    Forbes JAPAN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Forbes JAPAN"
+      ],
+      "all_titles": {
+        "ja": "ロシアで重大犯罪が急増 顕在化する「ウクライナ帰還兵」問題"
+      }
+    },
+    {
+      "title_original": "More than 400 detained as France student protests escalate",
+      "title_zh": "More than 400 detained as France student protests escalate",
+      "url": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-29T21:55:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "More than 400 detained as France student protests escalate\n- Published\nMore than 400 people, mostly minors, were detained in France on Tuesday over student protests at high schools across the country, the French interior minister said.",
+        "The demonstrations, which began in Paris and have seen teenagers blockade their schools for days, stem from issues including overcrowded classes and teacher shortages.",
+        "At least 10 teachers and several students, as well as 48 law enforcement officials, were injured during Tuesday's protests, officials said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "More than 400 detained as France student protests escalate"
+      }
+    },
+    {
+      "title_original": "Verteidigungspolitik - Emden wird neuer Marinehafen - Bremerhaven wird NATO-Drehscheibe",
+      "title_zh": "Verteidigungspolitik - Emden wird neuer Marinehafen - Bremerhaven wird NATO-Drehscheibe",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOG8wSnd0TWtrbFBmMWlpdGZxYjdXUEZCTERudnp2UC1SaUlwcjZ2SDRtUXVfRm10RVF6OWdOS2hEVk44eDc5Rm9zb2NuTTNKUFRSNXJULTBUSmpXRmw4dmJDOGFvMW1xdm1NU0VpbWZTYVE1UHJUTXVOLWg5RElWSjg4WmZ4WjBRSXpIdG1ucV9JRElTNjFkbk1ucHBWcExDNkFnaQ?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-09-29T21:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Verteidigungspolitik - Emden wird neuer Marinehafen - Bremerhaven wird NATO-Drehscheibe    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Verteidigungspolitik - Emden wird neuer Marinehafen - Bremerhaven wird NATO-Drehscheibe"
+      }
+    },
+    {
+      "title_original": "原油先物2％超下落、中東供給回復の兆しで 月間では上昇",
+      "title_zh": "原油先物2％超下落、中東供給回復の兆しで 月間では上昇",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtbHFWVWF3LTlQOHZ0NTBTZFRXX2EwWTF1Q05KM2QtZzJxY21LTkp5dWt0ZEp4cHBld3pneE00SGdnX1A3SGpyLTVtXzk4eHJyVUhDeDhQODlySVd2QWFaSUFTZGFrTUxSajkyUndaWGVlSUotN0c2SmN2dFFfUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-29T20:38:27+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物2％超下落、中東供給回復の兆しで 月間では上昇    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物2％超下落、中東供給回復の兆しで 月間では上昇"
+      }
+    },
+    {
+      "title_original": "Inside Mamdani’s fraught effort to rein in the NYPD unit he pledged to end",
+      "title_zh": "Inside Mamdani’s fraught effort to rein in the NYPD unit he pledged to end",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/29/inside-mamdanis-fraught-effort-to-rein-in-the-nypd-unit-he-pledged-to-end-01097516",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-09-29T16:13:46-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Inside Mamdani’s fraught effort to rein in the NYPD unit he pledged to end",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Inside Mamdani’s fraught effort to rein in the NYPD unit he pledged to end"
+      }
+    },
+    {
+      "title_original": "カザフの石油大手、ロシア通らぬ輸出経路探る ウクライナの攻撃回避",
+      "title_zh": "カザフの石油大手、ロシア通らぬ輸出経路探る ウクライナの攻撃回避",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByRUhiUzVzOGxzREhDS1Q2ZXB5YXNkMkxJOS1IRXJPelZvdUhpNWVnVC1UZlp1d3VtRWlrYl9XV3h3VHdlWGhFdTdYUDVUNGZTN2JNXzRRTlZIUmU5SmFEZG9ETVJlMFJHaUlfUA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-29T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "カザフの石油大手、ロシア通らぬ輸出経路探る ウクライナの攻撃回避    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "カザフの石油大手、ロシア通らぬ輸出経路探る ウクライナの攻撃回避"
+      }
+    },
+    {
+      "title_original": "露、欧州企業資産 管理下に…ウクライナ支援けん制",
+      "title_zh": "露、欧州企業資産 管理下に…ウクライナ支援けん制",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QczBBQ3E2b21XNHl5d3FHZm5QRTZOQ1BaQ2NVeVJ4NEZ2US13ODFHaWFOQTBqVWJSb0tCV2RySEZxc3A4ZDFsTHdlUFVOZl9aYm9MYWVjU2N1MkduZmlRUmdB?oc=5",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-09-29T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "露、欧州企業資産 管理下に…ウクライナ支援けん制    読売新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "露、欧州企業資産 管理下に…ウクライナ支援けん制"
+      }
+    },
+    {
+      "title_original": "Kazakh president calls for freeze of Ukraine war",
+      "title_zh": "Kazakh president calls for freeze of Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVVNoV2hTSVFDSDZPbjY2LVJvQVYzSWswMXhGR3MzZkZUd3ZudDRIbG9aWkZ4eFIxdjdNRDV4N2dVRzAxU3ZnOGpWQlkxSTVpX0NwM2l2UTU0ZTRMcWptcDg0dXBOSmh1VDdVa3QtSHZFdnRTUzNab0lHQi1SX1NEZ0FDNW13QUdVMXQ4?oc=5",
+      "source": "aa.com.tr",
+      "source_score": 40,
+      "published_at": "2026-09-29T18:43:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Kazakh president calls for freeze of Ukraine war    aa.com.tr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "aa.com.tr"
+      ],
+      "all_titles": {
+        "en": "Kazakh president calls for freeze of Ukraine war"
+      }
+    },
+    {
+      "title_original": "صادرات النفط من الشرق الأوسط تتعافى مع تراجع قدرة إيران على خنق هرمز",
+      "title_zh": "صادرات النفط من الشرق الأوسط تتعافى مع تراجع قدرة إيران على خنق هرمز",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQaHBuWjdpQTAyZWpDOFhLOXdSdk9semh5YTFEdXlZM09mOFcyR0tVT2Y5bTVCUkdRSUFvWjZhWEJSV3ZmdlM4WjZvdG8tR0FpLXdET2VyVEM4bU91TG1sSkZiNGdzUXpwcUwyMTVCRTQ3U1VfLXhJOTNBWVZZXzFMMnBxZU9UOVdqMEhlcGMtSVNpdncyY1pqdE5qdTltdkJhNUhkYjFUd3JFVEVvRjM0MVdISHVJckZDbzVSYTk1ZEd4RGY0cFFSQjZySndrVnVGOEdTVFBQaE9iT3RBblhQQlctNGM0Vm8tM0w0cW1GcEI3Ml9laWZydi1wY0ZKdDNYdmw0bHktSTZQYlZJSlJxd2lVNFJsZm9mLW5aMkpPNnhKdjhpN3RyU2kyNHdSUXBEMWtXSXFFaDUyTHFtN1pFY2pRaWJOZDZjS3V0RkRlQ0pHYkZkUGx3ZnU4emtpcFo4YVHSAecCQVVfeXFMTmVpRkhmVVJ3dDVoRW1paHBEbkhTQ19OWEpxU09NYU9XNmtjdTQ5a01HXzh5UlFFclVoem5oSE1UUGVobzZSNF9BZ3l0NVgzUGZod3pZT1FzTjFjX0xPQmNfTzhhbXpfZkdSQjVQM2VqUDMyNWZaN2ZYU1NNNlg0RzZSVjdhWFdZUVhWQ1pFMDFqaUZYUGRsZFpJc09vLUMtaDRCc1hibjMxcXdxNXJlZ1FITFhIOHNQN19abGk2dWdubktxU3hzVVRCcTZSdmI0VnAxcEZtWW5tRzFvQ0ZQSUs4dndQZmxGQ2lpNnZQZ1luRkhYSlpiWllyZmdhWDBVZktBWkNLSk04WmhKUGhOOXN2NndXbnJOemtLYUU4UEV3VDh4YXRDWVliel83XzQ3NHB3VlVvcGFJSDRvaW53MDVuSUcyWF9xSEVNazkxS0xRVGxsWmNkZ3RKU19yMy13a3VLNWs2UFk?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-29T18:36:14+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "صادرات النفط من الشرق الأوسط تتعافى مع تراجع قدرة إيران على خنق هرمز    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "صادرات النفط من الشرق الأوسط تتعافى مع تراجع قدرة إيران على خنق هرمز"
+      }
+    },
+    {
+      "title_original": "Wegen Kaliningrad: Russland droht Nato mit Atomwaffen – Bündnis weist Warnungen als unverantwortlich zurück",
+      "title_zh": "Wegen Kaliningrad: Russland droht Nato mit Atomwaffen – Bündnis weist Warnungen als unverantwortlich zurück",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbEJBRnZ5c1MwcEt2bnl5SUMwemFrc0U4OUd3OGQ0ZjRLNkNycDc0NkEwUkJhNWVVblQ4TGlxbWQzdl9XeVVsREtpcERvU3VkSEJoRk1kdzgxUEhQODcwTVNrRTYtazJTeTZETlRGenFHODRlRXJwUlJPR294dWJfRzRUY3YzZ1NQMmNVX2pyMlk4bTRJWVExamJBZHJnQWVTamZMTy1Rb1RENTNPYk0xTU5TVEVuOWFkbVA5SE9zYlRTR3FieEZOaHE3c1FNTGthQ1FuNC1obGNXRFh4alJCTWZMOFhHbGE0d1I5UGdVSnFET0piZlhFZFlYUzdaLVN1?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-09-29T18:33:04+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Wegen Kaliningrad: Russland droht Nato mit Atomwaffen – Bündnis weist Warnungen als unverantwortlich zurück    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Wegen Kaliningrad: Russland droht Nato mit Atomwaffen – Bündnis weist Warnungen als unverantwortlich zurück"
+      }
+    },
+    {
+      "title_original": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
+      "title_zh": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
+      "url": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-29T17:31:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal\n- Published\nWarning: This story contains distressing details and discussion of attempted suicide\nLindsay Clancy, the US woman accused of murdering her three children, has appeared in court for the first time since her murder trial fell apart earlier this month.",
+        "Her defence team on Tuesday argued the judge should dismiss her case but prosecutors said the state had \"met its burden\" in proving her guilt.",
+        "Clancy, 36, does not deny killing her three children in 2023, but her defence team argues she was suffering from severe postpartum psychosis at the time."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal"
+      }
+    },
+    {
+      "title_original": "عرض من إيران لمواطني الشرق الأوسط: مكافأة تصل إلى 40 ألف دولار مقابل أسر أو قتل جنود أميركيين",
+      "title_zh": "عرض من إيران لمواطني الشرق الأوسط: مكافأة تصل إلى 40 ألف دولار مقابل أسر أو قتل جنود أميركيين",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZFFJVHM5NzdDV1Z5SURXazZ1MVJEaXVPOTFGVVRVcnBFbF8tbFYzRmE4QnNOdUtncHZOb1VCSVA3ZEM4RDlidmxrZGo2d0NHOGZHUzcycDNKR1hjeWJyUFZlQVIxay1EQ0ZxdDQ3dGtNSVBXT1VjenhfU3pickpraWVlZUtCNVM3RDJlY0FIYTI4dVp4c3JJ?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-29T17:27:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "عرض من إيران لمواطني الشرق الأوسط: مكافأة تصل إلى 40 ألف دولار مقابل أسر أو قتل جنود أميركيين    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "عرض من إيران لمواطني الشرق الأوسط: مكافأة تصل إلى 40 ألف دولار مقابل أسر أو قتل جنود أميركيين"
+      }
+    },
+    {
+      "title_original": "First female prime minister named in Morocco after winning elections",
+      "title_zh": "First female prime minister named in Morocco after winning elections",
+      "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-29T17:14:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "First female prime minister named in Morocco after winning elections\n- Published\nFatima Zahra El Mansouri has been named Morocco's first female prime minister, after her centrist Authenticity and Modernity Party (Pam) won the most seats in last week's parliamentary elections.",
+        "Her appointment makes her only the second woman to lead a government in the Arab world, after Tunisia's Najla Bouden.",
+        "She was named by King Mohammed VI, who chose her as prime minister over the country's football chief Fouzi Lekjaa, a top politician from the same party."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "First female prime minister named in Morocco after winning elections"
+      }
+    },
+    {
+      "title_original": "„Hätte im Panzer von Südostfinnland bis St. Petersburg fahren können“: General a.D. erklärt Putins NATO-Lüge",
+      "title_zh": "„Hätte im Panzer von Südostfinnland bis St. Petersburg fahren können“: General a.D. erklärt Putins NATO-Lüge",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT1A0cjlQMi1pQVhta3NQUHl2b05YUnh1bHdtMTB4OU5PMmswM1IwMGk0T21rY3pCenpfSmMxRW5BZ0RJVWJEeGRwSHZxTklSMUlQYU1OMWV3NUFuS0hndnBQckdyenFrTHRuSGE2RGlSSmUxZzktS0drXy02YksydUpHVmRBWjQ3WUdDeUhCcUpzb05PdDJNQUF4U0QxYkhWeE5FQ0NMUkh0Um80OFJv?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-09-29T17:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "„Hätte im Panzer von Südostfinnland bis St.",
+        "Petersburg fahren können“: General a.D.",
+        "erklärt Putins NATO-Lüge    Frankfurter Rundschau"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "„Hätte im Panzer von Südostfinnland bis St. Petersburg fahren können“: General a.D. erklärt Putins NATO-Lüge"
+      }
+    },
+    {
+      "title_original": "Eiffel Tower chief to quit after female staff replaced by men during religious visit",
+      "title_zh": "Eiffel Tower chief to quit after female staff replaced by men during religious visit",
+      "url": "https://www.bbc.co.uk/news/articles/crn8e069v7p7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-29T16:56:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Eiffel Tower chief to quit after female staff replaced by men during religious visit\n- Published\nThe chief executive of the company that runs the Eiffel Tower will step down after a backlash over female staff being replaced by male colleagues during a visit by a Hindu religious group.",
+        "Patrick Branco Ruivo, who has been director general of the Paris landmark since 2018, will leave his job at the end of the year, the company SETE said in a statement.",
+        "It said an internal investigation found that \"operational flaws and shortcomings\" in organising the visit led to the \"unacceptable\" removal of female staff."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Eiffel Tower chief to quit after female staff replaced by men during religious visit"
+      }
+    },
     {
       "title_original": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
       "title_zh": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
@@ -51,6 +701,31 @@
       ],
       "all_titles": {
         "en": "Trump rules out joint US-China venture to develop AI"
+      }
+    },
+    {
+      "title_original": "„Eine richtige Herausforderung“ – Bremerhaven wird Nato-Drehscheibe",
+      "title_zh": "„Eine richtige Herausforderung“ – Bremerhaven wird Nato-Drehscheibe",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPb2VSSG4xdDVHWThOZ3JRLVZYdVRsbW1tM2RwMmJTQWlkS1kwOGEwRTNDZUV1V3E2VjdFa2RjenFuQ0Mzd3MzMEhQQlh1MHVvVGEwcFFYUmo0a1dvaVNHcHBTY3ZIdmw4My02S1NVZVBlU0dRTlJreDRTc0RJQ1ZnTXFFTXBfLWl1QjROVW5vRzBrd0pzSGxBVWtKM2thajVWYUZKV3R0SGNLNUxXTmZwaEVPYmliaE8zUGR2MGRsYzBnT28zRHRSYTN3UEVreW1OY1hiNnpOeVQ4Tmk3Xy1icDdkUjM4dEt3WHZ1dzBSOGUxVF85YjRn?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-09-29T15:49:08+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "„Eine richtige Herausforderung“ – Bremerhaven wird Nato-Drehscheibe    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Eine richtige Herausforderung“ – Bremerhaven wird Nato-Drehscheibe"
       }
     },
     {
@@ -176,6 +851,31 @@
       ],
       "all_titles": {
         "en": "US prosecutors reopen case of alleged gang rape at Cornell University"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Feuerwehr rettet Männer nach Drohnenangriff an Fassade in Kyjiw",
+      "title_zh": "Ukraine-Krieg: Feuerwehr rettet Männer nach Drohnenangriff an Fassade in Kyjiw",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObDBwOHdIVkxSdlVYdm94UnViZ3RpeUFKb1d6b0M2U2FUOUloRnlDSUlfZ24tMjN5T3dxd1JWX2MtY254ZlVxVjU1YUJtTnloOWMtQTAxcEcxVEhmclhzSGVLUVVfYXpxaDhSVWpYOG5zMWM1R2I2aTZwR3VFb3c5QzFiSXg5eWgyNWhvdGI1S2ZYa0lYQ0N1SGNLdE5zdVZlblZEOF9pT1BaVDk5ZUtfTUxHN21ZZUtXRnFiTnZmemNOT1VMMTBpdmVGc1JqS21xMXBvVlpTYjVCOUxBS2pwV3NR?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-09-29T14:24:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: Feuerwehr rettet Männer nach Drohnenangriff an Fassade in Kyjiw    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Feuerwehr rettet Männer nach Drohnenangriff an Fassade in Kyjiw"
       }
     },
     {
