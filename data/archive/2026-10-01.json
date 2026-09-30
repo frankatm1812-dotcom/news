@@ -1,0 +1,882 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-09-30T16:50:04.605229+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Explainer: Why Russia's Kaliningrad is a potential flashpoint with NATO",
+      "title_zh": "Explainer: Why Russia's Kaliningrad is a potential flashpoint with NATO",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGRva3h3V0lWbDliSXVPWmt1aWV2UTFlN1l2cGhvSENmX3BQSDVZbDJQMjdGYmRDYjRqbThKNDlHZmV4NjNJWFdFSm9FQUtkcGFwNWhuOG9TR01LcWIzNXpwNm1ITW5QNEVXVW1OSzZTRXR3czEzMlVhU215bS16NXgyZDBWVjdqN1BVR1pFSVBFWUd1aWZSbEUyTFUzWHRGY3k1MmR5WllFWGNYRnhfNWYxS09URF9UamNxdg?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-30T16:26:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Explainer: Why Russia's Kaliningrad is a potential flashpoint with NATO    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Explainer: Why Russia's Kaliningrad is a potential flashpoint with NATO"
+      }
+    },
+    {
+      "title_original": "イラク駐留米軍、撤収完了 「盟主不在」の中東に広がる力の空白",
+      "title_zh": "イラク駐留米軍、撤収完了 「盟主不在」の中東に広がる力の空白",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yRWdwejdtZTE3aFlsLVlNX2JhblpIWEs5Q1dwam9pYWItTVNpYzRzamU3SWh2RWJtNWxQSTFfNnpkMHd5RWFYdFBBdWZPbDZQNFd3amtHNlRFV1ZkOHVHZWQ1eUMwOHNDVVd6LQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-30T16:23:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "イラク駐留米軍、撤収完了 「盟主不在」の中東に広がる力の空白    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "イラク駐留米軍、撤収完了 「盟主不在」の中東に広がる力の空白"
+      }
+    },
+    {
+      "title_original": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+      "title_zh": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+      "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T15:29:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Execution of US murderer Christa Pike halted shortly before it was due to happen\n- Published\nThe execution of Tennessee inmate Christa Pike has been halted just over an hour before it was due to happen.",
+        "Pike, 50, has been awaiting execution since she was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer.",
+        "In their ruling on Wednesday, judges from the Sixth Circuit Appeals court said they needed more time to consider the arguments in Pike's case."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Execution of US murderer Christa Pike halted shortly before it was due to happen"
+      }
+    },
+    {
+      "title_original": "Geheimer Operationsplan Deutschland: Bundeswehr übt den NATO-Verteidigungsfall",
+      "title_zh": "Geheimer Operationsplan Deutschland: Bundeswehr übt den NATO-Verteidigungsfall",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOUxDV0x3aVRsSHlBMUN3Q0dIU3JSdjZ5NUJsdXVSVm94a1EtTU5wdE9vZld4dXNsMEh0VFJJUnctMEo0ZlBaUnhsaFF3bENTa1BRdDhvU09lRUozMmJTTmthVy1WTkpXYkN6NmdUUDRiemhqVmExc3huRDU3WlZQWVpzUGdqRHJwSGZXb3VDTW1tTG9OUS1sSk1tRdIBmwFBVV95cUxNTndCcEY2bXZHZjMxSzNMaDBnYWhEcjNNamZkOFo0M3pPQzhrcTM5YmVlUFNSTUpVRUd4ckVydFFSaWlhQU1PTGVIR0xpSEZDbm9NS0pTX2xGNEsyUUFQUnhPZnN3VmV5MmwwVHFUYS1xMEllX3lSWFh0UmJNaUl5ZUxiYXp4U0RXZWtvZk5NRGwzMVJXdnZrbFRfcw?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-30T15:21:45+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Geheimer Operationsplan Deutschland: Bundeswehr übt den NATO-Verteidigungsfall    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Geheimer Operationsplan Deutschland: Bundeswehr übt den NATO-Verteidigungsfall"
+      }
+    },
+    {
+      "title_original": "No imminent threat to NATO territory from Russia, Rutte says",
+      "title_zh": "No imminent threat to NATO territory from Russia, Rutte says",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdnhsSHA4bEx5VHVCLWRxVElfMTlSWjVjb3MxVmw5dC02VVlIMFlKWTd0ZXk0NVZtYmhldmRySkZLZUJiY1cwZDlUXzhLLVQ1aEdLLURNZXJtTXlmdjFqN19DUDVfWXlvY3VobDI4ZW45cGRaYmM1ZVVjZ1ZCRTZ1eGFWUllrdGF3UXNPZWxzNlF1eDRyOF9WTmZ1c1A1TEszYkUyNER3UWpDR0I5dkwzM25McFo?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-30T15:11:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "No imminent threat to NATO territory from Russia, Rutte says    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "No imminent threat to NATO territory from Russia, Rutte says"
+      }
+    },
+    {
+      "title_original": "Russia sends nuclear warning to NATO as tensions rise in the Baltic",
+      "title_zh": "Russia sends nuclear warning to NATO as tensions rise in the Baltic",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNTJVNU5aaklYSDNsWXRMMUVBd2VwaVlhYWtMUzBFSlNCM3dFM2swcENVd3hSOTA1ZEdpUjRtYmVLY0lfNWdfVmM3cW1KNUIxaURqcGNyeTB4djQ3Nkc3c2Z5ME5aN1BXNWlla1ZJQkF2US03X0lmeHNiTEJjblpYTVJMY19wSzlBenJkdGdqNnlEblFhNHItQjBXWWlya0hmQXZPY3YxbnRHVWpBM29fQjFJWUMyTzlJUkE?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-30T14:48:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russia sends nuclear warning to NATO as tensions rise in the Baltic    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Russia sends nuclear warning to NATO as tensions rise in the Baltic"
+      }
+    },
+    {
+      "title_original": "South African leader urges men to speak up on gender-based violence after series of killings",
+      "title_zh": "South African leader urges men to speak up on gender-based violence after series of killings",
+      "url": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-30T14:16:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "President announces measures amid anger at authorities over recent murders of women South Africa’s president has called on men to take more responsibility for violence against women as he announced measures to tackle the problem, amid anger at authorities over a recent wave of murders.",
+        "Cyril Ramaphosa acknowledged that not enough had been done to protect women.",
+        "He said police would be reviewing unsolved murders, attempted murders and serious sexual offences against women and children, as well as producing a funded plan to reduce the forensic backlog for such cases, both within 60 days."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "South African leader urges men to speak up on gender-based violence after series of killings"
+      }
+    },
+    {
+      "title_original": "NATO alliance is defensive, Russia should stop nuclear threat, Rutte says",
+      "title_zh": "NATO alliance is defensive, Russia should stop nuclear threat, Rutte says",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVN4UXZsai1wQlZBTUd5UlZuaEoyRkpic2ZVNUxnOTdwMTE3WkNPQnpfaEpNdGI2R3M3TDlaVDVvQWN5b2V1RmVjTzdVVl9GNTUzQ1pYM04yNkRnVjlkMW1hVnFLM2t3Ty1Fa09NcGhvU2lQcU15NEFhbHB6ZlJ3MWJERi15ekdTSWtHZzF6UHBHVTRxVzhXYlZKWGhsU0tOalZzNjdPcVdHejdLX2M5LWxVUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-30T13:50:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO alliance is defensive, Russia should stop nuclear threat, Rutte says    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "NATO alliance is defensive, Russia should stop nuclear threat, Rutte says"
+      }
+    },
+    {
+      "title_original": "Xi pide rechazar la \"injerencia exterior\" sobre Taiwán en vísperas del Día Nacional chino",
+      "title_zh": "Xi pide rechazar la \"injerencia exterior\" sobre Taiwán en vísperas del Día Nacional chino",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnFXbWw1aXA4MXhjOWx1TlowQl9LV0RFY1ZFZGFWQ3l3Y184R1hUSzRubU5hUWROOGR3akRWUTA3dF9UZnYtcVdURTRBZmVPYU8wNVRKQndsRDA5THZ4OVBsQnJHR1lYOXpIX3E5bWZHVTMzQmFfdFNLYXcxbmxabkJtNEo3S2FVXzROZ0ZiNnQtbGFRYkxiV29lTG1GOWxiUTN3Vnk4OA?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-30T13:47:57+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Xi pide rechazar la \"injerencia exterior\" sobre Taiwán en vísperas del Día Nacional chino    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Xi pide rechazar la \"injerencia exterior\" sobre Taiwán en vísperas del Día Nacional chino"
+      }
+    },
+    {
+      "title_original": "MI5 China alert will send chill through UK’s cash-strapped universities",
+      "title_zh": "MI5 China alert will send chill through UK’s cash-strapped universities",
+      "url": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-30T13:36:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Institutions have for years turned to China for funding opportunities but national security concerns are mounting MI5 issues spy alert to UK universities over Chinese front company stealing research The security alert issued by MI5 regarding a Chinese state-owned conglomerate accused of conducting espionage in the UK reveals the extent to which British intelligence remains concerned about Beijing’s influence, and risks casting a shadow over UK-China cooperation at a time when the bilateral relationship is enjoying a revival.",
+        "The UK’s domestic security service on Wednesday warned researchers and academics to cease work with the China Academy of General Technology (CAGT), an organisation MI5 described as a “significant threat”.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "MI5 China alert will send chill through UK’s cash-strapped universities"
+      }
+    },
+    {
+      "title_original": "Sweden contributes fighter jets to NATO mission in Poland again",
+      "title_zh": "Sweden contributes fighter jets to NATO mission in Poland again",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPekFQbkgybnQ4QWZ3TVJBa2h1TmpkNXNGS1ZybW1XLTF1QmdBYTBQOGJSc2JNZWRHakRSelpHS2Y0WEJDcktJVUstbEx4SC1ValhzTGN1c21RcDc2c2pZRkRpN0s2M0x3bVhNMXh2VlJIck0yelA4dVRicW5JRExGMmNvcVMtU1BXZnh5MEFZOWgzLWt0SXI2WnhOWmladVMwN0VKaThmXzQ4UDBkTVJMLVdWdzEzcUJIUkVqNw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-30T13:12:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Sweden contributes fighter jets to NATO mission in Poland again    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Sweden contributes fighter jets to NATO mission in Poland again"
+      }
+    },
+    {
+      "title_original": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
+      "title_zh": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-30T12:47:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Burundi joins several other African nations in accepting people deported under Trump’s hardline policy Burundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other countries deported from the US under ⁠ Donald Trump ’s hardline ⁠ immigration ​policy .",
+        "However, Burundi will only accept those not accused of crime or terrorism links, said ⁠Nancy Ninette Mutoni, a spokesperson for the country’s president, Évariste Ndayishimiye.",
+        "Tuesday’s announcement gave no details of numbers, timing or financial ⁠details."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Burundi agrees to receive ‘third-country’ migrant deportees from US"
+      }
+    },
+    {
+      "title_original": "Botswana condemned for slaughtering 23 elephants for independence celebrations",
+      "title_zh": "Botswana condemned for slaughtering 23 elephants for independence celebrations",
+      "url": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T12:06:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Botswana condemned for slaughtering 23 elephants for independence celebrations\n- Published\nAnimal rights activists have criticised Botswana's decision to authorise the killing of 23 elephants to provide meat for independence celebrations.",
+        "The southern African country, home to the world's largest elephant population, is holding nationwide festivities on Wednesday to mark the 60th anniversary of independence from Britain.",
+        "A licence issued by the Ministry of Environment and Tourism, seen by local media, authorises the hunting of 23 elephants and other wild animals for \"complimentary purposes\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Botswana condemned for slaughtering 23 elephants for independence celebrations"
+      }
+    },
+    {
+      "title_original": "ブレント原油97ドル台－サウジのパイプラインなど供給増",
+      "title_zh": "ブレント原油97ドル台－サウジのパイプラインなど供給増",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4VDZNbGhLZ1U0YVgwWkdaZEx4Y3NtZklPSGp0QUV3Y0ZTc1Y4SlR6TjFFR2hBTmdRTmdSLV84RE5ROVc0YlpvR3lfd3R5QWl2aEV3VzFwQUZJREZSdGZTcHhFVEJWeWtvV1pWaVRwMl9iSWJPOGtJ?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-30T12:04:11+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ブレント原油97ドル台－サウジのパイプラインなど供給増    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "ja": "ブレント原油97ドル台－サウジのパイプラインなど供給増"
+      }
+    },
+    {
+      "title_original": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "title_zh": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T11:36:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Last UK and US troops leave Iraq as anti-Islamic State mission ends\n- Published\nThe last British and American troops have left Iraq after a military presence of more than a decade in the country.",
+        "The exit of the remaining UK military personnel - around 100 - from Irbil, in the northern Kurdistan region, was co-ordinated over recent weeks with US forces, who also departed on Wednesday.",
+        "It follows an agreement between the US and the Iraqi government, signed two years ago, to withdraw foreign troops by the end of this month."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Last UK and US troops leave Iraq as anti-Islamic State mission ends"
+      }
+    },
+    {
+      "title_original": "Russia makes extreme threats against Nato countries over Kaliningrad",
+      "title_zh": "Russia makes extreme threats against Nato countries over Kaliningrad",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmlvc216bjJSS194S0xxSUdjLVRYcjdTNy1KYUFUdHByLXBHZTYwU00tU0pGSks4bGNUOXZWaVJOU2NCTEktMWhJbzNHaWRVUFVFMUlXYTdEbmZ3MDFPX1VUOGlxZ3ViWFo0emJncTcwaUZkVzViWTFtczJ4RGxUakVTOXM?oc=5",
+      "source": "Financial Times",
+      "source_score": 75,
+      "published_at": "2026-09-30T11:35:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia makes extreme threats against Nato countries over Kaliningrad    Financial Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Financial Times"
+      ],
+      "all_titles": {
+        "en": "Russia makes extreme threats against Nato countries over Kaliningrad"
+      }
+    },
+    {
+      "title_original": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "title_zh": "Africa's richest man launches Kenya oil refinery despite land protests",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T11:25:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Africa's richest man launches Kenya oil refinery despite land protests\n- Published\nNigerian billionaire Aliko Dangote and Kenya's President William Ruto have broken ground on a $16bn (£12bn) oil refinery in Lamu, on Kenya's northern coast.",
+        "Upon completion, the refinery is expected to process 700,000 barrels of crude oil a day, making it East Africa's largest industrial project by capacity.",
+        "Ahead of the launch, some local residents took to the streets to demand more compensation for land used for the refinery."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Africa's richest man launches Kenya oil refinery despite land protests"
+      }
+    },
+    {
+      "title_original": "专访德国国会议员：台海2027至29年极具挑战",
+      "title_zh": "专访德国国会议员：台海2027至29年极具挑战",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRkE4TFJYWWc0cWtQX1ExSkpyYlZ0ZlhBT2d4aV80SEJVMXZKbWl0TGtmMFgzbTFBVndlYml3b1FkYlZnbU1tdGNxajNBcHEyeFVpNEl4T2I3cGJPWGVaeUJfanFTcm13UnJJekN3X3BObThLcUdQZVAxanVEUEFUUjVXaUR1RWFNb2R4SlpiNGsxZ3dtOXVvNnhYZUI5NFktVEF1Y3dmNEJqbE9pVzFoelZjSGhTRjgxNUhGMFpBRU1laEs5ZktIVThTTFdiS1hpNHVQT1VhQklXa3VmSjUtdnN5YTNVUEV5bThtdU5WUTlTdnFUTUFzVHlsVkdmT0c3NUtuaU16R3VVbVRXdzVjadIBkAJBVV95cUxPTE9EbkZiN3FTV0pMSEV3RlFlaU5hdW1wNExWX3ZwQnNNSktXMjJjb0hPYWszX0p1WU5pUC1qcnBKazZ6WHJvdmk5aDBheTYyMTBJQVp1NEUwU2tNX3RmV1JTOHNXTmg2R1VhWEFhOS1UNWwxUHVNMmx0alRIb0sxTGxfUEV4R0NSdUF3QVg5U2FKSjZZMjNVdkp4UE9UbzhXZGNLRGNZbHJNRWRWSXZvcUltNUJLa0NpWEdKN3M4b0ZWa3pYbnZ3Tm9xVDdxMkcxaWdRcUJPWWgxOUMyZlV4eS1HVUhzanBlUmtyTDB2RXJDWmM4Q2IzN1ozU05wOUZUVFNpREVzcTZLTUlZT3M2Tg?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-09-30T10:22:01+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "专访德国国会议员：台海2027至29年极具挑战    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "zh": "专访德国国会议员：台海2027至29年极具挑战"
+      }
+    },
+    {
+      "title_original": "世界経済、金利上昇や中東情勢がリスクに 札幌で景気討論会",
+      "title_zh": "世界経済、金利上昇や中東情勢がリスクに 札幌で景気討論会",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHT3V4ZGFEeFRxRFJqZ1BoRFZ5UW5FUFp3NVdLaGx6VjdZRldFWGpneFFLMXBFVEU1LWJtMGhaaG9lZ1V2b3diVXZ6ZnhnV2xzRnRGUXh0dktOY0tJcFlMRDk2Q2lsakhRY0Jqdg?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-09-30T10:11:13+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "世界経済、金利上昇や中東情勢がリスクに 札幌で景気討論会    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "世界経済、金利上昇や中東情勢がリスクに 札幌で景気討論会"
+      }
+    },
+    {
+      "title_original": "Russian strikes kill 3 in Kyiv, prompt NATO to scramble aircraft in Poland, Romania",
+      "title_zh": "Russian strikes kill 3 in Kyiv, prompt NATO to scramble aircraft in Poland, Romania",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGxmOHppU01kN0hpa0RDSEtibW1EOUJoNkRONzkwOURLWXVHQU54NzVON0FYMXVMdUZOWXlFeUdlQUxxUmhXczZuUi11SHlvbkJKRXBfLVNQeEJPUWNYT09Odm9oUUoxTnUzbUpucVJtLWNDcW1QSFRKRTZwMm1WYzI4V0dVSzEtWmxPQ0kyM3BaQXJxWVh3UzlSZ0dMMFZseHVZ0gGoAUFVX3lxTFBVd1ZYd1o3dFVMajM2ZjhGd19RYlUxN0tpU3Jaem5rRm5mZi1NMFFSeHJkeng5TnJoWjJmTmFMVlN3NzdoQWtOaXZZM2J5dnU3Z0tVckV6ZlJfbEowLTgxZ1dONkJ6dGdsMGgxaDNvRGMyVk9jenl0ZTBDNWF0cDE2NzNqeFRwdmptNmVab3AxaXl3elVIemlQNTJrbUF5eXF6VjJqR2p0OQ?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_score": 75,
+      "published_at": "2026-09-30T10:01:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russian strikes kill 3 in Kyiv, prompt NATO to scramble aircraft in Poland, Romania    ABC News - Breaking News, Latest News and Videos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      "all_titles": {
+        "en": "Russian strikes kill 3 in Kyiv, prompt NATO to scramble aircraft in Poland, Romania"
+      }
+    },
+    {
+      "title_original": "منصور بن زايد: خبرات عالمية في قمة الشرق الأوسط للصحة المالية بأبوظبي",
+      "title_zh": "منصور بن زايد: خبرات عالمية في قمة الشرق الأوسط للصحة المالية بأبوظبي",
+      "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxQa0VKQWkzUGVmQU1JLXg0YTg0S3o2TjNwUGFXQ3JkS3daLUxIM0VMMVBhODlWWmVnNXQ1Z19RUnlDN1FwSjdFUlhuSGl4ZDhwVFVTUHBWSU12aXVGcXhtOXJMWFVhdTR1QnN2ZXpWQjFpUkhoYTloMHhiUUUxRXpZT25hVnZSbVc4czBIX1RYREhLdlY5eUlhX2hDMXJUTHhjd1dxNm1nbi0xZVA3Y1pQaHBwOHhUbHZhYjJQdk5jUDNaY1E2cm1aVXVua1pLMXlnc0I3bVluLUE5N1JLT2s2MG9DTHk5amRjWEJUbG5RaENDWERaMk9YdjdyS3RsMUQ0eGdmRDR4bFBnb1BwcmhleGJrcm9xeF9fOVdHVjk0WDh6alJHVC1qQTNLTzA0bHVzTHNCWUFCb25GWnRhMzQ5T3NIYWk1ek4ya0pGYUwyYjJ1RkI1d19DcWgwc0hWcEh3NlZiMzBmcTBqSkg1UjdlYmZ2ZV84RlBmM0NjaHRMeXQwMjdTLWVVdXpJTWN1MmlkMnNGRExYM2U1ZnlHWFI2bURHQmhZXy1oZWFQVGROa2tYWWNUTWp2S3RzWkhEekZjSXhucE9ZS0wwcEVCdTZIOVhkeFZVcVh5ekl2X1NSZ0ljd05JNjBOa0ZhODNhVmxXLWY0UUYyUk1BUFhpQ0tjVF9DTU4zbEVTMWFzUWtMZy1NUXU4QjcxeS1XOHh5Yk5MaHRxaGFKTW9kV05PODRwelB2RXVSRlYtY0xWR19hLUFLaDR1NTNaektaLTNCUW9JZm5zQUw3VHV0V2FTNzRxYk1vb3JtUEp1bERVenVFbG12eFJMcEstV2xLblEtejdUb3ZpRzc5d3AzSWtuTkNKckZEMkRSSDEyaGpnV1k2T09iM2JsdTJKT0NqcnMtcW14UGk2XzhVcw?oc=5",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-09-30T09:48:25+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "منصور بن زايد: خبرات عالمية في قمة الشرق الأوسط للصحة المالية بأبوظبي    صحيفة الخليج",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "منصور بن زايد: خبرات عالمية في قمة الشرق الأوسط للصحة المالية بأبوظبي"
+      }
+    },
+    {
+      "title_original": "Singapore launches matchmaking service for government workers",
+      "title_zh": "Singapore launches matchmaking service for government workers",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T09:42:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Singapore launches matchmaking service for government workers\n- Published\nSingapore has rolled out a matchmaking service for its government workers, an initiative that comes as the country wrestles with a record-low fertility rate.",
+        "FirstDate, which launched this week for those aged 21 to 35, boasts \"a different approach to dating\", where it uses a Nobel-winning algorithm to match participants to one date at a time.",
+        "\"Swipe fatigue ends here,\" its website reads."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Singapore launches matchmaking service for government workers"
+      }
+    },
+    {
+      "title_original": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "title_zh": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2z9k1zdn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T08:59:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13\n- Published\nUS actor Chad Lowe and his wife, producer Kim Painter, have said they are \"deeply heartbroken\" following the death of their \"beloved\" 13-year-old daughter Fiona.",
+        "\"She was a loving young girl who was smart, creative and loved to dance,\" the family said in a statement to Page Six, external and People, external.",
+        "\"She was adored by her sisters and she was deeply loved by her parents."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13"
+      }
+    },
+    {
+      "title_original": "テマセク、リヤドとアブダビに新拠点開設へ 中東で投資機会探る",
+      "title_zh": "テマセク、リヤドとアブダビに新拠点開設へ 中東で投資機会探る",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdV91enVjSXBpOFI2OUZuUHl3THdzdDViYXVvUjQ5OFJwOUpCT09yT3BIdUpuX1dQY0pOaDg5TlJrdUx3OUxKNk1zclZfdFlYRGpNOGoyb3BSc29FLW5sWl9NMURJd2ptTWZ4Q2FmSDNFbEFLOGN4SDlPNVRqLXZzOVpmQzRtUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-30T08:39:52+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "テマセク、リヤドとアブダビに新拠点開設へ 中東で投資機会探る    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "テマセク、リヤドとアブダビに新拠点開設へ 中東で投資機会探る"
+      }
+    },
+    {
+      "title_original": "Géopolitique, le domaine confisqué",
+      "title_zh": "Géopolitique, le domaine confisqué",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40Y3I0YTI1T2J2QWYwRWFWemFrbzJQN1FoTWhDUGk4NFN5d0FGaEtsZzNuQ1lUamFlczNGcE9TVER3LWE1X3NRRjlsUFltanZYVE1iMU5tdjd3Zy05b2YtVlZlUWoyVlU?oc=5",
+      "source": "Le Monde diplomatique",
+      "source_score": 95,
+      "published_at": "2026-09-30T08:02:03+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Géopolitique, le domaine confisqué    Le Monde diplomatique",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Le Monde diplomatique"
+      ],
+      "all_titles": {
+        "fr": "Géopolitique, le domaine confisqué"
+      }
+    },
+    {
+      "title_original": "ロシア軍、キーウ州の発電所やイズマイル港など攻撃＝国防相",
+      "title_zh": "ロシア軍、キーウ州の発電所やイズマイル港など攻撃＝国防相",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSzFJTUZ1NUNGQjBfMGg0RGVzNC1IbEhoWnNRXzU4VFJFUkRudkdXd2N5Uk1RMWwwbHZGYUFZMnRpUXZfdVNWUDBRRllFN1pVYngtTnl2V2JNRjQ0X2NCVUFZNi1IX0FEdl8tVGgwaFhwUTgxRTFyNVFKVWUyeDY5VmM1UG9udw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-30T07:51:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア軍、キーウ州の発電所やイズマイル港など攻撃＝国防相    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍、キーウ州の発電所やイズマイル港など攻撃＝国防相"
+      }
+    },
+    {
+      "title_original": "川嶋 久人 写真展「ウクライナの肖像」開催のお知らせ",
+      "title_zh": "川嶋 久人 写真展「ウクライナの肖像」開催のお知らせ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vUjh6U3kzYVplN0ZYc3dSdlVUNGJsaVAxRDdBZTduTkF6ZXd2aEdxeUg2Rm5RcEFMbGJnS1dha1lkaGFkVjVmSHBJNGwtbUNBeXFUNEJra0pfWncyZG1LY09YVTRYdG9t?oc=5",
+      "source": "公益社団法人日本写真家協会（ＪＰＳ）",
+      "source_score": 40,
+      "published_at": "2026-09-30T07:48:29+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "川嶋 久人 写真展「ウクライナの肖像」開催のお知らせ    公益社団法人日本写真家協会（ＪＰＳ）",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "公益社団法人日本写真家協会（ＪＰＳ）"
+      ],
+      "all_titles": {
+        "ja": "川嶋 久人 写真展「ウクライナの肖像」開催のお知らせ"
+      }
+    },
+    {
+      "title_original": "Nato: Lettland zieht Lehren aus Ukraine-Krieg und rüstet Grenze auf",
+      "title_zh": "Nato: Lettland zieht Lehren aus Ukraine-Krieg und rüstet Grenze auf",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVnJSWG1ydnFPclZsb2gtV1VPRTlzSWh2QWFZd2dZek5lbllNc0pJUHducWtUZzhHeE0zSDctOUJweVNoS1d6QWJKRklzLVd1bkg1U1NzY2tfNkpkQkJCT1E5SmlVNzBVa2otd0s3dFVPY19UZ2lRTlE5M2JrNkwyd1FEUG12SklnbTg1akk4X29PdlVfVlRXSUhnZk9Tb0tVSlMzU1NZb09RcElJczZZ?oc=5",
+      "source": "Business Insider Deutschland",
+      "source_score": 55,
+      "published_at": "2026-09-30T07:28:53+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nato: Lettland zieht Lehren aus Ukraine-Krieg und rüstet Grenze auf    Business Insider Deutschland",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Business Insider Deutschland"
+      ],
+      "all_titles": {
+        "de": "Nato: Lettland zieht Lehren aus Ukraine-Krieg und rüstet Grenze auf"
+      }
+    },
+    {
+      "title_original": "张志贤：意识到对抗的局限与自损 中美关系转向务实互利",
+      "title_zh": "张志贤：意识到对抗的局限与自损 中美关系转向务实互利",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lclk0UGdPYXg2WHlkRFF2REtGdDhTVVBYMGdnVjJJOXRGVTROdUhLZ0xLXzM2NVZYVlcwblA5UFNGLWh0dnRjem1VUUhtc0pmVm0zaG1PdE1WSGVTd1BjdkZ0Vk9tWjJiZWM3RVZyc0JETVk?oc=5",
+      "source": "联合早报",
+      "source_score": 40,
+      "published_at": "2026-09-30T07:12:13+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "张志贤：意识到对抗的局限与自损 中美关系转向务实互利    联合早报",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "联合早报"
+      ],
+      "all_titles": {
+        "zh": "张志贤：意识到对抗的局限与自损 中美关系转向务实互利"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（9月30日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（9月30日の動き）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82Wmp3aTBkN1JhTXpGcVFqWE53Rmwxb2REWjYtekM1Vm90X3NUZGhFdFpKajdKTmMwaGFIdVg1UDFEcVhibHN0YTRLTXVqb2g1ZEFLakVIem5mSmlkT3VZ?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-09-30T06:43:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（9月30日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（9月30日の動き）"
+      }
+    },
+    {
+      "title_original": "Europe Today : le chef de l'OTAN Mark Rutte au sommet Défense et Espace d'Euronews à Bruxelles",
+      "title_zh": "Europe Today : le chef de l'OTAN Mark Rutte au sommet Défense et Espace d'Euronews à Bruxelles",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRWNwOTdGdm5LbFk1a3pNUUNXUjlRd3RlQ2ppN0Z1aGZfV1hwdU5kbDB3bWRfRnhqS2dfN2NuWGs3T1ZHZV9HdWpEQlNPZW9SS2pnWE9mVklyYndiRGRsZ1hmZ3BsbWZRbWJEZVRuV0dVcjNTNDQ0dUowOWJtazU4LUZLNE9sVWc2VFdWLXdKRzN5SUJXS1NqUFJqMy1UX3V2YUQzZWdiNFpXdGluYVBIeHZLaS1Bd3Nnbm1XQ1lvdVJyUlE?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-30T06:02:42+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Europe Today : le chef de l'OTAN Mark Rutte au sommet Défense et Espace d'Euronews à Bruxelles    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "fr": "Europe Today : le chef de l'OTAN Mark Rutte au sommet Défense et Espace d'Euronews à Bruxelles"
+      }
+    },
+    {
+      "title_original": "Europe Today: Mark Rutte, jefe de la OTAN, en el Defence and Space Summit de 'Euronews' en Bruselas",
+      "title_zh": "Europe Today: Mark Rutte, jefe de la OTAN, en el Defence and Space Summit de 'Euronews' en Bruselas",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnBoSXRjWkYycHg3SGktYUZ2cWpONFlHclFxZTdpSW5rR1M3c09zeUd1bWdiY0I1RV8zNTZyNVU0amxLZVFLZENyWlVMaVN0UXdqS25xNjRsX3lyRUFQcVhXeEJhRzZTbF9zVVN4U2xlcUZyMWlhcGJKMW9HRUk1MW9lSnBZU1lnOUFHRHNpNzNQVV9ZYXo0Qy1ZRDZYb0FGRXVkV3BVUWROZE80QjFSNWw3VW9PdVpuVi12bm9tYU1IWFk?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-09-30T06:02:41+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Europe Today: Mark Rutte, jefe de la OTAN, en el Defence and Space Summit de 'Euronews' en Bruselas    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "Europe Today: Mark Rutte, jefe de la OTAN, en el Defence and Space Summit de 'Euronews' en Bruselas"
+      }
+    },
+    {
+      "title_original": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+      "title_zh": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T05:24:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "South Korea demands apology from Pyongyang for landmine blasts that injured three\n- Published\nSouth Korea's military has demanded an apology from North Korea for landmine blasts along their shared border that wounded South Korean soldiers earlier this month.",
+        "Three South Korean personnel were injured by explosions in the Demilitarised Zone (DMZ) - a buffer zone separating the two Koreas, on 21 September.",
+        "South Korea said on Tuesday it was \"certain\" that the blasts, which happened on South Korea's side of the DMZ, came from North Korean mines."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "South Korea demands apology from Pyongyang for landmine blasts that injured three"
+      }
+    },
+    {
+      "title_original": "ウクライナ首都と周辺に攻撃、エネ施設に被害 ロの冬の攻勢警戒",
+      "title_zh": "ウクライナ首都と周辺に攻撃、エネ施設に被害 ロの冬の攻勢警戒",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ1h6V2JiN09SX29xZGhoWTFVcE8yRU9qR1FEV2NoRUtVRzhSaHB1MHliYVhrNzNOTm9sY05FSDZIZ2FzcE1rWUl4dHl1UFdHUFY1V0pCVVBqSzI4NFk3alRvbUU0SGkwcHFxTk1sbFZVSDd6TENyZlMwQWcwMUZFU0w5SUNWZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-30T05:09:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ首都と周辺に攻撃、エネ施設に被害 ロの冬の攻勢警戒    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ首都と周辺に攻撃、エネ施設に被害 ロの冬の攻勢警戒"
+      }
+    },
+    {
+      "title_original": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "title_zh": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T05:02:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Girl has multiple surgeries to control infections after strike in Gaza\nSix-year-old Raseel al-Balawi in Gaza has had more than 20 surgeries since an Israeli air strike injured her in late July.",
+        "Witnesses say her tent in al-Mawasi camp was hit by a strike from an Israeli helicopter, and she now has to have frequent surgeries to try and control infections in her wounds.",
+        "Israel's military says it has no record of the attack and that it \"regrets any harm to civilians\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Girl has multiple surgeries to control infections after strike in Gaza"
+      }
+    }
+  ]
+}
