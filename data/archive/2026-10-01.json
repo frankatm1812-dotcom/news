@@ -1,8 +1,633 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-09-30T16:50:04.605229+00:00",
-  "count": 35,
+  "generated_at": "2026-10-01T02:05:36.972458+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title_original": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
+      "title_zh": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-01T01:59:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says\n- Published\nA pilot has been arrested after he stabbed the other pilot on a flight from Dubai to Tel Aviv and \"apparently tried to crash the plane\", Israeli Prime Minister Benjamin Netanyahu has said.",
+        "Passengers and crew overpowered the attacker and retook control of the Flydubai aircraft, landing it safely at an airport in Tabuk, northwestern Saudi Arabia, with more than 170 people on board.",
+        "The passengers, who were almost all Israeli, arrived later on Wednesday in Tel Aviv on a repatriation flight."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "What we know about stabbing on Flydubai flight to Israel"
+      }
+    },
+    {
+      "title_original": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "title_zh": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-01T01:45:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US Supreme Court allows execution of Christa Pike to go ahead\n- Published\nThe US Supreme Court has cleared the way for death row inmate Christa Pike to become the first woman executed in Tennessee in more than 200 years.",
+        "The justices overturned a last-minute reprieve that was granted by an appeals court on Wednesday morning about an hour before Pike, 50, was due to be put to death.",
+        "Tennessee's attorney general had asked the Supreme Court to overrule the lower court."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US Supreme Court allows execution of Christa Pike to go ahead"
+      }
+    },
+    {
+      "title_original": "原油先物ほぼ横ばい、米イラン和平協議と中東輸出見極め",
+      "title_zh": "原油先物ほぼ横ばい、米イラン和平協議と中東輸出見極め",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLU292Y1ZsN3NySlJzbnFWOGZkZFBVa3hpQXQyQ0V0ZmItUm5yTFl2NGNHdHVtaktRSFdOQnYzMGtieWJTNE9GY1RnbVNOaXpCTTFCZUlTSlBVd2JuRFdWSzgzNFdjb2k3c2xMQlU2bEJsc2FtS2w4V0ZMYWFKMHM?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-01T01:29:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物ほぼ横ばい、米イラン和平協議と中東輸出見極め    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物ほぼ横ばい、米イラン和平協議と中東輸出見極め"
+      }
+    },
+    {
+      "title_original": "Daredevil Jaan Roose prepares to walk slackline high above central Seoul",
+      "title_zh": "Daredevil Jaan Roose prepares to walk slackline high above central Seoul",
+      "url": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-01T00:59:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Estonian will navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gyeongbokgung palace on Thursday Estonian aerial athlete Jaan Roose will attempt to cross a 160-metre long highline suspended 120 metres above central Seoul on Thursday.",
+        "Roose , a three-time slackline world champion, will step out on to a narrow polyester ribbon between the Koreana hotel and the Dong-A Media Center, near the capital city’s famous Gyeongbokgung palace and Gwanghwamun square.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Daredevil Jaan Roose prepares to walk slackline high above central Seoul"
+      }
+    },
+    {
+      "title_original": "ローマ教皇特使、ロシアでウクライナ人捕虜と面会 人道問題など協議",
+      "title_zh": "ローマ教皇特使、ロシアでウクライナ人捕虜と面会 人道問題など協議",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb2d4SzA3NGVpN19hNWtxM1NXTnFhRDg5SnpUb0I2Z2Vxb0oySUN1UFFFZDlGcG1Wd2ROWS1CWlJSblNVUWZBSVVtdDRaMkZnUFZTdUhKUUpaWDZKcmJCYUV0T29NUk15RFA4UXpKZG1aYUhyU1dyQUR4WVB2N01tUkZlYkhZdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-01T00:41:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ローマ教皇特使、ロシアでウクライナ人捕虜と面会 人道問題など協議    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ローマ教皇特使、ロシアでウクライナ人捕虜と面会 人道問題など協議"
+      }
+    },
+    {
+      "title_original": "ロシア、ＮＡＴＯに核使用辞さずと警告 バルト海巡り緊張",
+      "title_zh": "ロシア、ＮＡＴＯに核使用辞さずと警告 バルト海巡り緊張",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWVN5MXB0NVl3MndnbDNkQW1DbzJDSUR0NUhBQURxMVVWLW9EbUJXVEFnWDh6VkhKTHZWSGxJUjRmRXZSV3ppV212M1FaUkYtdDZfcVZJNDFFYVp4bF8tTmc0SE4taUp3aDlvbENCcWk5UTZCaXQ3NjZsU0s5cDN6RkFSMFJKQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-01T00:34:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア、ＮＡＴＯに核使用辞さずと警告 バルト海巡り緊張    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ＮＡＴＯに核使用辞さずと警告 バルト海巡り緊張"
+      }
+    },
+    {
+      "title_original": "俄罗斯警告北约，封锁加里宁格勒就动用核武，吕特回应不当事",
+      "title_zh": "俄罗斯警告北约，封锁加里宁格勒就动用核武，吕特回应不当事",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KZXFBWUZzUHUtb08wbzktTGhJNGhaUDdZNDR1RGpyUkN4R3JFcE9OaGdFUGxiTldCVGphS2R3WXZBcV9BZ241WGUtYw?oc=5",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-10-01T00:03:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "俄罗斯警告北约，封锁加里宁格勒就动用核武，吕特回应不当事    凤凰网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "俄罗斯警告北约，封锁加里宁格勒就动用核武，吕特回应不当事"
+      }
+    },
+    {
+      "title_original": "Tiny image sparks big backlash in Nikon photo contest",
+      "title_zh": "Tiny image sparks big backlash in Nikon photo contest",
+      "url": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T23:10:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Tiny image sparks big backlash in Nikon photo contest\n- Published\nThe winning entry of a prestigious scientific photography competition is being re-evaluated following criticism from other scientists that it was made with AI.",
+        "Nikon's annual Small World In Motion contest accepts photos and video taken using powerful microscopes, and has run annually for the last 15 years.",
+        "The winner was a short video submitted by Dr Ning Xu, a researcher at Tsinghua University in China, which claims to be footage of tiny, hair-like structures called cilia moving inside the airways of a child with a rare disease."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Tiny image sparks big backlash in Nikon photo contest"
+      }
+    },
+    {
+      "title_original": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "title_zh": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T23:10:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putin shows no sign of stopping the war as Russia doubles down on Ukraine\n- Published\nWhen Vladimir Putin arrived to address Russia's parliament on Wednesday, a warm welcome was guaranteed.",
+        "\"The Special Election Operation\", as one Russian newspaper dubbed last month's legislative vote, has produced a State Duma even more pro-Putin than anything before it.",
+        "The ruling party, United Russia, now has more MPs than ever."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine"
+      }
+    },
+    {
+      "title_original": "ロシアがNATOに書簡で脅し 飛び地カリーニングラード州を孤立化させれば核兵器使用も",
+      "title_zh": "ロシアがNATOに書簡で脅し 飛び地カリーニングラード州を孤立化させれば核兵器使用も",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjQlhjUjBTbGJaaG5TN1VXY2Z5RTZMc211azFpR0ZnNlRpTVozNEJwQW5JelNGQ1VuYWxjZFJwX2pMSEtiMkNUY2M1eUdlSzhDbmhpcXNMZFRvZ3Q4X0RLbHdQRm8zc1pjdGRwbEhod0kzNHIxUXc?oc=5",
+      "source": "産経ニュース",
+      "source_score": 40,
+      "published_at": "2026-09-30T23:03:41+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシアがNATOに書簡で脅し 飛び地カリーニングラード州を孤立化させれば核兵器使用も    産経ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "産経ニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシアがNATOに書簡で脅し 飛び地カリーニングラード州を孤立化させれば核兵器使用も"
+      }
+    },
+    {
+      "title_original": "La OTAN se adapta a las nuevas amenazas para \"proporcionar la máxima seguridad a la población\"",
+      "title_zh": "La OTAN se adapta a las nuevas amenazas para \"proporcionar la máxima seguridad a la población\"",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWGFVVTFtUGFlLUl4eEVKbEMzQnkyQ20yZmw3WmY2WkEwWkt1U1d5RzhzbmdTLTJHc3pPS3Z5aU4zMzFCTV9aRWdVSlhhd2NxRnlnUWNETGhkdEdWbWktZzBYbkpJNEM4QVRMUWxiOHp4bk51MGx5SXBvOXB5bTlWVFI2YlBjajFtTXYzcFhYRXc3eW1nbGVUZ3hqLWNRTlp0ZUMtbmx6U1EwRnZGOWRZcWZqcw?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-30T22:30:39+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "La OTAN se adapta a las nuevas amenazas para \"proporcionar la máxima seguridad a la población\"    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "La OTAN se adapta a las nuevas amenazas para \"proporcionar la máxima seguridad a la población\""
+      }
+    },
+    {
+      "title_original": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "title_zh": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+      "url": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T22:01:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trekkers helicoptered off mountains as more deadly landslides hit Nepal\n- Published\nAnother wave of landslides and heavy rain has killed about 30 people in Nepal, as the Himalayan nation reels from August's catastrophic flooding that left 1,400 dead and thousands more missing.",
+        "The national disaster management authority says more than 1,900 families have been affected since late last week with more than 240 homes damaged.",
+        "Roads, buildings and bridges have been swept away."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal"
+      }
+    },
+    {
+      "title_original": "ウクライナに武器供給の欧州兵器工場、ロシアの「攻撃対象」に＝ロ外務省",
+      "title_zh": "ウクライナに武器供給の欧州兵器工場、ロシアの「攻撃対象」に＝ロ外務省",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdlVRclpoM3Vac1AwWk9pbDNtVnB5eWc1ZW42WEtPWkVVNnVmZFpuYTVnQ2VCVDdGZkZTQWRocDJia09KWUdEa0V0d3hUVk5yVjAyb191RHY4STJJcHNUaUNmWHpxRTJSYmIwcWtMUWtPNnhTTDB0VzlFNjFPZUVLampyWnBkZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-09-30T21:25:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナに武器供給の欧州兵器工場、ロシアの「攻撃対象」に＝ロ外務省    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナに武器供給の欧州兵器工場、ロシアの「攻撃対象」に＝ロ外務省"
+      }
+    },
+    {
+      "title_original": "原油反発、ブレントは100ドル近辺－中東からの供給拡大の兆しも",
+      "title_zh": "原油反発、ブレントは100ドル近辺－中東からの供給拡大の兆しも",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3bzhxRDZ6SmJFLW1CNGhXZkRiV3lRTW5UcGZLTExLWnltczh0bTd3ZDU0WVpLYXVoUGVuNGRRc0lHeGVPem92Z0RJeFdNQjRnUGZBcFZMV1dQdHZzdlBneUc1ODY3bXp5b2NjVFBWQldlVU5C?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-09-30T20:57:28+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油反発、ブレントは100ドル近辺－中東からの供給拡大の兆しも    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "ja": "原油反発、ブレントは100ドル近辺－中東からの供給拡大の兆しも"
+      }
+    },
+    {
+      "title_original": "Rusia amenaza a la OTAN con usar armas nucleares por Kaliningrado",
+      "title_zh": "Rusia amenaza a la OTAN con usar armas nucleares por Kaliningrado",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGVlblRlY21LUjl3U2VnNDEyVW9VSHdPRVdtWjk1TmJZYXpLbTgxaW9LOHZuMXlGMmxkTlg5NjlETXY0WllXX1dDMXRoN1ppcDNpOGNJTDJHbG56ZjdDLWZ2T1FiczB2bXIybXJabjRKeXYzbDZrSmZKZDlwZjc3SUMxS0d5Y2Z1cDd4Y2dNRWFIalFfXzFrYmlOWDVvTk3SAZ8BQVVfeXFMT1dYMHpoTnZnODZYNl80cVZMSXZHVDYzRGkzOGt2YU9RZ016aWtMU0tMaG1ScFVKY01selp2M3VsSG1zMTY0cmRLekZNVkJvVVFVWGtkR3oxY2tDdWdDT1ZkQklqOVN2TnF0VzBoaVlPRnN5QzdMeE1BVlVqZkJxcVpZWk5pS25NMVBwVDlOQ01vY3o1bm8tbmZfTHpyS1JJ?oc=5",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-09-30T20:21:14+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Rusia amenaza a la OTAN con usar armas nucleares por Kaliningrado    dw.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "es": "Rusia amenaza a la OTAN con usar armas nucleares por Kaliningrado"
+      }
+    },
+    {
+      "title_original": "الطلب العالمي على السفر الجوي يتراجع 0.8% في أغسطس",
+      "title_zh": "الطلب العالمي على السفر الجوي يتراجع 0.8% في أغسطس",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQclJ5VWw0SFNHX2kwLVJ2cHFRVU1UQTcyQlc4TnN1blRZWTJzSjRTZEtNcXg2TzlLSWZybUJRUkF2cllhaWtMRzBlXzN6dktYX3IwVkNubkUwS3RFNS1LUk5LZ1JFNDJ3ZldHTWhSRDFXaGtKRzEzdUkxSGdBWVlMWEptN1c3bHNoWTd0eE0zU3Y2Um45alktUktYR01yNlQtQzdjeUJ1Q3U1VV9tcUNPbmZXcnJKajdZRFdWS19zVXJfRkQ2amtmNGpiNXgwSTBKcVJQT3ZuZDBHXzBicC1iY1FpU0NFSXBXbEVnUk9XNklDcFR2aGt0TS1oLWVWUXU3RGxoV2haWFNmWW1LWVZtbV8xeGMybWRYWlBkWUs0T0lIWDZETXVhMWxlT2c1OGt2RGgyaGk5QjNZOE9SNXFkNWFPdUMtWHBJUnJlUlk0NFV3NnhGbkE4UmVKWlg5Z9IB4wJBVV95cUxQWk5SRXI2WGZzM3I5MGdKRTdod292bEJNUzhHNl8wWS1FWTBpQnozV1JQVXFKMUVZV21BYUoyYU94QjBYc2tIbWdTTjYyWmpHWWVkZHQzZjJ5M1c2cmEzbTRSWEhndndnWjJUQk9ZSG5ZcGoyQUZKVnlyQV9qQWFyNjlwazEzUDdkUVV1dUt1bk1BRVJJZG1iUWgyUkc5TWctX3ZVeDlIREhuTHRfd3dQdERuOXVWeTBYZnhzTXVIcFZrU2owQTJIY2lFUHpvRFFCVXdBYnloaEhwSkk1Nk84bDhpWUQwMW5MTEU3STZDZlZYb2xERlF5R2FZZmZIeV9ZWEFEZmVrWEZEUjNjUG92TkJGWE12Q2dpV1dzckIwakNzTzdqSlJmYXAyeW1hUlhfc0NIRzJOR3RJNkVtQ1h5VjBvTnpqN0tlMllpcjVHV2JuMC1XS1pNOFFRV2xLVDl2emxn?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-09-30T20:04:38+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الطلب العالمي على السفر الجوي يتراجع 0.8% في أغسطس    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "الطلب العالمي على السفر الجوي يتراجع 0.8% في أغسطس"
+      }
+    },
+    {
+      "title_original": "El plan secreto con el que Alemania se prepara para una guerra de la OTAN contra Rusia",
+      "title_zh": "El plan secreto con el que Alemania se prepara para una guerra de la OTAN contra Rusia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUk4QUxlWFo4V3VYNVFxX29acGtkQWNqdnBkTWNWVzZDRDRmSHZod2t2Y2hQNy0xdWwxZTdYdFVCQjZmTG9pdlhoZ1NkSVpNM0hfU0I4UmFmN2R2NUo3a194WF9MMThvS2xrTFlYN1VPT2NYNkNSTUNjaWxkai1TbEVFamRtanJzV01reUhPZGRydlV6Q190UmVNN1JBNUQzakJWMUg1NjZZUGdteDE0a2xXM3l6aHlJSDVV0gG7AUFVX3lxTE1oc20zaUc0bW1OS1p2ZDZ1MlNKQ3F6TTREd0luaUxYWG5lZTRVa3dXbXpsVmRzSUJRNEhSQ0dRSjhwVHhWNDlsaHBiZFlSRzR4R3FXdGNtTTJFbnpfUm1jTXlzNXYtODBQNVFTbUFYejNKNVhqM0FzanRMNzFVelJJVnh5Y3hUYXY2dUl6RXpndmFwZ0V1S0YtTF9yYmJkcmx3ejdrb1VWTVZrS2ZDWFc2WTJUOUhrZUJDbXc?oc=5",
+      "source": "dw.com",
+      "source_score": 95,
+      "published_at": "2026-09-30T20:00:09+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El plan secreto con el que Alemania se prepara para una guerra de la OTAN contra Rusia    dw.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "dw.com"
+      ],
+      "all_titles": {
+        "es": "El plan secreto con el que Alemania se prepara para una guerra de la OTAN contra Rusia"
+      }
+    },
+    {
+      "title_original": "Trump administration diverts human rights funds to push far-right agenda abroad",
+      "title_zh": "Trump administration diverts human rights funds to push far-right agenda abroad",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-09-30T19:51:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Support such as for white Afrikaners and anti-communism reveals how US is redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a slate of awards that includes a huge $40m grant for an anti-communism fund, support for a group advancing white Afrikaner rights in South Africa, a campaign against Brazil’s supreme court and programs that would reward ideological allies in Europe who protect “western civilizational norms”.",
+        "On Wednesday, the state department obligated the funds to the grantees hours before the deadline despite congressional concerns and requests not to do so, according to a source familiar with the negotiations.",
+        "The state department declined to comment on questions from the Guardian specifically on whether it had obligated the funds and had “blown” holds from Congress due to concerns about the money’s use."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Trump administration diverts human rights funds to push far-right agenda abroad"
+      }
+    },
+    {
+      "title_original": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
+      "title_zh": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Y9IBuAFBVV95cUxPbGlRNm8wTmhFUXlSNUpYamgxdzA0Q2tOWnhxWTJfeW5QWU1Wc2JCVmd0V1piNUpBUGMzTDZSSmVpSUhLZUduSjhldkdWcXN3UXpSOUVUelVscC02UlFrZGNjRWJhTEd3djNpcWZZT3BsT3EtcVgxUzAxTEZ1UTl3R09LVHhmTDJabkUwV1ZESnh3c21laFBRQTI4b1VHZmVMUFdENDg2YXJSRktDczdxcWlRR3JzUHdy?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-09-30T19:04:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia warns NATO of possible nuclear response if Kaliningrad is cut off    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off"
+      }
+    },
+    {
+      "title_original": "Rutte resta importancia a las amenazas nucleares de Putin: \"Nunca podrá ganar contra la OTAN\"",
+      "title_zh": "Rutte resta importancia a las amenazas nucleares de Putin: \"Nunca podrá ganar contra la OTAN\"",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTzYwdVlIYnNINm5WSDBNb3JqenNTcUNkeEw1N19sdFVDeC15dmdkY2Z5dUNkUnY2OFo4M180Y3hZSHRNcGlKOFNoc3VZY1VhdkJTcHhwd1FIMURjOUdHQnp6T3REYTlZYjhaTXJqdGhHaHBzUHF4QjI3TGFBZkM2dEdJLVdwcHpfT2pRbUZ6dw?oc=5",
+      "source": "Euronews",
+      "source_score": 75,
+      "published_at": "2026-09-30T18:43:40+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Rutte resta importancia a las amenazas nucleares de Putin: \"Nunca podrá ganar contra la OTAN\"    Euronews",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Euronews"
+      ],
+      "all_titles": {
+        "es": "Rutte resta importancia a las amenazas nucleares de Putin: \"Nunca podrá ganar contra la OTAN\""
+      }
+    },
+    {
+      "title_original": "米石油ガス業界、中東原油の輸出正常化に「半年以上かかる」",
+      "title_zh": "米石油ガス業界、中東原油の輸出正常化に「半年以上かかる」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00ZXdORTBZMzhrZDBSaUJXaVlLcFpFSkh0Vm16VnR6cG5OY0FoNTBaZUtPa2lpa09FbE1hVTVCaVFtYm1DY184eThMV01jNWwxSzdVVGx3S1lkTGwyamV0cG5PX0xIVWRIaTZUVg?oc=5",
+      "source": "nikkei.com",
+      "source_score": 95,
+      "published_at": "2026-09-30T18:24:17+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "米石油ガス業界、中東原油の輸出正常化に「半年以上かかる」    nikkei.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "nikkei.com"
+      ],
+      "all_titles": {
+        "ja": "米石油ガス業界、中東原油の輸出正常化に「半年以上かかる」"
+      }
+    },
+    {
+      "title_original": "Rusia avisa por carta a la OTAN del uso de armas nucleares",
+      "title_zh": "Rusia avisa por carta a la OTAN del uso de armas nucleares",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVlUSDN3Y3hncjYtdzhBaW5OMHh4c1N2eDc0NFhZbzVkUlBpb0RubVpiTzFneEpqTzJ6T3VrMVpPb1cxOXNkelNBTEhUV0czOWJPcEpjRWhHbXNnWGFydnN4S1F5ZXJfYnNGbnppT0QzRzA4SFFRS3hPU1BtSVRvZDBYMXJOMU9vejJFVkRVTDRaZ0lDRHktTFhuSThLdTA?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-09-30T17:46:35+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Rusia avisa por carta a la OTAN del uso de armas nucleares    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Rusia avisa por carta a la OTAN del uso de armas nucleares"
+      }
+    },
+    {
+      "title_original": "حادثة فلاي دبي تُذكّر بعقود من عمليات اختطاف الطائرات في الشرق الأوسط: ما يجب معرفته",
+      "title_zh": "حادثة فلاي دبي تُذكّر بعقود من عمليات اختطاف الطائرات في الشرق الأوسط: ما يجب معرفته",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcGExMFAwRmtuOHl1TjVjd2o0YnM3TWRpcW5ZM1lHOENxOWE3dzlqTU9tS2tVS0oyN2lXbEg0cFd1ZHNDWWM4QmltQ3c5Snlha212VTVhZjVpZS1lZFpNOGt1UjBfLUdWZEduMnQycFVzUXp3c056eFdSTWdueDFPWHgtbmpYc0F4WmpjQ3hPVmloeW9CRjRVUEVLbFRETXBDSW5EQmt6WnhKbGhRWTZPLWxXSEFDNTJGOWRTc29nY2VEWVl0?oc=5",
+      "source": "Al-Monitor",
+      "source_score": 40,
+      "published_at": "2026-09-30T17:42:01+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "حادثة فلاي دبي تُذكّر بعقود من عمليات اختطاف الطائرات في الشرق الأوسط: ما يجب معرفته    Al-Monitor",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Al-Monitor"
+      ],
+      "all_titles": {
+        "ar": "حادثة فلاي دبي تُذكّر بعقود من عمليات اختطاف الطائرات في الشرق الأوسط: ما يجب معرفته"
+      }
+    },
+    {
+      "title_original": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+      "title_zh": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T17:14:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Six smugglers jailed for manslaughter over worst Channel small boats disaster\n- Published\nSix people traffickers have been found guilty in France of causing the deaths of 31 migrants in the worst ever small-boat accident in the Channel.",
+        "At the end of a four-week trial in Paris, the six were convicted of \"involuntary homicide\" and given prison terms of between six and 10 years.",
+        "Seven others were given lesser sentences of up to four years, and one person was found not guilty."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Six smugglers jailed for manslaughter over worst Channel small boats disaster"
+      }
+    },
+    {
+      "title_original": "Rusia amenaza con usar armas nucleares contra los países de la OTAN en plena escalada de tensión en el Báltico",
+      "title_zh": "Rusia amenaza con usar armas nucleares contra los países de la OTAN en plena escalada de tensión en el Báltico",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNM0I0NHhBbFgyQ1lmdGhtMHhyT1hIT2ktSGdfSkZKYjFfNTFYQzdLUXpIVlVXQjNyY3NHTFZmbl9keWJrOHFuLUVtNkZJQzYwTUlDcWVNQm5meWdtWkQ5OTdJZml5VU11RmJVNGwzTHUxLXNlZHJfdXlSSUpuWXJ3UmdDNXhWd2dVbG0tOHV6TU92cHNoRzBGdy1mNUV5cmNCdGhBMXdfU1Y3WVJlNVhaU29JYm9qRWxRWkRUb2JjeVc4RTNfTWZaLXNsWU1ERXVWajNnMVhDRjcwRXVacTZJbDMzZDFHUzRTMzg0VEVDUlXSAYQCQVVfeXFMTUZvb29OZlpWNHBUbGxXckFYVzlDdi1GRmVaellxUDFEeTkwTEk5ck1Da0hlMmZhM3RFMXl6amRMU1Y5SE5oWXplMktkdkZ6aEhvSzV3dlIxS1lJTUFDN2YzeUZCd0ZwLVNTTVhKbGF3Y1MxUS1HNk9WbnJSQjM0dXNNdEp2ZFVXcjRqUklMNnpWeXRud2FCY1Q5c1BJQUVRVnd1ejVmRUl2U1Y2UUVIak8xd3BWY1dhblByaUdtQzdRYXhnTmFSTlY0cHdEWHYxRkc1c2Qwc09vU090eV9acHJuT19JOWVzeVJzZFUxSGtiX0VRb0NpMldqU1R6ZFU2bHJoZ3E?oc=5",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-09-30T16:42:12+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Rusia amenaza con usar armas nucleares contra los países de la OTAN en plena escalada de tensión en el Báltico    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Rusia amenaza con usar armas nucleares contra los países de la OTAN en plena escalada de tensión en el Báltico"
+      }
+    },
     {
       "title_original": "Explainer: Why Russia's Kaliningrad is a potential flashpoint with NATO",
       "title_zh": "Explainer: Why Russia's Kaliningrad is a potential flashpoint with NATO",
@@ -51,6 +676,56 @@
       ],
       "all_titles": {
         "ja": "イラク駐留米軍、撤収完了 「盟主不在」の中東に広がる力の空白"
+      }
+    },
+    {
+      "title_original": "'We will defend every inch of NATO territory’: Rutte dismisses Russia’s nuclear threat",
+      "title_zh": "'We will defend every inch of NATO territory’: Rutte dismisses Russia’s nuclear threat",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT0VrQTRERDhLZ2hsMm1hRGNpTkY5dEQ3TUxjUzdMa2VQNXNuNXNCM3MxemJSdEppaHI5MkdsRXRKOWRNTHlyMnl5SDZoS0E1NXdmT1FQcDFyNW9qODNFb0FxOFNWd1IyQkh5amlIU3cxVTlsWlRiYmUxemFOc0R2NnpSbmpkQXNMNHd2eUFZckxTbV9uNDRNN1V0X2FSbjVDVmpZX01KQmpSQ3VKQmxiVC1NYXllRUlTdEZFTC02dw?oc=5",
+      "source": "aa.com.tr",
+      "source_score": 40,
+      "published_at": "2026-09-30T15:51:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "'We will defend every inch of NATO territory’: Rutte dismisses Russia’s nuclear threat    aa.com.tr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "aa.com.tr"
+      ],
+      "all_titles": {
+        "en": "'We will defend every inch of NATO territory’: Rutte dismisses Russia’s nuclear threat"
+      }
+    },
+    {
+      "title_original": "Citizen Air Commando represents 919th SOW at 2026 NATO Pentathlon in Romania",
+      "title_zh": "Citizen Air Commando represents 919th SOW at 2026 NATO Pentathlon in Romania",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbHEwTFFMczJQWnNZMUFRZzZKaUNyUm5PbVhYSTFTUWE2dHFWODBCUkwwenN6ckp1eTNPTGlETVR0cF9zM2pSeHRWWVk3NkFxb18zb0xZdHdBNElieDFYamtSR1BBbURJel9reHMyTmttZkdkYXd4Z0JwODFLTFYxdTIweDFfUzNuTkpYWWIyY2FuU3ZQT0tYZl8xbmQ5cGZhRzJ1V25ENy1uazZGem1jazVoMThnZXFmZXhJczBnZXY2Yl85Q2xsQVdEc1BzMlVqa2FQNA?oc=5",
+      "source": "afrc.af.mil",
+      "source_score": 40,
+      "published_at": "2026-09-30T15:44:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Citizen Air Commando represents 919th SOW at 2026 NATO Pentathlon in Romania    afrc.af.mil",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "afrc.af.mil"
+      ],
+      "all_titles": {
+        "en": "Citizen Air Commando represents 919th SOW at 2026 NATO Pentathlon in Romania"
       }
     },
     {
@@ -126,6 +801,56 @@
       ],
       "all_titles": {
         "en": "No imminent threat to NATO territory from Russia, Rutte says"
+      }
+    },
+    {
+      "title_original": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
+      "title_zh": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T15:04:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC\n- Published\nAt least 52 civilians have been killed during three days of heavy fighting around Alamata in Ethiopia's northern Tigray region, hospital sources have told the BBC.",
+        "It appears government troops have taken control of the town from regional fighters and intend to push north towards Mekelle, the region's main city.",
+        "Social media clips show army tanks on Alamata's streets."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC"
+      }
+    },
+    {
+      "title_original": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "title_zh": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-09-30T14:53:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia launches largest attack on Ukraine energy infrastructure since spring\n- Published\nRussia has launched the largest attack on Ukraine's energy infrastructure since the spring, primarily targeting Kyiv and the surrounding region, Ukraine's Prime Minister has said.",
+        "At least five people were killed in overnight attacks across the country, including a child in the Kyiv region, Serhiy Koretskyi said.",
+        "The strikes also impacted people's power supplies, with Ukraine's biggest private energy firm DTEK saying power to 8,000 homes had been restored following \"a difficult night\" for the capital."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia launches largest attack on Ukraine energy infrastructure since spring"
       }
     },
     {
