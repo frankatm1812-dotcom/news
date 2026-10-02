@@ -1,8 +1,633 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-01T17:22:32.302827+00:00",
-  "count": 35,
+  "generated_at": "2026-10-02T02:11:50.058498+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title_original": "The Bolsonaros…they’re back! Brazil heads to the polls – podcast",
+      "title_zh": "The Bolsonaros…they’re back! Brazil heads to the polls – podcast",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/02/the-bolsonarostheyre-back-brazil-heads-to-the-polls-podcast",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-02T02:00:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Latin America correspondent Tom Phillips reports on this Sunday’s historic presidential elections in Brazil, as the son of jailed former president Jair Bolsonaro hopes to take power You would have been forgiven for thinking that when Jair Bolsonaro was convicted in September 2025 of attempting a coup, his political career was finished and his legacy forever tainted.",
+        "But in the first round of Brazil’s presidential elections this Sunday, another Bolsonaro has genuine hopes of victory – not Jair, but his son Flávio, who ialso campaigning to have his father released released.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "The Bolsonaros…they’re back! Brazil heads to the polls – podcast"
+      }
+    },
+    {
+      "title_original": "النفط يستقر مع بحث واشنطن إرسال حاملة طائرات ثالثة للشرق الأوسط",
+      "title_zh": "النفط يستقر مع بحث واشنطن إرسال حاملة طائرات ثالثة للشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQLXhqV0EyTW9RRGFwYWtqYVhZRWMxS0FSVGxmdW95c181Sy1XLUd2Mk1fSHZ0WnBoM1NXTEd0bDhiZG1qeXlyUDVfcENKYTRTZW1sNldsSmo5ZlRFeU1ILVZEOUpBeFhLM2UtVk0xMjJxRlNhajVpZ1d2S3VtMmtGWUlJYW5hMS03bDltT2NjVmZ4bGZfZzNOUXR3YVlxT2ZBZlJGWGJUUkxuUnZhVGZsS2l1cmUyQUZFTlRnb2drQkx6bF80bnpXNnlDVjktb2tNS204UjZaS1dYT0VBUm9rTVdVc2lXcVIydmdqWW5lcGJXOWJKTDdYTW04V1FHYVBDMThXZkJBUlo?oc=5",
+      "source": "الشرق بلومبرغ",
+      "source_score": 40,
+      "published_at": "2026-10-02T01:52:30+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "النفط يستقر مع بحث واشنطن إرسال حاملة طائرات ثالثة للشرق الأوسط    الشرق بلومبرغ",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "الشرق بلومبرغ"
+      ],
+      "all_titles": {
+        "ar": "النفط يستقر مع بحث واشنطن إرسال حاملة طائرات ثالثة للشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "ロシア飛び地攻撃報復に核使用も プーチン大統領、NATOに警告（共同通信）",
+      "title_zh": "ロシア飛び地攻撃報復に核使用も プーチン大統領、NATOに警告（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBydzNVVHRhNVN4Q24wTUZxRUlfMzdTTlJUeXdVYkNRM2dUMlBkbjNSNGN3NHJ3NndzdDdGb09UOHp4TGdSZ0JKbDhVc0NLelptZ3lUc0VtTmJnVXkxVnRiYk9vdGZKWWdWNVJIcGJZM1AtSHRtdko2VXR3N0tMdFU?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-02T01:09:49+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア飛び地攻撃報復に核使用も プーチン大統領、NATOに警告（共同通信）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア飛び地攻撃報復に核使用も プーチン大統領、NATOに警告（共同通信）"
+      }
+    },
+    {
+      "title_original": "握手、成果清单和休战延期，是否意味着中美关系真的发生了变化？",
+      "title_zh": "握手、成果清单和休战延期，是否意味着中美关系真的发生了变化？",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12ZlRrT2lSSjFjX3VPMm90SDlFR2prQjNlYmJ4dUloNjh5VEN2VFVFQjRXM1JabWR4NnpuYVBwZ1hJdUdRTU1lcnBleU5GNEQ2b2JMOWVCN2tvWXRrR1p3TWpTVjVuUUVSOERYOWNjbXVrZVBGbWpKSNIBe0FVX3lxTE1UZlF2WGdIU3E1LWF4Tk04eXU5V1VVdnhWcXBYVnFsRzVxMWk2cHFmRm1oRXhmTmZCUnZTNmFteGhHOXA3aWg1ODVydi1kUzJQZXJYdkhxTlhTMzA4bHNTRzN4dnlNSHQtZjZyanpqYTVCM1JJWjE0UFhfYw?oc=5",
+      "source": "美国之音",
+      "source_score": 40,
+      "published_at": "2026-10-02T01:01:36+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "握手、成果清单和休战延期，是否意味着中美关系真的发生了变化？",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "美国之音"
+      ],
+      "all_titles": {
+        "zh": "握手、成果清单和休战延期，是否意味着中美关系真的发生了变化？"
+      }
+    },
+    {
+      "title_original": "メルツ首相がウクライナ支援で「結束」呼びかけ、親ロ極右AfDの台頭に懸念（ＡＦＰ＝時事）",
+      "title_zh": "メルツ首相がウクライナ支援で「結束」呼びかけ、親ロ極右AfDの台頭に懸念（ＡＦＰ＝時事）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XbUtsODJDQ19LUENzMWZwS3VIaVdCdm1xWTVyaXE3YWhVUHZETkRBM3VsekFtV0RXRlV1Yks5R1NObVI4bkp0T1A1YXFOMEpHU2RHVFZFU3ZEMnBKREFBY19NNWxOSzRWUnBjODViUDJxenZPMUlKQkM4WHdlSVU?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-02T00:58:20+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "メルツ首相がウクライナ支援で「結束」呼びかけ、親ロ極右AfDの台頭に懸念（ＡＦＰ＝時事）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "メルツ首相がウクライナ支援で「結束」呼びかけ、親ロ極右AfDの台頭に懸念（ＡＦＰ＝時事）"
+      }
+    },
+    {
+      "title_original": "米空母が西海岸から中東へ出港 11月にも到着か、イランに圧力",
+      "title_zh": "米空母が西海岸から中東へ出港 11月にも到着か、イランに圧力",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoMWZOUWdiZHRlZkdjQ0x5cUd0TzhreGxSR1RSOVl0MUdYTHdVTU9nX2pYRV9DYmJLSzl3S2RvRV8wNjFBd091c2NwRmNMcC1xLVBKRDZwanlpcnY5UHdwTzRTRWJSZ29Wai0yeg?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-02T00:07:16+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "米空母が西海岸から中東へ出港 11月にも到着か、イランに圧力    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "米空母が西海岸から中東へ出港 11月にも到着か、イランに圧力"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（10月2日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（10月2日の動き）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UMzc3LVc4V3FaUDIySHVwMDVPR3ZXam9zZWRmdV9NZFFPRnU1VmVzYVpRenF0SlU4ZnhnTUlhN3lqWXZEdVJUbEVRbGxZYkVhakZJM3liZE5EQmFLS2Y4?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-01T23:21:38+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（10月2日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（10月2日の動き）"
+      }
+    },
+    {
+      "title_original": "EE.UU. envía un tercer portaaviones a Oriente Medio",
+      "title_zh": "EE.UU. envía un tercer portaaviones a Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdDUwbG0tYzA3LUNwTVkwdFNOSnpNSm5ucVg4SE1lRTFCTWtNZDM2RXZXaXV4VWxpUzFwQWdkSmUzRmtoUzZJdW5DLWlFbl9QVTFwZjhzQTJCTjV3ZVJvaHNYLVN5eVJyOVJRNzJjN1V5U1VpREkweExJbUZYTFVXelZkNGFBengtR01HZ0gteVHSAZABQVVfeXFMT0FUWG1oTjlQVzFLczdRVUlSRWNLcUJHblB6V0syNU5RaHRqSWZKaFJsemRGcHNjelRaRTdxaFBSSURCekJCd0xnaE9qdUk0TE9DTEZfTHFGeUpndTMyVHlRSXA3MEJjcS03MUZhaGxlZlU1TmFzRVpRWENBRnJOX2NyWlE4SFJYZ0RKcUhjaWVl?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-01T23:16:18+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "envía un tercer portaaviones a Oriente Medio    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "EE.UU. envía un tercer portaaviones a Oriente Medio"
+      }
+    },
+    {
+      "title_original": "ウクライナ、国産戦術弾道ミサイル「ＦＰ７」初実戦使用＝大統領",
+      "title_zh": "ウクライナ、国産戦術弾道ミサイル「ＦＰ７」初実戦使用＝大統領",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTW1QUzRjQm9OdnRpNmwzUkpYalRQVHJPTk11OVVncG1xenV0TWV0VjFpYlpBUnlBd3RSaTUwaGFtNFpiam5kcUQwazJRbnN1RU9WZUVNN0VCbVc1eU1ZZXp1ekgxQ0hteTRCRERPcEVyVWRNa2RXNVVzSC1xaXVpa0czdU9XQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-01T22:40:49+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ、国産戦術弾道ミサイル「ＦＰ７」初実戦使用＝大統領    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、国産戦術弾道ミサイル「ＦＰ７」初実戦使用＝大統領"
+      }
+    },
+    {
+      "title_original": "Germany news: Merz lauds NATO with Westphalian Peace Prize",
+      "title_zh": "Germany news: Merz lauds NATO with Westphalian Peace Prize",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDJhaExOSWp1dHROMEZMMDlBdUdEUENKTGh2UjBENTV0OXhsZjNhNm10R1lJUUk3VDAwT3AteDhxUThCOC01SmZERk5XWTcwVFZIbTNBcFZLYUZ4T3BxZjhjbThwRzNNWUtKcDNCSjRWanhsMEVhRkpNemxyaG5Ld0hQOWFkbVk4Y29fR180bE9uSjNxSVBtVA?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-01T22:29:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Germany news: Merz lauds NATO with Westphalian Peace Prize    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "en": "Germany news: Merz lauds NATO with Westphalian Peace Prize"
+      }
+    },
+    {
+      "title_original": "小野寺元防衛相がウクライナ訪問 ゼレンスキー大統領と会談",
+      "title_zh": "小野寺元防衛相がウクライナ訪問 ゼレンスキー大統領と会談",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HN04zQVpuUExtSzlhYXVKaWFoSWIzajVtcTE2cy13NXRYN1MxTHhOUGJmMW5iLXBhbk5TRTBQeS12SDdtcWFDWUlpVUh1RllHeFdvQTVSWDZwb04zQ3c0?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-01T22:28:18+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "小野寺元防衛相がウクライナ訪問 ゼレンスキー大統領と会談    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "小野寺元防衛相がウクライナ訪問 ゼレンスキー大統領と会談"
+      }
+    },
+    {
+      "title_original": "Trump’s New NATO Inner Circle Excludes UK, France and Baltic Allies",
+      "title_zh": "Trump’s New NATO Inner Circle Excludes UK, France and Baltic Allies",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12dE1vUGFyNVVTZXFqUDBQSjlGeDRldWp3UXQ3STZYNFB1Mm9DS2hJWU5ySWtLcVNEOEgwY1lSMGFVZmowU1RSQzhPUQ?oc=5",
+      "source": "Kyiv Post",
+      "source_score": 40,
+      "published_at": "2026-10-01T22:07:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Trump’s New NATO Inner Circle Excludes UK, France and Baltic Allies    Kyiv Post",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Kyiv Post"
+      ],
+      "all_titles": {
+        "en": "Trump’s New NATO Inner Circle Excludes UK, France and Baltic Allies"
+      }
+    },
+    {
+      "title_original": "小野寺氏に無人機協力要請 ウクライナ大統領らが会談（共同通信）",
+      "title_zh": "小野寺氏に無人機協力要請 ウクライナ大統領らが会談（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iWEZQdDdBOXRHZEpkd1Y2WmwzY19HcWpISGJ3OXdjUEZVZXFIMnBfSWpBekZsMUtCZU9SQThLVHhvVnN3eG5CQUZQc1p3akpyeWNkOVB6VUdoMmd5WWcxWHFDY25lR2hpWjB1c1J2R2RNX0lkcWtNUmE5SG9hdkk?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-01T21:47:27+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "小野寺氏に無人機協力要請 ウクライナ大統領らが会談（共同通信）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "小野寺氏に無人機協力要請 ウクライナ大統領らが会談（共同通信）"
+      }
+    },
+    {
+      "title_original": "En visite à Münster, le secrétaire général de l’OTAN rappelle les maîtres mots : « sang-froid, détermination et soutien à l’Ukraine »",
+      "title_zh": "En visite à Münster, le secrétaire général de l’OTAN rappelle les maîtres mots : « sang-froid, détermination et soutien à l’Ukraine »",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOXMxbTlIUjk0bEVMTnpBaVVkYXdJbjdqMHd3NnRfNElvU0luR2ZrbXNvTkZMTnpBTTFaSzFmWEZsVzZqNzlaa0hoSmF4aVQ5b1paNi1JRGMtcDkwXzFiOTVseWU5ZW44b3htQXJhUUFEOVJ4RjB5ZnhEMDNRLXJzcWdSTkNUWjZRQ3Faa0FLTW5nbHlzSnNuaWkxY3lNRU5uYUlYd0N1S3JYdmNYalltZm43bWxJTTVxeS1rTUxoNkRjTU5ndzA5MmZZN3p1QUpISDJVRzlPcU1TZnl5UjR3RFo3Mkw?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-10-01T21:41:57+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "En visite à Münster, le secrétaire général de l’OTAN rappelle les maîtres mots : « sang-froid, détermination et soutien à l’Ukraine »    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "fr": "En visite à Münster, le secrétaire général de l’OTAN rappelle les maîtres mots : « sang-froid, détermination et soutien à l’Ukraine »"
+      }
+    },
+    {
+      "title_original": "米、中東に空母打撃群を追加派遣へ 対イラン攻撃再開を検討＝報道 | ロイター",
+      "title_zh": "米、中東に空母打撃群を追加派遣へ 対イラン攻撃再開を検討＝報道 | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qMzdlRnBENUxiWVNwMUZhR0lSYlo5X1c4Vl9aQlpSUWZSOHpMYlR3b1pnd3NnQjRzS3F6REFTaVdUN1I3cjNqOE5QX1duTk4wbVk4S0RKLXdzOXBWTWZIanR3Q1MycEQ3Qm5sVDBNb0Q4a3prNFZYT2hrTjY1M3c?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-01T20:51:45+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米、中東に空母打撃群を追加派遣へ 対イラン攻撃再開を検討＝報道 | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米、中東に空母打撃群を追加派遣へ 対イラン攻撃再開を検討＝報道 | ロイター"
+      }
+    },
+    {
+      "title_original": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "title_zh": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "url": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-01T20:30:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Renee Good: Family of US woman killed by ICE agent sues Trump officials\n- Published\nThe family of a woman who was killed by an immigration agent in Minneapolis has announced two lawsuits against the US government and members of the Trump administration.",
+        "Renee Good, a US citizen, was shot to death by an Immigration and Customs Enforcement (ICE) officer during a major immigration sweep in January.",
+        "Millions watched the video recorded of her killing and residents of the Minnesota city took to the streets to protest."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Renee Good: Family of US woman killed by ICE agent sues Trump officials"
+      }
+    },
+    {
+      "title_original": "New York grapples with kinks in $1B Medicaid system",
+      "title_zh": "New York grapples with kinks in $1B Medicaid system",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/01/new-york-grapples-with-kinks-in-1b-medicaid-system-01103951",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-01T16:30:32-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "New York grapples with kinks in $1B Medicaid system",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "New York grapples with kinks in $1B Medicaid system"
+      }
+    },
+    {
+      "title_original": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "title_zh": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-01T19:59:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'\n- Published\nIsraeli Prime Minister Benjamin Netanyahu says investigations suggest the man who stabbed his fellow pilot and tried to take over a flight from Dubai to Tel Aviv had undergone \"Islamist radical indoctrination\".",
+        "The Flydubai plane plunged more than 17,000ft (5,200m) two hours into its journey on Wednesday, before passengers and crew overpowered the attacker and retook control to land safely.",
+        "Netanyahu told Fox News that it was looking \"very likely\" that the attacker, who he said was an Omani national, \"was going to down the plane\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'"
+      }
+    },
+    {
+      "title_original": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "title_zh": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45djZCSHRoUWlOWThQNWlOd0p0cnVzSG1JSTNBOFFrUlRjeEljOEVQYnJSY2VLOUNGb2YtM1RUWUw5VlFfckl4YlpfT2o1eml1RHFMZWcxWmdxYzQ?oc=5",
+      "source": "bbc.com",
+      "source_score": 95,
+      "published_at": "2026-10-01T19:38:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad    bbc.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "bbc.com"
+      ],
+      "all_titles": {
+        "en": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad"
+      }
+    },
+    {
+      "title_original": "El plan secreto con el que Alemania se prepara para una guerra de la OTAN contra Rusia",
+      "title_zh": "El plan secreto con el que Alemania se prepara para una guerra de la OTAN contra Rusia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUk4QUxlWFo4V3VYNVFxX29acGtkQWNqdnBkTWNWVzZDRDRmSHZod2t2Y2hQNy0xdWwxZTdYdFVCQjZmTG9pdlhoZ1NkSVpNM0hfU0I4UmFmN2R2NUo3a194WF9MMThvS2xrTFlYN1VPT2NYNkNSTUNjaWxkai1TbEVFamRtanJzV01reUhPZGRydlV6Q190UmVNN1JBNUQzakJWMUg1NjZZUGdteDE0a2xXM3l6aHlJSDVV0gG7AUFVX3lxTE1oc20zaUc0bW1OS1p2ZDZ1MlNKQ3F6TTREd0luaUxYWG5lZTRVa3dXbXpsVmRzSUJRNEhSQ0dRSjhwVHhWNDlsaHBiZFlSRzR4R3FXdGNtTTJFbnpfUm1jTXlzNXYtODBQNVFTbUFYejNKNVhqM0FzanRMNzFVelJJVnh5Y3hUYXY2dUl6RXpndmFwZ0V1S0YtTF9yYmJkcmx3ejdrb1VWTVZrS2ZDWFc2WTJUOUhrZUJDbXc?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-01T19:24:47+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El plan secreto con el que Alemania se prepara para una guerra de la OTAN contra Rusia    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "El plan secreto con el que Alemania se prepara para una guerra de la OTAN contra Rusia"
+      }
+    },
+    {
+      "title_original": "プーチン氏、対話によるウクライナ紛争解決望む ウ中立化求める | ロイター",
+      "title_zh": "プーチン氏、対話によるウクライナ紛争解決望む ウ中立化求める | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMjdCSUtUcXF0eWsySmRONG5wU3o0dm13QVNNcFI5cGZUdzJUZG95WFNPaVpnUm82ZWl3QUpyNmR2LVk4ZHJEcDBOb3A2eThWSHlSVVQ4Q1BVc1hGRlhDS1kzLVhPdk9ma1A0S1M2VVRaX011REstZlFsczhtczROTFhiMTV2QQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-01T19:10:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "プーチン氏、対話によるウクライナ紛争解決望む ウ中立化求める | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏、対話によるウクライナ紛争解決望む ウ中立化求める | ロイター"
+      }
+    },
+    {
+      "title_original": "El secretario general de la OTAN predice que Putin \"fracasará\" con su comportamiento internacional",
+      "title_zh": "El secretario general de la OTAN predice que Putin \"fracasará\" con su comportamiento internacional",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXhqTlpLYnZfQUFobGN6QkhqVFFzSVp6UGJINFpUbDdIampmOVRrUm5QSXVKQ2dxcURPLW9NYzBYd05VYW9GRVZqbmRobzBlTTdmQWFpRm1HMnJ1cXZwemt5X05oUDJxbV81RU9sYUpLaTVvY1FBNHZOVzRtaDFDR2p1MTlEMklMaGtPc0pIVXhBNTE5WFZlcmxXR2c0ZlM4MU1TMGZzYXMwSzhMYnZ0c0hZRG5WQk9lcmc?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-01T18:43:22+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "El secretario general de la OTAN predice que Putin \"fracasará\" con su comportamiento internacional    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "El secretario general de la OTAN predice que Putin \"fracasará\" con su comportamiento internacional"
+      }
+    },
+    {
+      "title_original": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed",
+      "title_zh": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed",
+      "url": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-01T18:34:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Jorge Messias calls Guardian report ‘an important alert for Brazilian sovereignty’ as nation prepares to go to polls Brazil’s attorney general has said foreign meddling in his country’s institutions and democracy “cannot be tolerated” after a Guardian report revealed how the Trump administration was pushing to direct funds to a campaign against the Brazilian supreme court.",
+        "Writing on X, Jorge Messias called the report “an important alert for Brazilian sovereignty”.",
+        "“The information is especially serious in light of Brazil’s electoral process and the recent episodes of external pressure on our institutions,” Messias added."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed"
+      }
+    },
+    {
+      "title_original": "„Wenn es zu einem direkten Angriff auf Kaliningrad kommt“ Putin droht Nato mit Einsatz von Atomwaffen",
+      "title_zh": "„Wenn es zu einem direkten Angriff auf Kaliningrad kommt“ Putin droht Nato mit Einsatz von Atomwaffen",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSW1raVc5NnFVaUJBRmRNT05qdFFsYzlJRGtreVFpSmR0dC1TaF9mZXNyV2dxbElHZWQxZllBd3JjZkV6X0V0aTdqeWY0enhiTG5QT2ZmcW96QUx1b3BWYTY1UjNoekxtYjE5N09NMm50LV9HcmNSV1dpd1htS0taYmNGdVNaS0tFdFU3TWJ5WHhCN2lsWmhkR1RIV0lMTWRDNG1obWNPYUl2cUx0Skp0RmEzX0RNNzVycTl2WE95X2J3NFhJRjY0R1VpTmRfUmpOcWxVV3RzaGoyRFdIUG1OZnlIei1rZ1FzaWg2WHhhQlhlMEVobi1vWlFDTVdiRkl5aHVKWjFQWEJkQndxOVMySV9ZV1BjUQ?oc=5",
+      "source": "tagesspiegel.de",
+      "source_score": 75,
+      "published_at": "2026-10-01T18:02:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "„Wenn es zu einem direkten Angriff auf Kaliningrad kommt“ Putin droht Nato mit Einsatz von Atomwaffen    tagesspiegel.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "tagesspiegel.de"
+      ],
+      "all_titles": {
+        "de": "„Wenn es zu einem direkten Angriff auf Kaliningrad kommt“ Putin droht Nato mit Einsatz von Atomwaffen"
+      }
+    },
+    {
+      "title_original": "Putin reitera que Rusia podría usar armas atómicas para proteger Kaliningrado y la OTAN prevé más \"ataques híbridos\"",
+      "title_zh": "Putin reitera que Rusia podría usar armas atómicas para proteger Kaliningrado y la OTAN prevé más \"ataques híbridos\"",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWENBVUlOVmp5akVpWjRZcGs5RFdjekZHQThIWkhLdDRzQUlodzdkcUJza3BvNVREV2NCZGRsV0xCZkd0c0J4UDBXSjJGZFRYaEtaVGl2Q0VyZU5LOGxCMzZtRmFQWGVQLXc0XzhQcU8waXpWQU5DMDk0MjdZWjRuSWF6Sk1PbWE5UmdFNzJjblUzYjg4RWdxM3VfWDR5UVk5WFZ5OHUycnpFSUJCY3lHU1RKOE1EeGVVcTc5LUE2Tmx6ZkVRM1cxT2ttR3dVV1dRMmxuUVQ1dmU0OUxCM2pfZFlmdnc4eXA3akh0SHh4cGVIZw?oc=5",
+      "source": "RTVE.es",
+      "source_score": 55,
+      "published_at": "2026-10-01T17:15:49+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putin reitera que Rusia podría usar armas atómicas para proteger Kaliningrado y la OTAN prevé más \"ataques híbridos\"    RTVE.es",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "RTVE.es"
+      ],
+      "all_titles": {
+        "es": "Putin reitera que Rusia podría usar armas atómicas para proteger Kaliningrado y la OTAN prevé más \"ataques híbridos\""
+      }
+    },
     {
       "title_original": "What happened in the failed execution of Christa Pike - and what next?",
       "title_zh": "What happened in the failed execution of Christa Pike - and what next?",
@@ -26,6 +651,56 @@
       ],
       "all_titles": {
         "en": "What happened in the failed execution of Christa Pike - and what next?"
+      }
+    },
+    {
+      "title_original": "Algeria introduces death penalty for arsonists after deadly wildfires",
+      "title_zh": "Algeria introduces death penalty for arsonists after deadly wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/cmge4exg44v5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-01T16:31:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Algeria introduces death penalty for arsonists after deadly wildfires\n- Published\nAlgeria has adopted a law imposing the death penalty on people convicted of arson of forests or fields after a series of deadly wildfires swept parts of the country.",
+        "Members of the national assembly voted through the bill, which also made child abduction a capital offence, on Thursday.",
+        "Capital punishment has been in the country's penal code for some offences, but no execution has been carried out since 1993."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Algeria introduces death penalty for arsonists after deadly wildfires"
+      }
+    },
+    {
+      "title_original": "El embajador de EE.UU. ante la OTAN: revisión de tropas en Europa dependerá de 'America First'",
+      "title_zh": "El embajador de EE.UU. ante la OTAN: revisión de tropas en Europa dependerá de 'America First'",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcl9NVGRoaTBTNU95R1F3SG1ndzZaLUdtdVJjM3pJeEpGd29HX0NvdWdCWi1LQ3hZbmtlTmFTWDZEQmhadGlJNlFaQVBSTVFRX3RWQVBlX3BJbHVrVThxSUtRZ3l5bnZ2elpJYmNvLUNqa0dSR2ZvcHdBM29tRGdtd194LVBTcFllMVozUFIxakxyWUVadF9tOGJScFhpbS1RSjRoXzZ1UTJKU2tqLWRrLVhFRmFIWVkyQ1YtdGcxUC1vQQ?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-01T16:31:24+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "El embajador de EE.UU.",
+        "ante la OTAN: revisión de tropas en Europa dependerá de 'America First'    Euronews.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "El embajador de EE.UU. ante la OTAN: revisión de tropas en Europa dependerá de 'America First'"
       }
     },
     {
@@ -101,6 +776,31 @@
       ],
       "all_titles": {
         "es": "Rutte no espera un ataque militar inminente contra la OTAN, pero sí que haya \"ataques hostiles\" híbridos"
+      }
+    },
+    {
+      "title_original": "Regardez : le modèle de l'OTAN \"n'est pas viable\", affirme le chef Mark Rutte à Euronews",
+      "title_zh": "Regardez : le modèle de l'OTAN \"n'est pas viable\", affirme le chef Mark Rutte à Euronews",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUnVibmZpazRnV3BtdnpxYW04TkM4S3liR280dVFqa29SS2RrcF9WS0ZBdE9CUkRWWWc1alBjX29NMmZicUJ3a2ExWjlpTTEwQVBPbWNKd1R6TUdMU0dqdE9oa1JIYUZGTE1mbUZ4VUZkU1h6cjBsRjNQNVNpT2U4alBZRTdzVEpVZUg2a0FuNGdWOUVTWnNEUWVwRExhajVLemg4bF93MHowQnAybXIwWGVoTzhOUGc?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-01T15:38:46+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Regardez : le modèle de l'OTAN \"n'est pas viable\", affirme le chef Mark Rutte à Euronews    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "fr": "Regardez : le modèle de l'OTAN \"n'est pas viable\", affirme le chef Mark Rutte à Euronews"
       }
     },
     {
@@ -201,6 +901,56 @@
       ],
       "all_titles": {
         "ar": "عاجل | مسؤول أمريكي للجزيرة: حاملة الطائرات روزفلت تتجه إلى الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Micron fait face à une menace de grève à Taïwan après des résultats records",
+      "title_zh": "Micron fait face à une menace de grève à Taïwan après des résultats records",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1hzQWRlQ01DajZuMUxyeGNLRUdqYUthM1FRdHp1UTc0aE9SQTJPUnhsX2hfaTFUY1h3bzBhbW10Tk55enhpUF81Vk5tZG9MT3Q4QkVyTS1iYVhubGJoTmlpLUM4bDhQNTA0ZEdacS15a3RidVhmWDdCLUR2NFJmQWl1Sm1BU0pXUlRJOVNB?oc=5",
+      "source": "Yahoo Finance France",
+      "source_score": 40,
+      "published_at": "2026-10-01T14:47:10+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Micron fait face à une menace de grève à Taïwan après des résultats records    Yahoo Finance France",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Yahoo Finance France"
+      ],
+      "all_titles": {
+        "fr": "Micron fait face à une menace de grève à Taïwan après des résultats records"
+      }
+    },
+    {
+      "title_original": "Défense : le député béarnais David Habib veut « européaniser l’OTAN »",
+      "title_zh": "Défense : le député béarnais David Habib veut « européaniser l’OTAN »",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd3VzQmpxdjlVTV9lTzBRN1RiT0tnNlZmNjZxbVpmMDFCb19UeVoyM0RTV0dzY2hhZGZ0dy1XX09UQTM4UUNKbm40Q0JIMzByWVhqRHBLdGhnTWpmSzhaaWpieDlCOUpHaldlZHdwN2M5WEFhN1NkX2oxaWFUQnBfMDdYaThNcy0zYnFCbXRPbDJfdVc3X05wWF9mY0Y3TGJDSnVoeXVseGFzNC1sNDFtNjVQSDRTTTQzbzBzR0gxU0ZrSFU?oc=5",
+      "source": "La République des Pyrénées",
+      "source_score": 40,
+      "published_at": "2026-10-01T14:43:51+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Défense : le député béarnais David Habib veut « européaniser l’OTAN »    La République des Pyrénées",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "La République des Pyrénées"
+      ],
+      "all_titles": {
+        "fr": "Défense : le député béarnais David Habib veut « européaniser l’OTAN »"
       }
     },
     {
