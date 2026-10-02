@@ -1,0 +1,882 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-02T16:38:26.118328+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Riot police clash with students as education protests rage in France",
+      "title_zh": "Riot police clash with students as education protests rage in France",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-02T16:26:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Riot police clash with students as education protests rage in France\n- Published\nRiot police have clashed with protesters as thousands of students demonstrating over education standards disrupted more than 560 schools in France on Friday.",
+        "Fires have burned in the streets as high school pupils and others objected to a lack of teachers, overcrowded classrooms and run-down buildings.",
+        "The protests began last week in Paris and have spread across the country, with cities including Montpellier, Nantes and Marseille affected."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Riot police clash with students as education protests rage in France"
+      }
+    },
+    {
+      "title_original": "EXCLUSIVE: Carney plans to visit Turkey this month, sources say",
+      "title_zh": "EXCLUSIVE: Carney plans to visit Turkey this month, sources say",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUJ4TXFqX3MxYnVxcDNXUXhic1BubnFDLVFlX2t5aWFVbTVSMXhNNUhWUWpyMHN2c1hINVVOaEhnUnk5NkFKM2U3bkJSOWZNcDltc1YxRXZkdHo3VkpXTzU1UF9yT21lVXlRUGZnUTZTd1k3TGlXXzhBX3hJWVpsS21YX1F2NHI1eUFwcTZFSEszT3Q4am04dVlMU05Fdnkx?oc=5",
+      "source": "reuters.com",
+      "source_score": 95,
+      "published_at": "2026-10-02T16:20:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "EXCLUSIVE: Carney plans to visit Turkey this month, sources say    reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "reuters.com"
+      ],
+      "all_titles": {
+        "en": "EXCLUSIVE: Carney plans to visit Turkey this month, sources say"
+      }
+    },
+    {
+      "title_original": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "title_zh": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-02T15:26:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Intensified Russian strikes are tearing Kyiv apart, warns mayor\n- Published\nIntensified Russian drone and missile strikes are \"tearing Kyiv apart\", the mayor of Ukraine's capital has warned.",
+        "Vitaliy Klitschko said the city was now in a \"very dramatic situation\" as Moscow was battering its \"critical infrastructure, logistics, housing\" and other key facilities.",
+        "He was speaking after Kyiv's defence council held a crisis meeting, following new Russian strikes on a key bridge that caused traffic chaos."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Intensified Russian strikes are tearing Kyiv apart, warns mayor"
+      }
+    },
+    {
+      "title_original": "October",
+      "title_zh": "October",
+      "url": "https://www.politico.com/cartoons/2026/10/02/matt-wuerker-cartoons-october-2026-01104877",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-02T11:15:13-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Political cartoons from the desk of Matt Wuerker",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "October"
+      }
+    },
+    {
+      "title_original": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
+      "title_zh": "US Coast Guard says it intercepted ship carrying fuel to Cuba",
+      "url": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-02T15:13:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US says ship thought to be using common ‘dark fleet’ tactics was boarded and taken to Mexico as embargo continues The US Coast ⁠Guard has announced that it intercepted a large cargo ship carrying fuel bound for Cuba , as the ⁠Trump administration’s crippling ⁠oil embargo against ​the island nation continued.",
+        "The vessel named Grace was stopped on 5 September in the Caribbean Sea between Cuba ⁠and Mexico while using tactics to evade authorities, the Coast Guard said.",
+        "The New York Times reported that the ship ⁠was 91 metres (300ft) long."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "US Coast Guard says it intercepted ship carrying fuel to Cuba"
+      }
+    },
+    {
+      "title_original": "Taiwán, la moneda de cambio",
+      "title_zh": "Taiwán, la moneda de cambio",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvZVJyZDZRNl9ZNXgyeFNWZFpUMG5ON3ZzcURlUWI0X0xmMVM5STlIbnJ2NXd5MWxqWFB4WnRGNHlHY2VhS3dCSFRqY1lEdWlrSndyYUxRMlVQWUFWMDZ0UGsxai0zTXBFaXc?oc=5",
+      "source": "politica-china.org",
+      "source_score": 40,
+      "published_at": "2026-10-02T14:28:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwán, la moneda de cambio    politica-china.org",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "politica-china.org"
+      ],
+      "all_titles": {
+        "es": "Taiwán, la moneda de cambio"
+      }
+    },
+    {
+      "title_original": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "title_zh": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "url": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-02T14:01:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "I've seen nearly 500 executions - but never one like Christa Pike's\n- Published\nReporter Michael Graczyk has covered nearly 500 executions carried out in Texas, continuing even after his 2018 retirement from The Associated Press.",
+        "He remembers two instances where needles popped out before reinsertion for successful execution - but never one in which an inmate survived.",
+        "That's what happened this week in Tennessee, when 50-year-old inmate Christa Pike remained breathing and audibly snoring after two separate doses of pentobarbital, the barbiturate used in the state's lethal injection protocol."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "I've seen nearly 500 executions - but never one like Christa Pike's"
+      }
+    },
+    {
+      "title_original": "تعزيزات أميركية تتجه إلى الشرق الأوسط.. أي رسالة يحملها إرسال حاملة طائرات ثالثة إلى المنطقة؟",
+      "title_zh": "تعزيزات أميركية تتجه إلى الشرق الأوسط.. أي رسالة يحملها إرسال حاملة طائرات ثالثة إلى المنطقة؟",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOEdZYjQzcTU2OGpVeXdrWWpsVHRkM3d4SkpfbmpSWmR5OTFsQnlnek9aa25jSUxBbk5ncDJtWmI5VDZEaUQtSUllMnVHNzlUNVVRbjhVOTNQVDhYUG1BLXZRSFAwMUhBZTJoeHNIY2tNX21UX2NCWEwwTlJhWFljMXMtVEw1ZDVOYjVtcjRMUGo3UHY3MDBKVnVKX1JUcG9OUU52OEFfTkVHLWJQOW91T0N4RXk4UmZfaUdvU0U3SDgySUlP?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-02T13:40:27+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تعزيزات أميركية تتجه إلى الشرق الأوسط..",
+        "أي رسالة يحملها إرسال حاملة طائرات ثالثة إلى المنطقة؟    Euronews.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "تعزيزات أميركية تتجه إلى الشرق الأوسط.. أي رسالة يحملها إرسال حاملة طائرات ثالثة إلى المنطقة؟"
+      }
+    },
+    {
+      "title_original": "2026年9月30日のウクライナ迎撃戦闘は合計414撃墜、うち弾道ミサイルは5撃墜（JSF） - エキスパート",
+      "title_zh": "2026年9月30日のウクライナ迎撃戦闘は合計414撃墜、うち弾道ミサイルは5撃墜（JSF） - エキスパート",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNUpNUDhYNjhwVG5ja2JVVkMzcmdmNUl1WWN6MEpzUTkwc3lWMEx2V1N3RkRaeC10QWFNWWtWd3V1MDZrblNFYTJFZ0F5Z2ZxR1A0X1Z4OW1QMUhtei14WWo4QmNxNXp0OFIyZTJydFlsbTc0M3o3a2d1LWMzZF9JMGl3QU9mTDIz?oc=5",
+      "source": "news.yahoo.co.jp",
+      "source_score": 40,
+      "published_at": "2026-10-02T13:22:05+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "2026年9月30日のウクライナ迎撃戦闘は合計414撃墜、うち弾道ミサイルは5撃墜（JSF） - エキスパート    news.yahoo.co.jp",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "news.yahoo.co.jp"
+      ],
+      "all_titles": {
+        "ja": "2026年9月30日のウクライナ迎撃戦闘は合計414撃墜、うち弾道ミサイルは5撃墜（JSF） - エキスパート"
+      }
+    },
+    {
+      "title_original": "La OTAN integra por primera vez un bombadero B-1B Lancer estadounidense en su nueva defensa aérea del Báltico",
+      "title_zh": "La OTAN integra por primera vez un bombadero B-1B Lancer estadounidense en su nueva defensa aérea del Báltico",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNWnNKMmU0RDlnak1NWW1fSGtDR2NOb3N2SGJSVkxENFJLT1dOWFN0NlJrTXQ2bU1sNDFvYnc2RDdhUnEtbm1XLTlJWkIxaXhlYzFaM1ZWdWZMdE5hZkIzMVRxZnJPd0M4dW52TXExTk5Za3ljUjlZbk9oNGhOaWN6SUV1eEo0UUx1UXJLdHp3dXlFaTZ5ZWxMV2tjREtDb0hMdkgtcEthZS1xcHFqSkJtR0hUS1BmQ3dzcEM3RzJ3NUxRV054Z3ZRZk5rNS01c1k0WnV1aXJuaFIzbGtNRHBWOGJEbVdkSUU4eUpMTktTRlpyWUxfR3pBcVJidkhIS0JvZzBsTmpXX0RnOTgyZDQwdldqVU5JcE9xODFaTHZONFlKQQ?oc=5",
+      "source": "El Español",
+      "source_score": 40,
+      "published_at": "2026-10-02T13:11:47+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La OTAN integra por primera vez un bombadero B-1B Lancer estadounidense en su nueva defensa aérea del Báltico    El Español",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "El Español"
+      ],
+      "all_titles": {
+        "es": "La OTAN integra por primera vez un bombadero B-1B Lancer estadounidense en su nueva defensa aérea del Báltico"
+      }
+    },
+    {
+      "title_original": "أزمة الشرق الأوسط – أكثر من 11 مليون امرأة إضافية يواجهن خطر انعدام الأمن الغذائي بحلول نهاية العام",
+      "title_zh": "أزمة الشرق الأوسط – أكثر من 11 مليون امرأة إضافية يواجهن خطر انعدام الأمن الغذائي بحلول نهاية العام",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02djBKWjBvSmFvb0JUWG1zV1Q1anFXZkxhakNzSWk1dEtwc0xuejYyZzJIVUFUZmY5TkJfbG1pckZLRnZONGR0aFpsdmV2S2VJRnNfakJ2aw?oc=5",
+      "source": "UN News",
+      "source_score": 40,
+      "published_at": "2026-10-02T12:58:57+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "أزمة الشرق الأوسط – أكثر من 11 مليون امرأة إضافية يواجهن خطر انعدام الأمن الغذائي بحلول نهاية العام    UN News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "UN News"
+      ],
+      "all_titles": {
+        "ar": "أزمة الشرق الأوسط – أكثر من 11 مليون امرأة إضافية يواجهن خطر انعدام الأمن الغذائي بحلول نهاية العام"
+      }
+    },
+    {
+      "title_original": "Ukraine war: Japan’s new sanctions on Russia target oil exports",
+      "title_zh": "Ukraine war: Japan’s new sanctions on Russia target oil exports",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR1drakRLdkpqSG1PWHpoSk8yQkhEaWRNM1Z2eFIyOXpXM2cxY0tEM1VjMTBZSVVjdXJuZ3JIVGxRMlQ3MzdKN0Ffd25wTF9MWkZ2ODJ3cVEtcTlsSzlaWVhaaWZPTUQ2dEFLOFNpUVl3SUFRaVdMRzlVclVhV3ZDandadkJSVmVEVERWOWJnTWUyNjlBY2prTzItd3RMMXE5WEl5czhjQzBqSHF0a0JGT0Zfd0oyd9IBtgFBVV95cUxQMUN0bkhDNVE5eE5LbzludU14WUpiSXZpZ3VxdTVzZGJ1WlRMS2RPQUVYdnpHTHg1U3pNd3dROUxYOGttU0pHMDFnNkNtQjlkSjV5dUsweE8ySTQ2TTNKbmNxd3V3cFJJRXptZ0RxcmVwQ1dFbEZyRUJraDB0Rm9fN0NzYkNOczhsS29xQkVBUVVDSkwxWWxrdloydWJCdGx3NWMxQ1gtd293ZkpuRXJmVjlwSzM0Zw?oc=5",
+      "source": "scmp.com",
+      "source_score": 55,
+      "published_at": "2026-10-02T12:30:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war: Japan’s new sanctions on Russia target oil exports    scmp.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "scmp.com"
+      ],
+      "all_titles": {
+        "en": "Ukraine war: Japan’s new sanctions on Russia target oil exports"
+      }
+    },
+    {
+      "title_original": "Münster - Nur geringer Protest gegen Friedenspreisverleihung an NATO",
+      "title_zh": "Münster - Nur geringer Protest gegen Friedenspreisverleihung an NATO",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkgzM0RLamNVaERsalR3OWk3R2NXdTAxMU00NFpLTTBJT2oxV2JBendaN2ZucnFhUlVrTjl5SlRoWTQ3Q0NJZXZmV1drUFBmdFV5cDVsY3JtNTZJTlVMYjQyUTUxQ3hfZDNOakt0SE03VktwWEEwczYzMWpONjZLZExpVFNsdEtUcXVOY3RpZ2s0VGotZ3ItcW5aTjh3S2c?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-10-02T12:23:30+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Münster - Nur geringer Protest gegen Friedenspreisverleihung an NATO    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Münster - Nur geringer Protest gegen Friedenspreisverleihung an NATO"
+      }
+    },
+    {
+      "title_original": "Crisis de Oriente Medio: medidas fiscales y ayudas Octubre Diciembre 2026",
+      "title_zh": "Crisis de Oriente Medio: medidas fiscales y ayudas Octubre Diciembre 2026",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORTFoUmhhQTFDMkRFR3NGS1Jid3NRRW1oTG80a2phTTk4TGJCRG93cVVMWEZDdTd1YzdxUGNERWNaMjh4X2JHUU0wS25lY2tDeHZfYV9Mc04xNlludWNMcGVfbHlSQ2ZPYmhHWHg4QmlQemkwUjFvMWNrU3R4NVVGX215eVl6bmxCRFRGVGRib0lmU1hhREYzd0N4dzc1T2ttUVNwakdOTQ?oc=5",
+      "source": "CLMPress",
+      "source_score": 40,
+      "published_at": "2026-10-02T12:11:40+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Crisis de Oriente Medio: medidas fiscales y ayudas Octubre Diciembre 2026    CLMPress",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "CLMPress"
+      ],
+      "all_titles": {
+        "es": "Crisis de Oriente Medio: medidas fiscales y ayudas Octubre Diciembre 2026"
+      }
+    },
+    {
+      "title_original": "Ukraine War, Day 1,681: Zelensky — Our Ballistic Missile Used for 1st Time v. Russia",
+      "title_zh": "Ukraine War, Day 1,681: Zelensky — Our Ballistic Missile Used for 1st Time v. Russia",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXk1Z3RhMW11cVRvOHdoemEtZFNyTUhHU2R4ZmpuZzZwMWZabnBSVlc5UURVRHgwb0YzbC00MFVYdG5aTVJnWWgydnE3NC05X3FGS29UWGJhZS1wQXA1Y2E0Y1d5WjZUODVHdmtmVkhSZFhfM05UdFN4WmthUFZra2ltbXlLaldfNHAtZkNCZWhieTA5?oc=5",
+      "source": "EA WorldView",
+      "source_score": 40,
+      "published_at": "2026-10-02T11:37:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine War, Day 1,681: Zelensky — Our Ballistic Missile Used for 1st Time v.",
+        "Russia    EA WorldView",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "EA WorldView"
+      ],
+      "all_titles": {
+        "en": "Ukraine War, Day 1,681: Zelensky — Our Ballistic Missile Used for 1st Time v. Russia"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient : le point sur les vols en octobre compagnie par compagnie",
+      "title_zh": "Moyen-Orient : le point sur les vols en octobre compagnie par compagnie",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53Y29MdlltTFpCWUd3MGczUmxMazhmNGxub21iV0h5S0t5NU5VVGFuMVNhVTExMnpSQVctam1DT2lrWnJ1M0ZNUTF5Zkx2R0V6ZjFHMEFJekt6YUVBSEU4Umlpcnp3ZzMwQXBvalIwT2NJOGtIQWdOc1hB?oc=5",
+      "source": "Voyages d'affaires",
+      "source_score": 40,
+      "published_at": "2026-10-02T11:33:55+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Moyen-Orient : le point sur les vols en octobre compagnie par compagnie    Voyages d'affaires",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Voyages d'affaires"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient : le point sur les vols en octobre compagnie par compagnie"
+      }
+    },
+    {
+      "title_original": "20 مصممة إماراتية يشاركن للمرة الأولى بمعرض الشرق الأوسط المجوهرات",
+      "title_zh": "20 مصممة إماراتية يشاركن للمرة الأولى بمعرض الشرق الأوسط المجوهرات",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54WjE5QzZfenZNQ0taeDZpanpsRTQ3Z3Jvb0lNcUdoVTNWaFljeE1aaUxXc3JfTk1kQVNJM2I5OWUxQzNyc192Nk9zeW4yQlh5VTNBZ29CUFpGcjJZ?oc=5",
+      "source": "Sharjah24",
+      "source_score": 40,
+      "published_at": "2026-10-02T11:24:05+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "20 مصممة إماراتية يشاركن للمرة الأولى بمعرض الشرق الأوسط المجوهرات    Sharjah24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Sharjah24"
+      ],
+      "all_titles": {
+        "ar": "20 مصممة إماراتية يشاركن للمرة الأولى بمعرض الشرق الأوسط المجوهرات"
+      }
+    },
+    {
+      "title_original": "Enrique de Inglaterra, ante la OTAN: “Cuando colgué el uniforme sentí que había perdido parte de mi identidad”",
+      "title_zh": "Enrique de Inglaterra, ante la OTAN: “Cuando colgué el uniforme sentí que había perdido parte de mi identidad”",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbHdVc2pFOHNoRmpfTlQtQUR3N2ZYbXR1OE9SaGlwS3pfNUd2N2VtMDlXdXl5X1h3NmNFX3RTVFJyaHZKV3N3M1hMR3hZUUU5VEduazItS29ONl9TVmF6ZV9wOThUUVM4YWpsLXBROTBBNVhqcms3aENPZVNGb2FkNlBUdXdIRXBvSHV1S3BDdE9WUklBQUdydFRXN0hJblJyOFJRWG85dzhjWkVxamtJb0JEdW85WmFadUNBUzRMMUw5anhCUjNfMVF3d005cFVvUnI5T1A4RVctM3pGSzBDUNIB9AFBVV95cUxQT3NPajhSSGdZeTkxdVlfdnpTNGVoWG1wOElneER3RkFVcXJrWXZPMWZwd3FGTWc1aW1jaHMtdFFoS19Ob1lMV1lCNzhTclZfTm9GWVhoRTJDNjNONEt1aVY0dHZPeWNlUC1BeFhreE0xdDVraktqZWFRek04dWF5cXRvTkdmMk5fTDc1R2FaR1NhY0d5NnhOcVdaU0dDT3NCODNadEprcVNxUHF2SDNOUGp6TDdZekptY2hrOXQyVGd2UUVYeHQ2RldaMHlrVHlUYVZhT2RLelcyd1BxYWgyNVJRMXlqUEU2S0dOd1pJcWtXSV8y?oc=5",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-10-02T10:35:08+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Enrique de Inglaterra, ante la OTAN: “Cuando colgué el uniforme sentí que había perdido parte de mi identidad”    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Enrique de Inglaterra, ante la OTAN: “Cuando colgué el uniforme sentí que había perdido parte de mi identidad”"
+      }
+    },
+    {
+      "title_original": "Taiwán recibe dos nuevos cazas F-16 de EEUU en pleno refuerzo de su flota: \"Invertir en defensa es invertir en paz\"",
+      "title_zh": "Taiwán recibe dos nuevos cazas F-16 de EEUU en pleno refuerzo de su flota: \"Invertir en defensa es invertir en paz\"",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNGFacXVaZmJZWXJGOUR2RlF3dW5jdDdfMXo0TEVIYmgxdzV3bjB3cjBkZk90TWtCTXBieU5DUjhRSWJiZHZLWkxiSWtCYzNkLVdxeTBXQ1ctWnlyVVFncnQ5UU96bG1rTDVUV2pxS2U4aFVLMjZJZGtCazVUM1ZJTDBleDE2RVFpYzJFZzcwX1k0eWVfTGdNM2RIaXRUeU44SFJ3N1JqY29KOFFZNTBoVVduWXNtV0dNMGRxVmw3aXpPOE55LUdZd21GU21IUGFZYldVRFBFWG9ENmJmZGIxQk0weVZrVDZjUF9oSVRlRQ?oc=5",
+      "source": "Europa Press",
+      "source_score": 40,
+      "published_at": "2026-10-02T10:25:04+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Taiwán recibe dos nuevos cazas F-16 de EEUU en pleno refuerzo de su flota: \"Invertir en defensa es invertir en paz\"    Europa Press",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Europa Press"
+      ],
+      "all_titles": {
+        "es": "Taiwán recibe dos nuevos cazas F-16 de EEUU en pleno refuerzo de su flota: \"Invertir en defensa es invertir en paz\""
+      }
+    },
+    {
+      "title_original": "Cornell students gather to voice anger over alleged gang rape",
+      "title_zh": "Cornell students gather to voice anger over alleged gang rape",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-02T10:00:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "'Ashamed': Cornell students gather to voice anger over alleged gang rape\n- Published\nStudents have called for drastic change at Cornell University as a result of an alleged gang rape in 2024, with one using an emotional student assembly on Thursday to say: \"We're absolutely ashamed of the events that happened on campus.\"\nStudents and faculty members say the investigation into the incident has cast a \"dark cloud\" over the campus - stirring anger, concern over fraternity culture, and a backlash against the university's handling of the situation.",
+        "At Thursday's assembly, some labelled the perceived lack of justice a \"disgrace\" and criticised the prestigious university, which has defended its handling of the case.",
+        "\"We deserve to know that our institution values our safety more than its reputation,\" undergraduate Sophia Riley Sim told those at the gathering."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Cornell students gather to voice anger over alleged gang rape"
+      }
+    },
+    {
+      "title_original": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "title_zh": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-02T09:08:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot\n- Published\nThe Indian pilot of the Flydubai plane who was stabbed by his co-pilot and opened the cockpit door to let others in has said he was determined not to let others die.",
+        "Capt Smit Machchhar said he was on the floor and still being attacked when he realised the plane carrying more than 170 passengers was sinking and he had to do something.",
+        "\"I was lying on the floor injured but I told myself to go for one last push to open the door from inside,\" he said in a video call with Indian Prime Minister Narendra Modi."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot"
+      }
+    },
+    {
+      "title_original": "高市首相 カタール首相と会談 中東情勢早期沈静化など緊密連携",
+      "title_zh": "高市首相 カタール首相と会談 中東情勢早期沈静化など緊密連携",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3WGEzRU9VQnp5QzdfRkNscGlEV0w0eURBOXFuczUzSUd2Zll2Y2ZtZkF0RmtiS2FhYkJGdl9uc3lXSHhjMkI3QzJtVFlTY01jekVQQ0FISklpeXJDa0Ew?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-02T09:05:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "高市首相 カタール首相と会談 中東情勢早期沈静化など緊密連携    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "高市首相 カタール首相と会談 中東情勢早期沈静化など緊密連携"
+      }
+    },
+    {
+      "title_original": "The nation’s cartoonists on the week in politics",
+      "title_zh": "The nation’s cartoonists on the week in politics",
+      "url": "https://www.politico.com/gallery/2026/10/02/the-nations-cartoonists-on-the-week-in-politics-01104555",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-02T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.",
+        "The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.",
+        "Here's an offering of the best of this week's crop, picked fresh off the Toonosphere."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The nation’s cartoonists on the week in politics"
+      }
+    },
+    {
+      "title_original": "ADB、中東情勢の影響を受けるタジキスタンの社会サービス強化に向け2,050万ドルを支援",
+      "title_zh": "ADB、中東情勢の影響を受けるタジキスタンの社会サービス強化に向け2,050万ドルを支援",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOajNvUVQ2RGVhQTg0cjBvZzh5ZFBpOEFDdVN1RGNEdUd4UThuMXRmQkZiZjR6dlJuLWNXVHJ2RXYtTVNXd1NMZVlFVjRzWHVxQkQxbDI0Ym5FYnYtbXZSa2QtSXZhdlZjS1BtanpXeDJlZE5td2xQaTVwZW9ZdTJCUzI0STJmdjBWcVQ3SEdNZGZCY0x6U2J0R0xVQmxUWS1EQkFEbGdjS0U0YUV3QXZrd2hHZw?oc=5",
+      "source": "Asian Development Bank",
+      "source_score": 40,
+      "published_at": "2026-10-02T08:34:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ADB、中東情勢の影響を受けるタジキスタンの社会サービス強化に向け2,050万ドルを支援    Asian Development Bank",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Asian Development Bank"
+      ],
+      "all_titles": {
+        "ja": "ADB、中東情勢の影響を受けるタジキスタンの社会サービス強化に向け2,050万ドルを支援"
+      }
+    },
+    {
+      "title_original": "Rutte: Keine unmittelbare Bedrohung für NATO-Gebiet",
+      "title_zh": "Rutte: Keine unmittelbare Bedrohung für NATO-Gebiet",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVHlQbGFzYjFCUEM3cGl4MlljeVJyVExtX0lBYkdPNERpOV9LSkIxbm9ucWFYdnVwTzdnR0FzajQwUHEteUVRT2g0dHpBajVGbGlzYnc1MzFtSHNVSTlyZmtfb0lFNnVyMjY1TmdpRkJsRWJIQ3c5cUhlY1dWRmxLSFhoNGM2TVlwWW5BdEFmOS16T0MxdndmaG5pY05UcVo0MFN0cU5uc1VtWm9BUjIxdFF3Y0FjX1RIYXc?oc=5",
+      "source": "WEB.DE",
+      "source_score": 40,
+      "published_at": "2026-10-02T08:26:48+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Rutte: Keine unmittelbare Bedrohung für NATO-Gebiet    WEB.DE",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "WEB.DE"
+      ],
+      "all_titles": {
+        "de": "Rutte: Keine unmittelbare Bedrohung für NATO-Gebiet"
+      }
+    },
+    {
+      "title_original": "OpenAI fires workers for 'mishandling sensitive information'",
+      "title_zh": "OpenAI fires workers for 'mishandling sensitive information'",
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-02T08:20:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "OpenAI fires workers for 'mishandling sensitive information'\n- Published\nOpenAI has fired three researchers for allegedly mishandling information, including work which involved an external organisation analysing AI models.",
+        "\"Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work,\" a spokesperson told the BBC.",
+        "The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "OpenAI fires workers for 'mishandling sensitive information'"
+      }
+    },
+    {
+      "title_original": "韓国大統領、「半島の戦争」あおると批判 対ウクライナ、追加措置警告：時事ドットコム",
+      "title_zh": "韓国大統領、「半島の戦争」あおると批判 対ウクライナ、追加措置警告：時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UR3FGYVktMXRTeHZ2ekxQMUZEUE9KUDdGeGtUdk55MDV4Wmp3anBWZWtGeWJNYTA3UWIwQ056ZVZQc0ZMZXZRVUhHX1JPME1FQmRVZGZEOGV3ZE9pdWg4TFE2TQ?oc=5",
+      "source": "時事ドットコム",
+      "source_score": 40,
+      "published_at": "2026-10-02T07:32:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "韓国大統領、「半島の戦争」あおると批判 対ウクライナ、追加措置警告：時事ドットコム    時事ドットコム",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "時事ドットコム"
+      ],
+      "all_titles": {
+        "ja": "韓国大統領、「半島の戦争」あおると批判 対ウクライナ、追加措置警告：時事ドットコム"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Russischer Angriff sorgt für massive Probleme in Kiew",
+      "title_zh": "Ukraine-Krieg aktuell: Russischer Angriff sorgt für massive Probleme in Kiew",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS0FXS3VZWFhWZnBsalZTQXdEb2xjcFBtQ2VmODRUdF9WVzZ0RGxLUkl0YktfTENXV3BsTGMyQm8yZllOSWF0blZYWDZNMElQSTdmZk9KSzJXRFlDcG53MVNHLS1FSTFkQzZFRER3RFJKSHpiQVNpRWh2U281SXZCd0J0VWk2V29UYVFJaGJTRVAxYUhBUDdtTy1ndmNjTWRpNy1ieEtvV2ZYNTlEajVWdlhGVjdmN3pja2NaemY3RDJrYURm?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-10-02T07:28:36+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg aktuell: Russischer Angriff sorgt für massive Probleme in Kiew    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Russischer Angriff sorgt für massive Probleme in Kiew"
+      }
+    },
+    {
+      "title_original": "韓国、ウクライナが謝罪しなければ「追加措置」と警告　北朝鮮捕虜の移送公表めぐり",
+      "title_zh": "韓国、ウクライナが謝罪しなければ「追加措置」と警告　北朝鮮捕虜の移送公表めぐり",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2VGt3bFNaenUyMFZrWTRRUFZKdDNONl83cHhNeG9VdU9OcExHenVjanRHYmxGbWFHSFhfZTVSam9zLXBvQlFoN3lVakREeHBCSk5MS1Q3YnlmM3Qwb0ZucdIBZkFVX3lxTFBzNUk0Q1U4MHNDcjJMSF9GNU9neUxkYjZ1OW0xc1pYVTJNUXlJSFZvUm5sMGNOLTliR2otdGYxNlpVa0o3SFhUdmZIT0s2ckJrdnRLSjFGeW1uaTVJNFlGa3BuOGMwdw?oc=5",
+      "source": "bbc.com",
+      "source_score": 95,
+      "published_at": "2026-10-02T06:45:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "韓国、ウクライナが謝罪しなければ「追加措置」と警告 北朝鮮捕虜の移送公表めぐり    bbc.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "bbc.com"
+      ],
+      "all_titles": {
+        "ja": "韓国、ウクライナが謝罪しなければ「追加措置」と警告　北朝鮮捕虜の移送公表めぐり"
+      }
+    },
+    {
+      "title_original": "تايوان تتسلّم أول مقاتلتَين من طراز «إف - 16 في» أميركيتَين",
+      "title_zh": "تايوان تتسلّم أول مقاتلتَين من طراز «إف - 16 في» أميركيتَين",
+      "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQN3FyN0xsalNySnVtbnJ2cm1BdzBoV0NlMTJsNXZBZ0tqUlZMbjQxbnExRE9NZGVfOWNIT0ZQeXpWYlJiRjYzMm5BQ3RRa19keGRaMzl6X3NMVU5GMjYtYmsyeVhNUG5uS3o1M1J4V1IzMzRTSzJncnVUbjR5dXpTN2hEYnNsOFhXQ3FqY1hpWnJFMkNTUV9xOGNLNGZtVmFCcVg2SUxGeExLa3dONktld0VBSWM1N25nLTJBenpEb2E1UUdqcmlZOS1vS2QtTmtxanRSdHp0ZFZnODRxRkJ2Ukd3dVV4Qzg1RUFyWVpBN19KMGxVQW9YRUJ2VGwzWDZWM25ON1VMcG1UQ2M4ZU85R3dHSFhpYmpvTXBVX2dvM0RzWGJzOEhReFFXbWpMaEtCQUZpYmo1S29SdjRXd0NlQXRBR055Rm9PU3dxOGFzcWpIdVo5N1lXWXdpSkJ0dG1ibFNRczZIMG4wd2VnZktmU0RoeGY5VlVnMm43OU1FSlRoSU03a29xbU5YMDh4V3JpazhmM0ZwdjlnZDZEejZKYWdsZ09hRElhX29pZEpKSEprbFZqTTFOclI5R2dGcVpKX0I0bW5pN0NhM3AzMzJRNFkwWlZnS3JpODAyWXdFcU5UM3JqTlZZcHNpdUJqYkpQcFZLOEtRXzMwSGcwMjkzeFdn?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-02T06:27:39+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "تايوان تتسلّم أول مقاتلتَين من طراز «إف - 16 في» أميركيتَين    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "تايوان تتسلّم أول مقاتلتَين من طراز «إف - 16 في» أميركيتَين"
+      }
+    },
+    {
+      "title_original": "8 ملايين دولار تكلفة اختراق البيانات في الشرق الأوسط.. والفدية ليست الخسارة الأكبر",
+      "title_zh": "8 ملايين دولار تكلفة اختراق البيانات في الشرق الأوسط.. والفدية ليست الخسارة الأكبر",
+      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPVnpxQ2lHRXhBSmhfWFZwdVNxX1FJN3U3eEFZbWxjeFpvazdPME5OS0lVbFNzUlEtWjVwTDMtdkdQcmgwWHVnV1NRSE5VWUViZXExbTdKVTNTYkloZ3h2Q25hRnRLQUpGai1UeXpDdkxqZktZS0Y4aUgxdlhNWER4NEpFOWNnMU1meFBMdGIwQjNwZThhTmV3ZThGaDY1dmJsc1NHM0hKYTg2VGlNNUFsNTlNY2w1NUdacUZxcldta29CZ3lqRmlvMHV5N2Nsdll2dk9JTl81dXdGbHZxbjg0eC1VLVd3OUdka3pKWTQxUkwyS1BZREZfSlZyd0ZYYUV0OXl4OWZDZXdISXB6TWhFdXV2YXgxbHA2U3lUY001WE5SRkVoTC1hcWkzRXg5UnhhTDFxTGJzVnJodnk2NWpTczZwbmFrX2NIc0ozVXhJYm5wVGRrd0E0UHJKakRUTU9heWdkWnFFVG5JdGlNaS13MzBrLTZtTHBIZFV4UTMtc2pWSnJGeExraXBRb2picHdhZDlIR19scFo0RjUta25saS04ejdnOHVjWW9lSmVIal9yVkxFZE1QczZGU1BfdUpVdkxRNkNjWWZHMnV0Z2FR?oc=5",
+      "source": "أريبيان بزنس",
+      "source_score": 40,
+      "published_at": "2026-10-02T06:18:56+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "8 ملايين دولار تكلفة اختراق البيانات في الشرق الأوسط..",
+        "والفدية ليست الخسارة الأكبر    أريبيان بزنس",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "أريبيان بزنس"
+      ],
+      "all_titles": {
+        "ar": "8 ملايين دولار تكلفة اختراق البيانات في الشرق الأوسط.. والفدية ليست الخسارة الأكبر"
+      }
+    },
+    {
+      "title_original": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+      "title_zh": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3d3d37nxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-02T05:53:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Japan's first mayor to take maternity leave lands on TIME100 Next list\n- Published\nShoko Kawata, Japan's first mayor to take maternity leave, has been named one of the 100 most influential rising stars by TIME Magazine.",
+        "The recognition comes weeks after the 36-year-old gave birth to her first child on 15 September.",
+        "Earlier this year, Kawata, who is mayor of Yawata City in Kyoto prefecture, was plunged into a national debate about whether elected officials should take time off for childbirth."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Japan's first mayor to take maternity leave lands on TIME100 Next list"
+      }
+    },
+    {
+      "title_original": "中国驻美大使阐述中美关系新定位内涵",
+      "title_zh": "中国驻美大使阐述中美关系新定位内涵",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xdVZsaFJfTGF1OHg0WF8xNU5GMS0wX0x4ZkpObzQyQVhqdzVHMjRiMzFHaF9mUFd3dDVPN2dWX2RZa0hoeEUwaWZOdE40Qm5MS2lFYXJ1VDY1QktZUm9NUmhSejN6ajBv?oc=5",
+      "source": "chinanews.com.cn",
+      "source_score": 40,
+      "published_at": "2026-10-02T05:31:40+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国驻美大使阐述中美关系新定位内涵    chinanews.com.cn",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "chinanews.com.cn"
+      ],
+      "all_titles": {
+        "zh": "中国驻美大使阐述中美关系新定位内涵"
+      }
+    },
+    {
+      "title_original": "La Guardia Costera de Taiwán emplea cañones de agua para expulsar a un pesquero chino",
+      "title_zh": "La Guardia Costera de Taiwán emplea cañones de agua para expulsar a un pesquero chino",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTVF5My0xY2U4XzBPV0Y4a0JOVlUzM1pWZWNxcTlidk11TTZrUTlybHNkVzVoeEVuOGNkdGVhVHE3R3J5S3dRaEtHUS1aLVVIZ1l0aTdFcHJJMXROcDRKYTlQdUd4N2syTmhaVkNSZnA0cVNYY2NLcEhtVm1DUXJuRnN3Skd6SzZSc3QtcHRnX0lvc0swQ1IzOG51VXBHZjZiUGMzSXBFel95WUE?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-02T05:10:58+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La Guardia Costera de Taiwán emplea cañones de agua para expulsar a un pesquero chino    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "La Guardia Costera de Taiwán emplea cañones de agua para expulsar a un pesquero chino"
+      }
+    },
+    {
+      "title_original": "Taïwan, qui veut renforcer sa défense face à la Chine, reçoit ses premiers avions de combat américains F-16V",
+      "title_zh": "Taïwan, qui veut renforcer sa défense face à la Chine, reçoit ses premiers avions de combat américains F-16V",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORnlCdjZKVmdnRHFXdFRNNnBidTJtUnJLUjlERHMtaWpNRXZtRnNDZU91bk9kQ01yVnZDbVJlUXkxRFN4dnJlX2RJWTgtbGs0RlBkT09TQk5TRUxvV0FjV2FKSF95Rm5teHJGOE81bkZIQnVVbXhaNjRHRzAtZnlocklseTQ0QTdIVF8yUkNXdUl5SHM5bWFtcTBOVGtUazNJelVwWHExQkRra1R5RU1QQ0I5S2NoQkdXSFRZbmlmUGpXR3VBU2NEX0JFOUp5dUZoRlh2Z0lWOE55WmFPTk1fYUxXMkVUVW0xemJUaS00c3czSnRrSTdnNWJpbEV3YU5VYVVteE5yaXMtM3FF?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-10-02T04:56:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Taïwan, qui veut renforcer sa défense face à la Chine, reçoit ses premiers avions de combat américains F-16V    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "Taïwan, qui veut renforcer sa défense face à la Chine, reçoit ses premiers avions de combat américains F-16V"
+      }
+    }
+  ]
+}
