@@ -1,8 +1,858 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T01:55:05.291489+00:00",
-  "count": 65,
+  "generated_at": "2026-10-03T15:09:16.867406+00:00",
+  "count": 99,
   "articles": [
+    {
+      "title_original": "Naher Osten - Patriarch in Jerusalem betrauert Opfer in Gaza",
+      "title_zh": "Naher Osten - Patriarch in Jerusalem betrauert Opfer in Gaza",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeld4SElQdExoTjA2SnUyYTNWWDdoaHhESl83ZnlBXzhhOEZ1ZXZrdVlaQkRYUWJyR3NzcEtzZFlac2Z1c2dueU40UENFNzZkVFZldmZNRkdlZDd3dlBuaTdZX3NkWUJrZGh1NlQ0YWdsYzB4R3BGbVBvN1BmSXJXZlhvWGJNV1FsMVZZdTlkWQ?oc=5",
+      "source": "deutschlandfunk.de",
+      "source_score": 40,
+      "published_at": "2026-10-03T15:05:34+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Naher Osten - Patriarch in Jerusalem betrauert Opfer in Gaza    deutschlandfunk.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "deutschlandfunk.de"
+      ],
+      "all_titles": {
+        "de": "Naher Osten - Patriarch in Jerusalem betrauert Opfer in Gaza"
+      }
+    },
+    {
+      "title_original": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "title_zh": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-03T14:27:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Flydubai co-pilot attacked captain with axe, UAE official says\n- Published\nThe co-pilot who attempted to take control of a Flydubai plane travelling to Israel attacked the pilot with a crash axe, the United Arab Emirates prosecutor general has said.",
+        "The flight from Dubai to Tel Aviv carrying more than 170 people plunged 17,000ft (5,200m) two and a half hours into its journey, before passengers managed to overpower the attacker and successfully take control of the plane.",
+        "Capt Smit Machchhar said he was lying on the floor injured when he realised the plane was sinking and he had to act, explaining: \"I told myself to go for one last push to open the door from inside\", which allowed the passengers in."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Flydubai co-pilot attacked captain with axe, UAE official says"
+      }
+    },
+    {
+      "title_original": "The price tag on the Ken Paxton rescue mission has Republicans panicking",
+      "title_zh": "The price tag on the Ken Paxton rescue mission has Republicans panicking",
+      "url": "https://www.politico.com/news/2026/10/03/paxton-texas-senate-trump-gop-money-woes-01105707",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-03T10:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Some Republicans want MAGA Inc.",
+        "to take over spending in the final few weeks.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The price tag on the Ken Paxton rescue mission has Republicans panicking"
+      }
+    },
+    {
+      "title_original": "Yémen : de fortes explosions entendues dans la capitale Sanaa, contrôlée par les Houthis",
+      "title_zh": "Yémen : de fortes explosions entendues dans la capitale Sanaa, contrôlée par les Houthis",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1Q1Z185aDBjUWtwUUNsalRqMTRMdXo0VXBFWXJ6aXJ0bFBBck5pbFJmejVTTVZnOHI5MWtHMUpIZGUyZUZ1MjRUUzJPaWlIamdQYkl0M3h4NEdoMWV5a2d0dlU3ZkZ2Um1jTG41MGI4Zi1JYWVoVHBvQk1UZGVjNGYwdE1VdUc0ZmFtY213OVV2ZE9qQlE1Q0E0eTMtekRZV2VrX3JsSmhPYmdiOV9abHNFSHBKcTR1YlI1cGRTQy1RYTlmVGVUOTRzTDBBa2gtSElsaWtLVm9uRUlvUDVBcw?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-03T13:54:16+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Yémen : de fortes explosions entendues dans la capitale Sanaa, contrôlée par les Houthis    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Yémen : de fortes explosions entendues dans la capitale Sanaa, contrôlée par les Houthis"
+      }
+    },
+    {
+      "title_original": "Why has Brazil accused the US of election interference?",
+      "title_zh": "Why has Brazil accused the US of election interference?",
+      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-03T13:52:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Why has Brazil accused the US of election interference?"
+      }
+    },
+    {
+      "title_original": "ウクライナ首都でロシアが橋を連日攻撃 生活への影響拡大懸念",
+      "title_zh": "ウクライナ首都でロシアが橋を連日攻撃 生活への影響拡大懸念",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xbXJJdWNJX1dyS2pNMUF2WkhEZXZ2c1NaQ3NPTEJfSHV1S2lYSzFsZHVGcnYwMEtCMGdWVmRob0FBQWFON0NhMk0wdGhnOEpiRGVVbTB0X3lXSjZrSUpV?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-03T13:02:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ首都でロシアが橋を連日攻撃 生活への影響拡大懸念    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ首都でロシアが橋を連日攻撃 生活への影響拡大懸念"
+      }
+    },
+    {
+      "title_original": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "title_zh": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-03T12:59:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia hits second major bridge in Ukraine's capital Kyiv\n- Published\nA Russian strike has hit a second major bridge in Kyiv, Mayor Vitaliy Klitschko has said, as Moscow ramps up attacks on critical infrastructure in Ukraine's capital.",
+        "The attack on Saturday morning injured two people, and damaged the road surface and overhead trolleybus wires on the Pivnichnyi (Northern) Bridge, Klitschko said, causing traffic jams.",
+        "It comes after the Pivdennyi (Southern) Bridge was hit multiple times by Russian drones this week, with Klitschko warning that \"the enemy is tearing Kyiv apart\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia hits second major bridge in Ukraine's capital Kyiv"
+      }
+    },
+    {
+      "title_original": "حماس: مجزرة عمارة الأصالة تؤكد استمرار الإبادة وتستدعي محاسبة الاحتلال",
+      "title_zh": "حماس: مجزرة عمارة الأصالة تؤكد استمرار الإبادة وتستدعي محاسبة الاحتلال",
+      "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxOYXJ4UGxqQllnYm51UWhINnZaUzBGUWhLSUJYc2hJZG10WXJiV25uZDBBSVp2RU1wOXZRMkdEUW1vbEdZd1RtWUo4TlZYLThycnBiQ3lPd29IdUZLTm1XY0xDbjlxUzVrbTdqZFhidW5hd3Z3dlVTM1UxdFZneXlvTkFYY2t0T2Q4dmZNdlRiUmwyYkZLMFV6dFBhQTlVSG1fbnBKbThZLTJIOTRTc3hqTDRTdkZ3d25MVm1vYmt4Z2kwMFp0T2tHOERsdmJOb1NXMWZhWEFjMjl2b0dTMWg0VjJJdFo2UGRoSXlzbjZYWDR0YmxyUWhnYm1Ud2ZPYXZydTNhSXBWMS1LMkFEMXdUQnowSVNQbDJUeTRZWGVuXzJQVFM2R2JpSUM4R0s2WXN0ekVFS3FfcUhmOGhkOFBPMUdRUnBvYjJROTFZV1pPZDFrLVV2UElneFNIWGNvcFRVS3R2ZEpWR1B2dEdURlFONl91V1FmbC1uODRaZ3Q4OExRYXBYdmYyMWlvU3FVRURELTZ4Zzc1M0dta2pPcHlNbkRzMU4ta2VLb3ZONVRoSktlZ3QtMHgza2NZeExmUWNkQTRFc3RzS0pCV05MZmU5b0dQTHZHbThCLWlKX3FnM0VDbmZTMmVQQllHVDBaYnhIUmpfeTJ4UG4wT0FtNmpkd2wtSHMzLUJMTnNobjlxWFd6NlhZLUlZaWM1Ujd1Mnh5Ymc5cy1BV3NmV3ZXd1NOcWtCZ0kyYzlybnFiajYtdUJFdHJQaU5RV00yOXR6UknSAdQEQVVfeXFMTjlLdmpfRTRjUzhMWExvWmtqRXZXQkVSTzZlTE91eVNpbmpJRDAwTDdNaTNlZTBlQkZ1MmdpLVdENTJhRl9nMVI3VzQtbEg4V1YtS2hFWFcwbHZWdUVFeUY5ajRnZDVjMXEybm45WklQOERQVnZXUkJTRllhQnlhUXM3SlN5NDBrRHVDa3VMdGpJaHY1Y3FReUZpRUhmRWN5OWY1Qy1yVm0ya2d3QjY5ZHZoMHpKZmN0STJhYjUzZHYzd2lzS0NGRkhnbHlVNXVZbXdqSGJhVWoyOHhTOGRTNFdrMkJGZTdaVWhocVRwQTJ2ZkpaUjNQOWFrZmNaWTZmR3V1S080NFJ5SFg4VVN6RURlUXBkX2hqVzdxbl9oc0hCbHhnQWJsdW5qOC1ZNFQ5MU5pbWl1cTZ1anByWGxhLUVMd1hxVTQ3NTAzMnk0eXhNX3IzVjJRcjZkcUN4czhTVExyX29aekhXa1pXcnFuSWRzUXpXYktWU0ExTkc2TTJ3bHZCME04bGx4Q3FOX3BObW5wdDg0NHV5d3FBTVJ3VHN5b20zbVIwVHJUN21nOEVPT1E3bEF0MjJYM1RUV0t2ZnpMVzF2elQ5NDlqNEhhWnIybHBaSjhsS3VwMDNPR3gzdDhOVzlfM0Y4UllBUzRYZkFnX2JTd19DYjF0MzhjMGh1UE9CbjFCX1c2SWduYU5fMmNGejM0czZSN0hFMGE1RV80Z29kc09RN1pVSXdNWnFKYXVaQzZ4WkJvcFB2N2xGMDZIUmhoS2liSk1EQUxkc1cxZlQ?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-10-03T12:28:58+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "حماس: مجزرة عمارة الأصالة تؤكد استمرار الإبادة وتستدعي محاسبة الاحتلال    تسنیم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "حماس: مجزرة عمارة الأصالة تؤكد استمرار الإبادة وتستدعي محاسبة الاحتلال"
+      }
+    },
+    {
+      "title_original": "مع تعافي الطلب في الشرق الأوسط.. الإمارات تقود \"الضيافة\" إقليمياً خلال موسم الشتاء",
+      "title_zh": "مع تعافي الطلب في الشرق الأوسط.. الإمارات تقود \"الضيافة\" إقليمياً خلال موسم الشتاء",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOQVlfNDZfUGZUZGNHeDk1TEpESEROVVJ5MDFEX2RSOTVocmJKd0dibGVQNWp3dnM4enhqUnNrcWgwd3BfZ1VrZkNSLU15S01nWWVqRGstdUVicGlhYWFRYTdDU0FadnI0UEhyRVBiSXIzZ0xoM2czdHlfNUtya243VXZJQlg4OUhtV09IOEw3MV8ycWx1MWhLVk5hOVFKMDFxbXNaOEtlV3AzZS1jR2NteGQ0cjRwaWE2Vmp6MUxQODJrV05yWnllSWVnZzBqejR0bDBNZUpTeTVaUG9OYVU4NEVMcFhSc0t1ZXdjdFFNdmdLNFkyMDdwQVBDX1BoSVlPQlpOR2l4NC05S0VPQ0NHOWxhQkd3czI2QVR3VDVCeHVvMHAxcWtDRFNRNVc1Vy1hd05tb1RjamNNYlVOa2FTaTBDa3FORGVrb2RYbWtPQnVXYWp3WnJFOG9Da1BXdmpEVW9nV1BoMm95dm8?oc=5",
+      "source": "صوت الإمارات",
+      "source_score": 40,
+      "published_at": "2026-10-03T12:07:31+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "مع تعافي الطلب في الشرق الأوسط..",
+        "الإمارات تقود \"الضيافة\" إقليمياً خلال موسم الشتاء    صوت الإمارات",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "صوت الإمارات"
+      ],
+      "all_titles": {
+        "ar": "مع تعافي الطلب في الشرق الأوسط.. الإمارات تقود \"الضيافة\" إقليمياً خلال موسم الشتاء"
+      }
+    },
+    {
+      "title_original": "要闻解说 - 俄乌战争持续 俄罗斯将削减社会支出并提升国防预算26%",
+      "title_zh": "要闻解说 - 俄乌战争持续 俄罗斯将削减社会支出并提升国防预算26%",
+      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNT3J1ODlzdjcyTERUMTljNkt4TEsteF94eTBoNHJQMUFDOHlMRlpicmg2WVdpYUVVUWVfOXlGYllvZm1XeEczQ3RodVQtbGtWMWs4UVBfUzVmQkt0UVBVSTFYMGI5QUdXVVk0UmJvNjRFc2V1NWN0aGtqS0tBbi1nM0lidmVkVEpQbDZuRFhPaThnd0s3Unh0aTdaQ1VDRUp2VnpreVFtOGtsSHI0OUJ3dFlsOUFCdW1xa1UyR1I3bXNYNjh6ZzB4SmNLdXFlem56TXpGd0NPa3hja2M5eC1FcExBbDR2b1phblJYdk9obVAwLWoySm5GM3MyZzF5M0NrUUdDWWRUYU5EYUpVZFhtSENza2JtaEZEQWhhLWduOENGWkM2bWtzdnFwUTROOHlHX0pxUFlNenpzSnFjTnBLSGcwWGozUFlfRkIyMkV0VjlMZTZ4VzhfNTFMd0VJX3NPc00zUEozYUl2TjdpZFpSVUM5dEF1NERsMW5OVG14TWJjZzNSZE5GWnhoVmNkaUNuZWdDSnpfNWlJYl9uaXQxZy1Dd1ltQjR0SG5iOXNFcG52MEg4ak5xMXlINVBfcHZv?oc=5",
+      "source": "rfi.fr",
+      "source_score": 40,
+      "published_at": "2026-10-03T12:03:58+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "要闻解说 - 俄乌战争持续 俄罗斯将削减社会支出并提升国防预算26%    rfi.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "rfi.fr"
+      ],
+      "all_titles": {
+        "zh": "要闻解说 - 俄乌战争持续 俄罗斯将削减社会支出并提升国防预算26%"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : à court de missiles, l’Amérique découvre les limites de sa puissance",
+      "title_zh": "Guerre au Moyen-Orient : à court de missiles, l’Amérique découvre les limites de sa puissance",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWnhBQ3N0ZW1sdEV3QkI1Wm4waC1zSV9PRGtTRDFYaVY5V2ZiNWxyR2M3QkY2aFBobFhOV3JmY211blRManNBcnJ6cWl0RU1fODJFZ3cwcDBhai1KUVQ0NFhTY0w5X3pJdzJESTk3bjJ4S0g5aDM5YkhKTFpOVXNNNUg0ZzVKVEhIRWJud2N0Wm5KRGpUNENXenkwTVJPbWFfUGdudFpOeHRhTFJTY2Z6M3JGclRwdE5rRHJmMWx2UFd4VHZuOHc?oc=5",
+      "source": "l'Opinion",
+      "source_score": 40,
+      "published_at": "2026-10-03T12:01:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : à court de missiles, l’Amérique découvre les limites de sa puissance    l'Opinion",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "l'Opinion"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : à court de missiles, l’Amérique découvre les limites de sa puissance"
+      }
+    },
+    {
+      "title_original": "Una alerta por un posible dron cierra el aeropuerto de Vilna y activa un despliegue aéreo de la OTAN",
+      "title_zh": "Una alerta por un posible dron cierra el aeropuerto de Vilna y activa un despliegue aéreo de la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQW1keWNpM3J1b0lxNEdXV1BIdGs4czJXMUFBNlA5ZlNueXlKdWZKVW40dncwX0lBSWs4ZVBycDViOEx4OWhaWnlZSkU2WThCdnRXVEtjVGlzTTdqNFRCM2xTNm9xSmx0bWIxZ01SbklJekV4TXR1cVlWY05EOEJ5VWFPaXhvTzZzc2lyR0lBenpuanVrdElGMk85X2VSWFlzeXB5cjV1TFZTaVI2QlM5UThVUVpXM3NMTUk0WWFDcUhvTWozaWNUc3lfN1NYSElWUEdCWFRsTdIB3AFBVV95cUxQaTNxX0FfemFZXzI2U3lKYVVCMGF6dTlLdHh6SUZDVjVnUDVmTU85UmJ6TUlDQ3FNRFpwSEkzQlhhMjMzUW1BbjM4cHVtb1Npcmt3a3ZBbEpQSXZYcm4xbmN2OFA0TG9wRlhYQnpLOUJuMjQxQWNoVzF3YnUwbXZpUGNwckFUc1VXOVhMRTRLdTdQSVlWZHBSc0tIUlJNdkViNDYtX25JVWtyZzhDTzh5WjNTT0t6ZUJGWHpEY3VabEN5Z1IyVkFnU0xKdnNZY08wMl8zeGc2T25uTnBD?oc=5",
+      "source": "20Minutos",
+      "source_score": 40,
+      "published_at": "2026-10-03T11:02:29+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Una alerta por un posible dron cierra el aeropuerto de Vilna y activa un despliegue aéreo de la OTAN    20Minutos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "20Minutos"
+      ],
+      "all_titles": {
+        "es": "Una alerta por un posible dron cierra el aeropuerto de Vilna y activa un despliegue aéreo de la OTAN"
+      }
+    },
+    {
+      "title_original": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+      "title_zh": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-03T10:58:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "UK-Iranian dual national arrested over RAF Fairford released on bail\n- Published\nA UK-Iranian dual national arrested on suspicion of preparation of terrorist acts in connection with an incident at RAF Fairford has been released on bail.",
+        "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+        "Searches of two properties in the same area have now finished."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "UK-Iranian dual national bailed after RAF Fairford incident arrest"
+      }
+    },
+    {
+      "title_original": "El Ejército de Tierra desplegará unidades de montaña en Finlandia para cumplir con la OTAN",
+      "title_zh": "El Ejército de Tierra desplegará unidades de montaña en Finlandia para cumplir con la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JUFVKelpsSE8yNFY3VlhFNXB6QmYta2JfNjVTRUtvNThCV2NCUm50c1ZLM1FHbG14OHhRV1NuOWEwVDhIZm5GZGt2R0V2R0stM01YSkNTWFNtWURmbUI2X0E1TkdqSUFQUWltLW5PUWJ2R3RFLWJITkl30gF6QVVfeXFMUDVYUUdSM0xNXzFSWHFwYkx6QjdJUlBnOFJmQnpEQzBSb0RmbVl3eGJfbGpINi1oLVp5a2ZlaXd1d0J0SU1ZVEgzRXZMdDU5U1p6dGtoYVdWUVl1eHlZWGFrNjFtbXN0TmZzTlhkY0pNTUo3QkJDVDE5blE?oc=5",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-10-03T10:12:29+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "El Ejército de Tierra desplegará unidades de montaña en Finlandia para cumplir con la OTAN    El Mundo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "El Ejército de Tierra desplegará unidades de montaña en Finlandia para cumplir con la OTAN"
+      }
+    },
+    {
+      "title_original": "Géopolitique des mers. La crevette, un fragile marché mondial entre pressions environnementales et rivalité commerciales",
+      "title_zh": "Géopolitique des mers. La crevette, un fragile marché mondial entre pressions environnementales et rivalité commerciales",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQQWs4MTJLczRhbmRJTzFib1hRa1hxR0c5SzRaSmhUZVhudmhYU2hqV0JVbjlCeERiUldPMHBaVnp1dTZScVNMWDl6TFBuR2tuNjU1WUx4NHdOTUxtVzhBVXhNcTVyV2FuV1BXTDI3ejFCbnFvSmJYVXFGeThocW50TTc1dy12VEQ0bXpwRV80QzM0TDZiWVZEQi1TSkU4T1Mxak5RcTU0QzFvUDFRcDhkZG5mX05ocmZnLUtaOFo5T19XUC1XUnVWWVNveEg1YzlraDNPWlU0S082c3JYYmRudDdIM2c2ek9EN01obE9ZdVlESkhQUU9YY0ZtNEdaUnQwNGg5Ti1mWkJ1R0FDTFhNX3NTSGZVWkNVd01IaktR?oc=5",
+      "source": "Le marin",
+      "source_score": 40,
+      "published_at": "2026-10-03T10:01:11+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Géopolitique des mers.",
+        "La crevette, un fragile marché mondial entre pressions environnementales et rivalité commerciales    Le marin",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Le marin"
+      ],
+      "all_titles": {
+        "fr": "Géopolitique des mers. La crevette, un fragile marché mondial entre pressions environnementales et rivalité commerciales"
+      }
+    },
+    {
+      "title_original": "Nato sichert Lettland-Wahl: Deutsche Eurofighter schützen vor Drohnen und Luftraumverletzungen - Video",
+      "title_zh": "Nato sichert Lettland-Wahl: Deutsche Eurofighter schützen vor Drohnen und Luftraumverletzungen - Video",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNGM4ckZFVEs3OE9uZkp3c0lFcF9PZVZtTXNZTFZlOXNsYnI4Mk5hZWkyX2JMMHBwMDFzcWxFUXdkckFBX1JBTFdqV044b2wwNDBmZWtEOWVVcHktTmZYeVBOd2laTkF6b1plNUQ2enE5YzF4V3NYYkJ6b2I1Z291bzdZUEE0aV95NVU3bkt1S0REazBKejFOQnQxcnpyNVAwUGoxejNubHJqUzVGallXTjlpaWQ5dHNmRXBrMUpXdG5MbmFRTzZIS29EYXNkYmVqQzdvZ0M3T2JmSUgtN3ZlVmNkaDlvdm1JT0wyLWlNWmUyaVNwekhHOA?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-10-03T09:54:30+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nato sichert Lettland-Wahl: Deutsche Eurofighter schützen vor Drohnen und Luftraumverletzungen - Video    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Nato sichert Lettland-Wahl: Deutsche Eurofighter schützen vor Drohnen und Luftraumverletzungen - Video"
+      }
+    },
+    {
+      "title_original": "北约获威斯特伐利亚和平奖遭抗议",
+      "title_zh": "北约获威斯特伐利亚和平奖遭抗议",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBER3pBYXlxcm12eE45WTBlUmN5S05ndTl4dHYwQzRocjNRYzJfTEVwMjdNSGd6THFCNHhqeVNGVWRLWFJOT2t4S3dNcjdSNWgtVzB0U1o5UGxXcVhDXzVSX0Z4aXNucXduSFlrNkNPaTR5MlhUWjRxNw?oc=5",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-10-03T09:50:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "北约获威斯特伐利亚和平奖遭抗议    新浪财经",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "北约获威斯特伐利亚和平奖遭抗议"
+      }
+    },
+    {
+      "title_original": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
+      "title_zh": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
+      "url": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-03T09:00:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Western Libya’s GNU say working with Saddam Haftar ‘impossible’ as US-backed merger plan breaks down Allegations that the son of the Libyan warlord Khalifa Haftar oversaw a “terror cell” that launched drone attacks on fuel storage facilities and power stations in western Libya have upended plans for the Tripoli-based government of national unity (GNU) to continue cooperating with Haftar on a plan to unify the country.",
+        "Saddam Haftar, the deputy commander of the so-called Libyan National Army (LNA), has increasingly been seen by the US as an important figure in its plans to unify Libyan security, judicial and political institutions.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities"
+      }
+    },
+    {
+      "title_original": "Kim wins Asian Games gold to secure military exemption",
+      "title_zh": "Kim wins Asian Games gold to secure military exemption",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-03T08:51:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Kim wins Asian Games gold to secure military exemption\n- Published\nAsian Games - final round\n-18 T Kim (Kor); -15 K Higa (Jpn), W Ding (Chn), S Kaewkanjana (Tha); -11 W-H Wang (Tpe)\nTom Kim won gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+        "The 24-year-old led going into the final round and produced a brilliant six-under-par 64 to finish 18 under and claim victory by three strokes.",
+        "There were signs of nerves with a bogey on the 17th but, after five birdies and an eagle prior to that, Kim had the margin for error and tapped in for par on the last before letting out a roar, his relief clear to see."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Kim wins Asian Games gold to secure military exemption"
+      }
+    },
+    {
+      "title_original": "Lituania cierra durante una hora el aeropuerto de Vilnius y despliega aviones de la OTAN por la presencia de un dron",
+      "title_zh": "Lituania cierra durante una hora el aeropuerto de Vilnius y despliega aviones de la OTAN por la presencia de un dron",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeWoyaEpJcW1UMFd4dVMyZWVrTFdxZjNvb1RpVTZHWnhQRW15YWRhSjVnRDhJVDJCdVJrbEpscWlWVnlfVkx6Vkt3R2N0blpQcTZNcTJ6ZXFTbkJqeEZrQWMzX2pCM190V1lRWkp1R1NHRzg4WFNIUGZTQXhRZ2VTNTJzVklfdWkxMVJHT2htVVZtbGhSQnI3ZnJtNWw3bEY0N3NGZ191bDlOUlZjU1V2cERMRnRYSXpveVp4cnB5N282ZkVZa3hOY3FGdEtXWERwakN5UmRzUlY2bUdhRVM4Z1dHTzhSeVZhRXdlNlNaQ3JWZ0hxb3RLM9IBjAJBVV95cUxPeHBJQlM5M0JXcGR4ZzIxV1l5WW5yRUYwdWlWOGxqREhPUHJOVUQ4RXRoUmNSRnRVVlJZNHlxVE1FYkJUeTVkb1NfSUdMaTRnb296YmsxN0NKaVNpOTNrTlFkdkpvVFpjRjVBSFo1SVRJeXZBTWZmOVJwR0s5X2NVbFZNOTBYdDhZWGdYcFVwMEM4Nnl6c09OdGtBSmE0UzNIeGJRSnBjelQ2ZTZ1Qk9GVG42T0pqNi1ZUzhIbC1YajNQOW9pdEU0OHlLTXotWkZXbUxkWVlkdGNNaHJ1RnoyaGJ0WHZvWVphMGV0NjJPNFdZV3NyVkdKSmVtc0FMS2xfZ01acVlGN1pKY1J4?oc=5",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-10-03T08:37:34+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Lituania cierra durante una hora el aeropuerto de Vilnius y despliega aviones de la OTAN por la presencia de un dron    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Lituania cierra durante una hora el aeropuerto de Vilnius y despliega aviones de la OTAN por la presencia de un dron"
+      }
+    },
+    {
+      "title_original": "Geheimdienste warnen vor möglichem Angriff Russlands auf NATO-Gebiet in Europa",
+      "title_zh": "Geheimdienste warnen vor möglichem Angriff Russlands auf NATO-Gebiet in Europa",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU0xXNDBKMnpTeHNPMnVSem16V19lR2J0Vk9ROVdkMlk2TGhoOGRhTVdPQWROamZxTFJkcmlfN1BJU05pU0pjVXFtQ3J1MF84TnI3YWREbnFpM2dQZ3J4cnhSRUk2TDk0VktCdUpZU2FyTG1mWENHUDhlRnlnUEhhN0FQXzdzNnJoS3U2V3E0ZXh4ME1iSmpwUg?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-10-03T07:55:22+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Geheimdienste warnen vor möglichem Angriff Russlands auf NATO-Gebiet in Europa    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Geheimdienste warnen vor möglichem Angriff Russlands auf NATO-Gebiet in Europa"
+      }
+    },
+    {
+      "title_original": "China y la Sombra en la Guerra de Irán: Un Juego Estratégico para Debilitar a EEUU y Trump",
+      "title_zh": "China y la Sombra en la Guerra de Irán: Un Juego Estratégico para Debilitar a EEUU y Trump",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRnhCeE52bm5GbVZnbl9FR2tFMW1vY09rWGFsZFlleVVneVVqWXd6WE10X3A2Tk9YR2p4d25VTHdvY3BLVGxZVFY0UlZUTFdSS1F4TUtWLWs1S1cwTmJIb09MOXN3YTItTTA0WTcyb2kyQldXdXhhOHV5c0tZYWlBUzNCT2YzcXZKNmN2dnd2TFFTNGRjMGtLLUVXakdFbkU3SDlna0Y1bUZvZzduRGxZajZNdjc0dWU0RlVPbDB3VXlaV08tdjBnc3pSd0pBaGdx0gHWAUFVX3lxTE1DeVI4MkJoUXpnQ0JUQXJ2YWdJNXNSaTYwY3Z0SmFqWFRJc0ZSVWFRblB2RFY3Yl9IMldhcEpyX2JabF9EN0tQYXBZUHY2cnl4WnhrN25jZlRVT010Z1VUWHhHLWhJbmpCcy1ScDg0WXNRaUFYcUJrS3V1b0hfZ2tCNF9BWHd4VkltMEZzRnk3di1xcVlMaVNSN3Nsb1pyRlQ1U2hCdkk3Nk5Pa2JLbUZibVhhdkpMQnc0NkhJZnpEY2ZfS19ZaHdzNTJueTRhSnFCSTFrS2c?oc=5",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-10-03T07:51:55+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "China y la Sombra en la Guerra de Irán: Un Juego Estratégico para Debilitar a EEUU y Trump    Negocios.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "China y la Sombra en la Guerra de Irán: Un Juego Estratégico para Debilitar a EEUU y Trump"
+      }
+    },
+    {
+      "title_original": "\"Moins de soldats, plus de machines\":Taïwan, Corée, mer de Chine… comment l'IA et les drones redessinent la course aux armements en Asie, et précipitent peut-être la guerre",
+      "title_zh": "\"Moins de soldats, plus de machines\":Taïwan, Corée, mer de Chine… comment l'IA et les drones redessinent la course aux armements en Asie, et précipitent peut-être la guerre",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQ0Z6WjBST2c5YUNNQUE3bTVuOXpWeVAwSUJhcDZsZkFlWUN4ekVZVDJ2TFQyd0NzZlpYT1hWUXp5eGZCMmVZLTJFVHJITHZsaGhfbkRDVUlRdzJyWEoxcEJkQ19iS3Bfd2xHZjI1RVI2ZGhOcEgyS2RtU1pwUDFPTTVmWkhIX3hXRnI1eWJHbzFjeGRNcmdraktiaHZ4RHdBM0xQWHJLYm1oVU1yS0RnbWlqTlhBelYxVXRRUEZMeTJ4ZUlCT1o5eE5IV1c1WFB4TTFnZmM4a1RuYk02dEw5bUFyZGdLejFLb3M3cWRudVBEOXJLNGV4TDlRQzFOdVJDOC02Sm9pSDZKQWstNC1BUmhfZ2gxZ2hQ?oc=5",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-10-03T07:28:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "\"Moins de soldats, plus de machines\":Taïwan, Corée, mer de Chine… comment l'IA et les drones redessinent la course aux armements en Asie, et précipitent peut-être la guerre    BFM",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "\"Moins de soldats, plus de machines\":Taïwan, Corée, mer de Chine… comment l'IA et les drones redessinent la course aux armements en Asie, et précipitent peut-être la guerre"
+      }
+    },
+    {
+      "title_original": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
+      "title_zh": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
+      "url": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-03T07:00:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Sunday’s poll pits the leftist incumbent Lula against the son of a former far-right president convicted of staging a coup ‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election Shortly after his controversial speech to the United Nations general assembly in September, Donald Trump gathered a dozen like-minded Latin American leaders and boasted that rightwing candidates had won all seven presidential elections held in the region since he began his second term.",
+        "“Everybody I’ve endorsed has won,” the US president said in New York to most of the leaders of the Shield of the Americas, an anti-drug cartel coalition of 15 countries governed by the right or far right.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc"
+      }
+    },
+    {
+      "title_original": "„Das ist Psychoterror“ – Attacken auf Brücken in Kiew sorgen für Verkehrskollaps",
+      "title_zh": "„Das ist Psychoterror“ – Attacken auf Brücken in Kiew sorgen für Verkehrskollaps",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRFc1TkFFcURFejhUdlJUZ0x1Qm00YkdBQnFBazNYVERYT0FCN18zeDZrR29ReGxJUVZBeURfVXJKMFltVW03ZFVaRTdOeWZ4NXBZN24zaDc5OEZHYnVqZnJwZVJsYWQtZDRJNUp0WUw0UE9zdm5SX2hIZkhMVkwzamNGV1V5NmtOT3VZSWVNblVGT0NQZGN1WXZLa3p2Y2lpRGJUdFNXelJWQ0l2UDJ3UXo2M3RldjE2RnlEZy05bU5vYlNtT0FDTnZjT01zNzJWLVJvNlhSdmtha3FkcUQ1VlpQd1NwNzdxZVF0ZEFXWThpN05fZXc?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-10-03T06:57:42+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "„Das ist Psychoterror“ – Attacken auf Brücken in Kiew sorgen für Verkehrskollaps    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Das ist Psychoterror“ – Attacken auf Brücken in Kiew sorgen für Verkehrskollaps"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Russian attacks on Kyiv bridges cause traffic chaos",
+      "title_zh": "Ukraine war briefing: Russian attacks on Kyiv bridges cause traffic chaos",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDN1WVJaLXlxZWxNNldJUTkyTjNKS0h5UGFCbW1mZlQ0R0FVWHhJUVZqWkFHcDZqUmtrVVRSVW9fZ1M4TVNFX2xsRDlBRFBiNjU5d0pabC1kUEVGVVp6Vl9RVHNfN3ZlbjlwTXprVVZqUjJ4aTRhdDJBNE9BczU5SEI0WVFrUjdCMmt1OU1Hblh4aEJwSzA3VDc3MWlfSFZta1J1WWZOU0YwTGFRbDNtbnQwVVRFWXA5eEE?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-10-03T06:50:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Russian attacks on Kyiv bridges cause traffic chaos    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Russian attacks on Kyiv bridges cause traffic chaos"
+      }
+    },
+    {
+      "title_original": "联合国：中东局势或致全球新增2200万人面临粮食不安全",
+      "title_zh": "联合国：中东局势或致全球新增2200万人面临粮食不安全",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMklLS0NLU196RFIxU0MwSlhUbWhIQmgxbklLREZMQV9MLUtfZXhqLXFlU3o0Z1JWVE1DdmdlcXlvR1M3LThpQ3BtbjRaWGNIZEU5OXJRbmdack9KdGp6Zks5OVliTmhPQ0pDWVVKWjJOQXR3ZDJ4dkJMRGhMejhudWwxWnlyZDZiZHd5TGRXYzltRU15?oc=5",
+      "source": "紫荆网",
+      "source_score": 40,
+      "published_at": "2026-10-03T05:51:56+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "联合国：中东局势或致全球新增2200万人面临粮食不安全    紫荆网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "紫荆网"
+      ],
+      "all_titles": {
+        "zh": "联合国：中东局势或致全球新增2200万人面临粮食不安全"
+      }
+    },
+    {
+      "title_original": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
+      "title_zh": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
+      "url": "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-03T05:31:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Pyongyang fires towards sea a day after Kim Jong-un sister denounces South Korea for claiming North’s mines wounded South’s soldiers in DMZ North Korea fired a ballistic missile towards the sea on Saturday, South Korea and Japan said, ⁠a day ​after it rejected Seoul’s accusation of its mines wounding soldiers.",
+        "The missile was launched from the Wonsan area at about 6.30am towards the East Sea – also known as the Sea of Japan – and flew more than 700km (434 miles), the South Korean military said.",
+        "Seoul and Washington were analysing the test for details, it added."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers"
+      }
+    },
+    {
+      "title_original": "Nur 70 Kilometer bis zur Front: Letzter Halt für Geflüchtete im Ukraine-Krieg kämpft ums Überleben",
+      "title_zh": "Nur 70 Kilometer bis zur Front: Letzter Halt für Geflüchtete im Ukraine-Krieg kämpft ums Überleben",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU3AxdThGWXE1Vy1iVHZmWWo5ZzJiU1pyV1ZhczJPVzRiT2RIaDZ6WXJ3c2lyOWVjUnpucHV3RUdTWVJKOTkzZ3RSMUlEbExfZER3WVNBRUNvckY2elBHODR2T05uVGJoMkd2TlFLNFRjWHZHTENhb2hLb3VIeUZjQWx1c1JPUkk0dmM3V3pIeEhtbjhzaGtwQ2p5ckVibDlXb3N2YWIwQ0xiTXJBTkVJb3h5UW83MFRrSVc4?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-10-03T05:26:53+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nur 70 Kilometer bis zur Front: Letzter Halt für Geflüchtete im Ukraine-Krieg kämpft ums Überleben    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Nur 70 Kilometer bis zur Front: Letzter Halt für Geflüchtete im Ukraine-Krieg kämpft ums Überleben"
+      }
+    },
+    {
+      "title_original": "ウクライナが大胆な作戦、ロシア兵250人あまり投降 前線背後にロボット投下、「トロイの木馬」も",
+      "title_zh": "ウクライナが大胆な作戦、ロシア兵250人あまり投降 前線背後にロボット投下、「トロイの木馬」も",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VQ1lfMHlWNHVYNmREdFBKZVozcU5DZ0EyOGNiU3N5OHVEOENmeTlxRnJHWkRaTXdKRklwM0Zfb1ZETGVCWS1RcFExZXhhZDAyNHlr?oc=5",
+      "source": "CNN.jp",
+      "source_score": 95,
+      "published_at": "2026-10-03T04:48:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナが大胆な作戦、ロシア兵250人あまり投降 前線背後にロボット投下、「トロイの木馬」も    CNN.jp",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "CNN.jp"
+      ],
+      "all_titles": {
+        "ja": "ウクライナが大胆な作戦、ロシア兵250人あまり投降 前線背後にロボット投下、「トロイの木馬」も"
+      }
+    },
+    {
+      "title_original": "بلومبرج: وزير خارجية تايوان سيزور أريزونا لتعميق العلاقات الاقتصادية",
+      "title_zh": "بلومبرج: وزير خارجية تايوان سيزور أريزونا لتعميق العلاقات الاقتصادية",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrR3JuUFl2R3NPdjY4Q0ZoaThTdmJXcGFHSTUzSXZkV2U1Y3d6Mk5iemUwcU1abGNmSTRuakUwU3lqWjdhMUY4azhRRS0xWl9FQkc1VUJTYzR6QVRqb1NPVFZ0LU1YUlVMZ2N3SDhHX0YySnE5WlZqSFNrSm9oNkE?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-03T04:48:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "بلومبرج: وزير خارجية تايوان سيزور أريزونا لتعميق العلاقات الاقتصادية    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "بلومبرج: وزير خارجية تايوان سيزور أريزونا لتعميق العلاقات الاقتصادية"
+      }
+    },
+    {
+      "title_original": "Kaliningrado, el enclave del riesgo",
+      "title_zh": "Kaliningrado, el enclave del riesgo",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeTNOamYwcnFSVG02Tl9NTUJONFJBek9ycG1QMTNzcEo2Q24tcTVQZE8tZklSYUNVQ2J0VE1TLU9LSVluMGhOUGg2alNyM0EzQUV5LUtCbFRpcDJkOWhLczNMeDBUZjM3eTVMS2RiTEc2UDlDSS1MeUMzV081RnlYMTVoRnpzMFVscmpFUkZUMVUxSktyZjZZa2VRX25FR3hTUFBUY2F2Qmp4dUI0a2t2WC1ZOGVUQTZhTUpvOFh1MjE0MHhQYXJrT1NMNV8zQTBP0gHWAUFVX3lxTE1pOHFNbkpERE1OZ215TGg5b216Q0dDSU01R0ZXdE9KMnJpT29oNDdqa0h3dHJGTnJqZkw5bVVtREtvQVhOWmFxMUxwNTVteUNHY1FFZE1KMUZRTmxLUGpVQ2lOUVZ1QTN0ODMySWxyMU9CVnF4S0NJYTBrdDBET0doZ3JKQUZKc3J1WFNULU9yZENjaXBIU3J0ZFZVX2duVUdpU0didUUwZGhSTjZiTFJ5UjB6SWZrMHEzclNReGpyRmZUdW1WVUxwTDgzSk9OWV85WnN1b0E?oc=5",
+      "source": "La Vanguardia",
+      "source_score": 40,
+      "published_at": "2026-10-03T04:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Kaliningrado, el enclave del riesgo    La Vanguardia",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "La Vanguardia"
+      ],
+      "all_titles": {
+        "es": "Kaliningrado, el enclave del riesgo"
+      }
+    },
+    {
+      "title_original": "ＯＰＥＣプラスの生産能力評価、11月中旬にずれ込みか 中東紛争が影響",
+      "title_zh": "ＯＰＥＣプラスの生産能力評価、11月中旬にずれ込みか 中東紛争が影響",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSGFiN00xdFAzMnJEZTFPTGFXbUEyYjg0UWRxQm96OWhrZnFWcDMxb0xyLU1wQ0V3SFJzTkdrN2R2VGJCUzltS0FFZUhVejgwZWVKTzRUc0hMVjhuSEI1ODhoR1NjX3lhVW9JdlZnUDFWU0Q3bHdpRnFPTzB0QWptQUx5WTM?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-03T03:34:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ＯＰＥＣプラスの生産能力評価、11月中旬にずれ込みか 中東紛争が影響    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ＯＰＥＣプラスの生産能力評価、11月中旬にずれ込みか 中東紛争が影響"
+      }
+    },
+    {
+      "title_original": "Kaliningrado, el exclave militarizado ruso encajado en la OTAN que desató la amenaza nuclear de Putin",
+      "title_zh": "Kaliningrado, el exclave militarizado ruso encajado en la OTAN que desató la amenaza nuclear de Putin",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc0RmT3FIZHJ5MXpNa1liU0VIeFU5YnYtY2VZb2thYzBramQ0c3B4UEhUSS1YSTF0SUNwT0M5UEo5ZlJmOVlRVzlBYnJiVHVvZkZmbGRLSXBMTGd1TzAtNV9mRkJNaUVxcjVHbzhYZ1AxUnFDdXZqNkJ4bTJWaXdtQlVjeWJka2NycEZaaGFxWEMzRjRadC1PSmVUUUp3ZkhKYWFjTXFkaFB2b2ZIOFVjYXVRM2duZXBUS3lpY1ZtczkzM3J5T1BaeUxNRHVYUl9NTzVjRW83NHYxWDRhZ2dJMmpfb9IB9wFBVV95cUxNY1RQSHBtRk1sM29XZWI0VFJwdFBGcVJJRE9XLXYxZUdITjY2REttOTNMR1VpX3BFOGdNS1U0aHZqSzFmYWd3RE90RUFqeEJfU3hkZ3JUbHp3Umh1Sl9nODYxMFJkNlA4bXEwRmdMVEdZUzNtR0E2OU92UllZLVdUMFB5VGRzS05zWFU2VXNEMEloa1hZaU5IdWxPUkE1SW5IOHdfdGNHX3dLUUhDQllqYmhSMlBrVVI1endnLVNkbzhsbEVTZUhqc09wYU13UHNjd1ZDYUVyZzlJWmgtTGhCWXNLSmx3clk0MkRHVjhXWnQ2aWtiSjVj?oc=5",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-10-03T03:30:01+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Kaliningrado, el exclave militarizado ruso encajado en la OTAN que desató la amenaza nuclear de Putin    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Kaliningrado, el exclave militarizado ruso encajado en la OTAN que desató la amenaza nuclear de Putin"
+      }
+    },
     {
       "title_original": "默茨称德国将继续支持乌克兰，继续强化军事实力",
       "title_zh": "默茨称德国将继续支持乌克兰，继续强化军事实力",
