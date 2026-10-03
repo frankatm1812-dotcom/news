@@ -1,8 +1,633 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-02T16:38:26.118328+00:00",
-  "count": 35,
+  "generated_at": "2026-10-03T01:55:05.291489+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title_original": "默茨称德国将继续支持乌克兰，继续强化军事实力",
+      "title_zh": "默茨称德国将继续支持乌克兰，继续强化军事实力",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9URW15VUVVZUhqOU8xaXhkMi04MHNwUThVODhseWsxeUt3Mk5jY2c5aWRuQzBLcC1pVjlLVXRCMDFkanBvU3BaY0Q5SQ?oc=5",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-10-03T01:33:25+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "默茨称德国将继续支持乌克兰，继续强化军事实力    凤凰网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "默茨称德国将继续支持乌克兰，继续强化军事实力"
+      }
+    },
+    {
+      "title_original": "普京称赞莫迪：他对解决俄乌冲突有“很好的想法”",
+      "title_zh": "普京称赞莫迪：他对解决俄乌冲突有“很好的想法”",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15WFFGQXA0eVlxTVJteXdPcC1DVGRYS1NCeHlFT0p4Zy1pZXVnNDJqUXRfS0xQV0FLRmY2d2hIZ1dfTUlBeUVxTjNQYVg?oc=5",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-10-03T01:27:20+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京称赞莫迪：他对解决俄乌冲突有“很好的想法”    凤凰网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "普京称赞莫迪：他对解决俄乌冲突有“很好的想法”"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（10月3日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（10月3日の動き）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VOXBtekxRSlJ6RzdaSkhKRlJqQURGaTlVaFN4QkppVDJOQ1YwNnpNWWI3QnpERFhPOFdUU2FmUk1YRnVBLWE3ZDc3YnpSZUtiS3RuWGpjcnZlbHdSamlB?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-03T01:06:17+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（10月3日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（10月3日の動き）"
+      }
+    },
+    {
+      "title_original": "La Guardia Costera de Taiwán expulsó con cañones de agua a un pesquero chino cerca de las islas Pratas",
+      "title_zh": "La Guardia Costera de Taiwán expulsó con cañones de agua a un pesquero chino cerca de las islas Pratas",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUmZ2UjhwNkFoaU9PUDlOVjFQOFEzbzRGTjA3MXNIVmtJZENNcVN5WXBrNGFmSkR4QTVfRlR5ZlVoSEYzRWZLNWozbTdzdnVONWwyeXRYNVdTUnRIYmprREFwNFVjVHpZODJvVWV4LVROZkVyOEoydU9PbHd4ei1Hbi1CUXp5ak0tTGN2Vl9oNWVkQkRjaHJ5Ql9wME5BOU1oUnRQaTNnTW45WDdscHJ0T2g4RFBTazVHTmVmNkJhaUdBcmNNOUZBbjJZQ2hpR1ZfX2VBUEkwX09ZQlo2bGpVU203ajJwUmPSAYICQVVfeXFMT2xnel9oYS1GMjEwdUtwSGZjd0JiaWIyOFBOT3NlbC0zNXBSR0JmQVduWGNkZ3RTWk56ejNNMVdsaDZRVmdrUFBBY1FReGNkTGl3ZHZCY3VlZE5XQncweDJzLUV0ZGV5MUZXamhteTBxYkJRVlk5WUFIclM2c3EtdnFDMVhLNG9RTkFJS2dLMUlERlcwVHpJRHRDS0pnTVc3XzVEZTNXT3FCLVNNeGdCQVJSRkRLSDlSMG5YWVRsREE1UERIOVh3WVRGLWFETWhiRGxEcGd4MjVqLVB0V1ZtRzNWNURUQWZOR1RFbkctSTlteVNlU0NHUFRzTXJkT1BBZUd3?oc=5",
+      "source": "infobae.com",
+      "source_score": 40,
+      "published_at": "2026-10-03T00:37:16+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "La Guardia Costera de Taiwán expulsó con cañones de agua a un pesquero chino cerca de las islas Pratas    infobae.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "infobae.com"
+      ],
+      "all_titles": {
+        "es": "La Guardia Costera de Taiwán expulsó con cañones de agua a un pesquero chino cerca de las islas Pratas"
+      }
+    },
+    {
+      "title_original": "联合国：中东局势或致全球新增2200万人面临粮食不安全",
+      "title_zh": "联合国：中东局势或致全球新增2200万人面临粮食不安全",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2UE9aUE52aXRsRWphbEZHY2xIajVPT3EwU3NiOHI0bU93OXBWT2l6RS1naUtpUzhzNEYzOVJTV2ktR2RiNjNxcVRDUmxsVkE1ZEVIY3Nmd19uT1ZfR2c?oc=5",
+      "source": "news.voc.com.cn",
+      "source_score": 40,
+      "published_at": "2026-10-03T00:25:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "联合国：中东局势或致全球新增2200万人面临粮食不安全    news.voc.com.cn",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "news.voc.com.cn"
+      ],
+      "all_titles": {
+        "zh": "联合国：中东局势或致全球新增2200万人面临粮食不安全"
+      }
+    },
+    {
+      "title_original": "Taiwán financia la modernización sanitaria, aérea y vial de Guatemala",
+      "title_zh": "Taiwán financia la modernización sanitaria, aérea y vial de Guatemala",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOREhpWTVSNzRSQ0tSamV4SjhuY0lLUVhsRmcwckZxdVBDZWNmZms3MnlINUMtWTVIYmRQSWdzSUhZODVSNlVERWdWU0RHTkl2bC1Wb2cyTWZHTmpqV0RtNEZRSGVGNzRlOXlCeHNreXZSSlhTM1lHTUtxV1MtelZ4RlcteDBnZm1FaUwxWmlkcE10VW4xZW05X1dQN2k2LXY4VjI1MEV2R2RuSUQtd2pLYw?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-02T23:55:13+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Taiwán financia la modernización sanitaria, aérea y vial de Guatemala    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Taiwán financia la modernización sanitaria, aérea y vial de Guatemala"
+      }
+    },
+    {
+      "title_original": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "title_zh": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-02T23:53:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Cornell frat house rape accuser 'under siege' online, says lawyer\n- Published\nThe lawyer for the woman who alleges she was raped at a Cornell University fraternity house says she is \"not doing well\" as she finds herself \"under siege\" from online sleuths seeking to identity her.",
+        "Thomas Giuffra said the woman known in legal documents as Jane Doe was \"incapable of consent\" because she was \"completely, grossly intoxicated\" when she turned up at the home where she says the assault took place.",
+        "The woman alleges she was assaulted by seven men at the campus in Ithaca, New York, in 2024."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Cornell frat house rape accuser 'under siege' online, says lawyer"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Zelenskyy says new ballistic missile used in combat",
+      "title_zh": "Ukraine war briefing: Zelenskyy says new ballistic missile used in combat",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU2xnMjdWajl6OGE0ZmZZMWN4d1ZPc3lBQ3JfYjF1bFozMXg4NU5nSXhOZEkwV2FmRzlsU1hkUDRHbndyRWhqdDVxZHJ4Xzk4c1V6ZG0wdXhvemRfWFpUMlMwTHppQ3JZdTVfQURVSktoSG1reVQycWw0MFRqTklFR0s3YnRmcXFLek1HcE9OaWJZS09hTEVwTUdtc0ZnMkpBS3NLV2lLcTlsTnpzV0tlT0FncXB6RXIwbVE?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-10-02T23:42:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Zelenskyy says new ballistic missile used in combat    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Zelenskyy says new ballistic missile used in combat"
+      }
+    },
+    {
+      "title_original": "EE.UU. envía un tercer portaaviones a Oriente Medio",
+      "title_zh": "EE.UU. envía un tercer portaaviones a Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdDUwbG0tYzA3LUNwTVkwdFNOSnpNSm5ucVg4SE1lRTFCTWtNZDM2RXZXaXV4VWxpUzFwQWdkSmUzRmtoUzZJdW5DLWlFbl9QVTFwZjhzQTJCTjV3ZVJvaHNYLVN5eVJyOVJRNzJjN1V5U1VpREkweExJbUZYTFVXelZkNGFBengtR01HZ0gteVHSAZABQVVfeXFMT0FUWG1oTjlQVzFLczdRVUlSRWNLcUJHblB6V0syNU5RaHRqSWZKaFJsemRGcHNjelRaRTdxaFBSSURCekJCd0xnaE9qdUk0TE9DTEZfTHFGeUpndTMyVHlRSXA3MEJjcS03MUZhaGxlZlU1TmFzRVpRWENBRnJOX2NyWlE4SFJYZ0RKcUhjaWVl?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-02T23:08:48+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "envía un tercer portaaviones a Oriente Medio    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "EE.UU. envía un tercer portaaviones a Oriente Medio"
+      }
+    },
+    {
+      "title_original": "ロシア軍「ウクライナ首都の橋」相次ぎ攻撃 大動脈寸断、キーウ市長「非常に深刻な状況」",
+      "title_zh": "ロシア軍「ウクライナ首都の橋」相次ぎ攻撃 大動脈寸断、キーウ市長「非常に深刻な状況」",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XVnRHbzJyOU5uQTc4V096eHRQUENPNmwxbHFjUENFSkJMN0NiUzhja05hazdRTzRxUXUzRm5FUXB1amRfOUZlaGtlWjZQcTUzbFh5anNkcjY0SThEOHFmakpVdUt6Z0VBWEhUakpiWVJiLW52VUE?oc=5",
+      "source": "産経ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-02T22:14:52+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア軍「ウクライナ首都の橋」相次ぎ攻撃 大動脈寸断、キーウ市長「非常に深刻な状況」    産経ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "産経ニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍「ウクライナ首都の橋」相次ぎ攻撃 大動脈寸断、キーウ市長「非常に深刻な状況」"
+      }
+    },
+    {
+      "title_original": "Column: Putin’s shadow war is testing NATO’s restraint",
+      "title_zh": "Column: Putin’s shadow war is testing NATO’s restraint",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMG5zanl0RXktZUcwYVc3Nlo2NjhlRTFxcGlGUTNkbjdhSHRXMGE0OFJjdFY0OEpoUmNHUVQzYVFweENDeFF1eFRUZ1ZKc2pLdDNfYm9CUF9HcGNRS0c5bW52SmZvS3QzdkpKUXQzVUlWbnNIeklCYkVJUzJWaEQtYjExM2dfMmtxNU9jQWFiUGFyOUE4LWc?oc=5",
+      "source": "The Virginian-Pilot",
+      "source_score": 40,
+      "published_at": "2026-10-02T22:06:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Column: Putin’s shadow war is testing NATO’s restraint    The Virginian-Pilot",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Virginian-Pilot"
+      ],
+      "all_titles": {
+        "en": "Column: Putin’s shadow war is testing NATO’s restraint"
+      }
+    },
+    {
+      "title_original": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
+      "title_zh": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
+      "url": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-02T21:12:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "President leads huge rally in Rio before election on Sunday seen as most important for decades The Brazilian president, Luiz Inácio Lula da Silva, has claimed he is the only thing standing in the way of far-right “fascists” reclaiming power, as he led a huge rally through the streets of Rio ahead of Sunday’s crunch election.",
+        "Speaking on the eve of the demonstration, the 80-year-old leftwinger said he had decided to seek a historic fourth term because he believed only he could prevent the family of his rightwing rival, Flávio Bolsonaro, returning to government.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son"
+      }
+    },
+    {
+      "title_original": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+      "title_zh": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
+      "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-02T21:00:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses\n- Published\nHawaii's famous Hōlei Sea Arch, a 90-foot-tall (27.4m) lava rock structure that formed about 550 years ago, has collapsed into the Pacific Ocean.",
+        "The collapse's exact time is not known.",
+        "The arch was still projecting into the water from the coast of Volcanoes National Park on 23 September, but was gone by 27 September, the National Park Service (NPS) said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses"
+      }
+    },
+    {
+      "title_original": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "title_zh": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-02T20:32:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say\n- Published\nWarning: This article contains details that readers may find distressing\nTennessee death row inmate Christa Pike was unconscious, intubated and on a ventilator on Thursday night, after authorities failed to execute her by lethal injection, her lawyers say in court filings.",
+        "Pike, 50, was injected with two lethal doses of pentobarbital on Wednesday but remained alive.",
+        "She was then sent to hospital in an ambulance."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say"
+      }
+    },
+    {
+      "title_original": "En Foco - Taiwán, epicentro de la carrera mundial por la inteligencia artificial",
+      "title_zh": "En Foco - Taiwán, epicentro de la carrera mundial por la inteligencia artificial",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTRUTlFGazMtVkFzRFNMR1B5U19kRHVUYUNOQ255ZHMtSlAxNWtxOUh2VkxRdVY3azhMR2FmVXBwZ2VDek1IRk9DUVVOR1RPRUlmdGV3X3JhMHVnMnVhZGdVcHZ0Mm1KRlVxaFNPb0Nzc0tjTjUwRnRkNTBFMTNJenpYTW4yTTFtZ2Z6QWlmQ05YNFYzRUh3b0dsOXZ6bVB6MGwyVUxEdURiOXNGUkdFeG1aTWdLaHdNYW10NHl1RWRwMjEzQl81QQ?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-02T20:28:12+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "En Foco - Taiwán, epicentro de la carrera mundial por la inteligencia artificial    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "es": "En Foco - Taiwán, epicentro de la carrera mundial por la inteligencia artificial"
+      }
+    },
+    {
+      "title_original": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "title_zh": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-02T20:25:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "G7 to release 100 million barrels of oil and diesel after Trump export ban threat\n- Published\nThe G7 has agreed to release 100 million barrels of oil and diesel in a bid to ease supply pressures that have caused prices to skyrocket.",
+        "The group of advanced economies, including the US, said the move would include a \"substantial release\" of diesel in the coming days.",
+        "President Donald Trump had threatened to ban diesel exports in a move which would have eased pressure on prices for US consumers ahead of November's midterm elections, but pushed up prices elsewhere."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat"
+      }
+    },
+    {
+      "title_original": "Neue Spannungen mit Russland: Wie groß ist die Gefahr für die NATO?",
+      "title_zh": "Neue Spannungen mit Russland: Wie groß ist die Gefahr für die NATO?",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOUZaV1ZVZGtPREhyZ2Vpd0hJMGt6Z0FIdk5Pby1DRjNCNkpEZVZqaXJQdnZDaVJjcWwwaDVPbUFDWWhrY2dScGVjRTF4VTkzQ1pvdDRpWThFcUl3VDBiLWxGT0oxZ3hkUkVja3VVTHZRc3BuVzZwVUhLM3NOd25rX0wwRXFZTXAwY1ZZMi1MeUtVMmdXUi1fYmRULTRNZzBGaWc?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-10-02T19:47:19+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Neue Spannungen mit Russland: Wie groß ist die Gefahr für die NATO?",
+        "Frankfurter Rundschau",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Neue Spannungen mit Russland: Wie groß ist die Gefahr für die NATO?"
+      }
+    },
+    {
+      "title_original": "Kansas enters the chat as Senate map tilts further into red territory",
+      "title_zh": "Kansas enters the chat as Senate map tilts further into red territory",
+      "url": "https://www.politico.com/news/2026/10/02/kansas-becomes-a-surprise-senate-battleground-01105125",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-02T15:28:29-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The Senate GOP’s top PAC is diving into Kansas, a sign that the deep-red state is in play amid a worsening political environment for Republicans.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Kansas enters the chat as Senate map tilts further into red territory"
+      }
+    },
+    {
+      "title_original": "米・ウクライナ復興基金、初の重要鉱物案件合意 レアアースなど鉱床開発",
+      "title_zh": "米・ウクライナ復興基金、初の重要鉱物案件合意 レアアースなど鉱床開発",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLW15bEtIdFdNQkl4LUt0ZHVFa0hib1lJSFQ5V1RGNng3ckFrQi1NTGNrN2JONE5vd2M3eEF1dmE4YlhwTXNxU00yTWF5Vk15VHBseGhLS3lFOVRjTnBVSXZ2T2s3LXNTWVktcWJrRGdBWTQ1TDhxdkhqN1RONVhFMFBqLTI1Zw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-02T19:21:08+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米・ウクライナ復興基金、初の重要鉱物案件合意 レアアースなど鉱床開発    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米・ウクライナ復興基金、初の重要鉱物案件合意 レアアースなど鉱床開発"
+      }
+    },
+    {
+      "title_original": "韓国、ウクライナが謝罪を拒否した場合「さらなる措置」を警告",
+      "title_zh": "韓国、ウクライナが謝罪を拒否した場合「さらなる措置」を警告",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQaEF0M2ZGZHJPajBlT19zN3RiMUU2TlRkQ0V1b2JMV2djWFM4X0hhQ3MxemJzLWk0b1Z3ajRwMFlnbTNIelV0cUxCbVlIbU5YeFJ3N3VpN1JLcE9TNDYtS1FQOTFWaWVkbHJEMkxIWEdjdWRzNDhyVkZSN3ljaHFNYlBxX0hFR1lIZG1IRk45WEV4M3QzS2E5ek12NDBjYlN2NUFrd3RsMDJrRjJBc3QweGE4ZlJ4NkVzQWJ0ZG5kRDlLeVBwOWhEcVE4Yzl5NGdjR0V0Y0ZDSDBibG8zcGtiM2JEb2ZrSU5VN0FYc0tkb2xBMUx6T2VTbTN2NENJX2RSTHM1bnU5ZjdmT0hwalRsQ3l3c2VZeXRRcW5WSkcwU29OREk1RmNUNXp6SHJkLXJQNTBvcG1lOUdUeTVSb3FFSU5SSF9aS2VNUF9IZ0xhOWZYdHFEYTZsVkRfVk50UFdZYjFoM1RIOGRYWmhNWWs1eVBkcnVnMFNhRmk1OThTRlpXLTBZUER3?oc=5",
+      "source": "アラブニュース",
+      "source_score": 40,
+      "published_at": "2026-10-02T18:04:23+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "韓国、ウクライナが謝罪を拒否した場合「さらなる措置」を警告    アラブニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "アラブニュース"
+      ],
+      "all_titles": {
+        "ja": "韓国、ウクライナが謝罪を拒否した場合「さらなる措置」を警告"
+      }
+    },
+    {
+      "title_original": "محاكاة لما قد يحدث في 2030.. تايوان تشعل حربا بين أمريكا والصين وكوريا الشمالية",
+      "title_zh": "محاكاة لما قد يحدث في 2030.. تايوان تشعل حربا بين أمريكا والصين وكوريا الشمالية",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQMDJIelRpbG1CVjl2VXpZbEpJYUhmMGhweW43UEtNaTNfc0dBZnVCMVdaWU5zTlhQc0FUMk5wYzRRT0puSHlteTR1S1VySVZNR1VhQ1JPMTFjVC01TW5KZTR2RUtJcmxoRFNza3FLSVVSblhONHdvVGtVWTFvR2s3T1FkY2p4WlJES21DNXB0bTJhYnJtYkVlVmpweTEzcnZDaTJYb0xtWlJFT01hYnh4QXQ2d20zLXh6UTBTTnQyZVF2d0Z5a2FtamZZYVpPbHpzSExyR3dkbTNpY002T0JNNEFEajUxdE9mbXR2MGROd092UTYtMUJXTG1FaElYWWVSSGhjNWdPQmJLX0lIbkFvbUJzZUZPcVJRRWZsVVl4eTFyeG9xUHE4QnBkaG1PS3U5aHkwTkNaNNIBvAJBVV95cUxPXzB1Q3NuelMtM3ZLVThnbkUxdFIzQzI3ZmFBZ3ZqemJydWpXU1p5cnhKTzhDMWRqc1pYYzVVSXhQN0lTSTRnOEo0VDdNR2Zta2ZQVXlXXzFNdWxwVG1QOHUxVWtRd3Z1NDlwcEMwLW1meGlVVFBpU3ZVdW1Jd0F4ZlZWQnNMZjZRQWJxWHBXd3F0M2dEYUVvMTlReUdqZjhDcm9jcGNTMW5vRnoxQ3hoV3R0Z05kMW1UMk1ZRjB3Y3pNX3RFNWJIYWZPY3JSNmRwX3RZWVlBNmFpSnNvX0FHNTE0WEk5V0wydkJPOHJ3SWNYWkNoZVR4YU1WczR2WVFmMmQ5TnFBSTNxRy1JQUxCRWhUcXRzbXRwVVlyeE45bW5mdnBqX3BlU1NNSXZCS2M2WnlyYjlRTjd6cG5K?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-02T18:03:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "محاكاة لما قد يحدث في 2030..",
+        "تايوان تشعل حربا بين أمريكا والصين وكوريا الشمالية    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "محاكاة لما قد يحدث في 2030.. تايوان تشعل حربا بين أمريكا والصين وكوريا الشمالية"
+      }
+    },
+    {
+      "title_original": "Taïwan: les premiers avions de combat américains F-16V de nouvelle génération arrivent sur l'île",
+      "title_zh": "Taïwan: les premiers avions de combat américains F-16V de nouvelle génération arrivent sur l'île",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd0NKSjFVVDNmZzR1RDR1Z1haWmxET0x6MGNlOWlocFNvOFp1S2dFWHBWMmJnbFExRnBwSm5WRC1TOFRQblU2NE1VOHl3SlMwMDQtZVVObG14eXFJVlBtZlJ0Q3Y2cDBqZExDbnRfTlZKd1NVN2k4Z3NtTk5SUUZOZEUzcmljVTkxSUtVaHVPaWZNc0ZWTW42M09MRnRDOHF1LU9WVHZCaG1oMk4ybzVKMTEzS1ZWXy1OUW9rOWVCZmVNX2ZEOGRLMGZkR1EtN2UzMnlkSHc1Ujd3M0lEWTFGbWtFLVhPa3ZzZm5SOE1PNm1DdGlzRFNGQkVB?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-10-02T17:50:01+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Taïwan: les premiers avions de combat américains F-16V de nouvelle génération arrivent sur l'île    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Taïwan: les premiers avions de combat américains F-16V de nouvelle génération arrivent sur l'île"
+      }
+    },
+    {
+      "title_original": "تدفقات النفط ترتفع... وإيران لا تزال تهدد مضيق هرمز",
+      "title_zh": "تدفقات النفط ترتفع... وإيران لا تزال تهدد مضيق هرمز",
+      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxOUUtCZDU0aFZfZDhNR0R0TlRabXE2ZGkzVDFKSERvM1psTUcxTlF6TDd1OFZLcUtHbFhzb2lSMEo4emF6OHJZUTlVWUV2RjVFUHhJZFYyNnBiZC16T1RRM1dCYmk1LTVOWWpES0FyeVZsNEhJWlZRQmlKOVd1NFZ0OFQ4OG5wWHhDaC1HQkYzallqeHNTdzZmWjVZa0pRdWRHajFmeHNFQW5jcXZ1aUVsUHlkQjhwMEZGYm9GVHZDZUlWN3F1bUNkZXM5QlJUdDBUaVozUExuTXh3TWdSRGJtbm00U3NsaTZXTXBNOHNjU3FyR2lTbG9wOVktTU5aV0QwbVphRnBKZkFneDhHNktSLTZwQmJkOW1ZeDkwYUF5ajRIaV9LTEhPWDFVVGdtaGxpTVRCOWc4YVdQVlZYT3lNWWJkNFBtRnh1bkhYQVA4WkNLamtTVVlnNERreWhyeFdsajNVTDRtd3NEWGQzZWg5OUZyQ053T2huU0VwZUxHbXlmYXVleER0UDRYVGxUZXBxMjBMSTFyYlB5a2ZlX29DcEw5OWNZWlFBZGYzTFM4bHcwMU5qTlllR2tFdDdsaHJHWmZ2dGxvVU4zaEZXeC1qQ3dlemdPTXg0Tk5wSUlXeXdWb3hOc2c?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-02T17:22:47+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "تدفقات النفط ترتفع...",
+        "وإيران لا تزال تهدد مضيق هرمز    الشرق الأوسط",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "تدفقات النفط ترتفع... وإيران لا تزال تهدد مضيق هرمز"
+      }
+    },
+    {
+      "title_original": "Top GOP groups retreat from North Carolina Senate race as hopes fade",
+      "title_zh": "Top GOP groups retreat from North Carolina Senate race as hopes fade",
+      "url": "https://www.politico.com/news/2026/10/02/republicans-slf-scale-back-north-carolina-senate-spending-01104964",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-02T13:03:21-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The Senate Leadership Fund’s decision to pause future spending is the latest evidence Republicans are not confident Michael Whatley can win in a state President Donald Trump carried three times.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Top GOP groups retreat from North Carolina Senate race as hopes fade"
+      }
+    },
+    {
+      "title_original": "Taïwan reçoit ses deux premiers avions de chasse F-16V Block 70",
+      "title_zh": "Taïwan reçoit ses deux premiers avions de chasse F-16V Block 70",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUEU3TkJtMTI0THllUU9ESmR2ckxnbHcyandjV2F1aDJEdk9iMEpod3VYS2RfbU5POTJScVM4cmJ5UXFpa1hIWEdYdmlYVVV1dV82NWdTQTN3LU1POFFRTmxKTjdwSGttcWg3WDhrcXBnT3A4ZDRoNHlRUW4xZjllVE1CMW5FSzZHOUFzZTV6TVo4Y3c2UHZPUTI3UGFJVFc5TFNVNE1DWnBETzQ?oc=5",
+      "source": "aa.com.tr",
+      "source_score": 40,
+      "published_at": "2026-10-02T16:47:06+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Taïwan reçoit ses deux premiers avions de chasse F-16V Block 70    aa.com.tr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "aa.com.tr"
+      ],
+      "all_titles": {
+        "fr": "Taïwan reçoit ses deux premiers avions de chasse F-16V Block 70"
+      }
+    },
     {
       "title_original": "Riot police clash with students as education protests rage in France",
       "title_zh": "Riot police clash with students as education protests rage in France",
@@ -51,6 +676,81 @@
       ],
       "all_titles": {
         "en": "EXCLUSIVE: Carney plans to visit Turkey this month, sources say"
+      }
+    },
+    {
+      "title_original": "في ظل تصاعد التوتر مع الصين.. وصول أول مقاتلتين \"إف-16 في\" أمريكيتي الصنع إلى تايوان",
+      "title_zh": "في ظل تصاعد التوتر مع الصين.. وصول أول مقاتلتين \"إف-16 في\" أمريكيتي الصنع إلى تايوان",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdU8wRGdsUFllQzBaVEFDcms1RDhOR0xFQ2REMTZTandwaFczX0Y0Znk3TlgyZFlhV2dYdG1GNk9JTDdFRmlxa2NNMHNZUDQ5RGNfWUZkN05wV2sxRXBDd2Q1ZE1vbkk1R3BuSlVvc2FCQjBET1hLSm1vLXctUEsyUEo2LXVfU2ROMEE4MjhoRllNNXlJYmtJX2JOS3Q?oc=5",
+      "source": "arabic.euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-02T16:11:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "في ظل تصاعد التوتر مع الصين..",
+        "وصول أول مقاتلتين \"إف-16 في\" أمريكيتي الصنع إلى تايوان    arabic.euronews.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "arabic.euronews.com"
+      ],
+      "all_titles": {
+        "ar": "في ظل تصاعد التوتر مع الصين.. وصول أول مقاتلتين \"إف-16 في\" أمريكيتي الصنع إلى تايوان"
+      }
+    },
+    {
+      "title_original": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "title_zh": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-02T16:08:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates\n- Published\nEthiopia and Eritrea have severed diplomatic relations as renewed fighting in northern Ethiopia raises fears of a wider regional conflict.",
+        "On Thursday, Ethiopia announced it was closing its embassy in the Eritrean capital, Asmara, and ordered 10 Eritrean diplomats to leave the country within 48 hours, accusing them of activities that threatened national security.",
+        "Eritrea responded by cutting diplomatic relations, saying Ethiopia's decision had left it with no choice but to take reciprocal action."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates"
+      }
+    },
+    {
+      "title_original": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "title_zh": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-02T15:30:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87\n- Published\nSpain's Congress has rejected a series of measures aimed at tackling the country's housing crisis, in a defeat for the government of Pedro Sánchez that increases pressure on him to call a snap election.",
+        "Lawmakers voted on two decree-laws presented by the government in response to nationwide protests that have followed the eviction of an 87-year-old woman, Maricarmen Abascal, from her home.",
+        "The decrees, which introduced a series of initiatives aimed at protecting tenants in the rental market, required parliamentary approval in order to remain in place."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87"
       }
     },
     {
@@ -151,6 +851,56 @@
       ],
       "all_titles": {
         "es": "Taiwán, la moneda de cambio"
+      }
+    },
+    {
+      "title_original": "20 مصممة إماراتية يشاركن في معرض الشرق الأوسط للساعات والمجوهرات",
+      "title_zh": "20 مصممة إماراتية يشاركن في معرض الشرق الأوسط للساعات والمجوهرات",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tVFVOZjR0S2xsMlVGMmJvaFJyVHRiMHBDMzN6Z3NKWVBhTjRKdXZUNFF6T2NvREpUNFBKcUhtYzY1YnVRYTVFNy1FU0N4LXJXRzJTLVJJWmVmM2M2TExHY1RKMVdPQmdEN3VV0gFwQVVfeXFMTVE0NDBpTmFuTVBZdF9UUEhBdERIRFlNSGpYWG04RVpvYnF4QWNFN1lUaUU0MDlzalNQN08zSEozZmZMWHFMQ2s4eDZtYlFqLXpjMDFrT1pkb05QSVBqQWxVRzlwTU1iSlpMQnpvMEwyUQ?oc=5",
+      "source": "albayan.ae",
+      "source_score": 40,
+      "published_at": "2026-10-02T14:22:49+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "20 مصممة إماراتية يشاركن في معرض الشرق الأوسط للساعات والمجوهرات    albayan.ae",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "albayan.ae"
+      ],
+      "all_titles": {
+        "ar": "20 مصممة إماراتية يشاركن في معرض الشرق الأوسط للساعات والمجوهرات"
+      }
+    },
+    {
+      "title_original": "Putin pone a prueba las fronteras de la OTAN",
+      "title_zh": "Putin pone a prueba las fronteras de la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU3B3RGVMazRfTlEwLXk0TkZPVnExaS15ZWZuZm91ckFGdHVGQndOYXJwa0p0Z0FqckpZM0I0cDZ6c1ZDVi1TQjVjbElJU0RxMWRzcS1IRU9jQVlVZ3VCN3hVbWFPWnR6ekp0ZDQxSDdNaDdlNTROMHNrTEV1a0t1R2h4OXpEWTBZaC1famh4Yi1xQnRFaUE?oc=5",
+      "source": "Política Exterior",
+      "source_score": 40,
+      "published_at": "2026-10-02T14:10:06+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putin pone a prueba las fronteras de la OTAN    Política Exterior",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Política Exterior"
+      ],
+      "all_titles": {
+        "es": "Putin pone a prueba las fronteras de la OTAN"
       }
     },
     {
