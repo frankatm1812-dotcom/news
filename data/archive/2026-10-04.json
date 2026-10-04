@@ -1,8 +1,808 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T02:33:37.079143+00:00",
-  "count": 35,
+  "generated_at": "2026-10-04T15:48:14.731507+00:00",
+  "count": 67,
   "articles": [
+    {
+      "title_original": "Buttigieg’s midterm blitz is helping him think about his future",
+      "title_zh": "Buttigieg’s midterm blitz is helping him think about his future",
+      "url": "https://www.politico.com/news/2026/10/04/buttigieg-midterms-travel-new-hampshire-01106140",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-04T11:25:52-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Buttigieg is set to campaign in at least six states in the final stretch.",
+        "As he does, he’s refining his message and thinking about what comes next.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Buttigieg’s midterm blitz is helping him think about his future"
+      }
+    },
+    {
+      "title_original": "ウクライナ キーウの橋にまた無人機攻撃 市民に心理的圧力か",
+      "title_zh": "ウクライナ キーウの橋にまた無人機攻撃 市民に心理的圧力か",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50UFBtYk43T3VFb1piU3RfMFV2bnlmWkFzY1pyeHJlODBrZ0JFMWJnZVFNbmtONjdaeGozWkcxR0gwX1pUMTFnd0luZl9ib2ItUGR2TjRzOWRNZlRzUzI0?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-04T14:45:31+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ キーウの橋にまた無人機攻撃 市民に心理的圧力か    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ キーウの橋にまた無人機攻撃 市民に心理的圧力か"
+      }
+    },
+    {
+      "title_original": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "title_zh": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-04T14:36:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "US Marine arrested over murder of woman in Okinawa, Japan\n- Published\nA US Marine has been arrested on suspicion of murder after a woman's body was found in a hotel in Okinawa, Japan, local officials say.",
+        "Japanese Prime Minister Sanae Takaichi described the crime as a \"brutal and heinous\" robbery and murder.",
+        "She said she had urged the US to \"enforce stricter discipline\" of its personnel."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US Marine arrested over murder of woman in Okinawa, Japan"
+      }
+    },
+    {
+      "title_original": "Ataque israelí mata a palestino en Gaza y otras noticias de Oriente Medio",
+      "title_zh": "Ataque israelí mata a palestino en Gaza y otras noticias de Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbTRnZXZndXloNGVFU2JnRzBkWTdxVUZ1UWZBMnRIZDNUai1VUkJpUjAtY1E3a0JxVmFIQ1BoenRBbVNqUl9nTUJoQllMN3ZUX1lnb3otQmVQNnFhemNsUmVnR1pYYWpJbFNzSDdLTlpUby14LUNIOHVkYXctQzdQZFZsN1NqaXZpN0J2SDNPd3cyVWdMSnJxbXQ4a2xHUFhCcWE4?oc=5",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-10-04T13:57:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Ataque israelí mata a palestino en Gaza y otras noticias de Oriente Medio    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "es": "Ataque israelí mata a palestino en Gaza y otras noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "US marine arrested in Japan on suspicion of killing woman, police say",
+      "title_zh": "US marine arrested in Japan on suspicion of killing woman, police say",
+      "url": "https://www.theguardian.com/us-news/2026/oct/04/marine-arrested-japan-suspicion-murder",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-04T13:46:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Suspect allegedly killed woman at hotel in Okinawa as prime minister calls crime ‘exceptionally brutal and vicious’ A US marine stationed on Japan ’s southern island of Okinawa is accused of murdering a Japanese woman and has been arrested on suspicion of murder, police said on Sunday.",
+        "The suspect allegedly “killed [a] 39-year-old woman at a hotel in Naha and stole her wallet” as well as her backpack, local police told news media outlets.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "US marine arrested in Japan on suspicion of killing woman, police say"
+      }
+    },
+    {
+      "title_original": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "title_zh": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-04T13:33:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Ethiopian rebel forces withdraw from Tigray regional capital\n- Published\nRebel forces in Ethiopia's northern Tigray region have said they have temporarily withdrawn from the regional capital, Mekelle, as fighting with the national army moves towards the city.",
+        "The Tigray People's Liberation Front (TPLF), which has been running the region, said its decision to relocate was made because of concerns about risks to civilians.",
+        "Two residents in Mekelle told the BBC that pro-government forces now control the city and TPLF forces have abandoned it."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ethiopian rebel forces withdraw from Tigray regional capital"
+      }
+    },
+    {
+      "title_original": "El portaaviones estadounidense USS George H.W. Bush llega a Phuket tras cumplir una misión en Oriente Medio",
+      "title_zh": "El portaaviones estadounidense USS George H.W. Bush llega a Phuket tras cumplir una misión en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHY0eXNPTjhfRl9UMi1vZTRTTDZsdkFqY0lDcUhfdTQycWhKOV9jV1VFVXNWSk1KZWlKUXZyQ0dCS2I3UUlsdVJ6dzZIaWhvQWlPVjFkWWhnWGw3UFhEaE9mNENZdkxOWDlqYnN5VU4wdktqUFAxUm1saXo1djFkTUZFM2x6emVVeUJXSy0tOFdlWGIxY2NhT2ZHMjlzS3ZOT3JPZG5KUWI?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-04T13:11:13+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El portaaviones estadounidense USS George H.W.",
+        "Bush llega a Phuket tras cumplir una misión en Oriente Medio    ABC",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "El portaaviones estadounidense USS George H.W. Bush llega a Phuket tras cumplir una misión en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Los Reyes visitan Finlandia para reforzar la alianza de España con el flanco norte de la OTAN",
+      "title_zh": "Los Reyes visitan Finlandia para reforzar la alianza de España con el flanco norte de la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRE9aNVdVZ3kzbDVVMXlURUZJZWVWMlYzYWJSNnozZG1QR0dSSEprSDZYTmdXM3NUZW1ZblBhOGI3c3VCMzJHSzB3ZGhyRUJ6RUxTSkxhbk9rYTNQdmJtOXZzTnlFVURXN1dYUUN3UDdWV2lFckF3Ykg5NVBycE1ERkp4ckd0YjBRZFo5SFlQX1RSVTdzN0tQc2UzQXE3cDBzalViLUpmdURweV9mbEljc3g1R3ZYdzFQb196cktaa3RHVDlxQ1l0TXRvbk5vdWQ1VnFpQkdBaWNuZ9IB2gFBVV95cUxQbjFlWkxfaEFObUZBc1ljRzdvOUN5US16S1hOOEc2UHpEemNJY1lqcml1WGpUTkcxWEV5NVNZclV2ak42cmgzb29NSUhRNkVLZkNDUWRYVWI5QWdMVTJJUFZiVXY0TDlXbnN1Z294MF83dlZkSkhsZktESWlfUGd2X3haeEcxTVNnamJpYlNzY01XaWFYN3JtM3Z3MEY3OXhvMU5sZkd3VFVMSVNtZkgxQy1ZYzIxbFBoOGNQMU1uRzNYSlpNdnVfVUJfOHB4Zjctd3RyaDI1dlBjQQ?oc=5",
+      "source": "antena3.com",
+      "source_score": 40,
+      "published_at": "2026-10-04T12:44:53+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Los Reyes visitan Finlandia para reforzar la alianza de España con el flanco norte de la OTAN    antena3.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "antena3.com"
+      ],
+      "all_titles": {
+        "es": "Los Reyes visitan Finlandia para reforzar la alianza de España con el flanco norte de la OTAN"
+      }
+    },
+    {
+      "title_original": "États-Unis, Moyen-Orient, Asie... Eurovanille étend ses activités partout dans le monde",
+      "title_zh": "États-Unis, Moyen-Orient, Asie... Eurovanille étend ses activités partout dans le monde",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVjhhaDhuaVBQVU1sQ2JEaE5WNkRDOFdWenRxcTFRajB3RVZLVm5EdUtzSlVsN21vd2hFV1hpcER0ZmF4SDYtSVJnRGNhMXhSR2ZILU0zdTNQWGl0aFo1MjNKdjNrdlBkVW1qVmEzWWpVNXpJUmJ5UmwxanZEclpPaTZJVnJmR0FSY3BoTXJWQnZnZkYwMnV3dUhZWG9sTXNBVndQajBWYVJZY21tRndudmdrc082MUI1R3gxTTA3UGxSVHg4eUo2TGpLUQ?oc=5",
+      "source": "La Voix du Nord",
+      "source_score": 40,
+      "published_at": "2026-10-04T12:40:19+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "États-Unis, Moyen-Orient, Asie...",
+        "Eurovanille étend ses activités partout dans le monde    La Voix du Nord",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "La Voix du Nord"
+      ],
+      "all_titles": {
+        "fr": "États-Unis, Moyen-Orient, Asie... Eurovanille étend ses activités partout dans le monde"
+      }
+    },
+    {
+      "title_original": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "title_zh": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-04T12:09:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit\n- Published\nMajor bridges in Kyiv have been hit by Russian drone strikes for four consecutive days, as Moscow ramps up attacks on critical infrastructure in Ukraine's capital.",
+        "Two people were injured when the Pivnichnyi (Northern) Bridge was struck on Sunday morning for the second day in a row, while the Pivdennyi (Southern) Bridge was hit multiple times earlier in the week.",
+        "The latest attack came as German Chancellor Friedrich Merz made a surprise visit to Kyiv in a show of support against Russia's continuing full-scale invasion."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit"
+      }
+    },
+    {
+      "title_original": "L'Iran exclut une «solution militaire» à la guerre au Moyen-Orient malgré des tractations qui patinent",
+      "title_zh": "L'Iran exclut une «solution militaire» à la guerre au Moyen-Orient malgré des tractations qui patinent",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaEpUbFk4akxRWmltb2ZKZTRHeVVzWDFtZ3lpRC05c2lrSy1hakNWN015NVhTa2o0NEl5aGJIdGdGZWVOZEI5b0I0ZUxuZDZqU3RacVJhcFBNM1pLaHFOY1ExTElwRHdwd2twQWNySkxXcUpFT3FnUDBQelpycjRsQndTV0t5ajVWQk9MWEFRcTRDZS1FaDhicTlhLUxfeVl6VlZYQW50RWF1c3hmQ0JKWEVSd0ZHSmJBUmM5NlcwcjB4SVF1YldVS1NnU0dkaDhJTWtPTFNkMXZjSmdXR3l6TEZqR1o5bXZQcHc?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-10-04T11:46:42+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "L'Iran exclut une «solution militaire» à la guerre au Moyen-Orient malgré des tractations qui patinent    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "L'Iran exclut une «solution militaire» à la guerre au Moyen-Orient malgré des tractations qui patinent"
+      }
+    },
+    {
+      "title_original": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "title_zh": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-04T11:03:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "What to know about Brazil's election pitting Lula against Flávio Bolsonaro\n- Published\nBrazilians have begun voting in a general election in which the two front-runners for the presidency bear very familiar names.",
+        "The incumbent, veteran left-wing leader Luíz Inácio Lula da Silva, will be challenged by 11 candidates, the most prominent of whom is right-winger Flávio Bolsonaro.",
+        "In the last election four years ago, Lula narrowly defeated Flávio Bolsonaro's father Jair, but the tumultuous aftermath of the election, which saw Jair Bolsonaro convicted of plotting a coup after thousands of his supporters stormed the Brazilian Congress, has had a lasting impact on the nation's political life and this election."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro"
+      }
+    },
+    {
+      "title_original": "La Fiscalía lusa estudia el posible uso criminal de la base de la OTAN en Azores",
+      "title_zh": "La Fiscalía lusa estudia el posible uso criminal de la base de la OTAN en Azores",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT01BWTBZZ09qX0JBZEhWajU3bThia1VQdWtwYVFidVExYWpSa3JrYzM4WFJwbzF2YVNqRDRpT3ZKWUFuTzJseXlUWmV2ZlBvQzlSNHd1NUczVzNHcjA4ZmJPRzNPamJzT0JZMG5IUmJCR3hqcWRORW90a3RWa3ZONjVjTUlKUEduSWRJV1dBN0JEVzJaZkFIYmZoVDRHbThEdmdLYTJ3aW9zaUxBeGQxZG44S096ME1FNGxjS0d3YU5fcUZYZzYxRjBGYWhsaGpWcExKSTBpUG1tV0xpR0M1SmtzWXXSAYACQVVfeXFMUEFPNmRUZXVkWDJRNFVXb1I1ZGxPcURYaXNheWVSUkdMb3NjMTNqZDk1X2w3a2ZWYmExRjJTYW85MWluem9jN0VQeDlRbldVWW1GZEpKZjQ0OC11S3FmZ2JjZkNWenBtejk5Y3I0aXBvc2R6VW5XSmNwTmM2ZnpackJlUkRBdks3RW9Eb2xPOXNVMTJEQ0JBQnZrc2dLVlB2eWxQYU85c0haZnN2TkVfOHVvRHJPTnA1Mi1pYVhrSFFBRDlwUGZQV3JLM1pQdDdCejVZeXNfc3hSX1lfT1ljMGtPV1IycHkteDRrb2pIRXhJblNneHFCeXpUbGgzVGJfVw?oc=5",
+      "source": "La Voz de Galicia",
+      "source_score": 40,
+      "published_at": "2026-10-04T10:45:04+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La Fiscalía lusa estudia el posible uso criminal de la base de la OTAN en Azores    La Voz de Galicia",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "La Voz de Galicia"
+      ],
+      "all_titles": {
+        "es": "La Fiscalía lusa estudia el posible uso criminal de la base de la OTAN en Azores"
+      }
+    },
+    {
+      "title_original": "Un barco chino se niega a abandonar unas aguas disputadas y Taiwán responde con un cañón de agua",
+      "title_zh": "Un barco chino se niega a abandonar unas aguas disputadas y Taiwán responde con un cañón de agua",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYUJOQjEyT1dKM0FhbUxxWWU4cnQwUGN4TU1FSUt6WFVSeUdtSzczSEdiTlhsd0xBd0tFcEstcTVRcTVTQ2xfS2xncm1wX1lVUTJtRkg2a010dkNNVHFRT18wOTBqb1BYZGRxSVJicDlydFZrUVoyQ1R5OVVDRXV6UUhXYzJfTTlCUS1iTi1PU1hiV09ocEJISEpaeGl6WUhxSXpZcF9CWmVOSllDUkxlVUVqc2tfTEJMT2pQS2I2d0JwYVZDTVp4eEY0YkpyMUdhWWs1MlZ2dDVlN3otTm9Ycmdn0gH2AUFVX3lxTE85T3lvc29YV2Z0MzdEUDJibTQzVGxNUkJrUDd0dXlSTUpMYi1kZ3N6VXhYMGowMWxHck41Z0hiRlRGQUlOaDJNWVNDY3dqLTBnb3FKeWgtdjFYaXMydlNtY09IOHRUQ25sSXNtcURJVzcyTEJZZVdlT2dJQVltZDBoUXNuR2tYRG41YTFzRGxDUDZId0Z4OTU5VmFBQlpzZmI5dVd4UnVaenF0RzlIQU1wS09odFFwSzE2a0QtOW5kNDVJOGFUdmdwbTJJZFVneGpBdWFuc3hzem04SmRMU2h1djB1YmI2eEsySG91MU45clRYRWxGdw?oc=5",
+      "source": "La Razón",
+      "source_score": 40,
+      "published_at": "2026-10-04T10:39:50+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Un barco chino se niega a abandonar unas aguas disputadas y Taiwán responde con un cañón de agua    La Razón",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "La Razón"
+      ],
+      "all_titles": {
+        "es": "Un barco chino se niega a abandonar unas aguas disputadas y Taiwán responde con un cañón de agua"
+      }
+    },
+    {
+      "title_original": "Off the Record: Teflon Rutte is on a mission to keep NATO together",
+      "title_zh": "Off the Record: Teflon Rutte is on a mission to keep NATO together",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2JjM1IyclNuaXlhQW9vV0ZzM1JBNHBmemdfc05LTnY0YldDLTR3OG5acXZfdlBtbWJ2VlRETWxDOFhRcU02cE5RU1pXVTgwLUt4b2tqaHl3eEtISXlrak1RY3QwcUNZVjBpaHV3djRuZ0hQY3k0NFFpYnZpR2ZqUlpzakt4MlRDaXVHYW93THJQbUZFaDBtbl9KLTB1TTVIRVI0?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-04T10:02:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Off the Record: Teflon Rutte is on a mission to keep NATO together    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "en": "Off the Record: Teflon Rutte is on a mission to keep NATO together"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : les exportations de pétrole retrouvent leur niveau d'avant-guerre",
+      "title_zh": "Guerre au Moyen-Orient : les exportations de pétrole retrouvent leur niveau d'avant-guerre",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU3R1Z3FGRmJMNjY4R0RoUmZZRmZBTzAzWXNuV19vYW5MYXJfRURERU9wbzNZNy15R1NPOU5SWFRuZGQyRHE4T0tkSFpSV0VheWotT21CaEJkMmVteXB5Qjl3TnNuZGt0b3FSdFg3WjYxOHBNWDFvN0VmVU9UUmQtOVdzbm9HeVpHREJLZ19QZXpidmtGVFA1Z1NXY0tUZkd6RUZFNnVuWXYxOEhsTFFhdjVvbkVSc2hqR2dFOGliV0VtYTlNT1A5bTBqbmNqbXlfcDNpckhnRTNVYm54SnpzNA?oc=5",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-10-04T09:15:08+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : les exportations de pétrole retrouvent leur niveau d'avant-guerre    Les Echos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : les exportations de pétrole retrouvent leur niveau d'avant-guerre"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - Luftangriff auf Kiew während Besuch von Merz",
+      "title_zh": "Ukraine-Krieg - Luftangriff auf Kiew während Besuch von Merz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdm9lRE1hX2djNW5rNk5na1pWMEo0RElNTE5FaktVUFJCVkUwOGJfQVZIU3hhQld3M0hEMG9XMHdSQWlXQ25hSHF3N2RON2tWQng3Qk13Y2NjN19Id1BkYThFU3ZmVTZHNy0zYzdTenBvRzJRalhSMFR3ZGEyNWctTGRJRnJHZ3ZpMnZYQll3?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-10-04T09:10:15+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg - Luftangriff auf Kiew während Besuch von Merz    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - Luftangriff auf Kiew während Besuch von Merz"
+      }
+    },
+    {
+      "title_original": "ロシアがウクライナ首都からの外国人退去を勧告…プーチン氏はジェット式無人機視察、担当者「敵を攻撃し続ける準備はできている」",
+      "title_zh": "ロシアがウクライナ首都からの外国人退去を勧告…プーチン氏はジェット式無人機視察、担当者「敵を攻撃し続ける準備はできている」",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WeWZmS2FIWGNZbnQyb2VITG9Fd0lUdExwb25MYXh2dC1uX21lMUtBQ2M0RGY5OGNUYkZnQlJnSEtYZ3dycHBDZUhBeGpnVE5sYWo5ZGdJQi1LQms0X2oyUDJ3?oc=5",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-10-04T09:08:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシアがウクライナ首都からの外国人退去を勧告…プーチン氏はジェット式無人機視察、担当者「敵を攻撃し続ける準備はできている」    読売新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "ロシアがウクライナ首都からの外国人退去を勧告…プーチン氏はジェット式無人機視察、担当者「敵を攻撃し続ける準備はできている」"
+      }
+    },
+    {
+      "title_original": "قاليباف: هرمز لن يُفتح قبل تحقيق الشروط السبعة",
+      "title_zh": "قاليباف: هرمز لن يُفتح قبل تحقيق الشروط السبعة",
+      "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPWkJEZ01MQ29aNGpVaHRfcWU3S1VOZGUzQmlPSDYxbGozblJWRjFuUlFyVUpzTjV5TktLVjQ0ZWZNTFRLMkRoQWw3ZlVSQWNobWt1TVhJSmxvbHotTEFka1M3ajdpLUExNWZibDNiTlU1MDhGRXozamlfS2RudktsNVJEUnZnZWgzeUxUdkpYX1BJQ29qcy1QdkwxRjE0Zldxcm9GY0VVd0RUWUhSWldrNVA5NnpXSTNJRFhlaXc5TzI3TmhyUm9zbmpYS2dwZHVkcUJmcVFhS21aT25zSUh6elNGM0JNNnZrNDlKc1Yta3A3RVVsRHJJSWpXSHpJczRJWGs2Q0d4T2Eyb1cwOGU0Q1ZUVFIwaDdGOF83V1ZEVC1UZkdhNHVQZUN5THAyV2Z5SlNKSk5YZ2ZqRDJxX3lfb3Y2dUFrRnI3SDZ1ZFA5N0duQXU0UG9vNFZzV05QQVJpb19jU0JhQ1l2Wm5JNEFIejhKM01WZjhwd1M2MjFoclhpbnJNTGVmY3pwcWozZnpSZTJlcWN0QXVUMG53R0NGN0Q2TjRXLUV4RXBscEVrU1htLWEwZG1iWWg1d2ppYWRnVm5BRTlBc3RiUW1yMU5TTjNZRmI?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-04T08:33:03+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "قاليباف: هرمز لن يُفتح قبل تحقيق الشروط السبعة    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "قاليباف: هرمز لن يُفتح قبل تحقيق الشروط السبعة"
+      }
+    },
+    {
+      "title_original": "ラトビア議会選、親ウクライナ与党が勝利 対ロシア圧力の強化継続",
+      "title_zh": "ラトビア議会選、親ウクライナ与党が勝利 対ロシア圧力の強化継続",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsbUJSZ0V0Uld1TldYamNHWXF1Z09vWFBtNXdsWnJXaThkNDdYX2NTSVAtNFhIdkpBVElZN1VyLUZCcUlkRFB5RHF3SDROSnpDWWl4UjlUQnV2U3dfOWNWV3ZjQ0JEMElLemlXVw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-04T08:00:22+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ラトビア議会選、親ウクライナ与党が勝利 対ロシア圧力の強化継続    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ラトビア議会選、親ウクライナ与党が勝利 対ロシア圧力の強化継続"
+      }
+    },
+    {
+      "title_original": "プーチン氏はウクライナ侵攻の「過ち」認められず、元ロシア首相インタビュー",
+      "title_zh": "プーチン氏はウクライナ侵攻の「過ち」認められず、元ロシア首相インタビュー",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Fa2tCeVhydld5dnNjdVB4ODlRc21KWkp1bGxfNXYwajRocUNjemVXcV83X0w5WkNvNExNTGtsYXdxNjVjWUtTTk5aLXVlSDdjeVHSAVRBVV95cUxOcWNZemhJUGc5U3ZwQTMxT1ZmbUstR1c4RlV3c1N3VEIwQkNmME9wNE5wNWlNSE1RQnE4VmZldjNCZmlnVWVROURGVVBodXpnZTRoZTk?oc=5",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-10-04T07:59:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "プーチン氏はウクライナ侵攻の「過ち」認められず、元ロシア首相インタビュー    AFPBB News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏はウクライナ侵攻の「過ち」認められず、元ロシア首相インタビュー"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient: l'Iran déclare aux États-Unis qu'il n'y a pas de \"solution militaire\" à leur conflit",
+      "title_zh": "Guerre au Moyen-Orient: l'Iran déclare aux États-Unis qu'il n'y a pas de \"solution militaire\" à leur conflit",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZkhyenF3RVhSM1dFSnVoSFhTNFRkTUZzZjY4d2tabUpHZlhWQ0owNzJqc3VOVi1TT3VYSG9lOG5wc1kxTU5sQmxJS3AwdkU0a251SERCWjE4SDRWeU5LNGNfemFrR1ZGVUN6a1JQUC1GU1dGeXBUb0R5MjBmTFQxMmw5bWVuaUd4b0lqVnUtTGo5c0JRWm12eFFMd2twY3RmdkpCS2tndlQwRWhDVkN2XzE1MV9PYnFlNl9tMTBrSGRFRFA5OWt5b3B3WlJmX3FQdUQ2Nlo0MUFmVDdKZVZqR0ZQd1J5TWI3cXBOZDZyb05ETlUyM0g4RUFYVGc2ektWVlllZkFkZlNhOXU2?oc=5",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-10-04T07:24:32+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient: l'Iran déclare aux États-Unis qu'il n'y a pas de \"solution militaire\" à leur conflit    BFM",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient: l'Iran déclare aux États-Unis qu'il n'y a pas de \"solution militaire\" à leur conflit"
+      }
+    },
+    {
+      "title_original": "独首相がキーウ訪問 対ウクライナ支援、2400億円追加（時事通信）",
+      "title_zh": "独首相がキーウ訪問 対ウクライナ支援、2400億円追加（時事通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40WVU4dlRjTFVuXzZOOG5rTXR4Z1dUOHA1aGtnTjlGZVJrMWJwZW1EY1k3R0pibEg1UUNJanFwNlZZRE9oU2hrZFpVNkFqc1dpZ3NxQkpXeW1MbG96MkVTV3Fld2V1NVNOajBSUU5XM2RaTW9OdkZ0YjZqU3BWMEk?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-04T07:17:39+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "独首相がキーウ訪問 対ウクライナ支援、2400億円追加（時事通信）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "独首相がキーウ訪問 対ウクライナ支援、2400億円追加（時事通信）"
+      }
+    },
+    {
+      "title_original": "独首相がキーウ訪問 対ウクライナ支援、２４００億円追加",
+      "title_zh": "独首相がキーウ訪問 対ウクライナ支援、２４００億円追加",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iT1pIWEVGTkx2b1BKcEszTDZxaGVnVlJtdG9ENlQ2cmVWS2hELVRCMlRUNVZUVnBYQnQ3SmM0Nk4tOWNfVF92SHlDWmRoQW1qeVFUUVhFWGw4UEFJSEo1SDl5SQ?oc=5",
+      "source": "時事ドットコム",
+      "source_score": 40,
+      "published_at": "2026-10-04T07:16:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "独首相がキーウ訪問 対ウクライナ支援、２４００億円追加    時事ドットコム",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "時事ドットコム"
+      ],
+      "all_titles": {
+        "ja": "独首相がキーウ訪問 対ウクライナ支援、２４００億円追加"
+      }
+    },
+    {
+      "title_original": "Australia investigating Flydubai co-pilot's links to country",
+      "title_zh": "Australia investigating Flydubai co-pilot's links to country",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-04T06:19:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Australia investigating Flydubai co-pilot's links to country\n- Published\nAustralian authorities are investigating the links between the country and a Flydubai co-pilot who attempted to take control of a plane travelling to Israel.",
+        "The co-pilot is alleged to have attacked the captain with a crash axe during a flight from Dubai to Tel Aviv before passengers managed to overpower him and successfully take control of the plane.",
+        "The Australian authorities have not identified the co-pilot, who has been named by multiple media outlets including Reuters, CNN and The New York Times as Hamam al-Hammami."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Australia investigating Flydubai co-pilot's links to country"
+      }
+    },
+    {
+      "title_original": "« La guerre a accéléré les choses » : comment le conflit au Moyen-Orient a poussé Julien à modifier sa stratégie d'investissement à Dubaï",
+      "title_zh": "« La guerre a accéléré les choses » : comment le conflit au Moyen-Orient a poussé Julien à modifier sa stratégie d'investissement à Dubaï",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTWhtd1pNX1FrSFVCY0R1V0tpdlRUenl3c0pHajZhM0VoTFg3eXV4aUN0RmRTVHp3RS1Yc0NncmR3QktGZWp5NG91UkQ2WjkwMmRqOWlkRmYyVFNqRU5heUJYbUJfdXdPODl6ZFhuWmhqUFFnVFVtS1haNldRTENjeFBVTUJqOWtOOU5FbmxiVXhheFJaX3ZTLU94S09xcGhlUnNLUjNtNDFDV3RzbThISVgzVmR6YmhUc0U5Wnh1U0VOTHNCVTFwVzljYXFPSXZYaEdpRTlySFkwNUY2Q212dTk2ZkVURHZZM2pmaUYwZkVJelVqRTNxNFhqdnlNX1ZpX2owUmRIMjJEaC1JazZibTZn?oc=5",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-10-04T06:15:08+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "« La guerre a accéléré les choses » : comment le conflit au Moyen-Orient a poussé Julien à modifier sa stratégie d'investissement à Dubaï    Les Echos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "« La guerre a accéléré les choses » : comment le conflit au Moyen-Orient a poussé Julien à modifier sa stratégie d'investissement à Dubaï"
+      }
+    },
+    {
+      "title_original": "ラトビア議会選、首相率いる親ウクライナ与党が勝利 連立交渉へ",
+      "title_zh": "ラトビア議会選、首相率いる親ウクライナ与党が勝利 連立交渉へ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWE1bnRFMER3R0hQUlhrYm1veU9TVkZlTV8yeVJkbjIwNzFsNm5xNkNpcXg1WjRDZTNKZzFGaHFCZHJKdUQxY015OXgwbS1sc3Z2ZDVBaE5PZmJwa2E2UkRmbjc5RGhVblIxNGdVQWkxdk5STnZTcnJGTU1YWnUtLU8tWUtjQQ?oc=5",
+      "source": "reuters.com",
+      "source_score": 95,
+      "published_at": "2026-10-04T05:56:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ラトビア議会選、首相率いる親ウクライナ与党が勝利 連立交渉へ    reuters.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "reuters.com"
+      ],
+      "all_titles": {
+        "ja": "ラトビア議会選、首相率いる親ウクライナ与党が勝利 連立交渉へ"
+      }
+    },
+    {
+      "title_original": "„Sie wollen, dass wir fliehen“: Russlands neue Drohnenstrategie im Ukraine-Krieg reißt Kiew auseinander",
+      "title_zh": "„Sie wollen, dass wir fliehen“: Russlands neue Drohnenstrategie im Ukraine-Krieg reißt Kiew auseinander",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORncyMHJEc3paYUQtYm1LZ3ZqODhGOVdXZVBCdEdzYnhxR1B5aTUyX3N4bko2bDc1RThEWkN2cUgzcHlldWVDdlRGWFNJVU1LTXNGT3NuSVdpVnNna2M0YmxBMkV6THExUkRtRnNyQk1QY2dtZ3MyUS1lQ1U4Wk0wUjd2QnZPVnpnN0JrNHoyUHBNM1BLODF2aFlhVTFibm1CNy1hY2FYY2EzTW41SG9GV05wRXNKcTdw?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-10-04T05:33:37+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "„Sie wollen, dass wir fliehen“: Russlands neue Drohnenstrategie im Ukraine-Krieg reißt Kiew auseinander    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "„Sie wollen, dass wir fliehen“: Russlands neue Drohnenstrategie im Ukraine-Krieg reißt Kiew auseinander"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Israël confirme avoir visé un haut responsable du Hamas",
+      "title_zh": "Guerre au Moyen-Orient : Israël confirme avoir visé un haut responsable du Hamas",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTzRWekV2OGc3MTRyN1VhQWQ1NzNYRm1TMWNwdE9DWWNRV0NEd0VYTEs0MmVyNnhSY1JqOUxUVGk1OTBWMmdSaUR5eVVsSnlGQ1RXUC1YbkdHVk1fWjJWX0JVRWZXLS12Q0xzeVZaeUZrM0ZXQlBKU212aHNEazIxcTZGeWNvdVBzOTBBdGpack1XcU1zWHlRcEFsbklNZXc0cEdsNFVXcWo3TEQ1WVpfS3ZlNDB2Qm_SAbwBQVVfeXFMT2Q2OWlIMWpiLXQ1SnRIcVpWTFFIaU9VSmZpSTdfT3pPSUoxZTVsZ0wxRGp4blFXR0ZyQmVqSTctc0YxVHdGZW14S3FZWjYzck9pQXNhY1Y2dnh0Q293c19LOW9MNk9YM2ZPUFBUU1J5c3ZUWVZyYVF3Zk9kV1lsbmZxOXlzaE1LT2dEckVTWjRuTWl0azFtUGNqQ0w0cFhKbk0tdU5HaHQ2NzlXNElXXzZfOG1DN3lyRnVwTHE?oc=5",
+      "source": "cnews.fr",
+      "source_score": 40,
+      "published_at": "2026-10-04T05:28:04+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : Israël confirme avoir visé un haut responsable du Hamas    cnews.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "cnews.fr"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Israël confirme avoir visé un haut responsable du Hamas"
+      }
+    },
+    {
+      "title_original": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
+      "title_zh": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
+      "url": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-04T05:00:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Britain under pressure to put tariffs on cheap Chinese vehicle imports ahead of protectionist trade measures Britain’s car industry is grappling with a “difficult trade-off” between China and Europe, as manufacturers struggle to balance the benefits of both markets ahead of looming trade measures that could restrict UK exports to the EU.",
+        "The UK is an outlier in choosing not to put import taxes on Chinese vehicles, even as the US has shut them out almost entirely , and the EU imposes duties of up to 45% .",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets"
+      }
+    },
+    {
+      "title_original": "Nato-Ostflanke: Regierungspartei siegt klar bei Parlamentswahl in Lettland",
+      "title_zh": "Nato-Ostflanke: Regierungspartei siegt klar bei Parlamentswahl in Lettland",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNODM0MV8tSF9YaEJTeUF2TkxYZ21ZbkpDZUZyalhsMFJGZG93UDVyMy1WWVFoSWVQdlloRExKeUlXcTJIbm44MFlKSVRUMm1zTDB5WVFQdEROUWo0SVdiNTltVGlRdEE0R1E1djdxUThWVjNBNXpISWMxTDNBWV92NS1hX3hNeHptUDFVV3VGTzZsNUlyaVhVX1ZR?oc=5",
+      "source": "zeit.de",
+      "source_score": 40,
+      "published_at": "2026-10-04T04:34:21+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nato-Ostflanke: Regierungspartei siegt klar bei Parlamentswahl in Lettland    zeit.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "zeit.de"
+      ],
+      "all_titles": {
+        "de": "Nato-Ostflanke: Regierungspartei siegt klar bei Parlamentswahl in Lettland"
+      }
+    },
+    {
+      "title_original": "Russlands Angriffskrieg: Merz überraschend in der Ukraine eingetroffen",
+      "title_zh": "Russlands Angriffskrieg: Merz überraschend in der Ukraine eingetroffen",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQXpZR3ZGVWNydndDOFljWUtKaUEwYlpvRzBSMGZZWGZhNm9zOC13QkE1alhmS3JWazdKZWlOQjZEQVJuaGdvYXlsODRaMDAzM1N5Q0hKMEdSeEhCeDdRZU5vcGIwYWVEUmdwUV9oaUNDTy1FOGNTN2xOM1lOc0JXMl9jbDd2MlJSTWFodWJQRXMwUGZDb1N6dmpzTkFCOHpuYWN1dkdRT0NEV1ZwejRiOXR1NkUxRmFrVEhmN01od3ZDc1ZlaGdMZl96YmFHanA2OWdSVzJFQVZZaG8?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-04T04:23:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russlands Angriffskrieg: Merz überraschend in der Ukraine eingetroffen    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Russlands Angriffskrieg: Merz überraschend in der Ukraine eingetroffen"
+      }
+    },
     {
       "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（10月4日の動き）",
       "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（10月4日の動き）",
