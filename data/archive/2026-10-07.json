@@ -1,0 +1,882 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-06T17:11:10.001442+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "米中ロ首脳会談に関心、 11月ＡＰＥＣ首脳会議で ＝ロシア大統領補佐官",
+      "title_zh": "米中ロ首脳会談に関心、 11月ＡＰＥＣ首脳会議で ＝ロシア大統領補佐官",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUEJFWGNjNzVwd3A1aWpZeFB3aDNmMm9jWlZPOWJUMjBOZndqZ3lXMnJGcHFsUzM4MVFseUY3THBKRHdNT1dxYVNnMFBCTmhINE9GZzFCSmdLM3BDU2lkdU1wWlZ2Znl0bUsydjRXNEswYkN1RW5MSjJoVjNjM0FFb0JiSHBoUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-06T16:25:38+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "米中ロ首脳会談に関心、 11月ＡＰＥＣ首脳会議で ＝ロシア大統領補佐官    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米中ロ首脳会談に関心、 11月ＡＰＥＣ首脳会議で ＝ロシア大統領補佐官"
+      }
+    },
+    {
+      "title_original": "Is Europe preparing for a wider war with Russia?",
+      "title_zh": "Is Europe preparing for a wider war with Russia?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcWlnNnE1akRlVFR1d0dUX0xRbkxqZl9KV1hQeThobFdENEdOdDRDaGFfaEt1bDNhRDIycmJ2dEpsMHpfWWZfUm8wQnNCajBvd01TVzlQYWwzanp1dEdEdmFTanlPT1BvUWdlNGY5TU52dUMzd2phRDFJZ2IzLS1vWE9vbHpmRERvUFFhWW5fZ3RQZ25TNHYzR1dUOXhsblnSAaQBQVVfeXFMUG9zMEZJNVRycGNtWnozb3Z4T1NmSEhzZnBsal85ZExTdzJVSjFqUlVXZUlPRTZQT3AtTGRXaHZQVDN4WlV0aTFRQ3lEdEUzVXJ1WmJiUUV2ZTZiZlhjSTdSa3NfUXhBUU1qeWhESExTRFZuSVpvUUR0U1A1YlAwcmxHMTZtOTNfNW5XYTJqWVRnd3MwWWk5ZDhxSlpxNEU1ZHNzYTg?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-06T16:22:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Is Europe preparing for a wider war with Russia?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Is Europe preparing for a wider war with Russia?"
+      }
+    },
+    {
+      "title_original": "Kenya confirms its first Ebola death as outbreak spreads",
+      "title_zh": "Kenya confirms its first Ebola death as outbreak spreads",
+      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-06T16:02:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Kenya confirms its first Ebola death as outbreak spreads\n- Published\nKenya has confirmed its first ever case of Ebola - a Kenyan citizen who has been living in the Democratic Republic of Congo for the past seven years.",
+        "Health Minister Aden Duale said the patient, who fell ill a month ago, and was treated in several hospitals in DR Congo, died days after arriving in the capital, Nairobi.",
+        "Duale said the patient boarded a flight on Saturday and underwent normal public screening at the main airport in Nairobi before he was transferred by a relative to a hospital in the city."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Kenya confirms its first Ebola death as outbreak spreads"
+      }
+    },
+    {
+      "title_original": "الإنتخابات الإسرائيلية.. سباق اليمين على حساب الفلسطيني",
+      "title_zh": "الإنتخابات الإسرائيلية.. سباق اليمين على حساب الفلسطيني",
+      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQYmFSckFmOFF3YW5idnREUlNhcXZKVG5wbHFfMUowWkI1Ul92d3FfaWI3QlE4RU5tbzVnU0pzU2J6eUNMeGRYNE42WDZDUWVFYnF3bkNNTG5XS0lNbkE0SURJc2VYOHZGS05EMWFBREpxbTZqd3U0Z2RlOFJLRXZ5RmVfdlFzNWZ0dld5LXRubjRXRks2WnV0Q0FsVXZJd1NwUDJLdV9aM1Nhay1PV3NJaEpxUGxMMzM0U3hlX0Z1NGhrZERDYkhGRGZxVDNPQXpac1Q1V1E3WUFjMXFERUVJckpXRWZEVnlDNEd0cnEtYnF6Qzl2R3ZhRUpBaXlqbjNQcHFUTXduRl9jbm5tNnIxYzBHNG8zNHhWNHptdjQ4XzNjUncwQUxWTE04LXZqM0tQZm5XeGlmMlJmSi1KMVN4REx3YjEyTHQ4SG5QZWk5em5YcnkwMmhfWmFOZnFjdllEVWtLNXA4aGxfQTc1T0o2VG92d0NLSWZzRUNZUERDLXE0R0J2c2l6OFZONkdxSFBLd19CU2Fvb00ycFlZenJha1VDZTNHUE5rcW9lMkdnZnZSS21QZktXVG04WHR6MzVGUVFUbGlIRlZDMklwMnNYcWpYaVg2SXBYNjhDcDdiS3l4QlXSAegDQVVfeXFMTlZvNXl4Uk01ZGk5Ri15UnVTeVJuUEF0M3RwRUVuN3VjaVl3empLUUkxT2NoNjhER2hNSjFmZlJJUEtjUmtjTmIwQjBiN1lfYUpLNGFYTkRQbElaZFllMXd4QVpPM0lSdWJqcmhOb0hqT1dsNXpMTDJDRFAzR1NUNWVjZ0taUXR2VTBlZTV1MnlYUGpGMEtPZENzMGk2R2pKcFRYRFp5ZHBRYUhhMnhFSXMwTzNOWEhxSkdDaV9XNjBHNGRjbDVHbk1pZ1dlT3RzcXoyb1hkYnI1TkRUWnphZHJtUjdMMUpWTFRQdnpUdG1NSkRsa3NTYkpFblVsZl9YSEJObzh5VFlOWWRjdExSN1pJMFRmWTg3OTd5UUhFeHpEWGtuNEpFX3l1dGxQVWl2ZzJPaWFveGJGOTRiZUJkdUhOMkJmUUNoc2FyaDViV0NKZ044YjhHSkhVOVljbjYxN3VGYWsyQlJIelJnTWJiNndLeC1mNGY2Yll1V1ZBU2pMeDV1X2ZsRGJTTjRlT1V6RThZODZ5cm5iVDVBYUZLbUFVQTNlWVRxamo2MWRlUUYwQ094cHRsZlJvMnctYU5KeXRKMVJpSXRaNlczQmt2dGxZS2Rsa2pFSDZJZ0x0aVBnVUs2cEN4OEY?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-10-06T15:37:32+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الإنتخابات الإسرائيلية..",
+        "سباق اليمين على حساب الفلسطيني    تسنیم",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "الإنتخابات الإسرائيلية.. سباق اليمين على حساب الفلسطيني"
+      }
+    },
+    {
+      "title_original": "Les cours du pétrole reculent de près de 2% alors que les inquiétudes concernant l'approvisionnement au Moyen-",
+      "title_zh": "Les cours du pétrole reculent de près de 2% alors que les inquiétudes concernant l'approvisionnement au Moyen-",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdTVOOEprNVEtakRkNmU2VE1QM3d6WjhyMldnOTlidTN3NDZrekxYU3U2d0tzeDl4cmsyMEVqSnROVnVCaG5uZGxWODVhZU4yYXJFV1VQNUJadzI0WnBVVlFaTW16SmxHeXltcTU3Qno3S1VPbk01dDNUSzRDNFVKM2NaM2toaFNrUnhaZWZGSklpYjBqY3M2TE5LWUNwcnE5aHhHSGhWUnhFbzlmaG5kbjNSckdUVmxiWi0wRk9Xdkx2RDNFUGpSajY4Y0Rld1QzWGJ2R1NXVGEyVUwyeWxaTnF1YUo5YzlmYmIzcXBNNlJWV2lvREx0MndhM3dvS01EN2J6LVZOa1VRX2VZS1EtY29tbTB5T2ZLRFhveC05RWs0UUZtWmNzd2ZlZlNrd9IBswJBVV95cUxOZ0N3SzJ6ZU03WTdNb0Y2RTRuU3FqVGJRd2Zsb0FNQ2RFRHFaUkFlMkg3Ymkxd3pWS1NzaEdERU5PZEJjclNDYkxPdTczZG5QOUJtQ19XSUJ3X2RwNHNoamZ6bU4zT2VpNThVYXQ3MkktRVBBY0paZHJlOTJOWElRdW5ZSkRSc1Vua09nNXg5eGlfWlhzd0xTWklLUDVidm1qTDRhdTZqMEZYMnhlbzFPWkt6LTktQ0gyeWp6d2t6VUdFMFZDdVJEOWY5bGJWQnZjYzc1ckFkV3VLZWVGdjNVSHVPSVpoUlRQNFAxajRyanBXMEU0U3I5Y1VFSHhnck54ZnpGcG9aYnd2R2Z2WlZkeFBrS0c4WlR5NjdpTjQ2VUJOUnFrM3pjcGtxQXYxUm0wblJV?oc=5",
+      "source": "Boursorama",
+      "source_score": 40,
+      "published_at": "2026-10-06T15:30:12+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Les cours du pétrole reculent de près de 2% alors que les inquiétudes concernant l'approvisionnement au Moyen-    Boursorama",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Boursorama"
+      ],
+      "all_titles": {
+        "fr": "Les cours du pétrole reculent de près de 2% alors que les inquiétudes concernant l'approvisionnement au Moyen-"
+      }
+    },
+    {
+      "title_original": "视频丨北约拟以无人机和AI应对“可能的俄罗斯袭击”",
+      "title_zh": "视频丨北约拟以无人机和AI应对“可能的俄罗斯袭击”",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xWlhDUXFKMjRpVFE3RlVOcHJRUlU1dzZkYlpKS094YTJpLThCdk4zN3A0R1ZFYXZUWEUwTndrNnIzUk9WWU1xMFo1ckJOOWVDU1J4SUhrcEVHQWM3eWc?oc=5",
+      "source": "京报网",
+      "source_score": 40,
+      "published_at": "2026-10-06T14:53:15+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "视频丨北约拟以无人机和AI应对“可能的俄罗斯袭击”    京报网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "京报网"
+      ],
+      "all_titles": {
+        "zh": "视频丨北约拟以无人机和AI应对“可能的俄罗斯袭击”"
+      }
+    },
+    {
+      "title_original": "غوتيريش من باكستان يدعو إلى إنهاء الصراع في الشرق الأوسط والعودة إلى الدبلوماسية",
+      "title_zh": "غوتيريش من باكستان يدعو إلى إنهاء الصراع في الشرق الأوسط والعودة إلى الدبلوماسية",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KTFREeW5DenNZSWhJWTNuWm94M2dMZEVqRUsxV25iUFJwbVlaNzhsNFViYlBicUxwUTNib2Nqdk9mYjdGTVFiam54OGxaMmJiMXBUeGhwSQ?oc=5",
+      "source": "UN News",
+      "source_score": 40,
+      "published_at": "2026-10-06T14:49:55+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "غوتيريش من باكستان يدعو إلى إنهاء الصراع في الشرق الأوسط والعودة إلى الدبلوماسية    UN News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "UN News"
+      ],
+      "all_titles": {
+        "ar": "غوتيريش من باكستان يدعو إلى إنهاء الصراع في الشرق الأوسط والعودة إلى الدبلوماسية"
+      }
+    },
+    {
+      "title_original": "AfD candidate elected speaker of German regional parliament for first time",
+      "title_zh": "AfD candidate elected speaker of German regional parliament for first time",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-06T14:44:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "AfD candidate elected speaker of German regional parliament for first time\n- Published\nA month after Germany's far-right AfD scored a decisive victory in the eastern state of Saxony-Anhalt, the party's candidate Tobias Rausch has been elected as parliament speaker there too.",
+        "Not since World War Two has a far-right party secured the post of speaker, and protesters outside the building in Magdeburg held up banners saying, \"Never again is now\".",
+        "Although the AfD fell three seats short of a majority in last month's election, Rausch, 35, comfortably won Tuesday's vote with the support of 9 MPs from other parties."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "AfD candidate elected speaker of German regional parliament for first time"
+      }
+    },
+    {
+      "title_original": "NATO-Alarm in der Nacht: Spanische Kampfjets starten wegen mysteriöser Flugobjekte nahe Rumänien",
+      "title_zh": "NATO-Alarm in der Nacht: Spanische Kampfjets starten wegen mysteriöser Flugobjekte nahe Rumänien",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFBEQmp6cFNqS1FLSER3ZDFFT0xJeHd6dDBNVTZ1OVNmV0ozcGNiSkt0N3hBZkMyZ18xWWxBUjBibjVnR2doemJsaDVmQllvd3p0aFpOV1dPNlhJcGMxbEJZeGxKdzZVWlJIMlA3UlhBMFFwd3RzTS0wRkxiQkxSSGo0RVU5aGl2TjM1WHpLRVd2bFp4dUtNbDZSay1wV2FtaHAwaDZNQ0dfSWhjaUpZa1hXMml1dw?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-10-06T13:46:04+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO-Alarm in der Nacht: Spanische Kampfjets starten wegen mysteriöser Flugobjekte nahe Rumänien    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "NATO-Alarm in der Nacht: Spanische Kampfjets starten wegen mysteriöser Flugobjekte nahe Rumänien"
+      }
+    },
+    {
+      "title_original": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+      "title_zh": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-06T13:36:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments"
+      }
+    },
+    {
+      "title_original": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+      "title_zh": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+      "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-06T13:31:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86\n- Published\nUS televangelist Jim Bakker, who built a multimillion-dollar media empire before being jailed for fraud and conspiracy, has died aged 86.",
+        "Bakker and his then-wife Tammy Faye founded a Christian television programme called The PTL Club in 1974, which at its peak attracted 13 million viewers per day.",
+        "The 86-year-old's death was announced on Monday by his second wife Lori Bakker, who described him as \"a pioneer of Christian television\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86"
+      }
+    },
+    {
+      "title_original": "Sweden to deploy Patriot missiles to NATO hub in Poland",
+      "title_zh": "Sweden to deploy Patriot missiles to NATO hub in Poland",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUFc1c0xXaVJWOWFhb0N1MlhwalE0cGd4R0xCdXEtUFUzTE1BeFhTX1ZqMEFCWnlpOTczN0djcFVPU19rb3M2Rjd0X0xPVzB4bUFUTlQ0MDNHdF90VEJrWThjU2llMHI4bFJiQ2VtM3hYWEdTSzJkdmJZX3RJRzB5RFdrZTdZRjl4NEJJcXB5dG55ZXU0SWFEeDZkZV9STUpGRzlVWHlCVFFMeV9pQlE?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-06T12:51:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Sweden to deploy Patriot missiles to NATO hub in Poland    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Sweden to deploy Patriot missiles to NATO hub in Poland"
+      }
+    },
+    {
+      "title_original": "Nigeria mourns 25 killed as military plane crashes into swamp",
+      "title_zh": "Nigeria mourns 25 killed as military plane crashes into swamp",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-06T12:51:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Nigeria mourns 25 killed as military plane crashes into swamp\n- Published\nNigeria's President Bola Tinubu has declared three days of national mourning after a military aircraft crashed in southern Ondo State, killing 25 people.",
+        "Aviation Minister Festus Keyamo on Monday said 32 people had died but on Tuesday the Air Force clarified that 25 people had been killed - five crew and 20 passengers.",
+        "Authorities say the plane was on a routine mission from Benin City to Lagos when it came down in a swamp near a naval base on Monday morning."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nigeria mourns 25 killed as military plane crashes into swamp"
+      }
+    },
+    {
+      "title_original": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+      "title_zh": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+      "url": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-06T12:46:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through the north-east of the Democratic Republic of Congo (DRC), where the outbreak was announced in May.",
+        "This is the 17th outbreak of the highly infectious, often deadly disease in the DRC.",
+        "As of 2 October, 4,082 people had died out of 8,463 confirmed cases in the country since the emergence of the Bundibugyo strain of the Ebola virus, for which there is still no vaccine nor specific treatment."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province"
+      }
+    },
+    {
+      "title_original": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow",
+      "title_zh": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXWDA4bWI5U1dKaE80VF9mYnFHMkh2R1JibTkwNzhoa0ZVRzl4TFdRZ2R5WFJfd2FTeHB1LUg4cWhwZnU4cjlpNFRPZkEzZnNRZDFlSFpOaFJLN0F6aFZSZEM2bkRHRjkwZzR4YjdiX3dhREoxTkNVRWRVUDLSAYIBQVVfeXFMT0hKSERTVUUyMFV6cXpYZnpyNndVaThwMjlrcjZqSmZZOVBjaWlWZTVxbXJVb3JFWTM3T1hMZUdqQWwxeDhiVlc3LUpGaFc2VEFVbW1OR0o3TnJ1MkQyR0tIRjY1YUxsMDdYb3hGQ0xYa3pndFl0TVZNVHR2al91cnU0Zw?oc=5",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-10-06T12:04:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow    CNBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "Russia’s neighbor backs push to lift ban on nuclear weapons, prompting outcry from Moscow"
+      }
+    },
+    {
+      "title_original": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
+      "title_zh": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-06T12:00:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Seven arrested for using Ghanaian banknotes to make 'money bouquets'\n- Published\nGhanaian authorities have arrested seven people for allegedly using banknotes to make so-called \"money bouquets\" and decorate cakes.",
+        "The Bank of Ghana says the practice is illegal and amounts to misuse and improper handling of the cedi, the national currency.",
+        "The arrests, carried out in collaboration with the police, followed a tip-off that led to a swoop on the suspects, all women, accused of selling the bouquets in different parts of the capital, Accra."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'"
+      }
+    },
+    {
+      "title_original": "Ukraine War Escalates as Black Sea Drone Strikes Hit Cargo Ships",
+      "title_zh": "Ukraine War Escalates as Black Sea Drone Strikes Hit Cargo Ships",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2M5SWstV1pod0NLZVJHR2ZOVlViZ1o0c3pOZko0c0xNRklZamlsbVVVeDhxLTVqSnhJRzhtNHItSDlqNHl4MF9YZDZWTml6bGpaaTZIYXF1VVRkR181QTFiZ19JOHl0bkt3TFRDMGZuZkVSNnNHX3V4QlZaUHZvaVVZWEI4cEdFcEhlS0hYOXJCWUt6THBReWpYS0JjWmRFZUFBQXVwQmxZazg1cXk3Q1VTajR0UQ?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-10-06T11:59:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine War Escalates as Black Sea Drone Strikes Hit Cargo Ships    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Ukraine War Escalates as Black Sea Drone Strikes Hit Cargo Ships"
+      }
+    },
+    {
+      "title_original": "Taiwán: calor extremo en Taipéi",
+      "title_zh": "Taiwán: calor extremo en Taipéi",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ1RVOEVRTlBqS241TGh6OFhFRjRuenItbk5CcG5FSnNvQzZSc2F5b2toclZRNW05dVNCVDMwMlQ2eEZOVU4wWGpiQlNZN3ZxQ1NyNUJwWFdVeWdTbVphWWFTUU5wVkIwOHFoU0d5QXowMVdjZVFwYWQyYjZWWG9xUHNFSQ?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-06T10:33:12+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Taiwán: calor extremo en Taipéi    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Taiwán: calor extremo en Taipéi"
+      }
+    },
+    {
+      "title_original": "ウクライナで橋への攻撃相次ぐ 南部ザポリージャ州でも",
+      "title_zh": "ウクライナで橋への攻撃相次ぐ 南部ザポリージャ州でも",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRREZNemYyUkFUYVlvdmNkLWJUeUpDd2d5TG5POFhIWnpKRENXT2lrSExGWGxrZUd4ZUNIZlY2N19ZWDVSVWNtMGktRlVSU09md0pUWmhaQWltSkI3VTdr?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-06T10:25:14+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナで橋への攻撃相次ぐ 南部ザポリージャ州でも    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナで橋への攻撃相次ぐ 南部ザポリージャ州でも"
+      }
+    },
+    {
+      "title_original": "Russland meldet ukrainische Attacke mit rund 650 Drohnen in Moskau",
+      "title_zh": "Russland meldet ukrainische Attacke mit rund 650 Drohnen in Moskau",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOVdESE9yd2MtYjNQckZaMUNTdFZKbDQ2b29PZHRnTnNTbkpXSmRCM0VkRG9fQ1NnTU8yOWxBMUpoUXR6dXhvTVg5aXgzeGtEcDNTTldfeGNOUnpnMVMwSHU5RkNiXzY3OEFRVFpucThUX0EwZGQzVGl4eHZfM3RrcXM0UHlzS25sZGFhZnlXTzNTVEI3X0dFVDNUVTFPOVV3N1Vfa0VGMEtXS2VFQnVCQmxoOFhvZHo0bGNDQV9FaFNMRVdjMDNZTGZQNFoxbVRBSFVpaFI1cnZBbkVDdExTSE1KQ2g?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-06T10:25:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Russland meldet ukrainische Attacke mit rund 650 Drohnen in Moskau    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Russland meldet ukrainische Attacke mit rund 650 Drohnen in Moskau"
+      }
+    },
+    {
+      "title_original": "رئيس فيتول التنفيذي: نحو 12 مليون ب/ي من النفط تغادر الشرق الأوسط",
+      "title_zh": "رئيس فيتول التنفيذي: نحو 12 مليون ب/ي من النفط تغادر الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CZGFnYUlYbllpOGZRSzFHdnp3QXVHVFg5dGp2a1VlYXd1VkpTV0xOVFVIVmJ1amtNeFNRUlFZak00N19aamNobHZQRTNGSElaRXlIMVpOWGtMVUJTZEpiU1hfNTcyMldVbHpmNS1XX3BUQTdzekZwLVRwZjZNa3M?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-06T10:01:29+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "رئيس فيتول التنفيذي: نحو 12 مليون ب/ي من النفط تغادر الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "رئيس فيتول التنفيذي: نحو 12 مليون ب/ي من النفط تغادر الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Les économies africaines résistent mieux que prévu aux turbulences au Moyen-Orient",
+      "title_zh": "Les économies africaines résistent mieux que prévu aux turbulences au Moyen-Orient",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMjhrcG94djVWV3IxVkI1S1NiWHdHa25VRnZwQlVIaWF0MFRLSnRxTmJnWW5PSHF1dVFsZ091blBad1JyZTZCZ2J6R3ViaW5Ud2xtdWk5WGZKZzlTSWlzSzRUZVNNdkExRnJrZ0JEVV9zSkZmajMtUlRnUUlHb1BHb2FBS3ZLSGUxQ0ZNanVqSkZMYlhKam1WOU1naWFkcmJTRWtMZ2hWLUxsdkdYQjlRRzNDMGFFUThPNktCa2QyOXE3akdPNXZGVkdvZFhTOW5vbmMzRkc0dkFGb1Bnb3VQcl9EQnQ?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-10-06T10:00:09+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Les économies africaines résistent mieux que prévu aux turbulences au Moyen-Orient    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "Les économies africaines résistent mieux que prévu aux turbulences au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "Oil, fuel supply buffers are thinning as Middle East conflict continues, Chevron CEO says",
+      "title_zh": "Oil, fuel supply buffers are thinning as Middle East conflict continues, Chevron CEO says",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaWJWU2xXSFpjTHEtWi1hZUZwNnFaWWk0OTVoNGJYWE1wdHp3cFdVWXdibnlUdWV2MmhhakJDWV9fLW1ZSDNEZ0tCZlRzaVRWYlVFbFNZa2poZjB2ZnVVSVQ1emFNVnFWUVJmYUptU3pYNGN5MzQ1UVVUSjlLeGppcHM2THJIbHNCV2FPSmhPREZMdWY1aDFzZ084SUJCaTA1WTd5eDRhQnh5U1BON01wSzltLVFsbXpva3JieExQb19jYTZiYXNpRjJR?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-06T09:23:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Oil, fuel supply buffers are thinning as Middle East conflict continues, Chevron CEO says    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Oil, fuel supply buffers are thinning as Middle East conflict continues, Chevron CEO says"
+      }
+    },
+    {
+      "title_original": "El Rey y el presidente de Finlandia sellan su alianza de seguridad «360 grados» en la UE y la OTAN",
+      "title_zh": "El Rey y el presidente de Finlandia sellan su alianza de seguridad «360 grados» en la UE y la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOak11T3pnNVkxVlB2SXYtaW9SMUZMMnQ5Q0NrbXY5bW1ISGNGcEw1TGZoZlRVRTllbDNLY0lFWFRCbDdnMTVySHg3blN1Yy1DaGJDNGxPNWphTFFpYlNqNG4yT2pJcXh4VUIzN2VXMVZxZGJfaGd6X2pxalZfYTNUMHNzTUN5OHZUbGFQM2tma3YxSE9rdFczcGdvLW5hOHdIWE5IeNIBqgFBVV95cUxOR3hRYlNWaWtXT1Y3eExDeUp1US1ER3FWajVfZ24zLVpXXzd4QWZKeHk4cm9vMkRIY1p2RFpPaVAxaWdqYUZ3eXVhNnRXc0E5OThEZE0tZzlQcGZBSW9PcU9CdDVmTFN2c2hRWUlxQThqZEFfWFprd2F3SVp3Vy1ZTzZqYkZZbHUxSUlrT0ZzTnVYVWNtN0U1SE1fM2N5MUNFbVY4enpKOEJ3dw?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-06T09:02:43+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "El Rey y el presidente de Finlandia sellan su alianza de seguridad «360 grados» en la UE y la OTAN    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "El Rey y el presidente de Finlandia sellan su alianza de seguridad «360 grados» en la UE y la OTAN"
+      }
+    },
+    {
+      "title_original": "As the Russian invasion threat grows, Baltic countries gear up for a fight",
+      "title_zh": "As the Russian invasion threat grows, Baltic countries gear up for a fight",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSE9MM3RwRWlFSEpheW82WXFpNy02Y0JLVllob3NsUWpWVllVcjR5TFRJdng3bUVHMzVmZWd0UUtXTWo5aFdLS3NTLXNnSjdTUEl6Zl9tenFvTDRqSVNzajI3SGpMVTVGYWVWdTZtbEQ1SVF1U0FKU1NsZzFXbGt0MmpMakdGRG0wVnBuYVBZa3lRTFBOejBoMmw2Xy03TC13RURLWFo4c2VkWmtRNlN2MlF6SXo?oc=5",
+      "source": "NBC News",
+      "source_score": 75,
+      "published_at": "2026-10-06T09:00:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "As the Russian invasion threat grows, Baltic countries gear up for a fight    NBC News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "NBC News"
+      ],
+      "all_titles": {
+        "en": "As the Russian invasion threat grows, Baltic countries gear up for a fight"
+      }
+    },
+    {
+      "title_original": "شيفرون: احتياطيات النفط والوقود تتضاءل مع استمرار صراع الشرق الأوسط",
+      "title_zh": "شيفرون: احتياطيات النفط والوقود تتضاءل مع استمرار صراع الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93OWxudmZLOW0zTXY3Zmk2SzV1YVRIZlFHam52eV80b3hHWVBDcE1RMEtVTkFnWDVIc2RoX05yUHRaTDFIUWs5aE1icTNvYTZSNXpJbWFGOGdwLUZPbTl3S2J5a0FLOTZKdlIzYzdTTXRFZUU1dFIwQjA3cno3QTA?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-06T08:59:01+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "شيفرون: احتياطيات النفط والوقود تتضاءل مع استمرار صراع الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "شيفرون: احتياطيات النفط والوقود تتضاءل مع استمرار صراع الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Press Release - NATO Leaders Reinforce Allied Unity and Continued Support for Ukraine",
+      "title_zh": "Press Release - NATO Leaders Reinforce Allied Unity and Continued Support for Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVkNTT3hNNjFGRERic1h6akIwWWVFRWp4UzlCRU51SnJ0N1M1QkhMNW8wbk5XRUlrWE9hdkVqMmt0X3hkRk5ibzR5ZjZoNnQ0SVhWYzY3YjZvU2k4UUw3ZEFFYUxoRnhQZTJzTV9YSUZQLThTcUlIdllKd0ItdW9iN1hKUmN3TTRYVFJHajJnX3NsNlRDYVR6QWQ5blJoakJiZmdmS21CdFBhb3d2clR4RFpDbjhkaURyXzREM2oweXZzSDhoX0l3bko4WW9WR0N6LXAtYkpZUmxIWGxJaG0xQW5rVlVueGE4NGc?oc=5",
+      "source": "U.S. Army Europe and Africa (.mil)",
+      "source_score": 40,
+      "published_at": "2026-10-06T08:09:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Press Release - NATO Leaders Reinforce Allied Unity and Continued Support for Ukraine    U.S.",
+        "Army Europe and Africa (.mil)",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "U.S. Army Europe and Africa (.mil)"
+      ],
+      "all_titles": {
+        "en": "Press Release - NATO Leaders Reinforce Allied Unity and Continued Support for Ukraine"
+      }
+    },
+    {
+      "title_original": "Yemeni military says it has 'secured' Red Sea waterway",
+      "title_zh": "Yemeni military says it has 'secured' Red Sea waterway",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-06T07:43:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Yemeni military says it has 'secured' Red Sea waterway\n- Published\nYemeni pro-government forces backed by Saudi Arabia say they have \"secured\" the Bab al-Mandab Strait at the southern end of the Red Sea, at the start of a major offensive against the Iran-backed Houthi movement.",
+        "The Yemeni military also said in a statement that its forces had captured the Red Sea city of Mokha on Monday afternoon with the help of Saudi air strikes.",
+        "But in conflicting reports, unnamed Yemeni government and military sources later told news agencies Reuters and AFP that the forces had only reached the city's outskirts."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Yemeni military says it has 'secured' Red Sea waterway"
+      }
+    },
+    {
+      "title_original": "النفط دون 100 دولار والذهب يتراجع وسط توترات الشرق الأوسط",
+      "title_zh": "النفط دون 100 دولار والذهب يتراجع وسط توترات الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPYlFUS0V3TTZ6SDRFYWhFNmFCbFpBal9uakRsYlVWdUQwZzJ2V0ZXelRfUFhSc1VrV1RTbDdMXzlHRHM3Rl9GOVlvWWpKZ09PQTcyaFc0dkVsOVFNT0VkNVdIbzRoNWxZVzVNcW80SEhvbm95US1VdkVJVk5QMXBGTDdHMWhiaFhJQmx3WTF0WTBLaGVKS1dMVHVEak53blM1bTIzV2xZblE1S0FBcjZzZmxJclpyQm5raTFiOHdNRWNZLTIycDZKV3huWmhHVVMwVWd4MnpCMFdwN05tNVU1MzhUZm1VVXpqMnhaWFJkX0Y1VFdLSUN4Q3A1enlzekQxelJqak52UGR6bmVySHFJQlN1bWFtRE1qNHpENkhIQ2ZmTnBkeFRnd01OWXdBRWtpTmI3cnZKdlNNcFJFWkF3eElCVk9kUdIBywJBVV95cUxOZDEtSW9tdklFV3dkdlNldFIxQ0FZZUhVTk1rUVdoTUlrSjUwSWhGaEV3Y1N6dklIdV8xTTk4TkVQeW10OUo5NnRvU1hremNocWFhc3k3NTdkTjdKNUI4OUEzbS1ySjVhOGIzMGxuZlZGd1R3NnRvX0RVUmdROGo3ZDByYXBrSEoxa2ZTRHg0MDBRQWpjaWNHczc4N0Q2YzF4TU92bXF2WW5EbVpjeVJnSDI5TFNQWlhSbFp0bUFJOUwwTDlTWXRrRzZ3WW12LVQ4YXJYNEtuYkdxb3k4bUVEX0YxZ0JERm5fZ0JuZnduY1RzbEZieGJlM2ZPNEhOVTQ0WC1FYmVYNWtnYVVQSUZrRE91aXhSaE1jUkFWRG9ZTnJMM09NVkZjSEZTdFMySmU0MDByd3RTdW54am9EYy1PbnVhT3UyR0pMWXJV?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-06T07:43:03+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "النفط دون 100 دولار والذهب يتراجع وسط توترات الشرق الأوسط    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "النفط دون 100 دولار والذهب يتراجع وسط توترات الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "闪评丨美国在北约另拉小圈子埋下分裂“毒药”",
+      "title_zh": "闪评丨美国在北约另拉小圈子埋下分裂“毒药”",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2RwWkFfNU5XMXJyd3FaTWVsN0I1b1Y4eEdNbi1YUE1aMmJsdGlRNk1lNG02TEhKbU10Y3pjWVJ3a1NianNQcTZSdl9PRVd5cHdCYURMdnd0N2sxUVliRVo2NlJ5MFh1VTRzdGFUU3ZLdDlhYXJyRFFVQkNjVmp5Vzc3NUVRRmd6?oc=5",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-10-06T07:10:26+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "闪评丨美国在北约另拉小圈子埋下分裂“毒药”    Sohu",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "闪评丨美国在北约另拉小圈子埋下分裂“毒药”"
+      }
+    },
+    {
+      "title_original": "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro",
+      "title_zh": "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro",
+      "url": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-06T07:00:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Four members of disgraced ex-president Jair Bolsonaro’s family have been elected to office, most notably his wife and son Flávio, who won the first round of voting to be Brazil’s new president The weekend’s elections in Brazil not only put Jair Bolsonaro’s eldest son, Flávio Bolsonaro, in the lead in the presidential race , but also underscored how far the former president has come in building a political dynasty.",
+        "As his far-right senator son heads into a runoff against the leftist incumbent, Luiz Inácio Lula da Silva, a sweeping far-right victory in congressional races also secured seats for Jair Bolsonaro’s wife, two of his sons and one of his brothers.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro"
+      }
+    },
+    {
+      "title_original": "From competing for food to a gold medal: the stories behind India’s Asian Games winners",
+      "title_zh": "From competing for food to a gold medal: the stories behind India’s Asian Games winners",
+      "url": "https://www.theguardian.com/world/2026/oct/05/this-is-india-asian-games-winners-success",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-06T06:30:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "The country’s 85-medal haul included athletes who trained with limited money and borrowed equipment.",
+        "Plus, the Mumbai performer turning everyday absurdities into comedy In a country where cricket eclipses every other sport, the recently concluded Asian Games offered a much-needed reminder of India’s breadth of sporting talent.",
+        "In this edition of the games, in Japan, India won 85 medals : 21 golds, 27 silver and 37 bronze medals."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "From competing for food to a gold medal: the stories behind India’s Asian Games winners"
+      }
+    },
+    {
+      "title_original": "Laly Derai. \"Gaza, qui devait devenir le Singapour du Moyen-Orient, est devenue une usine à terreur\".",
+      "title_zh": "Laly Derai. \"Gaza, qui devait devenir le Singapour du Moyen-Orient, est devenue une usine à terreur\".",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWDJ5MTUwUHgzRXNsUXNHdjhRd2t2aGgwaGdnWkNXdnREams5cmwxZG82Q2xfN1ltMXVNNlFXenUtY3h4ZWVpc2Z2UUY3bXdOT2J5ZzVhdi1Gb3p0QTJMUFBnM1NoQzl3dExVNFRWT3pLVlNHY3hBNldMNVlORThGMVpuQnBTNkFOWVg0Z04tSzdoaUc5M3FDUEhvejA4ajl1MUVJTXZvRWpQVlgtc2dIWUI3UG1jTGFKNjEwR1NzeHZzNVhuVElteHdJVS0?oc=5",
+      "source": "IsraelValley",
+      "source_score": 40,
+      "published_at": "2026-10-06T05:55:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "\"Gaza, qui devait devenir le Singapour du Moyen-Orient, est devenue une usine à terreur\".",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "IsraelValley"
+      ],
+      "all_titles": {
+        "fr": "Laly Derai. \"Gaza, qui devait devenir le Singapour du Moyen-Orient, est devenue une usine à terreur\"."
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Wadephul sieht weitergehende Pläne Russlands",
+      "title_zh": "Ukraine-Krieg: Wadephul sieht weitergehende Pläne Russlands",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRlZCdV9sZmlOM1FXbFJxLXBmUU9XMlhtWHBBYmFyQjJ3ZVRDWlFVRnBydzZJbjNOUTJDaEpDdU9jdHhqeW9ESXh0U1BjR2hwQVJYWDFuaWwtcHpBdC1jYjFreVFNSmRNajJWODllX1M5eUFPNlBMOEZNeXlyZnFhNy1pTXhhTjh1Y194TG50VWlxVGNaU0ozOFk2ODU2UDV0VDRocDNqVXByWGpKRGdTZnZOb2FpOGVwNlYtOWhMRl9CaHRsU0g1S0Q0X1g?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-10-06T05:31:59+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: Wadephul sieht weitergehende Pläne Russlands    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Wadephul sieht weitergehende Pläne Russlands"
+      }
+    },
+    {
+      "title_original": "النفط يصعد مع استمرار التوترات في الشرق الأوسط",
+      "title_zh": "النفط يصعد مع استمرار التوترات في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80dS0tM2lBX0p5SHl0R2doalh4d0hwRmhLZDc2WGsyVjI0VElRZkFRT3h4ZTNyWXBxVFl5OTlpSTltVklBNmZyWFdhT1BWLWR6bXJQUm9ZWU56b0xy?oc=5",
+      "source": "Sharjah24",
+      "source_score": 40,
+      "published_at": "2026-10-06T05:28:50+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "النفط يصعد مع استمرار التوترات في الشرق الأوسط    Sharjah24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Sharjah24"
+      ],
+      "all_titles": {
+        "ar": "النفط يصعد مع استمرار التوترات في الشرق الأوسط"
+      }
+    }
+  ]
+}
