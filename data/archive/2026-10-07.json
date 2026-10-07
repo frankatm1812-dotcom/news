@@ -1,8 +1,708 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-06T17:11:10.001442+00:00",
-  "count": 35,
+  "generated_at": "2026-10-07T02:20:40.785492+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title_original": "Die neue Nato-Luftverteidigung an der Ostflanke – und ein großes Fragezeichen",
+      "title_zh": "Die neue Nato-Luftverteidigung an der Ostflanke – und ein großes Fragezeichen",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeEJUZFlTYXNIdV9lUEljVnVhVG83ekJzSjlENWFpU2xoZE10V0wtN0EyZFlUMWxkU3YxTEw3YWlpTzJRVWk4bUY0dzZfWkdKcVQzbWZ1akVWY2E5SFR5b2RTekRpQ2VlZElRVjVVaWx5aG9NNEtDekRJbmtsaVJ3bkc1dDhGSExvZ0ZyTTZ6d1F6X21Sdjd4Zi1TdllteWlHcXN4dlRwMzNKRHRXNy1DXzFGelUySnl4VzVzZFo2X0JLRkFWTnoxX2hGak9iQkFtSkdTSmctdEdITGsyY1Zj?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-10-07T02:16:05+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Die neue Nato-Luftverteidigung an der Ostflanke – und ein großes Fragezeichen    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Die neue Nato-Luftverteidigung an der Ostflanke – und ein großes Fragezeichen"
+      }
+    },
+    {
+      "title_original": "スウェーデン、ポーランドのＮＡＴＯ拠点にパトリオット展開へ＝首相",
+      "title_zh": "スウェーデン、ポーランドのＮＡＴＯ拠点にパトリオット展開へ＝首相",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGpDVmFyTXRiYk5VeFUtdzUydXRTZWNnajFndnVMV0U0YmM3Zkpac1lvY09ReEFSckQzM01IbTBaVm5kR05nMzdkbldCNFIxbUx4V25lTTBHWHVVUzV6eFNyVHV5Z0NRZklZaVZ5RDJfRTZBMDk2bVFKRUd3NFJNTjRycnY0QQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-07T02:12:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "スウェーデン、ポーランドのＮＡＴＯ拠点にパトリオット展開へ＝首相    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "スウェーデン、ポーランドのＮＡＴＯ拠点にパトリオット展開へ＝首相"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Zelenskyy blames Russia for attack on Bulgarian vessels in Black Sea as investigation launched",
+      "title_zh": "Ukraine war briefing: Zelenskyy blames Russia for attack on Bulgarian vessels in Black Sea as investigation launched",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcngxZ19VTHozclI4bGp4YzBqUm5MTDk1bUJqcFdhZlpuUm92ZklMa3cyOHQxOXlaRXUtSDVxWlh2RWRhUlNxZ0FzSF9CcUdJejF0SS04WVdWZ3BPZUJvdW5kTWxya1RpMWdLRmd2TWhzU0lYTXFHbVhzZXZMV2JwX1A0d1JQeDVDQ3NWOFpIYjBMd282bmlMTEtFQnFCNEdQLW9jRDZRamdPR2pCNkFkaUtXenFLdlpSMXZxZFcwaWNJMUlLNk9SVDdxY2RhcUs0N0FRdXZEcS1IZ0I2WUFTQmFVR3FELVF2WE9rV2ppWUdsTDA?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-10-07T01:22:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Zelenskyy blames Russia for attack on Bulgarian vessels in Black Sea as investigation launched    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Zelenskyy blames Russia for attack on Bulgarian vessels in Black Sea as investigation launched"
+      }
+    },
+    {
+      "title_original": "نفط الشرق الأوسط.. تدفقات تدعم توازن الأسواق قبل الشتاء",
+      "title_zh": "نفط الشرق الأوسط.. تدفقات تدعم توازن الأسواق قبل الشتاء",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE4zekNMcVNoM2FLYlJ1dm1vTnN0SExTSUMwMmN0Vm4zY3VwWFNvMzQxQVZfajNxaGxiT1IwcA?oc=5",
+      "source": "موقع 24",
+      "source_score": 40,
+      "published_at": "2026-10-07T01:01:15+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "نفط الشرق الأوسط..",
+        "تدفقات تدعم توازن الأسواق قبل الشتاء    موقع 24",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "موقع 24"
+      ],
+      "all_titles": {
+        "ar": "نفط الشرق الأوسط.. تدفقات تدعم توازن الأسواق قبل الشتاء"
+      }
+    },
+    {
+      "title_original": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "title_zh": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-07T00:56:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say\n- Published\nUS death row inmate Christa Pike is \"conscious and speaking\" after surviving a failed execution attempt last week, her lawyers say.",
+        "Pike, 50, continues to receive critical medical care while handcuffed in hospital, her attorneys said in a statement on Tuesday.",
+        "Pike, who was sentenced to death after murdering Colleen Slemmer in 1995, survived two failed lethal injections last Wednesday in Tennessee."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say"
+      }
+    },
+    {
+      "title_original": "中東の石油出荷、日量1400万バレル＝ビトルＣＥＯ",
+      "title_zh": "中東の石油出荷、日量1400万バレル＝ビトルＣＥＯ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81WEs3X3dRXzhGMmd3aG5aV2dnVHozdTRtWDdfVlFNekNvU0pHTW5qTjZnVzljbUs0YXdLRl9LT3EzaVpfQzBBckxZd2ktdjhjWHZfNG1YMkZKTWlDOEc5VjRGV0RmX2owMlplYXRLRGdMeFNtTDFOc1ZnNmF3dw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-07T00:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "中東の石油出荷、日量1400万バレル＝ビトルＣＥＯ    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "中東の石油出荷、日量1400万バレル＝ビトルＣＥＯ"
+      }
+    },
+    {
+      "title_original": "俄周边局势紧张 北约在波罗的海转向永久驻军",
+      "title_zh": "俄周边局势紧张 北约在波罗的海转向永久驻军",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNekwtWDZIeXd5Q2FhRlBuZURScTdobHVLRmRtOXdCZUpxTDdyWFoxYkJfS0xUNm50ODcxQlNJZUFON3MwQXFPXzQ1VmU5N29rZGxhV1F3WU1WZU1XMkFuQWRCUmRHUVRkSm8zbE1lcU5KM0VPcDN1UE5kQVJ1UEhwTnBVTkxzdUZI?oc=5",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-10-07T00:11:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "俄周边局势紧张 北约在波罗的海转向永久驻军    Sohu",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "俄周边局势紧张 北约在波罗的海转向永久驻军"
+      }
+    },
+    {
+      "title_original": "الإمارات تتصدر أسواق الشرق الأوسط وإفريقيا في «مساحات العمل المرنة»",
+      "title_zh": "الإمارات تتصدر أسواق الشرق الأوسط وإفريقيا في «مساحات العمل المرنة»",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZWWY2VzhCVExULUFTU0VOYUhQXzNSV2QzV3VTcVJiRk9FZVVFeXBpa3p4enVXTUdtQ0o4dTVCaFVhNWFXa09QMVZlSTN0aF91RXhfS2ttcjNCeVFPazIza1lybHBTUFBMODI5QmUwa1Fqd9IBjAFBVV95cUxNckR6amZuTktKOFFJUEJjeTVteE9ZR0R5QlpQdG5FVWVCQ01iUnoyUzNscWxwY3ptV2YyU0F0M2QydExvQ2NBU25PaEN0MW1IcnZyVzlnWGRpUS1uZVZpYkE1aWVvMmI3TUdvUnJVeU5NQUJXeDVvSEtmTmJfemI1b2UzSlRLQjJJVTFmMQ?oc=5",
+      "source": "الإمارات اليوم",
+      "source_score": 40,
+      "published_at": "2026-10-07T00:05:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "الإمارات تتصدر أسواق الشرق الأوسط وإفريقيا في «مساحات العمل المرنة»    الإمارات اليوم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "الإمارات اليوم"
+      ],
+      "all_titles": {
+        "ar": "الإمارات تتصدر أسواق الشرق الأوسط وإفريقيا في «مساحات العمل المرنة»"
+      }
+    },
+    {
+      "title_original": "الخارجية الصينية تنصح واشنطن بتوخي الحذر في سردية \"غزو\" تايوان",
+      "title_zh": "الخارجية الصينية تنصح واشنطن بتوخي الحذر في سردية \"غزو\" تايوان",
+      "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxNX04yYjloeHBVRTdIV0VjTG5OZkQ0bkxMcTUzMDR5c1doeUhWa1NJX1JhUFNQMmhwQWd1ZVBFU0FXOXFwVXE5cUNsMnlqMUlJVjV3c3F1QmdIMnh4b1JOdGdXbGhTV1FVUldjMjhtSDdJNmFzVE9rS3BvOGRfN2d0TVJ4aUZUNTBSYzk1TVg4dHhwcGw5WXVDQVVIUmFTZzZoSFkyRmRyUkJhdnFDOGRhUjFyYVpoRHJkcmxQckpTcWxSMWpSUG5MV1d1WFJKUUdvVWhuZFlKSjBOTnFwc2xKUWQ5TVpUMzROVy1qUXpieDdtU1V4eW5yVzl4NTBVeXpnUVNHMFpzdDZ6TkhwMHh0QnNESGpzUmo2dmRzQlREczhtUUpMbU4xUHZ3Wi1oa0t4SUN3UjdqTFVNSWVQd2hQOGN2UUtfQjF4Q2lhSkljUGM1SVlDeGNFTUFobDhPd3E3bVo1VWJTdFZILTJ3QXJSMk8xeTBmTFRpQnJUSFVoVVN1TDhOUnMtZlN0NlhFSzNnY1M5N2tVVW83NWl3U29ZM19SVUJMa2dHR2x3TlhNRFQ3ZXh6aWhjdmFQTjJxS242ZzZGVDhsb2RFOGdVOEJhZE45eHZMcF9ITHllQ3VwcExTalBNMmNISFNkSTd4d3lLYVpWUWhQajRhZUVqd2pUQW1nSG1yQQ?oc=5",
+      "source": "العربية",
+      "source_score": 40,
+      "published_at": "2026-10-06T23:57:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الخارجية الصينية تنصح واشنطن بتوخي الحذر في سردية \"غزو\" تايوان    العربية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "العربية"
+      ],
+      "all_titles": {
+        "ar": "الخارجية الصينية تنصح واشنطن بتوخي الحذر في سردية \"غزو\" تايوان"
+      }
+    },
+    {
+      "title_original": "ウクライナ キーウ 1000人収容の巨大シェルターで子どもが勉強",
+      "title_zh": "ウクライナ キーウ 1000人収容の巨大シェルターで子どもが勉強",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMUHRfWmZLWnBFS3JPVnNKRTUzZVh2cUtNNFE2YklWVVYzMktMalhlZTh3azlqQm96SXJVbzlGbk5IazBQY2pxaTJTX3FDYzdWRzZaWFZ6ZzVlbzZSM2tF?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-06T22:51:22+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ キーウ 1000人収容の巨大シェルターで子どもが勉強    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ キーウ 1000人収容の巨大シェルターで子どもが勉強"
+      }
+    },
+    {
+      "title_original": "ウクライナ世論調査「ロシアに勝利できる」およそ8割",
+      "title_zh": "ウクライナ世論調査「ロシアに勝利できる」およそ8割",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54RlhyRHZ2QTlTanAweFljY0RjYTN0NUJEcm1vWjhtOWFNc2hILVdJTHd4ZFZjWi1JR1JNb3hkUTVGMkRDNEdYalhYdzFYQWlvRklvQmZrUjhiWU1UTWY4?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-06T22:47:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ世論調査「ロシアに勝利できる」およそ8割    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ世論調査「ロシアに勝利できる」およそ8割"
+      }
+    },
+    {
+      "title_original": "韓国からの輸出がロシア燃料危機緩和に寄与＝ウクライナ",
+      "title_zh": "韓国からの輸出がロシア燃料危機緩和に寄与＝ウクライナ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZXlUOXlpSnd2M1U2VkNMbnk1ZjFqNV9MZ3RMYzZvTVFzS1A1TlpqdTJTZzQwc3RyR1U0QU4tYVF4dERjRGlORTFBOTM3b0JkaExtM1llNlRMc2REd2htaXNmNUYyV011RUY1dloyTG5wUGljTUpBai0xQWlyN3FwVkFZcHVzdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-06T22:39:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "韓国からの輸出がロシア燃料危機緩和に寄与＝ウクライナ    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "韓国からの輸出がロシア燃料危機緩和に寄与＝ウクライナ"
+      }
+    },
+    {
+      "title_original": "Putin’s Exploding Nuclear Threats May Presage Incursion On NATO State",
+      "title_zh": "Putin’s Exploding Nuclear Threats May Presage Incursion On NATO State",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSGN2VUdDbS1tSWdjSkxPbFpWUkJoenlYVXFyM2M3blJrZUozVTFXaUhQV1N1V2ZhcVJ4TUNvYnJmdndYMm5XamFHTHJ2YlJDNUZISWJoaW1ZYk9kN3h0Y0pjV1NQbHBVelpzczU2VllrdDVkOHRaWXBFeURYdDdRaGg3WGdKTTRWRVdIRzFxRDBsNkltcmg2SUtmTUwtUVFseVlpa2pNY0l2VDdaQk5HUkNWbWRXd0h3bzh0Q2ZfNUJDaW5r?oc=5",
+      "source": "Forbes",
+      "source_score": 55,
+      "published_at": "2026-10-06T22:09:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Putin’s Exploding Nuclear Threats May Presage Incursion On NATO State    Forbes",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Forbes"
+      ],
+      "all_titles": {
+        "en": "Putin’s Exploding Nuclear Threats May Presage Incursion On NATO State"
+      }
+    },
+    {
+      "title_original": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
+      "title_zh": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
+      "url": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-06T22:06:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Justice department detained James Codey Bryant and allege he offered ‘technical advice’ to primary suspect A surprise suspected accomplice has been arrested in connection with a mass school shooting in Canada that was made notorious after an 18-year-old allegedly killed six children after discussing it with the AI chatbot ChatGPT.",
+        "The US Department of Justice said Tuesday it had detained James Codey Bryant, 30, a resident of western Washington state, on a charge of conspiracy to murder persons in a foreign country.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT"
+      }
+    },
+    {
+      "title_original": "كوريا الشمالية تنتقد مبيعات الأسلحة الأمريكية لتايوان",
+      "title_zh": "كوريا الشمالية تنتقد مبيعات الأسلحة الأمريكية لتايوان",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmc2NPQnhGZVRhVjZCQXRIQzhJMkNBcjMzbTRsQmo4MlE4ZnNZV2Z2TVZCMHE2MGRTMV9PRksyRnFkU3VBNDlUeURnYWlDTHNsZzJLakRGbnZMdmNLTFBPc1FRM216QnJpNElScU10ZkxZdk1KNXNXTTFKaw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-06T21:47:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "كوريا الشمالية تنتقد مبيعات الأسلحة الأمريكية لتايوان    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "كوريا الشمالية تنتقد مبيعات الأسلحة الأمريكية لتايوان"
+      }
+    },
+    {
+      "title_original": "El Gobierno autoriza dar 500 millones a la OTAN para la defensa de Ucrania",
+      "title_zh": "El Gobierno autoriza dar 500 millones a la OTAN para la defensa de Ucrania",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOGgyZWkyX2k5bk1jWENiWThuaGkzMEdsRWdCYmRWV1BIYVREbGtmTEFiZl8wYXl3NmliNk5WTk9NU3lxLWNJdjJ3eGdhaG1aUm5LY2dUXzNIVHRhZEF3YkM4TDh2SlhhaW5mSTB3Uk1ueXVfdGtkSmFCWVhET0poRU90b1dXN3hleG5SaXZwalRSZFdRaXdGVy00eFBvNmdjLWFxdHlR?oc=5",
+      "source": "101TV",
+      "source_score": 40,
+      "published_at": "2026-10-06T21:01:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El Gobierno autoriza dar 500 millones a la OTAN para la defensa de Ucrania    101TV",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "101TV"
+      ],
+      "all_titles": {
+        "es": "El Gobierno autoriza dar 500 millones a la OTAN para la defensa de Ucrania"
+      }
+    },
+    {
+      "title_original": "ロシアがウクライナの子どもを「ロシア兵」に、占領地で進む洗脳と軍事化、少年少女が直面する生々しい現実(1/5)",
+      "title_zh": "ロシアがウクライナの子どもを「ロシア兵」に、占領地で進む洗脳と軍事化、少年少女が直面する生々しい現実(1/5)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81MnBqN0N2NUZhRGxWZEtCdGFJT2JWM2J0OFc5c0tiVTBCbTQ1WFYxRzlEUE5LcTBjVDBzckhUdk9FMGx4YWFFcnhHWkFVTEp3MEhiclFB?oc=5",
+      "source": "JBpress",
+      "source_score": 40,
+      "published_at": "2026-10-06T21:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシアがウクライナの子どもを「ロシア兵」に、占領地で進む洗脳と軍事化、少年少女が直面する生々しい現実(1/5)    JBpress",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "JBpress"
+      ],
+      "all_titles": {
+        "ja": "ロシアがウクライナの子どもを「ロシア兵」に、占領地で進む洗脳と軍事化、少年少女が直面する生々しい現実(1/5)"
+      }
+    },
+    {
+      "title_original": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "title_zh": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-06T20:15:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "White House defends Trump comment to let Iran 'take out' LA and San Diego\n- Published\nDonald Trump's remark that Iran could \"take out\" Los Angeles and San Diego has sparked fierce backlash from California politicians - and a strongly worded rebuttal from the White House.",
+        "California Governor Gavin Newsom condemned the comment - made by Trump at a campaign rally in Nebraska - as \"deranged and dangerous,\" while LA Mayor Karen Bass described them as threats and an attempt to \"encourage attacks on American lives\".",
+        "According to the White House, however, Trump was saying that American cities would have been threatened by Iran had he not launched a war there earlier this year."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "White House defends Trump comment to let Iran 'take out' LA and San Diego"
+      }
+    },
+    {
+      "title_original": "سعر \"برنت\" يتقلب مع ارتفاع تدفقات نفط الشرق الأوسط وتصاعد مخاطر هرمز",
+      "title_zh": "سعر \"برنت\" يتقلب مع ارتفاع تدفقات نفط الشرق الأوسط وتصاعد مخاطر هرمز",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQR2RZcGJmaVBqekFZSm41YmlZQ0p4R0Q5WHo0TzYtOEYzbmxDclpSN0R2REVTQjhmZjZ1a3F3NHVrR1Fvd3NDMk1aR2FVTGlaOU9GMGR6Z0ozNmRXc1lMeHctWFZiaEVXRkpvenNfcldKR1RUUUFkR0plV0xTVGM5ZGtLQmJtRW9CVW9scFNQal9pY21WelprcW4zYlBXVFVwVnlpOG1MRlVGdEQ5b1RfQzQwZGlYZ3BoV196MU5oRlJMaWRXZTc5LUlSSk91U2dIcUVCbTR5ZXNSV0RxOE1ibm1uV2lhczUweFRIX2tESVBxYVNxMGk1SllmVHBrczZZZjdrcXNmQTU?oc=5",
+      "source": "الشرق بلومبرغ",
+      "source_score": 40,
+      "published_at": "2026-10-06T20:15:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "سعر \"برنت\" يتقلب مع ارتفاع تدفقات نفط الشرق الأوسط وتصاعد مخاطر هرمز    الشرق بلومبرغ",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "الشرق بلومبرغ"
+      ],
+      "all_titles": {
+        "ar": "سعر \"برنت\" يتقلب مع ارتفاع تدفقات نفط الشرق الأوسط وتصاعد مخاطر هرمز"
+      }
+    },
+    {
+      "title_original": "原油先物ほぼ横ばい、中東供給増とフーシ派攻撃巡る懸念見極め",
+      "title_zh": "原油先物ほぼ横ばい、中東供給増とフーシ派攻撃巡る懸念見極め",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tOS13Z25mSS1zQVZvcEN6cHU4dGJ6UG1RUnl3X0hObFplcGxvY0g4MjM4V3ByUnl2Q2FqUWNLWG8zSTFQamUtOTZ5d29XY0tYNDRhcURJRkpCWHBuY3dDUFVkb01jV0pGVzk1ZTlfVWdqUGhjM3RXQ1k2aWhIdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-06T20:11:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物ほぼ横ばい、中東供給増とフーシ派攻撃巡る懸念見極め    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物ほぼ横ばい、中東供給増とフーシ派攻撃巡る懸念見極め"
+      }
+    },
+    {
+      "title_original": "البنك الدولي: الذكاء الاصطناعي قد يعزز إنتاجية 20٪ من وظائف الشرق الأوسط",
+      "title_zh": "البنك الدولي: الذكاء الاصطناعي قد يعزز إنتاجية 20٪ من وظائف الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxQMDlsMGx3RzExWmd6OGJtRTRKazRabUxzUFZicjZLLTVXWF9TWG5TWDhBUUhUU1U2djM5RzZGeGFKWEJYN3hBVmdORjZXVkNIZEM2Nnh0aFZzblIxekVDbU5fNUI2dFV2bE1pbTNVQ0prYlctcDdOTGJHM1VWeUw2UVNYQTU2cFVfLXNoaG0zSFdUeW55U1gtWmRZc2JOdDh5ckdvVllOY1JIZmZ3bW5LVmNGNHJzNVBRcU1BZjRFUC1NVnVzNFJleFhqQVdIQVJiRnYya2ZKcGhoVzdmbHhIcTBGTUVxOFNaQTlYTkczRDNUUHN0cHMteWtCLVRaaWpoaGxqRklFU3gwXzI5N0ZtVDZkdmZIWm1URWNvV3JFYlZJN0RPWk5IVUhGTnF3VXhtaVQ3RkFPdXpyaEUyd2FwUlpNc3M3ekVLOUJGWnRMNkRUa1RrVjZtMGx0dGpJaE5jNmwyZEJVYTNCazl4R0VkVENJMjlHXzVOc1luWF9SRmlQenREUGFhWGphMzJFdGE1NHZXZ2ZoSWQwSFhpckxQYXVLdmhETlBUTFFNdTlXRnpTWU5xWjN1ME1RMDlvSmpkZ0MtdTlHT3YzM1FzcFhRNndIdzFDdVJpOGR6N1RXRWM5ekY0Uk9wMmk3LUFYNkszUkEwdHdaS1ZLcnZnZEVzR09LSHNFS0tXYlZUNG9nb0paM3dqQ3YzaGdhZlJKdXV3V3B4WFV1YVJVUVBJeUZNVmIyV0YwZkx6VllNdHd4N0VOaTg?oc=5",
+      "source": "Anadolu Ajansı",
+      "source_score": 40,
+      "published_at": "2026-10-06T19:09:19+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "البنك الدولي: الذكاء الاصطناعي قد يعزز إنتاجية 20٪ من وظائف الشرق الأوسط    Anadolu Ajansı",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Anadolu Ajansı"
+      ],
+      "all_titles": {
+        "ar": "البنك الدولي: الذكاء الاصطناعي قد يعزز إنتاجية 20٪ من وظائف الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Selenskyj warnt vor neuem russischen Großangriff",
+      "title_zh": "Ukraine-Krieg: Selenskyj warnt vor neuem russischen Großangriff",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUFpSaUNhSDVTWTM5RkVJVXZnTUlOVEstNGhmMEpXajRZVkNjZVVOWEdtN3Rxck1BaElJdkNVWjBtWl9meURYdEM2dl91VkhLUnVaOE5FeUVGVkhPSkNTbFV3ZnJoN25NUlQ4eFJtUHpTU0doQ2stdkJienJLd1dQTzNBT3FwaHZFbFNHVnZKTWRtOExQYmNua3pkVWh1OUctZTFlWGZvb01SVjJoV0NpNFZERVc3Zw?oc=5",
+      "source": "TAG24",
+      "source_score": 40,
+      "published_at": "2026-10-06T18:49:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: Selenskyj warnt vor neuem russischen Großangriff    TAG24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "TAG24"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Selenskyj warnt vor neuem russischen Großangriff"
+      }
+    },
+    {
+      "title_original": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing am Abend mit KursVerlusten",
+      "title_zh": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing am Abend mit KursVerlusten",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdnZzN3FpRDBtbWJiRVZzQmV4aUU1OTRHMGhsZWFPakg1a3lpczhBcm5WWDZMcDVuZDJRS2hGNlBPb1FUNDE0NlJSZFJkN2dlSkJGcHlsdXV3UUNaQlE2eFBjTGR0RVRHYWs0STFZUmUxLWZBOEd0ZjJSV3BldmtvREFBZ0ZSUEgzQXRzMXUtRnZtSDRYb3l1bmlwTklpQTNBZHBTcEdTTUl5dGdWMTJ5cG5Hd0Rpdw?oc=5",
+      "source": "Finanzen.net",
+      "source_score": 40,
+      "published_at": "2026-10-06T18:28:39+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing am Abend mit KursVerlusten    Finanzen.net",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Finanzen.net"
+      ],
+      "all_titles": {
+        "de": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing am Abend mit KursVerlusten"
+      }
+    },
+    {
+      "title_original": "Swedish Patriot missiles to be sent to Poland to bolster NATO's eastern flank",
+      "title_zh": "Swedish Patriot missiles to be sent to Poland to bolster NATO's eastern flank",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTVUtN3VWR2NvUzRUOHl5MWVRektDNng5WTNkY3J5OFdsV3NuM0h0cXplNG1DTlk1U3RYaG56LTExTERyZVRpclE3bXRNdDFPaWlfd2gybnRhZ0RNcUxUZWU4Y1g5YVpZTW0yTDM2a3UtMVBfVkxNNGh6dnBMU2JCWXJ4dkVROUZrVWRUTm5kcXRkSHJhd3VLM2FWU1JWNXM1cmlqOW1aekF1dXlFeHZ6NDJR?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-06T18:07:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Swedish Patriot missiles to be sent to Poland to bolster NATO's eastern flank    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "en": "Swedish Patriot missiles to be sent to Poland to bolster NATO's eastern flank"
+      }
+    },
+    {
+      "title_original": "Tear gas in Paris and Marseille as school protests grow across France",
+      "title_zh": "Tear gas in Paris and Marseille as school protests grow across France",
+      "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-06T18:03:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Tear gas in Paris and Marseille as school protests grow across France\n- Published\nHundreds of thousands of people have taken to the streets across France, as a wave of protests by high-school pupils spread to their parents, university students and unions.",
+        "Crowds of teenagers marched from the Place de la République in Paris, calling for more resources for schools, and what they called less repression from police.",
+        "Police clashed with demonstrators in Lyon, used tear gas in Paris and Marseille and water cannon in Rennes, but there was little of the serious trouble that marred previous protests."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Tear gas in Paris and Marseille as school protests grow across France"
+      }
+    },
+    {
+      "title_original": "Finland orders halt to work on two Google data centres",
+      "title_zh": "Finland orders halt to work on two Google data centres",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-06T17:15:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Finland orders halt to work on two Google data centres\n- Published\nFinnish authorities have ordered a halt to building work at two planned Google data centres amid concerns over the clearance of more than 300 hectares of forest.",
+        "The sites form part of Google's record €13bn (£11bn; $15bn) investment in Finland, announced less than a month ago and described by the company as its largest single investment in Europe.",
+        "The Finnish Supervisory Agency (LVV) said work at one site was carried out without a mandatory environmental impact assessment and ordered measures that would \"significantly alter the environment\" to be suspended by 23 October."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Finland orders halt to work on two Google data centres"
+      }
+    },
+    {
+      "title_original": "فيتول: 14 مليون برميل يوميا تغادر الشرق الأوسط",
+      "title_zh": "فيتول: 14 مليون برميل يوميا تغادر الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNN3B2dVFyZTc3SndPYnFHQnZreHdTWURXUGpUTC1VTjFSSTdDWUkxclZLWllBaXNlMDllZ0lKVEZDQ2F6VHBUN215QktHaEtYUXlVNFlCejgxSUNJMzBaN1A2Y29rTnpRZmRIMXdZWU1JOWdXal8zZVFzWDAwWlFJd1dBQWRiQ3NpZXpSWVgwV1YzN01QeVQ0RW5JOFRVV0NCakRfRVlCN3NNTUQyM0lYUW1ONEYwcl9manoxeGtvOWptUTVUOXJXRUVPcFZucnRqZmUyY0lyeXJEZGYyUkhFeUd5THotdmNJei1FRFRjbzBXYW0tSG9QaTUyTVE1RUxBSXRwNjlweUMwX0JNdnAxR2szRGFlcVh0SDNtM1BvVnQtZTFjMkRCalFSWlJVVUI5V0RJT3pMU1RSZERHNzZMQ1ByM2NWT0RhakI5Rmc3aHhaZEtE0gHaAkFVX3lxTFBsaVRUVWg4SWsxTmJCM040cW5XVUs5ZEFnMG9OcjhxdlFXTGNYVzRQNG9ROUloZUJURXptZmo3aUhwTkYtakNyZ0w2TWl5LUMwX24wWGhXLUpkVWt1QmpLWV94MlI3ZlkwQ09VdlJVNGpSVWhSdl9GVW1wRmhBUF9YQ3dqa01nT0x1NjFPR2JxOHd6N1ctRVd0eVl1bmtmdmR3ZE1XTEJISl9kUjdiNVNCaDRaaDd6WHhZM210ZzBKTjcwcjhfSUtCd3g5RFgzWTBzU00yd01EODlaWjAtRk9SUzZ5V0NWRC1KUndVZ045S2FrZW5jNEIxUlNxVVNHVnpROVBSakw4TXZQYnlQc2tmbnlxTW04SUpUS0dVc0FYb2ZYMVU4UUl1b05nV08wWnYwczlyeGxrS2dYZHVMMWtJN0V6S0VCOWFFWnhkTXFlMmtpUy1Ibi1ucmc?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-06T16:56:38+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "فيتول: 14 مليون برميل يوميا تغادر الشرق الأوسط    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "فيتول: 14 مليون برميل يوميا تغادر الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Carney to make first bilateral visit by a Canadian PM to Turkey",
+      "title_zh": "Carney to make first bilateral visit by a Canadian PM to Turkey",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcE45alo2THdvd3BuWlBGcE1YSzduSFlqOUZBVzJxZVZXWWp0MFd1dFJmTktCVEV6QjJfNFhpMEpXQ2RzUDVTTGRqWDFZYWJWandaZVhMWERaNGtQQk9Xd0o2S0N5SHI4VmVMXy1sYUltbEFyNWhBam52RW4tMzFkcER2X1M2MzZ3cEV0dC02Mi1tWUVCMnc?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-06T16:43:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Carney to make first bilateral visit by a Canadian PM to Turkey    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Carney to make first bilateral visit by a Canadian PM to Turkey"
+      }
+    },
     {
       "title_original": "米中ロ首脳会談に関心、 11月ＡＰＥＣ首脳会議で ＝ロシア大統領補佐官",
       "title_zh": "米中ロ首脳会談に関心、 11月ＡＰＥＣ首脳会議で ＝ロシア大統領補佐官",
@@ -126,6 +826,31 @@
       ],
       "all_titles": {
         "fr": "Les cours du pétrole reculent de près de 2% alors que les inquiétudes concernant l'approvisionnement au Moyen-"
+      }
+    },
+    {
+      "title_original": "Les guerres de l’empire américain au Moyen-Orient",
+      "title_zh": "Les guerres de l’empire américain au Moyen-Orient",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWk1yWkprdW54bG00aElGZG55a3Rnd21YSG9Ld3Ffd19kbTBGR08wMnllVmFpOWh6aU85cmVKd3hhM01ob2JPV0kyeUd1ZDA0UF9OdVhLaFNNNUZ3ZTRCR1FLNHY1V19VS25fYkxJamlEclJ0X1d0cGFBNzBaN29VWmUtVlY?oc=5",
+      "source": "Presse-toi à gauche",
+      "source_score": 40,
+      "published_at": "2026-10-06T15:21:47+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Les guerres de l’empire américain au Moyen-Orient    Presse-toi à gauche",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Presse-toi à gauche"
+      ],
+      "all_titles": {
+        "fr": "Les guerres de l’empire américain au Moyen-Orient"
       }
     },
     {
