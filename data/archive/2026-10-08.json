@@ -1,8 +1,558 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-07T17:49:20.101288+00:00",
-  "count": 35,
+  "generated_at": "2026-10-08T02:41:33.471100+00:00",
+  "count": 61,
   "articles": [
+    {
+      "title_original": "Iowa’s Ashley Hinson slams the savings habits of millennials",
+      "title_zh": "Iowa’s Ashley Hinson slams the savings habits of millennials",
+      "url": "https://www.politico.com/live-updates/2026/10/07/congress/hinson-faults-millennials-on-saving-01111399",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-07T22:08:43-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "In a debate, the Iowa Republican candidate for Senate said millennials are “the worst group of savers” during a discussion about Social Security.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Iowa’s Ashley Hinson slams the savings habits of millennials"
+      }
+    },
+    {
+      "title_original": "النفط يرتفع مع استمرار المخاوف إزاء إمدادات الشرق الأوسط",
+      "title_zh": "النفط يرتفع مع استمرار المخاوف إزاء إمدادات الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOT25jME9lQnZFMXM1VzUxZUtESlZaMk5kekk0SldkZEQ3enlZSkV4aS1ycnltN2hVOFJGekVpcnh0QjBfaDc3MF9qbkxKZHlZNW1GLV9qWXE4b3Mzem5OVlQtaWZBQjctUkItaWthbWFoU0RvSHpSQ0VXYmFCU0k?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-08T02:06:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "النفط يرتفع مع استمرار المخاوف إزاء إمدادات الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "النفط يرتفع مع استمرار المخاوف إزاء إمدادات الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "原油先物は反発、中東の供給懸念続く 船舶攻撃が増加",
+      "title_zh": "原油先物は反発、中東の供給懸念続く 船舶攻撃が増加",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lNW1WV3VzMEQ0TlNUMXFWRVg3cEtyUEdDaXNKZTdGMFNaX3ctUGdnQVVfTDZlSWV0dnlvc3oycjZPaFpsX0t5eFRlenlvd2ZpR0NGXzFlenRHdTdiWVZpdUxXVlJ4LXc4WFhDaXB3aXJ5NkRPc3B5OWV3Q0F2QTg?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-08T01:44:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物は反発、中東の供給懸念続く 船舶攻撃が増加    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物は反発、中東の供給懸念続く 船舶攻撃が増加"
+      }
+    },
+    {
+      "title_original": "ドイツ極右ＡｆＤ、極左政党と州議会で共同動議 ウクライナ軍事支援の打ち切り要求へ",
+      "title_zh": "ドイツ極右ＡｆＤ、極左政党と州議会で共同動議 ウクライナ軍事支援の打ち切り要求へ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPME05ZnJzRFpzWUh4d1Fqcm9PTzZ1cGNHY0RBN00zeFV4bllrQmUwOWd5SHotbGxkVS1YdHlKRTZqdTRRZ0J5R2tVUFNwU0d0dmQ4VEZ0NEtHMHdsSXpTeGtVcFF3aGwwYzhXYzl2TVNtbktDQTIyNkM0QzJ3dWxQdkpOc2d0UQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-08T01:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ドイツ極右ＡｆＤ、極左政党と州議会で共同動議 ウクライナ軍事支援の打ち切り要求へ    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ドイツ極右ＡｆＤ、極左政党と州議会で共同動議 ウクライナ軍事支援の打ち切り要求へ"
+      }
+    },
+    {
+      "title_original": "ロシアによるウクライナ大規模攻撃の死者 25人に増加",
+      "title_zh": "ロシアによるウクライナ大規模攻撃の死者 25人に増加",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3Z3VwUmx3WnR5UjNXNHAzckduMkNIUktUd2R6OXV0SFdES0hEOW9nMmo4QjY1RlFDeWdqaVB1RnpJTmhLb1lSYzRVUXE1TU93NVB1YjVzaWsxVXUxMEVZ?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-08T01:27:29+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシアによるウクライナ大規模攻撃の死者 25人に増加    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシアによるウクライナ大規模攻撃の死者 25人に増加"
+      }
+    },
+    {
+      "title_original": "日本語弁論大会復活へ 戦時下ウクライナ7年ぶり",
+      "title_zh": "日本語弁論大会復活へ 戦時下ウクライナ7年ぶり",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lX1JRanMwU214clpoaUsxWE5KdzNpMy1JVWtVN1MzTV9jYmR6V2QyOVoxckQySzJDOGpQOHVjRThfc0d2RWpxZFNzUQ?oc=5",
+      "source": "47NEWS",
+      "source_score": 40,
+      "published_at": "2026-10-08T00:39:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本語弁論大会復活へ 戦時下ウクライナ7年ぶり    47NEWS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "47NEWS"
+      ],
+      "all_titles": {
+        "ja": "日本語弁論大会復活へ 戦時下ウクライナ7年ぶり"
+      }
+    },
+    {
+      "title_original": "البنك الدولي لـ«الشرق الأوسط»: انحسار صدمة «هرمز» يدفع نمو السعودية لـ7.9 % في 2027",
+      "title_zh": "البنك الدولي لـ«الشرق الأوسط»: انحسار صدمة «هرمز» يدفع نمو السعودية لـ7.9 % في 2027",
+      "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxNTXFOT0hSWjUzYVRTU1RhcDNZYThMUVUzQXFBbDNTR3JkcndJNGx4MWNVUl9EUFZwdUpOd3ljMTVVTnNnZFVPZVFxZ25WNUJ1SE1wRGtvd3VReVFXSm1HenpEOWc4T2JmXy1zanVWd0U5cFVMN1pvZkVabmxSVG44aFZ2V2daQVBabU1kajFfVWxhM2d0MzhTanE4OFpTbDZrc1FYSlNoalN1Z1pzbkc5Y3J2NmMzX3NOUkdxdk14XzI3elFyTjZTcW5HUHhIZHJZUUJiZ0hwVEJaZVpadVpLbF90YTQ3UXB3LW9BaFZ2VUdBMHFxbzQ2cDRSQzBTS1U0QUNYdTJ1NjJBMFRQdVZsN3dhMTJCS0wyMVhXNW9rMTY2b3d2dnNkR1ZuVkVGVHVWNlFubDJQdWpwSzY2Zk01cE5HVzlZRU5OV1JaR3JXNXp1SEd1UV9XRnU2NFpXbEEtY1dDdS1QYUhjU1hhdzFwYUF2RTZXQU1KcEZlSTFMSFBfc0pWV2stblNYdy1sNy1XSHVVeUdBTFBQYVZiZ25yZXFMckdOU2VldjhkdS1MalVXSmlfcVRGdzJtN25NcHlSMkhNdlozRmJ6OU5rb3d0UlREQnY3RGo3WF84Y1d1OWZ2eGxuWHhYaE1wYVlXWGxVVnVaY3Jna1RuTVpZQVoxWDlNeTRnUndQZGhKYndnd29EQlJhS1d3UXR5MkltbG1TM1haTE1QclBCcFkwc0pqeFJTeTZfazVEVERmTXl6TmM4d2V0RWs5OVltdlVZelNkV2NQTS1UQlUteXN4Y2FRV213?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-08T00:38:30+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "البنك الدولي لـ«الشرق الأوسط»: انحسار صدمة «هرمز» يدفع نمو السعودية لـ7.9 % في 2027    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "البنك الدولي لـ«الشرق الأوسط»: انحسار صدمة «هرمز» يدفع نمو السعودية لـ7.9 % في 2027"
+      }
+    },
+    {
+      "title_original": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "title_zh": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-08T00:09:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Spanish pensioner whose eviction sparked nationwide protests dies, union says\n- Published\nAn elderly woman whose eviction sparked nationwide protests over Spain's housing crisis and a political row that triggered early elections has died, according to Madrid's tenants union.",
+        "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years on 23 September after she was unable to afford rent increases.",
+        "The company that owned the flat later offered to allow her to return at a lower rate - but she was unable to sign an agreement as she had been admitted to hospital."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spanish pensioner whose eviction sparked nationwide protests dies, union says"
+      }
+    },
+    {
+      "title_original": "ウクライナ各地に大規模攻撃で28人死亡、プーチン氏誕生日に「卑劣な攻撃」とゼレンスキー氏（ロイター）",
+      "title_zh": "ウクライナ各地に大規模攻撃で28人死亡、プーチン氏誕生日に「卑劣な攻撃」とゼレンスキー氏（ロイター）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wVkJvSzZjcUZoSl9acmJYTDlQdUVZQnliMzFPSHUzM29QZHNYaHhmZlJHcDFHcUc1SkEtczFyUTVJcWtXSFZpZ2E0R3pySDRuZjFDWVZqeFlWNUVoLVBFZzhlcy0tWTNPOGNpb2F1aUJ0RERsQ04tamJJaEJSTzA?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-07T23:26:25+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ各地に大規模攻撃で28人死亡、プーチン氏誕生日に「卑劣な攻撃」とゼレンスキー氏（ロイター）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ各地に大規模攻撃で28人死亡、プーチン氏誕生日に「卑劣な攻撃」とゼレンスキー氏（ロイター）"
+      }
+    },
+    {
+      "title_original": "韓国、国内港でロシア向け燃料積み込まれたとのウクライナ報道を否定（ロイター）",
+      "title_zh": "韓国、国内港でロシア向け燃料積み込まれたとのウクライナ報道を否定（ロイター）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zUjhmcEdlYy1helBna0FTSnRVWHdPQU56WkdaU044M0F6QlliemRBSFVtWG1wUEhJb2JXM2p4Nnl6ZGpaMm9abUdMS29JTktHYTRucTdUcmdQWjNXa0tkTHlJcFp3MHRRdWtqanhCVS0yRWZRN3RvMlFramtiV1k?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-07T23:21:45+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "韓国、国内港でロシア向け燃料積み込まれたとのウクライナ報道を否定（ロイター）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "韓国、国内港でロシア向け燃料積み込まれたとのウクライナ報道を否定（ロイター）"
+      }
+    },
+    {
+      "title_original": "「特別軍事作戦」を仏教界も後押し 背景にはトゥワの複雑な歴史",
+      "title_zh": "「特別軍事作戦」を仏教界も後押し 背景にはトゥワの複雑な歴史",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TNnpwWk96alZMX0ZYYkJEUF9fY2NXdVZ6VjZqcDB5Mk1KYWdhcW9SQk5NeEtCRU1VS09RTi13Uy02eUFCbkowalcwWjhJTGdYRThldks0NXVqVlo1VDhHYUhTdllqQ0Jt?oc=5",
+      "source": "毎日新聞",
+      "source_score": 40,
+      "published_at": "2026-10-07T23:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "「特別軍事作戦」を仏教界も後押し 背景にはトゥワの複雑な歴史    毎日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "毎日新聞"
+      ],
+      "all_titles": {
+        "ja": "「特別軍事作戦」を仏教界も後押し 背景にはトゥワの複雑な歴史"
+      }
+    },
+    {
+      "title_original": "La República Checa presenta el sistema antiaéreo SPYDER de Rafael",
+      "title_zh": "La República Checa presenta el sistema antiaéreo SPYDER de Rafael",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTVlTSW9GWFdHWXNEUU9SRnlKZmtBTTdYczZCODk2NkdsTkVzWU84SElnVUl2dXZYUlpqRUdCZDdLWnRVdEpkQUJqR3JOeFNkQm1GUjhzaEl4ZHdodGdMUFdSZGZQRjhHcFlZT094c2V0cXVWLVc3Vm1UeGlvQnRKQll5OFFKMUZWQXZMc2hYVGhKenI3ZURZWUxYQ1B0dDRa?oc=5",
+      "source": "Defensa.com",
+      "source_score": 40,
+      "published_at": "2026-10-07T22:12:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La República Checa presenta el sistema antiaéreo SPYDER de Rafael    Defensa.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Defensa.com"
+      ],
+      "all_titles": {
+        "es": "La República Checa presenta el sistema antiaéreo SPYDER de Rafael"
+      }
+    },
+    {
+      "title_original": "「韓国がロシアを助けた」とするウクライナに…青瓦台「事実と異なる、ロシア制裁履行中」（中央日報日本語版）",
+      "title_zh": "「韓国がロシアを助けた」とするウクライナに…青瓦台「事実と異なる、ロシア制裁履行中」（中央日報日本語版）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kNE1SQ01kYmp3cnRTcnh4Nl9lai03NFNzN2RNRmNRNmc5U1pYWlZCV1haS1M4QzVXRHZmZXM1aGRfWU1yT2VRZE5MWlFRbjRBejdUV2gwaFJaSy1sd1Q3d3YtcXczdFRTaGNoRVBzMjI0aVJmN0s2UnF6Q3lDSWc?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-07T21:51:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "「韓国がロシアを助けた」とするウクライナに…青瓦台「事実と異なる、ロシア制裁履行中」（中央日報日本語版）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "「韓国がロシアを助けた」とするウクライナに…青瓦台「事実と異なる、ロシア制裁履行中」（中央日報日本語版）"
+      }
+    },
+    {
+      "title_original": "Nostalgie, résilience et tensions politiques : Israël rend hommage aux victimes du 7-Octobre",
+      "title_zh": "Nostalgie, résilience et tensions politiques : Israël rend hommage aux victimes du 7-Octobre",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNm9iT2UwSkUyVzN1by1WRWhvbDB1cjJLS1lncHQyNGd5OVJtVENGOUJXTC1SQWJvZzcyOXJfVVJ4VE5IUTRhTmNsVUF2OU9UUlVJYzN5OXppVms0d1RGbkZETTNjemlERnFWc2JHWmlZRl9VNjdwYmdzMTI1bmtwdkFMMTZtOWVHZ0FPWmVkRGttblpFQ2RmUmwxOVVKX3hyOUFnVmE4N0ZnVjZoTFV5RXljZTRycTdyUU1IWnF5YmtKWGN6bTJkbnU4RHp5VDJ3VjRiNHJsUUk5b1hlTWxxWkpGdndjNThXOWRIWjBuUTVHOWJ0?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-07T21:37:27+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nostalgie, résilience et tensions politiques : Israël rend hommage aux victimes du 7-Octobre    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Nostalgie, résilience et tensions politiques : Israël rend hommage aux victimes du 7-Octobre"
+      }
+    },
+    {
+      "title_original": "Blakeman’s campaign finance mess",
+      "title_zh": "Blakeman’s campaign finance mess",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/07/blakemans-campaign-finance-mess-01110884",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-07T17:19:52-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Blakeman’s campaign finance mess",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Blakeman’s campaign finance mess"
+      }
+    },
+    {
+      "title_original": "ロシアがウクライナにあるJT子会社の工場を攻撃 | NHKニュース | ロシア、ウクライナ情勢",
+      "title_zh": "ロシアがウクライナにあるJT子会社の工場を攻撃 | NHKニュース | ロシア、ウクライナ情勢",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xN1hOUTdyTkxyU00wb2stazE1MXNhTkZpTG1NZ3NwT2VTVXZaVXRNYl93ekI2LXBvRlhKdloxYlRRTzdpdi0weDEzcW5RcGRyVVBhRV94UG1VeXVJX0tF?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-07T20:41:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシアがウクライナにあるJT子会社の工場を攻撃 | NHKニュース | ロシア、ウクライナ情勢    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシアがウクライナにあるJT子会社の工場を攻撃 | NHKニュース | ロシア、ウクライナ情勢"
+      }
+    },
+    {
+      "title_original": "Chinese runner dropped by sponsor after riding bike during marathon",
+      "title_zh": "Chinese runner dropped by sponsor after riding bike during marathon",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-07T20:29:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Chinese runner dropped by sponsor after riding bike during marathon\n- Published\nA Chinese fitness influencer has been dropped by her sponsor after she apologised for riding a bicycle during the Berlin marathon.",
+        "Sun Yuanyuan, known as Abeeeer on Chinese social media, had claimed a personal best during the event which was held in September.",
+        "But an Instagram page dedicated to monitoring inaccurate or misleading race times posted by influencers published a picture which appeared to show Sun on a bicycle between the 35km and and 40km marks."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Chinese runner dropped by sponsor after riding bike during marathon"
+      }
+    },
+    {
+      "title_original": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+      "title_zh": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-07T20:27:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Israelis mourn 7 October attack victims three years after deadly Hamas raid\n- Published\nMemorial events have taken place in Israel on the third anniversary of the devastating Hamas-led attack there that sparked the war in Gaza.",
+        "Families paid tribute to their loved ones at some of the sites where about 1,200 people were killed in the assault and 251 were taken hostage.",
+        "\"The nation unites on this day in the longing for our dear ones,\" said Israeli Prime Minister Benjamin Netanyahu, who faced calls from protesters for an independent state inquiry into security failures that day."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israelis mourn 7 October attack victims three years after deadly Hamas raid"
+      }
+    },
+    {
+      "title_original": "L’OTAN continue de renforcer la coopération pratique au travers du Centre régional OTAN-ICI (Koweït)",
+      "title_zh": "L’OTAN continue de renforcer la coopération pratique au travers du Centre régional OTAN-ICI (Koweït)",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS1hEWDdZNExrdGdHM3k0TnNmSmdTc1lUeXQ4SFY4c3VUN20xYkltaHd6RDhqbU9MM2ZvRFJjcFV1MEV1cjhvSHlSNWhlNFE4UExFWlBEcWZjOEJzMjNUOEh5ZHdSYVVvdVlFS3VzU01FOWF0ei1iQ2pUeG9lU0djSTNEa2ZFbnQzSWxkVktjNjdEbXRTUUdvd2hfLWRqbGcyRlhTemdLOXVQTU81andmYjNEUFFRU2pRc1pCUGtrVnlNUHM3S3NvLTlYbmJwbmIybnVuYlFqMjVqTkJmblFBdlpSVHpYZlQyODMzUGltcjQxWTla?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-10-07T19:50:57+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "L’OTAN continue de renforcer la coopération pratique au travers du Centre régional OTAN-ICI (Koweït)    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "fr": "L’OTAN continue de renforcer la coopération pratique au travers du Centre régional OTAN-ICI (Koweït)"
+      }
+    },
+    {
+      "title_original": "Canada to indefinitely bar mental illness as sole reason for access to euthanasia",
+      "title_zh": "Canada to indefinitely bar mental illness as sole reason for access to euthanasia",
+      "url": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-07T19:00:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Legislation is an effort by ruling Liberals to address growing clash over who has access to doctor-assisted death Canada ’s federal government said on Wednesday it would advance legislation to prevent people whose sole health condition is mental illness from accessing euthanasia, an effort by the ruling Liberal party to address a clash in the country over who has access to physician-assisted death.",
+        "Under the current rules, people whose sole underlying medical condition is a mental illness have been barred from accessing medical assistance in dying (Maid) to end their lives.",
+        "But that ban – due to be lifted in March – has divided lawmakers over whether to permit this expansion of the Maid program."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Canada to indefinitely bar mental illness as sole reason for access to euthanasia"
+      }
+    },
+    {
+      "title_original": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "title_zh": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-07T18:27:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump to speak to Putin about plague lab worker's death in Russia\n- Published\nUS President Donald Trump says he has a call set up with Vladimir Putin about the death of a lab worker at a plague research centre in Siberia.",
+        "Russian officials say they are investigating the death of the 28-year-old employee and have not confirmed that the suspected disease is pneumonic plague.",
+        "They insist there is no risk of an epidemic."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump to speak to Putin about plague lab worker's death in Russia"
+      }
+    },
+    {
+      "title_original": "Children killed while they slept as Russian missile kills 19 in block of flats",
+      "title_zh": "Children killed while they slept as Russian missile kills 19 in block of flats",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-07T18:12:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Children killed while they slept as Russian missile kills 19 in block of flats\n- Published\nA Russian missile has killed 19 people including five children in an apartment block in northern Ukraine, destroying 30 flats as families slept.",
+        "Three of the children were one-year-olds in the attack on Pryluky, east of Kyiv, early on Wednesday, and one of the boys died with his mother and grandmother, officials said.",
+        "Ukraine's Volodymyr Zelensky said it was one of Russia's \"most vile strikes\", and suggested the Russian military had carried it out as a \"birthday gift\" to Vladimir Putin, who turned 74 on Wednesday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Children killed while they slept as Russian missile kills 19 in block of flats"
+      }
+    },
     {
       "title_original": "France halts use of stun grenades after boy's hand blown off in student protests",
       "title_zh": "France halts use of stun grenades after boy's hand blown off in student protests",
@@ -76,6 +626,81 @@
       ],
       "all_titles": {
         "en": "Canada suspends plans to expand assisted dying to people with mental illness"
+      }
+    },
+    {
+      "title_original": "Felipe VI visita una base militar finlandesa en Laponia a disposición de la OTAN",
+      "title_zh": "Felipe VI visita una base militar finlandesa en Laponia a disposición de la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQlR1R0c5T2h0bUxILVVGTEJhYWkyMVowWFNSckRtWXBjMkhGWVRHd2NCU3hDN0xzWkZ3RUlMN05YejJGYWVDa1lUTEtadDRtS05OTWk0a0wxTHQwQU1SWEpLbjdTck1pTVVoWUxuQjNLX3B5b290WjVHVVRSUWNwTWhJY1JETVFELTZvN2I1aHpFYlNYSE4ySzZ2OS13UldLNE5LdHlGZ0ZCTFFZQ0hMZ2drSjNGcjhuMHh0dTRuM2wzZ2FMN3lFSk9LRndVTXBmUnc?oc=5",
+      "source": "El Imparcial - Diario liberal e independiente",
+      "source_score": 40,
+      "published_at": "2026-10-07T17:29:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Felipe VI visita una base militar finlandesa en Laponia a disposición de la OTAN    El Imparcial - Diario liberal e independiente",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "El Imparcial - Diario liberal e independiente"
+      ],
+      "all_titles": {
+        "es": "Felipe VI visita una base militar finlandesa en Laponia a disposición de la OTAN"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Im Schwarzen Meer verschärft Russland die Angriffe auf Schiffe",
+      "title_zh": "Ukraine-Krieg: Im Schwarzen Meer verschärft Russland die Angriffe auf Schiffe",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkVTUGFGdzRTNG9NcEIzUjE2UGVETURxck12Mmc1bGo2R3dxck9KOFd0bEVxWlY1WjNNYzlJYlZDSlR5TGF3NG1Bd3E3YUlIMk1GZWxNVF83QVhkOWRnQ0VwWWJyTzkwZUF3RlU3WjBGb3dJMXlwVHJSMUVPaFlPSFRkUnVwVmM2ZnRTQkVBSHZRQ2hiUENzcWkyVWpZS3BXZDFhLTlUU3daUE1SUmpRY1hvbkRLU01oRlowQUdSdWNzZ3pjWkJSWXBTQ2pucnQyVHc?oc=5",
+      "source": "FAZ",
+      "source_score": 40,
+      "published_at": "2026-10-07T17:19:33+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Im Schwarzen Meer verschärft Russland die Angriffe auf Schiffe    FAZ",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "FAZ"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Im Schwarzen Meer verschärft Russland die Angriffe auf Schiffe"
+      }
+    },
+    {
+      "title_original": "Berliner Food-Influencerin: Taiwan hat viele Schichten",
+      "title_zh": "Berliner Food-Influencerin: Taiwan hat viele Schichten",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6NmpPQ0FEYWd3RTE1c2VEQmRlcVBweU8wQUF1TmVBOGhGOHN1cUtNeUV5c1Vpd1YtUW01QUhVYWNyVTZvX256dlNUeUs0OUtVRkp5ekd5NFBSS2tGXzctbg?oc=5",
+      "source": "taz.de",
+      "source_score": 40,
+      "published_at": "2026-10-07T17:03:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Berliner Food-Influencerin: Taiwan hat viele Schichten    taz.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "taz.de"
+      ],
+      "all_titles": {
+        "de": "Berliner Food-Influencerin: Taiwan hat viele Schichten"
       }
     },
     {
@@ -201,6 +826,31 @@
       ],
       "all_titles": {
         "en": "Michigan’s Mike Rogers says trade war with Canada needs to end"
+      }
+    },
+    {
+      "title_original": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
+      "title_zh": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-07T15:03:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "After a surprise first-round victory, critics suggest son of disgraced ex-president could seek to continue his father’s authoritarian project Flávio’s surprise first-round win highlights rapid rise of Brazil’s House of Bolsonaro Flávio Bolsonaro, the far-right frontrunner to become Brazil’s next president , has vowed to “re-democratise” the South American country, increasing fears about a move into authoritarian rule if he wins power.",
+        "Brazil was re-democratised in the 1980s after a brutal 21-year dictatorship that Flávio’s father, the disgraced ex-president Jair Bolsonaro, has long praised.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil"
       }
     },
     {
