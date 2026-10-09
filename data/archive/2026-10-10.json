@@ -1,0 +1,882 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-09T17:27:24.472510+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "title_zh": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-09T17:14:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian search engine Yandex struggles after Ukrainian strikes on data centres\n- Published\nRussian tech giant Yandex has said it was struggling to maintain services after two of its five data centres were struck by Ukrainian drones in the past two days.",
+        "Often dubbed \"Russia's Google\", the company runs the country's most popular search engine, as well as a food-ordering and taxi app used by tens of millions of people.",
+        "President Volodymyr Zelensky said the attacks were in response to weeks of Russian strikes on Ukrainian data centres."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russian search engine Yandex struggles after Ukrainian strikes on data centres"
+      }
+    },
+    {
+      "title_original": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
+      "title_zh": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-09T17:12:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US unveils sanctions on ICC in move court condems as 'assault on rule of law'\n- Published\nThe Trump administration has unveiled sweeping sanctions on the International Criminal Court (ICC) in a significant acceleration of its attempt to \"dismantle\" what it sees as a \"rogue\" institution.",
+        "US Secretary of State Marco Rubio said the measures - which include a ban on US entities making transactions with the ICC - were intended to \"defend US sovereignty\" and accused the court of seeking to prosecute Americans.",
+        "The ICC said the measures were an assault on the rule of law and the foundations of the international legal order."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'"
+      }
+    },
+    {
+      "title_original": "Man named Hitler Mussolini elected mayor in Peru",
+      "title_zh": "Man named Hitler Mussolini elected mayor in Peru",
+      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-09T16:32:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Man named Hitler Mussolini elected mayor in Peru\n- Published\nA man named Hitler Mussolini Simeon Flores has secured a narrow victory in Peru's local elections, exit polls show.",
+        "The candidate for the centre-left Ahora Nación party was elected mayor of Queropalca, a remote district in the Peruvian Andes.",
+        "Some 229 residents voted for the 45-year-old, putting him ahead of the second-place candidate from right-wing Renovación Popular Perú by just 25 votes."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Man named Hitler Mussolini elected mayor in Peru"
+      }
+    },
+    {
+      "title_original": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "title_zh": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-09T16:15:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize\n- Published\nFormer UN human rights chief and International Court of Justice judge Navi Pillay has been awarded the 2026 Nobel Peace Prize.",
+        "The South African judge was recognised \"for her efforts to promote peace and international law\", which paved the way for a \"more comprehensive global legal order\", the Nobel committee said.",
+        "Pillay, 85, has taken part in high-profile work considering allegations of human rights violations during a decades-long career, including in Rwanda, Myanmar and Gaza."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize"
+      }
+    },
+    {
+      "title_original": "20.000 Soldaten, KI und eine Kommandozentrale in Wiesbaden: So probt die Nato den Ernstfall",
+      "title_zh": "20.000 Soldaten, KI und eine Kommandozentrale in Wiesbaden: So probt die Nato den Ernstfall",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSWcxaC1ac1dIM3NXcDVLNHdXU1BnblUtN0pjUkNyaERJRldXaU9WOUEtMEIwMW56cVN6SnBHajlNLTZmVW5GTmdlcnhPSFhjTXFLY3VvM1BuNFhTblptYzZLNllkWG5xYVFHbkZCWVdjZFhfNnBYaW53ek9IMTlzZnByYU54eTRDWWVUenpSY21GUDl2VjRQbVF5QW1mWHBEV2F0NndiclAxNGVpX2pISC1FdVJDLVVzSk5NYTF5Yw?oc=5",
+      "source": "hessenschau.de",
+      "source_score": 40,
+      "published_at": "2026-10-09T16:02:15+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "20.000 Soldaten, KI und eine Kommandozentrale in Wiesbaden: So probt die Nato den Ernstfall    hessenschau.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "hessenschau.de"
+      ],
+      "all_titles": {
+        "de": "20.000 Soldaten, KI und eine Kommandozentrale in Wiesbaden: So probt die Nato den Ernstfall"
+      }
+    },
+    {
+      "title_original": "رئيس الإمارات يبحث هاتفيا مع رئيس وزراء كندا آخر التطورات في الشرق الأوسط",
+      "title_zh": "رئيس الإمارات يبحث هاتفيا مع رئيس وزراء كندا آخر التطورات في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQYVBmT21xc2RUMjJiMUY2ZFRSWGFlZnNPNHJaU3lTQ1NJVGR0Ny1WdGY4Q1c0VEFvMndPQzBfUVJmRjNZMVdUeHE0R1I5OEE1VS1XQnhpUEtWREFPWHAybkxUUTM5UGs1NUhhZ2hsNVEzWDVuX2h6RWlFMVBybDkzc1lsZG1UR0RCaFJvbUtmZzdMdjFjR1p6M1lmZ1FGeWJnMGtaMFRPS0VVVUUwWE1NN3NYazZGYmVyZ2tLQ2VyclZHZXpIWDJwU0F5YVBIQ050ZC03X2JiSlYxSU93LUNVZUhvdTJaelUtVWdUNkJFemc3YVFQM3RWSXV5TzExRDhmd2VSbU11M3o0X3JLSndqLUttQXp1Q0pLUkJmOFRKeE51UnhNbUVjRzg5aFd3SjBfcEl0WFRfRDVzVmxsaGRseGs5dzl2WVNMYnc?oc=5",
+      "source": "Fana News -",
+      "source_score": 40,
+      "published_at": "2026-10-09T16:01:39+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "رئيس الإمارات يبحث هاتفيا مع رئيس وزراء كندا آخر التطورات في الشرق الأوسط    Fana News -",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Fana News -"
+      ],
+      "all_titles": {
+        "ar": "رئيس الإمارات يبحث هاتفيا مع رئيس وزراء كندا آخر التطورات في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "title_zh": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-09T15:24:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Ethiopia warns Eritrea it will defend itself after troops cross border\n- Published\nEthiopia has accused Eritrea of an \"all-out invasion\" of its northern Tigray region and warned it will defend itself, days after residents told the BBC Eritrean troops had crossed into the country.",
+        "In a letter sent to the UN Security Council and seen by the BBC, Ethiopia's foreign minister called it a \"blatant act of aggression that engages Ethiopia's inherent right to self-defence\".",
+        "Eritrean Information Minister Yemane Gebremeskel responded by saying it was facing \"an unprovoked war of aggression\" from its neighbour."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ethiopia warns Eritrea it will defend itself after troops cross border"
+      }
+    },
+    {
+      "title_original": "مسؤول في دمشق لـ«الشرق الأوسط»: صرفنا النظر عن استثمار خان أسعد باشا كفندق سياحي",
+      "title_zh": "مسؤول في دمشق لـ«الشرق الأوسط»: صرفنا النظر عن استثمار خان أسعد باشا كفندق سياحي",
+      "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxNdmsydzlKbzBYa1JHVzhPVFJSUzZIeWY2WkZOYk14OFZQVThiWXNQQnVLeXNCaE44cHFZN0FrR0RRcEsyZXRTcGo0V0M0eHNDMkFfcEZaY0ZMaU1pUEhkaGh3NW5sQTh3em81aWJYTEFQSWp0aC1kTmMydTkwa3RFVVFsVnoyand0OEtWeHRfeHR5VDdUaWRvWnAxSXVva29TVXFQM1AteDhMUVoxYURRUW9vQkdVRmljeFdsdzRDeFFSUUw3QUNrMklWOTQzdE5OZ05DQ01NVHV0WEZWa1lRMU5rc2Nvb0pzOFZJR3pXcVhMdTQ4MlJYclRxcUs2WEVibVQ3RExGTGRNYXQxRmN1ZWpjTWFBcnFzdEVNNVMyaXRXUzVZYlFTWkMwWEtxNjE5RXRGVFFnZERieHVhSFp4Wlo0SzdzeUVIaFYwWEZjSGQySWh5Sk9ZbXJYVl9RcXRqOGs1SGNMTkQxOGM5RzNEWllkMHh5bWRaZnE2QlNPUlNkNHNjcS1HbUpMNEg2bnRHdEpJSUw4WUNFX0lrNEwtWk9PX0FWX2dhZzYyQnY3b1h6aWk0OUc2ekUtM2FVMlktNFotU1VoSHNHWjVCRVBmMlNVSHBxd1FoNVlpM0kzUUlRRlpRM3hjaGliQXI2Q1laSk1HeEJva0xhQzU4VlUxOWU2b2xjSG1Lek9RZmw0cGJiQ1N4YzgzVkh4djJ4RjBMb2FWX2hfVXRiakhDSENGSHpuUUFMd0VvZXBKeU1ORnlTcDFET1pYcVJXMEpNQzR0UTgwNnZVNlJaMDRaMDlmTFJqNUVnS1pzSlBRT2VKZThKMkp3Unpwd0k1R0drdjNkZ3ZOYUx2dmtyeTVyRlhBXzF4ZVppdENYMU43R3BmdnZNRGM?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-09T15:16:37+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "مسؤول في دمشق لـ«الشرق الأوسط»: صرفنا النظر عن استثمار خان أسعد باشا كفندق سياحي    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مسؤول في دمشق لـ«الشرق الأوسط»: صرفنا النظر عن استثمار خان أسعد باشا كفندق سياحي"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient : les ambitions touristiques de l’Arabie saoudite rattrapées par la guerre",
+      "title_zh": "Moyen-Orient : les ambitions touristiques de l’Arabie saoudite rattrapées par la guerre",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOazlTckp2VGVoNlc1SEhuRFNYQnFQeWkwZzE4alZ2akQxbGw1TkdNRzBXX0d5eVBKWTRZdkFvWkhUVmhhVDMwcll0X0V2dlFYVnBFMmFwSUpSdkpkUVlTbXJfc0FHVzBCemZDbDhBM2V6aXdPSFQ5RjJxSVhvUEhobFdicFhTVU5LSXVhR3Y0Vkpack9KSTB4d2pDcmxOd0kyM3RHLXdOYlZHcXJicVFkZ191Vnp3QlhvS1dKNUFVWlI1MzlCeUVYYy1XSQ?oc=5",
+      "source": "L'Echo touristique",
+      "source_score": 40,
+      "published_at": "2026-10-09T15:14:56+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Moyen-Orient : les ambitions touristiques de l’Arabie saoudite rattrapées par la guerre    L'Echo touristique",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "L'Echo touristique"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient : les ambitions touristiques de l’Arabie saoudite rattrapées par la guerre"
+      }
+    },
+    {
+      "title_original": "Two Renoir paintings stolen from French museum are recovered",
+      "title_zh": "Two Renoir paintings stolen from French museum are recovered",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-09T14:25:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Two Renoir paintings stolen from French museum are recovered\n- Published\nTwo paintings by Auguste Renoir stolen a month ago from a museum in the south of France have been recovered, the local town hall has said.",
+        "The two works were seized on 8 September when thieves cut through a fence and smashed a window at the Renoir Museum in Cagnes-sur-Mer, where the French impressionist had lived during his final years.",
+        "The local mayor praised authorities for recovering the paintings and said the news gave immense joy and profound relief."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Two Renoir paintings stolen from French museum are recovered"
+      }
+    },
+    {
+      "title_original": "Visite de la secrétaire générale déléguée de l’OTAN en République de Moldova",
+      "title_zh": "Visite de la secrétaire générale déléguée de l’OTAN en République de Moldova",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeWFxaV9fVXNqbWVuR2p3cnRmMGt5RWY0N2pfTXkxeW5aRFVJMlhfbTl5V01sRlFVSzQxQ2c1MW5TQlhWTk1UVkpYU1lwTFdRMzZ5clFYdUtLSURDd2dlclIwYmpoOFdEOXp5VDZadVFQdEFFbWNlUkRiU1g4S0tqOHg3UnhDd1N4d3JTX3gxWmFySHBZTUtZZjZBNE5hUXVwdmRwU2JrcTZnaEI0aUxN?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-10-09T14:23:41+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Visite de la secrétaire générale déléguée de l’OTAN en République de Moldova    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "fr": "Visite de la secrétaire générale déléguée de l’OTAN en République de Moldova"
+      }
+    },
+    {
+      "title_original": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "title_zh": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-09T13:50:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Three Saudi nationals killed in Houthi attacks on Riyadh airport\n- Published\nThree Saudi Arabian nationals have been killed in two attacks on the international airport in the capital, Riyadh, the country's civil aviation authority has said, after Yemen's Houthis said they had targeted the facility.",
+        "The attacks also resulted in \"injuries to a number of Saudi citizens and residents of various nationalities\", the General Authority of Civil Aviation said in a statement on X.",
+        "It added that the first attack on Thursday targeted the airport while the second had struck an aircraft belonging to state carrier Saudia."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Three Saudi nationals killed in Houthi attacks on Riyadh airport"
+      }
+    },
+    {
+      "title_original": "L'actu en dessin : trois ans après le 7-Octobre, c'est tout le Moyen-Orient qui s'est embrasé",
+      "title_zh": "L'actu en dessin : trois ans après le 7-Octobre, c'est tout le Moyen-Orient qui s'est embrasé",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMS1uelNzblFEbXY3V3JoUnJBbEhzMGFXN0d5NU8yaWhGNHBfd3hsX1hldHk0VjFLdzJPZ1JlV1h2MHZ0blVkeXVpNUpma0FBVGkxUjBBUHZNYS01SFQxUnNNaUFHSTlOQUttT29vNUZOMW1wNE9sM0swZXh6bnpyQXUxOVFubFV6aGowanpGc1NoVHctRkpkcE5JLWhWQnFGUml1R3BKSlNHcVVVMkdlV3ByY3ZMMlJ0NnBlQkE1WWx5T1BRajFLcG96TElyUWg4?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-09T13:19:06+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "L'actu en dessin : trois ans après le 7-Octobre, c'est tout le Moyen-Orient qui s'est embrasé    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "L'actu en dessin : trois ans après le 7-Octobre, c'est tout le Moyen-Orient qui s'est embrasé"
+      }
+    },
+    {
+      "title_original": "بوتين يجدد لبيزشكيان استعداده للمساعدة في تسوية حرب الشرق الأوسط",
+      "title_zh": "بوتين يجدد لبيزشكيان استعداده للمساعدة في تسوية حرب الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVVkRmFmT01VV3dSdHB6XzIxUzdaVHV5YU5hOHVGd1Y2UTJFaDQ4TzViNnRqVWNUMFJhMXU1b0tBU3E4dE1rX0lZRllYREk5c3NsUWplUEI2U1JiZGw0VFpJZnI3SVZiTjJ4OXRydG1Wc3h2Zjk1NkNxdzQ3Q05yZWxVZmw4cFZyNDQ1SXpoS3BEanVYZ3M3cDlYYUI1Q2FfRnRaWEVFQQ?oc=5",
+      "source": "Sharjah24",
+      "source_score": 40,
+      "published_at": "2026-10-09T13:18:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "بوتين يجدد لبيزشكيان استعداده للمساعدة في تسوية حرب الشرق الأوسط    Sharjah24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Sharjah24"
+      ],
+      "all_titles": {
+        "ar": "بوتين يجدد لبيزشكيان استعداده للمساعدة في تسوية حرب الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "تباين أداء بورصتي الإمارات مع تراجع التوتر في الشرق الأوسط عقب تصريحات لترامب",
+      "title_zh": "تباين أداء بورصتي الإمارات مع تراجع التوتر في الشرق الأوسط عقب تصريحات لترامب",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16cGJ2U0otVWlTWS1zYVAtNlVSZnBieHo1ZGJpbE91Q2o3djI1ZVhHSG9GSzdQdnQzdnY2Ny05dDRYM2hoNU9xd2g4Ny1YYUZXZmZzZWFYcW10LVhXRW5wekRSelRGNndNd2ZrSHMwQWlzX0hPb1hGOGxqeGg1QWs?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-09T13:01:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تباين أداء بورصتي الإمارات مع تراجع التوتر في الشرق الأوسط عقب تصريحات لترامب    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "تباين أداء بورصتي الإمارات مع تراجع التوتر في الشرق الأوسط عقب تصريحات لترامب"
+      }
+    },
+    {
+      "title_original": "ICE agent shoots man in New York City",
+      "title_zh": "ICE agent shoots man in New York City",
+      "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-09T12:18:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "ICE agent shoots man in New York City"
+      }
+    },
+    {
+      "title_original": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
+      "title_zh": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
+      "url": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-09T12:00:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in Fiji Wealthy countries should spend far more on dealing with the climate crisis than the 5% of GDP promised by Nato members for defence because “the climate issue is the security issue”, the host of the next UN summit has said.",
+        "But, in comments that are likely to prove contentious, the Cop31 president-designate, Murat Kurum, hedged on whether countries should try to repeat a previous agreement to “transition away from fossil fuels” – the primary cause of the climate crisis – when they meet in Turkey next month.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence"
+      }
+    },
+    {
+      "title_original": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+      "title_zh": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy47lzd1vyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-09T11:44:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Doctor accused of 1994 Rwanda genocide offences to face trial in UK\n- Published\nA doctor accused of a number of offences relating to the 1994 Rwanda genocide is set to face trial in autumn next year.",
+        "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, is accused of \"killing, directing or encouraging\" the deaths of members of the Tutsi ethnic group in Rwanda.",
+        "He is the first person in the UK to have been charged over the genocide."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Doctor accused of 1994 Rwanda genocide offences to face trial in UK"
+      }
+    },
+    {
+      "title_original": "ロシア・ヤンデックス、ウクライナの攻撃でデータセンター一部停止",
+      "title_zh": "ロシア・ヤンデックス、ウクライナの攻撃でデータセンター一部停止",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZmlEaks2Sk1qa0VhdzA0eUI4SUozc1p6eGEwd0JRQmVCLXFLcVdPU0w2UE1jdVFDSF91YU1MLUdaOURJR0JreFprcS1ZNGRDLW9zR2hJeHptVnJuTTVfNGtXSDdWY3RNMkhMaHlra01Td0V0V3VmX1VFNHdTNkhSUFJsWkVvZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-09T11:21:46+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア・ヤンデックス、ウクライナの攻撃でデータセンター一部停止    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア・ヤンデックス、ウクライナの攻撃でデータセンター一部停止"
+      }
+    },
+    {
+      "title_original": "Guerre en Ukraine : « Un message clair », les représentants militaires de 32 pays de l’Otan réunis à Kiev en réponse aux menaces russes",
+      "title_zh": "Guerre en Ukraine : « Un message clair », les représentants militaires de 32 pays de l’Otan réunis à Kiev en réponse aux menaces russes",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQclNNdmNVWHdIRGt5Mk1HUXB0U2oxOEU3eUptbGQya21teVVuM3NHNDNPWGtrNEVLczBReDI2bEMxVk5SMU1JYXlwV1RaV0xBcTVvbHFrRGlIdmN1eWoxeFI3aDNzdEV4azRUbllnVzRXd0w0Y0VnYWo0ZWVvSmlfUHA1VVVuRnRHREc2bnJlNHFKRzMtOWJ6NXdSa0JKU3dhZ18yblZIa3lsRmN0Y2FQNENTTFhkc2hnNGRMQVZ1Wlk2Z3BPYTQ5YlhiWDBTTHltaVpiUDhzb01URW40MjdvMzJnM0VCMXhpOVpFT1UzRkRyaHUxdEhLSWp4Yl9JcDBsaWVSc29Gdjd5SlA3WWZzYjFpT0tOVFRNaS10YXV3UlVkNkZibTlXUVlwTlIzbE5CeWpZSUN4MnJYa2g4OGc?oc=5",
+      "source": "Le Parisien",
+      "source_score": 40,
+      "published_at": "2026-10-09T11:15:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Guerre en Ukraine : « Un message clair », les représentants militaires de 32 pays de l’Otan réunis à Kiev en réponse aux menaces russes    Le Parisien",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Le Parisien"
+      ],
+      "all_titles": {
+        "fr": "Guerre en Ukraine : « Un message clair », les représentants militaires de 32 pays de l’Otan réunis à Kiev en réponse aux menaces russes"
+      }
+    },
+    {
+      "title_original": "Crazy Rich Asians to return as TV show with original film's stars",
+      "title_zh": "Crazy Rich Asians to return as TV show with original film's stars",
+      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-09T10:54:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Crazy Rich Asians to return as TV show with original film's stars\n- Published\nFour of the stars of 2018's Crazy Rich Asians film are reprising their roles for a TV show of the same name.",
+        "The series will pick up events after the end of the hit film, with Constance Wu and Henry Golding playing their lead roles of Rachel and Nick, while Ronny Chieng is back as Eddie and Oscar winner Michelle Yeoh will have a recurring role as Nick's mother Eleanor.",
+        "\"It's a 'Crazy Rich' family reunion!\" said Adele Lim, who co-wrote the film, calling it the sequel we've been waiting for\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Crazy Rich Asians to return as TV show with original film's stars"
+      }
+    },
+    {
+      "title_original": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+      "title_zh": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-09T09:59:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river flooding Isaias has become the first Atlantic hurricane of the 2026 season, with wind speeds of 80mph and a minimum pressure of 975mb.",
+        "It is expected to strengthen to a category 2 hurricane as it approaches the US’s northern Gulf coast on Friday, according to the National Oceanic and Atmospheric Administration (NOAA).",
+        "As a result of the strong El Niño , it has been a notably quiet Atlantic hurricane season."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Isaias strengthens to become first Atlantic hurricane of 2026 season"
+      }
+    },
+    {
+      "title_original": "ウクライナ、ロシアのデータセンターを2日連続で攻撃",
+      "title_zh": "ウクライナ、ロシアのデータセンターを2日連続で攻撃",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkRlFkZHdGRWlXcGRoQ2hHZ2tWVEJjSk1ERjZGMkRFUTVublVBN1l5NDZuVktHaXlob1liTTc3ZVBDaTVJa2RoSDY1eHZPVXlnemfSAVRBVV95cUxQZ2FBOGJMVWdQaGo1QlVtY1BrdjNFWjhnV3ZBcXNsa0Zsd20xb2lIZ0F5cGFwN2ZiMWpqSTJ5eTFreG5MSlJSUDlKbEJWSDFQRHJzRTc?oc=5",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-10-09T09:50:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ、ロシアのデータセンターを2日連続で攻撃    AFPBB News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、ロシアのデータセンターを2日連続で攻撃"
+      }
+    },
+    {
+      "title_original": "Pourparlers américano-ukrainiens en Floride : l'UE et l'OTAN conviés",
+      "title_zh": "Pourparlers américano-ukrainiens en Floride : l'UE et l'OTAN conviés",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcU0zUk1XcW1NX2RtUENsM2pNMk5FQTVkUnVKZGFRZVd6a2ppekJNbk5NOElNancyWWZ2MFlaVUJid1NEcEFkRUVnaDJUMlZvYnVKci02MDFnTFlMRVpiYTVEaWFITnVKekpmNTIyMW1laUk5eTR6LTJTc2ZXQXhOcHpUQjJoSTFIcnhOQllWa2dhMm94elduQTVMdmdfbldRM2NMZllEZlBZaTZYQ1hxYkJTcEpSMTVoSXpWZUxBNTRpQQ?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-09T09:39:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Pourparlers américano-ukrainiens en Floride : l'UE et l'OTAN conviés    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Pourparlers américano-ukrainiens en Floride : l'UE et l'OTAN conviés"
+      }
+    },
+    {
+      "title_original": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+      "title_zh": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-09T09:09:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say\n- Published\nThieves have stolen 30,000 bottles of wine collectively worth about €5m (£4.2m) from a prestigious Italian winery, Italian media report.",
+        "Marchesi Antinori, one of Italy's biggest family-owned wineries, said the theft at its storage facility in Tuscany took place on Saturday as the company was preparing to ship a consignment to customers abroad.",
+        "At least seven masked men are believed to have deactivated the alarms, disabled the cameras and used company forklifts to load two large trucks of the company's prized Tignanello, Solaia and Guado al Tasso Tuscan reds."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say"
+      }
+    },
+    {
+      "title_original": "The nation’s cartoonists on the week in politics",
+      "title_zh": "The nation’s cartoonists on the week in politics",
+      "url": "https://www.politico.com/gallery/2026/10/09/the-nations-cartoonists-on-the-week-in-politics-01113273",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-09T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.",
+        "The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.",
+        "Here's an offering of the best of this week's crop, picked fresh off the Toonosphere."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The nation’s cartoonists on the week in politics"
+      }
+    },
+    {
+      "title_original": "ウクライナ出身富豪を狙ったモナコの爆発事件、拘束下の容疑者をBBCが単独取材",
+      "title_zh": "ウクライナ出身富豪を狙ったモナコの爆発事件、拘束下の容疑者をBBCが単独取材",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoR3k2VDhNcEY1WHRnYl9TUHoxaldrV1BlN1A1Y1FHMURvRENiclJlUVRIbWVPbmNRNTd6V1lhSFdCZVRFcWctQ2FwdHdIa3Rudk51bDAyZDJOaGNxVi16U9IBZkFVX3lxTFBKV0RkZ1lLdmNDNUZIUXJnT2lwdjlkaDUwbjVKb0tpUGdfRE9NOXhvZERnd1FPbVRiNW9uSl8tNkRqMzEyenhQM0h1M2szejF3T0ZWS0EwVDA0M2huVGRqOVNYWHNNQQ?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-10-09T08:34:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ウクライナ出身富豪を狙ったモナコの爆発事件、拘束下の容疑者をBBCが単独取材    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ出身富豪を狙ったモナコの爆発事件、拘束下の容疑者をBBCが単独取材"
+      }
+    },
+    {
+      "title_original": "プーチン氏、イラン大統領と会談 中東戦争終結へ「あらゆる支援」表明",
+      "title_zh": "プーチン氏、イラン大統領と会談 中東戦争終結へ「あらゆる支援」表明",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tbFRUYkI0dWUtUmVhb3JRcndUR1czN0N4Z090SWhLM3hwNTFBTGJ1eWJ1S0c3YThFNEhBSGoxMVhrSzk2UUszZlpabF85QWs1OExjVUdDM1RMeFYzb0t1Z3RjQ0MyZw?oc=5",
+      "source": "時事ドットコム",
+      "source_score": 40,
+      "published_at": "2026-10-09T08:12:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "プーチン氏、イラン大統領と会談 中東戦争終結へ「あらゆる支援」表明    時事ドットコム",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "時事ドットコム"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏、イラン大統領と会談 中東戦争終結へ「あらゆる支援」表明"
+      }
+    },
+    {
+      "title_original": "鲁比奥：施压北约盟友增加国防开支“不是敌对行为”",
+      "title_zh": "鲁比奥：施压北约盟友增加国防开支“不是敌对行为”",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UaDUtN0htdzlXMXBIb1lNX0V6NlJQU3BWdk05dlFpOG9vRk9qQW5ZVmpiUkowbFRkbXh5c21FMV9hcWFHN0I2a2hyNHU?oc=5",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-10-09T08:08:12+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "鲁比奥：施压北约盟友增加国防开支“不是敌对行为”    凤凰网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "鲁比奥：施压北约盟友增加国防开支“不是敌对行为”"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - Erneut Yandex-Rechenzentrum in Russland getroffen",
+      "title_zh": "Ukraine-Krieg - Erneut Yandex-Rechenzentrum in Russland getroffen",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV1JIMVNrUkk3ZzV2dURjeGVpMHFzWjFEVVZTZTgzX3VjOWxJZE0xSTZKbEFacHY2cXVCMFozem5XRzRfSmVpRk84ZkJydUNMODFCdlg3Vlh6NVRlQUhOMnZqQmFERFVma0NpYVV3OXRSTXdXRmZib1k5Y3p6SVRsaVNwZERmdUV1YXlWV01mNnFFSms?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-10-09T08:01:23+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg - Erneut Yandex-Rechenzentrum in Russland getroffen    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - Erneut Yandex-Rechenzentrum in Russland getroffen"
+      }
+    },
+    {
+      "title_original": "刚刚，大反攻！俄乌冲突、美伊冲突，传来利好消息！",
+      "title_zh": "刚刚，大反攻！俄乌冲突、美伊冲突，传来利好消息！",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkaHhPZzFMUUlMellYY0VJVklZbWsxRTkyQ0h2Ql8wUGFjUkVjbEZNa2FhcHRFNm1hS3BDMVJLRVJxUkhyZUpqcFJsMFc1UXZUczVsNTJqVDA4Um1tNHZDZ3JqMmxwRy1hRkZCdlBVYjFLZw?oc=5",
+      "source": "金融界",
+      "source_score": 40,
+      "published_at": "2026-10-09T07:23:18+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "刚刚，大反攻！俄乌冲突、美伊冲突，传来利好消息！",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "金融界"
+      ],
+      "all_titles": {
+        "zh": "刚刚，大反攻！俄乌冲突、美伊冲突，传来利好消息！"
+      }
+    },
+    {
+      "title_original": "حرب أوكرانيا ـ هل تنجح محادثات ميامي في فتح مسار التسوية؟",
+      "title_zh": "حرب أوكرانيا ـ هل تنجح محادثات ميامي في فتح مسار التسوية؟",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxONjQwQlRaUDRhb1dXdXllb0xwLTNKcXNnN0JoWnlxemR6bkdyNmg1azhFd0FBVTFBeFVFRzAzTHhqd1hUMHhNazdjUEdOSDhNamdheWk0VDVOaXRFNjl0M2NIaGwzOUFSMmE1M2ltMWVWZlptZjhOYmtYbC1raEpLQXFXc2dfU1ZqV0pab25zVmdhbGtObm10M0tpTDRtTVZtaDF6ZW9PODkxN3AzZFRON0VtSDRCZEpUTnNpUngxN18wOUxhcHVRRHM3eEQ3aHFGVDQ1SzZvdzVDSGw1V2xQTktMQ2pPUGFPNkdCVlFZaS0wZWFTaWp5bVY3RF9IalZrb2Rfb1RMcDc1Vi1fNDZuTXkxNjJubUlnNTRiNFhNbDZDSnNBMkFvTXAwLU4wQ1FGRGtyTWpRTUxpT3U4U0NBZzhFMlYzVm8wclE4TA?oc=5",
+      "source": "المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات",
+      "source_score": 40,
+      "published_at": "2026-10-09T07:07:11+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "حرب أوكرانيا ـ هل تنجح محادثات ميامي في فتح مسار التسوية؟    المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات"
+      ],
+      "all_titles": {
+        "ar": "حرب أوكرانيا ـ هل تنجح محادثات ميامي في فتح مسار التسوية؟"
+      }
+    },
+    {
+      "title_original": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
+      "title_zh": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-09T05:55:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Employee had also been in Bali when he told his manager he was working from home, Fair Work Commission hears Get our breaking news email , free app or daily news podcast A Sydney currency trader who was sacked for working from Singapore without approval has won an unfair dismissal case, but failed to be awarded compensation.",
+        "The Fair Work Commission ruled on Wednesday that Charles Graham had been unfairly dismissed by HIFX Australia, trading as Xe, in December last year.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case"
+      }
+    },
+    {
+      "title_original": "ウクライナのバス、ロシアが滑空爆弾で攻撃　乗客ら少なくとも30人死亡",
+      "title_zh": "ウクライナのバス、ロシアが滑空爆弾で攻撃　乗客ら少なくとも30人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UZFI0Y3RrNWR4UUtJSW9jUjBTRjZoRmVobEdqZE9ZZHBJX3FvVmdJbjJxOUN5SWpQRG01aTM2dFVEbmhuNWZMNVA1cldHOXlZN0hieGFzV2l6cm1JenVfUdIBZkFVX3lxTE9BZ3FWc19haTlGdVEwMnRjNWFUc0d2b29IcjA5SC1OdURVaEpUTTdjb2VxTVVieTMtSW84Q1hmdGZoYzVLaEJSVktyeXhsOFBxb0FidnNVQUpoTFM1MVFsTFo4UVYyQQ?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-10-09T05:34:04+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナのバス、ロシアが滑空爆弾で攻撃 乗客ら少なくとも30人死亡    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ウクライナのバス、ロシアが滑空爆弾で攻撃　乗客ら少なくとも30人死亡"
+      }
+    },
+    {
+      "title_original": "【詳細】ロシア ウクライナに軍事侵攻（10月8日の動き）",
+      "title_zh": "【詳細】ロシア ウクライナに軍事侵攻（10月8日の動き）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iUzRQRUYwU1NRbXFjZFhQclgwV2hpRmI2SlFzby1obzJaazhRSGJ4emVzY3k4eWNDaXhhVmlFMC1sdGdwZEltVHlXTVJyTngxMTlxdFdpd0k3bm44MVJR?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-09T05:32:52+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【詳細】ロシア ウクライナに軍事侵攻（10月8日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【詳細】ロシア ウクライナに軍事侵攻（10月8日の動き）"
+      }
+    }
+  ]
+}
