@@ -1,8 +1,633 @@
 {
   "date": "2026-10-09",
-  "generated_at": "2026-10-08T17:53:18.205869+00:00",
-  "count": 35,
+  "generated_at": "2026-10-09T02:56:07.347453+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title_original": "CSIS：俄乌战争成为中国军方的实战教材，平均四个月掌握新战术，加快无人机攻防体系建设",
+      "title_zh": "CSIS：俄乌战争成为中国军方的实战教材，平均四个月掌握新战术，加快无人机攻防体系建设",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pbEQxcGQ2TFZKZ1o3aEtDeE9MZHlpOE1lU2FXVEc2eXltU3JuN0M5MnVBaURBNDRCZzE3V3hPVjEyRWk1YWdBTVp2emdKdkdGQ0VYUjdJSVdTdw?oc=5",
+      "source": "加美财经",
+      "source_score": 40,
+      "published_at": "2026-10-09T02:15:02+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "CSIS：俄乌战争成为中国军方的实战教材，平均四个月掌握新战术，加快无人机攻防体系建设    加美财经",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "加美财经"
+      ],
+      "all_titles": {
+        "zh": "CSIS：俄乌战争成为中国军方的实战教材，平均四个月掌握新战术，加快无人机攻防体系建设"
+      }
+    },
+    {
+      "title_original": "ロシアの攻撃相次ぐウクライナ 首都キーウで計画停電開始",
+      "title_zh": "ロシアの攻撃相次ぐウクライナ 首都キーウで計画停電開始",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2Rm9iYVJWZlNuVkZMcWVSWk1xSjJoRUU0RV9MQ1llT2REWGw2M2hlUHRTYmFnalZWd3h2cGhaSHZkRXZZMkhFSHc0YzRDODYza1RlX3hjdV9YcUI2UzZZ?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-09T02:03:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシアの攻撃相次ぐウクライナ 首都キーウで計画停電開始    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシアの攻撃相次ぐウクライナ 首都キーウで計画停電開始"
+      }
+    },
+    {
+      "title_original": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "title_zh": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-09T01:25:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says\n- Published\nThe public will be able to watch the execution of a former US Army major by firing squad, US Defence Secretary Pete Hegseth has said.",
+        "A Defense Department official told the BBC the execution of Nidal Hasan, who fatally shot 13 unarmed US soldiers at Fort Hood in 2009, would be livestreamed.",
+        "It is believed it would be the first public execution in the US in almost a century."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says"
+      }
+    },
+    {
+      "title_original": "El portaviones USS Abraham Lincoln regresa a EE.UU. tras un despliegue prolongado en Oriente Medio",
+      "title_zh": "El portaviones USS Abraham Lincoln regresa a EE.UU. tras un despliegue prolongado en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaTlMUUVtUnZDVzhXQTNzZEgtMS1VUFdyTzczLVFDMFg1QTVGSWlTUUltV3J2QTBqWGx0WVdiVUVQRmUybUdkNkdYaUw2THFyb3E4anZVRDRMUnlvalY3Y0RVU3BSUHUtcmtMcDhYZkhaa1JsRUJ2S1I1emxYajM1M2I0a3FkZU5mLWdhWHVyZ210b3BYRmlETWRUbUVheFE?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-09T01:18:28+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "El portaviones USS Abraham Lincoln regresa a EE.UU.",
+        "tras un despliegue prolongado en Oriente Medio    ABC",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "El portaviones USS Abraham Lincoln regresa a EE.UU. tras un despliegue prolongado en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "How quickly is China learning from the Ukraine war’s latest drone tactics?",
+      "title_zh": "How quickly is China learning from the Ukraine war’s latest drone tactics?",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN09GM1d2NjBPeTBndVVhekFKM2JrTGNHQ1BCc3hOYjNwSjV1VkxFTGZMZWxqZXd2T2tWcGhPVW4waHhkZEdnRUE1RWZEdEdLVjFzTktORFFnamt1c0RwSlRudlB4ZkRkcm9iTEZLU0dTcEMzS0JpWll6akM2WWt6LTIwblI0WXJyem1oR2haTGR2LXd5WkNyTGVjOG9QSFJ5YmpPNXBlc3NvRGRlM3FjdlpjVkE0REJ6?oc=5",
+      "source": "South China Morning Post",
+      "source_score": 55,
+      "published_at": "2026-10-09T01:00:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "How quickly is China learning from the Ukraine war’s latest drone tactics?",
+        "South China Morning Post",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "South China Morning Post"
+      ],
+      "all_titles": {
+        "en": "How quickly is China learning from the Ukraine war’s latest drone tactics?"
+      }
+    },
+    {
+      "title_original": "鲁比奥称“俄乌冲突陷入僵局”，泽连斯基、佩斯科夫回应",
+      "title_zh": "鲁比奥称“俄乌冲突陷入僵局”，泽连斯基、佩斯科夫回应",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16c0puLXlhN05YemMzTG9lX24ySGtGUDRjWjRsdXlRZEt5TW1iRWVQMW5ZejdiWFFRZ3p1UEFNaFE2cUcwSHlJejlWcWo?oc=5",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-10-09T00:41:42+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "鲁比奥称“俄乌冲突陷入僵局”，泽连斯基、佩斯科夫回应    凤凰网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "鲁比奥称“俄乌冲突陷入僵局”，泽连斯基、佩斯科夫回应"
+      }
+    },
+    {
+      "title_original": "Verhandlungsteam der Ukraine reist zu Gesprächen in die USA",
+      "title_zh": "Verhandlungsteam der Ukraine reist zu Gesprächen in die USA",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa091TU9jMEdnd2RucWx1Q1VSdmRKSzlEQ1dxVnFFTmpGbkhtOVl1QS1FcDBUck1UbVlGa1ZxM0M4VXQ1dkQ0c1l4dlNrSEVPMTM5eFZZZmN1QXhiQTd1ZWhZLUNJLVBGeG9sTnhOeEtfWkhzRS1YSUdsZ1d4WmtuUTdxOWxFaG1ZVTZBVzZ2SUE3MVFLSW1sVWhHUjRlZmNQN2lBLTR0OGlCMkdpMXc?oc=5",
+      "source": "ZDFheute",
+      "source_score": 40,
+      "published_at": "2026-10-09T00:36:15+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Verhandlungsteam der Ukraine reist zu Gesprächen in die USA    ZDFheute",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "ZDFheute"
+      ],
+      "all_titles": {
+        "de": "Verhandlungsteam der Ukraine reist zu Gesprächen in die USA"
+      }
+    },
+    {
+      "title_original": "ウクライナで路線バス攻撃 30人死亡（ABEMA TIMES）",
+      "title_zh": "ウクライナで路線バス攻撃 30人死亡（ABEMA TIMES）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kVDRSRG91YWlhbG9rU1Q2VVI5cW9wQUpRVS12bEFhTEtEdHdfbldoTm5oZ2xCYlR6S2x6YjVJNFBSQXQ0T0M4NnBTb3REckFuanYxaGZtUk9TWHRQMEEzd3BtQ2d0akczSVdBS2o3aUczVmFpU0RwVUFxWUFrUWs?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-09T00:30:36+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナで路線バス攻撃 30人死亡（ABEMA TIMES）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナで路線バス攻撃 30人死亡（ABEMA TIMES）"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Zelenskyy criticises US, calls for more Starlink access, amid deadly Russian assault",
+      "title_zh": "Ukraine war briefing: Zelenskyy criticises US, calls for more Starlink access, amid deadly Russian assault",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWVNTOTc3UXRkYk1keTdYdkxmWUVyQl9idUprOVhLQ3FMek8tbVgtUmdpMzhMUVh5bWRCWXZUczV0Zkc0NmFOTnEySnZPUXhhQXNBeWwwVmRuaHBiY3lyaS1iTnhGbG1qc0hRbDdtNXNDX2d2SHAyX3kwZFByY0NkcG1BQlJDMmw5clpHbml4VEZnZzhtMU1rOXBTN3ppYXFmVWdxUWZ5VEpiZEc1NEVRYi1aNGhjbFNQeFpDX3BiMjB5aHJCNkJmcW1sck5QU3lCMjNiS2FfVWJvSmtHOUJtRjM3aw?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-10-08T23:42:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Zelenskyy criticises US, calls for more Starlink access, amid deadly Russian assault    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Zelenskyy criticises US, calls for more Starlink access, amid deadly Russian assault"
+      }
+    },
+    {
+      "title_original": "米にウクライナ支援の意思欠如とゼレンスキー氏、2日間の攻撃で78人死亡 交渉団9日訪米",
+      "title_zh": "米にウクライナ支援の意思欠如とゼレンスキー氏、2日間の攻撃で78人死亡 交渉団9日訪米",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS1VlZEpRY1Z3b1M5N1ZaTzMwMV9kaF9xUGdwXzMtODg0N1ctLWVZV2ZEa2lLa0RuSW5NYWY3WlRyN1JnMm81LThJNzh2Z3RzNFRzVVRCYzlqR3FYdXJnejhjTUU2MWRXTmFMOEZOeU1FMG1HNDNmYklydTZ5UG5GY2x4UG1JZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-08T23:39:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "米にウクライナ支援の意思欠如とゼレンスキー氏、2日間の攻撃で78人死亡 交渉団9日訪米    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米にウクライナ支援の意思欠如とゼレンスキー氏、2日間の攻撃で78人死亡 交渉団9日訪米"
+      }
+    },
+    {
+      "title_original": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
+      "title_zh": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-08T23:11:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison\n- Published\nA former Ukrainian security services officer linked to a bomb attack in Monaco in June that targeted a multi-millionaire says he believed it was ordered by senior members of HUR, Ukraine's military intelligence agency.",
+        "In an exclusive interview with the BBC from prison in Kyiv, facilitated by his lawyer, Vitalii Zhykovych has given his own account of the attempted assassination for the first time.",
+        "Ukrainian-born businessman Vadym Yermolayev and his 13-year-old son were badly hurt in the blast and his partner suffered catastrophic injuries."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison"
+      }
+    },
+    {
+      "title_original": "El barril de petróleo Brent sube un 4%, hasta los 104,28 dólares, por la tensión en Oriente Medio",
+      "title_zh": "El barril de petróleo Brent sube un 4%, hasta los 104,28 dólares, por la tensión en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXZGMjRtaUpRWDR1anE4RDVRbEFpTVBsNWVUNmU0NnBTc1VJSVJ4UTdNTlZXZXI4MTBUQ1VWamZGOGEySlpraWFGd2pCSlNWdkNkWlBmSmhZcVkzYXg5NndlcWFVT3h4S3hjUExqbDkwam5pRGVsbnpRdWc0YjlUZURzSU1JMjlDS2hqTTIzT3FsODA0Qm1MVzNFODdCUzEzUGtkaEsyTnJNYTRwU2Vyb1RBbFpfZHdEbWV6ZHpCaDBObXVjYjVrdE5R?oc=5",
+      "source": "El Periódico de la Energía",
+      "source_score": 40,
+      "published_at": "2026-10-08T22:34:20+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "El barril de petróleo Brent sube un 4%, hasta los 104,28 dólares, por la tensión en Oriente Medio    El Periódico de la Energía",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "El Periódico de la Energía"
+      ],
+      "all_titles": {
+        "es": "El barril de petróleo Brent sube un 4%, hasta los 104,28 dólares, por la tensión en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "ロシアがバス攻撃33人死亡 ウクライナ東部前線都市、公共交通停止",
+      "title_zh": "ロシアがバス攻撃33人死亡 ウクライナ東部前線都市、公共交通停止",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vRDRuMUNyU0xEZzFQX0ZXWEdvd0R3Q2puTU1OcXVEdDdnOWFaTm5XZDVlUFVKNVl4azIxWHdjak45TUd3MWJlZU02a3NZOEM4bmw0X2R1T3dDQ2dGeDh5LXBYZDd0RlhfSkhJVQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-08T22:19:05+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ロシアがバス攻撃33人死亡 ウクライナ東部前線都市、公共交通停止    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ロシアがバス攻撃33人死亡 ウクライナ東部前線都市、公共交通停止"
+      }
+    },
+    {
+      "title_original": "ウクライナ東部でロシアがバスなど攻撃33人死亡",
+      "title_zh": "ウクライナ東部でロシアがバスなど攻撃33人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90RnVCTGRqOUZzOVZpclpnWUp3TXZWTllPYVVrcDRtR2xaWGJvTUVOT3hsdXI0eUhPYmoxZjlFUXdkV0dnNlhlUU1ORVRKYWxnamxRY25vYTJzVUtPMlFz?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-08T22:17:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ東部でロシアがバスなど攻撃33人死亡    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ東部でロシアがバスなど攻撃33人死亡"
+      }
+    },
+    {
+      "title_original": "Kushner, Witkoff to pitch \"new ideas\" to end Russia-Ukraine war",
+      "title_zh": "Kushner, Witkoff to pitch \"new ideas\" to end Russia-Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1puNmRXdGdTOVF1X3NwZk42aV81OEtidU9RdTFObE5yekNDTnI2dDIwWHhiN3VwazlEX2JpUTZQQy13YXNFa3FOUjlDX0JRQnhfcGNnYm4zTlJXRnlsT2l5TUIyM3ZHVUd4MDBBcmdjSF9EU0M4X0g1ekwyS0VvSTFUUVdLakxvcTVnSkxzZ2E?oc=5",
+      "source": "Axios",
+      "source_score": 40,
+      "published_at": "2026-10-08T21:33:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Kushner, Witkoff to pitch \"new ideas\" to end Russia-Ukraine war    Axios",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Axios"
+      ],
+      "all_titles": {
+        "en": "Kushner, Witkoff to pitch \"new ideas\" to end Russia-Ukraine war"
+      }
+    },
+    {
+      "title_original": "Guerre en Ukraine : les négociateurs ukrainiens vont rencontrer les émissaires américains",
+      "title_zh": "Guerre en Ukraine : les négociateurs ukrainiens vont rencontrer les émissaires américains",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbU5JQUs0c1llTGUyX1g4bWpidUxSNndfN0NqQy0xRUpZMWsyQUNVc1ZPRjBSbmFMbUo1YWxITWJPV1VabWVWQ2hiVWxEbkpwaV9IMi0wNzBHbDZYbDhSeThzRmN4bFIxQTFCY0t4LXVFLXcxRzBuWEJDb3cwUjc2dmpNYWViSjBkUUZCTUZiRERlbjhXVEljdmV0VDF3ZExrR3ZjZnJORVpacEZxbWpmOGlPODVHUWdsV0ZqRjZEMWVNTUIxdHV4dmdUTEg?oc=5",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-10-08T21:06:55+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Guerre en Ukraine : les négociateurs ukrainiens vont rencontrer les émissaires américains    Les Echos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "Guerre en Ukraine : les négociateurs ukrainiens vont rencontrer les émissaires américains"
+      }
+    },
+    {
+      "title_original": "The Debate - Black sea and black ops: How exposed is Europe to Ukraine war spillover?",
+      "title_zh": "The Debate - Black sea and black ops: How exposed is Europe to Ukraine war spillover?",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX1hvc1BpcDJVQjl2amRDdDAxbTV6ejluT2wzaWpaTWhVdXFsaTJBZDFlU05LelZQdlI2a0NubTJxb0dMVjdOQ1hzaFE0UmRyaTNGMUM1dkExNDNDWGoyaGFBZWJBNHN6eVd5MXpLY1c2SXhlOHJMS1lsdzRjOEJzMnN1VTBuZjlRc0p0aE8tbUxwbVBQcVV4Z0RtV1hDeDJLLTBCUHRJRno5Zl9XZ1hPTjhaRTVZMTdhSzZ2ZXJtWnNSSUt3MHc?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-08T20:42:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The Debate - Black sea and black ops: How exposed is Europe to Ukraine war spillover?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "en": "The Debate - Black sea and black ops: How exposed is Europe to Ukraine war spillover?"
+      }
+    },
+    {
+      "title_original": "بوتين يعتبر أن إيران تبذل \"جهودا حقيقية لإنهاء النزاع\" في الشرق الأوسط",
+      "title_zh": "بوتين يعتبر أن إيران تبذل \"جهودا حقيقية لإنهاء النزاع\" في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxOX0tmYmV5bUFJdWxKVEFEZUFoQmdMVTdRU2FwcHpwV3RPM0d1MnB3dTYzMlloZmdRX1B6a3VreWlMMTlQY3lqZmRtNUd5TmN6UDliTE1QalExZXdtOVJrSVRlSkRRREswU0l2bEIteUVrb3drZl9wX1FMeEN0d1JZSDQzdVhFSlVhWnAzYjJ0M2VXNE5IYTlxMXZ0cFlPenZPdTVQTDBSRTNpYVZGb242REVNVlJZWGxSOWcwd2RadTViQUZnbG1Na3hjUElXbi1ZekRLLTRaWjVfbWhINjVlZEhDRkJBb3kybVNMbUQ5cHpFZDdlSE0xVTBYTjczQm5LUDF4OFB5Z2MzVUl3em5xQU9RazBWbDlhaDBzenNkMVBEUm9mUzhoYXNlRWwtMDRvenBVaktHbFU1VVVjMFc3eDRXSGlVZ2g3Z0hoejhFSUR0MnJLbHE4X3l6Z2xHaWk4ZjlfVWZFZ3l5YjZDVjJpSS04V2xTUGhNdWpHbjA1bEs0Q2VSckJYSWtfdHpDTDEybFNoX016TUMyZjRFNW8tLWZvU0FtODduaHBLaTNSNEhYT3pzQ1J6UGlvWmIzZ3ZRN05VV0cyZkwxQXhmME1nRXpVS3BJYkFxb1E2TWRkYk1Tb1laRjdMcw?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-08T20:42:27+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "بوتين يعتبر أن إيران تبذل \"جهودا حقيقية لإنهاء النزاع\" في الشرق الأوسط    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "بوتين يعتبر أن إيران تبذل \"جهودا حقيقية لإنهاء النزاع\" في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
+      "title_zh": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-08T20:40:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The brothers’ parents, Martin and Debra Robinson, to address court before a Mexican judge hands down verdict A Mexican judge is expected to hand down his verdict in the high-profile murder trial of three men accused of killing two Australian surfers and their American friend in 2024.",
+        "Australian brothers Jake and Callum Robinson, aged 30 and 33 respectively, and their friend Carter Rhoad, 30, were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state in an alleged robbery.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes"
+      }
+    },
+    {
+      "title_original": "Rubio alerta de una escalada en Ucrania y reclama una OTAN más fuerte desde Lisboa",
+      "title_zh": "Rubio alerta de una escalada en Ucrania y reclama una OTAN más fuerte desde Lisboa",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPalZVWGZMMTF3bGtlTF9zZnZyNDJiZUFrc280QXVZX3FnS01PX2xMVlpmbC1jdk5HdEpUZ3ZvM2x1eWI0YmVPUjBHeWgxWmYxUVRSMDNWVzA3NzQtc091WTFlbGx3R0FmU3hMRVRDWnFueS1FVTZuTGZHY0gtX2VRaDhtbkt3QkJRa05pTDNXSzdNdWgwdlhtZWZVa1ZLd0d4Q2RndDhqc1Q?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-08T19:42:46+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Rubio alerta de una escalada en Ucrania y reclama una OTAN más fuerte desde Lisboa    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Rubio alerta de una escalada en Ucrania y reclama una OTAN más fuerte desde Lisboa"
+      }
+    },
+    {
+      "title_original": "ウクライナ軍、ロシア最大の製油所攻撃と表明 西シベリアのオムスク州",
+      "title_zh": "ウクライナ軍、ロシア最大の製油所攻撃と表明 西シベリアのオムスク州",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcl9GSzJxMklvd3BzSXBSR1A0dkxZNXJ6WDJrT2h6cmFwcFptUS1DS05VRUw1VURzQVZybkIxYTJyc3JGaTZsZ3hNM0tTM1lsVXltSG5aeTFBQnBvbzE5UEZaY3FvNGFYU3VYWFhuNFI0SmZMQkRiQ0N6aF9MQlBpWW90cTk5dw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-08T19:39:33+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ウクライナ軍、ロシア最大の製油所攻撃と表明 西シベリアのオムスク州    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ軍、ロシア最大の製油所攻撃と表明 西シベリアのオムスク州"
+      }
+    },
+    {
+      "title_original": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "title_zh": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-08T19:10:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Protesters blame 'vulture funds' for Spain's housing crisis\n- Published\nPierina Nicuray, a 21-year-old university graduate, has spent a week camped out in Madrid's Puerta del Sol square.",
+        "Like many of the hundreds of others who have pitched their tents here to protest at Spain's housing crisis, she has no doubts when it comes to diagnosing the cause.",
+        "\"It's the same problem as always,\" she says."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Protesters blame 'vulture funds' for Spain's housing crisis"
+      }
+    },
+    {
+      "title_original": "NATO attempts to cool tensions with Russia ahead of key nuclear exercise",
+      "title_zh": "NATO attempts to cool tensions with Russia ahead of key nuclear exercise",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOenI5TnJKRzlzU3FWZDdTZVl3WXJUTElLbWdfYUlzdGp6b2pycTZmb2Ffb3FHWVBPMEF1cmVjVHU5bGg4UEhUV05KODZzS2F0b1l4ZkV1bXZKMVQ2dnU0ZTRZay10M29mcFRTMXBSTlphazFTbXJ5VkJqZTFrNnNjaTdLX1Z4a3J0elJ3Njk3WkhLWWEzWkVOSlZlWW5zVEN5RjVTM29KNng?oc=5",
+      "source": "POLITICO.eu",
+      "source_score": 75,
+      "published_at": "2026-10-08T18:47:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO attempts to cool tensions with Russia ahead of key nuclear exercise    POLITICO.eu",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "POLITICO.eu"
+      ],
+      "all_titles": {
+        "en": "NATO attempts to cool tensions with Russia ahead of key nuclear exercise"
+      }
+    },
+    {
+      "title_original": "Adidas sues Australian label White Fox over four stripes design",
+      "title_zh": "Adidas sues Australian label White Fox over four stripes design",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-08T18:17:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Adidas sues Australian label White Fox over four stripes design\n- Published\nAdidas is suing Australian label White Fox for selling and advertising clothes with a four-striped design, arguing it is \"deceptively similar\" to the German brand's distinct logo.",
+        "The sportswear giant said it had repeatedly asked White Fox to stop selling and promoting the clothes since March, but the Sydney-based company refused.",
+        "The fast-fashion online retailer is popular with teenagers and young adults in Australia, the UK and the US, and has relied on billboards, bus advertising and influencers - often university-aged - to grow its profile."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Adidas sues Australian label White Fox over four stripes design"
+      }
+    },
+    {
+      "title_original": "Nato kündigt Atomwaffen-Übung an, Bundeswehr nimmt teil",
+      "title_zh": "Nato kündigt Atomwaffen-Übung an, Bundeswehr nimmt teil",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQWJUMjRKWXp3S2kzZWRqeURuT013ejJLUXFxVmRXanBuZ3k4bXlTMFZKS1poOUxDRkVUX0d5SzQyUDlweW1sb3ZjdHNXM2tSM2FQaThYaTlnaU03b3RSbk5NRkRFQTE0UFVZSlc3OXhKUFg3blVGX0twUDdjVmVxcDlSZlZDTW9CS3hRdGZ5czR2d1pJcURyTFJmMEZfSlFEeTB3V3I2dENHa09MalhyZ2JKc0tPZk5tYWdyTTh3Ylk4UjNx?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-08T18:16:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nato kündigt Atomwaffen-Übung an, Bundeswehr nimmt teil    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Nato kündigt Atomwaffen-Übung an, Bundeswehr nimmt teil"
+      }
+    },
     {
       "title_original": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
       "title_zh": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
@@ -51,6 +676,56 @@
       ],
       "all_titles": {
         "en": "NATO presses ahead with 'Steadfast Noon' nuclear drill after Russia's nuclear warning"
+      }
+    },
+    {
+      "title_original": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "title_zh": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-08T17:16:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US deportations to African countries unlawful and exploit suffering - rights group\n- Published\nCampaign group Human Rights Watch (HRW) says the deportation of migrants from the US to third-party African countries is against the law and exploits suffering to deter migration.",
+        "\"Many, if not most\" of the deportees have no practical option but to return to their home countries regardless of the harm they face there, HRW says in a report.",
+        "Since Donald Trump returned to the White House in 2025, more than 500 people have been sent to African countries where they are not citizens, the group says, citing US data."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US deportations to African countries unlawful and exploit suffering, rights group says"
+      }
+    },
+    {
+      "title_original": "Two Latvian men arrested at UK base housing US and NATO intelligence hubs",
+      "title_zh": "Two Latvian men arrested at UK base housing US and NATO intelligence hubs",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQTZNX1p5SGpKU3gxa0syT3BnXzdudVZEQmt4Szh2X0s3cEJKc0NqNThMMzBtdjJXN2dhOUMybjBoclJITFhBblMzTGN4REhaek9jWGM4SjJ6X1hXY0g3N2dnOHdQNHdqbGFUY0plWHlvakZCaW81SjFubXFhOTE3VXRRaEVWaXdFYXh6Y3FsdjFRdkQzcmo2SG5hcnJpVEk1YjRVZ1gxYmdFdkdrbE1wZ1paTlBkOVBy?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-08T16:57:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Two Latvian men arrested at UK base housing US and NATO intelligence hubs    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "en": "Two Latvian men arrested at UK base housing US and NATO intelligence hubs"
       }
     },
     {
@@ -104,6 +779,56 @@
       }
     },
     {
+      "title_original": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "title_zh": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-08T16:31:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge\n- Published\nAt least 30 people have been killed in a Russian glide bomb attack on two civilian buses in the eastern front line city of Kramatorsk, rescue officials say.",
+        "Authorities said three people were also killed in the village of Bilenke, part of the Kramatorsk community.",
+        "Another 18 people were wounded, said Donetsk regional head Vadym Filashkin, accusing Russia of targeting buses carrying passengers to kill as many civilians as possible."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge"
+      }
+    },
+    {
+      "title_original": "Zambia signs US health deal after disputes over data-sharing",
+      "title_zh": "Zambia signs US health deal after disputes over data-sharing",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-08T16:24:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Zambia signs US health deal after disputes over data-sharing\n- Published\nZambia has signed a five-year health financing agreement with the US, ending months of public dispute over whether the country was trading citizens' medical data and mineral rights for aid.",
+        "Under the memorandum of understanding, signed in Lusaka on Thursday along with a data-sharing deal, the US will provide about $1.5bn (£1.1bn), with Zambia also contributing.",
+        "Civil society groups had criticised a leaked draft they said allowed too much data sharing, while activists seized on reports that health money was being linked to preferential access for US companies to minerals, which the then-US ambassador denied."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zambia signs US health deal after disputes over data-sharing"
+      }
+    },
+    {
       "title_original": "صواريخ الحوثيين تستهدف مطارات سعودية، وتحالف دعم الشرعية في اليمن يعلن شن غارات على 82 هدفاً حوثياً في مناطق متفرقة",
       "title_zh": "صواريخ الحوثيين تستهدف مطارات سعودية، وتحالف دعم الشرعية في اليمن يعلن شن غارات على 82 هدفاً حوثياً في مناطق متفرقة",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HWDQ2cXk4SGlCSkszcDgwSFVab0xEU29aZUtUbGJkUzQxNDRvZ2JWdlBHZzJENjc2M0FMUWgySmVCY1hSVmVSeGppeXo3R1lrUUxGc2JkTHF6cF9QLW5IWGt0SWhUQ3ZSNURF?oc=5",
@@ -126,6 +851,31 @@
       ],
       "all_titles": {
         "ar": "صواريخ الحوثيين تستهدف مطارات سعودية، وتحالف دعم الشرعية في اليمن يعلن شن غارات على 82 هدفاً حوثياً في مناطق متفرقة"
+      }
+    },
+    {
+      "title_original": "Atlas géopolitique du monde global – Édition 2026",
+      "title_zh": "Atlas géopolitique du monde global – Édition 2026",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRTRYMFdmSFZBei1EdVd4b3ltQ0VCSFJNMFB5azBjMGF1NURpTEg5NlQ0cUQ2WHBJR0VIZWVWeEpOcFZ5eWd3bVBMd05iQjFWQmJJczF2NE1tUXl0bk1yOGN1VG5yaEstWjBZeVRfS29sNFM0Rl82RGd0azhldW4wVENNdzJSWlIzbHlfLQ?oc=5",
+      "source": "IRIS - Institut de relations internationales et stratégiques",
+      "source_score": 40,
+      "published_at": "2026-10-08T15:50:15+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Atlas géopolitique du monde global – Édition 2026    IRIS - Institut de relations internationales et stratégiques",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "IRIS - Institut de relations internationales et stratégiques"
+      ],
+      "all_titles": {
+        "fr": "Atlas géopolitique du monde global – Édition 2026"
       }
     },
     {
