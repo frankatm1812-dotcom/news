@@ -1,0 +1,882 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-10T16:14:34.069678+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Several injured as Saudi capital airport reportedly hit again",
+      "title_zh": "Several injured as Saudi capital airport reportedly hit again",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-10T16:05:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Several injured as Saudi capital airport reportedly hit again\n- Published\nSeveral people have been injured in an attack on an international airport in the Saudi capital, reports say, just days after Yemen's Houthi rebels claimed two successful attacks on the hub.",
+        "King Khalid International Airport in Riyadh was evacuated after a loud blast was heard on Saturday, two international news agencies have reported.",
+        "More than a dozen ambulances were seen rushing to the airport, according to Reuters, citing an eyewitness."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Several injured as Saudi capital airport reportedly hit again"
+      }
+    },
+    {
+      "title_original": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+      "title_zh": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-10T15:58:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Christa Pike discharged from hospital and returned to prison, her lawyers say\n- Published\nUS death row inmate Christa Pike has been discharged from hospital following her botched execution at the end of last month, her lawyers have said.",
+        "The 50-year-old murderer has been returned to the prison where she has spent the last 30 years, according to a statement from her lawyers on Saturday.",
+        "She is continuing to receive medical care at the prison."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Christa Pike discharged from hospital and returned to prison, her lawyers say"
+      }
+    },
+    {
+      "title_original": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "title_zh": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-10T15:23:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Nobel peace laureate says US sanctions on ICC 'unacceptable'\n- Published\nNavi Pillay, the winner of this year's Nobel Peace Prize, has called US sanctions on the International Criminal Court (ICC) \"unheard of\" and \"unacceptable\".",
+        "The South African former ICC judge was awarded the prize on Friday \"for her efforts to promote peace and international law\", which paved the way for a \"more comprehensive global legal order\", the Nobel committee said.",
+        "US President Donald Trump expressed his disatisfaction with the pick and hours later the US unveiled sweeping sanctions in a significant acceleration of its attempt to \"dismantle\" what it described as a \"rogue\" institution."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nobel peace laureate says US sanctions on ICC 'unacceptable'"
+      }
+    },
+    {
+      "title_original": "Woman injures three people in third Poland school knife attack in a week",
+      "title_zh": "Woman injures three people in third Poland school knife attack in a week",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-10T14:58:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Woman injures three people in third Poland school knife attack in a week\n- Published\nA woman has been arrested after injuring three people in the third knife attack recorded at schools in Poland this week.",
+        "The 21-year-old used a \"dangerous object\" to attack a 17-year-old girl at an educational institution in the capital Warsaw, police have told news agencies PAP and AP.",
+        "It comes a day after thousands of police visited schools across Poland following two stabbing attacks earlier in the week, one of which killed a female caretaker."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Woman injures three people in third Poland school knife attack in a week"
+      }
+    },
+    {
+      "title_original": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "title_zh": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-10T14:49:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says\n- Published\nA drone attack by Sudan's paramilitary forces has killed 41 people in the country's Blue Nile region bordering Ethiopia, a rights group has said.",
+        "The strike by the Rapid Support Forces (RSF) targeted a camp for displaced people in the state's Abu Shandi area on Friday, Emergency Lawyers said.",
+        "The UN Office for the Co-ordination of Humanitarian Affairs (Ocha) said it was \"appalled by horrifying reports\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says"
+      }
+    },
+    {
+      "title_original": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "title_zh": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-10T14:24:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin\n- Published\nUkraine's President Volodymyr Zelensky has condemned Donald Trump's announcement of a deal to import Russian diesel into the US.",
+        "Zelensky called it a gift to Russian President Vladimir Putin that amounts to \"an investment in a war that must be ended, not prolonged\", a position quickly backed by Ukraine's European allies.",
+        "Trump said Putin had agreed to release 300,000 tonnes of diesel immediately \"to the American and global marketplace\" followed by 500,000 tonnes in November and another million after that."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin"
+      }
+    },
+    {
+      "title_original": "Frontverlauf zeigt: So nah ist Putin seinem Kriegsziel",
+      "title_zh": "Frontverlauf zeigt: So nah ist Putin seinem Kriegsziel",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSENRTTRxZGUzUnk2X1hPWmhkdklnVjlRTFRpUDJDRGFJUGhxcVpKRWY3Q2phSXNjQVRGM2R1eGZiUTkteUlhSzVnT3JMWUVxM3VWeVdMMlhIRUZ2TndHZ1hrN1Y4VTRhSWthcDlrU3c2VjR6M2VDckQtSWpPS0RPSjBOZ3JCLTlycUl2WXg3cEFubFJQaHZiZFFtR0VUZXZKN2FmUXpOQzN4N3h1c2pLbFlIeV9PMkI2NzdQVkhLUGQ0cHNhclJWTQ?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-10-10T14:12:45+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Frontverlauf zeigt: So nah ist Putin seinem Kriegsziel    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Frontverlauf zeigt: So nah ist Putin seinem Kriegsziel"
+      }
+    },
+    {
+      "title_original": "3 شروط يمنية للسلام... أبرزها إنهاء الانقلاب",
+      "title_zh": "3 شروط يمنية للسلام... أبرزها إنهاء الانقلاب",
+      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQalRITGxFQTh3dERtSWczWms2UndZSkMzVi1jU29nTXBfXzZsLXh6TE5vU3VJUGpzcG5EYzlQQnVOb3JoOWVQSEdoRlp6UzNlY01FRzJYZC16Ui16WjJIcjUxZTBaX3dGSUhuR1ZrWGZYaV9xTmJoVHdhU0pOdjNrT2pZc3JGbXh2NjZkUkZBM05KV3ZVMDk5Y3UtNzlfMzZ4MkM0cmQxbVI1VG5BTGlUXzJMUS0xeUl1dTdjNWptZzlzWnh2YjVTeTYtUUpDZ1ZkaGdQcHRyRFo0UlVKenM0OElHNl9aUWhyOGZFdGpnTnQtT3lHci1BZWE2aXFLbDd0aVVWc1VQazZsZmtPd25RajhaY1BKTDhidkY2NEl6QzI0dGRjXzFEaFJMXzZGS0ZFVGY3Yk50b1loN19yZ0lpbHcwdi16QTJOU0JlOGdwNVE3c1R4UFBpX2FMY1Y1ei11WEZIajdSNUE4ZHgwZDhTVS02Mm1MamtkUWVjT0hoZGM5VG1WU2s5dnd3Sm1KLUdaWGFXUUtpUVJPWnpZTGFfTWNQN1YzbVpYTnlmUGprV0FVN01UX202RzVXWENBQTRSektheGdmdkR0NE5LYmJuV05kaGF5M1RMX0pjRnVXaExrUno2U3AwZ3BicHVfUQ?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-10T14:06:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "3 شروط يمنية للسلام...",
+        "أبرزها إنهاء الانقلاب    الشرق الأوسط",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "3 شروط يمنية للسلام... أبرزها إنهاء الانقلاب"
+      }
+    },
+    {
+      "title_original": "How SNAP could crunch the midterms",
+      "title_zh": "How SNAP could crunch the midterms",
+      "url": "https://www.politico.com/news/2026/10/10/snap-changes-republicans-midterms-01115721",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-10T10:01:20-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Changes to SNAP from Republicans’ megalaw are rolling out in a year when affordability woes top voters’ priority lists and grocery prices strain their wallets.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "How SNAP could crunch the midterms"
+      }
+    },
+    {
+      "title_original": "David Plouffe warns Dems: Don’t take North Carolina for granted",
+      "title_zh": "David Plouffe warns Dems: Don’t take North Carolina for granted",
+      "url": "https://www.politico.com/news/2026/10/10/david-plouffe-dems-north-carolina-01115652",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-10T09:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The veteran Democratic strategist, who managed Barack Obama’s narrow 2008 victory in the state, urged donors and supporters to stay focused on Roy Cooper’s Senate campaign.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "David Plouffe warns Dems: Don’t take North Carolina for granted"
+      }
+    },
+    {
+      "title_original": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "title_zh": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-10T12:29:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "'Cockroach' group leaders among hundreds detained in Delhi protest\n- Published\nHundreds of protesters have been detained in Delhi during the latest demonstration by the Gen-Z-led Cockroach Janta Party (CJP) calling for electoral reforms.",
+        "The group said its founder Abhijeet Dipke - who began the movement in May after India's Chief Justice likened some jobless young people to \"cockroaches\" - was detained with other leaders shortly after landing in Delhi.",
+        "Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration, though the CJP insisted it would go ahead."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Cockroach' group leaders among hundreds detained in Delhi protest"
+      }
+    },
+    {
+      "title_original": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "title_zh": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-10T12:28:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Headmaster detained after BBC investigation into alleged sexual abuse of students"
+      }
+    },
+    {
+      "title_original": "Operations Plan Germany: How the Bundeswehr trains for NATO defense",
+      "title_zh": "Operations Plan Germany: How the Bundeswehr trains for NATO defense",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTNuOU1xNm5GUVA5WGlFNjR1Mm55Z3R0N0s4WklqcEtzOFhDSVF0TWpfTDNJdlBzQVhucWN4TGZMWG9hcUR1Q2RDRjY2YXM3WTJLM0cxZWFCQ0RfV3FPcEt0aGtqVW9EMThJeE5relR5WUp6MHFFbVNfNnN4WnExNTI2akNiOUNTVzg5LTdhLWd4ZDRVN2s2aWhEZ3lmVmNSNDZqWmhYekc5UjlqclZn0gGvAUFVX3lxTFAyaGFLQU1XTFRvNjd2OEpEeDNiTDVQS0szcVRWd3dwWDJReFcwUkdnY2Y1NGtlek1jTUFyeXpYLWkxUVk5X0hud210U1ZaUUtrTEM0M0RJSzEyVXhNTkc0dTVuUGNrZ2RUZlZ1Ul9QZlpnbEZobmxaYl9MNHVObFVhUEcyaGVQemZEOTNadE43aGJEWV9HY3MxanAxdGVKaFljbVJyaGYyQ1kxei1XX0U?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-10T12:10:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Operations Plan Germany: How the Bundeswehr trains for NATO defense    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "en": "Operations Plan Germany: How the Bundeswehr trains for NATO defense"
+      }
+    },
+    {
+      "title_original": "رئيس تايوان يُغضب الصين بتصريحات حول ميزانية الدفاع",
+      "title_zh": "رئيس تايوان يُغضب الصين بتصريحات حول ميزانية الدفاع",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOVXFfMFRxZThnYkM5UDJLT0lXdnRkbTdCeW5BcEg0ZFlYa3NBNDdfLU5DbWQydHVOcjhQV0d2NVRWTlNtdHpXVlgyN2RpQ0JCTG52bDc4bVY4d3VmU3JiZE51OFRxaVozWksyY0lySG13UlNjNXVqOGtISmt2R3BxS2k1Q0l5cHN3X1MzYUk4VjNQRlFVUng4bVVCN0V0TkRiMk9LOEw4NUdZMWQtaWRkMjB3VXdPSG5BbXMtYWVfamc5X3hjR3c2N055Z1MyRkQ4dGlJSEUta0ZTb2pQOXcxTW5oQmFRZWRvT21LdTlQcVJ6MUh5VklmWTNOMThWWHB1T1gyMERla2xJLW5MSi02WXo5Mm9vRmNxTHBYek9sUXk1WklrQ1daTzJyYk1SMEI4Z1NyYnVuUmJOa2Nldl8zX3lzbnlVeEdOcElEYUMtdmhWVzVW0gHaAkFVX3lxTE5VWXE2Ykg5OEpNSHRyemVWVHRCdTFyOU1EdGJPbVJOVWtvbzUyb1FDZmlmMWlRQ3RYV04tR09wWGVlNk5kMGl2SVVHd3FGSlMyMXU0Y3pCNzVNMkxFVXBCWXBsLWFUOVd2WFVmdnFoTldEWUNKd1pxMllOcDFPMmlYZy1hcTVmWmhkMFNxOUhhbUJLeWp4RG1ZOFpTQXI4NURfekd6cjdOSUthUDB2VmIyOWctZWsxYi1UbEgxTDdMVmU2bEdPMFZQRmtvVW44WFM0eVExNGxXNmtGTVhFTFFtNHVNbThNbkNDcHlVZUtFdm5Kb1RKRTNQVlpIUGFtWDdBc0hHR1owUHJqLTJ0MU1zODRUWEdqNy1uNW1FYUY1ZEx4aUppdEhQRWYtc1BtLXE4Z0p6WVRRQ3dpaUQ3OU9JYjZQbVlKazctaUdGVXRreVNtWGdPWmNxNUE?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-10T12:07:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "رئيس تايوان يُغضب الصين بتصريحات حول ميزانية الدفاع    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "رئيس تايوان يُغضب الصين بتصريحات حول ميزانية الدفاع"
+      }
+    },
+    {
+      "title_original": "Russia kills 15 in Ukraine as US hosts ‘productive’ talks to end war",
+      "title_zh": "Russia kills 15 in Ukraine as US hosts ‘productive’ talks to end war",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNVRaMG1aRnhiZDJkQ1NPY3J2RVpHaVE5TkwwWmFMQjBNUGloLUNZbHYyNm50RmZaYTlSSlJNQmFHellyeTB2VVhxSk9Ka1hEX1FQWUhsN1hGcS1PQVVSUFJuTW1tQ01KZU1GX3RVcGc3cEZ3bGpqLXZHZXpuQmJ4S1NfampTN2gwbmszTUMyeVNPemhVeFUzaXMxbnJKMElSb0l1RnBOONIBrAFBVV95cUxPOEF4cGJIaG42czhBRHVhOGZ2STlHRThabnNjZFd4SkFtYWRobHlFMUVHQXJScnYzZ1p4ODJXLVE1emFwSHBuaGJwZXNobTBLMXBUNEtvRGgyMXN3QjJuTUh2ZUlUMVdTVnJQQ2d5UmZFZmNfVzQ4cm1hQ3EzbENCcmlyTEdCMFdsSFY0cWEyWXkyNWxOUlE0NXA3aktfTS1NeDVFenZwS092bHRL?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-10T11:36:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia kills 15 in Ukraine as US hosts ‘productive’ talks to end war    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russia kills 15 in Ukraine as US hosts ‘productive’ talks to end war"
+      }
+    },
+    {
+      "title_original": "克宫称普京对美方旨在缓和俄乌冲突的部分提议表示“理解”",
+      "title_zh": "克宫称普京对美方旨在缓和俄乌冲突的部分提议表示“理解”",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95cVpzQnBTN0puTXBfUG02TmJ1Ql9JVUdROFVlNnJOUGxSVTV4MTZSbS1RSTJoQllpNTBWbzVPbE95d2stenBsT1RDTDA?oc=5",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-10-10T11:07:15+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "克宫称普京对美方旨在缓和俄乌冲突的部分提议表示“理解”    凤凰网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "克宫称普京对美方旨在缓和俄乌冲突的部分提议表示“理解”"
+      }
+    },
+    {
+      "title_original": "تايوان: زيادة الإنفاق الدفاعي تمنع نشوب حرب",
+      "title_zh": "تايوان: زيادة الإنفاق الدفاعي تمنع نشوب حرب",
+      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPOGowUndrNFJlaVpldzNLdkFSa25KWEJRVFF0MHJCSVRCOU5oQXZPWE1WZWY5dzl6anE5QXMyVDBYZ0V1Vk9uRWRjQTFJSnlpWDZjbjNXVHpZUlRkTDV6VTVZM2lweGxmZjJnZm1KdktwRzNWWHdwUUJQT3NCczhFUkloR0Vic0VsTjFNTHNwTVJod0RjaVRadnVSY0tjX3ZydGNVVUlBakVXNGFIcC1BN3lCVjJhZThTSlJMWTQwYll1VzNTbzdQdmFwT1lDVXJOSF9fa1F3SE45TEoxWjlBckxOckhmQ2JiMFRsOFNiT1hzdWFveW56YTFnbXY2TExIRUd0ZlZLOGhDTkFnd3lnbW53ZVp1ZERhSW9YU3NRQ0F2SlQzT055REZyQmxmM0Qza3NGcXpTa25KNEdENlBtTl9KNzIwaThHemx0Mk4wc2dNUnNzZDZSQi1sTjN1MjlHbkFNZVRXTXlBTHNqcXUyRDNDNmVKem52bFRua0JLTHB6YklyLXdFc0g0WDJiWDZ6U3pGdXppdlQ2TmJZNUdYQ1hQZUkxclhfOWtTcDVWYjVidjVZVnkyUE5sZEJlemdydUhCZGYxU0F3aTdsUnNzN19rZlVzYWUtMlk2S25YMEw?oc=5",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-10-10T11:01:42+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تايوان: زيادة الإنفاق الدفاعي تمنع نشوب حرب    صحيفة الخليج",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "تايوان: زيادة الإنفاق الدفاعي تمنع نشوب حرب"
+      }
+    },
+    {
+      "title_original": "Le roi Mswati III à Taïwan pour signer un accord d’entraide judiciaire",
+      "title_zh": "Le roi Mswati III à Taïwan pour signer un accord d’entraide judiciaire",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRDZ3aFpuemlZazZGb2d2SkxaeVFPZDNaMXpBLXd3d0hFUWtua3JMUElnamJVME5nUGczU3JuU0thTVBScjJoQ21EQmVwTW9xdHVOZlRTbGhvWVJXbUlWZzRUZl92TEhlVFFfWGVFVmF0Vzh2aUtrWlNZWV9HTGZZTkE3ak5FNGJNQ29Ua2xxbDY2Zw?oc=5",
+      "source": "Histoires Royales",
+      "source_score": 40,
+      "published_at": "2026-10-10T10:35:57+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Le roi Mswati III à Taïwan pour signer un accord d’entraide judiciaire    Histoires Royales",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Histoires Royales"
+      ],
+      "all_titles": {
+        "fr": "Le roi Mswati III à Taïwan pour signer un accord d’entraide judiciaire"
+      }
+    },
+    {
+      "title_original": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "title_zh": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-10T10:06:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case"
+      }
+    },
+    {
+      "title_original": "【社説】イエメンの紛争激化 中東全域に拡大させぬ外交努力を急げ",
+      "title_zh": "【社説】イエメンの紛争激化 中東全域に拡大させぬ外交努力を急げ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xOWNZNHpGMWotM1ZwUmZDSEZXMHZSWDMtc3dzOTFTVVZTQmNyTFFNUjdiUVROa2JCWXBIcVBreUlJZnp0Njk2TzJKX2FkY2Zva3JSSk5EclJ0X2l1SjN3UjdkcTBybnM?oc=5",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-10-10T10:01:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "【社説】イエメンの紛争激化 中東全域に拡大させぬ外交努力を急げ    朝日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "【社説】イエメンの紛争激化 中東全域に拡大させぬ外交努力を急げ"
+      }
+    },
+    {
+      "title_original": "Once empresas asturianas se presentan para participar en el programa NATO Engine de la OTAN",
+      "title_zh": "Once empresas asturianas se presentan para participar en el programa NATO Engine de la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNanp0NWpYUm9kYjl6cHF1UmxLcTVfNGtkUDRjMDQ3TkhfaXpsZlpVTU90MFh6eEcwVEdSRjFscGUxVkdFaXh6ZlMzRU4yRjlpei1BSjBFelN1TFk2eDhlTlU5S2VXOG8yeTN5bG8taHg0dzJTT2x2alJTT2pMc0s3c0lwaWF0bW1ZYXJoRDBpWDF6N211YTg2YjJGU0R0UTJqNFF0R3ptU29fdjVHQXJzR0gxWnhNQWFuV1U2MnhxeWx3RHZNNk9HeHJyd3l1Z2c5ekxfYm9XLUJaOEtkZXlYSmUxQkw3WTZYV19aLTFDY9IB9AFBVV95cUxPejctaWtEaWtsbnVkU2hXZklKLVFWcEYtRFpsOGxkLUdpdkFGWlRYQk1NZmJfOHZaQ0xaQWZhRzdBYzdycjl6aE1jRW9KZHVlSTRRb3BVVkJLRmU5V0RFWlFKdE8yOEpQWG4wdXZHQzNENkx2bW5hd0V1TS1waGlPdUF2cmpEbXVqM3pydVAwTGs0MlByaEZBR28tc2FzYm5KekhuY2JiNHNtTGc3VnkyUFNubFNVRXZuam1qMFh3dVZmV0dDQ3JTOGxnUloyNXBaRHMzY2JTYTdQSTNrU094WjVySGhyYTZiMkVzaDJzaWlBZzUx?oc=5",
+      "source": "Radiotelevisión del Principado de Asturias",
+      "source_score": 40,
+      "published_at": "2026-10-10T09:20:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Once empresas asturianas se presentan para participar en el programa NATO Engine de la OTAN    Radiotelevisión del Principado de Asturias",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Radiotelevisión del Principado de Asturias"
+      ],
+      "all_titles": {
+        "es": "Once empresas asturianas se presentan para participar en el programa NATO Engine de la OTAN"
+      }
+    },
+    {
+      "title_original": "L’Europe de la défense ? Berlin préfère l’OTAN",
+      "title_zh": "L’Europe de la défense ? Berlin préfère l’OTAN",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZmRycTBzM0NCZnhycTJvMEdqcFBBRVhOY3hrUGVwejEwN0E5RWd3dm94Zk41ekhWVVBLVHIwRmN4ay0zV1dKcHBTMnF2LVBiUlNrempHLU42QXEtdm9adVJMenprb1pZUGlXd0x6RjhJZzROYkIxenJocmxPLU9NQ0FR?oc=5",
+      "source": "L'Essentiel de l'Éco",
+      "source_score": 40,
+      "published_at": "2026-10-10T09:13:32+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "L’Europe de la défense ?",
+        "Berlin préfère l’OTAN    L'Essentiel de l'Éco",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "L'Essentiel de l'Éco"
+      ],
+      "all_titles": {
+        "fr": "L’Europe de la défense ? Berlin préfère l’OTAN"
+      }
+    },
+    {
+      "title_original": "Marco Rubio advierte que el estancamiento de la guerra en Ucrania amenaza a países de la OTAN",
+      "title_zh": "Marco Rubio advierte que el estancamiento de la guerra en Ucrania amenaza a países de la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclo4UXp1dWw4MDZJUXRYSWd3UVk3TXRCcEE5SWJyNXdKMGh6cmdWNFp4dE5aLVBzeG9jWnZzXzUtcDBmSGtad2Nyb19XWTFOZUJ5NktHMGZ4OGVZV0dXNkdMMjdmRkVtUktHWWJjSEpGZkdqR0xneEh0LWg2eUNqcHVZcWpQbWptTVJTVVBOcWJhVjRXSFUzMlY3cHRhX3Q5dTM1SG4weGxQdjFhRi1JQm1fQ3ZaS1BZNmFfLVB4UWZkNTZMbnA5d0xpdFVSVnc?oc=5",
+      "source": "Univision",
+      "source_score": 40,
+      "published_at": "2026-10-10T09:06:24+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Marco Rubio advierte que el estancamiento de la guerra en Ucrania amenaza a países de la OTAN    Univision",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Univision"
+      ],
+      "all_titles": {
+        "es": "Marco Rubio advierte que el estancamiento de la guerra en Ucrania amenaza a países de la OTAN"
+      }
+    },
+    {
+      "title_original": "Russland-Ukraine Krieg: EU betont, Hilfe für Ukraine reiche nicht",
+      "title_zh": "Russland-Ukraine Krieg: EU betont, Hilfe für Ukraine reiche nicht",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ybHRaYUdhdGhqTXR6TGRrZnpYbjFWNjRFbmp0eS05aEdmTW02akZRYWFOVko4UUVfRDZwU2ljY1JYTFczdU1xVHR6RzJOUENzS1RZZEdsOFdkVzNyV3p6eVRJb1ZGd1Y0Tll3LUZHVG1ta1lFU3Ryd3YxMHZpU0U?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-10T08:16:40+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russland-Ukraine Krieg: EU betont, Hilfe für Ukraine reiche nicht    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "Russland-Ukraine Krieg: EU betont, Hilfe für Ukraine reiche nicht"
+      }
+    },
+    {
+      "title_original": "Ucrania ataca terminal petrolera rusa pese al acuerdo alcanzado entre Trump y Putin",
+      "title_zh": "Ucrania ataca terminal petrolera rusa pese al acuerdo alcanzado entre Trump y Putin",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUVNmMXVCWGZZWm82cU55THpBZ2N2Wk8wbTJURWg2S21tRDZla2ZHM25DcU11LVVsZVBRY29DakVJMi1Fby1WbmsxYkN6UnV3VTVDaERrMFNZMGJzdThIbmtXN0VyMlRRQ1RsVm1XRVZhcGdXYURyWTV4ZjdyN0hRNXViejJpSldIemFpX0FOcHRFWjQ1TmU2UUxqU1FnRmFjY3hn0gGjAUFVX3lxTE1QZk1yVGlDTHdzNGJKRDZBTk1mLXJ4OFNaWEtLM1M0VFltM3ZFY1IxS1dpVmVDZFVSVGdpNVZsQ2NWa2JKYW5STDk3Y1VWM082SVBKNHhTd294bUJZSE8tclZwdUJZTUU0X3RQS3psVFp5RERBSXdWWW5ETERqT2xlVnk5VC1xVEh5d0N1MnFOSDhGeHpYUm5TQUJxWDVucm1JaXc?oc=5",
+      "source": "El Periódico",
+      "source_score": 40,
+      "published_at": "2026-10-10T08:11:12+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ucrania ataca terminal petrolera rusa pese al acuerdo alcanzado entre Trump y Putin    El Periódico",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "El Periódico"
+      ],
+      "all_titles": {
+        "es": "Ucrania ataca terminal petrolera rusa pese al acuerdo alcanzado entre Trump y Putin"
+      }
+    },
+    {
+      "title_original": "从勒庞到德国选择党：极右翼浪潮威胁欧洲重新武装，北约担忧援乌支持下滑",
+      "title_zh": "从勒庞到德国选择党：极右翼浪潮威胁欧洲重新武装，北约担忧援乌支持下滑",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TNl9TOEQyc2ZPRHk2UnJYeFg4eXZ2a1JWRVd0WlJ3ZDFVcVFoTXZPT3U5M0dTNmc2S2xaNUJtZ2ZPVEtQdjFLXzNTVllfcnd6UGJTOVpLbWxBanlQeXdySU9LN2FLVzZ6QzhoeU4xSHNBQQ?oc=5",
+      "source": "新浪网",
+      "source_score": 40,
+      "published_at": "2026-10-10T07:52:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "从勒庞到德国选择党：极右翼浪潮威胁欧洲重新武装，北约担忧援乌支持下滑    新浪网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "新浪网"
+      ],
+      "all_titles": {
+        "zh": "从勒庞到德国选择党：极右翼浪潮威胁欧洲重新武装，北约担忧援乌支持下滑"
+      }
+    },
+    {
+      "title_original": "王毅：中国与太平洋岛国合作不参与地缘政治争夺",
+      "title_zh": "王毅：中国与太平洋岛国合作不参与地缘政治争夺",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0R2Jtc1M0TFRvQnZIallROXVaQjNveVJCTU1laHBXMHVvVlpkcTVrOXVhY0NIZ3lLemZiY05tNVNfbV9KcXlPQXFPNWNVc1NoVTVvWHJSVnJVbUI2czZWdzdZNWNLZV9fSlE?oc=5",
+      "source": "联合早报",
+      "source_score": 40,
+      "published_at": "2026-10-10T07:36:32+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "王毅：中国与太平洋岛国合作不参与地缘政治争夺    联合早报",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "联合早报"
+      ],
+      "all_titles": {
+        "zh": "王毅：中国与太平洋岛国合作不参与地缘政治争夺"
+      }
+    },
+    {
+      "title_original": "زعيم تايوان يقول إن زيادة الإنفاق الدفاعي تهدف إلى «منع نشوب حرب»",
+      "title_zh": "زعيم تايوان يقول إن زيادة الإنفاق الدفاعي تهدف إلى «منع نشوب حرب»",
+      "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxQRDFFOGlUcXRLZExySTRHbS11a1I3TlQ2LWZLQlNWc2Y4dkZldEhpWmhoS2RHeHVoR0Z1Y1FGLUxrcnpxdlZyaUcwTDZIa2pLX19jb0FRS0dfaVlQbnNLSk1tenB6UmhHQURTYzc3YTFDQkdDbkpzM0VFTjlXX0JYR1dLNldVTXNpSjJqWkROUDM5cklxcENwcEtFTUxtU282TmJMLWRkbHFMTUl0OFpYVE9PLTBIQ3NvTkQwYV9YTWNsQV94TmNXUV9KR2ZPS0RfdEl3cnhhbnhKZFRMZzJtRFVtOGZMVWNTZ2RXMC1sSTV2RTk2Zm4zdzg3MGlmUkZaRENzOHJUVXNlQUV4NHlVMUhVbjlvNTdZQlR2X3BodWFmRGt4LUJMSEZWc2Nla1R3VVVUXzJUWDViMFhyZUZLWnNSS3FENU1XN0NzQi1jb0pUYVdIekpNR3RWRkNjOWdGcUM0c2tFZ0h2NWVEN0Z3LU9ZNGNZVG1wakxBMFZjclF3ZzlyMU84aWhyMFlnZ2dpQi0wNjc1ZjJaa2hWTGl5TUgxbUhnVzlUcnNyZmFYWDdXMl9GZHdINWJiN0lsczJURkdMRERyQVBYOWxLS25KYzlOc2hrbDJZbnBTN3ZVSzJnbGtIWkU0NWYwWjlhRHRwdDB5YjYyd0ZoTEtxdmM1ZXlLaW9EYVB3Ulp3bjM0Wlc2QmZqdWN6MTZBYWVPclBaMko3akh0d2w4em5QQnVOZFBhMUhrbUZDVERoTE1mVHBudw?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-10T06:53:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "زعيم تايوان يقول إن زيادة الإنفاق الدفاعي تهدف إلى «منع نشوب حرب»    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "زعيم تايوان يقول إن زيادة الإنفاق الدفاعي تهدف إلى «منع نشوب حرب»"
+      }
+    },
+    {
+      "title_original": "Presidente de Taiwán pide a democracias regionales que ayuden a mantener la paz en el Día Nacional",
+      "title_zh": "Presidente de Taiwán pide a democracias regionales que ayuden a mantener la paz en el Día Nacional",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUWVaWENnX09hRERrYkZDb1lfTDlHX192QzI4eW04eFg0SDlNRXMtLW0xdW0xSkdjR0lBQWJ3WnlMSzNORDBuUkJyMkZMQjJldDdqZHFnMUN1bDBGWEJFT092QnhUNjIwQkFiZ2ZVSnFzOVgzYmxCbFduYXJMX1FvM1lGSC0yVExsN3VVSVdpeTVRNlRlMWZUTm4wWWRaLURabG9IbG5QOXM4aEZhUk5hQlZZc3k4SWQ5cVMzS0ZUUVBLSTd6RmxUU1ExX3BNUlhTVWVxbm9nV2Z4OXZOSjNyY0NfSVRGaTVSQ0dDb2RPd3VQN00?oc=5",
+      "source": "Independent en Español",
+      "source_score": 40,
+      "published_at": "2026-10-10T06:44:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Presidente de Taiwán pide a democracias regionales que ayuden a mantener la paz en el Día Nacional    Independent en Español",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Independent en Español"
+      ],
+      "all_titles": {
+        "es": "Presidente de Taiwán pide a democracias regionales que ayuden a mantener la paz en el Día Nacional"
+      }
+    },
+    {
+      "title_original": "شهيد برصاص الاحتلال الإسرائيلي قرب مفرق النبي يونس بالخليل",
+      "title_zh": "شهيد برصاص الاحتلال الإسرائيلي قرب مفرق النبي يونس بالخليل",
+      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxPd0NoaW84N2FqNkJtWDloYTZpQlFuMVExWVdfNEQwVzVMZmF3T1k1cDg1VUVfeXN5VWoyV05ydEwweUh4cDlHLVhfZV9EVzVOLWVlaXVNeHF5LW9Ka2pZLWhRdmNUalJfdUZqcGdUZHZudVVIelJpTlFBa2RFdklEUzBodnViamlqLW10eWstNXEtTmRCSW83ZC1xSFVwV3ZqbGRQTXcwYlF2aVpZZWk4Zkl2WmdfZUVLYS1EN0tLVlMxM1d3RU9EQjNRWkY0NHNBMGl5ODlSQi1jSzNwMmU4Q182QzJaUGVjbHVEQy1fQjVBa0NHY254LVdQSlowS1oxd0F0MThsSlRjVmVoVDJfdFpWU2FCakRVWmlLU2VfV3hvYjhqUHlaTmlQV1ZUNkZDc0RvN01uWjhON3JCV1FXdVIxYlJBcTRmRjZlNEdyblJEM1FsQkZhM1BXWHFmRnE2RGxzajZfODlCUC1fM0w2bk5BNnB5UjRYOXlXNUFjaGRwc2FxYm5MZWRfbVBnWXo3SVBoeENUUURJNkNwMnYwbXNITXdHRW42MjNzcnlYVjIxMVBQNW1YMHV0a3NLeTd1Nkswd1dtc1JOcTIxektIUnRlWmhfSF9sVHdTSExVSlJURmRjQnU2MnV6X1ROXzk4YlFRSEl3SEstVElJVkHSAYMEQVVfeXFMTVBXYWh3U0xpNUp1M1BjV252NjBLLXJxMUd5c1JfWmdWSFVDelhDZTBXRTdHdmRpUXJvRDhOZTQtbGlRSTNqM3FwUVJTd3hNRjVPQW9JM1RSeHlsYVVheTg4ZmEzOUJ4UlBKc3c3TjlhdGk4eld5dXNUdDFWTERtRVJ5VmxPSDNzNl9La1hDTDlqUGRaVGVsSktzbjUxT0pNNGRKbG8tLUxkdmFOS3pETko3SEtUOEQ2UjVTV0RWVW94eGM1MHdDZVhoZ2pBMVlZQUNQaHBVcHl1N1hQdkJHazNtN1dGNXdtcGF4bFgwZmxHU3hnQnVOTHloM0VaamZtVTdTT1RhSXNjR2lGaEY5OGM5ZWl6VlF2X0h6VHcxMEZJT3BSU2ZBYTFUbUNYU1BlSTViaVlVRzRlQm0tUG5BZGQ3cVZTVm1kVGlIUnpsaEM0TDNVR3lOSW1meWRORlhKb1FpRkhuZVUyQ3hKSGdVajA3VVMtdW1ncE9hM09ISk1hdEVZSGk0aEZVTkd6N2pnQnBQVUJQLVRXRU8zRTRYUWpSYV9LekVLZ3J6ekdGanNVOG9qX29TUVhHSm1EZW0xUkkxUEJlcm5CdWQzYldHeUJVRXdFTE5NRlBUY3B2QjZDSEUwVWlWVks4X1ZMNnVWRnVGU1Q4NHcyTm5YR1ZYckdmaU0?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-10-10T06:36:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "شهيد برصاص الاحتلال الإسرائيلي قرب مفرق النبي يونس بالخليل    تسنیم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "شهيد برصاص الاحتلال الإسرائيلي قرب مفرق النبي يونس بالخليل"
+      }
+    },
+    {
+      "title_original": "Les forces yéménites disent progresser contre les Houthis autour du détroit de Bab el-Mandeb",
+      "title_zh": "Les forces yéménites disent progresser contre les Houthis autour du détroit de Bab el-Mandeb",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYmZIQmduMU5MX2s1VUdvQ2JJOGlJNGNqS3NZekRKc1hjX05PLW5RM1FmMGlvY1JMVkZweTRETERlcmxTS0NWV3NLTWZVZHNKenJVbF9DQk9jNDRtWWlVS3FNNndzeDBORG1JNXJJT2d4aGx3SWpETWdUVWtueGhpQ2EzSXJvWVNTRFI2RVV5TS1RODZ1eTg2cWRuamlNamR1dEdaakJXajVqeTU4RTBocEh2eG41NG9EMm9kYllSaFB1Nk9SdjZGTU1jSkswdWw0Wk12d21GX3Vja1R6ck5RcEdkZjB1MEowM0M1cGg0UVZRZjlZUzZvVjkxanhzUQ?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-10T06:03:06+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Les forces yéménites disent progresser contre les Houthis autour du détroit de Bab el-Mandeb    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Les forces yéménites disent progresser contre les Houthis autour du détroit de Bab el-Mandeb"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 07:56 \"Deutschland verschließt die Augen vor der russischen Gefahr\" +++",
+      "title_zh": "Ukraine-Krieg im Liveticker: +++ 07:56 \"Deutschland verschließt die Augen vor der russischen Gefahr\" +++",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNckxlYnNSQnQ5MHZhRVkwWGEzTkhOUnVDV291TndBRHBodWpwSERQQ0NDek50VF9GaWlRZUMycElXQkVXbGJYS2VZbGJuMUczcEJtbzM5Y0JialZpV0pwWGRHUnc3WHpjRGwzc3NhT1lUUUlta0dlZWlnQlZYVHJfUk8wOVpuMERIeG1RVUNuYW9SZXRHdjh2eGJzTWtoT0tBcWV2TnE0clJHbnlzM2Fr?oc=5",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-10-10T05:56:57+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg im Liveticker: +++ 07:56 \"Deutschland verschließt die Augen vor der russischen Gefahr\" +++    n-tv.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 07:56 \"Deutschland verschließt die Augen vor der russischen Gefahr\" +++"
+      }
+    },
+    {
+      "title_original": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
+      "title_zh": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-10T05:00:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Dozens of CIA officers have been afflicted by debilitating symptoms over the past decade.",
+        "Are they the result of ‘mass hysteria’?",
+        "Or are they from attacks with an energy weapon and, if so, who is responsible?"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die"
+      }
+    },
+    {
+      "title_original": "ロシア外交評論家 ウクライナへの軍事攻撃は一段と激化の見方",
+      "title_zh": "ロシア外交評論家 ウクライナへの軍事攻撃は一段と激化の見方",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tUjQwMXRUOXFOc2pVaHd3cllpYW1ObEdNa3FjTWtBRXEzU2NLWncxeXhiTWM3YlpwbEwwaG5tekdPMjJFRmxlenpJcEJudW1DNGU3UlFzVS16TVFuTy1J?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-10T04:54:26+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア外交評論家 ウクライナへの軍事攻撃は一段と激化の見方    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア外交評論家 ウクライナへの軍事攻撃は一段と激化の見方"
+      }
+    },
+    {
+      "title_original": "Taiwán aumenta gasto en defensa para “disuadir la guerra”",
+      "title_zh": "Taiwán aumenta gasto en defensa para “disuadir la guerra”",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcWdBUUU1NWlQZzJSYWYwdGV5RVNaQXZlVElTTHphaDVBYUtuQ2NrQ2JwSjlyVlZHUUNuSE5OejNLMjd3Mi15a3lqbEJlV1ptQll6MnliWW96T1JSZ3hmTE5YUGJieWpJMk5fbmtCYnJQNUtnbThZQXpQRnRmNXhWSVJLbEJVaWN5cUNGR19YQ3JXUU1RWExnONIBmAFBVV95cUxOYThrdElNenV6RmU3UmtBN29uc2lFaGFBclVDYUJtNFRXeFpWNG1MSHp1NlRpa3ZwcEtXMkZVbUF6WmNpd0M2aVJlOUlNTWtVdk9yQWZ3WWdSUHNaTVhBVjhCTXNzeHp0SnN2bUN1VG01WDZWS2hkNThtNm5Pa2pabGpSSlp2ZndjaVFpZFp1aDkyWkxOUW1JbA?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-10T04:30:33+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Taiwán aumenta gasto en defensa para “disuadir la guerra”    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Taiwán aumenta gasto en defensa para “disuadir la guerra”"
+      }
+    }
+  ]
+}
