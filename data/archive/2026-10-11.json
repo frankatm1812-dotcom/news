@@ -1,8 +1,658 @@
 {
   "date": "2026-10-11",
-  "generated_at": "2026-10-10T16:14:34.069678+00:00",
-  "count": 35,
+  "generated_at": "2026-10-11T01:50:30.885404+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title_original": "Trump says Putin ‘would like to see a settlement’ in Ukraine war",
+      "title_zh": "Trump says Putin ‘would like to see a settlement’ in Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdVVnWTNJTFo5R2l0MnhhekF2SW9CNDB3aXZFS1FGS05ZMFJzb195dGhEN2dHVUVBOS1NYjF4di1NbmZyN2NvWDdUSGRmaW4teTdNQmR4VldkdzBGcmF2cnlGVjNxVFpRTW80YUVTR3ROZG5xNWVNOGxmR1V6OVZ3RG5Ya1FwQlhmb2w4UTR3OE9wSy12TkJqb3pNUVJQSVlvMk44?oc=5",
+      "source": "Arab News",
+      "source_score": 40,
+      "published_at": "2026-10-11T01:44:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump says Putin ‘would like to see a settlement’ in Ukraine war    Arab News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Arab News"
+      ],
+      "all_titles": {
+        "en": "Trump says Putin ‘would like to see a settlement’ in Ukraine war"
+      }
+    },
+    {
+      "title_original": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "title_zh": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-11T01:41:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal\n- Published\nUS President Donald Trump has said he thinks \"it's time for Ukraine to get a new president\" as he responded to Volodymyr Zelensky's criticism of the US diesel deal with Russia.",
+        "The Ukrainian president warned a new deal to release millions of tonnes of Russian diesel into the US would provide Moscow with money to continue its war against his nation, calling it a gift to Russian President Vladimir Putin.",
+        "Trump told reporters outside the White House on Saturday that Zelensky \"wants to make problems for the world\" by continuing to authorise attacks on Russian refineries."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal"
+      }
+    },
+    {
+      "title_original": "トランプ大統領「ウクライナは新たな大統領を迎える時」と発言",
+      "title_zh": "トランプ大統領「ウクライナは新たな大統領を迎える時」と発言",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kYzZma0JOdHdreXk2RHFHTzJoOWdWaHp0SURPSko3Vk1aMjMwampaZ0tWX293WFE4WTd0aEdEcDVEWGk2SlpaclBxUGZaZkhPa2xveVV3N0ZZcXBOSTRR?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-11T00:53:27+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "トランプ大統領「ウクライナは新たな大統領を迎える時」と発言    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "トランプ大統領「ウクライナは新たな大統領を迎える時」と発言"
+      }
+    },
+    {
+      "title_original": "La nueva 'OTAN musulmana' se pone a prueba en Yemen",
+      "title_zh": "La nueva 'OTAN musulmana' se pone a prueba en Yemen",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHRTRElDWXlVTVUySXltMkVpNUxzRVJFNk5ock81NGRxd2hyaXpzZXZPZFAyYkJBUjlURjRuZGpqaHdzclhzUm1BbEowRmRsVUFYSzBGcjVnTDNFcW9zd0dTZjBqbGEza3g1QmZsV2s5UktjWmg3VkdZMkxsTmpJa3JZV3pvZm9QSDFhMTVqdUlRR2pRbDQycDl30gGfAUFVX3lxTFByM29wNkpTRjhQdUVLUTEyRlc1WV9aR3hKMTk1TTNZS2ZnQU5HTjVPTko0dlIybzR6VnJ1dGRhdk51SU1CMDBINzhrMW43NzlTSFpTTTNBZFNfTjUtNFRTZllva3FRbzhhQkxHUHB4aW9RcnhUX25sZTA3VWtTS2hEczZUMmxtYkJON3VhaGhIVGNlQnBqcmpvYVRzdXpYbw?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-11T00:45:21+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "La nueva 'OTAN musulmana' se pone a prueba en Yemen    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "La nueva 'OTAN musulmana' se pone a prueba en Yemen"
+      }
+    },
+    {
+      "title_original": "撃った犬を連れ去ったロシア兵 ウクライナの惨状、現地住民が証言",
+      "title_zh": "撃った犬を連れ去ったロシア兵 ウクライナの惨状、現地住民が証言",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11NmFUT0lkSElMbzBwSUVoaExoVUtOdFgyRTc4WllNTkFtT19lMFhEaHhaU1A0RFBJalN1NWpNOTlTQkpQNXAtOWNaTG1VZ0xpcXVTZC1ZcDUtYUltSF8tMlNtYmZTT28?oc=5",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-10-11T00:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "撃った犬を連れ去ったロシア兵 ウクライナの惨状、現地住民が証言    朝日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "撃った犬を連れ去ったロシア兵 ウクライナの惨状、現地住民が証言"
+      }
+    },
+    {
+      "title_original": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "title_zh": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-10T23:19:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Four dead and thousands without power after Hurricane Isaias lashes US\n- Published\nFour people have died and hundreds of thousands are without power after Hurricane Isaias battered parts of the southern US with powerful winds and heavy rain.",
+        "Officials reported two deaths each in the states of Alabama and Florida, which included people who were killed when trees fell on their houses.",
+        "An estimated 500,000 people in total were without power in several states as of Saturday evening, according to tracker PowerOutage."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Four dead and thousands without power after Hurricane Isaias lashes US"
+      }
+    },
+    {
+      "title_original": "アメリカ ウクライナがロシア製油所への攻撃を続ければ「情報共有打ち切る」と警告か トランプ大統領も「製油所への攻撃は認められない」と強調",
+      "title_zh": "アメリカ ウクライナがロシア製油所への攻撃を続ければ「情報共有打ち切る」と警告か トランプ大統領も「製油所への攻撃は認められない」と強調",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HcnBLeHlRYjZOLWI3NVdrMkNaTkpnQWlQVzZlYWlxRmUzanZHQXR2UVBxQjFUeGVSR2tnb21lYzhvZEVmMmNrZXJvWmdmeFpUOVNsZTBRNWF2SjJybjgzLXV5aFlYMFpqVWQwUEdlR25kcDZz?oc=5",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-10-10T23:11:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "アメリカ ウクライナがロシア製油所への攻撃を続ければ「情報共有打ち切る」と警告か トランプ大統領も「製油所への攻撃は認められない」と強調    TBS NEWS DIG",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "アメリカ ウクライナがロシア製油所への攻撃を続ければ「情報共有打ち切る」と警告か トランプ大統領も「製油所への攻撃は認められない」と強調"
+      }
+    },
+    {
+      "title_original": "«Theorie des Sieges»: Neuer Nato-Kriegsplan sieht zur Verteidigung auch Angriffe auf russisches Territorium vor",
+      "title_zh": "«Theorie des Sieges»: Neuer Nato-Kriegsplan sieht zur Verteidigung auch Angriffe auf russisches Territorium vor",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNWlPNlFVbF91NlFsOVpxeHNra3VLdUR3aW1PR1VyUHU5QkN6RkxQRFNJdDlIWmRid05TMHlJMUlZSTJkemN3ZTRaWVR2aE9iNTdfdGVwOTBxUl8tVU9oakVwbG43Z3NLaW5fUU9aQnJyeWtIem94dHRJdHNvMjZ5MVVWaTNlYmJUTlo1Wm5jTUl1ZFdhS0dUSzgtN1g5U0ZFZGRCcXRFcnFiVnFHN0JaYWRITU42dDJVQm1sN0xVU3Q5Zm5oZ3dNeU5feTZaZjBVT0E?oc=5",
+      "source": "Die Weltwoche",
+      "source_score": 40,
+      "published_at": "2026-10-10T22:27:43+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "«Theorie des Sieges»: Neuer Nato-Kriegsplan sieht zur Verteidigung auch Angriffe auf russisches Territorium vor    Die Weltwoche",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Die Weltwoche"
+      ],
+      "all_titles": {
+        "de": "«Theorie des Sieges»: Neuer Nato-Kriegsplan sieht zur Verteidigung auch Angriffe auf russisches Territorium vor"
+      }
+    },
+    {
+      "title_original": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "title_zh": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+      "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-10T22:13:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Young men live in fear of being snatched off the streets and sold to Myanmar's army\n- Published\nYou do not stay out after dark if you're young and able-bodied in Hpa-An, the capital of Myanmar's southern Karen state.",
+        "In recent months this has become conventional wisdom.",
+        "But Zaw Min has no choice."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Young men live in fear of being snatched off the streets and sold to Myanmar's army"
+      }
+    },
+    {
+      "title_original": "トランプ氏「ウクライナに新大統領を」 対ロ攻撃でゼレンスキー氏に圧力",
+      "title_zh": "トランプ氏「ウクライナに新大統領を」 対ロ攻撃でゼレンスキー氏に圧力",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83cnhKNzhXVEkwSTJQMFpFdHBkdVJmT3ZuNFRQR0NIeHFVV0M1NDdBblRSWG5KbEV1RldKSUZKZjJrM19LdVdGeXh3U0wtWmdLZVU4U1FJaWpkdFl0N3ZUbTRxTml5cUdJZm1lVA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-10T21:50:16+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "トランプ氏「ウクライナに新大統領を」 対ロ攻撃でゼレンスキー氏に圧力    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏「ウクライナに新大統領を」 対ロ攻撃でゼレンスキー氏に圧力"
+      }
+    },
+    {
+      "title_original": "ウクライナ ロシア軍の攻撃で子ども含む20人以上死亡",
+      "title_zh": "ウクライナ ロシア軍の攻撃で子ども含む20人以上死亡",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0T3VCX0hscXpZMWVhclpQdHRhOXM2TVpVS3Q3VmZHaGdmU0lacU9FQkxCcXdLSWh4UEdYWE8wNnpHaUE2amt5TVZLOW94UUdqSHpxWG82d1JST0FoSkpn?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-10T21:35:49+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ ロシア軍の攻撃で子ども含む20人以上死亡    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ ロシア軍の攻撃で子ども含む20人以上死亡"
+      }
+    },
+    {
+      "title_original": "وسط التوتر مع الصين.. تايوان تؤكد أن زيادة إنفاقها الدفاعي تهدف إلى \"منع نشوب حرب\"",
+      "title_zh": "وسط التوتر مع الصين.. تايوان تؤكد أن زيادة إنفاقها الدفاعي تهدف إلى \"منع نشوب حرب\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeGh2VHAwRWZMUnEyb1g2dWpFT2lpSDNSX21vcG5fakRJenpfNm1hWlBHZWtlZG5hLVBpWXdPSnJ4U1g3dnBzVF8tVGN4VEhTSnZPcHdQTmFFbEgxbmJiUDc2S0k3N2hFaXRPcUVFODhQRTRsMlFiMlJGRjVkRERtb0dPX1dSbFg3QkJGZFp0U1ZSc3NkeVc5dFBUc2hWVnc?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-10T21:15:58+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "وسط التوتر مع الصين..",
+        "تايوان تؤكد أن زيادة إنفاقها الدفاعي تهدف إلى \"منع نشوب حرب\"    Euronews.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "وسط التوتر مع الصين.. تايوان تؤكد أن زيادة إنفاقها الدفاعي تهدف إلى \"منع نشوب حرب\""
+      }
+    },
+    {
+      "title_original": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "title_zh": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-10T20:51:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian glide bomb attack on Zaporizhzhia kills at least 20 people\n- Published\nRussia has attacked the Ukrainian city of Zaporizhzhia with five glide bombs, killing at least 20 people including four children, local officials said.",
+        "The glide bombs hit residential buildings in the southern city on Saturday morning.",
+        "At least 32 others were injured in the attack, with more still missing and believed to be under the rubble."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people"
+      }
+    },
+    {
+      "title_original": "トランプ氏、ウクライナに「新大統領が必要」－ゼレンスキー氏を批判",
+      "title_zh": "トランプ氏、ウクライナに「新大統領が必要」－ゼレンスキー氏を批判",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52WlFyc1c0QTMyYUJDdV9vZU5BVEVSNzRLUm02anUtdFFlaDMtX0hCQlFWckE4b0ZWeUVMQzFoV1JnQTJrZzB0VmVSUVlYS2toUEJhZ1pFSFFLa2xjZWlCVnlpdWdEXzFfRTZWcTJ5QnBITHpz?oc=5",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-10-10T20:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "トランプ氏、ウクライナに「新大統領が必要」－ゼレンスキー氏を批判    TBS NEWS DIG",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、ウクライナに「新大統領が必要」－ゼレンスキー氏を批判"
+      }
+    },
+    {
+      "title_original": "من يسيطر على بيانات الممرات التجارية الجديدة في الشرق الأوسط؟",
+      "title_zh": "من يسيطر على بيانات الممرات التجارية الجديدة في الشرق الأوسط؟",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPVjZ4UWR1SWpTYVhPc1FfR084b3BTN2tPMjZ3Q1V2M0Jna2tXaEtBcWpRSUpFQ3h6V0JfcWJ4bTYxcEVXaEhoZ2FOcHFNbkR2b0d4b0xYNURfbEF3c0dZbXFUeHR6Y2hicDlSN1BycDB0NXE1bDFGUDBLQ0lYUEdIcFZjNVFtSTgxZUh5cVpldGs5OEdvSXFlSXJkUFo1VlpPa0hwNExtZ3ZGLWNQdTRHaXhYM0Z4bmdQcTM0QjE0RW81akhHX2RlWHZ0QXpFYWlMQ0UtaGJ0dUNEaUQ2ZWg3SnRfVmttSHJ4R3V0MzBkb09Ubk9rX05ONllIdjZrMkNpTFdpODJYaXk3c0Z6WGloUFR1LXF2MEZZZ18teGNVQmZqMTlBejhQSlZrMTdmTFp6dFBVOUhhQjIxVGdtTWJFZ1lYVmR1RGxrV2Z3SUhFV3N5NFE0ck1NTtIB3gJBVV95cUxOT2JYTjhkYTJveno2VlpzSUtyYXZYWWNFM3FnVVRfLTl0VGp4OWFEUWJlTU9pQnZTYk56alFsMXQ4X25NMy1XeVh1aC1TU1hEd3hhTEZId0hobkFlaTdSZDRNdlR1MmdYQk9xSVhWNHI1aWhUVHBuQnR6cHl0b2VqUnVkVk5Hd0Q1RFdJWU8wbkY3anhfRWV3bUplcExjcDBMWkRkMDlEelZHcUVDalQzTnBoUXhPLXRRTFp2WUE4Z1VNenQ3bE12ZGw5NUlpNVBxUGlBalBJajBFQzNqWnN0d3NxUmg5Si1xaVN2WTRuOW9NUURyc09rVXhla2tSNUFJYjJtVV9tWjJoN2w0dmNjRFZxZW9UNk9EOEhBQnlKdG5BeHZWQjVvY014ekV1WElPazZwQUxGUTl1MGtnOHlycmJXSzdXQzNXWTZpVzR4cnZhY29GWENOLVFoejVEdw?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-10T20:04:47+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "من يسيطر على بيانات الممرات التجارية الجديدة في الشرق الأوسط؟    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "من يسيطر على بيانات الممرات التجارية الجديدة في الشرق الأوسط؟"
+      }
+    },
+    {
+      "title_original": "（社説）中東の戦火拡大 沈静化へ外交努力急げ",
+      "title_zh": "（社説）中東の戦火拡大 沈静化へ外交努力急げ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHOFNLcEpYc0ViN3JIOHFNNWxySEpBVjJ5LUZnenZDVHVmckNRT0lmZ0FyM0lvLS04dnVhVTkwMk5WWmg5ekJTM043azFOVHhsOWJORVNsbzNETEow?oc=5",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-10-10T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "（社説）中東の戦火拡大 沈静化へ外交努力急げ    朝日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "（社説）中東の戦火拡大 沈静化へ外交努力急げ"
+      }
+    },
+    {
+      "title_original": "حماس تؤيد تأجيل الانتخابات وتدعو إلى حوار وطني شامل",
+      "title_zh": "حماس تؤيد تأجيل الانتخابات وتدعو إلى حوار وطني شامل",
+      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNblR1dWZVVHprWHFQSTJHZzY0MVBUZzVMUlFDamFLSDc0eml4VTByZWlTUlMtMTFfS3BWdURDSGV4TEdiLU56Q1dGaVZIZE43UHNzZDZ3dHVIZmhVQ0hVejE3NGhiZlVMMmg5YmxxeTV5Q3VCTDQtVElFWmVRel8zTU80QmlkZm9TTlN5Nl9aazVEeEFUblJaUVlFVm5XdzNjNnBhWTJxOWQyUnh6SGpzblVVQkVOTzBCM29oVmRMcU82NkxrT3piNENrRDNtdlk0WTFqcEIzVGRTSS1QNkpEaklLMkNkVnIxNWxTMnktakVyR3lrWHNTUFczVEJ4NjUxTGJSQ3Q4VjBNUHB1dXpqRU5BZW1fLTlPTWdZcDZKM0hPeGppaFBDVE8xemNuWVY0SU9yLW85UER4bGRsWWpBdXhIRVB1OTU4SmVUZXN6X2RqS2VlY0w1b2MwTkFhNFBKUVBwblpTOFJHV0Y3WVNXZ05nd21QdzVqVW9kWWRnQ2FNT2RXMUQtSVdqRWcxQTV5MmFjRFZtYXZvX1hCOHh1S1RoY01qMjhWN3FhVVQwN0JjVGJUWTNobVJ2Tld6dDJOcW1HN3dn0gHLA0FVX3lxTE9yZmJ3Wm53T2tnWkhjcnFyTTNCaHU2Qk55Y3l5UGt5Y0Q4QW42V0R2YmlNMkhNc1pfQ1l5OTJWRldWQVJYVHY0STJTYnhMTmhzSmY1dXZENDNOOTk5eVhlV1RfYlZZRWc5WVpGZEs0NlUwTHQzVTFOYmpKaUc2Q2pScWVkWVlvYWJrbWQtQk8zMU44X3pacld1ZWV5Yk1IbUxjYmtrUV96Z1Zkd3l4aWJsQ1MzMlhNZFRpTS1LZ3FxUURBdk9McnExR1B2Um9kQmMwbkxFdUJERTd6a3M1LXIxX3RNYzRUMW5EWnNSVXNOZzViMDFieDFXUmJ1UjRrR0ZkOWk3RG9ZcTFaQ1VjRmN4Y2EzN05pSVZkRVlmel9KdEpqQVZjZi0tWU9odERXdHU2ZjBBS21xX1FrdW5VdFVSMDNmdFg3TnduRFZWdE16ajVkNF9yM2t6bHVuY1BXVmo0MkxDQVo4ZWZUZVBsZWlndmF4bVpSN3N5R2lGSl9pS21LbTQ3eDdMQ1RNdE4wUmM4WnVRbFEzOGxJZ1dJSEZxdVRlb19DSVBKQjhCQndJZEs3a3JRek9TeU15blFxRmQyYWhNM0x0LVhhdw?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-10-10T19:08:02+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "حماس تؤيد تأجيل الانتخابات وتدعو إلى حوار وطني شامل    تسنیم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "حماس تؤيد تأجيل الانتخابات وتدعو إلى حوار وطني شامل"
+      }
+    },
+    {
+      "title_original": "إيران تعزز انتشار قواتها الحدودية تحسباً لأي توغل",
+      "title_zh": "إيران تعزز انتشار قواتها الحدودية تحسباً لأي توغل",
+      "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNdkhSM05aWG1CdkduZ00wZThsVXpyUUN0RGlvbTltSEIzN0lpWFFzQUhrcmRFdG5YaXJjcHZjdkUzemxXdVpBaUNZWEJEcmhqVTFtSFRnSWJCeU44RGZxeWhzczRTQ3VpSGtmVHBQMXNRbXpJajdkTlRnS3NWX01UeWJqaW54SG9LZGhUODJNazROcGtsSUYwYkNNeEFGcFJUdlJwaVJ5S3Q2MTZfa1Q2UzhINWZjbzA3a3JaV2pVV2NmaWg0dEtNTkg2VmRzT21RcXB4NmFkUkpKSU9MZDdEN3NGWWZsMWZGRm5KODZvMmhaSFQ4b2lmbHNJVWRmQmoybkZzN2QyMnZqMnl5ZjVpU2VNcHdnTF9QSWdOVV9STjhrY1ozT1ozaTJWSkc3dEZ4dWpPLUZNYkpDZVN3WUF5U2xPM05XRzNlM3AyV2toR2FOQU1LVXU3OHFEZHNhb3NRZDEzUDNDRTkydW1hMVhabnNobXFpVGlwLUE2X3UwX285OXZqbG5BUXJhTFdfSEpTbFdod2lmT3lwbFB0TkNzMnFlaGFJa3RxZmE2NEFYVkR3alltS3NoZHgzblI5X1RITkxUUkFPZVVMR1VOMVFIZjVYRFU2djhoZk8wNTR6dktRQmxHLVdxdW0tejVaNFJ3dzd1cw?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-10T19:06:28+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "إيران تعزز انتشار قواتها الحدودية تحسباً لأي توغل    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "إيران تعزز انتشار قواتها الحدودية تحسباً لأي توغل"
+      }
+    },
+    {
+      "title_original": "Trump says Ukraine should get a new president as he blames Zelenskyy for US diesel prices",
+      "title_zh": "Trump says Ukraine should get a new president as he blames Zelenskyy for US diesel prices",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVE9mQmhMWU5BTVNON25zTDhzTlBzU2VKMDBpa3FmcTI2NE5qNWJYRUx1c2dEdk9kTjhoQm5naDZXQTJKUmRaMDJ4WVhvSklpclRXUGxZSl9USUY4SkN2WTFMaHo1bVVDWGJzS1FGWVV6YlRkNlJ5ZVdaUmp2WUd5eUZKbFZWQXdCcVNzNkZEX01YUXZxeHBXZUlTaXdYQQ?oc=5",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-10-10T18:55:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump says Ukraine should get a new president as he blames Zelenskyy for US diesel prices    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "Trump says Ukraine should get a new president as he blames Zelenskyy for US diesel prices"
+      }
+    },
+    {
+      "title_original": "トランプ氏 ゼレンスキー氏に不満「ウクライナは新しい指導者を選ぶべき」",
+      "title_zh": "トランプ氏 ゼレンスキー氏に不満「ウクライナは新しい指導者を選ぶべき」",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90akJ0MWxTYWx1Y091VVUxUm1mYkR2bGRjejF1Q1VnMzZpeEVmc244a3J1emVZOXRWYnUtZFhpSkd4b20zYmY3SUFDLVo3M2tEV004Y3k5c29OWG5HR0pQSmI5Wl8yaUhpaGlwUF9uWXltZXowMzJNeUdB?oc=5",
+      "source": "テレ朝NEWS",
+      "source_score": 40,
+      "published_at": "2026-10-10T18:26:12+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "トランプ氏 ゼレンスキー氏に不満「ウクライナは新しい指導者を選ぶべき」    テレ朝NEWS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "テレ朝NEWS"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏 ゼレンスキー氏に不満「ウクライナは新しい指導者を選ぶべき」"
+      }
+    },
+    {
+      "title_original": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "title_zh": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-10T18:22:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Expedition hopes to find aviator Amelia Earhart's plane on remote island\n- Published\nA team of researchers are on their way to a remote island to inspect what they think could be the wreckage of famed aviator Amelia Earhart's plane.",
+        "The group, from the US-based Archaeological Legacy Institute (ALI) and Purdue University, are expected to arrive at Nikumaroro Island in the Pacific Ocean by Monday in the hopes of solving the mystery of her disappearance.",
+        "The American pioneer vanished while attempting to circumnavigate the globe in 1937, spawning decades of speculation on her fate."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Expedition hopes to find aviator Amelia Earhart's plane on remote island"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Donald Trump fordert Ablösung von Präsident Selenskyj",
+      "title_zh": "Ukraine-Krieg: Donald Trump fordert Ablösung von Präsident Selenskyj",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZXRFYTg2aURJVVJuT3F6QVhTSEQ4SnBvSnY5ZjJiZDBORFJ5RmZhbXptYTAyckE4SW1fZzMwLUNuYWhtdWZFMklPYjFhcXJMVDc4QzZFdUFaa1lxZ1JaaWQ3VG9ENTZRT3ZacnRKUURvcTRjeVp5dXNXQUNObUp4b2hILVRXV3Q0bldYbXF0SmJBbGk4eW96eVNaUjZ4LXM5S2lHMi1ISjBsak83OEg3amNnck5zaVFvSllLaW5VNGp3Z2hXRm5Fd2N4dnctWEJmQ1dn?oc=5",
+      "source": "TAG24",
+      "source_score": 40,
+      "published_at": "2026-10-10T17:46:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Donald Trump fordert Ablösung von Präsident Selenskyj    TAG24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "TAG24"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Donald Trump fordert Ablösung von Präsident Selenskyj"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Trump fordert Ablösung des ukrainischen Präsidenten",
+      "title_zh": "Ukraine-Krieg: Trump fordert Ablösung des ukrainischen Präsidenten",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdlVCekxfOXJseFc1Q1RnZEFnSl85cTdCRUZMc2xzdFdZdEZtY3pfdTh0cUliWDJKSFVtM3JWcHdFTWctMlR5WUpPRFJsSkp1WVo0U0hQdWlxakFhVDZiUm41cHkzQ3RieDlHcGN3am1wUkFsQVdnekRPZUJyV3JlYXhQd2JPZXFtbFV3YkJ1LTduNXk4TnFsQ2hkZGJ1c3FtZm02eFEzbGN1cFpiQzJJUnQ5QlpyZndYTy1Mems1LXZEMGZiVXc?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-10-10T17:37:23+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Trump fordert Ablösung des ukrainischen Präsidenten    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Trump fordert Ablösung des ukrainischen Präsidenten"
+      }
+    },
+    {
+      "title_original": "العراق اليوم| أمريكا تخرق سيادة السماء ... والدولار يعكر الاجواء ...- الأخبار الشرق الأوسط - وکالة تسنیم الدولیة للأنباء",
+      "title_zh": "العراق اليوم| أمريكا تخرق سيادة السماء ... والدولار يعكر الاجواء ...- الأخبار الشرق الأوسط - وکالة تسنیم الدولیة للأنباء",
+      "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPSTZ0WkFJUktRSkN6eTRWS3ZvU25Nam5mYlg1YV9WTjJYZTRRMkUxamZzeV8xWGRRMzhfcUxMTmdSaEM2blJBUTRqbFNUcW95NUp4VURuTnNlVDNZNlo1bGVlYkFoNnl6WWFrNkRjOGJ6X2JQQkRUNHZuSWpEd0l5VEtwUnFzeFNUNzVQRXpmQ1pEUE4zSGVFYXo0bXV0OUp4LWU5VVV5ekRYQ2VYVzljbC1wcGdPUFNUR2JweUZhSWllMVpXVWJfSm5feWZRbWxVQmtPUUprY0xCdHZpQjA2Rzc2eGVuang2RHczNG1PZGRBNTRQZkNCbDRlUVJ5ZHFCVTBsQ01jSUw3cnZNalhNN1VXQ1FPVjd3N3hBNU5ibmZyMF9LSWRJVHhxaVgxeXRxbktwMlpIWWtsbVJPLW1ERkY0VXA1c1FzeGNXSzhNT1JCczdUbWN3YjQ5elFjM194RVVfd0N2Y2NVN3lUQ3VCMEZCUDdWNk1NSVdRUVEwM2NNRmNuRi1tSjFYS2d3R3VhNVA4OGNla3p3QnVrbkF4eDZkSkoyM1o3QkhRdW9xWGVPR3haR1hhNkJKWmIxRmVGclhMdFhxTzVCYncwTHpRamNWbWdLOWkySGFIUm1JU2FHNERUUy1uMjBqaEthM3RpSldHMUdxNmN3OFB2QlNPWTZoOGlZQQ?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-10-10T16:39:02+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "العراق اليوم| أمريكا تخرق سيادة السماء ...",
+        "والدولار يعكر الاجواء ...- الأخبار الشرق الأوسط - وکالة تسنیم الدولیة للأنباء    تسنیم",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "العراق اليوم| أمريكا تخرق سيادة السماء ... والدولار يعكر الاجواء ...- الأخبار الشرق الأوسط - وکالة تسنیم الدولیة للأنباء"
+      }
+    },
+    {
+      "title_original": "米国、ウクライナに情報共有の打ち切りを警告 FT報道",
+      "title_zh": "米国、ウクライナに情報共有の打ち切りを警告 FT報道",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SV0NtMGcyN2JPNVk2UU5RbjZYbWtwb0UzY3djbE0yS1J1ckYyLTFuV0dGbDJnNTdPWXp5MjQ1eGxpME9jSnFZTW00X3N2c2kzSW9nanNBeUVkM1V4VjFnMUwzM19rZnFnTkRVSQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-10T16:32:52+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "米国、ウクライナに情報共有の打ち切りを警告 FT報道    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "米国、ウクライナに情報共有の打ち切りを警告 FT報道"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : Que se passe-t-il à l’aéroport de Ryad, frappé par un tir de missile ?",
+      "title_zh": "Guerre au Moyen-Orient : Que se passe-t-il à l’aéroport de Ryad, frappé par un tir de missile ?",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWEwYUZDNnFjYXBCcW0yUE1uQ2ZZaW9yODcwYXZLYl91YzJyNDJFMGJ2S1RmTjZVRDl4M1dnX0N0bTc0ajRURWFYWEU3NDdGRjRFVWRlSy1kVXpiZWZ5VE1Cdlg1dWMwX0ZlTFZGMDFhSWZGOUlGVThsM1NqOEhlQ21KdXVLampqSmpsYWtQb0FKS1JteWJJYlpUelB4QzRUaUFRXzl6MkZSMXJSYVkzd2pB?oc=5",
+      "source": "20 Minutes",
+      "source_score": 40,
+      "published_at": "2026-10-10T16:29:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : Que se passe-t-il à l’aéroport de Ryad, frappé par un tir de missile ?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "20 Minutes"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : Que se passe-t-il à l’aéroport de Ryad, frappé par un tir de missile ?"
+      }
+    },
     {
       "title_original": "Several injured as Saudi capital airport reportedly hit again",
       "title_zh": "Several injured as Saudi capital airport reportedly hit again",
@@ -51,6 +701,31 @@
       ],
       "all_titles": {
         "en": "Christa Pike discharged from hospital and returned to prison, her lawyers say"
+      }
+    },
+    {
+      "title_original": "الصين: خطاب رئيس تايوان الصينية \"يكشف عن نوايا خفية\"",
+      "title_zh": "الصين: خطاب رئيس تايوان الصينية \"يكشف عن نوايا خفية\"",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yZ19SUmZLZ29JYTJqblJTeE5YYldsR21xYjEyZkxhT2QtUWtUSkptNnNtWW1yNk1oelhkcmN3QlZEdGVVOHMydDNaMlhEazZ4ck94ZE1lNC1oOFE?oc=5",
+      "source": "Sharjah24",
+      "source_score": 40,
+      "published_at": "2026-10-10T15:32:50+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "الصين: خطاب رئيس تايوان الصينية \"يكشف عن نوايا خفية\"    Sharjah24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Sharjah24"
+      ],
+      "all_titles": {
+        "ar": "الصين: خطاب رئيس تايوان الصينية \"يكشف عن نوايا خفية\""
       }
     },
     {
@@ -126,6 +801,31 @@
       ],
       "all_titles": {
         "en": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says"
+      }
+    },
+    {
+      "title_original": "Putin fordert ein russisch geprägtes Eurasien. Merz widerspricht.",
+      "title_zh": "Putin fordert ein russisch geprägtes Eurasien. Merz widerspricht.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd0Y2UGEtWll2QlJfcFJ6b1dJT0YwZG1HZHczbnl5YVVFME5Iel9tSjJGRGpsSkFFVmNEanBrVlFKam55ZDhoRTN5M25Jbl8yTjJtN3RLaGZqMDhPTldWWW5UNlZVUlZ0Ml9MeHVJeTlXcnVwckF3SHYydUlPQUNhQmJzbVBmc2tsbFBVZVhxb0g0dHgzM0JhV09lSjQ2ak1Ic1NyRWd2VmY5ZDlJZlBwNGZoZXZpaUM1Z2tDeA?oc=5",
+      "source": "FAZ",
+      "source_score": 40,
+      "published_at": "2026-10-10T14:42:11+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putin fordert ein russisch geprägtes Eurasien.",
+        "Merz widerspricht.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "FAZ"
+      ],
+      "all_titles": {
+        "de": "Putin fordert ein russisch geprägtes Eurasien. Merz widerspricht."
       }
     },
     {
