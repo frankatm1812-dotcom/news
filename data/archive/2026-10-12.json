@@ -1,8 +1,683 @@
 {
   "date": "2026-10-12",
-  "generated_at": "2026-10-11T16:39:33.076161+00:00",
-  "count": 35,
+  "generated_at": "2026-10-12T02:20:45.813818+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title_original": "Ukraine war briefing: Russia attacks multiple power plants after Trump energy ceasefire claim",
+      "title_zh": "Ukraine war briefing: Russia attacks multiple power plants after Trump energy ceasefire claim",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHZYVkEtRV9yN2ktb3kwNUw2aGw0d0VRYzNNUzNLd2tOWmtuYlliNlFUVmZ1c3c2empSX0dlcXozUEZaaDkxdnVXeUhMQ1NjNXVFZVY3WmVGd3ByN3NjbzZFUXpQcnMxOXBtR2tVcUxaZkl5Y0R0bksyYVpmTU53Z0lxa0xfcVRaMkdMcGtobHR2cHJlaTJ2RnF3RGY5cXpnSU9ETDNwejdCZ25RRGlQa3BKelRIUnRReG5FR2FkZ0hmdUxCSTdvYnVBWUkxdGhWd3B4bQ?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-10-12T02:05:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Russia attacks multiple power plants after Trump energy ceasefire claim    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Russia attacks multiple power plants after Trump energy ceasefire claim"
+      }
+    },
+    {
+      "title_original": "NATO top commander to warn Russia over alliance’s ability to counter attack",
+      "title_zh": "NATO top commander to warn Russia over alliance’s ability to counter attack",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNjdYQ21LY1ljSHVuYWJ3UEY5clM1TUdjV2tfc256X1hJdEdOZHFpVFE1YkQ0NG95dG5kZUZfdlR1WXVPenh1R0lWVVg3VmJYTGpVc1FFTHJqbGhFZFk0Ymw3VnN0NVlkTDNhS3BrcEJGc21ULXJaTkVNNkNrdkphRFFkLTkyVkkwY1hZUnhhdlRfdXRXMGpxZ0w1bTR2aUk?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-12T01:41:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO top commander to warn Russia over alliance’s ability to counter attack    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "en": "NATO top commander to warn Russia over alliance’s ability to counter attack"
+      }
+    },
+    {
+      "title_original": "Abschreckung gegen Russland Deutschland schickt Tornados zu Atomwaffenübung der Nato",
+      "title_zh": "Abschreckung gegen Russland Deutschland schickt Tornados zu Atomwaffenübung der Nato",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTkhTQTA0eFBGa1BQNHR4ZEpnalIzX0t2VDVlN250RnAwVDVKMHlodkN2amNUaWpmd3dweTBycVYwRXVGTlZ6Wm43Q2Vsa3VMUmkxWHhnQzgwUjFoSW0yQlJmRUxtMmdWQTM3VlFoemhRNzBESWpwQVlYQ0RhLVhDQkpPZnoyRTVIQkx2aVlFZW1kMm4tckp5aG5UZE9icDZtaHVLbFNzVUlQSXNHemNqdzBYVURtUWZBOUJfM3Q5cTJuRWdjYVNUazRubVBGOGJIeXJiLXBXWmFhZVgzVHFR?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-10-12T01:36:09+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Abschreckung gegen Russland Deutschland schickt Tornados zu Atomwaffenübung der Nato    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Abschreckung gegen Russland Deutschland schickt Tornados zu Atomwaffenübung der Nato"
+      }
+    },
+    {
+      "title_original": "L’or frôle les 4.200$ alors que les traders évaluent les risques au Moyen-Orient",
+      "title_zh": "L’or frôle les 4.200$ alors que les traders évaluent les risques au Moyen-Orient",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV3BySi1KZUtUVmhGSk5IVm9pelVVTXJvdzdsVEFtQlRqV2h2VHF5N2U0YzEzUUZTN3EzSUo0d3I4b0U5dkhybzdDQmdyOVdPRG16NGxMRnpvcmkzZHBYUnUxbUJnT0Y5SDl2dGJqWGRsMzQ4eEVWeXRTTENIcl9LM1FadTV1TmJWRnhlSkdaeW1oaUx1WEVxWW83ZTlsdVRsamdjNG5FMF9xTThSX2VtOFh1N29iT3BydWZYRGRFLTU0aVV4bnRiOS1QMA?oc=5",
+      "source": "Investing.com France",
+      "source_score": 40,
+      "published_at": "2026-10-12T01:17:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "L’or frôle les 4.200$ alors que les traders évaluent les risques au Moyen-Orient    Investing.com France",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Investing.com France"
+      ],
+      "all_titles": {
+        "fr": "L’or frôle les 4.200$ alors que les traders évaluent les risques au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "原油下落、トランプ氏がロシア・ウクライナの「エネルギー停戦」表明",
+      "title_zh": "原油下落、トランプ氏がロシア・ウクライナの「エネルギー停戦」表明",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtOVlDengwcjNKUEVBSVgwOWJiNHB2QTdaQ09sdG1YYzlRcjR4Y2c3bHMyVHREM3hVZ1VYYXZVcUZhOVdpVU1McXBLeFU4T05TU0R1UWNHd200VHpBV29fOG51LTFCc0xiRFRQYUJyV0Nrd2lk?oc=5",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-10-12T01:04:03+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "原油下落、トランプ氏がロシア・ウクライナの「エネルギー停戦」表明    TBS NEWS DIG",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "原油下落、トランプ氏がロシア・ウクライナの「エネルギー停戦」表明"
+      }
+    },
+    {
+      "title_original": "挑动两岸对立对抗，破坏台海和平稳定，赖清德所谓“双十”讲话遭痛批",
+      "title_zh": "挑动两岸对立对抗，破坏台海和平稳定，赖清德所谓“双十”讲话遭痛批",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04ZWNFZi1HOGxqUFNXcFZ2cGxMbTRWbDU5UE1JXzBVTS02N2RZcXdlOUh1dS1rdlZZNUYxLWV3WnlNanlLcjJPTTl1aEdFdUt3ajJsR3Z0V0QwOGpwU3h2ZGVFbTBSd3R5?oc=5",
+      "source": "紫牛新闻",
+      "source_score": 40,
+      "published_at": "2026-10-12T01:00:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "挑动两岸对立对抗，破坏台海和平稳定，赖清德所谓“双十”讲话遭痛批    紫牛新闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "紫牛新闻"
+      ],
+      "all_titles": {
+        "zh": "挑动两岸对立对抗，破坏台海和平稳定，赖清德所谓“双十”讲话遭痛批"
+      }
+    },
+    {
+      "title_original": "俄乌冲突持续、安全形势紧张行，德国拒服兵役人数激增",
+      "title_zh": "俄乌冲突持续、安全形势紧张行，德国拒服兵役人数激增",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QQ0UtenMxLWd4WXFSQUxmRDktcEhOdS1IRTgtT0hxOVdsLVNBeFFSN2V0bnBnYy1zV2xVX0hWc1hHTWhiWENFUURfOFY?oc=5",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-10-12T00:05:58+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄乌冲突持续、安全形势紧张行，德国拒服兵役人数激增    凤凰网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "俄乌冲突持续、安全形势紧张行，德国拒服兵役人数激增"
+      }
+    },
+    {
+      "title_original": "トランプ氏、ウクライナとロシアがエネルギー停戦に合意と発表 ウクライナ当局者は驚き",
+      "title_zh": "トランプ氏、ウクライナとロシアがエネルギー停戦に合意と発表 ウクライナ当局者は驚き",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByM2Jnb3RLY19TaEV1Qm41RnhQcHZ2ZV9IS3Z0Z2pPcXk4V2dGY0gtQnFXNDRWZlg3d01sa2hYc2JQaGlvTmRrY3RiRHYtS1dkV3JF?oc=5",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-10-12T00:05:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "トランプ氏、ウクライナとロシアがエネルギー停戦に合意と発表 ウクライナ当局者は驚き    CNN.co.jp",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、ウクライナとロシアがエネルギー停戦に合意と発表 ウクライナ当局者は驚き"
+      }
+    },
+    {
+      "title_original": "APTOPIX Russia Ukraine War",
+      "title_zh": "APTOPIX Russia Ukraine War",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTkVwUVdzai1RMVZpU1BGeTF1Szl6VThJTkFnRDl2YjBlcHI2V1RiR1ZrTWVsRGUtd2NSbmpRZ3A2TlBvdUI5UFNncFRuLWJDaGJkcDNIaUMtMldLN3ZQQXg0dGVoMVRHR2NqR2FQZ3pWcVFDcHdiLUwyaGxJMEpKZWtqREtxeVRmNmJGMDRaeUxMQnFpUHZzZDVrTW5pMzZvdlVSclpKNXpNS0NzRnl5WE5vTV85bDJPY0lr?oc=5",
+      "source": "Idaho State Journal",
+      "source_score": 40,
+      "published_at": "2026-10-11T23:14:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "APTOPIX Russia Ukraine War    Idaho State Journal",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Idaho State Journal"
+      ],
+      "all_titles": {
+        "en": "APTOPIX Russia Ukraine War"
+      }
+    },
+    {
+      "title_original": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "title_zh": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-11T22:45:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "One killed, 11 injured in second Houthi strike on Riyadh airport in two days\n- Published\nOne person has been killed and 11 injured in a second strike on the international airport in the Saudi capital Riyadh, officials have said.",
+        "A Saudi military spokesman said a projectile had hit King Khalid International Airport on Sunday, causing a fire in one of its passenger halls.",
+        "Saudi Arabia's civil aviation authority said in a statement on X that one person, a Pakistani resident, had been killed in the attack."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days"
+      }
+    },
+    {
+      "title_original": "Actualizaciones de la guerra en Oriente Medio: Se lanza un nuevo ataque contra un aeropuerto saudí",
+      "title_zh": "Actualizaciones de la guerra en Oriente Medio: Se lanza un nuevo ataque contra un aeropuerto saudí",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ0cwNGRqSW1zemFhWHFvTzRpOHl1Z3RJczU5UWgzVkR6eTRpLWxNUzBGSm80MElwNmZVMTl3R0Q1RVpqRW9TeXpWZlpRdzVYa3VzOFh0TkVpbUZ4SzZSWDk3R3FEaHd6eTltTzZLcDNNWk9zSW5kNll5R0JqbVFPdkM5ZUJKU3J5ZXBMT2YzVk5aR3R4OVZoWjBRYlpqRDdWaEFDQkl2UGdodTh2OFRDa3pNVEFTUTdQNXpxeGVoeUNtMnJlaTFfMzdWRk1WQmU4UENKT3NR?oc=5",
+      "source": "FXStreet",
+      "source_score": 40,
+      "published_at": "2026-10-11T22:34:17+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Actualizaciones de la guerra en Oriente Medio: Se lanza un nuevo ataque contra un aeropuerto saudí    FXStreet",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "FXStreet"
+      ],
+      "all_titles": {
+        "es": "Actualizaciones de la guerra en Oriente Medio: Se lanza un nuevo ataque contra un aeropuerto saudí"
+      }
+    },
+    {
+      "title_original": "米ウクライナ首脳、募る不信 ロシア軽油・制裁緩和で応酬（時事通信）",
+      "title_zh": "米ウクライナ首脳、募る不信 ロシア軽油・制裁緩和で応酬（時事通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iOVpyTUNDUGMtNGpMaHdxQWI4ZkxaeWFpdWJFMWp0bTVLN1VzcV9ZUm52VHhKc0hsdUtDT3dDZF9mMURJQUpxUk1MeE5iekZlaGcyRUVGZy04dll2bUFlTHpfRVJLV2w5SHc4cTVxN2k4ZnFGTFFkQjQtR2dKNEU?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-11T22:17:23+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米ウクライナ首脳、募る不信 ロシア軽油・制裁緩和で応酬（時事通信）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "米ウクライナ首脳、募る不信 ロシア軽油・制裁緩和で応酬（時事通信）"
+      }
+    },
+    {
+      "title_original": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "title_zh": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-11T21:36:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent\n- Published\nDonald Trump has claimed that Russia and Ukraine have agreed to an \"energy ceasefire\", with Kyiv saying it would support such a move but Moscow yet to comment.",
+        "The US president insisted that it was \"effective immediately\" but provided no details.",
+        "Ukrainian President Volodymyr Zelensky initially expressed surprise at the announcement, before saying Kyiv would support it if Moscow did."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent"
+      }
+    },
+    {
+      "title_original": "Zelenskyy says Russia violated energy truce announced by Trump",
+      "title_zh": "Zelenskyy says Russia violated energy truce announced by Trump",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDJUUzVWVzMtc09KVVpjTzJQbUNyWHpWSm1CejhEV0QyNG1NZXo2d3pRSWNLcW1kaVVPclhMQndnUU5ZcHdtWWowRWI0S2thVW1DUUZnOF9JOUZKYkcwOTViSUIyZjMxdmdmcGRBUDV1WjRMWXAxaWtvc180SVFWQS01d1BaMDdySF9xbGIyMjBCSVRYXzhlZWxXSdIBoAFBVV95cUxPR01OQ1hsMkJ5RWhiZHE2V1o5YlJ3emNtdWFsWllxX1NOQm0xSDlfS0E2dzZid01wVV9iS3VMSWg0TTNTRVJXMXM3OUZHYml5cUZJX1RMSVZXX2ZVMm1rVnA4UzhJQ3hvTjlUNkFxVTEtclhmS3h3YVowZDJub2JiTUZVZFctZ2FHRDh4N2ZpeHQ2ZUlTWXZPLXFoTmdNSXdW?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-11T21:26:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Zelenskyy says Russia violated energy truce announced by Trump    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Zelenskyy says Russia violated energy truce announced by Trump"
+      }
+    },
+    {
+      "title_original": "トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿",
+      "title_zh": "トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuOG9zVzlUZTA2T2drd1BLVl81QmJBbUl4eU5XLVVZVzViR3NFQUpQVEhIYkVEUTFqRUJ3cXpYNXJMc2txUVlpcE5OOWlsOTJVOFEyOUdHTURqUU5uTV9B?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-11T21:19:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿"
+      }
+    },
+    {
+      "title_original": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "title_zh": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-11T21:12:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says\n- Published\nAt least 72 civilians who had been prospecting for gold in a border region of Sudan have been killed in air strikes, a regional rights group says.",
+        "Emergency Lawyers, based in the Sudanese capital, Khartoum, said jets targeted the so-called artisanal miners at a popular gold mining sites in Sudan's River Nile state on Saturday.",
+        "Neither the Egyptian government nor the de facto Sudanese authorities have so far commented."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says"
+      }
+    },
+    {
+      "title_original": "Les Houthis revendiquent plusieurs frappes contre l'aéroport de Riyad",
+      "title_zh": "Les Houthis revendiquent plusieurs frappes contre l'aéroport de Riyad",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU3ptY2RFaUJvTWpnMjR1Sy03cG8xaGtuN21KWktHWUtjRTlBUDROeUJDSXVqdGJFcThqOFZUUHlyT2E1NTBycDlCV05zVEZ2UV9pcmZIcjVydjVaU0hFYmk0b1VvNG5zVkRDNXY1RENRWjhCVnFIaTNEdm1HZkNEWXdDLWhzR2ZscTRlV0tLZ2ZCQVZYUlJBSFJHUFlsZmxpOE8wRDY5aDRPenBqbzZWSUJIWnVWZmltQzlZX3o3amR5cTJQWkFja1d2VDJSWjVfSHV4Tk5ETQ?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-11T20:35:45+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Les Houthis revendiquent plusieurs frappes contre l'aéroport de Riyad    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Les Houthis revendiquent plusieurs frappes contre l'aéroport de Riyad"
+      }
+    },
+    {
+      "title_original": "「人道回廊の設置、ロシアが拒否」 ウクライナ・オレシュキ",
+      "title_zh": "「人道回廊の設置、ロシアが拒否」 ウクライナ・オレシュキ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xSldtamNFQm1kOWZCRmRUX3RaS0pQeF84WEhrNkVsRXBYZWFFS1RiNGpOUC1vd1FQVW9qdU42WThxOUVra25YQndPUU83RnRMSnRZeHVSWlpaNHNQ?oc=5",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-10-11T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "「人道回廊の設置、ロシアが拒否」 ウクライナ・オレシュキ    朝日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "「人道回廊の設置、ロシアが拒否」 ウクライナ・オレシュキ"
+      }
+    },
+    {
+      "title_original": "Orangutans released back into Borneo forest after devastating fires",
+      "title_zh": "Orangutans released back into Borneo forest after devastating fires",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-11T19:08:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Orangutans released back into Borneo forest after devastating fires\n- Published\nEight orangutans have been released back into the wild in Borneo after they were taken into captivity when their habitat was threatened by wildfires over the summer.",
+        "Three mothers, their three daughters and two adult males were freed in a reserve in the west of the island on Friday, International Animal Rescue Indonesia (Yiari) and the forestry ministry said.",
+        "Indonesian authorities rescued 46 orangutans from fires in August and September."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Orangutans released back into Borneo forest after devastating fires"
+      }
+    },
+    {
+      "title_original": "Trump meldet „Energie-Waffenruhe“ im Ukraine-Krieg – Selenskyj und Russland wussten von nichts",
+      "title_zh": "Trump meldet „Energie-Waffenruhe“ im Ukraine-Krieg – Selenskyj und Russland wussten von nichts",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDBPTEQ3UkhxOTRrMzlGVHBMVk9RQUN0dHo5ZTRVaHFKQTZkQTFkZ2g0YVFEOEk5R2pZZVhidjdsbkNyRElRcjA2STM4RE84d0kwLTVxRmZKWUpaSVRBUmtQLW5ob3FQbFNvSzVvbVFUbmZfd013bjN4ZDlzaWVEdnlheTNQZWhEdXE4MmUzZlljODZIZUxOOFZsNDdYZWdyQkFITWxsWUZseFFi?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-10-11T18:56:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump meldet „Energie-Waffenruhe“ im Ukraine-Krieg – Selenskyj und Russland wussten von nichts    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Trump meldet „Energie-Waffenruhe“ im Ukraine-Krieg – Selenskyj und Russland wussten von nichts"
+      }
+    },
+    {
+      "title_original": "« Nous ne préparerons pas nos enfants à mourir » : en meeting à Clermont-Ferrand, Jean-Luc Mélenchon vise l’OTAN",
+      "title_zh": "« Nous ne préparerons pas nos enfants à mourir » : en meeting à Clermont-Ferrand, Jean-Luc Mélenchon vise l’OTAN",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQU9iN3JsdjVEYTM3Q3BDRVRhVjAtUi1kNWJMQ0x4akRZMEx1WlVxanBmQ1ZSY2JpT1laUmZkUVg5UzBMd0RoUnNUZW9fTWl1d1hQTkRjMXVIdFNNZW1fUFdXUV81X1Zhd3NvcGZ0N29lS1RmMXFNNU8yN0g2VXlVMHdtY1NjWmUtWFk5aW9oU3BfeWJmS0FFeWhzb19nXzAzNDI0OGMzdWlhaXp1WnVTUWhRNTFXRE1iUUdvRlNicm14S1A1VVZ5OXgtY09TQmZRQjZoai1XUTJBckxOVzlhTg?oc=5",
+      "source": "Valeurs actuelles",
+      "source_score": 40,
+      "published_at": "2026-10-11T18:45:57+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "« Nous ne préparerons pas nos enfants à mourir » : en meeting à Clermont-Ferrand, Jean-Luc Mélenchon vise l’OTAN    Valeurs actuelles",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Valeurs actuelles"
+      ],
+      "all_titles": {
+        "fr": "« Nous ne préparerons pas nos enfants à mourir » : en meeting à Clermont-Ferrand, Jean-Luc Mélenchon vise l’OTAN"
+      }
+    },
+    {
+      "title_original": "Konflikte: Ukraine-Krieg: Trump verkündet Waffenruhe für Energieanlagen",
+      "title_zh": "Konflikte: Ukraine-Krieg: Trump verkündet Waffenruhe für Energieanlagen",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORHB2cVQ1ZGppVG0xTXozYjRmZzFxTHlZUkJpTnFualZCWTFaeUxTd3hZMlFfS1p0cEFwRmFXUjdGYmNGNERyNF9qQV83Z0lWMHRwRV9GUTFELU8zV1dGZ1VsZFBUNU00TnZvWmdCZlFWTnJlZEhiRk40MVk5MVR6bkN4YTBoRW9PMWR5aHpHdm90V2V3MW1RdjQ2cTNSR1Vnb0JUc2JxbkU3cWZ0bWoxMnlYX01nc3dFSm4xR2NSYjcwVklqZ1JLOEdsNA?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-10-11T18:05:44+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Konflikte: Ukraine-Krieg: Trump verkündet Waffenruhe für Energieanlagen    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Konflikte: Ukraine-Krieg: Trump verkündet Waffenruhe für Energieanlagen"
+      }
+    },
+    {
+      "title_original": "NATO Commander Says Ukraine Aid Will Deter Putin’s Europe Threat",
+      "title_zh": "NATO Commander Says Ukraine Aid Will Deter Putin’s Europe Threat",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZTNwSUxlS1ZrbFJVdnRhMlV4UVVaSWdqZUZpREJjOTU3QjVxUWo4ekgtZDZ5Zk5NMmpPLW5iWktlUnVYc3dwOGpBOFEwaDR6SDNENEhNY3RXVXJfekJZT2Y3OVctNFpEcnBobHF4NGphbzUxVS15cnhsb1VRLXZfWTRUWGFlSnVzSDZGWHE3WWdseEJIQVRycUVpYXZmU0QtN284ZG4tbnM3NjNTQ1h4dFBBRE5WUQ?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-10-11T17:38:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO Commander Says Ukraine Aid Will Deter Putin’s Europe Threat    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "NATO Commander Says Ukraine Aid Will Deter Putin’s Europe Threat"
+      }
+    },
+    {
+      "title_original": "Poland detains man suspected of planning assassination of PM Tusk",
+      "title_zh": "Poland detains man suspected of planning assassination of PM Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-11T17:27:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Poland detains man suspected of planning assassination of PM Tusk\n- Published\nPoland's Prime Minister Donald Tusk said a man accused of plotting an assassination attack against him and his defence minister has been detained.",
+        "The interior ministry earlier reported that police had received credible information about possible attacks against Tusk and Wladyslaw Kosiniak-Kamysz.",
+        "Polish security services convened a special meeting on Sunday after receiving information about the planned attacks, with a spokesman saying officials were treating the threat as \"deadly serious\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Poland detains man suspected of planning assassination of PM Tusk"
+      }
+    },
+    {
+      "title_original": "رئيس «فيراري» يلوم هاميلتون على خطئه في سنغافورة... والسائق يعتذر",
+      "title_zh": "رئيس «فيراري» يلوم هاميلتون على خطئه في سنغافورة... والسائق يعتذر",
+      "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxOVVZIcS1FZkVHa3B4cER2b245bEo1dVh4RkJrVmhjMTlpa2MxTmpfUDJUVnZxQVZMWVVMNG9UQS1xc3VhbHRVbk10eUU0VlRTbEkxYmxjSVVNZ05jT2p6dnhPT2V4YkhfVVltcE1MekJ6NkxoTkdhNUVoQTc3ZzJFYUxzV1c2SWNZb0FkeWx1WEZ2R0NGekl1ejRwVnRfVzlqQ3duNGRsbEJiVzBGRDdUbXR2b1RqVktMU2RtTGNnUnpfdl91eUJXdExCMXlsOEp0eFpMUWhSdnItejUyTVRzMUFISTBKdkdOdnVrazVXN2NkamR6Z0p5ZkMtQXd2cE5IMkpZSUptU1lwWjUzOXNiTjNHbmhWdndfd1FIZkJPM2sxVHZkNEFKdndSY1FmWmY5NzMxRnZES3JwZEs2eEcwYnhnUU5iYUlhOTR5Q3VPS2M3bTgyUFRmbkJLT2RzZ1BTaGFqT1VVOFlrZXg0WHdHX19aaVR2UkRhbjZxNS1CdEphcWlzbnB6bkRfOUNCbXZrSFFzT1N3Z01WZjBYaHViMzRBQnltVkEzS1hVNV83LXB5U2d1QVAyWFhSbGdESW9hd3VLQmRSWHhjV09jU1FFQnF2M3hjbDBxVEJSb2Z5SzE3aElyWXdHUGtZdWRnVXZTYWowWkdlYk0wVTlDZWpGeWhRUllxQlkwTHBpcUNESGVNTWVQY2FWUmFocDlEWmJUOURIQmNHUlk0RGdrRjFmT2EzMEhyblB3Q3hvNW1SMjJmbzF0dExZU1VFeWJCaUdORmozOVBQSFQ4Y2V6aFZVRUszOVhYcFlrc0tQdE1FWS1Za09QbGtBeg?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-11T17:03:07+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "رئيس «فيراري» يلوم هاميلتون على خطئه في سنغافورة...",
+        "والسائق يعتذر    الشرق الأوسط",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "رئيس «فيراري» يلوم هاميلتون على خطئه في سنغافورة... والسائق يعتذر"
+      }
+    },
+    {
+      "title_original": "Volkswagen boss backs EU plan to bolster domestic European industry",
+      "title_zh": "Volkswagen boss backs EU plan to bolster domestic European industry",
+      "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-11T16:53:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Oliver Blume says ‘Made in Europe’ rules to counter rapid rise of lower-price Chinese brands ‘must reward real value creation’ The boss of Volkswagen has backed EU proposals to boost its domestic industry, arguing European carmakers need to be able to “compete under comparable conditions” with Chinese rivals.",
+        "Oliver Blume said “Made in Europe” rules from the EU “must reward real value creation in Europe”, speaking in Paris before the motor show this week.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Volkswagen boss backs EU plan to bolster domestic European industry"
+      }
+    },
+    {
+      "title_original": "Russia Suffered 50,000 Casualties Last Month, NATO Official Says",
+      "title_zh": "Russia Suffered 50,000 Casualties Last Month, NATO Official Says",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb0hYdGNmeEdlR2ZsUW9qM3QxbzAwQzMxSHFLWWpJRTNqb3RDbDdJcW5fakRLT2ZucTR4TzBnLUJDbWpJdlpYRmRMQnZxWmhvWmFPdnJ4dWVSaW5lZG1KVXBNMndlRmgwYkh5UHU0YTNMaUZGQ1Qwb2p1ZnBMOW5DMkZQUU1nT1pWVk9SNmtiOXFlOHNSODFXQ0VKd2FfR0VqX2Z3aTM3Qmt1OWphRlIzZUMxem0?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-10-11T16:27:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia Suffered 50,000 Casualties Last Month, NATO Official Says    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Russia Suffered 50,000 Casualties Last Month, NATO Official Says"
+      }
+    },
     {
       "title_original": "ウクライナとロシアがエネ施設攻撃停止で合意、トランプ氏投稿 「初耳」とゼレンスキー氏",
       "title_zh": "ウクライナとロシアがエネ施設攻撃停止で合意、トランプ氏投稿 「初耳」とゼレンスキー氏",
@@ -151,6 +826,56 @@
       ],
       "all_titles": {
         "en": "Poland stabbings driven by online glorification of violence, Tusk says"
+      }
+    },
+    {
+      "title_original": "Salvador Sánchez Tapia, experto en geopolítica: \"Trump se irá antes o después y eso sanará el vínculo trasatlántico\"",
+      "title_zh": "Salvador Sánchez Tapia, experto en geopolítica: \"Trump se irá antes o después y eso sanará el vínculo trasatlántico\"",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOLWFONkpWME5Vak4tdDU4MXhyaWhtWWp3Tmo2WUlTVU1PRHI1akZVUlBuRlJXVDlLQ1FzYkNBZlFEWXRFVGY0dEVaWTJBLTlhZS16bF9ENW9ma3VkcDdNWEc4dVYwRVVxZm9XSHdyZGJkMXJYSHdGX3d2b2Jtbzc4bFowSVljalh3eVcteFo2eGFXVjdlcEtSVlYxSUpsVnVzNS11bFVSbVQyVDE4OEV4M2hiY2RibTQ0R1VZNlk5c1EzRkZKMy05d2JzMnViUEk3QjZUX0JsY0lxME9oY3BaWFdua3ZZb3NyUThwNlhpU2k5c0NVSWRyb3NYWXN6eDNRSTRyUjZHamZzQWY1NS00?oc=5",
+      "source": "Diario de Navarra",
+      "source_score": 40,
+      "published_at": "2026-10-11T15:10:04+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Salvador Sánchez Tapia, experto en geopolítica: \"Trump se irá antes o después y eso sanará el vínculo trasatlántico\"    Diario de Navarra",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Diario de Navarra"
+      ],
+      "all_titles": {
+        "es": "Salvador Sánchez Tapia, experto en geopolítica: \"Trump se irá antes o después y eso sanará el vínculo trasatlántico\""
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Moskau und Kiew stoppen laut Trump Angriffe auf Energieanlagen",
+      "title_zh": "Ukraine-Krieg: Moskau und Kiew stoppen laut Trump Angriffe auf Energieanlagen",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa1NZdl9KTkFCNG5ScW9yMk1Na1JnVEs3VV9lN1haZVlNSnU1ZjJXZXBsTVpxVWRWYlVYMHpuMF9la25fM3prNDdDSzBMdE5OdURLbWpIU0pISDJlRkNDa182YVQybmQwMXVsYmZWZFlpdDJjcHJfWWUzLTFjSlVZZ3ZuSXZRRXg5WU15X3BESWlVWVhkNldJNFBIX2x1Wm5mVl9rM1dvRVVZN0pPTmtIMGVaWGRkbFAtb3cwUGpYaDduOXk4OEE?oc=5",
+      "source": "WirtschaftsWoche",
+      "source_score": 55,
+      "published_at": "2026-10-11T14:55:52+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Moskau und Kiew stoppen laut Trump Angriffe auf Energieanlagen    WirtschaftsWoche",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "WirtschaftsWoche"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Moskau und Kiew stoppen laut Trump Angriffe auf Energieanlagen"
       }
     },
     {
