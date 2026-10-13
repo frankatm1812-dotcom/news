@@ -1,8 +1,508 @@
 {
   "date": "2026-10-13",
-  "generated_at": "2026-10-12T20:17:42.052528+00:00",
-  "count": 35,
+  "generated_at": "2026-10-13T03:31:27.764112+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title_original": "Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels",
+      "title_zh": "Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels",
+      "url": "https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-13T03:03:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "National park officials took the precautionary measure to limit tourist access after heavy rain caused the Iguazu River to flow at six times the normal rate Heavy rainfall fuelled by a supersized El Niño weather pattern briefly forced Argentinian authorities to close tourist access to the famed Iguazu Falls, amid fears that rapidly rising water levels would cause the river to burst its banks.",
+        "National park officials took the precautionary measure on Monday when the Iguazu River’s flow exceeded 12,000 cubic metres per second – more than six times its average rate.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels"
+      }
+    },
+    {
+      "title_original": "米国、ウクライナに武器供給停止の脅し ロシア製油所攻撃停止へ圧力",
+      "title_zh": "米国、ウクライナに武器供給停止の脅し ロシア製油所攻撃停止へ圧力",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kbGdaV1ZyZUpWbm5EV0ZrYzRBNUpPdXBIeHltdzZ2UTRoU21ITnZfWExXNklBRXY5cTFaU2ZkRjRXZXpQQmVvTG92Sk81b094SFVRM05mV2szSERzT1NfY2paVmVIaXNpZThZakhxVHZxZFQzY2hJ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-13T02:36:41+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "米国、ウクライナに武器供給停止の脅し ロシア製油所攻撃停止へ圧力    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "米国、ウクライナに武器供給停止の脅し ロシア製油所攻撃停止へ圧力"
+      }
+    },
+    {
+      "title_original": "U.S. and NATO commander vows to thwart Moscow, warns Kyiv over refinery strikes",
+      "title_zh": "U.S. and NATO commander vows to thwart Moscow, warns Kyiv over refinery strikes",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOVIwNmNCdG1jLWtWYkNTZW9EOGM1MnozMGlWTXNBVEFiaWlXU28yc3NjWVlXMkF0SXJJXzFlSllzZ24tRWVTTHhRcFN0RTk1NHlHWEwwQWN1SG5lWExtc1paNHhHNHhxa01uekw3Zk9BR3ZMNzQ0T0k1YkZlNXpVelU1MVB3VTl2c3dwWlZSOFRvNnhRWXZlTHpORXZoYnlCS2s3RXB5c2s1QXFwN1E?oc=5",
+      "source": "The Washington Post",
+      "source_score": 75,
+      "published_at": "2026-10-13T02:24:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "and NATO commander vows to thwart Moscow, warns Kyiv over refinery strikes    The Washington Post",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Washington Post"
+      ],
+      "all_titles": {
+        "en": "U.S. and NATO commander vows to thwart Moscow, warns Kyiv over refinery strikes"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Russian diesel exports could return to past levels after Trump deal, Moscow claims",
+      "title_zh": "Ukraine war briefing: Russian diesel exports could return to past levels after Trump deal, Moscow claims",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWGxHaWtJRHZxZnNxNWI2NGVRRmV5MlktUFpiTE8wZUlyc2I0WGQ5WGRwcU5HRTZpVUwxZlhOV05BLUxnakVpZlZRUFk3NnR3UFdlYkdVMWg2YU53Vi1xQXNuazhGYi1xV0JRWk40eXdJNVZpN1BWWHFsaFZfSFZQT3BwWHpSVEEtOWFCREs1T0Y1RnZPTzdCcm52azRPaUJlcTVQUkItTjIyMXRqUXhtU3B1a2JqcnpzazBCUWU3Rll1a2pUbDgwRW1PWk5SNGFaOExJYWo0MHpuYU5LbDdheF93?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-10-13T02:22:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Russian diesel exports could return to past levels after Trump deal, Moscow claims    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Russian diesel exports could return to past levels after Trump deal, Moscow claims"
+      }
+    },
+    {
+      "title_original": "صندوق النقد الدولي يخفض توقعاته للنمو في الشرق الأوسط في ظل الحرب",
+      "title_zh": "صندوق النقد الدولي يخفض توقعاته للنمو في الشرق الأوسط في ظل الحرب",
+      "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxPUmhVeGFrQTMtRV96bGc3MUNQVTVnNmpwUDBSQTNQTy1naUZxY0hVYWlORDVEZTdrSkhPVlRmSHlPR2MyZWF1NUpUN3czZDdmV3VMRjRVYktSSFEyN3JCaklZR3A0VS1QU20zYWpVMTZXLWpYSk80ZUdjVTlDLWY4amM5ZHBsbTIxN1J6X2xfa1lrc3ZfRzU1QWVtQmdQRmlOYk90bFd2OWlTUkszM3Q3UnhvV3UtS2xTWkI3VTZRY3RldzlzcFp3UDJ1WE81Q09SNi0wTnQySVpRVHRYOVhvcnp4ZVFQMFlxdVJkdG1raFVYemVHVVNGcU1NclpFaFRMOExsUXRUOVQ2cG9iRXVScjliZnVFM0Q0MVlFR2Y5MFVNWnJ1TTFpZl9JQ25YMHpvMmFiOVRyQUVEVWdLVzUxLW1qeTBDdXJYVFdNSlk3WXl1cjY1WV96Vl9VTm5qT0FrSXZlMzAtWVJvU1Z3YzRkV0RvWHFLOGN6cVh5WlV1SkVOQlE0MjFqb1VoLTlFSG1OVlNwdVBxRWlwdmhBQVMtZk9UT2l0TTBVdmowc01ndHNMbTNobUFLVlJRbUM1T1lFNUMxX0dnZTFDel9HWVpsd3FzSHR4Rl94VklKeXdLUTRVWWtoamtmZXZaaGk2MTBXVHVVbWRxVFE1RFNaMGo5cFZ1QmlPQmlRcmdDOVlnM0JlalJwLUd3SUt4NFpSUkVuZS1VU2E1S1Vzcy1oNDFoZE9sU0tzRUVZckc0bk1NX2ljMUYzSllCQXU4MWIzeUdBYkZuSW5GQ1hyUFF3OEhqV250ZGNHSDZUcXlTcHp5QmRiWHVraGZmWkFBQ3g0NTdVVkRZTkJ3?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-13T02:05:38+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "صندوق النقد الدولي يخفض توقعاته للنمو في الشرق الأوسط في ظل الحرب    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "صندوق النقد الدولي يخفض توقعاته للنمو في الشرق الأوسط في ظل الحرب"
+      }
+    },
+    {
+      "title_original": "なぜウクライナ軍はロシアのデータセンターを攻撃目標にしたのか 次のシナリオは？ #エキスパートトピ",
+      "title_zh": "なぜウクライナ軍はロシアのデータセンターを攻撃目標にしたのか 次のシナリオは？ #エキスパートトピ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWhUd0ZsbkVwTVcxakFxbExEUU9ITHlrR3ZiLWpNb000dGVjc2dXU3BHSXI4eUNNN0QxekltdEViSnd1WlRzanI3RnhFOUZmMzVzUHJkZElkLVRhTmxhQ3FGWEoxMTYwUU1nQlZMdHZ3WHl4QUVwSUpPcVpMWGZFZk1hcWdNVHB4?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-13T01:28:41+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "なぜウクライナ軍はロシアのデータセンターを攻撃目標にしたのか 次のシナリオは？",
+        "#エキスパートトピ    Yahoo!ニュース",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "なぜウクライナ軍はロシアのデータセンターを攻撃目標にしたのか 次のシナリオは？ #エキスパートトピ"
+      }
+    },
+    {
+      "title_original": "Bulgaria recurre a la UE y la OTAN para esclarecer los ataques con drones a dos buques en el mar Negro",
+      "title_zh": "Bulgaria recurre a la UE y la OTAN para esclarecer los ataques con drones a dos buques en el mar Negro",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa1BKNGNmQTZ0RFNSNTRHWXRQNThEbEE1R2JmUGtCMWlXbVA1WnVFdTkyc3hwQWlFQkNkSHpfRXpPNW9BeU95MFNDLWVuVVRXZXhmbEh2SGl5RGVBSG93Tm5VbGR1RWhKbnVyMHhRUGpLaTBWaDVxQUVtcDEwQUtaSjZiVEgybXdkYzBRVVJqdEJjTnRuRTUtcXVMcjVma0ZZWG5DVzd3TFRISXRjVW53SmxSTVZ3QTdVYlJMM3lCVTBWb2hHV1pRdTJhN3lNdV9Dc25mc0dKcVhaUdIB3wFBVV95cUxPYkdFNXI5dmJOU2hQX1VfVUFGNWxLTTM0b0Y3alRoVnFWMmFfZzlWRUNpeU8wNGJMVlNjbDRFYl9xQWxPcWs2VTZzOHNYdGEwYTFYeW1DMVc5RDlkMW5PZEo3TW1TdlhNakFUbmhpeEUzdVZOMENGVVNWWVdRRndoeWEtbkhfd3I4SkM4RlBkLVBTSU1JTFlnYmZXNEd4NUNVUFNuX3oyNmlwVEw2ZXdEcUEybmJVWkdEdlExeUN3RWxfQy16bk12STNHS0lwWDJOalNCbGV5SjdKY1VBemxZ?oc=5",
+      "source": "Demócrata",
+      "source_score": 40,
+      "published_at": "2026-10-13T01:28:38+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Bulgaria recurre a la UE y la OTAN para esclarecer los ataques con drones a dos buques en el mar Negro    Demócrata",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Demócrata"
+      ],
+      "all_titles": {
+        "es": "Bulgaria recurre a la UE y la OTAN para esclarecer los ataques con drones a dos buques en el mar Negro"
+      }
+    },
+    {
+      "title_original": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "title_zh": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T01:26:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Saudi minister vows 'serious response' to Houthi attacks on airports\n- Published\nSaudi Arabia's energy minister has vowed a \"serious\" response to the deadly attacks on the kingdom's airports and oil and gas facilities by Yemen's Iran-backed Houthi movement.",
+        "\"The events of recent weeks are serious.",
+        "Our response must be equally serious,\" Prince Abdul Aziz bin Salman told the WPC Energy Congress in Riyadh."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Saudi minister vows 'serious response' to Houthi attacks on airports"
+      }
+    },
+    {
+      "title_original": "北约最高指挥官阐述抵御俄罗斯攻击的计划",
+      "title_zh": "北约最高指挥官阐述抵御俄罗斯攻击的计划",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOczJWeWlKTEtVc28yWktDOHJreXlnTlpfVFFBRWs1blBnMnFoQmVXWXg0NS1KN0dlUVRPSmFwcWd5cWc5Q2tCZUZQSnd6YU56Q3dUTTJtSzEtcFJneDVtWTBnUU1Ha2trUVBJZjhZb2NmRzV1eWtkYWtfdFUySjV4NzhfdXg4ZkMwQnhWbHBMSjN2Tlp5TnZxZWtxUE5zMWJiWTc5aTh3M3J0NkEwMk9zZ2hmYlJIWWc3NHktWnZPSWNYTGlGSU5Pd3ptQlV1R3lsZnRLV1Y4TlVLNDJDbk1PS2x0VDdOTk5pY1JHQ1BOM1lMMkV4TzVhb3Bud05GV0h3b1ZCUWdfSjB6UjZ6WnktV3BJZU1tZHVjaDFKWnY2REVmdk1RX0Q1OGxtUG1NRnlkT2c?oc=5",
+      "source": "华尔街日报中文网",
+      "source_score": 95,
+      "published_at": "2026-10-13T00:24:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "北约最高指挥官阐述抵御俄罗斯攻击的计划    华尔街日报中文网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "华尔街日报中文网"
+      ],
+      "all_titles": {
+        "zh": "北约最高指挥官阐述抵御俄罗斯攻击的计划"
+      }
+    },
+    {
+      "title_original": "Breaking Bad actor RJ Mitte dies aged 34",
+      "title_zh": "Breaking Bad actor RJ Mitte dies aged 34",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T00:12:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Breaking Bad actor RJ Mitte dies aged 34\n- Published\nUS actor RJ Mitte, best known for his role as the defiant son of drug kingpin Walter White in the drama series Breaking Bad, has died aged 34.",
+        "\"It is with profound sadness that we share the tragic passing of beloved actor, philanthropist, and passionate disability rights advocate RJ Mitte,\" his representative told the BBC.",
+        "He died in Brownsville, Texas."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Breaking Bad actor RJ Mitte dies aged 34"
+      }
+    },
+    {
+      "title_original": "ウクライナ首都住宅ビルに攻撃、2人死亡・9人負傷＝大統領",
+      "title_zh": "ウクライナ首都住宅ビルに攻撃、2人死亡・9人負傷＝大統領",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUFONGYwTkVaTXFqNjRRbVV4X05iRndOWUJwdW9RYmtsSmRTaVpOWU1wWWRQX2RGZkJSeEdSSmVVdFVMeDF1NS1NX2J1ZnluT3BiNDMxcm1ld29CMWRhbE5JbDNnRXk0SFc2VXhMVEI4cFhwLWt0bDFlR0tJZUh0UW9NY2Z6QQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-12T23:33:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ首都住宅ビルに攻撃、2人死亡・9人負傷＝大統領    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ首都住宅ビルに攻撃、2人死亡・9人負傷＝大統領"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Trump: Putin will Deal mehr als Selenskyj",
+      "title_zh": "Ukraine-Krieg: Trump: Putin will Deal mehr als Selenskyj",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQno0X0hWUHBXV2xaSUVtdnRkdXpYRm95RlV6MVV1RXZWaDlTMm5MeHk5d3Z5b3VrS3YxLTBydWtQdnpQa1g1RDg3SmZPOC1HRjRJNGo2SE5fVFZtSUhFbmxFSEwzeXZ5enlYcHF2SjlmcWdVdW9Xa3lsajRsWlFTZjF3?oc=5",
+      "source": "DIE ZEIT",
+      "source_score": 40,
+      "published_at": "2026-10-12T22:55:35+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Trump: Putin will Deal mehr als Selenskyj    DIE ZEIT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "DIE ZEIT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Trump: Putin will Deal mehr als Selenskyj"
+      }
+    },
+    {
+      "title_original": "Schwarzes Meer: Bulgarien ersucht Hilfe von Nato und EU nach Drohnenangriff",
+      "title_zh": "Schwarzes Meer: Bulgarien ersucht Hilfe von Nato und EU nach Drohnenangriff",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXpIOVVHbF8yUE9mdFpxNVFrWTdYd3AzYkVMVXROVTJPUlhILTNtV1lBSjJ1WDRreVhNanMtUUhSQmdmYWQ2aHdVblRoNGg3alpZU0NGVXZJMUdBYndRZkJ5aXoxLThQTWN5alo4TmxKOHRMOWZob2ZucEdCZWlrWDhTd3g3NGxjdGxpM0NWcnh5a2ctSG5naFNZcHFiU0VOVFRpLWU1SUx1UVhX?oc=5",
+      "source": "DIE ZEIT",
+      "source_score": 40,
+      "published_at": "2026-10-12T22:43:21+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Schwarzes Meer: Bulgarien ersucht Hilfe von Nato und EU nach Drohnenangriff    DIE ZEIT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "DIE ZEIT"
+      ],
+      "all_titles": {
+        "de": "Schwarzes Meer: Bulgarien ersucht Hilfe von Nato und EU nach Drohnenangriff"
+      }
+    },
+    {
+      "title_original": "La OTAN aseguró que responderá a cualquier agresión militar rusa para preservar la paz",
+      "title_zh": "La OTAN aseguró que responderá a cualquier agresión militar rusa para preservar la paz",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNTZ6aUZyUFJQZEZydW44NF81dVZncmctSlpqNjJXbXZLdjBUX010blJHNVo4YS1oM0ZWVHc3cEdZeHk1b2NST0ZpdWpuekNHNjhZSnM0TzZ5WTg4X2JOQU1QLWlOQzNNUUZVcGlTZVRia2xtYmpMUXNuc2JWbU9PN2xhT3U1emVWVERzQUxPMXNJdGJGU0tjN1JhaUhhRlVKOTltY2I0ei1BWEtzZzhweXdTM0VsOTZVMVhkMHhDWTZfd1Z5dTE1VEVwd1JyTWVLc0HSAewBQVVfeXFMT2I1WjFiOHVzZzJvTVVQWUE1YjlHWjRTb3hwSG9YWUpmTDZIWWpoZWpSeHdyUEdnRk4tVngzbFRKbFRTblJiZWRuUkNaamg0bTZQczctTHFfbGpFVG9uQnByZG5EZlhSNGVVNGZZMkNYUFdDMzVXUXpESTd0SGp3WXhiVmxycXc1UUdZWTQ5a0NVRW9BbFY2a3ljNTZ6cGVobWpiWTdvOWFQVG1odGdyemR6T2J4V282ak56VEM3TzdVaUVtYkRqNnVjMVpTY1J4aUw3RXY4cmJ2UDJSb2FZZTVxOEt3c1BQNjZGeGk?oc=5",
+      "source": "Infobae",
+      "source_score": 40,
+      "published_at": "2026-10-12T22:40:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La OTAN aseguró que responderá a cualquier agresión militar rusa para preservar la paz    Infobae",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Infobae"
+      ],
+      "all_titles": {
+        "es": "La OTAN aseguró que responderá a cualquier agresión militar rusa para preservar la paz"
+      }
+    },
+    {
+      "title_original": "北约核演习前夕，法国抢先亮出底牌：我才是欧洲的“核保护伞”",
+      "title_zh": "北约核演习前夕，法国抢先亮出底牌：我才是欧洲的“核保护伞”",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5haXpGSl9tOEJ5THB4ZWZxSXoyMnpNX0tscjJ4enFCWldqSE9nVnI1RzVYVGlnVmtJQmRRZXpuOE81Zko0SWdnTjd3QkY?oc=5",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-10-12T22:20:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约核演习前夕，法国抢先亮出底牌：我才是欧洲的“核保护伞”    凤凰网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "北约核演习前夕，法国抢先亮出底牌：我才是欧洲的“核保护伞”"
+      }
+    },
+    {
+      "title_original": "Immigration agents search congresswoman Ilhan Omar's home",
+      "title_zh": "Immigration agents search congresswoman Ilhan Omar's home",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-12T22:05:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Immigration agents search congresswoman Ilhan Omar's home\n- Published\nUS immigration agents have searched the home of Minnesota Representative Ilhan Omar as part of a criminal investigation.",
+        "Homeland Security Investigations (HSI) agents \"executed a judicially authorised search warrant\" for the property in the Washington DC area, a US justice department spokesperson said.",
+        "The search \"is part of an ongoing federal criminal investigation\", the spokesperson said, but no further details were given."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Immigration agents search congresswoman Ilhan Omar's home"
+      }
+    },
+    {
+      "title_original": "Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings",
+      "title_zh": "Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings",
+      "url": "https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-12T21:40:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Leftist former leader accused of involvement in shooting of three Europeans in Santa Cruz and torture of two others Bolivia’s attorney general has announced an investigation into leftist former president Evo Morales, alleging his involvement in the murder and torture of European citizens in 2009.",
+        "Seventeen years ago, police raided a hotel in the city of Santa Cruz, shooting dead Eduardo Rózsa Flores, a Bolivian-Croatian, Michael Dwyer, an Irishman, and Árpád Magyarosi, a Hungarian-Romanian.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings"
+      }
+    },
+    {
+      "title_original": "Qantas flight grounded after bedbug outbreak",
+      "title_zh": "Qantas flight grounded after bedbug outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-12T21:01:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Qantas flight grounded after bedbug outbreak\n- Published\nA Qantas flight from Italy to Australia was cancelled on Saturday, after an outbreak of bedbugs on the plane.",
+        "During the previous flight on Friday - a nearly 17-hour journey from Perth to Rome - some passengers had complained that they were being bitten by bugs, according to the Sydney Morning Herald.",
+        "They were reportedly given antihistamines to help ease the itch of the bites, but supplies ran out."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Qantas flight grounded after bedbug outbreak"
+      }
+    },
+    {
+      "title_original": "Grynkewich, el comandante supremo de la OTAN, endurece el tono frente a Rusia",
+      "title_zh": "Grynkewich, el comandante supremo de la OTAN, endurece el tono frente a Rusia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEZoWngxZjNpbHAzQVMwQ2pWWTJlQkVlYlRlU0JGS3drbUh2cE5TeGUwTGFFSmlhQk4xSU9kVU1kZ3FDTFdkbkoxdjMtcGdEcjlmZXh2RVZmeVVlQnhvTnNpTHFQRWxVeUdrUDNpZ09iYUNBRG5hakc5VEZ1cFk3VFlxSlZNRkdjdERlbFY0bVVJc2hBWmg2a2xPTjhkV2xKdkdSLVZoMmtnRTh6Y2NqSjNVLVpRb1UxSlE?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-12T20:26:29+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Grynkewich, el comandante supremo de la OTAN, endurece el tono frente a Rusia    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "es": "Grynkewich, el comandante supremo de la OTAN, endurece el tono frente a Rusia"
+      }
+    },
+    {
+      "title_original": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+      "title_zh": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-12T20:17:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Why Moscow is staying tight-lipped on Trump's energy ceasefire\n- Published\nOn Sunday, US President Donald Trump announced that Russia and Ukraine had agreed a ceasefire on strikes on energy infrastructure \"effective immediately\".",
+        "Ukraine's Volodymyr Zelensky suggested it was \"news for me\", while Russia has not commented publicly.",
+        "So who is saying what?"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Why Moscow is staying tight-lipped on Trump's energy ceasefire"
+      }
+    },
     {
       "title_original": "Nato: Alexus Grynkewich stellt «Theorie des Sieges» vor",
       "title_zh": "Nato: Alexus Grynkewich stellt «Theorie des Sieges» vor",
@@ -51,6 +551,56 @@
       ],
       "all_titles": {
         "en": "NATO says will do ‘anything and everything’ if alliance is attacked"
+      }
+    },
+    {
+      "title_original": "Dólar opera en máximos 18 meses ante escalada Oriente Medio, mercado espera dato inflación EEUU",
+      "title_zh": "Dólar opera en máximos 18 meses ante escalada Oriente Medio, mercado espera dato inflación EEUU",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04cW1EQ3AwU2dRSWZhTTllSTB6al9nVlRRZUZBejBBMm54UDZDMF9JMVpPSXZxejZvV2dZcm9PTTV0akF0WVNNdXQ2VUhOWWhTbC12Y0JDSF9CNEZjazFsTnpLRGkya3BmTU5JaklKeU9Kek15cTVR?oc=5",
+      "source": "TradingView",
+      "source_score": 40,
+      "published_at": "2026-10-12T19:28:02+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Dólar opera en máximos 18 meses ante escalada Oriente Medio, mercado espera dato inflación EEUU    TradingView",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "TradingView"
+      ],
+      "all_titles": {
+        "es": "Dólar opera en máximos 18 meses ante escalada Oriente Medio, mercado espera dato inflación EEUU"
+      }
+    },
+    {
+      "title_original": "Entre riposte, lignes rouges et refus de l’escalade, la « théorie de la victoire » de l’Otan en cas de conflit avec la Russie",
+      "title_zh": "Entre riposte, lignes rouges et refus de l’escalade, la « théorie de la victoire » de l’Otan en cas de conflit avec la Russie",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdThHUU0xRzFGclVlZGpfTk0wNFR2ZEJKUjZSakQ3LXlQZnZzQXVXMWxVMnZ6WHRjX0lsRm14MjNNbllaODVrSTZLektBeEFLNXdYSXBNYnBsS2FWdXNBWnBsYW1sWTBQWWQ3OGgzX1NadkdLSVdtNlJXQnJDeVE2aHg2RlpQQjdFdTk5eS0yY0ZMMjZYd2w5aVhzRzRtWWliWVVVZG5jZ1pxUEFudEM5QUpUaUEzemNHSy1jRTU2a3lWYnk5S25yQ0c5QVhtSVNBZXRXelJ6UTQ2eTVsYmx1LXB5eS1CcGUxS056azc0Wjl2M3JUU2tsQ0x3?oc=5",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-10-12T19:08:40+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Entre riposte, lignes rouges et refus de l’escalade, la « théorie de la victoire » de l’Otan en cas de conflit avec la Russie    Le Figaro",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Entre riposte, lignes rouges et refus de l’escalade, la « théorie de la victoire » de l’Otan en cas de conflit avec la Russie"
       }
     },
     {
@@ -154,6 +704,31 @@
       }
     },
     {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 01:45 Ukraine: Mindestens acht Tote bei russischen Angriffen +++",
+      "title_zh": "Ukraine-Krieg im Liveticker: +++ 01:45 Ukraine: Mindestens acht Tote bei russischen Angriffen +++",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN1hCQ2RTMXF2Vm1sb3ZOakt4LUQ2djJSOVBnX2wzTVdNMmdtS1c0MVRHZTVxaG1xNkNLMGsyOVdhNzR4eUpMOVZZUlZDNWZYLUlzY2hUMGMtUzN2TFBHU2MtUnZsTllza0xCcUo2bVVwd3ptaG8wMnpUaERJWVZRY1FEd3JyRnFMR25zSFVXMkNRcGpLUkk1dWYwOHhOODdaVmI1NEl1RFpXSE0?oc=5",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-10-12T18:09:55+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg im Liveticker: +++ 01:45 Ukraine: Mindestens acht Tote bei russischen Angriffen +++    n-tv.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 01:45 Ukraine: Mindestens acht Tote bei russischen Angriffen +++"
+      }
+    },
+    {
       "title_original": "Pour le chef des forces alliées de l’OTAN, « il est impossible que l’Alliance soit attaquée par surprise »",
       "title_zh": "Pour le chef des forces alliées de l’OTAN, « il est impossible que l’Alliance soit attaquée par surprise »",
       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWmVpc0NkVVpTNTFtcHhMSHE4SHA4SXNKaDA2V3hKUHhIVkFCa3Z6aHJYaGx5Q1JoUDBFWnloUE05bWNOUEJkVWlpd0hfTjBJdERBR2RpYTRCMl9mTGJKMHU0aERhdXh2TERHTmF4ZWNtellyR1NKNnZodW4xaVBGbmxNWWhQb2U3eDFyZmwyQWNEckc5SjlIVU9oNTZVT2Z2bWJaVE5Wb2YtanJVRl9JT3dOcFlaZGdyRDNUOHEzeG5Hd1hUWXhoSzJqaWRhZXUwOWh0R0MzTHF3eWpnOWM1RmRPWTdvV0YzUEM4YmpkWUx0UTl6akJkVkt3dnQtZElyZVJYTG93?oc=5",
@@ -176,6 +751,31 @@
       ],
       "all_titles": {
         "fr": "Pour le chef des forces alliées de l’OTAN, « il est impossible que l’Alliance soit attaquée par surprise »"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Merz telefoniert mit Selenskyj",
+      "title_zh": "Ukraine-Krieg: Merz telefoniert mit Selenskyj",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0xqWTIzTDNWdTI4bTBvd2tVZ0l2UDhMYTlDbF9iUHhnUEdmVzRocXgycTVMcnd0M20zU1F1by1rTzFmRl9wbWJyTWVrOG9DcVlXVnBzSUpaRUtkVDJ5dWR3UlpJY2NlVnl5MTJTWVk2UF83XzZuc0VVcHVTNkZ4MjFwXzZOTFFzbHRFNjV3?oc=5",
+      "source": "STERN.de",
+      "source_score": 40,
+      "published_at": "2026-10-12T17:56:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Merz telefoniert mit Selenskyj    STERN.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "STERN.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Merz telefoniert mit Selenskyj"
       }
     },
     {
@@ -204,6 +804,56 @@
       }
     },
     {
+      "title_original": "Ukraine war briefing: Trump and Zelenskyy’s public tussle over Russian fuel deal worsens",
+      "title_zh": "Ukraine war briefing: Trump and Zelenskyy’s public tussle over Russian fuel deal worsens",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZk9KNlJNSjlZWGJEaUs4eklyQUd6UlRBTWFwaHRGcU5vUFpRNVJxQjZKVHVIUzhsaFhjLVRxUlo4QnRGTkdsNG42eUxLUDBlY2dYUU9rSHNXUzVmR0lEMy02cEttUTJoZXdjaXE4Ujd6RlFVSW9mMzJHcWhsUjRJOHhYaDFpdXVtaGs1aFVBdmJVNkNHV2hpT2xXZHp3eGd6aEt0R1RURENRUmZjSkpPVlRhWkwzanM?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-10-12T17:21:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Trump and Zelenskyy’s public tussle over Russian fuel deal worsens    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Trump and Zelenskyy’s public tussle over Russian fuel deal worsens"
+      }
+    },
+    {
+      "title_original": "NATO’s top general lays out plan to fight Russia — with or without America",
+      "title_zh": "NATO’s top general lays out plan to fight Russia — with or without America",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHJpVmQyS3lrWTFVb2dVQlhNbzJuUndUdnRlc0IzODZyTmJjU3A0YkVRdEZ5Z1VZanZFQW9Ud3Q4MkJrZEd4SEFkVVNDVkJBWWh1Rm9KX2ZiYTB1WnduQXVtNWw4UXZpVmsxNWI4enQ1MDgzWDJUckFjQjN0Rm16TlRGaGIwQnhabEY4?oc=5",
+      "source": "POLITICO.eu",
+      "source_score": 75,
+      "published_at": "2026-10-12T17:11:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "NATO’s top general lays out plan to fight Russia — with or without America    POLITICO.eu",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "POLITICO.eu"
+      ],
+      "all_titles": {
+        "en": "NATO’s top general lays out plan to fight Russia — with or without America"
+      }
+    },
+    {
       "title_original": "NATO Details Plan to Shield Ukraine’s European Allies from Russia",
       "title_zh": "NATO Details Plan to Shield Ukraine’s European Allies from Russia",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQczFSVDhqcTgwTUliMlo0OFhGcHFOWHd2T19MM1l3VjU5VFM1SmZmaDB5ek00Q1Z6WEI3RTExUTlzREt5YzYteWVOVTUxWnRZb3VlTTRRU1Rrd0t4ek1nWnptc3BQdFNXVGVyR2ZkMk03SW1VRFh2YTRDcU9kUFg0S1lXZTJVbU0?oc=5",
@@ -226,6 +876,31 @@
       ],
       "all_titles": {
         "en": "NATO Details Plan to Shield Ukraine’s European Allies from Russia"
+      }
+    },
+    {
+      "title_original": "South Africa's deputy police chief resigns after being charged with sexual offences",
+      "title_zh": "South Africa's deputy police chief resigns after being charged with sexual offences",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-12T16:46:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "South Africa's deputy police chief resigns after being charged with sexual offences\n- Published\nSouth Africa's deputy police chief has resigned three weeks after he was charged with sexual offences.",
+        "A lawyer representing Lt Gen Shadrack Sibiya submitted his resignation letter at his disciplinary hearing on Monday, a police spokesperson said.",
+        "Sibiya, 59, is also accused of having links to organised crime bosses - allegations which led to him being suspended last year."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "South Africa's deputy police chief resigns after being charged with sexual offences"
       }
     },
     {
@@ -276,6 +951,31 @@
       ],
       "all_titles": {
         "ar": "يوميات الشرق الأوسط 12/10/2026 GMT"
+      }
+    },
+    {
+      "title_original": "« Théorie de la victoire » : voici comment l’Otan compte l’emporter contre la Russie",
+      "title_zh": "« Théorie de la victoire » : voici comment l’Otan compte l’emporter contre la Russie",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2ItdzhaYnJ5RFFVSFQ5dS1uSEVVeEVEdnBJRXBpQmlQWDEtaXBaUW5MSTlaSUZRZWNrYmRBYjBLbmI0RkhCejEzZGR3SWlVUFJReW4xaHI4U2hKWE1jbzZHUlMwUUZERXF0cmgwRHF5VTVraW52blBnTlllMFlIbFRXU0lMQlFGSGRmTW9yU2NNM1dNS0N6dDlvcWFHaFQ0STU4b3NtVGxnbE5GSmlRbU13d3c?oc=5",
+      "source": "l'Opinion",
+      "source_score": 40,
+      "published_at": "2026-10-12T16:21:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "« Théorie de la victoire » : voici comment l’Otan compte l’emporter contre la Russie    l'Opinion",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "l'Opinion"
+      ],
+      "all_titles": {
+        "fr": "« Théorie de la victoire » : voici comment l’Otan compte l’emporter contre la Russie"
       }
     },
     {
