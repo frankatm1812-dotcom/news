@@ -1,0 +1,882 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-13T18:17:28.067157+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "J&J posts weak medical device sales, shares fall",
+      "title_zh": "J&J posts weak medical device sales, shares fall",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUdSU1RiZkRmc3g3THpDdFRzamk3X1hSZFhlTkhicGt1MlFpV24zc2RIWmM4MEk4WThZQ25aNm51RWM1ZndlSjVMQTRTZGRjRzNQSkxkb1FwU0lVSTM0b1VHRGw5WHM5YURtbWVGZXByRmVvOXdJVGlHNW1GOW05SGhIMkdKVnZvN21hTEpzMmh0bkVyRDJ4a01HdU1kQVlXQjduRkJrMW5tQXl0TDNaOEpKSjRFbFNCWmhKSmpacGRIM3E4dTM2Zg?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-13T17:56:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "J&J posts weak medical device sales, shares fall    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "J&J posts weak medical device sales, shares fall"
+      }
+    },
+    {
+      "title_original": "Was Trumps Diesel-Deal mit Russland für den Ukraine-Krieg bedeutet",
+      "title_zh": "Was Trumps Diesel-Deal mit Russland für den Ukraine-Krieg bedeutet",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzB1My1OcWR5djV2VjAzRlhGWDVUZTlPR1hEcEhXTDFNeml3d1A4VDZpTHViQ2V0NjExNHl1VzZDbmdYWDBtLUhPRkNJalBwZDdHaHIyXy1nYTZ3cjBCZTRvRFhpb2Nyd0pteXAxOVpCVTMzU0dRYlVBRzhTaFlSYVlKLTlsZHVhZmJ3SG50UElxREk4NU5JYWgxM1AtdHQtYlNOZWlBb9IBpwFBVV95cUxPclROakV1cGc4SHNtR09EdGszUGNYNDFPQnFFSFVrOHk4b09sX2wwQzYwSmhIU2xSMDhVdGFfdWFxWnlONDNXbGU5UE1kRE05Wkt4ZzIxSFI2N3pOMGFMXzJXVktpa3Z4d0xPNEc3TnBVQk9VN25FOG1OYWI0eW9Sd3Y1UXFOTi1JR250RUYwcHRLUUw1ZmdBRGo4UV9sQnc2LUtJX0JzVQ?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-13T17:44:11+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Was Trumps Diesel-Deal mit Russland für den Ukraine-Krieg bedeutet    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Was Trumps Diesel-Deal mit Russland für den Ukraine-Krieg bedeutet"
+      }
+    },
+    {
+      "title_original": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
+      "title_zh": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
+      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T17:10:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Horrified witnesses recount fatal rollercoaster incident at Six Flags\n- Published\nWarning: This article contains some graphic details\nOne person has died and others were injured after an incident on a rollercoaster at an amusement park in the US state of Georgia.",
+        "The Cobb County Police Department is investigating Monday's death at Six Flags Over Georgia, about 15 miles (24km) from Atlanta.",
+        "The ride involved has not been specified but aerial footage from news helicopters showed the Goliath rollercoaster stopped midway, with riders being helped off by workers."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Horrified witnesses recount fatal rollercoaster incident at Six Flags"
+      }
+    },
+    {
+      "title_original": "米国はウクライナと情報共有継続、終戦へロシアとも協議＝トランプ氏",
+      "title_zh": "米国はウクライナと情報共有継続、終戦へロシアとも協議＝トランプ氏",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONmhJd2luVjg4T25tUDNoTFVxZThpa3ZCeTJiQXZJcV9BNHdjbjc3bzZlbTk1NGJjMXdtcE96dlZycUtyR3MwSzdKcHpVS3lTWHI1ZjU4Y1pDYTNxeVJKc1ZtMGd5QWNJSzVKX2cweVRKbWMwanBRU3VpUEd4ZndrbkYwbmxNdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-13T16:29:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米国はウクライナと情報共有継続、終戦へロシアとも協議＝トランプ氏    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米国はウクライナと情報共有継続、終戦へロシアとも協議＝トランプ氏"
+      }
+    },
+    {
+      "title_original": "استهداف مطار الرياض للمرة الثانية واستمرار اغلاقه حتى السبت وتحذيرات حكومية للمدنيين بقرب استهداف شركة النفط في صنعاء",
+      "title_zh": "استهداف مطار الرياض للمرة الثانية واستمرار اغلاقه حتى السبت وتحذيرات حكومية للمدنيين بقرب استهداف شركة النفط في صنعاء",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5raDNLX05mMVg1VG5EZmRUMFdMdHRxSVBIYVhLZUxMYTNPdHBNcHhmZk5oT2REMGNoaUpQMjhiTjFTM0tESElQem1Td1Fab2x0eU9ET3FVTDlNMDdYVmdrbjNXbnRUVVdxNnlF?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-10-13T16:18:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "استهداف مطار الرياض للمرة الثانية واستمرار اغلاقه حتى السبت وتحذيرات حكومية للمدنيين بقرب استهداف شركة النفط في صنعاء    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "استهداف مطار الرياض للمرة الثانية واستمرار اغلاقه حتى السبت وتحذيرات حكومية للمدنيين بقرب استهداف شركة النفط في صنعاء"
+      }
+    },
+    {
+      "title_original": "北約罕見公開對俄作戰藍圖 三階段擊潰敵軍",
+      "title_zh": "北約罕見公開對俄作戰藍圖 三階段擊潰敵軍",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RQWY4MzdZT0IxdjVya011NjJmQ2tZWWctSk1YbnlURWhlOFM2REY4TnVRc3ZWZ0ZzN3NiUDR2bEJLTTB6dnZ2dTZpVVVMRWNGZnlfVVg5M25GZmRGTjBEUdIBZkFVX3lxTFByNFBEWDNhaWpmdi1tcGp6RGhzNGdCS3YyU1RrSnZCMDlCRjNtM1R6eVVWcjJTWjNBTVBZQnBzcGRUM3pzbTlPRGxrYVU1MU5mUEJ0ZWxEQ19jSm5KWVJiM0RBSkhNdw?oc=5",
+      "source": "新唐人電視台",
+      "source_score": 40,
+      "published_at": "2026-10-13T16:10:56+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北約罕見公開對俄作戰藍圖 三階段擊潰敵軍    新唐人電視台",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "新唐人電視台"
+      ],
+      "all_titles": {
+        "zh": "北約罕見公開對俄作戰藍圖 三階段擊潰敵軍"
+      }
+    },
+    {
+      "title_original": "Sicherheitsgarantien wie den Nato-Artikel 5 Diese vier Punkte soll der US-Friedensplan für die Ukraine umfassen",
+      "title_zh": "Sicherheitsgarantien wie den Nato-Artikel 5 Diese vier Punkte soll der US-Friedensplan für die Ukraine umfassen",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPa0d0M3pzVnd6cUlXNnY2THI0RnIwaVQwOEJLOHdZZTUyajNnQTVOVlF3WXBBQURPcXBDX214dmZCczNuZjhCSHc5Q2xkRFB3RXN2eE4zM3F1bzdtTS1kM09IdXNYejZFZ3NkUEJ6R2hsa2k5S0NOLXpjeWR1bVlfQW11WW5KeUZmTjhwaGI1SGxRcmRiTnQyM3pNMXhtX0dJNkRKdGVKNnNOT0hEdVRwb04teUNYdXo4QlluTXpoVl82bHNQc0F3RV9uOVN5QzcxV0Q4RV9RWDNFTkFJNlZlT2d2dW9meWpYOVRxcnRnejlKalpqSGpxSFI0eFFBZw?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-10-13T15:38:07+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Sicherheitsgarantien wie den Nato-Artikel 5 Diese vier Punkte soll der US-Friedensplan für die Ukraine umfassen    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Sicherheitsgarantien wie den Nato-Artikel 5 Diese vier Punkte soll der US-Friedensplan für die Ukraine umfassen"
+      }
+    },
+    {
+      "title_original": "Trump et l'Otan : deux idéologies éloignées",
+      "title_zh": "Trump et l'Otan : deux idéologies éloignées",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX1M1TWxESGF0b25FcS0tcndfdjZ4dG04Rk9kbWwyZm0yV3FZUzJpa0tRdHNrOVQ4dUt6eThGSnVyWDVKdFkyTDk5R3hIc0hPZmN4aW41QXF5bTl2RDJpYXRvZDhELWZLYm0xTDlneEVYMmdPSjM2SVlNMVBxR3o3ckphQk95RFZCM3UyV3o5S0FadWNqcVdCTkhvbFFMRHN2Y3NWaHlsbw?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-13T15:27:16+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Trump et l'Otan : deux idéologies éloignées    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Trump et l'Otan : deux idéologies éloignées"
+      }
+    },
+    {
+      "title_original": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
+      "title_zh": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaU1pNWJVZ2x4MVhKNXVXbnVNYmVHbjljUU1hN0tyWF9EaHcwV0NOVlNoS0V3ajZqRXpleWtDQlRUUlJWVmNTYkplWkdjbzNjUXh2eDk4aVoyRFlPS0dyYXFMcU82aEtTWUVkcG9na0FNUlBtWE5QbVFXZFlLbzBTWERrai1GbWhiMWVxYnJSanJGaWpBNzNGSjRn0gGfAUFVX3lxTFB5M3JjZElvbUhfdXVUdV9nTWRna2ZSLXllUnNIQi1vZm9ZbEMwNnpVaGZHNWU2cWQzV3d1dmdQWXNNWVFvazVIT2todE1fdFhoUmdMVWFsVHl6Z2N6YU85WTlaQ1BVZHNhdTVFNlR5OHhLQnVBdVloOXpuajI0c2RaRmpIekpOSnRVdzVkVEpaclZfMng5elJjcTU1YTJqNA?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-13T15:11:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?"
+      }
+    },
+    {
+      "title_original": "ロシア、ウクライナのエネルギー施設攻撃せず トランプ氏「停戦」発表後初",
+      "title_zh": "ロシア、ウクライナのエネルギー施設攻撃せず トランプ氏「停戦」発表後初",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNamxBZVA4bnd4azhaMkFQN3JvQUZBX0g2Y3hpN2xTXzc5Q3ZicWZrZnBVemlsbXJSQ1VGWnVmb29ubzNFamRvdUNXVzRQN0ctUVd6YjFHS3R5RFBtcWF1UXJIam9TRlNJYTliVndEaDZYMmxuMUc4YWhBekNRbkZDZE1US2luUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-13T14:57:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ロシア、ウクライナのエネルギー施設攻撃せず トランプ氏「停戦」発表後初    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナのエネルギー施設攻撃せず トランプ氏「停戦」発表後初"
+      }
+    },
+    {
+      "title_original": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "title_zh": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T14:51:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack\n- Published\nBulgarian Prime Minister Rumen Radev has summoned the Russian ambassador after two merchant ships were struck by drones off Bulgaria's Black Sea coast and one of them sank.",
+        "Six crew members on the Guinea-Bissau-flagged HS Dignity were rescued and 10 others are missing, according to Defence Minister Dimitar Stoyanov, after it went down 17 nautical miles (31km) east of the village of Krapets having sent a distress signal.",
+        "The other ship, the Ukrainian owned Chelsea-3, was hit by drones 18 nautical miles from the town of Byala and all 15 crew were rescued."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack"
+      }
+    },
+    {
+      "title_original": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
+      "title_zh": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaEwxZktQOXVmXzgzX24wQ0F2dVVpQXdDS3RUWVBOYTA0aXV1MkJWaWo5RktXeVhSZVdPWGVoNklwUF9WbDdjYXJUTkNMUnpiUmEtNG9qM1lqUi12VktFVTkzeEZCS0Nzb25vNlhHTTl4amx3cV92bTdnQ2hnUTdJZzMzaWlkX0xwUWlKT2JwRXZmeTRDcllDSnpmcXotdUZPc2sxRFF30gGrAUFVX3lxTE1GQ3RSS0pUXzgwNkRDYVZjTkNHbldMbjRVTnBYWmQ1YUx3MlY5V0VBcFVCQTk2bTQ1dTVaTVdEdUM5dWJsYWVsR1ZFYzNGZHF3akRLT3l4OS0yZDFnUHJlQ1NVOEdGcDQyTmM1NGdyUW9aZTZRai0wZEYzQWdMTWVXeWR3SjlUQlhWaEw4X0RGMU9PdmhvQmhTUEtIZW1nTkRLWVhtb3VkaTQ3MA?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-13T14:02:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Drone attack sinks ship off Bulgaria’s Black Sea coast, PM says"
+      }
+    },
+    {
+      "title_original": "Ex-president named leader of new DR Congo rebel coalition",
+      "title_zh": "Ex-president named leader of new DR Congo rebel coalition",
+      "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T13:40:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Ex-president named leader of new DR Congo rebel coalition\n- Published\nFormer Congolese President Joseph Kabila has been named the leader of a new rebel coalition seeking to oust the government.",
+        "The Front for the Refoundation of the Nation (FRN) said it aimed to coordinate \"resistance forces\" to end \"tyranny\" in Democratic Republic of Congo and would pursue the goal \"by all means, including force\".",
+        "Its unveiling on Monday is the clearest indication so far of Kabila's direct involvement in an armed movement a year after he was sentenced to death in absentia for treason."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ex-president named leader of new DR Congo rebel coalition"
+      }
+    },
+    {
+      "title_original": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
+      "title_zh": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T13:23:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Hungarian MPs scrap Orbán's anti-LGBTQ measures\n- Published\nThe Hungarian parliament has voted to amend child protection laws, scrapping measures that stigmatise gay and transgender people.",
+        "LGBTQ and human rights activists warmly welcomed the move, but called for changes to other Orbán-era laws.",
+        "The 2021 Child Protection Law, passed by the large Fidesz majority of then-Prime Minister Viktor Orbán, banned the \"portrayal or promotion of homosexuality or transgenderism\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hungarian MPs scrap Orbán's anti-LGBTQ measures"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: WELT-Reporter erlebt Gleitbomben-Angriff auf der „Straße des Todes“ - Video",
+      "title_zh": "Ukraine-Krieg: WELT-Reporter erlebt Gleitbomben-Angriff auf der „Straße des Todes“ - Video",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcnp6U1haLWNYTHZpWFFVVjUzb3Q0YnBkODVfVmRDdGIzUVZlalN0Vl9iU2UzbkljWlk2MlVKdml2LVdGQXdVZDhoTGpCdk5SUC1fN1lVbEFqUlBlWTNfdk5JNG5DWFNVSHhfN2trSzE1QWtPQVRKY2dlYS1TVTZtM3FQWUlsWG9sTGg4aXh6c2l3NEd3NE1BWDBBeUwzS3ZQX0F0dUhDaXVsMERhUUpWTU5wdlhyU3FRbDdkanVlWDZSeUNRT1k0dUZsQzNNT2tUVzhkTDFmelRicURMYXhvV0I5WlY0dw?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-10-13T13:15:37+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: WELT-Reporter erlebt Gleitbomben-Angriff auf der „Straße des Todes“ - Video    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: WELT-Reporter erlebt Gleitbomben-Angriff auf der „Straße des Todes“ - Video"
+      }
+    },
+    {
+      "title_original": "„Widerstand gegen die Nato-Politik der Regierung“ – So wollen sich die Demokraten Trump entgegenstellen",
+      "title_zh": "„Widerstand gegen die Nato-Politik der Regierung“ – So wollen sich die Demokraten Trump entgegenstellen",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPS2k4aGYyNTlkWVptY0JVR0JBTFpXQnplWU5vdDdMMGNrY1A1dTBsb0RrWnQtQllWdDNVejRPaS1fUlJ5MmFSM1FaWDlobkFvNC1xbzdMQ0xWRFBGUnhCTWZtTEN3REREMzJKQ3ZROURZSl9mYVdLcDlCR2diRGtONllKTzQtcFBKNW1EWTRBS1JscFFSS3UydnJydWFnTFVjQTFZclRSMEFMOC1VVFNsUDM0QnQxUF82S2hFOXdpVkdrXzMxMGoyMlIxOElhZXpFQ3Q1MVpqRjNSM1JXSFZ5ZnY0NTFjYUpoMjFjRGZVNGxjbndfS0lWajN0SWRtYjR2R3VVM0pMakdiUHl1RWVKcHA1R2lrQQ?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-10-13T12:47:03+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "„Widerstand gegen die Nato-Politik der Regierung“ – So wollen sich die Demokraten Trump entgegenstellen    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Widerstand gegen die Nato-Politik der Regierung“ – So wollen sich die Demokraten Trump entgegenstellen"
+      }
+    },
+    {
+      "title_original": "ロシア警告の中 NATO核抑止の定例の演習始まる",
+      "title_zh": "ロシア警告の中 NATO核抑止の定例の演習始まる",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12OHA5Skc0MV9UNF9QMVpjQW1Oc25ZTXVnS2Y2cXYtTU55eVRrdC1Md0xfdHF5WGlPQXZ1YXBlZ1hzaE53Y2pjMV9IOEhrMUZZM3ZlZlhSU2IxeGxBMHNj?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-13T12:37:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア警告の中 NATO核抑止の定例の演習始まる    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア警告の中 NATO核抑止の定例の演習始まる"
+      }
+    },
+    {
+      "title_original": "BBC FM radio transmissions suspended in Afghanistan",
+      "title_zh": "BBC FM radio transmissions suspended in Afghanistan",
+      "url": "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T12:13:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "BBC FM radio transmissions suspended in Afghanistan\n- Published\nAfghanistan's Taliban government has suspended the transmission of BBC broadcasts from FM radio sites across the country.",
+        "A Taliban government spokesman said the BBC had been suspended because of \"repeated violations\" but did not elaborate.",
+        "The BBC has been the only international news organisation to broadcast inside Afghanistan since two US outlets were banned from operating in the country in 2022."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "BBC FM radio transmissions suspended in Afghanistan"
+      }
+    },
+    {
+      "title_original": "الرئيسان الروسي والإماراتي يناقشان أزمة الشرق الأوسط",
+      "title_zh": "الرئيسان الروسي والإماراتي يناقشان أزمة الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tcGNacVpwZzlJLXF6X3BvcHRUeDVEOHBaUy1OUDZGMGlvdVl4SHRDb3hUMlZpUFJ6ejZ1OS1pdVZWU2JPVEpSSmMxdVFvbHI0NVFJNDgwaWc4cjB3bTJ2SDhMUWxIZnlSSzhVQlF2NHVXTUFlam5sWlRIazZuQW8?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-13T12:07:05+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الرئيسان الروسي والإماراتي يناقشان أزمة الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الرئيسان الروسي والإماراتي يناقشان أزمة الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Watch: Emergency calls from botched Christa Pike execution released",
+      "title_zh": "Watch: Emergency calls from botched Christa Pike execution released",
+      "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T12:03:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Watch: Emergency calls from botched Christa Pike execution released\nA series of newly-released calls made after the failed execution of US death row inmate Christa Pike reveal emergency services were delayed by confusion among first responders and Tennessee prison officials.",
+        "The recordings, first obtained by the Associated Press, show that minutes passed as officials and responders attempted to confirm whether the request for emergency help in the execution chamber at Riverbend Prison was legitimate.",
+        "Pike, 50, was sentenced to death after murdering Colleen Slemmer with her then-boyfriend in 1995."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Watch: Emergency calls from botched Christa Pike execution released"
+      }
+    },
+    {
+      "title_original": "Oberster Nato-General enthüllt „Konzept für den Sieg“ „Wir werden die angreifenden Streitkräfte zerschlagen“",
+      "title_zh": "Oberster Nato-General enthüllt „Konzept für den Sieg“ „Wir werden die angreifenden Streitkräfte zerschlagen“",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQb1pfWE5jcnR2elRkTmRyNFhjRk1HOHREZ1Y0WVZPUFY5bVRVdFRyRTVocHd4SEVxM2hLUVNIcngzak9wNDFWT1pEYmVhU1czWnN6NU1kX3gyYnV0X0ZQOC16V0dYRHgxZFgxZnpLdWRseFF0SmN4NXlIUVptUUZWak41cU4yS05KeDA5UGI2QmU4b081Y2RJMjB1cDdmR3dNakNRVHVqZVpOeEJlclBwS2RYRmEwWXdIUkx1c1cxZ1ZkV3dxbmU5cUZFMW1rVVg1bV9PUVZ5UWNfVXEzSUVNYmtUTGJQZkJVbm5VMDI4TEFlU3NK?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-10-13T11:16:41+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Oberster Nato-General enthüllt „Konzept für den Sieg“ „Wir werden die angreifenden Streitkräfte zerschlagen“    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Oberster Nato-General enthüllt „Konzept für den Sieg“ „Wir werden die angreifenden Streitkräfte zerschlagen“"
+      }
+    },
+    {
+      "title_original": "En los rincones más remotos de Oriente Medio se libra una guerra con implicaciones globales. 👉🏽 https://bbc.in/4hUhFpH",
+      "title_zh": "En los rincones más remotos de Oriente Medio se libra una guerra con implicaciones globales. 👉🏽 https://bbc.in/4hUhFpH",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdFJlcEU2eUt0MXE1Zmo3b3lacE9aMm1pblVFVDN2aXE4UFltdlpKV01QWVctUGpRRU5XZlJ1UmNoMTg1UDV6dzM4M1BiUlNNcVY2MDdCd3lWXzBfNmRhWkw4NkFhOGk0dWNOd2dQSjBXaml6VXQ2enFaSUotYlI5a24tVDNCS2xscGxMYnJ2bjd0R0JrRFdOZndkZ1RjTEpBZ2ktYzYtbWlVMGhYYjh6NU1GRlhUX1ZtWVctMlljYkMyanRNR0xYYk0zSlRYUkxVTWlRT0NFOGpiYlNiaER4ag?oc=5",
+      "source": "Facebook",
+      "source_score": 40,
+      "published_at": "2026-10-13T11:16:40+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "En los rincones más remotos de Oriente Medio se libra una guerra con implicaciones globales.",
+        "👉🏽 https://bbc.in/4hUhFpH    Facebook",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Facebook"
+      ],
+      "all_titles": {
+        "es": "En los rincones más remotos de Oriente Medio se libra una guerra con implicaciones globales. 👉🏽 https://bbc.in/4hUhFpH"
+      }
+    },
+    {
+      "title_original": "Incidents en mer Noire : l'Otan ajustera \"selon les besoins\" son dispositif de défense",
+      "title_zh": "Incidents en mer Noire : l'Otan ajustera \"selon les besoins\" son dispositif de défense",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORVAxNmNVc0xRelFzYzMzcWQtS25rYlRxdjN4VWRXQWFvRTc5WV9tWTJKM1YxVnl4T2dDeXFQUkxTRWpoTXpseU1relc3Y3FXM3JUNzhsVUdWMm1NUEg4bWZaVFVzUzFHSTltS3QzRnZIaDliV2VhRUtrczh3U0VBblJJOHE0Zkg5TThDRGVXRWVpMEMyeEs5a3A5V3V5RVJHQTExS0NmbEZmcVNkdVc4NFhXT3J3dWZSOE5iY2xPMktPZ3I3ZmptSnZDNGUtc252?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-13T10:38:28+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Incidents en mer Noire : l'Otan ajustera \"selon les besoins\" son dispositif de défense    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Incidents en mer Noire : l'Otan ajustera \"selon les besoins\" son dispositif de défense"
+      }
+    },
+    {
+      "title_original": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power",
+      "title_zh": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power",
+      "url": "https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-13T10:00:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The judge who helped convict Jair Bolsonaro is caught up in a crisis that could benefit his son and damage Lula Marina Silva on Flávio Bolsonaro: He will try to finish his father’s ‘perverse project’ to destroy the Amazon Thundering to a crowd of thousands of far-right supporters in São Paulo on 7 September, Brazil’s Independence Day, the senator Flávio Bolsonaro focused less on his opponent in the presidential election , the leftist president Luiz Inácio Lula da Silva, than on someone who is not running at all.",
+        "“Whoever votes for Lula is voting for Alexandre de Moraes ,” Bolsonaro shouted, referring to the shaven-headed supreme court justice once described as “Voldemort” by Elon Musk.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "How a scandal engulfing Brazil’s top court could return the Bolsonaros to power"
+      }
+    },
+    {
+      "title_original": "ウクライナ、ロシアのエネルギー施設攻撃を2日間停止＝大統領",
+      "title_zh": "ウクライナ、ロシアのエネルギー施設攻撃を2日間停止＝大統領",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWldZamVWQU16cUo4c1NtNWFQX2ExMERaREJGSXdFc0JYaDN3YjVUdnZVc2xWempFYWNVU0wwUXhPT3RjbFJuc0k2bUhSQnp0TGlMSmlkcFhkM1Q3M3pJREJqTnM1b1ZtUlBfVHl1T0Fxb0d3VTFnc093OUx6U3M0ajY1RkJKUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-13T09:59:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ、ロシアのエネルギー施設攻撃を2日間停止＝大統領    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、ロシアのエネルギー施設攻撃を2日間停止＝大統領"
+      }
+    },
+    {
+      "title_original": "Taïwan renforce sa surveillance maritime par radar",
+      "title_zh": "Taïwan renforce sa surveillance maritime par radar",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVUozNExiNnhldmxQQ2RDTVhtcTFRUGZTRkZZUkN1U3l1SFcxYlo0M3k1cnB6cUJfZlEyRm9JY1M4eDlqZzNuLU9uTGEwRHk5dDVfcGNvaUlpSmZMX3NxTW1sQWtwMm9IcWwzVWRWWlYzVzM2XzhHOHUzbzVTUEhUWkJFMGIyRmpWMG85NFNzbDU0RU5YblpONTF0dTJTTndnQ1h5M1N4cVV5QXB4NmlaMVJpVms?oc=5",
+      "source": "Team France Export",
+      "source_score": 55,
+      "published_at": "2026-10-13T09:35:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Taïwan renforce sa surveillance maritime par radar    Team France Export",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Team France Export"
+      ],
+      "all_titles": {
+        "fr": "Taïwan renforce sa surveillance maritime par radar"
+      }
+    },
+    {
+      "title_original": "مؤتمر 'سوبر ريترن الشرق الأوسط' ينطلق في دبي بمشاركة أكثر من 500 مستثمر عالمي",
+      "title_zh": "مؤتمر 'سوبر ريترن الشرق الأوسط' ينطلق في دبي بمشاركة أكثر من 500 مستثمر عالمي",
+      "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxNeG5CTTh2Q0xERVhXSF92aEJ6S0NWazB1U0poR0l6OG1XMFBzc3FMcVJST2p0ZkZUeE5JZC1QalN2YWxSTmpjaWtQdTctRTFlSkpYb2ZCTjlLcnR0Rk1Sd1VCZUp1TFFPQWpfeGppamQtVjF5cXExaEdFaGJsOWx4dXNxSDRkTzRWNHNlSVpwTHJGNS04ckRlT3AwRGVSQ0RFWTdBaldhZ1NNWHJvTG1BYmdBMkV5dVhVMW96OFVhQUprNXYtTk1hakNFX0wyYUI1Mk1CRG1PZXpRZzdjRExuVy0wUnFEcG5TYkNJZkRZd2pYbEVhdnAxRXR2SWlEQWlyRDMyNmgza3BST2hTb1ZFc0ZjM2VDdWkwYjl4SWxjZXBINUdUbUJlbUVYZ2JSYWpmSTBnX0tqSDktRkx3dXF1cm1TY0RaMml2LW9NV29vM25yMW96Z1hKQ21SUWthZ0RzVGdRTlZoZU54aVpTMW9ER1pfUVM5TVFRSHVhMEdVbDRPdUJIdXFRUzFFUWtzQ2RyLXZwdHo3djRtQlVrN2JheVZ4eDVTZWNFVDhFa3JISnZwdEZKNlZmVy0xcmRmTHZLdnJQZUtGWVRQcTNCdmJwQm5BUm9LWkRvdzVRQjFubjBhNW43U1ZoLTJLZ2Q1WXMwVUgwZjhCbDYtQ0NvdlhkbWltWGp6Z1piTHIzNllIRmItV2xpNGVyV0hOdzZpTHlLTVdHZ25YMkpHSC1NOGNScXBiU0hyU25TVlV0TmRB?oc=5",
+      "source": "annahar.com",
+      "source_score": 40,
+      "published_at": "2026-10-13T09:07:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "مؤتمر 'سوبر ريترن الشرق الأوسط' ينطلق في دبي بمشاركة أكثر من 500 مستثمر عالمي    annahar.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "annahar.com"
+      ],
+      "all_titles": {
+        "ar": "مؤتمر 'سوبر ريترن الشرق الأوسط' ينطلق في دبي بمشاركة أكثر من 500 مستثمر عالمي"
+      }
+    },
+    {
+      "title_original": "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか",
+      "title_zh": "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40X0J3d3BRQXFUVkpoeFlfT29TNzhZaDN5eHQzNGFVODZreWF1b0lPTXFCVURvNUthMFBwQmhRdV9CNFlJNFdIX0c3WUladHdVSG41WHJ3U2hZakhuWXZJUNIBZkFVX3lxTE9XQlJkbnE0MzRrTHVaS3hqWXNWRXBCQTFEUmhkSFB3eXhPMXg5YmVKV2NELVAxNFA3SjFUOENtdnAzdGlMUW1mRkZES3VfeDNHT1RsWFhZcVhVMWV2bG92WUpsN3hnUQ?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-10-13T09:06:03+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか"
+      }
+    },
+    {
+      "title_original": "民调：83%日本民意反对自卫队武装介入台海 三成拒美军使用基地作战",
+      "title_zh": "民调：83%日本民意反对自卫队武装介入台海 三成拒美军使用基地作战",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTT016bERCRHpmYUlPbGpUTGROdHpuXzMzd3lWdENRVFRoQjVtR1NIbWRzcUNGQjBqb21Dck5HSXVWYnFvRTZPamtvdmhPbXFUSTVQdVV5Y3JOYlhxcUZYcDNYWTl6c2J1dnc?oc=5",
+      "source": "财新",
+      "source_score": 75,
+      "published_at": "2026-10-13T08:17:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "民调：83%日本民意反对自卫队武装介入台海 三成拒美军使用基地作战    财新",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "财新"
+      ],
+      "all_titles": {
+        "zh": "民调：83%日本民意反对自卫队武装介入台海 三成拒美军使用基地作战"
+      }
+    },
+    {
+      "title_original": "Breaking Bad actor RJ Mitte dies aged 34",
+      "title_zh": "Breaking Bad actor RJ Mitte dies aged 34",
+      "url": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T08:03:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Breaking Bad actor RJ Mitte dies aged 34\n- Published\nUS actor RJ Mitte, best known for his role as the defiant son of drug kingpin Walter White in the drama series Breaking Bad, has died at the age of 34.",
+        "\"It is with profound sadness that we share the tragic passing of beloved actor, philanthropist, and passionate disability rights advocate RJ Mitte,\" his representative told the BBC.",
+        "Mitte died in Brownsvillle, Texas, on Monday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Breaking Bad actor RJ Mitte dies aged 34"
+      }
+    },
+    {
+      "title_original": "Tres muertos en un ataque ruso a una zona residencial de la ciudad ucraniana de Járkov",
+      "title_zh": "Tres muertos en un ataque ruso a una zona residencial de la ciudad ucraniana de Járkov",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZFBIcTBsNV9XU2lqckxmZ2pLNVBhdFBSNXVOOThvdG9pamRjRkpqbUNjUzZ6ZTlSUWhvbFRsdVlBcUkxS2t4UW85S1F6emRENm1xbFBXNkRnVjY4WnFkZmM4YzhEZUJuY3M2U3FPNWFZejVMTS11RmtMZDhCWlNfOUQ1Z9IBgwFBVV95cUxPaVU2QWxYalUzYlgxaFgyb0RTa3JVTmxxaEp4Z28wSWZYbTJPY25xTjdKdzNGQzQwSTF6d1hWcFZCZmFfMUlEM3dTMjh4X0FzazA1cnFpRDdpTE9wejhuNDZ4SEo2S19lVDUzQmljWkJyWE5oRUh0Q1RoUkVNOGdXRlJUSQ?oc=5",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-10-13T07:55:30+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Tres muertos en un ataque ruso a una zona residencial de la ciudad ucraniana de Járkov    El Mundo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "Tres muertos en un ataque ruso a una zona residencial de la ciudad ucraniana de Járkov"
+      }
+    },
+    {
+      "title_original": "India 'cockroach' leaders detained after entering barricaded protest site",
+      "title_zh": "India 'cockroach' leaders detained after entering barricaded protest site",
+      "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T07:31:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "India 'cockroach' leaders detained after entering barricaded protest site\n- Published\nLeaders of India's Cockroach Janta Party (CJP) were detained early on Tuesday after they entered a heavily-guarded protest site and chanted slogans demanding the country's election chief resign over a controversial revision of electoral rolls.",
+        "Party founder Abhijeet Dipke shared a video showing Ashutosh Ranka and Saurav Das being taken away by police from Jantar Mantar, a historic Delhi observatory popular for protests.",
+        "Footage showed the two - along with others - climbing over police barricades before chanting slogans while holding the Indian flag."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "India 'cockroach' leaders detained after entering barricaded protest site"
+      }
+    },
+    {
+      "title_original": "تونس تشهد ازهارًا سياحيًا.. هل السرّ الأوضاع المتأزمة في الشرق الأوسط؟",
+      "title_zh": "تونس تشهد ازهارًا سياحيًا.. هل السرّ الأوضاع المتأزمة في الشرق الأوسط؟",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjZsbDh4OVVtVDlTWHFjX3FablFOcjFsYjJENGVyZXMtbV96bUc0NnYtcnFHYTV5X0thLWJoeWdTdzdUUHZzbmF6cWRsMERkYXBoQ2tBcTgtRnN0Y1VaT0RyTXZULXRUODB4SmYxOVExNVpXblR3SUI2WTR0ZERYTmhIbw?oc=5",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-10-13T07:10:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "تونس تشهد ازهارًا سياحيًا..",
+        "هل السرّ الأوضاع المتأزمة في الشرق الأوسط؟    CNN Arabic",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "تونس تشهد ازهارًا سياحيًا.. هل السرّ الأوضاع المتأزمة في الشرق الأوسط؟"
+      }
+    },
+    {
+      "title_original": "ＮＡＴＯ基金、対無人機と宇宙監視を重視 ポーランドに拠点",
+      "title_zh": "ＮＡＴＯ基金、対無人機と宇宙監視を重視 ポーランドに拠点",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLTN3RW1tQVRRYUlTd05yV3VxZ1psdXEwemZaNF8yTTdVZncxU3NzVEQyUGpRUEVGY25CS1ViNHVfeE9GelpxNWtVZVBybl9sYnRvWVp5aEtpZkg1bDdiOW52VlNIYnpISmdtTzl2SjdwQmNXRldEclotOW9uSzFOWjU2M2xFQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-13T06:48:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ＮＡＴＯ基金、対無人機と宇宙監視を重視 ポーランドに拠点    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ＮＡＴＯ基金、対無人機と宇宙監視を重視 ポーランドに拠点"
+      }
+    },
+    {
+      "title_original": "صندوق الابتكار بحلف شمال الأطلسي يركز على تقنيات التصدي للمسيرات في ظل حرب أوكرانيا",
+      "title_zh": "صندوق الابتكار بحلف شمال الأطلسي يركز على تقنيات التصدي للمسيرات في ظل حرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1MXR0TzJKUTktTVVYRFRmNGlWcS1NR0lCQXlUb1Zvc2ZycTNaMEpNZFFYMXFqT0hVeDhnUnZhVWRYVkU4eV9nenZkS1AxbkRxTmIxOUxOb2E1MVFHaEdFcThlU21jSjhTeFpjOWN2eFVyUlllelFwU1pxVQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-13T06:34:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "صندوق الابتكار بحلف شمال الأطلسي يركز على تقنيات التصدي للمسيرات في ظل حرب أوكرانيا    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "صندوق الابتكار بحلف شمال الأطلسي يركز على تقنيات التصدي للمسيرات في ظل حرب أوكرانيا"
+      }
+    }
+  ]
+}
