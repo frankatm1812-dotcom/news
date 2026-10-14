@@ -1,8 +1,833 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-14T01:52:16.389862+00:00",
-  "count": 61,
+  "generated_at": "2026-10-14T15:49:48.207157+00:00",
+  "count": 94,
   "articles": [
+    {
+      "title_original": "軽油不足、27年まで続く公算 中東情勢・ロシア製油所被害で＝ＩＥＡ",
+      "title_zh": "軽油不足、27年まで続く公算 中東情勢・ロシア製油所被害で＝ＩＥＡ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOTktcWo3RWE4TFlWZkpDN1BiRlB5c285Nm1FQzJfMU1FQ1ZFNUV6VWl2UWVmZ1hqVzgxYW1VWTlPdUhwOEh3RnU0Nl8yYVJ6NHdtTkp2Q0xnNjNybS12RUhRc1EtQkR0Ymh4X2tvblBSSjdNWjRXNy1taTFCdk5TczFvTDFSZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-14T15:35:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "軽油不足、27年まで続く公算 中東情勢・ロシア製油所被害で＝ＩＥＡ    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "軽油不足、27年まで続く公算 中東情勢・ロシア製油所被害で＝ＩＥＡ"
+      }
+    },
+    {
+      "title_original": "US inflation rises more than expected - here's what is happening with prices",
+      "title_zh": "US inflation rises more than expected - here's what is happening with prices",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-14T15:26:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "US inflation rises more than expected - here's what is happening with prices\n- Published\nUS inflation rose by more than expected in the year to September, according to official figures, in the final data release before the midterm elections next month.",
+        "The pace of price rises increased to 3.7%, up from 3.4% in the 12 months to August.",
+        "Inflation was above forecasts, driven by higher gasoline prices which have risen following disruption to Middle East energy supplies due to the US-Israel conflict with Iran."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US inflation rises more than expected - here's what is happening with prices"
+      }
+    },
+    {
+      "title_original": "Fraud probe over NATO contracts leads to 5 arrests in Norway and searches in Germany and Romania",
+      "title_zh": "Fraud probe over NATO contracts leads to 5 arrests in Norway and searches in Germany and Romania",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWh2dWhJOHRLOHRxbS02NHN1WlZNUV9fQVJxTU10WGItQk9haWlzM1NYUDFtWV9iOVJGT09BWUJ4dElpZzRuRUJVTk03djdlVkw4b1JmQ2RoT0FyazVQcXB0V3ZCNEVwblBTYTVHVU5oZzU5Nk5fY3V5WGNSUFhTZDZQUXA3QmRhSDRDaGVHeXpCalN0N3c3ZDFFUEZJSzNqQ3c?oc=5",
+      "source": "Laredo Morning Times",
+      "source_score": 40,
+      "published_at": "2026-10-14T14:48:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Fraud probe over NATO contracts leads to 5 arrests in Norway and searches in Germany and Romania    Laredo Morning Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Laredo Morning Times"
+      ],
+      "all_titles": {
+        "en": "Fraud probe over NATO contracts leads to 5 arrests in Norway and searches in Germany and Romania"
+      }
+    },
+    {
+      "title_original": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "title_zh": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-14T14:18:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Hundreds of thousands of workers on strike across Republic of Ireland\n- Published\nMore than 300,000 workers, including nurses, doctors, teachers and civil servants, are on strike across the Republic of Ireland.",
+        "It comes amid an ongoing pay dispute between public sector workers and the Irish government, with a further strike planned on 21 October.",
+        "It is expected schools could be closed with hospital appointments cancelled and picket lines formed across the country during the 24-hour strike."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hundreds of thousands of workers on strike across Republic of Ireland"
+      }
+    },
+    {
+      "title_original": "Los pilotos de MotoGP ven con recelo viajar a Oriente Medio para disputar el GP de Qatar",
+      "title_zh": "Los pilotos de MotoGP ven con recelo viajar a Oriente Medio para disputar el GP de Qatar",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRy0yN0h1NEoyVjNPNUxzX0lTM1dTSnZNOVJzbVBEVTVJQm4yeXo4N2xQQ0J4OUJObGljVUUwNXZWdWpoS2VWOV9tN0t2eFRHejhvd01YZ2JvVzk4eFh2c09INkYyMmNFVzNSdjJxdk05Yi05OWJrMDRITTdPd1BMSjl2SVRGaGdpbHZMeHAwMDhES2VKWmtVajBELXpTNkNVcG9LSGZodVk?oc=5",
+      "source": "Motorsport.com España",
+      "source_score": 55,
+      "published_at": "2026-10-14T14:00:06+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Los pilotos de MotoGP ven con recelo viajar a Oriente Medio para disputar el GP de Qatar    Motorsport.com España",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Motorsport.com España"
+      ],
+      "all_titles": {
+        "es": "Los pilotos de MotoGP ven con recelo viajar a Oriente Medio para disputar el GP de Qatar"
+      }
+    },
+    {
+      "title_original": "ما ذنب تشايكوفسكي في حرب أوكرانيا؟",
+      "title_zh": "ما ذنب تشايكوفسكي في حرب أوكرانيا؟",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPTmRza2ZYdHA3R3d6SVVZXzlHbUZTN2VhVlBWV05PZjRKN2l3NzNoTi1QaWkyS0pvazBCa0NoOWtaVnotTGRIV3BaWDR2cXJZdnd0VnIxNXdwNE5nLWlIckN6VGJUNDZrV1VPV2ExVnpyd0ZlSjAwRk5uNnFJeVplbjBDUHJQQTNFOGttdHoxSWJKTV9TekNsY3ljMTZRNGpMRlNuUGFLVVZqeWhDdlQtX05hVENIbnowOGlFZDUtay1ZYl9VWGNuU2UxLWtObXp5cGpfa1FQMEFyVUFOWUphR25lOXpmV0hWSU9WY3R2VmtoOTJGVnYyNmtkM1R5WUtRTklqQ1g4UFM1NF9iTi1ySTVuMlpubzFTakM3U0Zac2dlVmxaQ25iYmhWNTd0bjU4eExtQUFTWHctQWJK0gHCAkFVX3lxTE1ZN2hWREs5aFoxN3hiZFY1WGYxWnZoNUt5TUVranNvcnVVYVdfb1ktR05jRW1yYjEwcVcyWDJzbHhxQ3VMaVJXTFpmVjlTcjJUUkptUC1vSVoxWlVBTEI0eGZkVVIzbE9VeTZXOWRFYWZaZWU3eUlsWVBrY3pDdHZ3aUZaR2xnRnBCajZCVXZ4bTZxb0pKX3pFT2lFM1pTY0F3eGo2OGRacl9mLWpFVDNqSHQzMzBjTGhmYnhSSHRzalREMXYycjQweFNOYWNHcG9EYzY2akg3eDlYaVRYaGVxNHNUeFRFdXpvNU1lazZCakpQcHhtZ0JZblMyTVhUWEdSVkFWQ3BTNllOZ0pHQUtodE54cXRwNVlYNXAtemd6QllPN2IwU2NkaDFwRG5SczJ3TGxlaGlGd29PV2szQzFIZXc?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-14T13:16:29+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ما ذنب تشايكوفسكي في حرب أوكرانيا؟    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "ما ذنب تشايكوفسكي في حرب أوكرانيا؟"
+      }
+    },
+    {
+      "title_original": "Norway police arrest five in bribery probe over supplying services to NATO ships",
+      "title_zh": "Norway police arrest five in bribery probe over supplying services to NATO ships",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWUtuN282WDZ3S2FIUm5rc0xEc0xtT3V6OXNBVmdWTlNZX0hYQm9OenhIM05DejJxeDFaNjY3SFFucy04WlU5T1c1VzA3aThtZUd5WkFibzZ2b3UwY09BaUQtUWh1STYwQVhwZjc4NGR1blVpV3hmMV9WUUNlZVhZbjhtZmlnTlNVODJ5SEpFb0RISnpEVXhZbkx2X1BKTENneEM4bDc3amZ0ejVsaDJPOVFzWVZWblE?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-14T12:49:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Norway police arrest five in bribery probe over supplying services to NATO ships    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Norway police arrest five in bribery probe over supplying services to NATO ships"
+      }
+    },
+    {
+      "title_original": "خطة أميركية أوروبية من 4 نقاط لإنهاء حرب أوكرانيا",
+      "title_zh": "خطة أميركية أوروبية من 4 نقاط لإنهاء حرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxPVzNpV3A0dVBPS0JlbEl2NFBhb3JJc29ZSGxXVkw4MzU1N0Z6cF9tNmh4M1hqLWNYSjhmLWg2dFRHczBIV2tMcFl2ejJ6VGlrNEROVG1UbEJpM0pmeTNlUk04MXNsTXFnaDlDb1VtTmI0dWo3d0xZZFUzdEVfeDlJZGtHdVM3dzh1T3ROd28yUEc1d25pZlFmcnJOMnEwUnQ3SnRBci01NXRGQ28wUWF6Vl9waFRrTjZ4UU9ZbzZLcW9VSmhucE9hZEZtOGV6Nmk3SjI0ZFFzYUxBQ3hBVzdjdG9NckpyVC1hNXdtbUFMVVFiaC1UdTk2NEpnRzdRMjZMbHZOQmFqWjB4VDNpOUlEa3FqdVpJUkZLZ21maTBEOE5jZnFNQ2dEU0tYclJ1NWpfeTBCYjRKRlFXVS0tSGpEWjIxdjJHa0RveThZRFBCRmpXbXVQQlB3bGRpcEZKa2FOM3ZlMHJfRlFwdmZIWTEzbU1TOXRodmd5RXRLT2FKMi02eUFUTVUtVHhnNUVQWEpQbThkQUlZNDBGb1BuY19FWHI5VVBXVUNCdmVORDlhSkdQY0VFYWt5RVhCYzRKcHh2XzgwME01U2VHMElleVNlbVNvUDVPY181c3lFNmxOTnZ2X3VzdzNVbFgta1lhc3c?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-14T12:46:27+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "خطة أميركية أوروبية من 4 نقاط لإنهاء حرب أوكرانيا    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "خطة أميركية أوروبية من 4 نقاط لإنهاء حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "Neue Angriffe auf Schiffe vor Bulgarien – was tun EU und Nato?",
+      "title_zh": "Neue Angriffe auf Schiffe vor Bulgarien – was tun EU und Nato?",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQjJCUXJWSzFuS0Z2bjMxZjR3T3FfNWc1ZjFpc25GZ0MwekFhQmNiREUtTmI1clFKSTFHdDBiVXhVUUFXQWdZRVJTck5PMEt3X184eTBUX1lyM0tyQ2dxNkxLR2toTi1RX0ZLejRtOUY2WnRTMGUtWFRyUWNMRzBYeUtuaVEtOUhMYU9CbTVKbFBlT0RJTjEtNWVnU2plVVJEOFhnVlhXQU5zdjlnODlweDJzQWNaQTM4MVBuMUhyOXcwYzFIekE?oc=5",
+      "source": "SRF",
+      "source_score": 40,
+      "published_at": "2026-10-14T12:42:57+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Neue Angriffe auf Schiffe vor Bulgarien – was tun EU und Nato?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "SRF"
+      ],
+      "all_titles": {
+        "de": "Neue Angriffe auf Schiffe vor Bulgarien – was tun EU und Nato?"
+      }
+    },
+    {
+      "title_original": "Ukraine’s MoD in contact with US, SpaceX, NATO partners over Starshield restrictions – source",
+      "title_zh": "Ukraine’s MoD in contact with US, SpaceX, NATO partners over Starshield restrictions – source",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOelpkck9TSWFzZzA1S3lqQmdBR21XSFhuQkdpNm53Xy1LYWRCYTBKOVhPaHctZ0ctYzM2WW1YcUlZelFTT3l1bEo0Yi1PamNBSzY3TFVZYzV1X0Q3Y1IyQXpmRXRkc0VjN1lqTFgzTFhzXzhab1N3bFpfVDJGQ2dmOTdlc3lnYWdzekd5LVdOTlFWN2JTSjkxY1RzeU5RTEdHQTAwdURCNUd3TVJnQzVoLVVUZU5RTnNuZk5pandfYzR5UmItQU1vWXRqbVZ6OWl6SlVfb9IB2gFBVV95cUxPVnhrS2ZNYmNLZ0FDd2szN3VZUDhKTjRNNUhXUTZEUHlIYWJTSGN6YTJmUUlqNUpPUnExbGYxQTlyTm91RkJXNjVJRXp6MlZaS2ZIQ1VyeXJJQ3NTWGpUdXEyY2hiY3AtS3l3clNvekpCWEJHSk41amFRbzhJQWpRRWVHRUlWLWV1MDR3MGxzYWRBLWlCUU1IdHhTYlRqTGw5LTFwUWpuNzExUm00eF9OLUZZaGdQaHp2VnRKS2JLc0VlMjdIQXEwNlBsb3JRTl9iQmZ6Wi0xTmQ5dw?oc=5",
+      "source": "Ukrinform",
+      "source_score": 40,
+      "published_at": "2026-10-14T12:39:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine’s MoD in contact with US, SpaceX, NATO partners over Starshield restrictions – source    Ukrinform",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Ukrinform"
+      ],
+      "all_titles": {
+        "en": "Ukraine’s MoD in contact with US, SpaceX, NATO partners over Starshield restrictions – source"
+      }
+    },
+    {
+      "title_original": "Mauritius reels from worst riots in decades after woman shot by police",
+      "title_zh": "Mauritius reels from worst riots in decades after woman shot by police",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-14T11:24:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Mauritius reels from worst riots in decades after woman shot by police\n- Published\nPolice in Mauritius imposed an overnight curfew overnight to quell the worst riots to break out on the Indian Ocean island in decades.",
+        "Peaceful protests over water shortages and the high cost of living that started a week ago erupted into violence on Friday when a woman was shot and wounded by police at a roadblock.",
+        "The circumstances of the shooting are not clear, but the officer has since been arrested and remanded in custody."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Mauritius reels from worst riots in decades after woman shot by police"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Kann Kyjiw mit Luftschläge die Kremlpropaganda im Internet ausbremsen?",
+      "title_zh": "Ukraine-Krieg: Kann Kyjiw mit Luftschläge die Kremlpropaganda im Internet ausbremsen?",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQllWbF83VDJpYm9JT2lFdW9hU0F6c0NxUlhUVDA5cmhobTZKeVhCa01HRnBvM0hCZ01YeTN1ck55cWhNRFhqMEtFNEhmc3NkZjZFYTllRkl1dVlzb0RMOUNCZUlXUTBlcnRiNzE2cERsb3NNbk9EM1RaWmNtOC1oenBlTkFCLTBfTlpzZTVTMVQwU1VSclhHaUc2eWRESEN3akJhVlRTNkhkT0REY3A0Y0xERE1TdzNYZkpXVFRVQzVxSEJEMnhiNjZQbTZCUFVxekIwdGZPemstakppd3ZLeDZrejl2NVhN?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-14T11:22:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Kann Kyjiw mit Luftschläge die Kremlpropaganda im Internet ausbremsen?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Kann Kyjiw mit Luftschläge die Kremlpropaganda im Internet ausbremsen?"
+      }
+    },
+    {
+      "title_original": "Bulgaria expects to join NATO anti-drone initiative this month, says minister",
+      "title_zh": "Bulgaria expects to join NATO anti-drone initiative this month, says minister",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUlIxWW1TMjZYeUY2Y1p6TkZwdWZQREN1MjktX3hEa2ZSbVNRbzRqVDVaUmMyYmpJdUxEQlZocEttbHZSS1NEVWszaXVfOW11eUpzRV9Lem1odnJ3bi1JTjJiYVhFVEUxd2xqSGh0VXhXTjJTN1l4WWdReHp0UzI2SktHWGZHcnphSjZOcEdKcU5xb2JablpwS1BZUktuRURNVE9uMWVieFJZbjZqMTNlcWJoOWx6WE0xblpJT1gzRQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-14T11:07:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Bulgaria expects to join NATO anti-drone initiative this month, says minister    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Bulgaria expects to join NATO anti-drone initiative this month, says minister"
+      }
+    },
+    {
+      "title_original": "Taiwán afirma que prevé invertir hasta 4.400 millones de dólares en el gasoducto de Alaska",
+      "title_zh": "Taiwán afirma que prevé invertir hasta 4.400 millones de dólares en el gasoducto de Alaska",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYXJnWTB2c1pnMUtEZk9QbEZacEQ2V1hjbnFpZllMYXhhcjZLR0pPX0c2TnpfRjlESmdZM2dkdjYwZVU1eDFfb0dYeXZvVmQ0Q3JqUU5ZQWQ0Uno2SjVpMTJkM0JMemtmRWFXODJjd2lPajhEaTlCamI4ZU5tS1IxczNKNGtTMkZxRl9IcEdnRVhlc0lVZzlmMGpxUk9ZUlVr?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-14T10:21:41+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Taiwán afirma que prevé invertir hasta 4.400 millones de dólares en el gasoducto de Alaska    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Taiwán afirma que prevé invertir hasta 4.400 millones de dólares en el gasoducto de Alaska"
+      }
+    },
+    {
+      "title_original": "Bremerhaven plant NATO-Drehkreuz zu werden",
+      "title_zh": "Bremerhaven plant NATO-Drehkreuz zu werden",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb0hEcngydl9aWEFiMW1uUjR5dE9WaWhETUhDbnRFS1JJSGwzVk10TzM0OTlkekhkU2txMDV5VXUzMlNTbmF1Z08zaS04ajRzVGtWdmpfdkhfZ2txazNjS1N4OFdYd0ZpRGQtR2RMR1drZ0hRb3hEVzdENEZrd1l1WXZSbGFhUnppOVk5OVN6b0M?oc=5",
+      "source": "Behörden Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-14T09:55:13+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Bremerhaven plant NATO-Drehkreuz zu werden    Behörden Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Behörden Spiegel"
+      ],
+      "all_titles": {
+        "de": "Bremerhaven plant NATO-Drehkreuz zu werden"
+      }
+    },
+    {
+      "title_original": "ウクライナでスターリンク利用制限、高官「米国はロシアを支援」",
+      "title_zh": "ウクライナでスターリンク利用制限、高官「米国はロシアを支援」",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkNmVsbDllck4tWTRmTFg1ZnJrRE5JWmw5cHpobDJaWm5YeG1lMDN1QXZaQzlrbF9yclNuUzMwRmliaEN1X0NYQzBxd0ZBdHPSAVRBVV95cUxPZTE5amhWV0JZNGVkc2hQVVQxcnVFWlpiVFdGdlJXQ3RGakVUX0o1cExxbUlTOHVTTUcxNzZZR0ZtLXJDRmJtYXFJeXpvYV9WQnNGNVk?oc=5",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-10-14T09:31:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナでスターリンク利用制限、高官「米国はロシアを支援」    AFPBB News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ウクライナでスターリンク利用制限、高官「米国はロシアを支援」"
+      }
+    },
+    {
+      "title_original": "スペースＸ、スターリンク一部制限 ウクライナ軍に支障＝当局者",
+      "title_zh": "スペースＸ、スターリンク一部制限 ウクライナ軍に支障＝当局者",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUlQzSmRWNEtjZXRvbW1iLXBFSVFlTWVfSUVyMk9MRnM3UExZTlFuUURDREZuS0Iyd2FGclBOZUEwS1o4cGhMZnMyQ1Zka1QzVkJuRWlLV0JnRWRBMHZlemNPcnJ6LVNSbkhOZDB6TGhJazlPUVIzVHVxVGdJdFZHS1BtSDUwZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-14T09:22:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "スペースＸ、スターリンク一部制限 ウクライナ軍に支障＝当局者    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "スペースＸ、スターリンク一部制限 ウクライナ軍に支障＝当局者"
+      }
+    },
+    {
+      "title_original": "中東湾岸の原油輸出、衝突前の75%に回復 IEA",
+      "title_zh": "中東湾岸の原油輸出、衝突前の75%に回復 IEA",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QT3MxbTVuTnZPc2cxR1AySGY0YU1od2V5eG1CeXhJdmNFTzdlenBuYVRzNjNPdjNYbzVJdnctaHlVa05ON0FFS1pmaEZicW51ZUR4RmJHeUlORVhuM19rY3VXNGhxVTlTazd0MA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-14T09:13:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中東湾岸の原油輸出、衝突前の75%に回復 IEA    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "中東湾岸の原油輸出、衝突前の75%に回復 IEA"
+      }
+    },
+    {
+      "title_original": "House control all but gone, top Republicans privately concede",
+      "title_zh": "House control all but gone, top Republicans privately concede",
+      "url": "https://www.politico.com/news/2026/10/14/house-republicans-private-lost-cause-01117673",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-14T04:45:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Republican groups are trying to limit their losses.",
+        "But few in the party believe they have a good shot at keeping control of Congress.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "House control all but gone, top Republicans privately concede"
+      }
+    },
+    {
+      "title_original": "ウクライナ首都などに攻撃、エネ施設標的 「米軽視」とゼレンスキー氏",
+      "title_zh": "ウクライナ首都などに攻撃、エネ施設標的 「米軽視」とゼレンスキー氏",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXNTMmg2X0NnNHNkSHBOVExPTWU5dXU0NldoZFIyVXF3N1NJMHdEOTladktBTm1iRHItRDFjMHdtUkJQejJSQkNPbFFwRWUydWR1ZHk1eUo5cTRiSlBsODZndF90MmtBSzdNdXR4ZWZsbTJoaUdLbWh3TUF4ZE9BdUJ1Sm54QQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-14T08:41:45+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ首都などに攻撃、エネ施設標的 「米軽視」とゼレンスキー氏    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ首都などに攻撃、エネ施設標的 「米軽視」とゼレンスキー氏"
+      }
+    },
+    {
+      "title_original": "中東の多極化時代に備えよ ニール・キリアム氏",
+      "title_zh": "中東の多極化時代に備えよ ニール・キリアム氏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vRXc4dTZNTUk4V3pjZDFRTXd0clhCNFZUTzBNUjZZSHZ2QzNuWVhTU3lfdzQ0UGpqb2JCMTZlcFVBUTlDdVNPRGlkdlJSY1h6Q3MxNEVoV1lfajJrN1ItSGQzT0VObnNhOW0xRQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-14T08:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中東の多極化時代に備えよ ニール・キリアム氏    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "中東の多極化時代に備えよ ニール・キリアム氏"
+      }
+    },
+    {
+      "title_original": "Ucrania y la OTAN desarrollan nuevos modelos de inteligencia artificial para anticipar ataques de drones y planificar operaciones artilleras",
+      "title_zh": "Ucrania y la OTAN desarrollan nuevos modelos de inteligencia artificial para anticipar ataques de drones y planificar operaciones artilleras",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOd2twOW10RzJfcmJBX2dWQzBfMXRvZGV6SzV2WlZDZDRQcmR1bzNxanFHTUhVRXMxS0F3TWlCSjNBOGlhNWE4ZWQ5QVdOUGtrRnRRdHlmM2RPMGFoSHNLTXB4M3VxaHhNc0NQazZYbGJiYl83X2gzVUFWdkwzSkJsMzdZZnBEQkpTanBQbzJzaTZMc1N5Zmh2RnViNjQtRUVOZmZGTE0zWEhfWFBvRzhlejA1bUU5aDZka29JS1lrXzNMSGNGNE1XUl91bHBUazRTNVptcUdVSXhha28zcWtRZHRhQlZqUk9lVnhONTk5eGczb2VJSWFkYWpPMA?oc=5",
+      "source": "Ejércitos",
+      "source_score": 40,
+      "published_at": "2026-10-14T07:32:11+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ucrania y la OTAN desarrollan nuevos modelos de inteligencia artificial para anticipar ataques de drones y planificar operaciones artilleras    Ejércitos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Ejércitos"
+      ],
+      "all_titles": {
+        "es": "Ucrania y la OTAN desarrollan nuevos modelos de inteligencia artificial para anticipar ataques de drones y planificar operaciones artilleras"
+      }
+    },
+    {
+      "title_original": "Taïwan prêt à investir 4,4 milliards dans un projet de gazoduc en Alaska promu par Trump",
+      "title_zh": "Taïwan prêt à investir 4,4 milliards dans un projet de gazoduc en Alaska promu par Trump",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORDBpMkJ2Nk4ycVg2NGJPcDkzQ0pEYTlQMDR3dlI1d3lzelBEaXZtQ1pEa1dBQVFZLTAwN1FqTWZVRVhFSjQ2M2hZY25wLVJjQmVLZzVaeVFrU25jT2I5T2E2bEprU1U4dWpZNDNoY1FRZFRrZEVfQS1Yd0lYQ0RDT2x1VmU5NUhVanNGbDdJVEtsVHRzUWNIYnlITkZ5S2xvczc2VW9USURzeFNBRHVkbHZ3NDNJR3NoTklmRm9ZY3ViNjloMTZwWWxrVUJLSGRWMTYzcFI2R2lBT0xWM2NHdTAtZ3cwUHE4aHVpbQ?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-14T07:13:45+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Taïwan prêt à investir 4,4 milliards dans un projet de gazoduc en Alaska promu par Trump    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Taïwan prêt à investir 4,4 milliards dans un projet de gazoduc en Alaska promu par Trump"
+      }
+    },
+    {
+      "title_original": "ترامب يعلن تنقيباً عن الغاز في غرينلاند وصفقة مع تايوان",
+      "title_zh": "ترامب يعلن تنقيباً عن الغاز في غرينلاند وصفقة مع تايوان",
+      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQcUpvUkN4SnM3dVRBX2ludjVmb296d1I4RzN6ZlY3cEFwTUo2N1I1dTlCQ1BGejlsb1pYeUFhS0hPc1ltWmdaS25DQmdvZ2JIZy01bjZnRXE1bk9CdE1BZ0Z1eXR1VlRNeVZiRVQxTFloR3RYS0k2OFJuWWZ0ZXJPak5SeGptMktaNUc5RFpsSHJYZThUTVBoM1c5V2ZFQ0hSY0ZKLWI4WDlGY0ZRN0hvcW9jWlRMcWN2U3VsRHprdjlfeWx3ODRLNENLWXdnU0hWVThyY2V4cHF6c2h5VVFwN3NSMkpJVHhyZHZuRkFELVhvdC1oWWJJdVFxZTJuTzNZMEtDeWkwZlptaUl6NjhHNUlCSGxlRGlINTVmSHE1SE9JX2dIRFFtWk9oSDFHU090azRoam1HZzNCT09DcjZ5Y3NyajUxemZ5MEZ5RVc2dTdFVVhLQjBNaTFCbWtCajhWRThtSmx3bHE4cjAzQnlMUUJpdUthTGpnM0VDbVV4VmV4ZEVLcnR1X0V4eWRvU2hYTm51Z21tcy12M0dsdkRYZy1INUpNeHphWUdVbDU0aXgyN0tIWE9qYVptNllHQl9ZVHM4WjNR0gHLA0FVX3lxTE9IajA1ckc1VkRXUjlBUTNXVHYtOXYtSWdJMnpUWld6c1hEYUVkR2ptWDBlY0JPanFJdUJGN1NxRndSc1RpQnB1V2JQZ3lvX2YyRVFPcE9TWXU2SEUwM1dMM1BhM0FIcGl6TWt1Nmc2dTVBaVBWeDFrUE9sSldLWVVGLTRlZkgzcEk0YVlZZTFBVDgxeUNpV0hfcFk1TnNhOXlVMF9LQkttUUtEMTJRcFZ0QjhERGQzLWlJcDZPdy1GMWFWbGtJeFVUTkMtYm1BeF84T0EwLW5TOWZnd21mSTZyR2tSWG9RbElwZ0tiSmNHZ3l0U013VUt6VWh6RXZiVGN0TDVDYkNEamZaS2pVX0I5c3FuLVpTZlJGclVNTWZSVFlwM2ZXWVFjOFpyLWpyUDI1V1J4QXBWSHQxM3Bnd3phZ3p2N3FUT2p5SXZoVW81RTNGZUh1dzlaTHd5TkJfd1V4TEJUZ09fdXVfT290dThIemdlWWc4Y0pHeUpsZkJQZkpKMzZjNV82SGtubFRkS1p1Zm80VEh3RGNKT2RsQkR3bk5QN0FGSlpCSEt3LWQ3ZXYtM3RzdXpDWXdMWXQtOFdIWS0xMGYzaC1OZw?oc=5",
+      "source": "العربي الجديد",
+      "source_score": 40,
+      "published_at": "2026-10-14T07:11:56+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ترامب يعلن تنقيباً عن الغاز في غرينلاند وصفقة مع تايوان    العربي الجديد",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "العربي الجديد"
+      ],
+      "all_titles": {
+        "ar": "ترامب يعلن تنقيباً عن الغاز في غرينلاند وصفقة مع تايوان"
+      }
+    },
+    {
+      "title_original": "قاضٍ أميركي يمدد السماح بدخول صحافيِّي 3 مؤسسات إعلامية للبيت الأبيض",
+      "title_zh": "قاضٍ أميركي يمدد السماح بدخول صحافيِّي 3 مؤسسات إعلامية للبيت الأبيض",
+      "url": "https://news.google.com/rss/articles/CBMingVBVV95cUxOa0llYmpjYm84aGpObUp6eHdCRWc0YnhuVTE3SUNMN2Q4cDE5TTFadEFGZkNEMDEzNjBTMHpEeWdZWEo0Z1dqZHowUl9Xdl9kZDNZblQtUHlnclZNU205YU1TY093YjVhVk1FR3J2ZHhHcWxib0hoZGZfcDg3RW5nd3BVdEM5VkhCcjNqSV9KeVhCcjNwc2JTVEF3MzNObnQ1d2d6azVLaGE5STFXSWJMLUNVTHc0Tm9xYXpVaWhYOWZPc1NDbnQyZXpXVkdUR1lobF9hSkY4QklTU285MTVjWl9aQmwyZ1p4SG1SRnB0SkJDd0M5Njg2d1RkRFl6RThidkFFYjcyQnNGZ2JKTE5MWDRYRHhpd1I0VEJaN0h3azJER0FOaFNYeXpxR1U5ZWRaVmR3bHNnN1hfX0dUbHBjbVdBeE5fdmFCOUlsS2tBVlhGTVRVZ056R3ZsY1RiVWl6bGk3NjVsUDhOMWFnd2RaTXdPOHJKelBfRUNzZkI4QkQtT3pHak9lM0V2UENTWWg3SXQwTDVUMVdpV2NRZWNTRXhEMnRZQVJVSkhsWklNU2h0T3ZvQnV3enNpUFdMT2tDVEpSTXU4dGQzd2JGdEJmbm1ueGJvMmlWQWdPeExXeEhXTXhmZ2puQUp0dFEycVVNWjI5XzgtZVIwVnZtazQxZVE0ZkxyM2s2Q1NpdGVKa1NXdi0wS1dkTEhhaHdzVmlPRHZOTEZZN1BqdzdTaFBWNlpPOTUtRmxBRy01bEtBd0tObURTTFlBd1RlTm54Q2VfY0tvdWxEci1RMTZlVzZtU3E5aUYxamdPSVU1UUljM1Z4aHI3Z0ozRmlwazNTSHgtWGNNbjhxVlJ5dmRBcVE0RHlGeGFwR3MxQnpLVlVR?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-14T06:18:26+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "قاضٍ أميركي يمدد السماح بدخول صحافيِّي 3 مؤسسات إعلامية للبيت الأبيض    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "قاضٍ أميركي يمدد السماح بدخول صحافيِّي 3 مؤسسات إعلامية للبيت الأبيض"
+      }
+    },
+    {
+      "title_original": "La guerre au Moyen-Orient commence à coûter très cher aux pays du Golfe",
+      "title_zh": "La guerre au Moyen-Orient commence à coûter très cher aux pays du Golfe",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbE5odVprSk1JWUdMbDN4VllLNF9CZnVfVER2QWJrampDek9hbmRXZHdSNjRibjRnSkpiazdXTHlZcWlKbm40UHpDdTRIMFNGQkNYT2ZRTjBSa3lMeWZocmg3NEF2SjRsemNCNFgzU2dqeVpraVhuUkJzVk1NSjVFRzhCMURjYks5VHhYMDRNOE9MOVJ2TFJmaVNIR0VsdGs0OFpLQjk1S196TG16UW9MRWhldUFfSWhnTFAxeFRNVmdwZXEzdkhzZ2xVZHBwNGpldmE3Yi10WXI0cDky?oc=5",
+      "source": "franceinfo",
+      "source_score": 40,
+      "published_at": "2026-10-14T06:13:40+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La guerre au Moyen-Orient commence à coûter très cher aux pays du Golfe    franceinfo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "franceinfo"
+      ],
+      "all_titles": {
+        "fr": "La guerre au Moyen-Orient commence à coûter très cher aux pays du Golfe"
+      }
+    },
+    {
+      "title_original": "Middle East Conflict Opens New Shipping Opportunities for Africa",
+      "title_zh": "Middle East Conflict Opens New Shipping Opportunities for Africa",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yN2VnZm1fcW9lUkk3TmJ5TU1FSmlQV2Z2aVZRNEk5T2NxZFVVd1VWSzFCQng0eFZkTDJxSU1VdWx1cEh3dXlSXzNmMWR2ZGNyOV9kOXhtdTE1cG40SHFlbWduNHRhWTdhaXl1M0FvQWJTM05ob1E?oc=5",
+      "source": "Global Finance Magazine",
+      "source_score": 40,
+      "published_at": "2026-10-14T06:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Middle East Conflict Opens New Shipping Opportunities for Africa    Global Finance Magazine",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Global Finance Magazine"
+      ],
+      "all_titles": {
+        "en": "Middle East Conflict Opens New Shipping Opportunities for Africa"
+      }
+    },
+    {
+      "title_original": "Hybride Angriffe: EU plant eigenen Sicherheitsrat",
+      "title_zh": "Hybride Angriffe: EU plant eigenen Sicherheitsrat",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zcS1UOGQ5Uzh4RVhzSjlITDBhV3RIb0tscXBRbEFkdEVaRkV0aDhOMVUtcjBiLUhCaThqU29CNF9mcUhJZFpKUklxYXZZMFFJLTVfa1Ewd1M1TGpHaGI5QUNvV0ZRZ1M3MmNtOWY5UmxNcEVsaWdMZzVpYw?oc=5",
+      "source": "Euronews",
+      "source_score": 75,
+      "published_at": "2026-10-14T05:30:13+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Hybride Angriffe: EU plant eigenen Sicherheitsrat    Euronews",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Euronews"
+      ],
+      "all_titles": {
+        "de": "Hybride Angriffe: EU plant eigenen Sicherheitsrat"
+      }
+    },
+    {
+      "title_original": "テラドローン、小型迎撃ドローンをウクライナに納入",
+      "title_zh": "テラドローン、小型迎撃ドローンをウクライナに納入",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXaEdmanFCYUhRTHdQaGh3Q3hqVVlTXy10ZVExTEh5OUhWam94anJ0eEJBRHhfZkl5M3hLbkhDRktCMTNmOWFaMnhQVmpZMlFfc3BiblpveElpanFPaUpxSmMySFZSSXVHWmFIUw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-14T05:17:29+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "テラドローン、小型迎撃ドローンをウクライナに納入    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "テラドローン、小型迎撃ドローンをウクライナに納入"
+      }
+    },
+    {
+      "title_original": "World's oldest shipwreck found off coast of Turkey",
+      "title_zh": "World's oldest shipwreck found off coast of Turkey",
+      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-14T05:00:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "World's oldest shipwreck found off coast of Turkey\n- Published\nThe world's oldest shipwreck has been discovered off the coast of Turkey, archaeologists say.",
+        "They have dated it to between 4,400 and 4,700 years old, which is the Early Bronze Age, and is around the same time that the Great Pyramid was being built.",
+        "The ship's wooden structure has not survived, but the ceramic storage pots it was carrying were lying on the sea floor and, remarkably, some still contain traces of what they held inside."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "World's oldest shipwreck found off coast of Turkey"
+      }
+    },
+    {
+      "title_original": "ترامب يعلن عن صفقة غاز ضخمة مع تايوان",
+      "title_zh": "ترامب يعلن عن صفقة غاز ضخمة مع تايوان",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOWFJZYlBiVkkwU1Q5NkNoQWlSb3A1SlNVNzEyZE03Sy1YWndNU3RDdE1YSzFkT05hcHJieTNGdTRSRzNXQ29tUUZsLXV2TDhsM0ZodHRZbmlsMkU0bTlGMWU1LTh2TGFwRjhWYmZkWlNxWDAwQXE2cVlqb01rNmVZYV9RVFlfZkZwNWYta0FYSDMzNzFvc1c2S1lua0NranYwTUhWT1V3MlFoeTlPM2VIWlowRG1pXzE3M3hvQm5fdEItUHNiRlI1TXBWQlJWTGVBV2tVWGFaNVB3ZEJpY2lsM0N0YURPLW5FVlZuX0JMR1pyVWxrZ3JzU0haUzJtcHA2S1RvdW05T1E3TVR6MkFHaU9lRWttZi1uYWpITnhQa1R4WUVBRUFlLXVqSXFGZw?oc=5",
+      "source": "اقتصاد سكاي نيوز عربية",
+      "source_score": 40,
+      "published_at": "2026-10-14T04:26:48+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ترامب يعلن عن صفقة غاز ضخمة مع تايوان    اقتصاد سكاي نيوز عربية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "اقتصاد سكاي نيوز عربية"
+      ],
+      "all_titles": {
+        "ar": "ترامب يعلن عن صفقة غاز ضخمة مع تايوان"
+      }
+    },
+    {
+      "title_original": "荷兰F-35获核认证，坚定正午演习开打，欧洲首个隐身核战机亮相",
+      "title_zh": "荷兰F-35获核认证，坚定正午演习开打，欧洲首个隐身核战机亮相",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5WjNUQkVMZ3k1cE5QaEVUR0d1ZVVVZGYwVEZxc3V4b213ZG0yRjJ4QjFkOE40LVYyZmx6UDVqdHhBMFN4Ujdmbm1LWQ?oc=5",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-10-14T04:26:18+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "荷兰F-35获核认证，坚定正午演习开打，欧洲首个隐身核战机亮相    凤凰网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "荷兰F-35获核认证，坚定正午演习开打，欧洲首个隐身核战机亮相"
+      }
+    },
+    {
+      "title_original": "بريتيوم توسع نطاق وجودها في الشرق الأوسط بفتح مكتب لها في أبوظبي",
+      "title_zh": "بريتيوم توسع نطاق وجودها في الشرق الأوسط بفتح مكتب لها في أبوظبي",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVSHRvd3praDhIQ0tOQUVHT2tjT1RwUTh4NjVSZnBfckZCeDR1U1ZXQmZ4M3hmY1IxSFVsaE5vOUNpOThUWTJ6eEJLaW5kTzNCR0J3WXBoM3N1aF9VekdzTUFnbDR0QVk?oc=5",
+      "source": "Business Wire",
+      "source_score": 40,
+      "published_at": "2026-10-14T04:02:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "بريتيوم توسع نطاق وجودها في الشرق الأوسط بفتح مكتب لها في أبوظبي    Business Wire",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Business Wire"
+      ],
+      "all_titles": {
+        "ar": "بريتيوم توسع نطاق وجودها في الشرق الأوسط بفتح مكتب لها في أبوظبي"
+      }
+    },
     {
       "title_original": "Ossoff says he has ‘zero interest in running for president’",
       "title_zh": "Ossoff says he has ‘zero interest in running for president’",
