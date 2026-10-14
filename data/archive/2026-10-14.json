@@ -1,8 +1,533 @@
 {
   "date": "2026-10-14",
-  "generated_at": "2026-10-13T18:17:28.067157+00:00",
-  "count": 35,
+  "generated_at": "2026-10-14T01:52:16.389862+00:00",
+  "count": 61,
   "articles": [
+    {
+      "title_original": "Ossoff says he has ‘zero interest in running for president’",
+      "title_zh": "Ossoff says he has ‘zero interest in running for president’",
+      "url": "https://www.politico.com/news/2026/10/13/jon-ossoff-zero-interest-2028-georgia-01117546",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-13T21:12:37-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The Georgia senator committed to serving out a full six-year term should he win in November — his most forceful rejection of 2028 rumors yet.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Ossoff says he has ‘zero interest in running for president’"
+      }
+    },
+    {
+      "title_original": "Russia arrests Japanese journalist on allegations of spying",
+      "title_zh": "Russia arrests Japanese journalist on allegations of spying",
+      "url": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-14T01:05:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "FSB security agency said reporter was arrested on island of Sakhalin, alleging he was collecting information about Russia’s defences Russia has arrested a Japanese journalist on the far east island of Sakhalin and accused him of espionage, Moscow said on Tuesday.",
+        "Russia regards Japan as an “unfriendly” country because it has joined western sanctions over its war ⁠in Ukraine.",
+        "Russia has arrested several citizens of “unfriendly” countries in recent years, accusing them of working for western intelligence services."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Russia arrests Japanese journalist on allegations of spying"
+      }
+    },
+    {
+      "title_original": "Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX",
+      "title_zh": "Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-14T00:53:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Microbiologist Aili Wang, 32, poisoned tea of colleague in Wyoming who had pending patents, prosecutors allege A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents and with whom she did not get along, then tried to flee the country after police questioned her.",
+        "Aili Wang, 32, was arrested 6 October at Los Angeles international airport, where prosecutors allege she sought to return to China.",
+        "With her were laptops, electronic storage devices and documents now in the possession of police, who allege Wang was seen on surveillance video rummaging through the desk of the victim who specialized in technology for disease treatment – research similar to work she had done in China."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX"
+      }
+    },
+    {
+      "title_original": "トランプ氏「ウクライナと情報共有継続」、ロの停戦違反には言及せず（ロイター）",
+      "title_zh": "トランプ氏「ウクライナと情報共有継続」、ロの停戦違反には言及せず（ロイター）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LTDM2TEsyQVAxdjVtdTc1di1tbEZQTkhYS0M5UmJ6YU9DNXQzUzNlLXlPUE5FZjFZdVZadE1QY0tYdGJ2amlXRnVYZ25HM1Z6eWxTM3FRX21LMHhrNVA4VlpzdUJ2eHp3UGxIM25iS1FpdU5vamdfbnNla0EwT0E?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-14T00:36:27+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "トランプ氏「ウクライナと情報共有継続」、ロの停戦違反には言及せず（ロイター）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏「ウクライナと情報共有継続」、ロの停戦違反には言及せず（ロイター）"
+      }
+    },
+    {
+      "title_original": "伊朗警告若再遭袭将采取不同回应 中东局势紧张升级",
+      "title_zh": "伊朗警告若再遭袭将采取不同回应 中东局势紧张升级",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjc1RFVWJSWW5OM1B5c2hSRUVzazhzYnQyMFVodnBJRnY5bWgxR19VcENsSkx5dVBuVjdWY3plMWJ0SnFBZzhVLURfMzJwYlY1WFBOLVRkNzRCb0RoUjB3RDNZQ0xEd291TmRMVU02bUk?oc=5",
+      "source": "中华军事",
+      "source_score": 40,
+      "published_at": "2026-10-14T00:28:52+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "伊朗警告若再遭袭将采取不同回应 中东局势紧张升级    中华军事",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "中华军事"
+      ],
+      "all_titles": {
+        "zh": "伊朗警告若再遭袭将采取不同回应 中东局势紧张升级"
+      }
+    },
+    {
+      "title_original": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "title_zh": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-14T00:17:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Pope diagnosed with lung cancer but had successful surgery, Vatican says\n- Published\nPope Leo XIV has been diagnosed with lung cancer but had successful surgery to remove a lower lobe of his right lung, the Vatican has said in a medical bulletin.",
+        "The 71-year-old underwent a 90 minute surgery on Tuesday at Rome's Gemelli Hospital and was subsequently diagnosed with lung adenocarcinoma.",
+        "\"The operation was successful and there were no complications,\" the Vatican said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Pope diagnosed with lung cancer but had successful surgery, Vatican says"
+      }
+    },
+    {
+      "title_original": "北约水域附近商船遭无人机袭击，联盟面临新考验",
+      "title_zh": "北约水域附近商船遭无人机袭击，联盟面临新考验",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPWUFRZVhzRzFLRHJUam5rd1dWYmN0bDFJbnliaDNJQ0cwTjZhcDBhZnlIaTEtbGdJSk9DbzdxWGV3SHNneVNKN1RMNmpfRWQtRTlrTTNuRFFram5MRDROeXRCbEl2QXNXZGlDRUVSelRhT2VBaDlyUEJkX25vYXBBcFpBTjFkaVBjOGVYTVdxXzNrR1FHRmNLV1JKYms3d3NjUUd1N0FsTFROMVFEU2JPUU1GY1lUNzZURmE1blRBRWtrcE9fRTk0SXg0RW5kS2toODhJcm5NaDhMTHVRd01ucDlfMnNaclFMVzRROVJiTHZkSmp4eU5oSWpSR1hLb3RqblJlX2VvSGZ5Q09Mem0xZ1Zzc0xPM19fWXdMM0JqaHBya05LbUxvb3A3QndfSEFfYlFmRnlPQm10TkJwNURQUHJ1YWdRY1NEOTJF?oc=5",
+      "source": "华尔街日报中文网",
+      "source_score": 95,
+      "published_at": "2026-10-13T23:44:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约水域附近商船遭无人机袭击，联盟面临新考验    华尔街日报中文网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "华尔街日报中文网"
+      ],
+      "all_titles": {
+        "zh": "北约水域附近商船遭无人机袭击，联盟面临新考验"
+      }
+    },
+    {
+      "title_original": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "title_zh": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T23:42:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines\n- Published\nFour years after one of the most dramatic acts of sabotage in modern European history, a Ukrainian man goes on trial in Hamburg on Wednesday accused of blowing up Russia's Nord Stream gas pipelines to Germany.",
+        "Serhii K, as he is identified by German prosecutors, is accused of plotting with other Ukrainian military personnel to destroy the pipelines and stop Russia financing its war with gas revenue.",
+        "The case is highly sensitive in Germany, seen as one of Ukraine's closest allies since Russia launched its full-scale invasion in February 2022, seven months before the attacks took place."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines"
+      }
+    },
+    {
+      "title_original": "キーウへのミサイル攻撃で1人死亡＝ウクライナ当局",
+      "title_zh": "キーウへのミサイル攻撃で1人死亡＝ウクライナ当局",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmM5NEpxZnNITUtETmFCM3B5MVFkNFNwNDN3UFMwNU9JWlRIYjNZdzlNQVQ5Q1EwUjJybjd3NlRhdHJuajNCQS1DRUoxSEdWYk14Z3V2TGhTdVJQSENFWlNXMVlaZXFxYVZ6TnFkd3lHS3V6aXc5dzFaY0JXMy1MSm9hN20xUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-13T22:55:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "キーウへのミサイル攻撃で1人死亡＝ウクライナ当局    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "キーウへのミサイル攻撃で1人死亡＝ウクライナ当局"
+      }
+    },
+    {
+      "title_original": "Paraguay defiende su soberanía tras sanción de China a ministro por nexos con Taiwán",
+      "title_zh": "Paraguay defiende su soberanía tras sanción de China a ministro por nexos con Taiwán",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFZnZ2VLRGpnUmNJbW8wZ3F6QVhFNjBIRmZSNWZ2UE0tSXVBVnhqMC1TNEFzblhieFBnSmNQa3ZicUROODBYYkpNN1BfRkZ6MTNVc1BCSklWcjJKbVRUbW9CNHhHdzhBYjdZTW1VLXlESTVLMXh4TXUzSXRPSWRwU080bWtNOWlCYW96THVkOEZHZVR3d0xyNW1JXzhtX0ltX011TjZtYmUxV2dKVkpybg?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-13T22:33:14+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Paraguay defiende su soberanía tras sanción de China a ministro por nexos con Taiwán    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Paraguay defiende su soberanía tras sanción de China a ministro por nexos con Taiwán"
+      }
+    },
+    {
+      "title_original": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "title_zh": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T22:29:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot\n- Published\nMissiles and drones have been intercepted over Riyadh after the Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa, its spokesperson says.",
+        "Maj Gen Turki al-Maliki said several projectiles targeting the Saudi capital and other cities were intercepted after the coalition carried out a strike on the Yemen Petroleum Company's al-Sabaha facility on Tuesday night.",
+        "The Houthis warned they would target the airport and Aramco refinery in Saudi Arabia's capital, Riyadh, and Aramco's headquarters in the eastern city of Dammam."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot"
+      }
+    },
+    {
+      "title_original": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "title_zh": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T22:14:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian strikes hit key power plant in Kyiv, Zelensky says\n- Published\nA key energy facility supplying Kyiv with heating and electricity has been hit in a Russian ballistic missile attack, Ukrainian President Volodymyr Zelensky has said.",
+        "Darnytska CHP-4, or CHPP-4, and a residential building were hit in a strike the president said came with \"no early warning from our partners\".",
+        "Kyiv Mayor Vitali Klitschko said one person was killed and 13 injured in the missile strike on the apartment block late on Tuesday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russian strikes hit key power plant in Kyiv, Zelensky says"
+      }
+    },
+    {
+      "title_original": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "title_zh": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T21:42:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Saudi man charged with planting 'sophisticated' recording device in OpenAI office\n- Published\nA Saudi national has been charged with secretly planting a recording device in one of OpenAI's offices in California, federal prosecutors announced.",
+        "Abdulrahman Alfozan, who worked at the AI firm as an engineer, was charged federally with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications.",
+        "OpenAI said it had discovered a \"sophisticated recording device\" hidden in their San Francisco office and alerted the FBI."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office"
+      }
+    },
+    {
+      "title_original": "Intense waves and floods batter California waterfront homes and boardwalks",
+      "title_zh": "Intense waves and floods batter California waterfront homes and boardwalks",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-13T21:29:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves battered beachside homes.",
+        "The remnants of Tropical Storm Rachel hit Mexico ’s Baja California over the weekend as well as southern California and Las Vegas.",
+        "While meteorologists noted that Rachel weakened into a post-tropical cyclone as it approached California, it still left a trail of destruction."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Intense waves and floods batter California waterfront homes and boardwalks"
+      }
+    },
+    {
+      "title_original": "ウクライナ、ＥＵ加盟交渉で前進 ハンガリーが反対撤回＝アイルランド閣外相",
+      "title_zh": "ウクライナ、ＥＵ加盟交渉で前進 ハンガリーが反対撤回＝アイルランド閣外相",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ycEU1N29Fby1pdUY5c3dOU2VuMldTaXZ5amo1NDJiUzV6RUFnSHBLdFFJY0ZzOFdMUUJMYWZsZHBCdlJYQk1HeDRrd2x5Vi1rbWE5c3FjSkRuTTdzMFF5N3NrRW5kWGdiYnhYbzBLQ1dlVVVSa2xIQUQxSFNYQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-13T21:00:02+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ、ＥＵ加盟交渉で前進 ハンガリーが反対撤回＝アイルランド閣外相    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、ＥＵ加盟交渉で前進 ハンガリーが反対撤回＝アイルランド閣外相"
+      }
+    },
+    {
+      "title_original": "原油先物まちまち、米ロの軽油合意巡る期待と中東情勢懸念が交錯",
+      "title_zh": "原油先物まちまち、米ロの軽油合意巡る期待と中東情勢懸念が交錯",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZc291eEc3TWg3SGh4TFdBczNRazJOc0ktX09WUVBBUjk3ZTFHdndYaGJiWm9ZYUZfSVBXYVFJdlBBZlJGdXdzSVNLRnE1dFRISGRfU2dDU3JULU1sT25RS1lzVUktSl9ocnZfWEswTTFuX1JzUktldmRYbWhzZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-13T20:42:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物まちまち、米ロの軽油合意巡る期待と中東情勢懸念が交錯    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物まちまち、米ロの軽油合意巡る期待と中東情勢懸念が交錯"
+      }
+    },
+    {
+      "title_original": "Putin will Frieden, Selenskyj blockiert – so dreht Trump die Schuldfrage im Ukraine-Krieg um",
+      "title_zh": "Putin will Frieden, Selenskyj blockiert – so dreht Trump die Schuldfrage im Ukraine-Krieg um",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUlkSVVBTlZ3MDBfOHJaQUN1OHRQNzFObk1lN2s3S0w1Z05UUE5kY19mN0JOTDRQSlZzY2JoOG1aQjBSUnp4a2RlenZZOW9VRHJUYko0Z2EtTjJkS2FlX2hOYWFEUzdwYjd1RUM5ajhvQ3lOT1BnLU1JR29kTFNTemJteWdSRnRnSzlDVjY2R3JsQWZ5a2xrbG1BY0YxOEhBa2VPTG9IVjI?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-10-13T20:06:26+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putin will Frieden, Selenskyj blockiert – so dreht Trump die Schuldfrage im Ukraine-Krieg um    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Putin will Frieden, Selenskyj blockiert – so dreht Trump die Schuldfrage im Ukraine-Krieg um"
+      }
+    },
+    {
+      "title_original": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "title_zh": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+      "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T19:51:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder\n- Published\nFormer gang boss Duane \"Keffe D\" Davis has been sentenced to at least 40 years in prison for orchestrating the murder of Tupac Shakur.",
+        "A jury found Davis, 63, guilty in September of one count of murder with a deadly weapon for the rap superstar's death in a drive-by shooting in Las Vegas on 7 September 1996.",
+        "He has said he will appeal the verdict."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder"
+      }
+    },
+    {
+      "title_original": "Will NATO’s ‘theory of victory’ work?",
+      "title_zh": "Will NATO’s ‘theory of victory’ work?",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX0Vnc0czb1gybXpuN0d0NDdHVzVLcDEycWljdkpZaERfSm40Wm1HNWVHX1BnYkh5OHQwX2VfM25odFFiZVVGUnRNcEh6cTItZFJPWi1EX2hQNjBHbnM0bEZHRnVSbjdrcDFZWkJhWkZsakVIaUFVcFQ3MEFjazlrRHBvSFAtXy04MFRtQXBIeFA4cjDSAZgBQVVfeXFMT29tVzhvOG0xUGFmVE1TcXFPV1JaREJxS29uWEFFWktTNXRLRGpjV0doU2NkLUxhaTZXZ25ndUNJall1aFFUM0VqRl9vN0k5S19IeVBMODdXQkw0VUIwWWlUTmZ1Y05CeWROY1R5TkNIbzZFRVRndFZVZHpGZWJjS0lLemFKeXVYbUlNZS1tTEMtYUFLMi1nY0w?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-13T19:32:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Will NATO’s ‘theory of victory’ work?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Will NATO’s ‘theory of victory’ work?"
+      }
+    },
+    {
+      "title_original": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "title_zh": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T19:23:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations\n- Published\nPresident Donald Trump's administration has asked Kimberly Guilfoyle to resign from her position as US ambassador to Greece, according to White House Press Secretary Katie Zacharia.",
+        "Guilfoyle, a former Fox News host, was facing mounting scrutiny over reports she allegedly asked a Trump donor to pay her hefty credit card bill in exchange for access to the administration and behaved inappropriately while in Athens.",
+        "Trump said on Tuesday that she had done a good job, but will \"not be there\" in Greece any longer."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations"
+      }
+    },
+    {
+      "title_original": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "title_zh": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T18:25:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Cornell bans all fraternity parties over gang sex assault allegations\n- Published\nCornell University is banning all parties at fraternity houses as the school faces backlash over its handling of an alleged sexual assault on campus two years ago.",
+        "Last month, a woman known as Jane Doe filed a lawsuit alleging she was plied with drugs and raped by several men in 2024 at a party at a Cornell fraternity house.",
+        "In a statement on Tuesday, Cornell's president, Michael Kotlikoff, announced a series of measures responding to the alleged assault, including the end to fraternity parties for the rest of the school year."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Cornell bans all fraternity parties over gang sex assault allegations"
+      }
+    },
     {
       "title_original": "J&J posts weak medical device sales, shares fall",
       "title_zh": "J&J posts weak medical device sales, shares fall",
@@ -54,6 +579,56 @@
       }
     },
     {
+      "title_original": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
+      "title_zh": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-13T17:42:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Exclusive: Caution urged over Javier Milei government’s ‘red notice’ requests for arrest of individuals linked to oil project Britain has appealed to Interpol to reject Argentina’s requests for the arrest of individuals involved in a large oil project off the Falkland Islands.",
+        "With tensions over the sovereignty of the British overseas territory reaching levels not seen since the war with Argentina in 1982, UK officials have sought urgent assurances from the international organisation.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests"
+      }
+    },
+    {
+      "title_original": "Argentina targets UK in legal claim over Falklands oil exploration",
+      "title_zh": "Argentina targets UK in legal claim over Falklands oil exploration",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T17:36:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Argentina targets UK in legal claim over Falklands oil exploration\n- Published\nThe Argentinian government has begun legal action seeking to stop the exploration of oil and gas fields north of the Falkland Islands in an escalating row with the UK.",
+        "Buenos Aires said in a statement the request lodged with the International Tribunal for the Law of the Sea aimed to block activity authorised \"illegally\" by the UK.",
+        "The claim comes a fortnight after Argentinian President Javier Milei demanded the scrapping of the Sea Lion oilfield project, a joint venture between Israeli and British companies."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Argentina targets UK in legal claim over Falklands oil exploration"
+      }
+    },
+    {
       "title_original": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
       "title_zh": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
       "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
@@ -76,6 +651,31 @@
       ],
       "all_titles": {
         "en": "Horrified witnesses recount fatal rollercoaster incident at Six Flags"
+      }
+    },
+    {
+      "title_original": "تصاعد العمليات العسكرية في الشرق الأوسط.. تحذير من \"كارثة\" تطال عشرات الملايين",
+      "title_zh": "تصاعد العمليات العسكرية في الشرق الأوسط.. تحذير من \"كارثة\" تطال عشرات الملايين",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmVXcVJ0VFVTVHNCaFJOSC1iZ1ZrTWxJM2xvSkNWNnVBelNsOHROTlNWazlvdElvY2Zna2UxLWNyVzZEVnBYVmRGX3A0ZXV1ZHFmNlJaWE1RamxmY25qa1Z0eHBaY1pUQWt3RGM2T3RhcFp6bDNKa082YUc1QnpXcDFETVgxMEliQmZvZENpNjNFbGRLM0pLSjNOZw?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-13T16:30:22+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تصاعد العمليات العسكرية في الشرق الأوسط..",
+        "تحذير من \"كارثة\" تطال عشرات الملايين    Euronews.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "تصاعد العمليات العسكرية في الشرق الأوسط.. تحذير من \"كارثة\" تطال عشرات الملايين"
       }
     },
     {
@@ -151,6 +751,31 @@
       ],
       "all_titles": {
         "zh": "北約罕見公開對俄作戰藍圖 三階段擊潰敵軍"
+      }
+    },
+    {
+      "title_original": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "title_zh": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-13T15:52:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "MI5 chief warns of threats to UK from Russia, Iran and AI\n- Published\nMI5 is devoting more resource to countering state threats than during the Cold War, the head of the intelligence service has said.",
+        "Sir Ken McCallum said threats from foreign adversaries had quadrupled in the last decade, with Russia \"aggressor number one\" as well as increased Iran-linked aggression against Jewish sites and military bases.",
+        "At an annual speech in London, MI5's chief said Russia was waging hybrid warfare at a time when AI was \"supercharging the cyber-security contest between attackers and defenders\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "MI5 chief warns of threats to UK from Russia, Iran and AI"
       }
     },
     {
@@ -276,6 +901,31 @@
       ],
       "all_titles": {
         "en": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack"
+      }
+    },
+    {
+      "title_original": "La OTAN y la UE amenazan a Rusia tras el ataque a dos barcos en Bulgaria: \"Los responsables deben rendir cuentas\"",
+      "title_zh": "La OTAN y la UE amenazan a Rusia tras el ataque a dos barcos en Bulgaria: \"Los responsables deben rendir cuentas\"",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc2hQZVdWOUpVWjZpbmsxNTZlQVRlTC16TDk3UmRLMmNhekxXU1N2X1VBcDJ1TDhaZG5XTm1GQzFoZVplSk00V1pVQ051aE9ScllJbURwLXlvLWJmbE95OWZhMnNkajBwT25Da1ZRMi1xVEwtOTRXNVdfZGhGUW9OX0NUa0JEUHBFNERuRDZfbVFPOEpDcFM4dWhJQjVwbXVNN3NobVgwa1NKeDhXZFdwcWhLTHRjMUQ4c05SSFFlTWhBSXV6Q243ZE5penAzcmdENGZ6OWwxSFlmdFRIY1pv0gHkAUFVX3lxTE93SUVpSHcxVmJnQS1TS1RsejVOLVpaWEhpR290LTNkUUxZUkNpdGQxZHM1ZC1WS1dXa0tBNTZ3ZHBXc2N5d0l1VUNENVM0NG40T3VXX0ItMWdVTmM0SUphVmFlTXdsSzYzektVSlpOdFBiYVAwUWt5Xzc2dHFHTnppbmdneEZFUEVxS1RzTVNoc09kUHFGTUJHTEpqUVU4d2pveDdseEdtNlhuSVdORVhPblhoM1A1RVFnYVBrSkZzX0R5dFVWb1lqdHhUaUZWTTNFdDdoakFXa3l3X1p1bDNqSEJjSw?oc=5",
+      "source": "20Minutos",
+      "source_score": 40,
+      "published_at": "2026-10-13T14:24:56+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La OTAN y la UE amenazan a Rusia tras el ataque a dos barcos en Bulgaria: \"Los responsables deben rendir cuentas\"    20Minutos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "20Minutos"
+      ],
+      "all_titles": {
+        "es": "La OTAN y la UE amenazan a Rusia tras el ataque a dos barcos en Bulgaria: \"Los responsables deben rendir cuentas\""
       }
     },
     {
