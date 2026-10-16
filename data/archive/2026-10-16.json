@@ -1,8 +1,883 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T01:17:08.302886+00:00",
-  "count": 35,
+  "generated_at": "2026-10-16T15:22:36.832088+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title_original": "米9月輸入物価、前年比8.1％上昇 4年超ぶりの大幅な伸び",
+      "title_zh": "米9月輸入物価、前年比8.1％上昇 4年超ぶりの大幅な伸び",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaUoxWDYyMnk2bEZKcElwOG9tSEx4Z2prUDR4cE9kMVV5X0lNbm9QUE5WeE85SlpCd25MZ0JQQWlTV24zWGNoWTlHVUl1MUVGTDRta01JaFU1MTRSeHRfQ0tKeWQ2dkprWXJsTEtmZ2NoQnNYci1JSF9ER2xiLUN2NUNtSlg5UQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-16T15:10:36+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米9月輸入物価、前年比8.1％上昇 4年超ぶりの大幅な伸び    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米9月輸入物価、前年比8.1％上昇 4年超ぶりの大幅な伸び"
+      }
+    },
+    {
+      "title_original": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+      "title_zh": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-16T14:57:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Patients in chains rescued from suspected illegal rehab centre in South Africa\n- Published\nA pastor and his wife have been arrested in South Africa after 200 people, some in chains, were found held at a suspected illegal rehabilitation centre in the north-eastern part of the country.",
+        "The facility, operated from a church in Mpumalanga province, was discovered during an operation by officials in the area on Thursday.",
+        "Authorities said they uncovered \"gross inhumane conditions\" when they raided the facility, with some patients found with \"sores all over their bodies\" and \"others chained to each other\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Patients in chains rescued from suspected illegal rehab centre in South Africa"
+      }
+    },
+    {
+      "title_original": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "title_zh": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-16T14:21:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Dad fined after son, 2, died in Cyprus hotel fall\n- Published\nA father whose two-year-old boy fell from a fourth floor window of a Cyprus hotel has been fined €3,000 (£2,500) for causing his death.",
+        "Joshua Foster thought the window was closed when he placed his son on a sill to show him the view of a waterpark and \"lost control\" of him, Paphos District Court previously heard.",
+        "The toddler fell nearly 40ft (12.1m) at the five-star King Evelthon Beach Hotel and Resort on 12 July, the first day of the family's holiday in Chlorakas."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Dad fined after son, 2, died in Cyprus hotel fall"
+      }
+    },
+    {
+      "title_original": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "title_zh": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-16T14:19:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "US senators call for investigation into Ukraine's Starlink restrictions\n- Published\nA bipartisan group of US senators has signed a letter demanding an urgent investigation into disruptions to SpaceX's Starlink internet network in Ukraine.",
+        "Starlink is a vital tool allowing Kyiv to guide drones to Russian targets and protect its own skies, but on Tuesday night Ukraine said it had unexpectedly restricted how fast drones could fly while maintaining internet connection.",
+        "In the letter, sent to the US defence department inspector general, the senators express \"grave concern\" about reports of speed curbs between 12 and 14 October."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US senators call for investigation into Ukraine's Starlink restrictions"
+      }
+    },
+    {
+      "title_original": "البنك المركزي: تحسن آفاق النمو بإيطاليا مع تراجع تأثير أزمة الشرق الأوسط",
+      "title_zh": "البنك المركزي: تحسن آفاق النمو بإيطاليا مع تراجع تأثير أزمة الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByeWxONDlLSHU1eV80RDNUM2ZEUnNFSnRRdC1yTHJnMWZONC1sdFowalBvUjlVZlA1VTYxNzJQS2lkQUJXTl9XQUdIc0hHMUxObHdpRVYyRnZPaXlRZWlYTS1aMm1DLU1qVEtjajFZbG9nR3ZrZ1pTNW5zbXZvQnc?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-16T13:37:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "البنك المركزي: تحسن آفاق النمو بإيطاليا مع تراجع تأثير أزمة الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "البنك المركزي: تحسن آفاق النمو بإيطاليا مع تراجع تأثير أزمة الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "En mer Noire, la Russie escalade dans les marges de l’OTAN",
+      "title_zh": "En mer Noire, la Russie escalade dans les marges de l’OTAN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQVB6SURrUzdIdHI1VVBsVjZJUU5DdHhyM2lBeHp4OWotMmFNY1YyM0RsclRoclNvbUZTa0NBVmgzekYwVU43VGNHaHROWnBxR2NZVTN4TW5NZmh0WVZzTjlsRHRweElFendDZWVrM1REY1dPSExVQWZVbUlHRkJFeW9mQnlCNEEwSlNJVjR6cDlzQXhtWTN3VWtR?oc=5",
+      "source": "Le Grand Continent",
+      "source_score": 40,
+      "published_at": "2026-10-16T13:17:06+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "En mer Noire, la Russie escalade dans les marges de l’OTAN    Le Grand Continent",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Le Grand Continent"
+      ],
+      "all_titles": {
+        "fr": "En mer Noire, la Russie escalade dans les marges de l’OTAN"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Senatoren werfen Trump „Verrat“ vor und fordern Ausstieg aus Diesel-Deal mit Putin - Video",
+      "title_zh": "Ukraine-Krieg: Senatoren werfen Trump „Verrat“ vor und fordern Ausstieg aus Diesel-Deal mit Putin - Video",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZXRxSUk1UHp2NENOX3NqcC1nVm1JSnlZaTVGNURfdTU0SWFMVW5SQ0hYNDZiVHpCZ2hYVEVoV1dBakJTbHlCR1dJYTNvUFJ3VS1KMVYxeXlZYVRBR0dtZkpjb1hOSExfSUk4TGxyWXlrRnBjM2FPakZSQXJMUWpQSGtEY2tSakd1azh0TC1iWHo1a3NhNmp1MVpnaEx4M0l4TWNJWXMyeDlNX1JRVFhmYWhaYXdKZHNkYnlobDd1OEoyTWw0d3pYVzZOM282UW14SGt5SW5qVzNYRWI4aUE5VDF4M3pMQ1RSNll2NjlkOENpRWFQYm1OSQ?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-10-16T12:59:14+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Senatoren werfen Trump „Verrat“ vor und fordern Ausstieg aus Diesel-Deal mit Putin - Video    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Senatoren werfen Trump „Verrat“ vor und fordern Ausstieg aus Diesel-Deal mit Putin - Video"
+      }
+    },
+    {
+      "title_original": "ロシア無人機、ウクライナ各地攻撃 3人死亡",
+      "title_zh": "ロシア無人機、ウクライナ各地攻撃 3人死亡",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNajAyZ2xxemc4XzM5bXNiVTRDRVlISGVmRFdjakE1RkJrUzdWZHViTmV0azZxOV9MZnA4QjNHUEZyb00yTkEzMDlLS213ZGJYNVZIZ3k3ZWNyS1BPTWtnZXcwTmFiZTVzUUQ2Y0VTZlZtd2FQS2lEbVhIcjBkZE1fLUtYVUc5UQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-16T12:43:45+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア無人機、ウクライナ各地攻撃 3人死亡    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア無人機、ウクライナ各地攻撃 3人死亡"
+      }
+    },
+    {
+      "title_original": "Interview: Russia's Shadow War On NATO Is 'Bound To Intensify'",
+      "title_zh": "Interview: Russia's Shadow War On NATO Is 'Bound To Intensify'",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOajNQbGktcHFDSEozTWpQS3VvZ3luUTBPMktMTVpCZmpicGZiSnZtTWR1eE1yVDhINWJIR0FDY202V0tobVFPWFdUeW85ck94QlAxZkREdUZJVG04N05jSlNmUHgzdUo4Zmp2QmhXcUFDN0VqbWRXSEZvNndwZk95c3QxS2pEQkpZYWtJYXNWV2JsMlB1YnfSAZgBQVVfeXFMT2FzUkNoWExFZzZNSDRVNFFJekNQbUlkLUJGTzBsOHhYSlNpbE1mZVk2OEJaNWlqRHozM2ZzSUQ2V0l6MlY1WHQ0S2ltcXdqRGFreThHRFhjQm9iMVY0VEt5dEhpdjJwSkdOc0xST3N1cmFtMzlBX0lydXh5NlRLZzRCQjNUc2lGeF81bDlXWHlEOFk5Qm5YYmY?oc=5",
+      "source": "Radio Free Europe/Radio Liberty",
+      "source_score": 55,
+      "published_at": "2026-10-16T11:58:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Interview: Russia's Shadow War On NATO Is 'Bound To Intensify'    Radio Free Europe/Radio Liberty",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Radio Free Europe/Radio Liberty"
+      ],
+      "all_titles": {
+        "en": "Interview: Russia's Shadow War On NATO Is 'Bound To Intensify'"
+      }
+    },
+    {
+      "title_original": "India's 'cockroach' party founder detained ahead of protest",
+      "title_zh": "India's 'cockroach' party founder detained ahead of protest",
+      "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-16T11:44:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "India's 'cockroach' party founder detained ahead of protest\n- Published\nThe founder of India's \"cockroach\" protest movement, Abhijeet Dipke, has been detained in Delhi ahead of a planned march in the heart of the capital.",
+        "His detention follows a police warning against holding Friday's march, with thousands of security personnel deployed across the city to prevent the gathering.",
+        "Dipke's youth-led Cockroach Janta Party (CJP) is demanding the resignation of India's election chief over allegations of voter list manipulation."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "India's 'cockroach' party founder detained ahead of protest"
+      }
+    },
+    {
+      "title_original": "Poland Offers More NATO Troops If Allies Buy From Its Defense Industry",
+      "title_zh": "Poland Offers More NATO Troops If Allies Buy From Its Defense Industry",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS211dmt0NjF5ZldpSUh3dUpjUnY2QWxwN3V1TkFJaUI1TkNWc00tU2QzYTB4bHhrdUdVejVCaVNkOUc1YVhnQ0lYRC1FeFoxVm54X1RuTHRxS196NnNBQnE5RWdPeTNKVkZ4OVk4WVhCVl9wVkZiZDFRWHZxMzBaa2Q2dGlfbVp2NGNiWGRjNHdNYl9Damk1NmFzQzFBbFk0dHA5aHBpLXV6cFJxSHJTa1NzQjJiQktTUkZZWEVR?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-10-16T11:35:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Poland Offers More NATO Troops If Allies Buy From Its Defense Industry    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Poland Offers More NATO Troops If Allies Buy From Its Defense Industry"
+      }
+    },
+    {
+      "title_original": "Poland scrambles fighter jets as Russia strikes western Ukraine",
+      "title_zh": "Poland scrambles fighter jets as Russia strikes western Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0t1UU80NzZ6ZG5RYXBHRWwwbWhEN2ZCSUszVjFlMUR0cWpPa2NQNlVrU1dXZFd1alcwR2dtbWN3dGF4ZEd0cTZ0emd6YVRwWjUxd3B0VnpkSDUxeGxkMlpFVmMzZjhvUlFsamN5MXEzWWFkSVRZZ2h4Q0tzN2Y2akVkT0JRMUZhSVptbjdDSHJoVjg1QTJnRzR2dHdlaVNkVVNuQ3gxRk_SAa4BQVVfeXFMT29BVHBOSUtKZFhzak1xN3FZZGpZTkpWY0NtbVFkM2hxM0R4Q2sxcUdjZklDbGp3OTZCVEFGRkQybDYzWkw3Z29GcE5xdFdkUU9DZXlZS2VHbVFvM3BpUVVxa3J1eVhHeUh3d2g4a1dqS015bmhHNWdWcDJXNDRrYVdWRGpnWFZ4Mmd1QTFJckdlbjBUUzA5ZkdvUU84NkFjLUx6dUNabEVUNXJnWTh3?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-16T11:12:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Poland scrambles fighter jets as Russia strikes western Ukraine    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Poland scrambles fighter jets as Russia strikes western Ukraine"
+      }
+    },
+    {
+      "title_original": "ペトロチャイナ、取引部門の26年利益が過去最高に 中東情勢の影響回避",
+      "title_zh": "ペトロチャイナ、取引部門の26年利益が過去最高に 中東情勢の影響回避",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UUG1MNVB3MHNIazBmVDQzU3paNUVhalVIdjgyR21OWjJBQXBKVm9zVE14a2NpTUlCYmhzbUw3TUw5aklxN2JzOHhMLXJDRFBTZmlObjI4Q21HUHoxbEowa3NHVndqNzk0OW9BQ19aS3VtbTBnSHJkU1l1OA?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-16T10:33:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ペトロチャイナ、取引部門の26年利益が過去最高に 中東情勢の影響回避    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ペトロチャイナ、取引部門の26年利益が過去最高に 中東情勢の影響回避"
+      }
+    },
+    {
+      "title_original": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response",
+      "title_zh": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTzFrRE5pMHU0QUV5V2ZHeTBuUHR3cnJDY09QMnEyMndIVVA5TG5aUE5zSkhIdWNhZVVLcEJPSGMweVFtVGFma3RXcWlZa2xaeVpMWjg3UnFsUXQ0SXQ1ZFdwdXY0cG4zc3U3NlJBRm81eEkyanlKcG1ENGJWS21CWHN5M3RmZkcxY1dnWTBDNFNna0o1WDgyNnZvTlJOSDlwN1VyeDY1VHktNnVyU0E?oc=5",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-10-16T10:24:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO’s response"
+      }
+    },
+    {
+      "title_original": "Bulgaria seeks NATO anti-drone systems, says defence minister",
+      "title_zh": "Bulgaria seeks NATO anti-drone systems, says defence minister",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNlpaUjBiN1c0UTdzdG81OWVMSzlDY3o5cHBTanN4eVhuMUhVMnF3RVVGUVhmOEdoMUNyTmRGSHRGY2Y0OU9qeGZFVkNLeWxGaEZJSERoWTU5TkZoUFZSSmFnUWFmYlRyVzhtSWxPZ3hzYlFFNkhaQzZwajF6RGRtREdYZXl1MlJ4T3JCSVpBTXctajJBRHh3cXc4SWt0WGNWMFRrMkZsMnlVSUhlRDAtbTdCZDdLNWlWZHNBejZJTks?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-16T10:20:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Bulgaria seeks NATO anti-drone systems, says defence minister    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Bulgaria seeks NATO anti-drone systems, says defence minister"
+      }
+    },
+    {
+      "title_original": "Museum releases historical photos of island where Amelia Earhart may have crashed",
+      "title_zh": "Museum releases historical photos of island where Amelia Earhart may have crashed",
+      "url": "https://www.theguardian.com/us-news/2026/oct/16/amelia-earhart-new-zeland-museum-aerial-survey-photos-nikumaroro-island",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-16T10:09:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Images from New Zealand aerial survey of Nikumaroro in 1938 offer new clues over aviator’s disappearance A New Zealand museum has released nearly 50 photos from a 1938 aerial survey of the island where Amelia Earhart is believed to have crash-landed, offering amateur sleuths new evidence to scour for traces of the pioneering aviator and her plane.",
+        "The black-and-white images were published by the Air Force Museum of New Zealand after renewed interest in one of the biggest mysteries of the 20th century, spurred by a US expedition to the Pacific atoll of Nikumaroro in search of new clues.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Museum releases historical photos of island where Amelia Earhart may have crashed"
+      }
+    },
+    {
+      "title_original": "‘Opening the lid of a horrible secret’: Jamaicans confront enslavement with taboo-busting stories on screen",
+      "title_zh": "‘Opening the lid of a horrible secret’: Jamaicans confront enslavement with taboo-busting stories on screen",
+      "url": "https://www.theguardian.com/news/2026/oct/16/jamaicans-confront-enslavement-taboo-busting-stories-on-screen-possession",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-16T10:00:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "As violent spirits are unleashed in Sky’s Possession, observers see confident creatives reclaiming the island’s narratives in a form of ‘cultural reparation’ A woman opens a 300‑year‑old box, unleashing a violent spirit – it is the spirit of colonialism and oppression roaring back to life.",
+        "It is a pivotal scene in Sky’s supernatural series Possession and symbolises a wider shift in Jamaica’s film industry, where directors are increasingly using the landscape to tell Jamaican stories – including those that confront enslavement, trauma and historical memory.",
+        "The series is about a biracial British lawyer who travels to Jamaica to investigate a multimillion-pound inheritance dispute, only to uncover a dark, vengeful spirit tied to the plantation’s brutal colonial past."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘Opening the lid of a horrible secret’: Jamaicans confront enslavement with taboo-busting stories on screen"
+      }
+    },
+    {
+      "title_original": "The nation’s cartoonists on the week in politics",
+      "title_zh": "The nation’s cartoonists on the week in politics",
+      "url": "https://www.politico.com/gallery/2026/10/16/the-nations-cartoonists-on-the-week-in-politics-01121382",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-16T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.",
+        "The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.",
+        "Here's an offering of the best of this week's crop, picked fresh off the Toonosphere."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The nation’s cartoonists on the week in politics"
+      }
+    },
+    {
+      "title_original": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "title_zh": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-16T08:45:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "China tells Israel to stop 'forced establishment' of West Bank settlements\n- Published\nChinese Foreign Minister Wang Yi has told Israel to stop its \"forced establishment\" of settlements in the West Bank and reverse its actions, his office said.",
+        "The \"Palestinian question\" is \"the greatest historical injustice of this century\", Wang told Israeli President Isaac Herzog in a face-to-face meeting on the sidelines of a conference in Azerbaijan on Thursday.",
+        "Beijing has been a long-standing supporter of the Palestinian cause and has maintained that a \"two-state solution\" is the \"correct direction\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "China tells Israel to stop 'forced establishment' of West Bank settlements"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Für Trump ist Selenskyj das größte Hindernis auf dem Weg zum Frieden",
+      "title_zh": "Ukraine-Krieg: Für Trump ist Selenskyj das größte Hindernis auf dem Weg zum Frieden",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd3kwN3RrWXRoUE9JYkpPZHc0NDRodXNMMlMxZnRYemhyRzVjRHNSMUJvaFZna0phNnJlclNqUklGVm9GaG5UanR6bFp6ZHlFQTVyYWRFYlZLa2tVNzd1cGVRdzh4UXNqaFBCX0p0SzVHVG9ESzVIUmkzQ2ZsZ0FoRk83RTJ4VkE5WWdFSl9KTFdkZlFHTWdMNVRzUDRIZE9CMkZacFZjUlJfX2o5Rjd0OFlIeWJmRmRvRm1TeTdRSVJ6SWFUUmRUVFQtNDk1d9IBzgFBVV95cUxOVjJQLVVWUHBoUDJwRU94R1NwUUM4MmlkOXRTZUpSdkFHTU8xODN3VEo2R3VxRFZjU2NETDdQMkxWbHFUQ1RYdldUYVNHUXFPUjQwYnkwZXd2ZXYwNjQzTnlENk5rZDFUX2NLNnh6c0g2QUQ3Zk9rTzRQY2ZsSnRJVVNjMmdHWVBDSE9hcnUwVWtpa015SjVYNWJoT3p1TF8xV3B6Y0RaSUlVX0dHbzI5T1FlaERYUjhOa0NGSW15V21Ld0JVeW9UTFpTUTJmQQ?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-16T08:30:13+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Für Trump ist Selenskyj das größte Hindernis auf dem Weg zum Frieden    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Für Trump ist Selenskyj das größte Hindernis auf dem Weg zum Frieden"
+      }
+    },
+    {
+      "title_original": "Wie stark ist Putins Armee?: US-General: Nato wäre Russland \"im echten Krieg\" überlegen",
+      "title_zh": "Wie stark ist Putins Armee?: US-General: Nato wäre Russland \"im echten Krieg\" überlegen",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDByb1kwT3ZNc3NJNzNUaDEwakpKWFNNa0NGN2x0ZFpMNFN4R2NlWWV4cVJzM1RyYkg5MThHX3JWRFpSOUdDUFRUWElTLW45cU9XRTVwMWdtVkUxQzhKYktFZkI4UnljS3pfRmRCUEd2U1ZxdmRQb3JvTG5IU1NScWlwOHhDQ2xUVzhQNWh0WGRZTnluczhISDltNTJjdFpjaTVZ?oc=5",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-10-16T08:10:16+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Wie stark ist Putins Armee?: US-General: Nato wäre Russland \"im echten Krieg\" überlegen    n-tv.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Wie stark ist Putins Armee?: US-General: Nato wäre Russland \"im echten Krieg\" überlegen"
+      }
+    },
+    {
+      "title_original": "El petróleo vuelve a fluir a borbotones desde Oriente Medio y Commerzbank ya anticipa una caída del crudo de Brent de 20 dólares por barril",
+      "title_zh": "El petróleo vuelve a fluir a borbotones desde Oriente Medio y Commerzbank ya anticipa una caída del crudo de Brent de 20 dólares por barril",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPd25kUGlnYVl0UHhvYlVsZmR6QUVfOFk1VlZsbm9zYUFJRFVDV3lmS21mUnYtNjRZQVFnZzVXQ3lxVXQ5bVA4allCTHVEMEphZlNzNXVQTGFraVlaQjFPYXpXMlF6VUh2STBmTU5TN21vcnNaQk4xZXk4MTc2M3o5Ty0xQXF6b0NTYmI5Umk3ZThCQ1RSVFpIeTRfSUNCM1BPX1piejE1Qk9XMURvZzVHQTNVYzM2cDJfZksyU1VqbGhsYmY4dTVXOVozWkFtQURfLVV5cmE3eEpOOVNWMUwxNHN4RlZCRVNCSUhjNXo2S1JuelFia3ZiQjhFaTVnRTJUVnJNc19FTVJtc2tEaFZVakxLN21XQTU1ekN4bjlpLUkwOTF1N0x1SDdBRWRma1lRQTdvSDRNM1VTWUpHYnVJ0gGqAkFVX3lxTFBfMnZIX3BOOE9YeEplQ0dZcExwbXgtaTNFeDVkdGdrM0NfN0VBc2VIUDh3Mm5wV0x0YTBWRXo4SzMxV0IzWUtqOGo4WkdLRHNkQXBsOUtrWTdKNE1NVlFRVVNYV2xjckhiWk0yRV91M2x0MG5sWFFwQkpfUEllMDNFbmJTbVNxRDBBbWdZVUxZd2VtVDNPM2M0RnVmLTJ0QlFjYm9mRGFHX2g3Sy1jOEhFV3ZOTk9PU3ZYZlh4MWtMNEwzV04wcG9rODhCQi1jZ1IxUDZabUJDRnR0dUhIUmxFcDdqeUVJcUV5OEc5TmZRLWhaMWwxZkVWb3hCdUhJNE5DLW1rMXZydTNsdHlFWjUyeko0QVF1VEpJdHJzWDRNZXAxVFh1SDBfWmc?oc=5",
+      "source": "El Economista",
+      "source_score": 40,
+      "published_at": "2026-10-16T08:08:11+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El petróleo vuelve a fluir a borbotones desde Oriente Medio y Commerzbank ya anticipa una caída del crudo de Brent de 20 dólares por barril    El Economista",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "El Economista"
+      ],
+      "all_titles": {
+        "es": "El petróleo vuelve a fluir a borbotones desde Oriente Medio y Commerzbank ya anticipa una caída del crudo de Brent de 20 dólares por barril"
+      }
+    },
+    {
+      "title_original": "(S+) Ukraine-Krieg: Donald Trump und Wladimir Putin nehmen Kyjiw in die Zange",
+      "title_zh": "(S+) Ukraine-Krieg: Donald Trump und Wladimir Putin nehmen Kyjiw in die Zange",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZUFUWjB5LXkzSmlsODR2czFqNW9JSE5kcXY0Z0wwbDJhaGFBMGo0RDRBMnhyNnM1SmlzS3VmT1lOenR2NnotQnlZa19UQUhma1hSVklmTU1FSy1NdllxOEdUdzJDa25lakVmZ2xDQTVKa05OU01uSTUwLW9TdndtRnRfc3NpcDBsdFlwRXk0Q2t1TGZRWlQ4MjVYTVEzMVotMWtZVWpSNmRxWXR0azJNMkozRjlPekI3QUwxSnk2MXBENHRWeDVrTzFYSllaczkyeTVDMUVCQmR4akRlYVVDM0RlVQ?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-16T08:04:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "(S+) Ukraine-Krieg: Donald Trump und Wladimir Putin nehmen Kyjiw in die Zange    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "(S+) Ukraine-Krieg: Donald Trump und Wladimir Putin nehmen Kyjiw in die Zange"
+      }
+    },
+    {
+      "title_original": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands",
+      "title_zh": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-16T07:00:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Mines in supply chains of western carmakers linked to widespread deforestation of primary rainforest in nickel-rich lands inhabited by Tolaki people in Indonesia Volkswagen, Ford and Tesla are among the electric carmakers whose batteries may contain nickel mined in indigenous woodlands plagued by deforestation, an analysis has found, highlighting the struggle to make vehicles that are free from environmental destruction.",
+        "Corporate disclosures and trade flows from the last two years show mines in the battery supply chains of automotive giants are linked to the loss of trees in Sulawesi, a wildlife hotspot in Indonesia that houses the world’s largest nickel deposits.",
+        "The metal is widely used in cathodes in car batteries because it boosts energy density and increases range."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands"
+      }
+    },
+    {
+      "title_original": "الصورة: جسر قيد الإنشاء يربط البر الرئيسي الصيني ومنطقة تايوان الصينية",
+      "title_zh": "الصورة: جسر قيد الإنشاء يربط البر الرئيسي الصيني ومنطقة تايوان الصينية",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VdnhXcHhQTEc0R3d5SVozZmVyTW5uRFRBNHltSk80VXlpNzh6b0prczduR1NtZWRQMmwzVFQ1cGY2clF2dmNNdnRaVlVwRGZMTF9uU2Q3elJKbUpmY1BsUlVGQVlKdWZpazdPd19HYjdkWnRwUFJmNHZ3?oc=5",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-10-16T06:47:30+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "الصورة: جسر قيد الإنشاء يربط البر الرئيسي الصيني ومنطقة تايوان الصينية    新华网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "ar": "الصورة: جسر قيد الإنشاء يربط البر الرئيسي الصيني ومنطقة تايوان الصينية"
+      }
+    },
+    {
+      "title_original": "ウクライナ、パトリオットミサイル枯渇と米報道 「ほぼ迎撃できず」",
+      "title_zh": "ウクライナ、パトリオットミサイル枯渇と米報道 「ほぼ迎撃できず」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUOXVqX3Uwd0NVMUlMYW1WZWM5OThMaVB6SVZqYVdIZjJRMXVuUDZLSzdoek9ENU9DLVA1cDgyZkZsYy02LVlJa1JmWFZvc0tnczlYaHZrZzhWcnhpT2VEb3ExY3kxNHVoelRtRA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-16T06:37:38+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ、パトリオットミサイル枯渇と米報道 「ほぼ迎撃できず」    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、パトリオットミサイル枯渇と米報道 「ほぼ迎撃できず」"
+      }
+    },
+    {
+      "title_original": "台湾海峡をめぐる安全保障課題を題材としたテーブルトップ演習（TTX）を実施",
+      "title_zh": "台湾海峡をめぐる安全保障課題を題材としたテーブルトップ演習（TTX）を実施",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ONEpkaHhJWm1FOUlSMm9xT2tzOWV6RDAwUFdwWTJPdk9jNUtQdVl6aU9UdllJNTJ2NERZTHl0LTVpdXc2MFVUdVV4ei1xci1JLVhlOTY1WXlRMUU?oc=5",
+      "source": "笹川平和財団",
+      "source_score": 40,
+      "published_at": "2026-10-16T06:02:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台湾海峡をめぐる安全保障課題を題材としたテーブルトップ演習（TTX）を実施    笹川平和財団",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "笹川平和財団"
+      ],
+      "all_titles": {
+        "ja": "台湾海峡をめぐる安全保障課題を題材としたテーブルトップ演習（TTX）を実施"
+      }
+    },
+    {
+      "title_original": "كوريا الجنوبية تدرس تمديد عمليات وحدتها البحرية في الشرق الأوسط وسط ضغوط ترامب",
+      "title_zh": "كوريا الجنوبية تدرس تمديد عمليات وحدتها البحرية في الشرق الأوسط وسط ضغوط ترامب",
+      "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxQOGxmTTloazlIdUY2ck1VaTZqRkstZ1cyanVTMXZ3LVpOdFhIUFNBb1E2NDNTZF9GakdaNjMtYS14ZnA2Z2xSUzAxNjJxU2tCV2hyZ0ptbDhQV2M2dEgwSUZaam9vZlk3R3V4V1ZQcXFLUUtodDdPSmRtMlA0WmhCVkJVamdBVld1Z1l3Ml9SUVNteUIzeko4aENpdzI0S0l2QmI5X2p3ZHVBRU1zeDltVnZRQm1LamYxR1FGSkM0M3Zkc1JiTTNjUXVfbzZzNk10QTNrR2lxQ09hcGZlZE9jdUdCeUdrcjEwdzgxT2plR29FYmczSzc4LWFZZEM1cUxzend3Uk5QV1A3c3pEdzh4WFdKM3Npa01qTDNuUUxQWG9jbVpldkZmcWtsWDJfdjRZZlI3TTJ1dlBYVWM1SzQtX0ZKZ05HeHZ6NkVFVEFWYXJDakFZeXNoLTdLOFY3TFR3S1BUY1BJckhIMUZVcjZhclhGQTM4V1Z5ZmlLTGxHREtWdHZtWEhjMzZnVUFNRG9NOVo1dXFhcV9qcDB0R2dvbDgzUnEzN3BielNsX1JaNlBxMmRWaThVbGtWaFozUDhWTG1jbHlJbHRSSktaUFd4dGdralozQWRYT1AwblB5Ukg0R0dJWFEtT3pwaGg4Nm9TRVhTMmFlUWV1QWlJZ0NJbzQtcFFiTmhhN3RqYmZFQXpMVkhaN1JoMzJRdmJnSUEzYVpVSExpX1AwdEJVdHc3RWJicjVDMjd2Y2g3cGxiLUFac1FMR0czemhSTFBSYXRGVmZzLV81SmNlRFBFWW9sdi1UVXdBQjBjNmJ1MWtodnphUDI4cVBIQjR1Y05BUQ?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-16T05:45:27+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "كوريا الجنوبية تدرس تمديد عمليات وحدتها البحرية في الشرق الأوسط وسط ضغوط ترامب    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "كوريا الجنوبية تدرس تمديد عمليات وحدتها البحرية في الشرق الأوسط وسط ضغوط ترامب"
+      }
+    },
+    {
+      "title_original": "地政学的変化・戦争が世界貿易ルートに持続的影響＝ＷＴＯ事務局長",
+      "title_zh": "地政学的変化・戦争が世界貿易ルートに持続的影響＝ＷＴＯ事務局長",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFRjRVYnBhRzNDc01YR3UxY1RkV3NkdGV1U2RSQTF3QkcwR0UxcXRNOG5vTFFoR01xTzFUT3Z4X0lPLVFRbzdqRkR1VmRGR1dLWFhqX0xrXzlhV3RhUk5HWnRNek1ZclphQlRLLS1hU0h2a0NGTEFwTjl0RFhqN3M?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-16T05:31:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "地政学的変化・戦争が世界貿易ルートに持続的影響＝ＷＴＯ事務局長    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "地政学的変化・戦争が世界貿易ルートに持続的影響＝ＷＴＯ事務局長"
+      }
+    },
+    {
+      "title_original": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "title_zh": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-16T05:00:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Ship attack reports near Hormuz reach record high as oil exports slow\n- Published\nThe number of ships that have reported being attacked in and around the Strait of Hormuz has hit a record high, BBC Verify analysis of data from a UK maritime agency shows.",
+        "Twelve vessels were attacked between 5 and 11 October - the largest number of weekly strikes reported to the UK's Maritime Trade Operations (UKMTO) agency since the US-Israeli war with Iran began.",
+        "The previous week saw 10 ships reporting attacks."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ship attack reports near Hormuz reach record high as oil exports slow"
+      }
+    },
+    {
+      "title_original": "ロシア、ウクライナが石油精製所を攻撃と非難　ゼレンスキー氏は「攻撃再開」と発言",
+      "title_zh": "ロシア、ウクライナが石油精製所を攻撃と非難　ゼレンスキー氏は「攻撃再開」と発言",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pcUo1Tmt0TFVULUV3U29DMHBCMW4tZmlFM2pEUXY2SWx2cHlJb3I2dW5Rd0tSMTlpOTN0NHJlYWNNUmpEZ3FfbE5RUDNGLV82VVRoWVA3UlZ3dlp1YUI1Z9IBZkFVX3lxTE13QjZuRzRTM3ZnS3FvcENHM3dycFNseWJmTEdaTHJxVU44NnVuZ2p2M3NfMEF6XzZtaEFPcEZUcmhpVUNUOVhYX3U2Q0hzOHA5UFFvUVZMVGpFbXE5OFFqOU1GdHc4QQ?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-10-16T04:47:34+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア、ウクライナが石油精製所を攻撃と非難 ゼレンスキー氏は「攻撃再開」と発言    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナが石油精製所を攻撃と非難　ゼレンスキー氏は「攻撃再開」と発言"
+      }
+    },
+    {
+      "title_original": "تقرير: كوريا الجنوبية تدرس توسيع مهمتها العسكرية في الشرق الأوسط",
+      "title_zh": "تقرير: كوريا الجنوبية تدرس توسيع مهمتها العسكرية في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4OHVXR3pqQ0s5MDNCcUppWndvZlFqTzNZNkFSUjBwWF9rMjFwOEZCM0lBUnZrZFFhSjRabHpXWGYzdDhPZnItWDlXcmp6TlVyTzBZcVkxb3VvRm9Sa0F4YXl6cWFXb0oxYmE5RGdxV3BZTFk4RXpiYkszdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-16T04:38:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تقرير: كوريا الجنوبية تدرس توسيع مهمتها العسكرية في الشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "تقرير: كوريا الجنوبية تدرس توسيع مهمتها العسكرية في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "مديرة منظمة التجارة العالمية: حروب أوكرانيا والشرق الأوسط تعيد رسم مستقبل التجارة",
+      "title_zh": "مديرة منظمة التجارة العالمية: حروب أوكرانيا والشرق الأوسط تعيد رسم مستقبل التجارة",
+      "url": "https://news.google.com/rss/articles/CBMiwAZBVV95cUxQVjFYbTlwTl9rWHNVMGg3MnFTUXRRX0NQZS1MTFN0YVJTOHc3TU1OQWdCYndQM0E0S1gzSHk4ZF92eDdtbkdONklwcFRPTHFiN1FXZ2NQSEZrMTdIbUM3VnNIaGdqY0cyXzV6ZEdCYUdQcFh2M1Z1d0lxdFY0SVdiWC12dG1yQmdXSkVfcVQyWF9YenNyT1JpZ1UyMENjOG83WlBLbTBGektTeENnLVNNeWdWdnlJTUptdGg1RG9iNVlXWWZ6bGtHb2p1Ukp1WXdkdV9BbXNYZ3BXU0NHUGlyQi1XbGEzUllSZmhCdDItZFpSbllDNWJPellkc2JTOEE4OTlyQUo3cDh1SGVOcGIyX1Z3aVd3YVYyWjhsbDVvQmJ4dF90cGNFTG5feldLU0llNHZnVnVkbWpVZ1NFUDhEb3NEMFdvVDllcTdMOEtBTDRoU0xIYWU0ZGFTaDdzTUNxXzZUbDgyU0RZWUhPcUVpaGxOYzdNTVhjUTFnblltOHZKdTBnQkhuSHFfSVB3TFc4UVNxNnE2MDRQT3ozRWtvaUx4eUJlQzJueFpXTzIyZWhINzY3MUFnc0JCTkQ1QzdlWGlEaWZJTXRja25IT2tyNzA1YThKUlgzWVBLRTFmb3JILTc5em1ncTJvUUQwVU03UkpJUHhYWkZDRFpBNHR1VVIzN1VnTVdrczNMUFJ1MmJlYjhQbTYxcDB6cmdIbmdxNmdUM3JtU3d6OXd3YVJnZFNmY2E1Zi0xN0c1allsNmdJZ2YtWnBoRVpuMS13Y0R5bmJkcVRfWmVjWVpKdHJ2YnF0Sk1QSExVeUdDQXJCU25WNkQ0Mm40NlNURFFXaTRYWm5IWVdhN2JUcWlUUGlBM0pkbzNlZ0FQYnNHYVdaUk43Vkdoazc5Vkx2M1JQSzAtdnNERV9xbkNfcVNaYW5yZnFwbEVRZllIbURPUHEtTEppZFNJRXZ4c19icUFheTQ1WGo4TG9jb3NpM0o3bmQ1YXRXOUxzdmc0ai1PTzJicElqMWtocFJKQzR4SjEteHJBa1NUdVFNdkEwdDFKT1BfeEJnbjllNWJUZnZLa0k1dFRLSUt6ei14a0tTaUNHNXZQ?oc=5",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-10-16T04:10:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "مديرة منظمة التجارة العالمية: حروب أوكرانيا والشرق الأوسط تعيد رسم مستقبل التجارة    صحيفة الخليج",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "مديرة منظمة التجارة العالمية: حروب أوكرانيا والشرق الأوسط تعيد رسم مستقبل التجارة"
+      }
+    },
+    {
+      "title_original": "NATO Has a Plan to Fend Off Russia. Now It Needs the Will",
+      "title_zh": "NATO Has a Plan to Fend Off Russia. Now It Needs the Will",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS3lmakxWQlY5UTQ0X0E4b2hmeER5MTA0Y29wNzhTSnVqTmx1MUhkWlUzb0FWRzVmNC16OE12UHBqTnFLbmdPYlZiYjRzb3VacjVyVDBNSDNpa3BzUUhnZ2o1aW5xSzRRYUZZRXVtaEZiejJwaEg4ZlpLcjh2YVJNd29iaV9DSzRSek9iZDg2elRTS0xRdlBPMEdR?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-10-16T04:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "NATO Has a Plan to Fend Off Russia.",
+        "Now It Needs the Will    Bloomberg.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "NATO Has a Plan to Fend Off Russia. Now It Needs the Will"
+      }
+    },
+    {
+      "title_original": "Inside the democratic socialists’ plan to shake up Congress",
+      "title_zh": "Inside the democratic socialists’ plan to shake up Congress",
+      "url": "https://www.politico.com/video/2026/10/15/inside-the-democratic-socialists-plan-to-shake-up-congress-2201513",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-15T23:59:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Inside the democratic socialists’ plan to shake up Congress",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Inside the democratic socialists’ plan to shake up Congress"
+      }
+    },
     {
       "title_original": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
       "title_zh": "Trump’s Deal With Russia Inflames Ukraine War He Vowed to End",
