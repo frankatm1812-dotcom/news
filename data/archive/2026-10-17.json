@@ -1,8 +1,833 @@
 {
   "date": "2026-10-17",
-  "generated_at": "2026-10-17T01:17:01.536997+00:00",
-  "count": 35,
+  "generated_at": "2026-10-17T14:12:48.982712+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title_original": "Trump is hitting the campaign trail. But he's missing from GOP ads.",
+      "title_zh": "Trump is hitting the campaign trail. But he's missing from GOP ads.",
+      "url": "https://www.politico.com/news/2026/10/17/trump-candidates-ads-midterms-01124957",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-17T10:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Republican candidates are avoiding talking about Trump on the airwaves, even in deep-red districts where they used to feature him.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Trump is hitting the campaign trail. But he's missing from GOP ads."
+      }
+    },
+    {
+      "title_original": "Pope discharged from hospital days after lung cancer surgery",
+      "title_zh": "Pope discharged from hospital days after lung cancer surgery",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-17T13:51:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Pope discharged from hospital days after lung cancer surgery\n- Published\nPope Leo XIV has been discharged from Rome's Gemelli Hospital, just four days after an operation to remove a cancerous growth from his lung.",
+        "The 71-year-old walked unaided to his waiting car, stopping to speak to well-wishers.",
+        "The Vatican said the Pope will give the traditional Angelus prayer and blessing to a crowd in St Peter's Square on Sunday, as he did last week when he surprised the world by announcing the surgery."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Pope discharged from hospital days after lung cancer surgery"
+      }
+    },
+    {
+      "title_original": "Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones",
+      "title_zh": "Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMzdCaWc5d25UdDVvZ1p3SGZjcUtfT2RQZlNOTUY2SDRlNmJ0bURWZlNBaWljSzllLVpkcjNudEhQeUJjYnR6ZG54Nk1BWktQYXc0S1pPd3RNeWZSUzdydFRaUkJKcl85U1p6R0RLeURVX3pVaEQzTGYzMTFxdXRBdjFZZmVjeFRiV3JtM1VKWTkxWjQ5OEI4NWI3cnlNQ0ZzUlFhbmdTblVDdlh0MkhQTFV6M3BJNmgxYnlzLVU3NDNWQXplTUItb0toMTNYb2U30gHWAUFVX3lxTE9VQnJZUlBDS05aa0ljZjJLRlRSS2xYSTJWajhCRWlDSDFwYkFRa3BPb1RNbXVWNTFOVkJ4NUIwR3VDTEM1OGJ6c29odFozWkFKOFNhQlVJdGJDV29oTXg4cHAxd25EWk1rQ0lrTHNyQmRtQ0k3TGVrVl9Ual9GdUt0UEhXTm5mc3FaaThSYjVUVXdmc3laYklGM1Q5Ti1WWWxWRUJXMDFCTGVyUjJHMXZjakFlRlBtQmhtT2RNRkZ1WHhhMWg0aW5jMjJpQ2o2WW53Y3g3aGc?oc=5",
+      "source": "ABC7 Chicago",
+      "source_score": 40,
+      "published_at": "2026-10-17T13:09:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones    ABC7 Chicago",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "ABC7 Chicago"
+      ],
+      "all_titles": {
+        "en": "Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones"
+      }
+    },
+    {
+      "title_original": "トランプ氏、ウクライナのスターリンクへのアクセスは制限していないと主張",
+      "title_zh": "トランプ氏、ウクライナのスターリンクへのアクセスは制限していないと主張",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XelJKUlE1TWU5d0xlS2NicEpJTF9OR0xZUkFDdGp0bHVJMDNYMEV6bWszU3RfMnBYMDFMQ09FUWQxWm1wV3F6OFI3RlZXZ3dQZTRQU3NodkZrYjl5?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-10-17T12:56:15+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "トランプ氏、ウクライナのスターリンクへのアクセスは制限していないと主張    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、ウクライナのスターリンクへのアクセスは制限していないと主張"
+      }
+    },
+    {
+      "title_original": "Öcalan: El futuro de Oriente Medio no está en nuevas guerras, sino en sociedades democráticas",
+      "title_zh": "Öcalan: El futuro de Oriente Medio no está en nuevas guerras, sino en sociedades democráticas",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNblBZQXA3M3dPX0hpUTN6aHVLVlludDBvbmZhVjB5Zk54M0VpRHlOYkpTTHVnWmJXb2lOU0tjMnRWanJxd2tFUnQyajE4LVdBRzF1dlVEcnVSV00yU1Y2U0hvelZVbmd2dU9QTkY5YTFtU2ZpZEROSU03LXI4bzlIRVpVY1Q0YTI1WnBLNml0MGJjTy1iMTBWQVFXVndiZGlibUd5WlRQWWc1MVd0eTZrNm90WE1aWnAyV1VIS0thR1Zja3diUTg2VDJCeDZnWVdjekE?oc=5",
+      "source": "ANF | Articles",
+      "source_score": 55,
+      "published_at": "2026-10-17T12:50:24+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Öcalan: El futuro de Oriente Medio no está en nuevas guerras, sino en sociedades democráticas    ANF | Articles",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "ANF | Articles"
+      ],
+      "all_titles": {
+        "es": "Öcalan: El futuro de Oriente Medio no está en nuevas guerras, sino en sociedades democráticas"
+      }
+    },
+    {
+      "title_original": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "title_zh": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-17T12:11:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Nursery owner in China jailed for life after hundreds of children poisoned\n- Published\nA nursery owner and five members of her staff have been jailed after they were found to have poisoned more than 200 children with lead-tainted food.",
+        "Li Huifang, who operated the Heshi Peixin Kindergarten in Tianshui, in the Gansu province, was sentenced to life in prison for producing and selling toxic and harmful food, according to Chinese state media.",
+        "In July 2025, 247 pupils and staff at the nursery were found to have abnormally high blood lead levels after children began falling ill."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nursery owner in China jailed for life after hundreds of children poisoned"
+      }
+    },
+    {
+      "title_original": "El Govern abonará más de 140.000 euros de ayudas a taxistas y VTC por los efectos de la Guerra de Irán y Oriente Medio",
+      "title_zh": "El Govern abonará más de 140.000 euros de ayudas a taxistas y VTC por los efectos de la Guerra de Irán y Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX080U0hfaklWNXJGdFFEU3FiUU9tOGxqYWdjS1RhVlk0LXhMTjdyaEtmaUFLdVNuaF9YNm9fX1JqU2o2RmMyTHRVYXJMU0RDaUpXZXFiMXBvZDZYci0xbkNNc01hWXM4QjJtSXZ1cjV1Vm1ZbEtleWhIQ2N1THV2bGdvVV9OOFdYN1ZPSHhXZnRyNHNtaG1sQ0NySGJJVEZ5VzA5cUtHVXhrUElHeThPR2ltcktoSmNGdjBPbXAwVGoyNG5TcS1hYzRTeXRIZzVTVHd3U2IyV3NXZlFTbU96Q2lwYUIxdG44SjlkY3NpdlljV0t5OXNZM1l1NnR6Rk5lWTB6dg?oc=5",
+      "source": "Forbes España",
+      "source_score": 55,
+      "published_at": "2026-10-17T12:02:53+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El Govern abonará más de 140.000 euros de ayudas a taxistas y VTC por los efectos de la Guerra de Irán y Oriente Medio    Forbes España",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Forbes España"
+      ],
+      "all_titles": {
+        "es": "El Govern abonará más de 140.000 euros de ayudas a taxistas y VTC por los efectos de la Guerra de Irán y Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "title_zh": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-17T11:56:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump waives several Russia sanctions as row with Zelensky intensifies\n- Published\nDonald Trump has blocked numerous sanctions on Russia two days before they were due to take effect, as a row with his Ukrainian counterpart Volodymyr Zelensky deepens.",
+        "The sanctions were passed by the US Congress and signed into law by Trump in September.",
+        "But the US president issued an executive order on Friday night saying that suspending some was in the US \"national interest\", prompting a backlash from US lawmakers."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump waives several Russia sanctions as row with Zelensky intensifies"
+      }
+    },
+    {
+      "title_original": "Kansas Republicans fear Roger Marshall may be running out of time",
+      "title_zh": "Kansas Republicans fear Roger Marshall may be running out of time",
+      "url": "https://www.politico.com/news/2026/10/17/kansas-senate-roger-marshall-struggles-01122060",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-17T07:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The newest addition to the Senate map is giving Republicans headaches.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Kansas Republicans fear Roger Marshall may be running out of time"
+      }
+    },
+    {
+      "title_original": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "title_zh": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "url": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-17T10:46:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Rare pink diamond goes on display in France 100 years after amateur heist\n- Published\nA rare pink diamond is going on display in France for the first time since it was stolen almost 100 years ago to the day - the last time it was shown to the public.",
+        "The nine-carat, pear-shaped gemstone known as the \"Grand Condé\" was pilfered in an overnight raid on the Château de Chantilly in October 1926 and concealed in a hollowed-out apple.",
+        "The diamond - one of few royal jewels to survive the French Revolution - was recovered a few weeks later when a hungry maid at the hotel in which the thieves were staying took a bite of the apple."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Rare pink diamond goes on display in France 100 years after amateur heist"
+      }
+    },
+    {
+      "title_original": "القائد آبو: مستقبل الشرق الأوسط يكمن في بناء المجتمع الديمقراطي",
+      "title_zh": "القائد آبو: مستقبل الشرق الأوسط يكمن في بناء المجتمع الديمقراطي",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWVgxNXJ6LXFlUkJwU3Y4eU82MUtZZHNkeXVWdDhUNzh1ODV4bXg1ZmJvNDBUZGhIYjRKeUpqYVZWa29ZaVJUb29FM3JmVEtxVjFXMWJZRzYyN3BkR1JWZVNMOWNUelRjczhuN2FsRDBmX2d4UkJlandaOUhmNG5uaFF3cWFXR1pMTjFYY1BjbGg5X2FrUThlT3pTNlFhOXlxWS1YQ0JQZFhmb2w5?oc=5",
+      "source": "ANF | Articles",
+      "source_score": 55,
+      "published_at": "2026-10-17T10:12:11+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "القائد آبو: مستقبل الشرق الأوسط يكمن في بناء المجتمع الديمقراطي    ANF | Articles",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "ANF | Articles"
+      ],
+      "all_titles": {
+        "ar": "القائد آبو: مستقبل الشرق الأوسط يكمن في بناء المجتمع الديمقراطي"
+      }
+    },
+    {
+      "title_original": "El coronel Moliterni analiza con el Rotary Club la situación geopolítica",
+      "title_zh": "El coronel Moliterni analiza con el Rotary Club la situación geopolítica",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORWdsUEpId0VGOU1oa0pLLVdtNDRxZUpsTXBnWFczakNQSS1YRVplYk0zRFV2a3hZSS1oUkhhY0plSk1ybmVJdEljeU5leDZlc1lVTjlhQnljZ3liUDdoblgwaG5KdERnMnEyS0lIc0JpRnQ1aW4xbGR1THNzX3gtcjVTWUZ6ZFJZeUZKSU5CLW5qTjVqVkM4b0RCTFJUOURoYWZWRHFESzVKcU53cXkwODR3X1RKMHdvSVIyV3hfRUJqeWZCbl9WYmpxWFRlaFBnU241X0Ytcjd4Yjdkc1JSUXBCNDI?oc=5",
+      "source": "La Tribuna de Ciudad Real",
+      "source_score": 40,
+      "published_at": "2026-10-17T10:01:13+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El coronel Moliterni analiza con el Rotary Club la situación geopolítica    La Tribuna de Ciudad Real",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "La Tribuna de Ciudad Real"
+      ],
+      "all_titles": {
+        "es": "El coronel Moliterni analiza con el Rotary Club la situación geopolítica"
+      }
+    },
+    {
+      "title_original": "الصين دولة كبرى مسؤولة تساهم في بناء السلام في الشرق الأوسط",
+      "title_zh": "الصين دولة كبرى مسؤولة تساهم في بناء السلام في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNZ0dDbThRajJ6MUEyTENDLVRTVTF0Y2FjNU0zS3JXS1VUYmk3YjdCWmlLR0FFWFRXeFV4dUhrcG1BM3dYQXJ0eHltZmt6WHgyRkY0VWVzREZpTWNIcTNaM1F2LVppNEZnNzdiUHFXLTVsT0FsZFBLWXlSSnVUTjJJZmx0MXpqc2FLbnNpTFJHRFphdTdDV1o1MmxoWnNhdURQTzU0cHVfY21CUnhaZ0RRS0NEaHoyMEtfdzlVVmpPYm51Nkwza3lfeERGVVdaTWxSaU9KUVZvRmtFdUctNFo0elpzOHBENExLMlFGdUlzWE5iMm1kNUhXMVhFQW11MmE2YVFibHoxRG02WEVkWUxoaEtaUXlsalZYaU04SF95NHN2azF0LWlOcjdCaHNNT0ptX1lvWTNWZU05TVg4RDBOSE95TW1LeURkSDUtN3BjdTU5WVRoSnctRXlZNHJ6c0dkVVNqNHNZeDhBOW9jYWQweW1KeHNVbnJsN0I2X2RSbWdiVW5fd1JXQmw1WFQxOWlHZmdkVk1OR1ZDWUJZU0tzMThYYndYUkhQeEZEMGoyS2FQTDN2R3dMbnlGdWVKMDVnZmsyUGRNM2tpV3dzVHZMRGdWSjBuZkNJbTFIUkZ6bnR4eFQ1d25RWTBNZUkyRUnSAfQDQVVfeXFMTXdSQlJPWlpRaTItc1hTQWs4b0RwWmV6QlhaZzJfZ2xVcnpfYXBBejEwd2U4eGZ2NC0xZkhOY1JZZVphSFd0Vkg1Zk9CMGp4OTVyLWpJbVFQQ0EyaGhsRHZYbXZJcUZYT1JpVG1Xd1NubW1mZkJMWUoxS3g0QUllQlJMWXFLTzZ3V3l4elhqR19CaWtzSlJzamRGVVRxdDNtajgxbXV4MTZwWjNGVk5ONTROaXRkTWdRc0JTd2N1bFlQODlDQzBmTDVTQ2lremFNQ0ZneWVSWjJoZklnZkVCQk9hLU5jc1FncWxMLUhvOThNS3FGY2hKd0ZXeEhFb1FWM3FIY2RTaWVRemF3LXkyTXQ2dEVuT3hSS1BrQkg1RmpQNDhhb1RuR2dOTFZXT19wUEJTSFNOTTBLeGRQQ0lkc2RSbkZKeEJSX1Z5Ny1Vc0J3c1NMOVktR2Jiem9yYWxCazJEakZNWjZmc2ktRXNndE5Ca2ZTQVZPTmd2ZGxLeFVzWkIzZktpeHc1Y2QzT2xkMU1UN0J0Y1Z0Y1ZTTnVsNkVkS2R0RnFDYlhUc01rYXllX1JVbWE3S1FSaUViY1UwamRPMjlPaW1hM2p5ejFjT2lpU0lPc3FSZXE1cVlRbzVYMm9xYy1DSG9tdkYzVUZtZDF5dXU?oc=5",
+      "source": "العربية",
+      "source_score": 40,
+      "published_at": "2026-10-17T09:03:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الصين دولة كبرى مسؤولة تساهم في بناء السلام في الشرق الأوسط    العربية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "العربية"
+      ],
+      "all_titles": {
+        "ar": "الصين دولة كبرى مسؤولة تساهم في بناء السلام في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "ترامب يتهكم على شيوع اسم \"محمد\" في الشرق الأوسط ويثير الجدل بتصريحاته عن إيران",
+      "title_zh": "ترامب يتهكم على شيوع اسم \"محمد\" في الشرق الأوسط ويثير الجدل بتصريحاته عن إيران",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemNJM0VEZjRrTWRhVElQWl83aWxqekVKOTViTk9HcHFiNzJ3VDFmUHZnVFJrTFlqNm5sbjM3RHhCNTFQZGdkTGZLWFV4QzJnNTNoU3h6UTdSUldfMVVScVp5VFZaM25rQmkxWnBnLUR6VFJmdzJoV2Znb3M4bVlDamZ6ak8?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-17T09:00:24+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ترامب يتهكم على شيوع اسم \"محمد\" في الشرق الأوسط ويثير الجدل بتصريحاته عن إيران    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "ترامب يتهكم على شيوع اسم \"محمد\" في الشرق الأوسط ويثير الجدل بتصريحاته عن إيران"
+      }
+    },
+    {
+      "title_original": "Trump zur Starshield-Drosselung in der Ukraine: „Das habe ich nicht getan“",
+      "title_zh": "Trump zur Starshield-Drosselung in der Ukraine: „Das habe ich nicht getan“",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0c2a252MklQRklreTdVY0pRa0d5dkZKX3BGNVhQNFBLXzFkVEU4UDYxZ3d5enpOeEgtYUxYbEozUndBXzNfV01RUXJJRTlFVEZ2OFM2cTc2TGtmcHI4aEtXQnJ1NllWYzcwWkpocWxsVmd1QWlZbzdlQ1JuM2xSOFlWYjcycXpVLTJGWEJjaW41c041Ukszci1QdVVrcFd3dFBFLXVuZ9IBpwFBVV95cUxNbnAxc0lUUFhsRmdkWnk5d3pfTEdFN1JiaUN4bTRDeWhIODBsa3MzR2NaRXpiMHUwejVyNGsyUGpqeDRRazRTVTR1WW84dlBGa2dJUjBuRG9VRTJ0YmtobDFpQnVqTWE1VERtc2oxY3d5Y2FPS2RVd2k3VzR5R213QnFodmxmRGJiSC1jNDF0Z21JQmg2bE1wRFJKbHI1Zm5lYksxTUprcw?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-17T08:51:37+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Trump zur Starshield-Drosselung in der Ukraine: „Das habe ich nicht getan“    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Trump zur Starshield-Drosselung in der Ukraine: „Das habe ich nicht getan“"
+      }
+    },
+    {
+      "title_original": "刚刚，胡塞武装发起全面进攻，中东局势即将发生根本性变化！",
+      "title_zh": "刚刚，胡塞武装发起全面进攻，中东局势即将发生根本性变化！",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jZjhIcWhwUl94djJLZFdGcU5peHB4bVhrOENGaGVxcHI0aGI4RWdjRzE3ZnFVcXJjaVc4M29FMzA5ZF9BNzZ2UzM4MThTYzd2U2RZNmFoN05TZ0E?oc=5",
+      "source": "风闻",
+      "source_score": 40,
+      "published_at": "2026-10-17T08:02:26+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "刚刚，胡塞武装发起全面进攻，中东局势即将发生根本性变化！",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "风闻"
+      ],
+      "all_titles": {
+        "zh": "刚刚，胡塞武装发起全面进攻，中东局势即将发生根本性变化！"
+      }
+    },
+    {
+      "title_original": "La Bulgarie réclame un renforcement de la présence militaire de l’OTAN face aux menaces croissantes en mer Noire",
+      "title_zh": "La Bulgarie réclame un renforcement de la présence militaire de l’OTAN face aux menaces croissantes en mer Noire",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa3hINHpqSDBGNkxfMG9ncDVDZWpkNmdjOTZ6eG9oU3MxeGhVUE40Z2JRZjBhaXRVSE5nNGs4dEt0dFJYMnhOdmRfbVpUSXZvMnZsQmYzbWFLbWQtSWhXR0pibUVqNGg3WjJxaTdtWjlMSkQ3VkdzWXg0dW1GaDRLb3M3NTdUQl8waWNGUGlhUnRwbElfMnVZc2I4b1JNVVdmY1dLanlVU080ejRYTS05ekUwWFh2QXZlZGVZY2tMX0NtTUdpSDhfcUtVS1JsS05BWjdmdnh1MUxXQ005SUJFTEQyaTZRaXJJZDd2LWE2RkIzNndFa3ZtMA?oc=5",
+      "source": "Anadolu Ajansı",
+      "source_score": 40,
+      "published_at": "2026-10-17T07:48:58+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La Bulgarie réclame un renforcement de la présence militaire de l’OTAN face aux menaces croissantes en mer Noire    Anadolu Ajansı",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Anadolu Ajansı"
+      ],
+      "all_titles": {
+        "fr": "La Bulgarie réclame un renforcement de la présence militaire de l’OTAN face aux menaces croissantes en mer Noire"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Selenskyj fordert 70 Milliarden Euro von der EU für Verteidigung und Waffen",
+      "title_zh": "Ukraine-Krieg: Selenskyj fordert 70 Milliarden Euro von der EU für Verteidigung und Waffen",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVjd5RWJOUzNVNjFaQkxOc0xBS08tZGpwNXhDdDB4U1RldUVPNk1xdmdVN084ZzcxbF9IV2xHdlBFRTRtd0lIcm5CaEE4MlZHUWNxQVo4NkpLSVh5SnpJUHdoS2RxTmtsN0ZEUGt5WXpFYklRenI4T01NOWZmMHFvMjZGanVPQ0lPajcyal9kbl81cmIzdUZjck9vXzJBWTdTRmFiVEMxOEJBY0N0cEVJelZHaDJTY1NKLWlhUTI5Y2FvbzByS1k4bnhiZlXSAcwBQVVfeXFMUE9oVVpkLUI4QWxMSDcxY3FaVTQ3TTdWczdOcE1nMkl4ek1PSFRKZURIZFQxVWh1YmNjZk03d1cxM1R5djBEZ3pHNTZhbVFfNTNLVzB6b2dwSS0zWjRHVFhhX05oSFBiVTdkeVJWYVlfbkxFdFlHcDQ4a3JOV2dHY2QyR1VIV1RDME5lTnl5dXIya2JmWklhSldpNFBjWXVJMjJWaFR3Nklkb0F1QnlTWDF3UnR3QlJfR05BR25nRnhmMUo2ZGdmc3VMVENr?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-17T07:23:52+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: Selenskyj fordert 70 Milliarden Euro von der EU für Verteidigung und Waffen    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Selenskyj fordert 70 Milliarden Euro von der EU für Verteidigung und Waffen"
+      }
+    },
+    {
+      "title_original": "Putins Krieg: Hightech im Gefecht – Wie Bodendrohnen den Ukraine-Krieg verändern - Video",
+      "title_zh": "Putins Krieg: Hightech im Gefecht – Wie Bodendrohnen den Ukraine-Krieg verändern - Video",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX1lYaThBSnpfVW1ZM2cwOTFRY1YzYnhKOVpOSlpId185X01CUnN2Z1hmSDRQX2V6X3ZNZnJQdHJfaS1KNVJPWkdMVkNBOXhZTUNRYXRER3BwZFFkTlFQYXI2VnFEZFJiV0JKZmlXclFkV3h0X1RYbTBjSFJlV3J2WVQzblpHaGFleXNTV2diMnhEOTBpMHJvWm41QWZmZXJ3eVRVNDk4SEhQdnBHYlZlUmxMUzgwVGJ4Rng4b3hXOHU2ellXNkVBVjhwYmNNa0hmczZSZmRXbw?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-10-17T07:09:31+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putins Krieg: Hightech im Gefecht – Wie Bodendrohnen den Ukraine-Krieg verändern - Video    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Putins Krieg: Hightech im Gefecht – Wie Bodendrohnen den Ukraine-Krieg verändern - Video"
+      }
+    },
+    {
+      "title_original": "La F1 mantiene Catar y Abu Dabi en alerta por la crisis en Oriente Medio",
+      "title_zh": "La F1 mantiene Catar y Abu Dabi en alerta por la crisis en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbS1qTk1fN0Yyd0VPRnExa1pwMTVvWUJLMGpmYUFoLUM4UHE5dDVKSVduZ09Fdy1CbDBGdVdyMW5OSktaenFzR3dBakdfXzZjeWxsQXJiTkgwQm1CekFNQUw2S1BmVlFhLUQyWTAtR3lBMlU4Ny1rcDJ1dTc0b21OdzNON0NZRXprdEVwMEFLSjlDaU9rVUNiQkk1cEFwQzY0ZUFwODJqS2g0QQ?oc=5",
+      "source": "MotorTime",
+      "source_score": 55,
+      "published_at": "2026-10-17T07:00:27+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "La F1 mantiene Catar y Abu Dabi en alerta por la crisis en Oriente Medio    MotorTime",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "MotorTime"
+      ],
+      "all_titles": {
+        "es": "La F1 mantiene Catar y Abu Dabi en alerta por la crisis en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Russia building non-negotiable ‘security zone’ inside Ukrainian border, Putin declares",
+      "title_zh": "Ukraine war briefing: Russia building non-negotiable ‘security zone’ inside Ukrainian border, Putin declares",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcUtsWmEwUHZLemRtSGN1cTY2TmNaX281Q1ZUcDFDWm01UEtZQzVlM25sY2ZfYjZKcmpnRFY3SmJfbUVDc1R5Q1h3cnk1ODZBNmN6Q1FEWGo1NEVJNm9QM2kxVXJyV1Fyb0ZtQ0pfV00tMWNLSWFOSDJXbElJQTlucERfVDJDSVdTOU1FYjhBTHJyaVNjZHkzLVBNVjg3RWJ4ZTZUNW9kTjdHeEdNZVlweUl6d1psLTFnQ3ZnN1UzS2RFdVRlZVp5Y0pHc3FqTlZCdmhxMHNxbHlhNU1kdFlzSzRLMXM?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-10-17T06:43:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Russia building non-negotiable ‘security zone’ inside Ukrainian border, Putin declares    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Russia building non-negotiable ‘security zone’ inside Ukrainian border, Putin declares"
+      }
+    },
+    {
+      "title_original": "和合是中美关系穿越风雨的航向|时评",
+      "title_zh": "和合是中美关系穿越风雨的航向|时评",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM3h4MThKQ1h3ZERiaXh1LWpTeUJyNGt3cFQwQTdHZEgtWmRfUmZzaUJ0eDlibWkwMUw5ZkxrY3F2bzQzUnFEb1o1YUF1NFp3cG9wWHg0bHJGcnVrRzdyamR0QUVXMGRHMUxOcE83RGZWX1k5a2E2blRoaEpDLThtR2g4WWxKWExuZjVYbQ?oc=5",
+      "source": "搜狐",
+      "source_score": 40,
+      "published_at": "2026-10-17T06:03:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "和合是中美关系穿越风雨的航向|时评    搜狐",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "搜狐"
+      ],
+      "all_titles": {
+        "zh": "和合是中美关系穿越风雨的航向|时评"
+      }
+    },
+    {
+      "title_original": "Avec un \"bouclier invisible\", Airbus démontre ses capacités pour assurer la défense aérienne de l'OTAN",
+      "title_zh": "Avec un \"bouclier invisible\", Airbus démontre ses capacités pour assurer la défense aérienne de l'OTAN",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa0tqVW53b0EtaGl5b19rNy1nb0YzemIydXAyLThoajR0XzNuYjZJemNGSTdEY2R2eXFyNVJvdDFySW91a0FqejdsR040UmdtN2ZIMVRoS2I3TUxiekJuN2trZHA1S05EcG5SVk5zaGp4dkE5UlVOQlVKbG5STWlET3BELTNMb2Y3SldhRDU0SzZkaTN2aWl5eVpvMnVsWDQ4bG9XQlZsQW1BSmJtNzgwX0VkeFU3c2RfN1g1X1FMV2lLeEk5QWl5RXk3TUFpa3ZRTHM0WWpqUEdLZnhrM2hobEdFNlhqX0F1cXc?oc=5",
+      "source": "Actu.fr",
+      "source_score": 40,
+      "published_at": "2026-10-17T06:00:03+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Avec un \"bouclier invisible\", Airbus démontre ses capacités pour assurer la défense aérienne de l'OTAN    Actu.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Actu.fr"
+      ],
+      "all_titles": {
+        "fr": "Avec un \"bouclier invisible\", Airbus démontre ses capacités pour assurer la défense aérienne de l'OTAN"
+      }
+    },
+    {
+      "title_original": "トランプ氏、対ロシア追加制裁を発動前に免除 ウクライナとの関係悪化止まらず",
+      "title_zh": "トランプ氏、対ロシア追加制裁を発動前に免除 ウクライナとの関係悪化止まらず",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0UWxpdDJtQ21LVVQzVElLMTF5X0VDdHBSOG1EMU9na0l3VGxkMzczQm5yUERmbFUwcW02ZGk0UUJHS1hqS2czeEo1RjBmOFNK?oc=5",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-10-17T05:34:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "トランプ氏、対ロシア追加制裁を発動前に免除 ウクライナとの関係悪化止まらず    CNN.co.jp",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、対ロシア追加制裁を発動前に免除 ウクライナとの関係悪化止まらず"
+      }
+    },
+    {
+      "title_original": "How Drones Created a Kill Zone in the Ukraine War",
+      "title_zh": "How Drones Created a Kill Zone in the Ukraine War",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTzRhNEpHTDFfVl9oSm5RMTlabTlLM1dXOE1OdmVaTm9HYjRkbExoQTZwc0xzSDRDRWpfLXhGaUxIcy1XY0dROHozVThRbndITWFZZzU4OGx6UEYxQ1luSVlBaWFQaFp2WkZmeEQyYkxMMk9SUExPM01NVUNwNDdCRXUtYWQxbU5JQnc1bktkNm9fN2E0VXotN1JjbGtDWXZmQlE?oc=5",
+      "source": "The New York Times",
+      "source_score": 95,
+      "published_at": "2026-10-17T05:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "How Drones Created a Kill Zone in the Ukraine War    The New York Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "The New York Times"
+      ],
+      "all_titles": {
+        "en": "How Drones Created a Kill Zone in the Ukraine War"
+      }
+    },
+    {
+      "title_original": "能源西格玛：不可持续：地缘政治恶化与库存低位推高油价风险",
+      "title_zh": "能源西格玛：不可持续：地缘政治恶化与库存低位推高油价风险",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fN1FaQ3IycS1QdzRUM25qVnczMXBwSnc4dUtidXp3VllfbkdFaUdCWEFvTWJZTXk3OXcxRncweWJ3ZXZnbzNQUnJpdXJOVjUzanVPeGhlcWFwUWpp?oc=5",
+      "source": "Moomoo",
+      "source_score": 40,
+      "published_at": "2026-10-17T04:49:53+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "能源西格玛：不可持续：地缘政治恶化与库存低位推高油价风险    Moomoo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Moomoo"
+      ],
+      "all_titles": {
+        "zh": "能源西格玛：不可持续：地缘政治恶化与库存低位推高油价风险"
+      }
+    },
+    {
+      "title_original": "投入终于有了回报！瑞典获邀加入北约核心圈",
+      "title_zh": "投入终于有了回报！瑞典获邀加入北约核心圈",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53ZHpGSmp0VGJPZmJoR3JWYVRlQlBiQzFtcWt4dVpKR01QSGFEb0xwbUJVMF9zcWlfSDBoMENrVTN6TjlpYzY2Qmk0UVhJQVA2dURXMnJybVVjdnc?oc=5",
+      "source": "风闻",
+      "source_score": 40,
+      "published_at": "2026-10-17T04:41:09+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "投入终于有了回报！瑞典获邀加入北约核心圈    风闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "风闻"
+      ],
+      "all_titles": {
+        "zh": "投入终于有了回报！瑞典获邀加入北约核心圈"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : tirs de missiles au Yémen, l’Iran dément vouloir l’arme nucléaire… Les dernières infos",
+      "title_zh": "Guerre au Moyen-Orient : tirs de missiles au Yémen, l’Iran dément vouloir l’arme nucléaire… Les dernières infos",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQOUdpRzJnWjVYbUs1cUF5NDl0MVhCcXdlRVg1cVZXWkxjcm13aTQwdDBKUmVQYkVxMDl5VTRua3dTSHUzN1BIQlZMQkJ5V1pnbWFHekFzQlNKaWpnQWJSYy1QajBJN0QtRkk1ZW0yUWk2cFIxbkFITlJiTjNvRlJHS0phRVFSMjZOMGV6Q3MzTGJYbjQyVms3OGZaN0t3RGFsRDRmUURRWWpzSGlSTlU0SDVwVHlFTDRjUGFkbEsxLXV2cWhPOU9vYlFQbVIzLWtRLWRuQ3JKci1XdmxhdFNOaG5iU05OMXZjcFZRV2UxNWZNTHZ1THJDM1pKaFp5M1E3VlpkUXY0Q2RyUFpsVHc?oc=5",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-10-17T03:38:42+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : tirs de missiles au Yémen, l’Iran dément vouloir l’arme nucléaire… Les dernières infos    Ouest-France",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : tirs de missiles au Yémen, l’Iran dément vouloir l’arme nucléaire… Les dernières infos"
+      }
+    },
+    {
+      "title_original": "Ucrania y la OTAN buscan herramientas de IA para predecir la actividad de los drones rusos",
+      "title_zh": "Ucrania y la OTAN buscan herramientas de IA para predecir la actividad de los drones rusos",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNmh3TEhCamRMbEFrLURvV0VNbHFkenp1QnlsUWVRVmlkdTA0dTBrenNtUHhOR254aFhZdmwtaUM2cFRIeG51cnE0d3Q3UXJCR0lXYllwbnV6bVRVcWJndWdfUm9xd2FZYmx0SVk3UW1Wa08xVzhhUWJVb0pYbWp6SUZNTjUxR1NsUU9RQUU0aUVxVTFlMVNIM09vNXVTamR4VTBldlMwZXVQSFpKMG9xaUJuNUY0VlZwQ3ZienJObXo4cnduZGl4UHlnVVZabkYwc2ozbExZRTFpVGF3QlZfME44b2HSAe8BQVVfeXFMUEZkVGRlaHd2Y1FhalhVc1Fxc0hmY3REOHA5dDVjZmdGTFpfY1VZUi1lNWFmWHpQb0piMU5fYzdKdVJXM19QQXdrYWdNRmtjNFl2QjJpZXB4NEtMLUpLNEJrUG1oTGdJUUt4OUlySkVZSkp0WVpuYWpWTDAtNDRsRVJ5eUlyV1RhN2U5UF9pekp1YW96THIyMWJ1Nnl1eW9IWXl1SmI5Y3o4dXlPSXVrVDZ6c2dUczhoa0FIclRScW1TVW5HWC1pRzY5T2xYSnZMbmxldE03YnhMT0ZRSGg2c040RWpwZXU1cmpUT01Sclk?oc=5",
+      "source": "Libertad Digital",
+      "source_score": 55,
+      "published_at": "2026-10-17T03:30:41+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Ucrania y la OTAN buscan herramientas de IA para predecir la actividad de los drones rusos    Libertad Digital",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Libertad Digital"
+      ],
+      "all_titles": {
+        "es": "Ucrania y la OTAN buscan herramientas de IA para predecir la actividad de los drones rusos"
+      }
+    },
+    {
+      "title_original": "ウクライナの「ヴィヴァルディ作戦」をBBC特派員が取材、 防衛から攻勢へ",
+      "title_zh": "ウクライナの「ヴィヴァルディ作戦」をBBC特派員が取材、 防衛から攻勢へ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EVDBoTjFJOGVoa21hX3VQS2Z6N3luVmsxdklCLU1zVWhVS0c1XzRIbnlqYmR5WVdFdUFHVldVR3V2LXRpMm9wbVRKWjBjYlltTENGWEhPcjFSUjdM?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-10-17T03:13:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナの「ヴィヴァルディ作戦」をBBC特派員が取材、 防衛から攻勢へ    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの「ヴィヴァルディ作戦」をBBC特派員が取材、 防衛から攻勢へ"
+      }
+    },
+    {
+      "title_original": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "title_zh": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+      "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-17T03:11:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico\n- Published\nA Mexican judge has sentenced three men convicted of murdering Australian brothers Jake and Callum Robinson and their US friend Carter Rhoad to 158 years and nine months in jail each.",
+        "The Robinsons and Rhoad were killed in an apparent botched robbery of their truck on a secluded beach in Baja California in 2024 while they were on a surfing trip, the court heard during the trial.",
+        "The murders sent shockwaves around the world, particularly in Australia, as the area is usually safe from the violence seen in other parts of Mexico."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico"
+      }
+    },
+    {
+      "title_original": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "title_zh": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-17T02:52:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024 Get our breaking news email , free app or daily news podcast A Mexican ⁠judge ⁠has sentenced ​three men to 158 years ⁠and nine months in prison each for ⁠the murder of ​two Australian ‌brothers ‌and their American friend during ‌a 2024 surf trip to the state of Baja California.",
+        "The ‌defendants were declared guilty a week ​ago of homicide, aggravated robbery, robbery with violence and vehicle theft ⁠with violence, crimes committed against ​Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend ​Carter Rhoad.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​"
+      }
+    },
+    {
+      "title_original": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "title_zh": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-17T02:33:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Brazil sees record fall in Amazon deforestation as key election looms\n- Published\nBrazil's government says deforestation rates in the country's Amazon and savanna regions have fallen to record lows ahead of a presidential election run-off in which the rainforest's future is a key issue.",
+        "Left-wing President Luiz Inácio Lula da Silva, when he assumed office three years ago, pledged to end deforestation by 2030 in the Amazon.",
+        "It had surged under his right-wing predecessor, Jair Bolsonaro."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Brazil sees record fall in Amazon deforestation as key election looms"
+      }
+    },
     {
       "title_original": "ロシアの侵略「最終的に処罰される」 ウクライナ次官が語る特別法廷",
       "title_zh": "ロシアの侵略「最終的に処罰される」 ウクライナ次官が語る特別法廷",
