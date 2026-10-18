@@ -1,8 +1,858 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-18T00:58:59.115566+00:00",
-  "count": 35,
+  "generated_at": "2026-10-18T14:34:06.385188+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "解放军位台海周边活动，台防务部门又忙起来了",
+      "title_zh": "解放军位台海周边活动，台防务部门又忙起来了",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0I2b1pjaEY3OG5nMHhRM1VGbkJnNDg3MktlemVPZUNpUEw3ZXpzUENnVkc4eXV1VWl0R3NCcXJ4cjFNMkVINFZoWDB1YlZkRF9XUTdWMkVXdW52M2VNckVNOTllbGdDT1k4ZWVGU3NidGQ4VU43OTJhU0FpWEtWMmJDenlEREdD?oc=5",
+      "source": "搜狐",
+      "source_score": 40,
+      "published_at": "2026-10-18T14:25:34+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "解放军位台海周边活动，台防务部门又忙起来了    搜狐",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "搜狐"
+      ],
+      "all_titles": {
+        "zh": "解放军位台海周边活动，台防务部门又忙起来了"
+      }
+    },
+    {
+      "title_original": "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores",
+      "title_zh": "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1dUTUxGUjZOM0tsVmtncWRlV2ZaZTRBUDFSRE94Q2U4ZktGZ1FCVFpDMHZ2VlY2aTRsSDRWaHVrWk00SDR4YnFueFJaYVFKT1daa2Ixc3BuNElkM0ZINjN0LWxMN2lYZ0xPdGF3U3pjdXpMTVg5c1oxVFNCR01zcU5YUTVLbzZ3Ty1LM0NuU1VGa3pZcHV0aS1BLVpfUQ?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-10-18T14:21:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores"
+      }
+    },
+    {
+      "title_original": "Warnock wants Democrats to focus on the South. He’s starting in Mississippi.",
+      "title_zh": "Warnock wants Democrats to focus on the South. He’s starting in Mississippi.",
+      "url": "https://www.politico.com/news/2026/10/18/warnock-mississippi-senate-colom-southern-voters-01123450",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-18T10:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The Georgia senator is working hard to get Democrat Scott Colom elected — as he weighs his own political future.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Warnock wants Democrats to focus on the South. He’s starting in Mississippi."
+      }
+    },
+    {
+      "title_original": "Taiwans Küstenwache drängt 16 chinesische Schiffe zurück",
+      "title_zh": "Taiwans Küstenwache drängt 16 chinesische Schiffe zurück",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdlRjaU1YcnlERWc1dG1TVE9JZGp5T1NJdWV4YWZ2dHo2MV9CVDJuQ3N3X1FuWVdfR2lNaWtSUUd1N1ljYU9sQ2ZMUXRmRXlKcXc4QWx4aFlQMlA5OHNSTi0zbGRHZU90dFZOak5MYUFDTktSX3ZfZ09yYXc4OG5NU0lWb0QtWWtCazZzd0ZqdVZDcm9FUHpyQzRJc05obHRxOWlhT0xxUGd1bTFVZzg4SGt6Y2h1OFFCaTNKUVN2bVFMeGxBaWFF?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-18T13:26:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwans Küstenwache drängt 16 chinesische Schiffe zurück    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Taiwans Küstenwache drängt 16 chinesische Schiffe zurück"
+      }
+    },
+    {
+      "title_original": "« L’aveu d’impuissance au Moyen-Orient mine les démocraties occidentales »",
+      "title_zh": "« L’aveu d’impuissance au Moyen-Orient mine les démocraties occidentales »",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM1p1Y01NY1ZWTlhsQkw3b2loUDJhSHp6Y0dFWnZjVlRmcThMYS0wVG5tT1hzYTZ1M0xTRzNvU0hoVUdkMnlKNHE2QUdxMmF4TWY4QW5PTG5uRkRUMkhITGVYWjJUXy1xZ09GVzV1U21SZmVJV1dlNXdrRGttbXFZWERRclRHUmpkSDE5UFlYVXhDYk93Vm5ZT2ZudjEzRmxXZy1ZOEluQkN2bnV1NkYyZVZianN0cXZRQ291aHVXV2hJWlpxS1JTZEhwaW1VdDBHdkdEM3dadWgxTUlz?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-10-18T13:13:57+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "« L’aveu d’impuissance au Moyen-Orient mine les démocraties occidentales »    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "« L’aveu d’impuissance au Moyen-Orient mine les démocraties occidentales »"
+      }
+    },
+    {
+      "title_original": "Weil sie die Warnung nicht hörten: Wie eine Ukrainerin den Tod von drei gehörlosen Nachbarn erlebte",
+      "title_zh": "Weil sie die Warnung nicht hörten: Wie eine Ukrainerin den Tod von drei gehörlosen Nachbarn erlebte",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVFNmWmkxbFNLRS12dnRwSC1oUG00a0pmVHFXN24yam1sMWFTbm1tQ0czanB6Nzh1akpicHU3ZmkzOXVITm8ydVhMNTY4aGdtc0FTMG1oR2dmX1huVEcyUnJLdzFHQTBuWlJyWGdHWWY4RFcxUmF1Q2R0cWh2ZTRsU2lXcml3MFczZDJlT3B5Mk9UMXhUMFVv?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-10-18T13:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Weil sie die Warnung nicht hörten: Wie eine Ukrainerin den Tod von drei gehörlosen Nachbarn erlebte    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Weil sie die Warnung nicht hörten: Wie eine Ukrainerin den Tod von drei gehörlosen Nachbarn erlebte"
+      }
+    },
+    {
+      "title_original": "(S+) Verbrechen an der Natur im Ukrainekrieg: Kann man russische Soldaten wegen dieser Katastrophen anklagen?",
+      "title_zh": "(S+) Verbrechen an der Natur im Ukrainekrieg: Kann man russische Soldaten wegen dieser Katastrophen anklagen?",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbDJyNlNaS3loLXdoNmRxanAyUE5kSnZScUZRQ1hfMjBWclB1WFc3RFBkOGhjMXJoUTIyQUdSWV90WjJuWkhMZVFZWnlYSGZBZFhFVmRHTmgtNkpBQ29Uc0RSNFJBODkwQnctaWd1NkpRSkh4dm8zb1ZkcGZhcUttcmJTWHZzbjZaX1lZSkhYWWNKMUZPTlVXbHU2VHJGUndUdUxVdzlGQVFlOVB1RkFQQ0l2SFQwX2hfaUlWcFF1Q2ZDN09nLVl0Und0SzRualYzeXdJTmRud0VKVUpaX3c?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-18T12:30:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "(S+) Verbrechen an der Natur im Ukrainekrieg: Kann man russische Soldaten wegen dieser Katastrophen anklagen?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "(S+) Verbrechen an der Natur im Ukrainekrieg: Kann man russische Soldaten wegen dieser Katastrophen anklagen?"
+      }
+    },
+    {
+      "title_original": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "title_zh": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-18T12:07:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting\n- Published\nFrance awoke to scenes of widespread damage on Sunday after a day of riots and demonstrations, with shopfronts shattered, burnt out cars, charred bikes, and piles of glass and debris on the pavements of Paris.",
+        "Police arrested about 1,800 people on Saturday as some 550,000 demonstrators took to the streets for protests that were largely peaceful.",
+        "They were demonstrating against rising fuel prices, the cost of living and deteriorating public services, including schools."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting"
+      }
+    },
+    {
+      "title_original": "The Arithmetic of Reinforcement: What Getting NATO to the Northern Nordics Actually Takes",
+      "title_zh": "The Arithmetic of Reinforcement: What Getting NATO to the Northern Nordics Actually Takes",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0pXU21jOG50d3FpdmVCVGVNRjQzMUp5cVc5Z1hPdWxVaVVOUGNlelZ5eXh0ckJhbjFGZzVsT3BCYkhObnptQVc0Tmw4Q1pjWnVTTkNwRGF5V01zel9vQkNIRlktWnN1WjdRdmUtTGtrRGprdFVKV3RsNXpUUE9QWDRMQ0diUjQ3N2Z4RmhydlBiMzl3cnVuZGFlWDZPTWktTDNrVkdOdTBEY0xDa25YT3U0NFB2WFZk?oc=5",
+      "source": "SLDinfo.com",
+      "source_score": 40,
+      "published_at": "2026-10-18T11:15:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The Arithmetic of Reinforcement: What Getting NATO to the Northern Nordics Actually Takes    SLDinfo.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "SLDinfo.com"
+      ],
+      "all_titles": {
+        "en": "The Arithmetic of Reinforcement: What Getting NATO to the Northern Nordics Actually Takes"
+      }
+    },
+    {
+      "title_original": "台海巡署称16艘大陆船只同步侵扰多处海域 已出动驱离",
+      "title_zh": "台海巡署称16艘大陆船只同步侵扰多处海域 已出动驱离",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvN1JmMWNzaU1hamxRajMteVRvc2ZLeUZVbXFuUVNUbDZzd3FCNmpWemRVUi1pMW1iRUdLRlBqWDd5OTRRblA5bUxaUTV0Wk0xYVBUcGZJYVhMZWIyX1prZTZlbVZUOWlQNHc?oc=5",
+      "source": "联合早报",
+      "source_score": 40,
+      "published_at": "2026-10-18T11:05:14+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "台海巡署称16艘大陆船只同步侵扰多处海域 已出动驱离    联合早报",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "联合早报"
+      ],
+      "all_titles": {
+        "zh": "台海巡署称16艘大陆船只同步侵扰多处海域 已出动驱离"
+      }
+    },
+    {
+      "title_original": "Ukraine War, Day 1,697: Trump Camp Proposes Renewed Europe Purchases of Russia's Gas",
+      "title_zh": "Ukraine War, Day 1,697: Trump Camp Proposes Renewed Europe Purchases of Russia's Gas",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTk5tMXVuRXN0WmdYSHdPd2phTkhGb3VuZUsxbnhDOXM4S2FnMnl5UlFSVUQwU1Nma2dRM1Y1YlE2OHRsdEltZWRwdGNEUks4aFNCVjlPMXh3TlRMYW4zMmNzVzhjUmpVblpaN2NjUGVXOFQ5MXpxbjZQMUdHNXBzLWxrX3JRVmh6d1ZOX3JNWklsOV9YbDE3Q3B0RUlua25QVXc?oc=5",
+      "source": "EA WorldView",
+      "source_score": 40,
+      "published_at": "2026-10-18T11:01:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine War, Day 1,697: Trump Camp Proposes Renewed Europe Purchases of Russia's Gas    EA WorldView",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "EA WorldView"
+      ],
+      "all_titles": {
+        "en": "Ukraine War, Day 1,697: Trump Camp Proposes Renewed Europe Purchases of Russia's Gas"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 12:36 Starlink-Drosselung - \"Trump entscheidet, Musk führt aus\" +++",
+      "title_zh": "Ukraine-Krieg im Liveticker: +++ 12:36 Starlink-Drosselung - \"Trump entscheidet, Musk führt aus\" +++",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaVVkWnU1UWdXZkh2X3ZzUVFHVDducTJUV0JLRDBuRU1sdm14Y08tTFJHR0VsZGl1SUNLWHp3aDFKdDUwSktEdXdUTFpScEtPTjZQZjRJS1dXLTVMQnVwZ2UxUVlDOFR0QXU3NGtlWTd4aVBOcHdnV1BUU2xvWWZaaXVhaWxTeG54MlF1cURlRi1ucU1RRVAwd2JWZVNRc1pkVDhpRmdWbm93cEJKTXhhZVZjVzhCLWJzYXJvS0lRWmNTZGZ0QkE?oc=5",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-10-18T10:18:11+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg im Liveticker: +++ 12:36 Starlink-Drosselung - \"Trump entscheidet, Musk führt aus\" +++    n-tv.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 12:36 Starlink-Drosselung - \"Trump entscheidet, Musk führt aus\" +++"
+      }
+    },
+    {
+      "title_original": "Lithuania told residents to go to shelters after detecting a flying object",
+      "title_zh": "Lithuania told residents to go to shelters after detecting a flying object",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONk5XaE1pSWJWTnFtR1RqSlhOaFhxMGc0UHBtYjYxRnlodUxKeTFNUDZOVlhISGk0UW1KbTEwd1VNYXhRUWJqMW9VQm1HLTNTNVl2QmdnT1l4NmdKYWtxazdwUmRDMXdxa2xuenFvOVdzUlpMeUNpTDRxSWJjOURFYXNmd1dGVWxyMnFXQWNYNTJqNWZaaHZXVWtURm9fbW9fUGFiVjBnZHBQT2fSAbABQVVfeXFMUDJyZ1h0S3RDbFdBOTZhYmVoRjdaVDctSDJ2RkVnSDdsemNBRGtsMlNrMmM5LWVrNzhCN1p3NGZMblJUeVhWXzhnNThLc1J1RkJ1SnJpZzlZTGdEVUs3QjJDTE5GTlZSeU9QbjdJVkNNaVFpUFBGbUZ5NGtwTGs2a21yYzJjaFk0WUs1WWJuMUttdDNYeTN5amIxM0N2YUVsN0YzMVo1WW5xM1d3TE9Ia3I?oc=5",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-10-18T10:12:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Lithuania told residents to go to shelters after detecting a flying object    CNBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "Lithuania told residents to go to shelters after detecting a flying object"
+      }
+    },
+    {
+      "title_original": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
+      "title_zh": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmwzOXE5SlU5NWhjUjFoYi1MdXpqMENieXhTSDlBTWVpVFFNUHNpVnY5dnBhenN5d1lnMFdWaFBPUHp4U2p1MUdIdGR3Z3o2Z2x3dkVpX0hzaHkwRlhjMGVXLXBCQS1fdndHUEtDX2FNb1d2Rnl3RHAwaTNBUVZNNjBTZ1lXMVI0NW9ZM1BHVS04Sm1sbjdtYVBKUk9leUpKWTBqQWp2LUhEWjk2em5mQW9Ud9IBuAFBVV95cUxOQmpGRTRldjQweUxrbUNIWVRLYUNrTndZSGRRVGdKNlpNQWtOR0l2UlFoM21xWUtwSEQ0WG11ZE45b1BfTW5sY1hkdG9hVlAzMURrWDZDQnVlUEt4X0hjSmRTSXFTS1NDWGpCbHZUNEdZSnhiN05RVFRQZU1VT2FWeXdTNkxTRFR2TGJsMEd2eFRHUFhjOFJCVXpIeTlyZnlRWE9EWWNMeHBZUFVmZ1RmWHR5ZVh4ZW1D?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-18T09:47:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Rubio says Ukraine without access to Starshield, future ‘under discussion’    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Rubio says Ukraine without access to Starshield, future ‘under discussion’"
+      }
+    },
+    {
+      "title_original": "ما مدى استعداد دول الشرق الأوسط وشمال أفريقيا لمواجهة الكوارث وقدرتها على الصمود؟",
+      "title_zh": "ما مدى استعداد دول الشرق الأوسط وشمال أفريقيا لمواجهة الكوارث وقدرتها على الصمود؟",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU1ZtQ1o1cUtXUTdpdU9iX09ENHhPa0FtZDlUZXpiaXJ4YkktX2xrcGFhVVRrUzdFdUNWYlFscWljc3c2Y2IyTU9VTXdwb0dtMGtodkZ3OHRKVjNDSWpObWZkS1N5RkMyQkdZTUhSVzVfaUhIUVFGa09FOHJnSmtiVVdMVDNTVTdWUFJJV3NWNXJPWERqRzFTX3lYaFVmNFk?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-18T09:31:25+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ما مدى استعداد دول الشرق الأوسط وشمال أفريقيا لمواجهة الكوارث وقدرتها على الصمود؟    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "ما مدى استعداد دول الشرق الأوسط وشمال أفريقيا لمواجهة الكوارث وقدرتها على الصمود؟"
+      }
+    },
+    {
+      "title_original": "ナフサとは 原油由来の化学品原料、日本は中東依存度高く",
+      "title_zh": "ナフサとは 原油由来の化学品原料、日本は中東依存度高く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uOUNKblZ2VkRLMVROdV85Z1JObTRsMmc4anI2dHdXWmRUQmpvV2ZqaHNxY0lSeGpTTjAyQTY4MTIzUnRvMXkyU0hvcW1zdVNLNTdCWkFWMk55R09nSFJOTDBrU092Vy1RZjdkLQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-18T09:19:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ナフサとは 原油由来の化学品原料、日本は中東依存度高く    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ナフサとは 原油由来の化学品原料、日本は中東依存度高く"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Öl-Lager in St. Petersburg in Flammen, Litauen und Lettland lösen Luftalarm aus",
+      "title_zh": "Ukraine-Krieg: Öl-Lager in St. Petersburg in Flammen, Litauen und Lettland lösen Luftalarm aus",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM3ZMZ0s3UGxTV1NOM0tpbTFiV2xTLU9yRXc3bF8yamNnSkRfZVpTNVg0LUtEZkNwZ3FXMTk5dHhSZWo3UnVEczUwNjBlWFFxYnpucjVoWGFJV3pTUEJ5czkzSnpOS1o1X0ctTm5oek1TbWhfZGk1WXd0MWFUNlZkM01HS1V5dzRxekNvSTZVRE1kQW53YXNfSTRiNV83cDZ6SzlaQ1N6ZzRwandvZGhHdHlfdkU2SVAwczZFeVlBbVpnZ2FJRVBndVlB0gHKAUFVX3lxTE9oV0R4Z0Q0U3NXVERRdU01MnZhd3JNM3R2YnpwNEpLQzJSZGU1d0VEMDhLZ191SUhqZWhPMHJmSTRhVDdBSHlnQ3hWdjlCT21SZ0RJa1l3di1pOHpvek54QXVmVjg2VzdPWFVLMjFoTnJkWEFkNVpDcGpPYm1Yb1dlRnhSbnFlYVFNaElBNW9sY1VweHNSWjFLWm4zTlkwZkhOeUFtakVTS3JtWXo4SkJPbFFXWFMtQS1OTW9TMjhFR01QYUFsTGNUT2c?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-18T08:34:40+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: Öl-Lager in St.",
+        "Petersburg in Flammen, Litauen und Lettland lösen Luftalarm aus    DW.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Öl-Lager in St. Petersburg in Flammen, Litauen und Lettland lösen Luftalarm aus"
+      }
+    },
+    {
+      "title_original": "البرلمان الإيراني يمنح الثقة لمهرداد أخلاقي وزيراً للدفاع",
+      "title_zh": "البرلمان الإيراني يمنح الثقة لمهرداد أخلاقي وزيراً للدفاع",
+      "url": "https://news.google.com/rss/articles/CBMitARBVV95cUxORGM1OWlZMlA4NFozZmpVQzRSdjNxRXotRllxcktUN1d5YTBwTTB2VXFYM0RYM3E3QU81MTh6SVdDZ0hDQmlfRmg2bXVvdVhaRnNwbzl5aTl1Mk04UW10UEp0bkhZVUZFM3pSX19nNHpFaS1ieHdHU1ctdFdKM0FIUE4zQXF1U0kxbVVnMUtsZ0kxdWpzNjIzekVrZGZJWFBRdjhqQUtTamFIMUVEb0lNQmFVZ0tVS2wxQzhuVk5Rbjg0RVhDWklYbnlIa3U3dzZhODNkX2NlSUpiY25oM2V1dHVveENFT3hmNUJJQ1VYaDhKbVlNYjV3eGlMbndlZGV5WW5ISmtlZ0dNU2wweldDTy1xX1I0WFM2cFMySGN4N3UyY29qVDZjcGNFUkNvRmZTYXBmc3hWVWF3bU9FWUJjZ2FjZHhxUXRXbWJtS21IV1RSRzNsN0hxZU5CTXo0THpENjVpbnRBd2xNSnlWS0VzYjNzTU13WHpaaXV0YTdnREp0Y3c5ZnNYVFFqamlFOWZ5VzZ2dVEyTm9yNmc3ZVRyUlBxZTlubzBnUnlZMGxTb05uMGlWZDFhSlZ3NmY2WTZWSUFZcW5pcWNjNF9IcDBNWUVvaWNxdDNqcjBKdU9na0pVX1pOTGpIR0VTYkR6Qlk5R2dRYmIybVhkeEVUWUNjNXRTSW92NXlvaVdoOUtxek5FWnJrUHVrWXhvYWhTY0I5b2JCb05wN1NUSEUyUTAwUzlob08?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-18T08:25:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "البرلمان الإيراني يمنح الثقة لمهرداد أخلاقي وزيراً للدفاع    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "البرلمان الإيراني يمنح الثقة لمهرداد أخلاقي وزيراً للدفاع"
+      }
+    },
+    {
+      "title_original": "\"حنظلة\" تخترق مركز الحرب المعرفية الإسرائيلي وتنشر وثائق سرية",
+      "title_zh": "\"حنظلة\" تخترق مركز الحرب المعرفية الإسرائيلي وتنشر وثائق سرية",
+      "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxORlFfekZ4N1hUaXpoUFh1VGl0OEZCdHpIN19odEFINXJDVEYzQlJkQkFvdnFqYmFhYzBVOURDcmF4bHhXcWxBWUlWaU80T2lOUENfbDVpejYtQVo3V3ZsRTZheVR4MUdaYmZGS0NRcC1FVXFuWWJnOTdQMGRMWjZ6Rjk3MzY5d3VCNmZxTnhkN0FCeFJkS0l0Skx2SlVrODk0ZmcxR0ZkQ24zODJqd0sycWhEQlNXUnNBUENfOWlDWk9uWTFTTFdCUjRyZzk2YlJlVm1uSkJWcWQxNDQ5UVc0ckEwckNtRlRzb2JSRU9wd1Y4ZDBsUUpLbUU4cHRKN3R6YVNsc25kMUJ0empFVFFLQ2xNTDFUZWtub1ZfQ3FvWVVDbWI2ZlRUUHlpOU1IQzR6LUdKbVdIYzJaVllrOWNQZk1qVmhwVk1xOFh2MVJOcDVtaXpoR2lsbkt0aUZ3Rk5SWWZYMy1QcVhncVVFRGIxRHBQZEkxelloUUUzR2JhZDI3VW81S2lZd09kSnNUcW1OZUtFS0NaWDNmVWdXM182WHdGbmhyVXVsNUx0TkhrdVFyejRFX1hXTkNfUlFQS0dZU2xvd2tvejdNUnRRaE9QWVZMczFfUy13SGxJSjQ4WGkxRzBoak5wNDJjODhmSlFuMjBfNk9tSFJPLWdSQ09kQl8wbFJsQdIBiwRBVV95cUxPY1hiYklqcm5yZy04Z0ZXbXJSb3lHbW9uRVFEVnNXdFZPV0FtY0ZKd0YtLUJPZUhGNjhWRUhJSE4xaGNqQkZGdXp3VjdtQ3dCTmJVWXdBa2hHdXY0eFd6Unp4dm91WUNTZDBQRlBZMWlUYld4dWxHRGg3aFZ5eFNZcmk5MDNsQ0hkX2U2akZ4dHhpRWluTWRKUWNWaTgtRmpFSmVJQ2JibU91SmtrRktyd2lVLWpBR3VLWDNRMEl4X1V1cVFQcDdTeV9hQ1g0RGpTcW5TYjBjN0l2MlBaVHZqNlp6OVZnN0RSRnlSejVtQ3VVbndTNG15WWxQTzkwSkhtRHhvZ01RN2FkTVFTcG13U2QweXhKLVVCT3ZucFhUb2NMVDJhYzNneUMyakluWTNYdndnNXF5QkNFdEJGNDBBcFZqSGh6bjBzUXJka0tJTmhLdFM1Zm1GSTkwZEVnUXozTnQwWnJ6LVc4YW9fZFk3M0t2d29vaUJnNXBSSm9GMEVSOWpoNnNPdVBwdXByaXI2SW03RTc1dVpFcFR3SUNZZzhUdFdZNlRPdEJUc3ZIcDhPeENnU2xTS25oQkdtQTkxM0E1azUyQ2VWU3NlSWx5a1pYMVNDMzBqUDdmSU02dTNwS2tDMF9DR2FPS1lCcWVGcTJwanBZM3pfWWU2SkZRVEdld0hkMTd4b2dB?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-10-18T07:59:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "\"حنظلة\" تخترق مركز الحرب المعرفية الإسرائيلي وتنشر وثائق سرية    تسنیم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "\"حنظلة\" تخترق مركز الحرب المعرفية الإسرائيلي وتنشر وثائق سرية"
+      }
+    },
+    {
+      "title_original": "ترمب: بوتين يرغب في التوصل إلى تسوية في حرب أوكرانيا",
+      "title_zh": "ترمب: بوتين يرغب في التوصل إلى تسوية في حرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxOVlIxVFhZdXlhUVE4bDdqWUVxMElYMXhOSVFTZHV1RUg0TUhxMmdVSkNUM3dSSUdDWnVTNzc0Ym9tZFB4YnVWRzJNak9sWDJiR1MyRlFadTRvZkxTOW1Za2ttTUtINTRNb2dMNmxYUC01XzZCTDNjQm0tU1FaS2xVYUZiVlRyYmY0dEdwX2xqTk1qaEZ3aHlwSy1OMlJTcTlOM0UzbVpnOHRyT01wWEpQNTFhVXdtc0h6cUlPWlBzWG1RQlpIcFd6aWU0anduZGNxR192dGdYQ0p6U0FrV2ctemliVTZmMkxuNGdqZ2VwbGplTXUyZ0VMRlY4dWlVTHlTS0pPQ2otZXQ2eGxZX1hSN0tzeW12YlRIdkxONm1QemlOM1RQaUZxeGJyV0ZWcTlkb0hpNUZ1amZWQ1VPTUxINzFPTjBUbWdLNUVKSVkxQzEzVHYyNkVjUEROV05iYzlfbllKM3RfYldJRWxrcGdhcjM1ZVJTT25VNm00YWdZTTd1clpFTlNILXg1WkhEalprTXM3NUE4SmtSSEhXVzh2eHBXcGdKNDJSNHhjM1M5TFc0RHJKQ1NRdUxUTFViVjc1UUlKQmpuUWFnU1ZFamNwZGRWYzNjSUtpMWM1Z29FWm1yVmhqZzYyR0MyR0hqdThZOXAxUG1yVTlwQkFsVlFMUzJmak9BbDRLYlJwZjFHVkhPVjR3X2NqaWxkZVg2S0JEemdRemNnTlk3UzVOUm1weVUwTXhWWV8yWURnZThQMDFGdGhUby1ncmpOTHNPekdBMHNDbQ?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-18T07:32:58+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ترمب: بوتين يرغب في التوصل إلى تسوية في حرب أوكرانيا    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "ترمب: بوتين يرغب في التوصل إلى تسوية في حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "Géopolitique des mers. Le Costa Rica, un pays sans marine, dépendant de ses alliés et de sa « diplomatie bleue »",
+      "title_zh": "Géopolitique des mers. Le Costa Rica, un pays sans marine, dépendant de ses alliés et de sa « diplomatie bleue »",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZ25OY013OEhJZzdTV0xGY3lSTDI3WVo2NE9ZbDY5WkNhYnptLXM4U0stY212WkxPYjlRclZOQUs5aWZiWWxUSmM2RUtvMWgtWTRPOVJFNVNGcEtKT0RtVGczV2EwYjdZc2lEOHkyQU5iTVRfR0E5OTYwYnh3ZlpSYW1kelhPNWt3QzE1OHhqMmdXUnNwa1FrempidjdTUDNucmVnY1hNUzVKSlMzOEt0QVM0T0NuX0E3MWlCZzY0ZGdrSTA3WWhLZnZTYVNDdmlWemFtbUVScXM5QXl1eFlYRXNLTVY3ZWFKOGZpTDlVUTFCSTRNS2VsMDBnZVp2Q2ZnQTc2MXlTSWRia2ZVSnF3?oc=5",
+      "source": "Le marin",
+      "source_score": 40,
+      "published_at": "2026-10-18T07:27:03+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Géopolitique des mers.",
+        "Le Costa Rica, un pays sans marine, dépendant de ses alliés et de sa « diplomatie bleue »    Le marin",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Le marin"
+      ],
+      "all_titles": {
+        "fr": "Géopolitique des mers. Le Costa Rica, un pays sans marine, dépendant de ses alliés et de sa « diplomatie bleue »"
+      }
+    },
+    {
+      "title_original": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
+      "title_zh": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
+      "url": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-18T07:00:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "A girl called Àìná was captured by an African king and later taken to England to become Sarah Forbes Bonetta, protege of the imperial monarch When she was seven years old, Bayo Randle’s great-great-grandmother Sarah Forbes Bonetta was presented to Queen Victoria at Windsor Castle as a “diplomatic gift” from an African king.",
+        "Victoria would go on to pay for Bonetta’s education, approve her marriage to one of west Africa’s wealthiest men, and become godmother to her eldest daughter.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria"
+      }
+    },
+    {
+      "title_original": "米ウクライナ、亀裂深刻 対ロ制裁見送り、通信制限（共同通信）",
+      "title_zh": "米ウクライナ、亀裂深刻 対ロ制裁見送り、通信制限（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11TzhDQVo3b1ZqdnlzMUt1YldPZ1JsNFVySUFSU1JMSWVKM284NXhXbTBrLUdvaVBwQW5kZkMxdVB2VE5nQXFYWGpTUmtKZ3ltODM3eGxCcVdKUHFHYWNlaXpiOEFSNmMxcXdTczRaM1BkVTgwQ0s0RmdyMTZJZnc?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-18T06:07:57+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "米ウクライナ、亀裂深刻 対ロ制裁見送り、通信制限（共同通信）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "米ウクライナ、亀裂深刻 対ロ制裁見送り、通信制限（共同通信）"
+      }
+    },
+    {
+      "title_original": "هجوم على سفينة قبالة سواحل الإمارات",
+      "title_zh": "هجوم على سفينة قبالة سواحل الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNWtiZk0yNE1WdWpzS3htVUZtZmNFY05QeTJKQmlmelNZVVFUQjZSNFJLRnlZaTdkZmtmQ192NTdQdDhFTlFyOXA1RGxOcGdQU0Rhb3BvS2hrVEhrX0M5NGNyemwxdjdLU0l6bkdNNEREOTBjQnZUWGd6czJOYmhGVjRhaW5yVVpOZ2NENTVmcVRYejFnSFNnSnNfZ3hCMzE0M1JxNmJ3X0ZpVGx5aS1NYkVuQ1F4MWVlZmdXSjFZMG1JcHEzUWxUVldMTk9NVnd3cXhvSi0tRlRqZTU1Vnd0ZHRoZDE0RzNrRk56S3hBSkJmajJEbjUyX1VXU29oM3piczBYUGtaeUJBeE9HemxzdlN0dExISnBFUzNPaXFOUnpPV09qXzNyTUotNTk2Ui01NmZCR1NQZVFGN0dtWVZZNlMxN05CLTNKR3RsUUNxQW1UTzRBbmV0QThB0gHfAkFVX3lxTFBUNUJlbFlFYUY5TzU2VDJKdVR5d0tyVkdLN09SRmw3U2Rqc1VVdGxyeW11cGhrb18zZ2xCVFNwYzEwYjRCN1RKaGcxN0dseEdNQWpIN0ktRkZJS2liaGJ6bGpzaXZheWxfY0IxNXBDZXMzNDBSbGtKMDZVcEZWMGI1VVU3eEs4YmthY0VqU2RRSnVOYm9RQmZKSlpwUEJPMFA3aTRER2ZNRjh2NnFRS0pWYzVPUUVubUJjY3NZZmRCMUo4cjZKYlBqQk4yM1RxQTMxWWZUckppZ0VjSkpWNEFyUTZmYUJuNkF3U2pyYWZjMUV3ckFqS3VYb1gtYllKcXBDTHpDNXhfR09kRTJ4eGp2UkUyR0FJUWo3Y054RlpMd2l1VzRveXRVbzVpTGtvbTZWNWhjTnFxNGxUZHZ6TVhOZlh4Q3lfWmhLbktUSGMtb1ZKN3loM0xoTW56RnVTMA?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-10-18T06:03:15+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "هجوم على سفينة قبالة سواحل الإمارات    تسنیم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "هجوم على سفينة قبالة سواحل الإمارات"
+      }
+    },
+    {
+      "title_original": "Lithuania tells residents to go to shelters after detecting suspected drone",
+      "title_zh": "Lithuania tells residents to go to shelters after detecting suspected drone",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUGZjTGdJQ2V0X1ZyeE1icDdJQW4xQ2lJbVNqcHlqSnVuTE9OeUtMYWJTVFpXX0xfSmhkbTVveVFoMFpNeUJFVlBzVUN5TnU3LWFLY3JsOEI2U0l2akwzcU5RN21ZVjJ3SGhacks1NGgzZkVmamh2b2hBaGJBNkRCQkU1bmtkY1M0SFVHQ3RDd29SUEI3NEIxdDBDZjdUSVNPMlV2V19UQkxyRVVp?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-18T05:42:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Lithuania tells residents to go to shelters after detecting suspected drone    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Lithuania tells residents to go to shelters after detecting suspected drone"
+      }
+    },
+    {
+      "title_original": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "title_zh": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-18T05:04:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "A wave of homemade, synthetic drugs sweeps US and deepens crisis\n- Published\nWarning: This story contains descriptions of drug-taking from the start and discusses suicide\nThe few grains of fentanyl sit in the silver foil as a straw, held between Mike's lips, hovers above, with a cigarette lighter below.",
+        "The 48-year-old army veteran is crouched low in an alleyway in Columbus, Ohio's Linden neighbourhood.",
+        "\"This drug will damn near make you do anything, unfortunately,\" he says."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "A wave of homemade, synthetic drugs sweeps US and deepens crisis"
+      }
+    },
+    {
+      "title_original": "Géopolitique - L’Asie, moteur du monde… au prix de ses peuples?",
+      "title_zh": "Géopolitique - L’Asie, moteur du monde… au prix de ses peuples?",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMG9keGNkTmNJbFp2cVVKbk9xZ25BUk1KTlo1V0ktWWtpM25HSHFkRzNOeG5VMGlFaHNaWU5GNi1yMzF6SVluQTJyOU84R2Jpc1dMRi1FVzRIaEx6WVp3dDBiWUdrZlFxeTRoQXRzczRBc3R0dTRfdWt6YmZLeUlSNzN3QTdWZ0tXZWZiV0ZDSGUwRzFCRlljbDFneHZzcl85R3FKcTdR?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-10-18T05:00:58+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Géopolitique - L’Asie, moteur du monde… au prix de ses peuples?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Géopolitique - L’Asie, moteur du monde… au prix de ses peuples?"
+      }
+    },
+    {
+      "title_original": "« Tu ne peux pas mourir comme ça » : le pilote de Flydubai raconte son attaque en plein vol",
+      "title_zh": "« Tu ne peux pas mourir comme ça » : le pilote de Flydubai raconte son attaque en plein vol",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMTgtREJZZk5WbnBmVEpmM1hGdVR1UnJNYjV3M1RqRlAtVmRvMGl6MEtCSUJHaWs1Ymh5RWhYNXBuOXBKbDhHNUk1ODViaTdvUEhzXzB6c3ExZTJPQzBZWXBISTc1YkdGT01iZEoxaElZOXA2YnltbHRwWC1aRjRjUEpzVnU5VGprRUNwQnlVNUtmVTJrYkhob1dEN3JLaC1uREZGenYyMEZTTmdNRldiX1BlYTRjWk5fYWZ3VTBpVTM4M2lfN3NtZ2xyYWo2Zw?oc=5",
+      "source": "Le Dauphiné Libéré",
+      "source_score": 40,
+      "published_at": "2026-10-18T04:35:40+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "« Tu ne peux pas mourir comme ça » : le pilote de Flydubai raconte son attaque en plein vol    Le Dauphiné Libéré",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Le Dauphiné Libéré"
+      ],
+      "all_titles": {
+        "fr": "« Tu ne peux pas mourir comme ça » : le pilote de Flydubai raconte son attaque en plein vol"
+      }
+    },
+    {
+      "title_original": "قراءة في الصحف العربية - الشرق الأوسط: ماذا تريد مصر من دخول الحرب؟",
+      "title_zh": "قراءة في الصحف العربية - الشرق الأوسط: ماذا تريد مصر من دخول الحرب؟",
+      "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQcDBZUWgyN0poUjZvelR6S1dtR3ZkTVBtZEFxNk5TQlNrbHZtV3lkdXB1Y011Yl8xWWZOMmlXdVZXek0yLXM4LXFBcVU5QW5uOEkwbElSSWxRLXo2NERQVXNhWEhKUzhJb2ktNGphMEVZODJEdVNqeW9nMExTelFIalFvREFWU3hlWWV2X0F6bnhvc2l6WjUzdW8zTFZXdjd1MkJpaEE1d0l4SF9FYW5FZmFybVpsampxWFAxaGk0Sjk2TnBzMzYtNUtIRk5SUW55cEpXTHFKQnpiUm9OUmpweUhiUGNzRDRuVGEyd1p0SUVzS01OdlgzS3ZoeG83Z3JWdm9VS3lVM0pPY293c2loaU52RS1ONGRIYmtIak5hV04yVzdqVVAtUFAxa2N1X1ZVZ200MzFBVFZvOHhaUzV3YjRIaWowcHJZbjB0Ty12MWhiSV9RTWpRQlRNVkpoTzNjQjVzTnZvRVRic0hwam5qZ0d2Q212RmxtQTVYMlNsTUxmMndZU0t5S1Uxak9hc0ZERmNINHNLTDJCOWRVcEtHSGp5RkxCQUQtcHpUemJ2UmVyQWFRaDFNSlFkYUdpOFFnbmpEWVdkR1FUWnItVnBaamtOamVlaFJsNERQRHhNWXVfYkJUa1kzM3ZFSnpUbFFIWmtkdDZIcjkyTFVuWTNmM21xOVNQQzNTY2pncTlPZ0o4Sno3ZTU2eXd1bjlOWnpOaTI5XzB3?oc=5",
+      "source": "مونت كارلو الدولية",
+      "source_score": 40,
+      "published_at": "2026-10-18T04:33:06+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "قراءة في الصحف العربية - الشرق الأوسط: ماذا تريد مصر من دخول الحرب؟    مونت كارلو الدولية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "مونت كارلو الدولية"
+      ],
+      "all_titles": {
+        "ar": "قراءة في الصحف العربية - الشرق الأوسط: ماذا تريد مصر من دخول الحرب؟"
+      }
+    },
+    {
+      "title_original": "ウクライナ軍のスターリンク通信制限、ルビオ米国務長官が関与否定",
+      "title_zh": "ウクライナ軍のスターリンク通信制限、ルビオ米国務長官が関与否定",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fQTBSNFBqanJhczhhODVUVmhYSENOWHR1ZmVNdFl5YmpmVDBPdXAyZ3FpOVJRc2pIMExRNkN0RnRyaTJobUtUZExVSHdJMXhkUFpCR0Z6cGtLTklvUmVsUTltanFrcjYwOERNRw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-18T04:26:55+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ軍のスターリンク通信制限、ルビオ米国務長官が関与否定    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ軍のスターリンク通信制限、ルビオ米国務長官が関与否定"
+      }
+    },
+    {
+      "title_original": "قادة الاستدامة في الشرق الأوسط 2026",
+      "title_zh": "قادة الاستدامة في الشرق الأوسط 2026",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbE1hVHN5WnpCb2ptX2IzRGROSk44T25fbDF0MGY3UjJiYVJWQmt1MXBneWdDV1VwS2E3Wmk4MS1CLU9pMUFKcjl3bktMYzRYckI0dG9oX0ZaQUVibFJCSUlldWd2VHBCdWEySGNRMlBEeFRmNEZBLXZRSWJJa3dkcEVFZUlMd3M5YmRLU3IzYUU?oc=5",
+      "source": "Forbes Middle East",
+      "source_score": 55,
+      "published_at": "2026-10-18T04:19:03+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "قادة الاستدامة في الشرق الأوسط 2026    Forbes Middle East",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Forbes Middle East"
+      ],
+      "all_titles": {
+        "ar": "قادة الاستدامة في الشرق الأوسط 2026"
+      }
+    },
+    {
+      "title_original": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+      "title_zh": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-18T04:00:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly.",
+        "Outside, it was a typically blowy early evening.",
+        "It may nominally be spring in the south Atlantic, but Stanley harbour, with its dark grey water speckled with historical shipwrecks, was a cauldron of swells and churn."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina"
+      }
+    },
+    {
+      "title_original": "Oriente Medio amenaza la economía",
+      "title_zh": "Oriente Medio amenaza la economía",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQai1xOWFJNENZV2swdEFuWXlvLXJLNDIzQkNFbDlwbmI3Ry1ydVE2OUJUZDFrVDd6MnVQNU9UZ05WYnFBcGV0MDI5YjUxNVZ1UWtyekJvTk9uNFBibVlTcmNIWW1iQ25ZVDE5Y3ZOdzVDN1o1czJLV184MEZHZmxLbmIyQjlIbnZUWjFxaGoyaw?oc=5",
+      "source": "La Región",
+      "source_score": 40,
+      "published_at": "2026-10-18T03:10:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Oriente Medio amenaza la economía    La Región",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "La Región"
+      ],
+      "all_titles": {
+        "es": "Oriente Medio amenaza la economía"
+      }
+    },
+    {
+      "title_original": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
+      "title_zh": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say",
+      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-18T02:50:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s defence minister said Saturday.",
+        "“I’m saddened to share that there have been both fatalities and injuries as a result of an incident on the base,” defence minister David McGuinty said at a press conference on Saturday night.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say"
+      }
+    },
     {
       "title_original": "Super Micro Computer Aktie: Taiwan plant strengere Exportkontrollen",
       "title_zh": "Super Micro Computer Aktie: Taiwan plant strengere Exportkontrollen",
