@@ -1,8 +1,558 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-19T17:28:45.633202+00:00",
-  "count": 35,
+  "generated_at": "2026-10-20T01:46:45.900754+00:00",
+  "count": 61,
   "articles": [
+    {
+      "title_original": "原油先物下落、対ロ制裁免除を見極め 中東の供給懸念続く",
+      "title_zh": "原油先物下落、対ロ制裁免除を見極め 中東の供給懸念続く",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EeUtkQXJoOV9rQjlRaTVNc09nY2FBR0hnbHZlbDc0dXhqZThhZkFIUjJNRGdzYnY1UnFxaVVidm04bEpmM1gtZFBJVkgtaFRpdEI2MV92LTYwS0ZXVEFmMG1seGdfWGJqdGQ2NlVVRkFRVk41eUhqUVlLZDRnZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-20T01:31:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物下落、対ロ制裁免除を見極め 中東の供給懸念続く    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物下落、対ロ制裁免除を見極め 中東の供給懸念続く"
+      }
+    },
+    {
+      "title_original": "ترمب يعلن استعداده لقمة ثلاثية مع بوتين وشي لبحث النووي وحرب أوكرانيا",
+      "title_zh": "ترمب يعلن استعداده لقمة ثلاثية مع بوتين وشي لبحث النووي وحرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPWGpCeFlNWnZUa2tZalJwNHAyTWdZMVVMQkg1aVJfN2k1YkduS3F4VU1UaHBwRzlDYVdUeHRKWnQ1NC1HaXRpempCLWp4dC1fMl8xZ2pwcU5TM1VZNmt6SzVBMkZ4dHFBM3I0U2dFY3pSQUo1OUZ2X2FjNmRwalB5OHF1bzlKY3VlbjJoazdQUTRNQllJdlBuaEVkWVBySUhpNUIwb1lobUYwMTBac0FjSHV1ZFhJOGNnaXduc05OeVVQZy0tZm50c2o2NlFDaE1EVVFHQTZmeGRrNm9NbTBaQng4MUloR2ZpVFJ0TmM2WFlkdE5IRThldmQ3cXVVNjZ4NUJCQVV5YVNURHoxSTNHNWVXTXBmVE4wcjRzOFZ0aHNNamVVVEpBeG9ZTW52TXRzRFpfVVpxRjJVOWpKRFVlb1BudXbSAcoCQVVfeXFMUFZrbnVibnB0bWZhdU8zWEtxaGRFVEZjdWpJaEdBWnRuTXNFcnF4YUxhWVl5Y1VYaUtwejhPalpwY1MxbGszcGJYWFIyLW16cVNqVTdUSmhwVlhXS3JtZDAxX1c3b1FxSTA3cldPdVRfbTNZWWRvN3prZmdpS204XzEtQjRQajRUX3gtRjdndFhVNXZjaDNlcEx0M2tGZTJybXM2bXpVVmtyNUkzcDdVeTdGSndsZzA2WFp1YWFYQzcwWWZJXzJDeV9CNVVzQXRfTG5Lc2dKZ3NZZE5YRmZ6M1RtWTFVOXpORERZU2F6THU2RTUxQVp6OGNxZlpYUzY5VC1XN0VrMzlyUXdnRkdfdFpvMnVDZ1F4ZTVFbU9PVzlNa3dOdmlWa2Q5M3VORlh2X1ZkNF95a1FlVmxsaGNtQmpSYzVXLWw4Rm9R?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-20T01:19:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ترمب يعلن استعداده لقمة ثلاثية مع بوتين وشي لبحث النووي وحرب أوكرانيا    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "ترمب يعلن استعداده لقمة ثلاثية مع بوتين وشي لبحث النووي وحرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv",
+      "title_zh": "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQM2RmejR4dzYzZVU3WUU5WGw5V19hanBUNUwyUFVUX1JNckFtOWpwTlFBcnVrbVBNVi1GRGRnTzEtbEtNZkRyOU51a2lIanNURFp0ZjY3UlVPS0ZLZVdTVi00cHdpVnlsRWVUa1o5M2NwaWtlaGptVnRkZVdoXzhva0pTc2MwNFliWE8wLXoyVUdRM3R0TzVJY3p4Z05YblJkcVBLOXI0QmNzUURTd0VBMFJGSE14Y2NWY18xSWJjVG5GeU9UeXBlcWI5VWlGLUttV05nbWpmRlVNM1RwTktOdA?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-10-20T00:44:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv"
+      }
+    },
+    {
+      "title_original": "欧盟：俄乌冲突结束前不会解除任何对俄制裁",
+      "title_zh": "欧盟：俄乌冲突结束前不会解除任何对俄制裁",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FOElZV3R0aFlpeUxuRW44VGtfRVNQYUVSNDVMXzJ5WlF5MWxCZjhDbFFNaGc4Q3VvUmRPVHVtNklsbDVRX2M3WEwtaw?oc=5",
+      "source": "手机新浪网",
+      "source_score": 40,
+      "published_at": "2026-10-20T00:40:05+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧盟：俄乌冲突结束前不会解除任何对俄制裁    手机新浪网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "手机新浪网"
+      ],
+      "all_titles": {
+        "zh": "欧盟：俄乌冲突结束前不会解除任何对俄制裁"
+      }
+    },
+    {
+      "title_original": "トランプ氏「ロシアのウクライナ対応に問題なし」 米ロ中首脳会談には前向き（ロイター）",
+      "title_zh": "トランプ氏「ロシアのウクライナ対応に問題なし」 米ロ中首脳会談には前向き（ロイター）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MSEc0dGFSWnVveVJydlozZjR5M0NSY2Q5SW1vY25SRGZ4WE1ULTJXOGF3VzhSNDBucG9KcGdFMWJTT0Y5aFFPcFFCSF9fSkNheE9VWVJDVUgwZU9WdGF0MUZrT3pBbTJjemFHMlFOTzJ3dGVqVUZHWWtKSGtVOUU?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-20T00:01:01+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "トランプ氏「ロシアのウクライナ対応に問題なし」 米ロ中首脳会談には前向き（ロイター）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏「ロシアのウクライナ対応に問題なし」 米ロ中首脳会談には前向き（ロイター）"
+      }
+    },
+    {
+      "title_original": "泽连斯基：美国就俄乌冲突所作的决定难以解释",
+      "title_zh": "泽连斯基：美国就俄乌冲突所作的决定难以解释",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1OajJtYkM4eTdQYURxTVhVQVZnTndnaWlmT3oySFR5dDcwNk9WS1Roa0Vna09RREp6b3JMeUJVbFRzSkx0cHoyRXUtOTg?oc=5",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-10-19T23:29:56+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "泽连斯基：美国就俄乌冲突所作的决定难以解释    凤凰网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "泽连斯基：美国就俄乌冲突所作的决定难以解释"
+      }
+    },
+    {
+      "title_original": "Five ways El Niño is affecting the weather around the world",
+      "title_zh": "Five ways El Niño is affecting the weather around the world",
+      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-19T23:08:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe?",
+        "Sarah Keith-Lucas looks at the evidence.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Five ways El Niño is affecting the weather around the world"
+      }
+    },
+    {
+      "title_original": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+      "title_zh": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-19T22:34:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the Department of Homeland Security said, in what amounts to a temporary reprieve after their right to stay in the country was set to expire on Monday.",
+        "Temporary protected status was set to end on Monday for about 101,000 Ukrainians and 1,800 Sudanese.",
+        "But the DHS said an announcement “will be made at the appropriate time”."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "US grants deportation reprieve to migrants from Ukraine and Sudan"
+      }
+    },
+    {
+      "title_original": "El Brent baja un 0,28%, hasta 109,55 dólares, pendiente del conflicto en Oriente Medio",
+      "title_zh": "El Brent baja un 0,28%, hasta 109,55 dólares, pendiente del conflicto en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZjRoU2o1OThsVkVvTnpWVFVqcUliWGFCLVpmelZVWkM0MFpwWlp3alMybjJ3Wnoxd24yS3VUWFd3UUhnaGZPd3hqTWhSYlh2MGxSSTRVUFpoZFNNTTJFTlhuUHhpUEltdEpxLUw2YlUwNTJacFFXdkJ2aHZJVk1fV3hISVI5bE9YdFpXRV9POXJBbTJBZEZZNVZfbW5RVHBSbVlSY2NuTDl0QkJXX0ZwQm54enlqaG9pNl9j?oc=5",
+      "source": "El Periódico de la Energía",
+      "source_score": 40,
+      "published_at": "2026-10-19T22:31:39+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "El Brent baja un 0,28%, hasta 109,55 dólares, pendiente del conflicto en Oriente Medio    El Periódico de la Energía",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "El Periódico de la Energía"
+      ],
+      "all_titles": {
+        "es": "El Brent baja un 0,28%, hasta 109,55 dólares, pendiente del conflicto en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Zelensky should get ‘somebody else’ to negotiate to end Ukraine war, Trump says",
+      "title_zh": "Zelensky should get ‘somebody else’ to negotiate to end Ukraine war, Trump says",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeTlvdFpCZHNoVC1aWXE4VUdlZ2hzZklwdDQydUxmeFlwRHV6N29vekNpTnhFT1J4dlJPcHVpcV91SElmWU9XamUzQXY5YlRUV2NiSXk2WEJ5NWl1SWpveFBVQzJ3cTd2NXV3RzJfN09ucWJicTBZcm9hRXlub1pyVDliMmoxd2VGN0xyMkt1UEpPb0F2LVFDWmtVSTRIaUdPd0xyM204bGJJX1dhZExzaEVFak9JLThOOENZNEgyRXFlbTd0ZmZJV2NjLVJHSndZVkdOQ9IB1AFBVV95cUxQTlpPZGxad05KaXZVSDFiZkNtR3ZiVS1oc0JldFA1b2gxZ2k4dW56UmY5d3lwOE1iWHVXZXMxSzNCU20wdG1MM2RmZXpKckhBMm9IQVVlSWh0UlVwMFQ1RkU3TmE5TFBOaWp5S1o0eTNaM2Vja1kxbDJrRldIM2Z4T1psUk9VWjg3UkptOGJhRC1RNFd4SW5wV216V21RVVZXeG1lNVoyUWNMajdTdmh4dTZZSkhBeTFsbnFydUFSeGc5QWVXcnNYSzdWZTRKY3VYbzVIUA?oc=5",
+      "source": "South China Morning Post",
+      "source_score": 55,
+      "published_at": "2026-10-19T21:52:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Zelensky should get ‘somebody else’ to negotiate to end Ukraine war, Trump says    South China Morning Post",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "South China Morning Post"
+      ],
+      "all_titles": {
+        "en": "Zelensky should get ‘somebody else’ to negotiate to end Ukraine war, Trump says"
+      }
+    },
+    {
+      "title_original": "トランプ氏、11月の米中ロ会談に意欲 議題は「ウクライナより核軍縮」",
+      "title_zh": "トランプ氏、11月の米中ロ会談に意欲 議題は「ウクライナより核軍縮」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wRHh4ZjhHV3VNRFZhVWpISmU0bk5wY1YtM2NqZnFjM1dmeW0weHlVWE9CQzNWaklfLTZpZHdZcFlOQnIwNV9UNHJ1MDJzUkY5Y3haSXhXbjBwSkxtQ05lRGJ3UXFrb1l6Ry1CQQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-19T21:25:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "トランプ氏、11月の米中ロ会談に意欲 議題は「ウクライナより核軍縮」    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、11月の米中ロ会談に意欲 議題は「ウクライナより核軍縮」"
+      }
+    },
+    {
+      "title_original": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "title_zh": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-19T21:14:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Curfew imposed in parts of central Paris and other cities after rioting across France\n- Published\nFrench authorities have imposed overnight curfews in parts of central Paris and other cities after a weekend of riots and looting across the country.",
+        "Police in Paris said a curfew would be in force between 23:00 local time (21:00 GMT) and 06:00 in Place de la République, where protesters had gathered over the weekend, and the Les Halles shopping area.",
+        "A ban on unauthorised gatherings has also been imposed in several other parts of the city centre."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Curfew imposed in parts of central Paris and other cities after rioting across France"
+      }
+    },
+    {
+      "title_original": "米ウクライナ、週内にノルウェーで協議 ウィットコフ米特使ら参加＝関係筋",
+      "title_zh": "米ウクライナ、週内にノルウェーで協議 ウィットコフ米特使ら参加＝関係筋",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTEpOZjQ1cnNJWEJFa1BnYVRPVXZBYjZQX0lsd21HZzRLQkZhYkU1UXdHcFE0TU5CSC1fcjgtMGlLOGpHNlpxNGltaDBqNGRIQkVBU3dPRXFJVi1talpGRXF3TmxQbzR3RlV6alIzS0xHOVM4UXlfR29MbWxIUHFvMkNOYTZqdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-19T21:03:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米ウクライナ、週内にノルウェーで協議 ウィットコフ米特使ら参加＝関係筋    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米ウクライナ、週内にノルウェーで協議 ウィットコフ米特使ら参加＝関係筋"
+      }
+    },
+    {
+      "title_original": "トランプ氏、ウクライナ大統領の交代再度要請 「別の人物必要」",
+      "title_zh": "トランプ氏、ウクライナ大統領の交代再度要請 「別の人物必要」",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMHpVaGxHZFBmLUc4ZW54cVVnSHJYdTRaWVV4a1prYVQ3dkJ0NDVHZDhWYzBPS2tzbHphcHdIdFlyVGhtRUs3am9sTksxZ2plWWJsTEJSNFhta3F6T3FuUGNQN1lKTXNOZ21TX1paZXJUN1dySGViMXo2dmV1MjJUZGd0NnlzQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-19T20:27:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "トランプ氏、ウクライナ大統領の交代再度要請 「別の人物必要」    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、ウクライナ大統領の交代再度要請 「別の人物必要」"
+      }
+    },
+    {
+      "title_original": "米国務長官は和平目指す姿勢強調もウクライナは不満表明",
+      "title_zh": "米国務長官は和平目指す姿勢強調もウクライナは不満表明",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtTldVUnR0Y3FaTzVPTUlsYzhFRmFMMGk1cERRNEx3UE9kUF9nSjdPUmJMWnNPQklXaWhPYW4ydlZBa2xfVXdfRmpGWmJZU3FDWU1uMUxSX1NQb3N2Z3Zn?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-19T19:52:57+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "米国務長官は和平目指す姿勢強調もウクライナは不満表明    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "米国務長官は和平目指す姿勢強調もウクライナは不満表明"
+      }
+    },
+    {
+      "title_original": "トランプ氏、米ロ中首脳会談に前向き 「非核化協議の可能性」",
+      "title_zh": "トランプ氏、米ロ中首脳会談に前向き 「非核化協議の可能性」",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT3piN19qdUR5bnFqTHFGS1ZkeVB3UUxtSk80bjhaazQzZW1SS3pkUjFGdHN2NzZYd3daaVkzUjZlbWpiMlVvbWg4VVRBajdGU3d5djF1R2xNMDFBeS1Md19iNXE2aHFiTDJfcXhUcnotMm5NZHlBLXQ4eHlDRjhqemgzbWo4UQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-19T19:47:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "トランプ氏、米ロ中首脳会談に前向き 「非核化協議の可能性」    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、米ロ中首脳会談に前向き 「非核化協議の可能性」"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - Trump zu Dreiertreffen mit Putin und Xi bereit",
+      "title_zh": "Ukraine-Krieg - Trump zu Dreiertreffen mit Putin und Xi bereit",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObVFWMUM1YmR3a1k2MmtBcHBFb3AtWS1iOUlEQjBKdXhwUUxkUUFiM3RyWFJWZ1FNazhPVDlDQklXV0JkUFZ6aTFabEpCbWlRRU9PMFVvY1pHZGFRRDc4M29sWmk5TjRLNlFqaEZJNktnaWZieGNFSlVhUk9RbXdCVnZFc2c3Si1FbmVaN0kwQQ?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-10-19T19:44:09+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg - Trump zu Dreiertreffen mit Putin und Xi bereit    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - Trump zu Dreiertreffen mit Putin und Xi bereit"
+      }
+    },
+    {
+      "title_original": "Ukraine’s scars end Svitolina-Monfils marriage: “I have rarely spoken about what the war has done to me inside”",
+      "title_zh": "Ukraine’s scars end Svitolina-Monfils marriage: “I have rarely spoken about what the war has done to me inside”",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcDZOUm11LUMxVUJZdFJjblJkT2xjQ1RmTlgyTE4xbk5LRkpVa2xHYmhvVE5uR1dWY0Jhd3J5YUhQTE1ZdnRra0FtTGc4REJHQzNueVBDUzZQajJ2YWVZc19wcEhfcGt1NGV6Z1B4QThxZHViSVhPTDRyMEVPSlV2aHFYWkhlUHozVHFJN0JyUzVUWTduQzc5eHhXcFhZTjZhU2JlOVItbDFHanF2VnNsZFFWTExpT05IVGQ4Y1JwMHdhUGRzclMzRXZtUTFIS0cxQ3c?oc=5",
+      "source": "Clay Tenis",
+      "source_score": 40,
+      "published_at": "2026-10-19T19:42:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine’s scars end Svitolina-Monfils marriage: “I have rarely spoken about what the war has done to me inside”    Clay Tenis",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Clay Tenis"
+      ],
+      "all_titles": {
+        "en": "Ukraine’s scars end Svitolina-Monfils marriage: “I have rarely spoken about what the war has done to me inside”"
+      }
+    },
+    {
+      "title_original": "Russia Ukraine War",
+      "title_zh": "Russia Ukraine War",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVJBdlJVQmdsOGJ0blRwcHBPZ0s4YmtmeldlekNlVmlBR3JveDF6eTJYNVZnUUZ4Sk1SZXdHSTE0Z3F0Y0I0bjVkTFM1TWVBWUw4SFNfUm1VZ1h6dlJYLTA4TFRiZmlENGdjMTBWdl9UTmhHRHh0NzZfVHdENzhRWnE1TG1zc0E5X2dIa2FHY2FXajdacjBhNmhCc2RJMUdWdTM3UF9hcw?oc=5",
+      "source": "WV News",
+      "source_score": 40,
+      "published_at": "2026-10-19T19:32:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia Ukraine War    WV News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "WV News"
+      ],
+      "all_titles": {
+        "en": "Russia Ukraine War"
+      }
+    },
+    {
+      "title_original": "Red Bull King of the Air Qualifier Taiwan",
+      "title_zh": "Red Bull King of the Air Qualifier Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdWdrVEcxY0xlQ2o3VnMtbzJ0UGo3aC1EeTVKZGpfNzJZODhsaHBYdkpMc2xVSHRxdmNvVl9pcjJja3NZNVZDb0xHckdSSGZqRTN3XzBFalN0SlFaN3F1UWQzSzlvZzJBa1VWYjEzcmt6clNnSlE0dGNuQVg0NTNZVmthaWc?oc=5",
+      "source": "Red Bull",
+      "source_score": 40,
+      "published_at": "2026-10-19T18:44:33+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Red Bull King of the Air Qualifier Taiwan    Red Bull",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Red Bull"
+      ],
+      "all_titles": {
+        "es": "Red Bull King of the Air Qualifier Taiwan"
+      }
+    },
+    {
+      "title_original": "Taiwán repelió 16 embarcaciones chinas en un día y denunció una operación de \"guerra híbrida\" de Beijing",
+      "title_zh": "Taiwán repelió 16 embarcaciones chinas en un día y denunció una operación de \"guerra híbrida\" de Beijing",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOenFHWXg4bTJlT0I4YUxlSFRTQmRWcmxKT3NPa2hRTHREbk1RN3hKSE9XbmJHcDhjLWVVMzZnR1VxQl9PSndCQXZoR3ZqOW1pRkllVWM1NXVsTENPdjZaUkF0eHhBOWJBUVg2MVpIdjdOUHYyOGNWaU41a1ZnZTV1SHdFWktzT1NKWUZydWZ2X3VIYzM3WmZhZDdxcV9ZeEJyV1B1Tks5NUN6Xy1nVV95VUVsa1N4anVsRkduSmhITUdFOWowRE1TUGJMME1xa2FQejN4c3RhcXNqWEo4Sm1aRWUxeFlxX3PSAYICQVVfeXFMTkdBWE1tSzR2RkVxRUE2XzB4VnR4dWphOFdjcjdMcGJCOURoRTJGRjFGenozejU2RTdKdVFqZ0NIMFZ6SnVCaTVaM2xDNEJEdDVfd1lkeV9UZ0Y2c0h0YnNMUmRVNWtzUHV1T3o0YmJ5NmhBb3BqTVdlOVdIYkFTSHdqZHNUOWtPZ3R4YlhtZVJScDhyVGNhNUVQZW5oLVdwVnVUekN6OXl5bW82ZmNHdjZFdGNuYTFFR1dmV2doc05lOW5aNVRLMzJSOTM2NlhLVnV6NUdyaDExeGNjbzl2aE01QmhyQlFVRHRUX2t6QUVyMFR4bklsbjRlTGk0bXpLY3dR?oc=5",
+      "source": "Infobae",
+      "source_score": 40,
+      "published_at": "2026-10-19T17:31:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwán repelió 16 embarcaciones chinas en un día y denunció una operación de \"guerra híbrida\" de Beijing    Infobae",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Infobae"
+      ],
+      "all_titles": {
+        "es": "Taiwán repelió 16 embarcaciones chinas en un día y denunció una operación de \"guerra híbrida\" de Beijing"
+      }
+    },
+    {
+      "title_original": "Ukraine Krieg: Putins Krieg: Putin will einen Dreier-Gipfel mit Trump und XI! - Video",
+      "title_zh": "Ukraine Krieg: Putins Krieg: Putin will einen Dreier-Gipfel mit Trump und XI! - Video",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQlZOTXB5SU9QYlJHS1VyV1FxMnFHdGZqZW5TdXFYTEpKSFM1cnJzX00yUUY5dVNpOGY4Rmtmd0RIOWtrd1M0N0RJbVZFck1Mc0dkRUJnUWlUZTlNVndSUWh2b1Rtb1VfUGkwRjhpWmVJWXRtWHNUMlpWYVlsbWZqZ1dvcjBMVGUtN3ZKakdldmdCbThnd3ZNTE1BcVlsMU13UzRzV01odHNPYl94R05wV3Zzek80ZDluTnJha0UyTDJmMFhOYVl0MTh4b2JvNW92NXQ4N2NybTFRRGVwcGc?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-10-19T17:27:40+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine Krieg: Putins Krieg: Putin will einen Dreier-Gipfel mit Trump und XI!",
+        "- Video    WELT",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine Krieg: Putins Krieg: Putin will einen Dreier-Gipfel mit Trump und XI! - Video"
+      }
+    },
     {
       "title_original": "Kenya cult leader who told parents to starve children guilty of 191 murders",
       "title_zh": "Kenya cult leader who told parents to starve children guilty of 191 murders",
@@ -79,6 +629,31 @@
       }
     },
     {
+      "title_original": "الصين تغيّر حساباتها تجاه تايوان بعد الأداء الأمريكي في حرب إيران",
+      "title_zh": "الصين تغيّر حساباتها تجاه تايوان بعد الأداء الأمريكي في حرب إيران",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPNkFzV0tWUFh1cEpOUDhuWTZoMUJPbDFJaWYzLWF5RzFndENRT2h5QzBhUlZLcGJWYmlmZ0lybXNqdXVUT29RZ0w0cmNrVnpnREdPbC1KSS1LbHF5LUNMbUhQUHJHYy0yX05GMGRiY1hBNEl5N29JektMUTBVRXNnVFd5Yi0yOWpnM1hDY2VSYUJmZjJOdzF3ZHZWUUZGc1JRS21yakFUT1lLcWpqQUt3bVJkTDYzZFYzUk9JS3BlQU10bFppamFzTjViU3Rqd3Exakt4U2lZYlZhMW5TOWNBTGtHdXQwZ1p1ZWUyck9ZZGxmOW9QX0VLQXlYQ3ZCU0NHd25wYmRBM19Db01FSS1OdEdmbGNraWJsTWhWUDl3eldKN3F0blYzT1VVV0QwMWVvWDZQS1VJc3ZPV3N6OVZCSDdTakdlLXpvYTFV0gHQAkFVX3lxTFB3OVRpYlBPSWwzZzh4WnFkWEdYM1BCcmVaZEdXTjdRRUFMSWxsdHNUTW1kblpzYnBTQjNHSVBBelZVWElDMFlQVHBkazUtZW1uU0JsaU9XcE83V0NKOGRvejlrNThBUHN3MWw0MEcxMkRNazItZmN5eWlYamNlbjdLTjZBTmc2SFNiZ3BkeGlHQURLUW9ScTFsTzA5ckFxYWtFSWIyTVZOa3ZPemMxdDNlTVZSU3p3LWoxUF9aV0syZVRvOWZQZXJfN0I4UXZWLXFlTzFFWGxuaXdVRmFIOTc4bTk3dVkxQ01JRDIyaTRnQnhTcDc3LWxaNXZkc21LTUw0VVpDX2hfdXBIT3E0dGpqU05UYmdoN3hmRGpmcUMtXzlNOHZ3dXd0WTNibXNQTENXT1Vwd3hGTV9xV3hTeUV3a1kzNTlQd0xPZ0NEcmRadQ?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-19T16:19:36+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الصين تغيّر حساباتها تجاه تايوان بعد الأداء الأمريكي في حرب إيران    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "الصين تغيّر حساباتها تجاه تايوان بعد الأداء الأمريكي في حرب إيران"
+      }
+    },
+    {
       "title_original": "Solvay cuts 2026 forecast after Middle East conflict hits Q3",
       "title_zh": "Solvay cuts 2026 forecast after Middle East conflict hits Q3",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnFMNEJmeERXNlJDVnNZLVhDb2NyRl8zUVltR1hWdlR1TDI3RnQ3dVpENmR0Ri1zSklLSGtFRDdPN0UzUjBfZ3JrQl9PQUJYSzhDYkUzTTJ3SEs4dW96UnRPWUxCWkJnc3FTQzdiVXA2eUFOWVRaY1hXUk9JNi1qbUxaZW04OWZjOU5INjgwRHpMX01ZQWFjZUllREtFYU55MnluY2ZieG4?oc=5",
@@ -126,6 +701,81 @@
       ],
       "all_titles": {
         "ar": "يوميات الشرق الأوسط 19/10/2026 GMT"
+      }
+    },
+    {
+      "title_original": "استطلاع \"الشرق\" و\"إبسوس\": التدخل العسكري في الشرق الأوسط عامل مؤثر في خيارات الناخب الأميركي",
+      "title_zh": "استطلاع \"الشرق\" و\"إبسوس\": التدخل العسكري في الشرق الأوسط عامل مؤثر في خيارات الناخب الأميركي",
+      "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPOE1ZajBTSDJfdDU0cEFlUHRrYm5NNVNzOXlFa21QdjFGUzdvSVpyRllxOHFCVjRfQ1ZxRm9CUTZHcF82cDdwWUN2MFBvYU9Gbk5hMzdDNG9IbnBnNjhETlUwcnRYWk5hakp4SUxJSHpsNndVYWY4b3BTRFBUQmhsUTZhV3Z5dzJnOGktVHkzNFlNX2NmRTZRenVwZHVhWXA5TjZsdnJaU3JkXzM4UkRDXzZ6ZGpYWG1YQnJERUFYYlp6ekpaNWhQNDhhb3llNVhSRWxDMGlxX2Y3eENRMEJnM3NJRGtZRkUxOXY2dTZQMVNPU0lCZ04tNlo4QWlSa1J5SEdob21mbV9IOEI1UDkzOGkxRXNpdDV0Z2JaSnBIUms0YnhERzdUYkk1c2UwT0JEUWxTcThiTGZuN1BTSktSeTRkZ2tvdU5kdTlsWVcwbjBqbDBlczk2eEZRMXg4M25nSGlUNmNpdjlJbXlaUVE1RUxVYUtJZmtFdnJySWlUWFVMS044VTZ6bTRIR3V3UUpzampHRnFRdzYxaW1tb2ZPRkZoT1lzSjgzOTlLLUdwLVczaUFfRFVvaDZkMTRydktXeHgxT3hlU19jbDlIdHNVRGQyVklHSjJ1VnNwc2FJdWtoVGw3V2gzVER1Q3NUQ25KTVBIZlJR?oc=5",
+      "source": "الشرق للأخبار",
+      "source_score": 40,
+      "published_at": "2026-10-19T15:37:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "استطلاع \"الشرق\" و\"إبسوس\": التدخل العسكري في الشرق الأوسط عامل مؤثر في خيارات الناخب الأميركي    الشرق للأخبار",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "الشرق للأخبار"
+      ],
+      "all_titles": {
+        "ar": "استطلاع \"الشرق\" و\"إبسوس\": التدخل العسكري في الشرق الأوسط عامل مؤثر في خيارات الناخب الأميركي"
+      }
+    },
+    {
+      "title_original": "Putin's Aspired Meeting With Trump, Xi Ices Out Ukraine, Zelensky",
+      "title_zh": "Putin's Aspired Meeting With Trump, Xi Ices Out Ukraine, Zelensky",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR3ZBZGpNcjJGY1ZXSGxtZEhvLThhM0JaMkY1VjZxYTZCWHZGWDZWNlJ5Uk8zNENvM3NocGN6MlBXdEtUS3RtNHo4WjVUOFJmV3BpQUFGeVNxM3U0ZzFrdG5IV1RfbWNtcG9GRmJKOVpzMEFVeURuenMyT0JGUzNsQ1Q5emtMTzVkRG1rTlBqaDd2UE1fSUpIWTRialpnZw?oc=5",
+      "source": "Military.com",
+      "source_score": 40,
+      "published_at": "2026-10-19T15:35:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putin's Aspired Meeting With Trump, Xi Ices Out Ukraine, Zelensky    Military.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Military.com"
+      ],
+      "all_titles": {
+        "en": "Putin's Aspired Meeting With Trump, Xi Ices Out Ukraine, Zelensky"
+      }
+    },
+    {
+      "title_original": "Pays membres et pays partenaires de l’OTAN se réunissent à Bucarest pour renforcer la réponse face aux activités hybrides de la Russie",
+      "title_zh": "Pays membres et pays partenaires de l’OTAN se réunissent à Bucarest pour renforcer la réponse face aux activités hybrides de la Russie",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMU5vbXhnRkdjZjVBM1Z2cXdzV0tHU0E1czFvY3JweTFvdWxmNDRadVhGNHNJZEg2V1lRcGQzcXhwS2YtdFBnbWtkNlc1TmZWWnMyMGw3WGZibkVQTzBrUkJRdEJscDZfX2xYUUxLRC00XzFyV1ZoT21QbVdiTGZWcHI3ZC13NUxjc0dyeUQwV0gzUXAxTGtLZ3hwRjFfZXo1VUZkWDhVNHd0cUdLdDNwN050NXpEdkF4WjFMWFpBYW90NXFNUktEZzNnQnNPQVQ3UW5EUmh4ZVJFMFY2T1JsWW1TZUc5bW1qajAxRGRCaEc?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-10-19T15:30:02+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Pays membres et pays partenaires de l’OTAN se réunissent à Bucarest pour renforcer la réponse face aux activités hybrides de la Russie    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "fr": "Pays membres et pays partenaires de l’OTAN se réunissent à Bucarest pour renforcer la réponse face aux activités hybrides de la Russie"
       }
     },
     {
