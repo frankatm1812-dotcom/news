@@ -1,8 +1,858 @@
 {
   "date": "2026-10-20",
-  "generated_at": "2026-10-20T01:46:45.900754+00:00",
-  "count": 61,
+  "generated_at": "2026-10-20T15:39:47.462226+00:00",
+  "count": 95,
   "articles": [
+    {
+      "title_original": "Suspect arrested after historic town hall set alight - French media",
+      "title_zh": "Suspect arrested after historic town hall set alight - French media",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-20T15:31:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Suspect arrested after historic town hall set alight - French media\n- Published\nA suspect linked to a far-left movement has been arrested in France after a 19th Century city hall was gutted by a fire over the weekend that broke out during mass disorder, French media report.",
+        "The clock tower and parts of the roof of the ornate city hall in the central city of Limoges were engulfed in flames before collapsing on Saturday.",
+        "The 34-year-old suspect is known to police for acts of violence against public officials and is on a French national security watchlist, FranceInfo and BFM TV report."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Suspect arrested after historic town hall set alight - French media"
+      }
+    },
+    {
+      "title_original": "اضطرابات الشرق الأوسط ترفع تكاليف وقود السفن وتغير خريطة التزويد العالمية",
+      "title_zh": "اضطرابات الشرق الأوسط ترفع تكاليف وقود السفن وتغير خريطة التزويد العالمية",
+      "url": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxOakoyaGxNS29mM3hoNjBCbmxMUl9NT2VIZHlPSzZudl9NSlo0U1NET1prWjl0MzFBTktmNFRXVGtFR2dlVlZtNEhWNTZuRVVJUW1wN0VUb2RmNkVIUjFlNFhRbmxPbWk3ejVNalB1Q3pNYWlTTzVYT09EazdaS2F4STB0b2NoQUpHeE1xNTZJSmFMbGxwTmdtZWlDelpaZG8tSGZtZHFjby1oQXVuWVJMRWJ6aVJPLTZ4cjNfUThfM2YwczdKMHVDR2htc2dQX3BXUGEtTGJzZEItMnI4Z1dtWWJENy1MVDBRQVhZMk5BdEZ0U0c5QnM5N0hSbXhVaTY2MGdJaHVoUGdLQndWWXZYcnFNYWNMWkRxc2dIaDhCUjM4Ykk1YndUYS1wYXdIRV9lQU02Q1IwT2NWSWk2MGR0bjNaZWlxRkcyZWVBUmx1bWNuNmRYclBQcjFqYUhGZkhqcy1vbG9Tc1ZfOHM3eXA2VlNWTWZMOXJ3WFdJMnVvelpBb0tnNS10MXZpWFFIN1VlbWU5VlZFVEtkWV9Ld0RKbzNPSnJXYjF3TWdSd0l3MzJaV3h2TWdQaFdBXzc4bmN5cFoxQWhuY08yblJEaUlhOS1VYjNyVU1DdFNZWmU2OThfeEhna2x6dUZMTUlMZGs2cEtab3hoQVp0U195NTZfUS1faVNhR1c2bHF5VXlrSk43NVUzUl9UMUpqM082VWU4YmZJZkVlNzh3MzY0VnBZWk5EUl8tWUJwbllRcW9ILXEtV2xObWphSFZGcWQxellYeXhaTk1rQVc1aC1Ydmc?oc=5",
+      "source": "CNBC عربية",
+      "source_score": 75,
+      "published_at": "2026-10-20T14:56:54+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "اضطرابات الشرق الأوسط ترفع تكاليف وقود السفن وتغير خريطة التزويد العالمية    CNBC عربية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "CNBC عربية"
+      ],
+      "all_titles": {
+        "ar": "اضطرابات الشرق الأوسط ترفع تكاليف وقود السفن وتغير خريطة التزويد العالمية"
+      }
+    },
+    {
+      "title_original": "Krieg gegen die Ukraine: Drohne rettet erstmals verletzten Soldaten von der Front",
+      "title_zh": "Krieg gegen die Ukraine: Drohne rettet erstmals verletzten Soldaten von der Front",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdFRvWXRJZE9IR1U2QndoNm5kRVpKSTY4X3pFWUwyVXEwSjB1Z3F4UDBWS2dNYkJzOW5iZnlzX2ROUWJ3aUlBdV81RFFSQmMwOFhCR2YwVFdzZktNNnkzUDFUSk15eDJXRVhwN2dral9ENXQwZS12WHBwSGU5Tlo1NFJ3M3AzTHFXTkQyYlZXeW9BUEY4eU1qb05qVkZrVzBEOGhZVmFHUTVHdHE3VFVPYUplcjBYZTd5a1hMRmp6YjRyU05oVUs0TkNmUGdCNl9FeC1YS3YwMA?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-20T14:49:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Krieg gegen die Ukraine: Drohne rettet erstmals verletzten Soldaten von der Front    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Krieg gegen die Ukraine: Drohne rettet erstmals verletzten Soldaten von der Front"
+      }
+    },
+    {
+      "title_original": "Au Moyen-Orient, l’armée américaine contrainte de se redéployer sous le feu des missiles iraniens",
+      "title_zh": "Au Moyen-Orient, l’armée américaine contrainte de se redéployer sous le feu des missiles iraniens",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeVlwRGtHQ3NkMWxRZUhfd2dlelRHcGZKLXNiY1dxR3gzZW5nNW9ldXlFZGVCZXRDZmpIRmFMQ19DMWJxUjd4blF0bTBQR0ZRVmZobTVmckxrOEFDMndqYzdFRWdCbkRxZVY3OUFZd2R1ajRoZHc2QkVSbXBiQk9QdHdfTGhfUm5NYld1U1Q0d0hnS1FCeU1iTGRvZXVzdU9UaU42WWVkbnBZUDZFSTBfSFJ6cW0tcjA2OHVYY1FidW9mVlV3Ni1aS3VJb1o3MGJjMm1mYVVTdkxBMVllQVo1MERIVEI5YllFT21iOEN3NXBrdkZKVjJhakpBVEw0c0k?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-10-20T14:30:03+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Au Moyen-Orient, l’armée américaine contrainte de se redéployer sous le feu des missiles iraniens    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "Au Moyen-Orient, l’armée américaine contrainte de se redéployer sous le feu des missiles iraniens"
+      }
+    },
+    {
+      "title_original": "ウクライナ向け迎撃弾未納の可能性、政治的意図はない＝米国務長官",
+      "title_zh": "ウクライナ向け迎撃弾未納の可能性、政治的意図はない＝米国務長官",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc25YMjdGM1EzdzJGZVNueUNETnplQ1U0X05YUjN2ZVBYeFN3a2RNcURoQWJLTU9vbUVFTzg1WlUzOTRlbE1aVW1mUF81aVZqWEpWQ1NaeGZ6VEVFaUtHdk9tRS15TjlqdVRfeGY2U2Vaa3FkaFJGNUpIS1ZaN0VwOVg2dllwUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-20T14:25:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ向け迎撃弾未納の可能性、政治的意図はない＝米国務長官    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ向け迎撃弾未納の可能性、政治的意図はない＝米国務長官"
+      }
+    },
+    {
+      "title_original": "ロシア、ウクライナ西部のエネ施設にも攻撃拡大 停電相次ぐ",
+      "title_zh": "ロシア、ウクライナ西部のエネ施設にも攻撃拡大 停電相次ぐ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWkdlbXZRSlNzYUpGQlA4MlU0blFtOW9RcHRIMDIyQlVLMlllNy1xaVc1WUJ0b0hHWG05aW1uQXZQR1oyZVhSekVFam14aV9aX2JIN2RLdzV6TkhzTG5fY2hlazVId29SekJGUHRGSWRwb21VUkxGYTNEdDlIRmdlMTJ6ZjE5dw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-20T14:11:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア、ウクライナ西部のエネ施設にも攻撃拡大 停電相次ぐ    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナ西部のエネ施設にも攻撃拡大 停電相次ぐ"
+      }
+    },
+    {
+      "title_original": "Le syndicat de Micron à Taïwan va organiser une grève d'une journée alors que le conflit autour des primes s'intensifie",
+      "title_zh": "Le syndicat de Micron à Taïwan va organiser une grève d'une journée alors que le conflit autour des primes s'intensifie",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43N285YmNzeTloYU1PeXlFdU1yU3J0VS1BUmRzclVSZGFjTUpOcDVsN285bE9PSmtkdkF0LTFyc1FmUnRBSnRLU3hIT3hKa2xSTmFEWURjXy15YWIxUHl0NHJLT2c4WnphOUIwUXBUNnNxejZMLVhj?oc=5",
+      "source": "TradingView",
+      "source_score": 40,
+      "published_at": "2026-10-20T13:28:20+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Le syndicat de Micron à Taïwan va organiser une grève d'une journée alors que le conflit autour des primes s'intensifie    TradingView",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "TradingView"
+      ],
+      "all_titles": {
+        "fr": "Le syndicat de Micron à Taïwan va organiser une grève d'une journée alors que le conflit autour des primes s'intensifie"
+      }
+    },
+    {
+      "title_original": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "title_zh": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-20T13:23:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Kenya cult leader's children still being starved weeks before trial, son says\n- Published\nThe eldest son of Kenyan cult leader Paul Mackenzie, convicted of murdering 191 people, says his younger siblings were still being forced to fast as recently as two weeks ago.",
+        "Dan Mackenzie, 27, said he reported the case to police, who rescued eight children, including his five younger siblings from their grandmother's house, and took them to a rescue centre.",
+        "\"They were basically forcibly fasted because they were denying food to them for almost three days,\" he tells BBC's Newsday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Kenya cult leader's children still being starved weeks before trial, son says"
+      }
+    },
+    {
+      "title_original": "سعر النفط الأميركي يرتفع بأكثر من 5% على وقع النزاع في الشرق الأوسط",
+      "title_zh": "سعر النفط الأميركي يرتفع بأكثر من 5% على وقع النزاع في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxPRm9CREg5YVkycExvNFZnUkx2SGxIWDhkRTVlT2pJSlFqdkhFSElpeTM3LVc1WjlIb1Y2dVhHdGJBN3d6aG1OWlJtdmNqM2lDY2o3aVQ5LWlMa2NrQ3BvVG1iY3prUTA5SUtNcGVrOE1wUlhkLWxhOGh2SXp2TzVEdGpPX1FvMjFPRXY5M24wZ3JZTGxoTDZhWXRsMzFrd2l6X2dkTW9HdVhFengtM0xUQ3JVODVSUUlkOUxndlBHSWZ5M3dNYmphd3FuNlFQRkNjbWdwX01Xa1VNTnVodUJoMFhOMk5xNlRQc3pQSDluSThfOEQ4RGRZQjZjNlVGUkUwenBiMGxkRVdRSUR0VFhpcHE3Mlc1dklVcTZXYTE2dXRvaHIyQVExZGg2NHRoNndvSHZJeWd4dExoSVZzcU9DcEZrLXZLSUx3SkNFdXpJdDhack5qU0Z5N0JXM3h6ekxJcTlpWEE2LWlsbFZVSUYwOVpBQ0tPdk9OcjN2bHJWbGZ3UmNyTkpERkhHeXAweGcwTm1zcG5DNEsxZVZVSDN3VGZfRXlJS1ZlelNTQTRYWG10Mi1MU0hQcEk3cy1BMktvU1JUWmhKOFlvOW5uRTIyZ1RZdHkzV1VfczhRQTQ2T1lydXBJc1FzekNFVE4xQnh6NlZ3UFhka3Bzc3FuSzc4RVlYX3lvdWEweWNGQ0FFdlYzM1pXdVV2Y0J5UlJ4Z3RtR016aG1nZDAwZnNNa3NNRERGdTZaamF2S2VmTmppcWRIZDdzTGNkUk1kckJ2LU1mNEJNNi1ULWUxVVNsZERpX0NMSjNKcWxsWDQ3Z2hGRFhrMzduTXNoSkdWNXZEVHNi?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-20T12:41:20+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "سعر النفط الأميركي يرتفع بأكثر من 5% على وقع النزاع في الشرق الأوسط    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "سعر النفط الأميركي يرتفع بأكثر من 5% على وقع النزاع في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "ارتفاع صادرات الصين من معدات الطاقة الشمسية للشرق الأوسط في سبتمبر",
+      "title_zh": "ارتفاع صادرات الصين من معدات الطاقة الشمسية للشرق الأوسط في سبتمبر",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JTnJTdWtRaFJHQmZ4N0tXTDE3Rjlkc3Q2OVJ6UHh3Qi1FdWhvV1RrZmJSMFNCaGdrdFd0LUhaQTRYRHhEV0drZEppUVB4aXRpZUx6cTduUjY4WklMcEI2RV9fd2d6aXBlQzEtRzFUSndaQUt6cXFnOXNGY19KSzQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-20T12:23:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ارتفاع صادرات الصين من معدات الطاقة الشمسية للشرق الأوسط في سبتمبر    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "ارتفاع صادرات الصين من معدات الطاقة الشمسية للشرق الأوسط في سبتمبر"
+      }
+    },
+    {
+      "title_original": "الدب يحارب والتنين يتعلم.. كيف تستعد بكين لحرب تايوان بسلاح الروس؟",
+      "title_zh": "الدب يحارب والتنين يتعلم.. كيف تستعد بكين لحرب تايوان بسلاح الروس؟",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQc3ppNGFqaV9zbkRtTzB2N1hIa1JYaGM3VVpsNzJxRUhvTW5vdi11UWd2RXJ4TkRNQ2hmUzBYbEJFNWJQb3ZNNU9GRU14WHFweHhXZ3hzWU1UdnRyem5kMFVKRGZRUG9nTWNTLWtTTkF5VkxwYVpmdi1rbW4yQm9vNWYxRVd0NW5oTFV3SjcxNTBGVTU1TC1UcXl4ZjVpM3dzb3lIdTZUdnJxVVEyX3VmRkZiWWc5UnhNQm12cjZ2Wl9MVk83M3N4cENPYlZiRXYyWlFCcl9fd3RMMGFRR1NtWDdQTUFsUEk5aW5QV1hUTDQxS3lWWC1JUk43SXRTQmZ3enNOcW5MT2EtOURTRzRxeEdzbWRDenZiM085QlJXT0dNMVQwSWwzMjNScHNuY1NwNG1faENxVVo5NmF1RG1hMDQyalRKUGZK0gHOAkFVX3lxTE1tR3hCa2x5SlZmcWVkZm9pMElGREt1M1BvaEwySEY1T1lmeHNDd1B1NjUzbEg4VUVkdFVTa20zR3pPOURCbHZMWWV0SU9fSXVYN21YLS1jbXIySkFxU1g2WEZLbWY1ckVNN3FmWGhDVzhnSklaNVNjMGhaNDRBT2o1MEpBNGtuR0NEZTRJeG4xZkx0bnM2YS1mOXlJMmpaTTFWLXFwRk0tQ3k2VFpfdWpObFJSTVZ2Y3VHWENfbDlVbm5nTWZLSFNRZVVrX0lIRF95VDJBTW5KY201aTBRbllpMjZvQmUwNFBNeks2Tmx2blEzU3lQQ3h1U2lzdjB1ZU1fam1RUnUwcjJqcmp2VmV1OGtIWTAzcGtreVQxNXVYcXMwcUg0WGwzLWQ3VGhrNmJlSjYxVVZiNHh1T0lmOVJvOU1IRk1naWMzMXMxX0E?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-20T12:17:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الدب يحارب والتنين يتعلم..",
+        "كيف تستعد بكين لحرب تايوان بسلاح الروس؟    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "الدب يحارب والتنين يتعلم.. كيف تستعد بكين لحرب تايوان بسلاح الروس؟"
+      }
+    },
+    {
+      "title_original": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+      "title_zh": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-20T12:08:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder\n- Published\nThunder and lightning have boomed across Marseille following the weekend's mayhem, illuminating the cracked windows and boarded-up doors of hundreds of businesses that were smashed as protests gave way to disorder.",
+        "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+        "Local business leaders say more than 500 premises were damaged, and the majority looted."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder"
+      }
+    },
+    {
+      "title_original": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "title_zh": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-20T11:25:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Man charged with attack on Australian MP as suspect's father says she is family friend\n- Published\nA 43-year-old man has been charged after Australian MP Helen Haines was hit by a car in the state of Victoria on Monday.",
+        "The suspect will appear in court on Wednesday to face charges of dangerous driving causing serious injury, intentionally causing serious injury and the federal offence of causing harm to a public official.",
+        "Local media earlier named the alleged attacker as environmental activist Brendan Nugent."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Man charged with attack on Australian MP as suspect's father says she is family friend"
+      }
+    },
+    {
+      "title_original": "神戸 ウクライナ企業の先端技術マッチング図るイベント",
+      "title_zh": "神戸 ウクライナ企業の先端技術マッチング図るイベント",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1waDNJS1ZNSmVEOF9QZ1NVaXgtYm90S3V1SG9Od2VyU0d3ci1UNWtLSU9KWDJoR0xRSnZWRWJ3ZnRGbWVtdmVjakFyU2ZIZFowZmpJejRHREtnTEZFNGhZ?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-20T11:07:27+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "神戸 ウクライナ企業の先端技術マッチング図るイベント    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "神戸 ウクライナ企業の先端技術マッチング図るイベント"
+      }
+    },
+    {
+      "title_original": "Democrats’ Musk-ask questions",
+      "title_zh": "Democrats’ Musk-ask questions",
+      "url": "https://www.politico.com/video/2026/10/20/democrats-musk-ask-questions-2205672",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-20T06:46:11-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Democrats’ Musk-ask questions",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Democrats’ Musk-ask questions"
+      }
+    },
+    {
+      "title_original": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+      "title_zh": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkNKZjJ5cW9BYU5lSkdiZHVKUFI4WTVFcklmWDZ6QURlWEdNTndCQW1TeEVNdjdPdjZhWDBhcnUwakxBaGtPNXpIaGZrY2pTM2tDNWg1Wm55VnR6YnRoSzFmZ3RlVlExQVl6UXZWLXMwc0VRNzQ3R1FpQVNZbWt0cGdiWmpkR1o2TFo1V0hBa0thaV9WblRwY013MlZ0QmhJXzY0WklSN2hwRU9rTXo40gG0AUFVX3lxTFBmdWhDeUtpVkotOXBReU55Y3Rqb0ZVM3dpYjVleC13bVE2WnUwTGtHWFJRYm81SG5RTmRyRlBzUEZRSzVObnU4Um5yV2JQanMwckQ3LUZER25nei15YmtZTjdfaWlRNXMxNGRybkxacmNLSFZCRi1mVjhvTlVGdmF0SnhpVFdRb2ttTTdYdG1XMUJIbERHb3hVeTN3UlZVZjVVbmJFVXJGLXVaelBWRmF6R2pwMQ?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-20T10:37:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans"
+      }
+    },
+    {
+      "title_original": "توم براك: الشرق الأوسط مكعب روبيك وحروب تغيير الأنظمة فشلت",
+      "title_zh": "توم براك: الشرق الأوسط مكعب روبيك وحروب تغيير الأنظمة فشلت",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPRWotRGJ5WnBEaHRocnFHNjRSRXk1ZS1uZi1CdFZzZk5MQlhIeEV6VjV0TkNsNGVROEMtekpzdWNLNjdqbmhaT0YxUFBhQUlNWHdLaW9PV09ZMkR2T0s3THpiTkZDQUZzQXJJNG1NNVF5OE53amc1V2hmay16VndGbmFEU2k4Ty1tTEx6eUtPeWZhMzF6ZDItOVRxcEZoNHBXY3BwV2lvd3NXcmZ4c1JSZU8yUk04QjJOTzJVN0lSak80XzJvV2ZSZFYwN2Z1X2N0MjJoWE9JVm1QeGdTVnl3b2Nsb2pIdFVQalVRLTd6NmVzMkVxSGNTNmxNZnlWYmp0SWNHQWtBOWR5NzNuajY0V3RoQlhhOWp0VHdmVjlsN3pyTU5EY1NydTVCdUJzMTVPUnNEdXFjVjU?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-20T10:16:46+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "توم براك: الشرق الأوسط مكعب روبيك وحروب تغيير الأنظمة فشلت    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "توم براك: الشرق الأوسط مكعب روبيك وحروب تغيير الأنظمة فشلت"
+      }
+    },
+    {
+      "title_original": "\"An der Zeit\": Trump will Selenskyj als Präsidenten der Ukraine weghaben",
+      "title_zh": "\"An der Zeit\": Trump will Selenskyj als Präsidenten der Ukraine weghaben",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTlRWMHlDcmR2OGdxZUhWUm5WXzU1TTlWejdabnREVkliNF92UHVlMWg0dXoxbjYxZ2s4V090c1oxckFjZlpCUmVjdEdQX0hZWUNWMS1DZzJHZ1puZS1PUW1zQnZYczVHWnZSQTI0MkxrQ09idGRIbi1ZTVFFcVNZZWhiY0tpQ21KQ1FpbC1zdFNyYVpRZFdHZ19Vc1hhNHNzeWU4bmRRVEpfUHRpR0FtOVV4TUtZeGVkWWZRQ2FQRdIBvwFBVV95cUxQeThuaHJ6RVRla1pEVGEzck5QODZ3TkhKaXpoSkZwY3JNRVZFRzIwdTF1VnU1MWJOdkJvQmtKN2J4cGpROG9YTEdNem5TOFNLMkhILTVNOVFqNXplM3oxNW1QVzBJQWZwU0ZfMWpZd2dLWTdrWnpZSmk2eV9Yb3hZWWJ0b1BxeElwXzdzYjFzTnFrMktSRE1pNVBUczFkeS1KX1ZyRllMSUxROGFfcUpmY0VOT09qT0hKeUNZM3d0cw?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-20T09:53:19+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "\"An der Zeit\": Trump will Selenskyj als Präsidenten der Ukraine weghaben    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "\"An der Zeit\": Trump will Selenskyj als Präsidenten der Ukraine weghaben"
+      }
+    },
+    {
+      "title_original": "韓国、駐ウクライナ大使に続き館員も一部撤収 北朝鮮捕虜巡り対立",
+      "title_zh": "韓国、駐ウクライナ大使に続き館員も一部撤収 北朝鮮捕虜巡り対立",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13Z2FqbTgzbVFoR0lhdnhsSXl0YVFjUFA5eDhEdzRxM3hzRXE5cnRkRVRIUzdSd29lTk0ydl8zSWE3MzQ2NERnc0dTV0RKcjNVbDJMSlZldUdjazFXVGdfSmp3YTJOemotLXpzUw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-20T09:27:26+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "韓国、駐ウクライナ大使に続き館員も一部撤収 北朝鮮捕虜巡り対立    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "韓国、駐ウクライナ大使に続き館員も一部撤収 北朝鮮捕虜巡り対立"
+      }
+    },
+    {
+      "title_original": "Alberta voters reject plan for referendum to leave Canada",
+      "title_zh": "Alberta voters reject plan for referendum to leave Canada",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-20T09:02:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian unity.",
+        "With more than 1.5m votes counted, 76% supported remaining in Canada, while close to 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Alberta voters reject plan for referendum to leave Canada"
+      }
+    },
+    {
+      "title_original": "JB Pritzker’s midterm strategy wins the attention of Black and Hispanic Democrats",
+      "title_zh": "JB Pritzker’s midterm strategy wins the attention of Black and Hispanic Democrats",
+      "url": "https://www.politico.com/news/2026/10/20/pritzker-midterms-black-hispanic-spending-president-01127611",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-20T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The Illinois governor is boosting candidates in early states and cultivating relationships with Black and Hispanic officials ahead of a possible 2028 run.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "JB Pritzker’s midterm strategy wins the attention of Black and Hispanic Democrats"
+      }
+    },
+    {
+      "title_original": "万斯称，乌克兰不应该加入北约，拒绝将其称为美国盟友",
+      "title_zh": "万斯称，乌克兰不应该加入北约，拒绝将其称为美国盟友",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXFxZjJrM1BnS0dZd2RHRGNsaTgzVk1ybC1HQ1ozLUtfd1RIaDFMRTJ5aE5TcGRUV1U0YU5WLUNlU1liMmtZdTJ2Mk4wT01tdEhCdGU4T3RkMXUwLUNWcWRxXzVsdXFTRXJ4V25JZzhBOE1DU00yT0hyNGJnU1pNUUZ0M2M2aXFfdS1QbQ?oc=5",
+      "source": "搜狐",
+      "source_score": 40,
+      "published_at": "2026-10-20T08:37:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "万斯称，乌克兰不应该加入北约，拒绝将其称为美国盟友    搜狐",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "搜狐"
+      ],
+      "all_titles": {
+        "zh": "万斯称，乌克兰不应该加入北约，拒绝将其称为美国盟友"
+      }
+    },
+    {
+      "title_original": "Le pétrole dépasse 110 dollars, les marchés évaluent le risque au Moyen-Orient",
+      "title_zh": "Le pétrole dépasse 110 dollars, les marchés évaluent le risque au Moyen-Orient",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3MzdzRUam9RRWlkZzF4RHV2c1VmQkhMak9CV3M2NVJuR0lPb2xzaFo0Vjg3VlpYQlptN1ZQSVlzSHVNVW5TaWVqUjZLVEx6SUVwR1VwT2pjcVdsbG1nSHQ2U1pfWm9TM3NzOFBkeXFpNjhSYTBVYkxOTXRjRHFnTlR3Ujk4V3RoMW1meFB2bjRTU1I3VnlCVVRQNnJCTy1OYV83YVJ0YzR1V2gwdHlRSGNB?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-20T08:04:15+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Le pétrole dépasse 110 dollars, les marchés évaluent le risque au Moyen-Orient    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "fr": "Le pétrole dépasse 110 dollars, les marchés évaluent le risque au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "أسعار النفط تتجاوز ١١٠ دولار والمتعاملون يترقبون مخاطر الإمدادات في الشرق الأوسط",
+      "title_zh": "أسعار النفط تتجاوز ١١٠ دولار والمتعاملون يترقبون مخاطر الإمدادات في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkROWi1xLTRwNGxkelZsOGMwclJTTlVPdXF6a25sNlpudXM5ZURUVDZEMDJfb0swTENCZkpTR0M3QjNWWG5YWlozX3VMbkpSNXRrdzZmMGdKTHpvX3VFTVFuUUI0WVZJSnI1RUJsTmczZlRfU1pud1pyZG5DWG9YZHNPZ0p2NmNHN3hNZ1lGNUtQVmVkUnow?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-20T08:04:07+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "أسعار النفط تتجاوز ١١٠ دولار والمتعاملون يترقبون مخاطر الإمدادات في الشرق الأوسط    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "ar": "أسعار النفط تتجاوز ١١٠ دولار والمتعاملون يترقبون مخاطر الإمدادات في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "韓国、在ウクライナ大使館職員を追加撤収 北朝鮮兵捕虜巡り",
+      "title_zh": "韓国、在ウクライナ大使館職員を追加撤収 北朝鮮兵捕虜巡り",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzdLd1JwSlU0SnU5ZlhVbGxfSFI2NnRNM2RyWE5idDdQbnhjMTlmeHA3bmdTOWVVTlVjbUIxdWx2QVI1eWU1OGxDWlNFME12dEJGakZydk1DN0h6bWRuQ2VLcGNTaUR3bGIyT1ZZajRmWEVxeEhPMHloWHdOQ19JR0Zfbnc4Zw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-20T07:51:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "韓国、在ウクライナ大使館職員を追加撤収 北朝鮮兵捕虜巡り    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "韓国、在ウクライナ大使館職員を追加撤収 北朝鮮兵捕虜巡り"
+      }
+    },
+    {
+      "title_original": "Telefónica se alía con la portuguesa NOS para ofrecer a la OTAN nuevos usos militares del 5G",
+      "title_zh": "Telefónica se alía con la portuguesa NOS para ofrecer a la OTAN nuevos usos militares del 5G",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPd1dkYTVWVEZua0o5MllpeDZhdVNWdjJveXc5c1RCOWxHOVVsRzl5NlVDWUs0NnhfUEI0YWlYakdtaXhZQ0lwNXp1NEVGcFdzdUJqS3RnelBlZmJqZms0ODliYnhGMEZzMGY2a1B5VXc3LWlTdVBXWEV6T2prMFNOMmZ4MmFEX1RldlRXalRMNGlQY1JCSlZjTnhPa1JUWUxHU2ViRDJRdExfLU5UT200MjdVSGIzQUNtR0d4RDYwazBOamlLbG9ncjRfY3RYZTFtN3BWdXhBeDZSSzhBNmI3NjBZSXBMai02U050ZTl1eUp6aTJvM3RENUlmOW7SAecBQVVfeXFMUFUyUUVUZmhwSllMTWN6eC1VOFhPMWxkUnpYM0tHcUNOV056ekVDSTBMd1pJWkJYTVFocmZHb2wzU2dFc2pROTNBdktBM0tCNGduUXljYWNBdWtmenBZZFlLUlNnaThXYzkzTEFJT01qcXVGSUY4YUwxWHRFYXJKaDVKVTBWVGVFOG9rVGFRLUpiYkxTZ0ZuOFRfSDhfVU1ZZWg1ZFdSRl9DRVdKZkt0TTZQdjNuQVBfeWQxRWFPREJLR3JsenBNZmU5TWpfWW1ZcXVSRWFhVTR2SGxONE5ZcjRUbXVia1hV?oc=5",
+      "source": "El Economista",
+      "source_score": 40,
+      "published_at": "2026-10-20T07:30:21+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Telefónica se alía con la portuguesa NOS para ofrecer a la OTAN nuevos usos militares del 5G    El Economista",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "El Economista"
+      ],
+      "all_titles": {
+        "es": "Telefónica se alía con la portuguesa NOS para ofrecer a la OTAN nuevos usos militares del 5G"
+      }
+    },
+    {
+      "title_original": "Sicherheitspolitik: Taiwan-Forum: Warum Sicherheit und Wohlstand zusammengehören",
+      "title_zh": "Sicherheitspolitik: Taiwan-Forum: Warum Sicherheit und Wohlstand zusammengehören",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wOXJjbGdkSVZOTGFWT3VnaFgtYUQ4a1BEc1YxaDVkU1hFd0ctd1g3YU5OSkxNTnhlRUNGMWFKZmx4UFhzRVQ5c0dBbTRkQ3hUTVhFZ0ZnLWFYS2luWG9CS0JWbzRla2M?oc=5",
+      "source": "Friedrich Naumann Foundation",
+      "source_score": 40,
+      "published_at": "2026-10-20T07:00:59+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Sicherheitspolitik: Taiwan-Forum: Warum Sicherheit und Wohlstand zusammengehören    Friedrich Naumann Foundation",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Friedrich Naumann Foundation"
+      ],
+      "all_titles": {
+        "de": "Sicherheitspolitik: Taiwan-Forum: Warum Sicherheit und Wohlstand zusammengehören"
+      }
+    },
+    {
+      "title_original": "Trump hace de nuevo guiños a Putin y vuelve a amenazar con irse de la OTAN",
+      "title_zh": "Trump hace de nuevo guiños a Putin y vuelve a amenazar con irse de la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGp3Z3UzU0VWQ25nczNYQ3Ryb3pFOWozV1Bsam81SEh0cXFUbGpMREE0NFNHTUVKWmhuYzlreG9LOXJpb1ZPcUZhQnRnUTE0ZzVsRFZKS2Z6SnRDeU9ZNDhKYk5kY3NmdFhJSUp4TGtFcWhFazIyd0hFNF9NY0JLTUt2a9IBgwFBVV95cUxQYzlPZ252a01vSTZNNkVNc1F4OHNSTFk4UVJSNkM5RVZGS3VaODVtd0FMWmZDcFcwT1h5N08xcmctb1Q3TUdib3NRSzVoOTJUTHc0RGdjUl9kU3VPaU40NVdia3BFNDhQMFY3MS0tR3hSM0NUWlhOREtINnpiMDQ4TmJySQ?oc=5",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-10-20T06:13:33+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump hace de nuevo guiños a Putin y vuelve a amenazar con irse de la OTAN    El Mundo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "Trump hace de nuevo guiños a Putin y vuelve a amenazar con irse de la OTAN"
+      }
+    },
+    {
+      "title_original": "زيارة غير معلنة لوزير الدفاع الأمريكي إلى الشرق الأوسط التقي خلالها نتنياهو",
+      "title_zh": "زيارة غير معلنة لوزير الدفاع الأمريكي إلى الشرق الأوسط التقي خلالها نتنياهو",
+      "url": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxPMnQ4R181V2o0Y2VQem80NE9MdWdyZTNRZWh0SE9sX2xoc1BONjhhN0xPUlFfaVpBR1kwaF9WXzNaZnhQTko0WnlJY2NhaUdWdU5uVlpBUktRQlVaMnZnNEprV1BZYnA1RHp5Sk1jQkU2ek1BRFd5dTg0SExKQlIwSlc2NVByWldhWlZ2NktTdEs1bEJPaTF3VGYxZnZ0WURvZURfR2hJdlFRa1VYSGhGazVSSGFlX1VYaVlCWVlaUDdJYXhjT2pLZkFlWVVpQVk5Rm1jdXhIYnBKNWpZU0JFUGdoR1h5TXBjOUFJSGlzdFRCeXlLTnlYSlB5V0ZQWEJ2T3l2M2RVWndFRklPekJ5XzNfbnJQbjB5anBUOVZFcTZ0WC1FeTByLUE5dXhVbV9GUFBkYVE3UGRpc1psUUhKdGlVb1RfQXZKbGtKbVBxcDlJU25aUFV5NmFDRm1BRnJqT3hIUUpMb1ZhRkJsT0hLdHdBOUZtakhZWWFGeG0wWENVUlh4RFhZN25mLThrTGtONXRCdUxIejF0TlFrUUNaN3I0ZmlreEJIbGVjT1BiWWtROTVoQzlmcTQxMWQ3OXRlWXB1VFJNMU5jMmE2UkJoQmZTMk9SNlhweVo5YktPZ1QxVXlNVzFMb2hBb2k2b0kxV3NTYkpoSjBoSXR3U3BJeEd0UkR1aHdKbldkeTdtZ1pVN01XSzRWVVFBYjlQZVM5YUdidmNwcXNpMGladjhKUVJyaE5fbGl6QzdTdFRRV2lhQzhTNHloZTF4NkNiOTJGU3NtajBuWDBxdVU?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-20T05:48:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "زيارة غير معلنة لوزير الدفاع الأمريكي إلى الشرق الأوسط التقي خلالها نتنياهو    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "ar": "زيارة غير معلنة لوزير الدفاع الأمريكي إلى الشرق الأوسط التقي خلالها نتنياهو"
+      }
+    },
+    {
+      "title_original": "李弈善：中东局势再升温，4160上先空再多",
+      "title_zh": "李弈善：中东局势再升温，4160上先空再多",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96MlBBS3FzNlEzQ3kzUU1FaVR1NzVfOTZjR0N2cTg5N2hnenVwTUNyMmJwX2I1Nm5XLTU4RXh0enUyQkVEYWxGejdyMWlBSnFaMkxOT2htaXNZZlplUWQzTHpGeW5zeUlpZFE1aw?oc=5",
+      "source": "黄金网",
+      "source_score": 40,
+      "published_at": "2026-10-20T05:44:05+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "李弈善：中东局势再升温，4160上先空再多    黄金网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "黄金网"
+      ],
+      "all_titles": {
+        "zh": "李弈善：中东局势再升温，4160上先空再多"
+      }
+    },
+    {
+      "title_original": "なぜ北海道で灯油価格が過去最高？中東の混乱長期化 政府も対策強化 [＊令和のオイルショック]",
+      "title_zh": "なぜ北海道で灯油価格が過去最高？中東の混乱長期化 政府も対策強化 [＊令和のオイルショック]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FQjN5ZnFLaG5tQWtKVDRXWXBTQl92LXhqQngwU1dTSjZYVFhqWDBhV1BfR3VvUjRWaGFKRGdubWdSazhUclFrXzdBRHVQRm5pVTlsXzZMTU1YSE5lVUVfY0xfOENKRkk?oc=5",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-10-20T05:17:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "なぜ北海道で灯油価格が過去最高？中東の混乱長期化 政府も対策強化 [＊令和のオイルショック]    朝日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "なぜ北海道で灯油価格が過去最高？中東の混乱長期化 政府も対策強化 [＊令和のオイルショック]"
+      }
+    },
+    {
+      "title_original": "米・ウクライナ対立、ロシアに根強い様子見論 一部強硬派は歓迎",
+      "title_zh": "米・ウクライナ対立、ロシアに根強い様子見論 一部強硬派は歓迎",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdnhXRERIQVB3R0kxd3p5UkF2bXpWbkljX0E1dW8tdUZUZW52X05ZU0lqMEZDRndicFFWQVZ5bndRaGtWczVjdDVHUjEyVGV1Q0doUmp0S3cxZklQVE1fTkR4THpxVkRaUUdJODctZFotcVNkQUI5RGNPZ09aQTNKNVkxWjBIQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-20T04:52:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米・ウクライナ対立、ロシアに根強い様子見論 一部強硬派は歓迎    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米・ウクライナ対立、ロシアに根強い様子見論 一部強硬派は歓迎"
+      }
+    },
+    {
+      "title_original": "Iran killed 75,000 protesters in eight months, Donald Trump claims",
+      "title_zh": "Iran killed 75,000 protesters in eight months, Donald Trump claims",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nN3huWXhmN1VNM2lYbTBuOTRSY2NGSFlqdDBsMHBxN2ZIeEtnVXluTEtDMVdRbEFVcUthTHlmWGw0Mjk0bmxFc29qeE5rcTFjR0NsVVBWLTN4emY1Z2dvR3M5TEhpcU4tN2c?oc=5",
+      "source": "The Jerusalem Post",
+      "source_score": 40,
+      "published_at": "2026-10-20T04:29:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Iran killed 75,000 protesters in eight months, Donald Trump claims    The Jerusalem Post",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "The Jerusalem Post"
+      ],
+      "all_titles": {
+        "en": "Iran killed 75,000 protesters in eight months, Donald Trump claims"
+      }
+    },
+    {
+      "title_original": "ドローンで前線の負傷兵を搬送 「世界初」の事例、 ウクライナ軍が動画公開",
+      "title_zh": "ドローンで前線の負傷兵を搬送 「世界初」の事例、 ウクライナ軍が動画公開",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTUjY0bk5nVG42RzdzeURCc293YmhSMUtKY09FU3Z4a0Q2OWJqUGVucGdxdE0tZXFzU2poRGQ2dGg2SWEwQXBDQWVOZ3ROdHF6Ym9Vek1CRko2VS1O?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-10-20T04:18:23+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ドローンで前線の負傷兵を搬送 「世界初」の事例、 ウクライナ軍が動画公開    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ドローンで前線の負傷兵を搬送 「世界初」の事例、 ウクライナ軍が動画公開"
+      }
+    },
     {
       "title_original": "原油先物下落、対ロ制裁免除を見極め 中東の供給懸念続く",
       "title_zh": "原油先物下落、対ロ制裁免除を見極め 中東の供給懸念続く",
