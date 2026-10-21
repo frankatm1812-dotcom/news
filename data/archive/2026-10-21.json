@@ -1,8 +1,883 @@
 {
   "date": "2026-10-21",
-  "generated_at": "2026-10-21T01:31:50.143614+00:00",
-  "count": 35,
+  "generated_at": "2026-10-21T15:57:35.159877+00:00",
+  "count": 70,
   "articles": [
+    {
+      "title_original": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "title_zh": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-21T15:53:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin\n- Published\nRussia released a 74-year-old American citizen who was jailed for allegedly fighting on behalf of Ukraine, as President Vladimir Putin met US envoy Steve Witkoff in St Petersburg for talks.",
+        "Stephen Hubbard was taken to the city's Pulkovo Airport, Putin said during the meeting early on Wednesday.",
+        "President Donald Trump later said the former teacher was \"on his way back home\" and \"there was no 'swap' necessary\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin"
+      }
+    },
+    {
+      "title_original": "ロシア、米・ウクライナ協議再開へ 11月中旬にアブダビ開催の公算＝補佐官",
+      "title_zh": "ロシア、米・ウクライナ協議再開へ 11月中旬にアブダビ開催の公算＝補佐官",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOVNrdmNnMENTcWd2aUFhbWdjQnY2dGdVcnNrbFRqRHctMXJXVngwQnhjeGc2TEZmOFJKNUJ5eTJvdno1YjU2RU5hU21mNEFob0NvUDVLVWZPQUl4VjlUZU5rbk91VjJZYS1xc0JwX0h1aFUzMXIzT3MycFNFdTVBNjlQYndTZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-21T14:59:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア、米・ウクライナ協議再開へ 11月中旬にアブダビ開催の公算＝補佐官    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア、米・ウクライナ協議再開へ 11月中旬にアブダビ開催の公算＝補佐官"
+      }
+    },
+    {
+      "title_original": "Ukrainekrieg: Selenskyj zeigt sich offen dafür, die Frontlinie einzufrieren",
+      "title_zh": "Ukrainekrieg: Selenskyj zeigt sich offen dafür, die Frontlinie einzufrieren",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaDNLbGNQazdycXVoQmlSOERCUmJ5SFVZZGJyLThyZUo4U19Ob21QUGY3a0FUZ04wZWtuTEJOU0JjanV1bGdvVncxbllsNEN5Q3A2TGExUXp5SWcyank3Uktyc1NUMHlIb0hLZnllVWtVREJaQXM4ZTVlcDNBRE9ITGdYbmltN2JmV2d3YlBwMUhoOVNVUUNzWmNsNE1JMjloczg5dHZ0dG1HQ1pJUmVlc0hmdGI0ZUpXc190OUs3YjNyNF9NMlFpUWRyOFZsOUZ0REJBMnlqYjZjV3hndUE?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-21T14:45:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukrainekrieg: Selenskyj zeigt sich offen dafür, die Frontlinie einzufrieren    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukrainekrieg: Selenskyj zeigt sich offen dafür, die Frontlinie einzufrieren"
+      }
+    },
+    {
+      "title_original": "Macron accuses foreign leaders of exploiting French riots",
+      "title_zh": "Macron accuses foreign leaders of exploiting French riots",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-21T14:04:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Macron accuses foreign leaders of exploiting French riots\n- Published\nFrench President Emmanuel Macron has accused foreign leaders of exploiting the riots which erupted across the country on Saturday for electoral purposes.",
+        "Without naming them, he said they were campaigning for forthcoming elections \"at France's expense\" with their comments on the violence, which erupted on the fringe of cost-of-living protests.",
+        "Speaking on a visit to the Middle East, he referred to them as \"leaders who are in campaign mode, whether here in the region or on the other side of the Atlantic\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Macron accuses foreign leaders of exploiting French riots"
+      }
+    },
+    {
+      "title_original": "受中东局势影响 巴拿马运河年货运量创新高",
+      "title_zh": "受中东局势影响 巴拿马运河年货运量创新高",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56MWFYb1R2QTYyWnNSV1FoWGpNQTUtLVJLUlkweElNT0JGdGkxRnNGejMzNzhHT295M2c4V1NBUDNkMkJCcXQ0Nm5jTlR5VzZYSDBaejFOa0o4S1ZOb2F6OTdJZTBNaS1SZEZlNDRzZXBzMHIwb3ZIb0NLZjVKaGc?oc=5",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-10-21T13:58:22+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "受中东局势影响 巴拿马运河年货运量创新高    新华网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "zh": "受中东局势影响 巴拿马运河年货运量创新高"
+      }
+    },
+    {
+      "title_original": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+      "title_zh": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-21T13:40:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Relatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical conditions.",
+        "Flights are scheduled as early as Wednesday, according to the families and the immigration advocacy group the Workers Circle, which has been monitoring conditions and speaking with detainees inside two Immigration and Customs Enforcement (ICE) facilities in south Florida.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say"
+      }
+    },
+    {
+      "title_original": "Sen. John Cornyn on the midterm elections, Russia-Ukraine war and AI safety concerns",
+      "title_zh": "Sen. John Cornyn on the midterm elections, Russia-Ukraine war and AI safety concerns",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUtCLXBGeUJMSVFrMlU5UU1CcVdORUNLUFBYbDVzS3JtZk8yTTVCYTBqdWlSdkpMdVVMTEtrYWFySHdsQ3ZOODR1dlFYMlVDNE5MallKNlJJTmR4dEV5NmdlQWU5SDB6a3Vob3V0Z0MtVkljQ1FIYkh2NzlpYXJsUTFZNVlHZUp5ZFBmaDN1Rm5pdkNCLXlienBYQkJwaWJKTkdyRnNocEVxR1VBWlVhNHpZUWk1cUx0RHhoUUtSSEpOdVU?oc=5",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-10-21T13:16:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "John Cornyn on the midterm elections, Russia-Ukraine war and AI safety concerns    CNBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "Sen. John Cornyn on the midterm elections, Russia-Ukraine war and AI safety concerns"
+      }
+    },
+    {
+      "title_original": "Trump envoy Witkoff meets Russia’s Putin for Ukraine war talks",
+      "title_zh": "Trump envoy Witkoff meets Russia’s Putin for Ukraine war talks",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzY1d2JNd1BjSXluNDBwdmNIeDVNa0VUTVNxSmxUY2VCM1lmakdmZGZWSmtrRHg5RklyeUFnSzBuckwxcm5kMzl6WEJ3b2s3eVdpR1hLQ0lMelQ3RUJRdjAxY3drdG4zVXRyYkIwQjNnY2hjV1RteS1ZdG9CamprckEwVDhCeG5GdzlMLUhxT1BIaTFlQVpFTnFTWmhCT2tBcXN5aXo3OURSRDRHRG1YT3JDRdIBuAFBVV95cUxPeGdfc1N1T0ZOWE9RNDdXcWx5czRzY1U2SEpEV2NzbzhOV0Ywa21EbWxRZHZUQ3ZNYjh1T3ZIS1dwR3lQUVlyQVJZdDFrUkZEbmNWWnVFS1NTYlAwc0tjRnA4M09BVUZ1SE9KRG5qS3VfZXRzeUZpQnhSVEpjRUdlbUlaZXhmeHJSbVVqOUtIdUl1bXdvY3dpdFJjbkpNZER2QTBKX1lhNHhRYnNWZE55SmtjUDhGOUU5?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-21T13:15:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump envoy Witkoff meets Russia’s Putin for Ukraine war talks    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Trump envoy Witkoff meets Russia’s Putin for Ukraine war talks"
+      }
+    },
+    {
+      "title_original": "حماس تحذّر من الخطر على حياة الأسير إبراهيم حامد",
+      "title_zh": "حماس تحذّر من الخطر على حياة الأسير إبراهيم حامد",
+      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNb1V4SGpHRmM4TTA1RUs1WHNGY3UxdGxUaEZhVVYyRVp0TjVEMkNKbmhtVTBRNmlFcjNOTWlkZWxXWFNWaTFGUWFlYzJwWHhuMGs4bk1PaVhtTUUzOXNua1pDNDA4MnBFM0pQMndXNnJBTTFUNEpaTXluaGNPN3U3OVRvcHd1Mi16U3U0dFc4WFB0RUNGQ3JqS04tSnEtU0dRVWd1TW4tNjNwUUJzckZoZGhyUEFmUW1LM0NMTC1FOXhTWUtOZ3VmTkZDX2UyX3BlQUdXQld5V2xGSWxDWWxVWklBY0ZlTEZ3X3lJUmZScHhOdFdxVDhvdUphcUJqTkdSUWM5R2pNZDREeVQ1Y3dReEktWC05Y216Y1Ywa3RnZGtXRzZhTzNUVmlvNWxUY3VtTzJfNzNuZ2wxMGs3aHJUNVNKajh0bGwxWGpEaGpjbnNRUU0zRTRubWFJMkpkWU1wNU02VHdpSUJ6Z2tCeHZlMTRnN2FQQmFDekhHZk00cW1EenBJWkV0WXZnd2ZWNjV6eTgwOVNveGVzMTFRSGZoNi1XU3lxazF2YXBGYnBR0gGzA0FVX3lxTE5qTlhKd0x3ellFN1B2ZWx4VTlfU3Bkb0V4Q0JsWWVMRlA5Q3FVd09acFZKS1o5M3o3VWo1UU9NajM2UFU4ZWVLb3EyOUJzUUxzQWF0UElhTE9nc0hVWGJFRUlrYkR4c1ByXzRrb2VSc2dBT2E1UmJocGRsM0kwQlNfSEtjVUQ2RUhONlREUmpoYlJxUE14TFJ5UXlNazhRUmN2VUtKMUhNOHdyMlgyM085c2JNQ0kxN3FybTBQWkNPaDNrSzZBbUFNb3F3dE1SM0g4VGwyNVNFcjFEb081aEhfbjVpcjdCcmdIWWtEbWx4SVM5ZnVzak9kUXQyUUVXSkFyOTlRaUNzaVhBR0w4N2hPSjFWT1hsaHdSUF94cEZCYWIydG41MFRNVFQzbnB4bnZFMnRWbS05bDVOYU5UQW1EaTdlZGNPY09BQ0p2X0lkMnJNcTI3TVM0ZXdFNW1wYzkzZFRrdU5LQ2RDdThGOWVQYUhnWHlSVXVncjZINGR0a2VPbXFJU0hMdE1Rc2JmUXA0eUVXWlNCNk1Ld1h4WTJRRGRBTHRTamFYRVcxVXdWYkZmNA?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-10-21T12:56:01+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "حماس تحذّر من الخطر على حياة الأسير إبراهيم حامد    تسنیم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "حماس تحذّر من الخطر على حياة الأسير إبراهيم حامد"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Treffen Putins mit Trump-Gesandtem Witkoff beendet",
+      "title_zh": "Ukraine-Krieg: Treffen Putins mit Trump-Gesandtem Witkoff beendet",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSFhQejJjMFlsOWdIRWFhUFIzanBRTWFPbTZKZVJfMXQ1Z3k5MjJrQnFmeTRVODdLTElRc0lhRTN2ZUtQQ25BRksxaFhRMFY1YlM5R0NQUWZ4MFZqMXVzNjBUSlR6aGk0RHV6Q2NYZU1aYVUzUEhnSC1nMUpiVkdVRXdCZlhMVTIwNlcxVHRPbzVTd2lqX1JkQ2lpMU85a05FODU5QzViY2hRd1NueGtuXzI1aFJPdw?oc=5",
+      "source": "WirtschaftsWoche",
+      "source_score": 55,
+      "published_at": "2026-10-21T12:44:20+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Treffen Putins mit Trump-Gesandtem Witkoff beendet    WirtschaftsWoche",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "WirtschaftsWoche"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Treffen Putins mit Trump-Gesandtem Witkoff beendet"
+      }
+    },
+    {
+      "title_original": "Nigeria confirms Ebola case linked to East Africa",
+      "title_zh": "Nigeria confirms Ebola case linked to East Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-21T12:39:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Nigeria confirms Ebola case linked to East Africa\n- Published\nNigeria has recorded a case of Ebola in a female patient who travelled from Uganda in East Africa to Abuja, capital of the West African state.",
+        "Health Minister Muhammad Ali Pate said the diagnosis had been confirmed by laboratory tests.",
+        "The patient, who health sources have told the BBC is not Nigerian and is the wife of a diplomat, is in isolation and receiving medical care after being admitted to a hospital in Abuja."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nigeria confirms Ebola case linked to East Africa"
+      }
+    },
+    {
+      "title_original": "Shark trapped for a month in South Korean canal is finally freed",
+      "title_zh": "Shark trapped for a month in South Korean canal is finally freed",
+      "url": "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-21T11:41:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubers In South Korea , they call them jagyeongdan , a word whose meaning sits somewhere between vigilante group and neighbourhood watch.",
+        "Each night they put on hi-vis vests, picked up their selfie sticks and gathered around the harbour in Busan to keep watch over an unlikely charge: a stranded shark affectionately known as Bukang-i.",
+        "On Wednesday, after more than a month in the canal and at the third attempt, the shark was successfully guided out, South Korea’s oceans ministry said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Shark trapped for a month in South Korean canal is finally freed"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Trump lobt Freilassung von US-Amerikaner durch Putin",
+      "title_zh": "Ukraine-Krieg: Trump lobt Freilassung von US-Amerikaner durch Putin",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMC14b1ZUWmRKVjdmZmJCZlJsOUlTUk9VXzc4QVNVeWNCQTNRbXJ3WW9QYmt5cEEzdFFwNTFEcmxHUW9nVXBGVHVGVkVDRkw4ZFpVdTFxRml1SW5aYlpvYnVWTVZWWTd5YTRiYTdlY0hYNFNFWWhUZzRSbkE1YU9KbjVZeWFNczBCRWtjVmZWUDVqN0k5OWNiSzhWNzI4TUZoYXBrVnFMeU1tdURidjR3NVhNWUlNVlJU?oc=5",
+      "source": "WirtschaftsWoche",
+      "source_score": 55,
+      "published_at": "2026-10-21T11:34:32+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Trump lobt Freilassung von US-Amerikaner durch Putin    WirtschaftsWoche",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "WirtschaftsWoche"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Trump lobt Freilassung von US-Amerikaner durch Putin"
+      }
+    },
+    {
+      "title_original": "Taiwán planea emitir la noche de este miércoles una alerta marítima ante el avance del supertifón Champi",
+      "title_zh": "Taiwán planea emitir la noche de este miércoles una alerta marítima ante el avance del supertifón Champi",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMnl1UzFoeWZfM0J4YVdDM3ZMMm1mcGZKLVJpVS1NTGg4TUV3Vm1tdFZwZ2dZVHdQZlptd2RXRl9KRjFYYy1nMzBSU25zY2pSbzNNZU9fTGlLaUxXUWY4YmZ6cWowcG8zZnBKaEhDVUNqaUVCUDBZa0xtS1lwdnlqMDdKWDliSWhCeWJvdEpNcG1DQzh1Zmp4T2xmR1ZTT25xcWhvUkJR?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-21T11:27:59+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Taiwán planea emitir la noche de este miércoles una alerta marítima ante el avance del supertifón Champi    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Taiwán planea emitir la noche de este miércoles una alerta marítima ante el avance del supertifón Champi"
+      }
+    },
+    {
+      "title_original": "Wärme und El Niño heizen Champi an: Jetzt rast der stärkste Sturm des Jahres auf Asien zu",
+      "title_zh": "Wärme und El Niño heizen Champi an: Jetzt rast der stärkste Sturm des Jahres auf Asien zu",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeXdwdldOWHZSVUdQdHh3Z0dubTlzR19neko3bDJwWWJXOUhnaHdRTUVpbWs5YVFSX0NDZlBtU3ZoeVFkb3FtM1NPT3dzeWw3b28tbXNHaXNXVU5KYkFqWHJUaVFha1QwX1BUaGpGcEw3eFFtM0laU05zMkZlNHZqSzdCa0NzYlpTRzFGbVljTkU2ZzdGcVl4Um5JVXhhc2s2RGlaWVlPVVA3VUtVQ25RdEZBR05RRjl3dlRSVC13MkVXclFSdllQSW1aVWFPMWM?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-10-21T10:55:45+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Wärme und El Niño heizen Champi an: Jetzt rast der stärkste Sturm des Jahres auf Asien zu    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Wärme und El Niño heizen Champi an: Jetzt rast der stärkste Sturm des Jahres auf Asien zu"
+      }
+    },
+    {
+      "title_original": "صراع الممرات والطرق في الشرق الأوسط",
+      "title_zh": "صراع الممرات والطرق في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNazJ5b21BcU1mYW5CaTNaMzJpcXpLa0Z4eG8wVEV6TFY0NTYyRElOTVZmLWMzZXNvVjE0ZVBGMXpMM1FzNFk5cEhIQ1FKQW5DWjV6SGRucXZRWk1wLVN1d25TN3VZQ0ViSnRlbHFFUDFsZDdTbjNtR0FhMVpLNi0teS1YRzBlQmpicXB1SHdoQ0VLSVpMelVtV1BDT3l4ZnA2bGpCWUN5ZG1mYWwtZGlvVWpsSDdCNDlqaWNJN2J5c1lIdlVkeU92eVdIQ19QOUZjX3IzdkEyUXltSkZpQkFLT245R0NRTkRMZXFjc1d1djhKS0dNS1JpbmJFSWhybEJtcmZ4SzlsMDFmUGtnZVQ1cU1oRkY1WmE0Y3NpYkx1cDNxOUNCN1dPcEVWazd5VjlpSWdyUXhqYUNWUmxX?oc=5",
+      "source": "middle-east-online.com",
+      "source_score": 40,
+      "published_at": "2026-10-21T10:50:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "صراع الممرات والطرق في الشرق الأوسط    middle-east-online.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "middle-east-online.com"
+      ],
+      "all_titles": {
+        "ar": "صراع الممرات والطرق في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "ويتكوف يبحث مع بوتين الوساطة بحرب أوكرانيا وموسكو تفرج عن سجين أميركي",
+      "title_zh": "ويتكوف يبحث مع بوتين الوساطة بحرب أوكرانيا وموسكو تفرج عن سجين أميركي",
+      "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxQQkhmbkdJUjVtRUE5UHUwc25wUkpWWTc4RjhneUJhVUxPalU3Z2dsYzc0djRIMGVXaGVxUFdsRmRKQzd4Ym9iX1FJV2Q4WXp4eTczUDNNMVdOWENoTDZvTUxuTEVUNWtJR3RRT0c4dk9oTkVfVjczeFJhaEJoaG1hUmpCSExfUXcyejMxS3Q1SW94UlF5dk9MRGY1QWR1LWZSR1VsWHhWNmhFMzdwOFJKWGNFUWM1UVJZRl9xWkJhR3BmMFpyUlk2WGFOUC1HU3VxcUROVENnTFZYcGxTS1p2c2RzOXhOV1NJTHhVZENpV253SG1BcWprcnpsbzNjMDlRQ3FrNjduek5DYnNKOTdpTmRqSzJ4Mk8tMWdjWklyRzZqSmszVkdNVzFmYlhGV28xYmJPT2Jhc2JtLURRcTUtcERpQjQtUDNXaEhNdk9CWjdfTVpYU0lsQV9mQ0NvazU0c3RBZVI2YkwzaXh1OEZQMnBsUkRJejM3Nk1jRDRTY2xibHFldG5OQl9MaV9seTBDdGZzOFNxdWt1N1ltNUNleVNINHNqd1BsMUNFNEN3RlJTMFpkVXA0RmdPc0YtSjBMUFZwazhOd3pkRGhKM2Fvb1VMM3BSR2pRcmNoNGRSbVpmLWNCZFFYT253?oc=5",
+      "source": "الشرق للأخبار",
+      "source_score": 40,
+      "published_at": "2026-10-21T10:16:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ويتكوف يبحث مع بوتين الوساطة بحرب أوكرانيا وموسكو تفرج عن سجين أميركي    الشرق للأخبار",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "الشرق للأخبار"
+      ],
+      "all_titles": {
+        "ar": "ويتكوف يبحث مع بوتين الوساطة بحرب أوكرانيا وموسكو تفرج عن سجين أميركي"
+      }
+    },
+    {
+      "title_original": "The GOP has a midterm messaging problem. Ramaswamy isn’t helping",
+      "title_zh": "The GOP has a midterm messaging problem. Ramaswamy isn’t helping",
+      "url": "https://www.politico.com/video/2026/10/21/the-gop-has-a-midterm-messaging-problem-ramaswamy-isnt-helping-2207287",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-21T05:45:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The GOP has a midterm messaging problem.",
+        "Ramaswamy isn’t helping",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The GOP has a midterm messaging problem. Ramaswamy isn’t helping"
+      }
+    },
+    {
+      "title_original": "Wenn Moskau die Kontrolle verliert: Das Kaliningrad-Szenario",
+      "title_zh": "Wenn Moskau die Kontrolle verliert: Das Kaliningrad-Szenario",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNlltWF8wQWFTNmEtMnRhU2lSXzhZcWxqYzhSZzNvRDJYcjFkdEk5T013a2owLW4wWjJoRzh4ZWpjLU1rTXdtZ0RIRFNMdDg0MUhOdTJvYWY5OG1rVjU2ZUplU0pfN3dQQms2ZGVsQlBubW5RRjctNWJ0VlRvSDFuMThtcW1FQQ?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-21T09:16:56+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Wenn Moskau die Kontrolle verliert: Das Kaliningrad-Szenario    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "Wenn Moskau die Kontrolle verliert: Das Kaliningrad-Szenario"
+      }
+    },
+    {
+      "title_original": "Rick Jackson is the GOP’s best hope in Georgia right now",
+      "title_zh": "Rick Jackson is the GOP’s best hope in Georgia right now",
+      "url": "https://www.politico.com/news/2026/10/21/rick-jackson-georgia-trump-midterms-01128445",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-21T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "President Donald Trump and his unpopular brand may drag the candidate for governor down with the moderate and independent voters.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Rick Jackson is the GOP’s best hope in Georgia right now"
+      }
+    },
+    {
+      "title_original": "ウクライナ「スターリンク」利用、決定はマスク氏次第＝米国務長官",
+      "title_zh": "ウクライナ「スターリンク」利用、決定はマスク氏次第＝米国務長官",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWTJMZVBfRjFkY2tOWXhPZTJxNHBObFJ4d0VLWG54WlBUNUxjWEJOMHJNTDY0ZDg4TDh3TDVZcHZINVNfYkFJRnZ4R2xfdWV2aTd1Um1Ja3FFWTFsdGcwZWl6OENMdGJZeS1CZHJUbi1OSncxamxSRkpiX3JtVTV0WHBSLUFsdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-21T08:24:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ「スターリンク」利用、決定はマスク氏次第＝米国務長官    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ「スターリンク」利用、決定はマスク氏次第＝米国務長官"
+      }
+    },
+    {
+      "title_original": "ウクライナのために活動するロシア人工作員、偵察活動の映像をBBC に提供",
+      "title_zh": "ウクライナのために活動するロシア人工作員、偵察活動の映像をBBC に提供",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QUnhHVHlTM3QxYlo2N0hjZVZEVDQwOHBkSDgwQjNGUzBTRDdZdDBYbjI4T19wdjdRWWZ0cEwwQzF5d2xEYUY1TVdxdE5RUDUzSC1BNkZIMjZ4MkhF?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-10-21T08:18:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナのために活動するロシア人工作員、偵察活動の映像をBBC に提供    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ウクライナのために活動するロシア人工作員、偵察活動の映像をBBC に提供"
+      }
+    },
+    {
+      "title_original": "9月の訪日客、5.0%減の310万人 中東混乱による燃料高響く",
+      "title_zh": "9月の訪日客、5.0%減の310万人 中東混乱による燃料高響く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SSV9KbUZ3MGFmTVlVVjJ4S1R4Uy1hclVOZTdDc1RFempDd1VnTkZ2RFN5V0VzRHhKNUwtd2VRTGhJTE5RZWxLeWRjWVN2S09wZDFEMElpMVVkN2ttTlR4UVZFZFgzbEhrUXZKTw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-21T07:58:46+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "9月の訪日客、5.0%減の310万人 中東混乱による燃料高響く    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "9月の訪日客、5.0%減の310万人 中東混乱による燃料高響く"
+      }
+    },
+    {
+      "title_original": "Australian MP loses both legs after alleged car attack, husband says",
+      "title_zh": "Australian MP loses both legs after alleged car attack, husband says",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-21T07:56:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Australian MP loses both legs after alleged car attack, husband says\n- Published\nHelen Haines, the Australian MP who was hit by a car in what authorities say was a deliberate attack, has lost both her legs, her husband has confirmed.",
+        "Phil Haines said the \"horrendous incident\" caused his wife significant injuries but \"her heart and her mind are in good shape\".",
+        "He added that the \"good news in all this is that she's alive\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Australian MP loses both legs after alleged car attack, husband says"
+      }
+    },
+    {
+      "title_original": "訪日外国人、9月は5.0％減 中東情勢や台風が打撃",
+      "title_zh": "訪日外国人、9月は5.0％減 中東情勢や台風が打撃",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFpmaEgyLVVXcml6WktjLWVsSmpueWxlTnZ1QkJqMU93QUJYdURzbF9PMGg2RzlnTTlPVk1QTm10SlluTDZDNllRRVYzaWI2Tl9FeFQzME5vTlFMVE5lWHV3elYyMGk3bXdvcVAyaUhPaVhJX0lBbEtuZTRvQW5BbUJrbw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-21T07:17:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "訪日外国人、9月は5.0％減 中東情勢や台風が打撃    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "訪日外国人、9月は5.0％減 中東情勢や台風が打撃"
+      }
+    },
+    {
+      "title_original": "Nach Ukraine-Gesprächen in Oslo: Trumps Sondergesandter reist zu Putin weiter",
+      "title_zh": "Nach Ukraine-Gesprächen in Oslo: Trumps Sondergesandter reist zu Putin weiter",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYzdoRGRXak9HVlBPWjh6WUtEdnczZndYdm9VX0xIMGtONTFfampMc3FjWUtHNUpDQ014QkYwWWExeVZDVXF0U042QWtveEVLLWpLTWlqY2tncW5rNkEyUjdfdG1JdElQUGxuR0luMDljZUd6TnBnTjBEYTdoV2pxNDctY0hjQmlLclllZzBPb1ZEOEhVUmlYNTV6d1Vra3loNUZfcjIzWkZVQWlKTUM5SERGZUtveHJMajFUUkNVQjBTWmV4XzZfOWVMMFDSAcwBQVVfeXFMUFVZektIcm9HamxWdGQwVy1wYWpnQ18xb0JlZjhBZG8yQUJyZDM1M2xpTnNoYzM3R0JIZ2ZpNVlLdTQ4SVNaS1FvTm9ta3hBWVZ3S2s1N3lPeXdBN0xKWUJCdXpqSlNiOEdmeEgxMFdrYTJ0ODhMUExDRWJiTnFVRU5LSlhpWlFtQWpoX191RUVMM0owZ0JIdWNucGtsY1pSWWkzc2laVm11a09iWDJDazJicUpfZVIyNEZ3ZlowWldkSVd3X1otdGcxX2V2?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-21T07:01:04+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Nach Ukraine-Gesprächen in Oslo: Trumps Sondergesandter reist zu Putin weiter    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Nach Ukraine-Gesprächen in Oslo: Trumps Sondergesandter reist zu Putin weiter"
+      }
+    },
+    {
+      "title_original": "Taïwan dénonce une hausse des cyberattaques chinoises avant les élections locales",
+      "title_zh": "Taïwan dénonce une hausse des cyberattaques chinoises avant les élections locales",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZ0JjWjZuMzVESkp0ZVJVVU5YNVVpbUdqQUxpTl9UcEMzODhwbHl1dmw1eGpJTl9teFBIOHRnLW1kSnFiX21ET0dJZmFGTUFPVG1hQm5kRUJCU1owS2NJOGFDME5iamZiMjBJV3VhbDNxTG9pX3c1TnJKRE0yVEpJVURyUFAwa0JRWUVTMDEzM1pURHlIYnFUSDBkcWYzS1poLTRkcUJsQm5NQnZFRE1SbGJsWnctMzlFSUxZZERkbEloTDVGd1JiOHJrQWJORy1fVG9GTEpRdzFKTlhkLUw3ck85eGV3ZmJPNGFtVUV4Rnh1MVhf?oc=5",
+      "source": "La Libre.be",
+      "source_score": 40,
+      "published_at": "2026-10-21T06:43:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Taïwan dénonce une hausse des cyberattaques chinoises avant les élections locales    La Libre.be",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "La Libre.be"
+      ],
+      "all_titles": {
+        "fr": "Taïwan dénonce une hausse des cyberattaques chinoises avant les élections locales"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient : l'Égypte réaffirme son soutien à Riyad sur fond d’enjeux pétroliers communs",
+      "title_zh": "Moyen-Orient : l'Égypte réaffirme son soutien à Riyad sur fond d’enjeux pétroliers communs",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd0c3NFFiVl9DQTJNSnIwRmpDMFFSeDg2Z2J1S0VnQzhnZGJSOXNtVU9JVlR2RTNxZ3Jzb25rUlVUTGdtS21QY0gzbElmYTQ3M2dPWVAwVlgxQWJfUmJOamR6WkVOSHE2aTBHaDJkZnFCZXNCYXBaSzVwYUdXV2hramo5cjV0d25QYlh0YVNlWHhXVTZrSVRhLVg5TnRFSnRJRHJ1ZkpQQ2M1eC1UY1U3eG1jOUkxXzFiQkk4eHhzeWdWbHJzQW8xUFg4U0JMdG4zNm9lSlZxelBoT0E?oc=5",
+      "source": "La Tribune",
+      "source_score": 40,
+      "published_at": "2026-10-21T06:42:40+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Moyen-Orient : l'Égypte réaffirme son soutien à Riyad sur fond d’enjeux pétroliers communs    La Tribune",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "La Tribune"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient : l'Égypte réaffirme son soutien à Riyad sur fond d’enjeux pétroliers communs"
+      }
+    },
+    {
+      "title_original": "Nouvelles frappes contre l’Iran en vue ? Les États-Unis déploient le porte-avions Theodore Roosevelt au Moyen-Orient",
+      "title_zh": "Nouvelles frappes contre l’Iran en vue ? Les États-Unis déploient le porte-avions Theodore Roosevelt au Moyen-Orient",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQdUV5Y0d6TC13MC1Wd0E3dk52Ykxnb016ZzU3ak91RVhOb0dfZ1V4UEJQc1ZibXlSMkFTZVg0RXlYcUJUWmNRTGNhNkUxUzJEd2RSY0JuaGxYeFQ1alZjLXVFRHRRNEVvOUZDS19RSVBRS0tVMVpPcG50NlRlZGViTkM1M1FnZXdtSkhhTHlYd1BmRHZYUzltb0RyX05rbVQ3cDlHMWFlaElRNGZldWpqZlMwdzJaSHg2eGlBOHNpeVhNcEVKbEh5WFJrSlZsdTA4TkhIanUxV280Zk5mM2d4WUd3SFZrclRGRlhveTZpWndJTTFsY0VSYkF4VFVnWEpfYTB1eGVHNEM?oc=5",
+      "source": "i24NEWS",
+      "source_score": 40,
+      "published_at": "2026-10-21T06:37:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Nouvelles frappes contre l’Iran en vue ?",
+        "Les États-Unis déploient le porte-avions Theodore Roosevelt au Moyen-Orient    i24NEWS",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "i24NEWS"
+      ],
+      "all_titles": {
+        "fr": "Nouvelles frappes contre l’Iran en vue ? Les États-Unis déploient le porte-avions Theodore Roosevelt au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "俄乌战争，为何不能太乐观",
+      "title_zh": "俄乌战争，为何不能太乐观",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95akdOYzY0aWRvOXVuaTlRdENBcnhZc3VPMEZhYjlxb2NyeTNTTE5Oc05QTmczYThOVWJSVERSU2t0SFlTZmZibUZ4Y1FrdHRaREZxUDd3OE9iYkk?oc=5",
+      "source": "风闻",
+      "source_score": 40,
+      "published_at": "2026-10-21T05:50:55+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄乌战争，为何不能太乐观    风闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "风闻"
+      ],
+      "all_titles": {
+        "zh": "俄乌战争，为何不能太乐观"
+      }
+    },
+    {
+      "title_original": "Pakistan arrests man wanted by US over $126m postage fraud case",
+      "title_zh": "Pakistan arrests man wanted by US over $126m postage fraud case",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-21T05:46:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Pakistan arrests man wanted by US over $126m postage fraud case\n- Published\nPakistan's cybercrime agency has arrested a man accused of running a counterfeit operation that caused $126 million (£94m) in losses to the US Postal service.",
+        "Faheem Akram is accused of having sold fake stamps via a fraudulent website in the US since 2023.",
+        "He was indicted by a federal grand jury in Florida last month for selling more than five million counterfeit shipping labels to thousands of US customers over the years."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Pakistan arrests man wanted by US over $126m postage fraud case"
+      }
+    },
+    {
+      "title_original": "ロシア国内でひそかに行われる反プーチン工作……その内幕を取材",
+      "title_zh": "ロシア国内でひそかに行われる反プーチン工作……その内幕を取材",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tLXlwcVVPQzkxdEFyblJnWWpnNmRDTjMxcWpNYVVmX3Q1VHF4UHdXMVBDbzMtTldXaDBqOTM1OUtqMGZfcFJ1QjlhUlVIM1JvZG9KRk9EQThJaFNKYjZoT9IBZkFVX3lxTE5RdGtSQzBKWWZUNEtFM2FEdks0ZmMxdGJrX2l1N1NmQkFKSEFsS3V6V3ZyUGtpUFlsTkFhZHJwTXRvYlY1Rmd2bUI5V1E0VnVnZERfQy1hRGlSc2duVkI3WlhEWGM5Zw?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-10-21T05:23:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア国内でひそかに行われる反プーチン工作……その内幕を取材    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ロシア国内でひそかに行われる反プーチン工作……その内幕を取材"
+      }
+    },
+    {
+      "title_original": "Schwarzmeerregion - NATO verstärkt Überwachung nach Drohnenangriffen auf Handelsschiffe",
+      "title_zh": "Schwarzmeerregion - NATO verstärkt Überwachung nach Drohnenangriffen auf Handelsschiffe",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUMwem1JRXZJMUZtNFVYcTZwcWs0MWc4ZGhvNkdXUmNPaW44dWo1ZzdiY2tucUctQ1pOSlQzQzV2elRDcXVsOE4xeVU4UTRPS3IyQmJURzBveUpRSHVoY1V4dEhRVm82N2N1ekxrd3dicWdPQW5OMUZ0SkpuZ2FZbGFqMEdsTVk2Wm55MnZYMmlGU0N2aXBNWGVmSkxXN1BybXdQUVBlNTRsMWpuWEE?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-10-21T04:46:52+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Schwarzmeerregion - NATO verstärkt Überwachung nach Drohnenangriffen auf Handelsschiffe    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Schwarzmeerregion - NATO verstärkt Überwachung nach Drohnenangriffen auf Handelsschiffe"
+      }
+    },
+    {
+      "title_original": "El vicepresidente de Estados Unidos da un portazo a Ucrania: no debería entrar en la OTAN",
+      "title_zh": "El vicepresidente de Estados Unidos da un portazo a Ucrania: no debería entrar en la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNkZEUE0yMmpFbTVrd0xySlNiLUNvbzdMTDU2QmNFMEFDUkEwQkRUQ21HdlEyT2p6SVNGSDhFVFE4MHA5eGVteXVhU3hOekNiVEtXTGZTLWhsTVdHcVFEVG9BV2xfbFZoVFlOV2VBMEJRN0k2WEh1VzZJRXUzVWVnRDZpLTk1VldRc0k1N1FSelRVbXdyQXF1ZHZ6b256eFBMR09Ub245WnR1Zm1qVFRXbmpXNmQtdzN0MUVrZ0U3ZWs4UHJKZTlnM0VieXViU3ctbEppZl9sc3gzN3JvRGtQMWVR0gHsAUFVX3lxTE0wNnNIUUxyWnFBSVRQMjVZekJvWm9HR2JLdWN4aU1oZmVMMXRVWDMwQ0NKWi1ERENZZl9QaW5mWDlFX2Jhb1Q3VXZ4V0NPcUhPOENhOUVwcWl0bnhicHpiSnp6SFl3X21KQk1MNHY0Zzg4dVlPb2hBYmhIRlhPM2pJMHlRQ2tYeVY4czV5YTdfOTNPb0tpeGJRSHlkcWdVNWVhMW84bGFBQVhNVGdhV3o5eEQ0X1pVYzhrR09FNm9RMzJBb1lsS3ZUaXY3T2xOQmhncWlscE1EZE1YVjJZeFF3cEU2YmVzNTlfak5a?oc=5",
+      "source": "Libertad Digital",
+      "source_score": 55,
+      "published_at": "2026-10-21T04:15:21+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El vicepresidente de Estados Unidos da un portazo a Ucrania: no debería entrar en la OTAN    Libertad Digital",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Libertad Digital"
+      ],
+      "all_titles": {
+        "es": "El vicepresidente de Estados Unidos da un portazo a Ucrania: no debería entrar en la OTAN"
+      }
+    },
+    {
+      "title_original": "Defensa confirma que los militares españoles se desplegarán en la misión OTAN para proteger el Ártico de la amenaza rusa",
+      "title_zh": "Defensa confirma que los militares españoles se desplegarán en la misión OTAN para proteger el Ártico de la amenaza rusa",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSlI2T0hteDJRRVZwVnlsRk8tWWFUNlJ5OF9vQlFPb2UwanRMTFhKdzVEUUVBQXIwQmtTS3dYUU92NXg3c0tZcEpTREtZMTNJb1JQSGtCczdiMmdUX1dNbjNJS2tCdC1FY1ZxajRwRG9GVURfZ2hYbkN3SGh6eGFTWUJXT21hdVBzZTZjWVJwRS1KS2pFLTRsZVdKeGdaSThnRHMzaVpzOFg2Tzh0MFRXR3AxZ2dwU2xuQ3ZZVWRHWm8yQ09RR0ZsRngxWGpuZ0ZHSHNKN0VXanlmc21uN3NyRl9zSFhIM21MU3VTUWFranlxUktldTBOM2t2UTdqTXZZWTBsUnlyRUpFVVBp0gGXAkFVX3lxTFBNTW5hVWF5NVg2QUFENFZSN3dwazc1d2pMalBJTzdRSGhhMHlBZjFGSXE5bGdWcmtSUTl6VUtaY2JaTVlTckhfemwtMkp2WDRPczNIcVNoRzNDelZMNlVCTENOVDhDbGo0b21ySTNSSTNFVkJxdnJnTlRRTzlwdTd3RkdKUTIwSVBmd2JTV0xqVl9sa0t6NGx1UkdNN1hhRDlLN1Z6dFNoZTJ0c1BvMUJXeVNLM2RhbU1EcWw5TjQxSkUxWWJoOHNkWFcxTXBnZXFIc29CTWZLOHFQdEZLVWFHM3B2bk1EUTJ1Yi1ZOXhBUlJzNXBKMk1vNDNJcDR3TDlRMkxTTk9LMUdWMXNIeFFyOUtmWUZrVQ?oc=5",
+      "source": "Libertad Digital",
+      "source_score": 55,
+      "published_at": "2026-10-21T04:00:39+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Defensa confirma que los militares españoles se desplegarán en la misión OTAN para proteger el Ártico de la amenaza rusa    Libertad Digital",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Libertad Digital"
+      ],
+      "all_titles": {
+        "es": "Defensa confirma que los militares españoles se desplegarán en la misión OTAN para proteger el Ártico de la amenaza rusa"
+      }
+    },
     {
       "title_original": "France is divided over who to blame for and what to learn from weekend riots",
       "title_zh": "France is divided over who to blame for and what to learn from weekend riots",
