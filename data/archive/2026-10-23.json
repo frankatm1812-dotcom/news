@@ -1,8 +1,858 @@
 {
   "date": "2026-10-23",
-  "generated_at": "2026-10-23T01:28:07.965080+00:00",
-  "count": 35,
+  "generated_at": "2026-10-23T15:44:50.533133+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "title_zh": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-23T15:37:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead\n- Published\nThe Israeli military has begun demolishing Palestinian buildings in the city of Hebron, after two Israeli soldiers were killed in an attack by two Palestinian gunmen.",
+        "Prime Minister Benjamin Netanyahu said the military would \"destroy\" the neighbourhood where the two attackers came from, and that Israel was ready for \"extensive action\" in the occupied West Bank.",
+        "Three other soldiers were wounded in the attack at a checkpoint outside Hebron, before the gunmen were shot dead, officials say."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead"
+      }
+    },
+    {
+      "title_original": "Oil spill washes up on UAE beaches after tanker strike",
+      "title_zh": "Oil spill washes up on UAE beaches after tanker strike",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-23T15:30:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Oil spill washes up on UAE beaches after tanker strike\n- Published\nAn oil spill from a tanker attacked near the Strait of Hormuz is spreading along the United Arab Emirates (UAE) coastline, forcing the closure of some beaches and coastal areas.",
+        "Satellite images from Monday show the beginnings of the oil spill from a ship matching the location and dimensions of Gem No.2, which was damaged between 9 and 10 October during a record surge of vessel strikes by Iran.",
+        "The slick of oil had spread more than 35km (22 miles) from the tanker by Wednesday, the satellite imagery showed."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Oil spill washes up on UAE beaches after tanker strike"
+      }
+    },
+    {
+      "title_original": "米ホワイトハウス、ウクライナ南部で部分停戦を発表 「メラニア夫人主導」",
+      "title_zh": "米ホワイトハウス、ウクライナ南部で部分停戦を発表 「メラニア夫人主導」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1heC1na3FzVllwWUM3SkJaVDhLb18yZXl5bEgtNTZLWDlaMHQ1bkx0aU1QMWJIblhSSnVVbVR1TEpsU1RNUnpuVzMtcjA3MkluNVFZRzlxSG94bmZKMWJwLWxTa0pmNzY3UnlwdQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-23T14:29:55+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "米ホワイトハウス、ウクライナ南部で部分停戦を発表 「メラニア夫人主導」    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "米ホワイトハウス、ウクライナ南部で部分停戦を発表 「メラニア夫人主導」"
+      }
+    },
+    {
+      "title_original": "PSG v Lyon moved as Paris prepares for more protests",
+      "title_zh": "PSG v Lyon moved as Paris prepares for more protests",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-23T14:18:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "PSG v Lyon moved as Paris prepares for more protests"
+      }
+    },
+    {
+      "title_original": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "title_zh": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-23T14:15:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Deadly shooting near Paris investigated as 'crime of terrorism', minister says\n- Published\nOne person has been killed and five others wounded - three seriously - in a gun attack in a Parisian suburb which authorities are investigating as \"terrorism\".",
+        "Several drive-by shootings took place on Friday - first in Trappes to the south-west of Paris, and then in nearby La Verrière.",
+        "The rampage lasted almost 15 minutes, said Interior Minister Laurent Nuñez."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says"
+      }
+    },
+    {
+      "title_original": "【速報】米ホワイトハウスは、ウクライナ南部の都市での停戦を発表した",
+      "title_zh": "【速報】米ホワイトハウスは、ウクライナ南部の都市での停戦を発表した",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KaHRwYVNIMnhLWEZpdnRmemdadXFxVzNoa2x4b21IeEtpLUgzMWJsVUpqQnROdkFKdFUtT3lJcUpldGZHUVhkVWctQXNkNEFpSkU0MWZDTWFSTFZUMm9VZ1BldEJwZw?oc=5",
+      "source": "時事ドットコム",
+      "source_score": 40,
+      "published_at": "2026-10-23T13:43:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【速報】米ホワイトハウスは、ウクライナ南部の都市での停戦を発表した    時事ドットコム",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "時事ドットコム"
+      ],
+      "all_titles": {
+        "ja": "【速報】米ホワイトハウスは、ウクライナ南部の都市での停戦を発表した"
+      }
+    },
+    {
+      "title_original": "El jefe de Transformación de la OTAN en Huelva: «Las tecnologías antidrón del año pasado ya están obsoletas en Ucrania»",
+      "title_zh": "El jefe de Transformación de la OTAN en Huelva: «Las tecnologías antidrón del año pasado ya están obsoletas en Ucrania»",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0poQzUtQ1o4RHRSN000eFZfUmh0RkJKYklWYm8yTVd5MjVJa19UNEk0ME5yWFpDU1JScE9vcENXTGVmbUVnTWJ2OU5MaTAtNzRRM3Zhc2NpLTV5S2ZpdmlkMlUxMDlkZWZYN2MzbHVTU01zakR4RmpjS0xCNkc1WE93M2w3M3lKRW0xd1FlSElveHVPOC12cUduOHE2cmgwNlRNRl93Y3JjRGRtOUpyT2FYWS1aRlcwUjViVkE2UDfSAcYBQVVfeXFMTVJ6c2ZhVC1hNDg4MzVIQkt4b3dzVjQyamlqYkZHREpvbElNM2xTSkIxeGszNE5qNEpwTG9RUVZ0emtEek5wSmpKTWZPUlVVZ1pCUnA1NHdGLVlndmowUlc0QTRqWXM3aElBNU5yY2VqSjlDbE9sQzBSUV92ME1jc2gzYzl0MkZ5aGhkNFRNR29yLVd5RUtJUnloWWpCX2xnYXQ5Nm5oMWVpV0xTMUJIQ2FTSHlLVkljbThJZHVpSlc1Uk10ejdB?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-23T13:10:43+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "El jefe de Transformación de la OTAN en Huelva: «Las tecnologías antidrón del año pasado ya están obsoletas en Ucrania»    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "El jefe de Transformación de la OTAN en Huelva: «Las tecnologías antidrón del año pasado ya están obsoletas en Ucrania»"
+      }
+    },
+    {
+      "title_original": "NATO chief: Greenland Crisis Never Neared Confrontation",
+      "title_zh": "NATO chief: Greenland Crisis Never Neared Confrontation",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemFrVkVYX0ppOTV6d056SEZ1dFdlQnk3ZkR6cERGQk81TW01V2xFVDBfMXhKUVEwdnhVeVBsNGdvU05hQ0Q2Z3pJclFhdXVpeFdiTWNqUFpkMFp4T3pOQmR6ZXRTd3NOZWlwVUY2SEtYVVhFdEt3SV9TMlpxdmI5bkNIWGlSQkg2VzJIMUxzYndiN21OLWZmSzc0TFpDcTJVZ0E?oc=5",
+      "source": "High North News",
+      "source_score": 55,
+      "published_at": "2026-10-23T12:52:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO chief: Greenland Crisis Never Neared Confrontation    High North News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "High North News"
+      ],
+      "all_titles": {
+        "en": "NATO chief: Greenland Crisis Never Neared Confrontation"
+      }
+    },
+    {
+      "title_original": "Ukraine plans independent satellite system as Starlink issues persist",
+      "title_zh": "Ukraine plans independent satellite system as Starlink issues persist",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ1h3LW5nWUFidzJXZS1TMUNhcC11dm1ROVZzb1VfbzA3RFZfSHJjQUtyRDFfc1ZzQVJ2VUZ5bXB6UmlfOG9EN1ZiODN5MDZ0eXlSS0hQaDJpNFBidE1nMGV6RjFoSzIwazhGOTI0Zm5nc3AwVHkzekp0QmxtWWRMRUF6RGh0YkNMTXpvZU95WkV2X2RYZGVvd1pDSDh4aG1pRVVhdG1sNE01V2hTeEJyUtIBtgFBVV95cUxNY0JHUllwMkxrLVNITmZhYllpNjBCbV9CUUxsMTYwZmlmMDlUNVc2QVNfTU82cUk2ODVfTElBNGctNHUxRjRaNWQ1U3V6MDByQy1XY1AxRUtuaEZtNkkwdjJWQ1Z2cDlIOGgtZjhEekprM3lpV3RGMUh0eDJtWS1MYWpodWx2RmRfb1dYVklmZXdvV0V4UURxQTRqZTVOcjVHdVE1enNMejU1TkZnLVBqWHRoQzV2UQ?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-23T12:30:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine plans independent satellite system as Starlink issues persist    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Ukraine plans independent satellite system as Starlink issues persist"
+      }
+    },
+    {
+      "title_original": "Denmark to ban mink farming in government U-turn",
+      "title_zh": "Denmark to ban mink farming in government U-turn",
+      "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-23T12:17:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Denmark to ban mink farming in government U-turn\n- Published\nMink farming will end in Denmark by August 2029 after the government decided to drop plans to pursue an exemption to an EU-wide ban on the practice.",
+        "Denmark was once the largest producer of mink fur in the world, but the industry has declined due to global bans on fur farming, a decline in the fur trade and an earlier outbreak of a Covid strain in the nation's mink population.",
+        "The ban is due to come into effect on 7 August next year, and is followed by a two-year transition period to phase out the practice."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Denmark to ban mink farming in government U-turn"
+      }
+    },
+    {
+      "title_original": "Conflit au Moyen-Orient: des hauts diplomates d’Europe et du Moyen-Orient se réunissent à Istanbul",
+      "title_zh": "Conflit au Moyen-Orient: des hauts diplomates d’Europe et du Moyen-Orient se réunissent à Istanbul",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRDhTc1BuMVpWZFFpdURRS01MVjlQdi1UV2FuMy1kY1c3eDM1NmJNTkF5LVJGTGRFLTZwMDZsb0I4b1VFek1JR1pMVHpYcmh6eWNHMlVybFl6UVZZclJTYnFyYUpWbVN3ZW1LMEpjZURlRVM5WDhGNlFtNjJGa3Z4ZVphdUhuRWRSLW1UZVBBdW1OMWxnSmFPdmhZanZCOWZKZDUtODF2cWhTVGRvS0JxYkhOdFByWUduOEsxT2w1Y2VjOVdoVW9waHZ6TWtZQkdXYU1abXR5bzQyVG9JaFVVS2V0eDdxLW9xVWExMWJUeWdmTzBlRjh5OFJqX1YtZ3I0SEVB?oc=5",
+      "source": "Noovo Info",
+      "source_score": 40,
+      "published_at": "2026-10-23T12:11:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Conflit au Moyen-Orient: des hauts diplomates d’Europe et du Moyen-Orient se réunissent à Istanbul    Noovo Info",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Noovo Info"
+      ],
+      "all_titles": {
+        "fr": "Conflit au Moyen-Orient: des hauts diplomates d’Europe et du Moyen-Orient se réunissent à Istanbul"
+      }
+    },
+    {
+      "title_original": "A Western drone company explains why setting up shop in Ukraine is necessary to build better weapons for NATO",
+      "title_zh": "A Western drone company explains why setting up shop in Ukraine is necessary to build better weapons for NATO",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUZIcmhERWh3MDAyUm5JcFdYb0t0di1xWTl4RnFENGNYcEV1Q2tfVXVSVGthN29teHU4Qm11M0hwRWtJWjVYMTQ1bFhIZmlWR0dEdTAxcjA5Ukp3OFNEOFFZMnlHdlE3TUlHdWZKRmVwejFWQnhjT0lLSWRMY1FJa1ByOUxwMm5RY1dWVFJLMzZQZkFiU3BoMjhCNGF3bGZ5YVZaQ2RQRzZjOTFVbXc?oc=5",
+      "source": "Business Insider",
+      "source_score": 55,
+      "published_at": "2026-10-23T11:31:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "A Western drone company explains why setting up shop in Ukraine is necessary to build better weapons for NATO    Business Insider",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Business Insider"
+      ],
+      "all_titles": {
+        "en": "A Western drone company explains why setting up shop in Ukraine is necessary to build better weapons for NATO"
+      }
+    },
+    {
+      "title_original": "الإمارات تكشف عن تلوث بحري في سواحلها نتيجة تسرب نفطي من ناقلة",
+      "title_zh": "الإمارات تكشف عن تلوث بحري في سواحلها نتيجة تسرب نفطي من ناقلة",
+      "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxPcTZ1QmtaV2xETVBCTEVHbGZuX3ZJbk1jM253b3BwMjlsbGJXd3huNWFjdTQyT01jSnNJLWtEY2dQalZvaUtwNVhOaHRyYVNSbWtienJoUlZ5ajhVTXhhaFFaT216UE5RcnVpYjhxRzFjMTdQNUMwYW5fd2tqckJ4NE12MXhycGpCWUxpYS1Lb1JrQkxoTTdRdlRLWkN2WkdPT0ZnQ2JmeWZjZDZxbTc0MVZQbFdHbGp2RFhadDRZaEF1aUVJT1A2b215d3J6TmtsX3NDczZXOFhtV0txeXJiR2lUUFhKZm9Va0JNZUZWdm9pQmF0V2VvdWt2SVRCdFgyZ0xOcnkzbHJVOF9CNEE0RWdWaUZGTlh1bVVqWFI0LXA4YzdqQVdqT2ZUdm11aWRqdWVscjVhU3BpTk9hVVhxZWthTG15czh2Vk5pRkFKaVZIeVBFWW9LMUxZdVV2YnY3TnZud2EzeVFRLXJKVUtmclpXSEN6dlZUc3k2anBONTVpRWNuelJwUC1IX2pnWTZYOWhOdXhvdF9LaEotcG9XN18yMmJfVmNCcUpyQ1RWVHNJMXVESVMzeEs1T29kVjRZVnU4OTVEZVMtQk9Od2xTNlRZZTZPdGM4YVhrbk9BQnp6NGdmZ0RSaDc0VHY5bkRmWTA1Mmc0dWlMaFEyR3JodkJLc1RiN00wbkZvRDJ1TzBZNVVZeDFUekNpOGlNcW42M2dUaV83YkV4cFdxRTl2NENkUFY3blV6NC1wUVFaSE5kMXVJQmJfcmJMb2pLaHRPVjJ3UVI2c080TGJZNEhHME9LVjF4QUZ6ZnluTHRn?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-23T11:08:49+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الإمارات تكشف عن تلوث بحري في سواحلها نتيجة تسرب نفطي من ناقلة    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "الإمارات تكشف عن تلوث بحري في سواحلها نتيجة تسرب نفطي من ناقلة"
+      }
+    },
+    {
+      "title_original": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "title_zh": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-23T11:01:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine says Starlink still restricted after Trump says limits lifted\n- Published\nUkraine is still recording issues with the Starlink network, sources within the defence ministry say, after Donald Trump said limits on the satellite uplink had been reversed by Elon Musk.",
+        "The sources told the BBC that instances of drones experiencing connection loss at speeds of 161km/h (100mph) were being recorded, hampering military operations.",
+        "The US president had denied instructing the tech billionaire to restrict connectivity to Starlink's military-grade counterpart, Starshield, before saying on Thursday that Musk had \"put it back\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ukraine says Starlink still restricted after Trump says limits lifted"
+      }
+    },
+    {
+      "title_original": "ستارلينك: شركة فضائية تؤثر على الجغرافيا السياسية",
+      "title_zh": "ستارلينك: شركة فضائية تؤثر على الجغرافيا السياسية",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNQmxZcTZfaWxPUmpWN1hTdjVRQ2ZBQkkxa2xQd19oUGE5OGVNem9hUGppVDVYN1pYTVhqTVBtSE1UWENRZHBHWW5ja3dDdDY1RTJSZWNnLURad0hCancwVERuWXozR1JDTldQWkJDdUd5RWhNeDZFbU1pWngwMEJvMDhSQThIclFBREpoM25GbnI1UVFpR1I5SjY1a183OEZUalBzMmlramxLZFJyU3ZadTlkcGRsTkpGLVkzQm9OUnU4ZGdBelE4d0FyQmlxSDRTazBhb21KZXVmdkxGRXVvc0JheDZ5VVRZUEFneUZJcjFQX0FoaTVrU3dkSkpYclE5QUdRRWdDTndXNl9Rd1dpSXRSVFpTb2VGM3hKMXAtbTdYZk1idDMwbk5YdkxKY3Rfd2MyVHh6X1hrc1huNjVqaU5LZEJTcXR4eGRxbS1COGRkcXlvYVFZQzhzZnVzNktFYnlneXFTT1pHNXNkd2dDVGhqMEhCMFV5NnJCc3JEb04tY3RZN0NMV3p4bERnUWhlNzRQbFpscjAxejBoUG4zZdIBoANBVV95cUxNQmxZcTZfaWxPUmpWN1hTdjVRQ2ZBQkkxa2xQd19oUGE5OGVNem9hUGppVDVYN1pYTVhqTVBtSE1UWENRZHBHWW5ja3dDdDY1RTJSZWNnLURad0hCancwVERuWXozR1JDTldQWkJDdUd5RWhNeDZFbU1pWngwMEJvMDhSQThIclFBREpoM25GbnI1UVFpR1I5SjY1a183OEZUalBzMmlramxLZFJyU3ZadTlkcGRsTkpGLVkzQm9OUnU4ZGdBelE4d0FyQmlxSDRTazBhb21KZXVmdkxGRXVvc0JheDZ5VVRZUEFneUZJcjFQX0FoaTVrU3dkSkpYclE5QUdRRWdDTndXNl9Rd1dpSXRSVFpTb2VGM3hKMXAtbTdYZk1idDMwbk5YdkxKY3Rfd2MyVHh6X1hrc1huNjVqaU5LZEJTcXR4eGRxbS1COGRkcXlvYVFZQzhzZnVzNktFYnlneXFTT1pHNXNkd2dDVGhqMEhCMFV5NnJCc3JEb04tY3RZN0NMV3p4bERnUWhlNzRQbFpscjAxejBoUG4zZQ?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-23T10:36:39+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ستارلينك: شركة فضائية تؤثر على الجغرافيا السياسية    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "ar": "ستارلينك: شركة فضائية تؤثر على الجغرافيا السياسية"
+      }
+    },
+    {
+      "title_original": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+      "title_zh": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+      "url": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-23T10:14:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Cyprus police open investigation into financial affairs of Roman Abramovich\n- Published\nPolice in Cyprus have opened an investigation into the financial affairs of Roman Abramovich, following revelations by BBC Panorama that accountancy firm Deloitte helped in falsifying documents to hide his wealth and evade tax.",
+        "Serious questions about the integrity of some of Abramovich's professional advisers were raised earlier this month in a joint report from the BBC and the Bureau of Investigative Journalism (TBIJ).",
+        "A Cypriot Ministry of Justice official told MPs this week that the report's findings would be looked at as part of a new investigation by the police's Financial Intelligence Unit."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Cyprus police open investigation into financial affairs of Roman Abramovich"
+      }
+    },
+    {
+      "title_original": "El tifón Champi deja un muerto y 171 heridos en Taiwán y provoca cancelaciones de vuelos y cortes eléctricos en Japón",
+      "title_zh": "El tifón Champi deja un muerto y 171 heridos en Taiwán y provoca cancelaciones de vuelos y cortes eléctricos en Japón",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXg2SEhIa1Q0MERMQUhWME9Kci1oN1hxRkdDVkFLbnRIYTNGYUhjVmFsNHFHS3ZJSTdIRWdtMEdsV1psTXpIZ3RhUVo5czh0VGp4N3l0RVlGdzRkczJkNW15Mkw1Mm82Qm9rSlAxdE1UOXV0c2hja3g0cUpnVnJKVVpWSDkxWm1fMkVNRWp5VndSWmtMV1NV?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-23T09:42:58+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "El tifón Champi deja un muerto y 171 heridos en Taiwán y provoca cancelaciones de vuelos y cortes eléctricos en Japón    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "El tifón Champi deja un muerto y 171 heridos en Taiwán y provoca cancelaciones de vuelos y cortes eléctricos en Japón"
+      }
+    },
+    {
+      "title_original": "Poll: Trump is mobilizing more Democrats against him than Republicans for him",
+      "title_zh": "Poll: Trump is mobilizing more Democrats against him than Republicans for him",
+      "url": "https://www.politico.com/news/2026/10/23/poll-trump-midterms-gop-loyalty-01133479",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-23T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "A new POLITICO Poll shows that even some of the president’s most loyal supporters are willing to put winning first.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Poll: Trump is mobilizing more Democrats against him than Republicans for him"
+      }
+    },
+    {
+      "title_original": "The nation’s cartoonists on the week in politics",
+      "title_zh": "The nation’s cartoonists on the week in politics",
+      "url": "https://www.politico.com/gallery/2026/10/23/the-nations-cartoonists-on-the-week-in-politics-01133458",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-23T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.",
+        "The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.",
+        "Here's an offering of the best of this week's crop, picked fresh off the Toonosphere."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The nation’s cartoonists on the week in politics"
+      }
+    },
+    {
+      "title_original": "هل الضربات الأوكرانية أم حرب الشرق الأوسط وراء ارتفاع أسعار الديزل في الولايات المتحدة؟",
+      "title_zh": "هل الضربات الأوكرانية أم حرب الشرق الأوسط وراء ارتفاع أسعار الديزل في الولايات المتحدة؟",
+      "url": "https://news.google.com/rss/articles/CBMioAZBVV95cUxPcllOVDlZTVVzWlJFekRZSmNJYWp3M2wxaTFSRE96MnFWQkI5enFYYkFGbDlaZk1jYVcwM1lEeEJ2TEtCa3FrTVFNNDc5MkY4Q290X3pfRUNCNFBwZTgyMmhaTGxLcDhkcms4ZExrSzFxSmR4ZXc1bnBhWE10RmtNVy13M181aHdWa2N5X0xKMEhTYzFLNDNPdnZLeVJIWXV2YWZkQzhJVDQ4NjBPTnZwM25aZ1ZWVW9WQW9fa3pnbmd6V2RCRGJFQ3U0TFdidWlzbGt0cG1WWlQ5SlRweWpGcFFnd041QndVeWJBbTViZlpqclJFN2NVT2tIZjZxXzROeWJjRjRYSkNZUXQ5YXZ6RU5yZ0ZZa0Y2M0NlbmNXdkc0ampFRXpELXhVZmNJSnU2MmV3aEk1bklzbFRmWGdWLWI1WWNaNE5xYmhLcTBXN0VHV1pvQVptOEhWX3Fva1JjZG1Zb0tIcU9YSnRacFJ5R3JkVF92Sm1xeXJEQjBDY3NhLTVKRzZ0ZHNDaUdVR2lad29qVlJBMW9fNmhTeGNCZzZfOE5qOFpod08zMWxmQ05JVEhhZGZHbUNPTUtiaFR3Z3RYWVZydHhhblFFa0c3RldDc2hFQVg1enpUWVhQZDRpYWU2TkxFNkN0aXlJZzExWkdYRzFiSDdJaktyWEgtakFhRFhBS292Rzg4Q3F4ZkRzY0FfcjYwbTB2b0kySnJqV0hhbWhKWXcxdXRISFF4QTl3Vm1fN3dvVm1qVHdNc2dQcmUyMFZmNmU4emRKWURSYmpEMkY2QlowUUdKaW1xLVdXTGg0ZklmRTZoR2E2TXNPUzVJbmwwZW9hTDUtdlljWTdjTGZsUTh1R0hKLTd5VlNkc0xmS0ZyMlFTNTlFYUloY1Z0c245VUVCZmw0LVhtZ1VCV0VWdTlMVF9kTFFvTWEwRzlaSVNqaUdvRHVwejZUM3RudC1GWHJMTUFWTFBsLVp6VHZfLVMwdnBKUDFPeDJoTDlZU3I4UGNlZnFPeGh0WVZZYm5SdmdIZS1ZWkVCTWxTWkV5amxPc2gzMzZkdQ?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-23T08:28:50+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "هل الضربات الأوكرانية أم حرب الشرق الأوسط وراء ارتفاع أسعار الديزل في الولايات المتحدة؟    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "هل الضربات الأوكرانية أم حرب الشرق الأوسط وراء ارتفاع أسعار الديزل في الولايات المتحدة؟"
+      }
+    },
+    {
+      "title_original": "El tifón ‘Champi’ paraliza Taiwán y deja un muerto y 171 heridos",
+      "title_zh": "El tifón ‘Champi’ paraliza Taiwán y deja un muerto y 171 heridos",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVFVckxHM2ZjV19uNVY3ZG1CVVlMdS1QWE9vZl9wODNvdXY1VTZmV0V6WEY2NzlteF9HaTR5QVpZYk1sYm9nbFdvelZranRZaWZ0bGdxZzM0WS1JZUtTVVpQdFg5N09rMWVNMW96cHQxQU1IRlc2Tm1QNmhZaktVOUs0SFVUVUlKSE1BeWpRYnBHb253bzdEcHNBSVRWdEtRVlFsQ2g4ZkdGcHhza3hUVdIBxAFBVV95cUxQWEtydVRKSGFrR0xrV0drTVJpY01KeWFMVS1iMFZLNlkwSWNDUmFWWk1zVWlDRHE3UTFqNVRsOHFMMG5vSWtkNTdMeUhPR3VCRW1aRTNIcF9qVzdkNlFpQms3VWNmM2tOV2ptUnBzZDJpdHpqaldRNEN6Y1kyLUJlemRPTmRTUWlzcHlfSGFwRFk1OU43YkstYWR1WjFjd3F3dnVQNURFU1pGQzNOdW9RUVlweW9LN3h3MkUzbnp5aWVmWE1C?oc=5",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-10-23T08:10:49+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "El tifón ‘Champi’ paraliza Taiwán y deja un muerto y 171 heridos    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "El tifón ‘Champi’ paraliza Taiwán y deja un muerto y 171 heridos"
+      }
+    },
+    {
+      "title_original": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+      "title_zh": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
+      "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-23T07:53:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Search and rescue efforts under way after quake strikes region’s north, with at least seven aftershocks recorded A magnitude-7 earthquake has hit Tibet, killing at least 16 people, injuring 54 and destroying hundreds of homes in the northern regional city of Nagqu, official media have said.",
+        "Search and rescue efforts continued after at least 339 homes and 20 livestock sheds collapsed, the Nagqu media office said, citing city government officials.",
+        "It was the biggest quake in the region in the past five years, according to China’s national broadcaster CCTV."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes"
+      }
+    },
+    {
+      "title_original": "فيديو. تايوان: الإعصار المميت شامبي يسبب فوضى سفر وإغلاق مدارس",
+      "title_zh": "فيديو. تايوان: الإعصار المميت شامبي يسبب فوضى سفر وإغلاق مدارس",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeDZreHM0YXhCaW5XVlV6WlFRNjNSX2diVjROaGNadkVSanpDbEdGQThsa0E5eUVrb1hHVG5sS1I0UzRYWjhGc2U1dnVKSjZNQXg1c29rUjlJb1Z4UFkxT3VEVldrdGo1aUNNUVhiVlhtamhZamxXTmpvM25VR3owYm9hSjJSRG1NbjZhbjFvSElZc1Q2UkdpV1M1V2MxQjlhR29QamdTa3BUY0lVbFVrRXJVRQ?oc=5",
+      "source": "Euronews",
+      "source_score": 75,
+      "published_at": "2026-10-23T07:31:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تايوان: الإعصار المميت شامبي يسبب فوضى سفر وإغلاق مدارس    Euronews",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Euronews"
+      ],
+      "all_titles": {
+        "ar": "فيديو. تايوان: الإعصار المميت شامبي يسبب فوضى سفر وإغلاق مدارس"
+      }
+    },
+    {
+      "title_original": "Video. Taiwan: Taifun Champi sorgt für Reisechaos und Schulschließungen",
+      "title_zh": "Video. Taiwan: Taifun Champi sorgt für Reisechaos und Schulschließungen",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSE8tV0l3UXIwU0NKVHNXTnVySG5qNmZDUXQ4QkRVZkI0eU9Tb3UzbzJyelEwYjh5ellTNkFXXzFHWEpTM0FySXAwM2ZNUENUYkVfQWlUdTg1U0FFbTRCcnppQTNTcUp3VVp4QXpTZmhvZnNrRENFVS1xSjRyRVFIUDNLYThtNWQ4YXcxT0FYZFlhUVVOTUFqU1VCVjFLVWZ6REpUZTJ3UzA?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-23T07:31:36+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwan: Taifun Champi sorgt für Reisechaos und Schulschließungen    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "de": "Video. Taiwan: Taifun Champi sorgt für Reisechaos und Schulschließungen"
+      }
+    },
+    {
+      "title_original": "Europe needs a war economy",
+      "title_zh": "Europe needs a war economy",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VR3Rwbmg5NGhhckkySDQ0R0doc3kwYWh2cmRmVlVHak1qRFNGM01PNUR3VG9tOHRaQm1WdGlFUmt5cWRKLVdjZEVhdWphVENGTDZjQWJHVG5ZQW1iRzBRZzUydmdpRWhhWDNrT25NY3NJZFBuRUF0d2o1ZXbSAYIBQVVfeXFMTVdja29JS0w2SjNQNXNBSjVzZVRDNExycUJoSzFCN09IVnNmNk5mMV8wRjZqVEM1MjN3UFZuQ0dUcUllQTg5R0l2Q1doNkREQmdwa1M2aFpzakZxNlJVOWVDS0k0bzZsZkJ2OU5EOFhEdmQ2dEJxeVM1MmlueDNoTFBwQQ?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-23T07:25:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Europe needs a war economy    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Europe needs a war economy"
+      }
+    },
+    {
+      "title_original": "Aecoc destaca la incertidumbre geopolítica como principal amenaza para el gran consumo",
+      "title_zh": "Aecoc destaca la incertidumbre geopolítica como principal amenaza para el gran consumo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXNNYjdJVDVieE9JTmFnZEszN3ItaTZ6NFZReGJ2Ujh4cGFFMFkxalJia05icGpqZFZLeDhxdUh2REVyMVdLSmlhelNXbmZhX3BQX3VTbEVvU3dyNUtoVzB0WVc1aXBqN2xSN1lxV0p6VGtvWE9GSVJwRUMta0pMeE5LV1BMWEU2cWNCaHR4bEMzdFA0cjY2NWh4NmRpRVl2cW04Y1dlVjI4TlpxcG9HUTJlek0?oc=5",
+      "source": "Valencia Fruits",
+      "source_score": 40,
+      "published_at": "2026-10-23T06:35:28+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Aecoc destaca la incertidumbre geopolítica como principal amenaza para el gran consumo    Valencia Fruits",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Valencia Fruits"
+      ],
+      "all_titles": {
+        "es": "Aecoc destaca la incertidumbre geopolítica como principal amenaza para el gran consumo"
+      }
+    },
+    {
+      "title_original": "Nach Starlink-Streit: Ukraine zieht Konsequenzen",
+      "title_zh": "Nach Starlink-Streit: Ukraine zieht Konsequenzen",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDFzSGxGdXhzX3BpdTRsa0RwOFc2SE50WDVXMjdLTVlhcVR5bldEdUpkZHd5cDZ2ZjVQeEJ5ZExpcTZqbkZsaHlTeFVreDlPanhIOFFpOFl3YnRWU1pVRE43Y0xXdEtMQ1lpZDRyNHA4YldOb0lMTkdRQmp1RDc0VlgyS19WZGJvcHZfeUp5RWNGRFlKeW4xVEpLLXRaMjVnODlxVF9KSTRpNktzQ3NOUXBlOUVSQUExTlFRUnRUQjNnM3p3eXpzSmtR?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-10-23T06:30:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nach Starlink-Streit: Ukraine zieht Konsequenzen    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Nach Starlink-Streit: Ukraine zieht Konsequenzen"
+      }
+    },
+    {
+      "title_original": "Taifun Champi legt Flugverkehr in Taiwan weitgehend lahm",
+      "title_zh": "Taifun Champi legt Flugverkehr in Taiwan weitgehend lahm",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbjVfR1ctc1Q2Q0VjY19vREdSYmttWVo0SGV1UmNuaUkybUtnMWpHNXF6UXR3T3piSVowaEFIeEVTRmllTU0zbjNwWmFvSEFCTXFyZzNNWFpHNHhacnRnS3YyT2hNYTk1cy1zY2NEZTJhM2R2WGRCenRBVnJ4aGxuaHVIeXVVUWtKWWMtS0JaNm82V09qbG5VbnhnNlNBbXFRZlFJ?oc=5",
+      "source": "aeroTELEGRAPH",
+      "source_score": 40,
+      "published_at": "2026-10-23T06:29:03+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taifun Champi legt Flugverkehr in Taiwan weitgehend lahm    aeroTELEGRAPH",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "aeroTELEGRAPH"
+      ],
+      "all_titles": {
+        "de": "Taifun Champi legt Flugverkehr in Taiwan weitgehend lahm"
+      }
+    },
+    {
+      "title_original": "Taiwán se paraliza ante la llegada del poderoso tifón Champi",
+      "title_zh": "Taiwán se paraliza ante la llegada del poderoso tifón Champi",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWZNWmdvckVCY01pMmVCTnM1RTRuYTB1bFdLRHFfaTdTejQzVHMtUGlCNlgyR05qVFlRTlQ1bTRNRTNYY19XWGlORmR4LXdRcUFCbkdpWE9xd29iajlOMjd0WWZZeU44U0JsOUVGS0ZqZkFKV3RJemtxdGlwLXVPdzgtMUNmYndqMkpiVk9vUmlyazduT0xWRHFkNWFJY2tBREZCNm930gGmAUFVX3lxTFA4VC03bFEyV1RmQTN6Q09tdDBPRVYxUmR2bUNWQWQzOFhTZXg4cTRpMHhFLXY5RzZkQmc1NFNSUFBzWG1fN2hXRmc2eXhRYjBmdDZ5LW1lczBCay1zMWN3WmZ3NWlsNEQ1bEgyWTAwN2pidEZzTHlvS28tVzN6MjlpYnVkRG16d2JEYUpKUFdiRTRqa044a1ZDdmpic1dlX09iUU5qTGc?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-10-23T05:33:14+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Taiwán se paraliza ante la llegada del poderoso tifón Champi    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Taiwán se paraliza ante la llegada del poderoso tifón Champi"
+      }
+    },
+    {
+      "title_original": "بوتين: تسوية حرب أوكرانيا تتطلب ضمان أمن البلدين وبحث أمن أوروبا",
+      "title_zh": "بوتين: تسوية حرب أوكرانيا تتطلب ضمان أمن البلدين وبحث أمن أوروبا",
+      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQUTRxU3lISUd4NEVwNjNwT2lnNUxxM3drMjBQQy05UWNqc2czV0tVR1dETXFnOWF2MFlZNW1SUTNtclFLWmZsb01JRnJWMDh1dzZaeXViU2VxV29ieEJXLWxoU0NGSzN0STBaZ0dYaGhhZXF6cXpzZERMT0NtakZCaWJpVjJfRVJQWmdBeEpnT0Q5V1BDcVlJUzFaN0dZZTFEcGpyazlhSXRXSmp0Rjkyei1aci1MY2hKUTgxRG9aLTlUcFJSd2tRUE14VTlnQnN3RktWM1NzUDRUNUdIazZ2RkJwYUR4a3ZCSGNtUGF1N1VqeDRpdVBPalZEYk5NSXpxYm0zSmF6RFNjWXpyZkVQQ3owMktJRVFsQlFiRGhGNkMzdFlaNnN2ZW5FYVloa1pCZ1o5ajdmTllUTW84WHF2STItVS13WnZYQTZJbnV5MFdDdldWNmN0dktSR2ZGaGZPS193OTBZUl8zOWlJV3pJSnRJY19hTGFuNnpSTkRKdkZ1eTcyUVhDcmJjRDNGVG41ZGRmYk5aczBoZWFpY3dhYThyeHo4dlg1b2JoRHkxcEpyb25QbDNzdjlHdk9sSE9tbjVWUXZHTQ?oc=5",
+      "source": "الشرق للأخبار",
+      "source_score": 40,
+      "published_at": "2026-10-23T05:31:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "بوتين: تسوية حرب أوكرانيا تتطلب ضمان أمن البلدين وبحث أمن أوروبا    الشرق للأخبار",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "الشرق للأخبار"
+      ],
+      "all_titles": {
+        "ar": "بوتين: تسوية حرب أوكرانيا تتطلب ضمان أمن البلدين وبحث أمن أوروبا"
+      }
+    },
+    {
+      "title_original": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "title_zh": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-23T05:16:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Powerful earthquake hits Tibet killing 16 people, reports say\n- Published\nA magnitude 7.0 earthquake has hit a mountainous region in Tibet, killing at least 16 people and injuring dozens, according to Chinese state media.",
+        "The centre of the quake hit Baqên County in the Nagqu region on Thursday night, Xinhua reported, citing the local emergency management bureau.",
+        "The county - located in what China calls the Tibet Autonomous Region after annexing it in the 1950s - is 400km (250 miles) north-east of the region's capital, Lhasa."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Powerful earthquake hits Tibet killing 16 people, reports say"
+      }
+    },
+    {
+      "title_original": "Unwetter: Ein Toter, viele Verletzte durch Taifun „Champi“ in Taiwan",
+      "title_zh": "Unwetter: Ein Toter, viele Verletzte durch Taifun „Champi“ in Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR1BxVVRsZkJmQ0lOU1J5ellkWXdoREFGZjJUUHptSGNuMmZWRFR2WG92OXBQSUtMOEVhbzkzeEwtdnJULVZkTWR0aU0xbE9heklTSko4dU9yTHFoYWR5c3c0VUhlQnJ6eUZoRE1malRlQWlDNDVqQ0ZtWGJjVFBMbUxpZUowSFI1NXFXVzFPaHlwc3ZHSExfeUlFU2dPQTY0VXZHcGsyZ19XV09PZUNCUDRoQlBEeDBJZVNnak1udFBveVJtTUdPZ3BlaHY?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-10-23T04:35:08+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Unwetter: Ein Toter, viele Verletzte durch Taifun „Champi“ in Taiwan    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Unwetter: Ein Toter, viele Verletzte durch Taifun „Champi“ in Taiwan"
+      }
+    },
+    {
+      "title_original": "Can Angie Nixon prove Democrats can win in Florida?",
+      "title_zh": "Can Angie Nixon prove Democrats can win in Florida?",
+      "url": "https://www.politico.com/video/2026/10/22/can-angie-nixon-prove-democrats-can-win-in-florida-2208736",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-22T23:59:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Can Angie Nixon prove Democrats can win in Florida?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Can Angie Nixon prove Democrats can win in Florida?"
+      }
+    },
+    {
+      "title_original": "Taïwan : écoles et commerces fermés à l'approche du typhon Champi",
+      "title_zh": "Taïwan : écoles et commerces fermés à l'approche du typhon Champi",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX2F2dDdScjZVNElXWnBtVGNubFJlbnRvSHF0M25Tb3ZVSlpZS21qLUg1Vk1zQ3F5cVFRYmlGOHEtNnBsck1VVWFuZXhnazVCV1RVRllrOVZ6R3huM0h0dDhLM2Mycmgwc0llOEVlZl9GeEM1RnZDTU5yQmY1NTJNd1hKaHRYbGV6U3BHWEhieXUwX1pLcElGd1lmek02WmlRelk4Wk9nSmdHS3gyc0VUZDcwYkdNVWE2WFBRbUhoX2NqRTV5M2o4WXgtQ1FQeG84RFE?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-23T03:44:59+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Taïwan : écoles et commerces fermés à l'approche du typhon Champi    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Taïwan : écoles et commerces fermés à l'approche du typhon Champi"
+      }
+    },
     {
       "title_original": "ロシア関連ハッカー、ウクライナ穀物企業攻撃に分散型ネットワーク利用",
       "title_zh": "ロシア関連ハッカー、ウクライナ穀物企業攻撃に分散型ネットワーク利用",
