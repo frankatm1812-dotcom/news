@@ -1,0 +1,882 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T01:28:07.965080+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "ロシア関連ハッカー、ウクライナ穀物企業攻撃に分散型ネットワーク利用",
+      "title_zh": "ロシア関連ハッカー、ウクライナ穀物企業攻撃に分散型ネットワーク利用",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVDJ5QmcxMDEzUmRjdzJQYmFYMVcxaTZLOGRwZzZtNzFsUTI1MHB4RGtfcEFjNXotRGMwUG9hVll2cEp5emZ6bWEybVJBT1Z1WHJ0TlVLbTZRaWJsdDFlX19Wa2NEN0RZLTRqSFZGSzEwYjdIdUlCSkVTRUNUbVlZc20xZ3RtZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-23T01:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア関連ハッカー、ウクライナ穀物企業攻撃に分散型ネットワーク利用    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア関連ハッカー、ウクライナ穀物企業攻撃に分散型ネットワーク利用"
+      }
+    },
+    {
+      "title_original": "Unwetter in Südostasien: Gewaltiger Taifun steuert auf Taiwan zu",
+      "title_zh": "Unwetter in Südostasien: Gewaltiger Taifun steuert auf Taiwan zu",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSWE4LXVPbVJXbktSNUttaXRVTklqUG05bGFuV0ZZY1VQOElLZlpzTm1XV29ORzdOS3k2aGdUWjFwc2FTWWl0VVNDNXhobzRmWWk5THJwNHdtcEZhNzUydUNISmpibmMtd0ZaNzNkRnotSlhpaXNVcHdtWExuZGZENnEzZGhkd2ZxQWtrNFJPWFdmMnN5NTJ2blVtdERndzFLdWxPVzFnU2R6TUowRjUyd2lOeUYxc0todzVSYTlvR3RMd0h5NnVQUWdfWWxycDlPZmNmZnNUZU94MFk?oc=5",
+      "source": "WetterOnline",
+      "source_score": 40,
+      "published_at": "2026-10-23T00:48:40+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Unwetter in Südostasien: Gewaltiger Taifun steuert auf Taiwan zu    WetterOnline",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "WetterOnline"
+      ],
+      "all_titles": {
+        "de": "Unwetter in Südostasien: Gewaltiger Taifun steuert auf Taiwan zu"
+      }
+    },
+    {
+      "title_original": "中東混乱で「日本の脆弱性明らかに」 エネルギー白書",
+      "title_zh": "中東混乱で「日本の脆弱性明らかに」 エネルギー白書",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZMTUtaFpzWWtvQXZIYUtycFZUNEtNTHFrSFREU3V6MzJ4bEZOV28tOUpyZGRzcUE1WHlYZ01PY3d0ZlBJS3ZOS0dwU3cyeUhacHlIZm1xQzhEd3Q1RG9Qem5GWlV2LVotTWpYMA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-23T00:26:59+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中東混乱で「日本の脆弱性明らかに」 エネルギー白書    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "中東混乱で「日本の脆弱性明らかに」 エネルギー白書"
+      }
+    },
+    {
+      "title_original": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "title_zh": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-23T00:10:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump ordered to answer questions under oath in BBC lawsuit\n- Published\nA US judge has ordered President Donald Trump to answer questions under oath in his defamation lawsuit against the BBC by 11 December.",
+        "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave before the riot at the US Capitol in 2021.",
+        "Trump cancelled a previous deposition - or interview under oath - on 16 October, citing \"matters of national importance\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump ordered to answer questions under oath in BBC lawsuit"
+      }
+    },
+    {
+      "title_original": "تايوان تعلق الأنشطة وتلغي مئات الرحلات مع اقتراب الإعصار تشامبي",
+      "title_zh": "تايوان تعلق الأنشطة وتلغي مئات الرحلات مع اقتراب الإعصار تشامبي",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeTdiSWp6TWFtRDZtOWJxNE1sRnBWdHdxR09zbC1MZnhaUWNCc05NZ0lpZFctREJIR1Nhb3hwVnk3OTBsRjNSekNkdzR6VFVSWXFGTDV5UXdmUktMQVRtQllPc0Q0TVItSWxXV2h1MWFYWmhsaU96V1JKdHRrMXZkNWxR?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-22T23:55:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تايوان تعلق الأنشطة وتلغي مئات الرحلات مع اقتراب الإعصار تشامبي    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "تايوان تعلق الأنشطة وتلغي مئات الرحلات مع اقتراب الإعصار تشامبي"
+      }
+    },
+    {
+      "title_original": "トランプ氏「マスク氏がスターリンク復旧」 ウクライナ軍の制限巡り",
+      "title_zh": "トランプ氏「マスク氏がスターリンク復旧」 ウクライナ軍の制限巡り",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10N3FCeXNDU3MwLXl1bHc3eUN3ZzRxVkZfcF9nNjluY19KZ3U4bmxoOVAyTzFrQW9iRkFxaVZsanUweXRkYWY4QW52WFJaWUEtamtYcGdySlNWWHRUakFNMjlGLTh3SzBEbUo4dg?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-22T23:18:47+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "トランプ氏「マスク氏がスターリンク復旧」 ウクライナ軍の制限巡り    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏「マスク氏がスターリンク復旧」 ウクライナ軍の制限巡り"
+      }
+    },
+    {
+      "title_original": "プーチン氏、3カ国協議「停戦目的ではない」 ウクライナに降伏迫る",
+      "title_zh": "プーチン氏、3カ国協議「停戦目的ではない」 ウクライナに降伏迫る",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03ZmR2UGMzUGdiMmNUUC1mYmdrOWNNOENPd2lnTE54VklFX3NHVVFELWRLUEtWZ0o1cTFXWTZoUzI0LWhEdzlVSlpmSGdOdE9QWlkxTWo0WGtkUDJZTHN4b2lhV2MzejVmNHJ0Qw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-22T23:17:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "プーチン氏、3カ国協議「停戦目的ではない」 ウクライナに降伏迫る    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏、3カ国協議「停戦目的ではない」 ウクライナに降伏迫る"
+      }
+    },
+    {
+      "title_original": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "title_zh": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-22T23:16:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds\n- Published\nA BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago.",
+        "UN human rights chief Volker Türk called the findings \"deeply disturbing\", saying multiple attacks by the Rapid Support Forces (RSF) on civilian infrastructure, including health facilities, were serious violations of international humanitarian law and may amount to war crimes.",
+        "The RSF has rejected the BBC's findings."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds"
+      }
+    },
+    {
+      "title_original": "ウクライナのスターリンク利用制限問題、米上院民主議員が調査開始",
+      "title_zh": "ウクライナのスターリンク利用制限問題、米上院民主議員が調査開始",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR2xYNTExZVBGak5velQzQ09fN3NPN09Rc1N5RTFNRWcxUFBSbGR6dTFRRVBVZlJFX3ppN2VNWFJaSGtIUlFXLURQRlh6bl9jTEw2OWgtYlNPYmM4YkZ2VDh1R1VtODBYZkxlVXVUYjRDTXgxVG12ZFFHMlFfUDNyaGl1ZjlXZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-22T22:21:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナのスターリンク利用制限問題、米上院民主議員が調査開始    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナのスターリンク利用制限問題、米上院民主議員が調査開始"
+      }
+    },
+    {
+      "title_original": "Democrats’ top Senate super PAC has raised $354M this year",
+      "title_zh": "Democrats’ top Senate super PAC has raised $354M this year",
+      "url": "https://www.politico.com/live-updates/2026/10/22/congress/senate-dems-big-haul-01132834",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-22T18:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The figure is a record for the group and includes roughly $88 million in the first two weeks of October.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Democrats’ top Senate super PAC has raised $354M this year"
+      }
+    },
+    {
+      "title_original": "トランプ氏、マスク氏がウクライナ向けスターリンクを回復と表明",
+      "title_zh": "トランプ氏、マスク氏がウクライナ向けスターリンクを回復と表明",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXpQUHF6ZU4tMWp4WC11c1hlaXZBd2tIR1hZSXJ0T1NXT1FjRU9FRUZMSkhnM3JhQi1qMFBlLTR6ano5ZFdWU1p0UEs4N1M2WG5IekZOem9faDMxZDJFbzNWY1QyeDFjNnlNanY0RzlUVjh5Q1UwaUxJeTNla2pMNTlSRE5Fdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-22T21:51:11+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "トランプ氏、マスク氏がウクライナ向けスターリンクを回復と表明    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、マスク氏がウクライナ向けスターリンクを回復と表明"
+      }
+    },
+    {
+      "title_original": "بعد تحركات ترمب لإنهاء حرب أوكرانيا.. من يتفاوض باسم أوروبا مع بوتين؟",
+      "title_zh": "بعد تحركات ترمب لإنهاء حرب أوكرانيا.. من يتفاوض باسم أوروبا مع بوتين؟",
+      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOWFRTQWN2R2N0YkdydlkxS0JERHRMYnpRN0hrcUI5RHBQdmZGMXNRZ2JPTDJ0aThIZlRSVVVaV0NnQm1yWXlyUnJDNW1hNE5rSFNXbFBvYW9QWnJjczl5Y3Z4cDBydkdsWFNhajBMdHY1TWVUSjFEa1JzLTVuQ2NwLTh2dWs0VjJPazRyOFNRZUZaRS1GNng5Y0o1ZGpmM0p3ZlR5X1FRU1kwWjRoaW12YkhLc1o4WEh6MjZFbGpBTkFvck9yUTFvYlF4WnhKVGt4QzJOLV9WYWdpMjdvdVVpZURaaUhPaS1JODRRNDVZTjY2eXNET0xzVnVPRU1ZR1dzeEVGR2Q5Y3dkNEpiMVRYc2hKSmJFc0FHV3VfSVFpTm9ETU45SC1OY3phZDdUekp0N2YwSHZNSnFuQm5NNVdnS3BfOEhlZlZtRG05UzFWczFiT1pKTkVMbnRGWDI3cDFQRzJWeHpTVGJrNHlhMjN5TEwyaDJuZWtBNDRIajR5VlViMVZ3N2Vpc1JNYXVnMVV5ZktlVnk3akUzZWlvcFI1OHBqSUlZWTlFM0JTbGlDOWNWTF9YYlMxeDR2VDd3SWJXZ2t3YWJUM0xGSWVnWDNEWQ?oc=5",
+      "source": "الشرق للأخبار",
+      "source_score": 40,
+      "published_at": "2026-10-22T21:26:33+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "بعد تحركات ترمب لإنهاء حرب أوكرانيا..",
+        "من يتفاوض باسم أوروبا مع بوتين؟    الشرق للأخبار",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "الشرق للأخبار"
+      ],
+      "all_titles": {
+        "ar": "بعد تحركات ترمب لإنهاء حرب أوكرانيا.. من يتفاوض باسم أوروبا مع بوتين؟"
+      }
+    },
+    {
+      "title_original": "ウクライナにロシア軍が大規模攻撃 2人死亡 30人以上けが",
+      "title_zh": "ウクライナにロシア軍が大規模攻撃 2人死亡 30人以上けが",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SSVpQUHJydmN5bThwTmxVUW1lMUtvcEd4SFBrb2JNa29yNzlUME5qSm9MdXN2SU1sakdJSVRvT3JrMDV6eFRDMTd5WU9CR0JrZ0wtRjNzQzdIellQTHdr?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-22T21:10:12+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナにロシア軍が大規模攻撃 2人死亡 30人以上けが    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナにロシア軍が大規模攻撃 2人死亡 30人以上けが"
+      }
+    },
+    {
+      "title_original": "A final farewell to NYC’s horse carriage industry",
+      "title_zh": "A final farewell to NYC’s horse carriage industry",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/22/a-final-farewell-to-nycs-horse-carriage-industry-01132609",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-22T16:46:05-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "A final farewell to NYC’s horse carriage industry",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "A final farewell to NYC’s horse carriage industry"
+      }
+    },
+    {
+      "title_original": "Russian strikes hit Kyiv after Witkoff meets Putin",
+      "title_zh": "Russian strikes hit Kyiv after Witkoff meets Putin",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmJwWHBSdTZDQ3F5dGxvRFM2UkY3NDRWX2RCN0hWMnNWeDUtN0twVzlQUjdfTzBpWmR0d0lEYzlKODVoYllyaV9LLUZaeVg3RnFaQ1FuV2ZTdnlXUkYtQ0xYS0NsYW9Tb0lsQVI2NGNXNjV2WW95NkIwYW9xUXg4ZnJ0MGl6OV9fNE5zWU5LYS16eG1NOVJN0gGcAUFVX3lxTFAwQWVoRUJLMUZmdVpINHhTcHY3MncwcG9ucVkzNy1INXYzUlBweE5TaHk2RXJpLU5IUzg0a0JTaU1wOEczS1JQV2tsbnczX192Rm9qYTlqU0dET0U4WlVGRWpYczVNZUt5a0d1U3ZmY1Zwa2xMQUVhMVNZa1FwdDFJTjBQcHQ5bGNJQlJ3YjVUU083QVZQRFBTT2VQbw?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-22T19:55:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian strikes hit Kyiv after Witkoff meets Putin    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russian strikes hit Kyiv after Witkoff meets Putin"
+      }
+    },
+    {
+      "title_original": "Nicolás de Pedro, experto en geopolítica, sobre la paz en Ucrania: \"La estrategia de Putin es castigar a los ucranianos al máximo este invierno, quebrar la voluntad de los europeos y convencer a Trump\"",
+      "title_zh": "Nicolás de Pedro, experto en geopolítica, sobre la paz en Ucrania: \"La estrategia de Putin es castigar a los ucranianos al máximo este invierno, quebrar la voluntad de los europeos y convencer a Trump\"",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNcWUxbFUtbVNlZTlIdHlNVWlFQ3RkYldhbnJFcm9kODZSaWVPalNmc3M2WVRQV0ZZdkV3bjMwZS1waWFEUzdmZmlVcjAxVHZKbGVDb0V1ZWhOSC1Fei1EcXZZTkF0eE1XYVd0TUYyT1U5ZWJfQjN5X2VLaVJEYUViVjFlRXZ1aHlrX1d1S0dIV1BZQkt6eWVjX0E0TV96bUl6SXVfRTNkZ1RoZ1NMVE85S1RqUTNQZkNfYzhlaDlOZjBZZGQ3cGF0dFlSV0VRU2JNREdPVzM5QzVKc1VqLWZUQWwyTDlGYU5KVThLTkNnck5MWVgxQWhCZlB4UXV3OFhaaFJOQnR5cEU0TGsxbjlDS1JGcU1STlZyNzVTMXRPZXFCN3Y5X21JeXpNdnBPYll6dGpDY1Y0amRNNHhZNU5rWWc1aGFWZmhSVjBJbnlHOVZBVEXSAdgCQVVfeXFMT0pkRDBNa2ZsWUZMdUxSOW1TT0lFQlV2elRXVUprWlZrSXdpdHRqYmJKYWExeWZFT1NzMUZzY0RRZjV1VnluMEtWUDJWN2NWc2ZOTWZMWVpQVVVZTHZxUVM0Y1FJOGRZNi1aUmVPc3g3M1V3dGwzRXBXQWlieElLNUd0U0JoM2hvd182bWZtNnNpZmdScUg3UUlJOFBzOHU1Uzd2QUtjVHFabjVOOE1WLWZMdUNzTWUxWElsVGVvTnctZHlBSmQyd0J6endjT0czbG5wSGctWWRacDZVUTJHRU5ycjF4Zml6NHp6MHZjTm1EMWNPdmRXVGxvVkhZTURacE1NRnBOQWdpZWk3Q0VEazZ6YzNtRnpGQjJhd3EzdmFqNHhHWVc5N1ZkdzNHTG9yUnR5VHItUTljSDhIVVQ4b3hEaVIwX05lbDIxMzU1dzhvUHRsQkw2NTc?oc=5",
+      "source": "COPE",
+      "source_score": 40,
+      "published_at": "2026-10-22T19:53:27+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nicolás de Pedro, experto en geopolítica, sobre la paz en Ucrania: \"La estrategia de Putin es castigar a los ucranianos al máximo este invierno, quebrar la voluntad de los europeos y convencer a Trump\"    COPE",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "COPE"
+      ],
+      "all_titles": {
+        "es": "Nicolás de Pedro, experto en geopolítica, sobre la paz en Ucrania: \"La estrategia de Putin es castigar a los ucranianos al máximo este invierno, quebrar la voluntad de los europeos y convencer a Trump\""
+      }
+    },
+    {
+      "title_original": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "title_zh": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-22T19:27:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother\n- Published\nAmy Acton, the Democratic candidate for governor of the US state of Ohio, has called an attack ad against her that features her estranged mother \"despicable\".",
+        "Acton commented on the campaign ad from her Republican opponent, Vivek Ramaswamy, on Wednesday, saying: \"This is despicable, what he's done\".",
+        "In the ad Acton's mother, Donna Arthur, says Acton \"lied her entire life\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother"
+      }
+    },
+    {
+      "title_original": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+      "title_zh": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-22T19:25:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Paris extends curfew as Marseille and Lyon ban protests after riots\n- Published\nParis is extending a partial curfew restricting movement in parts of the city until Monday, as Marseille and Lyon impose a total ban on protests this weekend.",
+        "The Louvre, Orsay and Picasso museums in the French capital will also be closed on Saturday as more demonstrations are expected.",
+        "France is still reeling from major disorder at the weekend, when large protests against the high cost of living and school conditions were overshadowed by riots and looting that saw business and historic buildings destroyed."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Paris extends curfew as Marseille and Lyon ban protests after riots"
+      }
+    },
+    {
+      "title_original": "Carlos Sainz: \"Cuesta creer que vayamos a correr en Oriente Medio\"",
+      "title_zh": "Carlos Sainz: \"Cuesta creer que vayamos a correr en Oriente Medio\"",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVZ5ZHphQlRnRWZsVkZkQTc1UGNCVlZWTUNxVUFtbzdnOVd2d3c3MjhuYURSUmRzOHc2d2lxWGxwcm9RVkN1OVNLakI2T28wQXFMRDJZcjJydnhxeVIxa256QnNvN25BM242ODljTHZDLWR5X0V5bU4zQUo4Ty1DRVhTSC0zVTFJa0lLSkRVMU1mU0VLVkxwa2VzZ0tjZzV3bi1iTzQtcDgwbnVyY0luYkluRHBkQdIBtgFBVV95cUxQWmlXdTFxMTIwLW5nZ00wcC1SVTNYeWZtOXd2M0tpSDkxd0RQZEZZalo2bVR6V3NCTHpmeDV5dmQxazMwRWFicTAyRnVzeGdPMW5qUXBqTVJpM29FXzBMQXQxc2g2bFN5NWt3aG5RQ3JlR1RSNE5Vai1FQk1sdDc1SEdhemxfNzBMWnd1R21WS1dzWU9OVEVmZzk0SE1aaV9nSjJSR1RHT2p6bzEyU2JUa1JfdjlKZw?oc=5",
+      "source": "MARCA",
+      "source_score": 40,
+      "published_at": "2026-10-22T19:24:41+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Carlos Sainz: \"Cuesta creer que vayamos a correr en Oriente Medio\"    MARCA",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "MARCA"
+      ],
+      "all_titles": {
+        "es": "Carlos Sainz: \"Cuesta creer que vayamos a correr en Oriente Medio\""
+      }
+    },
+    {
+      "title_original": "和平協議、ロシア・ウクライナ双方への安保確約軸に プーチン氏主張（ロイター）",
+      "title_zh": "和平協議、ロシア・ウクライナ双方への安保確約軸に プーチン氏主張（ロイター）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpOHBVYncxNUs0VWdUV2JXUFNibkpUblN4TTVkQWg0UlhCWXdFdkxWVVdhMmhrQzR1YkoxdUtvenNxLVY2ZjJ6ZkVoUVFrR3VRdk4tZDRoSmtSSlVIc3ZjSl9GNXBMamVIcFYwTDlhV0ZxdTcwblVaQ1V2WmJnRnM?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-22T19:17:32+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "和平協議、ロシア・ウクライナ双方への安保確約軸に プーチン氏主張（ロイター）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "和平協議、ロシア・ウクライナ双方への安保確約軸に プーチン氏主張（ロイター）"
+      }
+    },
+    {
+      "title_original": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "title_zh": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-22T18:26:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax\n- Published\nMeta has agreed to a new deal with chief executive Mark Zuckerberg to prevent him from leaving California over a proposed state tax on billionaires.",
+        "The agreement gives Zuckerberg, whose wealth is estimated to exceed $200bn (£149bn), even more shares in Meta to make up for the fraction of his fortune he may lose if the tax wins voter approval in November.",
+        "The measure would impose a one-time 5% tax on residents with a net worth of more than $1bn."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax"
+      }
+    },
+    {
+      "title_original": "دعم استخباراتي إسرائيلي للسعودية في الحرب على اليمن",
+      "title_zh": "دعم استخباراتي إسرائيلي للسعودية في الحرب على اليمن",
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOV0ZKVC1neDlHOFRLdHlMLXVmVlZ4ODdIUk5JMUJYdTgydUhYN3JXdmJnZlhyb1AwQWExMGQ2MG1XcFdpSGhUMENXZWNhOERVRVE5RHhpR0JlQURWRXkzTXRjWG83aUJMQUZPWk04N0gwcVVwUTFFcFA1WXRrcGRsRldEcV92QXlKZnZIRG9UUUFvVG93SGVkaWdnLWRUejZLTHltUEllSWxCNGVDV19ybm1Ua0FoQXoxWk85X1JSMHBzeVktOTFlMm1zSDVpSlVOeEVaWVMydUhWSXJyQ2RSVmtIVTcwY3U5Uk9XY0lXS1ZvMURaOVJwMnFZZ1g0SC02OEtlb3lvLWVJQmpYV0k2QmdFYlRoTWJmMG93Y0RJRVA5LXZjTlJjQVZkN2xnbGtoVHlydGVQOFZCcmZ1ZHpkZkNjZlIyRHZUX21RR0htSkFUOUhaWFR5YkYzQnhOSU8yRUdLY2hlb09IRHI5VF9XS1NucVdMM0t4Ym5qVDJzSjl5WjNRZDFYYVlMWEFYVUxLMTRwb0N6LUk0Szg3SGdXR0F4ckFNVUItREx4SWdteTg1QmFRa1lqcXdvaUM0RTZmYk8ydUI4M1ZOMmZ40gHSA0FVX3lxTFBPcElUWl85RjFmQkFOT3UyQ2V5R3FVMWdZX3Rnc1YxSUlzVmhDcFJ0bXFOSUtqUmszby1ESjdVdndVUDdRVk1HYzA0OWxtWW15U2NibGdTcHByYnd4dDJsMVRwaVk4Sk5YRVRLZHZxdHR5Y1o5OVBwcGpDN3VhREk5LWVxRmJkMjAzZTlENzVzeGZMMC1LMHNqWUtDRGZGenNGSm5LTk5pNmpIMlFBLWhMRG5NQXF3a0NDNk5kZk5hWmhHVHhpOFMyZm9XYWVadzNTNmhpTlJ6QzVyUk84ZW9aNnZtZEszdHk4aW5fTzZlc2hnNVNwLU9EeTYzNEoxd0J3NDJ2R0lfcGJKR0tDMmpMcEtZZk53d3c4aTZ2VmdXODY3ZS1fSExjbThmX2ZwYzNrWlJ4UjBTdTkzYURwN2xzS1NCTWNUOGJWWUJUSjRyekhSTU5iVFZ2bDJQRTdsRF84WkVEdFJLOGcwTlJHbng2WEFzWHU1TDltY3FsU0dYWGxzUWtWODF1NlZZRmtkMm1KSDlsbng2R2V6bXJQcUpKbnFwaVBHMFBrYmxCZGtiWFZmSDV6V0ZXTFpYZFFpVFR2VUd1VExnYmxpbWtRdUdZbWc?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-10-22T18:06:29+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "دعم استخباراتي إسرائيلي للسعودية في الحرب على اليمن    تسنیم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "دعم استخباراتي إسرائيلي للسعودية في الحرب على اليمن"
+      }
+    },
+    {
+      "title_original": "أزمات الشرق الأوسط والديزل الروسي.. اختبارات شائكة لترمب قبيل \"التجديد النصفي\"",
+      "title_zh": "أزمات الشرق الأوسط والديزل الروسي.. اختبارات شائكة لترمب قبيل \"التجديد النصفي\"",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQNHlUVkl0VkRMZ2wzcE9WbThSRllnXzd2WVdaNUxFbTdRWk0zckpaZDFTZkIzUWVOSUN2SGR2enVJRGprVi1hWHdSS1J2WDF2NW9KUk1SMlN1bklaczczNnpfeDhNSEFrQWEzb3lFUERZY2pIMXQ5UEZuaHpxY1BZenA2cUV1b0dTenlobVhIbGlDNzNkSE96RGxyeUxMQ2dEbDJHSHNHRXNkcWxJbHVkRnNmbmx0T0JITUN3VXhyWTh4QjJLdlR6UzlnRDAtM1ExaDdpYzR1OU9OM2dRUlU2Zm8xVzF6c1FmRWtNYjBoaVlOR0hzQm1BeEhuTnJvMGh3ZWR3OWlOd0xCNl92QVducDZlOU51Q1poYkpIc2ZzOG10SUdJeHFoWDZJc0xOVFdLaVMtdTQ4U3hvdW9neFpRRkRzcmotb2U0SlprcXpwLW0wUTJHMkpN0gHcAkFVX3lxTE01Tk5ocmJSbnVqQmlOM3E1R2FsOHVBTUFteENkQWRmTExYMkFiLXNScFZqdXpTTjQ1eEl4ZFZLYUlFRHJaMjNqLU9mdHVaN3BoelNuRUtLclNaaEFENlZtQVBCdGEyYklrTm9Iemo0cExob0pianU4SWJmUms1bGZqa1llcGpjSi1DZE5CYWQwdlRtbnlZT1ZzRDRvRnEtcUlUaExjZXZvLWswOVdKaDN1d056MUJoWjlwX0lfZllLa1hxRXYwMHZGcmVFNmNKZEhDNkxxcVJCMi1rVHFPQTNJNS0tV1ZrdWh1X1h6cGRuUnRDRVJjcHdmbXhzNjNCSklOUTF1SklFMUZuMW9mM0pKNWUxUExxRk12N0NWQ1BxakwxOG96QS14RUpNWTU2U0xXMVhHUFQyb0FKbUtNZ0htT0U1QWI3dXJyUHpnQVhTZHZ1VFRtTFBZdV9CeA?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-22T17:49:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "أزمات الشرق الأوسط والديزل الروسي..",
+        "اختبارات شائكة لترمب قبيل \"التجديد النصفي\"    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "أزمات الشرق الأوسط والديزل الروسي.. اختبارات شائكة لترمب قبيل \"التجديد النصفي\""
+      }
+    },
+    {
+      "title_original": "ملايين المسيّرات وآلاف القنابل.. لماذا لا تحسم الأسلحة حرب أوكرانيا؟",
+      "title_zh": "ملايين المسيّرات وآلاف القنابل.. لماذا لا تحسم الأسلحة حرب أوكرانيا؟",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOUl94a2Q1TXd1ck1FQ3BSVUFubi1OZ3JYbVhkUnJFV3paT3Jwc2lsZUVZQ1RmV29JUjRaREVsR2I2Qk1sMVQweXFHUHVJMk9tTGpjWkx4eUo4ZjRvUE9RR2R3NkVNc0E1OHQtY3lBc1ZVd1ItM1Jtckgwd3NHVkd6OFBvLWdsSjhHcnZnV3RiY1o1cU9yU2trWVpyVVdMSU5tdE5fTEJkZnNoY2l5cG9STGVWVWdtZlVPUktjSkdfTUJLWEx0QUpnTFJBX1JKOU1ja1d5cG5lcVVIaHJNZTRVamJGTWlzOFI5MkgwdDVtZk1kYVh3WW9KdWV6Q1ZnalBOclpoQlVqTGRXYUhIYU1IM0hRZUpfb19nckFmRVQ4R3ZwN2lXVUllRnZSajlFZ2ctQXNYbGFVXy1NMS1FTzYxck5iVkZ1MFQ0cVZEc0kzZjZaZUw4aWVr?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-22T17:24:15+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ملايين المسيّرات وآلاف القنابل..",
+        "لماذا لا تحسم الأسلحة حرب أوكرانيا؟    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "ملايين المسيّرات وآلاف القنابل.. لماذا لا تحسم الأسلحة حرب أوكرانيا؟"
+      }
+    },
+    {
+      "title_original": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
+      "title_zh": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-22T17:21:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge\n- Published\nClavicular, a social media influencer who promotes the \"looksmaxxing\" trend of young men maximising their attractiveness, has pleaded not guilty to criminal charges including rape.",
+        "The 20-year-old, whose real name is Braden Peters, was charged in September with felony rape, drugging an individual for sexual intercourse and procuring alcohol for someone under the age of 21.",
+        "The charges stem from an incident in 2025 when he is accused of assaulting a 17-year-old girl at his family's Massachusetts home."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge"
+      }
+    },
+    {
+      "title_original": "نفط أفريقيا خارج معادلة الإنقاذ.. لماذا يعجز عن تعويض إمدادات الشرق الأوسط؟",
+      "title_zh": "نفط أفريقيا خارج معادلة الإنقاذ.. لماذا يعجز عن تعويض إمدادات الشرق الأوسط؟",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPMVRDZ0gxWWNza0J2d0N4ODdaYkR1Wm5ISmRvZmFnZllqVnd2azlyQnhmdFo3ejAwSmp1aFNEUjRXbkV2VTJFaGJFWnhMdFFzbmtpT1lXdUpzQ0FtSXFROVhOQ01lSXpEdDBieG9KVGJTRnoxV2xHdnhuaGlKM040d2tBcTN5dVdPV3VpN2pDUjV0WmZfbV9RcFRqU1I5dDhjaEtnc2FrdlNqbHU1RG1KWDZNS0lCeGdqRmFFNlBoM2J2am5uVEhyd044WmxHeEFuTzN4TXlHN0ZBVFRoN0p6d0hKWEk0VS1GVE5MbGJGRjd5QXdUdHZxWmI3U0ZPOUNJckktNHd1QmtTOEZaTjhzUE1kc2E4UGNqbUN6cWM0TXZkaGhuR19sb0h6Y1pCTHc3LXBFWmJOeWpHS2t4UFR2dUNiSVpZY2dNeVFsdS1jWGxQR3lYUl94Q1BBMG5xSnZSelHSAecCQVVfeXFMUEdhNWVhcm50cHdhWDNnOUlibWs3NkFPelYwZElpbExfX1JCSTF3MXAzbHNiNTVROS05SHF6aGFKWGFiWWlfLXJyNkx6ZkhmS3VDLUFORlptNDYxeTNTM3drbnpxU195c0t0SWhOaFBmaWhYNDBTWEhzaExUNERtSkt2dEg5d2J5bHVWMlBkd2hZU0dKNHFxYzBxY2NPREdFTndVaVk3YTN1SF9WMDZOTUNEek0xN0tTVWNfVF9NLVg5eFd6bmZ1UVZzYXdUSnR6aFRUMERCbjhmN21HTm05bzFGcktRRjhldzhINE5WWHppb1ZKcjlhMFZ6YldweXd4ekdjWkc5a2lvMlZFSUlhN1RyMUhaRlFRVFBJZ2ZWb0U2clZxSDNBQ19saXMyRnhLNUJOLW5WelRoN2FKR2piRVFxOXVWMVlpRG9ya3NUQmJMMFVWQ0RqcGtmSENYUnNwR1BCN053aWc?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-22T16:43:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "نفط أفريقيا خارج معادلة الإنقاذ..",
+        "لماذا يعجز عن تعويض إمدادات الشرق الأوسط؟    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "نفط أفريقيا خارج معادلة الإنقاذ.. لماذا يعجز عن تعويض إمدادات الشرق الأوسط؟"
+      }
+    },
+    {
+      "title_original": "Crowd of 50 beats foreigner to death in South Africa",
+      "title_zh": "Crowd of 50 beats foreigner to death in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-22T16:15:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Crowd of 50 beats foreigner to death in South Africa\n- Published\nA foreign national has been beaten to death by a crowd of about 50 people in Durban, South Africa, police say.",
+        "According to police, the unidentified man, believed to be in his late 30s or early 40s, was first approached by two men by the roadside before being assaulted by a larger group.",
+        "He was pronounced dead at the scene."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Crowd of 50 beats foreigner to death in South Africa"
+      }
+    },
+    {
+      "title_original": "The good, the bad and the unruly from over two dozen candidate debates",
+      "title_zh": "The good, the bad and the unruly from over two dozen candidate debates",
+      "url": "https://www.politico.com/news/2026/10/22/senate-governor-debates-midterms-takeaways-01131948",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-22T12:14:56-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "POLITICO watched all the key Senate and gubernatorial debates so you didn’t have to",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The good, the bad and the unruly from over two dozen candidate debates"
+      }
+    },
+    {
+      "title_original": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "title_zh": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-22T15:56:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis\n- Published\nFrom the day they were born, just seven weeks ago, twins Raghad Hassan and her brother Raad have been battling for survival.",
+        "They came into the world prematurely, as fighting surged in Yemen's long-running civil war between Houthi rebel fighters and government forces.",
+        "When the Houthis reached their village in the Kahboub mountains in south-west Yemen, their family of seven was forced to flee amid bombs, missiles, and drone attacks – the twins protected only by blankets."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis"
+      }
+    },
+    {
+      "title_original": "Kriegsverbrechen an der Umwelt: Wie Russland die Natur in der Ukraine vernichtet",
+      "title_zh": "Kriegsverbrechen an der Umwelt: Wie Russland die Natur in der Ukraine vernichtet",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN01KN2Y4dzVBcGtGLXUtaThzbl9nLXU1QzdyNzExQzJPWEc2M193RlpMTVR6VXRzcHYzYUdEc0hhdnpKRWgzb0RFMmdVWVp3dEVLWm0xcHhvUVc3OWhuU3RHMjMzRGt3RFlLTmFVZlVucXVKejNEMHM5NXBsZ19oNEI1MkRNNGRxYzdKa2VPN3pEZ0NCdFpjb3Q2OWVmTVNSd2VmbE03QkJNOVpZUXZIblIzRElITm9lN1MzRUItaTlmZ1BiLVBadWNUVExNcDlBbDRkMkxNSTVmUzZUV1lr?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-22T15:26:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Kriegsverbrechen an der Umwelt: Wie Russland die Natur in der Ukraine vernichtet    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Kriegsverbrechen an der Umwelt: Wie Russland die Natur in der Ukraine vernichtet"
+      }
+    },
+    {
+      "title_original": "【晚闻风】美国关上北约大门，一碗食堂米饭难住机车老板，绿皮车禁烟吵翻天",
+      "title_zh": "【晚闻风】美国关上北约大门，一碗食堂米饭难住机车老板，绿皮车禁烟吵翻天",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03ZWRlRFFuWm1oWi1tb2prLTZWM1RfSFJkcjE5dVVKSkMtU1NLVGlpSGY4ck53UTlUZzVybjVRYVh0a2N6eGlNX09XODJESVc0U0dmNGVXTFdGWFk?oc=5",
+      "source": "风闻",
+      "source_score": 40,
+      "published_at": "2026-10-22T15:13:53+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "【晚闻风】美国关上北约大门，一碗食堂米饭难住机车老板，绿皮车禁烟吵翻天    风闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "风闻"
+      ],
+      "all_titles": {
+        "zh": "【晚闻风】美国关上北约大门，一碗食堂米饭难住机车老板，绿皮车禁烟吵翻天"
+      }
+    },
+    {
+      "title_original": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
+      "title_zh": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
+      "url": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-22T15:00:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz says When Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter.",
+        "Outside the airport, it was -15C (5F).",
+        "“I would come to understand that this was not an extreme cold,” she said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Alberta welcomed migrant workers. Now, it wants to restrict their rights"
+      }
+    },
+    {
+      "title_original": "\"Glaring gaps\" in U.K.'s Arctic defense leave it and NATO open to Russian attacks, British lawmakers say",
+      "title_zh": "\"Glaring gaps\" in U.K.'s Arctic defense leave it and NATO open to Russian attacks, British lawmakers say",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1dLSW4wLWRfelJsZ0lZSVpyNHBiTWdqeHVMeTBPN041WGpXS2Z1Ym5oV2dOelEwYkxPQWRsY2lETTBYeXNUYVdfNUZabC1GbzVNZUVELXJtSFVSUUxOQmY4cG9QWVJ0TzZkU3BZUzlVYU1XdW5yQ0c0dnJWWXp1S25ENG55bjA?oc=5",
+      "source": "CBS News",
+      "source_score": 75,
+      "published_at": "2026-10-22T14:19:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "\"Glaring gaps\" in U.K.'s Arctic defense leave it and NATO open to Russian attacks, British lawmakers say    CBS News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "CBS News"
+      ],
+      "all_titles": {
+        "en": "\"Glaring gaps\" in U.K.'s Arctic defense leave it and NATO open to Russian attacks, British lawmakers say"
+      }
+    },
+    {
+      "title_original": "ロシアとウクライナ攻撃応酬、ゼレンスキー氏「ロシアはクラスター弾頭使用」 | ロイター",
+      "title_zh": "ロシアとウクライナ攻撃応酬、ゼレンスキー氏「ロシアはクラスター弾頭使用」 | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkJGMFREYTk0R1pNM0ZVLXZNVzR2M1lGbjc1Q0FpajZ5SzJfZzFPRnFfQzRhVU5CQjFtaHFja0FTYWlWRWxEUHE1RERWNUQtaGxweWwtRmRYUGh2VGFEaXd4VVV1S0pzeVBMTXVKYl9UcjhxLVRFTmc5QVE5dGxoM0hOb1I0Zw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-22T14:14:59+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシアとウクライナ攻撃応酬、ゼレンスキー氏「ロシアはクラスター弾頭使用」 | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシアとウクライナ攻撃応酬、ゼレンスキー氏「ロシアはクラスター弾頭使用」 | ロイター"
+      }
+    },
+    {
+      "title_original": "Teacher in Oregon shooting said she pretended to be dead to survive",
+      "title_zh": "Teacher in Oregon shooting said she pretended to be dead to survive",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-22T14:09:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Teacher in Oregon shooting said she pretended to be dead to survive\n- Published\nSome readers may find this article distressing.",
+        "A 54-year-old teacher who survived a mass shooting at an Oregon elementary school said she pretended to be dead so the gunman would not shoot her again.",
+        "Becky Drury, a teacher at Silver Rail Elementary School, said in a statement shared with US media that as she tried to shut her classroom door, the gunman shot her and she fell to the floor."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Teacher in Oregon shooting said she pretended to be dead to survive"
+      }
+    }
+  ]
+}
