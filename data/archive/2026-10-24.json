@@ -1,8 +1,858 @@
 {
   "date": "2026-10-24",
-  "generated_at": "2026-10-24T01:33:23.429492+00:00",
-  "count": 35,
+  "generated_at": "2026-10-24T14:31:01.550141+00:00",
+  "count": 69,
   "articles": [
+    {
+      "title_original": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "title_zh": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-24T14:16:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat\n- Published\nPolice in the southern German state of Bavaria have detained a 33-year-old German man during a fire at Adolf Hitler's Alpine mountain retreat, the Kehlsteinhaus, also known as the Eagle's Nest.",
+        "Dispatchers in Traunstein received a fire alarm from the building at 21:15 local time (19:15 GMT) on Friday and firefighters found it engulfed in flames.",
+        "No injuries were reported, while difficult terrain hindered efforts to extinguish the blaze."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat"
+      }
+    },
+    {
+      "title_original": "米衛星通信スターリンク、制限前の速度に回復 ウクライナ大統領が明らかに",
+      "title_zh": "米衛星通信スターリンク、制限前の速度に回復 ウクライナ大統領が明らかに",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0lwSmxGM3k4UHV4T0YtVlNhdnplZHUwNkFVS1FFLW15WEZYdzUtdFhiRUUtN3JxMTBVTnJjRzY4SUQtWGE0RWxlSHB0NHRmcXVybFNpU3pYa0RwaWg1dTZLcXhfUHBPeV9fWVp4cmYxdUVrMmZ1dXRqSGJ5X2wtNmZiVGwwUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-24T13:37:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米衛星通信スターリンク、制限前の速度に回復 ウクライナ大統領が明らかに    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米衛星通信スターリンク、制限前の速度に回復 ウクライナ大統領が明らかに"
+      }
+    },
+    {
+      "title_original": "Kim Jong-un crosses newly opened bridge into China",
+      "title_zh": "Kim Jong-un crosses newly opened bridge into China",
+      "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-24T13:34:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "North Korean leader travels over New Yalu River Bridge to meet senior Communist party member Kim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour.",
+        "The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification ministry, which handles affairs related to North Korea, and China’s official Xinhua news agency.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Kim Jong-un crosses newly opened bridge into China"
+      }
+    },
+    {
+      "title_original": "Global oil prices jump as Middle East conflict grows",
+      "title_zh": "Global oil prices jump as Middle East conflict grows",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY0lTMmdMVkdXTUREZzVmTzRiT1E4WXlySlVMMFVUUmhtLXZuY2VNbDRaN0ZoRWRMU3R1b3hGQTlYdkR5SHYzSnlJN1N4S29pdS1zVDlnVkRVVUpiSFJwTEY3VzJGWDhvc25Wb2F5bFQ1bzBKUC1VMkRQcnhqdHAzRkZxUTFBOXNzX3cwUGN5ZVB0WGZxSC11RmZmX0dQNnQ0U1NkOXdpY2Uwc1lOMDZWQmRSZXVXVXpLMjhsck5pcVJfbzhYLXg2Rks2OU5XaGF0RENz?oc=5",
+      "source": "WKYC",
+      "source_score": 40,
+      "published_at": "2026-10-24T13:15:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Global oil prices jump as Middle East conflict grows    WKYC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "WKYC"
+      ],
+      "all_titles": {
+        "en": "Global oil prices jump as Middle East conflict grows"
+      }
+    },
+    {
+      "title_original": "Ukraine War, Day 1,703: Zelensky — Talks With Russia In November",
+      "title_zh": "Ukraine War, Day 1,703: Zelensky — Talks With Russia In November",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVN5S3lfV3pKVU1nb2pSTEpZLWNDY3JLd3JhaERaOXI1WUNadm5ZSHZqck9CYjEzZE54ZEVDSEJydTVKR3RDRmR1RVNieEJ0TnJZRWpRZ2hzcklKVmZ0ODdSUWVDUmprV1JOTDJfel9KamZ6U0VDNWJrTjQ3NWNhbg?oc=5",
+      "source": "EA WorldView",
+      "source_score": 40,
+      "published_at": "2026-10-24T13:12:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine War, Day 1,703: Zelensky — Talks With Russia In November    EA WorldView",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "EA WorldView"
+      ],
+      "all_titles": {
+        "en": "Ukraine War, Day 1,703: Zelensky — Talks With Russia In November"
+      }
+    },
+    {
+      "title_original": "El tifón Champi deja sin electricidad a miles de personas en Taiwán",
+      "title_zh": "El tifón Champi deja sin electricidad a miles de personas en Taiwán",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1MyWUVtQm1IUXAzZVZXTTVrMGFDSjkxMXlwQThyUFVINTgtdGd5QW9MYmtJSWhWV2UyX2pJZmZvajlsZTFLWE1JbS1FaGYwVGFRb3A1aFFGNFNrd2FfUDR0ZUhOczBVVTZFS1p5dGlsd0k2S2Y1c0dXOUVZQ3ZyOVNMMThMMl80X3FJU2lDWWF6Yi1iRTI5dzIwdmcySEJ6NEt4RXBhS0ZYRVEtT0RMNlFHMXRPQQ?oc=5",
+      "source": "SWI swissinfo.ch",
+      "source_score": 40,
+      "published_at": "2026-10-24T13:08:05+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "El tifón Champi deja sin electricidad a miles de personas en Taiwán    SWI swissinfo.ch",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "SWI swissinfo.ch"
+      ],
+      "all_titles": {
+        "es": "El tifón Champi deja sin electricidad a miles de personas en Taiwán"
+      }
+    },
+    {
+      "title_original": "米情報長官、イランが中東で米国人を標的にしていると警告",
+      "title_zh": "米情報長官、イランが中東で米国人を標的にしていると警告",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOeW80WmZpbEVFWkdfTmJaZ3dORHJ0Q3JUNXpjZTBLRWdvWElSSlQ4dWZ4cnk5NTc3ejVxNkdhYzlfcUFkTW5IZE90cmVfd19FdWI5WHNQV1pVOE5KVXFnTzZ1SDlJOF84Z3FiMkJwakRkVDRNNUIyN0hPMllyTUhVWFd2ZWFORmRwMFlKQ3hUcFJOWFA0Qi1jTzJkNUVjdHNNQkI0WWxUYXFDQzJvT3h6bWZBWkZwLTZBNVVjczJMNm9zbVNQSWtwNzVvRE4tRWRHX1BqRkJRN1kxeUhhN0VKWkFtNXNNbmtyRm9jYjlXYk0yTEZLTW9iaERPbnlfazQ4UmYxX1RfR0Qzcjh1OTdYVkYtbzY4SXNhV3Fja3JtNTYzLU1wYXRhVTJUUXZMRXF0eHJ1dlhwekdSXzlaa1F0R3J6V3BDYlJYTDZUcVR2bVdOUTh3c29wVUVpbFlnaHE2cVgyLUd3M1YtVHlPdGg2YngzUzF1ME84QW5OeXNFU1o1OWp4VDExU0k5TmFaLXM?oc=5",
+      "source": "アラブニュース",
+      "source_score": 40,
+      "published_at": "2026-10-24T12:26:41+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米情報長官、イランが中東で米国人を標的にしていると警告    アラブニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "アラブニュース"
+      ],
+      "all_titles": {
+        "ja": "米情報長官、イランが中東で米国人を標的にしていると警告"
+      }
+    },
+    {
+      "title_original": "Ukraine says Starlink connection 'now stable' after network limits",
+      "title_zh": "Ukraine says Starlink connection 'now stable' after network limits",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-24T12:12:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine says Starlink connection 'now stable' after network limits\n- Published\nUkraine now has a \"stable connection\" to Starlink, its defence minister has said, after its military suffered days of restricted connectivity on the satellite internet network.",
+        "Kyiv relies on the Starlink and its military-grade counterpart Starshield for piloting drones and operations within Ukraine, but last week accused US President Donald Trump of telling owner Elon Musk to place limits on it.",
+        "This meant drones would lose connection when travelling at 161km/h (100mph) or more, it said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ukraine says Starlink connection 'now stable' after network limits"
+      }
+    },
+    {
+      "title_original": "A NATO drone maker says Ukraine's underground factories hold a lesson for the West. It's learning that firsthand.",
+      "title_zh": "A NATO drone maker says Ukraine's underground factories hold a lesson for the West. It's learning that firsthand.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWHE4M3lRYnlGWUhvNVgteHJrbnhmVXBNU3RoNEwxZnZsQ2xQa3gzbXBLaXU4Ti15MXA5ZTdqb0VWdkN5NGR6MEh0YS1DY1daR3ZXYWI1REowMVJwX2VVT3d5TGg4YTJkNVhDOWEwZWo5Z2pXRnFfc3QzZFktSld0c2tRMktxZmJ1N3I1bzZvTTYwWVZpYWpOSU1peUs5QkRFbW55NDI4UGs1a1E?oc=5",
+      "source": "Business Insider",
+      "source_score": 55,
+      "published_at": "2026-10-24T11:54:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "A NATO drone maker says Ukraine's underground factories hold a lesson for the West.",
+        "It's learning that firsthand.",
+        "Business Insider"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Business Insider"
+      ],
+      "all_titles": {
+        "en": "A NATO drone maker says Ukraine's underground factories hold a lesson for the West. It's learning that firsthand."
+      }
+    },
+    {
+      "title_original": "ウクライナ国防省、「スターシールド」へのアクセス復旧を発表 時速400キロ超でも接続安定",
+      "title_zh": "ウクライナ国防省、「スターシールド」へのアクセス復旧を発表 時速400キロ超でも接続安定",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sSFFOakRQSjBOMmJEZ1hUMGFTREJ3V3VEcWJTVmtMYlJ3SDNGeWg5SjFBdk5hV0wxQ0dfSVdfdDJ1azRGWmM5emR2WnU1dHlUWHpF?oc=5",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-10-24T11:06:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ国防省、「スターシールド」へのアクセス復旧を発表 時速400キロ超でも接続安定    CNN.co.jp",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ国防省、「スターシールド」へのアクセス復旧を発表 時速400キロ超でも接続安定"
+      }
+    },
+    {
+      "title_original": "Facing an electoral wipeout, Trump goes after the system",
+      "title_zh": "Facing an electoral wipeout, Trump goes after the system",
+      "url": "https://www.politico.com/news/2026/10/24/trump-alaska-election-justice-department-01134590",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-24T07:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The move by the Justice Department to try and preemptively block Alaska’s Senate results if Republican Sen.",
+        "Dan Sullivan loses stunned officials in both parties.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Facing an electoral wipeout, Trump goes after the system"
+      }
+    },
+    {
+      "title_original": "انضمام مرفأي طرابلس وبيروت للممر الاقتصادي بين الهند والشرق الأوسط",
+      "title_zh": "انضمام مرفأي طرابلس وبيروت للممر الاقتصادي بين الهند والشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNZUdPeDdFS0lYWDN4dkY5QTE2ZXhmUHVvSDRweUhLSTJDU2NBYkY1N3IzbmZGS0xTcXdYWVhlMmxrZFhURnY4NGdJU180a1BoQVVqZ3h6MGNYZmowanpNNkQtcjRtcnpoOWd3eG8xajUzRTJzNXhYWGh0OVRVVkVheXpMak1MaFg2OE1veXRhVUE3bE5tY1FudV9KYjd5bEdrZDZHN0daY3lOYzZHLTVHWU1QNTRmY3hCd3cxbFlKSkFpWGxiS2lQYVVSSEhkdUd2Z2t4MlZLZkxLNUdkNWZhZVp5NF9hZkxaNlpNQkk4UUFhNC1sbmNCYnVpNFpKaWktOXRfREtkQjRMcHhJQTdSWkJkaXZkSDBabXRpWUsyalNNZHN3bnh1dXNybF9zRTFFLTVoUGE4cmZubTlYbjNiUdIBxgJBVV95cUxQblRzQ3JKeVpWWUhjb0dvUVd6R1JSWVc3UzgySURxMDNxWEx6R0lqMWRkOHBQN1V6UXBZemFqY2Z6d1JzTkEyVnpJS1YxS1dJTUEtVjYzR1dpUFREdU5xanZ2UVA1dzNHeS1vbzhuN2JkQzhBZXZOa2N5V0hSamtCMGRnY09PUkhyVWIzVjBZM2t1aGxhZTFNdmxkMnd6cjNCd3I3Mm90LWstbmNESkdMV2ZmTm5pQS15M0pyRXJJa1BzdjJrRmlEQzdpZlRwLUQwXzB5M0YzNGlENFR4QXBpSEo1QmtfMm11OHE2aUJaSGM4SEthU01zd2JabHRHR0Iyc3h1YUxjdlhDVW5wS1o4dlJJeVlGS0ZyUmdXMVp3UWRGM1AtdnF0RFlnYUFEbGZ6blQzMktzSUw1Zjh5czdFc25HbklXQQ?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-24T10:42:03+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "انضمام مرفأي طرابلس وبيروت للممر الاقتصادي بين الهند والشرق الأوسط    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "انضمام مرفأي طرابلس وبيروت للممر الاقتصادي بين الهند والشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "title_zh": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-24T09:46:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Woman, 65, becomes second patient to die of Ebola in Kenya\n- Published\nKenya has recorded its second death from Ebola as it handles its first ever outbreak of the disease.",
+        "A woman, aged 65, who was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo, died after being placed in quarantine, the health ministry said.",
+        "Seven other Ebola patients were receiving treatment at two isolation facilities, it added."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Woman, 65, becomes second patient to die of Ebola in Kenya"
+      }
+    },
+    {
+      "title_original": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "title_zh": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-24T09:45:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Mum dies after trying to rescue sons swept away at sea\n- Published\nA woman has died after attempting to rescue her two sons when they were swept away while snorkelling in the Bahamas.",
+        "The Royal Bahamas Police Force said officers on the island of Bimini launched an investigation into the sudden death of a 36-year-old British woman on Tuesday.",
+        "The force said it believed the woman - thought to be from Stapleford in Nottinghamshire - had been snorkelling with her husband and two sons near the southern point of the island when a strong current reportedly swept both children away."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "British woman dies after trying to rescue sons swept away at sea in the Bahamas"
+      }
+    },
+    {
+      "title_original": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "title_zh": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-24T09:44:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Seven missing after multi-storey building collapses in Kenya's capital\n- Published\nA search and rescue effort is under way to find seven people feared trapped under rubble after a building collapsed in the Kenyan capital, Nairobi.",
+        "Dramatic footage shows the bottom floor of the block, thought to have been 16 or 18 storeys, giving way before the rest of the building crumples, sending a plume of dust into the surrounding streets.",
+        "Dozens of builders had been working on the upper floors when it collapsed, but managed to emerge largely unscathed."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Seven missing after multi-storey building collapses in Kenya's capital"
+      }
+    },
+    {
+      "title_original": "De las importaciones de electrodomésticos a la mente de obra: México pretende replicar el milagro tecnológico de Taiwán",
+      "title_zh": "De las importaciones de electrodomésticos a la mente de obra: México pretende replicar el milagro tecnológico de Taiwán",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTFBsME1UTVN6UUZlZlhYRFZlRVRzWEdBVHpISDVyWWRmSHREWTExa2RTTUFnX1hDNkJNWm9ib3BLQ1NLZUJ4R3VUcUp3N0dXNE0wZE1YYTR5dUFjdUloMXNqVWpNR1NrR0Q0LXlwNVVBWHpPVXZGbWhPVXdMZFVBLWhGT3gyM3pQQlpGd25sUHYxWVJKTTIxTzNGTmIwdVVRdnJFTTBOcXVpejZGV3lyVXJqTkVROE4tUlROcWZxLXpDZEdxaTRzOU44aGpmMGJGdF9RcGVvNU5hYXIxem5BWG1wSmlwZTdXcjVCbFowN1U5UdIBhgJBVV95cUxOd3kwOUhVREFmMFhYalRhSUkxSFpMQ2JDalZyWHdRWHVRMFRRRERISWlBREtDUjU5NVdqZUx4X3dkbTFseW9FZ3ZiZUp2T0lucDVOREFTdExfS0ppb2xLLWlVaWFERkhPbk1fYmxqS2pNNFBUUjc1bnF0Y2pNLUs2d2VEVlFwOVBuWWUtbEZFQ3ROd2NtaFptMmFKdHdIYnJnREZaN2Z0V2xySFhSTTVLb2pROFR4UFFhVnJHMGRYRFFsR1E5eUNoaE5mOHZnenl2RXZPaXB1Nk9DRDdMd1pGU2piUXRhdHdZenkwbVBzZWtka2JwT1BuY3NENWd3M2V1RkhvVzZn?oc=5",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-10-24T09:30:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "De las importaciones de electrodomésticos a la mente de obra: México pretende replicar el milagro tecnológico de Taiwán    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "De las importaciones de electrodomésticos a la mente de obra: México pretende replicar el milagro tecnológico de Taiwán"
+      }
+    },
+    {
+      "title_original": "Israel impone cierres en una ciudad de Cisjordania tras ataques y más noticias de Oriente Medio",
+      "title_zh": "Israel impone cierres en una ciudad de Cisjordania tras ataques y más noticias de Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR0xpb1RITmdDUTk2dmVEU3FpTjRWeWhZWHpzYWRSUVBjUnhSNGxvOHE4SVMzcFhCbUc3Tnpfa2tibnhpUWZzdHpxYXdjM3J3RTVxRWoySTFHZWl2YlBFZk5ONlA0TnVOMk1EQkphZ1N5ZkM0VU5aR1B4UWpsMlN3ckQ5ZGNUTnJVVU5zNjdPNGw2dFZTUkthT3NvbFJSVk1RY3cxSVhMa3ZxNVp3MHZCM09zS0Z0N1o5Tm1LbHE3UXJzQlJlbjdWMzNKWTVZZw?oc=5",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-10-24T09:10:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Israel impone cierres en una ciudad de Cisjordania tras ataques y más noticias de Oriente Medio    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "es": "Israel impone cierres en una ciudad de Cisjordania tras ataques y más noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "انكماش بنسبة 1.3%.. كيف تعصف حرب إيران باقتصاد الشرق الأوسط؟",
+      "title_zh": "انكماش بنسبة 1.3%.. كيف تعصف حرب إيران باقتصاد الشرق الأوسط؟",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOaWJhdEt0UlpSdXN6cmJDVzF0Zm94ZUtpVlhxMXBSNUpTRVotZWlXYXJRSnNqUG9pbUhBUjRrTXk0cjdIcUZvTUgwdE5kZDhFUS16QWRsUkxjRjlPcWkzZFJSUkN2VDRIYkVxT2p3azVGejk1dHN3eTRMRVhSNlkwc19EN1BaUEtES2ZZcEFsdVNnQzBpaWNLYnlzSGgyUGpBelRDQXBRS01DbjQtOXZONm5pbHk5RGpvUFN6T054d3lXTVhhdmRFcVhpcHVHMjk4QUpsMTVQbGI0Qld3ZE8tcDdPNDZqbVdPVUcyRGlIWGp5VzVyOHZQc0NEdWZRbVFaNDJkaXN0VW5zWjVwMk9ST0QzalZDRlRaS0RBMUlaTU1sc0s1akM3NjN2SE84NDB1VGowODhvONIBvAJBVV95cUxObmE0NTN6a1JyUXJLc3JiWjhHNUVHSlNsc2h3YTFFWnVuTWd3UmwyNTVRbnQ3UWhSMVVoNG1jTjBKYm9ZU3BXV0dDOE44QUo3Y1Azd1NJNWUtVjZud19nWXNoQUc5SXhQYjBEcmhVM05rLTFmekhyUG5OWWpRRUVOTnU3UTlDcDJxaTV4aVVFUGZ4Q1A2bjN0SlNHVEw0Tlh2ZDNlYnBVcEJHUDJFRDhmc3FpUzFMaW1KdGUtbERyVV9xY2Ywd3FsYndsX1M2V0o0NnNhMXdJbXRPdnNtOWlUN0VrWkdSM3NXb1F6VjR0UmtDUDk0UmJFMlpNcUNQX2ViVGo3ZlIwSlkzNWZrX3AzUE9oSFRGNDR4N09KVmJfdjBuMVpqeUZVQUZjbUlVTEcwTmN1U0F1NmtoN1Mt?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-24T09:05:35+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "انكماش بنسبة 1.3%..",
+        "كيف تعصف حرب إيران باقتصاد الشرق الأوسط؟    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "انكماش بنسبة 1.3%.. كيف تعصف حرب إيران باقتصاد الشرق الأوسط؟"
+      }
+    },
+    {
+      "title_original": "Taifun Champi fegt über Taiwan hinweg und fordert ein Todesopfer",
+      "title_zh": "Taifun Champi fegt über Taiwan hinweg und fordert ein Todesopfer",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd1FORl8yQ3otTGNpdnRfSGhvVG1kSEdwcUNoUTJud2daMW5TQl9qSWFDb3BqZHhTU2hGQnBRM2ZpazJEMEw4NmNYQURXMXUzb1dGNGlKTkY4ZFpoMUprM1czam5pcEJBZG03eEZNMDR1ZTZLNEFVc2RmRVZ0Tnk0RmRMWHR5ZXk3Y2hIZVBLcjFWNGQwVGRrMjEtZlZzaWdH?oc=5",
+      "source": "DIE ZEIT",
+      "source_score": 40,
+      "published_at": "2026-10-24T08:22:03+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taifun Champi fegt über Taiwan hinweg und fordert ein Todesopfer    DIE ZEIT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "DIE ZEIT"
+      ],
+      "all_titles": {
+        "de": "Taifun Champi fegt über Taiwan hinweg und fordert ein Todesopfer"
+      }
+    },
+    {
+      "title_original": "مخاوف من انفجار إقليمي.. واشنطن تسرّع إجلاء دبلوماسييها من الشرق الأوسط",
+      "title_zh": "مخاوف من انفجار إقليمي.. واشنطن تسرّع إجلاء دبلوماسييها من الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTEZ3SGJNLXFTTTh0M1hzYzdROFo3SDZpckhwNFhLQUdDd2lBMWlYTjZpT3dtX2xpMlFQY3VvOGlvTzMxVER0MFdKc1YtVkwwSjA5QVd6bFUtUEV0WDEzSXBIRG5oanRpWUNXeW9UaHNZM0tmQ3hOMzM1bWVmWkNSa0pDZmJFTlVUc1E?oc=5",
+      "source": "i24NEWS",
+      "source_score": 40,
+      "published_at": "2026-10-24T08:16:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "مخاوف من انفجار إقليمي..",
+        "واشنطن تسرّع إجلاء دبلوماسييها من الشرق الأوسط    i24NEWS",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "i24NEWS"
+      ],
+      "all_titles": {
+        "ar": "مخاوف من انفجار إقليمي.. واشنطن تسرّع إجلاء دبلوماسييها من الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "تغطية مباشرة - الولايات المتحدة تقلّص عدد موظفي أربع سفارات لها في الشرق الأوسط",
+      "title_zh": "تغطية مباشرة - الولايات المتحدة تقلّص عدد موظفي أربع سفارات لها في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LbzFCTVJBME5nMHhzU1pQWTA4aGQ2d1RoNHpUa294Z3JSd2JnNVY1cm9CeVpiTlRIZGRtVkZfeEZQUlg1Ml9Vc3dhSmptbzNNRU9NTjhESnlSeWI1STJ4R3BMamVCa05aQURRXw?oc=5",
+      "source": "Iran International",
+      "source_score": 40,
+      "published_at": "2026-10-24T08:08:33+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "تغطية مباشرة - الولايات المتحدة تقلّص عدد موظفي أربع سفارات لها في الشرق الأوسط    Iran International",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Iran International"
+      ],
+      "all_titles": {
+        "ar": "تغطية مباشرة - الولايات المتحدة تقلّص عدد موظفي أربع سفارات لها في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "الإعصار تشامبي يصيب حوالي 530 شخصا في تايوان",
+      "title_zh": "الإعصار تشامبي يصيب حوالي 530 شخصا في تايوان",
+      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPLVd5WVE1dmxmNkV2OXJMTnB1UUZ4WC16MXZWQ3JMR3BLck9TSnZPbFRlNEhHdnRHSGY4UUhWMFZ4VGpGNktJZDlmSmgzRFpqOFVMMkh1T0g0LTdVblZmTHJRUk1pdFAyV0ZQOG9tVno2OWNXczNPd1JYQ0lfZENQZFUwSEVzeTJFWEtYSjVUdW9Ub01zVkFqXzRFQzdTTDBCazBPZ0Y0Mzhwbi1qcEJxZkxuNDVUY1llVWhRQXNBWEpvb0lOT21BdUtRWEx0dTFGTGhMYkdscUFCdFRfbzF5QnBqWVFuejNjOFFQQlFwck9iUkFRRWMtSzFvaTNZTmNUOFpPTXlYN056YTBZZ1l5MGxCRzVGN0dWYjVDMF8yRVhaMVNLbWllWXdpdTFXczhWc1h2eWNXY3BJSTVPN1lqZmN2Y193YkgwZUw0Sl83UnNhM05IbVlWdXpSTUpqT2MtUE5ON2pON2Vtal9pQl9DbWtsMDdVQnFveW1peE05Zl9uV19vZ2hxQnR2NVpsUnhtUDF2NGsxVXpRa194cmhyREZWS2o1WHFGOEVPM1BraTd5VFRJNUV6Zno5MnUwU0ViOU9yR2Z2cVotcWpnbVV3Y19fdW1SWVhPc085Z2ZB?oc=5",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-10-24T07:00:29+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الإعصار تشامبي يصيب حوالي 530 شخصا في تايوان    صحيفة الخليج",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "الإعصار تشامبي يصيب حوالي 530 شخصا في تايوان"
+      }
+    },
+    {
+      "title_original": "Ein Toter, viele Verletzte – Taifun »Champi« fegt über Taiwan hinweg",
+      "title_zh": "Ein Toter, viele Verletzte – Taifun »Champi« fegt über Taiwan hinweg",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWXE2N2FFNE9jdjQzdklmZDZkRjF6eUIxZERTYXFsaEpwWXJoNHhIbjU1OThIclNSNVBqTE4tZWFlVW5oS19mUU1DTEpCdFVuNHZJaklJWU1NQUEwTGVxMHlpU0FNeC1nYWlrejVvN1dVc2NnNU5xcUoycVVhWUVMUW1pMWhEUFM5T3dDbkZnVHhVaDBxdlFPR3ZsdTdJcTZYdzVaTjBlSnBQMl9sUTR4ZDNKeloxZS1mVHVRUTZZWGl3SXZqQ01PYzZsTm5hcWtvYmlHMTlUWE45d1A5U1E?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-24T06:38:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Ein Toter, viele Verletzte – Taifun »Champi« fegt über Taiwan hinweg    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ein Toter, viele Verletzte – Taifun »Champi« fegt über Taiwan hinweg"
+      }
+    },
+    {
+      "title_original": "Präsident stehe auf Putins Seite: Röttgen: Elon Musk ist im Ukraine-Krieg eine \"Marionette Trumps\"",
+      "title_zh": "Präsident stehe auf Putins Seite: Röttgen: Elon Musk ist im Ukraine-Krieg eine \"Marionette Trumps\"",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnFNNTlTWlFqelJMS0NOcFNDSTJJWkhVbk9UZW8wRW44X0dQQjU1QWc1bGgxcUZEVHdpczhEVHBSNjlzNE1sN0RmVk4wV1o1Tk9rTDlyM3kxM0dxS1Y3NzlUZk1EZzNhbmR0WFBBNjhOZUxJQXJzblN0WjFSYkEyS3pMcXlWcmZDLVhDdTFtTzdwdmVEMmlESGVXVE9QR096aDJXNDNUM2wzZw?oc=5",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-10-24T06:29:08+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Präsident stehe auf Putins Seite: Röttgen: Elon Musk ist im Ukraine-Krieg eine \"Marionette Trumps\"    n-tv.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Präsident stehe auf Putins Seite: Röttgen: Elon Musk ist im Ukraine-Krieg eine \"Marionette Trumps\""
+      }
+    },
+    {
+      "title_original": "米英首脳が電話会談、北海油田やウクライナ・フォークランド巡り協議",
+      "title_zh": "米英首脳が電話会談、北海油田やウクライナ・フォークランド巡り協議",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSElqcTg2T0R5alNDSVpiSWgxX1VaaGgtdnVrOFFCa3VBUFNUTXYtRnliM3pnT2E3cDgwVWswNWdvdnFiYnNpbmNuYy0tTVltc0FERHhBMHdNRnNINENJQmNHV1VEejA0QkU0X1FLNElBV0h2RDVDSVFYcE85cmF5Tjl6eERDdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-24T06:10:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米英首脳が電話会談、北海油田やウクライナ・フォークランド巡り協議    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米英首脳が電話会談、北海油田やウクライナ・フォークランド巡り協議"
+      }
+    },
+    {
+      "title_original": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+      "title_zh": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-24T05:31:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC\n- Published\nThe former US border patrol chief who became the public face of the highly controversial deportation drive in Minneapolis earlier this year has defended the operation, describing the withdrawal of agents from the city as a \"surrender\" by the Trump administration.",
+        "Greg Bovino also told the BBC that he was \"not responding\" to a lawsuit filed by the family of a woman shot dead during the operation.",
+        "He appeared to dismiss the legal action, praising the officers deployed to Minneapolis and saying \"people do lawsuits all the time\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC"
+      }
+    },
+    {
+      "title_original": "グリーン氏「原油の中東依存は賢明でない」 富士山会合",
+      "title_zh": "グリーン氏「原油の中東依存は賢明でない」 富士山会合",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DTDhuNmhuRUFYbXdNMXdxemVPNnVTMzAxTHh1SmhBZEcwTzR5bmhPaGZ5bjBMYUNNUDRFaTk0TGNTZGY4VWp3MmhOa241a3JHYUJ0MUp4SFNvMmhfa21QOFBjcjFhRkZ6dlljaA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-24T05:25:47+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "グリーン氏「原油の中東依存は賢明でない」 富士山会合    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "グリーン氏「原油の中東依存は賢明でない」 富士山会合"
+      }
+    },
+    {
+      "title_original": "CDU-Außenpolitiker Röttgen: »Trump steht aktuell auf der Seite Russlands«",
+      "title_zh": "CDU-Außenpolitiker Röttgen: »Trump steht aktuell auf der Seite Russlands«",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYUZmODl2ZUJaeW5KbGU1SDRFQ3lPV05lVkdtWExTbXEzQkZNSWpJbW53cHY0T3JUVlV3THQwQVB5YVZ3YkF1ZmpOQklqY1FMbVFPeUlHSVZWTEI1MXlRLW9ONk9tVlI4b253SFF5Y0Iyc2tSTGJDTldNSEladGVTR3JXcFdpTWxCb0xSVHl1all6NFBNTE5YM2oyWWpLR3FIQW8td0VBSm9uV3RWVmsxLVc0cm4ydzJMRUhjUEd0ckxBemFPR01HSnZmRGg2NEk?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-24T05:23:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "CDU-Außenpolitiker Röttgen: »Trump steht aktuell auf der Seite Russlands«    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "CDU-Außenpolitiker Röttgen: »Trump steht aktuell auf der Seite Russlands«"
+      }
+    },
+    {
+      "title_original": "ウクライナを訪れました 【サヘル・ローズ✕リアルワールド】（オーヴォ）",
+      "title_zh": "ウクライナを訪れました 【サヘル・ローズ✕リアルワールド】（オーヴォ）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yTV91SFZqLUdnM2s0eS1HSXJlVV80X2NJNExmNHoyQkFEdTB6bTM2Wkt4Qld5QUZxYlhuWWlhOWI2NTAzR1o4b0ZxZFdaX2h2Z2ZlemdOSjQ0OUlEZkRzUHNqRnRjT0FBbXZlX1c0LWtWV2VlNjFNU0NKTGRrem8?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-24T05:10:01+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナを訪れました 【サヘル・ローズ✕リアルワールド】（オーヴォ）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナを訪れました 【サヘル・ローズ✕リアルワールド】（オーヴォ）"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : les États-Unis pourraient frapper l’Iran, des tirs en Arabie saoudite… Le point sur la nuit",
+      "title_zh": "Guerre au Moyen-Orient : les États-Unis pourraient frapper l’Iran, des tirs en Arabie saoudite… Le point sur la nuit",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPUXYtbGdhSlgwbUJWYUMxVGhDZEY2OHM2QkptUjIwTVZRODBGUEtmVEY5c2cwa3NtcDVmd0pHSmNEakFpTTZTdDRwSndtRldILXp4TmdfbE50ekhzSGtPQ2JIcFRpbENPOVdaQ2d2YV9jdEkyLU9iSFJIUHV3NmhyTzVRczRhQkNHVXk4YWxWcWhlS1NhVmxHTzZoZmM3ekxOUmhqWVBmMHFkcUtJVHFFeDEwT3FFSjZhZTlDS0p3WUdPdmYzVGZuRHNYdVNSLVNFdlV6WkFhRWJYZldGNE1kMmJra3ljZzBZOWpOUVNwOWhXbXhSSnJJb0FsWWlsSEhHdUJLUHh1X0g0c2JQaDE3VE1SMk9rNzN1V29CWWZuSmFHZw?oc=5",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-10-24T04:20:22+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : les États-Unis pourraient frapper l’Iran, des tirs en Arabie saoudite… Le point sur la nuit    Ouest-France",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : les États-Unis pourraient frapper l’Iran, des tirs en Arabie saoudite… Le point sur la nuit"
+      }
+    },
+    {
+      "title_original": "Putin hat Grund zum Feiern: Donald Trump und der Ukraine-Krieg",
+      "title_zh": "Putin hat Grund zum Feiern: Donald Trump und der Ukraine-Krieg",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXNGc1ZXZWZVMV9LM0JGc0RHa3hwVkdTaFpTcERaT0ZFSncwSkZDQjhMQlFtRklHeFhSMlFaeXB3X3d1RVNzVklvVWlIYmlMLUtuTXgybS1FakNMcU9HT0Vka18wYVJ3U0FhSXlxNXdfV2M4V2dpN0J2MUFqYnpYNWNzZjZFcW9YMFp2Vk5MRU9wNGdRZUZkSmpyNy03bWgzQURrNGhJRm11ek1nX09xNXJzUVljTHNSRklObEZR?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-10-24T03:56:52+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putin hat Grund zum Feiern: Donald Trump und der Ukraine-Krieg    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Putin hat Grund zum Feiern: Donald Trump und der Ukraine-Krieg"
+      }
+    },
+    {
+      "title_original": "日本能源白皮书：中东局势暴露日本能源体系弱点",
+      "title_zh": "日本能源白皮书：中东局势暴露日本能源体系弱点",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXB1Ync1bTBiVlBjNUZsdDNMS3ZLQTZKeGdzVTRJcnh4MTJsd0JOdE1UMGNUREgyLWdnRFVienhaRWl2ZWNDaGhPOXN2Q0tKVVM4eFJsTzFCcmZMdTFua1NKWnctM0xJdm52RmdXQ19hWmNuV2I0WjAwY0Rna0hDVVJwOFdkeXZJdVdXdw?oc=5",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-10-24T03:45:32+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "日本能源白皮书：中东局势暴露日本能源体系弱点    搜狐网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "日本能源白皮书：中东局势暴露日本能源体系弱点"
+      }
+    },
+    {
+      "title_original": "スターリンクの利用制限、トランプ氏の解除発言後も続いている……ウクライナ側が主張",
+      "title_zh": "スターリンクの利用制限、トランプ氏の解除発言後も続いている……ウクライナ側が主張",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xTVVneUFNaFh6SElkWW10cndaa1VwZ3JZRVZLajNKbnlLQWZLTGdQZE9MeWduUExxQS1ENnBFZFhvYnRlV2o5aFBOZEdpZVhUcTNOeXE1WnAyaUY1S1I3b9IBZkFVX3lxTE1XWmQtWklncVM1VTdQQ0VfeEQ4dWpOcXJycmtJZ3pzR1Brdk5mNkxNN0RaM1U1WGRmMExCY3l3SEtYVURNd3RMaVlKWkhPLTlsZFdzMTl3a3l2Q1JOR3VkakM2czRFUQ?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-10-24T03:29:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "スターリンクの利用制限、トランプ氏の解除発言後も続いている……ウクライナ側が主張    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "スターリンクの利用制限、トランプ氏の解除発言後も続いている……ウクライナ側が主張"
+      }
+    },
+    {
+      "title_original": "国际观察81：俄乌冲突（八）美国急于转化援乌立场的深层原因【独家原创】",
+      "title_zh": "国际观察81：俄乌冲突（八）美国急于转化援乌立场的深层原因【独家原创】",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PRHNsTzdSVWlzVHo1X2tFN3YxVjRHdGQya2NWeU9NSDM1SnhrRXE0U0ptcUE5MnFrWF9ZNTZzckprMTVXYUhMNnQ0OUhoejNXQ25QZEZZOWV1bFk?oc=5",
+      "source": "风闻",
+      "source_score": 40,
+      "published_at": "2026-10-24T02:49:10+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "国际观察81：俄乌冲突（八）美国急于转化援乌立场的深层原因【独家原创】    风闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "风闻"
+      ],
+      "all_titles": {
+        "zh": "国际观察81：俄乌冲突（八）美国急于转化援乌立场的深层原因【独家原创】"
+      }
+    },
     {
       "title_original": "ウクライナ南部 米政権が一時停戦合意発表（ABEMA TIMES）",
       "title_zh": "ウクライナ南部 米政権が一時停戦合意発表（ABEMA TIMES）",
