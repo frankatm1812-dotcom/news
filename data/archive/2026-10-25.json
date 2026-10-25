@@ -1,0 +1,882 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T01:06:25.527883+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "俄乌冲突为何难休？普京批评列宁一个决定，给苏联埋下大雷",
+      "title_zh": "俄乌冲突为何难休？普京批评列宁一个决定，给苏联埋下大雷",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMNjZaY3Qwb0NybnItZGdUdzg1RW5ZLW9yUVgxMkxHMkc2OTRTZVQ1V0dDZi1CSnpUb2RPb2ZfdmdQR0RpU0RXTkZ2T3ZKbWtfeE5pNTYwX2pwS2w4M2FiRjZpcmU4bU9fRTZyZk5GQ3hoejd4?oc=5",
+      "source": "风闻",
+      "source_score": 40,
+      "published_at": "2026-10-25T00:56:57+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄乌冲突为何难休？普京批评列宁一个决定，给苏联埋下大雷    风闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "风闻"
+      ],
+      "all_titles": {
+        "zh": "俄乌冲突为何难休？普京批评列宁一个决定，给苏联埋下大雷"
+      }
+    },
+    {
+      "title_original": "イランが「テロ戦略」強化 トランプ政権、中東の一部職員退去へ",
+      "title_zh": "イランが「テロ戦略」強化 トランプ政権、中東の一部職員退去へ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1eEtoQThEX2lpaEhhY1VIU3VTaU0wcDFCWnNxQXhLLU80elkzV2xVYTJZVWY0WVZZNFlmS0NJamVzMEQzSWdSOElkYzRjNFA0S3ZSRmQ3NVRRUU9mLWg4STY5alVpOGZj?oc=5",
+      "source": "毎日新聞",
+      "source_score": 40,
+      "published_at": "2026-10-25T00:47:54+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "イランが「テロ戦略」強化 トランプ政権、中東の一部職員退去へ    毎日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "毎日新聞"
+      ],
+      "all_titles": {
+        "ja": "イランが「テロ戦略」強化 トランプ政権、中東の一部職員退去へ"
+      }
+    },
+    {
+      "title_original": "ロシア占領下のクリミアで断水・停電、ウクライナの攻撃で",
+      "title_zh": "ロシア占領下のクリミアで断水・停電、ウクライナの攻撃で",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qMF9NdmQ5VnJnUzdNckV5YzhoRzA0c24tck5OalJqMFV1OUEzSFNHZzEwRTk0WjJTdnJTVExQdHVncjNZQVlTaHdfb05EVmhvZVHSAVRBVV95cUxQQlpVSnJDVkNDMGtnMzJKTHc2Ylp3NC1fVm5lTHdFQTQyZzZxT1VCNFRjOTlDTzlUZWxZZG5NUHBlVENHcDRUcTNMMHZDRVpOam1oaUw?oc=5",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-10-25T00:10:20+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア占領下のクリミアで断水・停電、ウクライナの攻撃で    AFPBB News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ロシア占領下のクリミアで断水・停電、ウクライナの攻撃で"
+      }
+    },
+    {
+      "title_original": "Cisjordanie occupée: 2 000 Palestiniens chassés de chez eux par l'armée israélienne après une attaque à Hébron",
+      "title_zh": "Cisjordanie occupée: 2 000 Palestiniens chassés de chez eux par l'armée israélienne après une attaque à Hébron",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOZ044ZzRTOGwtNkVHY2NvMjFueFAyWm40ZGE3a0wxR1JmMzJBZWVHM3VDT1NGS0QtSTlmcm9FYmc4MTl3Tk5LTjV2SFVucUQxYjNHOS1XUXJ0Ul9LXzNyYXk4Q2txSHRxZm93WXdpYThjNk9fRnQxaVdwbnZQSDZLM1IzSXRXbjlnYU9COHhhcE0wal9QR3JFeTJ4clZZMGdTaEtDMWkxNUJ5NU0zS3dZMEt5czFRZnJFS2FVVklLUFdPMzhtVEdvXzR6dkViN3Nnd0oydXZBYnRCaFUxalRKVEJMMDRhczExVmItMjIzZ2FLZjNUdVNUUk9US01RWGlwR0Nabmc4dVV5WEt1RTFNc3ZJZFo0MTg?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-10-24T23:10:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Cisjordanie occupée: 2 000 Palestiniens chassés de chez eux par l'armée israélienne après une attaque à Hébron    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Cisjordanie occupée: 2 000 Palestiniens chassés de chez eux par l'armée israélienne après une attaque à Hébron"
+      }
+    },
+    {
+      "title_original": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "title_zh": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-24T23:02:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Palestinian families displaced as Israeli forces demolish Hebron homes\n- Published\nThe Israeli military has launched a sweeping crackdown in the occupied West Bank, demolishing homes and businesses in the city of Hebron and displacing hundreds of families, according to local officials.",
+        "Footage shared online showed destruction caused by Israeli bulldozers, with at least one whole street appearing to have been flattened.",
+        "The military has also cordoned off the city, heavily restricting the movement of its 200,000 residents."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Palestinian families displaced as Israeli forces demolish Hebron homes"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（10月25日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（10月25日の動き）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtWUVFQTZhWV94bVdYSUROcjdlZ3ltaERMV0V4UnhsUEdGbjNhdnFvM1hMeW1TcWItRTRfRWFsUjVsWlhwZUhDUUdKMDZPRGQ5eGVYekdUWUVSRXdadEdv?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-24T22:41:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（10月25日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（10月25日の動き）"
+      }
+    },
+    {
+      "title_original": "Ataque con misiles ucranianos en Oryol: tres muertos y restos de munición de la OTAN",
+      "title_zh": "Ataque con misiles ucranianos en Oryol: tres muertos y restos de munición de la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVURyYW53NEZHVVpPangxaGphc1Y5VWtpQWd0NWtLWEFmOFVVNHNFSmxyQlRsZUZOcUs5M3Y2V3FrMGd4UGtMOVdWLWF2UUhSdmplbWVDOFp3NHpMWDFtNnNGUThMSUJOSVlFaVBoLTRXU2xyeTB0ZWRpUEZlQlV0aHZ2Q0w?oc=5",
+      "source": "MONCLOA.COM",
+      "source_score": 40,
+      "published_at": "2026-10-24T21:53:10+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Ataque con misiles ucranianos en Oryol: tres muertos y restos de munición de la OTAN    MONCLOA.COM",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "MONCLOA.COM"
+      ],
+      "all_titles": {
+        "es": "Ataque con misiles ucranianos en Oryol: tres muertos y restos de munición de la OTAN"
+      }
+    },
+    {
+      "title_original": "الكرملين يعلن استعداده لاستئناف مفاوضات إنهاء حرب أوكرانيا",
+      "title_zh": "الكرملين يعلن استعداده لاستئناف مفاوضات إنهاء حرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQV21wcTZ5a1FBRWJPMUVub0ZmMVZzckl3LXNMcURQZ3EySzNuYS1tRS1udmJkWWVWOEh6ZE8yNjlZRFFLMFp5S0ZUdk5pTWRtQjFNejA4bnJQT2toUU9mV3JFNXBWaThWYnZCQ3Y1NUctZ3F2MnRCeHdCM3AzOExaLVdkaXJWZWt0bWZMLUVIMHJmMFpGc3ZqcHMwdldTZVBSaUI2Uy1jM21ySFpqX21IWHEtdXpVUHhOc2FxMkV6eXk2dHIzSWlYWUFtbmVsTHd0V2JwbkRZMDlxM0JMdHZhUjQ2eHZjZ3hwei1xcWd4UURmUm12TDhuQkpjaTlQT05udXo2ZXNRdTlmNENEVTNfVm9QU1NWZUNzR0lTX1MwTDIzbHVFeDVzMU00RWVxbmJWZl8xZFNvem1oSV96MURCVEg0Tl8zYjQ1ZGRabjlQQVJna3J4ME41OTB5ZnloeG5QSDc4VzNyR3pCeG9fbGxTUnBxMXlOckFKdEd4UExwU2hrbEV5YVhmTFZrTkdmTTZuQ3RiXzV3Rk9kWkRUMFprSWoxTF8zUHVwOVY0U3BSS1lEeVNNWkdzSG9GamllYWdVd1loTnJjWWZ1Z0FxQmtkZm9Ra0NxV093RGROWmtsSDZsTkI5d1VwVzNwenF2aTVvZFhkRGN2bE_SAf4DQVVfeXFMTktzVDlIRXo5Ujd2OTcwQk5UMlpWdGtGeG1XZkNLNHJ0c3NLMDUyaXFTdXpEZS1KemlqRXl5eTliQXVDTVpsVkszT2hHTE04LWNRaFlaUXpUdWR4UlRzMC1nRHhiT1JsMi1QV2xqNlEtcUFCWkN1ZkpxczZnMmhoS3M4R2swTjVrcTBWUzE0T0pYcXFvWmcwcTV2dzF6OVh5TjdfOVMxaG5iNDJTMkh6YzJ1ajlIdjVWSGhZS09PWFR1UXAxbl92dGp3by1SZFBXOUNlQ0RZWjBGWkZWYlY1ZkllVkFYc1NmY1VQbW9OOHEzOXdHckRIRXBpdEQ1dmZqdTBnWFA2eTBhVGVQcWlYWGRRdXc0cjV1MkZXUkVWMkY1MW90Z1lnQWl5bUxQQUsyaFYtLVZsOUlEeGptSWtfVUh4Slk1R2pVdm04ZnlvSWRRdS0yQzNpczBsMGZodlpuN3F3Z1I3MHQ4OTNIV3JNdGp5VmVCbFB4anVqNGFFeDAtV3owRDktM0NNc3N2ZkNKUjhTWHg1bFJud05vazhha0p3dlJsQnczMG5XX2Z5bTVXMDRPMllxaU8weWgzN0VSWWRUdXNEUHptSUItZE14V3JaTHNjbzg4bVZsTjBDbTRFb0hTeUVkWl95UU4tY1lHa1dLSVpsNFRCMUhySHB3?oc=5",
+      "source": "سكاي نيوز عربية",
+      "source_score": 40,
+      "published_at": "2026-10-24T21:51:07+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الكرملين يعلن استعداده لاستئناف مفاوضات إنهاء حرب أوكرانيا    سكاي نيوز عربية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "سكاي نيوز عربية"
+      ],
+      "all_titles": {
+        "ar": "الكرملين يعلن استعداده لاستئناف مفاوضات إنهاء حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+      "title_zh": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-24T21:10:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro More than one million supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant protest they hope will propel him towards a historic election fightback against his far-right rival, Flávio Bolsonaro .",
+        "Nearly 159m Brazilians will vote in the election’s runoff on Sunday, with the pair tied in the polls after Bolsonaro won the first round on 4 October by 47% to 45%.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "More than one million Lula supporters rally on eve of Brazilian election runoff"
+      }
+    },
+    {
+      "title_original": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "title_zh": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-24T21:09:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Almost 1,000 arrested as clashes follow another day of mass protests across France\n- Published\nNearly 1,000 arrests were made as hundreds of thousands of people took part in another day of protests across France which were followed by some clashes late on Saturday, officials have said.",
+        "After a day of largely peaceful demonstrations, police fired tear gas and water cannon to disperse protesters in a number of cities including Paris, while barricades were set alight in Marseille and people ripped boards from a shop in Bordeaux.",
+        "But officials have so far managed to avoid rioting and looting on the scale seen last weekend, which resulted in some of the worst scenes of disorder in France's modern history."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Almost 1,000 arrested as clashes follow another day of mass protests across France"
+      }
+    },
+    {
+      "title_original": "ウクライナ南部で限定停戦 大統領は人道状況改善に期待示す",
+      "title_zh": "ウクライナ南部で限定停戦 大統領は人道状況改善に期待示す",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pR3VEYldsYmtna3ctSEl1VkVYN0tFU0pFcFJDbmxrY0FmLWt0c2QwVXFNU0NDRHpKMjZXTnRzc1ZweC1JZ21nVWdkLUg0UkRSVUsydVlRYUNXNm1feG5j?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-24T21:03:03+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ウクライナ南部で限定停戦 大統領は人道状況改善に期待示す    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ南部で限定停戦 大統領は人道状況改善に期待示す"
+      }
+    },
+    {
+      "title_original": "ウクライナでスターリンク復旧、利用制限で軍事作戦に支障 「規約違反」とマスク氏",
+      "title_zh": "ウクライナでスターリンク復旧、利用制限で軍事作戦に支障 「規約違反」とマスク氏",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0lwSmxGM3k4UHV4T0YtVlNhdnplZHUwNkFVS1FFLW15WEZYdzUtdFhiRUUtN3JxMTBVTnJjRzY4SUQtWGE0RWxlSHB0NHRmcXVybFNpU3pYa0RwaWg1dTZLcXhfUHBPeV9fWVp4cmYxdUVrMmZ1dXRqSGJ5X2wtNmZiVGwwUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-24T20:42:12+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナでスターリンク復旧、利用制限で軍事作戦に支障 「規約違反」とマスク氏    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナでスターリンク復旧、利用制限で軍事作戦に支障 「規約違反」とマスク氏"
+      }
+    },
+    {
+      "title_original": "Naher Osten - Aufwind für die Opposition: Das ist die Lage vor der Parlamentswahl in Israel",
+      "title_zh": "Naher Osten - Aufwind für die Opposition: Das ist die Lage vor der Parlamentswahl in Israel",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLUJwMXZTUENvOFhoN2J1aThfXzNCNm1rTk5fV195VU1BdGdyWm1TWk04ckZ3UFJidWlJd1VKVmNNR1BVdTBtWENreTlqZUg0UVNuNHNmM05KVTY3bnlUazVQNW4xbll0cF9kYTJhYUlYODI3bFRFWENIT0M4UlI2dUJtT0o4MGthT3lJTzRacWNuNURNMjgtcGVsWDE4bjcwMWNMdFZOdnpXVkd0WkZRQWxKclZqYklG?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-10-24T20:04:34+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Naher Osten - Aufwind für die Opposition: Das ist die Lage vor der Parlamentswahl in Israel    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Naher Osten - Aufwind für die Opposition: Das ist die Lage vor der Parlamentswahl in Israel"
+      }
+    },
+    {
+      "title_original": "「停戦」誇示、にらむ中間選挙 トランプ氏、ウクライナ巡り外交成果強調",
+      "title_zh": "「停戦」誇示、にらむ中間選挙 トランプ氏、ウクライナ巡り外交成果強調",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5faEZpZ0k1QXZ5TC1iY01aUzQ0d1oyUGtGNTE2ZG1MNzdCOGdQUHBiSHp3SENvZkdON3ZZNjlNZHJVdjhFclR0VWNId0RUQ0lxT2xWeHE2QXZDV1M4?oc=5",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-10-24T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "「停戦」誇示、にらむ中間選挙 トランプ氏、ウクライナ巡り外交成果強調    朝日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "「停戦」誇示、にらむ中間選挙 トランプ氏、ウクライナ巡り外交成果強調"
+      }
+    },
+    {
+      "title_original": "美国和以色列迎来关键选举 中东局势再度逼近危险关口",
+      "title_zh": "美国和以色列迎来关键选举 中东局势再度逼近危险关口",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVc0TG5VSUk0SHdxNVZQVHVmRWtZbEhVVHlxNWMxYUdXTDBYeE1OZ0k1VnI2eERLbTEwMnRXZUFVcVFvX2hKaGZyMFEyeVRfaDRpeG5nRWJMcFBPZ1dkT2FMU19vM1hWMWwtLV8zbEZxb25QSml5ZUk5Yi1FWkVtQjZ0LXhDREE?oc=5",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-10-24T19:51:04+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美国和以色列迎来关键选举 中东局势再度逼近危险关口    新浪财经",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "美国和以色列迎来关键选举 中东局势再度逼近危险关口"
+      }
+    },
+    {
+      "title_original": "Des milliers de personnes contre Netanyahu à Tel-Aviv, avant les élections",
+      "title_zh": "Des milliers de personnes contre Netanyahu à Tel-Aviv, avant les élections",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZXd5M1oxaV9ldkRiNWU5UnRoNlYtYTNwUm9lYXdRb2xUc0lzSWlmSzRoTElScTMyeVlJLTVVTUhkOXBjSVk4XzkyQlktTXNQN3ZCcldhNnNxS1RCV0QyNlJ0eko1Mi1rRGxOeW1RNDhKcjlTSGJmZjVkU0xyOHlVSEEwSmM5blc3QUJJZVdFbnZGVE1XYjljSjF5Q0hzNElRVVhqTDJYTVlMbHpQSTBmUXFmLU1QbXFZTm5WSXlseWFfZkNad1ZXX1JpbGNnUQ?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-24T19:42:11+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Des milliers de personnes contre Netanyahu à Tel-Aviv, avant les élections    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Des milliers de personnes contre Netanyahu à Tel-Aviv, avant les élections"
+      }
+    },
+    {
+      "title_original": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "title_zh": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-24T19:12:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Vanessa Trump says she is cancer-free six months after revealing diagnosis\n- Published\nVanessa Trump, the former wife of Donald Trump Jr, has announced that she is cancer-free following her breast cancer diagnosis earlier this year.",
+        "Trump, 48, who has five children with President Donald Trump's eldest son, shared in a short video on her 19-year-old daughter Kai's Instagram account that her recent tests results \"came back clear, so I'm finally cancer-free\".",
+        "Following the Instagram post on Friday, Vanessa and Kai Trump released a longer video on Saturday, in which they discussed breast cancer awareness, early detection and prevention."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Vanessa Trump says she is cancer-free six months after revealing diagnosis"
+      }
+    },
+    {
+      "title_original": "时间敲定，局部停火是打破俄乌冲突僵局的契机吗？",
+      "title_zh": "时间敲定，局部停火是打破俄乌冲突僵局的契机吗？",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OTmRLLWNJUk5LN2NRbndrV1c1TWc1V0tYT3VuYVRsVEJOUXN3bnE1cHFCNXpOb1V6Sk9lejlxZG01eVFIaDBPRnNLN0V0UVR2X0owak1Mcw?oc=5",
+      "source": "湖北日报传媒集团",
+      "source_score": 40,
+      "published_at": "2026-10-24T19:04:20+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "时间敲定，局部停火是打破俄乌冲突僵局的契机吗？",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "湖北日报传媒集团"
+      ],
+      "all_titles": {
+        "zh": "时间敲定，局部停火是打破俄乌冲突僵局的契机吗？"
+      }
+    },
+    {
+      "title_original": "Meridiano 5 - Geopolítica medioambiental: ¿Qué hay en juego?",
+      "title_zh": "Meridiano 5 - Geopolítica medioambiental: ¿Qué hay en juego?",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeU42Q3BtQTBoS1JFc1doRnFzeVM3N2JNQ2xqcm1MekNwT21zNmpUUHFEY0hyaDZFcTBNMVlmdTVGV1RvV0pBcm8zOEhFVk4wcFJSOUdibEx5dExWbnJ6UGpFX3drSTl0SkpmMWNaem5KUVFvTUI0QU9CZlp6enlJem9tZDF1QjktVEVXRFJRZkgyR0tTclhLRnVqeXZscGF4QXpOQQ?oc=5",
+      "source": "RTVE.es",
+      "source_score": 55,
+      "published_at": "2026-10-24T19:00:47+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Meridiano 5 - Geopolítica medioambiental: ¿Qué hay en juego?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "RTVE.es"
+      ],
+      "all_titles": {
+        "es": "Meridiano 5 - Geopolítica medioambiental: ¿Qué hay en juego?"
+      }
+    },
+    {
+      "title_original": "Un supertifón golpea Taiwán y deja al menos un muerto",
+      "title_zh": "Un supertifón golpea Taiwán y deja al menos un muerto",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXhMeWpxVmhTemhUWWJDaUJ0Y0VxdnRHbkFCRjM3RU95X2YtM0pKcTVqYlpiQXl3endjLWFwaDVYQ21ORWI2X3R5Rmg0YnQzUEc4NFpyeEJmbmdZZTEtRVpQcGR2dEFSbHRSUF93aHR1S2hpY2hHQ0pJVUdmdTFoVzRWazItNW1NZUhrQ0liZkowNGQ3U0RnUTMxRHAtM3JpY1RUOWFEWVQ?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-24T18:02:20+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Un supertifón golpea Taiwán y deja al menos un muerto    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "Un supertifón golpea Taiwán y deja al menos un muerto"
+      }
+    },
+    {
+      "title_original": "Militärmächte im Vergleich: Nato gegen Russland: In einem Punkt hat Moskau die Nase vorn",
+      "title_zh": "Militärmächte im Vergleich: Nato gegen Russland: In einem Punkt hat Moskau die Nase vorn",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM3czeDNJMkgzN2pORGhHanRhU3d5STNEUXJISm9YQk1EVm44ME4zb3ItUndCalR2cUJ4cVQxTXJOcjJ0SzdBWmQ4aXRWT3JPOFowRVZ1dFhvU2h0VG5tYy11YjNNaHY1d3lKNGFBb2gweXVlNmc3cy1YYlJUeFZoTGZIOGxIbFpCcTlfczlrYlExN3ZjdFdLSXJWVDhzQWYtMHBRajlsZ1JIcXp5U196ZmpEb2FRMVZjTmQzcg?oc=5",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-10-24T17:36:51+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Militärmächte im Vergleich: Nato gegen Russland: In einem Punkt hat Moskau die Nase vorn    n-tv.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Militärmächte im Vergleich: Nato gegen Russland: In einem Punkt hat Moskau die Nase vorn"
+      }
+    },
+    {
+      "title_original": "Two rescued after Nairobi building collapse with five still missing",
+      "title_zh": "Two rescued after Nairobi building collapse with five still missing",
+      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-24T17:25:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Two rescued after Nairobi building collapse with five still missing\n- Published\nTwo people have been pulled alive from the rubble of a building that collapsed in Kenya's capital, Nairobi, on Friday, as a search continues for five still missing.",
+        "Police said on Saturday that a manhunt had been launched for the building's owner and the contractor responsible for the site.",
+        "Dramatic footage shows the bottom floor of the block, thought to have been 16 or 18 storeys, giving way before the rest of the building crumples, sending a plume of dust into the surrounding streets."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Two rescued after Nairobi building collapse with five still missing"
+      }
+    },
+    {
+      "title_original": "ウクライナ 「スターリンク」の通信速度制限が全面的に解除と発表（TBS NEWS DIG Powered by JNN）",
+      "title_zh": "ウクライナ 「スターリンク」の通信速度制限が全面的に解除と発表（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43cnFsZE9PQjlDV243d0JLOGM1UnVOUmNWMklDWjhqREJSMFBWU1VUTmFyWkxqaXJGTUpmOVVPUjRUc3owMkNCUWl0UG1GbmZZS2VQdGNvN1ZBbzJ5dS1iM0R0N0ZTRkVLeVhwS3hRVi1Sd0ltV2xzbHplMHAySzA?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-24T17:18:15+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ 「スターリンク」の通信速度制限が全面的に解除と発表（TBS NEWS DIG Powered by JNN）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ 「スターリンク」の通信速度制限が全面的に解除と発表（TBS NEWS DIG Powered by JNN）"
+      }
+    },
+    {
+      "title_original": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "title_zh": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-24T17:11:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Mum who died trying to save sons was hero, husband says\n- Published\nThe husband of a British woman who died rescuing their sons when they were swept away to sea in the Bahamas says she was a \"hero...",
+        "in life and in death\".",
+        "Leanne Gregory, from Stapleford in Nottinghamshire, had been snorkelling with her family when the boys were swept away by a strong current, police said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "British woman dies after trying to rescue sons swept away at sea in the Bahamas"
+      }
+    },
+    {
+      "title_original": "ウクライナ侵攻：ウクライナ南部一時停戦 露と合意、人道支援が目的 メラニア氏仲介",
+      "title_zh": "ウクライナ侵攻：ウクライナ南部一時停戦 露と合意、人道支援が目的 メラニア氏仲介",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzbjQwN29QMVF6ZVV6RkEtS0NMcXlqWng5MkR5T1d0bEw1UTl1SkVmNHA4ckY0VEc4Z3dKQjBYc1kzOE5GYzBISGdGQzBsaGl2Y21aaUFHcTRDc2syOVZCbUJtX1dZRnlm?oc=5",
+      "source": "毎日新聞",
+      "source_score": 40,
+      "published_at": "2026-10-24T17:01:27+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ侵攻：ウクライナ南部一時停戦 露と合意、人道支援が目的 メラニア氏仲介    毎日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "毎日新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ侵攻：ウクライナ南部一時停戦 露と合意、人道支援が目的 メラニア氏仲介"
+      }
+    },
+    {
+      "title_original": "Yémen: les combattants houthis revendiquent une nouvelle attaque à Aden et en Arabie saoudite",
+      "title_zh": "Yémen: les combattants houthis revendiquent une nouvelle attaque à Aden et en Arabie saoudite",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamRCVXhPTU1HVVUwemFtODYzeWdvS1dmOUgxZGZPMnQtSlNmZEVGN0FReEUzclNLejJISXZEM0FWSmZJa0xQd0lyWVR4VVotWHh0RGVib3NZUkJBaGZCY1ZTU011bjFWV1p2SWtDTXpqUXdJWl82dnNibDcwRmdPbDlMOHVxbC14NnRzZ2JDUnh4RVVaTTNibmZPcGxZU3ZxYzV1cnhtTl9lRjA0ckEybXZTeGZZczIxZUVZN3dPOFNGdw?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-10-24T16:49:56+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Yémen: les combattants houthis revendiquent une nouvelle attaque à Aden et en Arabie saoudite    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Yémen: les combattants houthis revendiquent une nouvelle attaque à Aden et en Arabie saoudite"
+      }
+    },
+    {
+      "title_original": "Irán estaría aumentando sus esfuerzos para atacar a estadounidenses en Oriente Medio de acuerdo con un reporte de Axios",
+      "title_zh": "Irán estaría aumentando sus esfuerzos para atacar a estadounidenses en Oriente Medio de acuerdo con un reporte de Axios",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVTh4dmN3eGR2ajFtaUVmbVpuR1BiZU55M1lVOXZ0OUJxVjNFYXU0d1JtY1lLSFpwM1ZiZ1BwZ1doaWJ1ckFfVll5QzR6WFRhY05jaklSWmZZcThwVEM2cGp3Nlk1cW9HX0pRckRJb3dSY1RPNlpUNzVYazJFTkR6Z1ZZWTNsbkFoN19HS2E5WUJ4ZURHNEVwZEh4cEliNTBxRjVSNjJNbmw4amZma3Y5VW1ZN0VLSGtKZ01sZXY1cFBPc0hCYlFXTF9kd1pYQlBNd1Y2OTk2UGFweHdiLUFua2RDeTF3QjI3a2ZQMnpoWTRLUQ?oc=5",
+      "source": "Univision",
+      "source_score": 40,
+      "published_at": "2026-10-24T15:37:31+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Irán estaría aumentando sus esfuerzos para atacar a estadounidenses en Oriente Medio de acuerdo con un reporte de Axios    Univision",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Univision"
+      ],
+      "all_titles": {
+        "es": "Irán estaría aumentando sus esfuerzos para atacar a estadounidenses en Oriente Medio de acuerdo con un reporte de Axios"
+      }
+    },
+    {
+      "title_original": "米情報長官、イランが中東で米国人を標的にしていると警告",
+      "title_zh": "米情報長官、イランが中東で米国人を標的にしていると警告",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOeW80WmZpbEVFWkdfTmJaZ3dORHJ0Q3JUNXpjZTBLRWdvWElSSlQ4dWZ4cnk5NTc3ejVxNkdhYzlfcUFkTW5IZE90cmVfd19FdWI5WHNQV1pVOE5KVXFnTzZ1SDlJOF84Z3FiMkJwakRkVDRNNUIyN0hPMllyTUhVWFd2ZWFORmRwMFlKQ3hUcFJOWFA0Qi1jTzJkNUVjdHNNQkI0WWxUYXFDQzJvT3h6bWZBWkZwLTZBNVVjczJMNm9zbVNQSWtwNzVvRE4tRWRHX1BqRkJRN1kxeUhhN0VKWkFtNXNNbmtyRm9jYjlXYk0yTEZLTW9iaERPbnlfazQ4UmYxX1RfR0Qzcjh1OTdYVkYtbzY4SXNhV3Fja3JtNTYzLU1wYXRhVTJUUXZMRXF0eHJ1dlhwekdSXzlaa1F0R3J6V3BDYlJYTDZUcVR2bVdOUTh3c29wVUVpbFlnaHE2cVgyLUd3M1YtVHlPdGg2YngzUzF1ME84QW5OeXNFU1o1OWp4VDExU0k5TmFaLXM?oc=5",
+      "source": "アラブニュース",
+      "source_score": 40,
+      "published_at": "2026-10-24T15:24:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米情報長官、イランが中東で米国人を標的にしていると警告    アラブニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "アラブニュース"
+      ],
+      "all_titles": {
+        "ja": "米情報長官、イランが中東で米国人を標的にしていると警告"
+      }
+    },
+    {
+      "title_original": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "title_zh": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-24T15:21:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat\n- Published\nPolice in the southern German state of Bavaria have detained a 33-year-old German man during a fire at Adolf Hitler's Alpine mountain retreat, the Kehlsteinhaus, also known as the Eagle's Nest.",
+        "Dispatchers in Traunstein received a fire alarm from the building at 21:15 local time (19:15 GMT) on Friday and firefighters found it engulfed in flames.",
+        "Some 200 emergency personnel were deployed to the scene where the blaze was still burning early on Saturday, as police said difficult terrain hindered efforts to bring the fire under control."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat"
+      }
+    },
+    {
+      "title_original": "The 2028 crop hits New Mexico for inaugural ‘Matanza’ rally",
+      "title_zh": "The 2028 crop hits New Mexico for inaugural ‘Matanza’ rally",
+      "url": "https://www.politico.com/news/2026/10/24/2028-presidential-new-mexico-matanza-rally-01134655",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-24T11:19:56-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The “Fourth in the Nation Matanza Rally” is testing the appetite for a more Latino-specific cultural touchstone to round out the presidential candidate event rotation.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The 2028 crop hits New Mexico for inaugural ‘Matanza’ rally"
+      }
+    },
+    {
+      "title_original": "أميركا تحدّث إرشادات السفر إلى 5 دول بالشرق الأوسط بسبب هجمات الحوثيين المدعومين من إيران",
+      "title_zh": "أميركا تحدّث إرشادات السفر إلى 5 دول بالشرق الأوسط بسبب هجمات الحوثيين المدعومين من إيران",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ueTFXeXFpSldsMm9hZjhvWnV3NWtHMThrR3Ewdmd3ejFGOEJzYk1TU2FqelprNGVOeGYySkpHZVJLV3NTRHFXWDhDOGVPUHFFRGc?oc=5",
+      "source": "Iran International",
+      "source_score": 40,
+      "published_at": "2026-10-24T14:59:20+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "أميركا تحدّث إرشادات السفر إلى 5 دول بالشرق الأوسط بسبب هجمات الحوثيين المدعومين من إيران    Iran International",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Iran International"
+      ],
+      "all_titles": {
+        "ar": "أميركا تحدّث إرشادات السفر إلى 5 دول بالشرق الأوسط بسبب هجمات الحوثيين المدعومين من إيران"
+      }
+    },
+    {
+      "title_original": "تصاعد تهديدات الحوثيين يدفع واشنطن للتحذير من السفر للشرق الأوسط",
+      "title_zh": "تصاعد تهديدات الحوثيين يدفع واشنطن للتحذير من السفر للشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxPMmd1MnROSmF6cC1PUS1ScVNnLXdQUGZPcldEeFBLbUdRcm9KZHp0X1VNdGhTTGt4Sm0zTnJZeTJpcGpjN3Z0ZFFTYWFnbjRPMk12c1Y1NF9EcjJkTVBqeTRfTldpTmw3T0tESnRNU1Q4Q2F1ckRZeFlFR0ZTTk16UkcxOHRacUw0MHpkekJBdk1RMXBhZU1MTEdfaVRCc3FaMXViUG9PNUhqZnJjdTgzQ1dDYlZFVkE5TUstd0Q0RElEa1dZTWZaem96T1JYSnlMbzBpUjhMQU94ZjFlTTAyYU9wanc0S2Q4VG5xZGxPbHRUbE12MDBRR1VOa2poWGw0Qi15Rnd4QlhZOWVyX0oyb2djbjQ3UUltLWpEMVF4cl9iaHZUMG9TdVdJTnNIUjk5WU5MUkFTWThyVnhFRXRyOHN0dU10VDN3N1Z6RXAwWDNjN05RRTE3OVFybnpvS093amRYN01aWUxNRTMxbjZoeXhCU1VQN0xaTy15RXE3R1E1dEM2ckNtLWJSQmdTTEZrYkRMWkhvWG96ZXZaZWV5RWlIZ2xPdDdTczBRZTY3TWVZRlNrd3BaR3lQZ2UyczFJSktvTnFfNXU2MWx4VmpTejB3Yk83Y2tZdnMyTkNyR2RlUFZMZEt1X2VwaC11bXJocEtlT2lSWkpWdG5sWWVuQU5fdzhfRVRFeVZKaksxdS1uZDDSAZMEQVVfeXFMTzJndTJ0TkphenAtT1EtUnFTZy13UFBmT3JXRHhQS21HUXJvSmR6dF9VTXRoU0xreEptM05yWXkyaXBqYzd2dGRRU2FhZ240TzJNdnNWNTRfRHIyZE1Qank0X05XaU5sN09LREp0TVNUOENhdXJEWXhZRUdGU05NelJHMTh0WnFMNDB6ZHpCQXZNUTFwYWVNTExHX2lUQnNxWjF1YlBvTzVIamZyY3U4M0NXQ2JWRVZBOU1LLXdENERJRGtXWU1mWnpvek9SWEp5TG8waVI4TEFPeGYxZU0wMmFPcGp3NEtkOFRucWRsT2x0VGxNdjAwUUdVTmtqaFhsNEIteUZ3eEJYWTllcl9KMm9nY240N1FJbS1qRDFReHJfYmh2VDBvU3VXSU5zSFI5OVlOTFJBU1k4clZ4RUV0cjhzdHVNdFQzdzdWekVwMFgzYzdOUUUxNzlRcm56b0tPd2pkWDdNWllMTUUzMW42aHl4QlNVUDdMWk8teUVxN0dRNXRDNnJDbS1iUkJnU0xGa2JETFpIb1hvemV2WmVleUVpSGdsT3Q3U3MwUWU2N01lWUZTa3dwWkd5UGdlMnMxSUpLb05xXzV1NjFseFZqU3owd2JPN2NrWXZzMk5DckdkZVBWTGRLdV9lcGgtdW1yaHBLZU9pUlpKVnRubFllbkFOX3c4X0VURXlWSmpLMXUtbmQw?oc=5",
+      "source": "العربية",
+      "source_score": 40,
+      "published_at": "2026-10-24T14:09:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تصاعد تهديدات الحوثيين يدفع واشنطن للتحذير من السفر للشرق الأوسط    العربية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "العربية"
+      ],
+      "all_titles": {
+        "ar": "تصاعد تهديدات الحوثيين يدفع واشنطن للتحذير من السفر للشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Kim Jong-un crosses newly opened bridge into China",
+      "title_zh": "Kim Jong-un crosses newly opened bridge into China",
+      "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-24T13:34:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "North Korean leader travels over New Yalu River Bridge to meet senior Communist party member Kim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour.",
+        "The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification ministry, which handles affairs related to North Korea, and China’s official Xinhua news agency.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Kim Jong-un crosses newly opened bridge into China"
+      }
+    },
+    {
+      "title_original": "Ukraine War, Day 1,703: Zelensky — Talks With Russia In November",
+      "title_zh": "Ukraine War, Day 1,703: Zelensky — Talks With Russia In November",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVN5S3lfV3pKVU1nb2pSTEpZLWNDY3JLd3JhaERaOXI1WUNadm5ZSHZqck9CYjEzZE54ZEVDSEJydTVKR3RDRmR1RVNieEJ0TnJZRWpRZ2hzcklKVmZ0ODdSUWVDUmprV1JOTDJfel9KamZ6U0VDNWJrTjQ3NWNhbg?oc=5",
+      "source": "EA WorldView",
+      "source_score": 40,
+      "published_at": "2026-10-24T13:12:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine War, Day 1,703: Zelensky — Talks With Russia In November    EA WorldView",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "EA WorldView"
+      ],
+      "all_titles": {
+        "en": "Ukraine War, Day 1,703: Zelensky — Talks With Russia In November"
+      }
+    },
+    {
+      "title_original": "El tifón Champi deja sin electricidad a miles de personas en Taiwán",
+      "title_zh": "El tifón Champi deja sin electricidad a miles de personas en Taiwán",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1MyWUVtQm1IUXAzZVZXTTVrMGFDSjkxMXlwQThyUFVINTgtdGd5QW9MYmtJSWhWV2UyX2pJZmZvajlsZTFLWE1JbS1FaGYwVGFRb3A1aFFGNFNrd2FfUDR0ZUhOczBVVTZFS1p5dGlsd0k2S2Y1c0dXOUVZQ3ZyOVNMMThMMl80X3FJU2lDWWF6Yi1iRTI5dzIwdmcySEJ6NEt4RXBhS0ZYRVEtT0RMNlFHMXRPQQ?oc=5",
+      "source": "SWI swissinfo.ch",
+      "source_score": 40,
+      "published_at": "2026-10-24T13:08:05+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "El tifón Champi deja sin electricidad a miles de personas en Taiwán    SWI swissinfo.ch",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "SWI swissinfo.ch"
+      ],
+      "all_titles": {
+        "es": "El tifón Champi deja sin electricidad a miles de personas en Taiwán"
+      }
+    }
+  ]
+}
