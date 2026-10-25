@@ -1,8 +1,833 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T01:06:25.527883+00:00",
-  "count": 35,
+  "generated_at": "2026-10-25T14:57:54.233880+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title_original": "Gabon says access to social media restored after eight-month ban",
+      "title_zh": "Gabon says access to social media restored after eight-month ban",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-25T14:39:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Gabon says access to social media restored after eight-month ban\n- Published\nGabon says it has lifted a ban on social media imposed eight months ago - a move that triggered widespread criticism at the time.",
+        "The High Communication Authority (HAC) announced the U-turn on Saturday in a televised statement.",
+        "The BBC has approached the country's media regulator for comment."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Gabon says access to social media restored after eight-month ban"
+      }
+    },
+    {
+      "title_original": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "title_zh": "Russia to host first Olympic federation world event since Ukraine invasion",
+      "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-25T14:34:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia to host first Olympic federation world event since Ukraine invasion"
+      }
+    },
+    {
+      "title_original": "Trump Administration on Russia-Ukraine War| D.C. Debrief October 25, 2026",
+      "title_zh": "Trump Administration on Russia-Ukraine War| D.C. Debrief October 25, 2026",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDJiaEJaSFR0MVVSQ0JhX2lQM205WDNveVQzRTA3V05Gb0JXa3ZMZ3hpT1liVFhlY2hIeHNkb1pGdXE0WThrb0FxM1NPU2xKVjFneDg0dmsydjBqdGMtSVZrbEFFbjY2NlhTcGw0anhKNF90cXN4UV9RSFJ4ZmlqVmpwUGotMG5EZjV1eGVTUjRZb0pZQzA4U25BQQ?oc=5",
+      "source": "News On 6",
+      "source_score": 40,
+      "published_at": "2026-10-25T13:45:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump Administration on Russia-Ukraine War| D.C.",
+        "Debrief October 25, 2026    News On 6",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "News On 6"
+      ],
+      "all_titles": {
+        "en": "Trump Administration on Russia-Ukraine War| D.C. Debrief October 25, 2026"
+      }
+    },
+    {
+      "title_original": "ألبين المنافس في «فورمولا 1» يدافع عن كولابينتو عقب تعليقات كلاركسون",
+      "title_zh": "ألبين المنافس في «فورمولا 1» يدافع عن كولابينتو عقب تعليقات كلاركسون",
+      "url": "https://news.google.com/rss/articles/CBMimwVBVV95cUxPVFJ5NEVBT0pfREIwdW9QbVpQM2JMZ09IQUc1SmU1UFpDazBIWjM0TkI0RG5DelBjNGlUdlRnSEFLTDdEcVhEWlEyYWw2ckJ5NVJBWkc1YXJzMG9rampMcnNaYTkxbVV2UmpaU2lobGRsdWJFSmVMX1JEbDlvMWFPR1R6V2ZEdGVwb3dPYk02cEtDbWZyT1hLVFBNVWNYT2tWRkdPR0JHa1I5WU1LRnJZTzgyZ2tkRVpYbkxvZDYycHA3RDlBWEJRNnBaa2RjTWFLTEJHZzQ3c1VlTmNMN1ZfUVRYSVVfRGRNZmNTRk5zZENVNUktV0V4RkM1RHVzdU9vNGlXRVpHRVRKNmhFU2ZlZV9RUEtCT3VCb056X2NSdV8wTFF4RXh6c2QyakFaRk5qSzlwNGprcHNvT251Z2NBZG5YV1ZqSUxqTE5ZX01sMjhNREk5UElFR01HNUhQdk5saGVJR0VqOHdDckNsNnJIX3dDQTJMUU5DNlVvR3lWcm9xU0Q2YUNsV01CQzlrR2VnTDZqMUVBQUFfVEtkWk5GTElUNnNPOWFmSTd2cmppXzlwdFhfUTZHeXVPcGdPbElWOHdaQVQ0MVJuZ1Y4SXlqbnk1T3dvMVFOaWQxa1JPaGhxV1FxZGNaRVRZRU5UN1JuRVVVcnYwQmt1b0FXUkh6cUpaOGdETnFlN2tCYjNSaVhxS1l0Z0pZUGp1SE1KVjR6TUtZdWJEdlNLTlItNTYyWVJNbFlYWU0yUlRJcEdEM0UzM2FwWWI0V0hUbzdZb0tseDRLZ3h6NnNESkVuMTdpRXNwajN4S0tPQnNpQVhyNGxNaVBzVXVDWGpjbDIwdUktTTg4aVRoR1ZHMGt4YUZ6clowWkJZZm1haEJF?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-25T13:32:27+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ألبين المنافس في «فورمولا 1» يدافع عن كولابينتو عقب تعليقات كلاركسون    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "ألبين المنافس في «فورمولا 1» يدافع عن كولابينتو عقب تعليقات كلاركسون"
+      }
+    },
+    {
+      "title_original": "تراجع بورصات الخليج مع تصاعد المواجهات في المنطقة",
+      "title_zh": "تراجع بورصات الخليج مع تصاعد المواجهات في المنطقة",
+      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxPZWEzNFdPd2ZlZnZjN2lrbzFNNGZmMzFtaEl0SVp4bm9wMWZmbTlNeEdSLWI4eUg2SFc2ZENaRmNRVnRJaDF5cUplREp1X3hpTDVsN2xVTWhpOVo0bmtWMFRhSjlreUhBOVI2Vy1FSjNVa29yTnhJLVF6RFBCTS04cTJia0VXSy1XaGtUb0pfblltVmRpRnN4LTA3SVIydERRNkd5Y3h5enliNzhUV1pWOFVWamliZGU0dFJhZkRMaENfT0hDV0JfUld5anc1eE82NGI0ejRoalVSX1VMenNHTFpjSmFFN2lLeFlaTl9yb2xDZi1EQlA1bGdrV1lQRTB1Ni1WVkRNZF9oaEVyWE1ONXlIallCNVFZUWdXVnBuc1pjbGZJMGhhbWJMNUh5a3dBeXNncDZvRFRlV1VnaHFtOWVEc3NvN1pyOE5VNnN0ajdMaHRISUhqZ0dNSjVmS2FXNkRtdEJyaWlPd2tsUHZHaVB3b3gwaHcyb1Q2UENQLUFWTU9ORFd6b05FY3FuUlVjMGJuc21ab0VhZjllVVI1NWRzeGpWZnV1ckNOclBkMF9naTVEZ2JkT2Q5aHRXaUpxWVpIS3hDN3JKQ3ZfZTVTaVk1SjBNaXU4MEU0?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-25T13:10:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تراجع بورصات الخليج مع تصاعد المواجهات في المنطقة    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "تراجع بورصات الخليج مع تصاعد المواجهات في المنطقة"
+      }
+    },
+    {
+      "title_original": "«Il y a du racisme ici»: en Israël, la minorité arabe espère peser dans les législatives",
+      "title_zh": "«Il y a du racisme ici»: en Israël, la minorité arabe espère peser dans les législatives",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNREs5cGJhZFJNaTg5SUVMeE8tLTRPcHQzRlJxX25lZlpqT3lfQWxkN2p0VVd0TTd0NEh3eEdFVTRzMXQtRl8tNERPR256MXZqZzNRVk0tUnNmSk80UklzcFhhYzV2QzRhcEpJLXh6S212UkpZV3I2Zm1HdTBPc1FIUUh3Zmh1R1J2Zk5MQVQzRGhqbHhxM3Y0TkVQNUlrRGZrWnlBcS1xd1E4ejltZTBTQ1JWUzJOYTNJMDdzX25STVBtMlFLQWYyTmFSNmY1QjRRS3NLR3JCRzBybTEzbTZVVTln?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-10-25T12:40:37+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "«Il y a du racisme ici»: en Israël, la minorité arabe espère peser dans les législatives    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "«Il y a du racisme ici»: en Israël, la minorité arabe espère peser dans les législatives"
+      }
+    },
+    {
+      "title_original": "نتنياهو: «مفاجأة كبيرة» تنتظر السلطة الفلسطينية",
+      "title_zh": "نتنياهو: «مفاجأة كبيرة» تنتظر السلطة الفلسطينية",
+      "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxQWmYtMUlDUnY0WlpmYmpCb1FWZHMyRVNUUndaQkpsUk8wSDdEMWFQNjZSMGdNME5TSERrWk9GVkVreWtuNERZQmg3eG9DNy1TenNhUnB6QWFfc1RaU1owcTRaQ1dFUThMNkEwdnBkc0lDREhZbklWLVdMaGdtTW9TNXRROFBldjV4RWJtbXRZZlJuV3ZXX203ZUxkcWJ3SERWYThOaEtXTzl6Y1VIMXlNaHNic1hEY0s3SFNHdUM5dG9PVjVhSkVOYnhwbDhOTUVEanl6ZEpPckV5TTR3c3plVThzZ2owY3VMLTNIckdseUFtZmxmbnRSa2I4QWtHaFBHY1ZzYzFBaWNsTUFoRWc5U1VaZ1otM3JIRDcxZUlsNHI2bmhCRGVVWWdaeGFHTUZqUUVqUHRib3V1ZUZfVV9JVWk4SXdfRkJxOGFsNkllOE1uLXFxY2czN2xtbjJCWFhhZ2RxbmpQcDhLM1hEZ1NIVHhwMTZCQ05VUTZOR29EXzhGVE1Yc1lKeEhlNEZ1SmZ2UFlKdUxUamVGbjFzdS1sTjVlNEZ1TW5yTEpfclRlQlpoTGFDMmZEZHhBcHlSckJNbnVSRmkwN0FvYzN3RldaZUJwb214dHYtcTlJQ0hNaWd0QktyVW9DMm1JQ3dNTWNhVGhVN05fZ0JyVTZpYTVaVWNYZW10TXhNbEhkWk95b0lvWUJKQ0hITVZtT25Kd2oycl80TzlPWUR3ajlhaDRZdGpPS1VxMFpSOHZLWWc0dGlqQ3N1?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-25T12:17:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "نتنياهو: «مفاجأة كبيرة» تنتظر السلطة الفلسطينية    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "نتنياهو: «مفاجأة كبيرة» تنتظر السلطة الفلسطينية"
+      }
+    },
+    {
+      "title_original": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+      "title_zh": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+      "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-25T11:54:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son\n- Published\nPolls have opened in Brazil as people choose their new president in a closely fought run-off election.",
+        "The choice is between the 80-year-old incumbent, left-winger Luiz Inácio Lula da Silva, who is seeking a fourth non-consecutive term in office, and right-wing senator Flávio Bolsonaro, 45.",
+        "Bolsonaro is the son of former right-wing president Jair Bolsonaro, who was sentenced to more than 20 years in jail for plotting a coup after losing the last election in 2022."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son"
+      }
+    },
+    {
+      "title_original": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
+      "title_zh": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-25T11:52:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Exclusive: Forensic analysis of found images continues as Meghan’s father denies possessing child sexual abuse images All signs point to Thomas Markle Sr being a “possible sex offender of the grossest kind” although a full forensic investigation will give a “definitive picture”, the Philippine interior minister has told the Guardian.",
+        "Authorities in the south-east Asian country are analysing digital images allegedly belonging to the estranged father of the Duchess of Sussex that were said to have been found at his former home in Cebu.",
+        "Meghan’s half-brother, Thomas Markle Jr, reported to authorities last week that he had apparently discovered a stash of child sexual abuse images."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Ukraine: Starlink läuft wieder - Musk beklagt Missbrauch",
+      "title_zh": "Ukraine-Krieg: Ukraine: Starlink läuft wieder - Musk beklagt Missbrauch",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNXzZqOGJLc3NvdW5LVTV1bmJSbVZnbEhZSExQd0toS2dnN09UeVhBd1J3d1JCUkRGMjMwLWdhNnVBcENTOTlFSEh0UG5ONFZJSERUQTduWWpLTlBVTExkbzBPSl9xbmhocHhBdWpCVTNBZmlVZFMxY2ktTDhsYlFpamh4ek9PbkppQm5pYkxKM0NZY1FVZGExQmhwa25VaFVKMGhTc2lyZVIzSDdPTmI0V05BZGlfZXd2cUQ4Q1VOQ29GVUNzZTV4eg?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-10-25T11:11:23+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Ukraine: Starlink läuft wieder - Musk beklagt Missbrauch    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Ukraine: Starlink läuft wieder - Musk beklagt Missbrauch"
+      }
+    },
+    {
+      "title_original": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "title_zh": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-25T10:55:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "El Salvador president says bodies found in Haiti are not those of hostages\n- Published\nFour bodies handed over to special forces on a mission to Haiti to recover Salvadoran hostages are \"not our men\", El Salvador's president has said.",
+        "Nayib Bukele said a nongovernmental organisation delivered the human remains to one of Haiti's airports claiming they were four El Salvadoran air technicians, but that one of the corpses was a child's and another was wearing a different country's army uniform.",
+        "He had dispatched a military contingent, reportedly of hundreds of soldiers, on Thursday after the four men vanished after being ambushed by \"heavily armed criminal groups\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "El Salvador president says bodies found in Haiti are not those of hostages"
+      }
+    },
+    {
+      "title_original": "„Für offensive Drohnenangriffe genutzt, um Menschen zu töten“: Elon Musk wirft Ukraine Starlink-Verstoß vor",
+      "title_zh": "„Für offensive Drohnenangriffe genutzt, um Menschen zu töten“: Elon Musk wirft Ukraine Starlink-Verstoß vor",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX2o2TFN5RUZ1QldBOXNIY2RSYkRfbDZGa2dlRzdObERwLTM0Rmh6TkdoeFJkaDRKeWE5LUZDSUpIZl94NnBCUVo0VmR0TUttZ0RSMUF5dzhDdi1aM2duYUFvUC1ULUltR2c2MTl4RjdSY0dRbno3eTNtOUVEZEtqYTFFUmkzSmc2cGxQSHY5Znh3aENxUlE2Q2xPR0JOQmVtVGVsSWdYbGtCa2JtOUhv?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-10-25T10:10:40+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "„Für offensive Drohnenangriffe genutzt, um Menschen zu töten“: Elon Musk wirft Ukraine Starlink-Verstoß vor    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "„Für offensive Drohnenangriffe genutzt, um Menschen zu töten“: Elon Musk wirft Ukraine Starlink-Verstoß vor"
+      }
+    },
+    {
+      "title_original": "Ukraine War, Day 1,704: Kyiv Strikes 1,550+ Miles Inside Russia",
+      "title_zh": "Ukraine War, Day 1,704: Kyiv Strikes 1,550+ Miles Inside Russia",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTEp5Y0p0SFQ2WmxlQVNUU3RQM2F3WnlIbERNeU9pd2NzNGJkZ2g2aTQ1WTliNmRfREdtUHBFMTVGVkJzVFJUMDZPOHhsVHpaNUYwTkxHNFpHRjJXaDNoMTl6NEw0b3pmX1kwUDdRM21CRnFFNXl3RmdsckZqcjZnSFljQkpRQUxkNWc?oc=5",
+      "source": "EA WorldView",
+      "source_score": 40,
+      "published_at": "2026-10-25T09:51:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine War, Day 1,704: Kyiv Strikes 1,550+ Miles Inside Russia    EA WorldView",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "EA WorldView"
+      ],
+      "all_titles": {
+        "en": "Ukraine War, Day 1,704: Kyiv Strikes 1,550+ Miles Inside Russia"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : l'Iran affirme qu'une reprise de la guerre ne changerait pas sa politique",
+      "title_zh": "Guerre au Moyen-Orient : l'Iran affirme qu'une reprise de la guerre ne changerait pas sa politique",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY3lCLTVlVmJ2QlE5bnBVWEVMZzV6S2R5aFZ1MWUxUWpLY0FLckUtYXVUYVVtZG5rYlJGTFlIc2xfbnZpZWJBZGp1cjMwT1BKYU4wM29JeEl5enZyVElvR2p3UldJWXVNaWhmSXkwMjNlRFd4TkdRejczQU04UG9acXFrclhCY2dIcllzNzB4TmJESnQ4Mm91d0VSdlhpWkJiUWp0OTJCVHVxZXRUR1RIN1dSTmg0aUFSa2ZQLWhKVXR3VE9CYWw1Vi12dTFtVlBiNmF2cFFOMk1pM0U?oc=5",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-10-25T09:46:27+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : l'Iran affirme qu'une reprise de la guerre ne changerait pas sa politique    Le Figaro",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : l'Iran affirme qu'une reprise de la guerre ne changerait pas sa politique"
+      }
+    },
+    {
+      "title_original": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "title_zh": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-25T09:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Musk says SpaceX restricted Ukraine's Starlink connection as service restored\n- Published\nElon Musk has said his company SpaceX restricted Ukraine's Starlink internet service, after Ukrainian officials said connectivity issues appeared to have been resolved.",
+        "The tech billionaire accused Ukraine of violating its terms of service by using it for military activity - but denied being responsible for a simultaneous issue with its US-run, military-grade counterpart Starshield.",
+        "Kyiv has not officially commented on Musk's latest claim but Ukrainian presidential adviser Serhii Beskrestnov said his post was \"very strange\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored"
+      }
+    },
+    {
+      "title_original": "Brookfield ouvre un bureau au Qatar pour renforcer sa présence au Moyen-Orient",
+      "title_zh": "Brookfield ouvre un bureau au Qatar pour renforcer sa présence au Moyen-Orient",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQ3BUbnJvVGwzZFBZNUtHLWF2OTRRV3F6RmVGQXZycFg2QzlGX01jUUVXaDA3WUJyQVZ2YW9PaUszbHJzamVoeW5vREUzeEstLWxRQUExMGZSa2J1OEY4eXdBTkNvNDZHdFpuejlRSUt6bEhxNHJzTGRzejVHbjRVOHJIOHpaTmpZcGJzc0FGTkl0Ujg0UkpyLUNiT3FtVVVwM3ZuUUtuZ0tpaThIZ3owT0ptWXNwZGRYdXE2dmYwOFVLZTdUOXVj?oc=5",
+      "source": "Investing.com France",
+      "source_score": 40,
+      "published_at": "2026-10-25T08:44:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Brookfield ouvre un bureau au Qatar pour renforcer sa présence au Moyen-Orient    Investing.com France",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Investing.com France"
+      ],
+      "all_titles": {
+        "fr": "Brookfield ouvre un bureau au Qatar pour renforcer sa présence au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "روسيا تبيع 62 طناً من الذهب منذ بداية العام... والصين تشتري",
+      "title_zh": "روسيا تبيع 62 طناً من الذهب منذ بداية العام... والصين تشتري",
+      "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxOYWdiR09LblJsQ0JUWXRTUUZXSlNDWjNjR1Q1TURnc0hzRV9OQlAwOHdRN2FMeFEtaXIxc2pIZlBYVnVQQm1QUWNHM2lxSkJ2U0QyZ1dLVnBlOWw3Wm5SWGdvT3hSaEtqNDRNUWIzY3htU0p0RmYzd1E5bGFOMUNFY0taeWhzRnR3M25RSEVNdDB6NXh4SXZTXzlzLTlhNlg3VXhwaU1WcDN3amJScGdLazJFa0FPM2NlZWp4dFVGeS11VmMwMzdZamItTFFsVmd5SUU2QnNHYkJPNHZ4YlhEeHNVeFAwejl3LWxwenUtcmxGbEFkVHdhOE1NNE1DanNOVkVaNThpS1JwT1NURXh3QjF3UXBqYnpkSVBjeXNtVWlOMkQ0MnZvaUNPYkJpUWVHWjQ4VmxOeWFHSWszZDFpemttdlROVUswbGVjd1dveFZteEVFN3hxMl9PYnJNY0RKcWlxcVEwaklUZmc4UW9DeTgwVUp4SDVhc0ZaLVlUclI0Um8wOHpkNjJ3eVM3ZkJxeVAtOGZON1pSYW4tWm5mejJ4Q1ljTjRaYlh3SkhBLXB0SkI4VE5xeGpNbHNuU214SFF3WE1mM01ZRjdROUFxZ3ZxSHN0S0g4TTIxSGNzN2k3YlRXeldSSDdxOXBEay1laFE?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-25T08:23:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "روسيا تبيع 62 طناً من الذهب منذ بداية العام...",
+        "والصين تشتري    الشرق الأوسط",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "روسيا تبيع 62 طناً من الذهب منذ بداية العام... والصين تشتري"
+      }
+    },
+    {
+      "title_original": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+      "title_zh": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+      "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-25T08:00:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Incumbent president lost in first round to senator and son of convicted ex-president Brazilians are going to the polls on Sunday in a highly unpredictable runoff in which the leftist president, Luiz Inácio Lula da Silva , is attempting an unprecedented comeback against the far-right senator Flávio Bolsonaro , who won the first-round vote.",
+        "Bolsonaro’s surprise victory despite not leading most polls made him the favourite three weeks ago, but since then Lula’s campaign has gained ground, and the two go into the contest virtually tied.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro"
+      }
+    },
+    {
+      "title_original": "«الفيدرالي» أمام استراحة محتملة... والتضخم يهدد بتجدد رفع الفائدة",
+      "title_zh": "«الفيدرالي» أمام استراحة محتملة... والتضخم يهدد بتجدد رفع الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMirARBVV95cUxNLUFrWTZRRDhvVFc3VEpUdC1VOEZxdktPMDhQSHJWOXVJaVN0czQ5Vm91YmVzNkZ1T0I2Y2dhNnUyM0VpQjFjaDZRdWRxalRaMk5wbW4zV0xGblcxR2Qza181NUE4T3laTGthV25YOXpjYmxQajFnU2JUbGRHX0FfczdHN3pwTWFJaWduSVNTaTVmZlZMUGozLWlUeUlHbzZVZF82bUx5bjhHRWxHd0NwcG9ublZFNlZQU3QxVmVvNFVmSklhWU9CdU53Y1ozbk9kV0RjMENxWFNWU2JDX0dudDhFeTVremhfZnlVdjdScF9MUnpRM3VlTHBPdXNScVQ2Z05PM1FnSy0yLUJfb0lRdWFMUzJkbC0taktvOFRiSkw0UkttQ1JsLUxSU2QxWnlWUkVWYTJTcm55VVowR2lKTWtjYWJQaWp1R3k3b0kwUjdma19mNGRUeW1kMG4zckstZjJKa3hZVzg5RHZZLVQyQjA3Sy1vNnhzS0oxVnU2amdxbGpqaTJ0MmJuakxZTTB5OHp1QXU3b3Joa01sWjlMdS1OSmNrQmJUQTlyamFQTTVUeDVMbTEweDdGS1ZwajVZbFg1dzg2NU1lcUY0QS14ZlBiRnNGVEFBcFNQNWgyQjBUM0lvMGk1SGlHT1VJY1pKQ0xnQlNMTjhVRHRicUVaVjREWlNORzgtbS00UjFCdERnanFkQ2xac1E3MVBYblFLMUprSnR1RkRvY19J?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-25T07:53:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "«الفيدرالي» أمام استراحة محتملة...",
+        "والتضخم يهدد بتجدد رفع الفائدة    الشرق الأوسط",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«الفيدرالي» أمام استراحة محتملة... والتضخم يهدد بتجدد رفع الفائدة"
+      }
+    },
+    {
+      "title_original": "「中東2戦の開催可能性は90%」と準備を進めるFIA。一方ドライバーからは「判断は時期尚早」の声／F1 Topic",
+      "title_zh": "「中東2戦の開催可能性は90%」と準備を進めるFIA。一方ドライバーからは「判断は時期尚早」の声／F1 Topic",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE43cFNqNnR1YTdsUU9GMENzbTNVT3VGNXJvblJDSjMxSmhHRU4weGdIa1lLeHk4NXEtOHRXem5HS3I0cGJYazE4?oc=5",
+      "source": "autosport web",
+      "source_score": 55,
+      "published_at": "2026-10-25T07:28:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "「中東2戦の開催可能性は90%」と準備を進めるFIA。一方ドライバーからは「判断は時期尚早」の声／F1 Topic    autosport web",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "autosport web"
+      ],
+      "all_titles": {
+        "ja": "「中東2戦の開催可能性は90%」と準備を進めるFIA。一方ドライバーからは「判断は時期尚早」の声／F1 Topic"
+      }
+    },
+    {
+      "title_original": "ألمانيا تشارك بضباط وطائرات في أول مناورة عسكرية لدعم أوكرانيا",
+      "title_zh": "ألمانيا تشارك بضباط وطائرات في أول مناورة عسكرية لدعم أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxOeFQtTFRWTFJkZ2lWZlBDR0cwcTZiTkhxUlFtNzQ0akw4dXIwTXN6X1VtRkxUZ2FRTUxkZ0NGSnE5NC16Z2ppcTQyMEs5YkZ6UWJpbjk1T0IyV1lEbWN1Vlp5aEtrVzVTellxamk1NWhIWVBoUFNfakpZRHlZTlMtcm9hVFR4WFB5OThSeHVUSnBCR1REdUJIWGdIWlFvQ2FYYzVMQWJoVUlHbGlVQ05KbnJ3M0hINmFNQWIwcnpDVFZQX0s0d0xleW5Dc0EyMExyc1MyaVpBdUJiT0pkVGlNRXB2YWRPdGdnS3prOEtNYlJSaHMzV3M4RFdma3hKUGU5bmlTT3FsSFR3dmh4el9sVlNCamhIeXdhOURZSDBJLXFKNmFrdjJMdFZuQy1qcC1DYlhmN0JIWkxJS3FNWDFoVmFnNDJXOXpTVDZLSWlhSE5pZjdaa2VnUTZtcDBWU2ZCZGV3VzJ1Ynp2RThZbER6VVVpNnpHdDJ5Q1lybklBVDFHRjJwYWtqTlFFTmZWS1RoYnB3ZmtuVGxJUjBQcWRkWEJnV2VVX2Nfek5XSWlzZDNCLVg3dG8zYUQyTXJhcUgyX3FQVnBqZjJ2Y1ZPUEZIRXRFSE9zUTRMZHBORDEwT0M5d3l3Wm5nVURxcmtpek9zS0hVYW5YcEtJd3czbXZPellYZ1p5d0RFMXI3RDhDV245Ty1NN2x0MmJ4cngwWERwVG9IaDI4TnZPRlg0ek0wSklVTTBabHMyMkU3a1BkbmlLcTk3OGV1aEIxZlJSLWs0VERsRjJ4Yw?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-25T07:25:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ألمانيا تشارك بضباط وطائرات في أول مناورة عسكرية لدعم أوكرانيا    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "ألمانيا تشارك بضباط وطائرات في أول مناورة عسكرية لدعم أوكرانيا"
+      }
+    },
+    {
+      "title_original": "TRIBUNE – Ukraine, Iran et Taïwan : Trois crises qui menacent de précipiter le monde dans une guerre généralisée",
+      "title_zh": "TRIBUNE – Ukraine, Iran et Taïwan : Trois crises qui menacent de précipiter le monde dans une guerre généralisée",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Qdk1UbExySWg0VGhQN2QyYlc1YzBzOURnT2VGSV9yMmRkVy0xbHAtYXFmWlRGUHJSNkc4NTJjUmtOOThnWDk0T1BPMngyWl9JZTFsSldUQmRnX0ZEOWxUbUh0N25vODFsUjJCS0o2bU9fNkxMdWpr?oc=5",
+      "source": "Le Diplomate",
+      "source_score": 40,
+      "published_at": "2026-10-25T06:33:12+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "TRIBUNE – Ukraine, Iran et Taïwan : Trois crises qui menacent de précipiter le monde dans une guerre généralisée    Le Diplomate",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Le Diplomate"
+      ],
+      "all_titles": {
+        "fr": "TRIBUNE – Ukraine, Iran et Taïwan : Trois crises qui menacent de précipiter le monde dans une guerre généralisée"
+      }
+    },
+    {
+      "title_original": "英法2500军人模拟北约领土遇袭 展开20年来最大规模空降演习之一",
+      "title_zh": "英法2500军人模拟北约领土遇袭 展开20年来最大规模空降演习之一",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3NzlSN214dEdES2xPbTVQaTVjb05lVURfazZTT3MwNG5jaDBaU1o2S0hBMjZJcER4M2dtVVBSeml6M3d0eXR0ZDgwcm5MNGllMFh3R29SQ1B3YlExQUw2dzZMMkpwSk5GR0ZNbw?oc=5",
+      "source": "早晨报",
+      "source_score": 40,
+      "published_at": "2026-10-25T06:30:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "英法2500军人模拟北约领土遇袭 展开20年来最大规模空降演习之一    早晨报",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "早晨报"
+      ],
+      "all_titles": {
+        "zh": "英法2500军人模拟北约领土遇袭 展开20年来最大规模空降演习之一"
+      }
+    },
+    {
+      "title_original": "ウクライナ軍の通信制限解除、スターリンクへの依存リスク浮き彫り",
+      "title_zh": "ウクライナ軍の通信制限解除、スターリンクへの依存リスク浮き彫り",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1keDZWMG1Da0RTLWoyTjV3Nkt2M2dCZ01wV05MRW9kbjU1cm5abkZvU1RJSWtuemt2UUtsOXBUWnYzQTZ3NDJ4ZnRkYm5JZVloQVFBMTQ1dk5sejZCSl83eXlLQkNHM2xZWDl5Vg?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-25T06:25:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ軍の通信制限解除、スターリンクへの依存リスク浮き彫り    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ軍の通信制限解除、スターリンクへの依存リスク浮き彫り"
+      }
+    },
+    {
+      "title_original": "Géopolitique - Israël peut-il tourner la page Netanyahu?",
+      "title_zh": "Géopolitique - Israël peut-il tourner la page Netanyahu?",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0RXT0h1MnJWUlktcjZNMm5YV3RQWVZndktoMU1HbXBNZlFzQmF4UGE5S1BBRDNRWG5MLVFZUENlaC05bGxMMnlYWWVMcWtFOFp5VmxvaGJTZ05rMkVvMHFPd3AxUW9MMThFSnB3NkdyaFdoTVExakdlbVVzYkpILTlqLW0wWW5PWnZvbGVOX3htUUx2UjhMMUwyV3FiNnFDSkpwQVdn?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-10-25T06:00:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Géopolitique - Israël peut-il tourner la page Netanyahu?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Géopolitique - Israël peut-il tourner la page Netanyahu?"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : la Cisjordanie bouclée lors du scrutin en Israël, manifs anti-Netanyahou… Le point sur la nuit",
+      "title_zh": "Guerre au Moyen-Orient : la Cisjordanie bouclée lors du scrutin en Israël, manifs anti-Netanyahou… Le point sur la nuit",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNbHRuODRUVjk4cDNINVVfZTZLeVBHTDZCcDFXaWZKV1N3Y3NfYzZMdWtsQ1FyWm5LQy1MNVdrYjdVWGVxd0h3dk1tOUFfNHZmSzZfMUQ3ZUZkWXZqczNqUUdOczZDTzR1WjRMQ1IydHVrdDVPM2ZxaVlYOWRCQXdpdWhfRlVTamZkeE9DMzVUMGVWYzRnNGxfOFlndURiMGZOaDlhRzhPcEJRMFd4bU5oUWJpSUw0TXFiUjgtQnlSOXM4OHlhazl3LS1CaHNsdWdPWEYwZEwtNUo2Yzh5blRRekVpdk9lM3VMdlNCTlB0VFBSVU5fWjZlT2ZxN21BbXY1SlVpdmhGNVNjMzlxLVFlVUNZWjJqSHFHcmVqZ3pla1k4dDM3ZFh3?oc=5",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-10-25T05:20:15+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : la Cisjordanie bouclée lors du scrutin en Israël, manifs anti-Netanyahou… Le point sur la nuit    Ouest-France",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : la Cisjordanie bouclée lors du scrutin en Israël, manifs anti-Netanyahou… Le point sur la nuit"
+      }
+    },
+    {
+      "title_original": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "title_zh": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-25T05:15:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Israel to close West Bank crossings on election day as crackdown escalates\n- Published\nAll West Bank land crossings will be closed during Tuesday's election in Israel, the country's military says, and Palestinian workers will be barred from entering all settlements.",
+        "The restrictions come amid a crackdown in the occupied West Bank after Palestinian gunmen killed two Israeli soldiers in the territory.",
+        "The Israel Defense Forces announced a \"ban on the entry and exit of Palestinian workers throughout Judea and Samaria and the Jordan Valley, including industrial zones, as well as the closure of all land crossings\" on Tuesday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israel to close West Bank crossings on election day as crackdown escalates"
+      }
+    },
+    {
+      "title_original": "La OTAN busca fórmulas para acabar con el sabotaje y los ciberataques rusos contra infraestructuras críticas",
+      "title_zh": "La OTAN busca fórmulas para acabar con el sabotaje y los ciberataques rusos contra infraestructuras críticas",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPclZpa3V1VjhHUmVyeDZ0TGpSQ09ab29EbEtZV3VtTGx3cjhCcUw0d25DaTlZWGlFNkpDbW9sYzVBOXhuQXpwNkx5UUpjbFFvT1dET3ZRbmFRTzlNeGZaRVdkU3pKN1ZzdzR4empocERraFNYTjQ2Z1ZJWXN2WGxIZm1ESUZmV3lWdGp2LWwxeDEwTXhlUUotWDlsZTFZejJOcUJyMGFNaWJhSEViTEw3X1dlbDNsdXBvcTBBa1V4UTZQV213RXJTWW5uTk9qZzl4SlEzWURxWFpFaGVfOW8zeWM3VUJheThLSWxrdEFYZVJZVFdhNHpjb095bWvSAYcCQVVfeXFMTkhDUmFiYmpxRkVOSzk1anM3VWFoelFJLURkZmhQNV9wN3JyaE53Ukdadm9FN3U2eHUwV1pnUVZLWjdkaU9kd1RDejNTbGJKY3Y5eGZiYnlxbG53emNpaVRkYzk0VVNLaDdZX3RtTlVMcnFRODZmQmNmaGozaXh3UWZCZkdUS2l1b2dLMFZjZWYtb2tOUmQyX2M0TVpabktRekkySTFlWGxjVWRfb0RZcW90ai1ESVRuU2xkcGxUNEhtNlh4OFQ5VVdHMVAwMzVYT0FvaThFQ2NONVhlSFBKbU0wMGNYMG95QWR4WklfajVkUjZiZDRwQ1p0MTlodFQ4Q0RCSFhfY0U?oc=5",
+      "source": "Libertad Digital",
+      "source_score": 55,
+      "published_at": "2026-10-25T05:15:22+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La OTAN busca fórmulas para acabar con el sabotaje y los ciberataques rusos contra infraestructuras críticas    Libertad Digital",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Libertad Digital"
+      ],
+      "all_titles": {
+        "es": "La OTAN busca fórmulas para acabar con el sabotaje y los ciberataques rusos contra infraestructuras críticas"
+      }
+    },
+    {
+      "title_original": "MOYEN-ORIENT – Facteurs à surveiller – 25 octobre",
+      "title_zh": "MOYEN-ORIENT – Facteurs à surveiller – 25 octobre",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXBocHUtZmd2LWFZNkF5cUh0YUVrRlRGajQ4UGttTG5UYjhTUERpN29xT3h6NHljRFRrXy1NTmtGcUhMSk5QOG5xSGVFMXZZLTFSUS1CNTl1VlkxaEZ3a3RvdHBuYzFDUElTM3dMMWNWYzA1d3JNUE1NMkxmWTM1ZnZrTDdaenFIYkJYekFvY0dldnl1aTRmSDJhWnhmWmhKQlFPTWNEMmtfQ1JBUlE?oc=5",
+      "source": "Zonebourse Suisse",
+      "source_score": 40,
+      "published_at": "2026-10-25T04:26:20+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "MOYEN-ORIENT – Facteurs à surveiller – 25 octobre    Zonebourse Suisse",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Zonebourse Suisse"
+      ],
+      "all_titles": {
+        "fr": "MOYEN-ORIENT – Facteurs à surveiller – 25 octobre"
+      }
+    },
+    {
+      "title_original": "Confident Enough to Disagree: What NATO 3.0 Can Learn from How the Cold War Ended",
+      "title_zh": "Confident Enough to Disagree: What NATO 3.0 Can Learn from How the Cold War Ended",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUktvUHVEd2JCWW9MOVNMdXRPM3dQWGVpSzYwVkRoUmJYWkM2ZmlMODQxMTRxSnBNLVFOZEl1Y2NWQVRvMVkwVWRwTlNGUUU4YjlOUDF2RVp6RGpTNjFQaVNnTmNXMlNGTHdkTWtGVGxpdG8xc3BNYjFxbUJZNzlFMWNBUVFpVkFfSm1qUV9ydUtGdVZfd1pFV3JvaUxxNGlpY3MzVlVGMExnbTJ3RllYVDB6bGpLYUxWTGRtMF9ZRi0tdFk?oc=5",
+      "source": "Defense.info",
+      "source_score": 40,
+      "published_at": "2026-10-25T04:25:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Confident Enough to Disagree: What NATO 3.0 Can Learn from How the Cold War Ended    Defense.info",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Defense.info"
+      ],
+      "all_titles": {
+        "en": "Confident Enough to Disagree: What NATO 3.0 Can Learn from How the Cold War Ended"
+      }
+    },
+    {
+      "title_original": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+      "title_zh": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-25T03:20:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria\n- Published\nUnknown gunmen have raided a remote village in the north-eastern Nigerian state of Taraba, killing at least 10 people, looting shops and setting houses ablaze, police say.",
+        "There are fears the actual death toll is much higher, with eyewitnesses speaking of 20 lives lost and a non-governmental organisation suggesting a toll of as many as 50.",
+        "The gunmen reportedly swooped on the village of Binnari in the Karim Lamido area mounted on motorcycles just after midday Muslim prayers on Friday in a rampage that went on for up to four hours."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria"
+      }
+    },
+    {
+      "title_original": "マスク氏、ウクライナ軍のスターリンク利用規約違反を非難",
+      "title_zh": "マスク氏、ウクライナ軍のスターリンク利用規約違反を非難",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyRGNOMVFXR1l2VjlCOWlzZnRUZi1OSEpsQ1JzR0RKUHRvbk9QSHNhNUlHYXNkblh4WXFLS2tpcGJQc1JRSnNTYkV2b0lDT1NkZUHSAVRBVV95cUxQcnE4NV9XM1FMZU4wX0V4U3V1ZnJxSTdYVTFXWlU5SU5EVEN6bnZ4VlFCTjNLbXp5ZzRDVkhlVjIzN2hPRFo5ekxjVzdtQnVhZEkxSVY?oc=5",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-10-25T03:18:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "マスク氏、ウクライナ軍のスターリンク利用規約違反を非難    AFPBB News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "マスク氏、ウクライナ軍のスターリンク利用規約違反を非難"
+      }
+    },
+    {
+      "title_original": "破壊、苦難超えた人間性 ウクライナ映画祭が伝えるもの（朝日新聞）",
+      "title_zh": "破壊、苦難超えた人間性 ウクライナ映画祭が伝えるもの（朝日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fZWZUUnZIUFlHdHM0UFRTVmJheU1uRTlUNG1wbkhrX3daLWFaSmNTQzVOTzB2LW5wY2VReGdIbFlSbUUxOEtaRTJaTXl6cS1vWHhjVk15S2Zqem1QWU51eWQwVjN6S3EyYjdGXzI2OVFqWE43N0RzYWFTUHFodGs?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-25T03:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "破壊、苦難超えた人間性 ウクライナ映画祭が伝えるもの（朝日新聞）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "破壊、苦難超えた人間性 ウクライナ映画祭が伝えるもの（朝日新聞）"
+      }
+    },
     {
       "title_original": "俄乌冲突为何难休？普京批评列宁一个决定，给苏联埋下大雷",
       "title_zh": "俄乌冲突为何难休？普京批评列宁一个决定，给苏联埋下大雷",
