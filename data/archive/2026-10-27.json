@@ -1,8 +1,658 @@
 {
   "date": "2026-10-27",
-  "generated_at": "2026-10-26T17:22:17.019419+00:00",
-  "count": 35,
+  "generated_at": "2026-10-27T02:02:09.610281+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title_original": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
+      "title_zh": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjZTTXg2eDNMTTdoVUJxdmFaaXVvb0hFdXBQaHJycnhNTU5jM0xtZ0k2VmlEdUIxSWcwZFd5OWRxaEdpTVBMSE9yNU5WTGE0M1RzMjYtS0FOWll6M0U3VHlqcXRLMUw4ZmxiNWc1T0NBS0F3SWkwV1E5X0VDUVEzSzRGVHVZQ3VUOUl4bzlQVXFucl91azBLeXA0RWdNSWNTd1NFRmZKRFl5VHhZ?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-10-27T01:30:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky"
+      }
+    },
+    {
+      "title_original": "ウクライナで局地停戦入り ロシア占領下で人道危機、メラニア夫人仲介",
+      "title_zh": "ウクライナで局地停戦入り ロシア占領下で人道危機、メラニア夫人仲介",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rNVJsODl1MEpYNFozVEVJcHRXYkF3TmxwTUViU0lFalNWOGFXSkh6MWJWUFUtSjd3bVBOWFFRMVlOWXdGTGpTeGRFT0xoUTRhWVdJb25keldQTXFfLUtjTldab3F0bkhVdE5MQw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-27T01:06:35+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナで局地停戦入り ロシア占領下で人道危機、メラニア夫人仲介    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナで局地停戦入り ロシア占領下で人道危機、メラニア夫人仲介"
+      }
+    },
+    {
+      "title_original": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "title_zh": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNei1XRDhzSTJxMHhYNV9yQ1NIMWp0T0pDZHc0ckJ4UGVPbUsxRmV1UUFaWUhYSGU4czNHRS1TcUlXaElSZzZXVDlTVlU4clFXN2dmOFJGSUkxVHlGRGdGZWo5b0VRQmZGaVFjeDQ3ZW5xSmZSYjFzSEN2ZWtrZWFWMExvRjd5TExZWmFiWkt0WGMxTmRyRHI5VFdvaFJSYjhTbWl5MGozcG9pV2FJWTd2XzZB0gG3AUFVX3lxTE5qbDFpN1FjX0c0T3V5MTAwQnZyNWRCdmsxNERsUDRUNGNzZ3NwQzJHOWg1dEhpd0hVN25aVmRRWEo5U0h0ZmI1aHFnUWl0bWJmRW9Rbkx5dy1wRWtUemltUndmaWxQSGhwblFYMWNZMU9RY0d3dUlVRGpScFBnRVBVRkJQeGZjbFEyVVNNTk0zSGl4Rk84MkFiQmNfSmdqUkNRa2dnMkYxTFJVZTRxNUI1YVhwQ3d3Zw?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-27T00:36:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Romania says Russia-run sabotage network set fire near weapons factory    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Romania says Russia-run sabotage network set fire near weapons factory"
+      }
+    },
+    {
+      "title_original": "La 'OTAN musulmana' intenta que Irán libre a Arabia Saudí de la guerra con EE.UU.",
+      "title_zh": "La 'OTAN musulmana' intenta que Irán libre a Arabia Saudí de la guerra con EE.UU.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVWVCdXdfZnVPUGYteUdhVVYzR2dZTWNNUHI5bTVfejdIVWxFRk0zNzM1d2ppaFEyaERIQ2dudjRtYzJJTmo3SlZwYzVDZ1ZTWHd0TzhYbG0zM25FeGhSVVJoc3h1c010a0pPOFhta2ZzRU44bmZnLW1kNXozMEJHMDdRWEdQTi1lcUxsblhxb2xSZ0lpT0JvQ1kwdGwtTFhBMUk5bDdDYTbSAa4BQVVfeXFMTi1uU2ZrUVdBTUpZZmJkQzFlV0NPR2dReEIwZUdRbmNjVTgwa096Nmkxd1NXMGJQOVlwdG1TSXBFcVh4R2hidDFnVmw0WU05M194ZHB6WUROQ21zV1ltX2hHT3NTQ0RqUUY5OG9fcUQ2NERraVhIWW5ZT3pWNHZyWEQ0SHd1cnBaY0Z2Mi14bHU3Qmxja0tOXzlTWHJkRVQybW9xMms2WUVQa081Szl3?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-27T00:18:02+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La 'OTAN musulmana' intenta que Irán libre a Arabia Saudí de la guerra con EE.UU.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "La 'OTAN musulmana' intenta que Irán libre a Arabia Saudí de la guerra con EE.UU."
+      }
+    },
+    {
+      "title_original": "ＨＳＢＣ、世界株「中立」に下げ 中東・ＡＩ規制リスクで",
+      "title_zh": "ＨＳＢＣ、世界株「中立」に下げ 中東・ＡＩ規制リスクで",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ3NRMWhpbmtNUmwxblZ3cjV0Z0NON0xoVFFSeTk5NkJya0JIWnNkNWtfdVdmYUdMM2NOTWtmVWxRUG9KbDlRQllQbk5tRGVSenZjUjRVUkplejg2TEFveFEyMkNMdTMzUnMwbjgyeVZCTFVLbExUSlN3T0V1N1hoVXp5QTE3QQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-27T00:04:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ＨＳＢＣ、世界株「中立」に下げ 中東・ＡＩ規制リスクで    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ＨＳＢＣ、世界株「中立」に下げ 中東・ＡＩ規制リスクで"
+      }
+    },
+    {
+      "title_original": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+      "title_zh": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
+      "url": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-27T00:00:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second.",
+        "What comes next for Brazil?",
+        "The Guardian’s Tom Phillips will be answering your questions from 15:00 GMT today."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent"
+      }
+    },
+    {
+      "title_original": "企業向けサービス価格9月は前年比3.7％上昇、中東情勢・秋の大型連休で",
+      "title_zh": "企業向けサービス価格9月は前年比3.7％上昇、中東情勢・秋の大型連休で",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTDRPdWpJOFczLVRIV3c3MFRabXc1cXlhVy01TFJJZm5JTFA3ZnRpc1NDdHpVcko2ODBqUi11MDhYUFN6RzFkRDc1NUN1Ul9jQWpOaS1UUDBPbHpnS0dId3lxNDBxdlV0aDVwMUhCc0FOeEl6MjZqSUsxQWE0bGZ3djVxbw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-26T23:57:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "企業向けサービス価格9月は前年比3.7％上昇、中東情勢・秋の大型連休で    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "企業向けサービス価格9月は前年比3.7％上昇、中東情勢・秋の大型連休で"
+      }
+    },
+    {
+      "title_original": "中東の集団防衛協定参加3か国とイランが会合 対話継続で一致",
+      "title_zh": "中東の集団防衛協定参加3か国とイランが会合 対話継続で一致",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HQngySG5nMGg1dzlDWkFZbEtjX0ppUzNjN2ZzUi13Y21QNnBSZ0QtMkFpQWFwOHd2eEdzS2JZeUsyM05ZbEJha3JsX3lydlpIZ3FEU2xDdWFBdjI5V2V3?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-26T23:02:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "中東の集団防衛協定参加3か国とイランが会合 対話継続で一致    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "中東の集団防衛協定参加3か国とイランが会合 対話継続で一致"
+      }
+    },
+    {
+      "title_original": "اعتداء مقاتلات أردنية على الأراضي السورية؛ ومقتل أفراد عائلة كاملة",
+      "title_zh": "اعتداء مقاتلات أردنية على الأراضي السورية؛ ومقتل أفراد عائلة كاملة",
+      "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxNMUROY0ZYRmgxWklsZktocWxQY0ZmVF9SY1VpRmYxMUdwSENSSmE0N0VXMFV1VF9DTlZKOWtZX1AyRk1xQkwxXzhQZ2NwdXZhbzZPS0wtTFh5cDJob0JSR0JPbWNWTEFNb2N5aDhBRDhLdWZWSTYxeVh2VF9CNXZyRV95b3BLU3BkbHJXSlRqdXNLYy05aHBvV3YyQXBQd2RPZ0hGdloyb3UtU2MtV2NxUEprbjBBTmc0SEVhVzR4WU5oeXUzdEowV3NkZ3FSNnFabUN1RFdkSEtOckN5TzFvbVc4Z1ZoSDhMVDhNaENRY3RqQ0VvYjhEVGluX040b2tVeF9wZW5Md1A2aXBEdUZEbGZRZU1tcHVrb25qb0d3OVZ2WnRJRVVFbzhnMjRpaU1MeERDSlluWVEyUlVUbXVtd2UwSjN1UDUwOUlfZzRGU01EV1Z6bVphYWRER1RHLUFiX0ZUSEJMZmtjNWkxSTFUYk5nazdlbzVYVkdFOEFWNTBBczZTdFRCM0ViMXNMQlJnOXFZdDBCbmJkZE1nQTBIOTFFMTd0OVdlNGZHZjRrNldNQzl0ZDR3ZElHS0dwenV6ZGpEdUxidy1YOHpfVFZZWnpnS2ZLd2IxdUd0NWRNNDRPVHlqekRJNFl2N3Ezck9DQ1AwXzR1Nk9lY1AxOGdCQ2FiZ2ZyVkZER0VkTVpJQWtxaVMyTHc2MDJNY05SYlExbnRaVnJuUjVPa2pXUUIw0gG0BEFVX3lxTE1FUjl6SHlNN1hqcXhWY3dJSS1rTF9vVTJSaWkyQzZ4OFNlTmsxM0xJZUpPbnlvTWRvckZ1WElDem1BVnQ4TU1tZzlScXlQWHRSNE5ZVUNTQ0hWRkhVRmUyenZFTGwtdURVbi1IMlhqLXNzcmtpX0t4VlFORWRzRzBsdV83d3o1MktCMXFfRHl6cXVIY1BSemw1S3I4cFlrYjlXVjdWNGJEWm1DVTZWTmZkbWZYZXY4TjRSVnJYWmQ2b09fR2g1YVFwWDNZclBBRnl2cEVTTjZCTno2OG5Kd1NoRlpFbGlLdGp6RUUyVjFTTklxdWg3WUFUVVhhT2ZHRlpaRDBPMnk3NXFvYm1nR1ZqM3FVNTZ5Y2FMT29rd3Ewd0o0VDl0SVA5cVNpcGxNZlE5QV9IeHA0NGhFdzVTbER0dHV6RllUSU8wQmJLcmZ4dll1bHZKU0Nia3Noc1hZa3ROMmhKbmpzTklHSTZaT2pTU0F4ckJHZ1lHSEJ0UFF2TGRBRzlBQTQ0V0pweDdJNVVBbV9VWjJSWU1WUkJUVjRDdE45ZjR2VmYtNFdnek5oVEliWnJXaGxyeFp3R1lTLTVaMU5VaWtqSHhCSFR3YnVoTWpvQ3hGNHFyOFQ4RkdSVGJYdnFJdmY1cDA3bUZXNndfSERsckdmaVRhUlhMVHBoWkZiR3Q2aVNyVEk5VkdPYS1aSVBuWkFSRUlmQnhZQUdOajdCNTNpb3AxWktxTjFsUnRpZg?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-10-26T22:40:29+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "اعتداء مقاتلات أردنية على الأراضي السورية؛ ومقتل أفراد عائلة كاملة    تسنیم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "اعتداء مقاتلات أردنية على الأراضي السورية؛ ومقتل أفراد عائلة كاملة"
+      }
+    },
+    {
+      "title_original": "Jordanie: arrestation de suspects et frappes meurtrières en Syrie après une attaque contre une église",
+      "title_zh": "Jordanie: arrestation de suspects et frappes meurtrières en Syrie après une attaque contre une église",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORWNfYW1iME01a0NiaU5VNzhfeW9iQkV0VGt2UUlFYVVNNmk3VWRrclZkRG0xd3pUSzI3Rk1uT2dkdHNraHdyVzlIYnk3TzFQTDFLOFhpU204SThnVFpZalVyNnY2cWtXOXdfcTRqN0pvQ1hkSGI5VjUzeWx4enotQVFHNHlHR3lBNWI3MWpoYXpuUjdualNUbE1mNmlqWVhBdmZFOS1od3I3VjI2c25hb1V0MXQwaWhhQUxHWmFseGk2dERFZ0NqR3pEdDBpZ3RRSWRIMm1rcTR2amt6UTRkNmgwRjI2LTE3Mkg5Q2N1N3I?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-10-26T22:28:29+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Jordanie: arrestation de suspects et frappes meurtrières en Syrie après une attaque contre une église    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Jordanie: arrestation de suspects et frappes meurtrières en Syrie après une attaque contre une église"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（10月27日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（10月27日の動き）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DZ0FuMUtwTzE1bWdydU9fV0VwZ1o4MkFyVmkxM3Y0eDg4cktybUxlcVJvYnBzaHlONjgtd0pSYnMxX0dRalBUQlpnN3RUbXNyVFM0WDlKSmU1eGNMRXRN?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-26T22:08:19+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（10月27日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（10月27日の動き）"
+      }
+    },
+    {
+      "title_original": "Blakeman’s bank statements don’t match his disclosure reports",
+      "title_zh": "Blakeman’s bank statements don’t match his disclosure reports",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/26/blakemans-bank-statements-dont-match-his-disclosure-reports-01135549",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-26T17:38:23-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Blakeman’s bank statements don’t match his disclosure reports",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Blakeman’s bank statements don’t match his disclosure reports"
+      }
+    },
+    {
+      "title_original": "'Maxxing' selected as Dictionary.com word of the year",
+      "title_zh": "'Maxxing' selected as Dictionary.com word of the year",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-26T21:31:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "'Maxxing' selected as Dictionary.com word of the year\n- Published\nAmericans have gone all in on \"maxxing\", making it the 2026 Word of the Year for Dictionary.com.",
+        "Short for maximising, the term \"can be used on its own or added to the end of any word to convey you're doing something to the fullest or optimizing it as much as possible\", Dictionary.com said in a statement.",
+        "It's a major departure from two years ago, when the site, after analysing US social media trends, news stories, and search data, chose demure as word of the year."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Maxxing' selected as Dictionary.com word of the year"
+      }
+    },
+    {
+      "title_original": "Lula wins fourth term in dramatic Brazil election comeback",
+      "title_zh": "Lula wins fourth term in dramatic Brazil election comeback",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-26T21:02:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Lula wins fourth term in dramatic Brazil election comeback\n- Published\nBrazil's President Luiz Inácio Lula da Silva has won a fourth term in office in a dramatic comeback over his right-wing challenger Flávio Bolsonaro.",
+        "Left-wing leader Lula took 51.79% of votes, becoming the first president since Brazil's return to civilian rule in 1985 to be elected after losing the first round of voting.",
+        "Lula told jubilant crowds his victory was a \"loss for negativity, lies\", adding \"long live democracy\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Lula wins fourth term in dramatic Brazil election comeback"
+      }
+    },
+    {
+      "title_original": "五强国防部长：欧洲“必须为自身安全承担更大责任”",
+      "title_zh": "五强国防部长：欧洲“必须为自身安全承担更大责任”",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQU2lyb3l5OEg5ZzNnVmpIOWdDQkxaX2Y1bnBNbWNILS0tVFNUZlRLUkZDRjFqRUFIUUdfdjNCTmRSek1rTWJwTnRqWnZfbjZIZndYNkw3REE2RFRlZGd4VExFSlJpOVFlSVgyZHhxb2xVRXowamJTRGUxVFpRRU1NWklPN2hxWkVXeEEzZ3FGQ18tbUo3cEpNUXJXRVZLU1Nfdm9yeGoyVWVzN2ZsSUZmR0JHa3hxc3N6NlQtaUJUZWJtWEV1NENqc1FjTEJMNG81SWphcTJXcDVYSVJ0cnk2VVBSS0VnaF81UHprNmV0Z1h1cWk4QXlwandIWVVoSE5NQXdiSmVhN3FPeUN2QXFiQnRaUDZTalg0aW95WHlIOG5fNzQ1NkhvQ2V3WWp2Y1ZxbEQzT2JUMzdvLU1NMDNtTXJldjZ0bVNMcWQzR083ZTZNSDRBNTgxS0tDQnJWdw?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-10-26T20:51:59+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "五强国防部长：欧洲“必须为自身安全承担更大责任”    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "zh": "五强国防部长：欧洲“必须为自身安全承担更大责任”"
+      }
+    },
+    {
+      "title_original": "P&Q’s 2026 Best In Class: IMD, Geopolitics",
+      "title_zh": "P&Q’s 2026 Best In Class: IMD, Geopolitics",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV0xscVF1TjluWHlMVkhxUENhTGVYSGZuWERyUzcyNjNBS1pNZzYxSmdLUGhVRGNPaS00ZWRMU0NtN2FNUHRudDRMZFRaZEtjRHp5ZXJZcGdiY201NlJveWVoZkFtMUplVUFRSS1UUFliYjJGNkVwRWV3LUVDamtsWGZWTDlaREtnN3NvVGpIMC04RThqQWF2bTFUSjN2WGNpWGpQQU9B?oc=5",
+      "source": "Poets&Quants",
+      "source_score": 40,
+      "published_at": "2026-10-26T20:41:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "P&Q’s 2026 Best In Class: IMD, Geopolitics    Poets&Quants",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Poets&Quants"
+      ],
+      "all_titles": {
+        "en": "P&Q’s 2026 Best In Class: IMD, Geopolitics"
+      }
+    },
+    {
+      "title_original": "ロシアとウクライナ局地停戦合意 日本時間27日午前10時発効へ",
+      "title_zh": "ロシアとウクライナ局地停戦合意 日本時間27日午前10時発効へ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqNFk4blNKVmk5VEdSRVpkZUVQRGpCYjhlcTZnMjBrNWpDWmJRODZwNUpzekprSU52a1M5bUZoZkktaVJWOFJmekFSa2hQUlFnM2Vxck8wTGVWMVNMSE5r?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-26T20:29:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ロシアとウクライナ局地停戦合意 日本時間27日午前10時発効へ    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシアとウクライナ局地停戦合意 日本時間27日午前10時発効へ"
+      }
+    },
+    {
+      "title_original": "〈ウクライナの変容と日常〉レンズ越しに見えてきたこと",
+      "title_zh": "〈ウクライナの変容と日常〉レンズ越しに見えてきたこと",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qNGNYajlwcnA3bTNNdnZ3ZUNfQjVNcHdpMGdxNVRvUzZ6Tmhya2dkdko0dlZ3UDBjY0FjYXRrUTZTSlg4b3JDbFRPU3JxWHVWQlIw?oc=5",
+      "source": "Wedge ONLINE(ウェッジ・オンライン)",
+      "source_score": 40,
+      "published_at": "2026-10-26T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "〈ウクライナの変容と日常〉レンズ越しに見えてきたこと    Wedge ONLINE(ウェッジ・オンライン)",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Wedge ONLINE(ウェッジ・オンライン)"
+      ],
+      "all_titles": {
+        "ja": "〈ウクライナの変容と日常〉レンズ越しに見えてきたこと"
+      }
+    },
+    {
+      "title_original": "من الحرب الكورية إلى تايوان.. هكذا توظف الصين الذاكرة التاريخية سياسيا",
+      "title_zh": "من الحرب الكورية إلى تايوان.. هكذا توظف الصين الذاكرة التاريخية سياسيا",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPVFBydHlrMkpiaENhWkEzOHJLZWVvRUFNdldaWlJWMHZTNWotS0RNNnVoRGpqbi1TcFVHWEI3UmdaNk41TTJybVpUbmxQZUlpdHRvcmFFQ2x1b3ZfRXE4aGZ6RjM4TGh0emlneGNmdkZ6RUVvcDJtREVPRnYwWXFjV3hFOTdIeVVxV2xJQ3JGRXVhdHJHbTdacm52VWFkTmxVTmxTTkRoR1BPN1A4dkc2R05VSmEzMEUwd2ttNHh6blM4THBEZkdWcFNraWVCaFRQSFd3cVNKd1RWTGJBM191VGJ5R0toeGFyc05ENVRyUWp2XzZidnBrVEk3MkQ1bGxsNTdGcVJXcVFtaDcxRHNsUUJJQXdRRjh5d1JPUlNCWUNJZGluR1lNeDhKYkF0bXVLcVFfRVVXdDU1M21hLTc1ZzN5amVqbHR0VWhBS0hLYWJHWjZWcUdWVVFR?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-26T19:51:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "من الحرب الكورية إلى تايوان..",
+        "هكذا توظف الصين الذاكرة التاريخية سياسيا    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "من الحرب الكورية إلى تايوان.. هكذا توظف الصين الذاكرة التاريخية سياسيا"
+      }
+    },
+    {
+      "title_original": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "title_zh": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-26T19:27:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump administration illegally fired James Comey's daughter, judge rules\n- Published\nThe US justice department illegally fired Maurene Comey, the daughter of former Federal Bureau of Investigation (FBI) director James Comey, a federal judge has ruled.",
+        "Comey, who lost her job as a federal prosecutor in New York in July 2025, sued the government, arguing she was unlawfully fired because of her father, a critic of US President Donald Trump, and because of her perceived political affiliations.",
+        "Judge Jesse Furman ruled on Monday that the Trump administration must reinstate her and that she must be given back pay."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump administration illegally fired James Comey's daughter, judge rules"
+      }
+    },
+    {
+      "title_original": "Royal Navy Lacks Ships, Capabilities to Defend High North from Russia, Says U.K. Committee Report",
+      "title_zh": "Royal Navy Lacks Ships, Capabilities to Defend High North from Russia, Says U.K. Committee Report",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2hVR21lbWV6T3dCZFQxVlllbS02VFRvcnlHS2pVbHNWSW9qdEVqOTh2S0dDdUNaMTVGSzBSUDhsbkIwakFCSFNfNHlaaTN6cTZFTXBzak94aHRmbzB0Vy00VUxBRUIzYjZobTU0UUs3bFlCR01zTXlJa1oyOFM4RDYteEJ1bmpRcnZKdDNSQ2pSdjh1SDRjSkFJUzJNTGlpVzVWY09SYnJsT3ZOMWhlaGRLd2hhczhBRW1HNVcxdjhNWDFNa3c?oc=5",
+      "source": "USNI News",
+      "source_score": 40,
+      "published_at": "2026-10-26T18:57:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Royal Navy Lacks Ships, Capabilities to Defend High North from Russia, Says U.K.",
+        "Committee Report    USNI News",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "USNI News"
+      ],
+      "all_titles": {
+        "en": "Royal Navy Lacks Ships, Capabilities to Defend High North from Russia, Says U.K. Committee Report"
+      }
+    },
+    {
+      "title_original": "مسؤول سوري لـ«الشرق الأوسط»: مغادرة 25 % من النازحين مخيمات الشمال",
+      "title_zh": "مسؤول سوري لـ«الشرق الأوسط»: مغادرة 25 % من النازحين مخيمات الشمال",
+      "url": "https://news.google.com/rss/articles/CBMipAVBVV95cUxNOVB0eklUQ19saDNMcTNVZDdGRU5ycjM0VW13Sk9wYmpiQ0JUNjNkbU82UzVWQTFvNFliMTZ1RzlqRDBQMkhJS1BaWVlmSnZxZExjWlNjSTU4NzU2aUtWTkxEWDY1cE9lUGh5QWZfdVItalI1WGZLd0RiRk9BSTBrTmY1ZnFvYWtJTFpKN3V2Y0RBbjE0N3lIVExiQ1hwREFQbkhFeUlSTk9EREZ0ZnloeWJlcXZSdjM1VFhXNWtvb3JwbUUzYXVnSWVGX2xkNzdGUjg3TXY4MXZwMlV2NU9qdHdsemRwdFpteWt5aThxbjJ5NWo5d1pmdldxRERncTZSZU4yOHA0MHJ0S1UtYXk4OEM2d1JFMjJxV0NYMklvdXVoSGxMeWczSGw2Yy1oZnB3ZTE1Ujd5TGNCdVlEVEs0T2x6WktjaUFqMW9OX1k5ZDhfY25sUGxCVjJ4SGlIdmt5N3VfV19yR1h4elE3M0lVdTNHZGhXX1IyWUx4d3ZnXzJjT3I4TGhpUENmbU5lbGo3OE0wLWtsdmZFR1huYmk2TEhlcERhcHoxTTRJejJsWGYxZ3hrQmtyNWhCNEFoZy1CS24xMDRVMUVFOVRCMkQ2U1ViZ0hjNEI0OVNSZGFGTWRSaUwtUHZ2dklWQ2s2LXo4ZzhpbE9sRTFoQjFXOEVSUWZhcWpxbFlMR2FYREFkb19IVlE0WVc0dFpoakFUSXpSMEQtTEFBRjE2Z1A5YnpmVVpuVmRIZnJzblNwYkgyaFp1anRCS3pEczFPVXoySUNhY2VJanNMWnJsbVJIb2pMYlFuYVdKaHd5akJBN0xXV2xsbm82VEdKa1NLQjUzSEtQOTFFT1N6aDlBaUZtaks4SDlrNnRUc1RNajFEaW13WkdGWkoz?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-26T18:51:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "مسؤول سوري لـ«الشرق الأوسط»: مغادرة 25 % من النازحين مخيمات الشمال    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مسؤول سوري لـ«الشرق الأوسط»: مغادرة 25 % من النازحين مخيمات الشمال"
+      }
+    },
+    {
+      "title_original": "\"L’Europe doit assumer une plus grande part de responsabilité\": la France et les quatre autres grandes armées européennes s’engagent à jouer un plus grand rôle au sein de l'Otan",
+      "title_zh": "\"L’Europe doit assumer une plus grande part de responsabilité\": la France et les quatre autres grandes armées européennes s’engagent à jouer un plus grand rôle au sein de l'Otan",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNSjNpMkZ1VUlSOEZMTS1sS3V5T1VmX2JXbU8wYkwyeGZOZDBFZzREN0UtbnlzUGtFUnJTalNEOHZMZ0JLNGNCY3ZQSnlwVXR6bjFlZGxKdEhTeDFxcHdWcW9mS3NHQWFPNzQyQUtnR0ZnT1ZFdFVxTFV4MTNJNFBVbFdTeGt2VkFjLThvMy1ONVRvRXVNWlM5c1R5OWcwbURsOG92YWdYSTI3R3FwM3hpc182RW5IR0dMMmE5Q3lGTXFmaE9RLXFMUjJiWkxHTzB4VDBYdnZ5SG9oMEt0VmdrR3F6VHE3bnlNc1lWWHlvRDZhYlBJS05RdEJOOWhCaFJIQ0pXaENkT2NnQWk2aGxiemtqSDFyZDlueWtadUllY2FzVE1Kc0VwNTJhODFEenl3aXlZRWNtSzVteTVCLVlpbVpHVHFPNUk4TnhwcElFTm1oN2lXTXp5OXhpemwwSkZ4Y3ZHNA?oc=5",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-10-26T18:20:39+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "\"L’Europe doit assumer une plus grande part de responsabilité\": la France et les quatre autres grandes armées européennes s’engagent à jouer un plus grand rôle au sein de l'Otan    BFM",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "\"L’Europe doit assumer une plus grande part de responsabilité\": la France et les quatre autres grandes armées européennes s’engagent à jouer un plus grand rôle au sein de l'Otan"
+      }
+    },
+    {
+      "title_original": "How the streets and social media drove Lula to a historic comeback in Brazil",
+      "title_zh": "How the streets and social media drove Lula to a historic comeback in Brazil",
+      "url": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-26T17:56:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "A viral WhatsApp channel and student-led protests played a key role in the veteran Brazilian leftist’s election victory After the first round of the Brazilian presidential election three weeks ago, the leftist incumbent Luiz Inácio Lula da Silva reportedly told allies he could not understand how he finished second after a government he considered the best of his three terms.",
+        "A mood of dismay swept Brazil’s left, and because 9 million voters for the other candidates, all of them on the right, were expected to mostly transfer to senator Flávio Bolsonaro, analysts widely saw the far-right senator’s victory as certain.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "How the streets and social media drove Lula to a historic comeback in Brazil"
+      }
+    },
+    {
+      "title_original": "كيه.إل.إم تمدد إلغاء رحلاتها للشرق الأوسط ليشمل كامل الشتاء",
+      "title_zh": "كيه.إل.إم تمدد إلغاء رحلاتها للشرق الأوسط ليشمل كامل الشتاء",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBickdJYXlMclR4WkpZZXhnMzg2c2FQaTY3cGQwanZzQVp4VFd3eno3MTQxX2ZvLU8xa3hsQlNXY0I3UVo5UF9XbnRMSC1kYTA4U1JvUmtNdW95bWdINnEzVnpVTzg1OUJ0MDJxWjhPZ3hUMVRPdk9nZ1AteDZQME0?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-26T17:56:11+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "كيه.إل.إم تمدد إلغاء رحلاتها للشرق الأوسط ليشمل كامل الشتاء    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "كيه.إل.إم تمدد إلغاء رحلاتها للشرق الأوسط ليشمل كامل الشتاء"
+      }
+    },
+    {
+      "title_original": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
+      "title_zh": "How Lula beat far-right Bolsonaro in Brazil – The Latest",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-26T17:38:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Brazil’s Luiz Inácio Lula da Silva has won a historic fourth term as president, defeating the far-right candidate Flávio Bolsonaro in a dramatic comeback.",
+        "Lula is the first candidate to win a runoff election after losing in the first round, taking victory with 51.79% of the vote to his rival’s 48.21%.",
+        "His win bucks a regional trend, after the son of the former president Jair Bolsonaro had spearheaded a radical populist movement."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "How Lula beat far-right Bolsonaro in Brazil – The Latest"
+      }
+    },
     {
       "title_original": "Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
       "title_zh": "Brazil runoff as it happened: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
@@ -51,6 +701,56 @@
       ],
       "all_titles": {
         "en": "Algeria to send troops to Niger in first foreign deployment since 1973"
+      }
+    },
+    {
+      "title_original": "Ukrainekrieg: Slowakischer Außenminister reist nach Moskau – Opposition übt harte Kritik",
+      "title_zh": "Ukrainekrieg: Slowakischer Außenminister reist nach Moskau – Opposition übt harte Kritik",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYlJ4NG82aGpkclY3TU43MnFiWXg0OGF4QmQxeVdPbHU0VkpLN014XzBKMlRTQzVaOEJnUVBKVXF1MUdGMnNKTlpMTmhuSHJocmdVMWlFR2gtdk5TZi1yUjZIM0lSSmVXQnhhVTVoNE1kUlFDb1p3REJZekJXVXFCMVh0X2VQS1l4WC1lMTNramdDVWZ4MUhTd29xcmtLTGJpbjRQaGl1bjRfR1VrNFRhbjlrdk9fdnF2cDI5ZWlRUjRKSXJHRjczeVpUWWZKUm0zSldlOWFrVmJpNmZ4Mlp2Mmw4VXdfLTRhemJ0aVlsdw?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-26T17:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukrainekrieg: Slowakischer Außenminister reist nach Moskau – Opposition übt harte Kritik    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukrainekrieg: Slowakischer Außenminister reist nach Moskau – Opposition übt harte Kritik"
+      }
+    },
+    {
+      "title_original": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+      "title_zh": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-26T16:31:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "More than 60 Christians killed in Ethiopia 'massacre', church official says\n- Published\nMore than 60 people have been killed in a series of attacks on Christians in Ethiopia's Oromia region, according to the country's Orthodox Church.",
+        "One resident, whose 75-year-old father was killed, described it as an ambush.",
+        "\"We were completely unprepared and had no prior knowledge."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "More than 60 Christians killed in Ethiopia 'massacre', church official says"
       }
     },
     {
@@ -201,6 +901,56 @@
       ],
       "all_titles": {
         "en": "Part of Antarctica named after former BBC science correspondent"
+      }
+    },
+    {
+      "title_original": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "title_zh": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-26T14:34:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement\n- Published\nSerbia's long-standing leader Aleksandar Vučić has admitted defeat to a student-led protest movement in snap parliamentary elections.",
+        "Celebrations erupted as crowds descended on the centre of Belgrade, Novi Sad and other cities.",
+        "The student movement was formed less than two years ago in response to a railway station disaster blamed on corruption and negligence, but fought the election with candidates from a cross-section of Serbian society."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement"
+      }
+    },
+    {
+      "title_original": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "title_zh": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-26T14:27:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Nurse killed in attack while responding to Ebola alert in DR Congo\n- Published\nA nurse has been killed and another health worker seriously injured in an attack as they were responding to an Ebola alert in north-eastern Democratic Republic of Congo.",
+        "The two were targeted by local youths who accused them of contaminating water sources and spreading the Ebola virus, according to the UN-backed Radio Okapi.",
+        "The World Health Organization (WHO) condemned the attack."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nurse killed in attack while responding to Ebola alert in DR Congo"
       }
     },
     {
