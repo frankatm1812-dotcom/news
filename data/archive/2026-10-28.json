@@ -1,8 +1,683 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-27T16:36:35.457805+00:00",
-  "count": 35,
+  "generated_at": "2026-10-28T02:11:04.051096+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title_original": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
+      "title_zh": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSEo5Rm5rNDMwMXVnR3h3T2NrZE1vd0ljZ2NGZGRNcnpTeFZUa2lyb0FiNVNzNk91NGpMbElVM1hsMTJRTGNxYThlQTZGUlJzbnFOckw1RE9lazlfVVp1cWJwaVdJUHprcW5ZSFpWRUpyNTFJWWRXVlU2TElBNk5FWjhqeFlBYTBQMnpvRTNQcnpBWXVUWXpyV2lpQTRmOGZZOWloY3V3YkEzVmRKSDE2X1puQXZOR1JPbXAzc0ZMSDN6eU5jbDFvQ09aVXM1MEpFWWMyOGtjQlhaNGk3aXNZV0l5LS1vMGVYcXc?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-10-28T01:39:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict"
+      }
+    },
+    {
+      "title_original": "ヒルトン、第3四半期売上高が予想下回る 中東紛争の影響を警告",
+      "title_zh": "ヒルトン、第3四半期売上高が予想下回る 中東紛争の影響を警告",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tRUJhVXl3SnI5a1JSMUVTV19TOUlMTzFWSkZjcFZ1bjJJNm83R29pSEpvR0RrOEpqRWxQX0xUVk1mOTdDNnY3bEE5dGU3ZF80QS00WXdrYzNHNzdYZjFKamJHTE1pQ28wYWs1ZlMzLU1Hb1c2N3Z6Nk5ERQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-28T01:35:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ヒルトン、第3四半期売上高が予想下回る 中東紛争の影響を警告    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ヒルトン、第3四半期売上高が予想下回る 中東紛争の影響を警告"
+      }
+    },
+    {
+      "title_original": "ウクライナの「局地停戦」は６日間、違反は確認されず…地雷撤去や住民退避を進める方針",
+      "title_zh": "ウクライナの「局地停戦」は６日間、違反は確認されず…地雷撤去や住民退避を進める方針",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mQWFrR1kwWEdNNmw4N2VqMTk3d3VHLXZDRGZuRVI5WGFfSEVCekNYRHZOSF90V2JqakJxYXp1c1RodG1MQWh2aGxPVmVjbTRJVXBOa0Z5d19iUVVuRmxlVFB3?oc=5",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-10-28T01:07:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナの「局地停戦」は６日間、違反は確認されず…地雷撤去や住民退避を進める方針    読売新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの「局地停戦」は６日間、違反は確認されず…地雷撤去や住民退避を進める方針"
+      }
+    },
+    {
+      "title_original": "NATO: Hat der Westen Russland wirklich verraten? Historiker klärt Mythos auf",
+      "title_zh": "NATO: Hat der Westen Russland wirklich verraten? Historiker klärt Mythos auf",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQWQyMzdNUGNUXzNFcGpjNVgtbzZzb1R6b2xjNTlVcFpNSmNRNF9rQnNUVkxyc3pjUXQwRzRkSVQ3UTFvTUt5VmM1eGcxblBlQkxRaWc4QUlvNnRXeWt3bWFHOE1SVWxHVGkwSWdxSV9Mbk9oZi1QY05yTWpiZWEwV3gwcThJWFVIaTQxRmtKUmVWeHB2TFl5MU1UcFVaX051VVlOVGgwSzZvSS1ydVZSMHVnT19DLU9UUVJ4ZGNWWk5oT09rTy1Tclo3M1VUY18tZ25SR1VzX21Rakk?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-10-28T01:04:22+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "NATO: Hat der Westen Russland wirklich verraten?",
+        "Historiker klärt Mythos auf    WELT",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "NATO: Hat der Westen Russland wirklich verraten? Historiker klärt Mythos auf"
+      }
+    },
+    {
+      "title_original": "Romanian president calls alleged Russian sabotage plot a 'grave violation' of NATO member's security",
+      "title_zh": "Romanian president calls alleged Russian sabotage plot a 'grave violation' of NATO member's security",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPT1NpNXdEWmlfSFlDYkxjcGc3OVl2d2VjRXNLWTB4UDd3TDR5ZG5YTGItWl9xVWJ3VFUyTmZFNWpMREZjbVh2b1NJRnM1WG81enB3eWJHOW93Qm1kd0d6ZXgzNy1mQU1INlV4T3pHRmZKTWpDdFdoaU55ZDZwQWxOSjNrN0hvUm9nOFlaTGJlZHNadFBEdVJzVXVxRkROLUhEcjBTMUh1c2VTeTlyQ1lvN0tuMnJFTVpjcm9jdHZvYk1oSnpqSFk4X19VMmNwT25ScmVkaV9R?oc=5",
+      "source": "The Washington Post",
+      "source_score": 75,
+      "published_at": "2026-10-28T00:34:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Romanian president calls alleged Russian sabotage plot a 'grave violation' of NATO member's security    The Washington Post",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "The Washington Post"
+      ],
+      "all_titles": {
+        "en": "Romanian president calls alleged Russian sabotage plot a 'grave violation' of NATO member's security"
+      }
+    },
+    {
+      "title_original": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+      "title_zh": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+      "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-28T00:07:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Royal tour of Caribbean comes as Commonwealth nations renew calls for Britain to engage in reparation talks King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour.",
+        "The king arrived in the Bahamas to a ceremonial welcome and attended a youth rally at Clifford Park, the site where the country officially gained its independence from British colonial rule in 1973.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit"
+      }
+    },
+    {
+      "title_original": "Arrancan las maniobras militares de la OTAN Resolute Reforger 2026 en Letonia",
+      "title_zh": "Arrancan las maniobras militares de la OTAN Resolute Reforger 2026 en Letonia",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkF6aFhwRmNDN2g3UUpfZlZnN0xyeks3clNMZG5HUWk2Tl9jSlRsdjhIQ1ZWMjVwSjlqY1VlZm5wTTZCRkpSUzV6bk85RmFOSjBpbjlVYlo1ZlREZ2k1dS1Xc2t4MlBTQVVhT1BhaUZqWEFFcXFtRnllNEZQOWpJeUdDckpDNjBuUFlQVW9DTTdHLU9ZRWJQSFR2bEtER01SeWo5alVqQ182NXE4Q1ZCWWZn0gG3AUFVX3lxTE1wYUN3Y1NPMTJ3NG5QT3lmYXdxdTgwQ19abU1CZlF6WTVwR2Y1aHJuX1NDUFd1SldBQVhmckpUWmE1LWpNYWNxQ1NGMGZiVzlCSEp4eVg3X3VYc0xXWXVvYjgwcGhqR0lCWFVHVHE0WXZnMFRRQTJuRUdJRWUxZXU1LUxIMnlrcHVFSlllVDVqdEI4TTJqd0ZxczhKcGdObnVlb1VtWVFydC1CUkdOLXExeDJCeTl0aw?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-10-28T00:01:43+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Arrancan las maniobras militares de la OTAN Resolute Reforger 2026 en Letonia    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Arrancan las maniobras militares de la OTAN Resolute Reforger 2026 en Letonia"
+      }
+    },
+    {
+      "title_original": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "title_zh": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-27T23:41:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case"
+      }
+    },
+    {
+      "title_original": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+      "title_zh": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-27T23:07:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "President at Texas campaign rally hails deal struck with post-Maduro government as ‘greatest oil victory in history’ Donald Trump suggested Venezuela would become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed had “one million barrels of oil on it” from the country, nine months after deposing its president.",
+        "At a campaign rally in Corpus Christ, Texas, Trump touted a US oil deal with Venezuela, which the US attacked in January, capturing its long-serving leader Nicolás Maduro .",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state"
+      }
+    },
+    {
+      "title_original": "ウクライナ首都、ドニプロ川の渡河手段整備に着手 ロ軍の橋攻撃に対策",
+      "title_zh": "ウクライナ首都、ドニプロ川の渡河手段整備に着手 ロ軍の橋攻撃に対策",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlc5V1NRVWRzX25aR213WDdHOW96YUZ3SDNiaVNxUmZBYl94b0ZPbDRUa3RmTWN6bFk4UHJnYXlNZUtQdUJUcUtxUTZNelhRdTBMeEc1aWVNbDVJUVJEb1FfWmxvU1ptbDUzaFZhd1VVUUpJdFpsQkt4bnBKNlhMS3NmN25mUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-27T22:44:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ首都、ドニプロ川の渡河手段整備に着手 ロ軍の橋攻撃に対策    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ首都、ドニプロ川の渡河手段整備に着手 ロ軍の橋攻撃に対策"
+      }
+    },
+    {
+      "title_original": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+      "title_zh": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+      "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-27T22:03:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Far-right senator en route to US after missing deadline to hand over his passport since loss to Lula The far-right senator Flávio Bolsonaro has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva, who called the act “shameful”.",
+        "A report by the news website Metrópoles , citing people close to the politician’s family, said he was en route to the US.",
+        "“The plane is in flight,” Metrópoles reported, without making clear where it had departed from."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say"
+      }
+    },
+    {
+      "title_original": "南部の局地停戦、来月１日まで ロ・ウクライナ双方が順守",
+      "title_zh": "南部の局地停戦、来月１日まで ロ・ウクライナ双方が順守",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JYW1CVzgxT0FCVGFwY0wzV0w0bUJSeVlQV3hndXBoc3NBREZqd21qd191U0J6YkdUS1JJUTVRaFI0UHVGX3ZMZUFXT05DRjZpaUpQUEphNDRTRUhiTmVZU214OA?oc=5",
+      "source": "時事ドットコム",
+      "source_score": 40,
+      "published_at": "2026-10-27T22:01:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "南部の局地停戦、来月１日まで ロ・ウクライナ双方が順守    時事ドットコム",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "時事ドットコム"
+      ],
+      "all_titles": {
+        "ja": "南部の局地停戦、来月１日まで ロ・ウクライナ双方が順守"
+      }
+    },
+    {
+      "title_original": "The Geopolitics of Trade Infrastructure",
+      "title_zh": "The Geopolitics of Trade Infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vblc0Tzl5U0sydTVpZ0c1NmZjd0gxMjg2OWg1SklsaFdxOGkxX0thbHk0S1lrRlR6cmI1MjhCWFRZVDVUZmhZOV9FTXBvLU5VVlZ1YnhDRE81UEJNQ1IydXQyM0NKQ1l0TzFKd0FTcThiREE2Q0tV?oc=5",
+      "source": "Middle East Institute",
+      "source_score": 40,
+      "published_at": "2026-10-27T21:45:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "The Geopolitics of Trade Infrastructure    Middle East Institute",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Middle East Institute"
+      ],
+      "all_titles": {
+        "en": "The Geopolitics of Trade Infrastructure"
+      }
+    },
+    {
+      "title_original": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+      "title_zh": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-27T21:09:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case\n- Published\nThe former wife of Zimbabwe's vice-president has been freed from remand after seven years while on trial for his attempted murder.",
+        "Marry Mubaiwa was charged in 2019, after her then husband Gen Constantino Chiwenga accused her of trying to impede his medical treatment in South Africa.",
+        "Ordering her release, a magistrate said Mubaiwa had suffered mental, physical and financial prejudice during the trial, state-owned daily the Herald said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case"
+      }
+    },
+    {
+      "title_original": "كيف تحركت فنلندا والنرويج لفتح مسار جديد لإنهاء حرب أوكرانيا؟",
+      "title_zh": "كيف تحركت فنلندا والنرويج لفتح مسار جديد لإنهاء حرب أوكرانيا؟",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQUGMzNXMxemotS29rSmZNWnkwWm42SmRYRUE5STNyNnJ3TGpqc0NJZ1g5eThOd2REZmU0WHZUbWVwWmxjazM4eUFaZWxKZFB6TFRsT3VQQVpBQ3dIU2FacXdlNVk2S3N0a2owYkF5Zm9ZRjZaN0YyOUZxa0kwMGZ0YmNidlZTMThpTUliWURFQm9FTjcwTzBxc1BZcVpNQjNZelpKU3lwNjM2WnpXWkNzcnYxRmhneTlrSUhHakx4RFhwNnJHRWpWdjl4NS1vcTItRm5rVDZqRU9YSWtqRU1YaGdNWE1DSEdxZHpGcF9MM3BxR29uaW45dkJyakEtM1VSUEMxam80LXBOQ0xzMk1lSVZCVEVOQ1QwU1pfMU1uTXg0NGltanBnYmluaS02clZCQmcxQTRLMGQtTTA2a3BQc2VveXBNNnNPaGp30gHQAkFVX3lxTFB3c3VoQWFydGZfUG9rS1QweEdtYktUVUNsQ1RGMXYzTnkxcFlCeDA3Rlpuc3BDcFAxRVRZdGhKdGN0XzVXVDVMcnNQRmJyMXIzY0J1b09FQ0w2TG9ob2s4RFJjM1JxQXNhbnVVdExGRmZGWm12a1NtSEV2ZG9JMXAyMFg1QU9ZUTdPMEtKcWsyX3BZQ19VaWJmLXZlQXNoUkVVYXV3OC04Q1BjdWU3OTdqRFZaU3BSQTNzT2lVaUF3dUZUQTBMWG1WaDFzZGY1RWltb2ltSWhxTFhxSzhPazBGVGstQ0l2aUZ0Wmh2cTJySGQ0T3F3SGl4NG8zN0h4akc2QXMzNV9RWVNOTjZZR3RwdDVyUk93bDRrRHM4X2p5OHdkQURhc2lWTFhoY1p6SThtaUN0NEhSUnk1Z043UEFzQmwtSU85WlJGX18xbHJjNg?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-27T20:52:06+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "كيف تحركت فنلندا والنرويج لفتح مسار جديد لإنهاء حرب أوكرانيا؟    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "كيف تحركت فنلندا والنرويج لفتح مسار جديد لإنهاء حرب أوكرانيا؟"
+      }
+    },
+    {
+      "title_original": "原油先物約2ドル安、中東の海上輸送混乱で6カ月ぶり高値圏維持",
+      "title_zh": "原油先物約2ドル安、中東の海上輸送混乱で6カ月ぶり高値圏維持",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tbUtISWpNcUNjczVQZURoME12VUZORjNab3JMWDRob2JZM2NVQTUtdVo3N1J6T3c5TF9OZ3VmY2JZRDFaSjlxZnpaZkMtSzRZR0F5a1dHcTFRUGZvSDg0ZEtOQ1ZVZFlfNHM1em1sQ3hmdVB6MS1VMUF1R2RYdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-27T20:47:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物約2ドル安、中東の海上輸送混乱で6カ月ぶり高値圏維持    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物約2ドル安、中東の海上輸送混乱で6カ月ぶり高値圏維持"
+      }
+    },
+    {
+      "title_original": "ウクライナ、米国の「裏切り」に誤算 首脳間の確執に付け入るロシア",
+      "title_zh": "ウクライナ、米国の「裏切り」に誤算 首脳間の確執に付け入るロシア",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLRHR3VDg2Q0p2UzBhcVBkdVRjSURscE5jZmVyM0xkVHdTZDBycWp5dENnZG9NZHA1MEFUVTJMWDBVSkxXdDZJVTlaWk5EUHl6ZEx2SVhobFY3TWV0Qi1vcmZoYmZHX3dkUmN0VQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-27T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ、米国の「裏切り」に誤算 首脳間の確執に付け入るロシア    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、米国の「裏切り」に誤算 首脳間の確執に付け入るロシア"
+      }
+    },
+    {
+      "title_original": "ウクライナ危機以来のディーゼル高 精製能力低下で正常化見通しにくく",
+      "title_zh": "ウクライナ危機以来のディーゼル高 精製能力低下で正常化見通しにくく",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mcFJFZWpvSWk5UEF2VVY4b2hReDhfUlQ4QTBGdVVrZFpSd2dxM2hpRkhsSnBoY0V1S1UwaHdLX0otQXZhRFJBQWlyV01KV3owYWt0d002SU5pOWxaLTBIZ25nYmNaLXJSdUlxZkEzR0d4dU9FRGlKdFpvV0J5UQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-27T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ危機以来のディーゼル高 精製能力低下で正常化見通しにくく    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ危機以来のディーゼル高 精製能力低下で正常化見通しにくく"
+      }
+    },
+    {
+      "title_original": "Dutch zookeeper dies after being mauled by leopard",
+      "title_zh": "Dutch zookeeper dies after being mauled by leopard",
+      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-27T19:30:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Dutch zookeeper dies after being mauled by leopard\n- Published\nAn experienced keeper at a Dutch zoo has died days after being mauled in a leopard enclosure, the safari park has confirmed.",
+        "The woman, who had worked at Beekse Bergen park for 40 years, was caring for two Persian leopards in an indoor facility when she was attacked on Saturday.",
+        "She sustained injuries to her head and neck and had emergency surgery, but the park confirmed her death on Tuesday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Dutch zookeeper dies after being mauled by leopard"
+      }
+    },
+    {
+      "title_original": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+      "title_zh": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds",
+      "url": "https://www.bbc.co.uk/news/articles/cmgel8pqj5rwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-27T19:01:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds\n- Published\nAn inquiry into the deaths of 33 detainees in Nigeria's Minna state has found they died as a result of severe overcrowding, poor ventilation and failure by officers to respond to distress calls.",
+        "Forensic and medical evidence showed the \"entirely preventable\" deaths had resulted from acute respiratory failure linked to prolonged confinement, aggravated by heat stress and dehydration.",
+        "The evidence did not support initial claims of a disease outbreak."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Deaths in detention cells in Nigeria were entirely preventable, inquiry finds"
+      }
+    },
+    {
+      "title_original": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+      "title_zh": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-27T18:43:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The group targeted elderly people across US and Europe, luring them into romantic relationship before persuading them to transfer large sums of money.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam"
+      }
+    },
+    {
+      "title_original": "Controversial Islamic cleric shot dead in northern Nigeria",
+      "title_zh": "Controversial Islamic cleric shot dead in northern Nigeria",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8nq55d74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-27T18:35:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Controversial Islamic cleric shot dead in northern Nigeria\n- Published\nA controversial Islamic cleric in Nigeria has been murdered outside his home in the northern state of Katsina.",
+        "Two assailants arrived on a motorcycle and shot Yahaya Masussuka in the town of Dutsin-Ma as he was saying goodbye to visitors on Monday evening, sources told the BBC.",
+        "The 47-year-old preacher and one of his guests, who was also shot, were rushed to hospital but both were pronounced dead by the attending doctor, police said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Controversial Islamic cleric shot dead in northern Nigeria"
+      }
+    },
+    {
+      "title_original": "زعيمان من شمال أوروبا يحثان بوتين على إنهاء حرب أوكرانيا",
+      "title_zh": "زعيمان من شمال أوروبا يحثان بوتين على إنهاء حرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GYUJfMmxVYmczVW1RMl8yRmpzUHYtVmo3M2hsTHJFVG92OEJybzFBbV9jTm9TZG1sY0Q4VktvUElPRm8wcUIxQTNBNVRQeE94enhPNWs2bHM3dFFSbDRVMVRiQldrRFB1OFpEc0FRVDI4RzZKeUVpMVZaOA?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-27T17:48:05+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "زعيمان من شمال أوروبا يحثان بوتين على إنهاء حرب أوكرانيا    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "زعيمان من شمال أوروبا يحثان بوتين على إنهاء حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
+      "title_zh": "US military says strike on alleged drug vessel in eastern Pacific kills five people",
+      "url": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-27T17:35:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US military says it carried out an airstrike on an alleged drug-trafficking boat in latest attack in region The US ⁠military ⁠ said on ​Tuesday ⁠it killed ⁠five ​people ‌after ‌an airstrike on a ‌suspected drug-trafficking vessel in ​the ⁠eastern Pacific.",
+        "Tuesday’s strike was among more than 70 such attacks since the beginning of Donald Trump’s second presidency, according to media tallies.",
+        "Collectively, they have killed more than 240 people."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "US military says strike on alleged drug vessel in eastern Pacific kills five people"
+      }
+    },
+    {
+      "title_original": "Nanotyrannus skeleton sells for $47.3m in New York auction",
+      "title_zh": "Nanotyrannus skeleton sells for $47.3m in New York auction",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-27T17:10:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nanotyrannus skeleton sells for $47.3m in New York auction"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient : le président iranien affirme à Vladimir Poutine que la région peut se passer des États-Unis",
+      "title_zh": "Moyen-Orient : le président iranien affirme à Vladimir Poutine que la région peut se passer des États-Unis",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOGtHN01XUmVNRHRoTTRXSXNiMkRoVHV4SlZId0h6Vlk2UW1INi1TcUt2cThyaF9CRVFCNVZJaUFuVlQ2Szlid2syRk4yTWxxRExZNU1nSUdIUnNyM2tuc0VhS3dCbnd2TnF2M0lRWlQtRDM2MWlGMG1PZmpxM2ozMEJ6UklNcUJ5TGhtVjVOdDhxZy1Kb19KX21KX1RxRVJ6UTFNMHIxdU51SG00MUpqeC1rMDVNaDUtazhGbnoxYlBKRmRrOHRXWlowVjBLUEd1TmRtazlJTVljWHhWeDVzZVBORVhEQQ?oc=5",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-10-27T17:04:58+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Moyen-Orient : le président iranien affirme à Vladimir Poutine que la région peut se passer des États-Unis    Le Figaro",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient : le président iranien affirme à Vladimir Poutine que la région peut se passer des États-Unis"
+      }
+    },
+    {
+      "title_original": "مصادر تكشف لـ«الشرق الأوسط» كواليس لقاءات «فتح» و«حماس» في القاهرة",
+      "title_zh": "مصادر تكشف لـ«الشرق الأوسط» كواليس لقاءات «فتح» و«حماس» في القاهرة",
+      "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxOWEFkWWczcC04d0IyTEhqdW43bzRJQnROeTdwYzV5Umh6S1lmYzZUV3UxQlpEc3Job1ZCQ2NneFdlN1lsdmlrcmxPbFoxZEVyUGtJa0pNWWhZZm9zODdpa1M2LWdnNzBMTXRxRkFKNGlVTEJlRzd3OHVGSHVoZFdieGZzVGUzVFIwanhFdF9jb3VfSGRJeFRfMXlWRjd3dnpRSm1DZTFiOS1VSHRibHkzNTI0MEdPbk5YX0FZXzFQaDY4eU5UX002cDFJVDdJS0l3RkMzbGZlck44OEduaWJXYzZvcngwMUVNMXJPdEo0MEJMVXN4U3BfRzAtUGxaN0IwVGFqNWFleVVIYUdQbFRZZkdYdml2bkl5MTNFU2JWaklLNWx4dUlPd2ZkektmbHpLUzNnanlOQ2xySWNyMGZydUlsamNKRkxwemhvU3ItdkhmUEdhZHZmOWJtN1dwNHRpNkV4S21uNDFnREJLNi0xRWlXR01LQ0hEV184VW1fZUU0N3dwUU9DYi03Tm5idUo0S2ZvNXA2a1dEUk03d1hLczdhaFU5TlI2YXZKUjgyZUxET1Z5YzBZbm1aR0M2MDM1RUJYWHJIUDlGdV96QWcyWlgxVHh6OS1GSGNlWEZsUVNYa3hLTEREcXVSS0xvUU9KWG9VY0s2OHY4RWY1U0JLSmNDRVFVYzFRLUJFc2hRSjNHRUVKdjloalVrYnVST1YxV3hlV2NxM1lrUGVIYzlIYXBVbWtHMG9NMmdSNFdJTUcwaG01OThvbHpmcllZT1RMVVVSdjNPNXdka2lMd2ROeEVaS3ZRS3FrN0dWZTYwbXRPU2NyZHJtZ3kxVjJ2c3RPMHh0bmVTM2Z3R2VkSS1kWjFsSFpfMEp2X29OTHdmRWtMbWxHMWtacjZB?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-27T16:36:36+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "مصادر تكشف لـ«الشرق الأوسط» كواليس لقاءات «فتح» و«حماس» في القاهرة    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مصادر تكشف لـ«الشرق الأوسط» كواليس لقاءات «فتح» و«حماس» في القاهرة"
+      }
+    },
     {
       "title_original": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans",
       "title_zh": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans",
@@ -29,6 +704,31 @@
       }
     },
     {
+      "title_original": "Del Pacífico a Oriente Medio: dónde operan los portaaviones de EE.UU. tras la salida del Ronald Reagan",
+      "title_zh": "Del Pacífico a Oriente Medio: dónde operan los portaaviones de EE.UU. tras la salida del Ronald Reagan",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOTZRM1ZZMUlvUWJOU1FOdmZhdVR1aDktQlJfLVF0clV5UE9uSmZ3NEdvZFk2bVBaN3VsdDJlNHZ4Z0NETEtJbGJCdXNZd21lbnRXM0pHYWFBN3JrVmZ0dnFnT2paYmcxY2dWV0VrSEpqQUFvT01xMzM3TVJFdjRqVFJDSFlCQ3E4NzFRN0xPQnRBeFprZzlVS05VYWhjdUVaUmJNNGVhWlZKSnpocl9fbGxEb2VWNTc3SUNfWEpRUTlsZ0IzZGF5WVpXWXRPVktEZWEzcjFCMlhtcER0b1HSAeYBQVVfeXFMTTdHbDJVYkExcS1udHZpWTBuOS1QaURLM0M3ZXV5bkFyaUVvaUZaVmxSS3lrR3lmSzdwM2h0QWNHUFJyaU5EaTRQLThwTndRN28zR1g2WUw0dFZ1UTJRMVVLMFhHN1Y1UXZ6TkJCWFVWSnQtcnNzUVdhSURKQVpWbl9NMnU2UUN1a0JlaU9kMUNVN3Z1MVJFVnhneWVPU2JKU00zOXJUYVRXNmQzQm1wSlVVdGVsb1pEZ2xfV3F6M3YyWG95My1zU2g4RVNrWndBMVAxazNGRmhqTEdoQkdkaEVJS2NUcVE?oc=5",
+      "source": "Escenario Mundial",
+      "source_score": 40,
+      "published_at": "2026-10-27T15:48:52+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Del Pacífico a Oriente Medio: dónde operan los portaaviones de EE.UU.",
+        "tras la salida del Ronald Reagan    Escenario Mundial",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Escenario Mundial"
+      ],
+      "all_titles": {
+        "es": "Del Pacífico a Oriente Medio: dónde operan los portaaviones de EE.UU. tras la salida del Ronald Reagan"
+      }
+    },
+    {
       "title_original": "كيف تجري الانتخابات الإسرائيلية؟ وما تداعياتها المحتملة على الأوضاع المعيشية للفلسطينيين؟",
       "title_zh": "كيف تجري الانتخابات الإسرائيلية؟ وما تداعياتها المحتملة على الأوضاع المعيشية للفلسطينيين؟",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XTGRFN3BldVlKWFNVR2JoMmpsNnVDMjRLbjhhR3dGUVMwbXdqS0RobkRXbGFRT3FCWDJqN3QwRmRqMHBheW9qYjNVcXdLVF9wa0Fibm82bDF5bVNFSGRRNXhEcGREekRDeVhz?oc=5",
@@ -51,6 +751,31 @@
       ],
       "all_titles": {
         "ar": "كيف تجري الانتخابات الإسرائيلية؟ وما تداعياتها المحتملة على الأوضاع المعيشية للفلسطينيين؟"
+      }
+    },
+    {
+      "title_original": "West warns of famine risk in Sudan as civil war grinds on",
+      "title_zh": "West warns of famine risk in Sudan as civil war grinds on",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-27T15:41:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "West warns of famine risk in Sudan as civil war grinds on\n- Published\nThe US and 30 other Western states have warned of an \"alarming deterioration\" in food security in Sudan, urging the warring sides in the civil war to remove obstacles to humanitarian aid to prevent famine.",
+        "In a joint statement, the signatories said conflict was the main driver of Sudan's hunger crisis, damaging critical infrastructure and disrupting food production.",
+        "\"There is very little to survive on,\" Yusuf Roble, regional director for Islamic Relief East Africa, told BBC Newsday, describing how people returning to Omdurman were finding their homes destroyed or looted."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "West warns of famine risk in Sudan as civil war grinds on"
       }
     },
     {
@@ -126,6 +851,31 @@
       ],
       "all_titles": {
         "en": "Truce begins in Ukraine city where residents ate weeds to survive"
+      }
+    },
+    {
+      "title_original": "Poland Selected to Host Historic PAC-3 Missile Maintenance Facility, Strengthening Allied",
+      "title_zh": "Poland Selected to Host Historic PAC-3 Missile Maintenance Facility, Strengthening Allied",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZllkUzkzN1QxY2xNcWtFVzZURk42M3BMY3N2OG9TTGxvS25pWGI1TGtScHR0TXh6UVIyZXZFSHJBN05ZT25nRnJpUTZibzRWZ1VuaE1jQ2UwQkY4U1cyX0ZrbGhQN29LNi1rZmdmM3ZOR3FZNHg4YVlwY0s1djdFVGlMQTNnSUllRmg5RmtuVmdISTFoVVluVWlIc0ZROHplWFhZMnJySGxuaHp6QV9pajNhSkxId3p1bzJGV2JlbVhpNkV2QlVXQi1pUXNzRmp1NV9NeA?oc=5",
+      "source": "U.S. Department of War (.gov)",
+      "source_score": 55,
+      "published_at": "2026-10-27T15:07:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Poland Selected to Host Historic PAC-3 Missile Maintenance Facility, Strengthening Allied    U.S.",
+        "Department of War (.gov)",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "U.S. Department of War (.gov)"
+      ],
+      "all_titles": {
+        "en": "Poland Selected to Host Historic PAC-3 Missile Maintenance Facility, Strengthening Allied"
       }
     },
     {
