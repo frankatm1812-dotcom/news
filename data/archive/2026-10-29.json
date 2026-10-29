@@ -1,8 +1,658 @@
 {
   "date": "2026-10-29",
-  "generated_at": "2026-10-28T17:10:31.219766+00:00",
-  "count": 35,
+  "generated_at": "2026-10-29T02:24:14.916877+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title_original": "英、ウクライナに100億ポンドの追加支援 防空体制強化など",
+      "title_zh": "英、ウクライナに100億ポンドの追加支援 防空体制強化など",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VSzhvSlhtRWtldDhyODcxR0lpWU5WYktscnk3cVhSaFVfZE10VXB0WVBnTHdRWjNIVFd3eFkzaEZiZ1I5OXJRRjhjMDdZU1d3QU16eTEwTzVXbm80ZXVFdHZrZ1R3VlQ4OGR5TXVtMjQ4MWpDdTdoYUdyVHdSUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-29T02:07:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "英、ウクライナに100億ポンドの追加支援 防空体制強化など    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "英、ウクライナに100億ポンドの追加支援 防空体制強化など"
+      }
+    },
+    {
+      "title_original": "石油低在庫下で広がる地政学リスク 小山堅氏",
+      "title_zh": "石油低在庫下で広がる地政学リスク 小山堅氏",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KS0NsY3hNYWg3TE9XSHYtYmU4RXJ4OTNLdjRlaktWRjZXM3RreU5SZW5VUHA5bWZ5LU1UQ0dIckNGbU85S25tclpMbnA2Q3VzeFVHNkRKTkhrWm56Nlc4MHZYY3pjZkJVenNRaw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-29T01:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "石油低在庫下で広がる地政学リスク 小山堅氏    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "石油低在庫下で広がる地政学リスク 小山堅氏"
+      }
+    },
+    {
+      "title_original": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "title_zh": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-29T01:14:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami"
+      }
+    },
+    {
+      "title_original": "米ＷＴＩ先物が約1ドル下落、中東の供給リスク見極め",
+      "title_zh": "米ＷＴＩ先物が約1ドル下落、中東の供給リスク見極め",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmdkJKNldYdGNBczZiaEkxQnlJdC1qR2hEOWtGWWozYm1Bb3ZqbzYtblN3WXlvcWJOU3F3LXRra0x0dTlCZjhDNG1iM3dRZXpxUDkzVlZqbTMyZDd4YXN5QkVUWVFZS3NTcWY1WGk5RlNUVmtFdlBhMmtyVXpNWUU?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-29T00:43:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米ＷＴＩ先物が約1ドル下落、中東の供給リスク見極め    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米ＷＴＩ先物が約1ドル下落、中東の供給リスク見極め"
+      }
+    },
+    {
+      "title_original": "Oil prices fall as peace hopes offset fears of growing Middle East conflict",
+      "title_zh": "Oil prices fall as peace hopes offset fears of growing Middle East conflict",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-29T00:28:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Oil prices fall as peace hopes offset fears of growing Middle East conflict    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Oil prices fall as peace hopes offset fears of growing Middle East conflict"
+      }
+    },
+    {
+      "title_original": "比拉哈里：朝鲜半岛与东亚地缘政治的未来",
+      "title_zh": "比拉哈里：朝鲜半岛与东亚地缘政治的未来",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtYVFpNzBNWnVHX0pPdkJfTVFwckc3SVIyNTFEX1o0d3IyZWtkZUJoUUZUQUZYdDdwVUhIaFFKS3VqZ2kxYUI4VEppYl9URWsyQ0RENi1pZUI5ZlpfTHlVaS1PZXlnNlUzSTRz?oc=5",
+      "source": "早晨报",
+      "source_score": 40,
+      "published_at": "2026-10-29T00:10:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "比拉哈里：朝鲜半岛与东亚地缘政治的未来    早晨报",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "早晨报"
+      ],
+      "all_titles": {
+        "zh": "比拉哈里：朝鲜半岛与东亚地缘政治的未来"
+      }
+    },
+    {
+      "title_original": "Russia Ukraine War",
+      "title_zh": "Russia Ukraine War",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUGx3TmVaQjlCNnZFVFVmVjdhQVhicXdlR0xHcXA2MVd4SUY0aXpiaGlwLUhYWEh0c0tXUVRwYjZwMHlMbHVpa3R2TkRxMkN1ZTBObEdiRldVUXJibEtqMW1NTVctaXJkQnNxdWd6cDdpRjQ2OFVDUEJFWGp4SXpKRDNzTXppYkloSkowUnhqaGhLb191b1BKeQ?oc=5",
+      "source": "TelegraphHerald.com",
+      "source_score": 40,
+      "published_at": "2026-10-28T23:35:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia Ukraine War    TelegraphHerald.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "TelegraphHerald.com"
+      ],
+      "all_titles": {
+        "en": "Russia Ukraine War"
+      }
+    },
+    {
+      "title_original": "El crudo Brent sube 1,26% y supera los 115 dólares entre temores de escalada en Oriente Medio",
+      "title_zh": "El crudo Brent sube 1,26% y supera los 115 dólares entre temores de escalada en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSXRFY0xyOXc2Rl9hN1BhRHhkbF9zMGdaN01Mb2VWY3h4d3VmVzJScldPZEFwR195NlkxTTZGWWN3RmZTYm5hWFdHMlZzSldHR190bVk4bGl2dm90cTFvNlBrSkRQLVBTNVhOazZOaTM3NDNFclo4WWpaSnQ0YzZEVVRfejRnSHgtbUw0amFNZjdVeDN4d0loM2dyVEhGY3owWFc0cFRiaDBUMzMxWTh2WHJRU1d6YVhwME5Td25jV3NtSFVVNEFF?oc=5",
+      "source": "El Periódico de la Energía",
+      "source_score": 40,
+      "published_at": "2026-10-28T23:33:16+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "El crudo Brent sube 1,26% y supera los 115 dólares entre temores de escalada en Oriente Medio    El Periódico de la Energía",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "El Periódico de la Energía"
+      ],
+      "all_titles": {
+        "es": "El crudo Brent sube 1,26% y supera los 115 dólares entre temores de escalada en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Análisis profundo: ¿Se acerca un ataque a Irán y cómo impacta la geopolítica global?",
+      "title_zh": "Análisis profundo: ¿Se acerca un ataque a Irán y cómo impacta la geopolítica global?",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORjlLeWlMeTM0UHh1RThfaE5ZWFAtdnRzeUViOGpwX3JkMWttN2NtaHRhQ2toRGFtZF84NDA0Y19pZXNGcXJwd3ZZWXJTOGpGa09ZeDRnaUY0eXE1c3hPaFhWX0IzLVpidkNCa1hldmRlMzhXSkl1V0VBVnlvTDE3bmJabDBhb0RHUDdRYUszRUUwd3NWcGdrbzc2UmY5MVB4MTZKSW5ZNWNlT1ZySG04UElTWmFteVpuWVowUV85UUVXVnAzZ2pTZ1VJb9IB0AFBVV95cUxONUdWTUhKaFhaWFkxT1I4aktocE95N0wwdHVEWmprUGRPSHh2ZWxqdlRsZ0hsX2gzeTFvSDJWLW10MGRxTDNlOVNxRF82amVQdG5Sc1lqS1VvQVRNa2JOYndfMGdTbVR3OUxXcHhaRzBMV2RGRjc5ZEF4d044cS13bFZBbFdqLXhscjlXX0NiRldzQmpNLXJLOWN2T1JlU3ZtX1RXaEh4MVNvc2tncE16TmhINHU2dVVvTVBBOGdEb2hOckIzb25jSDBOMVlqYUhh?oc=5",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-10-28T23:19:09+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Análisis profundo: ¿Se acerca un ataque a Irán y cómo impacta la geopolítica global?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "Análisis profundo: ¿Se acerca un ataque a Irán y cómo impacta la geopolítica global?"
+      }
+    },
+    {
+      "title_original": "Taiwan entwickelt KI-gesteuerte Drohnenschwärme für die Küstenüberwachung",
+      "title_zh": "Taiwan entwickelt KI-gesteuerte Drohnenschwärme für die Küstenüberwachung",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWVNcWlMTmZ0dUhzNHpLNDZxVnF6dnVQMF9Iclc3N0xIRDVxck9mWnNDT3RKekJkdDBydjZYd3M5Y1lIelJGdzlwVlp6OHNuOXB2anJpcUVLX2ZHUmFPUG5JME9VNjdTcEplM1JOQThwdUlhbHpmNDVwdmVBb3g5N1M1bzRvUTd4T3IwR25Yb0NrVUNtYzBmSHNKalJIR3ZUbERmZW5mNDl0czZTZ1JfNm5jUXZtUmpWMG13QVdzTEJMZw?oc=5",
+      "source": "Telepolis",
+      "source_score": 40,
+      "published_at": "2026-10-28T23:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwan entwickelt KI-gesteuerte Drohnenschwärme für die Küstenüberwachung    Telepolis",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Telepolis"
+      ],
+      "all_titles": {
+        "de": "Taiwan entwickelt KI-gesteuerte Drohnenschwärme für die Küstenüberwachung"
+      }
+    },
+    {
+      "title_original": "原油先物上昇、中東の供給不安再燃 米在庫が予想外に減少",
+      "title_zh": "原油先物上昇、中東の供給不安再燃 米在庫が予想外に減少",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PRU52VktKXzN3SUp5eW1ETldvUnRyS1FYTUVTMW1nZVh5VC10MzJsei1Ncl8tTllNcnB4VERpUldoX0ZUbGI2Umx3RFNhZFdhTjdNaEExM05RblM1RTE2cllSV2ZKSTJEaFVNeFQwWlNpTUdZd0J5U2tVMEV4UTA?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-28T22:35:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物上昇、中東の供給不安再燃 米在庫が予想外に減少    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物上昇、中東の供給不安再燃 米在庫が予想外に減少"
+      }
+    },
+    {
+      "title_original": "Girl seriously injured in wolf attack at German wildlife park",
+      "title_zh": "Girl seriously injured in wolf attack at German wildlife park",
+      "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-28T22:08:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Girl seriously injured in wolf attack at German wildlife park\n- Published\nAn eight-year-old girl has been seriously injured in a wolf attack at a German wildlife park.",
+        "She was inside an enclosure at the Johannismühle park in Brandenburg, south of Berlin, with a staff member and two other children when the attack happened, police said.",
+        "They said in a statement that the \"precise circumstances of the incident are the subject of an ongoing police investigation\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Girl seriously injured in wolf attack at German wildlife park"
+      }
+    },
+    {
+      "title_original": "High-speed train crash kills at least 68 people in Spain",
+      "title_zh": "High-speed train crash kills at least 68 people in Spain",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-28T21:38:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "High-speed train crash kills at least 68 people in Spain"
+      }
+    },
+    {
+      "title_original": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "title_zh": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-28T21:16:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Death of US actress Hayden Panettiere ruled accidental, ending local police probe\n- Published\nThe death of US actress Hayden Panettiere has been ruled accidental, ending a local probe into her death, police in South Carolina have said.",
+        "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs in her system, at the age of 36.",
+        "Citing the medical examiner's report last month that found Panettiere died from a drug overdose, the Greenville Police Department said it had \"concluded its investigation\" into her death."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe"
+      }
+    },
+    {
+      "title_original": "قمة بوتين وزيلينسكي.. هل يمهد ترمب الطريق لإنهاء حرب أوكرانيا؟",
+      "title_zh": "قمة بوتين وزيلينسكي.. هل يمهد ترمب الطريق لإنهاء حرب أوكرانيا؟",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQa3B6WDQzQTFKVkk5QVljb2JxdDBXeFRzZU13MXhMdk5EUHQ4dU4yUFFIYW0yNkwtcUtxaVh2d0lIc0h4elZzWFl0bHhwbXU0WkNtQnlwS3RBMEpvdTNFY0lrd25DQldneUNqc01lNFRHNjZfVWw5MHZTWG13dmg4NXlpZ2pla3RMUnVtWnNRazVDLTA4MERrQlZ4Q0ZxeXV4TTU3Z0tXNUFrNktQX1VTU2JUNzVwdlhFeVNDS2ctM2E2RWkzRW5JWUdzTnFiVlBWRGljclVlc1NwMDd5VTZ1U2hCLVJkaHhXNllLN2oxel9PdjlPeDRvRFFvU25yLVZsV0VoTE1xRTlkc09RRjFMT0hvNlRGbm54Wk1rU0hjSkNEUTNfWVN4OFFrRkVNcFFvZEd1bjZfU2vSAb4CQVVfeXFMTWRKMEtYejcyc2xhT0pZcjM4UmR5c2pLSkdLaThJRE1BN3pNWHpxOGZDMFZzMGN5YzFpVkVsZElRZ05teVE2M01lT2lrWWJKX0FPaW5RZUFxNVJCci1kTklRME1YWmsyZXpKeXZvcG9UZ3lsVk1WNXdvRU5tajgtSnRkTk1CTzJCZXMyMlZXUU0wVnpIeTFyUVZBTjFzdTRFYUhOWXRKNVk1d0VHSldlcXNPVlFfTDZNS3lPVUU2RUxTWEhvYjc1a3JzNGVJNWllbVhZS1MwMENILUJ6Tm93ZlpxNm95Z29wUFpjNnZmZkxqUDd6dUJNMnBkRUJ4T2pzaS16bnpGbkNaWGZaWWpGTEpfSVpQQ0hGWW5NeXdsem92dUFHa0E5MEJiOGliSDAtVGtyd2JCaV9zQmRHdUFn?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-28T20:54:12+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "قمة بوتين وزيلينسكي..",
+        "هل يمهد ترمب الطريق لإنهاء حرب أوكرانيا؟    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "قمة بوتين وزيلينسكي.. هل يمهد ترمب الطريق لإنهاء حرب أوكرانيا؟"
+      }
+    },
+    {
+      "title_original": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "title_zh": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-28T20:24:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Netanyahu's bloc leading Israel election but short of majority, partial results show\n- Published\nPartial results from Israel's general election show veteran Prime Minister Benjamin Netanyahu is leading his rival, former military chief Gadi Eisenkot, but is still short of a majority in parliament.",
+        "With 85% of ballots counted, Netanyahu's Likud party and its far-right and ultra-Orthodox Jewish allies were on track to win 53 seats in the 120-seat Knesset.",
+        "Eisenkot's Yashar party and three other Jewish opposition parties in his bloc were set for 48."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Netanyahu's bloc leading Israel election but short of majority, partial results show"
+      }
+    },
+    {
+      "title_original": "Ukraine war latest: Oleshky ceasefire holds as Zelensky secures new aid pledges",
+      "title_zh": "Ukraine war latest: Oleshky ceasefire holds as Zelensky secures new aid pledges",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX201R2dMN1c5NjJpb1VnS21ic2dRYWJQU3VzcDJ0Z1d5cF9zX3hoVmxwb3d2T3QwUTZJNl80OUZyVUZoZC1KcE9yYUFYR2tsNlF5V193ZWVZd2FzanJrdkhvRk5wZ2ROM1dNZU9KdVZ0Z3JyUWhDRlJqR3VCaFBkSnoxQ203cW85NmlWSjBkQVBYLV92MEYyYTBZX1JxWjRzS2tBSUw2V1RwNDA?oc=5",
+      "source": "The Kyiv Independent",
+      "source_score": 40,
+      "published_at": "2026-10-28T20:20:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war latest: Oleshky ceasefire holds as Zelensky secures new aid pledges    The Kyiv Independent",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "The Kyiv Independent"
+      ],
+      "all_titles": {
+        "en": "Ukraine war latest: Oleshky ceasefire holds as Zelensky secures new aid pledges"
+      }
+    },
+    {
+      "title_original": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
+      "title_zh": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
+      "url": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-28T20:15:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Pete Hoekstra, controversial US ambassador to Canada, has also accused Canadian officials of interfering in US elections The US ambassador has suggested Canada could be blamed if Republicans perform poorly in next week’s midterm elections, the latest intervention from a controversial figure who has been accused of inflaming a bitter dispute that has angered and baffled residents of both countries.",
+        "On Wednesday, CTV news reported that Pete Hoekstra told business leaders at a closed door meeting that if a number of swing races – including Maine and Michigan – go to the Democrats, it could make things harder for Canada because Donald Trump might try to blame the loss on it.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "US ambassador suggests Trump could blame Canada if midterms don’t go his way"
+      }
+    },
+    {
+      "title_original": "El informe pericial contradice la versión de Zapatero: ve poco probable que las joyas se fabricaran en Oriente Medio y antes de 2007",
+      "title_zh": "El informe pericial contradice la versión de Zapatero: ve poco probable que las joyas se fabricaran en Oriente Medio y antes de 2007",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10T001OWFsNXlGa1ZzVVJmdjdyTDA0TUdkNE95Q2RWVHl1N2V1S1FjazlzNXRmcGh5ZFpYYTBnMVRwdWVsbEpuMGVTblRma0VoSW1UOUg2RS1ldFNXYnJ3Z3VHbVlVRkNXYWVFMkpzT3MweTJkZFlVMzdR0gF6QVVfeXFMTmo2eXV5NTkxbXNrLTFKNUozMkdzRER1OFdEWllWV0dVNFRfWW5IN3p0RjIxd0g1R2cwUjg5cG85WXR6alhvMTA0LUh2cGRJTE1LVXJQNEkzWkowb0podkRVQXNoc2YtZG1FaFA5bnJuTjBtbGwxdUFHM2c?oc=5",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-10-28T19:42:47+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "El informe pericial contradice la versión de Zapatero: ve poco probable que las joyas se fabricaran en Oriente Medio y antes de 2007    El Mundo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "El informe pericial contradice la versión de Zapatero: ve poco probable que las joyas se fabricaran en Oriente Medio y antes de 2007"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Minenräumung in Oleschky dank Waffenruhe im Gang",
+      "title_zh": "Ukraine-Krieg: Minenräumung in Oleschky dank Waffenruhe im Gang",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmdsWXd5dUNCYVVxaVNpaWJhRHhOMVc0Wk1LZ1VmZUh1N1Z0dHh5eEZlVGVHQ0twS0JERFRwTk5FMnpDY2stY2x0OFFIYmNIVXJienlieExmNGo1ZWxlMF9uZGdiUTZVUXpiVU5sSjRNMjNWX3Q5ZWQzMFZmRmJpTnNFd3JLa1RWNFAtSlZtY1V6Rks1QXNCSnlLaEdXVGVua1VoelhSa1A5Rnhqd0tUZHhrWmxUZw?oc=5",
+      "source": "TAG24",
+      "source_score": 40,
+      "published_at": "2026-10-28T19:23:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Minenräumung in Oleschky dank Waffenruhe im Gang    TAG24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "TAG24"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Minenräumung in Oleschky dank Waffenruhe im Gang"
+      }
+    },
+    {
+      "title_original": "NATO Deputy Secretary General at the Kyiv Security Forum stresses Ukraine’s urgent need for more air defence",
+      "title_zh": "NATO Deputy Secretary General at the Kyiv Security Forum stresses Ukraine’s urgent need for more air defence",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdDE0bUg4VlpEUnRvejhQaklVWnRNZ3ltemtxWmIyV3ZxMGZnOERPWDFGdTJuYTdXUFdkaDVyMlRud0tpdDBXVXBaWU9uMnNVcjZ1bWlRTDhsTVZVYUhiSVo4U1c2WFdSR1R5d2tCSFZpOTM2a2x5TG4yMVpDOVVMbnB4UEZkRllwZUxrUk1JMktsa21ZR2t5Um9UaS03MjRGVlNkd2k4aWpfeE85WnVaeEpfalMzU05CSWdnVlJGY2xiRmdHRmc0a0NjamcxMk9zOHhHeGtYSWtZNEl6YWlleUxjT2tRVWR4Y0xCSWN4c1JsLXF6MFZZMDRhVkpPbWlWeUE?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-10-28T19:08:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO Deputy Secretary General at the Kyiv Security Forum stresses Ukraine’s urgent need for more air defence    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO Deputy Secretary General at the Kyiv Security Forum stresses Ukraine’s urgent need for more air defence"
+      }
+    },
+    {
+      "title_original": "Secretary General highlights strong NATO-EU cooperation during visit of Commissioner Kubilius",
+      "title_zh": "Secretary General highlights strong NATO-EU cooperation during visit of Commissioner Kubilius",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ2prMUpoUmdOMWdabWZqMDU3YnAwSzNISkVaak1VTEUyT3Yxd0JLdG0zMG5ta0NER0V6QS1qSE9nWjA5cllPcGM3QUpHUGt4LWdvdzd6ZVNaSmRPM3VPRXctUUFYT2ROX184SEVkQUtQbEQ1OUhsSlZVXzlwZktRRGxRRHM4bFd6UG9qd2RPd3MyN1RQV3VNUEhuU0dicHdXc2Qwa3R5Q3RLa2hBQ0NpOEpBaHRaMTJ4VEE5bDEwVmlPZ2pDV1NNWUNNUFQ0YWg0TnpfZkxVcThoYU13SW0xMUxIV1VUMEI0ZHpQY25WYw?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-10-28T18:41:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Secretary General highlights strong NATO-EU cooperation during visit of Commissioner Kubilius    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "Secretary General highlights strong NATO-EU cooperation during visit of Commissioner Kubilius"
+      }
+    },
+    {
+      "title_original": "إقبال هائل على التصويت بإسرائيل وعدم اكتراث في بقية الشرق الأوسط",
+      "title_zh": "إقبال هائل على التصويت بإسرائيل وعدم اكتراث في بقية الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMijARBVV95cUxQLUVEOGpWcmJ6eVVhdWkzS0NjQjA3b2xqUExkLV80YlVBaFM2NVdPanU3NkxtNGxwWDRiSmotcUJiTXRrUW8tcG9JSmRuWmloR2NuZDYyRVJUYngtNEdCOFRaSmhjdUVWR2JJOVZ5U2ktWV9PRG9Gc2dYaE5KU3RkSjY2WEsxSlhHc0g2dWtQdDZCNW84djBldDI1LVNOYWlMV0pHT2MxeXJmNGN6cmJhSjRwMFJiX3Q0ZWpFd3d1czNfcVZOUWxkWWxIZmJwOFMyUUlMQ0dGbVBXU0M1SkNYN0wxOThBeGRKTlAxZ2UzeFFxcFJiTzR4YURReDYxVXdBNUhGV3c5dk5sb0JqTGlPbmFYbFNBa3RUQzJzNmJxN2g2cmlfdFZ4YXV2dVRtNVJjaXBzdUpyUmRWSk9WLVlxd2lyRFZ6TF9YLXRXekstb0VzMTVLU0lOY01PQkhSSHd1M3d5QzFEckU5TTlYRi1ybFBOdnpPdTdGdlo5YXVNWTdrRlRINExQUFF1dnBveE1kOS1Md0FVcUZUc1BaRHZ0azRJQ1JVd1ZRamJFS0lQaVVDMFpYN2VRRmxCS3E3T245d01ubFhfaW41blEydG9hXzBZaXJHQkItZ0JSbzZlaWJNcXlWNlZ3RklldTVGc3pVYmhOMUp3Q1pHMWVBYUJETFpFaURudDhrOTMxUg?oc=5",
+      "source": "SWI swissinfo.ch",
+      "source_score": 40,
+      "published_at": "2026-10-28T18:22:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "إقبال هائل على التصويت بإسرائيل وعدم اكتراث في بقية الشرق الأوسط    SWI swissinfo.ch",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "SWI swissinfo.ch"
+      ],
+      "all_titles": {
+        "ar": "إقبال هائل على التصويت بإسرائيل وعدم اكتراث في بقية الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Royaume-Uni : un budget pour répondre à la crise au Moyen-Orient",
+      "title_zh": "Royaume-Uni : un budget pour répondre à la crise au Moyen-Orient",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSk9ISjU5UzExMzlqV0dyTXhXczBQT290U3JKUldWWmZqMktseW9nQV9iUGl4anhjQktoTUlRN1VLb2poUERnRjhZYjZLYTNETDc2QmhUWm9fYVNkU2EwSVZ6Z25Vdk4zMUNNWTh6SUJ4bVpGQUpVZWVfVTB2bzRrWWROX0Z3WHVrWWJIdlIxOFpfX2xDSHN4dTVCZzJMUDJtU3c?oc=5",
+      "source": "l'Opinion",
+      "source_score": 40,
+      "published_at": "2026-10-28T18:15:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Royaume-Uni : un budget pour répondre à la crise au Moyen-Orient    l'Opinion",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "l'Opinion"
+      ],
+      "all_titles": {
+        "fr": "Royaume-Uni : un budget pour répondre à la crise au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "Luftkampfkommando Aserbaidschans empfängt NATO-Delegation",
+      "title_zh": "Luftkampfkommando Aserbaidschans empfängt NATO-Delegation",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXFCbGo0WG1hdW5BZ2hxZ2VtT0ZON3JWc2o1a01KajFHb3NwVWlMbzNZSWxwSTRJY1oydElobGxqZl9JaDJ4SEVTS2N1cVI0MmRkZlVJMEViSVFld2tuejR3YTVOYTFHbDdCUWE4ZV9NYlVwTEdmT2RYR0Jndmc2REVCc3IwWk43dWRLNVNvYnZ1YkdOamtZQw?oc=5",
+      "source": "azərtac",
+      "source_score": 55,
+      "published_at": "2026-10-28T17:59:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Luftkampfkommando Aserbaidschans empfängt NATO-Delegation    azərtac",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "azərtac"
+      ],
+      "all_titles": {
+        "de": "Luftkampfkommando Aserbaidschans empfängt NATO-Delegation"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient: «Les pays du Golfe tentent de se désolidariser de toute nouvelle attaque israélo-américaine",
+      "title_zh": "Moyen-Orient: «Les pays du Golfe tentent de se désolidariser de toute nouvelle attaque israélo-américaine",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeEhIcmNvVW96ajB6NWtHdGU1cXRJZVcyWXdiNzFKYmNEUHBaZk1adURfVFpRS0JEXzhTUU5nR3RSS21tWGU3a0hROEx0OExLbEdmNE94MEpWX1N0UVdWY05oeV8wc3A4VnhLdDBodWF2V3ZoLVlJUkdzYUV1djlzWUNuRWhqQ2lvMXhYbnJmZ0hPVURnemtLanpDSGp6Vl9hMHFZQS1HaFExWndLbUUtRTRWa3JKNWhEbTFHVmI4NXZKbGhDeC1iN04tdUk1ZTBvbXJyV09hNDFzTzJJcXZzdjlsMFVLTmpnUjZfeUFhX0RSZFJZ?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-10-28T17:16:45+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Moyen-Orient: «Les pays du Golfe tentent de se désolidariser de toute nouvelle attaque israélo-américaine    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient: «Les pays du Golfe tentent de se désolidariser de toute nouvelle attaque israélo-américaine"
+      }
+    },
     {
       "title_original": "غزة والضفة ولبنان يترقبون الانتخابات الإسرائيلية... هل تغيّر صناديق الاقتراع واقع الحرب؟",
       "title_zh": "غزة والضفة ولبنان يترقبون الانتخابات الإسرائيلية... هل تغيّر صناديق الاقتراع واقع الحرب؟",
@@ -126,6 +776,81 @@
       ],
       "all_titles": {
         "ja": "3カ国協議、11月6─10日の開催望むとウ大統領 ロシア「欧州は参加せず」"
+      }
+    },
+    {
+      "title_original": "泽连斯基：俄罗斯希望与北约达成协议重塑安全秩序",
+      "title_zh": "泽连斯基：俄罗斯希望与北约达成协议重塑安全秩序",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nYzllN0pXN1FrSlVENG01eGw2WmxMUXRIRndGdGJhN3JBcGNkZUV0elpzVDl3dHNIbmxxUHBodGxBODg4dVl0SW9KT2RHM3ZUWVFkTFVn?oc=5",
+      "source": "QQ News",
+      "source_score": 40,
+      "published_at": "2026-10-28T15:24:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "泽连斯基：俄罗斯希望与北约达成协议重塑安全秩序    QQ News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "QQ News"
+      ],
+      "all_titles": {
+        "zh": "泽连斯基：俄罗斯希望与北约达成协议重塑安全秩序"
+      }
+    },
+    {
+      "title_original": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing tendiert am Nachmittag fester",
+      "title_zh": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing tendiert am Nachmittag fester",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObDN3b3MzQ1BvRGMtcG16MkgzZFFLRTJlVy1oaTVqU2FBTWxEbmYxbktQRmQxeVdYX0gzeHQ2LVVJLXNCTjI1MUxXd0dIZzY4UHhZQ3lVNVAyTEQ3Y2hXU1lubWNoQ0R3WlZ4OGU2dld3M0d0dWxhVkFLQWpuekxPN2dpS0dBc0hSZ3h6RGJRWS02M2hUUjBHdFdOcGFmUFZsSjBOR3RXNS1qQ2wtWmdidk90X2pRUQ?oc=5",
+      "source": "Finanzen.net",
+      "source_score": 40,
+      "published_at": "2026-10-28T15:11:55+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing tendiert am Nachmittag fester    Finanzen.net",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Finanzen.net"
+      ],
+      "all_titles": {
+        "de": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing tendiert am Nachmittag fester"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Warum Putins plötzliche Gesprächsbereitschaft die Europäer alarmieren sollte",
+      "title_zh": "Ukraine-Krieg: Warum Putins plötzliche Gesprächsbereitschaft die Europäer alarmieren sollte",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNzRlOU9VV095T05WRWVvdUt1Zlk4aXd0YTFlcVR0QkJpaXJXWlItOTQ5Rlp4LTY4VTJLXzlrOUFyYzZCNGFxRXhjdWdnZktKUVFOY3VhN3p0NzRiRWpiNkJBeXNqdFVjb0VCT2JOM0g5QkFwYlNyaGpZdUJyTDdiclhpVFNuNGdCOWxEOWRLZTVZekJDNldHTFQxR2VSOEljTmtHN1UxbFJUMDhKZVJvaWdwd092VTkzY1hObTY5cnNOUUdESGxBYk1HX3hvTTk5OVBfMjFxZW55dHdoNmxWei1JZEJDZWxyZU5pc3J4NkNiWENxa1E?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-10-28T15:11:05+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Warum Putins plötzliche Gesprächsbereitschaft die Europäer alarmieren sollte    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Warum Putins plötzliche Gesprächsbereitschaft die Europäer alarmieren sollte"
       }
     },
     {
