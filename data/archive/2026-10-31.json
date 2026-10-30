@@ -1,0 +1,882 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-30T17:01:18.997830+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "ローマ教皇、米中間選挙で郵便投票 移民や中東問題でトランプ氏と溝",
+      "title_zh": "ローマ教皇、米中間選挙で郵便投票 移民や中東問題でトランプ氏と溝",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56ZTZZVjlDQk1tS1YwNlcybVB6YlliOEV3NmFWbmg4b3dyWU9XUkp4Y05VdDhQQ2JaamVwbEQzSURHU2RWcWc5eDNNS2Myd2Vzc05SeTJ4STBoZTg4QTQ0ZFVJVTEtWEJ1eUNnSQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-30T16:33:13+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ローマ教皇、米中間選挙で郵便投票 移民や中東問題でトランプ氏と溝    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ローマ教皇、米中間選挙で郵便投票 移民や中東問題でトランプ氏と溝"
+      }
+    },
+    {
+      "title_original": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+      "title_zh": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-30T16:26:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ceasefire allows evacuation from devastated Russian-occupied Oleshky\n- Published\nHundreds of residents of the devastated Russian-occupied city of Oleshky have been evacuated, Russian and Ukrainian authorities have said, following a humanitarian ceasefire brokered by US First Lady Melania Trump.",
+        "\"Everything unfolded without any incidents, and both sides noted the high level of organisation,\" Russia's human rights ombudsman Yana Lantratova said.",
+        "Ukrainian authorities confirmed the evacuees were on their way to southern Russia, from where they will travel on to Ukraine through Belarus."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky"
+      }
+    },
+    {
+      "title_original": "'A wave can hide a lot of weaknesses': Dems question if they'll learn anything",
+      "title_zh": "'A wave can hide a lot of weaknesses': Dems question if they'll learn anything",
+      "url": "https://www.politico.com/news/2026/10/30/democrats-message-voters-2026-01141508",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-30T12:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "A favorable political environment has allowed the Democratic Party to paper over persistent problems.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "'A wave can hide a lot of weaknesses': Dems question if they'll learn anything"
+      }
+    },
+    {
+      "title_original": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "title_zh": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-30T15:59:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution\n- Published\nUS death row inmate Christa Pike has released her first public statement since her botched execution in September.",
+        "\"There hasn't been a moment since that night when I haven't been in pain,\" she said in the statement.",
+        "\"My body hurts."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution"
+      }
+    },
+    {
+      "title_original": "US tech stocks see sharp falls over AI cost fears",
+      "title_zh": "US tech stocks see sharp falls over AI cost fears",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-30T15:46:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US tech stocks see sharp falls over AI cost fears\n- Published\nUS stocks have continued to slide as concerns continue to intensify over the increasing costs of the artificial intelligence (AI) build out.",
+        "Shares in Intel continued their overnight slide into early trading on Friday, falling as much as 30% after the chip maker warned of a weaker computer market even as it plans to increase spending on AI.",
+        "Amazon shares fell as far as 6% before recovering after its reported earnings on Thursday evening fell short of investors' expectations."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US tech stocks see sharp falls over AI cost fears"
+      }
+    },
+    {
+      "title_original": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "title_zh": "Pope Leo XIV becomes first pontiff to vote in a US election",
+      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-30T14:48:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Pope Leo XIV becomes first pontiff to vote in a US election"
+      }
+    },
+    {
+      "title_original": "Russian, Ukrainian humanitarian officials enter Oleshky",
+      "title_zh": "Russian, Ukrainian humanitarian officials enter Oleshky",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3FPMjQxSDQ4emRET29tVjR5VXhqVldKY0dqUVZJNjVkS0RYa3hKd3liRkdCVnAtdmRjbUpxUXVEMXlqLTVJUGhwOEdnZzQ3ZmYxYkFIRDdCVWZkc3FFS0dsTENQZHFaR01kckcyMVlXekZQOFhIdWstMEY3NE1NYVdnN2FtOTBIbWxwMDQ3SHZOYW56Vmhtel9LZDlxQUtWYV9rYlRkNDlkUdIBrwFBVV95cUxOaXBPQkEwdmRTcHZpS3pZVG51b25pX1pMdHRjT24wUjFVWjNRNTN2cUtWTlVzaFdod3RraG5qQTBWa1Q3UjJGa2V0bWE1VUtBMTJpS2NaZnFSa1k2RTBHQTlLblZtdmJraUVpU1d6TWpvQWxJc2lKOWVlUDFnNG5vUDdJM1VIbC1Ga3hyM0xrdkYteXV1X0R6Z3BydVNWVkZOOUN2eVo3N3Y2NS1paFRV?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-30T14:33:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian, Ukrainian humanitarian officials enter Oleshky    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russian, Ukrainian humanitarian officials enter Oleshky"
+      }
+    },
+    {
+      "title_original": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+      "title_zh": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+      "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-30T14:08:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil.",
+        "Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect” , has made him a laughing stock, with Brazilian newspapers and commentators raining a barrage of scornful adjectives down on the conquered candidate.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery"
+      }
+    },
+    {
+      "title_original": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "title_zh": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-30T13:46:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot"
+      }
+    },
+    {
+      "title_original": "Bulgaria to join NATO’s initiative against lower-level air threats",
+      "title_zh": "Bulgaria to join NATO’s initiative against lower-level air threats",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdkR0bENBMEpvTjlmRWs0RlRJeXRzbEZwSFRzN0JjZjFBTzQ0MDVPRkxoSXFpZ2FCRG9hNXJoQzBOM2JVNXJfdXJwUVRQMlZuNzVlc1llRFpWUEZ5bTUtZmRLck9oVkFhTVJISS1OeUtBaVZuSzdYRDZvcEhPTkxhY0tYcmszWFVWX1FrMVpUbXlGU3ZrUXJOYXdpRnZzTDNsX0tUV050R1RWQjZOM28wU3M4NDFYUExSQTJrS1NRT2Z6SDFnQ0FiWEd3?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-10-30T13:42:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Bulgaria to join NATO’s initiative against lower-level air threats    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "Bulgaria to join NATO’s initiative against lower-level air threats"
+      }
+    },
+    {
+      "title_original": "بحضور لافروف.. حربا أوكرانيا وإيران تخيّمان على اجتماع مجموعة العشرين",
+      "title_zh": "بحضور لافروف.. حربا أوكرانيا وإيران تخيّمان على اجتماع مجموعة العشرين",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQT05md3lOTVZzTTN2X3JGaGFZdXhHZDhSeEJlNndjeTFCOXNvNW1RckkyQy1mRFlzeFJfanlVbzd3X3JxVHlNeDZrclJPSzhQN2sxMmdUd0hkcjFkU2lnbjVMWjVxMjI4NjhzWVFfUEdDbGplSU1Pa0ZNcEh5SGZoWF82c1ZROU8yeWtTRFl6Z3g0dExzVkJ5bTJseHAzZFE2eHlKV0tOc1BtTVZrMU5hdGtRNWxTR2dWMnU5OFBFRTg3YVJRZ3RPU2Iyemt6cGZQRnFtOEFKbGUxU2lSZ1NjUWMwNzRfRWxDcmtSS2hOWGtvR3JCZlBGR1V3RzI0bERzbzBZbHNDeWg3M2ZBaFAzVnMyM0RQSWpYUWcyYUY4N0g0cHJ0Um1qSnBWVHVQdk1HWVHSAbcCQVVfeXFMTXFkQVI3aUpCbzJfT0RrZG9XaFQxeC1INzFySjBzZ1VsM2xNTWNYc25hdExTYjlWbzZNeTcwUzhCTGJrb2E0MmdtUnZPQnZ0LVJ0UTFxd0pQRW9Ib1BzNzZZaGVGV1VfOG45UjFZQUgzZVFwMnhIZVJaTHNZbE1NR3lZamdENHBDS1VLeWdON1pLbkV6VWtabFhGSFFLV0J0dzFTQ1JaeElqR1djM0FzMU4tOVRoQ0pYUzc5YWFxdVUyZG9xWXI1a2pkNGFRZ0ljczAtdUxRTlNnc2hMVlJGa2VtMkJvVEV5YXlsa3o4Ykw2MmpKN2lCVWhEeDRjVjc3MUloOEFDeEZFREpLZnFxOWo0OWJINk1fVFhvaTBLS0RYb3BQcWowQTJGYmZFazZTdFZ1djAySWM?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-10-30T13:04:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "بحضور لافروف..",
+        "حربا أوكرانيا وإيران تخيّمان على اجتماع مجموعة العشرين    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "بحضور لافروف.. حربا أوكرانيا وإيران تخيّمان على اجتماع مجموعة العشرين"
+      }
+    },
+    {
+      "title_original": "انخفاض واردات النفط اليابانية في سبتمبر مع تراجع الإمدادات من الشرق الأوسط",
+      "title_zh": "انخفاض واردات النفط اليابانية في سبتمبر مع تراجع الإمدادات من الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxONTVUc1o2Q1owQ2Z3WS05c1BEbGxrdWNmUG42YzNCQmhBMDdRUEtRMjN2eHNTQWU1Yk5sYkFBVzh2eDc4cUVmTUNzb1p4YmhSb2EtcUxSWUk1a21lWUlYRUZYbWRIbjR5R1JvT3h3VnpFYW84NEVlN2N3b2xuRDFBX3F6bFpxaUJHaVNaY0NjVU1yelU1N2JWck5tWG1oWHZEMHFpZTVBWnNXX3ljamNPN3RCOGNEU1M2Y2xvYnd0b1hXTVBFQXBwalpZSlM3RHJPZk05NlY1c0cyNDJSZi1pYmY4WFFZWGhMV3puUnJBcnRfaEw4Q3lQVGNfQnAtRUVEV2VIbm9ZQkljN3FTWDkwMnFZQWFmQ1NIVHJHOV9CM1BBVUtuOU1BVUNUMkk4bTQ0MUF3cDBKNEs1VGYxVk9XOWhaWC1fTFEzNjFJOXpSQWNlR3Q1TjFPQ2dPVXRkS2ExSS04dnhNZUZYOGcwQXVIOHNPOG9hX2NZbVpMR0t4Q1lBa3pGbnlCTnZkdGZrSTRUVnVXYUNuczh6Y1RpbFlHQXZWWkN5dEQzWnFqTTR6LWJzNTMzNmhmcTdjY2VfSDdiSkM1eHJiSloyMF9RRXY0anVZSk9pUTZIcXYwY3oxUGRkZ1VaQjVWRTBTWElCVXlHOUpXZUNjVjhKNVpXczk3YzBLdWxKRi16T3JMMk1sTTRZeEpMLVhCdk5yLTdycFpfTmg4WGFnT3JfZ2MtUjVySEZQa3ZFVV9HamZxUGV6VEx6SUNUVHppbUszUS0tX1A0ZEhGbTQyTTZtRkprSmVN?oc=5",
+      "source": "CNBC عربية",
+      "source_score": 75,
+      "published_at": "2026-10-30T12:45:28+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "انخفاض واردات النفط اليابانية في سبتمبر مع تراجع الإمدادات من الشرق الأوسط    CNBC عربية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "CNBC عربية"
+      ],
+      "all_titles": {
+        "ar": "انخفاض واردات النفط اليابانية في سبتمبر مع تراجع الإمدادات من الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
+      "title_zh": "Swedish academic says he has been barred from UK over event with Palestine Action founder",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l32jdlvl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-30T12:36:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Academic says he has been barred from UK over event with Palestine Action founder\n- Published\nA Swedish climate academic says he has been barred from entering the UK because he was due to speak on a panel with a co-founder of Palestine Action.",
+        "Andreas Malm told BBC Radio 4's Today programme that he had received a letter from the Home Office notifying him that his presence was \"not conducive to the public good\", with no further details given.",
+        "He said he could not \"see any other explanation\" for being denied entry than his scheduled appearance with Huda Ammori, a founder of the group, which is a proscribed terrorist organisation in the UK."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Swedish academic says he has been barred from UK over event with Palestine Action founder"
+      }
+    },
+    {
+      "title_original": "China denies allegations of spy operation targeting Nvidia CEO",
+      "title_zh": "China denies allegations of spy operation targeting Nvidia CEO",
+      "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-30T12:20:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "China denies allegations of spy operation targeting Nvidia CEO"
+      }
+    },
+    {
+      "title_original": "局地停戦のウクライナ南部、ロシア・ウクライナの人道支援代表団到着",
+      "title_zh": "局地停戦のウクライナ南部、ロシア・ウクライナの人道支援代表団到着",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42UDc4bmlkLWJoMk5NWU85UjAyWEtXMnpnNG1sSWhyTFhyOXJydXN2cURPZGVrZnZWUmRraEJSR1RfZUVJZDlLYTJ2dHZpYjlRbi1TVjBnMW4tTGRNUmVnM0JzSzhfNlpDa1hzcw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-30T11:26:03+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "局地停戦のウクライナ南部、ロシア・ウクライナの人道支援代表団到着    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "局地停戦のウクライナ南部、ロシア・ウクライナの人道支援代表団到着"
+      }
+    },
+    {
+      "title_original": "NATO Military Chief Sees No Delays to Patriot Deliveries to Kyiv",
+      "title_zh": "NATO Military Chief Sees No Delays to Patriot Deliveries to Kyiv",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUk5RYm1ZNmRuTGpObHR0cExSNkpxWGxJNG8yaTNPSDd4eTU1YVptVnpQLWZpWkF0N3JzU1kwVW5rSDFVdjY4Y2pLRFJmY2Y2WGdRUHByZG9Wc2ZuUjhyTVVuYVFrUUZBZno5aGQ2TURJRHNxSDB3MFZxa2hIZXJNNVRNc0cweEo0MGl0d01GYkZ6NlRPT0x6VGxrNjQ0Ni1VN0d0aTBLWlh2eXhaSm00UVpWSzJSdw?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-10-30T11:14:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO Military Chief Sees No Delays to Patriot Deliveries to Kyiv    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "NATO Military Chief Sees No Delays to Patriot Deliveries to Kyiv"
+      }
+    },
+    {
+      "title_original": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
+      "title_zh": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGVqeWNSelgtRE1YQlBIR1kwc2Q3UVJNRHMwMVpIdVdreVRXZkZfUURSdlZnY3FhTGFELWx5Z1NoQ0hRY1h6bFNqeE5BNElSbk15c2lzaG9oNWtEVDZSZE9sUGlyZVJua3dMRjUyX21TT1Q1NmJNT3RXXzhycEZfYXBaYTd1LUpVZ1JER3NVRXp5eXNtNlc0LUZ5UnRYQzI0SGpZQ1NRNNIBrAFBVV95cUxOMGY0T3ctZVVVMnVFRmtldl9wWHpxRmZnRTBBWWNZZE9iV2QzdzZuY0c5X3dEazIteGxINGRpZFVURFRoQjZ4YzhGUEJuZ1g4RUs3SkxvSGRfVi1JS29hX1V2bU5PYnRHUFFVdkxnMWtWMDBYYi1MWkZpcWtPcDVpV3lQTGhXVms2c0tPZmZoaWJmZnA5bDRGV0EydVJCRHR2d0xhMk1GNjRzaFhl?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-30T11:11:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta"
+      }
+    },
+    {
+      "title_original": "Aid convoy enters besieged Ukrainian town Oleshky",
+      "title_zh": "Aid convoy enters besieged Ukrainian town Oleshky",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0ZDNlRPTjdlM1JYRkNQblBzWVNPSnhkR0V0VUFyalIySzRSRGpzMnBudnk3d1V2dWhZR1VKSHR1Nks2cjB1V3NfMy1LODhBUjM3Y1lTODJhamxWVHl2ckY0U2lXLVVJTE1zM1d0WXBmN0ZlcDdocE1SN3NIVEo4OG1UN0s0Q0lYNFkyM1doZHU5eDY4ZXfSAZsBQVVfeXFMUFBudWpheVpPLWJDU25aZ3FCQmFIcS1icURldFJaeTZDaHhPZ1ZscVEzZTd1WVZsa242cUxjSW5iTGNYNEVuU1d4X0hzcFF1dTFPOUdkcGxGcFNFd3JhTTRScU5Kekd6Q0dXdTJoTkIyTlBGeUY3aS1JYTFPWW1NNUNOTnRfRDN2ajVhYUhmQnhiTnNTYmFtZm5MSlk?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-30T10:52:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Aid convoy enters besieged Ukrainian town Oleshky    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Aid convoy enters besieged Ukrainian town Oleshky"
+      }
+    },
+    {
+      "title_original": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+      "title_zh": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-30T10:07:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms.",
+        "During a particularly intense thunderstorm in Antalya, a coastal city in the south-west of Turkey, the formation of a tornado resulted in the deaths of four construction workers on Tuesday.",
+        "Authorities in Greece and Turkey have released severe rainfall and flooding warnings, as a further 100-150mm (nearly 4-6in) of rain is expected this week in central Greece and western parts of Turkey, with locally higher totals possible."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Severe rainfall and flood warnings issued for central Greece and western Turkey"
+      }
+    },
+    {
+      "title_original": "El Círculo Mercantil de Málaga analiza el impacto de la geopolítica y la inteligencia artificial en la economía",
+      "title_zh": "El Círculo Mercantil de Málaga analiza el impacto de la geopolítica y la inteligencia artificial en la economía",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQk5DZ1RQQUhvZHVKVk42THJmOXVWaUNjQWlfYzZZa2JUcVl6SzFHeXhSNkJZamMxN2o2WnYzU0dkN0VoMm9qU0JnY082T19NZEdpZlYxZXBWMzFmSVRaQXZ4MEtTWkxvQW5ieVZrZHBlZkhYMzBVRlpfZkYxdW9FWWJHLXI0VHpMWFkyZHlXT01qaFJVMG5FTGU0Y3ctNUdrYWo4YUJLTzVMaHZNcnlHbXBuMDYtQllpT2lNNVJ1eDhPYUd5VXFtdEhrVVVnUElOcVlGY3FuUmpTLV9lLW5lNEFtOVhZeEZnYndERWlRbXM1LVNBcEwtYWluQUFpT1NjUnowTA?oc=5",
+      "source": "El Mundo Financiero",
+      "source_score": 75,
+      "published_at": "2026-10-30T10:05:42+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "El Círculo Mercantil de Málaga analiza el impacto de la geopolítica y la inteligencia artificial en la economía    El Mundo Financiero",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "El Mundo Financiero"
+      ],
+      "all_titles": {
+        "es": "El Círculo Mercantil de Málaga analiza el impacto de la geopolítica y la inteligencia artificial en la economía"
+      }
+    },
+    {
+      "title_original": "Josh Shapiro aims for a strong finish in a campaign with 2028 implications",
+      "title_zh": "Josh Shapiro aims for a strong finish in a campaign with 2028 implications",
+      "url": "https://www.politico.com/news/2026/10/30/josh-shapiro-campaign-2028-implications-01141906",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-30T06:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The Pennsylvania governor has more at stake Tuesday than other 2028 contenders.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Josh Shapiro aims for a strong finish in a campaign with 2028 implications"
+      }
+    },
+    {
+      "title_original": "Shapiro takes the inside track",
+      "title_zh": "Shapiro takes the inside track",
+      "url": "https://www.politico.com/video/2026/10/30/shapiro-takes-the-inside-track-2215851",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-30T05:45:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Shapiro takes the inside track",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Shapiro takes the inside track"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro",
+      "title_zh": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWt0VWJyTE1EbGtrSXlMd0NBcVZuZE1nMV9tMkNTVzVrQzFjTTVrZ1F5alhlVEJPdExmakltQkkybkRmNmd5X1ZEMTJ0QnZFNGFNejRPMG1jenhjQVRadEVUZTVnNmtJNDNnVzVPNlBSbGNIYjVGRml0QmlWc3Iyb1lEY09nbVE4TnluamRxdXJyZzR2SFA0a2J0QzQ4QlRFSUtJZ1d3X0FLNF9T?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-10-30T09:36:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro"
+      }
+    },
+    {
+      "title_original": "Poll: Americans don’t trust polls",
+      "title_zh": "Poll: Americans don’t trust polls",
+      "url": "https://www.politico.com/news/2026/10/30/poll-americans-dont-trust-polls-01141115",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-30T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "New data from the POLITICO Poll shows just how far the industry has to go to convince a wary public.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Poll: Americans don’t trust polls"
+      }
+    },
+    {
+      "title_original": "‘It could be quite a brutal evening’: GOP braces for some once-unthinkable losses",
+      "title_zh": "‘It could be quite a brutal evening’: GOP braces for some once-unthinkable losses",
+      "url": "https://www.politico.com/news/2026/10/30/republicans-brace-for-losses-2026-midterms-01141576",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-30T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Some GOP incumbents are still begging for more money in the final stretch.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "‘It could be quite a brutal evening’: GOP braces for some once-unthinkable losses"
+      }
+    },
+    {
+      "title_original": "The nation’s cartoonists on the week in politics",
+      "title_zh": "The nation’s cartoonists on the week in politics",
+      "url": "https://www.politico.com/gallery/2026/10/30/the-nations-cartoonists-on-the-week-in-politics-01141593",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-30T05:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics.",
+        "The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes.",
+        "Here's an offering of the best of this week's crop, picked fresh off the Toonosphere."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The nation’s cartoonists on the week in politics"
+      }
+    },
+    {
+      "title_original": "Can the Nordic Model Save NATO?",
+      "title_zh": "Can the Nordic Model Save NATO?",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uTWN4MmJ5YjR0dFZRSTlHYXVrbmtfUU54VTBaWlRMSmcxUHNLX2daX3JqbnVBa2JNR0dGTWt0djhOY05yTnlzMWxxUTFzc0pDdnBIMUgzUXI0bWFiMkFFWjQxdElSN0VoOVUydG5YdGRodTZLcklqcDN3Z0lTZw?oc=5",
+      "source": "Foreign Affairs",
+      "source_score": 75,
+      "published_at": "2026-10-30T08:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Can the Nordic Model Save NATO?",
+        "Foreign Affairs",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Foreign Affairs"
+      ],
+      "all_titles": {
+        "en": "Can the Nordic Model Save NATO?"
+      }
+    },
+    {
+      "title_original": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+      "title_zh": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-30T07:53:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Human rights lawyer couple sentenced to 10 years' prison in Pakistan\n- Published\nA Pakistani anti-terrorism court has sentenced human rights lawyer Imaan Mazari and her husband Hadi Ali Chattha to 10 years in prison, over an alleged security breach during a cricket tour in 2024.",
+        "The couple were accused of removing road barriers and obstructing police officers in Islamabad - charges that both have denied.",
+        "Mazari and Chattha were previously sentenced to up to 17 years in prison for social media posts criticising the military."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan"
+      }
+    },
+    {
+      "title_original": "الكيان الإسرائيلي يواصل عدوانه على الخليل لليوم الثامن",
+      "title_zh": "الكيان الإسرائيلي يواصل عدوانه على الخليل لليوم الثامن",
+      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNNDdjbEZmSEh6Y21TMWVuZFJMQjFRcEt2OTdQMHdfMUFUOEx6bXFYMkpOTlI1dWZZSDg5ZmhsZndYV1BUYjhoM2JwdFpRVFo3MW5VempXZ0JfSDY0WTNZMUdzSE8xMm5HRkRNWllZUmg0Y3pyMHplNmEwTF96WFg1QmNDaV9RZnN2TTNkS19BSGtBbDYxRVF1ZHlyVVNQeWN6ZWNqOFVDb3pXU2dWVlI0T2dTMDFTOW5fTmlrQkdDNlNSdWxhc1R2d2lncFFBSmc0ZzM2WUFvUkFxVGZXTzFwV01oSEtJLS1USHVpbW11Mm1NZnNnS0FDT2JmS194RDNJV3o2aFVNRTFTdlJMWlFjc05NV1JHNnFOOTd2RHVWQ2U4NWlTUzNSRmJvS04xNUxYQ1lVWUQ3UXJrd1EtUVNscVJrTXh0N0NTY0gxQzZkWkJtSFQ2LWNrQkN4aDB3M2daWXVRSlJaa2pSdmlwaFo1Z0VfVUVuQmp0SDl6Rk1iQWlJUVVJcUNNbnAxMEpFS1Q1emdabHA0OWFYZ0dhN0t0Zk5SWGlvU0t3Nk05NlpMZEVrZVB6OVd4d0VzYXl4dks5aGp1bXd3dWROQkxuSGFHTUM4Y0RkR1pNMzY1bDA5Vi01QXZp0gHqA0FVX3lxTE5hR1BDZXdBV3doZTlET3luVXhlMTliWWZvOTdtcVhoYVdUUE0wdVBvYlpMOTN3T3lBN1lhaW56alRJZnd6VVpCUmFzcm04dThPakk2TmpXZXVaRXBGNHV3eUo0REtYWE1tekVhQnpkbm5VZ1I3LUVKX29uYldsdWEyMHhhQTh1VmVjQml1YWpaUHJsWDZNbDlrMUxJUDBMMlprV0kxZ1laNjdjWDFNT2hiSGZYZnZ1Z19FY0pmOVZSaFBQQmp1c3hCbWlJVUVsUlduOVF5enB3VGoySndUdkJBcTRqQUd2NmpHMk5TZVdmVzFnWkFVN1RmTUpZb21SYzBHVV83OU5Dand2bkdabnNLdVJfajNrdHViZ2FMNmExc3Zod09ESU80Mm5ZNnlDQnMyRnBiVlZleWNUVUFMTHd0SGw5RmlzQV93bVJ3QUVMUkN0NTl2RldlV3lqWlhUSWljOWEtbWdVRUI3M25NZVFycVFWbW8tYVctMmxYMVdxUnU4RnZDNEpsVlhlcFhfd0xZZG0xNkhuQUp2V2NXQ1ZYTUNsNjN1M3p6cWk3TTBJUkU1THFLbTNRZFRNd3ViUGltTm9wWFEtaUNORmlBTU1DRHNCR3Zlc2hCMDN1OUlDRlZhSG9WVTM3bUE?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-10-30T07:52:35+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الكيان الإسرائيلي يواصل عدوانه على الخليل لليوم الثامن    تسنیم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "الكيان الإسرائيلي يواصل عدوانه على الخليل لليوم الثامن"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（10月30日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（10月30日の動き）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96TWdvcVkxOFM1WTlfcEZPRE5yNERkalZpOWx3RER0eFZmQXZCZXVWXzJFTWpyVE1jX19uNXh3elJTRjJTNUUyMEZtbndDSnFRRHBsajZmY2otVGltUTdn?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-30T06:46:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（10月30日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（10月30日の動き）"
+      }
+    },
+    {
+      "title_original": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "title_zh": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+      "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-30T06:02:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Syrians struggle with soaring prices as crisis challenges post-Assad recovery\n- Published\nLast month, protests erupted in squares and streets across Syria.",
+        "People burned tyres, blocked roads and chanted slogans, angry at the government's decision to raise fuel prices again.",
+        "It was the largest show of discontent yet since President Ahmed al-Sharaa came to power two years ago."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery"
+      }
+    },
+    {
+      "title_original": "米国防総省当局者、ＮＡＴＯの数カ国に対ロ発言抑制要請＝関係筋",
+      "title_zh": "米国防総省当局者、ＮＡＴＯの数カ国に対ロ発言抑制要請＝関係筋",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSHk2Vm81QUR4dmJ3WGVTUS1tazZWNnhfOEFHTDZlNE5ocUlUNHI5ZlJQN1lxLW0wc0FPUHJTXzR2QTZhd0hiaFY1Y0Z1Yk5LVm9xblllXzJ5TzBsaS1JT1RPLWxPNE5nT3NGX0RIT2gyZzNWLUV4SnJSTzIwMTc0U3ptaG1UZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-30T06:01:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "米国防総省当局者、ＮＡＴＯの数カ国に対ロ発言抑制要請＝関係筋    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米国防総省当局者、ＮＡＴＯの数カ国に対ロ発言抑制要請＝関係筋"
+      }
+    },
+    {
+      "title_original": "EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
+      "title_zh": "EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEZ5UV9XWUJPdkJDanlwdEFEY1V5T3A3UExxWHoxZFBHbnY1RjFsS0JwWk92TFhqYWpLVTFmMk9VUUhiRzZDVDZsdERfTERlUUZ0cWdKNm9MeUE4Mm5MNWZuaXpNLXVOM3BVczNXVndOOGlBZk9PLXBqT3hGLXpsRGVkREl6cTk5RXNWRThVVkNrem5BQkp0SVFReWY3aEktdGItd0c5bTNQUFVsRGZwczRYSUJVUFE?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-30T05:04:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "EXCLUSIVE: Pentagon tells Europeans to cool their rhetoric on Russia, sources say"
+      }
+    },
+    {
+      "title_original": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+      "title_zh": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-30T05:00:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991.",
+        "But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area.",
+        "In late September, dozens of zama zamas – the name given to illegal miners in South Africa, meaning roughly “to take a chance” in Zulu – arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal Welfare)."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg"
+      }
+    },
+    {
+      "title_original": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+      "title_zh": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-30T05:00:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat for the top job at the UN, citing her denial of accusations that the United Arab Emirates is fuelling the war in Sudan by supporting the paramilitary Rapid Support Forces.",
+        "The UAE nominated Lana Nusseibeh last week to replace the UN secretary general, António Guterres, as he finishes his second five-year term ⁠this year, upending a race that had become gridlocked.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job"
+      }
+    }
+  ]
+}
