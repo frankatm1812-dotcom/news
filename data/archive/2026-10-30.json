@@ -1,8 +1,658 @@
 {
   "date": "2026-10-30",
-  "generated_at": "2026-10-29T17:25:57.062473+00:00",
-  "count": 35,
+  "generated_at": "2026-10-30T02:34:58.470698+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title_original": "Um 18 Uhr live: Geopolitik, Öl, Gold & Krypto: Der große Markt-Check zum Jahresende",
+      "title_zh": "Um 18 Uhr live: Geopolitik, Öl, Gold & Krypto: Der große Markt-Check zum Jahresende",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOTNzWUptQjY2aWJNbXo2ZTNxbzMxNDRsQ0VsVGduVlJwRmJ1MHZPaVNZQV9fRk8ycV9MUFFkdWtzT0ZPbmVsc0tqWmRvX3lhTzJJVTdnRnRqN1Z1T1RYM19aeF9BZzByb21TVWZDNWp6NE5TbUZqUGlXT21OeGl3MmdnMDdBQ3ZidG5Sdm1VN0xxb0FKTjBzdnFPTHdDbFU5d3J5RGVvTXp5OUw4MlJieUtSbi00b29jX2hQUWQyWjIxbGZTZEg3aFJNWlhzR0poTGZneDJoaVlHUG14bmdWQ1V3?oc=5",
+      "source": "Finanzen.net",
+      "source_score": 40,
+      "published_at": "2026-10-30T02:26:32+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Um 18 Uhr live: Geopolitik, Öl, Gold & Krypto: Der große Markt-Check zum Jahresende    Finanzen.net",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Finanzen.net"
+      ],
+      "all_titles": {
+        "de": "Um 18 Uhr live: Geopolitik, Öl, Gold & Krypto: Der große Markt-Check zum Jahresende"
+      }
+    },
+    {
+      "title_original": "混迷中東「中国が関与強める」 アラブやトルコ、地域安定へ自助努力",
+      "title_zh": "混迷中東「中国が関与強める」 アラブやトルコ、地域安定へ自助努力",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZU5hcGdPbjdaUHVYUzFvNGNBdG5vRW1TTndPcGdiUzFkdFQ0MS1vQjNIUGRyMjJIT3d4bG5iNXo3NDdjRzhyZ0N3dUEzb2w3clFRZGMxam4xWEt3S1drS2dGQzZyR25HMGx1ZA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-30T02:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "混迷中東「中国が関与強める」 アラブやトルコ、地域安定へ自助努力    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "混迷中東「中国が関与強める」 アラブやトルコ、地域安定へ自助努力"
+      }
+    },
+    {
+      "title_original": "El Niño-driven drought in Papua New Guinea a ‘national crisis’ as rivers dry up and local farms fail",
+      "title_zh": "El Niño-driven drought in Papua New Guinea a ‘national crisis’ as rivers dry up and local farms fail",
+      "url": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-30T01:45:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "As many as 8 million people have been affected by food shortages, electricity blackouts and health clinic closures Extreme drought driven by an historic El Niño is affecting as many as 8 million people in Papua New Guinea, causing a cascade of issues from shortages of food and water, to electricity scarcity and schooling disruption.",
+        "An influential coalition that includes churches, trade unions and business groups has said the Pacific nation is in the midst of a “national crisis”, but there appears to be “no coordinated plan to protect vulnerable communities from the worsening impacts of El Niño.” Continue reading...",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "El Niño-driven drought in Papua New Guinea a ‘national crisis’ as rivers dry up and local farms fail"
+      }
+    },
+    {
+      "title_original": "السعودية تعترض صواريخ حوثية وإيران تعلن حرائق في ناقلات نفط بمضيق هرمز",
+      "title_zh": "السعودية تعترض صواريخ حوثية وإيران تعلن حرائق في ناقلات نفط بمضيق هرمز",
+      "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxOVnJUdnV6OThiMXRSNnVLR0sxbUtsdlFONlBmTTY0TnZuSm5ycTFYd0lSamUwaUhHRlRPRTFuZzNLTHVxdmplVDhsNXRfZFNrWXlDSE8tUi1ob3JxbEVObkhUN1FwUjJnWi1KcDNJa0JSdlNvbDRsd2dwYV9QeHRkUmVVaU8wWG5rQTlORG5oUFFCY2h5b3l0VjQ3WE13Q3YzWTFIbmFrZzl2R2tVdF9hR3lxcmVLWWoxRk1DVUt2NDR6TG9zVU5NSTJGZHJNN0RUNUwyZHRVTGNlM24yVm1sdUVDOFRid0RlOVRXekdSckZLai0wdktrYjc5eFFoN09ZcEtYOHpsbnMxV1QxQ0FPRjVqNzhoamp3UWpTejBtMkRuSzZVV3BDMzlQRE5ybFVqLUZxcUhBMG5ZUUEtT2VXOFB0LUNod3ZnbmZjSERXajFFOHhrbjBsUy1DWUsydUNHRjFtRkxBa3VBSUhkY09vVlQ3WS1ZN0lzTWY3UWgzbHNGbi1uLXpoQmFrbVVCWkNiQjl3U1ZDdzl2X2tlZ1RnYUhWMXBUa255OWlJejZ5dlZ4dkdRNFdGUk5YaFdRTTBFalJCaWFmUGcxc2pYM09Ua0hvY1BzWXhfbE5qMUMxNWxLNm1hbU9tQXVxeTdwOE1EVGVxaXVWeXg1NnJHaTFWWmFscllSLVZPSjNWX3ZIbVZtNWY5VEw2NTI5QkFnZHkzUDkzNmR3cWhEVkNZTG1RYWFYcDljUDhxbE04WWdhYnNWdw?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-30T01:30:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "السعودية تعترض صواريخ حوثية وإيران تعلن حرائق في ناقلات نفط بمضيق هرمز    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "السعودية تعترض صواريخ حوثية وإيران تعلن حرائق في ناقلات نفط بمضيق هرمز"
+      }
+    },
+    {
+      "title_original": "ウクライナの駅にロシアのドローン攻撃、少なくとも14人死亡",
+      "title_zh": "ウクライナの駅にロシアのドローン攻撃、少なくとも14人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ScXV0Y2Q5LTdfRjI4WC1xb1NRUkkzOXhPRUpPbkk4Vi1sMUV4WFB3RjJ2Z204Y1NfT05YcHNoRVFDSnkzUE1VOEJXVjNVY2dBZUHSAVRBVV95cUxPR1R2SXZnT1lwbHpQSUUxWTlMMDRaYnlfSG0zc1VFOWdlaTFCYnhRWWtFam9KcmRyeF91dE9RVVlEWmgwelZnUFlHckhqWjF3UjRTVmQ?oc=5",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-10-30T01:17:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナの駅にロシアのドローン攻撃、少なくとも14人死亡    AFPBB News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの駅にロシアのドローン攻撃、少なくとも14人死亡"
+      }
+    },
+    {
+      "title_original": "وفاة عنصرين من الجيش الأمريكي في الشرق الأوسط في ظروف \"غير قتالية\".. ما السبب؟",
+      "title_zh": "وفاة عنصرين من الجيش الأمريكي في الشرق الأوسط في ظروف \"غير قتالية\".. ما السبب؟",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVVEzOGNpQ3J3Y2lpUkIxMktIQzI2bUpkUDhwYVZWU1c3RDMwSl9JX3AwRmdpWFd3MFdrcGxmN01XOXYwaV9wUzFoaEltemtFOVlqMUEzTjlnWlZTNEU5RFV6TF91NlM5TnlJSVEtVjB5OUdDc3V2NE5QQnhFbnVDbzlHZEY1Tl9Rb2NpNDdTemJYLWRfQmpEVG51MkhRLXh5Qy1HcDlmMVJSVGNsazRKVVpqTTlPY25GbmZmcHlYUlJ0bFVDTEthSmc0WGRkbHc?oc=5",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-10-30T00:59:06+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "وفاة عنصرين من الجيش الأمريكي في الشرق الأوسط في ظروف \"غير قتالية\"..",
+        "ما السبب؟    CNN Arabic",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "وفاة عنصرين من الجيش الأمريكي في الشرق الأوسط في ظروف \"غير قتالية\".. ما السبب؟"
+      }
+    },
+    {
+      "title_original": "ウクライナ、米国の圧力でロシア製油所攻撃を一時停止＝ＷＳＪ（ロイター）",
+      "title_zh": "ウクライナ、米国の圧力でロシア製油所攻撃を一時停止＝ＷＳＪ（ロイター）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SLVh6eGxhQTA1Um9SWWgza0YwU3pOYmlXTXJleWFxaTY0anpCTjFFNmN6SkpPYkFTeGU1NE1YallXNktvd3Z4UjlBcDYtU0dHUi1kM01Pd3Vsc0laODdpb2czUjhHVldBc0tWa3VjbHRXcmhxdVBGQ1MtRjBQaUU?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-30T00:04:22+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ、米国の圧力でロシア製油所攻撃を一時停止＝ＷＳＪ（ロイター）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、米国の圧力でロシア製油所攻撃を一時停止＝ＷＳＪ（ロイター）"
+      }
+    },
+    {
+      "title_original": "ウクライナ、ロシア製油所攻撃を停止 トランプ氏が圧力＝ＷＳＪ",
+      "title_zh": "ウクライナ、ロシア製油所攻撃を停止 トランプ氏が圧力＝ＷＳＪ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX3VLaGoxZzYxb05nenVMOFZUV1RvcWJPeVZDWE95MmV4YVdnbERRZXNZcmxyd21ac3NlNXhOV3F1VnViWENNNTVnRzZxSnNvZkx5RTVMaUxpZTQyVDhHZzZCRS1xNUk5cTdvTVhNRThlcG1EMDZlbm0tc0VIajJCMUFqdFFPdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-30T00:04:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ、ロシア製油所攻撃を停止 トランプ氏が圧力＝ＷＳＪ    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、ロシア製油所攻撃を停止 トランプ氏が圧力＝ＷＳＪ"
+      }
+    },
+    {
+      "title_original": "Législatives en Israël: le camp de Benyamin Netanyahu en tête mais sans majorité",
+      "title_zh": "Législatives en Israël: le camp de Benyamin Netanyahu en tête mais sans majorité",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZTdtdTVreWV0MXQweFE0VkdxRkdRbjd0V2JsX2FpWXhDdTZFVDdyUVJpNU9vRnFvMzNKUEtzWkRoS3BQYVJDckZEekZTT0xGa2drdnMzbC12aDZrRmlnN1o4QVk5LVcydThtMDVURXFGdWNxdXpObGFVWTlNbXBzU2RMZDlYNEJLZ1B6UlZoTjJKazA1anZyNmhPWkJCQnRJdVd1WUVFM09GTkMxY3NBVDk0U0NyMFBaN3JIZnhnNl9DRkxqWEgtS29haWY0eFVLVFhHblJQYzlqaXM?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-10-30T00:03:30+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Législatives en Israël: le camp de Benyamin Netanyahu en tête mais sans majorité    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Législatives en Israël: le camp de Benyamin Netanyahu en tête mais sans majorité"
+      }
+    },
+    {
+      "title_original": "انتخابات الكونغرس تختبر مستقبل الدور الأميركي في الشرق الأوسط",
+      "title_zh": "انتخابات الكونغرس تختبر مستقبل الدور الأميركي في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxPVGJJeXFfTXJzdGl3T01mcTVoRlFSSkFsMTlzeHh0NUJsdjlHN2Y4R1dyQy1ZbUZlekh2eGJMNmd4Tzl2X1BsMGI5a2p6dXJDMTc0OUFZQlhTbEFCcEcxUGk4LTQtWVlCSGlwa2doSlUzcjZibmdObWt6aTdUWU1ldWpFejN0dlQ0OF9CVzdIWXpGVFlFM1phX0dxNnk3Z2ttRy03bFRycExCellXZmtsUjlXNjAzak03UjJSVlNzQUl0QzRRMGRDaEpqbWpPMFVqSG1UMVlMZ1IwRFVuYWZsU2Zzemx2WVE2cF85UnVQM0ZYV1BLNXZ6TmhKTjQ2NVdOY1lLYVc4NHprNXVMRS1FRUhzaWJ6anZCZmg2dDh3eEt1VjNFRkZ4UV9ianFGQUlPcFpVTng4amg3ZGxQNE5ZOVcxamowYUFUekl4NExHU1R2OFFFZ081X1NydDNCSGkweWZITWVBOUJlaXFVOG5RU2ppWm16cGItRXFlckxpNEVFYkFpOVZtYU9qOUdsdlNVc1FCRkZuMk1TNlR6Q1V2MlJDS1dCeV9qd3REbkcwTnZDUmZwcm1aWkZyZE5CN0lYSmZPdXg4V2M3ZFplNVZOcXJ4NTdzdGlleng2Z0ZHTEZNTk8zZ2FUMDZJWk44V3JKQUJjMTA2SmhEeUw0RXdNN3dnWmpyOTEzUzJ2am9aOWJLbXNrUDBDZ1AwTHZJTjdMVmZPcHhuM3YwS29mcWdYZGtIWnRzNUQ0azBPcmdMSVNtLXBPVU83QlZkeWpxZ2o1N29iT25tUExRcTM0NTktNFRzSXdQS2tJWXdsT3V6clBZRy1SZGRvRnpkSEdERndyMUJlX2lNMnRjTGd3aEpxZGdoTWs5ZVNsa2tTbnJudWkydFRhZURMaXhfNA?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-10-29T23:28:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "انتخابات الكونغرس تختبر مستقبل الدور الأميركي في الشرق الأوسط    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "انتخابات الكونغرس تختبر مستقبل الدور الأميركي في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "ロシア、ウクライナ中部ドニプロの鉄道駅を攻撃 14人死亡",
+      "title_zh": "ロシア、ウクライナ中部ドニプロの鉄道駅を攻撃 14人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqMGpBMXlNSmlQNGNpUnRyNXlLbWlYZ3h5ZXpBOUg1NGlpNHQ4b2gzb1FFREs5VmhnTzFQUV93RGdDS1hCLUltczRBN1ZVWnF3Mkc4?oc=5",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-10-29T23:27:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア、ウクライナ中部ドニプロの鉄道駅を攻撃 14人死亡    CNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナ中部ドニプロの鉄道駅を攻撃 14人死亡"
+      }
+    },
+    {
+      "title_original": "Géopolitique | Ressources stratégiques, souveraineté et rivalités en Méditerranée: le Policy Center décrypte les nouveaux rapports de force mondiaux",
+      "title_zh": "Géopolitique | Ressources stratégiques, souveraineté et rivalités en Méditerranée: le Policy Center décrypte les nouveaux rapports de force mondiaux",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9PVzhlb3JqVEo2YXBscm5LSk1QZjFwVkxiejB3b1BGS2dFczQxSFYwZmQxVW9nMFpydDhoUmNLVkc2bFppNzg5dTNMbHZWbDYzaEtkdEZBbw?oc=5",
+      "source": "Article19.ma",
+      "source_score": 55,
+      "published_at": "2026-10-29T23:23:57+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Géopolitique | Ressources stratégiques, souveraineté et rivalités en Méditerranée: le Policy Center décrypte les nouveaux rapports de force mondiaux    Article19.ma",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Article19.ma"
+      ],
+      "all_titles": {
+        "fr": "Géopolitique | Ressources stratégiques, souveraineté et rivalités en Méditerranée: le Policy Center décrypte les nouveaux rapports de force mondiaux"
+      }
+    },
+    {
+      "title_original": "ドイツ メルツ首相 高市総理大臣にウクライナ防空支援を要請 | NHKニュース | ドイツ、ウクライナ情勢",
+      "title_zh": "ドイツ メルツ首相 高市総理大臣にウクライナ防空支援を要請 | NHKニュース | ドイツ、ウクライナ情勢",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OdnJWV3dGRFlqanBIaEZGT3FfSXRMelA5UlZpZTlQM01jZncwSUJzd1FMdWZMbHYtSkRmQ0dLcEw3SWQ5TEx2Q1A4ZS0xYmlzZy1WcVJ2MTdfR0h4cjVr?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-29T22:20:57+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ドイツ メルツ首相 高市総理大臣にウクライナ防空支援を要請 | NHKニュース | ドイツ、ウクライナ情勢    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ドイツ メルツ首相 高市総理大臣にウクライナ防空支援を要請 | NHKニュース | ドイツ、ウクライナ情勢"
+      }
+    },
+    {
+      "title_original": "Russland-Ukraine-Krieg: Russland greift Kyjiw mit Raketen an",
+      "title_zh": "Russland-Ukraine-Krieg: Russland greift Kyjiw mit Raketen an",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ1Y4bUZEZ2sxTUZrZUcxeDlubVM1YVhwa2x3akFMNlFhWFptekRJckppUl9IZktVaVctaXhOLW1qNEp3RGM2QnJvaFdWSnhxN0xQSlF1eVRlQmdZSnNjZDdGcXM5cEpKZi1CVmxuQWpHbXcySlo4dHFWRXBhWFZsanlCcGNLWHREdURUTDYzTVk2MjBGNUhBMUU3dGxKMDZNd3FOaUkzUzMxXzBhUjNuTl9rYklHOUpBVFYtWlJNWkVTTmlXc09jZw?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-10-29T22:04:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russland-Ukraine-Krieg: Russland greift Kyjiw mit Raketen an    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Russland-Ukraine-Krieg: Russland greift Kyjiw mit Raketen an"
+      }
+    },
+    {
+      "title_original": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "title_zh": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-29T21:31:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate\n- Published\nThe Republican governor of Alaska has ordered an investigation into an alleged \"scheme\" which led to two men named Dan Sullivan standing in the state's US Senate race.",
+        "Governor Mike Dunleavy said he was responding to a New York Times (NYT) story, external which said the team of Democratic candidate Mary Peltola worked with people who tried to recruit spoiler candidates in the Senate race.",
+        "The governor's post on X said he would investigate \"whether this scheme violated Alaska's laws\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate"
+      }
+    },
+    {
+      "title_original": "局地停戦のウクライナ南部、物資搬入ルートの地雷除去完了",
+      "title_zh": "局地停戦のウクライナ南部、物資搬入ルートの地雷除去完了",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TeVM4d2lheDcwallXbTlUcDQ5QnAxeTl4OFNiV0lSQzFMVEJBRllrWnliVHVqaGVxZXE2Y0YySC04OGRScWVDcldwUGtxOGE2bXZMaHFoRHVlV29jdUlZQjU0Qnc1bUxWVVpZUg?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-29T21:11:25+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "局地停戦のウクライナ南部、物資搬入ルートの地雷除去完了    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "局地停戦のウクライナ南部、物資搬入ルートの地雷除去完了"
+      }
+    },
+    {
+      "title_original": "選別進むAI相場に中東マネー、次の上昇支える巨額資金の危うさ",
+      "title_zh": "選別進むAI相場に中東マネー、次の上昇支える巨額資金の危うさ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qVjRVNng2QXhYbEh4bXFWRURQZmlieGFSUFV2cVptSDV6aTFMRjVXdDYwTXFUZEo1UV9JU2VmWW5PalBYLUhsUjBBOGRMd29YNlBRNV9RYW1veXF4WVBaekM4eHBLakFQNEZEYw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-29T21:04:16+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "選別進むAI相場に中東マネー、次の上昇支える巨額資金の危うさ    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "選別進むAI相場に中東マネー、次の上昇支える巨額資金の危うさ"
+      }
+    },
+    {
+      "title_original": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "title_zh": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-29T20:21:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election\n- Published\nThe main Israeli opposition leader Gadi Eisenkot and Arab-led party leaders have denounced Prime Minister Benjamin Netanyahu for alleging foreign interference following the election which saw his coalition lose its majority.",
+        "Netanyahu's Likud accused Israel's Arab-led parties of \"stealing\" the election.",
+        "Home security agency Shin Bet is investigating whether they received illegal funding from Qatar and Turkey."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election"
+      }
+    },
+    {
+      "title_original": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "title_zh": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-29T20:05:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "'The city is alive': A brief peace in Kherson, but residents fear what comes next\n- Published\nThe Ukrainian city of Kherson has known its first two days of quiet after many years, as a US-brokered temporary ceasefire has allowed residents rare moments of respite from the constant Russian aerial attacks that plague the front line region.",
+        "Videos posted on social media showed people strolling down streets covered in anti-drone nets and gathering in the city's squares - ordinary activities that usually mean keeping one eye on the sky and one ear out for incoming drones.",
+        "\"Ever since the ceasefire was announced, there's been total silence,\" said Olga, 42, speaking by phone from Kherson."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'The city is alive': A brief peace in Kherson, but residents fear what comes next"
+      }
+    },
+    {
+      "title_original": "ロシア軍の攻撃続く、ドニプロ駅で14人死亡 他都市でも6人",
+      "title_zh": "ロシア軍の攻撃続く、ドニプロ駅で14人死亡 他都市でも6人",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSmVrSFl5eklSNDVvQ0lZUlZRU2lPQjZTMTc5U016Y3JKbTBXbGpzaDZYdHZtaDVkX2o3S2ladnlyNU9LeXY0b3FGLTF3N1d3Qm1jV2t6MGhFbHJvOXFYZF9BUXY5RkJKdWl6bWVpX3FIYlVJdG9WSnZJWGZKNWx6SVNfcjJwQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-29T19:36:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア軍の攻撃続く、ドニプロ駅で14人死亡 他都市でも6人    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍の攻撃続く、ドニプロ駅で14人死亡 他都市でも6人"
+      }
+    },
+    {
+      "title_original": "Taiwan Semiconductor Manufacturing Aktie News: Anleger trennen sich am Donnerstagabend vermehrt von Taiwan Semiconductor Manufacturing",
+      "title_zh": "Taiwan Semiconductor Manufacturing Aktie News: Anleger trennen sich am Donnerstagabend vermehrt von Taiwan Semiconductor Manufacturing",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWExsdUxzZTV5bGdNZzBtNmtlSTZUSGFKSFpDS1RrbHFlS1hHMEZ0eHlSdkdycno1TllyR1JMVkN5S0RROHJQZ29yY1h1WE40cHEwX0w0dmF5eWJoS3ExVHhNdEg4MldWSFBUQjFvVmUwNERmaUR6Q1ZCZ05KemNrV0lQUlhyVVl5WFVoVnJoZjVrVUNTQS1jSm1tOXZOWDRHMnRtOTA5WjE5T3FaR2lhbTlZc3paUQ?oc=5",
+      "source": "Finanzen.net",
+      "source_score": 40,
+      "published_at": "2026-10-29T19:24:39+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwan Semiconductor Manufacturing Aktie News: Anleger trennen sich am Donnerstagabend vermehrt von Taiwan Semiconductor Manufacturing    Finanzen.net",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Finanzen.net"
+      ],
+      "all_titles": {
+        "de": "Taiwan Semiconductor Manufacturing Aktie News: Anleger trennen sich am Donnerstagabend vermehrt von Taiwan Semiconductor Manufacturing"
+      }
+    },
+    {
+      "title_original": "«نداء غزة» تفوز بذهبية «دراجونز الشرق الأوسط وشمال أفريقيا 2026»",
+      "title_zh": "«نداء غزة» تفوز بذهبية «دراجونز الشرق الأوسط وشمال أفريقيا 2026»",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83NjRTSHZBbmxabFBBb3VJSHg4MGxTWmZGVjNsblc1YWh0RjhDOWZINHZBYlp6X25wVUU5MTBZUGdKQ3pUaFBYSXpsaw?oc=5",
+      "source": "البيان",
+      "source_score": 40,
+      "published_at": "2026-10-29T19:00:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "«نداء غزة» تفوز بذهبية «دراجونز الشرق الأوسط وشمال أفريقيا 2026»    البيان",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "البيان"
+      ],
+      "all_titles": {
+        "ar": "«نداء غزة» تفوز بذهبية «دراجونز الشرق الأوسط وشمال أفريقيا 2026»"
+      }
+    },
+    {
+      "title_original": "Hong Kong’s leader apologises for residential fire that killed 168 people",
+      "title_zh": "Hong Kong’s leader apologises for residential fire that killed 168 people",
+      "url": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-29T18:14:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Blaze was world’s deadliest residential fire since 1980, but some survivors and bereaved families say justice has yet to be served Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 people in the city last year, a rare sign of public contrition that nevertheless failed to impress some victims’ families.",
+        "The chief executive, John Lee, and seven other officials bowed in apology at the release of a report that pointed to “decades of failure” by government bodies.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Hong Kong’s leader apologises for residential fire that killed 168 people"
+      }
+    },
+    {
+      "title_original": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+      "title_zh": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
+      "url": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-29T17:49:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names over the centuries: Lac Saint-Louis, Lacus Ontarius, Skaniadorio, Cataraqui Lake.",
+        "But one thing it will never be called, says the Canadian rock star Bryan Adams , is Lake America.",
+        "In his new song Lake Ontario, Adams takes aim at the US president, Donald Trump , accusing him of “breaking the peace” between the people who live on the lake’s shores."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song"
+      }
+    },
+    {
+      "title_original": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "title_zh": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-10-29T17:46:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while protection for the Amazon is strengthened.",
+        "In a world where nature and democracy appeared to be bleeding out in tandem, voters and forest defenders in this global south powerhouse have shown it is possible to staunch the flow.",
+        "This should provide much needed inspiration and, more practically, a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win"
+      }
+    },
+    {
+      "title_original": "有美国官员分析台海形势，国防部：何时、以何种方式解决台湾问题，完全是中国人自己的事，外部势力无权干涉",
+      "title_zh": "有美国官员分析台海形势，国防部：何时、以何种方式解决台湾问题，完全是中国人自己的事，外部势力无权干涉",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zeWJwVmhrclFVSDdwb3p4a2ZmUlV1M1g4MzRIb2NOWmFRU3NEN3FUQjdsQmIxaXJ5U21vN2czVUlIR2lMTV9zNDJjSzd3d2NaVDAxTWtfLUlBVkE5TThXeC1KTWd1R3JVcWVVU3NRZTJsby1qR2c?oc=5",
+      "source": "新浪财经",
+      "source_score": 40,
+      "published_at": "2026-10-29T17:30:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "有美国官员分析台海形势，国防部：何时、以何种方式解决台湾问题，完全是中国人自己的事，外部势力无权干涉    新浪财经",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "新浪财经"
+      ],
+      "all_titles": {
+        "zh": "有美国官员分析台海形势，国防部：何时、以何种方式解决台湾问题，完全是中国人自己的事，外部势力无权干涉"
+      }
+    },
     {
       "title_original": "Géopolitique de l’Afrique",
       "title_zh": "Géopolitique de l’Afrique",
@@ -76,6 +726,31 @@
       ],
       "all_titles": {
         "ar": "الانتخابات الإسرائيلية ونتائجها المرتقبة تلقي بظلال على مواطني الضفة الغربية المحتلة وغزة."
+      }
+    },
+    {
+      "title_original": "Vidéo. Ancien ambassadeur américain auprès de l'OTAN : Trump craint une défaite aux élections de mi-mandat",
+      "title_zh": "Vidéo. Ancien ambassadeur américain auprès de l'OTAN : Trump craint une défaite aux élections de mi-mandat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVFZ4djRGTW4wNlRmTjBlYUo3Sk5DWEg4WGZwOXZFdDZqQzhfWjIxekRoYVFINnNvUkk5RFdSa2ZrUEZpSU5SOUl3RTQzc2xTWjA0TlNmOHJPNWpuMHFPcmpBZGROZGxEUEVqelJDNmVlSGo3WjhRTzdobS1EdTZNWmVEUEI0bE43bHVBRlBaZWl2RTNGaGYtRlBtVWtSNm9EdEJUNWdidzI0d29zQnRUV2FJMl9xTnU3SkdoYmd0UjdqM1NPSTlSTjFlRQ?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-29T16:11:41+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ancien ambassadeur américain auprès de l'OTAN : Trump craint une défaite aux élections de mi-mandat    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "fr": "Vidéo. Ancien ambassadeur américain auprès de l'OTAN : Trump craint une défaite aux élections de mi-mandat"
       }
     },
     {
@@ -154,6 +829,31 @@
       }
     },
     {
+      "title_original": "NATO’s DIANA and Ukraine strengthen cooperation on defence innovation",
+      "title_zh": "NATO’s DIANA and Ukraine strengthen cooperation on defence innovation",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeWFYaUlCZFI4SlRza01FQURFaGpRdm1WQkZmczhMSUVEOGpQVkRsaW9ncjh3VmNWTGg5b0tNZi1LbjI5ZW1Tb0hCaTlBSkpJeER6NTlzM0dFcGQ4SE1mNWdtWm54SEdRV1VCSUVaeUtrcHNSRVhxLUpRcWs2cFdRNHgzVFozWC1LLWNST3FuLUpZSmxqcHE4VVNHMnZNRlhIUVNBQ0k2WFBQejY1V2o5YTJWQUVQNS1pQldjMEdhTFhYSl9Bc2lKZmlHcS16dw?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-10-29T15:17:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO’s DIANA and Ukraine strengthen cooperation on defence innovation    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO’s DIANA and Ukraine strengthen cooperation on defence innovation"
+      }
+    },
+    {
       "title_original": "Waffenruhe zwischen Russland und Ukraine: Nun kann Hilfe für Oleschky kommen und die Evakuierung beginnen",
       "title_zh": "Waffenruhe zwischen Russland und Ukraine: Nun kann Hilfe für Oleschky kommen und die Evakuierung beginnen",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONFVNb05meVJzLWUxbFh6Mnl3d0w1Rmp4R0xET21NeE5Gd1UtdThiMWMweWZZN2FJeTFjSW9BTFZWeXI4MlBlZHJ0ekIxMmNGNEZxamE2TFpXZ25JVS1kVE1nZllfOFRFdEh2Q3JSTzhrdHk0ZGpSWXA2RHlTVE03TW9KZmVKOTNESk4tMHp1WGdpYms4bkVVRS1xR2Rod9IBngFBVV95cUxNSnpJZVVYZ1dlRW1HdFg2Z1dQRjM0WlA2dkczRnZnYWtneEJ0MWtHVmMyX2JrZExTUkc2bXdDUFV3dFRoMHpKb3VaNzEtQ0VUREJLQUF2NWtPeXZBWERXS2tyZDdNUV80eWdGak45MHhNSDhpSWw5M3dSbXFiRklYak9fWEkwUVhhaWNqWkVDX3BaZ2RvUUFkZkdvTTdhdw?oc=5",
@@ -176,6 +876,31 @@
       ],
       "all_titles": {
         "de": "Waffenruhe zwischen Russland und Ukraine: Nun kann Hilfe für Oleschky kommen und die Evakuierung beginnen"
+      }
+    },
+    {
+      "title_original": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "title_zh": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-29T14:58:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss\n- Published\nThe defeated candidate in Brazil's presidential election, Flávio Bolsonaro, has referred to himself as \"leader of Brazil\" in a letter he published on social media after leaving the country for the United States.",
+        "Bolsonaro lost to his left-wing rival, Luiz Inácio Lula da Silva, in the run-off on Sunday by a difference of 4.4 million votes, but has not conceded defeat.",
+        "In the letter, Bolsonaro alleges, without offering evidence, that he was the victim of \"electoral fraud\" and says that he will lead the opposition from the US."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss"
       }
     },
     {
