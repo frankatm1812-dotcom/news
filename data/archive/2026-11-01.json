@@ -1,8 +1,708 @@
 {
   "date": "2026-11-01",
-  "generated_at": "2026-10-31T16:05:18.056840+00:00",
-  "count": 35,
+  "generated_at": "2026-11-01T02:09:48.651105+00:00",
+  "count": 66,
   "articles": [
+    {
+      "title_original": "Webinar: Geopolitik, Öl, Gold & Krypto: Der große Markt-Check zum Jahresende",
+      "title_zh": "Webinar: Geopolitik, Öl, Gold & Krypto: Der große Markt-Check zum Jahresende",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRWRLS2lpenlHMngwOWQ5ei1BRmdLV0VBYksxVkJsQW9qci1mZTZRR2lNVkNLUG9uMzBhQkNrUUNKNzFwdUcySk1QYVFnQnBIWHc1Z29xUXFhQXFnMXVFUEJta25wbWw0RUl5ZTRfckxCM3RGa0E0LS1XYzREeVE4R1hPelQ3T3h6MURtb2R2QmNORWdTcjRFSXFWTzljMzhURTdpeWdYNmhJc1gzaVZFRUhrTl9tUl9IMU5TYTYtSGJoRHRxNWRncnVqM2QwQUVsaE01a1FwRQ?oc=5",
+      "source": "Finanzen.net",
+      "source_score": 40,
+      "published_at": "2026-11-01T02:07:38+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Webinar: Geopolitik, Öl, Gold & Krypto: Der große Markt-Check zum Jahresende    Finanzen.net",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Finanzen.net"
+      ],
+      "all_titles": {
+        "de": "Webinar: Geopolitik, Öl, Gold & Krypto: Der große Markt-Check zum Jahresende"
+      }
+    },
+    {
+      "title_original": "“我们要一起合作”欧洲央行行长拉加德看好欧中合作",
+      "title_zh": "“我们要一起合作”欧洲央行行长拉加德看好欧中合作",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY0JrTDE0YTJOTllaZ1RKTEJYd0t1S2tUNkNmYzFiaXRrM3RwcFpUUnBSNXhrT3pCTTlPWUVfZS1saXpZa0hiVjgzb1FUWHFLYjh6Rjh1a1NuUHRYLXBobWxPWkpCR2Q0N3dPdzJ6N2R0UVRKZDI4RVpHZklmWjJSWlFlT0ZvRTBwc2hFM3FFcENVMUx5S2tzd1BXcWtyYzBVZUpPdU9ON2wycFp5T0lEbnR5OGlpZUota1UtZFZaQWZXWEtncGJ6Nk93?oc=5",
+      "source": "新浪新闻_手机新浪网",
+      "source_score": 40,
+      "published_at": "2026-11-01T01:54:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "“我们要一起合作”欧洲央行行长拉加德看好欧中合作    新浪新闻_手机新浪网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "新浪新闻_手机新浪网"
+      ],
+      "all_titles": {
+        "zh": "“我们要一起合作”欧洲央行行长拉加德看好欧中合作"
+      }
+    },
+    {
+      "title_original": "ロシア占領下の避難者、ウクライナ支配地域に帰還 局地的停戦で夫婦が1711日ぶりの再会",
+      "title_zh": "ロシア占領下の避難者、ウクライナ支配地域に帰還 局地的停戦で夫婦が1711日ぶりの再会",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UaGlXLVNnRTRpMjhRSk8wcUxaMVk1NHQwZ1FMdjA1ZlVGdmhtelItQ3JZS1BqdElPSXFlMmNETW14Y3FndW5ENUtMQ0JzYWN6S1BV?oc=5",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-11-01T01:05:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア占領下の避難者、ウクライナ支配地域に帰還 局地的停戦で夫婦が1711日ぶりの再会    CNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "ja": "ロシア占領下の避難者、ウクライナ支配地域に帰還 局地的停戦で夫婦が1711日ぶりの再会"
+      }
+    },
+    {
+      "title_original": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "title_zh": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-01T00:55:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán\n- Published\nWhen they met in northern Serbia last November, Serbian President Aleksandar Vučiċ and Hungarian Prime Minister Viktor Orbán could hardly have guessed they would both be out of power within a year.",
+        "Both were ousted by popular movements - Orbán fell first, in April, defeated by Péter Magyar's Tisza party.",
+        "Then last Sunday a student movement less than two years old won Serbia's parliamentary elections by a landslide."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán"
+      }
+    },
+    {
+      "title_original": "ロシア占領下のオレシュキから避難、住民がウクライナに到着",
+      "title_zh": "ロシア占領下のオレシュキから避難、住民がウクライナに到着",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VNWdRSWx0ZTJtVWdjYmJObnZCbWNBOEVsU1c4WlM2YTQxSzM3SE5KVHJQX0JCSGRIQTJneTZxLWp0OE5tTWFpakNSX2RCTnVONUHSAVRBVV95cUxONEs0VUlpazRtcThaMXFDYU1wRFVwMjgwbzJ3cGl0MTJVWHMxblV2OWhVU1NwSUk1aGZFQS1NcFlMUzNHTlVJVzl3TDZJX2R1Y1N4Qlc?oc=5",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-11-01T00:26:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア占領下のオレシュキから避難、住民がウクライナに到着    AFPBB News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ロシア占領下のオレシュキから避難、住民がウクライナに到着"
+      }
+    },
+    {
+      "title_original": "Russia Ukraine War",
+      "title_zh": "Russia Ukraine War",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1VTZDV4RWd6Y3dhNEZ5d01mR2hvMDQ5UGl6M0hfWWJoY1lrRy1Ld0hLcmYxVW9OeUJWWmlNNGhVTmllY3JKcjlOUGZySHM2NVQtd28xaWY5cUFpZTBPeUFBN1JMbDdGdm9iR3l1bDFtamlTUkpuX3F3Uzd0a1ZLNjFrbVJJNU45Y0lDbnhsM3Z6eDBRQ1VqZA?oc=5",
+      "source": "TelegraphHerald.com",
+      "source_score": 40,
+      "published_at": "2026-10-31T23:40:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia Ukraine War    TelegraphHerald.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "TelegraphHerald.com"
+      ],
+      "all_titles": {
+        "en": "Russia Ukraine War"
+      }
+    },
+    {
+      "title_original": "Al-Attiyah sentencia la Copa de Oriente Medio en casa",
+      "title_zh": "Al-Attiyah sentencia la Copa de Oriente Medio en casa",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHJXTTNZbjkzZjJ6XzBucG9jOWtlUW5seGptUHQ3dkMtOUtPYTlsd3A3dHVOWEZjWWpzLVltMVJ0eXNnMW9BenZVc3F0OUFwMmxmLWdRcElIQWlBbElMSHI3RmRSYTQ4a2k2d2Roa2xhcmQ2UUI0WnFuV3BnTkhGOTl1R2xOWWdLaENMOEpmWWtESldFay1jNkstTnJFSUtvUUpN?oc=5",
+      "source": "AutoHebdoSport",
+      "source_score": 55,
+      "published_at": "2026-10-31T23:02:32+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Al-Attiyah sentencia la Copa de Oriente Medio en casa    AutoHebdoSport",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "AutoHebdoSport"
+      ],
+      "all_titles": {
+        "es": "Al-Attiyah sentencia la Copa de Oriente Medio en casa"
+      }
+    },
+    {
+      "title_original": "日サウジ外相 イエメン情勢など意見交換 中東地域の安定へ連携",
+      "title_zh": "日サウジ外相 イエメン情勢など意見交換 中東地域の安定へ連携",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nTUVMYndfTG9MTk5vT0prU0kwdTlOSms1bmhFd21kclgwZEEtQ2pGMWRFVTdhVHRDRGV3cjZJNE94eUZpcnFNLXB0ZmdjbjNtV3ZYR2hXUm0wNkFZQ0hv?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-31T22:25:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "日サウジ外相 イエメン情勢など意見交換 中東地域の安定へ連携    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "日サウジ外相 イエメン情勢など意見交換 中東地域の安定へ連携"
+      }
+    },
+    {
+      "title_original": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "title_zh": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-31T22:11:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Crypto firm Binance covers 90% of losses after $6.3bn hack\n- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.",
+        "The remaining 10% may take longer to source in the required amounts, the company added.",
+        "Binance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Crypto firm Binance covers 90% of losses after $6.3bn hack"
+      }
+    },
+    {
+      "title_original": "من يحظى بالقدح المعلى في تسوية الشرق الاوسط",
+      "title_zh": "من يحظى بالقدح المعلى في تسوية الشرق الاوسط",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOT20yMXB5X0pBeTJxT0FiQjdySjNkaVl5Slh0dVRHdXRDNXVnZnl0cEpOTG9kSmdubUhaQlh5RDVkendFb1ZjWVZpSEYydER3dEoybUo2ZnJaajVLX1JTdWptSUxiQlY2bWpKamxENWdmcHlFc05RX1cwRk9Bd3dmNXAwd3hrNU5zMDI2ckNqZ2ZsSTBNOEFrSDFIcVBaMHBUQWZlNHpVMTJhNnpPVGJ1NnFtNTJzeGdObzhJd1RUU2YzVDg5emtua2FReUZramdSODFSZUdtYkt6MGZMQmxETWhrcHhWZWFaS3IxR0hicnFFbmN4WEFkQmxRS3I0b1E0Q1cwVnVXN1FGTnJPTHp4aXpvUUt1ZXdUUGQ1SDktV0RZUHRpckhRblZwZURuZldiek1FRHI5WlRFbDNCdG94c3NVS0JnUDQ2TTBEci1rbFlyMGh5OHNUX2dQN1FHcFZobWdDMUEzOWJFLXU2ek5B?oc=5",
+      "source": "ميدل ايست اونلاين",
+      "source_score": 40,
+      "published_at": "2026-10-31T21:57:51+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "من يحظى بالقدح المعلى في تسوية الشرق الاوسط    ميدل ايست اونلاين",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "ميدل ايست اونلاين"
+      ],
+      "all_titles": {
+        "ar": "من يحظى بالقدح المعلى في تسوية الشرق الاوسط"
+      }
+    },
+    {
+      "title_original": "日本・サウジアラビア外相が会談 中東の安定へ連携確認",
+      "title_zh": "日本・サウジアラビア外相が会談 中東の安定へ連携確認",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hN1lQaWNxR1BtUHNNVTBJTGl5V1d4VVdtUVhrT0pqS0ZpVFRLLWI1V3dmSFlBZzM1YUU1cnNzcG5ESkJpTHUtbW8wbDZ1SE5hVjBPb05NZ3VHcE9UWE9DYUxTMXptcnRtSGxXaQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-10-31T21:45:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日本・サウジアラビア外相が会談 中東の安定へ連携確認    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "日本・サウジアラビア外相が会談 中東の安定へ連携確認"
+      }
+    },
+    {
+      "title_original": "Thousands demonstrate in Paris as protests spread across Europe",
+      "title_zh": "Thousands demonstrate in Paris as protests spread across Europe",
+      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-31T21:29:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Thousands demonstrate in Paris as protests spread across Europe"
+      }
+    },
+    {
+      "title_original": "トルコ、黒海攻撃停止要求 ウクライナと首脳会談（共同通信）",
+      "title_zh": "トルコ、黒海攻撃停止要求 ウクライナと首脳会談（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QLUpENVZJQ0lJb0N2ZWpKNTM1NlR3YXk2YnZ6QTdZSTcxa011QldzYXl6N2FWNUxtcjk5OUFuVHpTdXRMZGNiRVdDRUZmckpfdDEwS0txTXVyUXpZRndFZXpvZi1BQVJhblYxS29FMThDWmt4WVUwMzEyWDIyeGM?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-10-31T20:55:02+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "トルコ、黒海攻撃停止要求 ウクライナと首脳会談（共同通信）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "トルコ、黒海攻撃停止要求 ウクライナと首脳会談（共同通信）"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg aktuell: Selenskyj schlägt Patriot-Tauschhandel vor",
+      "title_zh": "Ukraine-Krieg aktuell: Selenskyj schlägt Patriot-Tauschhandel vor",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa1F1alN3MlZnNThIa1ZOMmNhNk1uZ2ZNM0dES09CSGRuUDMwX0NmMVhob0NLX1pQWVJ1Y19NZFB3aDBseC1sM3ptSXlNRlFUQ3VjUFgxWXhETW82aEhfLWpWdXhwUEtTUWhzamw0SmV3b3ZZU1YtcmZ1cEFic1l0aE12M1VXQVdTVU5JQ1Q2bjYzWDRpakgtVkhvNGZzbFdhVzFzOFd5YW1wQVhSWTBnSExQSHFXX0ljc3lKaDA1cTcyZFlFZHc?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-10-31T20:46:33+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg aktuell: Selenskyj schlägt Patriot-Tauschhandel vor    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg aktuell: Selenskyj schlägt Patriot-Tauschhandel vor"
+      }
+    },
+    {
+      "title_original": "آلاف الصهاينة يطالبون بتشكيل حكومة تُنهي عهد نتنياهو",
+      "title_zh": "آلاف الصهاينة يطالبون بتشكيل حكومة تُنهي عهد نتنياهو",
+      "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOVXZoUGpuUW84LURYd2Rxd2h4b0haZU93R0ZDcEYzLVEyRTBjY0MzbEl3cjc0bXM5aTNaeld3U05qV29YWndYaTJUU2cxNDhodkJOcTlaQ3dpcjRSSXJZZUZaSTYxV1JDVE9uRnJHeVZjYVdEM0k0bUdhaHp5RUZuSU5hZWhwelV0QmxSbkNDVHctdXJlT1NtM1lfS0NacEpwZHVqbzJLR0g0cFBGb1FieW9PYUxTNGNOS2lTNG80MFFRMXZ0TlRxNTdLVG5aeGl3TjJVMHZycXZlbFB2bjg5dUdLYW5Ub3pwbzFXNzRpekE4M0dlYUpwakpRcTFXMWdKMEw5S241MzVqa2ltZllUUG5raFB6cVZWbXZBQ1hqa0ttZTdvY2hHUUZqT2F6aGJPekh3V29RRlliMWlpdWwtaE9xejVyYWVyY0k1YUY2ZlZKREJVM21nSml6TWJucUJGWHhfZlcyQmJOdU5GTzRxdHJhaXlkemlUM1F0a05TaEw4QWtvcE5iazdwU29NYUlwekFiZjJIX2pmOS10WlhNUUJzT1Nid0hmZ0dlT3VMNkZnTWt1d1NaWmtnTUdpU1F6ZHdhbkdaWmRMNkFPNDVVcXZUS3LSAdoDQVVfeXFMT3dpdzNxcTdfRmU5Tjh0WXBjUU9yWUxBckRUanN0Y3dEdW5sWVllMTJzOXdGdUM5Z0Nhck5jYU1qTUNYdWQ2d21HSHB0UFRpZTlPdzBYM25mMks1Zl9seWt2ZWVEWjBpVmh2Ymp6RkliWWFob2xjdlJ2Y25kYVV2dkhuTnJXVERwS1E3TFNid18tOVppWnd6N1pfN3Y2bF9SLXUyWmFuWXR4SGNqMlVNcElxNHVERE1Tbm9wY1RFbGEySFQ2STdHek40eVk3STV1MTAxSU5PWlk3OXpuZUFNMVFNV0RpN3FRb1VxX1IyVEh0RG1EMEVZMnhjVXFCTlBJNHQ4bWJsV3k3WGVlUXBYT25FYmdNOHVmSVhSa0FJUmY5UVJpZXplM1dhY3B5Z1pzZVFUR2NzWTlNdWY3Vk11Q1FkTlJ6TU84TFg3YUJHZEZGemVYMHJnQjhKOHpMZlRmOFY2LVpLcHIzeGRiNy1FZk1uVksyNkpHaDBIdTRneDVKRkEtMDdoMGluUTJGYjY3U0pTQjY2NkVtNEVaaS1kbDJJR3dCMmVKZUpKR3o3NW10OHVuTFRqbWMtLVdlVXpBSVgwLTFVcG5USjRLYkRHU29OanFjZVhZblRR?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-10-31T20:22:32+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "آلاف الصهاينة يطالبون بتشكيل حكومة تُنهي عهد نتنياهو    تسنیم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "آلاف الصهاينة يطالبون بتشكيل حكومة تُنهي عهد نتنياهو"
+      }
+    },
+    {
+      "title_original": "الشرق الأوسط على الحافة.. هل تتجدد الحرب مع إيران بعد انتخابات التجديد النصفي؟",
+      "title_zh": "الشرق الأوسط على الحافة.. هل تتجدد الحرب مع إيران بعد انتخابات التجديد النصفي؟",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHBoLWllRC1mZUE0SnZmUU1IS3dudEJ1QnJCVU9TMHc0dHl1QXFXN3hHaWc1OVJ1RXJaQnIycXc3MjdfUUliZE5aUHd6V1N5bmEtbG5IUnB2ckdHbXpTYUpUeVJZYUV6UDFiazh4U2oxOENfX1REcEhwTXBPSHdScGllVQ?oc=5",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-10-31T20:08:32+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "الشرق الأوسط على الحافة..",
+        "هل تتجدد الحرب مع إيران بعد انتخابات التجديد النصفي؟    CNN Arabic",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "الشرق الأوسط على الحافة.. هل تتجدد الحرب مع إيران بعد انتخابات التجديد النصفي؟"
+      }
+    },
+    {
+      "title_original": "ウクライナ南部の停戦で住民退避が終了 和平進展につながるか",
+      "title_zh": "ウクライナ南部の停戦で住民退避が終了 和平進展につながるか",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NbWh4emt2VG1hVFpDYjY2VkdrSW1nc193elJKc0l0cmwyUm1DXzVsX21fMkNLeHo2MEZtRWphVU9HRWJYOEt0NG5ReGZLVTkyX25LQ081ZWlMUHBxUVA0?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-10-31T20:02:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ南部の停戦で住民退避が終了 和平進展につながるか    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ南部の停戦で住民退避が終了 和平進展につながるか"
+      }
+    },
+    {
+      "title_original": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "title_zh": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-31T19:22:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city\n- Published\n- Warning: This story contains graphic content.",
+        "Olha has one word to describe what life has been like in the front-line city of Oleshky over the past few years: \"Horror\".",
+        "Disembarking alongside her from a coach in the Ukrainian region of Chernihiv with their immediate family and dog, her husband Viacheslav put it this way: \"We came back from hell.\"\nThe couple were among hundreds of residents evacuated from the Russian-occupied city who crossed into northern Ukraine via Belarus on Saturday, many reuniting with loved ones they had not seen for years."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city"
+      }
+    },
+    {
+      "title_original": "Taiwan Pride feiert Freiheit - 150.000 gegen Ausgrenzung",
+      "title_zh": "Taiwan Pride feiert Freiheit - 150.000 gegen Ausgrenzung",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUVFTNFI1NkVqdnBJREtjcG1SRXRmMExfV09hRkNGbzdqY0JMMG5iR2VrMTNzMWJBQnpGWXF3UTlIcmhLUGU3aWVDWnNRTjh1Y0huOXhfMHZoeDRycGQ0ZXd1amNTNDNpcml2em1iOXFVdVR2RllHS050MHdhUFlBTTk0Nk1uU0FBX2t4d2twTWhFU0U?oc=5",
+      "source": "SCHWULISSIMO.de",
+      "source_score": 40,
+      "published_at": "2026-10-31T19:06:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwan Pride feiert Freiheit - 150.000 gegen Ausgrenzung    SCHWULISSIMO.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "SCHWULISSIMO.de"
+      ],
+      "all_titles": {
+        "de": "Taiwan Pride feiert Freiheit - 150.000 gegen Ausgrenzung"
+      }
+    },
+    {
+      "title_original": "Los aliados de la OTAN temen que Trump retrase el envío de misiles Patriot a Ucrania tras las legislativas",
+      "title_zh": "Los aliados de la OTAN temen que Trump retrase el envío de misiles Patriot a Ucrania tras las legislativas",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUEZFd2FDRzd3dUxxZDJfM3ZLTm5fblRKLWNFTEpUbGVOaHZySnUwcjFUYnplRk13MGVObjFIOU9KemJtd3dzUDQ3T1ZaMUZ0dk1BUmxjeE1NZXlsVzgxS3VkYnRwdWxqVUxUOVR1UWgyUmpFaDNiM2J5SE5Deld6TnVLNUVITzZkeXZPaWNmdkhSMWwxVVZQcXVRQmlBWVIzaTVBQzJESXZhUzNlaW12VUpUdHpBX0R4QWRUeUpDMjd2Wjg?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-10-31T18:52:49+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Los aliados de la OTAN temen que Trump retrase el envío de misiles Patriot a Ucrania tras las legislativas    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "Los aliados de la OTAN temen que Trump retrase el envío de misiles Patriot a Ucrania tras las legislativas"
+      }
+    },
+    {
+      "title_original": "Evacuees of Russian-occupied Oleshky reunited with families",
+      "title_zh": "Evacuees of Russian-occupied Oleshky reunited with families",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ08xcUh3cTAzaHNRYXhFNFAwUTVZYlg3aC03SzJjUmtESHVPanZ2X1UzMWVWTmF1ejVyQ2hPaUVfYTh1YW9xb0pVNkZWdHBjeDZaSUxNWTI5dG5fcnZqcElVZ3lWbEdFdHEwYkwwVXlMb1I4UGR2a2o1SUU4YUk3Zll3Zmx1Sk95QlZzbUYtX09JT2Y2ZDhtLXlvN1lXZkRDVkNzNmdib2QwSVFMNjhwRTMzdUFVUzVFd3NUc0lR0gHDAUFVX3lxTE5vSVFpbnFaaXdKOGJGSi1INDJBM21LZEktNnZEMGQtWTBscDd4Rk1HdWxxNFZ4X1UzSXlRanczSy12cHNFMDV1Wmh3WXAtclhhbXVTZzdhTDhNTVRBZFBXazVUV3NNOXFVM2wybkxOY0hXbHVLNTBQaGxxbnZYek9zczBMS1BvTGtCekxLSzdwVm11VFVYTERrNlpESnlDcXhkU1Q1WlA2X2FGbzE4SThvZUpsWFVzUkczU2dra1ZOckZUYw?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-10-31T18:50:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Evacuees of Russian-occupied Oleshky reunited with families    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Evacuees of Russian-occupied Oleshky reunited with families"
+      }
+    },
+    {
+      "title_original": "This Sunday, conservative pastors will preach against Democrats’ claims to Christian faith",
+      "title_zh": "This Sunday, conservative pastors will preach against Democrats’ claims to Christian faith",
+      "url": "https://www.politico.com/news/2026/10/31/conservative-pastors-sermons-talarico-hamilton-christian-01143604",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-10-31T14:00:00-04:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Evangelical pastors in key battlegrounds plan to warn their congregants about the danger of voting Democratic — even for Christian leaders.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "This Sunday, conservative pastors will preach against Democrats’ claims to Christian faith"
+      }
+    },
+    {
+      "title_original": "Face aux spéculations de nouvelles frappes sur l'Iran, Mojtaba Khamenei menace de riposter",
+      "title_zh": "Face aux spéculations de nouvelles frappes sur l'Iran, Mojtaba Khamenei menace de riposter",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOYkdZNmNNVFY5UjA0dldNMW1zQnBkWE1BOVllTDlNdmtCejdZaVBSNUtrMXVnYmg5anFic2RhemlpQkkxUmctYXBvLVlUeWNBWTRMNmktQTljSzB4dHVSOHBrdUdDcUZhSTl2bi1YOVFVQkhLMEVzLU43RWcwdTdLZ0NYWm1XcUl5X09Xbmw1bjZpMk9RWWlVRlJ6RGl5Y21uMDZTN3lQaGp5Q2NzYTRZMmIyUHM5SHdYeXYxNWlPNm1JYlJ3OHc0NzdEZDR5bDFUN21zMDN2RDl0S2dmbHoyVFlaejJkNjN5TTdmc2VCTEFyaGdMYlMtanBITTlPdDNRb0JteTJqb183NkczZXR6U2RqX3dHazRf?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-10-31T17:47:09+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Face aux spéculations de nouvelles frappes sur l'Iran, Mojtaba Khamenei menace de riposter    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Face aux spéculations de nouvelles frappes sur l'Iran, Mojtaba Khamenei menace de riposter"
+      }
+    },
+    {
+      "title_original": "« Dracula : la véritable histoire », sur Arte, livre une lecture géopolitique de l’Europe de l’Est depuis le XVᵉ siècle",
+      "title_zh": "« Dracula : la véritable histoire », sur Arte, livre une lecture géopolitique de l’Europe de l’Est depuis le XVᵉ siècle",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQLUJrVDlNcm1ITXMyaUZYTEt5a2JUbFNqanZUQ3NPZmZkMjlGSlJBVmwySUFyS0NrWUdpcld2bGVCYjB6d182a21seGdjT3llY3NaNHNLdDVaMk5kMWp5dkJoV3ZyRk02OWJ6YkhINXYyczR2cjVyc1dpeUM0eFRCS3h1aHhTT2lkWG1EZXBzZFRpblhNdk1Lb1pOeUhHekpyUURZSldwdEFLaHpYQ0lfVl9QdTVXNDZFYkZyN3BOWXpGTFI1TDJtVUlLV2tjM1pqNFdrMmNLWVZ6Z1MzRGwwSXRFaEJzbGtETXpvbEpDWkw2V2hRalZBWmM5d1Rldms4VmlJME5ReU96Zw?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-10-31T16:30:02+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "« Dracula : la véritable histoire », sur Arte, livre une lecture géopolitique de l’Europe de l’Est depuis le XVᵉ siècle    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "« Dracula : la véritable histoire », sur Arte, livre une lecture géopolitique de l’Europe de l’Est depuis le XVᵉ siècle"
+      }
+    },
+    {
+      "title_original": "حرب أوكرانيا تطغى على اجتماع وزراء خارجية مجموعة العشرين.. لا بيان مشترك ولا صورة جماعية",
+      "title_zh": "حرب أوكرانيا تطغى على اجتماع وزراء خارجية مجموعة العشرين.. لا بيان مشترك ولا صورة جماعية",
+      "url": "https://news.google.com/rss/articles/CBMi0gVBVV95cUxPRW41VUxpd0lXc3hFQUxmZkktbW1VMjdET3JKRTBvRE14RUtQbTJwbXlXeWhRV3EtZTFHMWhsQ2V4VjZEbDY0Ql81Q3R3bFBuUGxXdlRCMTAyZkFLLWxBZWh0QkhEVFl0QXRibmpId3kzU3ktOV9uR3FucGgzZUJYdnF3bWVBVXVydlU5d1NzQW5GV0hoZ1ZINFFVeXZQVDdVcjM1WHNaX2VOVlpKZ2FfZ3NkSjNZcXZYOHdHVG5SRlJqT3NCcm45ZkktTlpKZzVhNEEzMDBFWkswcGFrUFBIM1lvU29tX1A2NXBxLWMxYVdYUHZFS3dvNVRjWnFHNnB2LXRzZWIzTXdILUptRXd6b3kzYzFOWUNld3Q0X3VieUNxdGxaWlA5V1hmcXlfcjFLWGYtRW95WDdiYUp0eG5faWdFd0RvSWtBQ2MxZE45VEEzMklBYVd3UnowVUZtR1BTaFV2OUdFZ1ozeDZiUjNCWW9PWEN4Q2JDOXdjdmhsSkdnU0xVdkZibFFyX2VXQ09tNjQ3TmNSUVRCempjZ05QTTNFaG00enNEelNoTThIVEhNVlNZSGZveVlGcE56b2gxRlBtWGhjSnZwLUdqY1RVT0c3OHlLZUtQNG0zVDk1eXVBV0NOcGZxdU4ydEIwSUFDYjU2ckRxUkQ5bUZHREgweGZQR1l4QkRVbndXdXBYQVpXQWxra1paUC1PSkhhZVlDcHlTWW1pdHJFQUtSbk5OaDlWc2ctRE5BUzU4TnA5NHlmeDFweE92dVQ5ZEt3WXdNamRTQk5TbmxlS1pNUGk2YllGV2F3V082ZG9JV08tMDVfVjdxUl9FWUFoVVJuc0cwR2VmTHRuVkRkNmhNT2JnNVNOa2tXMS1DcW9IdHY3ZURMTFNYSFhhRmoyUmF1TDU1d3ZPN1Ftb0RrSGtoN0FJMER1SE5KMWFvSTZHUkl3VmVKZw?oc=5",
+      "source": "مونت كارلو الدولية",
+      "source_score": 40,
+      "published_at": "2026-10-31T16:30:02+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "حرب أوكرانيا تطغى على اجتماع وزراء خارجية مجموعة العشرين..",
+        "لا بيان مشترك ولا صورة جماعية    مونت كارلو الدولية",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "مونت كارلو الدولية"
+      ],
+      "all_titles": {
+        "ar": "حرب أوكرانيا تطغى على اجتماع وزراء خارجية مجموعة العشرين.. لا بيان مشترك ولا صورة جماعية"
+      }
+    },
+    {
+      "title_original": "برنامج الشرق الأوسط 31.10.2026",
+      "title_zh": "برنامج الشرق الأوسط 31.10.2026",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbzZjZXExbF9iSXZ1VjVSbGhSa1ZpTkRvbGtmRTBMV19RSWZDSHdBd0pIR0JXdkJoUXljNDdsOV9KNkhzYUU3QTNGVnhNTDlFT3pJSnJvbUtpcUg0VF95N1FSRWxMLXg5YjJvU19fSEZYZVcycHhhLVNFV3g5bkFBTWoyck95czYtVXFsQXhtcWE1R3ZfeEpvMWpXUHo4Z3VP?oc=5",
+      "source": "Vatican News",
+      "source_score": 40,
+      "published_at": "2026-10-31T16:30:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "برنامج الشرق الأوسط 31.10.2026    Vatican News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Vatican News"
+      ],
+      "all_titles": {
+        "ar": "برنامج الشرق الأوسط 31.10.2026"
+      }
+    },
+    {
+      "title_original": "MARSEILLE : « Code Rouge », un thriller géopolitique sur la future guerre de l'eau",
+      "title_zh": "MARSEILLE : « Code Rouge », un thriller géopolitique sur la future guerre de l'eau",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnZ6N1RwYlQ0clE2VlVRYVRaMmpzZW11QW5LamJLYW4wU0dEeW9kM3RxQl8zZlB6d3pIVzRHWFprSnBMd3pFRG9sTXQ0Q0NpRDBjOGM0Ym5NNEdfdlZlbURWYW0xelcwVDhHS1Z5cFhtbWU4NW1yOHlEdmNRQTFrSklLWVA1WHVGWDhPS0pXVHBlUXh0dVBGMzRiNmxDNVFY?oc=5",
+      "source": "Presse Agence",
+      "source_score": 40,
+      "published_at": "2026-10-31T16:00:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "MARSEILLE : « Code Rouge », un thriller géopolitique sur la future guerre de l'eau    Presse Agence",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Presse Agence"
+      ],
+      "all_titles": {
+        "fr": "MARSEILLE : « Code Rouge », un thriller géopolitique sur la future guerre de l'eau"
+      }
+    },
+    {
+      "title_original": "الصورة: اليوم العالمي للمدن.. حروب ودمار يغيران ملامح مدن الشرق الأوسط",
+      "title_zh": "الصورة: اليوم العالمي للمدن.. حروب ودمار يغيران ملامح مدن الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sdUtGcWp4cmJPZE40dUV1WUVaU3pSVHkySkE1MUJBQnUtQzFVZFBmTE9JY0tYMks2NUJiVGtIZjZnWEI4Z2NJMXhzbVlieDc4ODNjbjZ1RTZQX1cwU1lVTXZqRGF4c0ZNT1J2WjdGaVpYVFN5N0pMWkF3?oc=5",
+      "source": "新华网",
+      "source_score": 75,
+      "published_at": "2026-10-31T15:58:45+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "الصورة: اليوم العالمي للمدن..",
+        "حروب ودمار يغيران ملامح مدن الشرق الأوسط    新华网",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "新华网"
+      ],
+      "all_titles": {
+        "ar": "الصورة: اليوم العالمي للمدن.. حروب ودمار يغيران ملامح مدن الشرق الأوسط"
+      }
+    },
     {
       "title_original": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "title_zh": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
@@ -54,6 +754,56 @@
       }
     },
     {
+      "title_original": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "title_zh": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-10-31T15:16:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "More than 5,000 die from Ebola in DR Congo's deadliest outbreak\n- Published\nMore than 5,000 people have died from an ongoing Ebola outbreak in the Democratic Republic of Congo, government data shows.",
+        "Eight of 26 provinces are now affected, with more than 10,300 confirmed cases.",
+        "The outbreak, which started in May, became the country's deadliest in its history in August, public health officials said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Oleschky-Flüchtlinge sind wieder in der Ukraine",
+      "title_zh": "Ukraine-Krieg: Oleschky-Flüchtlinge sind wieder in der Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcEJUdVNLMHNhbklJSG5GZlJnZ0YzV0p0V1dYOHRjbkZsZnVoNXdadlp6S1ZqeWlKR1FZLWNHUHdXTGJtODVnUXk0NFdHMUc5cWNLcTJ6bnVLblNrbXlqUUZkSDRtQXVCeVFCbUU2YUhtNEMzdlFLX01hVGdlWU1iZ0NUSnZmOWlNZXhqenE4US1NYjZ0c2JGWDJwZ09DenpGZS1nTVhfazYzdThweGdTQ2xBbG54YXpNc3NfbmcwNWQ?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-10-31T15:08:30+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Oleschky-Flüchtlinge sind wieder in der Ukraine    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Oleschky-Flüchtlinge sind wieder in der Ukraine"
+      }
+    },
+    {
       "title_original": "Russia Ukraine War",
       "title_zh": "Russia Ukraine War",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTdsM1NRVFloa3NuM1BzaHJXQ1I5VnV1SXRMakQwMlhhZDk5Q0I5eTZ4NTNwN2Q4aGJLcFo0aThJQzNlaUIyNDRJeV9ZenR3bXNIN3o4bk4wOHNiZjJlTGE3YUlNTk1zLXBBelQ2MUg3WWloNU5OMVhYMlIwM1p1blpKRXVObDJra2VIdUhsejBYeFRkNkttelEzSzVVNTJZQVJUcGVoYw?oc=5",
@@ -101,6 +851,31 @@
       ],
       "all_titles": {
         "ar": "الصين تكثّف دورياتها شرقي تايوان وتايبيه تحذّر من احتمال فرض حصار بحري"
+      }
+    },
+    {
+      "title_original": "الصين: خفر السواحل يجري دوريات شرقي تايوان",
+      "title_zh": "الصين: خفر السواحل يجري دوريات شرقي تايوان",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yNngtLVI3M0dMN201Y1RqYmNBcnNBOFBlNzd3eDhtT2wwY1JKZ2ZNeUZBV2xacHhJZ2p1VHprb3JYMk1iaVdTemltbjFzdW0wQi1TSWxuRThBeWR1SDFzNzU3NkZLVWRtYVFVdTBoUXRVTFBUZnZCc0VWdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-10-31T14:39:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الصين: خفر السواحل يجري دوريات شرقي تايوان    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "الصين: خفر السواحل يجري دوريات شرقي تايوان"
       }
     },
     {
