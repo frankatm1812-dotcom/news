@@ -1,0 +1,882 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-01T17:07:16.768581+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "title_zh": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-01T16:25:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Israeli strikes in Gaza kill eight including child, hospitals say\n- Published\nIsraeli strikes in Gaza have killed at least eight people, including a child, according to hospitals, despite a year-old ceasefire.",
+        "In Gaza City to the north, hospital officials said a missile attack hit a group of civilians next to Cairo School in the Al-Rimal neighbourhood, killing three people, including a child.",
+        "In the southern city of Khan Younis, the Hamas-run ministry of interior said a drone attack targeted a group of police officers in the Al-Mawasi area, killing five, as they were carrying out their routine duties."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israeli strikes in Gaza kill eight including child, hospitals say"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : huit morts dans des frappes israéliennes à Gaza ; 300 000 déplacés au Yémen",
+      "title_zh": "Guerre au Moyen-Orient : huit morts dans des frappes israéliennes à Gaza ; 300 000 déplacés au Yémen",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUnZRb2NYb2NMWTRDVTVRVTRBOGxEMTE3OWVGN19xR1R6ZlVLZEhXYnRJS0l2bTc3Q2dCRGNnS0JEY2NMN2wtNVJZN1JmWWltRnpqVmhmRzY3ZG9naGJ5RTJEbUNuLThoOWZqbFdNNzRhQTdPeGJjZlBYNXQtQmM3SnRvYUgtSHFyaEU0eDRHSkNxTVZnUjFfLUJuT0lYeE5rY1Z0M2d1ZThkVkNfNVpOQVI3MnlJS0hac244UjQwNm8?oc=5",
+      "source": "La Croix",
+      "source_score": 40,
+      "published_at": "2026-11-01T16:10:24+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : huit morts dans des frappes israéliennes à Gaza ; 300 000 déplacés au Yémen    La Croix",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "La Croix"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : huit morts dans des frappes israéliennes à Gaza ; 300 000 déplacés au Yémen"
+      }
+    },
+    {
+      "title_original": "ロシア統計局にサイバー攻撃、「ウクライナ支持」ハッカー集団が犯行声明…昨年の露航空最大手への攻撃でも声明",
+      "title_zh": "ロシア統計局にサイバー攻撃、「ウクライナ支持」ハッカー集団が犯行声明…昨年の露航空最大手への攻撃でも声明",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IeWhiQnYxZWpFT1F5UEpmSHl0T1lmbkxVUDBLRlhrN3p1RVVRdGRtaEEzRnE0aXhYdmltTmo3eTZVRGNsVkhKX25LM2t4NG9XRHcxXzV5X1BIQ3dRNU9OREJn?oc=5",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-11-01T16:02:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア統計局にサイバー攻撃、「ウクライナ支持」ハッカー集団が犯行声明…昨年の露航空最大手への攻撃でも声明    読売新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "ロシア統計局にサイバー攻撃、「ウクライナ支持」ハッカー集団が犯行声明…昨年の露航空最大手への攻撃でも声明"
+      }
+    },
+    {
+      "title_original": "صراع الشرق الأوسط يهدد بإطالة موجة التضخم في أوروبا حتى 2027",
+      "title_zh": "صراع الشرق الأوسط يهدد بإطالة موجة التضخم في أوروبا حتى 2027",
+      "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxOS2lSS195bmJ4X1Jrd2xsQXR3Rk9JSFo5elBDYVUwYXhxVzZscHRhN0d3d2E3N3lPT242X2ExdTZhUkNPWEtQUEl2MnA2ZXJtZ2V4eXRqcnhNN2RkZWtzcldLdDZQR29ZZzE2UjYzek1rTUZEb1YyYVQzZFVJaUlUZm5jS0VkYmtwUUctOUpyMW5jM293Sk9maHlLSkZrcnExS3FVRDFPU0h2NkxRLUxETFFsc2hrVEtMa24tTWJOUmJWODBGTzJWU005OXVVZFlyWWEwT19JUXJZZmIzNVJRVVUtMmdVcTNvd21yQmJ5X2Jsc2NuMDZkdmxNakkyeEp3UDlFZGo4MkJjdGdMMVFRMjNPNm13YU9JakJ1ekhiRlFQdmMyLUwwLXgwc3hlYjA2Rlhsb1ZhSU1oTzFNSUJMcVBHWVdfOG1nd1lveFZpUkdQeEFtTVpyVWhOQnR3MG1QWDNaSENWNkw0VmVWbGNsRUY0V05FWkIxUjZmZnpXNXpsZXhaSXFMMk1fWk10V3RzU1ZYUXF6M0RYWVNqYi0yUkFrOVJ0UV9xMDgwbGtURGFzNllGUjMtbXUwN1JQVlR4TXhjRE1tMVNqZXVRUnFlOGpPWXF5MDNOV3ZRRmVha0ZFeWpxTTdhRw?oc=5",
+      "source": "CNN الاقتصادية",
+      "source_score": 95,
+      "published_at": "2026-11-01T15:57:54+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "صراع الشرق الأوسط يهدد بإطالة موجة التضخم في أوروبا حتى 2027    CNN الاقتصادية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "CNN الاقتصادية"
+      ],
+      "all_titles": {
+        "ar": "صراع الشرق الأوسط يهدد بإطالة موجة التضخم في أوروبا حتى 2027"
+      }
+    },
+    {
+      "title_original": "November 2026",
+      "title_zh": "November 2026",
+      "url": "https://www.politico.com/cartoons/2026/11/01/matt-wuerker-cartoons-november-2026-01144662",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-01T10:14:31-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Political cartoons from the desk of Matt Wuerker",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "November 2026"
+      }
+    },
+    {
+      "title_original": "Rafael Loring, economista: \"El tema de Taiwán no se puede dejar de generación en generación, se tiene que arreglar en esta\"",
+      "title_zh": "Rafael Loring, economista: \"El tema de Taiwán no se puede dejar de generación en generación, se tiene que arreglar en esta\"",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdnV0elF2Q1ZGRThfclkxVmpjamdpTDlPOFpZb3ROUmV1dk56ZkhlcDl6VVR5bWNwd1ZQQ0NJY01TaW5ZMU80MmR0YVlPVEN1cEQ0Ym9NdjZ6YW83T19tZ3VmOTl6T3NnbF8waDRObDFlUzZGb0w1T2FsaW1GTkJuRFZ3cHJadjlwTVRCeGhGbHF1aGlVZ2FnYnRqR1hwT1FDUmtBc2toVnpWUTNTNE52OHVDWUR6MUZDR0ZVbW1kNTZ0TWNteXJNVEJicGtUX0lOTVZQSVhxSVNLWTNFejFXTHBB0gHnAUFVX3lxTE9HNkJ1YTVKZ3h0SVYwOW1vRHJ1a0JmNTBVRHlsNWpnWmN2Vlp3cGhhM293elRXYnlGcnJkT0Fid1RsclFCNHJYeDJwSE42cVFIUjExdWpkbjM5OTNxQ2daTUFyek9pWEd0aldZZFpFckN0YVN0RGFvUGY0d1VvRzJhZnZGUERQblhDZkYxeDN4emNuZ2k1WlkzLTVybkFMRU1sS21DRFQxdVVUWGpuVl9fSmdvdExpaEVRajhSS1RvdGFQaTBWQlQzN3ZJSC1MSUJETi1CdlFEeGJJRUo0RlF4T2VzcW1Mdw?oc=5",
+      "source": "COPE",
+      "source_score": 40,
+      "published_at": "2026-11-01T15:06:21+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Rafael Loring, economista: \"El tema de Taiwán no se puede dejar de generación en generación, se tiene que arreglar en esta\"    COPE",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "COPE"
+      ],
+      "all_titles": {
+        "es": "Rafael Loring, economista: \"El tema de Taiwán no se puede dejar de generación en generación, se tiene que arreglar en esta\""
+      }
+    },
+    {
+      "title_original": "The size of Democrats’ victory Tuesday could help determine their future",
+      "title_zh": "The size of Democrats’ victory Tuesday could help determine their future",
+      "url": "https://www.politico.com/news/2026/11/01/poll-democratic-party-future-midterms-01141119",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-01T10:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "A POLITICO Poll found that Democrats may see a decisive victory as a mandate to run more progressive candidates.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "The size of Democrats’ victory Tuesday could help determine their future"
+      }
+    },
+    {
+      "title_original": "Russia Agrees to Halt Recruitment of Ghanaians for Ukraine War",
+      "title_zh": "Russia Agrees to Halt Recruitment of Ghanaians for Ukraine War",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdTdKc0lZRGY0SEdNNGNMVWhrMnhydmxBSzdLLWM3am9lbDlvMnhPVDBOVllXYlg2M2dOdXFvRG1STllKY3pfUUVsemlKTGJvNGt4VXlrUEt3MEVGRVp1R1pMcUo1QmRYdXJzM1pBbjBqNUZscU84aW54clE5ZUdGZHhuR19BSVlUbXlKWjBqWGtNWjFCa3RfV21hanB0ZTg4MGdLZHFHeG9lUy1ZV3VtbUNoZw?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-11-01T14:27:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia Agrees to Halt Recruitment of Ghanaians for Ukraine War    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Russia Agrees to Halt Recruitment of Ghanaians for Ukraine War"
+      }
+    },
+    {
+      "title_original": "雅马哈忧中东局势退出卡塔尔MotoGP 车手要求安全保障",
+      "title_zh": "雅马哈忧中东局势退出卡塔尔MotoGP 车手要求安全保障",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsVUFOeWxSeklkWUJHRW4tTHlkTG9uUkRDRVBXTC1nVWF1RGFfVDJacU5RaHZhWFRKR3NRMEhLVEhWbE1VZGxDN1ZlWk91M3NTUm9hWVRCNk9QTGVuYmhYQUhvOU54bi1iQktF?oc=5",
+      "source": "联合早报",
+      "source_score": 40,
+      "published_at": "2026-11-01T14:06:26+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "雅马哈忧中东局势退出卡塔尔MotoGP 车手要求安全保障    联合早报",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "联合早报"
+      ],
+      "all_titles": {
+        "zh": "雅马哈忧中东局势退出卡塔尔MotoGP 车手要求安全保障"
+      }
+    },
+    {
+      "title_original": "Trump verlagert Milliarden nach Lateinamerika – Nato bekommt die Rechnung",
+      "title_zh": "Trump verlagert Milliarden nach Lateinamerika – Nato bekommt die Rechnung",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRnNJcU80VW5SNDhqZW1wYk00a0FLQS00bXEyN3V6QmJxdF82eHVHWlFOZGxxMXg3YkhISjEzSnlXNG9Qa3hwTGcwVE1CMzNZN0FGY3JjWDItcGR5V2hzUGZlLVRyYnhFVmM0U1ExWndyQ3Njc1NKdzdRWk9QTlJXdDBoTC1UdzdvRE16bG8tMDNrRkVuY05USDVkS3VBZnBOS29kSVg0U0RjRFRMbVNLREZja3djZTk0LWduellxWVNBSXA0QmZINnVTUzFFSXMzeWgyYXRMU215S0ZxakZ1bVRWNA?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-11-01T13:59:52+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump verlagert Milliarden nach Lateinamerika – Nato bekommt die Rechnung    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Trump verlagert Milliarden nach Lateinamerika – Nato bekommt die Rechnung"
+      }
+    },
+    {
+      "title_original": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "title_zh": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-01T13:11:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Crypto firm Binance covers 90% of losses after $6.3bn hack\n- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.",
+        "The remaining 10% may take longer to source in the required amounts, the company added.",
+        "Binance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Crypto firm Binance covers 90% of losses after $6.3bn hack"
+      }
+    },
+    {
+      "title_original": "الشرق الأوسط على الحافة.. هل تتجدد الحرب مع إيران بعد انتخابات التجديد النصفي؟",
+      "title_zh": "الشرق الأوسط على الحافة.. هل تتجدد الحرب مع إيران بعد انتخابات التجديد النصفي؟",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHBoLWllRC1mZUE0SnZmUU1IS3dudEJ1QnJCVU9TMHc0dHl1QXFXN3hHaWc1OVJ1RXJaQnIycXc3MjdfUUliZE5aUHd6V1N5bmEtbG5IUnB2ckdHbXpTYUpUeVJZYUV6UDFiazh4U2oxOENfX1REcEhwTXBPSHdScGllVQ?oc=5",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-11-01T12:39:07+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "الشرق الأوسط على الحافة..",
+        "هل تتجدد الحرب مع إيران بعد انتخابات التجديد النصفي؟    CNN Arabic",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "الشرق الأوسط على الحافة.. هل تتجدد الحرب مع إيران بعد انتخابات التجديد النصفي؟"
+      }
+    },
+    {
+      "title_original": "\"لباب\" في عددها الثاني والثلاثين تناقش تحولات البيئة الإستراتيجية في الخليج والشرق الأوسط",
+      "title_zh": "\"لباب\" في عددها الثاني والثلاثين تناقش تحولات البيئة الإستراتيجية في الخليج والشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQUEpTWTNqVDVsc0VOUzI5V2NsdTJ5VldIMEdvYXFmRGRiMVdNYjE1dVUzWmxQOXpBT3hMamZRV3dQNUFHZ295YnRTV0ZFeUNSLXR6QnNyZVBiTkFaX1dtcmgtMkVZLXJ1U3BnOEszbWNhTjdyMlNxQmkxbHhFUFg1ZjdTYlZqcEhSVF90dzlZMjU4aThMcXVLOVhKMERTa0JRTW0tTWJsdmlId01Rc2o1Q0lRbjluY3R0d0xubXQ5c0JldDNnaGVaTVhUb1JMTVRtRnlMSWpaTXc5NUxNTXdNbEpZbWxyUVJ4QUhUMUtnLTgzUzNucWo2QjMtV0NXNmUwb1o5aGE4d292MkZzTDhXTzRmRVhJTVpJc1dTRHBzUHk3OG1IelhvcUxnd0lFXzlTUl9GcHBrVW9oaWI3UW9xcDRMbC1tQ1VzY19uWkprX1RoT0FhOXYw?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-11-01T12:23:52+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "\"لباب\" في عددها الثاني والثلاثين تناقش تحولات البيئة الإستراتيجية في الخليج والشرق الأوسط    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "\"لباب\" في عددها الثاني والثلاثين تناقش تحولات البيئة الإستراتيجية في الخليج والشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "La « situation au Moyen-Orient » provoque le forfait de Yamaha pour une manche de MotoGP",
+      "title_zh": "La « situation au Moyen-Orient » provoque le forfait de Yamaha pour une manche de MotoGP",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLW4wMGpDQ3NjV2lrZnBKS2ZvdmVVaThWWEU2RnB4NDdsMnBvdkN3OG5PcGRYRUsxOXNFbFFkbHpzZmdDSzNvaklRTWNZWUh2M1Fybnh3UGJXcWhpVEEzSEo0MWM4VFVhczZCYk5EUlV4NVJFN1BORnhHbkZhQlYyQlFleUN4ZmdxdklCcVNidm9uRVplWTEyTlY0eXhHbDhsS2hLdE9NTnB5Ti1CNEJyMHRRcHhLSi0yMVBGUnZtVllCclZ5M2JYNUhtMEZJNE1jei1YUXA2anhlQzBBREFEYm45ZHg?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-11-01T12:16:37+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La « situation au Moyen-Orient » provoque le forfait de Yamaha pour une manche de MotoGP    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "La « situation au Moyen-Orient » provoque le forfait de Yamaha pour une manche de MotoGP"
+      }
+    },
+    {
+      "title_original": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+      "title_zh": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+      "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-01T12:00:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines.",
+        "Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the Federal Reserve cuts interest rates.",
+        "But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears, about Trump ending American democracy, AI killing us all and stuff like that."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "The US-China trade war seems to have subsided – but the sense of calm is misleading"
+      }
+    },
+    {
+      "title_original": "Shops looted as German cost-of-living protests turn violent",
+      "title_zh": "Shops looted as German cost-of-living protests turn violent",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-01T11:57:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Shops looted as German cost-of-living protests turn violent"
+      }
+    },
+    {
+      "title_original": "Binance resumes customer withdrawals after record $6.3bn hack",
+      "title_zh": "Binance resumes customer withdrawals after record $6.3bn hack",
+      "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-01T11:54:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack.",
+        "The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts identifying North Korea as the likely culprit.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Binance resumes customer withdrawals after record $6.3bn hack"
+      }
+    },
+    {
+      "title_original": "高市首相「中東鎮静化へ粘り強く外交努力」 国際会議へメッセージ",
+      "title_zh": "高市首相「中東鎮静化へ粘り強く外交努力」 国際会議へメッセージ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NN1RWU21YQllPN0xfdXdOdXNTdGRMUWVMZnhaTVA0YWZ2c21EcHF6eUE0Nlp3QjZKSXctWXdsbVo0ZFNkMGJjT25PWGludEpyYng5blNiczhSdHNjdmsxS2sxcnQ4VHdtZm1CZA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-01T11:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "高市首相「中東鎮静化へ粘り強く外交努力」 国際会議へメッセージ    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "高市首相「中東鎮静化へ粘り強く外交努力」 国際会議へメッセージ"
+      }
+    },
+    {
+      "title_original": "Raphael Warnock is 'nauseously optimistic' about Dem's midterm chances",
+      "title_zh": "Raphael Warnock is 'nauseously optimistic' about Dem's midterm chances",
+      "url": "https://www.politico.com/video/2026/11/01/raphael-warnock-is-nauseously-optimistic-about-dems-midterm-chances-2216473",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-01T06:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Raphael Warnock is 'nauseously optimistic' about Dem's midterm chances",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Raphael Warnock is 'nauseously optimistic' about Dem's midterm chances"
+      }
+    },
+    {
+      "title_original": "À Taïwan, pour les LGBTI+, le mariage n’a pas mis fin aux discriminations",
+      "title_zh": "À Taïwan, pour les LGBTI+, le mariage n’a pas mis fin aux discriminations",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN3h2SGxUNFEtZkctR1hZTm5oQ1pkUVN5YVBqUWVEaXBYQmxtOVRxZndoTW9SU2dfdkdYVjhCdmVySWtRZW53MXh6OHJRRjB5V3FQRXdoX05xdEZqaE9jaW9nMGxUYW03X2NHXzluZWwxUlhoU1VRUUdWYkJQWHFXbUJLbEpoLW1MemlBSjlPUXpvUERfOE5ZM2lubEhHZEthc1dqLV9BQzg1OFJ4Q0o4c3RaV1IycG45QzhJcQ?oc=5",
+      "source": "Mediapart",
+      "source_score": 55,
+      "published_at": "2026-11-01T10:39:35+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "À Taïwan, pour les LGBTI+, le mariage n’a pas mis fin aux discriminations    Mediapart",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Mediapart"
+      ],
+      "all_titles": {
+        "fr": "À Taïwan, pour les LGBTI+, le mariage n’a pas mis fin aux discriminations"
+      }
+    },
+    {
+      "title_original": "Ukraine, Otan, droits de douane : ce qu'une victoire démocrate aux midterms pourrait changer pour l’Europe",
+      "title_zh": "Ukraine, Otan, droits de douane : ce qu'une victoire démocrate aux midterms pourrait changer pour l’Europe",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTmdkbE1WNnFGWERycHJkQzB1UkIwT2JSdFZqMTBYRFlHcXdhVGMyMEpLdDVrMlhITEc2ZHM0Rm1aVE12Tmt3RE40Q2I0Q3dla2VoY0pJM1dIR3hvS3JzQjZITl9Eakc4Y0NLRkwtVWEyaURjWEpOUXJLYjF5SFlMLWFITnlwOHQ3VkdYLU0zYjZzUG5fazcwcWVvR2FiaFkzd1pmTjE0RjM1dUZmWm5CLWJrSVNLX3ZlbXFQVlh0SU53eDN1elVicEZoNFNrbVJfakNaRHQ2cmFQUUFBLUx6Vno1eXpDcjdKOEtiemxrMnV2eUE?oc=5",
+      "source": "Orange Actualités",
+      "source_score": 40,
+      "published_at": "2026-11-01T10:03:35+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine, Otan, droits de douane : ce qu'une victoire démocrate aux midterms pourrait changer pour l’Europe    Orange Actualités",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Orange Actualités"
+      ],
+      "all_titles": {
+        "fr": "Ukraine, Otan, droits de douane : ce qu'une victoire démocrate aux midterms pourrait changer pour l’Europe"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - Moskau meldet Drohnenangriff auf Industrieunternehmen nahe Moskau",
+      "title_zh": "Ukraine-Krieg - Moskau meldet Drohnenangriff auf Industrieunternehmen nahe Moskau",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFZNOEZKX2tQamlEMFZoajNubkpDUVhuaFBBdDFBNTBaOG5zWmpBUDNyV3dYQlhxN29lc0xZaGpOeHl6WE9NeDdsZnJqV2gtRjF2cUVnaXpTd1d0MEdmejdnSXI0QXY0dmJrZEc2M1J5T0hQQXBxUERkeVZfdTY0djMyeHdOa3ZPSm14U1NReEsybml4TG9mOEhiUHE1OXZIeWlBdU9ORXM?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-11-01T10:02:54+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg - Moskau meldet Drohnenangriff auf Industrieunternehmen nahe Moskau    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - Moskau meldet Drohnenangriff auf Industrieunternehmen nahe Moskau"
+      }
+    },
+    {
+      "title_original": "美伊军事对峙与外交努力并存，中东局势持续紧张",
+      "title_zh": "美伊军事对峙与外交努力并存，中东局势持续紧张",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wVEE4THNSdkR2SEQ2blFNOWpDdWtkbWpkY1hxYmNaYTRmcEdnaE45MzFDNEwyX2stQzJJQndZcWM0bUwxWGRSQk5hRjNKU0JEa0JQTlZITEhIbWZoY0E?oc=5",
+      "source": "京报网",
+      "source_score": 40,
+      "published_at": "2026-11-01T09:57:25+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "美伊军事对峙与外交努力并存，中东局势持续紧张    京报网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "京报网"
+      ],
+      "all_titles": {
+        "zh": "美伊军事对峙与外交努力并存，中东局势持续紧张"
+      }
+    },
+    {
+      "title_original": "ロシア・ウクライナ、停戦地域の支援継続で合意 避難希望750人超",
+      "title_zh": "ロシア・ウクライナ、停戦地域の支援継続で合意 避難希望750人超",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41ODlNUFdDU3FPTEx0MmJpQlpCekd5ZnM2QWl2WDF0ZE1hOHVXanhjR2w5S3M1WlVKYUNteS1SYzdPXzRRelpDTURnU3lPbmFlZWhJWmU3Y0FNVjBNdXBJMlQtZWxta1ExaEdUdA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-01T09:02:52+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ロシア・ウクライナ、停戦地域の支援継続で合意 避難希望750人超    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ロシア・ウクライナ、停戦地域の支援継続で合意 避難希望750人超"
+      }
+    },
+    {
+      "title_original": "Casandra Alexander culmina su exhibición en Taiwán con una brillante victoria final",
+      "title_zh": "Casandra Alexander culmina su exhibición en Taiwán con una brillante victoria final",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaHVMQVFmdzdwU0FGRTBUZ21TaWhkZnlndFJ1TVJ6SW1kdm5CV1VJVExXMHpXWjd2LTMzNFZqaDRCeHhJLXp5czBaZDUwOWdRaXJiN19JVE85anh3X0NxTDNrb09lUkhLS09YOGZIR0tpR2RFWnZPT1NYUXdQZzlpZlhMYWw0Y2RQVGJ1REdSdHBmWURUdnhhS2hHTmRVaDl0M0hub3F2R2ZKREV6QmNuRnhWc0puZ0xYMEUwWk5pc1RwSWVGM0E?oc=5",
+      "source": "Elperiodigolf",
+      "source_score": 40,
+      "published_at": "2026-11-01T08:59:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Casandra Alexander culmina su exhibición en Taiwán con una brillante victoria final    Elperiodigolf",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Elperiodigolf"
+      ],
+      "all_titles": {
+        "es": "Casandra Alexander culmina su exhibición en Taiwán con una brillante victoria final"
+      }
+    },
+    {
+      "title_original": "中国4调查船绕台异常 专家:恐为台海有事做准备",
+      "title_zh": "中国4调查船绕台异常 专家:恐为台海有事做准备",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5VVJUYjB2bmEwZlplZDRHOFpHc280Q2ZSR1FiNW1qQVAwaE1zbkhyNlBjV0tNQjVLa1F3M1FPTUx4dmhNc21wOVVSUW4zNWZOeEZpdjVmSmhoWTJ0a2lXbmtfUHNMTVUtMjI4?oc=5",
+      "source": "e南洋",
+      "source_score": 40,
+      "published_at": "2026-11-01T08:45:37+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国4调查船绕台异常 专家:恐为台海有事做准备    e南洋",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "e南洋"
+      ],
+      "all_titles": {
+        "zh": "中国4调查船绕台异常 专家:恐为台海有事做准备"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : un méthanier touché par des projectiles non identifiés dans le Golfe",
+      "title_zh": "Guerre au Moyen-Orient : un méthanier touché par des projectiles non identifiés dans le Golfe",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVm0zZWZrTE1nenRZRWdJRGZVZkN0aVVZMmQ4Q0tRdW9ic1N4RUk5ZllxeEVqWHl2WEJISHpGRlh2RGhzU3k5dTU4NklqQ2ZFcHhZSUowLVZ0OThDeFhlemo0dk9JY3RVRFV2LXo0WjhDNXV1dU9rbTEwSTBVakNZU09fbU5XRzFIUThQT203dW45dzVRbGpteEJhcFFadXVIeFZzbG1aSGJoVTRpVWJ2cXYwZVFTcGtWQnZLYzZsY085cXlvM1VF?oc=5",
+      "source": "RTBF",
+      "source_score": 55,
+      "published_at": "2026-11-01T07:58:37+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : un méthanier touché par des projectiles non identifiés dans le Golfe    RTBF",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "RTBF"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : un méthanier touché par des projectiles non identifiés dans le Golfe"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy",
+      "title_zh": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYzh1ZFludjdBZGphNlBMM09jOFpiaTBrWWxjMkV2TmphTWItT2pxcXlxQzNmMWZadUFYUi1kdEktZWxZQVpoNFN6R1d1WFJlS2RHNWlwSlBNaXhOM3RyWnc3dnkxWFdfTmpQNi0xM2lZdDFkdmVBNDZnUzhveDVBb0xUeXJUTkVrNW5Fa1dhZ2oyWEFYVmw1dUtFSF9iS1MtSlBnQUxYNE5xRlhfQ3lpNTRQVDZvRXA4c1A3NDhlYTN4UDBicVE?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-01T07:55:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Oleshky truce shows de-escalation is possible, says Zelenskyy"
+      }
+    },
+    {
+      "title_original": "¿Quiénes son los grandes beneficiados del auge exportador de IA en Asia?",
+      "title_zh": "¿Quiénes son los grandes beneficiados del auge exportador de IA en Asia?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFRVLU5semJfWkx6V0FUMk1qcGdWcWRIaU5xS25LaVM1MHAtSGo2VjdRWVlwczdCaHlFei15a19nMWwwRkREckM5SHhSN1pFNmtpS25zN3dheHNkcF9HdV9tWGtnN2wydVR6U2wxaEVvalptNzYwZjVBZ01xRV9uNkRZdlJhZWFMa2k4aldqa2doemp6T0UxOHhKbXZnUQ?oc=5",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-11-01T07:20:07+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "¿Quiénes son los grandes beneficiados del auge exportador de IA en Asia?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "es": "¿Quiénes son los grandes beneficiados del auge exportador de IA en Asia?"
+      }
+    },
+    {
+      "title_original": "India's opposition holds mega rally seeking election chief's resignation",
+      "title_zh": "India's opposition holds mega rally seeking election chief's resignation",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-01T07:00:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "India's opposition holds mega rally seeking election chief's resignation\n- Published\nTens of thousands gathered in Delhi for a rally demanding the resignation of India's chief election commissioner over a controversial revision of voter lists.",
+        "Organised by the opposition INDIA bloc and led by Rahul Gandhi's Congress party, the protest drew many of the alliance's most prominent leaders in a show of strength against Prime Minister Narendra Modi's government.",
+        "Protesters waved flags and chanted \"Save the vote, save the country\" and \"Vote thief, give up power\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "India's opposition holds mega rally seeking election chief's resignation"
+      }
+    },
+    {
+      "title_original": "Russia-Ukraine war ‘no longer sustainable’: Turkish foreign minister",
+      "title_zh": "Russia-Ukraine war ‘no longer sustainable’: Turkish foreign minister",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dZNXFySUJRQjA0U2NyLU1rV1VzOS1Od3RVWEFoVGlLSzZxYnVicHJEbU9BWFB0ZEtBXzJDazctQWNGM3RQWW5RSmgtQnU3aW9iSHNTTzEtRzkzTnNTYzc5eWN0ekhfZ0xUQ19SazVVZUtjQzVkVlJZSkMxNGRsMXkzX1FidWM3Y1FSWklCMHBFMEJiczN6Vm9HOVEzc3ltYjhzUEhzcl9JbXZW?oc=5",
+      "source": "Türkiye Today",
+      "source_score": 40,
+      "published_at": "2026-11-01T06:45:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia-Ukraine war ‘no longer sustainable’: Turkish foreign minister    Türkiye Today",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Türkiye Today"
+      ],
+      "all_titles": {
+        "en": "Russia-Ukraine war ‘no longer sustainable’: Turkish foreign minister"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient : Donald Trump menace l’Iran de nouvelles frappes sur « un ou deux sites », Téhéran promet de contre-attaquer",
+      "title_zh": "Moyen-Orient : Donald Trump menace l’Iran de nouvelles frappes sur « un ou deux sites », Téhéran promet de contre-attaquer",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQ0k1dTV0OElJWXZEUnVPMXlTeHQ5V00zcGhmVGNTbW9TVkk4YXR3UFJwbV9qWGJZM0t6NXRrOFIwUWZDd250Rm1GSU15X3lUMllVWl81RTVTa3FaVnVjd1dyWGw4Z0pvd082cVAtSDEyMkJTanlMdl8tQy1HVF9rNUw4MkprbGx2eVBOTzFkdXQ4UWhjczBiQWl0WjJzSGhrUExZX2hvTUZOMjJoN2wwZk5sYTFRdDRoeDhVaGdDUlZxTjFXU1RDLXpweHZiMjdGSTBXVFZxMHpoRlZFbWJNdGQ4VlFwUTNTNEVlbnVVRDE3NmlIWEJvelBpNA?oc=5",
+      "source": "Le Parisien",
+      "source_score": 40,
+      "published_at": "2026-11-01T06:42:39+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Moyen-Orient : Donald Trump menace l’Iran de nouvelles frappes sur « un ou deux sites », Téhéran promet de contre-attaquer    Le Parisien",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Le Parisien"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient : Donald Trump menace l’Iran de nouvelles frappes sur « un ou deux sites », Téhéran promet de contre-attaquer"
+      }
+    },
+    {
+      "title_original": "Nato’s eastern flank is preparing for tomorrow’s war today",
+      "title_zh": "Nato’s eastern flank is preparing for tomorrow’s war today",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdDR2RThQM040TjFDWFE2YVRiMG4xYzVsR0NGRjlMYjJxSmpSaThTbzRuSm1vOUs5T0ExcjFhLVhDVkJsWm5PUS1HdXFibE5ta1RIQ2hiLXAyMlBlMnVqeXB5RTAzeHA3Y2RBTFp6NzJwNDc1MkE0Um93WGRLNDBjbTBKdWh1dkZjNzNUcGU1aENITXJJNXgzVFo0bVpnMkU?oc=5",
+      "source": "The Telegraph",
+      "source_score": 40,
+      "published_at": "2026-11-01T06:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Nato’s eastern flank is preparing for tomorrow’s war today    The Telegraph",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "The Telegraph"
+      ],
+      "all_titles": {
+        "en": "Nato’s eastern flank is preparing for tomorrow’s war today"
+      }
+    },
+    {
+      "title_original": "美伊冲突与俄乌战争加剧分歧 G20外长会无联合公报",
+      "title_zh": "美伊冲突与俄乌战争加剧分歧 G20外长会无联合公报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2SmNEdWFXam5qbDZ0VEoyOGI0bVY2MnkxQ1lkekNMT3FXOFplajR2WTQ4dzItN0hfMk1LR0FBVTN3Rnl4YzNSRnlQM21PTkgtdU5OOHJaWDdCb3JMOEN3azdkN3NjRXN2dGc?oc=5",
+      "source": "联合早报",
+      "source_score": 40,
+      "published_at": "2026-11-01T05:59:01+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美伊冲突与俄乌战争加剧分歧 G20外长会无联合公报    联合早报",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "联合早报"
+      ],
+      "all_titles": {
+        "zh": "美伊冲突与俄乌战争加剧分歧 G20外长会无联合公报"
+      }
+    },
+    {
+      "title_original": "DiBaX 2026 sitúa la adopción de nuevas capacidades militares entre los principales retos de la OTAN",
+      "title_zh": "DiBaX 2026 sitúa la adopción de nuevas capacidades militares entre los principales retos de la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ3FLZUtfdUhBdjRyZTU0Wi1MVzRxYkJNdzhHR2hIUzh5VTQ5ZTA5QWlwSXBJOGE2ZzRBemtBZ2ZIQk93TnNFRTN2bnZEeGtFeTFLNHNESmIzbW1NVGRSVmVWVVg2UWF2bU05eUR0cVQ0d3UwUExVUDZ6SkQ2TzZEb1hIbmRDeTZCdWJWZ21JY245LXpxeHVQczNCeVNyaF9xNG9jWEtVbzBWUExyNjVDdXdDZ2xqX3NrSGlSd2J0OU96OGNpeWQ1bkd0c0Z5Zw?oc=5",
+      "source": "Infodefensa",
+      "source_score": 40,
+      "published_at": "2026-11-01T05:20:02+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "DiBaX 2026 sitúa la adopción de nuevas capacidades militares entre los principales retos de la OTAN    Infodefensa",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Infodefensa"
+      ],
+      "all_titles": {
+        "es": "DiBaX 2026 sitúa la adopción de nuevas capacidades militares entre los principales retos de la OTAN"
+      }
+    }
+  ]
+}
