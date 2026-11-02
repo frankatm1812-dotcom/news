@@ -1,8 +1,683 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-01T17:07:16.768581+00:00",
-  "count": 35,
+  "generated_at": "2026-11-02T02:27:16.950809+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title_original": "Ukraine und Russland melden Cyberangriffe auf ihre Warn-Apps",
+      "title_zh": "Ukraine und Russland melden Cyberangriffe auf ihre Warn-Apps",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdTNkcldGX0xlMl9SMUtoOWdUY3ZCZEtzX0dzUl9vTG5RZjdYdmJlbUNJSzhIY0lBTml6a1lsUEFDeWVYVmZDLXl1SXVsbkt5OGNudEZNOHpzQjVDZThjTVYxWUQwZUhVeGotRktsV2h5UHZYNU0zXzR4QkV6Mkg1SjdnR1RIRktFZlRUOWpEckxHYTFTa3hxT3V6T2QtaXh2WGxUSVdFcWl5RGJOTk1kTzBXRS1DbnBoVzREM0phSGx1M3dTd3VnZmxXMjliX2VyUHdsdl82Yw?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-11-02T02:09:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine und Russland melden Cyberangriffe auf ihre Warn-Apps    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine und Russland melden Cyberangriffe auf ihre Warn-Apps"
+      }
+    },
+    {
+      "title_original": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "title_zh": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-02T01:45:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts",
+      "title_zh": "Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcFY4bG1oZTVCclJhUDVCMVFyVkdBcHN6YVB3dk9QT1JKM1N0VlI1V2pXU1J2WFRSQU1pTTNjNi0xUWpyZThRbnFSQVBFd1VtekY3bjQ3TWpvSV9kdEUxbUY5ZUo1LXhKWUNlT1k4MElLd2pMak9FTGR3N3JnbDhyNGpBQWQ3QXZPaGZmUlRudkxfRWh3T1llQjNxU1VqRmdLdmd0RFV6T2dmSk1mMkxfQUYyc2o4eVYwUUNTTjNkYzQ4MjQwOFNKeDhBdXd2MFNacXNBSnNfdThFMWsy?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-02T01:44:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts"
+      }
+    },
+    {
+      "title_original": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "title_zh": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-02T01:18:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says\n- Published\nUkraine's air raid alert app was apparently hacked on Sunday and for a short time said the capital Kyiv was subject to a radiation threat, the Ukrainian Air Force has said.",
+        "The alert on Telegram read: \"The Air Alarm application has probably been subjected to hostile interference.",
+        "There is no radiation threat!"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says"
+      }
+    },
+    {
+      "title_original": "ウクライナの空襲警報アプリにサイバー攻撃か、放射能の脅威などの偽警報が送信　ウクライナ空軍が発表",
+      "title_zh": "ウクライナの空襲警報アプリにサイバー攻撃か、放射能の脅威などの偽警報が送信　ウクライナ空軍が発表",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ncjFwTy1FaXB5b1BobDRJSU5xeHBhOWFmQUU1TFhzRmlzeDc5VFdGTG9od2p2VU9Yd2c2a25BYWpULXBzSFNTQWhveEpvUm10emhERGZ5Q3UyMlFHbXhMMNIBZkFVX3lxTE5YYkgxQnFYeXRGc2ZmMzZfY2p1TjNJVzBVaFoxTXVCMGY2UmJxdEZfZkpxTnVpU1B0a2xoWjJYUlZCOHhheVIyenNqbmgycnpLX2NMc0dKWlpCdUhNZlFhVFd3U2lSZw?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-02T01:00:51+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナの空襲警報アプリにサイバー攻撃か、放射能の脅威などの偽警報が送信 ウクライナ空軍が発表    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの空襲警報アプリにサイバー攻撃か、放射能の脅威などの偽警報が送信　ウクライナ空軍が発表"
+      }
+    },
+    {
+      "title_original": "ウクライナ南部の局地停戦終了 異例の成立、ロシアは米との取引意識",
+      "title_zh": "ウクライナ南部の局地停戦終了 異例の成立、ロシアは米との取引意識",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0cjhhUzN6Ql9rY2tOODVkWXRVbVJaWHpmSWVheFZRUzY4ZERfakU5WTlodlk5U2dVUzhnempWamhvSHV4YTBhdW9DbGsyWVdkUVlMazFHT3puMXdlTmRBNmhiZVlXNi1Ba0pUSQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-02T00:38:29+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ南部の局地停戦終了 異例の成立、ロシアは米との取引意識    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ南部の局地停戦終了 異例の成立、ロシアは米との取引意識"
+      }
+    },
+    {
+      "title_original": "السويدي ألمغرين يفوز بسباق الرجال في ماراثون نيويورك",
+      "title_zh": "السويدي ألمغرين يفوز بسباق الرجال في ماراثون نيويورك",
+      "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxPTzNHVXRyV3FVUEliZlNHYkY2VVREQkEzOVBXdWRtX2tIbFU2bGlnaVNzRkR3RGtJWExrY1EtYXVldlNkSkQtRWxyUEFpWXozRHY2TkRSb1E5M0RVUnN4Q0YxUndUakVWMGlXdlJOZGIyRXhGM3MxTmpOczlXd1BvdGlXVm9qdldlUFdQd2p4dmJvUkF0X25YUGdpdWR0anRaRG5SUmttWG1RMzRzbk9nbDk4elhBckxJY2xuc04wRlgxeGtLUmU2OENiV1d3eF8tSG1ZYWlneUYxX29aZVlvM0VXMkZhd3BxcVdIcW5wbG9pTGtHdGFiMmRYUEpvYzVMV0FNTVlxakExM0NfYXhMMDBoSEd4cTgxaUZvSmpSQUhsOTYwTS1RTXlTbE1fOGZ2MEdrMkdDekd5VElmeE5sQWdURjRnajBPZW10ZHVRZEZqT0hLVVpJV0I4ZnRZaG92YU90VHV6Tm1oVnN3UFg3SFVuREJlSkZfbUJldWRVeGVYb1lvWGY5MjQxLUE1Tl9selB1UTdpRlIxWmR3Uzg5OWdXTE1mSTYwSWpYUm5JeF9TZU12NzNoUGUzcjJLcjhJOVlZQnlYaHYwWnRDUFhGcVYzTlZlYUtTWjhkcWhTUlB6ekVtalJfOVBtTGxxekt2Y21wTkZtRXlzZjJHNkVvaGJza2NYTFNVdXdfX1VtMXhqekhPMEFUMk9FZVBxVUVzRzAyM2JSdThUdFBsUnE0OG5CaUMwY2VZdjZ5akc1eUxaT3RRbkE?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-02T00:18:42+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "السويدي ألمغرين يفوز بسباق الرجال في ماراثون نيويورك    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "السويدي ألمغرين يفوز بسباق الرجال في ماراثون نيويورك"
+      }
+    },
+    {
+      "title_original": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "title_zh": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-02T00:15:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "France launches attempted murder investigation after petrol bomb thrown at police\n- Published\nProsecutors in France have launched an attempted murder investigation after petrol bombs were thrown at police during unrest, French media reported.",
+        "An image of a police officer with his leg on fire during a clash with protesters in Paris on Saturday has prompted outrage and follows weeks of street protests in France that have also seen demonstrators injured.",
+        "The officer, who suffered burns to his ankle and minor injures to his hand, told French newspaper Le Figaro it was a \"particularly sophisticated\" incendiary device."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "France launches attempted murder investigation after petrol bomb thrown at police"
+      }
+    },
+    {
+      "title_original": "أسعار النفط تحت الضغط مع استمرار محادثات السلام فى الشرق الأوسط",
+      "title_zh": "أسعار النفط تحت الضغط مع استمرار محادثات السلام فى الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQSFp3YXRyaEhSM19oVlZwLWZPS283M0tfVWV1T1ZLOU9XZnR1eFF4SmRWOEpCb0cwX2FsaGhlWHJJeEdrakUtU3JRTThRRjBqMGNsOEdfaHU0QloydFBORUh1Q1U1dkhfVUo1RXg5UjBuUnNodWc0V3c4cmVGcnA2MjhlZEtvNG4zeENORW9jejVhX1R5Z3NQaTdDMmt6WlpsdEd0STZLWGMtaHZGWVZqdks2Tk9TSjlwRWNRbjNOME1FQk9rVHNNWk5YNHlfMzRPbDlGNXVjck9Qck5FWkJXTVd3SzFta3NYTmFqeHpDLWtZazVpY0xUTmxVNC1KYTNjVzZySEpFc21tV0hHMFBVQ2hBWERmbHR5MTVwa01LZWN5emZHNm9qdXM3QXlCaWJfVVh4Sm84Rm9vdlZ0MUpVOU1xcEszTEdEbEp4ZHNDVnFFNF9iVnZ4dFJ5SThXT0RXVy1PMjRyWU5DT1NMdHI5Rl9ZaHh4VElsU0ZtV1J6X1FPTmZ3VFM0N0pJclM0NW1TOGJpMm9qTG90X2o5VEJGWVVpalBfU1B3RzZNYkdfSGVXYlExajNiUE5kNnc2S21vQmxMWi1kQXF3ay1BeU5YamVwdXRrV0VwYnQ0MldLUW1ENWl5QjVvaTQ1ZWR0dUJZaDVPd0pOQVl3bEM1Q2VSc3JzMmJwVXdmbFp0azR3?oc=5",
+      "source": "CNBC عربية",
+      "source_score": 75,
+      "published_at": "2026-11-01T23:28:51+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "أسعار النفط تحت الضغط مع استمرار محادثات السلام فى الشرق الأوسط    CNBC عربية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "CNBC عربية"
+      ],
+      "all_titles": {
+        "ar": "أسعار النفط تحت الضغط مع استمرار محادثات السلام فى الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "ウクライナ戦争で実戦経験積んだ北朝鮮…最前線を揺るがす「通常兵器3種」公開（2）（中央日報日本語版）",
+      "title_zh": "ウクライナ戦争で実戦経験積んだ北朝鮮…最前線を揺るがす「通常兵器3種」公開（2）（中央日報日本語版）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KeGpROVE0WVJGd2FqQlR1cXR4c3N1LVZWcW16YnhLYVlOLTFXeUpfZ0J6Y200akx1a3VRbXlnT0tMOWZDWnZleDlJNlZzX0pVVUJQRVQwN2NjN2l3c3kzSWljUUw5UFE4TW9ZOG5rN2NTakN2eVYwUWdIZ0NSRVk?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-01T23:26:03+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ戦争で実戦経験積んだ北朝鮮…最前線を揺るがす「通常兵器3種」公開（2）（中央日報日本語版）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ戦争で実戦経験積んだ北朝鮮…最前線を揺るがす「通常兵器3種」公開（2）（中央日報日本語版）"
+      }
+    },
+    {
+      "title_original": "ウクライナで数十万世帯停電、ロシアの工業施設も被害 戦闘収まらず",
+      "title_zh": "ウクライナで数十万世帯停電、ロシアの工業施設も被害 戦闘収まらず",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkh1MUtrNkpWM3FSSjlkMXRlMjRHLTJsZzJaS29oZzJwVmpQOUhBYnZOT3BQM1Jzc3hnZzJPNGF5V0IydlZQbGFHSXpQSFJDTkEtT0d6ZC1UY1JkSFY3d2J1WWpFV19PRGxZeUU4M01uR3h3WlRESkp5bGlTRzhRSF9aS09zUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-01T22:59:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナで数十万世帯停電、ロシアの工業施設も被害 戦闘収まらず    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナで数十万世帯停電、ロシアの工業施設も被害 戦闘収まらず"
+      }
+    },
+    {
+      "title_original": "ウクライナ南部の局地停戦終了 人道支援は成功、違反主張も",
+      "title_zh": "ウクライナ南部の局地停戦終了 人道支援は成功、違反主張も",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmaFQ2M25xNlJSWUdPVzB4R0Z3S3RueWxKaWw2X1dQQ0RxVDVlMGh6TnRfQ1Rfd1U0RTRuRVpFV2tOeHlSaDZHQUdYSm1sOUhOWElQT2swNXVaeGc2VXFQMEQ5cw?oc=5",
+      "source": "時事ドットコム",
+      "source_score": 40,
+      "published_at": "2026-11-01T22:58:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ南部の局地停戦終了 人道支援は成功、違反主張も    時事ドットコム",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "時事ドットコム"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ南部の局地停戦終了 人道支援は成功、違反主張も"
+      }
+    },
+    {
+      "title_original": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "title_zh": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+      "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-01T22:26:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and even warned that Andy Burnham would not attend the meeting if the subject was formally included, according to a leading Caribbean political figure.",
+        "Ralph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement Repair Campaign, welcomed Britain’s decision to enter structured dialogue on reparations, but said the UK had come “kicking and screaming” to the conversation.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda"
+      }
+    },
+    {
+      "title_original": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "title_zh": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-01T21:55:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends\n- Published\nA rare humanitarian ceasefire in Ukraine's front-line Kherson region that allowed civilians to evacuate the Russian-occupied city of Oleshky has ended.",
+        "The localised ceasefire was due to end at 22:59 Ukrainian time (21:00 GMT) on Sunday.",
+        "While the truce had held since it was implemented last week, fighting had continued elsewhere."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Feuerpause in Stadt Oleschky zu Ende gegangen",
+      "title_zh": "Ukraine-Krieg: Feuerpause in Stadt Oleschky zu Ende gegangen",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2J0MjdjaktjSkZWb2l5V3NVT1NMaUtJZ2pPOEZYYzV0c3Frc0VYbVBJNE5SQmtHcjZxVk9qUjcwcWprdHZWSEZVZklmVm5QSGktUjd6X1hGLTdaVG1iRnc0Z3BhNGNkdDJjcUZxbHJGcnAwRV9wTU1pc0dhNU9udHlnLXBrQlU1a1N2bjBiN0xWQ0tZOU5oZmljWGlLQmxSdFE?oc=5",
+      "source": "STERN.de",
+      "source_score": 40,
+      "published_at": "2026-11-01T21:23:05+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: Feuerpause in Stadt Oleschky zu Ende gegangen    STERN.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "STERN.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Feuerpause in Stadt Oleschky zu Ende gegangen"
+      }
+    },
+    {
+      "title_original": "Russia's new suspected radar in Kaliningrad could spy deep into Europe",
+      "title_zh": "Russia's new suspected radar in Kaliningrad could spy deep into Europe",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFI1cnhfdFhUQnRHcUVLVld4WWx3Mm9jUVBwVDRvQTlhRUJGalNiaURNS3FWMWhiaGZ2UjNOT251cXA1WkhULWNib3NTeFpZelB2bXhfTDV6M0cweUI4UjFiN2k3STJrMnpHRzRGYXJsSm11dXVFUkhuVEMyYjBlSnJHZ0Zid0hrdEJQRHJGbzZ6WlBhSzlV0gGXAUFVX3lxTE1LMVhVYm9ZbVAwams1enBvZGZqTWZoYlk0bmgxMUM2Ul9FaHhsLThmdnNQSUpqTk8tTDZEQnpla0pTTlNacFZzUEV2WmhoUE1FUlV5ZnhYcDhUTFFOTXhjVkNWeU5WY3NBQWNtYVE2eEllbUJnVGVqTHZ1SUxOZE5jTmxXWXNTZFlsYnNXd3c2ZVd2TDF3aWc?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-01T21:11:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russia's new suspected radar in Kaliningrad could spy deep into Europe    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "en": "Russia's new suspected radar in Kaliningrad could spy deep into Europe"
+      }
+    },
+    {
+      "title_original": "Democrats eye state supreme court races — this year and beyond",
+      "title_zh": "Democrats eye state supreme court races — this year and beyond",
+      "url": "https://www.politico.com/news/2026/11/01/state-supreme-court-midterm-elections-01144147",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-01T16:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "National groups are spending money in battleground judicial races with the hope of liberal majorities in two years.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Democrats eye state supreme court races — this year and beyond"
+      }
+    },
+    {
+      "title_original": "«الشرق الأوسط» تكشف قصة نهوض نيوم بعد الخسارة «الخليجية»",
+      "title_zh": "«الشرق الأوسط» تكشف قصة نهوض نيوم بعد الخسارة «الخليجية»",
+      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxNMUJKQU96MWR4VjJQQml0X2Rtem1GSncyaHo2czN4Zndkb0hDdVgtUHVSekE5ZFd1V1dfaFVJWXdYTjhIVENYYUp0Q29LeXBMa2pXV1ZHLUozZlNiZlZ0UG1TVUticVI4X1JqVHhFXzNQQTNfUlY4Y211TFVlQWIxeE5jWkZkNzU2R2plMDEtTGVCRXh5ekZXalNaRW1IR01uTnVFNFpUUFBTWDZlUV9tWXRZQVUxZ0UyNzJqQnJ2REt5aks5QXpSWWN3b1owNWViQXo4MlE5NXpVTnlxRXhZZi1jVjVhTVV5TWFXVzJWR0h4YlJJSS1LRVh3RU5aOXRRZEdUNy1kSWpJOEl1X3Zybmhwc3R0RENFR0xQdE1EYVVvWGJUVTBhZjN5RWRRbmNiQy1fME9Hc3Jnck9NSkxvT1BQSWtpdndCZWFBSHNFeXlPSGxiMXp3YUhrU0w3REhBQXVKaEtxZzJZLU9ZQW5DcTNPTmFTbDNlNDMwdTc4WkFTTHNXVVVrT3FmTzhVTkw5QkpCYWtHSS0zMDd2THpscmZNYzc1TDlVU2dpZ3NyU2VHX194cmZOR0FmS1F1QmFheHVCNGF1SUtoT2hYRS1fVjFvSE1TUlUwbU53V21fMzNhNlpEMmNoQy1Md2lqbEpZWVFGZHNvSm9hTzZpczE5UzJmQTFacmVCMlhoWkgtb21OMy1xaldVbmxUTzZPVnFRRVBSMkhzQ2FXNXJHTHZKRTFab0VwU2RHS1pRaURJaw?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-01T20:13:41+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "«الشرق الأوسط» تكشف قصة نهوض نيوم بعد الخسارة «الخليجية»    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«الشرق الأوسط» تكشف قصة نهوض نيوم بعد الخسارة «الخليجية»"
+      }
+    },
+    {
+      "title_original": "Zwei von drei wegen mutmaßlicher Wählerbestechung festgenommene Verdächtige in Israel freigelassen",
+      "title_zh": "Zwei von drei wegen mutmaßlicher Wählerbestechung festgenommene Verdächtige in Israel freigelassen",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcE1tWUdVR0xESDA1VEQ0OFAzbVV6OUNPSDJKd1pwSzYybk5BcE9sTmVzUnlzc3VyY25tTjd5Sl9zaW5WbzFKNG1CZDNTWUFYNTZnV1gwaE1KWWI3VTloNmdFWFZFUkdCVnhMdGxteDJmZFREdmRud001Rm5CeDB2LXI3WmVCUUpaZ2hXdkowWklDLXFOYU1tbU9YMTlsUmptYnVzb3gwclVUY3BXOTdPbHNUS2hBSnpzZW5oY05QZ0hLTDhDV2pJaVhodHhwN1d1blZsR1RjSQ?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-11-01T20:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Zwei von drei wegen mutmaßlicher Wählerbestechung festgenommene Verdächtige in Israel freigelassen    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Zwei von drei wegen mutmaßlicher Wählerbestechung festgenommene Verdächtige in Israel freigelassen"
+      }
+    },
+    {
+      "title_original": "Corea del Norte marca su geopolítica mundial con el lanzamiento de misiles balísticos",
+      "title_zh": "Corea del Norte marca su geopolítica mundial con el lanzamiento de misiles balísticos",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWNzMEE3Q2dOTmFZUUhjT3ZXNFd1enpxbS1sck1jU016Z2xjY3ZxdlVxN3gtcGJJSF9kT250S2YzQmlsdm10TzJBZEJsRmpTcFItYmJHQjRPOHljb1NZWHJBMUpESDgwRmpiRUNBUm8yYjcycWVWUXBsTi1mZllHem42OGZLZ1h3S2tEQ1FuWTBMWHV6QjBSVGpKUHcwWjc5?oc=5",
+      "source": "ASIAnortheast.com",
+      "source_score": 55,
+      "published_at": "2026-11-01T19:40:17+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Corea del Norte marca su geopolítica mundial con el lanzamiento de misiles balísticos    ASIAnortheast.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "ASIAnortheast.com"
+      ],
+      "all_titles": {
+        "es": "Corea del Norte marca su geopolítica mundial con el lanzamiento de misiles balísticos"
+      }
+    },
+    {
+      "title_original": "Longest truce of Ukraine war, in Oleshky, set to end",
+      "title_zh": "Longest truce of Ukraine war, in Oleshky, set to end",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSF80d3VnYnBDV253SUhUZ2xDbGl0SGp1MlN5cTJkcDhocmlyQ1VvVml2cVFqZnFiUzlNOXhQNkxNLXN4eHR4OF9VRzZCYjlGblVyUGZSVUdSelA5ODJySDc4a3dFTFA0MUJzbHZ4RWIxNFRFUHhXZUk0ODFWU1doeUtxTkdoWUs1dEJQcF8tcHNsLU1LZnk3S0ZNREdkaHlXWElqeDdmUnFhSGhNd2JlZmRaaWdSR0FOLUoxaWRpUkNaQQ?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-11-01T19:10:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Longest truce of Ukraine war, in Oleshky, set to end    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "en": "Longest truce of Ukraine war, in Oleshky, set to end"
+      }
+    },
+    {
+      "title_original": "لأول مرة في الشرق الأوسط.. \"وجهات نظر عالمية\"",
+      "title_zh": "لأول مرة في الشرق الأوسط.. \"وجهات نظر عالمية\"",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ2Y5TzdwLUFzVGtGX21LWmFjN0tiX2YxMzd6bnFEdlVTT1B5NDRaM2c2YkMzaFNZQzVuZEQtX3RvVDh3VFU2ZktnM2JCLVdFQllFYlJuTEZLeGliN0YyWWdhNmliVkxmQTBGY3RkVzBjZS00cmtaalZwalpKSUdQRXQ3R01JU0NqUDR5X0NBajFDZ1N6bVE?oc=5",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-11-01T18:26:23+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "لأول مرة في الشرق الأوسط..",
+        "\"وجهات نظر عالمية\"    CNN Arabic",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "لأول مرة في الشرق الأوسط.. \"وجهات نظر عالمية\""
+      }
+    },
+    {
+      "title_original": "Longest truce of Ukraine war ends in Kherson region",
+      "title_zh": "Longest truce of Ukraine war ends in Kherson region",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOXhRcTlaTHRwYlo5ajRNbnplMjhDNEZkZTFfV2xKMGxfNmRKMFJlejNnUjBtR2ZYUTBQMDI0b0YtdzVxU1NET1VDUFc4NGcxMXAtZFNIY3VEcVo3c1E4eWs1OUZ6UWQ4M0E0Y3FQRFc2MWlXVHBRSzUyS015MTJEc2Z6ejVUZnZUUUM0SF9CX2dIdWJ1VzZhdENwNERmYjNpQnVkc2Z5X0R1MUxPZUh2T3BiOTIyUGPSAbcBQVVfeXFMTlJqVTJhcGMzNGpLaFh2b21uTm45ZE9FZGZSWUswRVlzMDI4TnYySnFrQ0k5SHV0bVZHb2U3VXQxQ0RMelR2cEltaEVSOVBQRkp3c1h3Qk5Qc2JjTHJiQUdFUVVuUUNuTUxtcHJLdzJpWldwS1RNeGVLY1plRFpGMFhhQUctVXA2UnhFeUdSTmlkS0ZUeXhMS3Y4VVJSbmJMVWJMYkZEMURNeUNQTzZWTDRDaDFydVAw?oc=5",
+      "source": "South China Morning Post",
+      "source_score": 55,
+      "published_at": "2026-11-01T18:25:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Longest truce of Ukraine war ends in Kherson region    South China Morning Post",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "South China Morning Post"
+      ],
+      "all_titles": {
+        "en": "Longest truce of Ukraine war ends in Kherson region"
+      }
+    },
+    {
+      "title_original": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "title_zh": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-01T17:56:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Armed police start patrols in Sydney after Bondi Beach attack\n- Published\nHeavily-armed police officers have started patrolling Sydney's streets, as part of heightened security measures following last year's deadly shooting at Bondi Beach.",
+        "The Armed Response Command (ARC) will see specially trained officers in busy tourist areas carrying long-arm rifles – an unfamiliar sight for most residents.",
+        "New South Wales police say the officers will also patrol major events like sports matches and places of worship \"to prevent, deter and rapidly respond to serious threats, including active armed offender incidents\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Armed police start patrols in Sydney after Bondi Beach attack"
+      }
+    },
+    {
+      "title_original": "Democratic Rep. Haley Stevens endorses Republican Mike Rogers for Michigan Senate",
+      "title_zh": "Democratic Rep. Haley Stevens endorses Republican Mike Rogers for Michigan Senate",
+      "url": "https://www.politico.com/news/2026/11/01/haley-stevens-endorses-mike-rogers-michigan-senate-01144698",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-01T12:44:25-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "It's a blow for Democratic nominee Abdul El-Sayed in the final days of his campaign, and an escalation of their feud.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Democratic Rep. Haley Stevens endorses Republican Mike Rogers for Michigan Senate"
+      }
+    },
+    {
+      "title_original": "University of Cambridge scientist among those who died in Spanish train crash",
+      "title_zh": "University of Cambridge scientist among those who died in Spanish train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-01T17:05:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Cambridge scientist dies in Spanish train crash\n- Published\nAn award-winning University of Cambridge researcher died in the Spanish train disaster while on her way to collect a prize for scientific excellence.",
+        "Dr Marta Shahbazi was travelling to an awards ceremony on Wednesday when the train she was on crashed into another near Urda, south of Madrid, killing 69 people.",
+        "The mother of two was an affiliate associate professor leading a group of researchers at MRC Laboratory of Molecular Biology (LMB) in Cambridge and had earned several awards for work on human embryos and cell biology."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "University of Cambridge scientist among those who died in Spanish train crash"
+      }
+    },
+    {
+      "title_original": "Allies fear Trump will target NATO in case of midterm loss",
+      "title_zh": "Allies fear Trump will target NATO in case of midterm loss",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTkVmeFdIMVI5emJjWTE2TXlVa0RtNHpkQ3k3YUgzTlkzTEx5TzNzQ2dmQ2R2ZUtWTVVNVVV6Sm1XOWdGVjNhZUZmQkJFU3J0OW9Caks4cFZPN0tYRVZfdHRpaGJubEVrUU9VQlhsUUI0Zk51YWJ2WWdFUy1oc01hVEdVUm02clFGQklscEdKSFg4ZkhYWkpHM213?oc=5",
+      "source": "www.politico.eu",
+      "source_score": 75,
+      "published_at": "2026-11-01T17:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Allies fear Trump will target NATO in case of midterm loss    www.politico.eu",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "www.politico.eu"
+      ],
+      "all_titles": {
+        "en": "Allies fear Trump will target NATO in case of midterm loss"
+      }
+    },
     {
       "title_original": "Israeli strikes in Gaza kill eight including child, hospitals say",
       "title_zh": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -26,6 +701,31 @@
       ],
       "all_titles": {
         "en": "Israeli strikes in Gaza kill eight including child, hospitals say"
+      }
+    },
+    {
+      "title_original": "المنطقة الحرة بمطار دبي و«فوربس الشرق الأوسط» تنظّمان قمة «محور مستقبل التجارة»",
+      "title_zh": "المنطقة الحرة بمطار دبي و«فوربس الشرق الأوسط» تنظّمان قمة «محور مستقبل التجارة»",
+      "url": "https://news.google.com/rss/articles/CBMi3wVBVV95cUxNTWhFVW5WVGdqRW1yWUZ1Smt5VzF2TjdnUjJQNUpwSy02QThoNUFfTXRpNnJfOEVnaldmY2dsM1JTNVo0ZzhLUnFnRklDckJQMVptRExsN2hWMXUwYzc4SFdmQk9DLV9FakZHNzRfTFhIbDFrR2lnTTRkZWRRcEdTUW9JcmRlM29KZmxFcGs2eUhPemVvdzNQNEFuS19DOWEwWG1BU0M5RUJQTlRvU1NfUjR2OG52NXMwdVVCekpEYnJneGhlSmdSRVgtU3NLMmVzcE9MTDNKOGgyd25UTGhEeWxwTllhUlFSQ0lZUnhMelJoRW5rdHdIMlhMaVBVSXVwTmZ6TERHRkt1a0dsOXN4YWp2TnpabXM1Zl9PV0hvbVZXakNQNUhiSzZZMlZrNEpkOWZadjZMODZoa19NZjNfNF9fODhsSXJ0emZUOHhDMWJRdFNFdFVwRkw3amdfd2Y4bHEtUU5BaVdjMFZieGJ6RFB4Uy1raHEyWGNNWXBmWm1qU21EV0xER0hEMFNBYUpsN3BNT25QQ3hJZFdqZWMxRnBCdDF4dVUzWkRqTVhiVDZFa2lUYnRDTm03bmc0TGxCTVVjR2RGTFlPaGZjZ19EdVIwQmc3aTlxQlcyUld3UHlqRE9BRGtCVzgxblZ4U1Q2VHI5NU1XSHNVQlB3OFdpb3J1ZjZ2bEZkc1Bhc3VFTC1jajVQaFJveWhSU1ZnV0t3UnVRMjJpZExGdTl0T3hOZkVQQnBBMkpHT3BVTE1zMVFaVUFRUWVCak5FNS1XY3Z1Mk1xTnl1NG1Zd2lySEluQkpaMjRKRjM5SXlESG5qZlpBU0xaaHhlMVMtVzdjS1NmTFFad3ZJLU5UdVZsTUgyUUZKWjFCZzFOd19lMV9DS19uWDd2M2hsMDBNd0NEYmlTMWl0U2p4NlBuWm10OUlJa3dXN00yR2p6bnFwdmRxQ25md2hOUy05bkVmQlRVVUU?oc=5",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-11-01T16:25:05+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "المنطقة الحرة بمطار دبي و«فوربس الشرق الأوسط» تنظّمان قمة «محور مستقبل التجارة»    صحيفة الخليج",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "المنطقة الحرة بمطار دبي و«فوربس الشرق الأوسط» تنظّمان قمة «محور مستقبل التجارة»"
       }
     },
     {
