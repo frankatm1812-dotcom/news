@@ -1,8 +1,508 @@
 {
   "date": "2026-11-03",
-  "generated_at": "2026-11-02T20:45:58.738637+00:00",
-  "count": 35,
+  "generated_at": "2026-11-03T03:56:45.025629+00:00",
+  "count": 60,
   "articles": [
+    {
+      "title_original": "US strikes Iran ahead of midterm elections",
+      "title_zh": "US strikes Iran ahead of midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-03T03:39:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "US strikes Iran ahead of midterm elections\n- Published\nThe US has launched strikes on Iran's Qeshm Island in the Strait of Hormuz, US officials have told CBS, the BBC's US partner.",
+        "Iranian state news agency IRNA reported several explosions on the island on Monday.",
+        "The US officials described the strikes as limited and said they were in response to the Iran's Islamic Revolutionary Guard Corps (IRGC) firing upon a US aircraft."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US strikes Iran ahead of midterm elections"
+      }
+    },
+    {
+      "title_original": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "title_zh": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-03T03:32:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Supreme Court rejects Trump's request to stop California counting disputed votes\n- Published\nThe US Supreme Court has rejected a last-minute request by the Trump administration asking it to intervene in California's midterm election vote count.",
+        "The justice department wanted 20,000 ballots to be set aside that it alleged may have been issued to non-US citizens in the state.",
+        "Two lower courts had already rejected the request."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Supreme Court rejects Trump's request to stop California counting disputed votes"
+      }
+    },
+    {
+      "title_original": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+      "title_zh": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+      "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-03T03:30:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Man and boy arrested after allegedly attacking One Nation volunteer with bat\n- Published\nTwo people have been arrested after a volunteer for Australia's right-wing populist party One Nation was allegedly assaulted with a baseball bat.",
+        "A man, 37, and a boy, 14, were arrested on Sunday night after an incident outside the volunteer's home in Torquay, about 100km (62 miles) south-west of Melbourne.",
+        "The man was charged with assault offences and remanded in custody while the boy was issued with a caution."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Man and boy arrested after allegedly attacking One Nation volunteer with bat"
+      }
+    },
+    {
+      "title_original": "الحوثيون يعلنون استهداف مطارات سعودية وترامب يتحدث عن اتفاق محتمل مع إيران",
+      "title_zh": "الحوثيون يعلنون استهداف مطارات سعودية وترامب يتحدث عن اتفاق محتمل مع إيران",
+      "url": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxOMmplOWtXMGJNUmF4cnRDRDNwOHpwbDRqdVNocmlMM0dKZk9fYkxxRGhsNHMwQ3FDQzZOUXh5TDV4czdPanljWXZvN2tzUUs3bXVmRkh2eVp2YnA1LUV0OVhCQTZadEJmd050S0JxS2IyWXVZMEZZUksyTGNSZWd3X0lTWVIxcEdLTHRwMERnclhBVHV3a2JNeHhHT1k5QVExcE5lM0ZqZmZ2eWxJMWFJV3hsUWM5WUZxSzloUEJoYmFZZHFyM0JKRkY2bUEtMUJxWEpmd2RkR1lscVVCWktCVzgwWlYzUzFyd0t1Vi1wUklKUVhsZjQzbFNIY0lrLWF4NERnbTR6WVBldDIzX2Q3d3hwMDN1NXRCcHFRMlBhZ0c3MnVDaFNMSHQwQTh3LW1GU0U2cTNUTnpub01nOExxMjRjNUlfTDF6Nk02YnBMWnROSGlJZEJ4ZzNvQVQ0clFybTk4ZWxVMndvLXZqelBqbndlak1yTFQwbklWY21lcFFqMjdFbmNNQTNkMThfMTVFU3F4SHZXcVVnTk8yRElabUhKUmpocllDdk9NNUt0Uk9fekFMemd6ZWdqdjFQQzM2eGNiWk9lQy1HM1FOclN3Q213R2hzeGZzQkI2alNlQW0zMFRPMGlsekM4RC1idVUxTnhyQkhlQzFYSGRacVBCTEhLbzBheC1SQjF0UklXaHJsZXVSSDJtQlVyVmd5RHdrcWN6OV80VUlQM0pZMnF6S3Jlc2ZMSHEtVUdnZTVhNGhITG5sZmk5d2VNMl9VMTR6Q0VwOGoxOFRxRmI3?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-03T02:38:10+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الحوثيون يعلنون استهداف مطارات سعودية وترامب يتحدث عن اتفاق محتمل مع إيران    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "الحوثيون يعلنون استهداف مطارات سعودية وترامب يتحدث عن اتفاق محتمل مع إيران"
+      }
+    },
+    {
+      "title_original": "US to mediate new round of negotiations to end Russia-Ukraine war",
+      "title_zh": "US to mediate new round of negotiations to end Russia-Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmd4MGlCNkFaMVd1YWxXRXBsYmZOMXZ0YW5jdE5wUXBWX3RaVjZDOEFvaWhqLUMtQ0tZN1hReWxvZkFEUjQwUVBLcTNFUHRZRW1QQzFMU2dSdUY3NldPUlJfbER0cFJyaTBsZ0hGY1daWTV3RUkzaDRSdHlyMWRmVjFuQWJuZmx0WGtMR3RmTG80QQ?oc=5",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-03T02:38:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "US to mediate new round of negotiations to end Russia-Ukraine war    Politico",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "US to mediate new round of negotiations to end Russia-Ukraine war"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff",
+      "title_zh": "Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPXzVEeFJxc0VZdlI2WG5FRWVweTBJOHlVVU9WNjdLc3NMb1pnd2ZjdmFzOW1TS2NGZUh0WHQtQkw3WDh6SU9COHJfRUZrOVRCMzNuV2FqRTZBakVjWWZEN1llYm9nc1loNUZabktaa1ZmS1BMVFdxODNlWFgwRl9xa0F5U1VGVml1V2l6ckR5anV5TGlFUHFKVE5VTVVrQThwTndRVEZkMzdRMUg3cHpBVjNEQzZqX1RuVmwwaW1Xc0FmaExhNXJoU3Z2QS1TUGRVcTgzS3RBSVFPTW8?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-03T02:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff"
+      }
+    },
+    {
+      "title_original": "US plans push for NATO allies to fund key Ukraine arms amid shortages",
+      "title_zh": "US plans push for NATO allies to fund key Ukraine arms amid shortages",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTlJVaklWYlA2YzZqb3c0d2wzV2I4N0wyM3hqa251OFMycTlGZ2gxaUxaTC1SWG1EcEhqdXVmUWoyRzdacFFpU2RvNVBSb1VzOHlubGUyVWV4VWswMWZwYzNYQVo1MXpndktFNHVoQW5peUFfRHlkUmtqSE5vWDFadEFjMjFwbmV1Q2c?oc=5",
+      "source": "The Jerusalem Post",
+      "source_score": 40,
+      "published_at": "2026-11-03T01:48:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "US plans push for NATO allies to fund key Ukraine arms amid shortages    The Jerusalem Post",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Jerusalem Post"
+      ],
+      "all_titles": {
+        "en": "US plans push for NATO allies to fund key Ukraine arms amid shortages"
+      }
+    },
+    {
+      "title_original": "ウクライナで局地停戦が終了 住民避難もほかの地域で攻撃",
+      "title_zh": "ウクライナで局地停戦が終了 住民避難もほかの地域で攻撃",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zTjFkTG1mM0ZkVFFtZTE2LUFPbldIUVZDems2QUJuOGg5VGFkNEJMVG4tU21uWWRkYnJZaVdNWkxxRGpMMlQxOE92SXhJN0VqbW5ua25XaUxuLWpadEVB?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-03T01:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナで局地停戦が終了 住民避難もほかの地域で攻撃    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナで局地停戦が終了 住民避難もほかの地域で攻撃"
+      }
+    },
+    {
+      "title_original": "North Korea denies being behind record $6.3bn Binance hack",
+      "title_zh": "North Korea denies being behind record $6.3bn Binance hack",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-03T01:23:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "North Korea denies being behind record $6.3bn Binance hack\n- Published\nNorth Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance, calling the allegations \"absurd rhetoric\".",
+        "Kim Yo-jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another \"sinister attempt\" by the US to damage Pyongyang's public image.",
+        "The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "North Korea denies being behind record $6.3bn Binance hack"
+      }
+    },
+    {
+      "title_original": "ロシアとウクライナの緊急警報アプリにハッキング、核攻撃や市街戦の偽通知 市民動じずジョークで応酬",
+      "title_zh": "ロシアとウクライナの緊急警報アプリにハッキング、核攻撃や市街戦の偽通知 市民動じずジョークで応酬",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9icWlBTHFwWW5SREM1Wnc4azBvUk5WdUpIcW9mS2FNX2xkQW5EYkpkTG9VOXlLeWE2aHVnVW1yU0hFUmpFNTlJejhtMjVyVW9SSmU4?oc=5",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-11-03T00:46:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシアとウクライナの緊急警報アプリにハッキング、核攻撃や市街戦の偽通知 市民動じずジョークで応酬    CNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "ja": "ロシアとウクライナの緊急警報アプリにハッキング、核攻撃や市街戦の偽通知 市民動じずジョークで応酬"
+      }
+    },
+    {
+      "title_original": "米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ",
+      "title_zh": "米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDNjJmOWNpQ3dudlh3U3p6eExEWHNQTU1sS1RVVHZpVjBoVGhZbzMwcnNlVk5sVmp6cHN5ZmM0T0tXQURIcUJQN1dRdWxGODJhVXpXWnI3bW9ra1hWdkdn?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-03T00:10:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: USA: Nächste Woche Verhandlungen mit Ukraine und Russland",
+      "title_zh": "Ukraine-Krieg: USA: Nächste Woche Verhandlungen mit Ukraine und Russland",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS09nYUhIcVFGZHh5Y1BfT0k4amh2QWdmam1ZSzZpNFNwYl8zMWNybERnSkVfcTkyYjZLY3dXMGlfTk0teG9VN1RQUTFpS2ZLWUtnR1pIOW1OejhCeUR1SzZMQjlyOGV3TTYtS2N0ZmtfdW5rN0tWSUFiTkJCZ3pjMzhzbTNxSFYyTUlNQWVuUE1UYzI2OVdqQVBram9ZeW5Za3I0TWxpMmFQQXRDMVJpVTFWTHpVVnFPSVdQblg3ZEZGbVl6RERrR19ucWg?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-11-03T00:08:53+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: USA: Nächste Woche Verhandlungen mit Ukraine und Russland    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: USA: Nächste Woche Verhandlungen mit Ukraine und Russland"
+      }
+    },
+    {
+      "title_original": "Legal challenge to Australia's social media ban to start in High Court",
+      "title_zh": "Legal challenge to Australia's social media ban to start in High Court",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-02T23:37:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Legal challenge to Australia's social media ban to start in High Court\n- Published\nTwo days of hearings on a challenge to Australia's landmark social media ban for children will begin at the country's highest court on Tuesday.",
+        "In a major test of the world-leading policy, a digital rights group will argue that the ban for under-16s robs children of their right to free communication.",
+        "A separate challenge launched by platform Reddit will be jointly heard."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Legal challenge to Australia's social media ban to start in High Court"
+      }
+    },
+    {
+      "title_original": "米、ウクライナとロシアの協議仲介 10─11日にＵＡＥで3者協議",
+      "title_zh": "米、ウクライナとロシアの協議仲介 10─11日にＵＡＥで3者協議",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcGJNYTVETTJJZVd1TWY2R3kxMmJSUEZ5aFlCd2JTNDU5UHpXWVBXQ0FKb2FEWW5NdHBHQTBkMklVQ2pNSlR2X1czS3ZNSFZ3dl9ubjAwalBNaTBmYWszbHplOG0zbzVhTXUtZVhrdkl5UEZZZ0xuaWtKdkRRQ2VnNF9fNl82UQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-02T23:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米、ウクライナとロシアの協議仲介 10─11日にＵＡＥで3者協議    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米、ウクライナとロシアの協議仲介 10─11日にＵＡＥで3者協議"
+      }
+    },
+    {
+      "title_original": "Donald Trump change de ton et assure qu'un accord avec l'Iran \"pourrait arriver\"",
+      "title_zh": "Donald Trump change de ton et assure qu'un accord avec l'Iran \"pourrait arriver\"",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTFlzSW1nbXYzUDR3ajZxN0ltNkE1aFBWb2w1aExnSHdobG9RYVJxYlFhX19BdXRQYmJpTTVPSUYtSnFaUWRvcVFuZ0I5Um95NDMxX1ZtNXMtRVdNSE4xeFMzNEdUYndaTERIS0I0Y2NiYlFOUU1FcWVhc29wY2dIZWFkMThSdG5RNEluWC1YaE5YeTl5TF9wSFZIdERKWTVINEZTcVB6Nmhua3QxNThxQ0kzN3ZFejUzcGN1REhNbjhxSTNwb3NnY1loclZrZm5Z?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-02T22:56:40+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Donald Trump change de ton et assure qu'un accord avec l'Iran \"pourrait arriver\"    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Donald Trump change de ton et assure qu'un accord avec l'Iran \"pourrait arriver\""
+      }
+    },
+    {
+      "title_original": "美智库警告：美军从欧洲撤离驻军的计划影响军火出口",
+      "title_zh": "美智库警告：美军从欧洲撤离驻军的计划影响军火出口",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKY19abzFwNHBJQW5CMVJCcjlEdlk4bjFzaW5xdGI3Qno2QnZNYVhvUkRHNVNsVUpOZ2JEdWM5angtSnJybEU0TnZ2MTc?oc=5",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-11-02T22:48:07+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "美智库警告：美军从欧洲撤离驻军的计划影响军火出口    凤凰网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "美智库警告：美军从欧洲撤离驻军的计划影响军火出口"
+      }
+    },
+    {
+      "title_original": "「学校と避難所が標的に」 ロシア軍の攻撃で26人死亡 ウクライナ",
+      "title_zh": "「学校と避難所が標的に」 ロシア軍の攻撃で26人死亡 ウクライナ",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QYlhtNzF2eFFYUkMxV2ozUXV0blNqMkp4V1htb0tIYldoOHVqY0pocDRNOENxS0FhMjEwTzVMN2lMSmtZQjkyY0F2a19udXBQaFpGYUdBOXB0YVU2NDdSaVNMbkNaV0U?oc=5",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-11-02T22:35:47+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "「学校と避難所が標的に」 ロシア軍の攻撃で26人死亡 ウクライナ    朝日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "「学校と避難所が標的に」 ロシア軍の攻撃で26人死亡 ウクライナ"
+      }
+    },
+    {
+      "title_original": "US Said to Plan Fresh NATO Push for Ukraine Arms Deliveries",
+      "title_zh": "US Said to Plan Fresh NATO Push for Ukraine Arms Deliveries",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWhvbVA0T1lKV3J5RjlBQXpUSkN2UUotZEtDOUhWLW9YcjlBV2o4b0s4M04zdDkyU2NSZXhHbnhKUlBUOEV3eTNUZHdjUXdmYW11WHcyZ3RIUzVuZDlrUFRUOFFzdEhJTU0yVlZqcDZEcHZ2eHRTUjNVSnUxdnRac1dsUXY2bUs3MzdUanZvMUhHdFE5YWlOSVRGMVJPdUhscnR2NlNUMExPcllwZzdr?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-11-02T22:08:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "US Said to Plan Fresh NATO Push for Ukraine Arms Deliveries    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "US Said to Plan Fresh NATO Push for Ukraine Arms Deliveries"
+      }
+    },
+    {
+      "title_original": "ウクライナの学校にロシア軍が空爆、２６人死亡…ゼレンスキー氏「真の正義も望んでいないこと裏付けるもの」",
+      "title_zh": "ウクライナの学校にロシア軍が空爆、２６人死亡…ゼレンスキー氏「真の正義も望んでいないこと裏付けるもの」",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqTmNqVnZPNWwySkdHYnp1SklxRTBNcU9zR1NDYVFMRWl1Y0o0T29XSnpVb3I2Q1FjRlA1Y0FlZS1XSUlWMjBiT0hUSDVQZ2hRMEtYM1N6UXFTeVNzR1FwbVln?oc=5",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-11-02T21:54:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ウクライナの学校にロシア軍が空爆、２６人死亡…ゼレンスキー氏「真の正義も望んでいないこと裏付けるもの」    読売新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの学校にロシア軍が空爆、２６人死亡…ゼレンスキー氏「真の正義も望んでいないこと裏付けるもの」"
+      }
+    },
+    {
+      "title_original": "الصين تعلن تحركاً دبلوماسياً لاحتواء التوتر بالشرق الأوسط",
+      "title_zh": "الصين تعلن تحركاً دبلوماسياً لاحتواء التوتر بالشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPRDVIanlZYzI5N0dSTkMweFhUWnc1c1RXRkFnei1TMVhZWHg5OEVBRE01LTFiTGJfTkljSVBwODIyTzd1UHcyV3dEZ2lXbUhjN1pVM0t0OFRlaERBcnZNdy1mWUdBSVV0NlNoZFg5VTVJNXcyZ3JDbVhxLU13VldxRXVyZXpXME1pMTkxUTJhS25QM3NlLXRCcTRvSndpOGgydWpEZlpOdzNrUGZDekVtWlh3U216Mzl4UTJlZEN2ZUw2ZXhJUGFUSTNOc1BPYzluV0IyazgwbGo0b01XTEppQ212bUcwdnQ4bFpzeXRnbm5qci1OZVVUOUNSOFFhTEMxT0FFWndjZEdablZJaXQ3YTNzWndFaHV5ejdBS1FMS0tlbzQ4cjJNd1VlV0VwUmZrOVFLQ2tSSGFpZUlWRVVGWHQtSVlBWldPUnJJWXI0a2J4YnkxNkp4SGNUOVJJZzd3SmZPdVJoUHVsSE4tRTBhb0JTd0ZuUFdBSGFpTENNOU1aMUhoOWhiVjhBMmVzaFRNMkRmMXBrLWdRZjdCUlEwYnoxLXlMa0VSVjVyLXVCbE9waFJlTnBPU0NHYXBEazB0NTFudGl0NS04Zy03d3VjYnY1TDg4RlpCTGgzYXFHUUNMcXRsMzhHTFBXQTBxVW1KZzBrei1vMUhNT05xN2FjVDR1YTM4UXNwVF81ckR1YWxLUjBfdEV2OTBuMUhBdkNQV0E?oc=5",
+      "source": "الاتحاد للأخبار",
+      "source_score": 40,
+      "published_at": "2026-11-02T21:51:23+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "الصين تعلن تحركاً دبلوماسياً لاحتواء التوتر بالشرق الأوسط    الاتحاد للأخبار",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "الاتحاد للأخبار"
+      ],
+      "all_titles": {
+        "ar": "الصين تعلن تحركاً دبلوماسياً لاحتواء التوتر بالشرق الأوسط"
+      }
+    },
     {
       "title_original": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
       "title_zh": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
@@ -51,6 +551,31 @@
       ],
       "all_titles": {
         "en": "Man guilty of stealing cash from farm owned by South African president"
+      }
+    },
+    {
+      "title_original": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+      "title_zh": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+      "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-02T20:00:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and traces of the molecule that gives the beast’s blood its distinctive crimson hue.",
+        "But that is what researchers are claiming to have discovered after analysing the hind leg bones of a small, meat-eating dinosaur called an Aratasaurus that lived and died in what is now north-eastern Brazil 115m years ago.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists"
       }
     },
     {
@@ -129,6 +654,56 @@
       }
     },
     {
+      "title_original": "La situation au Moyen-Orient inquiète : 19 pilotes sont contre, Yamaha se retire... Malaise grandissant en MotoGP autour du GP du Qatar",
+      "title_zh": "La situation au Moyen-Orient inquiète : 19 pilotes sont contre, Yamaha se retire... Malaise grandissant en MotoGP autour du GP du Qatar",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONU14TlcwMFZnMXRISWhJZEZNeTZTamtySFBuMXAyOVl4UjEzOGJHaUxnUnlWUERDU2pyYUVwbm5SX1NMZ1lCWHBmZExaV3EzYUlhVHVVNkQ4cXluVFNaNjZHaWVEcUtYWmVneDV0VEdxR0Frbk03UkNPYXJwejN2WHFDLU9KU09fcG5VaUh1bnBtOHlBcTlrMThneU95ZUN5REV1Zk83MXFtVElwbnZpY0t4RDlzaWZsTTFwbFhObmlKWnlsZV9YRGNLMFFMbkFua180M3ZVYnlOR1k5ZnJxZzZRLXZoaFBWSnVLc04wbDVpbGdIdDFvdmlGeDlKQVZvSS1JaTlGd25adHc?oc=5",
+      "source": "RTL",
+      "source_score": 55,
+      "published_at": "2026-11-02T19:01:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La situation au Moyen-Orient inquiète : 19 pilotes sont contre, Yamaha se retire...",
+        "Malaise grandissant en MotoGP autour du GP du Qatar    RTL",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "RTL"
+      ],
+      "all_titles": {
+        "fr": "La situation au Moyen-Orient inquiète : 19 pilotes sont contre, Yamaha se retire... Malaise grandissant en MotoGP autour du GP du Qatar"
+      }
+    },
+    {
+      "title_original": "Midterms aux Etats-Unis : Quelles conséquences au Moyen-Orient ?",
+      "title_zh": "Midterms aux Etats-Unis : Quelles conséquences au Moyen-Orient ?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0pUS0pGM1pPQnVpOUJUcjhib2lfcHpDSVNoQV90ZkM0OXgwT1RVbEVzTGpQUTlsSTE3ZEtHcUdjOC1KVG1kV3d3cUFwUEZKbFNYV2R1ZDhyRGRoM2N4ODJtVER4U0NiLVRaVE5XNUNYaWFZMHFXVU5HUG5GSVNfQlNWTW5BOXN4Z0ZSM0pTUjByUHVvM2c?oc=5",
+      "source": "La Revue politique et Parlementaire",
+      "source_score": 40,
+      "published_at": "2026-11-02T18:55:03+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Midterms aux Etats-Unis : Quelles conséquences au Moyen-Orient ?",
+        "La Revue politique et Parlementaire",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "La Revue politique et Parlementaire"
+      ],
+      "all_titles": {
+        "fr": "Midterms aux Etats-Unis : Quelles conséquences au Moyen-Orient ?"
+      }
+    },
+    {
       "title_original": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
       "title_zh": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
       "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
@@ -201,6 +776,31 @@
       ],
       "all_titles": {
         "es": "Los aliados \"temen que Trump ataque a la OTAN\" si pierde las Midterms: 'Politico' - Revista de prensa"
+      }
+    },
+    {
+      "title_original": "Laut Selenskyj: Russischer Luftangriff tötet 24 Menschen bei Saporischschja",
+      "title_zh": "Laut Selenskyj: Russischer Luftangriff tötet 24 Menschen bei Saporischschja",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbmxTMG50TFVOeVo3U2hETUZDd1NtYk9zaldXWWZ5dUNobHh6OENrU0Q1UklYOGYwNEtJN1FacW1Ia0czT2UwdVRIb1FBZ3V3Z2xrQUFJcno2Y0t3Wld3Y3pxZjNNcmxfN095RHJaODBOclZFMlRsaTBJMV9kd3hpT0hnUlItaXBMb0xZRTl6dzJpTThfa1ZiZkZycWdnZ3VIVHkyaU5RMHM0eS1DV3RIcWFFX2JSaFFKdklsNGtRcWVfR0l6T3hKUmx3OXVXMEdWdXlTd0VzUHdPNHVFZ0xNQ2sxZWZKVEZFS2ltc1g1UHdwRFE?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-11-02T18:15:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Laut Selenskyj: Russischer Luftangriff tötet 24 Menschen bei Saporischschja    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Laut Selenskyj: Russischer Luftangriff tötet 24 Menschen bei Saporischschja"
       }
     },
     {
@@ -301,6 +901,31 @@
       ],
       "all_titles": {
         "en": "How Geopolitics Changed Refined Product Trade Flows"
+      }
+    },
+    {
+      "title_original": "Face à la crainte d'une nouvelle offensive contre l'Iran, le Moyen-Orient craint des représailles sanglantes",
+      "title_zh": "Face à la crainte d'une nouvelle offensive contre l'Iran, le Moyen-Orient craint des représailles sanglantes",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSzkwZmY5MHBoQVN1LVpLSUQzbWxpell3dlk5dzN5ZkhSVHhfTDlsazVNWVV1SlRlQkc4SGFjRWdIRFZwVUhnMFUxMkkyc1UycVR4MVgtRWVuUElwQlNDVTRXQl9PYTM0SlBOQ09JWU5Qa1k0OTFhWGFvYUNHZkloSU1UWS11SGxMdmZZNVk3REpwbWpEcEJJdnNuZ3NyS0tDX3c4WF9aMmhiZTNlcDcxcWFNbFZMU2M40gG-AUFVX3lxTE1OM0xhRWVPek9CUWdvMVdpQm9CVjNFdWVFRDYtUjBSY1JsWVAwZ1pRaExKV05oWGtrWmQ2SmJGc3MxQ2NpSWlMWWU5bTFoRWNPSzFjT2lRaEFXbHc1VUZKclAzR0puRXFjcU84SmFkR0hqT2tPQVRvblRrVnhWdlljNGtFVHd4eDhyWmVaNzhGTEpjRWZCdG13UjlqTUIydkx6SEhZczB0TzFXa04zbWJhLTUyT3loanMwZHlaREE?oc=5",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-11-02T16:35:34+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Face à la crainte d'une nouvelle offensive contre l'Iran, le Moyen-Orient craint des représailles sanglantes    CNews",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "Face à la crainte d'une nouvelle offensive contre l'Iran, le Moyen-Orient craint des représailles sanglantes"
       }
     },
     {
