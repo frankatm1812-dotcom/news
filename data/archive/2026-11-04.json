@@ -1,8 +1,633 @@
 {
   "date": "2026-11-04",
-  "generated_at": "2026-11-03T18:25:30.148189+00:00",
-  "count": 35,
+  "generated_at": "2026-11-04T03:00:38.550612+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title_original": "Un incendie dans une usine de Panasonic à Taïwan fait cinq blessés et deux disparus",
+      "title_zh": "Un incendie dans une usine de Panasonic à Taïwan fait cinq blessés et deux disparus",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeWZ4ZnphU2hVZG04ZEphdmVtQ2hDUEpZaDh2QjdCU0lpR1Z1QlZlRHNib0RISEtVRkh2WEcwaGhqZ0tHc0NpNm91Y0xFOWtIT2hnbHRKanJoQUlBcXlnM0dxbzc2anNVR04yLWI4QTN1Rm1udXNVdVUyTVRjSnhUOWdZaHlXZnY4dVF2bjY2QVNzSlgzeVZrUjBMUkY4cEJLOVhPRFZLSzctR25IV25TUVQySklfam9HbHNMQUVFZlQweVpsOHZLODZfSzFZYmxKaFkyQzNIZTlaeGs?oc=5",
+      "source": "Zonebourse Suisse",
+      "source_score": 40,
+      "published_at": "2026-11-04T02:46:26+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Un incendie dans une usine de Panasonic à Taïwan fait cinq blessés et deux disparus    Zonebourse Suisse",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Zonebourse Suisse"
+      ],
+      "all_titles": {
+        "fr": "Un incendie dans une usine de Panasonic à Taïwan fait cinq blessés et deux disparus"
+      }
+    },
+    {
+      "title_original": "原油先物は下落、米中間選挙結果と中東和平協議への影響注視",
+      "title_zh": "原油先物は下落、米中間選挙結果と中東和平協議への影響注視",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pRDd1Uk93T1NNalBlMnIzLUtrRENneksyRG1EdWRVMENRNHk2TTlYXzZfRjNTaF9oWkR1ckxnV2JtbXVEX1JfNTlfMXpGMXhtajFyZDhxZjJicW9pdzdCNmNNZjFzM1p0MUhTQTktOUpaeFpGOXVJUURfa2NyNWM?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-04T02:18:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物は下落、米中間選挙結果と中東和平協議への影響注視    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物は下落、米中間選挙結果と中東和平協議への影響注視"
+      }
+    },
+    {
+      "title_original": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+      "title_zh": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHlUZFVMYWpEOXAzb1dVNVhKOFJ3Wjh5MVZtVGNpV0M1X1U3UjlkbHNQRmFQcVZ1TG5Zc2NSQkJWbURydGpXeTJtMHgtWGV0bW9SWEdIbmM5V2lDSmhMTUNEbWJqYkdTbnBYRzdJU0wxS3NpdlRSVnVfSEw1ZmNYMGxDSlJzaUMzTGhZZmktcDhNd3p1YkZMTGgxTVFnMkpMbVlNWjB3ODMzV0UyN3dBSVQwZ3BJUWxx?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-04T01:35:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war"
+      }
+    },
+    {
+      "title_original": "北约新防御计划意在对俄境内实施纵深打击",
+      "title_zh": "北约新防御计划意在对俄境内实施纵深打击",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPUkc5ZkdlamhSRjZKVXdldm5SZlRuOHlEYzNXd21LNXRKWEM4dnJmUjJjMm8wV3lVQ1I3UnN5cWVack9yc3E1aW1MWkFRUDh6S3pGc2hZajlLYjRPWUlBdTFZUTlsYWNXN2pBcTVrenl4ZnY1V2VwU1EzNWZTbXZpM296SmRUR3hsLVU0S1pDVmJyLW5yb09BczRHSERVLW00QTEwMnA3NndqTExpTk8xQmVYM3o4dDdpSWtpaDhTM0JJdG5MVnducEFGaFBPTWtfQ3NlMjdNc05TN3hJb0JPX2VkZnVpTWNuMmtlbGlGSVlnckdyZkoyS2xmX3F6d0tVV21pWUV6VUhtUUVyM0FPZ1h1c2VnMzZOblJZX1RqSWhoM2ZySnZzQllNUXFmcGVyYmc?oc=5",
+      "source": "华尔街日报中文网",
+      "source_score": 95,
+      "published_at": "2026-11-04T01:07:19+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约新防御计划意在对俄境内实施纵深打击    华尔街日报中文网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "华尔街日报中文网"
+      ],
+      "all_titles": {
+        "zh": "北约新防御计划意在对俄境内实施纵深打击"
+      }
+    },
+    {
+      "title_original": "详讯：亚洲杯因中东局势推迟至明年12月 森保一或提前“下课”",
+      "title_zh": "详讯：亚洲杯因中东局势推迟至明年12月 森保一或提前“下课”",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NZlQ0NGFKclZNZVV5d1lDcDRKcC11dzQ5TVgyb0s0VVVKeXNfNUp4c2VGY0hPb28ydG0zcXpnenE1Rl9BcnBVRWpUel85ak14S2pmNUpEYw?oc=5",
+      "source": "共同网",
+      "source_score": 40,
+      "published_at": "2026-11-04T00:55:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "详讯：亚洲杯因中东局势推迟至明年12月 森保一或提前“下课”    共同网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "共同网"
+      ],
+      "all_titles": {
+        "zh": "详讯：亚洲杯因中东局势推迟至明年12月 森保一或提前“下课”"
+      }
+    },
+    {
+      "title_original": "Cómo puede cambiar política exterior de EE UU si demócratas ganan midterms",
+      "title_zh": "Cómo puede cambiar política exterior de EE UU si demócratas ganan midterms",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMEc4R3ktRU1xYm5aekpNd2pVYkZGLWdkOUwwckJMQ0Z3emExUkI3N0lIdnBVeThXLTR3YmVDUWt2S3hqZFZKb194QzI4NFZrRktwWW5VVm5MQXYyZzJXdl9rN1prdk1DcDNjSXhRcVNpTkhDT3ZGYmgteUtUaG5nQ1k0TzRzMlZMdWsxcHN0VzJDaWFVRzVFd2NUYUdNcFJ4M2R2bmRMV0dhTFpwNUhjNWMtekZnSVF5YkJaaV9iNVVkRFB0RFZYOW5XdFZ2bjDSAdQBQVVfeXFMUDhEUnJtbzhFSklkMC1NWVUzcDM2SV85NVlwd1hQa29RUlQ5VVplWnZJWTZvV3NsSnJBcnU5Q05FaVN1YWdncGRHeVZncGhYRWE3Z25SdlJheldTMTJyd1BSX3ZSNDY3UHBhVmItaS0wWHgzUU9GLWlCMkxvYzBXdVdzc25obi1DM0YtSVR1TDJlVk1PQWN4ZUxXUHVhNWZ5TUF1dl9CdlVINVRpdVgwNURKNS1wVkhWNnYzdlVKNWYydTJrWTJVTDdSWjA5X01fMGFIbHU?oc=5",
+      "source": "MUNDIARIO",
+      "source_score": 40,
+      "published_at": "2026-11-04T00:25:46+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Cómo puede cambiar política exterior de EE UU si demócratas ganan midterms    MUNDIARIO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "MUNDIARIO"
+      ],
+      "all_titles": {
+        "es": "Cómo puede cambiar política exterior de EE UU si demócratas ganan midterms"
+      }
+    },
+    {
+      "title_original": "黒海で戦火拡大、ロシアがＮＡＴＯの「一線」試す",
+      "title_zh": "黒海で戦火拡大、ロシアがＮＡＴＯの「一線」試す",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnpUbXJJVWFEdUN5Mk5QVzh6QnlzSVBGYjhmWUt6ZFJ5WEFMZkR4QlpnZDZpOGhrWEFVY2NEMTRZOWp6RzlhamlzMGlNLXI5aHptZkRBMmY2M1p6emZ4dDJfYnJUMzZwSGp5OGo2cXNGTHRwZURwc2F2dTFuQXdfNE5VMWFuZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-04T00:16:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "黒海で戦火拡大、ロシアがＮＡＴＯの「一線」試す    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "黒海で戦火拡大、ロシアがＮＡＴＯの「一線」試す"
+      }
+    },
+    {
+      "title_original": "ضربات أميركية «دفاعية» على جزيرة قشم قبالة «هرمز»",
+      "title_zh": "ضربات أميركية «دفاعية» على جزيرة قشم قبالة «هرمز»",
+      "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxOZGFyNWRhU0dSYTlyU3JCeDUwV0VGLUNhUV83LW01UWdHM1ROXzBzRzBVRkxuU2pBaWdJZnYydjRSemF1RllrVEFfTElkUEtqQVYtcm05RFdCVTlJQWZ2clZidC1WZGNGd3gtYXBrUWdfN0lNNnpCZEQ5Y2pzTmg3QUxRLTYxUEFGeUNqdHpqSWYzRExZTUVERlNNdXZqeXVNTWhwLWNfR0NDOENKUlEyUUlnVGRUYmp4ZnVQZXdyOG14ZmdOdzhqdVZHMFpIU01pb21KNlZNWUE4dkFFSmFTd002b18ySjBkZW0tbFNVbmVBY01nWExlRHliMFQwd2JIM0hPRE92LXZXeWM3UUxLc3ZqaHJ5U2w5YnlMU2RyV2ItQUhmZzRRdnJjajU4MmxaMDBtcWdPaVV1LTFDU2UzZ09nWmNKcllmSnNEZGkzUVk3akN0Rk9jQzRPMkJQVmtYT3JBdjlfaFozb1EtelRxY3pzRlRFcDdVdVJ5QXBXRng3RllSWHlQTU9yXzVSZk5pc1RxaldyUWVCVzR2X2NxcUhmdFhpTFYtaENINTVJdlFQMUNLNUJDMmxVWFVnd3N6TWRKdVVfWnV1OW91bHVtdUdHY3Y?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-03T23:54:47+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ضربات أميركية «دفاعية» على جزيرة قشم قبالة «هرمز»    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "ضربات أميركية «دفاعية» على جزيرة قشم قبالة «هرمز»"
+      }
+    },
+    {
+      "title_original": "John Hobday, nuevo CEO de SEC Newgate Oriente Medio",
+      "title_zh": "John Hobday, nuevo CEO de SEC Newgate Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQODZxOWdza2hjLXdrOGpIX2Nkd3A5ZEQ3YTVmM081OUlkWVhmbzFJbF9VZnNzNFRYck9OS0pnOHBnUFUyY0VDRDc3dFBHNWZ4Yks5bWtSd2NZZUo5UExCcWVWam5UR1hCdzhEUmYtSGd6Mm1hTnZONE91ZmdEZW5UVDhJN1RVTTZIQUN0d1FWQjNYWGc?oc=5",
+      "source": "Marketing Insider Review",
+      "source_score": 40,
+      "published_at": "2026-11-03T23:33:25+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "John Hobday, nuevo CEO de SEC Newgate Oriente Medio    Marketing Insider Review",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Marketing Insider Review"
+      ],
+      "all_titles": {
+        "es": "John Hobday, nuevo CEO de SEC Newgate Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Bruselas aborda el futuro de Ucrania con Estados Unidos y la OTAN",
+      "title_zh": "Bruselas aborda el futuro de Ucrania con Estados Unidos y la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDZoaFYxbW5uNURWcHVMVW9NenUzT2tLeDRHVGxoLV9mNFRhWGM1MlBKRXhVa1lqd0k3b19yS0t6WlZoeFdhaXQxYXlFcmpEMkNpVVczSDRacllmd1RoamhyY3dnWWltNmE1NmJJZnNnMkdBZVJWOXhMT1pmY0tIWUozWGg2VUhmR3RYaVgzNm5Ub3V5bDFHanpR?oc=5",
+      "source": "La Región",
+      "source_score": 40,
+      "published_at": "2026-11-03T23:25:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Bruselas aborda el futuro de Ucrania con Estados Unidos y la OTAN    La Región",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "La Región"
+      ],
+      "all_titles": {
+        "es": "Bruselas aborda el futuro de Ucrania con Estados Unidos y la OTAN"
+      }
+    },
+    {
+      "title_original": "ウクライナ・ドイツ首脳会談 3か国協議で具体的な進展に期待",
+      "title_zh": "ウクライナ・ドイツ首脳会談 3か国協議で具体的な進展に期待",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12WS1kZ0RERFVLekdWSGdCS1AtMEtDTnVEQmVLVDNaTTlBSXo4YzJSOGlDZWhQNFpYNS00c1ZEY0VTWXZPMkRobklTT21OYjB2ejJ0WDI2aWN0bG1uaDZZ?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-03T22:49:54+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ・ドイツ首脳会談 3か国協議で具体的な進展に期待    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ・ドイツ首脳会談 3か国協議で具体的な進展に期待"
+      }
+    },
+    {
+      "title_original": "Spanish transport minister resigns days after deadly train crash",
+      "title_zh": "Spanish transport minister resigns days after deadly train crash",
+      "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-03T22:45:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Spanish transport minister resigns days after deadly train crash\n- Published\nSpain's Transport Minister Óscar Puente has resigned - six days after the high-speed train collision in which at least 69 people were killed and dozens injured.",
+        "He announced his decision in Congress, after giving evidence on last Wednesday's disaster near the town of Urda, south of the capital Madrid, in which a train smashed into the back of a stationary train.",
+        "\"A transport minister in a country like Spain cannot remain in office after two accidents of this seriousness in less than a year,\" he said - a reference to January's crash on the same line which left 46 people dead."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spanish transport minister resigns days after deadly train crash"
+      }
+    },
+    {
+      "title_original": "ＮＹ外為市場＝ドルもみ合い、中東情勢や米中間選挙の影響にらみ",
+      "title_zh": "ＮＹ外為市場＝ドルもみ合い、中東情勢や米中間選挙の影響にらみ",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwVWpRYmlKRkdwUWdtZUdSVU92OFZ5aHJqbXpQaC1sMk40SnVOMWZKVWMtZmdpMThPWGVleTNLdTNlNEZHTWlobTJPU2h1QXNyS0NWVzdBLVJJMmxtVlRlOEt1aWIxbG9HbWJMYTFNRTJOVW5HSnMyTDVlcTA1UQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-03T22:12:13+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ＮＹ外為市場＝ドルもみ合い、中東情勢や米中間選挙の影響にらみ    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ＮＹ外為市場＝ドルもみ合い、中東情勢や米中間選挙の影響にらみ"
+      }
+    },
+    {
+      "title_original": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "title_zh": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-03T21:53:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NTSB says crucial plane parts found three miles from Florida crash site\n- Published\nCrucial components of a private jet that crashed in Palm Beach, Florida - including a part that controlled the up-and-down movements of the nose of the plane - were found 1.3 (2 km) to 3.8 miles away from the crash site, an investigator said on Tuesday.",
+        "National Transportation Safety Board (NTSB) investigators said they believed parts of the jet may have broken off before the Sunday crash, which killed all nine on board.",
+        "The NTSB found \"the majority\" of the Learjet's left elevator - a control surface on the tail - in three pieces, NTSB board member Tom Chapman said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "NTSB says crucial plane parts found three miles from Florida crash site"
+      }
+    },
+    {
+      "title_original": "JA全農 来春向け肥料値上げへ 中東情勢が主因",
+      "title_zh": "JA全農 来春向け肥料値上げへ 中東情勢が主因",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uQWtSTEp4aEk4NWkyQV9IWndmZ0RHc3ZCcmVESnMxSXoxdHZmZnJMX253djY2a1ZVWFl6RWZmTGl5cDEwQzljanMzODFuczg5d3lvVkVLc21xOEY4Wnhv?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-03T21:45:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "JA全農 来春向け肥料値上げへ 中東情勢が主因    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "JA全農 来春向け肥料値上げへ 中東情勢が主因"
+      }
+    },
+    {
+      "title_original": "ロシア、ウクライナのエネ施設に大規模攻撃 米仲介の3者協議再開控え | ロイター",
+      "title_zh": "ロシア、ウクライナのエネ施設に大規模攻撃 米仲介の3者協議再開控え | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdlpmYkxRbmlQcmlPWVZTODFEX19IckV2LW5Qc2lXNm1Ua1hwMm5xOG9BYUM3WU9Ec183dklmWWxwWndqZGV0SDhqRnVQXzdCTlBsM3ZCRGNwU25BT1h1WUNXRnVfR1kyTl9MZjJzMi14cmlMSHN2eDVWSmJYeVJLYmpIeVpMQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-03T21:36:52+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア、ウクライナのエネ施設に大規模攻撃 米仲介の3者協議再開控え | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナのエネ施設に大規模攻撃 米仲介の3者協議再開控え | ロイター"
+      }
+    },
+    {
+      "title_original": "Seven flights across Europe targeted by suspected bomb threats",
+      "title_zh": "Seven flights across Europe targeted by suspected bomb threats",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-03T20:42:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Seven flights across Europe targeted by suspected bomb threats\n- Published\nSeven passenger planes across Europe, two of which departed from the UK, have been inspected following a series of suspected bomb threats.",
+        "Two Ryanair flights, one originating from Dublin and the other from Lisbon, were searched after landing in Rome following anonymous tips but no explosives were found, sources at the city's Fiumicino airport told the BBC.",
+        "The Dublin flight was escorted by the Italian Air Force until landing."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Seven flights across Europe targeted by suspected bomb threats"
+      }
+    },
+    {
+      "title_original": "Triangle de Weimar à Giżycko : un rendez-vous stratégique de l’OTAN à 110 km de Kaliningrad",
+      "title_zh": "Triangle de Weimar à Giżycko : un rendez-vous stratégique de l’OTAN à 110 km de Kaliningrad",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa3ZLWXFscUZSRzdQTk9VeGFpRDNrYTNyTzZJeWdqLS01UEpyTXlMVnFvdjhZcGVhQWVYQ2Y3WUhEMFJacmxMenFXYm14N0huZXNUeE1oMDhGNTZfRUp4TWVMVFNxMVJ0NGVDbk1wZEU3UHdsVWZkbzlja3JxV1ozZjBDWFQzcjBoMDhUMVJXdUp5d0ZKUlgteEIxN2d6VHBWbDBTUWFkWEtNaElDTEdyWUlMQ3o?oc=5",
+      "source": "Lepetitjournal.com",
+      "source_score": 40,
+      "published_at": "2026-11-03T20:37:22+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Triangle de Weimar à Giżycko : un rendez-vous stratégique de l’OTAN à 110 km de Kaliningrad    Lepetitjournal.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Lepetitjournal.com"
+      ],
+      "all_titles": {
+        "fr": "Triangle de Weimar à Giżycko : un rendez-vous stratégique de l’OTAN à 110 km de Kaliningrad"
+      }
+    },
+    {
+      "title_original": "エネルギー施設攻撃停止協議へ ウクライナ米ロ、10～11日（共同通信）",
+      "title_zh": "エネルギー施設攻撃停止協議へ ウクライナ米ロ、10～11日（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OeEkxRXVKcF9zSmMwSEUxR3ByQ21DajE3VGJMQkU5RzlUN0hYc1N2czVLbHg3aUdZYXBkV1VkOFB4UzEyWW50Q1FBdjhmQXd5Wm9pd1Ytbjd5NU14VmpQaVV1T2tpU01lbzFNakRudERjazNZb3RSbEVmTEJqMWc?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-03T20:29:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "エネルギー施設攻撃停止協議へ ウクライナ米ロ、10～11日（共同通信）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "エネルギー施設攻撃停止協議へ ウクライナ米ロ、10～11日（共同通信）"
+      }
+    },
+    {
+      "title_original": "Guerra, petróleo, IA: ¿Qué podrían significar las elecciones de mitad de mandato en EE. UU. para las economías de Oriente Medio?",
+      "title_zh": "Guerra, petróleo, IA: ¿Qué podrían significar las elecciones de mitad de mandato en EE. UU. para las economías de Oriente Medio?",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZXJhb0Q5Q29vSG9EbHN5MmZ4aW02b3c2N3B4ZWN5YXlOQ0pxZE54TlB6OFFUVFdDM2VHUW1oc0t1VEdKVDVDWHB0alN2NFhmY0lkU3pmR2FXam1LQlhvakRwSlJRdl8tZG1vX3NoVUZHNF9OMmlYaGo5b2oxcFdQSVBZUHQtVlEyYkE5emZqeXZrdE10UldHTmxzY05TcmpVUnpXZGk4OTZVejgzX29lcmNOTjhWUmhpdV9hS2s5YWZwcTJrVGc?oc=5",
+      "source": "Al-Monitor",
+      "source_score": 40,
+      "published_at": "2026-11-03T19:39:28+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Guerra, petróleo, IA: ¿Qué podrían significar las elecciones de mitad de mandato en EE.",
+        "para las economías de Oriente Medio?",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Al-Monitor"
+      ],
+      "all_titles": {
+        "es": "Guerra, petróleo, IA: ¿Qué podrían significar las elecciones de mitad de mandato en EE. UU. para las economías de Oriente Medio?"
+      }
+    },
+    {
+      "title_original": "الحرب، والنفط، والذكاء الاصطناعي: ماذا قد تعني انتخابات التجديد النصفي الأمريكية لاقتصادات الشرق الأوسط؟",
+      "title_zh": "الحرب، والنفط، والذكاء الاصطناعي: ماذا قد تعني انتخابات التجديد النصفي الأمريكية لاقتصادات الشرق الأوسط؟",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQemZLYl9xQ2hPQTZBRjJaTU9kdm9WaWhQX0hQME9SbnE2dzBkYnRjaHlDdU9fSzBpQmROVzVaMmFQWU5ha1d2N1Bwd0RVeC04NWVDY01wd0QybUxDZEJjRlhaV3BBV1dUdWd2TDF2SW00Y0dMa3JZa0hYdDlqdVp2OVFZMTRGczJGeGozREhucDJyNUNTRDZYaHRUcjViZjhDZnNBMmRXeDNCVHJ6ck9kTHFmR2hnVHhkR3JwOE5tQUxLM1U?oc=5",
+      "source": "Al-Monitor",
+      "source_score": 40,
+      "published_at": "2026-11-03T19:39:28+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "الحرب، والنفط، والذكاء الاصطناعي: ماذا قد تعني انتخابات التجديد النصفي الأمريكية لاقتصادات الشرق الأوسط؟    Al-Monitor",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Al-Monitor"
+      ],
+      "all_titles": {
+        "ar": "الحرب، والنفط، والذكاء الاصطناعي: ماذا قد تعني انتخابات التجديد النصفي الأمريكية لاقتصادات الشرق الأوسط؟"
+      }
+    },
+    {
+      "title_original": "Auszeit vom Ukraine-Krieg: Rheinmetall bezahlt BVB-Fußballcamp für Kinder",
+      "title_zh": "Auszeit vom Ukraine-Krieg: Rheinmetall bezahlt BVB-Fußballcamp für Kinder",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQTFNSWQxLWFvZUJrUFJXNFFuU0Q1NEt6SFhiTlJMUVl4aENVQ1hVcEVpVk5NSmV1Skp6YXRXTVd6dUJmbUxueHdJQ2JrSFZra2Z2NG14WDNzZU8xNEdybVdVRHVkTWpzUFhrdG1mcEVTOXRHTVhRVjhiUnhSeHZxWlhlbjdwOHhiVVNVRlA2Wld0QWxmTWdxQ3E4VjRWSmFfTlE?oc=5",
+      "source": "sportschau.de",
+      "source_score": 55,
+      "published_at": "2026-11-03T19:23:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Auszeit vom Ukraine-Krieg: Rheinmetall bezahlt BVB-Fußballcamp für Kinder    sportschau.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "sportschau.de"
+      ],
+      "all_titles": {
+        "de": "Auszeit vom Ukraine-Krieg: Rheinmetall bezahlt BVB-Fußballcamp für Kinder"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: „Eigentlich unvorstellbar“ – Soldaten robben kilometerweit durch Gasrohre",
+      "title_zh": "Ukraine-Krieg: „Eigentlich unvorstellbar“ – Soldaten robben kilometerweit durch Gasrohre",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNejRBVFY1LTVudHhjRkk1TllJVUYwWEhWODhDZEVBMjlrOEFESnhNdmRwNlFQUTJTSkVzX0Q0SVhQX3lpN21iN0Y2SHp0cV9tY3NIVXJvZTU0Vi1EVUpnVS1tUWVrdXNINUVmZWhqYVVyeV8xb01WNGdaNldHaHMtUzJtM2pnZGRYdXpQbUJyZDNlckhwWXc5X2w4WlVkcGdfQllKQnRJTWk3VnVMOEhkZVBnT2xNQUlkM2ozc2JVWElfTXNpaFowWm9CemhXaXZLTzAxemwwcGRMam1FRUxESGpjUnlKRXZLXzZmRA?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-11-03T18:56:50+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: „Eigentlich unvorstellbar“ – Soldaten robben kilometerweit durch Gasrohre    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: „Eigentlich unvorstellbar“ – Soldaten robben kilometerweit durch Gasrohre"
+      }
+    },
+    {
+      "title_original": "(S+) Verteidigung gegen Russland: Jetzt nimmt die Ukraine Putins Waffenschmieden ins Visier",
+      "title_zh": "(S+) Verteidigung gegen Russland: Jetzt nimmt die Ukraine Putins Waffenschmieden ins Visier",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQlNqZGtQSFdRcHB2eVZWbi12MnMtU3d0ZlhyX2FTN2FEWjhwcnZjRTRPUFdvZ0hQVDBsZ29DRDY5ZW0tb0hHdExORnlxalhDai01NEkyUnFXeDJiNlYzaExnYWwxTEFGM3JHWC0xNlIyY3Y5MVhpZzIxMklRX0ZSN1hDSlZVU2dJTDIwVGFwX3dPampaRXFnRWx5RVB2SkVyWGVabGdXM2U0Ym40V05SVnU1SWVEV1V2OXVhb0RYWFE1eGNCSnZPSHpfWkttU2dQM3c?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-11-03T18:42:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "(S+) Verteidigung gegen Russland: Jetzt nimmt die Ukraine Putins Waffenschmieden ins Visier    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "(S+) Verteidigung gegen Russland: Jetzt nimmt die Ukraine Putins Waffenschmieden ins Visier"
+      }
+    },
+    {
+      "title_original": "Mehrere Milliarden Dollar für die Küste: Was Taiwan gegen Chinas Militärmacht plant",
+      "title_zh": "Mehrere Milliarden Dollar für die Küste: Was Taiwan gegen Chinas Militärmacht plant",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaS1kX3ppX3UxSVhOUkRVQlJhMzROaHpva3hpY1EybHNvTGRKMGJmdlJJN192NlhQdEhpZEJrYlJQVmRVdFktZnlIT1JpQ3BXazU2NWM3RzVndjlvWmVmdzZtMUdlcldDM29KblNob214N2d6S0lJblVCZHRqWmVVTGZ4WEtTbFlCWVR2QUh1TFREUTRGZ1N1UlRXeFNHZkE?oc=5",
+      "source": "Merkur",
+      "source_score": 40,
+      "published_at": "2026-11-03T18:32:13+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Mehrere Milliarden Dollar für die Küste: Was Taiwan gegen Chinas Militärmacht plant    Merkur",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Merkur"
+      ],
+      "all_titles": {
+        "de": "Mehrere Milliarden Dollar für die Küste: Was Taiwan gegen Chinas Militärmacht plant"
+      }
+    },
     {
       "title_original": "Russian strikes on Dnipro kill two, injure 20 others",
       "title_zh": "Russian strikes on Dnipro kill two, injure 20 others",
@@ -51,6 +676,31 @@
       ],
       "all_titles": {
         "en": "US and Iran Are Reviewing Proposals to End War"
+      }
+    },
+    {
+      "title_original": "Poland launches major border operation as activity in Russia fuels concern over possible \"serious provocation\"",
+      "title_zh": "Poland launches major border operation as activity in Russia fuels concern over possible \"serious provocation\"",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb04yOUY3M0N4NGx0YlJTVkNnTzExdEpUZVBlbjB4TlYzSWNxRmcyQVZOYnIyanJNeF8tUUxDa3BOdWhaOWRLNWRCLWpqSnZmTkRRd0lvRUtMSEV3VDJVV2JEa3BKR25lZG9jRS1mTFpRaW8ybklDdDZxTGhVbnRUTVE1b2VxbW14Rzd4bzdyd0pmdjY0V0NUNGp2ZEpJT00?oc=5",
+      "source": "CBS News",
+      "source_score": 75,
+      "published_at": "2026-11-03T17:32:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Poland launches major border operation as activity in Russia fuels concern over possible \"serious provocation\"    CBS News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "CBS News"
+      ],
+      "all_titles": {
+        "en": "Poland launches major border operation as activity in Russia fuels concern over possible \"serious provocation\""
       }
     },
     {
@@ -151,6 +801,56 @@
       ],
       "all_titles": {
         "ar": "يوميات الشرق الأوسط 03/11/2026 GMT"
+      }
+    },
+    {
+      "title_original": "Organizing Committee confirm 2027 Asian Cup decision amid Middle East conflict",
+      "title_zh": "Organizing Committee confirm 2027 Asian Cup decision amid Middle East conflict",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2FNZmZfa2t6UkE2ajBZOHZ0YWVValMwSk01c1ljbmRoMlFpZVF5MDhOczdVRl91QTNramc4dGZHRGlPQ05LTjlPSXVMb09BN0VtaDZzeWxWekk1QkFTaFZ2MHl2b0I4N2ROTHJtLVl4a0p4LVZkclRtTW9kdWQ1SkhydHBuNmFydHRURkkxX0VTZw?oc=5",
+      "source": "Yahoo Sports",
+      "source_score": 55,
+      "published_at": "2026-11-03T15:46:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Organizing Committee confirm 2027 Asian Cup decision amid Middle East conflict    Yahoo Sports",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Yahoo Sports"
+      ],
+      "all_titles": {
+        "en": "Organizing Committee confirm 2027 Asian Cup decision amid Middle East conflict"
+      }
+    },
+    {
+      "title_original": "NATO Secretary General meets the Prime Minister of Albania",
+      "title_zh": "NATO Secretary General meets the Prime Minister of Albania",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHFpUGFDZDdxRzk5a0t1bG03Q0NOVUpmYzQwQnN6aTZ3dW1yZjRReHh0MnVlWVQ4Z1BFYVlldDg4X29xSDdiNHJ5WTRSRVBsNTN6NXVseUZ2dWlIaVZEV0U5bzlUMUhOcW95YnRFWGppV2Y3bWRpOWJTaXpEUnJLekJFZ1BUTVo0emR0bHZleXNMcFFpcGthYk1OcmpuVnZaYjdtOWpYUTBrWmw4aUZLbjY2RW5XNC04THpkNXN1MA?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-03T15:45:03+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO Secretary General meets the Prime Minister of Albania    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "fr": "NATO Secretary General meets the Prime Minister of Albania"
       }
     },
     {
