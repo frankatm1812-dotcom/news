@@ -1,8 +1,683 @@
 {
   "date": "2026-11-05",
-  "generated_at": "2026-11-04T18:38:51.490585+00:00",
-  "count": 35,
+  "generated_at": "2026-11-05T03:28:38.494797+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title_original": "La Corée du Sud va déployer sa marine près du détroit d'Ormuz pour en garantir la circulation",
+      "title_zh": "La Corée du Sud va déployer sa marine près du détroit d'Ormuz pour en garantir la circulation",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVllranBoUExCVUxBNldMTVJIVXpRdnRTekxsUGl5WTE3eXFiVmF4bmxRd0pDc2g4TUtieFBBZ2Z5a01DTzJiTnk2Tno1bTlQVzI0OFV2ZktzT1N2cTRvTTF2RUJ5YlZEcW50MjBRb3kxY25fZk85SDJKa1B6bFg1TG5GbENYdjBldWIyN19ZWjlzTEdjQ044T0RZaEVVQ04zS3RneG9mRGFjSGtSS3RhNWJpbXMzUGl0RXFiZGkwVy1uYUdzSHd2ZzdGUVNmMHJWdUstQmpmUHhDbnNRUkwyeVlXbEg2YUozSGpqLVpMN0c0LTcxS1V3MUJmZjRBSGhXMW9Rc180ZW5zUkdldGdIMDJ3R0haay05cjdJ?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-05T03:03:30+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La Corée du Sud va déployer sa marine près du détroit d'Ormuz pour en garantir la circulation    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "La Corée du Sud va déployer sa marine près du détroit d'Ormuz pour en garantir la circulation"
+      }
+    },
+    {
+      "title_original": "ロシア軍のドローンが迫り、兵士たちが一斉射撃…ウクライナ最前線で目撃した「無人戦争」の現実（ニューズウィーク日本版）",
+      "title_zh": "ロシア軍のドローンが迫り、兵士たちが一斉射撃…ウクライナ最前線で目撃した「無人戦争」の現実（ニューズウィーク日本版）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wdV95eE9ncTlTQXo1cHBqN3ZkOUNvRkoxckdZY3M1UU5WUDE4cVNULW5GZ2ZhSm51aUt2ZmJNWjNkTFc5Uk5RMlczR2hncFM5QUFvZFhsc0xublZfOFdPVXAzRGtOUmhVTmZ0aVpKUzdFX2w4cGZkY1J6TThqaGc?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-05T02:56:31+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ロシア軍のドローンが迫り、兵士たちが一斉射撃…ウクライナ最前線で目撃した「無人戦争」の現実（ニューズウィーク日本版）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍のドローンが迫り、兵士たちが一斉射撃…ウクライナ最前線で目撃した「無人戦争」の現実（ニューズウィーク日本版）"
+      }
+    },
+    {
+      "title_original": "Nato-Osterweiterung: Hat der Westen Russland wirklich verraten?",
+      "title_zh": "Nato-Osterweiterung: Hat der Westen Russland wirklich verraten?",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSWt4R2dhbmJuS0U1TkRlTWxHLVRpR2RVRGgwTk9yU0hRVlRXcmQ2M3dud1R6UkZhWFo2YURyMjRaa1cyMWdKRHhMM3ZMZUZ3LW9uQm83SUItWUNBWHBoNkhMTEVVMWo2bE1qZDZlTUY3NFNNRzUxaG91UjJPVDB5aGhxOVVnVGlzMTQySHE1bE0xMUlpOGRWZ1FObUR1LVpYbGozOGpKV3JRU01EM0VQT1kxd1F1aWRkeGp0Vkc2bENmY3JsbUxWYw?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-11-05T02:11:47+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nato-Osterweiterung: Hat der Westen Russland wirklich verraten?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Nato-Osterweiterung: Hat der Westen Russland wirklich verraten?"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Zelenskyy awards Melania Trump national honour for role in brokering Oleshky truce",
+      "title_zh": "Ukraine war briefing: Zelenskyy awards Melania Trump national honour for role in brokering Oleshky truce",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNjlfVnhHcllnQzBsS3Z4eVRjZWJuZ3lEdnRvYWZ4Nk5TWHo0dUJKRGlpWGM1ZHotT2ZGaVhROVBaTG5mdVg5ZDhuYzZ6TTVfV1piZDJPSktSb1Z6YWVFemYxdTFWeHFPZVJiOWljV0djOWhrNWdGVXgtaEUxVzAwU21JSEhJVFVmRjlVbVFremdRaVg1Rkl1Z2MxVHpsUVpGdFI0Z3dVRGtBT09vTWdUNDR1VmpiWG1sNWdoN1NybTRmS1loaloxV2tLOGhfOGRBSnV4czU4Q0tmUGxsMml4TjlvTQ?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-05T02:11:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Zelenskyy awards Melania Trump national honour for role in brokering Oleshky truce    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Zelenskyy awards Melania Trump national honour for role in brokering Oleshky truce"
+      }
+    },
+    {
+      "title_original": "China Airlines erhöht Treibstoffzuschläge ab Taiwan",
+      "title_zh": "China Airlines erhöht Treibstoffzuschläge ab Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVFEM0ZWaW5nVDNVbFdTaE1yYVVBZ25CUmlzTFJNSGxxNW03Mk85RUozckpjSW5ralUtelVGNWl0N1AxX0QtYm9nQzRiRVh2UUVCTHhkTWlpbk8xUWdXVTZkN0xpSGxYdUhCUWFhWjJpR3JBeFhwb2NqTF91ZVU2Zl8xUkdxYk9iN2ZnaXJyNmdVMHhsUnRBZ0xvZm9JQ28?oc=5",
+      "source": "aeroTELEGRAPH",
+      "source_score": 40,
+      "published_at": "2026-11-05T01:44:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "China Airlines erhöht Treibstoffzuschläge ab Taiwan    aeroTELEGRAPH",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "aeroTELEGRAPH"
+      ],
+      "all_titles": {
+        "de": "China Airlines erhöht Treibstoffzuschläge ab Taiwan"
+      }
+    },
+    {
+      "title_original": "ウクライナ、ＥＵ加盟交渉の目標達成へ改革加速必要＝欧州委",
+      "title_zh": "ウクライナ、ＥＵ加盟交渉の目標達成へ改革加速必要＝欧州委",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lWlplUUFHRFRNTmgtdXd3eDhCS19QMFo3bk51RmRjTloxM081eTBJYWxwVkZ5YlhwaEJmRnYzcFJQbkpjZ0FfSWQ5b3E0RThvanc0OWJZVVlWTFhQZWZyYktqeHk2REUySHRPYzN3SDl4NE42NzRVVmhHX1NPUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-05T01:27:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ、ＥＵ加盟交渉の目標達成へ改革加速必要＝欧州委    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、ＥＵ加盟交渉の目標達成へ改革加速必要＝欧州委"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: EU-Außenbeauftragte erhofft sich vom neuen US-Kongress \"mehr Druck\" auf Russland",
+      "title_zh": "Ukraine-Krieg: EU-Außenbeauftragte erhofft sich vom neuen US-Kongress \"mehr Druck\" auf Russland",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZElkRlN6U3Z0OGVmQnlyczdZN25BMGFmb25OMnhzcm90XzJJSWlrYml4cEhGOU5yUXZEVnFvVW1rRW9uLXNORjA1UnF2d1BudjAxWVNWNjlMYXNDMkNNa0JzWGJpLUNvUWJkcElCSlFrVTlkbEhzRE5mUktRWG1pUlFmZXZEMm1tVi1wcmI1MUQ3b0djY1NkcmU3TnJSZ1UzUU4tanlTTWFyWjcwc09BOTdfNzRJSlp1VFcxcm1KRWVsUDhxV3N0MHExOHMyLW9ULTJqWmRodW5hYi0tbnc?oc=5",
+      "source": "TAG24",
+      "source_score": 40,
+      "published_at": "2026-11-05T01:17:43+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: EU-Außenbeauftragte erhofft sich vom neuen US-Kongress \"mehr Druck\" auf Russland    TAG24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "TAG24"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: EU-Außenbeauftragte erhofft sich vom neuen US-Kongress \"mehr Druck\" auf Russland"
+      }
+    },
+    {
+      "title_original": "ウクライナ、米大統領夫人に国家勲章 人道支援に「多大な貢献」",
+      "title_zh": "ウクライナ、米大統領夫人に国家勲章 人道支援に「多大な貢献」",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMm05bzNrQXBuMUtqWi12LTdZN0VfNE5nbE5rQXJBb29NbE5UNVptcFNfcWlaRVpLcnVEbEV0Ml9rSHItcE9WNFFpQjNRZk5ZODVlVXlkMGVtal9DcGM3NzFPdERnZFNBVU5rZ05tWmVZaGlMYm9DbkZTZVBFelVLSnBPdXRxQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-05T01:17:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ、米大統領夫人に国家勲章 人道支援に「多大な貢献」    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、米大統領夫人に国家勲章 人道支援に「多大な貢献」"
+      }
+    },
+    {
+      "title_original": "Iraníes celebran revés de Trump en elecciones de EEUU y otras noticias de Oriente Medio",
+      "title_zh": "Iraníes celebran revés de Trump en elecciones de EEUU y otras noticias de Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ215cFpzb21RdjYycVBFQ0FNTk4yOWJrb3pNaDlxNWhzVEFMVmE0LVE0XzZpaFQ4MFlzbVp3WUdqemd5S3pCR0xOcTRDNHl5X2FXaTg0TFNnaWhkMFdBaENCcmNsX1dRc2JiUjJESlpVZkNPTTZQX2dXQy1MbzdYaFIwZDBUM0E?oc=5",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-11-05T00:03:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Iraníes celebran revés de Trump en elecciones de EEUU y otras noticias de Oriente Medio    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "es": "Iraníes celebran revés de Trump en elecciones de EEUU y otras noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "ウクライナ 人道支援物資の配給拠点狙った空爆 死者40人に",
+      "title_zh": "ウクライナ 人道支援物資の配給拠点狙った空爆 死者40人に",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VdjdaME5HYWhCeXVJbVNXbXdsY0todTJCM0gwTUZXaEVva01DS1dCcU5vNjlLX0ZfVHRfRExYNEItdmdIQ1ExZUNUWm5vdDZiQnZwOVlHTTVsdVh3aGVB?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-04T23:58:35+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ 人道支援物資の配給拠点狙った空爆 死者40人に    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ 人道支援物資の配給拠点狙った空爆 死者40人に"
+      }
+    },
+    {
+      "title_original": "メラニア氏、ロシアとウクライナの代表をホワイトハウスに招待へ",
+      "title_zh": "メラニア氏、ロシアとウクライナの代表をホワイトハウスに招待へ",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YQ2hWaUpLM2d0N1FwaTl1N1lmSzNaMHhfYVVtMnBodjI5Ynk1NHZ4YkZ2M1BlNTFOYXdab25vNjdfMndkeWtIenpqWEhXQ1dRdUh3?oc=5",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-11-04T23:45:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "メラニア氏、ロシアとウクライナの代表をホワイトハウスに招待へ    CNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "ja": "メラニア氏、ロシアとウクライナの代表をホワイトハウスに招待へ"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー氏、米民主党躍進で支援拡大に期待",
+      "title_zh": "ゼレンスキー氏、米民主党躍進で支援拡大に期待",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeWhsb3hvV1dWWHRwalEyeEpqQVpOUG92WktQNThlRjE2ek9iWmJFTDhPYzUwS2dmZTFfampGS0ViN3RITGhhd1BlaXVFMTMteVBlNlpQcUcyOHZGOGVXYUNHNEdnYm5ydHoxYlZZX2tYdHdxV2tsY2d5d1ZGQUFOeGYwaEVRZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-04T22:49:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ゼレンスキー氏、米民主党躍進で支援拡大に期待    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー氏、米民主党躍進で支援拡大に期待"
+      }
+    },
+    {
+      "title_original": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "title_zh": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-04T22:48:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine says bodycam video shows deadly Russian double-tap bombing\n- Published\nA bodycam video has been released by Ukraine police which they say shows the moments between two powerful Russian bomb strikes that killed at least 40 people at an aid centre and a shelter.",
+        "The footage, from a camera on one of the killed police officers, shows residents of the southern village of Kamyshuvakha going to an underground shelter after the first attack on Monday.",
+        "Soon after a blast is heard and flames are seen as the shelter is hit."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Ukraine says bodycam video shows deadly Russian double-tap bombing"
+      }
+    },
+    {
+      "title_original": "هل تعافت إمدادات النفط من اضطرابات الشرق الأوسط؟",
+      "title_zh": "هل تعافت إمدادات النفط من اضطرابات الشرق الأوسط؟",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOUXBRQUFfS0wzb2NOX3dwMHNKQlMwc01qaU1zV0NNOS1LeGNveGl5QjNRcmkxcDIwa3ItRVVLY2VIYzhmSVQzZXVXMmNsRGJia1k5VDNmOUVYTF82VndPd09GY1l4dXNvc2JHcjgwOGdveWFUYUJfZ3I5ZURwYWxlU1ZxZ3RqWGRmVGxfZ2Rlc1h4QWYzeThRNklQYUQ4YjNLcng3NlFoYVRFcG15ZVM0aTB2bFVBcF9NTDFNUllRajNDOFJVZ1dTTF9ZTmtsU3FaUDV4MHF4U0VvOTZXSUgwQ3ZXRHlJQl9MTkhXQnlZRTM5ZWk4Wk5jZGY5R21iaXNfa1c5VUVNZF9OaFh4R0FYamJQcTlaVmFnRjRyTEhSMEJYZXQyams2QzlRZXJGWC1rcXVoeTUxOS0xV2EzVzhKTy1xZVZrRVBkSEZJZ2tIcnBSUF8zaUsxcVROYWxZbE9mTUlyYTJaN3pEalpNbllUWTRETDhxYlE0X1hSVjlnQTVCSUpGNWktOXU4TEU3aEtlUTc2T1FHcThoZTlrM2pwLTRtX1NIRlN6REE?oc=5",
+      "source": "CNBC عربية",
+      "source_score": 75,
+      "published_at": "2026-11-04T22:29:24+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "هل تعافت إمدادات النفط من اضطرابات الشرق الأوسط؟    CNBC عربية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "CNBC عربية"
+      ],
+      "all_titles": {
+        "ar": "هل تعافت إمدادات النفط من اضطرابات الشرق الأوسط؟"
+      }
+    },
+    {
+      "title_original": "«غوغل» لـ«الشرق الأوسط»: الذكاء الاصطناعي يتجاوز الوكلاء إلى منظومة ابتكار متكاملة",
+      "title_zh": "«غوغل» لـ«الشرق الأوسط»: الذكاء الاصطناعي يتجاوز الوكلاء إلى منظومة ابتكار متكاملة",
+      "url": "https://news.google.com/rss/articles/CBMirwVBVV95cUxPc2Z1cVVHcERjWklhWFNxckh2REp4YV9kNDUwMlFfQVNjNjZCcEowOUV1U2Q2MDcxNUxzUmdocWw3b0Jad3hTUW1aZ25RNjk1ZFM5MUFxWnhQSGxDcnVlSHJWMThkYm9ueDlzSFhIU0E5ZHRZbjhGRThIT2pCQzVUYUp3WThHMTItbkZBLUxqTGVxaTZlWFMtbGhOYS1JdDB4Z3NOQnNSMmtMY0lVeW00b3ppalFySDB4U1pPYkZpaE8tQUtCd1VJQW9GaTlFSWtIUHRhRzRpTFUteE1MTkkwVFR0cVB1ODVuUlNQb0oyYVFsVEk0a3Jma1dfdE9HczJNRk9NN2NNRWkwb2RzbW5TZnRyQ3FUajNPampGVXBDdlUzQU1uc3BiTFZUa201dEV5NHFoOG9DOExCNGV3WXp1TG16OVFaVXdTeUhNaTZQQjJUY1hHSVlBWllVclcyVm5lUG1YTmlpMVdWeVZMODNST3ZHTk02U3BLTmxlalNrS09LLXFiYzdDT04yNF9rSzdkZ3pUNFVENmM1V0ljakZCUVY2MGNiejBKNXFLWkZwQVNGbjNXOHpVQWxsaklZWTl5Q1NnNjZIcEY3bnRDSDRIN0VyTkFxLVVkQjBaVWV4QkVfWDJfcDFSbDhsOWlLQnRWWWxUWF9YQUFqSjM0SUNNRFE2M3FjMlVUOGF0bHlzcXVGYjBOdWpvVHhqTzNkNFNqN3JVQXpJQnVKR2FTMXZfc1FIVEJkY0VjUXVrc1ZBNXptUjVDSnQ4QkU3OHI0YWRDdXU0R3NZRXNrVjdldFczZm9VT291RklBQmRBZUYzdndTWERfR09HMDllWUhWcTNtTURJQUpyZUJ2QnFSM1BlTmlaSC1YOGlYOE83TGFfcDVWUVpVUUZDRVFoTWNZbXM?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-04T22:19:29+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "«غوغل» لـ«الشرق الأوسط»: الذكاء الاصطناعي يتجاوز الوكلاء إلى منظومة ابتكار متكاملة    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«غوغل» لـ«الشرق الأوسط»: الذكاء الاصطناعي يتجاوز الوكلاء إلى منظومة ابتكار متكاملة"
+      }
+    },
+    {
+      "title_original": "英首相 米中間選挙受け「物価高対策の契機」 中東やウクライナ侵攻解決へ働きかけ",
+      "title_zh": "英首相 米中間選挙受け「物価高対策の契機」 中東やウクライナ侵攻解決へ働きかけ",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOeGY0QWdGSmZ0Sm5ldncwbjE4RkxxcXNsaFA3VllabFVpYXFWcVVEQV8wR1JHRzlPeF8zQ2JqUVh0ZmhPZVNRaGQxdEpaOUR2SnRzWFB4cHozVHZyVVhBWktpMjlhUHV2TnJHOXZNMlIzYjlMN09ENFh3?oc=5",
+      "source": "テレ朝NEWS",
+      "source_score": 40,
+      "published_at": "2026-11-04T22:17:23+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "英首相 米中間選挙受け「物価高対策の契機」 中東やウクライナ侵攻解決へ働きかけ    テレ朝NEWS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "テレ朝NEWS"
+      ],
+      "all_titles": {
+        "ja": "英首相 米中間選挙受け「物価高対策の契機」 中東やウクライナ侵攻解決へ働きかけ"
+      }
+    },
+    {
+      "title_original": "Les Alliés discutent de l’importance du fonds OTAN pour l'innovation (NIF)",
+      "title_zh": "Les Alliés discutent de l’importance du fonds OTAN pour l'innovation (NIF)",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa3FTakJ3S3EwWm9TWE11RGVvN0paRmFiRnJueDlDREtmbndLU3JfcmlIWG9oeHBYeEg0aDdoSFpjY1VoaTd4bHpsbEtvRU5hYnZmT3RURk1kZHIyY1hYcFlJX2ZGR1RFcUNuZno4UmRMYnRLeUVxRF9SdnBlR3VIRGl1dWVxNnFKN0tyR0NmS21lbHpreFVwRE1yZzZTNnhiOFpRXzlyMHc2blpBZHdlbGh0TmhncWlOQU1oNF8wWQ?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-04T21:54:19+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Les Alliés discutent de l’importance du fonds OTAN pour l'innovation (NIF)    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "fr": "Les Alliés discutent de l’importance du fonds OTAN pour l'innovation (NIF)"
+      }
+    },
+    {
+      "title_original": "Geopolitik: „Bestenfalls labile Stabilität\"",
+      "title_zh": "Geopolitik: „Bestenfalls labile Stabilität\"",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVkR4UWZybXIwdzlWWEVXYTlGUWFyc1FVbEM5SldOdnVzdktnMEFHaTBJNlY5ekZPbGdLc2VyY3VuUmVaajNSam50VUxCT0QyVjVObjJHOVhrRnZYSk43dHR4Y3VkQ2hKZTk3dE9LWWowQ042bUdSZkZIZUt2OExLVHNWUzE?oc=5",
+      "source": "Table.Briefings",
+      "source_score": 40,
+      "published_at": "2026-11-04T21:01:55+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Geopolitik: „Bestenfalls labile Stabilität\"    Table.Briefings",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Table.Briefings"
+      ],
+      "all_titles": {
+        "de": "Geopolitik: „Bestenfalls labile Stabilität\""
+      }
+    },
+    {
+      "title_original": "ウクライナ農相「作付面積が25%減」 黒海封鎖で食料危機の懸念",
+      "title_zh": "ウクライナ農相「作付面積が25%減」 黒海封鎖で食料危機の懸念",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44M3JfT0pYbGZtaEdGMDVYam5VQzl4U3JOS1FmcjJrSE9XRE9DV0ZoZ2R0SW5NaUJJTjBRYVp5VEhHY0ZjZ1l0VVlWMzJ1MUdYWGx3UWJmVGdiWS1WMEZVcGZmR1NTTTI3ZEFrRQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-04T21:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ農相「作付面積が25%減」 黒海封鎖で食料危機の懸念    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ農相「作付面積が25%減」 黒海封鎖で食料危機の懸念"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Wenn die AfD über „angeblichen neuen russischen Imperialismus“ spricht",
+      "title_zh": "Ukraine-Krieg: Wenn die AfD über „angeblichen neuen russischen Imperialismus“ spricht",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUtONV9uUl9MdEw5cFgwYWhzOG02ZXM5WTlEektNcHhkYXQ5M3BCM1lGRWtvQzZkYXlaZFl1QlhGT04tdmFTdWpYcTlpaDdqM3BPQ0c0cnZYTG9rU1FHYXpRcTZPYVJEZGhRakFOVmVRWXMwN1Ayd0hMeUJFNlNlVlpnVmxobG9WVVpuNFM1dERuVFdFNmZFbWdsdnA2R0JWSFVPTUFfLXhJUEJ1NTk4N3U0SnRIaFFHUXdUMXpMdUhxTmhtN3d2Q2NWWkxhWEJjWE1UUmJlSE9BZzlOTHJvOThEWEpJU1k5VTNVbDVn?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-11-04T20:46:18+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: Wenn die AfD über „angeblichen neuen russischen Imperialismus“ spricht    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Wenn die AfD über „angeblichen neuen russischen Imperialismus“ spricht"
+      }
+    },
+    {
+      "title_original": "Quelles leçons faut-il tirer des résultats des élections de mi-mandat aux États-Unis ? Analyse de Pierre Haski dans sa chronique Géopolitique.",
+      "title_zh": "Quelles leçons faut-il tirer des résultats des élections de mi-mandat aux États-Unis ? Analyse de Pierre Haski dans sa chronique Géopolitique.",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdklhZlBpNHRVZzRXc2hreXBjWVEyWUg3RkkwWnNnOFVZSVY1c2NmSmZORmpncmE4R1ZoN0pXdXdKTGI0MnQ3MnRvRUNFQ2hKNkxLX2YzcktIanYyZmszN1htajgyVGZLODA5aTRYaDFmSUFOc2NxZEZTb0FZMW9IczBORVExMjlWdjl5TTJpbFdsTWtQSzNRY2RyUHl6R2o3YXBIOTRHNHZibmNTZGp5dU1fV01lUmNHb2hoTDRoOEZsUnJtbmFxWkdUSzRBU29PZDA2N2xZcnBqUW1zSk1iRGZQcFNfNTdUelF1VGNoQUs1Zw?oc=5",
+      "source": "Facebook",
+      "source_score": 40,
+      "published_at": "2026-11-04T20:02:08+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Quelles leçons faut-il tirer des résultats des élections de mi-mandat aux États-Unis ?",
+        "Analyse de Pierre Haski dans sa chronique Géopolitique.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Facebook"
+      ],
+      "all_titles": {
+        "fr": "Quelles leçons faut-il tirer des résultats des élections de mi-mandat aux États-Unis ? Analyse de Pierre Haski dans sa chronique Géopolitique."
+      }
+    },
+    {
+      "title_original": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+      "title_zh": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+      "url": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-04T19:42:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Conservation officers say more than one bear may have been involved in attack on women near their home Search teams in Canada have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved multiple grizzly bears.",
+        "Late on Tuesday, conservation officers in British Columbia said the two women, who were reported missing over the weekend, were located near a trail a short distance from their home.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm"
+      }
+    },
+    {
+      "title_original": "‘This is an earthquake’: Latino voters rush back to Democrats",
+      "title_zh": "‘This is an earthquake’: Latino voters rush back to Democrats",
+      "url": "https://www.politico.com/news/2026/11/04/this-is-an-earthquake-latino-voters-rush-back-to-democrats-01149510",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-04T14:30:40-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The Latino inroads Trump made over the last decade have been completely reversed",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "‘This is an earthquake’: Latino voters rush back to Democrats"
+      }
+    },
+    {
+      "title_original": "Israël: Gadi Eisenkot s'engage à renouveler les relations avec Washington s'il devient Premier ministre",
+      "title_zh": "Israël: Gadi Eisenkot s'engage à renouveler les relations avec Washington s'il devient Premier ministre",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS09OOTFjRlc2aHd5QVVZRVR1cThVaVBDWk9ubk9zSEtIelpqOXk4Y1JfS201cnhSVkNPSFdFTmxMNjN3Q0JhYnJxdFF6ZW5jV25fdnowbUpTYTlaTmcxQm5ucS1xTTFLOUtMS0R6NkF1WnlkdE1ydVRaR0VqX1R1OThvX0R4WXIyQ0FXYnlSTEU5UDJUejVpR0NtRFAwa1dyNGNEY2pFcnFrMXNlcFBBSFZtMy13RkpOdkFVVnBBdFI4Z2V1RmJRMXpxYzI3cWRjWTZ1ZWhzTG5mRzhfeHFjYlFJVVAyRURRbmdMLQ?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-11-04T19:25:58+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Israël: Gadi Eisenkot s'engage à renouveler les relations avec Washington s'il devient Premier ministre    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Israël: Gadi Eisenkot s'engage à renouveler les relations avec Washington s'il devient Premier ministre"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Selenskyj zeichnet Melania Trump mit Orden aus",
+      "title_zh": "Ukraine-Krieg: Selenskyj zeichnet Melania Trump mit Orden aus",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM3RmNmVQczh1dXRvT3BjTjhTNHp0RVNNWF9kVG5ySEJOdVlMSWRHelUtLUJ0bldJcTNBS3Q4Qm1ZRm1OTFlkYkRkT3RXeVZ2WXBXYkFSbDBuV3JEQWx5Z3ZnY1U3Y2ZqYmJybkdPQzkwYVc3VEtha2lYY2ozVGlTaXhyVnVRZElvRXBtY1lfY2FoMURuZ0RvY0dZTlo4YXg4X1VaVXRhWUNSVlhQdGpHcXJDTTl3emxWd2tiMWJhWQ?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-11-04T19:05:18+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Selenskyj zeichnet Melania Trump mit Orden aus    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Selenskyj zeichnet Melania Trump mit Orden aus"
+      }
+    },
+    {
+      "title_original": "Ukraine holds initiative on battlefield – NATO Military Committee chief",
+      "title_zh": "Ukraine holds initiative on battlefield – NATO Military Committee chief",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdlByMDlnMHQ3bTNERlZKSk1vZURyWGttNmtjclVBZG1xNmR0ZzFlQlctREExTDk2aFRGTUs1QzRIUnFvNWU4elhPenpjaW1yLUZfWkpBZUVGVlF6aTQ1emdOOC1UNklMWDN3T3hzYzg5QVdEemFXaFN4XzgxdXhidURMb0tMSDNaa0YxNmxyUUFwVl85bHBHTXZ5TWJNeUthZzdiNDhvMEtSNVdENDE1UXZpSW1zcjI5Y0xv0gHAAUFVX3lxTE00RHlYT0t4dXVDMmlFWDVxeEloVGlpUkNTRzJwRDRhcFpNdlFIRGwtU0I5UElmQUNQbnBabDdjQnNIVHZfUDk1VS1TVkxuVVMzc1paVkYwV1d6S1pDZGd1cFViWFdYdFJ2MzJBQXk5aUVNck04SmtZcGg5SmF2SzZiWWJ4NUxENFNCTGZzMURNSnZEQmtQNjJZZEU2eEstNDZGeWU2R0VualhOZDgzVjdhTGRkMEUwNmQtZEtCSnpHVw?oc=5",
+      "source": "Ukrinform",
+      "source_score": 40,
+      "published_at": "2026-11-04T19:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine holds initiative on battlefield – NATO Military Committee chief    Ukrinform",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Ukrinform"
+      ],
+      "all_titles": {
+        "en": "Ukraine holds initiative on battlefield – NATO Military Committee chief"
+      }
+    },
+    {
+      "title_original": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+      "title_zh": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+      "url": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-04T18:18:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.",
+        "“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement on Wednesday.",
+        "“The UK has well-established procedures for dealing with cases like this, and those processes have been activated … The risk to the UK public from Ebola remains low.” Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "British healthcare worker with Ebola evacuated from DR Congo to UK"
+      }
+    },
     {
       "title_original": "ロ通販大手オゾン物流拠点で火災、ウクライナのドローン攻撃受け",
       "title_zh": "ロ通販大手オゾン物流拠点で火災、ウクライナのドローン攻撃受け",
@@ -51,6 +726,31 @@
       ],
       "all_titles": {
         "en": "US midterm results a 'victory' for Canadians hopeful of tariff relief"
+      }
+    },
+    {
+      "title_original": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+      "title_zh": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHlUZFVMYWpEOXAzb1dVNVhKOFJ3Wjh5MVZtVGNpV0M1X1U3UjlkbHNQRmFQcVZ1TG5Zc2NSQkJWbURydGpXeTJtMHgtWGV0bW9SWEdIbmM5V2lDSmhMTUNEbWJqYkdTbnBYRzdJU0wxS3NpdlRSVnVfSEw1ZmNYMGxDSlJzaUMzTGhZZmktcDhNd3p1YkZMTGgxTVFnMkpMbVlNWjB3ODMzV0UyN3dBSVQwZ3BJUWxx?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-04T17:40:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war"
       }
     },
     {
