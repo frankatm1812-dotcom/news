@@ -1,8 +1,683 @@
 {
   "date": "2026-11-06",
-  "generated_at": "2026-11-05T18:43:58.478179+00:00",
-  "count": 35,
+  "generated_at": "2026-11-06T03:24:29.331360+00:00",
+  "count": 68,
   "articles": [
+    {
+      "title_original": "ترمب يبشر بنهاية حرب أوكرانيا وزيلينسكي جاهز لمحادثات ثلاثية",
+      "title_zh": "ترمب يبشر بنهاية حرب أوكرانيا وزيلينسكي جاهز لمحادثات ثلاثية",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNTDJ3MG9BZ0JWQnpVT1dhVWlyQWoxWWswaWRVWFFFX0htTnNOaWRWN0lmd0xuM09ScnRGc2tFYXM3a3djX1lkQno0QXRFamgteVZlVjlNMFJjTGdFY1BBbVI4OGdGRnFmLS1GV0huSFZnSjNERVE4akc3d184WHE4SFZOOWRNWDhBS3pMRmJmczROaUlZZm15WTNQdEtnRmRCaDU1aWdVaXRCSGk5cGxfTGt5MEhOVHhlZk9NMFo4cWdnTTg5eWRXMGZaa190dktQbjIyWGVCcnFiRzk5eUZpcEpNdW16VDJGdU8xeGpRSDE4RDQzODhuRlBqNUdtOUxsNHl3S0JEMTBKVk9BWU1WTFYzSE93aTBIVXN6RGpqUnY?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-11-06T02:57:25+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ترمب يبشر بنهاية حرب أوكرانيا وزيلينسكي جاهز لمحادثات ثلاثية    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "ترمب يبشر بنهاية حرب أوكرانيا وزيلينسكي جاهز لمحادثات ثلاثية"
+      }
+    },
+    {
+      "title_original": "中東情報収集と海賊対処 自衛隊活動期限1年延長決定 政府",
+      "title_zh": "中東情報収集と海賊対処 自衛隊活動期限1年延長決定 政府",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HT0psLTZ1aThtbnhuYUU3bnJIMGVWSkJKeU5qMG5tU1NvNVVHSTVrdkt6TDhmYjdvdkFJdVVPZ3NZZ0dWbW9rbmNVcVEtbmhZRGNTQU5yVmYwcGYtMGw4?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-06T02:40:36+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "中東情報収集と海賊対処 自衛隊活動期限1年延長決定 政府    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "中東情報収集と海賊対処 自衛隊活動期限1年延長決定 政府"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
+      "title_zh": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbUZXOXBNZWtMVHlwOUV3TkdQaV84SGFKVnoyVG5mX3M1NVlTVVFadkMzVThCS09Za3dBOFluUHlXTWh5eEtLa3ZUYV9BNDRMWnYtdFZubVFqTzZ0Ty1WRlNGd1c2YXVoY3J5ZHdCd3JUOEs0SzlVQ0RUVk9DVWI1SnMyaERteFdpWWFneVhESmVaS2NnVVNxLUI4T1lYMFQ4Wms4b1R0T3MyMU53UmpmY3JaaVVuVl9BNjB0OUlscXdzZXVDWDNyR0xBU3N6amhsMVFtY1FDRzZWbXk5RU1iRjlfYXE?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-06T02:12:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Zelenskyy says Russia has damaged ‘every power plant’ as he seeks Latin American help"
+      }
+    },
+    {
+      "title_original": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "title_zh": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-06T02:08:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "White House denies Hegseth and Rubio to leave jobs after Republican election losses\n- Published\nThe White House has denied rumours that Defence Secretary Pete Hegseth and Secretary of State Marco Rubio might leave their jobs in a post-election shakeup of the Trump administration.",
+        "US media have reported there are calls to replace Hegseth - in particular over his handling of the Iran war, which is being blamed for heavy Republican election losses.",
+        "One outgoing congressional Republican has threatened to force an impeachment vote against Hegseth as early as next week."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "White House denies Hegseth and Rubio to leave jobs after Republican election losses"
+      }
+    },
+    {
+      "title_original": "自衛隊派遣の1年延長を閣議決定、中東アデン湾の海賊対処など",
+      "title_zh": "自衛隊派遣の1年延長を閣議決定、中東アデン湾の海賊対処など",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lR3Y2YlZnUU1VV2RxeURUdkhWY1FvTEdlT3diN25aTFAxYjF4WTZLZFR5SGk5SW9pX19uUG9pTjluaWptdnMtekdtbUhBUjVKeTNETDVqaGZhb2xISWd3dklnM2RtY05Xc2F0Ug?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-06T01:28:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "自衛隊派遣の1年延長を閣議決定、中東アデン湾の海賊対処など    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "自衛隊派遣の1年延長を閣議決定、中東アデン湾の海賊対処など"
+      }
+    },
+    {
+      "title_original": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+      "title_zh": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+      "url": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-06T01:22:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said.",
+        "The spiders were hidden inside dirty socks contained in three suitcases carried by two Germans and a Polish citizen, the National Forestry and Wildlife Service (SERFOR) told Agence France-Presse on Thursday.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks"
+      }
+    },
+    {
+      "title_original": "特朗普惨败！中方送上“定心丸” 中美关系稳如压舱石",
+      "title_zh": "特朗普惨败！中方送上“定心丸” 中美关系稳如压舱石",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GQS1iVEtJRjVDNW9ZTEtrbmJrY0JNMGgzQUk1Q1JZREFnTHZ2SGlNdkdBRFRLcjU0RVV6ZTBxcmtlOWpMRjRNNUxpa0dZSnBFQUhzSVNXWUxWMkxValBZV1Exd3pTb1pHRHhIcDVNVl8?oc=5",
+      "source": "中华网",
+      "source_score": 40,
+      "published_at": "2026-11-06T01:03:09+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "特朗普惨败！中方送上“定心丸” 中美关系稳如压舱石    中华网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "中华网"
+      ],
+      "all_titles": {
+        "zh": "特朗普惨败！中方送上“定心丸” 中美关系稳如压舱石"
+      }
+    },
+    {
+      "title_original": "ロシアによる「追い打ち攻撃」、ウクライナ警察が映像公開　支援センターでの死者少なくとも40人に",
+      "title_zh": "ロシアによる「追い打ち攻撃」、ウクライナ警察が映像公開　支援センターでの死者少なくとも40人に",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TLWNBamhEX0p5cG8zb3BTeWpRcWJQNk1oMHB3VzFFa0dLT0RTTkZkN1B1UWk5NHRKR2JhazJfaGhGM1pNUHVyZ1dhUXpOMWVfTGh5ODIzMDF3TVZaUXVjTdIBZkFVX3lxTE01MHhUUXpLMkEzNVdnZzNMYXpqejh0LXBMZXMtdEpUc1lZVnZ4ODBvdkVxUDZWT2V2YVhITVNEb05tUWU5N0N1QVhPWUkzUENmem5laFR3c05Ia2NGeG9DUzBMYzRMQQ?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-06T00:55:03+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシアによる「追い打ち攻撃」、ウクライナ警察が映像公開 支援センターでの死者少なくとも40人に    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ロシアによる「追い打ち攻撃」、ウクライナ警察が映像公開　支援センターでの死者少なくとも40人に"
+      }
+    },
+    {
+      "title_original": "ウクライナ軍が活用のスターシールド、利用契約が来年満了＝外交官",
+      "title_zh": "ウクライナ軍が活用のスターシールド、利用契約が来年満了＝外交官",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTlRxSGEzTUZTeThSNjVlUFpsejdlaUFueEU1VmpMckdBU2xocEpaWjFMWFhEUVBtM0llUGlpNDVlellvODVlcFJsYXpZdW9RRkYwUHN3N3VCczhwdktlVURkMWxnMVNSSmt3NHFjNnZZSTlFaklKLTVxY3BEOHpud3BXcnc2dw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-06T00:09:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ軍が活用のスターシールド、利用契約が来年満了＝外交官    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ軍が活用のスターシールド、利用契約が来年満了＝外交官"
+      }
+    },
+    {
+      "title_original": "NATO’s Rutte Says He Told Trump to Keep ‘Chin Up’ After Midterms",
+      "title_zh": "NATO’s Rutte Says He Told Trump to Keep ‘Chin Up’ After Midterms",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzUtdjVKNEYweVNGR2ZhanFCazBETjA5d0FSV2U0cjVzeURiZF9pdTlHN0phMGp3NUMzbzZyWWVXanJwMVZ6STJKdVZTdEwyTmtuZWZPWHlmTW1GejU5WTV4b0tyUEs5MEZST1B1eEdRVTgxTlhPZ2tnVF9sUWFIQjQwLTNUVklQSGgxRVlBdm1KVUZaZjQ5aFdnWHdQZl9rMWgtSVBTZlJXZVZLM3g0WmpCRQ?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-11-05T23:52:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO’s Rutte Says He Told Trump to Keep ‘Chin Up’ After Midterms    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "NATO’s Rutte Says He Told Trump to Keep ‘Chin Up’ After Midterms"
+      }
+    },
+    {
+      "title_original": "米政治情勢に適応必要、防空強化が最優先＝ゼレンスキー氏",
+      "title_zh": "米政治情勢に適応必要、防空強化が最優先＝ゼレンスキー氏",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUDJoR3JJNHpuODVHTkVBODIyV0hKaWJfZVJIZFlQT2dueUJsTFB5YzdCdG41eWNXTDl1NlVaM2Zocm5nN01RTjYxOF9WbS15RFVwZVFURWVrZDR0YjU3STRNVzJRZFdDU1l4cUFITXJramNDVUJ4dVhJUnBHcDg2R2xJRjRwZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-05T23:25:47+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米政治情勢に適応必要、防空強化が最優先＝ゼレンスキー氏    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米政治情勢に適応必要、防空強化が最優先＝ゼレンスキー氏"
+      }
+    },
+    {
+      "title_original": "How Abdul El-Sayed actually did with Jewish voters",
+      "title_zh": "How Abdul El-Sayed actually did with Jewish voters",
+      "url": "https://www.politico.com/news/2026/11/05/abdul-el-sayed-jewish-voters-interview-01152872",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-05T18:12:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Yes, he ran behind.",
+        "In an interview, the senator-elect acknowledged Israel was a source of disagreement, but said he’s not changing his position.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "How Abdul El-Sayed actually did with Jewish voters"
+      }
+    },
+    {
+      "title_original": "California governor commutes sentences for state's 548 death row inmates",
+      "title_zh": "California governor commutes sentences for state's 548 death row inmates",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-05T23:09:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "California governor commutes sentences for state's 548 death row inmates\n- Published\nCalifornia Governor Gavin Newsom has commuted the death sentences of all 548 people on death row in the state, changing them instead to life in prison.",
+        "\"We can now let these offenders die in obscurity while we forever remember and honour the victims,\" he said in a letter.",
+        "The decision to spare death row inmates is largely symbolic in a state that has not executed an inmate since 2006, though experts say it could save millions of dollars in court costs each year."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "California governor commutes sentences for state's 548 death row inmates"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー氏、エネルギー設備支援訴え マドリードの首脳会議で",
+      "title_zh": "ゼレンスキー氏、エネルギー設備支援訴え マドリードの首脳会議で",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbWJKdDhoTVRiVXFneUVxLXJTeEgyTXRoczFsZkVaNDNYbWJNZkJncGQza0hRY1h0LTdBNGR5ZFVWNllDbzJvLUdWdFQ1ZHl3TlVsTThZR3ZHQW9iT0w2ZWVEVDBpX0M0X1p3QWVFT2JjaTYzemYzZ2VPdzM1XzVkbmdaaEFpQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-05T22:49:05+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ゼレンスキー氏、エネルギー設備支援訴え マドリードの首脳会議で    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー氏、エネルギー設備支援訴え マドリードの首脳会議で"
+      }
+    },
+    {
+      "title_original": "La OTAN crea una tienda online de sistemas antidrones para acelerar las compras de sus aliados",
+      "title_zh": "La OTAN crea una tienda online de sistemas antidrones para acelerar las compras de sus aliados",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNEtaNktrQlNEcTNHSTViLTBPeVh0Z0VwcGJ6M0J2UkgzMlkwZVJGamxfVG55OFhybXVpQ1FOQXJNby1zX1JqRDN0TmxxNWdadVh1T0RDcjZ6c29kMm9fdC15UGxxYmhkTjZjNklmRlJ6YzJ2dlJ2ZnY0amctQno1VExHY1ZVQnVKZ0lqb3ZMVEZ2enNlaWwtMGpDSWZ4Xy1SRFZWTU1sZWEzenFzYlQtZE41UzhtcUFwWEhHTzEwTVB2TXBxV0w3SjNFUU1Zbm9l0gHyAUFVX3lxTFBnY1NPWHZ1X0czX3JPTDV6UVJrU1lidWRCNmx5V2tuMHAzR3hiZm82T3psVndhUnQzMGRKdFpUVU1Uekt5OHZSdk1JMG0tbk5CQU1XZTNua1FnTzl3ajJHbUp5Qnlwei1ua2VRR3VQUEY2Z3I3TU8zYWxKc1lOLWhpOE81ZnBKNjNoWWJtR0x0bU90d20yb2hqdkhiMl9VYzRjRXAtZzktdzlWWEM0OHFlbjBkREF4ODUyZnhsQmxTS1RoOFZWX0RFcmRjRE13dGxoUklyYjB6VDlxWldWXzhQVVVybXM4N1BMcXNfMC1DWGJ3?oc=5",
+      "source": "La Tercera",
+      "source_score": 40,
+      "published_at": "2026-11-05T22:20:24+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La OTAN crea una tienda online de sistemas antidrones para acelerar las compras de sus aliados    La Tercera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "La Tercera"
+      ],
+      "all_titles": {
+        "es": "La OTAN crea una tienda online de sistemas antidrones para acelerar las compras de sus aliados"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー氏、米民主党大勝でウクライナ支援拡大を期待",
+      "title_zh": "ゼレンスキー氏、米民主党大勝でウクライナ支援拡大を期待",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pd2hIanp1bUtlSWVBRy1PZlZaOVBHZVV3czhNanlFS1U3bU5uT0Fkd3hyRjB3YUtqZTNYZWRPb3RMbVlEODNzSGZ4TUdEYVZBRGRIZms2M3cxRF9UdDM2ankzWG1CT1pH?oc=5",
+      "source": "毎日新聞",
+      "source_score": 40,
+      "published_at": "2026-11-05T22:09:02+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ゼレンスキー氏、米民主党大勝でウクライナ支援拡大を期待    毎日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "毎日新聞"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー氏、米民主党大勝でウクライナ支援拡大を期待"
+      }
+    },
+    {
+      "title_original": "Estados Unidos califica de productivas las conversaciones con la OTAN sobre Ucrania antes de la reunión de Abu Dabi",
+      "title_zh": "Estados Unidos califica de productivas las conversaciones con la OTAN sobre Ucrania antes de la reunión de Abu Dabi",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNU3RkaTVjYlM3TEZMMXRwUllaZm1NSFhDWjVQSkRMMkFSS1hjUXNab2hDNHZfY0hZQ210ZHNsRFVhRzNwWHlNNnJkQm45QnpFcktxci05NHJMVzd5WWVCNWNGS05mZ2xtOGQyNmNFb2NBR05mb3hZUDNsQUs5RlZaYUhZZDdWZXk2S1V6QjhSYUNIRUtMejVrVlFybmFKTWFUcG9uc2hYT0R2aGFGdFlEWHhkZVdiRk9GYUFhWlFqLWc0YnVBUWNVRngyNkhPUUdNMnRKV1dJd2lydjU5R2NvYVBQVUE3Zk9Fb256QQ?oc=5",
+      "source": "MarketScreener España",
+      "source_score": 40,
+      "published_at": "2026-11-05T22:07:47+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Estados Unidos califica de productivas las conversaciones con la OTAN sobre Ucrania antes de la reunión de Abu Dabi    MarketScreener España",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "MarketScreener España"
+      ],
+      "all_titles": {
+        "es": "Estados Unidos califica de productivas las conversaciones con la OTAN sobre Ucrania antes de la reunión de Abu Dabi"
+      }
+    },
+    {
+      "title_original": "L’Otan lance une plateforme d’achat de capacités antidrones avec cinq entreprises de défense",
+      "title_zh": "L’Otan lance une plateforme d’achat de capacités antidrones avec cinq entreprises de défense",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdXgyOXNKb3ZLeS1Canh2MER6ejdpU0xCSGIycFpBYng5bG95MktjUUtxdjdJdzRvVDhDSEpxQjMzeG5MTmRERUpYS3haRXZLMjQyNGNpOHhNLU9vZTlaWmtiS3VkRFZRaWNjWUwwdDNqZkdaNVJZdWd2WS13TVBpdWx4QXM2SlR2aUYyUThCMjN0MExLRzNZdjlUTmJGTnExTG55ekozUGlxZjFEbUJnMkRaa3F2b0MwQ0dkeXhORUNmZmM5WHQ3RHF0SW85R3pSLUxhZkdlUUE?oc=5",
+      "source": "Anadolu Ajansı",
+      "source_score": 40,
+      "published_at": "2026-11-05T21:03:52+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "L’Otan lance une plateforme d’achat de capacités antidrones avec cinq entreprises de défense    Anadolu Ajansı",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Anadolu Ajansı"
+      ],
+      "all_titles": {
+        "fr": "L’Otan lance une plateforme d’achat de capacités antidrones avec cinq entreprises de défense"
+      }
+    },
+    {
+      "title_original": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+      "title_zh": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSE4tN05nZGhYNTdtNGhaM3FwS3FYOWpJajJTZ3pSVEJvMHhaVzJTSVRrUndWNTYxU3o3NUtIS0Q3Nm1SbXJMdmQyQVowa3NqWXBaU3kxNDZOZGd4bTNlR0QxeUg3MTNOaWNtWFhOb0RFR1FQck93XzROak1ia2h3eXN6S1BPaVcwM3hjSkVSSmtkWmJXcEhUVkxTNDhvQVduYkdVRHA5ZmtLeUFEeW1PWUlpWkJEQWZz0gG-AUFVX3lxTFBGUkNYcDlfUmQycWw3eUszTUEyUUZrT01VYlpuaVZ3VEFqZEYzMHVMYUxHeWVMUmRxVXh5T0twUDVVQ1pncEpJN2FoWUNQcHpYZjYxallYS3UwLVV6clhUakoyMVRISGNob0J2RFFjLURyQUZwTU9LMGs0dHBKU19PdXp0eWs3SXZDRU0wYmZYZXVoNFluenY2c2xGZ0ppdTlwVUVBRkpFVHBzYS1hQ0FKSTBJNmJPcjF6NFpPZ1E?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-05T20:44:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire"
+      }
+    },
+    {
+      "title_original": "メラニア大統領夫人の仲介外交 ロシア・ウクライナの局地停戦を誇示",
+      "title_zh": "メラニア大統領夫人の仲介外交 ロシア・ウクライナの局地停戦を誇示",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RYnhxSDRGZkhkVTlITzNCbjU0cnJ6S25kZm1vWXp6ZlRSSkxEeC1fREl6NkdJZF9id3VsMV9HY0lrZ3p3SXBCR2oxYk9NLVM2SFRlOFotS1RLU2NLLUtCRHNoZ3BQcFFNWXpSeA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-05T20:25:34+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "メラニア大統領夫人の仲介外交 ロシア・ウクライナの局地停戦を誇示    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "メラニア大統領夫人の仲介外交 ロシア・ウクライナの局地停戦を誇示"
+      }
+    },
+    {
+      "title_original": "メラニア夫人“ウクライナの局地的な停戦を永続的な平和へ” | NHKニュース | ウクライナ情勢、アメリカ",
+      "title_zh": "メラニア夫人“ウクライナの局地的な停戦を永続的な平和へ” | NHKニュース | ウクライナ情勢、アメリカ",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tM1E3SkNXYm5ySXU1d2dFZTg2V2lHWFRKaUVCRWZMUTBNZG5LenhUcXpqMkpfaEt4WHZPbHJpb2VMaHJXTnN4Q1hyLVptamxpQlpsS0RnM1dMbldGaE5n?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-05T20:11:57+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "メラニア夫人“ウクライナの局地的な停戦を永続的な平和へ” | NHKニュース | ウクライナ情勢、アメリカ    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "メラニア夫人“ウクライナの局地的な停戦を永続的な平和へ” | NHKニュース | ウクライナ情勢、アメリカ"
+      }
+    },
+    {
+      "title_original": "Who could be behind hoax bomb threats to European air travel?",
+      "title_zh": "Who could be behind hoax bomb threats to European air travel?",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-05T19:58:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Who could be behind hoax bomb threats to European air travel?",
+        "- Published\nThe warnings came in thick and fast, targeting one airline or airport after another.",
+        "In nearly all cases - London's Heathrow airport being a notable exception - they were taken to be credible enough to divert the aircraft in question, or even in Italy's case, to scramble fighter jets to escort it."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Who could be behind hoax bomb threats to European air travel?"
+      }
+    },
+    {
+      "title_original": "ウクライナ、ロシア製油所攻撃を再開 燃料不足深刻化の恐れ | ロイター",
+      "title_zh": "ウクライナ、ロシア製油所攻撃を再開 燃料不足深刻化の恐れ | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHBBWmRwQVBPUmpNYlVXWFJNMzZjZTdWbm9KWXVkQzhPUV9uenFfbFVadzh6VldGRlctQWZDSzlTOVJHOHhGc2t0dlFzczhGMDBHaTVRY0VEdDl4ek9Hd3gxa0hLMVFlX3pnSGVyQ0puVTlRZ1dHWHMyRlF1NDY0LTlDRDRfUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-05T19:43:59+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ、ロシア製油所攻撃を再開 燃料不足深刻化の恐れ | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、ロシア製油所攻撃を再開 燃料不足深刻化の恐れ | ロイター"
+      }
+    },
+    {
+      "title_original": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+      "title_zh": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+      "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-05T19:08:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Chris vs Chris: Who's running and what's at stake this New Zealand election\nNew Zealanders will head to the polls on 7 November to elect a new government.",
+        "The rising cost of living, unemployment and healthcare are among the key concerns of voters.",
+        "The BBC's Australia and New Zealand correspondent, Katy Watson, explains everything you need to know."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Chris vs Chris: Who's running and what's at stake this New Zealand election"
+      }
+    },
+    {
+      "title_original": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "title_zh": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-05T19:08:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials\n- Published\nUS First Lady Melania Trump called for a \"more enduring\" ceasefire in Ukraine as she welcomed Russian and Ukrainian delegations at the White House following last week's truce in the southern region of Kherson.",
+        "Hundreds of residents of the Russian-occupied Ukrainian town of Oleshky facing starvation and constant bombardment were able to evacuate during a six-day ceasefire, which both Moscow and Kyiv credited Trump with brokering.",
+        "\"The lives of innocent people must transcend the division of war."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials"
+      }
+    },
+    {
+      "title_original": "ロシア・ウクライナ代表、メラニア夫人主催の式典に出席 オレシュキ停戦を評価 | ロイター",
+      "title_zh": "ロシア・ウクライナ代表、メラニア夫人主催の式典に出席 オレシュキ停戦を評価 | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMmcxYUJCNlFKMjBTcXVTYVpLZjVQNEJWd3BLeWJVTFVrdVhEZWI5eVJWSnpfcmNjSWZqVnJ2UVVVQlFHYVcyUEgwUy1qUmJoS1ZGZ2NlbEFqSFFBV3lJZmllUkdISkdmZHkwVWQtX1ZaQkxmYlFyeTZzZUExQjBRSWNqeUJkQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-05T18:37:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア・ウクライナ代表、メラニア夫人主催の式典に出席 オレシュキ停戦を評価 | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア・ウクライナ代表、メラニア夫人主催の式典に出席 オレシュキ停戦を評価 | ロイター"
+      }
+    },
+    {
+      "title_original": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+      "title_zh": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
+      "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-05T18:22:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control\nMore than 20 aircraft across Europe have been targeted by bomb threats.",
+        "It's the second time this week, which the UK has called a \"malicious hoax\".",
+        "BBC Verify has been analysing the messages sent by an aircraft to find out what happens when a flight receives a bomb hoax - as Thomas Copeland explains."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control"
+      }
+    },
     {
       "title_original": "L’OTAN accélère encore l’acquisition de solutions de lutte contre les drones",
       "title_zh": "L’OTAN accélère encore l’acquisition de solutions de lutte contre les drones",
@@ -51,6 +726,31 @@
       ],
       "all_titles": {
         "en": "French protests see numbers surge as unions join strikes over high cost of living"
+      }
+    },
+    {
+      "title_original": "Belarus sentences Catholic priest to 3 years after he opposed the Ukraine war",
+      "title_zh": "Belarus sentences Catholic priest to 3 years after he opposed the Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmFZM09VVlBIbUlaQl9sdFVoZ2I2TTEycERoajdDWm5GcXlYU0NOakJkWFlCQ2lfb1dBZERoeDlqY1Y1SURaVzR3SmVRUjE3UU93MlBUcXBsTXdhY2JvOEVad21vckZObzZYZldNdWxGV2FjWTFvNnAzclota25tR1VQUDZxcG9IUmxrcTdlMG1CZmdTSjBfbUswbzlrcVFfRkJGZUtKWHN1Sl9JT0HSAbMBQVVfeXFMTWRxb3pSendhQzNLYi01UEZldU1TOUFYUDdYVGNtZ200U1Uzc3FkeGhQU3h2REJqem1EVUx3YV8xcjF6V2pDSVVsWG1ndmlNel9UQlVjbHBDamg3eFVoelFPNWZ2MUlpR0RBNnRkdkJBaklJM0U1Vm5qOHVsb0N3TndoTm0zal9pU3dMNmJleWJKYnJTcFNxZlU4SEtTMFJrS3hNa1NhV3RDanhaZVU5Y0NqZXM?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "source_score": 75,
+      "published_at": "2026-11-05T17:50:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Belarus sentences Catholic priest to 3 years after he opposed the Ukraine war    ABC News - Breaking News, Latest News and Videos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      "all_titles": {
+        "en": "Belarus sentences Catholic priest to 3 years after he opposed the Ukraine war"
       }
     },
     {
@@ -129,6 +829,81 @@
       }
     },
     {
+      "title_original": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
+      "title_zh": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
+      "url": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-05T17:08:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "New report finds that record label Ador stripped child protections from group’s contracts when they were minors The superstar K-pop group NewJeans signed restrictive record label contracts that waived their right to “sleep, rest and free choice”.",
+        "A new report from the New York Times found that the contracts were signed when the members of the record-breaking girl group were aged 14 to 17.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report"
+      }
+    },
+    {
+      "title_original": "Pétrole aux Etats-Unis et guerre au Moyen-Orient : le baril de Brent passe sous les 100 dollars après la victoire démocrate aux midterms",
+      "title_zh": "Pétrole aux Etats-Unis et guerre au Moyen-Orient : le baril de Brent passe sous les 100 dollars après la victoire démocrate aux midterms",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMVRraTFLa09CVkdXeHdNV0lNa0NQeWRZNmdtZl9lOTNPQktvV1BfX0gwRzQyNlhzQ2ZFRmZ0ZE04RHE0VkN0TzA3ZXpvRlJEcU5OemJQbGFyT3k3Ry02eXN3S1pmRlJCRl9FbHoxSUw3TjdfNUdpaW1JREE3bnhqeGNCQlJaOExpUTBPem5fZUUzRXkzcEV6UWFWNmcyNVhPWklVUElWLUpOaExxaThuTlRMVWctWFBmWTdNRE5LSkNNTVhOOUtRSk1JTV9PTktGVmlEUmYtOWdteWNNZVQ2WUpuUmRxdzk5RzhYNFA1aXl2TXpvNmhkTw?oc=5",
+      "source": "RTBF",
+      "source_score": 55,
+      "published_at": "2026-11-05T16:34:45+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Pétrole aux Etats-Unis et guerre au Moyen-Orient : le baril de Brent passe sous les 100 dollars après la victoire démocrate aux midterms    RTBF",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "RTBF"
+      ],
+      "all_titles": {
+        "fr": "Pétrole aux Etats-Unis et guerre au Moyen-Orient : le baril de Brent passe sous les 100 dollars après la victoire démocrate aux midterms"
+      }
+    },
+    {
+      "title_original": "NATO accelerates procurement for counter-drone technologies",
+      "title_zh": "NATO accelerates procurement for counter-drone technologies",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUm8zS2tQX0RhYi0wV2JKVEs0U2dhY1VqOTFCYUh3TjhGMGFYMUR1VVFERVhnWTNMamxMbTctN19FOTRWSWNTcHZCWG42di1USWd6eGN1TTVDY2pSQ0hsVjZGcmM2bUlUSlBJMmtFcmVfRm1HYTFPMzF2cUhYMlF1RVBGUkcybzlmeS05MWU2QXI2elQwSF9STnFPV1h2dk0zal9NZUl3RTFDNHc2aEExNVM0eTllUE1sN3JMSFc5ZDJMUQ?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-05T16:31:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO accelerates procurement for counter-drone technologies    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO accelerates procurement for counter-drone technologies"
+      }
+    },
+    {
       "title_original": "イギリス中銀が利上げ 中東情勢受けた物価抑制へ3年3か月ぶり",
       "title_zh": "イギリス中銀が利上げ 中東情勢受けた物価抑制へ3年3か月ぶり",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12Yzl0YmhxNF9tdW9rNkhnaU5jNmZBRUE1U1pLWWxwQVB5bU4tWGFQaDJGTUZtaEg3LU5RT1NMUUxFaGZnRnB2dDQ3MVE4OXk1MnpVT1VzNnpnWm9EUUpN?oc=5",
@@ -154,6 +929,31 @@
       }
     },
     {
+      "title_original": "Lutte antidrones : comment Alta Ares a décroché son sésame d'entrée dans l'Otan face aux ténors MBDA et Lockheed Martin",
+      "title_zh": "Lutte antidrones : comment Alta Ares a décroché son sésame d'entrée dans l'Otan face aux ténors MBDA et Lockheed Martin",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOX3E1S1RVZEY2Vng0eHB1X1B0VDhxMU5EWmRUUUZXM1Fja2ZkME1zeV9FY2I1Rk44Vnh6ZS1mMk4tOENMLTFQbzBVQTBWNHVKQTJUTzUyRUVFYmctWldISE5ENjNoNDlwTlN5QnVsMFZtNlJmZWZBc3NxcHRFeU02QTRXM2VZTkVGYzFPZ2FaNjc4UVdBQl8zdWtraTlLUTYxUHJqQmd6Qlh0UjY1SW5xWk9BZlp1T3d5WVlaQnQ4S29JWjJRTEYwc3JtVFY1dUNyX1k1cUtmOEdsNlpfSWJ3N1ZRNURMdnQ5TXVFb1E4Y2ZzLTJiYnZmYjZhTXVjc0xjTTdFalQxZ3ZCVGJJdElCVFE1TXVJcmxTVXhjOUpfRQ?oc=5",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-11-05T16:06:17+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Lutte antidrones : comment Alta Ares a décroché son sésame d'entrée dans l'Otan face aux ténors MBDA et Lockheed Martin    Les Echos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "Lutte antidrones : comment Alta Ares a décroché son sésame d'entrée dans l'Otan face aux ténors MBDA et Lockheed Martin"
+      }
+    },
+    {
       "title_original": "يوميات الشرق الأوسط سيناتور مسلم من نيوجيرسي بعدسة مصور من غزة.. فما القصة؟",
       "title_zh": "يوميات الشرق الأوسط سيناتور مسلم من نيوجيرسي بعدسة مصور من غزة.. فما القصة؟",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nMUs4N19nSWRkd0Qwb01SZnBuUTBVUW9IdkRSR1QtYTVVQWRPSUdtdXpuYUhhNE5SVklHTlZnLXgtM3VMQ0FvaUwyZ1RRbmJvMzlOU3ltMVUyTFIzTldwYk1Od1JGcFJTbXYw?oc=5",
@@ -176,6 +976,31 @@
       ],
       "all_titles": {
         "ar": "يوميات الشرق الأوسط سيناتور مسلم من نيوجيرسي بعدسة مصور من غزة.. فما القصة؟"
+      }
+    },
+    {
+      "title_original": "Falsche Hoffnungen",
+      "title_zh": "Falsche Hoffnungen",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUJuZnFoZjhFNno5N3JtWmNjbTVxWmY4dExuVUp3VzM5V2diZkJsMU9tOUk4V1JsUHhzcm12OGRDQmRIZ1E2V1RjTW9Bc0ZSNzNPVGc1VXhfS3Zibl9UdFc1UFloOUJoLU9LZTZsZGd1b3I2aU4tdFNxbmJxYllxTmdaRTdlQUk?oc=5",
+      "source": "IPG Journal",
+      "source_score": 40,
+      "published_at": "2026-11-05T15:48:55+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Falsche Hoffnungen    IPG Journal",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "IPG Journal"
+      ],
+      "all_titles": {
+        "de": "Falsche Hoffnungen"
       }
     },
     {
