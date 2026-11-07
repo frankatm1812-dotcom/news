@@ -1,8 +1,633 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-06T17:57:35.889619+00:00",
-  "count": 35,
+  "generated_at": "2026-11-07T02:45:54.530159+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title_original": "Ukraine-Krieg: Wenn die AfD über „angeblichen neuen russischen Imperialismus“ spricht",
+      "title_zh": "Ukraine-Krieg: Wenn die AfD über „angeblichen neuen russischen Imperialismus“ spricht",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbUtONV9uUl9MdEw5cFgwYWhzOG02ZXM5WTlEektNcHhkYXQ5M3BCM1lGRWtvQzZkYXlaZFl1QlhGT04tdmFTdWpYcTlpaDdqM3BPQ0c0cnZYTG9rU1FHYXpRcTZPYVJEZGhRakFOVmVRWXMwN1Ayd0hMeUJFNlNlVlpnVmxobG9WVVpuNFM1dERuVFdFNmZFbWdsdnA2R0JWSFVPTUFfLXhJUEJ1NTk4N3U0SnRIaFFHUXdUMXpMdUhxTmhtN3d2Q2NWWkxhWEJjWE1UUmJlSE9BZzlOTHJvOThEWEpJU1k5VTNVbDVn?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-11-07T02:42:40+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: Wenn die AfD über „angeblichen neuen russischen Imperialismus“ spricht    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Wenn die AfD über „angeblichen neuen russischen Imperialismus“ spricht"
+      }
+    },
+    {
+      "title_original": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+      "title_zh": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+      "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-07T01:55:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank Paraguay’s rightwing president has been placed under house arrest minutes after he was impeached by Congress, amid a severe crisis that left more than half the country’s population unable to access their bank accounts.",
+        "Santiago Peña is being investigated about allegations he used his political influence to favour a bank that expanded exponentially under his government and was suspended this week after irregularities .",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts"
+      }
+    },
+    {
+      "title_original": "米国務長官、G7外相会合出席へ ウクライナ支援で結束焦点",
+      "title_zh": "米国務長官、G7外相会合出席へ ウクライナ支援で結束焦点",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNb3UtNXJQX2dtNTFtU3dMUWZRWW5aVkhKZGJiampWSUdPNlc5VUJuenRtVXNna2tJOTNrbmt0U3gyWEd2RWt3WkxKbTBvWXdUNlBOWXNn?oc=5",
+      "source": "西日本新聞me",
+      "source_score": 40,
+      "published_at": "2026-11-07T01:41:13+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "米国務長官、G7外相会合出席へ ウクライナ支援で結束焦点    西日本新聞me",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "西日本新聞me"
+      ],
+      "all_titles": {
+        "ja": "米国務長官、G7外相会合出席へ ウクライナ支援で結束焦点"
+      }
+    },
+    {
+      "title_original": "ウクライナ南部へロシア軍空爆 住民避難続く一方で死者は53人に（AP通信）",
+      "title_zh": "ウクライナ南部へロシア軍空爆 住民避難続く一方で死者は53人に（AP通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wdlpjbHYyLUpkSTNobURUNzFzS2xmdXJhX1oxTy01NGhLRC1naUFCbnFySnFzOC1hOEZXMklDSnNxZWpXME5FcEVmQVJ2c0pVVlZlRHh2dmo1OEo0b2FORFZTVFhpN3k4QUpMM3ppRVdMR0FvUHNTUThfUjhvTm8?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-07T01:25:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ南部へロシア軍空爆 住民避難続く一方で死者は53人に（AP通信）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ南部へロシア軍空爆 住民避難続く一方で死者は53人に（AP通信）"
+      }
+    },
+    {
+      "title_original": "إعلام إيراني: صاروخان استهدفا جزيرة قشم",
+      "title_zh": "إعلام إيراني: صاروخان استهدفا جزيرة قشم",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxON2R3WUpqaW9LWldQb3A3enJFbGRldURYamtXblFXTFZKRlliSVUyUTNXdG9oQUlqdkM1dndGdGFjMVE0OExTTWhLUzJ4NC1UR2MxbmJoMFJ3VXltbFV1UnBZakVRczBzM1lFbFZYSnI4Wk1kYzlGcEg5aGRwUkVBUExQRkZDQTR4VG1GMlBNZEZDTWFfeVFhYXB1OEFXaUF3TG9SWDNRVk1kTmFRNm83MC1xTnhUYVBPakdRUU9rSE0taFZ5UWZPcDctVGdESXhiZnZoT1ZhLTVBZWZMeWVlUXBDY3dmSGpvY0otVmdTR3VjRVFJZmVUSzZBa3NtcHJBUUxfb0FNbmMxTi1mRG55dmJ2UzVlYXBrdFZPcnFGMDdSSEhCV0tQaTdjRllQd21LbE9CdVR4RkwzYlVFTU5UTDZlaHlvSU5talJ1REhiV1BTSFpLbFBYT3RsdnNUeG44SWhVNHpiYkx6OXZYai1HOUl4NkJUQVpSZjJXUERjUHl6eHZGOVlxWlFEa19ua0d6Ni1pVVNIWjhqcjBjU2hKS3BWbnJ3QklvQXc?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-07T01:16:59+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "إعلام إيراني: صاروخان استهدفا جزيرة قشم    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "إعلام إيراني: صاروخان استهدفا جزيرة قشم"
+      }
+    },
+    {
+      "title_original": "Unter Führung der Bundeswehr: Großmanöver an Nato-Ostflanke gestartet",
+      "title_zh": "Unter Führung der Bundeswehr: Großmanöver an Nato-Ostflanke gestartet",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdl9CcGptWGZicWJPTTBPSGF4TDQ2OE9EdFJTSzNmRHNfbEpzS2xacllicFI1YXlIdDhjSjNzX2xkclhNR2U4QVBfWktnMVpHR1hpUVJ4U1R5WDVieG05X2pYemxmYmpXY1VjUndTWEw0YlVrX18tM1lYMmhGQm5NZDIxX1BHWU5IdzE4QzRXdFBRRTdBaXVwWGpiTGFxZ0RqbXVwV3AxYlh6Q1U?oc=5",
+      "source": "Nordisch.info",
+      "source_score": 40,
+      "published_at": "2026-11-07T00:30:19+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Unter Führung der Bundeswehr: Großmanöver an Nato-Ostflanke gestartet    Nordisch.info",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Nordisch.info"
+      ],
+      "all_titles": {
+        "de": "Unter Führung der Bundeswehr: Großmanöver an Nato-Ostflanke gestartet"
+      }
+    },
+    {
+      "title_original": "米国のNATO関与縮小、ロシアの「核使用を誘発」する恐れ 通常戦なら欧州が勝つと専門家",
+      "title_zh": "米国のNATO関与縮小、ロシアの「核使用を誘発」する恐れ 通常戦なら欧州が勝つと専門家",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NQnVEcVc0WXpRMkE5UmwzcFQtNlFKOUFpYlF3V0NLcVRBbzYtYTIzSWh6T0JheHNCemp5bXRHT1dVLW84QjhVSl8yWTVFbUo3UGtjdjlfQ2Zla1A4LVlYUEROYWZ2VUJKU2lUNjFCVzBQSUx3aUNiQkpzQ3J4clE?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-07T00:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米国のNATO関与縮小、ロシアの「核使用を誘発」する恐れ 通常戦なら欧州が勝つと専門家    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "米国のNATO関与縮小、ロシアの「核使用を誘発」する恐れ 通常戦なら欧州が勝つと専門家"
+      }
+    },
+    {
+      "title_original": "トランプ大統領「イランの核兵器保有を阻止していなければイスラエルと中東全体が存在していなかった」攻撃正当化",
+      "title_zh": "トランプ大統領「イランの核兵器保有を阻止していなければイスラエルと中東全体が存在していなかった」攻撃正当化",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YOV94dFdzWGN0aGtQYkFtUFhWY2VpNFk4MkNDRW92dVZLS0xtX1k1RnoxZGtaRVIzMDFOSVJyQUdTRVlvQXBFeVdYZFhlSGdGaGtMQ0xGRQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-11-07T00:27:25+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "トランプ大統領「イランの核兵器保有を阻止していなければイスラエルと中東全体が存在していなかった」攻撃正当化    TBS NEWS DIG",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "トランプ大統領「イランの核兵器保有を阻止していなければイスラエルと中東全体が存在していなかった」攻撃正当化"
+      }
+    },
+    {
+      "title_original": "“不屈法国”党发布纲领：如果梅朗雄当选总统，将退出北约",
+      "title_zh": "“不屈法国”党发布纲领：如果梅朗雄当选总统，将退出北约",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKTDVEUnRvYWFOVjBxODczLVVoeVhHZGxIbFhvTWpQNlBWN0x5UU0yZlRQUTAzWWJ5YzBkdTRCZVBJWkEtWmRHYUhXaDM?oc=5",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-11-06T23:41:16+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "“不屈法国”党发布纲领：如果梅朗雄当选总统，将退出北约    凤凰网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "“不屈法国”党发布纲领：如果梅朗雄当选总统，将退出北约"
+      }
+    },
+    {
+      "title_original": "「停戦」誇示、にらむ中間選挙 トランプ氏、ウクライナ巡り外交成果強調",
+      "title_zh": "「停戦」誇示、にらむ中間選挙 トランプ氏、ウクライナ巡り外交成果強調",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94c2dMR2ZJZG1uaGM5ZWFGNm1UU0tGLXR0T2RnR2NDNVBOYkY3Q1lmMlplVEpSVHlmUGxMNHQxLXZPaHRXN0l3RkNRUXA4b05zVWhOVkpVaGtfYVlxSUV2bzgzZGtpZFV5UFE?oc=5",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-11-06T23:34:04+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "「停戦」誇示、にらむ中間選挙 トランプ氏、ウクライナ巡り外交成果強調    朝日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "「停戦」誇示、にらむ中間選挙 トランプ氏、ウクライナ巡り外交成果強調"
+      }
+    },
+    {
+      "title_original": "Inside the early GOP reckoning after historic defeat",
+      "title_zh": "Inside the early GOP reckoning after historic defeat",
+      "url": "https://www.politico.com/news/2026/11/06/gop-reckoning-trump-midterms-stephen-miller-01154760",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-06T18:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Stephen Miller's rise to chief of staff exacerbated GOP fears that there will be no party-wide reckoning after their midterm wipeout.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Inside the early GOP reckoning after historic defeat"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - Schon über 50 Tote nach russischem Luftangriff auf Komyschuwacha",
+      "title_zh": "Ukraine-Krieg - Schon über 50 Tote nach russischem Luftangriff auf Komyschuwacha",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOWxoX1lZY0NnNWF4S0JYREFVQW9aTHBUS0wtdW9nY3QzWDhxdVZkWFlfSDdselVJbEptR2VsaFpFdUlYUGlOOTltVGZQOHo3QXY3QUlqZmt1TTNHQTRsTWx0Skwxc0N1dTBGMFAyRjFDeXA2UGNiaUROQUVkcDA0QUNZenowWFNidThQbmxpTGdLbWZNMzE0UE52U3NFNW5Mc0FHVWdBYzc?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-11-06T22:04:05+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg - Schon über 50 Tote nach russischem Luftangriff auf Komyschuwacha    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - Schon über 50 Tote nach russischem Luftangriff auf Komyschuwacha"
+      }
+    },
+    {
+      "title_original": "روبيو يشارك في اجتماع وزراء خارجية مجموعة السبع في باريس",
+      "title_zh": "روبيو يشارك في اجتماع وزراء خارجية مجموعة السبع في باريس",
+      "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxPWWUwOWx2bEdKbnFoTENxelo3eE5DNUFJSGdYQzRoUnZ5cHdUMkFyeEg4UzNwbUdRb3o5TzFHZHNIblBILUctanJ3cW9VaXBscFg3aDR4WnNBUXBId2NQZFJKQmFyUjEzZEE4VlZRWXNIeGRHMXpZVUlNbWlfc1pCS2JaUk53Y1hqQlc5X3Jaa3dWMXVhWkU0LWdHQkhpSFZEdzJIRlhTNkszdEJvVWRoam9hakhGbG1ZbUhpRE0yU1AtSDRjYVZtaFZGYkhNalNVZzNZZmRVSGlYc0ZWWVNYMFZsazlTLTduWnYtX3Q2X3kyRDRremNSVVBfLU1WRUNMLTlDX0VPbkw5VE1KcFlCYmp3UFZNTjdOY05DSnVHN2VjdUVEUVNhYU1jVk4xaGs1eGtROEpYcXllaUIzaWxRRmFEOVNrLUp2RUhLQ2RfRGJOR1NjUlhhWTV6M3Izc25rSTBycnY0VmFBR0lteWlBS3FRMktoMGxmaVp3YUd4TFZMUkRWekR4SWRiVjZ5b2JZNUxyY3pISG9kZkg0eWt5c0NaX0w5SzRFWmRkMlBWSnRwODV0M3BGSHMydnN2U0xPZm1VekNBUmI5LVo2cWVqZFBWNl81aXZLMUhDMV8xdU5mUVIzVHFXYzdFRFlVWGxvZkNmSmd5c0x4M0l3bzktR0dQM0ZsMWdyLVpXTkFBT3hWNFZ0Z0hETjU1Q1cwWmwtX0JuSzhLSlR1YjVUMVgzLUswWC1YYnpxWGVhODFSQVNpYzJDRWxWWkY5NkNTa0FwVmNCcEVhaVFRMFZoV0JrV2ZEVFllY0xXdHloVFdRSzl5aE5XNEd0UzBvQk0?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-06T21:55:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "روبيو يشارك في اجتماع وزراء خارجية مجموعة السبع في باريس    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "روبيو يشارك في اجتماع وزراء خارجية مجموعة السبع في باريس"
+      }
+    },
+    {
+      "title_original": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "title_zh": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-06T21:49:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Elon Musk appears to signal the end of the road for Cybertruck\n- Published\nTesla will wind down production of its Cybertruck vehicles at its Texas factory next year, Elon Musk says.",
+        "He did not spell out whether it plans to stop making them entirely or shift production elsewhere, but did say the decision was to \"make room\" for building more of its self-driving Cybercab cars.",
+        "But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: \"Cybertruck was an incredible technology development platform and lives on through Cybercab.\"\nWith its distinctive angular looks, the Cybertruck attracted diehard fans, but was beset by delays before being launched in 2023 and has had disappointing sales numbers since."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Elon Musk appears to signal the end of the road for Cybertruck"
+      }
+    },
+    {
+      "title_original": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター",
+      "title_zh": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPenpTS05aLVU3UkFlR1F1dTI4T3VOX1haVkJsM3EyTlFZQVBya0psdk9ZSDk2QlQwOThDMDhkdDJGd1J4a01qWll3aGJIOTV3TkZPODJMMXpsaVJQUlRtM2JseFJQNWhNcUF6ZVg3c3UteVgwdE0zeTNNbG9pY19ZeEpIOTNWZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-06T21:32:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナはロシア石油施設への攻撃継続、ロ軍の新たな攻撃に警戒＝ゼレンスキー氏 | ロイター"
+      }
+    },
+    {
+      "title_original": "الاتحاد الأوروبي يقيّد نشر صور أقماره للشرق الأوسط",
+      "title_zh": "الاتحاد الأوروبي يقيّد نشر صور أقماره للشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMimgRBVV95cUxORHZWVnFfazE2bWlxV0Qtb3BMLWpESGlnZDgzM29jdHpJeGdOSVppY0tBTXE0RVJNUVp6OEVyb0Z5ODlBUlh4ZFZKZ0Q3dXVCYVlZa1FaYXJqYmczRXFnR3l6NWp5NVMwdkhMSU5NMDJWWktKYk9RRWg4bG13SG9fMTl1RG1qdGdXc1NSanNDaDZ4SjZleWV6b1F3MlItZzdKM0h2Q1hxX0xIYzhsd25OQmg0eFhzVkNOYWR0WDRxUURiQ0pnVDdSUHhuU2hkZkVmQ2V5Sy1wUG5RRFlTa2l5RlluOHJJMEg5c2xqQUpFMkttcHZJVTNmYUtid0FrQ2d3by01dTRrQlRwbHlNclFmdE15X3BDY2dtdW81Vmp3dVV5eF9PSDZOdW93b2ItV01VZ0VlWkJkSFJKSVpmcGNFTElSSGVXNWIxN2syYjFldFU5dmZ2NUlCWXdfRUFmYUxVY2RTX3VuWGZXOE92SXAzUU1SS3VTeFlkaUY1bzBRM08wajJIa1JiaUU4eWZnYUxxenNnSkY4UE1tSTBXRkZydkViTFNnLW1vakJjT3luV1pBYXh4MDA0S2YtcjNDWmVKVHAtdXNJb2wzTFdkQmpzYTNUTXdMdFV3bVBvSThFeVRMYzZwNnVNN21lWHV1ZTg1ZE9Qb3RsSGNJSWhqQm5uODQ2NU9LX3dacTdhd2lSejFybmRvRGxEOXFB?oc=5",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-11-06T20:24:26+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "الاتحاد الأوروبي يقيّد نشر صور أقماره للشرق الأوسط    صحيفة الخليج",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "الاتحاد الأوروبي يقيّد نشر صور أقماره للشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "\"Sehr ernst\": Selenskyj wütet gegen Klitschko",
+      "title_zh": "\"Sehr ernst\": Selenskyj wütet gegen Klitschko",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV2hydHJOdzUxekk3WHZOSjJ4NU84MElNSFRLOGUyMVNWN1I4WkJEOWh2ZlFKdUNhWi00NzdVb2o5bVZsdlc5OE52bm9mQmltYjVjRE9hZm5LWnRfSDdzbnBBNUVPSE9lRUVvZjA4b3NYeURRSlJtQVFxMVRDZ3VDSmEta0YzV2JMb2RWeGFnY256MS1yS2VqdjdYc0UxUktMVWgwV2VMR0pITkVGdjV2b3ZWRDhqdGhmQXhWVi1Zd2c?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-11-06T20:13:25+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "\"Sehr ernst\": Selenskyj wütet gegen Klitschko    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "\"Sehr ernst\": Selenskyj wütet gegen Klitschko"
+      }
+    },
+    {
+      "title_original": "NATO Opens Counter-Drone Marketplace With 16 Systems From Five Companies",
+      "title_zh": "NATO Opens Counter-Drone Marketplace With 16 Systems From Five Companies",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeldCSno4ZHJJNWQtV0VGSmZaS2lScFRnbk0zU3o3N0ZsNTg4RUpiWTlya3NEUFhSOEZZQUx1UDR4eW5YWjUyWWlvZnFaQlNsQkc2Mng1LWJ2YndHZW16eXl0Z09Sd1FNeDdfTEZqX3RXd0ZHMjBuMVlJNGlGbWNfMGJBenFFN1BmQlRNN1ZyclFkeXVaaWJXZzNnLUVaSk9wLXFDV2JEYTZQdU0?oc=5",
+      "source": "Inside Unmanned Systems",
+      "source_score": 40,
+      "published_at": "2026-11-06T20:03:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO Opens Counter-Drone Marketplace With 16 Systems From Five Companies    Inside Unmanned Systems",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Inside Unmanned Systems"
+      ],
+      "all_titles": {
+        "en": "NATO Opens Counter-Drone Marketplace With 16 Systems From Five Companies"
+      }
+    },
+    {
+      "title_original": "تايوان تتدخل لتهدئة مخاوف المستثمرين بعد موجة بيع قاسية لأسهم الذكاء الاصطناعي",
+      "title_zh": "تايوان تتدخل لتهدئة مخاوف المستثمرين بعد موجة بيع قاسية لأسهم الذكاء الاصطناعي",
+      "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPVWpoakMtbUswVjM4OWVQUGpjdGJROU5wTldyUVFENldJckQ2NDg0RU9HR1FydC1WV0ZJMDF6Rl9PSlkzWXV0RmlCUy1GckVqbEQ0bFItb0Q0UDRKRjJMbm9mal8wMWk2ZjV6RVJrdmpuUXEwWmREa2hEWU5pX1EwT3BKSjczOEVBUUtWQXU4UGpxMDNiT0VvblhKVTF0VjBGN2Qta2hXVjNXVk15WWRqS3pJUURHcHRya2kzVXZ1MXc0dC14OTlnM0dEclJicWdEdDRoc21qc1RWbFRIWWItR0ItLXpqTncwWGpTRjhNbFZjTkV4N2V0NzU0aFNkOEdsRjNCTk50aGZjZWhYSW9RUlBVdGZndXMwNTZoaENUMmhoS0pLcWxBRU96Y19jWk11R1FuUEh5TGw5NXFVUEdpN3IwNjNqLTRrd3V3cFdIUUZ0eUZVWmlxM3JqNi1YR0tueVp3SUZhZ0FJbV8zV05WQ1I1MVhIRzNQdXRyS3U4bmIyc0VRMUJYVXM1RW84TmRYUzBBNlp4aWpSTjBHbkNvdlpFeVNzNGFsMWpiRnZkS0RXajRqSV9yM1ZXendtTDNLNmJrYVh0eW9weVdhWFFOR2U3QkQxVTBoV2dlajRmR18yMUlYZkFHZExWWFh4NDRjV0IxeDJn?oc=5",
+      "source": "الشرق بلومبرغ",
+      "source_score": 40,
+      "published_at": "2026-11-06T19:44:05+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "تايوان تتدخل لتهدئة مخاوف المستثمرين بعد موجة بيع قاسية لأسهم الذكاء الاصطناعي    الشرق بلومبرغ",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "الشرق بلومبرغ"
+      ],
+      "all_titles": {
+        "ar": "تايوان تتدخل لتهدئة مخاوف المستثمرين بعد موجة بيع قاسية لأسهم الذكاء الاصطناعي"
+      }
+    },
+    {
+      "title_original": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
+      "title_zh": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
+      "url": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-06T19:23:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago Chilean film-maker Sebastián Lelio has died at the age of 52.",
+        "He was best known for the Oscar-winning trans drama A Fantastic Woman and his English-language films included Gloria Bell and The Wonder.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52"
+      }
+    },
+    {
+      "title_original": "Economía - Derrumbe en la bolsa de Taiwán tras desplome de las tecnológicas en Wall Street",
+      "title_zh": "Economía - Derrumbe en la bolsa de Taiwán tras desplome de las tecnológicas en Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcEFGcE92S0I3VVB3Z05Mdk5qdDJTREpraVNMbG1FTlAtZUh3Unl6OC05MHdOZWdfdlRaNzlvUzdHbnVodzRab18tYlV3WExPTl90NVNfeUpoY1FWcTR2bDhfbXlLeVZpNE9VaWJBVWdqSDY2Y2t0Tk16Sk5HY285YXpadVVXSlpFQ2xBMVdDWlZvdTFzTkhzSEhyOFhoQjBRc0J6ZkppTHItcnJmbzhpQzRFUWdjYVplUjJzcXJpZXdtblJyYTRaTnFNMko2UnE4c1hqbjFlNi00MmZudVVHb3NwX3I?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-06T19:06:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Economía - Derrumbe en la bolsa de Taiwán tras desplome de las tecnológicas en Wall Street    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "es": "Economía - Derrumbe en la bolsa de Taiwán tras desplome de las tecnológicas en Wall Street"
+      }
+    },
+    {
+      "title_original": "ترامب: تدخلي لمنع إيران من امتلاك سلاح نووي أنقذ إسرائيل والشرق الأوسط من الزوال",
+      "title_zh": "ترامب: تدخلي لمنع إيران من امتلاك سلاح نووي أنقذ إسرائيل والشرق الأوسط من الزوال",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IWXRPWTM5dlJ6NDI1eVR1ZEhCdHV1QkFRUC1BU1VYVmNHY2l0M3RsMkhtV0xfVmxQOF9FREZQcktPT0Q3TXhiVlhCc2xkMzdDLWc?oc=5",
+      "source": "Iran International",
+      "source_score": 40,
+      "published_at": "2026-11-06T18:42:09+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "ترامب: تدخلي لمنع إيران من امتلاك سلاح نووي أنقذ إسرائيل والشرق الأوسط من الزوال    Iran International",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Iran International"
+      ],
+      "all_titles": {
+        "ar": "ترامب: تدخلي لمنع إيران من امتلاك سلاح نووي أنقذ إسرائيل والشرق الأوسط من الزوال"
+      }
+    },
+    {
+      "title_original": "Malgré la débâcle aux élections de mi-mandat, Trump menace toujours l’Iran",
+      "title_zh": "Malgré la débâcle aux élections de mi-mandat, Trump menace toujours l’Iran",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWng4VGNCSjFKd2lFNG5iQ25tVkhtREFtRUU3NnAtTDdsYnduY1pDRkxVZ3BuYlo2QllNd0ROQTY1Y2dxbEFiY1ZZOUJRdHFjUlo4Z1hnMmNWbVpoajgwY29zS2FXc1VaRThLV0xIdHFOT0FRalZpa1ZFNUxIemR5ZVhCVERpaERjcmFDWGFTSEhzR2F4Zmhub2NpWmx5Q2x0Q2U5NWNyc1VkNFBHZTVJbkt5QWxjbXhZaEpqU05WcmhnWXdqOE1fWEFPdWV1bENHSFJ0UFRBamhaeWJDOXYxSDJRYUoyaVgwSkJtUk5YX3RSTHAz?oc=5",
+      "source": "Libération",
+      "source_score": 40,
+      "published_at": "2026-11-06T18:41:39+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Malgré la débâcle aux élections de mi-mandat, Trump menace toujours l’Iran    Libération",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Libération"
+      ],
+      "all_titles": {
+        "fr": "Malgré la débâcle aux élections de mi-mandat, Trump menace toujours l’Iran"
+      }
+    },
+    {
+      "title_original": "تسوية حرب أوكرانيا تمتد إلى أمن أوروبا",
+      "title_zh": "تسوية حرب أوكرانيا تمتد إلى أمن أوروبا",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KQ0lFU0cwWm0xUGMxZFRTQkEzeHlORGR2Z1JPbHNqQlRIVW5heDdYT2VCTTVaRjhyYmJpd25iZzk4ZDg0VEk4OWgwTTAwU2ZPZDNz?oc=5",
+      "source": "البيان",
+      "source_score": 40,
+      "published_at": "2026-11-06T18:38:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "تسوية حرب أوكرانيا تمتد إلى أمن أوروبا    البيان",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "البيان"
+      ],
+      "all_titles": {
+        "ar": "تسوية حرب أوكرانيا تمتد إلى أمن أوروبا"
+      }
+    },
+    {
+      "title_original": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "title_zh": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-06T17:44:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Spain's rail authorities face European fraud probe after Urda rail disaster\n- Published\nEuropean Union prosecutors have begun investigating the possible misuse of EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people last week.",
+        "Prosecutors backed by a special unit of Spain's Guardia Civil security force said they were conducting the inquiry at the offices of Adif rail infrastructure authority and rail safety agency AESF.",
+        "The 28 October accident on the Madrid-Seville high-speed line was one of the worst railway disasters in Europe this century."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spain's rail authorities face European fraud probe after Urda rail disaster"
+      }
+    },
     {
       "title_original": "Nigerian court rules opposition candidate cannot stand in elections",
       "title_zh": "Nigerian court rules opposition candidate cannot stand in elections",
@@ -54,6 +679,31 @@
       }
     },
     {
+      "title_original": "Merz telefoniert mit Trump, Kreml dämpft Erwartungen nach Ukraine-Ankündigung",
+      "title_zh": "Merz telefoniert mit Trump, Kreml dämpft Erwartungen nach Ukraine-Ankündigung",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPY3pZNVY0eWpXRTdZMXV4Vk1WTFBDX0xwQ2ozWTRDQUVxcmR3dmV5c3YxeFhDa3QxNjVzT1I2ZmVKVHByWnVVeTlCWXNpTjlJcHRYeC1INHE2d1RFR2o0Wk9pZ1lrbF9RUDBYbWZlVFRtVzRVdWlMM0k3Y2gtajZDdXdxUWhMNG8zY0c4RmhiOEluN09GeW1ZRExkZ2p4NDJvZVlQcWNkY2t2ZkVhenVZaFRhNFNHcnZseEd5elhzQWhVMVMzSEV4T3pFOXEzRHZvd0tXNW5KRjJYMVBSVGlrVmY0SDY2Z2tlV215QUZYdlIxRzFMUnNCd2ZDU3hjMV84Ynhz?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-11-06T16:59:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Merz telefoniert mit Trump, Kreml dämpft Erwartungen nach Ukraine-Ankündigung    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Merz telefoniert mit Trump, Kreml dämpft Erwartungen nach Ukraine-Ankündigung"
+      }
+    },
+    {
       "title_original": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
       "title_zh": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
       "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
@@ -101,6 +751,56 @@
       ],
       "all_titles": {
         "zh": "外交部回应中期选举后中美关系进展"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - Nach Trump-Äußerungen: EU pocht auf Beteiligung Europas bei möglichen Friedensverhandlungen",
+      "title_zh": "Ukraine-Krieg - Nach Trump-Äußerungen: EU pocht auf Beteiligung Europas bei möglichen Friedensverhandlungen",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc0doUWVtQXlQeEdpZFdCU21pd25DSHM5SXl1clFhaHJZX0R6WWtJZVhwNks5cGM3dWc4UzRick4tMzlaZlJXVjE3a0NLSVBoZHZ2d3czR1Z3ZmZzWVZ4enpOZXRVVGpHdk1LTnRfcnhwazlmN05MdkFqQkY1VlRDTjJjOEdoOHh0ZnVudXVvc0xoQVBkUE1uRUoxUER1WFM4SjVLZ2lLVEVEZUh3bUZWeGsxaTlmclNSVGU3VkhyRjlERWdkWDZSMEUydE4yUQ?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-11-06T16:44:55+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg - Nach Trump-Äußerungen: EU pocht auf Beteiligung Europas bei möglichen Friedensverhandlungen    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - Nach Trump-Äußerungen: EU pocht auf Beteiligung Europas bei möglichen Friedensverhandlungen"
+      }
+    },
+    {
+      "title_original": "«الشارقة للإذاعة والتلفزيون» تفوز بجائزة «المشروع الأكثر ابتكاراً» في الشرق الأوسط",
+      "title_zh": "«الشارقة للإذاعة والتلفزيون» تفوز بجائزة «المشروع الأكثر ابتكاراً» في الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMizAVBVV95cUxOb0FvdDV3QU1RZHhmR0l2dE1SNTdyQ3RYeUxiRWtuNndYLTczczQyMVpvQ1djbWp4SGlSbkJoeFlVNEVaYjJMaDZhMFh4dzhMOXFfRnM4bGMycUhvMERzZDd6VHJDb2RCTGpxMWN2dHVpX0Jjc1d5TVZzZVM4TTVVMkEzN0pNVWNXNzZtZThrNDFQa0I0YkIxNHJULTF3LThXd1BpTlRmRnVfa2gxNENxeE10OHRPUTdIQy04cTFCSW9DZHJwMDNfMXZfa1hnVUlORU4zQ0o1ekw2RHVobVNzbW1jaUkydkRJMGFiYmRTUnc5N3NYRTZoZ3dsU3JLSENVMHFFckd0SFE0QWxOSk9iUXVEb0tYbTVwb18wVWo1clBxMjA1NnBUWnNndzNqMWU1ZEc5d3YxVVRNYWZQSXhpSlFfMDNKbGhkbjBIa2lvWlBUc1F4eklVOWZZbGR5ZVNrRS1DRmNCOHRxRmVvYld2THJzdGQzbDNtQ3R0QmxsVWdRVjA4OTk1Wm9lMXd0YW1jZG9ZR3Q2eGp6VDZoYy1FU3dFZURfSzQwR3paYVNhSHJiUFNMMGxsSkc4R1JmekJkaURCbFF5c195cS1QMkVzU2hmdjk5WHNmdnNuUnljUzFYQ3lMclY3a1M4Um1RRVczX1c3VDdYOW9TZHQteUNBWVRqVFpLNmtEZXlremRaaU9kTk9VVDlLSjE2eXdoTkxYaVByb0xZa01XRnZJUGtzaWo4OU0yTXVEYzhrdDBLUm9GNUdxMFR3aGxGazgyeDQtRTNHWlpSOGFyMnJxTzJlVHVsc2Faak9Mem5TR256RHRKb0ZWbnpVdDB2b1N2N2ZrZm41WEV4cHpIbmR1em4wOVl3cEplT2FjazlFcnR0aWsxazZzWFNqRDZldjB1TXRGTGVRYWt0TVNrRnlGbm5ONzdFR0xRTUs2MldPMQ?oc=5",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-11-06T16:13:52+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "«الشارقة للإذاعة والتلفزيون» تفوز بجائزة «المشروع الأكثر ابتكاراً» في الشرق الأوسط    صحيفة الخليج",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "«الشارقة للإذاعة والتلفزيون» تفوز بجائزة «المشروع الأكثر ابتكاراً» في الشرق الأوسط"
       }
     },
     {
@@ -201,6 +901,31 @@
       ],
       "all_titles": {
         "en": "Two dead after bus crashes in France, officials say"
+      }
+    },
+    {
+      "title_original": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "title_zh": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-06T15:30:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Judge blocks construction of Trump's massive arch after federal agency approval\n- Published\nA federal judge has temporarily blocked construction of US President Donald Trump's \"triumphal arch\" in the nation's capital.",
+        "US District Judge Tanya Chutkan ruled that there should be a 14-day pause before any work can start on the arch in Washington which the Trump administration had said could begin this week.",
+        "Earlier on Thursday the National Capital Planning Commission (NCPC) voted 8-4 to allow construction of the planned 250ft (72m) arch."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Judge blocks construction of Trump's massive arch after federal agency approval"
       }
     },
     {
