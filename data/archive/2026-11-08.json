@@ -1,8 +1,683 @@
 {
   "date": "2026-11-08",
-  "generated_at": "2026-11-07T16:50:39.184483+00:00",
-  "count": 35,
+  "generated_at": "2026-11-08T02:24:29.327567+00:00",
+  "count": 66,
   "articles": [
+    {
+      "title_original": "NATO「欧州化」急げ、米国の関与縮小は不可逆 エストニアICDS所長",
+      "title_zh": "NATO「欧州化」急げ、米国の関与縮小は不可逆 エストニアICDS所長",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91aEhEZjNDNHZiamhBM2VSRldkc3EzYXYzNk9VZm00TldTZ2VRWkVXR3paUlQ3S0J4aktsZGpGczZ0REZvUFBpdHJEaElPakpuVUdxeHQxNk9BbWVQQVFlVUZkam1JSzZRTng0QQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-08T02:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "NATO「欧州化」急げ、米国の関与縮小は不可逆 エストニアICDS所長    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "NATO「欧州化」急げ、米国の関与縮小は不可逆 エストニアICDS所長"
+      }
+    },
+    {
+      "title_original": "ウクライナ・オレシュキからの脱出、野草で空腹耐え ロシア占領で孤立",
+      "title_zh": "ウクライナ・オレシュキからの脱出、野草で空腹耐え ロシア占領で孤立",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Kc1VlcWxqWFFrLVVReUJ6eXc2NG0xSEhNTnFvSDMwVWt1WlZtTTNuZDVsVVNqZ09NTEV3MDE2UzZZaFZnWjU2M1J1d3phVDFrblRPaGVHelJiVmxyb183NmJwbjRZa0NUckgtYw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-08T02:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ・オレシュキからの脱出、野草で空腹耐え ロシア占領で孤立    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ・オレシュキからの脱出、野草で空腹耐え ロシア占領で孤立"
+      }
+    },
+    {
+      "title_original": "Putin abschrecken: Nato-Land prüft Maßnahmen an der Grenze",
+      "title_zh": "Putin abschrecken: Nato-Land prüft Maßnahmen an der Grenze",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ0x5UGEtbENIY0M1bHZLaDJLWHZpSDJrcGZFNmZpNUkyUllwcXlKWVFfYjBsTUl1US1lV3FOSzA5OUtWa0JobDJkdnlBX0VUZjJyRzdqSjZKZFFUZ2tSRUotd1NuLTE0a2xtd3l6S3ozWWRZcFMxWk5PRGxqaU13S09LSHhnTWI2QkFVMjEzX1huSjI5RjRCR19vYnRHOVVKamdnaHFITnp0QVVaUzlQNHBLenB5bkxKSzFNTjllZEg3RVlMVDM5X25Cd1drVnYwbk5XSXEySQ?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-11-08T00:43:47+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Putin abschrecken: Nato-Land prüft Maßnahmen an der Grenze    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Putin abschrecken: Nato-Land prüft Maßnahmen an der Grenze"
+      }
+    },
+    {
+      "title_original": "ロシアがウクライナのエネルギー施設に大規模攻撃 首都キーウで「電気・暖房の供給に深刻な問題」ゼレンスキー大統領",
+      "title_zh": "ロシアがウクライナのエネルギー施設に大規模攻撃 首都キーウで「電気・暖房の供給に深刻な問題」ゼレンスキー大統領",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oSHdrMEw0VG5xek9OME5nNk1zZEJKbGZIVmRQejFrcTMyOHpYZS1Oc24yMmJmWE1fem12djFOTTRZbjVkMjVXakUzam45ZUJwZVNfa3lJQQ?oc=5",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-11-08T00:29:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシアがウクライナのエネルギー施設に大規模攻撃 首都キーウで「電気・暖房の供給に深刻な問題」ゼレンスキー大統領    TBS NEWS DIG",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "ロシアがウクライナのエネルギー施設に大規模攻撃 首都キーウで「電気・暖房の供給に深刻な問題」ゼレンスキー大統領"
+      }
+    },
+    {
+      "title_original": "Russia Ukraine War",
+      "title_zh": "Russia Ukraine War",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN1dzQVpZeUdLeldUMldRcEdscTY2TjdtSjVoNEt4dXpDVTJRd1FMLU1ZMHQyZFpjckpZZnJfNXdSSlladEFhbFRELWZ2alNRMDR5WnZQLUcwRGRrc01DZGlwN1FyeE1GNEZiQ3poRVFrWHRjT2M0VnY4Ti16di1RT0huNVdaZEZGTDRfSFFDUWxlUEtyeGxjVw?oc=5",
+      "source": "TelegraphHerald.com",
+      "source_score": 40,
+      "published_at": "2026-11-08T00:05:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia Ukraine War    TelegraphHerald.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "TelegraphHerald.com"
+      ],
+      "all_titles": {
+        "en": "Russia Ukraine War"
+      }
+    },
+    {
+      "title_original": "The war game that simulates a Russian attack on Nato",
+      "title_zh": "The war game that simulates a Russian attack on Nato",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPczlvZXdLRmFkSmtzdWdMWTVTMWJkV0tIeWZweXZ0Yy1SelRtVmI0cFRPLXd2TWhFTk5vc2R1UUhuam1tXzd0MFB5MGFSSGtZbER3Q0tXSjZiUmlnVU5vMVU4bTA4WkZSa0YyWm9VWjJLZlU5bWdLcF9SYXhDblFPcmJndS15TTAteEdYaFJuNA?oc=5",
+      "source": "The Times",
+      "source_score": 40,
+      "published_at": "2026-11-08T00:01:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "The war game that simulates a Russian attack on Nato    The Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Times"
+      ],
+      "all_titles": {
+        "en": "The war game that simulates a Russian attack on Nato"
+      }
+    },
+    {
+      "title_original": "张维为《这就是中国》第356集：俄乌冲突，何去何从",
+      "title_zh": "张维为《这就是中国》第356集：俄乌冲突，何去何从",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MVWJWeFhaaWE4N2dtdHNLdFJFdVZtZUlSVjdxdWZKbDdRNWlBMy0yR0t5ZHEwTUxsajhOUnNLMzZYcE9WcVhzZE5DbzZFU3NNZGNMRlhRMmdtVS16UHljZkxnUzZiam5vS2c?oc=5",
+      "source": "观察者网",
+      "source_score": 40,
+      "published_at": "2026-11-07T23:25:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "张维为《这就是中国》第356集：俄乌冲突，何去何从    观察者网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "观察者网"
+      ],
+      "all_titles": {
+        "zh": "张维为《这就是中国》第356集：俄乌冲突，何去何从"
+      }
+    },
+    {
+      "title_original": "Turquía acoge la cumbre del clima sin grandes acuerdos a la vista y con la geopolítica en contra",
+      "title_zh": "Turquía acoge la cumbre del clima sin grandes acuerdos a la vista y con la geopolítica en contra",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjdfbGstM0JtZFF1MzhTc1BzNTBiTUVHQTlRM25RdFZfbjZBNUhSZUFpZjdkbENJSDVWUXcycmpRS0xJdnBnNkR3WW0xaGN0TjNXYzZpaDU2Q3hHUGplaHFScUNnU1ljaTdrQXNmVzNFN0ZlWlh3RWh5SXZrZ1hjSzRiSTlVZVVMR01wVUdpRVNpcWd0TU01ZU5BQUNLclpaNk5rRFBUR1hkYkJB0gGyAUFVX3lxTE00cW1HTjAxRDFhcU1CdVl0QVZYbkowaGVBNWxNOWN2Z1RQbldxekhmWjhBNkdxaE1rS0IxYzI1d05wcmc1T2NjUllTRnE0OFI4d1F2VHBzcGlIQlVxb1o1Q1ZxcmYzTXRLaDduNnprdm11ZFBMRUVrWmtoNC1MNXB0Q0VkeXA1NHZUVHAzQ2JUV21nbnVqZjBUb2lXUnZvSV9DX1poUklUWDV0cXAyQmRpNVE?oc=5",
+      "source": "El Correo",
+      "source_score": 40,
+      "published_at": "2026-11-07T23:08:41+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Turquía acoge la cumbre del clima sin grandes acuerdos a la vista y con la geopolítica en contra    El Correo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "El Correo"
+      ],
+      "all_titles": {
+        "es": "Turquía acoge la cumbre del clima sin grandes acuerdos a la vista y con la geopolítica en contra"
+      }
+    },
+    {
+      "title_original": "«دورة هونغ كونغ»: أليكس إيالا تتأهل للنهائي بعد مباراة ماراثونية ضد ساكاري",
+      "title_zh": "«دورة هونغ كونغ»: أليكس إيالا تتأهل للنهائي بعد مباراة ماراثونية ضد ساكاري",
+      "url": "https://news.google.com/rss/articles/CBMikgVBVV95cUxQQ1I0MjI3UU1PaTAwd1QxUXhYdjlJdmtjdEVQWFctRmNvcTJQYjA2eUlwSEE1elNvdDZINjdpS1A1VjlzVEVBZ0tGZ2llZXV5QUJpUE4wdTQ5SlNuLTVDTGtqYy1XdU51Tm9qUzR6UmIza3NJNDNHWE51MlI3WnFycmJHc1V3bTdZOVRyWUpNTjRwYUpEdWNVNFY2VUk4WWt6d2wweVd4RzN2ZVpMcHM0aFJVNDBORmN1aXpRZDZaS0VEd0xqMk9sd19aMEVLYUNjZ3V4RTEtTUFNMTdTazlBWWc1RTFWc0RnM0FZX2p5Vk95Tkp1YlMzdjdvdDR1SFpfMlItejVKX2daUmQwTEtpQlF0YXZhSDhaSWZ1a1FZNFJWV0FhQzdaOFNIRjljanRxYzZlRFYyZVMzMWJoWTl1ZkRObHZzbDY1dHYxVHJhcTBIYTBYRlpUSWgxUjFGZ2FJTzlkblpPRWVDZG1RXzVMZ3Jlelk3UGsxZlh0OFhqY0ZHa1ZMTU11ZlhaSHM0VDU5RnJIbHN6bDFNd0xOblI1Rm1pQjdfT3dxU2U4NHFhUDdNM1E2ZU9MX1NZZzF2SEZFSnRua2pCRWFuQkRfbmRDd3lWQnZTckU0cGlCajRoQk9zM0pLSjRsd0txZkdUTXlfMERwampYcE5KOTdubUlHMUNiZXZmRVNSclhwLUZmRHNzZEs3bEdhOFlhMGpvVjY1YklUb2pzcGZQSEpGOTlZdGFOckxVSjRNNDltT054NTBoMnVxSS0yQW9sV2NnS3UtWXFaVXFocld2Rm5PTkNKdVhiTHYwaGdJRE9RaFRORmc3MDAwQ0JZZl9oaHpta29fSVAwRUpJWDkzOHRKVHNraE93?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-07T23:07:42+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "«دورة هونغ كونغ»: أليكس إيالا تتأهل للنهائي بعد مباراة ماراثونية ضد ساكاري    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«دورة هونغ كونغ»: أليكس إيالا تتأهل للنهائي بعد مباراة ماراثونية ضد ساكاري"
+      }
+    },
+    {
+      "title_original": "لإعطاء الأولوية لصحته... بورزينغيس لاعب وريورز يبتعد عن كرة السلة",
+      "title_zh": "لإعطاء الأولوية لصحته... بورزينغيس لاعب وريورز يبتعد عن كرة السلة",
+      "url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxOazVXdHhISzhpdU9IZkFkUWFrNVVWYWVEdEx4SzE3ZXlhVVNpNVg3b2oxQkRtV0JjVVJNYWZPbkVKUWNsaTVIQUxBd0FsVVpYSkJ5THZmSm1fLW5mWDlZckhuc0drd3B6OFJHdnJUR2lYUDJRS3lGNHFFbHVKSTB6YmJvc0wyc3hnSGk3TDFXSFNzdHNEMS1RZXBmXzJycm9HOU1kYXN0T19vYklmQkt5aXRYVUpzQU5iSlpBNmw1eVhyXzIxVGd3Q0lMRDV3UmM0eGJGRk1lRm0wWmtXM1BYbzBOd1ZiZm9PLUl4czhobFNJZ0N3UG03ZjVvZUI1a0xlRTh3eFY2R3BPUXMzVFU2MWJfYUgxZ01sa0Rock1IdW43ano4WWJGeTRRZkhBb3FuS0lkaFhRdUgtRF9EcUE4UnpmYzZpUXBYUG5vS2ljdjlWckt4ZXo1V0EtWmUwQ3RxSDN4V203b3NWOVFTRUthYjBtN2VSWGtpLW9LMVFYckcwd0o3ZEIxOFB4aU4wQ3ExNDYzZFZ5bk1KSkhFSEtoTEFVcEJjeGUzaHlMeWpyUGt4bWROTTdyUEJyY1dTOWZFYW5YNlQ5cnhTQm9zSmpGc3JYWTJ0QU5WbEczeHVPYTEwX01DZ3IyWUpYVGM2TFgzUHpkNXF3aU5xX2xWMWM4Z05nRUFsMk0tam9PUVRhU2dGSW1wZUphemRVY2JIcWpjN05ENVQwRnpLeUxKUjNjdXBVVmZhTmtNMUY5TlJTV3BldmxramdtZjRYU25OMFN2bzR2Vm9NaHhwV3J4T0Q0d3lUQUtFZ3JfelJ1S2RSSnRyTmpiY3IxbWZtRUVDOTRSdl9Ib0VkQTA?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-07T22:46:01+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "لإعطاء الأولوية لصحته...",
+        "بورزينغيس لاعب وريورز يبتعد عن كرة السلة    الشرق الأوسط",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "لإعطاء الأولوية لصحته... بورزينغيس لاعب وريورز يبتعد عن كرة السلة"
+      }
+    },
+    {
+      "title_original": "من “سي-17” إلى آيزنكوت.. من يملك قرار ساعة الصفر مع إيران؟",
+      "title_zh": "من “سي-17” إلى آيزنكوت.. من يملك قرار ساعة الصفر مع إيران؟",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOTUJNcHY3TEU1QmNZS0NRZTBVVFZIcE5ROVZsRlJCVVpIdUM0bkFuNjExX1VkQ3pRVUotMFhVMWlFRDdhWm1jTkdIU1dibW1HbnFsU1RXX0NuV2dDLVVkSWMyaDhYT0NpNVIzNnZTR1lKcUZQUUYwQVFTNlJfVlFySWFNQmRzSXlQbHlRdVRRVGo1XzYtMFVqc1dWNTBEQzF4aUYtTkZEQlRiODhoajdPYklFVzZ4VHNUX0dvRjYtZV8tNW1WZE9QWmJqTXRkc0drWndnUkZEUklKUEpFbi1ZRnFLYnBsNENBNjF0VzNjNkhvY3M5ekxTT1F6XzdUbV9KbFptam4xMUNualNfd3NGSllWWWRlNWhkeC1wa2V5cmRJVU1CbjkwTnBGQmVHRWstTTFHMGh2b2JJQmJ6Z29iYllSVUNSRVgwaXlfQkVMdWZCcC1Y?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-11-07T22:23:05+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "من “سي-17” إلى آيزنكوت..",
+        "من يملك قرار ساعة الصفر مع إيران؟    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "من “سي-17” إلى آيزنكوت.. من يملك قرار ساعة الصفر مع إيران؟"
+      }
+    },
+    {
+      "title_original": "ロシア軍がウクライナに大規模攻撃 住宅など被害 市民生活影響",
+      "title_zh": "ロシア軍がウクライナに大規模攻撃 住宅など被害 市民生活影響",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hNkZfd1BHRDFNQkN6VHJ3WGxaMXJKd3VqMkhfRjBHTkU5TEFhYVBQLTA5R3lmN2RseFlINnB3aHlXZm1EZzIyTkdsN0xFVndqY0luRGhneGpsazdidGZR?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-07T21:46:40+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア軍がウクライナに大規模攻撃 住宅など被害 市民生活影響    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア軍がウクライナに大規模攻撃 住宅など被害 市民生活影響"
+      }
+    },
+    {
+      "title_original": "イタリア外相 個人情報が闇サイトに ウクライナ支援で標的か",
+      "title_zh": "イタリア外相 個人情報が闇サイトに ウクライナ支援で標的か",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41N0RybXkwSmtIWVBXU3oxVDdQQXlTU0FnaURfVndIZGpqRm5ZT2dUdUwwZ2tHVHJLNzBDNlRwbFAzaTJDRzZrMV81WndCTnQzOFc5bVBfMGVDRWZVY3ow?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-07T21:39:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "イタリア外相 個人情報が闇サイトに ウクライナ支援で標的か    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "イタリア外相 個人情報が闇サイトに ウクライナ支援で標的か"
+      }
+    },
+    {
+      "title_original": "L’armée iranienne vante sa force, le Qatar salue un engagement américain à trouver un accord",
+      "title_zh": "L’armée iranienne vante sa force, le Qatar salue un engagement américain à trouver un accord",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNcmZHa2JTcmRqNnNnNnF4bVdBUVZweDJfZml3eTFTWVFjMlFMUWZhZ0JVS09PVW90MEtvVHlReER5S1ZmRjVZYzZhSzl1bWl1TnIyMWliU29OMDZDbnBueXd5bDBqVGF2dzd6Z2FvTWlVOTE4Y2Eyb21PZVBxVnRhakFUQi1KOWNjaklQYlVTbHA1T2RFY3czUjJ2TnhTb3JlYjQyam9tU0Z0VGZtMUVBYU5XQmM1RHRuLVpXOEFaYjM1SkVTeGJyRkZMaUptRXdhdU55NS1aTmNlTkt3RWlud3RnTHlTOW1RLTlfb296czE3dHNDSGhGTkdkLUtsTmlYNWN3cjBXampId3NmYVE?oc=5",
+      "source": "La Presse",
+      "source_score": 40,
+      "published_at": "2026-11-07T21:12:47+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "L’armée iranienne vante sa force, le Qatar salue un engagement américain à trouver un accord    La Presse",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "La Presse"
+      ],
+      "all_titles": {
+        "fr": "L’armée iranienne vante sa force, le Qatar salue un engagement américain à trouver un accord"
+      }
+    },
+    {
+      "title_original": "ウクライナ 人道支援拠点狙ったロシアの空爆 死者55人に",
+      "title_zh": "ウクライナ 人道支援拠点狙ったロシアの空爆 死者55人に",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14TU91Q2FwbXRsYmJTc0VxXzlRQXBNTE9NUV9ESEVIMS1HRktaOVd5TnhuVndoWE1OZURtaWY2OWlUVTBnbm52UmtYNmRXdHFWR3BKd3JVNnFzZW1BajBZ?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-07T20:57:04+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ 人道支援拠点狙ったロシアの空爆 死者55人に    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ 人道支援拠点狙ったロシアの空爆 死者55人に"
+      }
+    },
+    {
+      "title_original": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+      "title_zh": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWllSbGNtVWlYR2xfb0dCd2JVMFBtbWNrMjEzN2xNdFhOSE5iNmRIYkFhS253dEpvQVA0cV9ldjE2alpFS1BKUHBEQnVQdkNEclFpUm9pLVpDbzJwb1NkdXpQaVRid0RDSDU4bWNfOVRBWkpRdnlLSzBwVXh6VGNjRG9BWnVmTmZ2OXRzU3VuTUhFYnlWcnptSmJR0gGfAUFVX3lxTE53OC1VdGdjcjRoWEtaWmNRSmRfN0s3QUNBbExvb0VwVi1idU5DNV93cVgzSjd0V0pGbExJeHY3VTJjTlEzbGFmbUNjQk1CSEhOLU1ZOU9JODhFelhQQXJndXk1T1ZMRzZWVFVOTTVIaW9HT3A4Nkk4cmlvOW5vMmhaWE5WQS1DSFoxUmZjcjJPX3NQaHdYY3VMYzRWSmNGYw?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-07T20:37:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine’s Zaporizhzhia faces threat as Russian drones close in    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in"
+      }
+    },
+    {
+      "title_original": "ロシア衛星、軍事利用を開始か ウクライナで、情報機関",
+      "title_zh": "ロシア衛星、軍事利用を開始か ウクライナで、情報機関",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wZWZBYnFtOFNWOXNJWlRJUDZPX2xLTFlIc3IzZUtyZ2NwSFVTRzN6eWhxbVBIY1lZcnZ6UWx4Q1FDSlRCbnhnaklNR0NVOUx4QWY0Um5R?oc=5",
+      "source": "西日本新聞me",
+      "source_score": 40,
+      "published_at": "2026-11-07T20:10:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ロシア衛星、軍事利用を開始か ウクライナで、情報機関    西日本新聞me",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "西日本新聞me"
+      ],
+      "all_titles": {
+        "ja": "ロシア衛星、軍事利用を開始か ウクライナで、情報機関"
+      }
+    },
+    {
+      "title_original": "中東のヨルダン大使が創価大学で講演",
+      "title_zh": "中東のヨルダン大使が創価大学で講演",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05a3ZKT2xCWjhEWVl0Nl9HeDBseUNLYnVXNVZyRmZuTWw4cGVJSFVON183Nk80LVZmV3poSmRWa1U1eVN3SHA0RWFndlZyRXh0U3NFcE5ZUzU5Vi1FRGNjUVIxZ1lTcGIzbmVmY180QktPWk12dno0Yw?oc=5",
+      "source": "聖教新聞",
+      "source_score": 40,
+      "published_at": "2026-11-07T20:03:11+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "中東のヨルダン大使が創価大学で講演    聖教新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "聖教新聞"
+      ],
+      "all_titles": {
+        "ja": "中東のヨルダン大使が創価大学で講演"
+      }
+    },
+    {
+      "title_original": "Israël: la présidence va charger Gadi Eisenkot de former le prochain gouvernement",
+      "title_zh": "Israël: la présidence va charger Gadi Eisenkot de former le prochain gouvernement",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbU00b1cxdDU4UkJZM29DVE1sQ2VSWWdLSUdHZWpvNmNWWkdzM3gxUnA1T3NSSmozUUVDclhDdFdtOUFzVFlhNWZQT0VHbmhfd3doSm1QMWV6V1lRLU5MUEx2NzZLTHZJVi1QYjNVLXNCZl9ONEp0LVpBbG1Xa1RUN1RTT1FUaFgtTlh6R256UzJkN0xuVmJTRFEzS1FxaXlCYXUzZm9ualNnOVhsS1c3OEF6c2Y4bW9IZ3hSeVBtNEZoUHhjMlA1TDFzZkJMT0k?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-11-07T19:44:37+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Israël: la présidence va charger Gadi Eisenkot de former le prochain gouvernement    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Israël: la présidence va charger Gadi Eisenkot de former le prochain gouvernement"
+      }
+    },
+    {
+      "title_original": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+      "title_zh": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcHdTWWtZQUFZUmR4U2dTbE13WjNCRWFHS0NTUkhFU2J4TUtjT2wyQ2dpSTlVSE5BSEpTemxGb3NRd0h5WmVkWjRNZHp3dnVZSVh5UUdBeEY1djh0cDUyaUp4MnZvenRFc1QxSGo2d2ZIVzI2TnRLUDdINV9SWEgtZjlkYmNlRlhpWUdkTGR0TDVNNXBQMG1iQWg3c3l3cFhSdXBkdzhB0gGrAUFVX3lxTE9IYzB5cVQweUtJSy0tNGdDLW9xQURYcC1XSkdORDhmZUlwTW0tM25IZklGT2dtY21iMDYydUV4VFlhUmF5VUpHaXdKeEp3RGwyUXFjTkNjbk0yTTJnd1BjUzBqZklDUUNCYVBKQWkxbTBwRTAzdExTNHY0dUlYOXFseUhZUDUtY196ek81QnpkQ2JkUWUtWU5SSXZpQTRZNEdCcktORjRmZjdHMA?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-07T19:17:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Latvian farmers protest over ‘blood grain’ trade with Russia    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Latvian farmers protest over ‘blood grain’ trade with Russia"
+      }
+    },
+    {
+      "title_original": "الكونغرس والشرق الأوسط.. كيف تؤثر الميزانيات والشروط؟",
+      "title_zh": "الكونغرس والشرق الأوسط.. كيف تؤثر الميزانيات والشروط؟",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9KS3dFVjA4VmRQdnJlZjFPbk5aaVZEQW5ydnV2UWlsRDkwVUJOVFU5a1FzcFVoTjBnS0ZONFF3?oc=5",
+      "source": "الحرة",
+      "source_score": 40,
+      "published_at": "2026-11-07T18:43:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "الكونغرس والشرق الأوسط..",
+        "كيف تؤثر الميزانيات والشروط؟    الحرة",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "الحرة"
+      ],
+      "all_titles": {
+        "ar": "الكونغرس والشرق الأوسط.. كيف تؤثر الميزانيات والشروط؟"
+      }
+    },
+    {
+      "title_original": "US offers $20m reward for information about Iran's nuclear programme",
+      "title_zh": "US offers $20m reward for information about Iran's nuclear programme",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-07T18:14:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "US offers $20m reward for information about Iran's nuclear programme\n- Published\nThe US has announced a reward of up to $20 million for information about Iran's nuclear programme.",
+        "The State Department's Rewards for Justice is also offering to potentially relocate the person who provides such details.",
+        "President Donald Trump claimed last year that Iran's nuclear facilities had been \"completely and totally obliterated\" following a bombing campaign by the US and Israel."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US offers $20m reward for information about Iran's nuclear programme"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - Massive Angriffe Russlands auf ukrainische Energieversorgung",
+      "title_zh": "Ukraine-Krieg - Massive Angriffe Russlands auf ukrainische Energieversorgung",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd2VRblVHRTA5OVRVdWgzaUprN2RIS0xicjhwOHl6SFQ5eGY1VEFqdnA1VERocHhEb3A1cXJsdmkxQi1MRmZDak1fZ0FOT2lZeksyUHFibGtNazlyRlN6TFlJWGZUVjlIQm1Yc214M2pJQkdvOGtMSFlZQzJDdkVXM1drZUpsZFpLN3VTMDdoczNRaDFtRHNMSDlxWDBSa0NOT3c?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-11-07T18:01:50+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg - Massive Angriffe Russlands auf ukrainische Energieversorgung    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - Massive Angriffe Russlands auf ukrainische Energieversorgung"
+      }
+    },
+    {
+      "title_original": "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call",
+      "title_zh": "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUm5pT3hsUTgtVnJTWl9zTUxFZlpBUEtYeHNsMjQ2em9ybzdCcmtHLWszT1lhZEc0NkJqMV8xWHRMUG9faXQ3M2pyMUxLejRUWXJNa3c2aFhaamdEbzdPMWJtdGl1Yno3TEVBaUpvQzVZdHFibEFiMGRSeUswdUhhcmM0cllNV0VpYTV0VU1oTlBva3F2NGV5ekdiZTNDUXBqWFNjaXczclRmb0pNUGYtUWZTT3JJNlo4RDZj?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-07T18:01:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call"
+      }
+    },
+    {
+      "title_original": "Houthis say at least 25 killed in Saudi air strike",
+      "title_zh": "Houthis say at least 25 killed in Saudi air strike",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-07T17:09:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Houthis say at least 25 killed in Saudi air strike\n- Published\nMedia linked to the Houthi movement in Yemen say that at least 25 people, including women and children, have been killed in airstrikes by Saudi Arabia.",
+        "There has been no comment from the Saudi-led coalition backing the internationally recognised government in Yemen.",
+        "Live video footage on Al Masirah - a television station run by the Houthis - has shown rescuers pulling bodies out of the rubble of several buildings in al-Shariyah, a town to the east of the capital, Sanaa."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Houthis say at least 25 killed in Saudi air strike"
+      }
+    },
+    {
+      "title_original": "Why this GOP governor thinks his party got ‘worse than a butt whipping’ on Tuesday",
+      "title_zh": "Why this GOP governor thinks his party got ‘worse than a butt whipping’ on Tuesday",
+      "url": "https://www.politico.com/news/2026/11/07/kevin-stitt-republicans-butt-whipping-be-nice-01155140",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-07T12:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Oklahoma Gov.",
+        "Kevin Stitt blamed the lack of ‘civility’ from President Trump as a reason Republicans got shellacked.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Why this GOP governor thinks his party got ‘worse than a butt whipping’ on Tuesday"
+      }
+    },
+    {
+      "title_original": "Italian foreign minister says hackers leaked his personal data",
+      "title_zh": "Italian foreign minister says hackers leaked his personal data",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-07T16:50:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Italian foreign minister says hackers leaked his personal data\n- Published\nItaly's Foreign Minister Antonio Tajani says he has been targeted by \"cyber-criminals\" who published his personal data online because of his country's support for Ukraine.",
+        "\"For days now, cyber-criminals have been publishing my personal data on the dark web and seeking further information, effectively exposing me to new threats and intimidation,\" Tajani wrote on X.",
+        "He did not specify the nature of the threats, but said the hackers were also targeting his family."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Italian foreign minister says hackers leaked his personal data"
+      }
+    },
     {
       "title_original": "\"Nous n'avons rien à faire dans l'Otan\", lance Jean-Luc Mélenchon, candidat à la présidentielle",
       "title_zh": "\"Nous n'avons rien à faire dans l'Otan\", lance Jean-Luc Mélenchon, candidat à la présidentielle",
@@ -26,6 +701,31 @@
       ],
       "all_titles": {
         "fr": "\"Nous n'avons rien à faire dans l'Otan\", lance Jean-Luc Mélenchon, candidat à la présidentielle"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Selenskyjs Stabschef Budanow wird bestraft - weil er Russisch spricht",
+      "title_zh": "Ukraine-Krieg: Selenskyjs Stabschef Budanow wird bestraft - weil er Russisch spricht",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVm5FOVlhOFdGUmxxZXZxTGR3QW9wMGpmeXpPc1hSMUhOVEZ1N3RyUUt1TzdxVXRuXzRNQVBYem5VZ05USkZmcFBvMVF2R0RYczJ0SFkzMVpoT1hNakltc2VKcmlqSmpjNnNNTHhqWEFETG55QTJ6ci0wbGRhcEdCRmhOdlRuNW5PZXhwVTIwYzEyT0tEeFRmYmd0d0VzeDlVVWtJNlVhU1RhUjdEOFc0ZGZZLThxYW5kTnZ2ejBKcE9Ldms?oc=5",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-11-07T16:19:55+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Selenskyjs Stabschef Budanow wird bestraft - weil er Russisch spricht    n-tv.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Selenskyjs Stabschef Budanow wird bestraft - weil er Russisch spricht"
       }
     },
     {
@@ -104,6 +804,56 @@
       }
     },
     {
+      "title_original": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "title_zh": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-07T15:19:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC\n- Published\nThe EU's former Brexit negotiator has warned that the UK cannot \"cherry pick\" which elements of the single market to which it subscribes, after Andy Burnham said he wanted to explore closer economic ties with Europe.",
+        "The prime minister has said rejoining the bloc's internal market was among options he could pursue as part of a reshaping of ties since the UK's exit from the EU nearly six years ago.",
+        "But Michel Barnier told the BBC's Sunday with Laura Kuenssberg that EU members would insist on the UK readopting certain conditions, such as the free movement of people, to gain access."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC"
+      }
+    },
+    {
+      "title_original": "北朝鮮製の短距離弾道弾「KN23」使用か ウクライナのエネルギー施設攻撃",
+      "title_zh": "北朝鮮製の短距離弾道弾「KN23」使用か ウクライナのエネルギー施設攻撃",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RdHF5MHNGOUVtT1VmdnFPRWstZzlvYWFlb0hEOXl6d185NHhoejdwTDY4QzBGSUc3a2ptazJZb0pfUFN1VkFxRDdWcUtUYmROVWQzMUZaNnk1dEE4NEVQUzJYSUlRdnlVOE5ZYUJjWUQwb3U3SWc?oc=5",
+      "source": "産経ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-07T15:19:25+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "北朝鮮製の短距離弾道弾「KN23」使用か ウクライナのエネルギー施設攻撃    産経ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "産経ニュース"
+      ],
+      "all_titles": {
+        "ja": "北朝鮮製の短距離弾道弾「KN23」使用か ウクライナのエネルギー施設攻撃"
+      }
+    },
+    {
       "title_original": "混乱する中東とエネルギー秩序の新常態【日英字幕付き】",
       "title_zh": "混乱する中東とエネルギー秩序の新常態【日英字幕付き】",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zWnpxbV9nYTFNYndvNlBnSVEzT09TWC1OUDdNSGdjc0s2TWk0OEZhRlpKUGlOc3VMNnpWaHp4UklndEg4alJ1VWJtaGZ4aUxYT3k1SFNQRXFMRU5LeXdWNzFmckxib3liTXp5QkJMTVd1aVRQZXhB?oc=5",
@@ -126,6 +876,31 @@
       ],
       "all_titles": {
         "ja": "混乱する中東とエネルギー秩序の新常態【日英字幕付き】"
+      }
+    },
+    {
+      "title_original": "埼玉の鯉平、中東に「ノンアル」かば焼き UAEの富裕層から販路拡大",
+      "title_zh": "埼玉の鯉平、中東に「ノンアル」かば焼き UAEの富裕層から販路拡大",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzcjJBajFENkU2UjhQUmdTMlFSQk1wcnEyZDZLQTlUMmFwUlA5clpKRDNZeXBSNWRMRV9OY251MDNoZVBPeVpqZjYtU0tqc2EyNkM3VzZKMTBwaDg3QWJQd0RnV2V6djh0c3VJcA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-07T15:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "埼玉の鯉平、中東に「ノンアル」かば焼き UAEの富裕層から販路拡大    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "埼玉の鯉平、中東に「ノンアル」かば焼き UAEの富裕層から販路拡大"
       }
     },
     {
