@@ -1,0 +1,882 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-08T17:02:30.038777+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Collision of two trains in Egypt kills at least four",
+      "title_zh": "Collision of two trains in Egypt kills at least four",
+      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-08T16:38:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "President orders prompt investigation after one train derails in collision in al-Ayyat about 30 miles from Cairo At least four people were killed and almost 90 others were injured when two trains collided on Sunday south of the Egyptian capital, Cairo, authorities have said.",
+        "The crash occurred in al-Ayyat district in Giza province, about 30 miles south of Cairo, when a train travelling to the south-western Fayoum province crashed into the rear of a train heading to the southern province of Aswan, according to the transportation ministry.",
+        "It said one of the trains derailed."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Collision of two trains in Egypt kills at least four"
+      }
+    },
+    {
+      "title_original": "الأمطار تحوّل مخيمات النزوح في غزة إلى برك من الوحل، و350 ألف متضرر يواجهون البرد والعراء وسط تحذيرات من كارثة إنسانية متفاقمة",
+      "title_zh": "الأمطار تحوّل مخيمات النزوح في غزة إلى برك من الوحل، و350 ألف متضرر يواجهون البرد والعراء وسط تحذيرات من كارثة إنسانية متفاقمة",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VZU1tU2V6dFBMUnJmcWpUUzhBV2RUbEJWdlFlZjg3NGdBTjMxSjk3dmFvcHBnSXZkMjVOMkMxd3dYRkl1cDMxY0x3Z2VicXkxQUh2NFhTdmg4dWxUWlB5eWZTblZtODA0dklF?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-08T16:35:20+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "الأمطار تحوّل مخيمات النزوح في غزة إلى برك من الوحل، و350 ألف متضرر يواجهون البرد والعراء وسط تحذيرات من كارثة إنسانية متفاقمة    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "الأمطار تحوّل مخيمات النزوح في غزة إلى برك من الوحل، و350 ألف متضرر يواجهون البرد والعراء وسط تحذيرات من كارثة إنسانية متفاقمة"
+      }
+    },
+    {
+      "title_original": "Le contexte géopolitique tendu pousse les marines à choisir des navires militaires plus gros et mieux armés",
+      "title_zh": "Le contexte géopolitique tendu pousse les marines à choisir des navires militaires plus gros et mieux armés",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQQU9nak13R2I4bTk2YW4zSjVpV3R6ZE5RelRreEhVYVJJeWk2Ym1zQjhhbDcwVVZvR0JtWWlQYVg2MUVGVzQyQjdOT0E2WWJqZDVXekxFa2Z3cTBVYi0wU0JsakMwcVhMWFRkTGRUcnpKY3VCMnl0OGFBVllISDRNZHFha1RHbjU2R3BWZjNRamJkbUo0MURRMVM4NC1RWk0xYXNvQW55bzVLaDB5cG9TRTBaTmJpN3NmdWxLaGc2bTRlT3FpLW41Rk4xUVluMFBTdnNmczhLTWc4ZkdtX09mVW91bEJzVkJpSmNkalR1RWVzWXlOWHNkWF96Ym4tQ1R6aC1pUjIwenpnUXVvSjRuSVFn?oc=5",
+      "source": "Le marin",
+      "source_score": 40,
+      "published_at": "2026-11-08T16:31:02+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Le contexte géopolitique tendu pousse les marines à choisir des navires militaires plus gros et mieux armés    Le marin",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Le marin"
+      ],
+      "all_titles": {
+        "fr": "Le contexte géopolitique tendu pousse les marines à choisir des navires militaires plus gros et mieux armés"
+      }
+    },
+    {
+      "title_original": "تعيينات وزارة الخارجية السورية تكسر التقاليد الدبلوماسية",
+      "title_zh": "تعيينات وزارة الخارجية السورية تكسر التقاليد الدبلوماسية",
+      "url": "https://news.google.com/rss/articles/CBMingVBVV95cUxNRXVoTlN3UUlVUDBTM3hZMHlLdkJyRmd3WVZmSVlKWkE4dTN2QVlWQ05fU0NTMXRQbU5ZdTFXdXc1UHp4SG9tb0xDUWNNR1dOTGJObWduQlI3a1h6SjZSUWtXZDd6TXYyT3RseWt5UWxfUDFFWGxYb1JJSGxaZVVPeUxaazR2dGZCMTJ0M3UxN3RKd3VCNHVtV2FTT1lmRHVWTWVkUWo5amFOVVc3ZmV1V1pZWF9IUHRBLTR2MlJFTmZIOWhkUlJRNlVvZmpfT3h6bzhGMVJyYUZqUzFic3NjcWlvX3dTY0NidWxnSWZhaEtCS091MDJrWHYzX3RQV3AzWFlTQXV3Y05feERCNWNlejZVeVoydTVOVjExM19aeWd0UDg5MjlXdGJFekxqZ3NuVVRHQXpaUjMzMHhHdmYtcklQYmJOUklRaV8wZld6U2J4dHBnRXJob0tkY0hzMFFYZm9EMkY5VG5OWl9nR3JuYmE4alNGYjJfS3BfSnRjQmdYaXNCeVZFa25obDZGUUtTcU5SQUh2MDU2a1I0QnMtYXRwNGpwcXpNa3Y4SVNaYU1BWENLUHJpNzVvelNNc2lscjZDbmUySGUtaEhnVnhVaV9pWmdPVkJsWklldWh1cTh3dS00T29GRmowTUhKUnRBZnhfV0FVWUQyMTNQRWdQTmFKQXdhVW94Q2hBQ0hLbTFaM20xMDNxTWdSMHd3TmJEenlfSG1KS1lmVm9ZcGN2a2ZhQUhZMUJGMW5rOWZIUS1iTEFTOEhuTmxXTXRILWxqZi1Sc1hScDAzUGZ0b0RVOEo1amVBcVlYTHBjenlpelhzYk9odTRPa2FLZ3p0c0RDNndheDNEVTN0RmZqX0E1MEVpMW96ejV4OGhubHJR?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-08T15:51:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تعيينات وزارة الخارجية السورية تكسر التقاليد الدبلوماسية    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "تعيينات وزارة الخارجية السورية تكسر التقاليد الدبلوماسية"
+      }
+    },
+    {
+      "title_original": "Israël : Gadi Eisenkot pousse Benyamin Netanyahou vers la sortie",
+      "title_zh": "Israël : Gadi Eisenkot pousse Benyamin Netanyahou vers la sortie",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZEVZWmh4cHh5bnJhamZLdldtTkQwcmh5NjdtbUVqb1lRYnJjLVNKLXBEaEgzREI4eXY4d29ENWRxQUsyUUZpbGx5dVFYMWlaWmUxY0RFTGVoSDhuOU42NjNiZ3pxOWtwUGx4cFJGRnk5b1NKaGVXMlBZaGNqYXItSUU3X1J6czJKM2RHQ0hJUmlCbkRld2JleHBReTVMcnpOMDd3bUV0Q1F2Njl2R1M5V3NBbS1mRWR1Q1ZaQTRB?oc=5",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-11-08T15:50:06+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Israël : Gadi Eisenkot pousse Benyamin Netanyahou vers la sortie    Les Echos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "Israël : Gadi Eisenkot pousse Benyamin Netanyahou vers la sortie"
+      }
+    },
+    {
+      "title_original": "シングルス2勝でウクライナに勝った日本が大会初優勝に3度目の王手、決勝の相手は第1シードのチェコ [U16ビリージーンキングカップジュニア・ファイナルズ]（テニスマガジンONLINE）",
+      "title_zh": "シングルス2勝でウクライナに勝った日本が大会初優勝に3度目の王手、決勝の相手は第1シードのチェコ [U16ビリージーンキングカップジュニア・ファイナルズ]（テニスマガジンONLINE）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aazlRdE1hWktVdFhmSE5yXzhYb0dQMGoxQUpXenNRSUlxMUlfcTZsdmlwZ2Y4YkU5MmVGQ09zYnBGWEFUc3M1U01FaTgtQWhRN2F1UlZ5UkZxcjdCQlhuelZfc2dFS3JEWXdsVGs3UHdWcDQtS1hKeGtRaE1uZEU?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-08T15:49:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "シングルス2勝でウクライナに勝った日本が大会初優勝に3度目の王手、決勝の相手は第1シードのチェコ [U16ビリージーンキングカップジュニア・ファイナルズ]（テニスマガジンONLINE）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "シングルス2勝でウクライナに勝った日本が大会初優勝に3度目の王手、決勝の相手は第1シードのチェコ [U16ビリージーンキングカップジュニア・ファイナルズ]（テニスマガジンONLINE）"
+      }
+    },
+    {
+      "title_original": "How Hinojosa’s win in Texas could bite Beshear",
+      "title_zh": "How Hinojosa’s win in Texas could bite Beshear",
+      "url": "https://www.politico.com/news/2026/11/08/texas-hinojosa-beshear-2028-01155434",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-08T10:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Latino operatives for months pressured Andy Beshear and the Democratic Governors Association to back Gina Hinojosa.",
+        "Now her win is blowing back on them.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "How Hinojosa’s win in Texas could bite Beshear"
+      }
+    },
+    {
+      "title_original": "Democratic thrashing redraws the map of state power",
+      "title_zh": "Democratic thrashing redraws the map of state power",
+      "url": "https://www.politico.com/news/2026/11/08/democratic-thrashing-redraws-the-map-of-state-power-01154607",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-08T10:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Dems picked up more than 500 seats (and counting) and flipped at least 12 legislative chambers.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Democratic thrashing redraws the map of state power"
+      }
+    },
+    {
+      "title_original": "“台湾人民共产党”主席遭逮捕",
+      "title_zh": "“台湾人民共产党”主席遭逮捕",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc2xvaGNkVkVlaDdXUjRHMWZpc1dIbVJwMmk3TEN5WkdzY3Jxd25wOWRqdGFJYWRFRXJ2dUpNV0xiUDJSaGlNcDJuTTA1ZEJPNnRrblZ0ZkJMOTdWZGE5U3lBMGVSWDNYV3JiVlhZSEJMUE1OaDNqSmpXbHBFVVc2Qnl1RXJVOW5xMnBxalhiOVM1ZDFkc2NRbFNJVDJIbEg3Qzg5dnM1aFA3aXlVWFFWV25MdUhnOVQ4TGd5NE5OU1JhMzZEVkM0eHNQckpmX3NqOHhvNFNYTWjSAdgBQVVfeXFMTUdCNkppTlpka2UwTTVzVlF4ZzZmTFdaVGV0QzJia0l6QkNjMjVTMWxTUGo5QjI1ODNaZng4d2g0RzRQZ2hHTkhST0VjUVlLSUNEc2VMT2J4S3U1dkpWUzhSajlYOG1tT21fMk5YZU1Cc00xNElIakxMNEFGZGk2OHJOVk9oNGFSWlYtRTE5MzRKeW91Q3pwODZjWi1vOEtwMmNFZnEzcEUyUk5MY0kzMEVDWVJRUFZjbFBkYThVV3o2dEViZkZtZGdrcGZXbTRUeGVjSkIxVlNO?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-08T14:42:05+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "“台湾人民共产党”主席遭逮捕    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "zh": "“台湾人民共产党”主席遭逮捕"
+      }
+    },
+    {
+      "title_original": "«تجمع الساحل والصحراء» يبحث تعزيز حضوره بمواجهة الإرهاب والهجرة غير النظامية",
+      "title_zh": "«تجمع الساحل والصحراء» يبحث تعزيز حضوره بمواجهة الإرهاب والهجرة غير النظامية",
+      "url": "https://news.google.com/rss/articles/CBMisAVBVV95cUxOdWlVQlJDMHJfZFIwaVpLRTlvVlFnZ0t5bm1jajVydGwxSmlFN01iRmRvQnREaHAtbGxMNTFsUWdWTTJzbHZVMGFjc2l5ekMwemNSckZ3ZUJ2c2ZtTEkwV0JzUXFXWHZGRDVINkstLUNpdC1oR29mcm1mZy1VQ3pqTmRyUmoySmd5SHg1c3g2N19LNXpPTnM3T2VEZWVoQ3Axd01ZeEFIX1J4OUJYdG9uaWpGckxkZU9GYkNaRGUtdG8zLVA1RkhiTlNxWkRydWJPajRLaDd5R1Mtdk5MMEE4aTBZS0NmOHBGTVhOM0l6SXJKRTdPNUlNS1Z4OUNRSDBfeXlWaUg1a29tdHgtNktNRnROQjBxVW5UcDFMSklscjVVRTl5M1g2SU9ieDQ3Y2hxcFZhQlBTeVoxTE9fUUt3R3I4dmhTX0dzbGdQR25aRTlUdGNFNUVZYklET0hDbmNMSTVpaEY3SGlLbGpMTHItaEhWLXd2bUNkM19JX0NoczhwaktvdlVfYUtkMkI1X29CN2gyREFsVVUzdU1pTjU4ZkhpaVRJZG16Yjd2UjlSTTRORE14R2JaTFZoMjZQMEt1Zlp0QkFGOTdhYWp5ZFhWWEdzZVRCT2JmcUtXU2g0S25NQW80eHFDVUJqaHNpUWdVeDlSb1RzS0x3bEJSUG1ROWM3NHplbzVvVmo2bGhiT2xLaTdKV3VXZHBEZzNyQ0N0eFRhM0dlMDVLQ0ZGTEJ5R0dTMDB0M3ZqREItcTBiUGRkYnRMZndMSWM3THdxTUppOHhIOHYtYXZ2TjdEelBkUVdZakppcUw2ZWY3M0ttQWVOV083aDA2Y242SktWNk5zZEN3aTI3Y2lfaTlDQUt1SE5YNE9rbGJDUnFUZFg3cEVhYmNtMVFGaDlRdEFrb0Nt?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-08T13:58:14+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "«تجمع الساحل والصحراء» يبحث تعزيز حضوره بمواجهة الإرهاب والهجرة غير النظامية    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«تجمع الساحل والصحراء» يبحث تعزيز حضوره بمواجهة الإرهاب والهجرة غير النظامية"
+      }
+    },
+    {
+      "title_original": "ウクライナのエネルギー施設へ攻撃続く 60万人電力受けられず",
+      "title_zh": "ウクライナのエネルギー施設へ攻撃続く 60万人電力受けられず",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PakR3V2dWd1pLVHBRekhuUWxpSUdDNGdWNThDeWpLRW1TRGg5MzdlRTRFUTh4Y0I3R3lCbEdyNUM4U3J2R0l3Mjl3M2U1bTgxbnhKejY3a0JBVmRiVENJ?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-08T13:28:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナのエネルギー施設へ攻撃続く 60万人電力受けられず    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナのエネルギー施設へ攻撃続く 60万人電力受けられず"
+      }
+    },
+    {
+      "title_original": "Melania Trump vermittelt im Ukraine-Krieg: Ihr Einsatz wirft die Nobelpreis-Frage auf",
+      "title_zh": "Melania Trump vermittelt im Ukraine-Krieg: Ihr Einsatz wirft die Nobelpreis-Frage auf",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRlJ5aTFmZXBXZ0NHSmpuZ24xYXhrRUZ2MGVUdW9NSjIyNFhESzg3ODFDc3NIVjhOUmhMUEI4emV0ZEtjX2dvaHZIRW9tSFRIWHJrZEtGM1J0QVBjLURTakxpclBVbnd2WjFqRUVVWDJjcHBfODlMeE9wT2VlLTBWR2RuMFdMNGhhb1F4WExjSURUZDNZakRqV0poZ2V4TGJPNGEwYzJXa3QxY3c?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-11-08T13:16:34+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Melania Trump vermittelt im Ukraine-Krieg: Ihr Einsatz wirft die Nobelpreis-Frage auf    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Melania Trump vermittelt im Ukraine-Krieg: Ihr Einsatz wirft die Nobelpreis-Frage auf"
+      }
+    },
+    {
+      "title_original": "Arabia Saudí intercepta misiles tras daños a un edificio de Aramco y otras noticias de Oriente Medio",
+      "title_zh": "Arabia Saudí intercepta misiles tras daños a un edificio de Aramco y otras noticias de Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTGx1b29IM3BKRW5XSVM2V29nZXc1TVF2U0FXYmtIb24wQVJvSWNqUzJHbTdKdUpmUDZNUnJiNkFzN25rME1sbFJKNXktV1gyQ0YydWxVc1o0UF9BU05McHBOU2RvT2xvYUplY3ZzbkpIb0RkdUZNbktHNjRQUG1ITC15SmdzTEc1NDB6MEh3ZGVIajFRSUtfbQ?oc=5",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-11-08T12:57:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Arabia Saudí intercepta misiles tras daños a un edificio de Aramco y otras noticias de Oriente Medio    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "es": "Arabia Saudí intercepta misiles tras daños a un edificio de Aramco y otras noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "توقيف رئيس باراغواي المعزول بعد تجميد ودائع نصف سكان البلاد",
+      "title_zh": "توقيف رئيس باراغواي المعزول بعد تجميد ودائع نصف سكان البلاد",
+      "url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxNU2M0T1hZRVIxS2duRlNwYi1ETFd1SnZRUlhSVlNBbU9SOUs3NEc4N0JfaHg0aTZQZVhNVFhNQUVXWEZaWk9MUVU0dkNxMms0Umh2RzRuaW13T3l0MU9CcWRIZURDNEpEMXEzRGhwa3BJWjVGdVhpbjB0RVZIX2RPUUVYaldOdno3QVNtTnhSOXVxa3RBemlkVXVoZU5XcDRBbTdWTVQyUTZudTcyTGlIcGdFdlg5dmotQVVxcktZYkNGaFp4dnZoOU85OGRFMnotUUJQb2Fpc0RXSm1EaWx2UUQyT3c5TldsU0VTWFdxTDYyNnZoT3U4YXRycFl4aHVCaFA1SFNRUThYWEFGNS11SW5IcVNmOTU4R2NPOXpPLXZrOGdJNkNuNXg1NF83dElXU1R4dW05Q2NIam94T3Bqb0ViLVlMRVV4ZmZUcEhzdTlJNzlYdm41NE1DeDd1VDI3VEo3a2hMUEVGWjBVcEFZRDRrVVFUNUh0aGFqbm5fcERHa3JGLW8wbjZyTWlhLWtzNWhPRGJISmxMZFFWankzLVgxWWdaZTJMYlQzWWhreU5HUWlhcEJEdzViNFpPQlhkRi1Lano1MVBydFgzeGZzX1oxWjFNb0N4YXNuMURZY2pVV0c3UUNIUnhsZHVPemhuYzdSR3B3enN1Ql9yVVEzbTVpSnZhZlByTGhLc2cyY0FDcE9NLWs5UmIwTFVlWUY5aXRVSW1TOVFQZU11N1llUUNReUU2R0p4OVpzb1pHanVMbnJpV3FPaFoyRlRLemVCTVRUOWlSNkdPTExqakZrU2tzVVI4MGJScFZIUmJpVmZaMW14UkxybTVuMWgzSzA4RXoxTEgyT3Y?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-08T12:52:36+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "توقيف رئيس باراغواي المعزول بعد تجميد ودائع نصف سكان البلاد    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "توقيف رئيس باراغواي المعزول بعد تجميد ودائع نصف سكان البلاد"
+      }
+    },
+    {
+      "title_original": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+      "title_zh": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3k2UlNRSWl0LVdfSFFVR2NNOFlpSGVsWWRiS05JelN6M09NYy1GRFp1V2R6RjZaaWRfV2g0R0xkS2JrSlJCMF9LNHJ3aW5XdGdYWm9kVno5NUFKQS15VnJVRUVKdzU3MEtlQ3NZOHd0T01NR0tXalNUd0ZUVDVZRmJBNmpSWDllSWJsVk1TMUdZc3VtS2RtVkNBTERyeDVZUjk4ODhGM0hlWnlMQzRXbzBZS2dQQdIBuwFBVV95cUxQQkNrd3QxaE9kSV9USXh5bkNjNDdHUTZHZmhUYnU0NXVlY3gwTWxwVEppU2tFSWpidURIQ1MtVFdPYlhhd2lub1FSUUR6bVNJWVB4VmQxNUJQODRzU2dURk5XejU1N2FRaXlJSVRGOENKMHdpZFE0SWo4T2RjTU9IVzNvZUJ6OXRkSzJtVmJOczhRNk1NUElLcHJKR3hBZ1JobWl2OFNXcC1PbE5tU3VlQmxZSFcwZ0h2b0s0?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-08T12:27:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian strikes on Ukraine leave hundreds of thousands without electricity    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russian strikes on Ukraine leave hundreds of thousands without electricity"
+      }
+    },
+    {
+      "title_original": "فرنسا والاتحاد الأوروبي يؤكدان مشاركتهما في مفاوضات أبوظبي بشأن حرب أوكرانيا",
+      "title_zh": "فرنسا والاتحاد الأوروبي يؤكدان مشاركتهما في مفاوضات أبوظبي بشأن حرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxQWXlnWGVXMG1EU0k0YWFLWlA1UFptc2JSckQ3YXlQWDJ3VnFKdDVxVnEzWVByRlZMeUhZaGtFMFBhM3BxTmJuVnI0cjF2TkhrTjdHNG1yWEFDVE9UYm9yM1BxYUE4UUZSeHNqWGxaRHNyM0t2TTdUQkIwZURidmsySS1PaDVvcEZpY2tSMlpKOFBhRGtRR0puT2c2b3YwLTBEd0gwS3M1QnREWUotRHd5QXBCMHhJZnVoRmhsOHNYMEpOa0JJS0dHZmhHejczSFNmTFlfY2NMWXpYSi16S2lET19aRkUxYTVvdVdlNzA5VFlrVEUyVGY4b0lhVHZ1VDRCV1VVUWdUVjc2UG5HWkhGdkl5ZklOTWoxemhwY3hRb0NtZEhBSllFTFB2bTJVbjlqbXlnVnZ3R2RMYkZIN3NobVdQNjQwbkRuWFNjWEJyZWdELXdUVFpzREFhdDRQUjcxa2Nmak12UkFaUnRTcWxMdnpsS1lYNDBaT1VEejNZQXQtVkRST0ZEZVpSY1VNR0JfMlhxZnZ2VEJEN1N6T1hrRHRpcW1sT29Edmp6TTc0ZkY4bjhYYjNKU0dvTWljR2pPREdRcUdjUWlHWjl6eGVkbzQ2cFcyVUd1MUR2Wm53aEdOcS1Ub2V4VUlXdmpya3RLU29mZlBHWWtFX05ncjJ0RmFRNTJoQXNNYWVmMlJhbE5welBGdnRxNGRneDB5d0ZmdkJ6dGVzTURCYW9hSFpzcjlaWk9zVUVLcGhjVk5JYndsYkNBQlhNdGg1dGdYZDNYa3BNc3N5M2JZYkxCRTdZclBuNG9hTklNVm83ZGRyaWVVbFMxYU16NXhsVmF5V2M?oc=5",
+      "source": "annahar.com",
+      "source_score": 40,
+      "published_at": "2026-11-08T12:01:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "فرنسا والاتحاد الأوروبي يؤكدان مشاركتهما في مفاوضات أبوظبي بشأن حرب أوكرانيا    annahar.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "annahar.com"
+      ],
+      "all_titles": {
+        "ar": "فرنسا والاتحاد الأوروبي يؤكدان مشاركتهما في مفاوضات أبوظبي بشأن حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+      "title_zh": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+      "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-08T12:00:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives African philosophies including exploring how lessons from the past can shape the present and near future have inspired a film festival coming to Manchester.",
+        "See My World , a day dedicated to independent creators from across the African diaspora in the north of England, will take place at the Contact theatre on 21 November.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "How African philosophies inspired a new approach to staging film festivals in Manchester"
+      }
+    },
+    {
+      "title_original": "ロシア、ウクライナで軍事通信にラースヴェット衛星を使用",
+      "title_zh": "ロシア、ウクライナで軍事通信にラースヴェット衛星を使用",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkdFOGRkUEFTelZNRzVETWJSeWIyWTVPMW42OWdYWW03aHd2RFg1MTN0RTRwTk9zVVRsRlJwVmxMcFQ1ZW1GRV9NNGM5ZVhyUkMydkVoVC1wbjYtcU5Nc214RDM1eGtwdU95ZjBsWnpKOEFlZTQ3WnFLT0ozdHpxSDFwd283cWdBNEd6bnAweDlodTdhdEI4ZWFEb3lFRmFqeG5oTER4Nm5VQ0hkdU9CY3NXUQ?oc=5",
+      "source": "IDNFinancials",
+      "source_score": 40,
+      "published_at": "2026-11-08T12:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア、ウクライナで軍事通信にラースヴェット衛星を使用    IDNFinancials",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "IDNFinancials"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナで軍事通信にラースヴェット衛星を使用"
+      }
+    },
+    {
+      "title_original": "【今週の注目トピック(3)】話題のテーマ『ウクライナ・米国・ロシア、エネルギー施設攻撃停止を協議へ』など(フィスコ)",
+      "title_zh": "【今週の注目トピック(3)】話題のテーマ『ウクライナ・米国・ロシア、エネルギー施設攻撃停止を協議へ』など(フィスコ)",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTURhbTBvQmRwR2NpYV9oUTRNVU1PUzFleTdhTGNRNTdMZVlZWXhLb0xGdXRCbTd2djJHY1ZhTkxXYk14SkQydUdjbjZWM08yVVNiXzRieGo5MkNCTnRrcTR2Q05CcVBfZW9pVTRieEtjVnFqazcwWEFGRmFJb3czVmtyd1BrTDg?oc=5",
+      "source": "Yahoo!ファイナンス",
+      "source_score": 40,
+      "published_at": "2026-11-08T10:36:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【今週の注目トピック(3)】話題のテーマ『ウクライナ・米国・ロシア、エネルギー施設攻撃停止を協議へ』など(フィスコ)    Yahoo!ファイナンス",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Yahoo!ファイナンス"
+      ],
+      "all_titles": {
+        "ja": "【今週の注目トピック(3)】話題のテーマ『ウクライナ・米国・ロシア、エネルギー施設攻撃停止を協議へ』など(フィスコ)"
+      }
+    },
+    {
+      "title_original": "من يحمي العالم من الكيان الإسرائيلي؟- الأخبار الشرق الأوسط - وکالة تسنیم الدولیة للأنباء",
+      "title_zh": "من يحمي العالم من الكيان الإسرائيلي؟- الأخبار الشرق الأوسط - وکالة تسنیم الدولیة للأنباء",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOamFuZVM3U3puR0pLVEhCUGJqS2dTY2ZaUzVNN3lCNEJXSkN1Y0tpV2thSDUxWGFSS3V5Q1lwVVVOZk0tdFUxUGx6ajMwSGRxR3ZZSEUwN01qMlRGV0p3Tlc4anhIZHhhTjRwQW9CMDQyOTNrUlVJb05CZnl0SG1aUm82cFVnZ19QcmJXdUdyUDBkbTZ1bUtOaFR1c2oyTWMxU1h0elMxenBua1FiTUp4SWpPbFpuX01SbkZNMDEybWpXTUR3elNrZE5rSU8taGcyd1F2UDF5NEZmX2sta2JURDEwdDU0THNVclV4X1VWSTRpZG5SbEM2SDNOZGpuanFRaDZ1S2JaWUc4bjM3aWNwMTBRdnlza29sbEZUcHR0Q09rNEF5UjlEUEkxYi0xLXowNi1iWHpySFFYMllTYmptVnU2QnJ6WEtWRVYtRUI4d1NKWlREcEM1NFdn?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-11-08T10:34:46+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "من يحمي العالم من الكيان الإسرائيلي؟- الأخبار الشرق الأوسط - وکالة تسنیم الدولیة للأنباء    تسنیم",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "من يحمي العالم من الكيان الإسرائيلي؟- الأخبار الشرق الأوسط - وکالة تسنیم الدولیة للأنباء"
+      }
+    },
+    {
+      "title_original": "أول أطلس للتنظيم الجيني في الشرق الأوسط.. ما الأهمية العلمية؟",
+      "title_zh": "أول أطلس للتنظيم الجيني في الشرق الأوسط.. ما الأهمية العلمية؟",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNdV8yblE2eWtTQ2xNMnFLMnIxbWxsc0gtUXVyRDhZdldVWm9zSDVncXN2ZHVrOEFqcDZyendQUW1aU2lweTRJQnJjb1BTLTZxbGJuZUZKMW9RQk1CVUk2dVZBWlhRYTFTYmx2bE9NZmxXUUR5emo3TGRici1XNWhKSElWUHN2S3JWOUxlZmttTUF1UUtYMjNUWTBfeEk2TGZNcFZ6XzBmWDFtZU1ZOXdIM2hhWXRPWnkxY3VNSFFicVpKeWhodkZRb3ZwYVRQazcyRGUzdHFrQnNqU1pkTW9VLWZ2anVnYjhsb0xrdDlkZ2NNV3pKTjdxaHpvRnZIYUJMMnRrOHctNjNjQ19iU3I5cjBOVm5PSG9VQUEwd1VzYmVMZ0ZGeVkzcEZDVWFuNkoyem9fb0Fn?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-11-08T10:31:57+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "أول أطلس للتنظيم الجيني في الشرق الأوسط..",
+        "ما الأهمية العلمية؟    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "أول أطلس للتنظيم الجيني في الشرق الأوسط.. ما الأهمية العلمية؟"
+      }
+    },
+    {
+      "title_original": "Así votarán el 29-N los militares españoles desplegados en misiones internacionales o embarcados en buques de la Armada",
+      "title_zh": "Así votarán el 29-N los militares españoles desplegados en misiones internacionales o embarcados en buques de la Armada",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWlpiVTZCbVdoeUtFcDVlNGtsWVhwUWpjYzExYW5YMGdOM1pHN3ctSXBGdHRvRVdmNXBuNW1MSkJTaHdxR196YlEwSnRuYzZEX0xGMHY2YkpDek9FeHVQNWdUMGhSQjlMc0Q3UTMyTmdkSUw3T1h4V25oaXJRdGR5d2JXWDJLclpRYVI3NHBPWEJTU21nNEV6U21hekw4b3BCVUNHMEd2d2txYmdTVXY1Wm82ZDFLdzlOUU1kX3dhdERmUXQ2ZGpXOExNSjJDdjVHUS1OWVdLWFdrdDRrZWNZU2I0SFVYZkcxYzJqOS0wN3VKZU8y0gGPAkFVX3lxTE8ySDJxd0Qyc3VmaVdsd05IYUV4RlVsQTZkcTV6QmRFWVQwOHhwUURlN2txM3JtaUFWcjE4Tm9PRU5fTHN3MXZCSExwa3hMMnE2alBFTU1wVnpyQ1ZKWnlSdDZOR3lsLTJ0V0Q1RlhNNHNwdVlMWDhHdUhIVTlGeGMzTUx4UldzdWw3bGx4Y1dUUjFOUWRUUHF6SkxjcDFaX3lmWDg2TmU2ei1yTkttTld6WEdYcGdHckRPYmFQZ0F4cFZUd2U4em9OdHFONE1BNTZuQlloaVFTZkVSWDZNOXd2a2xnQXM1SnBGaGJEVTlzck5NZlZVZlZSdTJPcVBISUYzOURzUEQ0Y1IzLUxJeWM?oc=5",
+      "source": "Infobae",
+      "source_score": 40,
+      "published_at": "2026-11-08T10:30:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Así votarán el 29-N los militares españoles desplegados en misiones internacionales o embarcados en buques de la Armada    Infobae",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Infobae"
+      ],
+      "all_titles": {
+        "es": "Así votarán el 29-N los militares españoles desplegados en misiones internacionales o embarcados en buques de la Armada"
+      }
+    },
+    {
+      "title_original": "Siemens Aktie: ST Engineering holt sie nach Taiwan",
+      "title_zh": "Siemens Aktie: ST Engineering holt sie nach Taiwan",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT2tOeEcyM1dGekVKcENfbl9YcGpXeWZSaXJfS0tYMGFJcWJpNFR6a2FhNkFyQUpiaV9ncEp0MEdLam5iVi05SHVQbHRHa0xVMWtTSDhoTDN6bEhwT2lHSFVxMFFZWE45VVViendZbVRBLXlwejJTNVdNdXZPbWNaN3ktS19sdEx2TTRWbXRtMkNTWW5JbWRoRExtSkR2b1BKODlR?oc=5",
+      "source": "Börse Express",
+      "source_score": 40,
+      "published_at": "2026-11-08T09:34:09+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Siemens Aktie: ST Engineering holt sie nach Taiwan    Börse Express",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Börse Express"
+      ],
+      "all_titles": {
+        "de": "Siemens Aktie: ST Engineering holt sie nach Taiwan"
+      }
+    },
+    {
+      "title_original": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+      "title_zh": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+      "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-08T09:00:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’ Trees are being planted in the garden.",
+        "The brightly coloured buildings are getting another coat of paint.",
+        "The choir rehearses."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei"
+      }
+    },
+    {
+      "title_original": "Taiwán detiene a un líder comunista por presunto patrocinio chino en elecciones",
+      "title_zh": "Taiwán detiene a un líder comunista por presunto patrocinio chino en elecciones",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmNrVzR6aGo2TkZQR1NXdHdDMmtHZ1N4SjdJbW96QkZkQU9FMG5iTU1nZWMtOHlrWm9sUDFlUGJRdlBycGN4Z1VmWUZVVVhfUkkwVzhvX3gzV205X2tPT1FKSVRXRmEzVW5pTTF6M3NvY1RYOHV2cU5FWTFmQmZ2QkdtTnpXM3ZMak1NcmlFZzlvVlY4MXlKT0JFWDRWbXViRk05LTgwWXVLckxkdk54dkJONFBlb3pqWGJJ?oc=5",
+      "source": "DiarioBitcoin",
+      "source_score": 40,
+      "published_at": "2026-11-08T08:59:12+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Taiwán detiene a un líder comunista por presunto patrocinio chino en elecciones    DiarioBitcoin",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "DiarioBitcoin"
+      ],
+      "all_titles": {
+        "es": "Taiwán detiene a un líder comunista por presunto patrocinio chino en elecciones"
+      }
+    },
+    {
+      "title_original": "Wahlprogramm der Linkspartei: Frankreich: Mélenchon fordert Nato-Austritt",
+      "title_zh": "Wahlprogramm der Linkspartei: Frankreich: Mélenchon fordert Nato-Austritt",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGE2bXB3MDBfa0tucHc4aVlNRlJmVHZyVi1nSnNfb2ZqWGc2NjJFZndWMHl2QTFXY3Bxa2MzX1dWeExIVXFONGh3T2Y2Wl8xTGo4THZFSDN0WExTUzBHYVFJeVdXSGk0TklSelZqQUplRTRPME9lcTFETEZ6dTJUVW5JUkpzcnlpazRnZ0N1cFlVVy1acFNpX0Y5dm50aWhwSk1GdkZ3?oc=5",
+      "source": "ZDFheute",
+      "source_score": 40,
+      "published_at": "2026-11-08T08:58:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Wahlprogramm der Linkspartei: Frankreich: Mélenchon fordert Nato-Austritt    ZDFheute",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "ZDFheute"
+      ],
+      "all_titles": {
+        "de": "Wahlprogramm der Linkspartei: Frankreich: Mélenchon fordert Nato-Austritt"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（11月8日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（11月8日の動き）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IUFJldEFqLTh0RnhmNFQ3X3V4Z0s4eVBDS1NPTDZsT2VPUUV2eHFoWU00TF9ROE96aGNmNTU1NlczdHlyamVRdW52Y2NPSDJMXzlKMmJicWdzSG9IR2xJ?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-08T08:09:18+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（11月8日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（11月8日の動き）"
+      }
+    },
+    {
+      "title_original": "Trump's son-in-law Kushner seeks to revive NATO-Russia Council model as part of efforts to end war",
+      "title_zh": "Trump's son-in-law Kushner seeks to revive NATO-Russia Council model as part of efforts to end war",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNWVFVR1JlOFlQYWxBWjJnZ053ZXB5UjNNZUt0dTl6YVo2THd3RkVvVmNRbGNickR3RmNsUlpXQmoyUWtFcE96QkRlUnlpak0ycHVGa1RWSEtVd0lTWklLcWMxOTLSAXBBVV95cUxQM0pyWDhaMXNiWGtYMlNSMjZqNk9iZEJpQzM0dTFva09ZdlFiOUd4VnA2UnM3SnU0RC0wNkhNNFpFSmY1djUxQVpzNHZOQTNjOHYyUWpLTDBIckNZaE5rY2dLNlpXbjlaSGp0VkRDTmpE?oc=5",
+      "source": "Українська правда",
+      "source_score": 40,
+      "published_at": "2026-11-08T07:32:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump's son-in-law Kushner seeks to revive NATO-Russia Council model as part of efforts to end war    Українська правда",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Українська правда"
+      ],
+      "all_titles": {
+        "en": "Trump's son-in-law Kushner seeks to revive NATO-Russia Council model as part of efforts to end war"
+      }
+    },
+    {
+      "title_original": "„All diese Attacken haben nicht dazu geführt, dass die Russen sich zurückziehen“",
+      "title_zh": "„All diese Attacken haben nicht dazu geführt, dass die Russen sich zurückziehen“",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUXRUbnZsTXRGMmw4QjMxWlhZYTFoMEJGZ1A1RzdPY0RFMVlFTExLbE9OMTREV2gzYkQ1bDE3OHRJSDNETjBJODZ6Q285LXU5aWNXZklQaDUyV1RXZmQ2S1doNUFORnpnb0lzalBrYTlQXzNBaFFWLTl2bEUxTzlxNk44OHNOWHE0WU16Tm9UYlZKaUw0NmZ4SUJ1ZWwxR20tX0NHTXdrLWNtLWMtNXRZckx3SUw5YUxqczVmSWJ6WmJEck5reTdSMEFIRFB3dWUzN0xUWHVsSXBMUWhMT2xLcUcwVFhUNERHdE1XVXlLUnJab1BrOGZn?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-11-08T07:20:03+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "„All diese Attacken haben nicht dazu geführt, dass die Russen sich zurückziehen“    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„All diese Attacken haben nicht dazu geführt, dass die Russen sich zurückziehen“"
+      }
+    },
+    {
+      "title_original": "Bei Kiew fällt ein Objekt vom Himmel – kurz darauf filmt die Dashcam einen Feuerball",
+      "title_zh": "Bei Kiew fällt ein Objekt vom Himmel – kurz darauf filmt die Dashcam einen Feuerball",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmktSmlfMEpQTGhQaE1wS2xqeHBGeUUycEhaWGJHbTdwZHNXakdNbEJkOGo4SWNseXNoY0psaENDdjI1Xy1pai03bDlHZllIQnJ1RUtQUk9STG84am1FRDdjYmRsU1VuYXlTekQ0WVo0U25zRHhXd3NGb3ZGcFE5Z0JnbGRUWWk4SzU5YlNHZXQ0NmlNeFgzQmMza1NYbVJCVklZOFBNWFJhR0RvOUoxMDZuRndwSkR5MFNjZ0JJdkhXaGhGbFU4NmV6VXlYM2RRdGMtTGpn?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-11-08T07:14:23+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Bei Kiew fällt ein Objekt vom Himmel – kurz darauf filmt die Dashcam einen Feuerball    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Bei Kiew fällt ein Objekt vom Himmel – kurz darauf filmt die Dashcam einen Feuerball"
+      }
+    },
+    {
+      "title_original": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+      "title_zh": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+      "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-08T07:00:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Farmers face big drop in production from extreme weather during this year’s super El Niño event Banana producers in Latin America are calling for better pay to help cope with the impact of the climate crisis, as they face big drops in production resulting from extreme weather during this year’s super El Niño event.",
+        "High winds in parts of Colombia, one of the biggest suppliers to the UK market where droughts are predicted in some regions this year, and heavy rainfall in Peru and Ecuador are already affecting production, according to the Fairtrade Foundation ethical trade body.",
+        "In the Dominican Republic, farmers are expected to face drought conditions, with forecasts of drier and warmer than usual conditions."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Banana producers in Latin America want better pay to cope with effects of climate crisis"
+      }
+    },
+    {
+      "title_original": "Géopolitique - Balkans : la fin des stabilocrates?",
+      "title_zh": "Géopolitique - Balkans : la fin des stabilocrates?",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXVLeHN0aDRtLWJ5UkFmYXRsNFExbzNSdGQzaU1vT3U5OEJpTVFqeVpMRWFzRjlLRHFWZnR4dmlqNndoNkJnZGtudGt1QjBOTjdIV0EwNlBpMzdsRFZUX19wMWtid29MQWdFOEw5U3VtM2tsRnVaSGZYNlQzTHRrTF9Rb3AtR3ExbXZXTF9VVjFOQ3Rn?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-11-08T06:00:54+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Géopolitique - Balkans : la fin des stabilocrates?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Géopolitique - Balkans : la fin des stabilocrates?"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : comment le Qatar espère faire rouvrir le détroit d'Ormuz grâce à cette proposition entre les États-Unis et l'Iran",
+      "title_zh": "Guerre au Moyen-Orient : comment le Qatar espère faire rouvrir le détroit d'Ormuz grâce à cette proposition entre les États-Unis et l'Iran",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQelFUVHlzUUpjQXNxUHNJeW52amFvNU9uZjJRVTEyNUtWdDRXbGpSMkNuaXR5Ti1vQ3JqOVpsaU8wT2V2TmlZbmljYXJ2TWpyZzg3azNtMnpFdzFDY19sd01Bb2N4WFJjTXp5a2NTZHBtS1hCcEVsbmtQdXhSaTFweHl2UlhOWjRiZGl1YlFnY0V0Mm5nNF9qenQ3OWFKMFRqckZSMjUwVDJ2c0RXM3RvajdpTzRiQnPSAbwBQVVfeXFMT2tHUWVsLW5uWU80ZDgwRVA4cTkxMldKWWtaLWJadDlxSUU1eFNGd0V6SktYTzk3UXdnVVJrMHFCV0pkajNjeXhBWjZvNTl4SVNleW1JQW1LWEd0MG1oTE9VWlRDaUV5Wk1PbG4wNUNRMHhIandYcDNzdXBZc3RXOWF0LU5MV3B3ZWRXMnMxdG00UmIzRTFSN3NUVWJmVFlicmFLTTUzanVoTjluWVJzRGhaRnJxX0xOcng4SHk?oc=5",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-11-08T05:24:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : comment le Qatar espère faire rouvrir le détroit d'Ormuz grâce à cette proposition entre les États-Unis et l'Iran    CNews",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : comment le Qatar espère faire rouvrir le détroit d'Ormuz grâce à cette proposition entre les États-Unis et l'Iran"
+      }
+    },
+    {
+      "title_original": "库什纳提议以北约—俄罗斯理事会为范本，恢复欧洲与俄罗斯之间的对话。",
+      "title_zh": "库什纳提议以北约—俄罗斯理事会为范本，恢复欧洲与俄罗斯之间的对话。",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yWFEzUm90SHlIYl80bEVGaWxjRUJUd2cxT2Rud2JqNkhMbS1kNkUzYWlqTVplRVpmUlJVV1Z5SFRDTFgwaTQ2b0VhS3lTVFhobzdRbU05UXU2NDZZSzRiaFBQX2paZkRFR2hTQWVBOTNQVHI0aHR2cG5n?oc=5",
+      "source": "Mezha.net",
+      "source_score": 40,
+      "published_at": "2026-11-08T05:05:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "库什纳提议以北约—俄罗斯理事会为范本，恢复欧洲与俄罗斯之间的对话。",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Mezha.net"
+      ],
+      "all_titles": {
+        "zh": "库什纳提议以北约—俄罗斯理事会为范本，恢复欧洲与俄罗斯之间的对话。"
+      }
+    },
+    {
+      "title_original": "La OTAN activa un catálogo de 16 sistemas antidrón para acelerar su compra sin nuevos concursos",
+      "title_zh": "La OTAN activa un catálogo de 16 sistemas antidrón para acelerar su compra sin nuevos concursos",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUTZjeGdSZzlfT2U0clh6cTJTVmRYWW1ORlY5NVV0M3IycGp3ZHl6RHpMdFZGYkVRdEEwdFhEdXhZMzhJX3ZGZmswdjdhTXEzUVh2NENISDdKTE1Vb1JCNGJlQkxaX1M1b0FrYkVQdjZLTUNVSXh4azIwUWl4ZGs2c2FsTmFqZzVKTWQzb2RDS3VCTUNFMEhPMVUtcVkzcmRkWGNBSzdGQzJXbU1qS2ppdmV0UzhjOGRJaWRKYW90RDVJdWZKSExMd2hKaGRNZw?oc=5",
+      "source": "Infodefensa",
+      "source_score": 40,
+      "published_at": "2026-11-08T05:02:31+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "La OTAN activa un catálogo de 16 sistemas antidrón para acelerar su compra sin nuevos concursos    Infodefensa",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Infodefensa"
+      ],
+      "all_titles": {
+        "es": "La OTAN activa un catálogo de 16 sistemas antidrón para acelerar su compra sin nuevos concursos"
+      }
+    }
+  ]
+}
