@@ -1,8 +1,658 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-08T17:02:30.038777+00:00",
-  "count": 35,
+  "generated_at": "2026-11-09T02:38:32.327451+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title_original": "データセンターが軍事標的に ロシア・中東の事例が示すクラウドの備え",
+      "title_zh": "データセンターが軍事標的に ロシア・中東の事例が示すクラウドの備え",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yclJOMTdVMTE3ZVA0QlVUemRxNmM3VUpnZm9HclZPNGNrVDloZjZzeUgzLU03ZFF4b08yVWljdnNsaC1RbFpXb2xXQ1ZOdWVRVk9NcUVQTUprTHJlY1pJR2hCamVKNlpIeWpJUmFPNVpmWTY0LXkw?oc=5",
+      "source": "クラウド Watch",
+      "source_score": 40,
+      "published_at": "2026-11-09T02:20:14+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "データセンターが軍事標的に ロシア・中東の事例が示すクラウドの備え    クラウド Watch",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "クラウド Watch"
+      ],
+      "all_titles": {
+        "ja": "データセンターが軍事標的に ロシア・中東の事例が示すクラウドの備え"
+      }
+    },
+    {
+      "title_original": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "title_zh": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-09T02:11:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Pontiff tells Argentina’s president the economy must benefit all on second stop of 12-day Latin America tour Pope Leo XIV has delivered a stinging critique of Argentine president Javier Milei’s harsh austerity measures, insisting growth must benefit all in a speech met with rapturous applause in Buenos Aires.",
+        "“The economy must be at the service of the people, rather than people being at the service of the economy,” he said on Sunday, shortly after landing in Argentina on the second leg of a Latin America tour.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
+      "title_zh": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbnYxU1hlQ2Vib01aVVJuZzdydnd1d2ozanJlbklReFpISkNJeG1zZFRSMkN4d3dwcU5EMktnLVdzOENRaDRHUjFwWm5vYS1pWWQ5OTF1NDZMM3gydm9YMVJ4Y2dxYUxoU0N0S2ZTZmw4eG5aSFR1TDdzSHhtSEJhT0FCelc0OFc4YnBmbEVhSmVRRVU5WjMzc25HX0VZaWRwWUx5WExHTW84VXNNYWpZcXdFSWVSY0VxYmdUZEl0aW1lRkhiZmRubUdvM2hJdHphdmttcWgwN0FZbFVWbmZF?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-09T01:44:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Trump verkündet baldiges Kriegsende und stellt Ukraine auf Gebietsabtretungen ein",
+      "title_zh": "Ukraine-Krieg: Trump verkündet baldiges Kriegsende und stellt Ukraine auf Gebietsabtretungen ein",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOekFXanQtdFBKLVVuRHhfSzhkZE5FMmhINnFLYkFOS1dHaU1La3dHRUFqOGd3NDEzVVg5WU9CRlB0bV9TRVpxRGZSZ2M5NFVQTUZNQ2Yyd29TTjFlOUE4ZTQtRVlESUhIR2x2ejZRY0RNYjZCaFA2MWFpY05tX09wUDJHNkNBQnJCcmlPSXFsUHlpRndldFlHelFQV082Q2k1Yno4NXhxdDB4Nk5ITUFReDQtNkVielVwd0lxTjJHVEhtMV93YXlkaVVSQTh1b2RpSVNLTzdpYXREZjZldFk0bzh0NFpEaXprYWJISEtjOFZYYWNSZWlUZmdvR1dJUQ?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-11-09T01:30:15+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Trump verkündet baldiges Kriegsende und stellt Ukraine auf Gebietsabtretungen ein    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Trump verkündet baldiges Kriegsende und stellt Ukraine auf Gebietsabtretungen ein"
+      }
+    },
+    {
+      "title_original": "Ukraine-News: Verbündete beginnen Militärmanöver – Kreml zürnt",
+      "title_zh": "Ukraine-News: Verbündete beginnen Militärmanöver – Kreml zürnt",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS19BVE9Kc3B3NDVuYl8xeVFsdXhfdUZEdVRCQy1JQ0FYeU15WUFXWTNPMEZCZzR0c2NuWTVHeGtyZXphRkx0cmFkcjN1N3c3YWxaTHhZek1qRHd5NExTNmhpaXRkX1A4Mkg2b3RvUDZwMmxsXzVvN2N0bnNET1pZR3M1d3hfdW90dUlRV19oR3ZvdUFTMXZuUFYxTEI5Yk15ckNWX09LVTZOTHlaTTQ2VExqT21qb255RU93ZzdMc2ZVYVU?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-11-09T01:18:11+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-News: Verbündete beginnen Militärmanöver – Kreml zürnt    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Ukraine-News: Verbündete beginnen Militärmanöver – Kreml zürnt"
+      }
+    },
+    {
+      "title_original": "🇺🇸🇺🇦 Trump thinks the Ukraine war could END soon, but Ukraine might not look the same on the map. “They're going to end up with a little bit different shape Ukraine.” He's openly suggesting a peace deal could involve territorial changes. The big question is",
+      "title_zh": "🇺🇸🇺🇦 Trump thinks the Ukraine war could END soon, but Ukraine might not look the same on the map. “They're going to end up with a little bit different shape Ukraine.” He's openly suggesting a peace deal could involve territorial changes. The big question is",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11SW0xekg2aUhyenJfaGFYRTZxTWZrUEp2UDRoQThzUHlLRGdWc3p5Mld5ODcyODZ0T2VsbzYtOXo1akRpZkpPdXBIc2w0bXdXUE1qWWx5SGV0NjgyV0ZIMlQyVFRWdERXNDVDZQ?oc=5",
+      "source": "X",
+      "source_score": 95,
+      "published_at": "2026-11-09T00:48:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "🇺🇸🇺🇦 Trump thinks the Ukraine war could END soon, but Ukraine might not look the same on the map.",
+        "“They're going to end up with a little bit different shape Ukraine.” He's openly suggesting a peace deal could involve territorial changes.",
+        "The big question is    X"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "X"
+      ],
+      "all_titles": {
+        "en": "🇺🇸🇺🇦 Trump thinks the Ukraine war could END soon, but Ukraine might not look the same on the map. “They're going to end up with a little bit different shape Ukraine.” He's openly suggesting a peace deal could involve territorial changes. The big question is"
+      }
+    },
+    {
+      "title_original": "中国观察：共和党失两院 中美关系转趋恶化？",
+      "title_zh": "中国观察：共和党失两院 中美关系转趋恶化？",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNMTQ3RXFqTFZ1R1pJX0hJN2ItcEtfS2M0UkZ1dmRrQlo1am5JN1JsM3gwUER5ZVVOQ0ZoQlJqbWNzZzFVQ1lzclZEeDcyVjhlQXM4TlQ4MVVvNm9lbFE5VDhRX1hUN3h2TkN1Rm1mZlBwRVFjZjRMWlgzSmpLelBQem1HWFhibHVlc2NucW92N29NdndqdGoyTVBFdl9pYi1BWk1pUGNZUW9CRnN2S2NHalg3TUpCMGczVk53cDd5MmctUERoMkh0ckRQb1JHbFVrOU85dlJTMjhJaVpreUNEVldSOGNuMHFEZTN6SldsR3M0c2RHbm94a3dvN3hTdXpFTDFtdUJUVDFuUHppOWZVRW5EX0VMU1MxaUMxTV9NQ1RTa01wMGJFVHBsaDBjc0k0a1E1VllraUUxc0g0UEVVR3N1SQ?oc=5",
+      "source": "星島頭條",
+      "source_score": 40,
+      "published_at": "2026-11-09T00:30:35+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国观察：共和党失两院 中美关系转趋恶化？",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "星島頭條"
+      ],
+      "all_titles": {
+        "zh": "中国观察：共和党失两院 中美关系转趋恶化？"
+      }
+    },
+    {
+      "title_original": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "title_zh": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-09T00:25:28+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort”.",
+        "The New York Times reported in ​October that Donald Trump had been briefed last year on intelligence that Huang ‌had a close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence"
+      }
+    },
+    {
+      "title_original": "الخسائر الروسية في حرب أوكرانيا ـ ماذا تكشف البيانات المسربة عن القدرة العسكرية لموسكو؟",
+      "title_zh": "الخسائر الروسية في حرب أوكرانيا ـ ماذا تكشف البيانات المسربة عن القدرة العسكرية لموسكو؟",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNS2lxbDlhWG5pOWI5S08zdkxZMVpsYVFVNjNzZTFxWkpkLVRyal9jSHQ1cVhTY3VRZWdtby12bEpSMWczeEpkRXRNYWR2am13ZS1saFFwc0lYODE3aUdpQ3NPVFAtWGxmcHBCcFNfLWktQzlvMDdFUS1EU0xxcko2Smw4WDl5TnlpRXpfcDRlU0JtZFU4ZElyQ0FjZDRMNjZ3aGgzRnFwN1p2TTc4WWpLQjR5WUpQQXJSaG1VbGZuM21TcndVNUI1YklZOHk4RllGVmFLTGJnVjhwa09MRjB3QTRSdXNMTGMzNDJnWEtLNzlaX0I2cE53VG1aZEgtMG9zNThjUmF3OVBjdVRSLWNab1U2MU1qSFVWZHlubXIyWDl0VTVLeGxXOXJHZmhkcXFSaW9waEhwbFhQVzBqRlZLRUxNcTRaSnBSWVhn?oc=5",
+      "source": "المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات",
+      "source_score": 40,
+      "published_at": "2026-11-09T00:03:03+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "الخسائر الروسية في حرب أوكرانيا ـ ماذا تكشف البيانات المسربة عن القدرة العسكرية لموسكو؟    المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات"
+      ],
+      "all_titles": {
+        "ar": "الخسائر الروسية في حرب أوكرانيا ـ ماذا تكشف البيانات المسربة عن القدرة العسكرية لموسكو؟"
+      }
+    },
+    {
+      "title_original": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "title_zh": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-08T23:34:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says\n- Published\nOne of two surgeons who treated victims on the streets in the aftermath of a mass shooting in Krakow, Poland said his colleague \"undoubtedly\" saved the life of a gravely injured police officer.",
+        "The pair were eating near the city's Main Market Square on Saturday when a gunman began firing at random, killing six people and injuring 15.",
+        "The doctors raced to treat both the attacker and two officers shot while subduing the perpetrator."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says"
+      }
+    },
+    {
+      "title_original": "«جائزة قطر للموتو جي بي»: بيتسيكي يفوز بالسباق... ويؤجّل تتويج ماركيز بلقب العالم",
+      "title_zh": "«جائزة قطر للموتو جي بي»: بيتسيكي يفوز بالسباق... ويؤجّل تتويج ماركيز بلقب العالم",
+      "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxQZllaS0x0QVY4Q3JpbThQYmRLNVpsQkFJRzlGNTdUc0R0aGNzVTU0RlpMQW1lSDJ0UDFWaGhxaktHQlBvWG5ieHFTbkdDbm9UX3Nud29Cb3NOdzA0Y1k1SXBNS0MxMWhzMHV0SEFFZDRST0ZHVVgxemV0S3A2X0tmaEwzM3hETUlrWkxtVGgxU3EtZ2VOR3hPWlB0QnNBSXU2YjQyUDhkdC13emQ1TW1tNXRSTXp4YTlWYVlCZ0Z3cmctb3I5eHl2RXd3cWJmUzJKRDRiWTB3d0phNklvTmxyaWp6VnU0RE9tZXhMTi1wUU1jR2wxUWdCb3RXbE1iN1N4WnRBZ3FIS0tTOVRBNW5ORjR1RzZPRUl5cWtVbnZGa3h5MEotMTVqbDZDQUZIV2g5WlpEYjAxTWd6Q2JsNVF4ZW5zc3VkbzhsUlNmT1dQNENZakg3NXZwWHZJUTBMZmJiYWVuNEJtLTZWRlMyN3JlbTRoRTB0dTlvNEdNdkpLQ0ljOXljVGZ1N1VCTVBWV3N3VkpESVEzem15aXlFdjBRdTloYXVaS1RiYi1RbkljM0hxXzlWNVhnc1FfRHpzbmc3Yzd1Z0Rua29EMkFSazkzb3RLaFhPeEEtaGNHRFJ2cFdCZllrMXEtQzFOUy16QTF2YWlrM0hUTF9uUXFqY2RURmJwdW5RNzRqUXVSQnI2aC1lWHJDWEJtcXVib3lwT2tuN2VvdmhyVmxKMmNIT1k2UXExTTczZGpwYkloWHYzOEhpUFZnOVFrU2NFX2dER1Rzbk8xYVBWdHI5ZDRVQmFnTXNzd2ZiV2NBdWFzY2xXUV85QnVfTmxrSDhMU1gtcExhMi13UFZGTjdIRThabE1sbGN3bTdtaEVQNnpzVDJCZHdrMmJOSFVVYllldw?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-08T23:19:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "«جائزة قطر للموتو جي بي»: بيتسيكي يفوز بالسباق...",
+        "ويؤجّل تتويج ماركيز بلقب العالم    الشرق الأوسط",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«جائزة قطر للموتو جي بي»: بيتسيكي يفوز بالسباق... ويؤجّل تتويج ماركيز بلقب العالم"
+      }
+    },
+    {
+      "title_original": "ウクライナ協議、欧州も参加と仏外相 10日にアブダビで開催",
+      "title_zh": "ウクライナ協議、欧州も参加と仏外相 10日にアブダビで開催",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUHh4a0ZZY0cwdGRfcFZ6a2tQSDFjQm9pdjY0eEp2VVNRem1FVHdWRjV2bngzLXMzTU10R1plaGpZM2E2cENGTG1BZVBZOXJRcUtIdndRS3Bub09GazhlNnB2QjdmNXNjS1lpV3VqV3A2YmVsX3U0TjVwMV9pdG5jV0FiZ0ZZdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-08T23:18:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ協議、欧州も参加と仏外相 10日にアブダビで開催    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ協議、欧州も参加と仏外相 10日にアブダビで開催"
+      }
+    },
+    {
+      "title_original": "「欧州も参加する」と仏外相 米露ウクライナのアブダビ実務者協議に人員派遣を表明",
+      "title_zh": "「欧州も参加する」と仏外相 米露ウクライナのアブダビ実務者協議に人員派遣を表明",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmxMSUNJTUJRNzNvQmc2YUJlVWc5SmE0QmkwRXRid0ZjdXR5MWhNQS1Tc1hwU3hfQTc2bWwtTml0Tjh4RUVTSm9KRDFmaFJPRWtGRlZDekVMc3lYcThMaXdORjNBbDFvaVVHeHEyaVcyNzl6bmJrMGxBelBXajNJbGRMUzlSajVES0diQg?oc=5",
+      "source": "産経ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-08T22:24:18+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "「欧州も参加する」と仏外相 米露ウクライナのアブダビ実務者協議に人員派遣を表明    産経ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "産経ニュース"
+      ],
+      "all_titles": {
+        "ja": "「欧州も参加する」と仏外相 米露ウクライナのアブダビ実務者協議に人員派遣を表明"
+      }
+    },
+    {
+      "title_original": "«مصفاة الذهب السعودية» تحصل على 10 رخص للتنقيب عن الذهب في تنزانيا",
+      "title_zh": "«مصفاة الذهب السعودية» تحصل على 10 رخص للتنقيب عن الذهب في تنزانيا",
+      "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxPTzhtTy1BUDl3SkZKdTRxU2VSYWlIQ2I4dVk2SXgzLVc4WFZpeVB0VHpqSC1SblZOUGdfWnllNDZpNkVsQ0Rnd2JpZ1RxWTNkbmhkR1BYX3ZtcUY2SDVjcS1Vb1FBVXVpMnFEUHF5bHFWdndBNHFRVzVtcTNDZS1XWkdHeHFJRmU0aXROWUpJeVJqcmRUQTJXa2RidWw3dFJLaFMxbmNNTkxSMkxkTkNLOXV1aDMzTmJEdVp6cXBsQk5JT3FFd1FENG9oNHdXWFc3OTdHY3lLTFRPM21HbjZYbnlJbVVEMWl6QXlsVmJOTzN2WFFaVXB3QktUdE1nQ09hLXFCOUN1cUUxakNsS09VYUZPemtUQVpjV090MDN6THJfQmZDN2tDYUtOakcwMU1Sb1c2amhlaXQxNVI5eWpuX0N1S1FRS3BfUFhLWHB2dHV4NkRRelFJWm9namdLZ0JmTHZpOUNYc0JCVWlPbjNMdnhaYnZ4TFBucVR0ek5vRVBzMk9rMEZDd281dW1VdWY0cm01T0Vod2dZck04NTdJN1ZCSFVHTDRIYUdVNGJUaTdIRXhFM0hDQzFOMTEwRHVjYWJ5eld3RkZlSmNoUXZjNjFkdVNJUjQ0Z290SVJ4am1TRm4zektYVzNkYy1rcDdoNVFBajlOZHNQVnJ1UnJFaTB0SmJGRW1qbmtBWFl3dTlDT2t5bXhrTnJxVnJTcVJqY1NCbVAtZzJZUDA?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-08T22:22:41+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "«مصفاة الذهب السعودية» تحصل على 10 رخص للتنقيب عن الذهب في تنزانيا    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«مصفاة الذهب السعودية» تحصل على 10 رخص للتنقيب عن الذهب في تنزانيا"
+      }
+    },
+    {
+      "title_original": "«تريندز» يُطلق 7 كتب أصيلة ومترجمة تستشرف مستقبل الشرق الأوسط وتُضيء على هندسة القوة الوطنية والتخطيط الإستراتيجي",
+      "title_zh": "«تريندز» يُطلق 7 كتب أصيلة ومترجمة تستشرف مستقبل الشرق الأوسط وتُضيء على هندسة القوة الوطنية والتخطيط الإستراتيجي",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82T1FSY201NWdld25NY1ZNQktUZExISXdYaVNmbHdHWmtrYkd1bzNSYVBacjZhOHg2V2trbTRRdmpPRGo2S09r?oc=5",
+      "source": "alwatannewspaper.ae",
+      "source_score": 40,
+      "published_at": "2026-11-08T22:21:11+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "«تريندز» يُطلق 7 كتب أصيلة ومترجمة تستشرف مستقبل الشرق الأوسط وتُضيء على هندسة القوة الوطنية والتخطيط الإستراتيجي    alwatannewspaper.ae",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "alwatannewspaper.ae"
+      ],
+      "all_titles": {
+        "ar": "«تريندز» يُطلق 7 كتب أصيلة ومترجمة تستشرف مستقبل الشرق الأوسط وتُضيء على هندسة القوة الوطنية والتخطيط الإستراتيجي"
+      }
+    },
+    {
+      "title_original": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "title_zh": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-08T21:37:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes\n- Published\nThe Aramco Tower, a skyscraper in the Saudi Arabian capital's central financial district, had been hit by an air attack.",
+        "A statement issued via the Houthi-controlled Saba news agency confirmed the group had targeted Riyadh's business zone on Saturday, without mentioning the Aramco Tower by name.",
+        "The Saudi energy ministry said the tower had suffered only \"minor damage\" and no one had been killed or injured."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes"
+      }
+    },
+    {
+      "title_original": "Gaza: des pluies torrentielles inondent les camps de déplacés, 70 000 personnes affectées",
+      "title_zh": "Gaza: des pluies torrentielles inondent les camps de déplacés, 70 000 personnes affectées",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZDZYMEwxZm1uTkF2NG96aXVQQm5Qel8zY2w0VENnUFp2d1ZJV0k3QTduVlZpRDNjN0lhMkRnSnJjakw0eVlJZzZMV0tfbEt3YV9uaDBrVlNNVEtYNkRoZGtrSFNORGlfRl9JRFlCZ0dYMmdWZGwtSWozRlA0dV83LUdabFB6bkxGWGVlSDhTV0tnWFRwaXZPRlRTQmVOZGdZR3VlSEtSc3NmZ0xtSFZYY3BGcy0zdFFKalRNYUJJU0h2Yzh5eElpSmkwTzl0d25kdFVfNXU4NTJ1cDhXRHZR?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-11-08T21:36:26+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Gaza: des pluies torrentielles inondent les camps de déplacés, 70 000 personnes affectées    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Gaza: des pluies torrentielles inondent les camps de déplacés, 70 000 personnes affectées"
+      }
+    },
+    {
+      "title_original": "Daten-Leak aus Moskau: Die wahre Zahl der russischen Kriegstoten schockiert",
+      "title_zh": "Daten-Leak aus Moskau: Die wahre Zahl der russischen Kriegstoten schockiert",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObGZsV3dvMVZKZTNMYXl3cXZONkJtYkktUWhvTUFOTTliLUlLTHdTZkk5dHY4cUdmTjBPQnFXZUo5Z2gxUTBkMXFoNVdibTBadlk5Z09HWGNraTZiRmhCZlhpVW5KQ012aERBME9qTVduSVZ1SEk2dTdXZ21uRXY4ajZGMFpQbkdxSTJDMG44VEhYZmhmN3FycDZVdVowTWV5YUFGZ28zdmxmS3hORUJMTkRB?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-11-08T20:54:39+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Daten-Leak aus Moskau: Die wahre Zahl der russischen Kriegstoten schockiert    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Daten-Leak aus Moskau: Die wahre Zahl der russischen Kriegstoten schockiert"
+      }
+    },
+    {
+      "title_original": "中東が先取る盟主なき時代、米国去り際の混迷 中国に触手",
+      "title_zh": "中東が先取る盟主なき時代、米国去り際の混迷 中国に触手",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtV2E1VzVoNW1lSjJCVWxoV2FySm5MaVFLTjFtR3ZhVURNTmYzZ1dpUjVlVm9wMmtZZVZUMEkzQWR6LVJLN2VlcHM4MGhiZWlWQzVPT2NYc2RFQ0h0QzlHeGEzbzZ6dFozbFJTMQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-08T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中東が先取る盟主なき時代、米国去り際の混迷 中国に触手    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "中東が先取る盟主なき時代、米国去り際の混迷 中国に触手"
+      }
+    },
+    {
+      "title_original": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "title_zh": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-08T19:58:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Seven dead and more than 100 injured after trains collide in Egypt\n- Published\nAt least seven people have died in a train crash near the Egyptian city of Giza, with more than 100 injured.",
+        "The country's railway authority said two trains travelling south from Giza and Cairo collided, causing several carriages to derail and fall down an embankment.",
+        "Images from the scene showed people looking inside overturned carriages for injured passengers as a massive emergency response was launched."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Seven dead and more than 100 injured after trains collide in Egypt"
+      }
+    },
+    {
+      "title_original": "Soll Russlands Drohnenangriffe auf die Ukraine präzisieren: Putin setzt auf „Rasswet“",
+      "title_zh": "Soll Russlands Drohnenangriffe auf die Ukraine präzisieren: Putin setzt auf „Rasswet“",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHZGczBuMVc1TUxqQU5WVkhZbnU1dnFNQ2p6S2NDUG9YMGhKaFNUYWVtZ2JSREs1UnJsOUQzdVBOUnJvdGNOeDl2aWVUZlVQYmFaSldORk9QTlR6NUxPLTRhM29Xd0o1R3JZY3NNSnB3VDJ4UnFHXzV3M2dxM3J3MzhHZXgxX0l3NzNNOTlQZjcxNUNsMEpuMkdocFZYSmthUWRQZ0VDS21jOUNPYndRWHB5RVhiTGlvWlJUcWdUYlNUOV95WGd2anE4b3ZfSWppU1E?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-11-08T19:43:20+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Soll Russlands Drohnenangriffe auf die Ukraine präzisieren: Putin setzt auf „Rasswet“    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Soll Russlands Drohnenangriffe auf die Ukraine präzisieren: Putin setzt auf „Rasswet“"
+      }
+    },
+    {
+      "title_original": "Moyen-Orient : Donald Trump juge « très improbable » une reprise de la guerre contre l’Iran à ce stade",
+      "title_zh": "Moyen-Orient : Donald Trump juge « très improbable » une reprise de la guerre contre l’Iran à ce stade",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS1NibU5KRGNnSHY4YWlkcnhPQ3hLUkJBdGNJb3JGUUFlbFpRVTVZY2lLQ1NOeHRiNkJwaUJTS192SElDRXh2OFBLMm9Ob0J0MkFuWWFOa2xnSkZQU1ZyRmQyd0tKNkd1MHdTZEoybTdxTnlCUXE0SEM2V2FfZ2RlOEo1Y05GSUxTd3AxcEFEY0N4emNnRHV5dm5WUGpKVmpsb3ZNZUdQNDJEb0xSeGlIQ1dER1BNYU1XX1pMRmVfR1hNR1JPdGQ1dk9BNHY1STJtM0tEU2VaZnZPYUh2M3k1Qw?oc=5",
+      "source": "Sud Ouest",
+      "source_score": 40,
+      "published_at": "2026-11-08T19:29:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Moyen-Orient : Donald Trump juge « très improbable » une reprise de la guerre contre l’Iran à ce stade    Sud Ouest",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Sud Ouest"
+      ],
+      "all_titles": {
+        "fr": "Moyen-Orient : Donald Trump juge « très improbable » une reprise de la guerre contre l’Iran à ce stade"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Ukraine greift russische Drohnen-Leitstellen an",
+      "title_zh": "Ukraine-Krieg: Ukraine greift russische Drohnen-Leitstellen an",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLWw3cXUyTjh3MGc4YW1FVkp4MjNXeTlOMXpUOUczV3Z3NmxUd0FTQWViSjZYMnFVRE1mLXd5OWdENzg2cGlpYzNIeFpLZ3MzRnNGMGRWZVBnT0R6ZVhXcHNaYnhBaC1xM01MWnhsZnowTzVJYVZpT0NIdkRubjhWeDY1N2tPWWNrN0xHaFVvRGtuX0UtQ1lVTGpmbUJ0MjlwQi1jZWc2cUdPUEFNSFU3LUhLMA?oc=5",
+      "source": "TAG24",
+      "source_score": 40,
+      "published_at": "2026-11-08T19:17:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Ukraine greift russische Drohnen-Leitstellen an    TAG24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "TAG24"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Ukraine greift russische Drohnen-Leitstellen an"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 23:52 Verletzte bei russischen Drohnenangriffen auf Krementschuk +++",
+      "title_zh": "Ukraine-Krieg im Liveticker: +++ 23:52 Verletzte bei russischen Drohnenangriffen auf Krementschuk +++",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcV96VUJsT0owNXJMRmoxYU9IbkFtU1BvZGxBVlV3RDZONGROa0JzS2hDd3AyTlB2UU0wQ2h1ZFNGQXQ1a0pJR0JWS0tqOFRtM290TGNZcTZtUHl1dW5QaGJrc1U5WHhSWVRmZ29OeGZkWnd4bkRuYTBJb19zajI1WFVFTmdidkNBSWpCTEhmV2VrZW14eUZQRkRMLWpVb0Jra0dfVnRXS241S3Ux?oc=5",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-11-08T19:15:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg im Liveticker: +++ 23:52 Verletzte bei russischen Drohnenangriffen auf Krementschuk +++    n-tv.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 23:52 Verletzte bei russischen Drohnenangriffen auf Krementschuk +++"
+      }
+    },
+    {
+      "title_original": "Attempts to find resolution for Israel’s new government and Ukraine’s war",
+      "title_zh": "Attempts to find resolution for Israel’s new government and Ukraine’s war",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmRmNzF1aWN3WHY1Y3g2SVZUc1lLYmhteFNUUkhiQjVydHVGNGZEME9MZVFzNE50MWRTWmNHT1VzU3IyamFGR3dVWU4xbnZlcUs1cWZiNjZyODBuZE1fOE9ieDc2SmpTQXlnVGdZeGVNVDlrb2ZQM1RPUDBmSDduZ1h5aTE?oc=5",
+      "source": "Financial Times",
+      "source_score": 75,
+      "published_at": "2026-11-08T18:15:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Attempts to find resolution for Israel’s new government and Ukraine’s war    Financial Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Financial Times"
+      ],
+      "all_titles": {
+        "en": "Attempts to find resolution for Israel’s new government and Ukraine’s war"
+      }
+    },
+    {
+      "title_original": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
+      "title_zh": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcXVsdWRhRmVQZnBUMFVob0dxNFJ1TUgybVN3WmJmeWlCeE5uTmw5TmU5T1pTWS1OczJrM2FGUFFNUFhvbEs3OXc2R1JmczBHVWYxZjZWQU1obDNfZDJqcHZ3Z2lnX3otMTVZQ1JnY2ZMV0ExRmVTVnVGQUJZeGxJNjA3VXh6cy1XU2c4Tm9JTkwtdmZaVm41dTBkUFJ6TWN6X1g5ZWl3bXduODlLc2tNSXhVUQ?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-11-08T17:04:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "en": "Rosstat hack: data obtained suggests over 390,000 Russian deaths in Ukraine war"
+      }
+    },
     {
       "title_original": "Collision of two trains in Egypt kills at least four",
       "title_zh": "Collision of two trains in Egypt kills at least four",
@@ -76,6 +726,56 @@
       ],
       "all_titles": {
         "fr": "Le contexte géopolitique tendu pousse les marines à choisir des navires militaires plus gros et mieux armés"
+      }
+    },
+    {
+      "title_original": "برنامج الشرق الأوسط 08.11.2026",
+      "title_zh": "برنامج الشرق الأوسط 08.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUklYcjVFQlZHRGp5dEkxWHR6WVBCZl96QmNiNmJqRG5zamtmN3FUeFpmTTRxdjhSYkxDRGV5NHlGNnpIUnZaUTMzS2xuMkVtUFMxQkl2a251b29qNHZRNG8ybFA5Ri1oMTFKbWdOUWF2UDNZN2NKQ0MyTWFBbmdfV05rV0FBYjFzVm95X2ppTGRaUUxxTGVVUm1LSzA3QzU0?oc=5",
+      "source": "Vatican News",
+      "source_score": 40,
+      "published_at": "2026-11-08T16:30:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "برنامج الشرق الأوسط 08.11.2026    Vatican News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Vatican News"
+      ],
+      "all_titles": {
+        "ar": "برنامج الشرق الأوسط 08.11.2026"
+      }
+    },
+    {
+      "title_original": "مصادر «الخارجية اللبنانية» لـ«الشرق الأوسط»: واشنطن اعتبرت القنصل شرارة شخصاً غير مرغوب فيه",
+      "title_zh": "مصادر «الخارجية اللبنانية» لـ«الشرق الأوسط»: واشنطن اعتبرت القنصل شرارة شخصاً غير مرغوب فيه",
+      "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxOb1phUmQ1NXhOUnZQVERLWGtiS2dnSnB6Tklqa2FQS1FZc3BJdTNMdkllZHI5S29zVHVWdHdnODVZQzN5cXdaWFVPUE02Mnp0NlZOa3JqbWlsclBSNk5CbzJ6QWlyNmZ4b0xLUWlYSFNENU4xX2hhdU1TU3ZNWnRRdHBMMXpzMDh1dXg1UVl0N0hNVGU4cHhlNFg2cjU2aHU5WWc4aEJ5cHlfUlJjVE9uUlg1VmFOZ3pmTG1MblJMQ0tuV295emo4T09manpBaEpIZkVMal92Mm8zUV9EMWMtZG1UUFFNZlRQdVNncVJOSVB3ODE0V0VNNHBVQ1BuRXRxRjdhUUotRDY5c0gwSkFkNHA2TnRnYnpzSExqaXdRQmhZSEwxVkNSVXlrcnlNOGxLcWRXYkJ3QXRLTnF5UHM4NnM3eGtPbzdZTWM0emtiMGNRTTNXbkhaQXF5VlA2Ulc1Ti03empkM2NhdHNYbnJKa216bFZlSWhXUkFscW9FYlVHYXU0V2Z3UHVmYWNJY25PLUVnR2Q4Z3ZkN0JIbmRqcFpEQy1MaTdoeGF4a1VFVFJ5QWtqUVpsYjRCUllGSnJkUE9yNUdzMVVvRk8xc01SNDlzbDNzYzJhSE0tOE16T2JKMXN6T2pQcDhCejZ5QVNORnJjLXJnajRCMmt6elJCU2FzSnZhck1VYjJoU2x3dDZFZjRBT3FsbG13UW40X21UUVNHNjFId200TDlrdUVQNnI2X3VrWnZUa3ZMazhYYXZuTDMzMnBHa3RSc29MeUhoTDVoMW5kdGFtWXJkVHFhV29BQ1hrZ1VEYm11OFFHM0VuTkl1cTlKWnZhakUzNHh3TUxVMlVSMTJhS01zdnVTcVg1bEdwNFo1djJrX2lhN0RIZWU2Uy02TVBTSFNpZEdKODFvcldxVQ?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-08T16:10:18+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "مصادر «الخارجية اللبنانية» لـ«الشرق الأوسط»: واشنطن اعتبرت القنصل شرارة شخصاً غير مرغوب فيه    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مصادر «الخارجية اللبنانية» لـ«الشرق الأوسط»: واشنطن اعتبرت القنصل شرارة شخصاً غير مرغوب فيه"
       }
     },
     {
@@ -201,6 +901,31 @@
       ],
       "all_titles": {
         "en": "Democratic thrashing redraws the map of state power"
+      }
+    },
+    {
+      "title_original": "Homes and temples glow across India to mark Diwali",
+      "title_zh": "Homes and temples glow across India to mark Diwali",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-08T14:42:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Homes and temples glow across India to mark Diwali\n- Published\nMillions across India are celebrating Diwali, the Hindu festival of lights, illuminating homes, temples, offices and streets with oil lamps and colourful lights to symbolise the triumph of light over darkness.",
+        "The festival falls on the darkest night of the Hindu lunar month of Kartik, when the moon is not visible in the sky.",
+        "Although Diwali traditions vary across India's regions and communities, the festival is widely marked by prayers, family gatherings, the exchange of sweets and the lighting of firecrackers."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Homes and temples glow across India to mark Diwali"
       }
     },
     {
