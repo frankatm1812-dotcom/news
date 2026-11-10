@@ -1,8 +1,483 @@
 {
   "date": "2026-11-10",
-  "generated_at": "2026-11-09T21:26:53.126650+00:00",
-  "count": 35,
+  "generated_at": "2026-11-10T04:37:03.299375+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title_original": "Trumps Dealmaker und Putins Spione: Wer verhandelt in Abu Dhabi über die Ukraine?",
+      "title_zh": "Trumps Dealmaker und Putins Spione: Wer verhandelt in Abu Dhabi über die Ukraine?",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWloVUI0Y0VvalQtM2FDMEdmOW9vRW5mbENpbDZOWlZ4WUd2WExRUmk0RGpPV0diWkE0MGkySVF2Zl9pN0hVNXoxT1dQX1oyaDNqZmZMZXZKWUlZUGtlSGY4TS15RXp6dUxxdTc3S1MxbXM2RzRZMmRIcGRmN1pJckEwTFQ1OXFKd1kxSjBIV0NjNjk0OFZsODZ1aVZWenVjYnRuRUpEdEQ5LXR3QjduTjRjdFJxeVlpUDlGclhNbFMzblk?oc=5",
+      "source": "NZZ",
+      "source_score": 40,
+      "published_at": "2026-11-10T04:30:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trumps Dealmaker und Putins Spione: Wer verhandelt in Abu Dhabi über die Ukraine?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "NZZ"
+      ],
+      "all_titles": {
+        "de": "Trumps Dealmaker und Putins Spione: Wer verhandelt in Abu Dhabi über die Ukraine?"
+      }
+    },
+    {
+      "title_original": "Trump says more US attacks on Iran 'highly unlikely'",
+      "title_zh": "Trump says more US attacks on Iran 'highly unlikely'",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T04:09:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Trump says more US attacks on Iran 'highly unlikely'\n- Published\nDonald Trump has said \"Iran militarily is effectively over\", and said that there is \"positive momentum\" behind negotiations to end the Middle East conflict.",
+        "\"We're just keeping it the status quo,\" the US president said on Monday.",
+        "\"And we're doing that really at the behest of countries that are their neighbours.\"\nAddressing reporters from the White House press briefing room, Trump said that renewed US attacks on Iran were \"highly unlikely\" but that the US was \"locked and loaded\" should the circumstances change."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump says more US attacks on Iran 'highly unlikely'"
+      }
+    },
+    {
+      "title_original": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "title_zh": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T03:58:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy\n- Published\nUS President Donald Trump has said the FBI is investigating the affair between the chief executive of Nvidia and an alleged Chinese spy.",
+        "Trump said he spoke to Jensen Huang on Monday following reports that the US believed he had been targeted in a Chinese espionage campaign.",
+        "\"I asked him that question, 'Did you have any idea she was a spy?' He said 'I had no idea she was a spy' and I really believe him,\" Trump told reporters."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Bundeskanzler Merz zeigt sich offen für direktes Gespräch mit Putin",
+      "title_zh": "Ukraine-Krieg: Bundeskanzler Merz zeigt sich offen für direktes Gespräch mit Putin",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnl1V0t6OXQ1aW9HdXVtelp0YllsOUtDeVowTGdmU05mNFNjYVdlTDRDS1pSeHphcm1lMWhqOEJkVXo4LVZuZXhFc3c0NnBpYjNFaWJfeExRMk01eE0wRGwzQy1zT3VJenloMlZiWi1nbEZvR2pHQ2RBN3JtYmVOcnRESmg4NzRPMTNLbzRRQ1NqeXlrVE9TZlAwWElRYnF4aTZQeENHY3VjQlM5ZlRlSQ?oc=5",
+      "source": "Die Weltwoche",
+      "source_score": 40,
+      "published_at": "2026-11-10T03:20:13+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Bundeskanzler Merz zeigt sich offen für direktes Gespräch mit Putin    Die Weltwoche",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Die Weltwoche"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Bundeskanzler Merz zeigt sich offen für direktes Gespräch mit Putin"
+      }
+    },
+    {
+      "title_original": "美国想调停台海局势？台海统一问题没有妥协空间",
+      "title_zh": "美国想调停台海局势？台海统一问题没有妥协空间",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3JMVFBpZGdJRURkTXIwS3o5ZDB2bU5LNmNQUHhwR2FGX0VCeE9Laldfc0E2eWtXWUtnWWZfTWF1dXdjeDhuVnZ0Mm5BX19oTUFmSDRTRkN5Q0hsOHVaVWR1V3BvLUxRY2p6WWsxUmUwMDM4S1Nwb0JLbmpCVWp1NTVyQkg5TVdIM1Jteg?oc=5",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-11-10T03:11:23+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "美国想调停台海局势？台海统一问题没有妥协空间    搜狐网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "美国想调停台海局势？台海统一问题没有妥协空间"
+      }
+    },
+    {
+      "title_original": "米・ロ・ウクライナの高官協議開始へ 和平へ進展あるか焦点",
+      "title_zh": "米・ロ・ウクライナの高官協議開始へ 和平へ進展あるか焦点",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95d1dlb09ReUc3elhLNjNuY3pwQ0twYzFHS19FTW9jLVNMYW9BRFZpQW5pRHJBQ2dkNVZDN0FSUTRiR1BfVWR4SHBSVC1qYklVNXdDUHA2NGlMMVJpTnNr?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-10T02:02:32+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米・ロ・ウクライナの高官協議開始へ 和平へ進展あるか焦点    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "米・ロ・ウクライナの高官協議開始へ 和平へ進展あるか焦点"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: battlefield gains bolstering Kyiv’s hand in US-led peace talks, Zelenskyy says",
+      "title_zh": "Ukraine war briefing: battlefield gains bolstering Kyiv’s hand in US-led peace talks, Zelenskyy says",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPT3dBNTBJTEJDc3dxblpYWTYzcUFuWXRRN29fU05wdnJYYm1nNndxTzlIWi0wMnBfay1xY1JRWVUtdm9PR2k0dzZUSm1tVzF5cng2RFJnVERiM3hjRmI1N1A2U3BYMUFDanpCdWNWLWoxaHVIMUhxZVM0QVFibk94S0hDMmVaR0ZkZkZ3RjNNaXFvSEdFLVZOc0tJWHZqOWFuQXBDNTQ1cWxRWjVtM2xWaUVOazk2Q1JzcG5NVFZyYVZKaFJNYWljaDg5TC04LVNVWWd5TTNTd3BWSE0?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-10T01:57:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: battlefield gains bolstering Kyiv’s hand in US-led peace talks, Zelenskyy says    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: battlefield gains bolstering Kyiv’s hand in US-led peace talks, Zelenskyy says"
+      }
+    },
+    {
+      "title_original": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "title_zh": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T01:55:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Qantas to outsource 850 local jobs with most roles moving to India\n- Published\nQantas will outsource 850 local corporate jobs to consulting giant Accenture with most roles moving to India as the airline fast-tracks AI investment.",
+        "In an internal email to staff on Tuesday, the Australian company's CEO Vanessa Hudson said \"this is hard news for some and I'm sorry for the uncertainty it brings\".",
+        "The job cuts will begin mid-2027, she said, and start with finance, procurement, people and marketing roles shifting \"mostly\" to teams in India and \"some in Australia\" as the firm seeks to modernise its IT systems."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Qantas to outsource 850 local jobs with most roles moving to India"
+      }
+    },
+    {
+      "title_original": "国际金价突然直线拉升 中东局势缓和推动",
+      "title_zh": "国际金价突然直线拉升 中东局势缓和推动",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03WUZRTlFaanJnMjMxaUlqRzNraVJxb05oVDZOX080UFduWEVGa0pXMGROUkFNZ3ZUbi1ERWlGekFZRlBJTE9rek1HTDluNVk3MHBmalJsTkVxazRucHNoaFVDLVo4Tkx4aUdvaTNMcGM?oc=5",
+      "source": "中华网",
+      "source_score": 40,
+      "published_at": "2026-11-10T01:34:43+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "国际金价突然直线拉升 中东局势缓和推动    中华网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "中华网"
+      ],
+      "all_titles": {
+        "zh": "国际金价突然直线拉升 中东局势缓和推动"
+      }
+    },
+    {
+      "title_original": "Court filing alleges Trump adviser received cash, luxury gifts from foreign interests",
+      "title_zh": "Court filing alleges Trump adviser received cash, luxury gifts from foreign interests",
+      "url": "https://www.politico.com/news/2026/11/09/lawsuit-alex-bruesewitz-foreign-entities-derek-utley-01157561",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-09T20:18:38-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The filing from Alex Bruesewitz’s ex-business partner Derek Utley is a response to an earlier lawsuit claiming Utley embezzled millions from their firm, X Strategies.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Court filing alleges Trump adviser received cash, luxury gifts from foreign interests"
+      }
+    },
+    {
+      "title_original": "ترامب يستبعد تجدد الحرب مع إيران.. والسعودية تعلن استهداف خط أنابيب نفطي",
+      "title_zh": "ترامب يستبعد تجدد الحرب مع إيران.. والسعودية تعلن استهداف خط أنابيب نفطي",
+      "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxPczVqTUs5d3FzYXA1TmZ2aV9RWU1ldS1BbEt1LVA1MXZkMFBtMGIzRm14V3BocDlESzZCOTJnMUo3ZnhTdVd5a1NRNmItYk5vSUx6TEoxUVZfckNuR0xGVnJ5YnYyRERiOHlaTUFtWWpQSWdVRHl5Z3lnV0QyR3JFbXg4SFNyc0k3T1d5SHFJY2dZbjhKME1hanJNeTVFNklzcThSUUU3Zjg0dmJvOUh5bVo2akxyZDFhYjVUNW04a2loa1NvMk9SSEMxRHBLTVQxX1BrZ21nOWt6aGZfa29VT1ZQMnh2b0tPVmZYY3dpbXU5Q1U5R2JwaUkyTkhMMWJPNDFzSk5JVjRiSUZxVnZhWEZrY2NHdFJzdzQzN25xVE5EbEwzZ3ZYb3pVZnE5NG4xWE9rSUpMYkIyQ1lYYjRyMWdfUW1PVVFJdl9lMXg2eE9tQTg1cy1WQmZSaHJ1MDNjdWlHN2toZ1BVbzljSGJCaXBWV2hPZWlDU3JaNkFzcU14TTdEYWgyZ3VOT0dVaDM4WlJOcm9ucjRDZk04WUI4VHJXaHk2Zk9XM1hVOXoyM2tXUXFWZnM4a19xZjRPMlpvTlhadE02eW12dFFrTjk0WkxiSFNGYlkxR1hyVjBVMURXOGxsWlRMNGt3R3hkcm1rRG9mcTllRzloYnM4Z2EyejU0TTVlV3kzamJiNmJQRTBhZktQMm1kSnVWSzJEb3BTQ1BoVExnSWlLOGNaWUhnSmwwMU1kbVBXVUJz?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-10T00:49:48+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ترامب يستبعد تجدد الحرب مع إيران..",
+        "والسعودية تعلن استهداف خط أنابيب نفطي    France 24",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "ترامب يستبعد تجدد الحرب مع إيران.. والسعودية تعلن استهداف خط أنابيب نفطي"
+      }
+    },
+    {
+      "title_original": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "title_zh": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T00:14:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Epstein associate who still runs model agency 'put me in danger' says abuse survivor\n- Published\nA woman raped by Jeffrey Epstein says the president of the model agency representing her put her in danger, when he sent her to two photoshoots at the convicted sex offender's Florida beach house.",
+        "At the time, in 2009, Epstein was serving a jail sentence for sex offences against a minor but was allowed to work each day from his home.",
+        "\"My agency's job was to protect me, and they failed."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor"
+      }
+    },
+    {
+      "title_original": "「ウクライナの戦果が交渉上の立場を強化」、ゼレンスキー氏演説",
+      "title_zh": "「ウクライナの戦果が交渉上の立場を強化」、ゼレンスキー氏演説",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUJ3c3BqbDktMUVSMC11c3p0Q2dYWWxzeGU1NkplQTJNRUdTRTRZY2lZRU1BaHR1YXZ5ekJJT3ZhTjB3ZVNQWFpXQ0l2b0lnaVVnWXdYVkF2OGwzQUFYYkNueVR2TkF0WEpjUW04aldVeHpZVnFiUWJIeTEwcDhUNG1ZVlowZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-09T23:57:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "「ウクライナの戦果が交渉上の立場を強化」、ゼレンスキー氏演説    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "「ウクライナの戦果が交渉上の立場を強化」、ゼレンスキー氏演説"
+      }
+    },
+    {
+      "title_original": "ウクライナ戦争終結へ「強い意思見られる」、協議控えトランプ氏",
+      "title_zh": "ウクライナ戦争終結へ「強い意思見られる」、協議控えトランプ氏",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaURSVTV4UDh0Z1l3TnNkdVNaQ0c1NjRHT2lFeUI2bkd5RVM1YkpZSE1OMDR6SXFMam1kbDFKNnh6ZjlFbEkxb05UVWp2a3FrMzJYV1pUSXNFamltaEtIaGd4a19oUGN3Z0E2RTNvcDZGc0JZNUlOOURsR2JZLVdjclM1cUhjdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-09T23:49:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ウクライナ戦争終結へ「強い意思見られる」、協議控えトランプ氏    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ戦争終結へ「強い意思見られる」、協議控えトランプ氏"
+      }
+    },
+    {
+      "title_original": "The death toll Putin has tried to hide: Nearly 400,000 Russians killed in the Ukraine war",
+      "title_zh": "The death toll Putin has tried to hide: Nearly 400,000 Russians killed in the Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYjg5SVl0M01US3RVYlJDNDFKRENxWFBCN0FzUEFmdmxSTWoxcUxpdGJEbWtVVWlwR1JGZkpkWW5oNkNqOXB4WEV4Szh2a2R1VE1Kb0NOWW0zUHpKTXVVU3hKMFdodXBybnJRUkV2TlZsM3dmaWF6Q3FheU4wcVNvck1FS3daMHpERElMTTRCeGdMWG80ZDZUT0tsVGdDc3AyM081SGhNTXE5cVg4LTZNYXhpY2x6VTVJLTVodU41U1FDcUpUVS1NS2VQdDFqTUhUSXJBMTBha2p0RVE2eTJkRk8tanREeG9DU2tzaHhmbHJjYmk0?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-11-09T23:27:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "The death toll Putin has tried to hide: Nearly 400,000 Russians killed in the Ukraine war    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "en": "The death toll Putin has tried to hide: Nearly 400,000 Russians killed in the Ukraine war"
+      }
+    },
+    {
+      "title_original": "在阿布扎比会谈前，美国寻求为乌克兰提供北约式的安全保障",
+      "title_zh": "在阿布扎比会谈前，美国寻求为乌克兰提供北约式的安全保障",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkk1SEEzbnR1SDVYNlgybzFtdENxdjVxckQ1WWdhb1dicXVsOTVmYVhUaFloeXpjajBvbG5hT2ZkVW5iSy1XWVFXX01wSUZlOVlDbnZPZTNpUFA3MDdsYzVSMnc2LVY2RFMycUE4QkxZS2FvcnVuQjhNbk0zNXhoSzhYWW9UQ3lCeGp4N2p3bllLRXRELVdmSFh5Zi1Udjg3MERoOWpqVHhTTDlpM1VmSk9TeGl4U1QwVmEwQVpfczhKdTZ00gHHAUFVX3lxTFBpRzVzUWh6RVV0T3VBVWZLWHZIQUdGcnAyRVotWlZ0TkY3QkV3b2Q4a3lwc2dYak50YU9zY3FXVllUSTdTVUc3R25yQktEbkszNWV5eU56QXVURUctcWh1d1VlMFVJXzdDeVpxbVlmbjlEUXVGM2JsdExJVzBjZGVnNjdxenBrdE5GSW1rakJiOTlIX2kwQVdWTUJkVERPREpYLWxRYXdDRmRYb2tEd2gydjRodzUtRnVhcGFyZnAtbll4WUNzMDA?oc=5",
+      "source": "美国之音",
+      "source_score": 40,
+      "published_at": "2026-11-09T23:21:32+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "在阿布扎比会谈前，美国寻求为乌克兰提供北约式的安全保障    美国之音",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "美国之音"
+      ],
+      "all_titles": {
+        "zh": "在阿布扎比会谈前，美国寻求为乌克兰提供北约式的安全保障"
+      }
+    },
+    {
+      "title_original": "ＮＹ外為市場＝ドル軟調、中東懸念緩和で「有事の買い」後退",
+      "title_zh": "ＮＹ外為市場＝ドル軟調、中東懸念緩和で「有事の買い」後退",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00NFREM1RXSVUyR3cwR09GQk5SRXdScTNibmIzMUF2X00zRWhIYm1WcjhERmsyamh0eGpqX3FpdDFZWXNxME9KWkNRODhVWDBxdTZQQjVjaEJHRFhWNzBxWmZNMGtWb3U5bEpXTFgtb1VYUjByUDlYTUZuOEpGZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-09T22:05:11+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ＮＹ外為市場＝ドル軟調、中東懸念緩和で「有事の買い」後退    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ＮＹ外為市場＝ドル軟調、中東懸念緩和で「有事の買い」後退"
+      }
+    },
+    {
+      "title_original": "G7外相会合開幕 台湾海峡などの現状変更の試みに強く反対",
+      "title_zh": "G7外相会合開幕 台湾海峡などの現状変更の試みに強く反対",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zdmhHMEJ2OVdTSmp5WDJhamdOcXRSSEFIVHoxSHBsSVJ5TmR6TTlLdG5BN0QyVGVwd2JvLXVqRlhpTUZSZHVfWXhWQkZMVmtRS2hFZDFvTVF1SDRkRDFF?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-09T21:58:38+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "G7外相会合開幕 台湾海峡などの現状変更の試みに強く反対    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "G7外相会合開幕 台湾海峡などの現状変更の試みに強く反対"
+      }
+    },
+    {
+      "title_original": "Trial date of alleged Charlie Kirk killer set for June 2028",
+      "title_zh": "Trial date of alleged Charlie Kirk killer set for June 2028",
+      "url": "https://www.bbc.co.uk/news/articles/cq0mem8d2p3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-09T21:48:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trial date of alleged Charlie Kirk killer set for June 2028\n- Published\nThe trial of Tyler Robinson, the man accused of killing conservative activist Charlie Kirk, will start in June 2028, a judge has ordered.",
+        "Robinson, 23, has pleaded not guilty to aggravated murder and six other charges in connection with the September 2025 killing of Kirk, 31, who was shot while he spoke at a Utah college campus.",
+        "Utah County judge Tony Graf Jr on Monday told the court that jury selection would begin on 21 June, 2028."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trial date of alleged Charlie Kirk killer set for June 2028"
+      }
+    },
     {
       "title_original": "Judge denies motion to dismiss Lindsay Clancy's murder case - media reports",
       "title_zh": "Judge denies motion to dismiss Lindsay Clancy's murder case - media reports",
@@ -29,6 +504,31 @@
       }
     },
     {
+      "title_original": "US asks Russia to agree to NATO-like backing for Ukraine",
+      "title_zh": "US asks Russia to agree to NATO-like backing for Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6d0NlVkIySXB5U1Y1c3MteERBaVdfQWxpVnNZTk9uMlBkTC1LazVWUnctT1NkR0xlZV9BbzhEVTBlVEUtcWZBTUtzZURxdWNOa3JyVng5aDd0aEpIQ3dTcmxhQ2Z3U0pHQkJGdV93VE9teWVxMFhXTmY4UmE?oc=5",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-09T21:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "US asks Russia to agree to NATO-like backing for Ukraine    Politico",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "US asks Russia to agree to NATO-like backing for Ukraine"
+      }
+    },
+    {
       "title_original": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine",
       "title_zh": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzJmdDczN2hxRVpiY0V5UzZWZlFBR3oxaUlhWW96SzNvUEcxd3Q5clI3M1FXUTZqMkF5dmpZV29xdjFZV1hBNDZpeXVwalQ4X1lISlZGY1lIWVZ2UXpYUUExQXl0aVlZazNycEFHQ25xclZiNHQyOW5nWlFoYlFPU3VyeTZwa0hPUkNMeTJ5ck9UVk95?oc=5",
@@ -51,6 +551,31 @@
       ],
       "all_titles": {
         "en": "Trump envoys aim to persuade Russia to include Europe in negotiations on ending war with Ukraine"
+      }
+    },
+    {
+      "title_original": "Turkey steel factory blast kills at least 17 people",
+      "title_zh": "Turkey steel factory blast kills at least 17 people",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-09T20:42:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Turkey steel factory blast kills at least 17 people\n- Published\nAt least 17 people have died and 12 others have been injured in an explosion at an iron and steel factory near the port city of Izmir in western Turkey.",
+        "All those killed and injured were workers at the Habas Demir Celik plant in Aliaga, one of the country's leading steel producers, authorities said.",
+        "Footage from the scene showed a large fire inside the facility and a towering column of smoke rising into the air."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Turkey steel factory blast kills at least 17 people"
       }
     },
     {
@@ -129,6 +654,106 @@
       }
     },
     {
+      "title_original": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "title_zh": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-09T19:58:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy\n- Published\nHundreds of billions of dollars have been wiped off the value of Nvidia after the US chipmaker announced an independent investigation would be carried out into its chief executive's affair with an alleged Chinese spy.",
+        "The tech firm saw its shares fall by about 4% by close of trade on Monday after Jensen Huang admitted having an extramarital affair.",
+        "Nvidia's probe came after reports that the US believed the Nvidia boss had been targeted in an espionage campaign by China."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy"
+      }
+    },
+    {
+      "title_original": "ロシア・ウクライナ、領土問題で柔軟姿勢の兆し＝米当局者 | ロイター",
+      "title_zh": "ロシア・ウクライナ、領土問題で柔軟姿勢の兆し＝米当局者 | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVpwLTR1cEJfS09RVmZrRndRLXFyS3dvVEp5MDRIYUYzaUhvbkp4ZVR0UEtvY3NubUVJVmNEdXVJT0pwM2dZMVd3cGltaURkQXQ1S0RaRlVXVkdMdlFmUWxoYWtvYkRMSVBOLW9BdU05dGh1UldVRzdiR3VSSUdaTDJwN0R2UQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-09T19:27:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア・ウクライナ、領土問題で柔軟姿勢の兆し＝米当局者 | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア・ウクライナ、領土問題で柔軟姿勢の兆し＝米当局者 | ロイター"
+      }
+    },
+    {
+      "title_original": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing bricht am Montagabend nach oben aus",
+      "title_zh": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing bricht am Montagabend nach oben aus",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbnNzY05Tenp2UTd3T1RBbUk1TWJ4WGQzWW9PTi1jelhtcmwyUHdXNHMzNmdPQThVVTdURkR5Y25LVFIybkxRVUhPbzBJbnJqMFpLT25pYTJfeGV3RGtUNnFZUE5JZG03VUNURzFseFluSnp5LXBISGlVZkNhNzNORVBONmxVZUM0N21hQkFIdnQ4am9Ha3NFdi1ROGx2elhydEVvSXdGdFVSb19TMnFPUXBNTVF1QQ?oc=5",
+      "source": "Finanzen.net",
+      "source_score": 40,
+      "published_at": "2026-11-09T19:25:43+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing bricht am Montagabend nach oben aus    Finanzen.net",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Finanzen.net"
+      ],
+      "all_titles": {
+        "de": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing bricht am Montagabend nach oben aus"
+      }
+    },
+    {
+      "title_original": "Envoy Jared Kushner says Trump 'determined' to end Ukraine war, as prez tells '60 Minutes' country will be 'different shape'",
+      "title_zh": "Envoy Jared Kushner says Trump 'determined' to end Ukraine war, as prez tells '60 Minutes' country will be 'different shape'",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSWgwbWRQVEd5OHp0WnVlb0t6Rk1DQ1BaZ3RTeHItRE1ZeXhER2ppQlVxVXBMMEw2V0JSSzlJdUJ3eDdza2FxdEVfUlY0NU92MF9VRGtBNnFHRnRGc2pNRmNpODloNFVJeHp1ek5Pb3ZFX0JNeXZVSllwOEI0Wm1iMjQ2MUJDZ3liNmJMTlNncU0wNjZlcjE3dVlsNmU2d0l0UUhXLVdIWGJjUWJSTkNSME1Sc2s3SW9RR2tFT3l4TEVjUXpSX1hHU2JnbnB2aWFsVGczd0U3N3JtTkpzXzRiWmQtRjlVNTY5eXpHLQ?oc=5",
+      "source": "New York Post",
+      "source_score": 40,
+      "published_at": "2026-11-09T19:25:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Envoy Jared Kushner says Trump 'determined' to end Ukraine war, as prez tells '60 Minutes' country will be 'different shape'    New York Post",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "New York Post"
+      ],
+      "all_titles": {
+        "en": "Envoy Jared Kushner says Trump 'determined' to end Ukraine war, as prez tells '60 Minutes' country will be 'different shape'"
+      }
+    },
+    {
       "title_original": "Neue Verhandlungen zum Ukraine-Krieg: Warum jetzt sogar ein Abzug von US-Truppen in Europa droht",
       "title_zh": "Neue Verhandlungen zum Ukraine-Krieg: Warum jetzt sogar ein Abzug von US-Truppen in Europa droht",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRk1qakM2MFo0YUFkV08tUkduX3V4UUVKNmdxWHlqQ09TUmUybFBoSDJ4R2lIZk9PVTVHbzhyNXlmejhHNG9HaDF5UmFfVnlnTnh5WjdEb3lCODZ0TDZhWi01UHllaFRiNURvT2pPZWlqcDd6RnZtZ19jVU15bFZqRkc2N0lmV0FvMDJlMmZiTlpiM1d5LWFPRTZ4NUhsYmJ5OTVN?oc=5",
@@ -204,6 +829,31 @@
       }
     },
     {
+      "title_original": "Israël : avec ses sept députés, Avigdor Liberman principal obstacle à un gouvernement Eisenkot",
+      "title_zh": "Israël : avec ses sept députés, Avigdor Liberman principal obstacle à un gouvernement Eisenkot",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1p6WG42X19CeEIycWJrNUlJd2tLODk1alc4WUEtN1R4MXE1YU45OFU4eTF0Y1E4TW1LZkJSNk9DMHBkMjZIWXNXX2RoV0NpSFJ1a1hLM1hTUUdMZWpQNE1kcUYtb0tDQ2NLZkVCUGVwNExiRUdBR0tQUFJpUWxNZDBvMDVUZmpOeG5BNGhPUjRlZ0NUb3lvcC1LWTNueVBrclVRQUUyaFR6bFFqVFZfYWdFbjlXamgteVJuaTlQbS1idw?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-09T18:25:37+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Israël : avec ses sept députés, Avigdor Liberman principal obstacle à un gouvernement Eisenkot    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Israël : avec ses sept députés, Avigdor Liberman principal obstacle à un gouvernement Eisenkot"
+      }
+    },
+    {
       "title_original": "تايوان تتسلم الدفعة الثانية من مقاتلات “إف-16 بلوك 70” الأمريكية",
       "title_zh": "تايوان تتسلم الدفعة الثانية من مقاتلات “إف-16 بلوك 70” الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNdGVkUDFucWNLbkpXVHg0T0ZaWWl3aGg5OHlZYjBqdmRnalUxUVFFQUxrMGNyZVVteHF6cEZKcmVaZmZ6YU95UEJfaVMzTTRQWTdtdHJpLTY2RTlTWWtqaHAwcDJnZFp0ZGlYVDZNUktUYllNQUc5cmFiUUxjYm9ORWZ0QjY0UHFMOEJIa0M5YkxocWhySmhfRkk4SURQRC1zaVFhTmFjNGx2OWdLc2FUVzY5aUs4Ym83d1RoYTQ2N2g3NUxlczAyTFFzdlU1VmVsYUJqWjdEalNkcnUyUDNSU2xreUhBelc1WUJBQV9mYWgwamRpTE1xemxVOUJ5STV6d2JNaXdTY0tsU2hVcGtsOVlTcGM3Y3VBM0lmVlNLTHFiUUFZQzEzM2JNaU1LaHFXckV5OVFjOFF2VzJ2SHdjRXJLX3daRlV0dzN1dXZnLWV4UE9ncXdjXzVEY3JRb0RSZnNQa1NUVjljT0NZZFIzSkZPOEtZWUo1QWtaOGhlMzliczFqLVFiUURLTWdXa2pTY1ptbDBKaXZtcEo0QThGcXRGNjhDUzd1TklDWHgzeEFvR0dGcDcxZ0tHWjFfM1dSRzFEWWt0bEdCVXRRcTBNMlB5cWM?oc=5",
@@ -276,6 +926,31 @@
       ],
       "all_titles": {
         "en": "Trump questions midterm elections integrity after previously accepting results"
+      }
+    },
+    {
+      "title_original": "Eisenkot : ce qui changerait au Moyen-Orient",
+      "title_zh": "Eisenkot : ce qui changerait au Moyen-Orient",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02ekEyZFB3dHRkZUVDZDRtTXpyWUNjS0p1dXBVLTFKTGFubXFtcVpVbkNmUUVfSXI4N051WldJWXA4OEJlZXlVNUd2RmRoYnhhbXRnc1I0MU1vUVR6YWZRRFYyeEMyeHFoNURvVmN4UFU1U3M?oc=5",
+      "source": "Libnanews",
+      "source_score": 40,
+      "published_at": "2026-11-09T17:30:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Eisenkot : ce qui changerait au Moyen-Orient    Libnanews",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Libnanews"
+      ],
+      "all_titles": {
+        "fr": "Eisenkot : ce qui changerait au Moyen-Orient"
       }
     },
     {
