@@ -1,0 +1,882 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-10T18:40:59.973177+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "title_zh": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T18:33:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions\n- Published\nMalaysia's disgraced former Prime Minister Najib Razak has arrived home to begin serving the rest of a jail sentence for corruption under house arrest.",
+        "There was a big media presence at his Kuala Lumpur residence to see the 73-year-old return from prison in an SUV late on Tuesday night, escorted by a heavily armed police convoy.",
+        "Najib's return ended a four-year prison stint after he was found guilty over the embezzlement of billions of dollars from the country's sovereign wealth fund."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions"
+      }
+    },
+    {
+      "title_original": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+      "title_zh": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-11-10T18:23:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi"
+      }
+    },
+    {
+      "title_original": "الشرق الأوسط.. ساحة الديمقراطيين لملاحقة \"فساد ترامب\"",
+      "title_zh": "الشرق الأوسط.. ساحة الديمقراطيين لملاحقة \"فساد ترامب\"",
+      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxONXBDY0FRNnpDcEJPMnRaZko3ekZHakl5RXVHUGlxRGE0cUFmY2RNQUFJenZiSkNid2xYTGRoU1o3QzJLZVpDazJEMWpmWV8zSzZKOTRiR1g3MDFPN1FHVlR4U29RMVJuWEwyWHRlUHg0VmtkeG5nb1BUZWwwMm03cDZfdkp1T2N3REVIZ1pvelJoZzZkTnRvU0Y3R0FlU0tzWnF4aEhOOG5rX01fSnQzb0JEenFPWnlSNHlzMGo1ajE1cW42Tm9fcW5ITG5YbDhmZC15MG9iM19iYWk5N01JOGdYaFZwZU16MUxGMW9SbkdfNmxORzJsUnh5SnlEMS1vOHA1VG5rOW5TMVd6TmM1a1FUdjlwZlpiQks4TjlZOWVnS2ZUNWtVNDU0RnZMOTNJVTIxN1d3OWdGSlNoZzNXeDJGc0tRUEZqMHJLZjVha293amJDa2FPZmN0MzZYTDRzTml3VjAyMXMzX3liNmxubmxVZ1g0d21MMzZRYThwUzEzeW5NbGgtNTdRemdzY21pOHBkWTBVZ1RvbXVLR0xQS3BWelpwRTRla3F5NDhMNXNHMC1fVTRTTzBqZUV5WXNZaFJtQlVMSTV5VXZTQmpfMkpibU1FU0xUbE9feFViSTVHZ2tKcW9ncUdHT0k3UzRqS1QtUHhpYTNZakXSAfsDQVVfeXFMUG1uMFg5ZjBENUhvNEczLXVuN2dib29iZ05CWV84RFRRQ1VfX1d6ZERlOHZlOFRuV3EzeTZic2s1U3NrOHhLSmlQRHduOWlvYWhTbjZYZEU3XzZqSlVzdjdhZVozWFp0Q2xKV2txRFlIWnRFcFJjNGtYeERBWnI2ZnB4bGloVnEydXBRNXplWGtFSmZpeTZvMkpoMXFjTktzNWFLNlRyeC11andYbzA4eFpYX3ZqcnNXUi13VFZzU3NQWDlGdU9MdjhCMUdueGNySDkzMHVIYnpldlhKQVdGVzVZbEtzZGFnT3Ewbzk5UWZNcGpiamh4Tmp5eXpMVW9VYVRmR05tU3VYN1pXRFh6Q0JzQm92M2N1UGdiNzZ0TmF0REd5MGt1a21sRG9WYkNnWm1ZZlFQT1hjaVJyYUpxcEJaYzBqejNoMmtXamYxMDI0VW1vSVV2MWFoQ2lqSnpURGU5N183MV9lMFd0R3FQODhKQUM0czFNN0xKTDhZdEJ5MmRGR0RpQjE2NHhiUl9EV1FKTFV1bjVpWnV3VnU4TllpZ0FpN255NGgtaEYyenE1d3RrbHhaMERRTHhrRDhmQ1VwajN2eGNseHI4ZGdtZ2FGa0lPbG01VW1oUkwtS0lnSkREaGhkX1ozOFJEWllaZURNcXl5aTNYWlVB?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-10T17:37:42+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الشرق الأوسط..",
+        "ساحة الديمقراطيين لملاحقة \"فساد ترامب\"    DW.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "ar": "الشرق الأوسط.. ساحة الديمقراطيين لملاحقة \"فساد ترامب\""
+      }
+    },
+    {
+      "title_original": "First day of Ukraine peace talks constructive, Zelensky says",
+      "title_zh": "First day of Ukraine peace talks constructive, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T17:29:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "First day of Ukraine peace talks constructive, Zelensky says\n- Published\nThe first of two days of trilateral talks between Ukraine, Russia and the US aimed at ending the war in Ukraine has concluded in Abu Dhabi.",
+        "While senior officials from Kyiv and Moscow were tight-lipped after the four hour-long discussions, President Volodymyr Zelensky, who was not at the talks, said they had proved \"constructive and quite substantive\".",
+        "Speaking from Paris, US Secretary of State Marco Rubio also said the meeting had been \"very productive\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "First day of Ukraine peace talks constructive, Zelensky says"
+      }
+    },
+    {
+      "title_original": "Gov. Wes Moore sees an opportunity to work with Stephen Miller",
+      "title_zh": "Gov. Wes Moore sees an opportunity to work with Stephen Miller",
+      "url": "https://www.politico.com/news/2026/11/10/gov-wes-moore-sees-an-opportunity-to-work-with-stephen-miller-01158571",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-10T12:06:50-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The possible 2028 contender told POLITICO that Democrats should try to work with the president’s new chief of staff despite a “well of distrust.”",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Gov. Wes Moore sees an opportunity to work with Stephen Miller"
+      }
+    },
+    {
+      "title_original": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "title_zh": "Arrests made in Mohamed Al Fayed probe in France, police say",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T16:19:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Arrests made in Mohamed Al Fayed probe in France, police say\n- Published\nFrench police have made arrests after three properties, including the Ritz hotel in Paris, were searched in relation to an investigation into Mohamed Al Fayed's abuse.",
+        "The Paris prosecutor's office told the BBC that several individuals were taken into custody for questioning last month and later released.",
+        "In a confidential letter sent to survivors, the Metropolitan Police said its officers were present during the searches on 13 and 14 October, in what is understood to be a joint operation between British and French authorities."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Arrests made in Mohamed Al Fayed probe in France, police say"
+      }
+    },
+    {
+      "title_original": "ロシア石油精製能力3割減、ウクライナの製油所攻撃再開で＝関係筋",
+      "title_zh": "ロシア石油精製能力3割減、ウクライナの製油所攻撃再開で＝関係筋",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlp1UnJGTk1zN0F6b1VIQjBQajJ5XzZEaDBHNkRMenhkcldkMmVKWUxzZVpVNHZySXpDZGJxbG9tN1dlVVRqaTVVWnFlUFFKSGV0ME9sNkJQQzlFNGdocmV5Sm4yamwtRzYzU2RpLWhvX01KdWxoaUU0djJmVlJxdGJDSS1Ddw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-10T15:55:45+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア石油精製能力3割減、ウクライナの製油所攻撃再開で＝関係筋    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア石油精製能力3割減、ウクライナの製油所攻撃再開で＝関係筋"
+      }
+    },
+    {
+      "title_original": "بعد انتخابات الكونغرس.. ماذا ينتظر أوكرانيا والشرق الأوسط؟",
+      "title_zh": "بعد انتخابات الكونغرس.. ماذا ينتظر أوكرانيا والشرق الأوسط؟",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQZ29fak5SQmEyMG1idDBIRGtPR0g0SnM1bW9ydURKd2ZQWlI4OWNhM2x4am1Lb0RQd21TdnZ0bXZEYjN0UDR1bVhudVI1NzN5SHphUmNaajZxdzhwSGpPZ2V3S1FtakVvMzFFc0ZVanVPdXZ4WHpjOHMtMko5WVhqWmFZQVlHLThOeTJPNVZLXzJvUzIwQnJrT0pYTHktOUdoenhaRVRsd29tYjZZNzU4SzhYUkk4cThoQnpmRmtIUEZRd0FLbTJmbXM3T182c2JicVRHLU91eXowN0ZxVWhxYXhueXpWaXU5Qm9WR0ZacHYtaV84dzQxMFpTVklkLWw4cGVGOUlJR3NwNXotemlJQTBLLUVMUEx2UFZ4d2RyYUh5d0JXT0hnekdUZTNZTUQ3OU9DbHBPYmlJSkdUc3JEcnNCU29qc0NweWhhTURRREJaQjRuOTFGT1dqU2VMV0JuRU1VbmFGRTZLUEJtcmlqZHR5UXJTRVI1YTdoTFJKT1pJZklDOW5WenBjYlM2Zw?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-10T15:43:14+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "بعد انتخابات الكونغرس..",
+        "ماذا ينتظر أوكرانيا والشرق الأوسط؟    DW.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "ar": "بعد انتخابات الكونغرس.. ماذا ينتظر أوكرانيا والشرق الأوسط؟"
+      }
+    },
+    {
+      "title_original": "موسم فورمولا 1 سيختتم في الشرق الأوسط كما هو مقرر",
+      "title_zh": "موسم فورمولا 1 سيختتم في الشرق الأوسط كما هو مقرر",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91VW1LRnR0Z3RCRk0xN21RQjBMaldSdmkxbGo5cnR6ZzI2bjFDN3FZVTBtVGZweDdMbGJ0YTJxTUZEZUFYQnRhWkpPMEJqTURvaENFM0RrX0RTTVJiY3FPSVhQVEtLenNINENhY3FYTWU2RllUMnhkNDJfOGM?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-10T15:39:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "موسم فورمولا 1 سيختتم في الشرق الأوسط كما هو مقرر    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "موسم فورمولا 1 سيختتم في الشرق الأوسط كما هو مقرر"
+      }
+    },
+    {
+      "title_original": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+      "title_zh": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+      "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-10T15:39:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory.",
+        "The seven-time Formula One world champion has spoken out about conflict and humanitarian crises in the region, and has called for peace.",
+        "He has frequently posted on social media about children killed in Israeli airstrikes in Gaza and called for a ceasefire."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities"
+      }
+    },
+    {
+      "title_original": "米国の退却告げるトランプ氏の敗北（上） 塗り替わる中東の秩序",
+      "title_zh": "米国の退却告げるトランプ氏の敗北（上） 塗り替わる中東の秩序",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HVnhTXzI4T1ppUDk0ZDVsQkNiQVl1RUJNNFFZVU1HZFVVelRpVm1HaWt3SW1HRzVyVFlqaGpLZWEtS1lhZE5uWkczWHhwNHdKcXFGUTZGTml2RHA3TEUybE80eDJFYnl2UlphNzJpUTF5aVQxS2o4?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-10T15:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "米国の退却告げるトランプ氏の敗北（上） 塗り替わる中東の秩序    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "米国の退却告げるトランプ氏の敗北（上） 塗り替わる中東の秩序"
+      }
+    },
+    {
+      "title_original": "Ｇ７外相会合が閉幕、ウクライナ支援で「共同声明」公表へ最終調整…「完全な停戦」実現の重要性確認",
+      "title_zh": "Ｇ７外相会合が閉幕、ウクライナ支援で「共同声明」公表へ最終調整…「完全な停戦」実現の重要性確認",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBRUtvMlg2Z2ZtaWZ0WjJTY2JmXy1ZMTJwMmZXV0NlMkpnNjhDYXoyeXFnRWt3S0FwY0NFRHVlb2hoUzBmZ0FrT3pDRkVieTRaWTY1R09EOUNsc1EyS19SOElR?oc=5",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-11-10T14:40:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Ｇ７外相会合が閉幕、ウクライナ支援で「共同声明」公表へ最終調整…「完全な停戦」実現の重要性確認    読売新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "Ｇ７外相会合が閉幕、ウクライナ支援で「共同声明」公表へ最終調整…「完全な停戦」実現の重要性確認"
+      }
+    },
+    {
+      "title_original": "Iran rejects French claims it was behind supermarket fridge hacking",
+      "title_zh": "Iran rejects French claims it was behind supermarket fridge hacking",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T13:45:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Iran rejects French claims it was behind supermarket fridge hacking\n- Published\nIran has described French accusations that it was behind cyber-attacks that raised the temperatures of supermarket fridges and freezers as \"baseless and hostile\".",
+        "On Monday, the French authorities blamed Iran's Islamic Revolutionary Guard Corps (IRGC) for the string of hacks, which foreign minister Jean-Noël Barrot said were \"unprecedented\" in terms of their scale and \"level of aggression\".",
+        "He added that those responsible would be hit with sanctions."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Iran rejects French claims it was behind supermarket fridge hacking"
+      }
+    },
+    {
+      "title_original": "400 ألف قتيل روسي في حرب أوكرانيا: الحصيلة التي أراد فلاديمير بوتين إخفاءها",
+      "title_zh": "400 ألف قتيل روسي في حرب أوكرانيا: الحصيلة التي أراد فلاديمير بوتين إخفاءها",
+      "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxQeWlLNHg0cmR2dDhpV1M4all6MzJzQXdwT1ZreE5ZRXA0cTFQcHVMaXR3b0diRGowT2xUQWZjS3F6NjRva3hsNnpXS1J3MEh3cHB5bDRzeUtKMWdaZnhSVHY3VkQwSnlQTlRJcVMzcndsU3hjWkNfQ21pRzVlTGhoTXRlOXRBR29hZWJ1MVRnUnJVWVF5S00xS1A3amZnMlh2R3N4dHVOdTR2SUFnSDVDX1ZoZWtEOTY2MUJJTko1Y0hITFdxSWUtQVMwUkgxNjlvUEctOUx6S0pyX2Q3VkVXNWkxb3ZtOHFpSU55dTFTdHhUMjR5WVZPaGZ5QVBxakFrbkU3d3hnTW0xNS1IOGNYWkh4U0Z0N18tanA5WWduWkVJMjdwd1dhNW5rZnZVY0Rfc1VrZ1lxTEpYSVNCSnljWkpTcHpZSG5iTTJ2aDNCNkRYTTZZOFlWMXBVVlB4bE4tQkpEcmNlNzFRTW1mVXQ3NWNLNXB2blVlb3Z0SEpNampSTFB4eU9rTVJfNEtTNEhtdzczc1dYZVI4VjRIQV9KRTFKUFZyRjh1RHpvOWNUVm9PVEc0NEhwME1sWkdnVk42ZXZSWkFhbEN2YU5NeGIzRDktZUJubEU3SGFocE1ydXRhSGg1d3RsS3Z2MDFEZ2s4cFowZjVmVE9TT0RmUWlkRFdSbE84WmhzTzQ5UHp4OGpLdnNuekI5bDM2NC10aXU2ZW0wN3N3OEstTHRQcHNzdURTakU1QklEQ3hsWEU2U1NHRTBBMldUVUZacTZHOUk0bF9fR3JvU0s1ODRvdFllQTJTYw?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-10T13:42:36+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "400 ألف قتيل روسي في حرب أوكرانيا: الحصيلة التي أراد فلاديمير بوتين إخفاءها    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "400 ألف قتيل روسي في حرب أوكرانيا: الحصيلة التي أراد فلاديمير بوتين إخفاءها"
+      }
+    },
+    {
+      "title_original": "+++ Nachrichten im Ukraine-Krieg +++: Slowakischer Regierungschef wirft Merz „Erpressung“ vor",
+      "title_zh": "+++ Nachrichten im Ukraine-Krieg +++: Slowakischer Regierungschef wirft Merz „Erpressung“ vor",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmaDhLbUkwSXdQU2V4NXotajlzdnBNbkNHQnRPLWVUVFpDOW9oSmZ0MXo3dDJ1X3BDaFJkcFZUS09QTE0zb0Jmc3YxaDU1eDI4MlE2Rl93cDJ2eTY3eUFOQnZQRE9PQQ?oc=5",
+      "source": "taz.de",
+      "source_score": 40,
+      "published_at": "2026-11-10T13:36:21+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "+++ Nachrichten im Ukraine-Krieg +++: Slowakischer Regierungschef wirft Merz „Erpressung“ vor    taz.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "taz.de"
+      ],
+      "all_titles": {
+        "de": "+++ Nachrichten im Ukraine-Krieg +++: Slowakischer Regierungschef wirft Merz „Erpressung“ vor"
+      }
+    },
+    {
+      "title_original": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "title_zh": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T13:23:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "French wartime resistance heroine Solange Alexandre dies aged 104\n- Published\nOne of France's last Resistance heroes from World War Two has died at the age of 104.",
+        "Solange Alexandre was also a rare woman who, with her future husband, created and commanded her own unit of anti-German fighters.",
+        "After serving as a Resistance courier from 1941, three years later she founded the Pas-de-Boeuf network near the town of Ruillé-sur-Loir."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "French wartime resistance heroine Solange Alexandre dies aged 104"
+      }
+    },
+    {
+      "title_original": "California police investigate after 27 fall ill at half-marathon running event",
+      "title_zh": "California police investigate after 27 fall ill at half-marathon running event",
+      "url": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T13:22:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "California police investigate after 27 fall ill at half-marathon running event\n- Published\nPolice in Santa Barbara, California, are investigating after nearly 30 people had to seek medical care at a half-marathon running event held in the city on Sunday.",
+        "In a statement provided to the BBC's US partner CBS News, officers said they received a report from Santa Barbara Cottage Hospital about race participants who sought medical treatment \"for unusual symptoms\" after the race ended.",
+        "\"The cause of the reported symptoms has not been confirmed,\" the statement added."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "California police investigate after 27 fall ill at half-marathon running event"
+      }
+    },
+    {
+      "title_original": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+      "title_zh": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTYwYUxQTWgyYm5sblh5MXhkNHI0V08waFhnbnp3Mnh6QktlRS1wQUcwdVJyZkx1YnpwdjRLWDVLQkZlU1JhQXpncjFhQ1g2cDRSbDBmeWUyOGJWcFJfekpFMFF1TTlqQTF6WUhDZjkyMkZqSzhfX2IxRzByMUhGeWlubThodF82UHlVMlFVUURmWGx4S1RrMVc4ay0zZ2xQZmRESUkxZVNhXzAw?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-10T12:21:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "en": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi"
+      }
+    },
+    {
+      "title_original": "US and rest of world must follow China’s lead on green energy, says John Kerry",
+      "title_zh": "US and rest of world must follow China’s lead on green energy, says John Kerry",
+      "url": "https://www.theguardian.com/environment/2026/nov/10/china-green-energy-john-kerry-cop31",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-10T12:08:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Former US secretary of state says most nations are ‘stumbling along’ while Beijing has ‘hugely accelerated’ Cop31 live – latest updates China is leading the world in moving away from fossil fuels , and the rest of the globe – including the US – must now follow, the former US secretary of state John Kerry has told the Guardian, as Cop watchers wonder exactly how China is going to approach this year’s climate summit.",
+        "As Cop31 opens – this year the climate conference is in Turkey – there is plenty of speculation about whether China will finally step into the leadership role that it has long avoided.",
+        "In its latest “five-year plan” adopted in March 2026, China for the first time pledged to “actively participate in and lead global climate governance”."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "US and rest of world must follow China’s lead on green energy, says John Kerry"
+      }
+    },
+    {
+      "title_original": "Trump über Ukraine-Krieg: Russland wurde „sehr respektlos behandelt“",
+      "title_zh": "Trump über Ukraine-Krieg: Russland wurde „sehr respektlos behandelt“",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2g3S3BySGZQNVRjRHpxWUVwZVJHRTFJNmhEYlNtVkRLUVhrRDVzajlYaGxZd2lqS1NEVU5GWXU0SHMzWmU5ZHk5NjJ0UXpDdUJ5TW1udzd2emhGMjE1bGVxWGI3c2VteGtxYU1TVWU1WHdscU95OWdQc19PdGx5VlVUOXNsTTNmRnpTUFp1MWtWMjlCR3BOblo1WlBCMktXMmZqeFZ0Wnh3S2VMdVE?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-11-10T12:03:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump über Ukraine-Krieg: Russland wurde „sehr respektlos behandelt“    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Trump über Ukraine-Krieg: Russland wurde „sehr respektlos behandelt“"
+      }
+    },
+    {
+      "title_original": "Police officer dies and another injured after backpack explosion in northern Spain",
+      "title_zh": "Police officer dies and another injured after backpack explosion in northern Spain",
+      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T11:25:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Police officer dies and another injured after backpack explosion in northern Spain\n- Published\nA police officer has died and another has been injured in the northern Spanish city of Oviedo after an explosive device went off at the scene of a shooting.",
+        "The blast happened when officers from Spain's canine unit and explosives disposal unit arrived and examined a suspicious backpack following reports of a dispute between neighbours on Tuesday morning.",
+        "A woman who had been shot and the injured officer have been taken to hospital for treatment."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Police officer dies and another injured after backpack explosion in northern Spain"
+      }
+    },
+    {
+      "title_original": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, répercussion de la guerre au Moyen-Orient",
+      "title_zh": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, répercussion de la guerre au Moyen-Orient",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcUxhV3E1Q1gzZXFObldtU1BybGpOMng4MHpWMXJEVzIxV3E0N1F5UTB1UHJQTnppUm5sdTg0cFhnU2NwQVNxbE1YcWZtMlM3WnNoVkltbDVLSDloc0tCMVBMTHpra2Y3bXp2UHBCcElFQVk1QlhZdmNYeEhqWGZ6eVYxbzRLQXoyeGgxeEZzbjNlSEtCX3d2alFjMk12SW5tM2xucDAzVHgzUFFUQllxLUZFZnhZR25zUUFjTjJwb2g4YnIxWFRSV2pFNC02MHkzMHQ0QjR5WkZRbHBScnZ2LXcwNFh4bWd4dnAxUWQ4QzNWdlNEWjhubjNxMko0aUFx?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-11-10T11:16:20+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, répercussion de la guerre au Moyen-Orient    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "Gaz : nouvelle hausse de 5,8 % à venir pour les foyers français, répercussion de la guerre au Moyen-Orient"
+      }
+    },
+    {
+      "title_original": "Former NATO chief: Europe must fight for a place at peace talks",
+      "title_zh": "Former NATO chief: Europe must fight for a place at peace talks",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXNoMGYwaUlKdG8zQ0h2WVJaVlFDMjhMS2U5VGJCZ0VkODdibmU4bVNrT0JZN2RKWWlXak1xU0dNM2tFTGpFNmRKNGdLVzBPazlwck1DVFdZYUU1djNUY25rMDBtLUxfREpzMWxPVGR4Vl9LaUJlS05Za0ZkbGNrc0dldkNQeFB5WnBkWUVXbmZ2NzNYT293WjlUdDJFUWlKUWdmQS1KU2E3WEZlamVQMGJn?oc=5",
+      "source": "Euronews",
+      "source_score": 75,
+      "published_at": "2026-11-10T10:56:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Former NATO chief: Europe must fight for a place at peace talks    Euronews",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Euronews"
+      ],
+      "all_titles": {
+        "en": "Former NATO chief: Europe must fight for a place at peace talks"
+      }
+    },
+    {
+      "title_original": "アメリカ・ロシア・ウクライナ 3か国の高官協議始まる",
+      "title_zh": "アメリカ・ロシア・ウクライナ 3か国の高官協議始まる",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1saFlGdnRUbmRhM0o0T21PWXUtT3lvVFA1ZV9GeU8wNlZtMlNTZ1F0S2p1Y0VmMmppZ2toMS1Nb0dWRkdpUk5vMU0xYjJMSEliMHc2YWN2OUw3TU5Ublg4?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-10T10:21:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "アメリカ・ロシア・ウクライナ 3か国の高官協議始まる    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "アメリカ・ロシア・ウクライナ 3か国の高官協議始まる"
+      }
+    },
+    {
+      "title_original": "انطلاق محادثات ثلاثية في أبو ظبي لإنهاء حرب أوكرانيا",
+      "title_zh": "انطلاق محادثات ثلاثية في أبو ظبي لإنهاء حرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQdVFRYWFQT1Jib1dVV3FRMVZWZXlmenJoN2F6RzNYUm9pSk5BMWREa2ZfMVFWLXROcXF2c09OeUhnT0MtbmNZLXNiWTQ3UGtOS0J0SmFYbFhvanlOVHR5QUtWSnp6eHBCOElISjhKX1U0NGMyd2VYVExXT2hPcmEya2lvbzQxbXVJZHVHelk3UmVsUVl1b3RiTzFoeldkc3VGUTNFNXBReFR4UnFSb1RndXBCcmhMQURuZGw0eUNNZXhpYTduaGxsQmh5cmpOU3JKTWdhNEFDZmJnT2lKZXlHbTZTMU9qZmdyYTdYdFBjeXVyS19VZEVHdFBqVDZRYkNTQU1lNFg5N0MxNDZUX0poa0FvcG1lcVF2UDJNUXE3UFFPTGc3dFhEMGl2WFlTd3dhVVNsMU0tUTVrTTBNSXgxWE9pYXNYYW81RmxVTE90VVpBUnFKeEZpZ1Bla1U2QQ?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-11-10T10:05:38+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "انطلاق محادثات ثلاثية في أبو ظبي لإنهاء حرب أوكرانيا    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "انطلاق محادثات ثلاثية في أبو ظبي لإنهاء حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "‘Documentos TV’ estrena ‘Finlandia-Rusia, la nueva línea del frente de Europa’",
+      "title_zh": "‘Documentos TV’ estrena ‘Finlandia-Rusia, la nueva línea del frente de Europa’",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWnhQSld4SkNMSWdReXJGRGJ4cDZkVm1xTTdfdmJCcGp0b1J0NFA1U3VGRV8tOVhRZkpRb1JlVFFwOTlxR2pPbWxNZjJYQmloRmo2S05sOXJDdEQxbllMeHNNNEw1b2ZNbjlfckJ3YzZqbTQ0WEZmcWo0T1hUTk43Uk56c0plOTFjZFpOdHJVd1hhRjVGTjVmQ09qajNIVDlPMWFneTZBSHBmUXRGNUtqSFpVRHNlR1k?oc=5",
+      "source": "RTVE.es",
+      "source_score": 55,
+      "published_at": "2026-11-10T09:56:50+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "‘Documentos TV’ estrena ‘Finlandia-Rusia, la nueva línea del frente de Europa’    RTVE.es",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "RTVE.es"
+      ],
+      "all_titles": {
+        "es": "‘Documentos TV’ estrena ‘Finlandia-Rusia, la nueva línea del frente de Europa’"
+      }
+    },
+    {
+      "title_original": "后悔叫特朗普“爸爸”，北约秘书长吕特：那是个巨大错误！可能这辈子都说不清了",
+      "title_zh": "后悔叫特朗普“爸爸”，北约秘书长吕特：那是个巨大错误！可能这辈子都说不清了",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUJ4bGxtdWpEcndKSDJuOUFzRGx4bXhGLUVjNVdOLUQ2ZUJnV045UWp4Sk1uY1YwTll1NjZpS3JMVjRJMTlBZ3hKel9HcUV4ekRVWkxhNzNheDFQR05qSU5zcHRsV1Myak5fWlI5azIwN0dPc3B5ald2WlpaM3B1TlkwdzR1bGVlM2Y3Zw?oc=5",
+      "source": "搜狐网",
+      "source_score": 40,
+      "published_at": "2026-11-10T09:38:47+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "后悔叫特朗普“爸爸”，北约秘书长吕特：那是个巨大错误！可能这辈子都说不清了    搜狐网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "搜狐网"
+      ],
+      "all_titles": {
+        "zh": "后悔叫特朗普“爸爸”，北约秘书长吕特：那是个巨大错误！可能这辈子都说不清了"
+      }
+    },
+    {
+      "title_original": "Mit offenen Daten - Naher Osten: Facebook im Zentrum des Waffenhandels - Die ganze Doku",
+      "title_zh": "Mit offenen Daten - Naher Osten: Facebook im Zentrum des Waffenhandels - Die ganze Doku",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qREh1S1hmY2V1azVCZ0x3QURZOFFBRUNFZ0xDQ092QzFoazFMZ193Ymloc2RvOEd1b0VjQmVQSzB1NnBYWjBLNVV0TDVPT0RzcEhCbWpaLTh3NHFCVjBqbk5LeThKQmZUZDkwQ29B?oc=5",
+      "source": "Arte-TV",
+      "source_score": 55,
+      "published_at": "2026-11-10T09:09:52+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Mit offenen Daten - Naher Osten: Facebook im Zentrum des Waffenhandels - Die ganze Doku    Arte-TV",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Arte-TV"
+      ],
+      "all_titles": {
+        "de": "Mit offenen Daten - Naher Osten: Facebook im Zentrum des Waffenhandels - Die ganze Doku"
+      }
+    },
+    {
+      "title_original": "ロシアとウクライナ、米仲介の3カ国協議を再開 欧州含む安保を議論",
+      "title_zh": "ロシアとウクライナ、米仲介の3カ国協議を再開 欧州含む安保を議論",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ST2N3TlRqOWJmWHB1R25GZ1FvbGQ2b1BpMzFob3MzTUFabVRRZW1BeE04R2pYWFcxSzc3ajYxcDJlV0tGbElTakM1M0owTzNjaHExNDFSZjVkRHRfVHdnZGtnUWtjaFhOS2E2SA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-10T09:02:38+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ロシアとウクライナ、米仲介の3カ国協議を再開 欧州含む安保を議論    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ロシアとウクライナ、米仲介の3カ国協議を再開 欧州含む安保を議論"
+      }
+    },
+    {
+      "title_original": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+      "title_zh": "DR Congo sentences 66 soldiers to death for being 'cowards'",
+      "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T08:39:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "DR Congo sentences 66 soldiers to death for being 'cowards'\n- Published\nAt least 66 soldiers have been sentenced to death in the Democratic Republic of Congo for cowardice, mutiny and refusing to obey orders, local media report.",
+        "The sentences followed a trial of 71 soldiers before a military court in Walikale, in North Kivu province, in eastern DR Congo.",
+        "Four soldiers were acquitted, while another was sentenced to 10 years in prison."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "DR Congo sentences 66 soldiers to death for being 'cowards'"
+      }
+    },
+    {
+      "title_original": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "title_zh": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T08:23:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy\n- Published\nUS President Donald Trump has said the FBI is investigating the affair between the chief executive of Nvidia and an alleged Chinese spy.",
+        "Trump said he spoke to Jensen Huang on Monday following reports that the US believed he had been targeted in a Chinese espionage campaign.",
+        "\"I asked him that question, 'Did you have any idea she was a spy?' He said 'I had no idea she was a spy' and I really believe him,\" Trump told reporters."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy"
+      }
+    },
+    {
+      "title_original": "Taiwán dice que China lleva a cabo maniobras de \"denegación de acceso\" en el Pacífico occidental",
+      "title_zh": "Taiwán dice que China lleva a cabo maniobras de \"denegación de acceso\" en el Pacífico occidental",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVpXUGJRZ2VxSHUwOE1oLTAyN1FISmhncWdLbDd1anVKU1dHSlhIRmNRRWFWT0taajZzSU56eDRsalU5WjhIdW12Q2hiQlZKRGVUN1o5X21zdk1CREk1d2JTT21zczVpQ1ZPLXpyZHZXcVhoY0NMX0FWNVpETFZXSmZTVTRfUVJXMnBxZmdqYmIzTmt5Q2xhUGFpd0c?oc=5",
+      "source": "Yahoo",
+      "source_score": 55,
+      "published_at": "2026-11-10T07:42:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwán dice que China lleva a cabo maniobras de \"denegación de acceso\" en el Pacífico occidental    Yahoo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Yahoo"
+      ],
+      "all_titles": {
+        "es": "Taiwán dice que China lleva a cabo maniobras de \"denegación de acceso\" en el Pacífico occidental"
+      }
+    },
+    {
+      "title_original": "Litauen verschärft Kontrollen von russischem und belarussischem Getreide – monatelange Verzögerungen erwartet",
+      "title_zh": "Litauen verschärft Kontrollen von russischem und belarussischem Getreide – monatelange Verzögerungen erwartet",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTndmRDJNa0x4SDRSeWt3V3Iyb1dGaHFXWnVHTDc1R044OE5kcWhMV05zRWMweWhnZi1rdG9SbWdMbTVKWWtQVnRhSDJDTEhjMG5yczZKVjVqTnlsYTMweldCNzhJWXBXNGVYOXhXSFBvRnJmd2hHM3d0ak5kYkFrMklkNEpuUlgzcURlQ1lhbTJDcTZYeE05aDhKdVVWTEpVZVVRUElGUEhHSjJzdWcyVmczZTZMX1V4XzFxUEM0ZHZqdjZJcGpqVEp4LUswSGNRcDZNMGxiNA?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-11-10T07:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Litauen verschärft Kontrollen von russischem und belarussischem Getreide – monatelange Verzögerungen erwartet    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Litauen verschärft Kontrollen von russischem und belarussischem Getreide – monatelange Verzögerungen erwartet"
+      }
+    },
+    {
+      "title_original": "Dos helicópteros NH-90 españoles protagonizan el primer 'alpha screamble' de la OTAN contra un dron ruso en Rumanía",
+      "title_zh": "Dos helicópteros NH-90 españoles protagonizan el primer 'alpha screamble' de la OTAN contra un dron ruso en Rumanía",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yUlowWExXUVVqa25lQ1VQeGpZZ2FlOXppbzVpV2RXYXJlQldRejV1LXZFT2VXWk5oNnhaS1pEOFNGb2Vzd2xtVUtiM3ZYZEl1S3FqMTRGVENmTjJZbWUxOEgwc3QtQlZuQ29BR2VpMndFVllWM2xXMnJ30gF6QVVfeXFMTkIxeWw0aC02YkwwbXRtcHZ1aWNjTU5YT29FMldpWFYwczhmY1dwV0xHM1AzaEJHOFhDMXpDdDNpY3MzNXpweTVaa2ZzS19RdTdBTnA3ZXhFNTF2ODM0TUhVYnBHMXlqTHMzcGZ6NEZCTS1CYUdIVjlhd1E?oc=5",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-11-10T06:55:14+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Dos helicópteros NH-90 españoles protagonizan el primer 'alpha screamble' de la OTAN contra un dron ruso en Rumanía    El Mundo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "Dos helicópteros NH-90 españoles protagonizan el primer 'alpha screamble' de la OTAN contra un dron ruso en Rumanía"
+      }
+    },
+    {
+      "title_original": "Taiwán suma cinco F-16 Block 70: ¿empieza a recuperar el ritmo el programa?",
+      "title_zh": "Taiwán suma cinco F-16 Block 70: ¿empieza a recuperar el ritmo el programa?",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGZmM4NHdUR0FwZFNDU1YwWV94MVZlSXFOS1BwdWtJRUkzbTJhai15TWMybFEzV1BJdjFYTUs5TG9mNS04WG1zRWdlWGVnemxzLU5hY0M2THRKWjVLZTVuQzJvZmgyRno2UnlyNmdrcw?oc=5",
+      "source": "Aviación Digital",
+      "source_score": 40,
+      "published_at": "2026-11-10T06:44:56+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Taiwán suma cinco F-16 Block 70: ¿empieza a recuperar el ritmo el programa?",
+        "Aviación Digital",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Aviación Digital"
+      ],
+      "all_titles": {
+        "es": "Taiwán suma cinco F-16 Block 70: ¿empieza a recuperar el ritmo el programa?"
+      }
+    }
+  ]
+}
