@@ -1,8 +1,583 @@
 {
   "date": "2026-11-11",
-  "generated_at": "2026-11-10T18:40:59.973177+00:00",
-  "count": 35,
+  "generated_at": "2026-11-11T02:46:12.210988+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title_original": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "title_zh": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T02:41:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor\n- Published\nThomas Markle, the father of Meghan, Duchess of Sussex, is back in federal custody in Florida after allegedly removing his ankle monitor, according to court documents.",
+        "Markle appeared before a federal magistrate judge in the Florida city of Tampa on Tuesday and was denied bond.",
+        "Prosecutors say he removed the monitor early that morning."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor"
+      }
+    },
+    {
+      "title_original": "(S+) »Maischberger« mit Robert Habeck, Witali Klitschko und den großen Themen der Symbol- und Geopolitik",
+      "title_zh": "(S+) »Maischberger« mit Robert Habeck, Witali Klitschko und den großen Themen der Symbol- und Geopolitik",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbS1UWFpYQkZoYXJUaGlwNDZKNDlVdjBLUmZnVEdESDY4a09QaW0zbU51bUlLUzN6dFBKSWNOX0t4RDdrcXB2SC1fclBGd0RaNFhhTDRzUDR3YzIyWkhmeThYS2dqN0ZzS0R4OU03MVpuVUpMUmcwNkN6VjU0VThFT1ROQjYxN2dHNUxHR1FMdEVuQ05uby1LMFpCZHhGN1M2TFFoODhQVjRNeVYzUUZOM0FvckFNOUVVSEJxOFh1dTA2aGoxeUxYSFVyOGpITEN0MVZUaElPekw5M3RTeng4ZXItc0dRS2ZGeEhqME5jZDZ3dmNSYmxkRQ?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-11-11T02:10:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "(S+) »Maischberger« mit Robert Habeck, Witali Klitschko und den großen Themen der Symbol- und Geopolitik    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "(S+) »Maischberger« mit Robert Habeck, Witali Klitschko und den großen Themen der Symbol- und Geopolitik"
+      }
+    },
+    {
+      "title_original": "中東でタンカー攻撃続く、緊張緩和期待に逆風",
+      "title_zh": "中東でタンカー攻撃続く、緊張緩和期待に逆風",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObm0zTnVVMWdjenB2V2xuMGdfMnlxWTI0eHg2bks3cnF2SV8zSFA4djYzVG1rQklxZE5yYmdnTmJsLWpyMTJRU0lFYm84UmNZOVNFb3cyTGhGN3M2LWk5M1BCTlJ5TnpmMUlmVjVoZUVPYkt1VHZuTUcteTNnQkhCeXhPNmJEaFk?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-11T01:43:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "中東でタンカー攻撃続く、緊張緩和期待に逆風    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "中東でタンカー攻撃続く、緊張緩和期待に逆風"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Zelenskyy says Putin ‘lives in a different reality’ as Abu Dhabi talks get under way",
+      "title_zh": "Ukraine war briefing: Zelenskyy says Putin ‘lives in a different reality’ as Abu Dhabi talks get under way",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaDF0RG9vblhsZXZRZTNwWFRYU285N2dfTHhFbzdnR21Vc2dPTjVMOEV5djBRdzhqZlNIZ2hCZ0hwVGVPcWZQNGFJdERxTW9pbVdqd3hYMml4YVpEcXZsTk0zYUZkWVJldlBFZ2pmeVFEMWNabUU3TkNzQU45aER2OE91RDFqM19Pemp2dWp0cTFIeUVvMEcwWDVEZDBUV3pzcy1uc2pFUzFjUXQ1VWUtWXRRdG5RZVZkdC1wbzB3VC1zLVVNQzhTWTlKX0ZLbFpaU0VFR251MTJyZXozTVdrdXZ2RQ?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-11T01:27:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Zelenskyy says Putin ‘lives in a different reality’ as Abu Dhabi talks get under way    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Zelenskyy says Putin ‘lives in a different reality’ as Abu Dhabi talks get under way"
+      }
+    },
+    {
+      "title_original": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says",
+      "title_zh": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUdDU2JVSnpLTmIzYVRmNm5Wb2Y3UC1vVElXMTZwdlM4M2YwRGZKT2tkYXI5YVlzRk1GZm5HRmY3NDlPQm1UaC1McjQ3STR0ME1LeDJCQ2NPQlVyU1RBa0RkSUotV2tSWndkN3NiQmdsVFFoVENFUVdFTExITml0bnc3RVdGcU1mSTB1T1gzcHpWMUM4MXFnSm1oWTdhZ0I2TG11M1JBU0xfUUtYLTNDRlcxeFpWcWZSUFVz?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-11T01:25:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "US and China should stay clear-eyed on AI cooperation and competition, Bessent says    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says"
+      }
+    },
+    {
+      "title_original": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "title_zh": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T00:18:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "'It can kill us': Kenyans fear impact of El Niño with floods predicted\n- Published\n\"It flooded up to here in March,\" Agnes Shikoli says, pointing to a spot halfway up the six-foot [1.8m] corrugated iron wall of her home in Kibera, one of the largest informal settlements in Kenya.",
+        "Her tiny house lies just a couple of metres from the Ngong river, which runs through this densely populated area in the capital, Nairobi.",
+        "The scars of floods in the long rainy season earlier this year can still be seen - including a broken TV in the corner which was immersed in water."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'It can kill us': Kenyans fear impact of El Niño with floods predicted"
+      }
+    },
+    {
+      "title_original": "ウクライナ外相「韓国との関係改善」、北朝鮮兵捕虜巡り対立",
+      "title_zh": "ウクライナ外相「韓国との関係改善」、北朝鮮兵捕虜巡り対立",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOFJrb09KSmcxQzdnaDJIM2owdEY5UjhVajJjVTFxdlpZLWlLWFFDalo3TmhOckpKaWQ5RktlUlo1bkZ1Q0FlNWVEaE93VXpMRk8zNllaQ0hFWmNCTzBjVGd4dGFlcllOY1ktMzJrbm80bHNFOTh4MEhnX3BndDF2dnFwbjlvZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-10T23:59:04+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ外相「韓国との関係改善」、北朝鮮兵捕虜巡り対立    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ外相「韓国との関係改善」、北朝鮮兵捕虜巡り対立"
+      }
+    },
+    {
+      "title_original": "ウクライナ外相、米に防空ミサイル供給加速要請 同志国の財政支援期待",
+      "title_zh": "ウクライナ外相、米に防空ミサイル供給加速要請 同志国の財政支援期待",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUUQ5V3cyc3pXZ2Eya2t0QmlPbm8wcXNOZ1EtT082bFBEQ2FHQ3NLdmZ0TmFqdkhJNURiNWtoYWliU2pYTGpmWl96dnFITXpkX3pMWU5DQW5IQVl6cFhEVl94WXdaaWt5ZGtxa3pmTHZIT3UzTUVmYVFwNVRwVjdla2tLVTNBZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-10T23:49:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ外相、米に防空ミサイル供給加速要請 同志国の財政支援期待    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ外相、米に防空ミサイル供給加速要請 同志国の財政支援期待"
+      }
+    },
+    {
+      "title_original": "قاليباف يكشف ترتيبات إيرانية جديدة لإدارة العلاقات مع الصين",
+      "title_zh": "قاليباف يكشف ترتيبات إيرانية جديدة لإدارة العلاقات مع الصين",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPT1JGRDlabHlTOHZSUW15ak9BVEsycDJjWklVXzh6ZjZ1MTEzX3R0QkJjVXByeGJYSngwRzU2T1BlLUpRRmwyVkswUzlDTWk4UDNBZDlmR0V5dnJPS21zeWpJRUJENFJWWE4xcTM3bWVPOU9qMThMNmRuTTZJWDRvRjdBZl93czR4TFcyQkJpbWd1aGU1amlIZUgxaDk1b3l6cUNXQ1BJQnM1Qi1RcmhXVkJScE9IZURhUXozclhzQnR6NjBxVU1TSDdkV2d0ZjdJLVNzLXowWU1hVTBOdzNha0FMeXFsYTBaeGs0VkpGRXYtc0llMUhNb0xUeXUyUXROSXpwOUh5ZWhwNmF2SmMyUFlWbE50NGJ6V2FLVThUeElQMzBaQW54M05xYmVET3owWExMT0QtSkY0NkFWTll2SVRrMGQ5VVpSeFE?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-11-10T23:05:47+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "قاليباف يكشف ترتيبات إيرانية جديدة لإدارة العلاقات مع الصين    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "قاليباف يكشف ترتيبات إيرانية جديدة لإدارة العلاقات مع الصين"
+      }
+    },
+    {
+      "title_original": "米国、ウクライナ・ロシア和平協議で欧州安保の「新たな枠組み」提案",
+      "title_zh": "米国、ウクライナ・ロシア和平協議で欧州安保の「新たな枠組み」提案",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VYmg1LWcwakRINUJOaFhwdzdqT2VWM19xQzB4NWdWZG8wRzBzT05MMXJMM0ZibTc5aWZVb1hZZTlIVFlkNEtrc0ZjLWl0T1E5ZWfSAVRBVV95cUxQMU4yTWVZdjRoNXJvb1ctV3N5dnVsdk1qQXlqaldEZjVnOWJlV0s3UWI0RGR2SXFSUERSSTFqd2JERjJjNmIwVUhScHV2TVRUWE1qV1Y?oc=5",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-11-10T22:59:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米国、ウクライナ・ロシア和平協議で欧州安保の「新たな枠組み」提案    AFPBB News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "米国、ウクライナ・ロシア和平協議で欧州安保の「新たな枠組み」提案"
+      }
+    },
+    {
+      "title_original": "ロシアとウクライナ、米仲介の和平協議初日 米国務長官「非常に生産的」 | ロイター",
+      "title_zh": "ロシアとウクライナ、米仲介の和平協議初日 米国務長官「非常に生産的」 | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjNBSDFVU0lsSFotR1NJWTgzdVE4LUN0X2JxMjRXcm9NWDd5S0ZuWGpuMGY4eWxmTjFOMGtJYkdDUkxTT00tV1NUNERpeUdTYjJOU0plVTNGcDZLdkZvc1YwSjR2dURNYlZPMXBxVUo3TmJ6NlBJYWRQU05kUS1vSFVCTWpVUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-10T22:56:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシアとウクライナ、米仲介の和平協議初日 米国務長官「非常に生産的」 | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシアとウクライナ、米仲介の和平協議初日 米国務長官「非常に生産的」 | ロイター"
+      }
+    },
+    {
+      "title_original": "El Gobierno autoriza otros 11.860 millones en contratos de Defensa para cumplir con la OTAN",
+      "title_zh": "El Gobierno autoriza otros 11.860 millones en contratos de Defensa para cumplir con la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVi1yT0NPSXI3SldZYjJFeHk0aUQ2ai1VZ093WldodGVNRTA0eGZZNkRxYkVWSXF4d1N6OHVRWng3TlRJSDJ2eUFfZkxGc1FhSHNGd3VhNndzN0t4ekFCa3dvSlM5eExPT3VabWFQQnJIWk0ydlNtVm0wUDAyZ2dCSnJJRlRWYlYwdVVVc3c5d1lBZl9WNk1Z0gGXAUFVX3lxTE9CdFRUSjlqWlZ3SC03RjNKSVdqLXJiZzJMTXdVVVZrdlJlbG5PTU5xdWM4NkhXZjZvWGVhd3NldHlmbjFmUGhPT0l1aVpuaEgtUUpwc1p4d2FZTEEtVkNjZmlramlLZkdnRkljVFhLN3Z4OHpLX29wNFh3X2l1U3JjRTdBSjEta0s2Vll0dGdxeXJYYWNxMDA?oc=5",
+      "source": "El Periódico",
+      "source_score": 40,
+      "published_at": "2026-11-10T22:43:50+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "El Gobierno autoriza otros 11.860 millones en contratos de Defensa para cumplir con la OTAN    El Periódico",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "El Periódico"
+      ],
+      "all_titles": {
+        "es": "El Gobierno autoriza otros 11.860 millones en contratos de Defensa para cumplir con la OTAN"
+      }
+    },
+    {
+      "title_original": "Aramco bajo fuego rebelde mientras Trump y Rubio se enfrentan al futuro en Oriente Medio",
+      "title_zh": "Aramco bajo fuego rebelde mientras Trump y Rubio se enfrentan al futuro en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd051SUphdkZlSTN1ZDVlblVFNzh1ejNMVlJ6TjRCUDltRU5OUjZKWVBnREVvMzdTUkFJSWJsVC14NzZRY1JEVFQzUWNaelJtOV9SemZiUnNYM2tSQ1pUODVJcnppYUtfUTBvWmpvcG01cU5XbVZkcEMtOGU0ZDhIUndsWWJpemlab3NzbkZ4UmJrQ1h1OExZcThzY2xuNkRTVV9VNHBRazBwdXFWa01STjhVQXIteFhLVkxYM3lXc1FyY3ZmaWlGWFNWX0FYT03SAdQBQVVfeXFMTVptM09pMHE4N1EzTFFJcGx5NVoxVkVGV0dkeHA1dTFFalNnUFZOT0s5QWFVeHFPck1sTG1aaFpNa1czVWxIUUJ2UnRITnVDTE9kcU9qeWhSTW51aUJDOGE4S2szYjRFVHhKTUZBd2pINHZyYm5UdzdOcGVoU1VMX0hPZDdRNHVhVDhmZnBFS2lvRkwxdEtGZjlmRGtlT0RUVVhMODdZdFprRDNQR0dycnNyTW9xeWxMVS16YXZSWjRfOFhOYVFBb2FaWkN3NC1PZk1ORHE?oc=5",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-11-10T22:41:15+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Aramco bajo fuego rebelde mientras Trump y Rubio se enfrentan al futuro en Oriente Medio    Negocios.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "Aramco bajo fuego rebelde mientras Trump y Rubio se enfrentan al futuro en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー氏「生産的だった」 米露ウクライナ和平協議、初日終了 11日も継続へ",
+      "title_zh": "ゼレンスキー氏「生産的だった」 米露ウクライナ和平協議、初日終了 11日も継続へ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjFqbWhIcWVpSC1GWWc3d3k0djFyNHFJa2hzTFZZbkJEUUMtY3hVOTBJS0J3cmVDMHphTmlOQ3BWRUpkZFdtX2s4SGdkd3dWOW0wY0ZnbnR0M3BDNGtMNVFQSWptUW5EUmVhSV9xNC0wa1p2NXJaYlJvQ0VkdlRYLVFJYjlYMFpvRnFFNQ?oc=5",
+      "source": "産経ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-10T22:39:46+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ゼレンスキー氏「生産的だった」 米露ウクライナ和平協議、初日終了 11日も継続へ    産経ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "産経ニュース"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー氏「生産的だった」 米露ウクライナ和平協議、初日終了 11日も継続へ"
+      }
+    },
+    {
+      "title_original": "G7外相会合閉幕 中東安定に向けた連携 ウクライナ支援継続確認 | NHKニュース | フランス、中東、ウクライナ情勢",
+      "title_zh": "G7外相会合閉幕 中東安定に向けた連携 ウクライナ支援継続確認 | NHKニュース | フランス、中東、ウクライナ情勢",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFZFgzWnFqS01sZ1d3VkNRa29XODV5ZUpRLURnUkhQQ2R6UUtzelBuN1NIUU9ndnNxTWlmR1VMOWtQNk82YUF0aVQ0dGhDVmVBbU1wNnB2N3BybEtSUWpZ?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-10T21:17:25+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "G7外相会合閉幕 中東安定に向けた連携 ウクライナ支援継続確認 | NHKニュース | フランス、中東、ウクライナ情勢    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "G7外相会合閉幕 中東安定に向けた連携 ウクライナ支援継続確認 | NHKニュース | フランス、中東、ウクライナ情勢"
+      }
+    },
+    {
+      "title_original": "Spain's king and queen attend memorial service for rail crash victims",
+      "title_zh": "Spain's king and queen attend memorial service for rail crash victims",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T20:46:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Spain's king and queen attend memorial service for rail crash victims\n- Published\nSpain's King Felipe and Queen Letizia were among those who have attended a memorial service in tribute to the 69 victims of last month's deadly train crash.",
+        "The accident occurred when one train, travelling at high speed, ploughed into the back of another that was stationary on the Madrid-Seville line, near the small town of Urda, about 40 miles from Toledo.",
+        "It was the worst rail tragedy in Spain since 2013."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spain's king and queen attend memorial service for rail crash victims"
+      }
+    },
+    {
+      "title_original": "US Army soldier suspected of spying for Russia arrested in UK",
+      "title_zh": "US Army soldier suspected of spying for Russia arrested in UK",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T20:20:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "US Army soldier suspected of spying for Russia arrested in UK\n- Published\nA soldier in the US Army has been arrested on suspicion of spying for Russia, British counter-terror police have said.",
+        "The 41-year-old senior serviceman was arrested near Gloucester on Tuesday.",
+        "Counter Terrorism Policing London said the man had been arrested under section one and section three of the National Security Act 2023."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US Army soldier suspected of spying for Russia arrested in UK"
+      }
+    },
+    {
+      "title_original": "Wolfgang Ischinger: Wieso 2027 Ukraine-Frieden denkbar ist – aber jetzt nicht",
+      "title_zh": "Wolfgang Ischinger: Wieso 2027 Ukraine-Frieden denkbar ist – aber jetzt nicht",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFJJeFZacnZlMllFR2lIZGNSb09mMktUYUg4aU03cWREeHllODVTREZhZmFTaHh4N1RKLUNEeThOLVFYUUVKWlJ2RVBiZEtqaFhDeFZHNHBpZEFyMlI1Qm5SNUUxU2RDVV9ESWRkLThlbWxpTmhXVi1ZOTlIR1JOQlRVNFZYUkxLcUFHU1k1ZTlmdTJqUXdMU3k5elNhRVFpNjlsMnBfR24yMUlGbzFoTC1NN3k2N2dEVmc?oc=5",
+      "source": "Berliner Morgenpost",
+      "source_score": 40,
+      "published_at": "2026-11-10T20:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Wolfgang Ischinger: Wieso 2027 Ukraine-Frieden denkbar ist – aber jetzt nicht    Berliner Morgenpost",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Berliner Morgenpost"
+      ],
+      "all_titles": {
+        "de": "Wolfgang Ischinger: Wieso 2027 Ukraine-Frieden denkbar ist – aber jetzt nicht"
+      }
+    },
+    {
+      "title_original": "米 ロシア ウクライナ高官協議 ゼレンスキー大統領「建設的」",
+      "title_zh": "米 ロシア ウクライナ高官協議 ゼレンスキー大統領「建設的」",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XMXl5S0xxSjhReGFuSGRtN3U1Qk5sSWRJcVloa2RsNllYRDFmNUVZOVZsUkxQNFNLUHhOYzc2bE1qXzFLb25vYTUwLUx1ZmlEcmNudldCMXBwd0JkSnNJ?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-10T19:55:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "米 ロシア ウクライナ高官協議 ゼレンスキー大統領「建設的」    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "米 ロシア ウクライナ高官協議 ゼレンスキー大統領「建設的」"
+      }
+    },
+    {
+      "title_original": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "title_zh": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T19:26:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Violence erupts in Bangladesh as ousted PM's supporters stage protest\n- Published\nPolice in Bangladesh have fired tear gas and rubber bullets to disperse supporters of the deposed Prime Minister Sheikh Hasina, who are demanding her return to the country.",
+        "A police vehicle was set on fire in Gopalganj district, where the banned student wing of Hasina's Awami League party clashed with security forces.",
+        "Nationwide protests by pro-Hasina activists started a day after the former leader said she had requested a passport to return to Bangladesh from exile in India."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Violence erupts in Bangladesh as ousted PM's supporters stage protest"
+      }
+    },
+    {
+      "title_original": "ロシア、ウクライナ10州の送電網攻撃 冬控えエネルギー施設標的 | ロイター",
+      "title_zh": "ロシア、ウクライナ10州の送電網攻撃 冬控えエネルギー施設標的 | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSThIeEswNDl2aWxYVDAzeGJpaGtWMHJPcnlpWWZoaDNkay1zOEJNWXZ6blhKVUF3dU52a25Oc0U0NEd0c2U5dWJKZzJ0b0pDUkRDNEw2eHJ1aUpxeVV5RlNRa3owajNmWW8zQXZpRGM3NW82bUJKS3RfOUNGVkRIUW96dXQyZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-10T19:01:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア、ウクライナ10州の送電網攻撃 冬控えエネルギー施設標的 | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア、ウクライナ10州の送電網攻撃 冬控えエネルギー施設標的 | ロイター"
+      }
+    },
+    {
+      "title_original": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
+      "title_zh": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
+      "url": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-10T19:01:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Countries clash over Sea Lion project as Hamburg tribunal risks deepening sovereignty dispute The people of the Falkland Islands face “devastating consequences” if Argentina is successful in blocking development of its offshore oilfield, the attorney general for England and Wales has told an international tribunal.",
+        "Ellie Reeves, representing the British government at a hearing of the international tribunal for the law of the sea (Itlos), said billions of pounds vital to the future of the British overseas territory would be lost.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK"
+      }
+    },
+    {
+      "title_original": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "title_zh": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+      "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T18:43:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness\n- Published\nThe US Food and Drug Administration (FDA) told makers of popular weight-loss GLP-1 drugs that they must add warning labels about a rare eye condition that can cause sudden blindness.",
+        "Manufacturers of Ozempic, Wegovy, Mounjaro and Zepbound must warn about nonarteritic anterior ischemic optic neuropathy (NAION).",
+        "The disorder happens when vessels supplying blood to the optic nerves become blocked, depriving the nerves of oxygen."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness"
+      }
+    },
     {
       "title_original": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
       "title_zh": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
@@ -129,6 +704,56 @@
       }
     },
     {
+      "title_original": "Israel's new parliament sworn in as leaders compete to form government",
+      "title_zh": "Israel's new parliament sworn in as leaders compete to form government",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T17:03:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Israel's new parliament sworn in as leaders compete to form government\n- Published\nIsrael's new parliament has been sworn in, as opposition leader Gadi Eisenkot seeks to oust caretaker Prime Minister Benjamin Netanyahu.",
+        "The former army chief has been tasked with forming a government after receiving more recommendations from members of the Knesset than Netanyahu, although not all those backing him are willing to govern together.",
+        "Eisenkot's bloc of four parties won 48 seats in October's election, while Netanyahu's bloc won 53, leaving both short of a majority in the 120-seat Knesset."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israel's new parliament sworn in as leaders compete to form government"
+      }
+    },
+    {
+      "title_original": "برنامج الشرق الأوسط 10.11.2026",
+      "title_zh": "برنامج الشرق الأوسط 10.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVnV5TEMySDZ3R3hFS3BTcEdBeVprbWFTd3A4bmgyNnpMYmxlOVlpTkQzYUVsMnhYaUNnYmJXRVliNE9CMUpRZm1VUnRNWmtGMnVRbVpJOVN3Q0I4cW85bTNOTGJ2YXo3anhWWFpMcDZIOW9wWDNjUFlyY2QtS01UYjRSWFk0akhKeDBmemE0ZU9DYkdFRXgyb1lMSVk5T3ZQ?oc=5",
+      "source": "Vatican News",
+      "source_score": 40,
+      "published_at": "2026-11-10T16:30:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "برنامج الشرق الأوسط 10.11.2026    Vatican News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Vatican News"
+      ],
+      "all_titles": {
+        "ar": "برنامج الشرق الأوسط 10.11.2026"
+      }
+    },
+    {
       "title_original": "Arrests made in Mohamed Al Fayed probe in France, police say",
       "title_zh": "Arrests made in Mohamed Al Fayed probe in France, police say",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
@@ -154,6 +779,31 @@
       }
     },
     {
+      "title_original": "NATO discusses deep precision strike capabilities for deterrence and defence",
+      "title_zh": "NATO discusses deep precision strike capabilities for deterrence and defence",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYkY3d3JHSkdOdVFDclczRjl5UWxuZ0twaHV5VU4yazIxYjgxdDNURDVOREVud2cyNnhWWGxGTnMwSk1zcDY1cTJ1Tm5rOXNkTXZiMlE2RC1wTl85ckpwYTd0QU9tVkctWW5XdlJyWUtkOVdycURFd2YzLXEtcUMxb3dFNDRXNjZueUdSWE9mNXlFcVhBekdKcGc2eEVqaXJpT25MMnZ2ZUFmRlp1T19KSGJQNzVnQWREMDVNbG9zTkpyeFF1YlV6RDM3T2ZEamhjM2xPY0lFY2w?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-10T16:15:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO discusses deep precision strike capabilities for deterrence and defence    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO discusses deep precision strike capabilities for deterrence and defence"
+      }
+    },
+    {
       "title_original": "ロシア石油精製能力3割減、ウクライナの製油所攻撃再開で＝関係筋",
       "title_zh": "ロシア石油精製能力3割減、ウクライナの製油所攻撃再開で＝関係筋",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVlp1UnJGTk1zN0F6b1VIQjBQajJ5XzZEaDBHNkRMenhkcldkMmVKWUxzZVpVNHZySXpDZGJxbG9tN1dlVVRqaTVVWnFlUFFKSGV0ME9sNkJQQzlFNGdocmV5Sm4yamwtRzYzU2RpLWhvX01KdWxoaUU0djJmVlJxdGJDSS1Ddw?oc=5",
@@ -176,6 +826,31 @@
       ],
       "all_titles": {
         "ja": "ロシア石油精製能力3割減、ウクライナの製油所攻撃再開で＝関係筋"
+      }
+    },
+    {
+      "title_original": "NATO and Ukraine boost their scientific cooperation",
+      "title_zh": "NATO and Ukraine boost their scientific cooperation",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXdRS3VPdFVDQ2dBelZacV9LQTQxcWtVcFB3bTNCUmNnejBrS1FZb1h0VjJYZWI4NWh6eTZOb3U2eUVzcnhvLTg4bEhKaE9hVmVSNWg0c1V6U0hta19NbEU2UTJ6ZjBfQXZVRGNMRERyaDR6bHlveUcxLWdqa3BjeDlNWUcxaEV4aGdoWWZiM0VXdDVXclNLNXNwWXUwdlBWeWx6ajF0bkl3RDNZbnExOU9JbmRYYUE?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-10T15:50:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO and Ukraine boost their scientific cooperation    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO and Ukraine boost their scientific cooperation"
       }
     },
     {
@@ -251,6 +926,31 @@
       ],
       "all_titles": {
         "en": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities"
+      }
+    },
+    {
+      "title_original": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "title_zh": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-10T15:21:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Board of Peace says Israel's aid response after Gaza floods 'insufficent'\n- Published\nUS President Donald Trump's Board of Peace has called on Israel to immediately allow all necessary humanitarian supplies into Gaza after rain flooded tens of thousands of tents.",
+        "The US-backed body, established to oversee the implementation of Trump's Gaza peace plan, acknowledged the steps now being considered by Israel, but said \"the response remains insufficient\".",
+        "Israel's military agency in charge of co-ordinating aid into Gaza said it had allowed in tens of thousands of tents and trucks with winter supplies, but added reconstruction \"can only begin after Hamas fully disarms\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'"
       }
     },
     {
