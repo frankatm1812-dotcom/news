@@ -1,0 +1,882 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-11T18:41:43.705276+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "title_zh": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T18:38:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "More than 6,000 Italian schools received a threat.",
+        "Authorities in all three countries say there appears to be no risk to the public.",
+        "It is not known if the incidents are linked."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax"
+      }
+    },
+    {
+      "title_original": "Taiwán revoca el permiso de entrada de Alice Huang, la presunta espía en el centro del escándalo de Nvidia",
+      "title_zh": "Taiwán revoca el permiso de entrada de Alice Huang, la presunta espía en el centro del escándalo de Nvidia",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPalhrS0tFeHV0ak9ReERvemVpdmduNnpuZXUxdmJ0WmdZeDloR0FISEFBYVpOYUFnanVpTkwyMFFSdGYyYUVRd3JoZ3gzN29zd2xLOHdfbjRKQkktTnpBdlpVcUhXaEswVkxrYXR1Rk5UaXhaUGRBZ3I4X04taGNDSEE4WFpZTDdvTW5VMHJ4ZWdEd3RLbUtpUkxLWHRVQk0zWjlhNVlPbWFCVi04SGRMb2tJUGs1NDNHYWNNY3VkUF9DYzNQRDZWSDVjNXpFS0ZmLVJ2VFUzajFsTi1EdHB4TU1uckw4N2dBb3fSAf4BQVVfeXFMUEtkT3dMa0NPLUpmY0ZRUlJ6bGt4U05TSXR1T2FKTmdpOVcwM0NUWnhzdURHYW10cEVOcDdyNkNvMWUyQVQ2V2lUTVkwZWZZajgyZHpmM3lJSV9tLVVOX0R0U0dFalJCdnJUb3pNdGZOYU9YT2trcndvZ2pPcFNwa2dZNk9TZFItWU5ZLU9Pck42N2Y1UjhkVkIzT2VLTWsxelFqOUMxbjhvSC1oS2hOMFZVbjlaRlpJelhXdEFLVktENlNnb3dJbUFPd2c0bjNidFVUOE12Zk9TXy1XdTJEOHAxTkgxazVYbmNLZXJPQmhVbFlBZmo0UDdLZ2pXalE?oc=5",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-11-11T17:53:15+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Taiwán revoca el permiso de entrada de Alice Huang, la presunta espía en el centro del escándalo de Nvidia    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Taiwán revoca el permiso de entrada de Alice Huang, la presunta espía en el centro del escándalo de Nvidia"
+      }
+    },
+    {
+      "title_original": "‘Draft Marco’ effort grows on Capitol Hill after midterms bloodbath",
+      "title_zh": "‘Draft Marco’ effort grows on Capitol Hill after midterms bloodbath",
+      "url": "https://www.politico.com/news/2026/11/11/hill-republicans-rubio-vance-2028-01160686",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-11T12:35:13-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "More and more Republicans see a wide open 2028 presidential race — and are eyeing Marco Rubio.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "‘Draft Marco’ effort grows on Capitol Hill after midterms bloodbath"
+      }
+    },
+    {
+      "title_original": "ウクライナ和平、欧州安保秩序の再編が焦点に 米ロ主導に欧州警戒",
+      "title_zh": "ウクライナ和平、欧州安保秩序の再編が焦点に 米ロ主導に欧州警戒",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03WmtOcjQtVmY4empxb29sdEx3ZXlleTZqLXpidHoxNzhfVjBHanY3cUo2S0VTclhIRFZ2SmlfeDJmWjRQUEJCSVhuSFBKRTRoY0lmaE1vM3p2RkhoRk5hbGdFZU13Ql91TllDdw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-11T17:31:14+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ和平、欧州安保秩序の再編が焦点に 米ロ主導に欧州警戒    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ和平、欧州安保秩序の再編が焦点に 米ロ主導に欧州警戒"
+      }
+    },
+    {
+      "title_original": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "title_zh": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T16:59:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says"
+      }
+    },
+    {
+      "title_original": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "title_zh": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T16:38:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Indonesia's vice president resigns amid signs ruling alliance is fraying\n- Published\nIndonesia's Vice-President Gibran Rakabuming Raka has submitted his resignation, an aide has told the BBC, in a move which could further strain the political alliance that helped propel President Prabowo Subianto to power.",
+        "It comes after Indonesia's Supreme Court ruled that a high-school document used during Gibran's 2024 election campaign was invalid.",
+        "The ruling prompted more than 100 lawmakers to support a parliamentary initiative that could have paved the way for proceedings to impeach Gibran."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Indonesia's vice president resigns amid signs ruling alliance is fraying"
+      }
+    },
+    {
+      "title_original": "كيف ينعكس قرار إغلاق مستشفى الأونروا في قلقيلية بالضفة الغربية المحتلة على المرضى المعتمدين عليه لتلقي العلاج المجاني؟",
+      "title_zh": "كيف ينعكس قرار إغلاق مستشفى الأونروا في قلقيلية بالضفة الغربية المحتلة على المرضى المعتمدين عليه لتلقي العلاج المجاني؟",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIUzZWc0I2UGVXZU1EMXZIWWR6WWJqU0dsVElYaVFZWHNGdHN3bkFWWi1jeUZWSDVUaWZRb2RlQjQtWGJ5THNKZUFHS29iejg1cGlHUWtZejNJSWQ1VHNYU18xOTZRdVl4SXdv?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-11T16:30:06+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "كيف ينعكس قرار إغلاق مستشفى الأونروا في قلقيلية بالضفة الغربية المحتلة على المرضى المعتمدين عليه لتلقي العلاج المجاني؟    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "كيف ينعكس قرار إغلاق مستشفى الأونروا في قلقيلية بالضفة الغربية المحتلة على المرضى المعتمدين عليه لتلقي العلاج المجاني؟"
+      }
+    },
+    {
+      "title_original": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+      "title_zh": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-11T16:05:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans Britain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a Dominium maris Britannici , Argentina has told an international tribunal.",
+        "Marcelo Kohen, representing Argentina at a hearing in Hamburg, mocked Britain for apparently believing in the historic doctrine that the British crown has sovereignty over expansive parts of the oceans.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case"
+      }
+    },
+    {
+      "title_original": "Biden says he wouldn't have run in 2024 if he knew about his cancer",
+      "title_zh": "Biden says he wouldn't have run in 2024 if he knew about his cancer",
+      "url": "https://www.politico.com/news/2026/11/11/biden-2024-cancer-diagnosis-debate-performance-01160750",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-11T10:29:34-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The former president also called his debate performance “not very consequential” in an interview with People magazine.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Biden says he wouldn't have run in 2024 if he knew about his cancer"
+      }
+    },
+    {
+      "title_original": "La crise au Moyen-Orient ravive la lutte pour les derricks en Birmanie",
+      "title_zh": "La crise au Moyen-Orient ravive la lutte pour les derricks en Birmanie",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQamFwVlQ5TlZjV1hhMmJaYXhCSTI2bllTc2t1ZzBObGZnRWJXYmd3eXd2Y2dYOHlEckk4ZXR1dDF6d1R4eFVad2VlaHlwaVJTZ0RROVhOUjRpc3pnYmtaVzdNU0RYRUdYZlRsdFF5dktRN1hxS3Zlb0w5X3ZCYkZiZnFDcThJSnByTDlsV0xvbm1QSlNZNDZoVUE3Y1V4N1RGVFB5NE1OamMyeDIySnhfM3ZKUWFJUHVCVVpQeHhzVGc?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-11T15:14:04+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La crise au Moyen-Orient ravive la lutte pour les derricks en Birmanie    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "La crise au Moyen-Orient ravive la lutte pour les derricks en Birmanie"
+      }
+    },
+    {
+      "title_original": "ウクライナ巡る3カ国協議、最大規模の捕虜交換で合意 米特使訪ロへ",
+      "title_zh": "ウクライナ巡る3カ国協議、最大規模の捕虜交換で合意 米特使訪ロへ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZOVY0NzJxRUhQNm9VNi1qWEtFenFnUlExLXlVVnA5NU9LNERkb3FRYTNmOV82UTBCMURUTmF1WnVmOHZDa3g2OUVldHE0NU13b3YtV1hQV0hrcTZqVHFqUXZOVjRVSk1Zel9XMg?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-11T14:56:46+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ巡る3カ国協議、最大規模の捕虜交換で合意 米特使訪ロへ    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ巡る3カ国協議、最大規模の捕虜交換で合意 米特使訪ロへ"
+      }
+    },
+    {
+      "title_original": "中国驻美大使谢锋：中美关系经历波折起伏，但互利共赢的本质特征没有变，中美建设性战略稳定关系定位，是迈向大国正确相处之道的必由之路",
+      "title_zh": "中国驻美大使谢锋：中美关系经历波折起伏，但互利共赢的本质特征没有变，中美建设性战略稳定关系定位，是迈向大国正确相处之道的必由之路",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzZfR3ZlLWpsWXFQNjRydVg5bWtqa1h2NlhtS0s2QzgxNUxWaFNudkFaMHBDYXVJUC1jYWRXbU0wdG0zcHh3QW51M2xqSXNTa01xSGJPQWp4SDEtTzA3clB3R1ZkNE1rb0lpN1RsdVE0NDNhTjROU0MwNGNKUTBEekI3eTh0Z2lM?oc=5",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-11-11T14:39:55+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中国驻美大使谢锋：中美关系经历波折起伏，但互利共赢的本质特征没有变，中美建设性战略稳定关系定位，是迈向大国正确相处之道的必由之路    Sohu",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "中国驻美大使谢锋：中美关系经历波折起伏，但互利共赢的本质特征没有变，中美建设性战略稳定关系定位，是迈向大国正确相处之道的必由之路"
+      }
+    },
+    {
+      "title_original": "Killing of journalist underscores deteriorating conditions in Ecuador",
+      "title_zh": "Killing of journalist underscores deteriorating conditions in Ecuador",
+      "url": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-11T14:00:52+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Tomás Beltrán was shot dead amid gang warfare that has turned Latin American country into one of its most violent Tomás Beltrán was manoeuvring his car into his garage on Sunday night when the Ecuadorian journalist was shot dead.",
+        "Beltrán ran a Facebook page with news about Calceta, a small city in the province of Manabí, whose Pacific coastline has made it a key flashpoint in the gang warfare over drug trafficking routes that has transformed one of Latin America’s safest countries into one of its most violent .",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Killing of journalist underscores deteriorating conditions in Ecuador"
+      }
+    },
+    {
+      "title_original": "G7外相会合、ウクライナ停戦交渉「米の取り組み支持」 共同声明",
+      "title_zh": "G7外相会合、ウクライナ停戦交渉「米の取り組み支持」 共同声明",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ybmE0YnRPSGNKU1ZMVmZrbnpBVEROckdMZnB6eWRBME8teWRUbzhSR2xKRTdnSDByajA4c2V4M18tZ3RybHZlWlNVR0Y5RUREMHNFVXNuaFczaXNIbGN6WUtucmdWLU5XNnRyag?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-11T13:55:15+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "G7外相会合、ウクライナ停戦交渉「米の取り組み支持」 共同声明    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "G7外相会合、ウクライナ停戦交渉「米の取り組み支持」 共同声明"
+      }
+    },
+    {
+      "title_original": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+      "title_zh": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T13:25:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'\n- Published\nA criminal court in Cairo has postponed the retrial of the prominent Egyptian journalist Lina Attalah, whose case has drawn international condemnation.",
+        "Wednesday's opening hearing was adjourned until 18 November after defence lawyers representing the editor-in-chief of the news outlet Mada Masr requested a new judge.",
+        "The UN has warned of \"widening assaults on press freedom by Egyptian authorities, including the targeting, persecution and harassment of independent journalists\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'"
+      }
+    },
+    {
+      "title_original": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+      "title_zh": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T13:24:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Four grizzly bears killed in Canada after fatal attack on mother and daughter\n- Published\nFour grizzly bears have been killed in connection with a fatal attack on a mother and daughter in the Canadian province of British Columbia.",
+        "Jennifer Balcarras, 48, and her daughter Selah Reed, 20, died earlier this month after going on an afternoon walk in a trail area in Bella Coola.",
+        "The British Columbia Conservation Office Service (BCCOS) launched an investigation into their deaths and forensic testing has since confirmed a sow and her three cubs were responsible for the attack."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Four grizzly bears killed in Canada after fatal attack on mother and daughter"
+      }
+    },
+    {
+      "title_original": "Russian diplomat says Moscow could conclude non-aggression pacts with NATO member states",
+      "title_zh": "Russian diplomat says Moscow could conclude non-aggression pacts with NATO member states",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOXp1YjFNMWVTN0dFYmJoQ0x6RFU1NjJJeGVCb0FDVlJRSENFRFpRYWxxMmQxTTN4ZUFCWjRGOGdPeDhIOW5SdkYzNUszLWQ2c1pxcXlLdGdjMEVJbWg5Ym1GWTd2al9velFmdUhCWXN0RkVqN3NLRnlKU3lPejRfbzZzRzkwQjVtakxGcXJUcEwzY251RlQxaWRFVnNUemJhdktiMFZsSnk0V01GOV9aT3dHcXlFS0VRSnRCcHRXU2I?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-11T12:57:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian diplomat says Moscow could conclude non-aggression pacts with NATO member states    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Russian diplomat says Moscow could conclude non-aggression pacts with NATO member states"
+      }
+    },
+    {
+      "title_original": "大規模な捕虜交換で合意か 米露ウクライナ3者協議 ロシア報道",
+      "title_zh": "大規模な捕虜交換で合意か 米露ウクライナ3者協議 ロシア報道",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6N1hXYTMtbUtGbWxHTmVsRjVCQ0V1eXk4NTRna0ZWUmVmSFZCT2NtWDZsbk5wVHRMYm9yLVozQ18xajJINGVwZTYyaGswRjZzc2tiUkxJWnk0WmRHMHg1ekN3V2JDcHNk?oc=5",
+      "source": "毎日新聞",
+      "source_score": 40,
+      "published_at": "2026-11-11T12:38:22+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "大規模な捕虜交換で合意か 米露ウクライナ3者協議 ロシア報道    毎日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "毎日新聞"
+      ],
+      "all_titles": {
+        "ja": "大規模な捕虜交換で合意か 米露ウクライナ3者協議 ロシア報道"
+      }
+    },
+    {
+      "title_original": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+      "title_zh": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T12:14:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Haitian PM praises El Salvador after joint strike on alleged home of gang leader\n- Published\nHaiti's Prime Minister Alix Didier Fils-Aimé has praised \"the commitment of the Salvadorean forces in the fight against gangs\" after a joint strike on a house allegedly used by the leader of the 400 Mawozo gang.",
+        "El Salvador's President, Nayib Bukele, had earlier announced that a joint task force had \"destroyed\" what he described as \"the house of Lanmò San Jou and the 400 Mawozo gang's headquarters\".",
+        "A small contingent of Salvadorean troops has been in Haiti since January 2025 as part of a multinational force deployed to suppress gang violence."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader"
+      }
+    },
+    {
+      "title_original": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
+      "title_zh": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T11:47:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US House blocks bid to impeach Defence Secretary Pete Hegseth\n- Published\nAn effort to impeach US Defence Secretary Pete Hegseth, accusing him of waging war on Iran without congressional authorisation, has failed on Capitol Hill.",
+        "A majority of the House of Representatives voted to refer impeachment articles to a committee - essentially killing the effort introduced by dissident Republican congressman Thomas Massie of Kentucky.",
+        "During an earlier briefing, Hegseth called the impeachment effort a \"farce\" and \"sabotage\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US House blocks bid to impeach Defence Secretary Pete Hegseth"
+      }
+    },
+    {
+      "title_original": "Transport workers in Chile block highways in protest over surging fuel prices",
+      "title_zh": "Transport workers in Chile block highways in protest over surging fuel prices",
+      "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T11:34:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Transport workers in Chile block highways in protest over surging fuel prices\n- Published\nHundreds of transport workers in Chile have blocked roads and highways across the country in protest over high fuel prices.",
+        "Drivers of busses and lorries began protesting on Tuesday, gathering in convoys to halt traffic along major routes.",
+        "They are demanding a relief from surging diesel prices, which have been driven up by the war in Iran."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Transport workers in Chile block highways in protest over surging fuel prices"
+      }
+    },
+    {
+      "title_original": "OTAN : des avions chasseurs échouent à abattre un drone en Lituanie, alerte dans les pays baltes",
+      "title_zh": "OTAN : des avions chasseurs échouent à abattre un drone en Lituanie, alerte dans les pays baltes",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLW1keU1Edm1ZSWVzZmRwaG9RUElBU0F5VGFQVVFRbFpVODludXRKUVpYS2dveVk0VUplcUgzUFNkejFiejVSNy1Nb1VCZ1BLTHFvQXFRYUZ1YVVhbVFETzNMWEUzQjRWSUJud1kxbmxVTHFXWThIT0pyeTBFMDJ1MXNvQ1NrcU5ndDVlWTRBQXZfNk9vSS1MX0FJR3JTMGhzRzA2VXdMenR0SHU0QkNaakZjc3pOWUpNZTZVUmlFWjY5N2s?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-11-11T11:34:46+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "OTAN : des avions chasseurs échouent à abattre un drone en Lituanie, alerte dans les pays baltes    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "fr": "OTAN : des avions chasseurs échouent à abattre un drone en Lituanie, alerte dans les pays baltes"
+      }
+    },
+    {
+      "title_original": "الشريك في الاستشارات التكنولوجية لدى PwC الشرق الأوسط لـCNBC عربية: 93% من قادة التكنولوجيا يشيرون إلى زيادة الإنفاق والاستثمار في الذكاء الاصطناعي",
+      "title_zh": "الشريك في الاستشارات التكنولوجية لدى PwC الشرق الأوسط لـCNBC عربية: 93% من قادة التكنولوجيا يشيرون إلى زيادة الإنفاق والاستثمار في الذكاء الاصطناعي",
+      "url": "https://news.google.com/rss/articles/CBMimwhBVV95cUxQTHQ2cG5vdzd3dU5FbXhyZG9uWGE1WmNIUENVaWJhanc5RU8xa21BX1U4LU5YSmVqQWVRendhUF9CcC1MTXpzOU9hV0FSSXhSOHFqa1ptQW9PN1RDYjI1MlNEaEEwVXVONHN2dnJoRU0tdmp5Zk9Fb2xCSUxfN3FPLTZ4QzlQeEgwMDY5Z2ZrNUgyOUpkQXRqcFB3V2p3TlUzUHhxTUVNREVZc1lWckliWDhPVGhzNGtXT1diZTAxejdCVnNOQkI3MFVmandjS0JjV3NCcVgtcXVBa1hHb21jX2tiRTV0LTFCN3dEU2lTRGJSbkNLb2l0blF0czBFOENVMTRuN2lkUUhZSjMwbkVJMlo4bnIxZEtVNDdTSlZiVXpSYUJKNFl6M05DeU9uMGZtWnBNLWFObDZhbG5WQWg2SVRXXzAwWVhoZFh6Y2xpNHpxMW9RdWs1cFQ0Rm1yUk1vbzZIRTFWMk5adG9nam81ZGRHYkJBQ19uaktQOFc3Z2NJdjlaaGd1cjlyb01KWmVkbG00eUZOM1k1bVJlNDZmT3BKd040MVE2eUEtbnhxeXVsNjRjb2JpTjluZ2NUaUJiMjltM2xacGR6bHpjYlc2bEJWTU8tbnFLZmY0LTh0NE9WNTA3bHktVXZPS3B4QU5rZktjZFlaYlU2R3QyNmJESUNJNjhNLXpNRnplbUljelJPNVV1dEZ3cGxpZXhBV3BOUE5Xei1HREc3UEp3U3JpODJPU2lvZC1vaDROV2Q1SDB2M09RNUJLMTdjTlNZODNrc0E1dkpwM2k1dVlFSmx1dFdfMHVpdF9Ld1ZQbU1BM2FMaWlDTk9hUTZxcVJpSnI4WkluUEE0enAtRmp3TjB0UnRuNlBSX3JicTJONi1idjBGb2Rkb2o1VzRxbG81MEo2QUpETGlNN3U4dlBieUdoMmJoV0hNRmlwckFhbkhmR3RxY0Y3c2diTXBNQ1k4NGxvVElOT0FFVnVBYXdrTkVXVFI4ZXBNeXhoSFNBN1NIaDJSX1R0MEt4V3JVOVpPSzFhVG1nQ0xNSmNJbEF4d095VzJ6OFdlaDh6U0VDcEJha2NXd0YzODBMYlJnWE9sRmdGYTFzRmdQOEU3UzhPNkRyRnQySF9ZbkxhcG0ySTM1WWlialhXRld5dnVoUDhVUzk5djE1WVhYTW9faVZkMFNQYWkxSnZ6RElaRDQ2MFphR2Q1OGxHX0N4NVRLU2tnMEp3dUNnRmNQdDNZcVJadU9CZkwwN05PMmw4c3M3TEs1XzBFMjQzaldmdUVZaFNHbHJLbUxXekFUeTVEbGNrdjNkNmUwdTFMa3k4dUNPa1lIbnhlNHpaUkpjQ0hkMFhqZGRHaC0yd1pJM25YSXBTaThDRGQ2eWFtN2RpQjlF?oc=5",
+      "source": "CNBC عربية",
+      "source_score": 75,
+      "published_at": "2026-11-11T11:25:39+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الشريك في الاستشارات التكنولوجية لدى PwC الشرق الأوسط لـCNBC عربية: 93% من قادة التكنولوجيا يشيرون إلى زيادة الإنفاق والاستثمار في الذكاء الاصطناعي    CNBC عربية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "CNBC عربية"
+      ],
+      "all_titles": {
+        "ar": "الشريك في الاستشارات التكنولوجية لدى PwC الشرق الأوسط لـCNBC عربية: 93% من قادة التكنولوجيا يشيرون إلى زيادة الإنفاق والاستثمار في الذكاء الاصطناعي"
+      }
+    },
+    {
+      "title_original": "„Die Europäer spielen in Abu Dhabi nur eine Randrolle“",
+      "title_zh": "„Die Europäer spielen in Abu Dhabi nur eine Randrolle“",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQVI5R2tJOWgtYWFjTVdFVGNOMzFORDhqc2cxeUxQUmxHUU8xQm80NXZkRlpWdC1BeFFTWkxEaFZMYlBpWmNNLXNteElMMXpuaFNOWXBrYmVBMm1zZFVUQmo1Y3Y3eHdMRUdHbThMUTJUY1VUMkw4SHUyRC1RZV9QRGhPaUlCb3lKcUt6eVprWHh1ZnF4UGFjN1dDVmtrSWMxWmJISW1oZTlSYTh5WHl6SmVPUzVhbnNGZ0xKTnhjZkl6UFd6UU9YYlJwdWdnV1B1ZFdDZWRhdEdrLTItMTc3ZWgtSmxCYjJVaVZCRUFGcw?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-11-11T10:40:18+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "„Die Europäer spielen in Abu Dhabi nur eine Randrolle“    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Die Europäer spielen in Abu Dhabi nur eine Randrolle“"
+      }
+    },
+    {
+      "title_original": "Alerta en el Báltico: cazas de la OTAN despegan de emergencia tras la incursión de varios drones",
+      "title_zh": "Alerta en el Báltico: cazas de la OTAN despegan de emergencia tras la incursión de varios drones",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSmRSODQ3ZGo5dVpUZGptOVdKaFo2X1dCcXJMV0xVS1B4R04xU2d5R1VIcC1nYmdEWlJraVlNZi1pVXpyazFpYTgxYzhJbzYwTDhfaWlfc2hTbDNRTVpkUFhHTmJzOHhHNEk3eU5EUVhMLTN2SUtReUVOUUVKQmpVdVN0dUlWbmlYZXRLbThkbnlnQ2k4RkFPV0p2Tk5QcDB1Y0Y5YlYyUjl5aFR5ZmdWX0FGNjlmcHEzWDQwVl9GeWFhSmo0Z1ItZnUwbmtsLW43aUZXYXp5ak1EYWdhUWpPR9IB9AFBVV95cUxPd1M4Ri03OFp3N1JrenRpSGdHUHhDck10YUpSRWluZWZLb25XaDRGSDdxaGJMRmFLamxaV3FDSEJ6Z1dqZndYejl6S1NZVEMwWlpFbGMtSE8wN0p3QkQxX0dyMVVFdDRZVXRmZ1ZGa1hqVUU2UURGTHdYVEZERzJYWVdZZkVFczZaMHE5c1JDRnI0TGFFYU5PaG12bkNGTmd2WTBlcWNOSnpZUmliNUVvRzNYM1lSZEJIak1UQjBfX2toOFJpSDFtWndJUllOQXpvaGl2OUN0WnpLU0RISmxMbTZ4bHV4R1hoN1ZycFkxQ21Uemto?oc=5",
+      "source": "La Razón",
+      "source_score": 40,
+      "published_at": "2026-11-11T10:10:14+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Alerta en el Báltico: cazas de la OTAN despegan de emergencia tras la incursión de varios drones    La Razón",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "La Razón"
+      ],
+      "all_titles": {
+        "es": "Alerta en el Báltico: cazas de la OTAN despegan de emergencia tras la incursión de varios drones"
+      }
+    },
+    {
+      "title_original": "Drones se adentran en el espacio aéreo báltico y obligan al despegue de cazas de la OTAN",
+      "title_zh": "Drones se adentran en el espacio aéreo báltico y obligan al despegue de cazas de la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zaGh1ZGs2SXRmdVFqeE9DRndtd3B3eVlhc0lYZ1BHXzNCV0tZX19NdGI0Y3Z0NkpfeGVrZE1kTlFRWV9YRHpWNGJ6REhsd3F5QzZhd1phRHBzN1YxVml6cDRhal9vNFU?oc=5",
+      "source": "EFE - Agencia de noticias",
+      "source_score": 40,
+      "published_at": "2026-11-11T09:58:48+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Drones se adentran en el espacio aéreo báltico y obligan al despegue de cazas de la OTAN    EFE - Agencia de noticias",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "EFE - Agencia de noticias"
+      ],
+      "all_titles": {
+        "es": "Drones se adentran en el espacio aéreo báltico y obligan al despegue de cazas de la OTAN"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Kyjiw nimmt offenbar erstmals Indonesier gefangen",
+      "title_zh": "Ukraine-Krieg: Kyjiw nimmt offenbar erstmals Indonesier gefangen",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmF3MU1DdDV4QS1NMUxZWlNKSWE2bDRsUnAtZ2cybnVMMFV4SFd6UHFOYlowZ2RhNVJES0hjUVM0dXJXU0FPWkFTUklfSUhfd21Bdk1PT2hvUjRxQXg0Q1F2UFh5MThLdnFRRkFFd3hqd0JxT0UxRUdFWVk3UjVRcXZQTFZRd2VwdlNSbWVaZXhCWTRKUTl3ZlF4eGVUSWxyTlBDd0ctRmg1MHJvLUEwcnMweGtKZS1xc2VJdGJRMzNrU2puemctdEpuMnQ?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-11-11T09:18:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Kyjiw nimmt offenbar erstmals Indonesier gefangen    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Kyjiw nimmt offenbar erstmals Indonesier gefangen"
+      }
+    },
+    {
+      "title_original": "الشرق الأوسط.. ساحة الديمقراطيين لملاحقة \"فساد ترامب\"",
+      "title_zh": "الشرق الأوسط.. ساحة الديمقراطيين لملاحقة \"فساد ترامب\"",
+      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxONXBDY0FRNnpDcEJPMnRaZko3ekZHakl5RXVHUGlxRGE0cUFmY2RNQUFJenZiSkNid2xYTGRoU1o3QzJLZVpDazJEMWpmWV8zSzZKOTRiR1g3MDFPN1FHVlR4U29RMVJuWEwyWHRlUHg0VmtkeG5nb1BUZWwwMm03cDZfdkp1T2N3REVIZ1pvelJoZzZkTnRvU0Y3R0FlU0tzWnF4aEhOOG5rX01fSnQzb0JEenFPWnlSNHlzMGo1ajE1cW42Tm9fcW5ITG5YbDhmZC15MG9iM19iYWk5N01JOGdYaFZwZU16MUxGMW9SbkdfNmxORzJsUnh5SnlEMS1vOHA1VG5rOW5TMVd6TmM1a1FUdjlwZlpiQks4TjlZOWVnS2ZUNWtVNDU0RnZMOTNJVTIxN1d3OWdGSlNoZzNXeDJGc0tRUEZqMHJLZjVha293amJDa2FPZmN0MzZYTDRzTml3VjAyMXMzX3liNmxubmxVZ1g0d21MMzZRYThwUzEzeW5NbGgtNTdRemdzY21pOHBkWTBVZ1RvbXVLR0xQS3BWelpwRTRla3F5NDhMNXNHMC1fVTRTTzBqZUV5WXNZaFJtQlVMSTV5VXZTQmpfMkpibU1FU0xUbE9feFViSTVHZ2tKcW9ncUdHT0k3UzRqS1QtUHhpYTNZakXSAfsDQVVfeXFMUG1uMFg5ZjBENUhvNEczLXVuN2dib29iZ05CWV84RFRRQ1VfX1d6ZERlOHZlOFRuV3EzeTZic2s1U3NrOHhLSmlQRHduOWlvYWhTbjZYZEU3XzZqSlVzdjdhZVozWFp0Q2xKV2txRFlIWnRFcFJjNGtYeERBWnI2ZnB4bGloVnEydXBRNXplWGtFSmZpeTZvMkpoMXFjTktzNWFLNlRyeC11andYbzA4eFpYX3ZqcnNXUi13VFZzU3NQWDlGdU9MdjhCMUdueGNySDkzMHVIYnpldlhKQVdGVzVZbEtzZGFnT3Ewbzk5UWZNcGpiamh4Tmp5eXpMVW9VYVRmR05tU3VYN1pXRFh6Q0JzQm92M2N1UGdiNzZ0TmF0REd5MGt1a21sRG9WYkNnWm1ZZlFQT1hjaVJyYUpxcEJaYzBqejNoMmtXamYxMDI0VW1vSVV2MWFoQ2lqSnpURGU5N183MV9lMFd0R3FQODhKQUM0czFNN0xKTDhZdEJ5MmRGR0RpQjE2NHhiUl9EV1FKTFV1bjVpWnV3VnU4TllpZ0FpN255NGgtaEYyenE1d3RrbHhaMERRTHhrRDhmQ1VwajN2eGNseHI4ZGdtZ2FGa0lPbG01VW1oUkwtS0lnSkREaGhkX1ozOFJEWllaZURNcXl5aTNYWlVB?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-11T09:06:35+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "الشرق الأوسط..",
+        "ساحة الديمقراطيين لملاحقة \"فساد ترامب\"    DW.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "ar": "الشرق الأوسط.. ساحة الديمقراطيين لملاحقة \"فساد ترامب\""
+      }
+    },
+    {
+      "title_original": "لامبورجيني: عمليات التسليم للشرق الأوسط عادت إلى طبيعتها",
+      "title_zh": "لامبورجيني: عمليات التسليم للشرق الأوسط عادت إلى طبيعتها",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOWFNKSHVXQUhqaEV0eVhxNUJ3S002dm92WXdoc3dJQkJ0ZGFweGtoOFpRdGNBRDBhb3dRbF9jYUN5c1lhcUVBUnlsODJfUFFJZEpiZjlDdmdPUkx0UU5BS0VoRTl6OFJSWlFrcllFZVdacV9SVVdMZENlNS1pcjA?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-11T08:55:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "لامبورجيني: عمليات التسليم للشرق الأوسط عادت إلى طبيعتها    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "لامبورجيني: عمليات التسليم للشرق الأوسط عادت إلى طبيعتها"
+      }
+    },
+    {
+      "title_original": "地缘政治风险缓和、AI企业财报重振市场情绪，道琼斯指数期货大涨",
+      "title_zh": "地缘政治风险缓和、AI企业财报重振市场情绪，道琼斯指数期货大涨",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSzNWQl9rUU1WVFIzdDlKTDl4VHVsdkpvOUJyOE9CaG50VnVkZUdSazg4TmJZV0dZdmNzZ2owNjhYcXVYbzl1d0VWXy14N0NEYUhFaVBva2sxZXlxTlNJRHg0NjdOZGRlazJxWkVQNF8xNUswbjF3ZlZvak1Sem1pYXR5Wl9XOVFtS3prWVBWLVRqSDlyNlhtcGZiSWtwdVJzQ2RGMDN1NXFDUzlsblpna1A3TUJ5QnEyLTNOMVpIV1F0UU5HZ21send4bkMyRXFnUHc4bV9vVHBjdV9GT0tuWk02WlAzbVpic0FXdl9NUkY?oc=5",
+      "source": "www.tmgm.com",
+      "source_score": 40,
+      "published_at": "2026-11-11T08:40:13+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "地缘政治风险缓和、AI企业财报重振市场情绪，道琼斯指数期货大涨    www.tmgm.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "www.tmgm.com"
+      ],
+      "all_titles": {
+        "zh": "地缘政治风险缓和、AI企业财报重振市场情绪，道琼斯指数期货大涨"
+      }
+    },
+    {
+      "title_original": "American soldier arrested on suspicion of spying for Russia",
+      "title_zh": "American soldier arrested on suspicion of spying for Russia",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb282MTNtOGV3Q0hfeW9ZcWFodDgtMFdGQkRGUmtlOVdLVzVUQ013TGl3UlRDOEJOQXlnNWgzeFZkU3doU3psekwtSUw5aGVSWjUtazlmR3B3bVdGS0t2SVBIRDIxT21YM0dubzZhczVoTl9yRUV3QzRJb010NFU4MGtB?oc=5",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-11-11T08:30:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "American soldier arrested on suspicion of spying for Russia    CNBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "American soldier arrested on suspicion of spying for Russia"
+      }
+    },
+    {
+      "title_original": "Rutte vuelve a atacar a España y también a Portugal por quitar importancia a la amenaza de Rusia y Lisboa responde con dureza: \"Es lamentable\"",
+      "title_zh": "Rutte vuelve a atacar a España y también a Portugal por quitar importancia a la amenaza de Rusia y Lisboa responde con dureza: \"Es lamentable\"",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQalUwNFhuX1oyelZOeTUyZ05lNlJGRUJKOGJnTkJxYTF4R2lZSFhlTE9BNzlDQ2ZFeGppbjgxRk5FZktXT1l1T3R3aGMxZXUzekNja3hzWVZlaGl5N0xWTTl1RWZFMl8wSUNWN0RoLUJDbmh2SGdlS2x5TXdGaFNuSG1ub9IBgwFBVV95cUxPY0VNQl9GOThsX3JMQWZ4RFVUalFaTEJkZWV4UmcwMmU5TzhWYVF2M1M5dnEtZDQxM1RDMmdhV1k2eWtJdTVQMENXeFdjUDdLbUZIcHFnX09yaV9sUDh3eHU2X2RiOGp5M0Y5ZVNrZnNiN19hZ240U0NEZTZGb053LWM1MA?oc=5",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-11-11T08:22:11+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Rutte vuelve a atacar a España y también a Portugal por quitar importancia a la amenaza de Rusia y Lisboa responde con dureza: \"Es lamentable\"    El Mundo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "Rutte vuelve a atacar a España y también a Portugal por quitar importancia a la amenaza de Rusia y Lisboa responde con dureza: \"Es lamentable\""
+      }
+    },
+    {
+      "title_original": "العالم رهينة القرار الأمريكي.. هل يدفع \"الشرق الأوسط\" والبشرية ثمن مغامرة نووية في إيران؟",
+      "title_zh": "العالم رهينة القرار الأمريكي.. هل يدفع \"الشرق الأوسط\" والبشرية ثمن مغامرة نووية في إيران؟",
+      "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxQY0x2Z1M3YkpiQU1jN3pYcFdoVjdMdzIyd25FazhhUHVfUU5LWEVla1NwdnBFUXltSnc0c3VPZy1CaHJyME1fSXlucHlMVUs1Z0RJZnYwNWR0aHp4RGNnbENRQTIwU0NnZlBHT3hOTzRpR1h6WFQweDA0bmRjMVJDZ1ZkV2N1dGUzRjhta2ZhNjNYbHRiVWg0XzNOeDZuX2J6SlpWaGR0MUx1VjVGNXB6MVZ0cF9WNVNoeFZBY2lwUHFvNVk3eGt1LUZOSVlRQ05qWWRsTFVhTFBnNW0zRzlzQlZ0WFUzdVdlMHRXRUpKTHlGS2ZZWFNVN2Y1ZjVJUG9Ub0Q5bGtKQ2dlTm1ZZEZvckxpaXl6bjBUOHJVdG9tLTlsVDkxZktxYjNWWHJjUXZjX1VLM05FOVA1Z3pnZlUzZnZrOFdObmtMNHNGU21qZi1GWXplVEtCUDJLQTlmbXVwdHFVZ3ZXSlBiekRTdlhJeFNacWtVMVZlUDJ0SXg5bmJ3U2tOTGxNYVY4ek5hNzBuYXJrVWRhNXEzaG16ZDA3YW1PcFNUYWNCeEZ3c211azNMdWVDem8xRVlKNFhEcTlIQkQ4M3ZMUXA5N3FuY0JFRkhsV3BCaUZhcXdhSl9tNkZsMHVVVUx4b0VjNjVvcDVVcl9WeFUyV2dFNWJyc1BZY2g3ZTJFdDhMRmhTempfMWVCWF9KSHNtMmVkbXU5S191Mm5oQmY0YTJxeGt6elRhV1I1Yy1ESGw2cEljVWZ4YjIzcEM4aTBzT1AtV0pjLXFsUlFWRTZ3cUs2YVNrLTA3T3p0cVJtTUlMdkxUVzVBVDVTa1FLekcwMkg4Tjd0eG9UbkQ3cWlmdHBZdXNjS2cxYWdNZ0xnNWdPQ21sVGJKUmVULW1YQ2RDTW5pV1jSAbIFQVVfeXFMT0pBSXpHX3VUWU9BLVVQcGV1YkVNbEpCeHNTUFpGdXZNYUh6YS1jbURQWkZDdll3bUppMEd4X05DdngzLVlUSFZXdzVSeU9jaDVNcGJBOG5xaWtmdVE3REtYXzFQbERCejZyVXdjcEtTYWR3NzJjTGlpaWUyQTVSM3RjNWVraU00WTRrREctMDIzeHVSYVl1bWJEZnlTMy1FeHRJUEZzVmxrZ3ExUlZOdF9wZ0xNd3hEMnhKaVpVNkFZNzBobTlpRGZhM05VOFpoaHNEMElYSkt3b1drNE1pYXhJdmhzNFl2MWhBZm42dU1TTVM1a0ZmVjdNekdQWU9CUVk1cF9IWnB0cVRHa0l6UEVIMF9yYXctaDJES1RtV1lwN2RiRWJ6dVRkSHdNa0c5OG9JYjVqdnFTMGF4RWV2bnZyanp5TC0wTHkyYVFacmRTUncxdG5NYnJQbHItbDVwLWdqTXYwMklCMGg5M29UQVN4bHNhN3hnZElRLUkyQVNnY2pQNUktaVUwS3ppNnVfeVYyNEpzWUFzdGZrNzU5cDFMZkR1YTVpZDByOHZ4MWVkZmlYUkx4d2Z5ak1XeDVhM2hGd1h4STdnX2RoLWFpQ1E3amhoVFNBREZRcHJ6MGNqUGxNY1EwZlBKSjNXRnBqV3ZoM2VlRjgxcGFVaXF0REl0Yy1KVGdLSkRTWTAzWVc1bFh5VnJWUnRhX3M4cDNCTUNtVllWMDgyMlhqYUdrekxkSTViajdwX2c0aWxyQ2xMaEEza09zSlpOeEoxVndXT3hYalZOR1ptRU40eDA3SDAwcnJTN1FEcnFodk9zRWJYN0otakpKNERhQWpsTWt4cDdYblZsNXdzOV8tOU5SaURyWnFLRDNhUjZyeUVPNjVZeWVLUVRKQW4yNm5vMFNvOHZR?oc=5",
+      "source": "تسنیم",
+      "source_score": 40,
+      "published_at": "2026-11-11T07:00:40+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "العالم رهينة القرار الأمريكي..",
+        "هل يدفع \"الشرق الأوسط\" والبشرية ثمن مغامرة نووية في إيران؟    تسنیم",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "تسنیم"
+      ],
+      "all_titles": {
+        "ar": "العالم رهينة القرار الأمريكي.. هل يدفع \"الشرق الأوسط\" والبشرية ثمن مغامرة نووية في إيران؟"
+      }
+    },
+    {
+      "title_original": "Vereinigte Arabische Emirate - Selenskyj \"zufrieden\" mit Gesprächen über den Ukraine-Krieg in Abu Dhabi",
+      "title_zh": "Vereinigte Arabische Emirate - Selenskyj \"zufrieden\" mit Gesprächen über den Ukraine-Krieg in Abu Dhabi",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlhXWC1JdHdWOTVHT044aUlJWVBHTlBnU0ZzTnluMjRCZmZUYXhhbS0wYk1QeXdiWEMtM1ZmbWJEV08wcGJMbzk4VVh5NXp1V1YzdzRaU2F0YnR0bnVWbFVxOEwxa21wREFIeGdMT3hIdmprbDd2dm5RUXFVbEFteGhHZFE3MmZfVFRBY0ROVVlITVkwNWFqTjZCRmZEVEJoZWFEbnFnSlUtd2tJN2IwQ2J3?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-11-11T07:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Vereinigte Arabische Emirate - Selenskyj \"zufrieden\" mit Gesprächen über den Ukraine-Krieg in Abu Dhabi    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Vereinigte Arabische Emirate - Selenskyj \"zufrieden\" mit Gesprächen über den Ukraine-Krieg in Abu Dhabi"
+      }
+    },
+    {
+      "title_original": "Affaire Nvidia : la Chinoise soupçonnée d’espionnage s’est rendue à Taïwan avec un passeport hongkongais",
+      "title_zh": "Affaire Nvidia : la Chinoise soupçonnée d’espionnage s’est rendue à Taïwan avec un passeport hongkongais",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNSkxEVk1tWW9WSzB1c0lCQWpVTG1RTW43amU1RkpyTk1UYm9QUkJFX2pvYTBveURVVVRfUlk4OFoweGpBTTJWYzY5ck1zTFRHam56Y1ctUkhPdjR4bmwwdkNpdlJ2U2sxZGg4RF9MV3djNHNmOXNzaGZlZGozLUpSS1kyRl9JVmhkR0ZzQkh4a3dNREQtemZaRXMxUXhOYm1nWDZzRk1wQi1uQlV4dWU2QXJzeHk1MXQwLWFhS2FxY3VwR3RXREVZTVpicGVxeHdlR0RMbjA2b3JqUm1SYks5YTN4QVp2VUp5a3dOWllEaTBqTDFvTXFVNm5Dbkc5Q2NHb1l2TmRJcTM3aUN0aXJ4RF8xdDJPRl9TcG9iSjZuX2FTaEdXVUtrSw?oc=5",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-11-11T06:57:35+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Affaire Nvidia : la Chinoise soupçonnée d’espionnage s’est rendue à Taïwan avec un passeport hongkongais    Ouest-France",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Affaire Nvidia : la Chinoise soupçonnée d’espionnage s’est rendue à Taïwan avec un passeport hongkongais"
+      }
+    }
+  ]
+}
