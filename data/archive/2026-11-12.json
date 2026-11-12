@@ -1,8 +1,683 @@
 {
   "date": "2026-11-12",
-  "generated_at": "2026-11-11T18:41:43.705276+00:00",
-  "count": 35,
+  "generated_at": "2026-11-12T03:47:57.555418+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title_original": "Más de 6.000 militares y vehículos aliados de la OTAN se despliegan por las carreteras de Lituania",
+      "title_zh": "Más de 6.000 militares y vehículos aliados de la OTAN se despliegan por las carreteras de Lituania",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb2dNTVZsVnVROVM2ZmVFQ3A2LWRMLUh1YWdOMi1xaWRkUnRSZUlyRmRNMTZ6Tlg4OGtFVEYyXzRKT21TcnI4d2hBS1Zvanh2X0RiaXZCOHNOZzVJN09jYXlmZ29jT1FjUFBwa3JCYU1USDRHSXNKdElIa2E4ZXBKLUI0QkQ1LThzbWdrWTdMaVBqYklaTlVtNXlkMDRMTkp6ODNqVFo0R25sSjRGRnBWaTJkU011dUYyVlFqdmpVYnpLOFNBdURORdIBzgFBVV95cUxQQmUzWElMT1MtRGpGTUtSSUYwV0owcmluOU9QY1k1YjJWbXN1QkRYenhRV2Z3bVJxYmJQaC1jRldETURRQzRHVVpQOEozajZONGl2MTV1T29OekM4YWJ0S2xqM2R0RUFLQzk4VmRYYWtHcjN4cTY4WEFNYmpNNDFwb1daUTMta0EybHNMMGViSGl0bVFlSWFoLW92RXU5REZCRnNNV2Q3TU9tMWpjcDY3dUJpUUNJOVhvUDJHNThkRVJGLU5vTXJZaUtSZWQ1dw?oc=5",
+      "source": "El Debate",
+      "source_score": 40,
+      "published_at": "2026-11-12T03:30:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Más de 6.000 militares y vehículos aliados de la OTAN se despliegan por las carreteras de Lituania    El Debate",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "El Debate"
+      ],
+      "all_titles": {
+        "es": "Más de 6.000 militares y vehículos aliados de la OTAN se despliegan por las carreteras de Lituania"
+      }
+    },
+    {
+      "title_original": "中国政府中东问题特使翟隽访问阿曼 就中东局势深入交换意见",
+      "title_zh": "中国政府中东问题特使翟隽访问阿曼 就中东局势深入交换意见",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14YTNpNVpMMTRRSVg1UUxTWGp2eWgtQzR6bVFoTEQ4ODhmM2tNMHhsOTlNMnROaUxhdG9kYnpFS0RSWUR4LWktQ2hPWQ?oc=5",
+      "source": "东盟头条",
+      "source_score": 40,
+      "published_at": "2026-11-12T03:10:33+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "中国政府中东问题特使翟隽访问阿曼 就中东局势深入交换意见    东盟头条",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "东盟头条"
+      ],
+      "all_titles": {
+        "zh": "中国政府中东问题特使翟隽访问阿曼 就中东局势深入交换意见"
+      }
+    },
+    {
+      "title_original": "خريطة جودة الهواء في Galta",
+      "title_zh": "خريطة جودة الهواء في Galta",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6SFREX2NiZFRsMENQZHNJZm1LSHExRDNuVEgwWnJ6ckkyWGRYVjBXaXZ3VDJ4SFgtTVVra0pNN0w3eW1neUVZNHhkYl9QWjdYQV9sT1dBYl83U2g3VTMyRVFOdXhrUG0yVkhycGE2cw?oc=5",
+      "source": "IQAir",
+      "source_score": 40,
+      "published_at": "2026-11-12T03:06:55+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "خريطة جودة الهواء في Galta    IQAir",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "IQAir"
+      ],
+      "all_titles": {
+        "ar": "خريطة جودة الهواء في Galta"
+      }
+    },
+    {
+      "title_original": "Australian teen missing in bush for six days rescued alive",
+      "title_zh": "Australian teen missing in bush for six days rescued alive",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-12T02:40:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Australian teen missing in bush for six days rescued alive\n- Published\nA teenager missing for six days in dense Australian bushland has been found alive.",
+        "William, whose surname has not been released, disappeared last Friday while on a camping trip with a friend in bushland about 180km (112 miles) east of Melbourne, Victoria.",
+        "Extremely cold overnight temperatures had left authorities concerned for the 17-year-old's welfare."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Australian teen missing in bush for six days rescued alive"
+      }
+    },
+    {
+      "title_original": "النفط يهبط وسط آمال في إنهاء صراعي الشرق الأوسط وأوكرانيا",
+      "title_zh": "النفط يهبط وسط آمال في إنهاء صراعي الشرق الأوسط وأوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iYXVTQVowZ1lFSHhkLWRDLWluUk1Mdnk3c1VOa0EtQ3JQaFVySlcxN3FfSWJQOHlqcWVzc3BIZFJqa055MmlraHYyOGVhSThHRlBNYWg1VmJJSUNtSm8wX1Q3ZWROQlpNd3ZDeEpObXp1bHQxM1VWR0djREtFWTA?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-12T02:34:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "النفط يهبط وسط آمال في إنهاء صراعي الشرق الأوسط وأوكرانيا    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "النفط يهبط وسط آمال في إنهاء صراعي الشرق الأوسط وأوكرانيا"
+      }
+    },
+    {
+      "title_original": "原油先物1ドル超下落、イランやウクライナ巡る和平協議進展に期待",
+      "title_zh": "原油先物1ドル超下落、イランやウクライナ巡る和平協議進展に期待",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ocy1PMkpNLTRhNl82b0tDN2tYXzQ2ZmRoQjV4LUdOY0REWW0zek15dTlrckFVNmFIblh0Zk1vYXAxYkZ6bXRyOUhkOUV4M1NIX0duZkVHMGxDT1VwNEpwa01mcVJ5WHBqQi15OXY5Y2RIWE9kbDh3SkYxanE3ZzQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-12T02:15:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物1ドル超下落、イランやウクライナ巡る和平協議進展に期待    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物1ドル超下落、イランやウクライナ巡る和平協議進展に期待"
+      }
+    },
+    {
+      "title_original": "مقتل شخص وإصابة آخرين إثر انهيار مبنى في نيويورك",
+      "title_zh": "مقتل شخص وإصابة آخرين إثر انهيار مبنى في نيويورك",
+      "url": "https://news.google.com/rss/articles/CBMiwwRBVV95cUxPUXJkb1E4bTBVSzBKRFRzV3I4cXNoaFIxS015TlltZ2pOaThoYTlqeEJpNkZVTk9paEpxNUVZQW44Qlp0R3ppT3BYTjRJUy02SUNtY3VTZzQxc2ZpS0JkNXVwcnpfUVkyTkFNUklCNG1vdGRRX1RwYTYwVjF1bWFkYmdObmtkdGZDRkcxSHlQTm9XZzd1MEVRbTVpSHNhN0trbm4tU1RnMDJtU0taSE1LNDU2RC1Id3U1MnVQMVlmbUdmZ3NqN0ROU2h5eUQ4NzluYms5Ri15NWlfLVIzYjI2QW9adzY5S29vMmhpYkNDOC1ZWHU1TUJSYlQzLWFmY0tENXlrYjRtc3RuU3hoU0dGZTF1dmVhcXhMSndLX3htcXk5elRsMVp3Qkl5OEFiREFTYUlHMWV1dGVWSDQ5ZWRBa1lScWZYV21aMG1zcmJLQmZzS3VwOVZGNXpXNFNzVVpYUVRCX1NJTWxmR0o4MmtGRmZrRno0NTBqd2JCcFpmQ1dfX0J3cWVzZ0MzOFhfcEoySU1SUU1xRmd4dVExbEFXVlE4T1lGQ2VDODdXUmdYNWxXVmtuTHBjMktlNjNNaFZmTWZJb3VkaFp3RzBJaVdDOG9aWGNWeFFGRzNIaHlVODRNMlBtbGZpM1ctNzNhT2FVS19lVHpXME1QNlotaU84UzJYUlk2VlRTMlZONnkxaTdTUUVkRFJQdlh0UGduZkM2bXl1QXZjVG9BVEV3VVdyeVlCSEpEMVQ3b29aS2xzdkZZdnc?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-12T01:28:22+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "مقتل شخص وإصابة آخرين إثر انهيار مبنى في نيويورك    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مقتل شخص وإصابة آخرين إثر انهيار مبنى في نيويورك"
+      }
+    },
+    {
+      "title_original": "مجلس إدارة «إنفيديا» يجتمع للنظر في إقالة رئيسها التنفيذي",
+      "title_zh": "مجلس إدارة «إنفيديا» يجتمع للنظر في إقالة رئيسها التنفيذي",
+      "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxQTmNKNXFYVkluUU9qdjdzVmtIeVVSUERtS3Y1MHVOYXZVQjllWm52eDJVd1g1SFFBTXl3QjUzX1VCckNYdHl2U2gwVXVkNWVNRDkwbkNtMXVVNWJlX0tjVVZNT0tVam5DVklfNEN1eVNWRnhFemRKbVVMLVZrRnhSN2VFUlFyNUpKZENyTzNSOGJKTERhY1A0WUVYLWR6U1hueUstdzBVbFZSM0hDUVVIaHNFSTFZTFNqbk1FWGhGZGRSdTRKYlpIa3lyUm8xcmNGa0pLZmViN0JJc3EzblhuQ2ctUGFZbnllS1lpdjFMQklJMnJOOHl0RE14T0dUU1Nwb2JBMjFvaGVYQ0ZXSzJjcE5EWGs0SU50RnZSVXZHckxfMldEQXVxWUdybkR3elVQMmQyU0FTNzVvbWtIMy1WN0ZEWnp0bnJPNUJ6ZVg4bXlXdUQ1NlZvaTY1cXRTWi1HMy0wRWY0cnhhdmNKLWZBTGppeW1kQi1Vay1yQTBHelllbXNkZEVNZ0ltMmg0djQtYndqUnFKNXp0VGNtaDV5ZXhnUlNBd3NmR09Zek1tZVhyRWhOSjlXX2hidEJTTURSNjgtYTF3dFd5SV8tUVpUSUZ3TkFqZU1IUC0xWVoyc19vODZmVjY4aW1WbGJyWmRpd3JKZ1B6WlI4V2lJWGNaUDEzOUI1cmNiS0xKeFRnMExTVHAxRVNqckVNdWxaQmw2Ri1yaGRYc2I3V1d1eHZRTFJIX2doZTY3QTl6SjRqRTZJdWV0Y3ZQdkhWOWtXTjhDcHl2WHJmdm1QU0Z6T21ISW9hMnZzcnU1SnZZQnV4RW1yNENVMWx2Q2pzaw?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-12T01:16:35+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "مجلس إدارة «إنفيديا» يجتمع للنظر في إقالة رئيسها التنفيذي    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مجلس إدارة «إنفيديا» يجتمع للنظر في إقالة رئيسها التنفيذي"
+      }
+    },
+    {
+      "title_original": "エヌビディアのフアンCEOは米中関係つないだ「最後の大物」、信用失墜の代償は",
+      "title_zh": "エヌビディアのフアンCEOは米中関係つないだ「最後の大物」、信用失墜の代償は",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXNkx1dk56OGhEcGx6aDFMdDBtVFhHZjRjdHJ4aDZsYXBLeE9aVXd3YjRTSWo0N0dLUE03ZEVEYzVxbExhNmt6MFZTMEVScl9qTzVNbWxYZUUxSnlrdGtBMUlKX3JiYkNQcTQ3MnFZYXB5VC1BMWg0?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-11-12T01:13:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "エヌビディアのフアンCEOは米中関係つないだ「最後の大物」、信用失墜の代償は    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "ja": "エヌビディアのフアンCEOは米中関係つないだ「最後の大物」、信用失墜の代償は"
+      }
+    },
+    {
+      "title_original": "金融界财经早餐：中美关系新定位加快落地；央行报告强调维护股债汇平稳；券商研判2027年A股 “N” 形走势；AI交易热潮回归；Anthropic估值目标抬升、阿里千问Qwen4将发布（11月12日）-手机金融界",
+      "title_zh": "金融界财经早餐：中美关系新定位加快落地；央行报告强调维护股债汇平稳；券商研判2027年A股 “N” 形走势；AI交易热潮回归；Anthropic估值目标抬升、阿里千问Qwen4将发布（11月12日）-手机金融界",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCYWR2bGkyaDd4WVM2V2RESjdpalJ1Y0NJMVBNVEhEZElkSjFINHEwUHZGanZ4bEk5bFNuSjlpUkVTRVJ3OXN0OVM2c0hQcjJzWG5SN1N5Z19zc3Zwd1dnUTlMWGF3MFRJcmN5MUxtX1Fpc1FB?oc=5",
+      "source": "金融界",
+      "source_score": 40,
+      "published_at": "2026-11-12T00:26:02+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "金融界财经早餐：中美关系新定位加快落地；央行报告强调维护股债汇平稳；券商研判2027年A股 “N” 形走势；AI交易热潮回归；Anthropic估值目标抬升、阿里千问Qwen4将发布（11月12日）-手机金融界    金融界",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "金融界"
+      ],
+      "all_titles": {
+        "zh": "金融界财经早餐：中美关系新定位加快落地；央行报告强调维护股债汇平稳；券商研判2027年A股 “N” 形走势；AI交易热潮回归；Anthropic估值目标抬升、阿里千问Qwen4将发布（11月12日）-手机金融界"
+      }
+    },
+    {
+      "title_original": "专家：要真正结束乌克兰战争，中国可以发挥相当大的作用",
+      "title_zh": "专家：要真正结束乌克兰战争，中国可以发挥相当大的作用",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFRPMEZONFdPbUFCekFxSGJBbk9zaU4xdzhaYlNYLUZQQ1FhaDgxckh6ZDJFWXA4YXc5cl9sLS1Yb2Y4X1U0VkoxZkUxQUFzeGJCX3g2NVRXc1daWWdGNzdqLTdmcTd1TGxscmVMMEdqeTlYak9HandDNHM2UVlQSUdOUC1jd2NUS0FKZlBaZkNBTTJsTkUwSzMzVjNPeGZVUldMaVo5TXNSdGMwVXJrcnRoM042dGNFblHSAbwBQVVfeXFMTXdQZ1hod1RjbkFIbW40UXd1QW5ScTBWM2dlSG1uVzdLRmgxREdoUUM0a2FEaEI1TXRGMzZBamtIWXR4X2dQbDFpU1N4MHE0azFaV0JnTjVHUHJWZU55eU5OOUFUS2szQnB1RF9rbXhrNU9LalJzQ0JQS29sZTJheS1GRVJTYkYwU3BDbDQyM0RRcjRobGZnQW5jNDdiRWNEOGZwbGVYSW1zem91Yll3WXZfZm5nS3dQWjFEZjY?oc=5",
+      "source": "美国之音",
+      "source_score": 40,
+      "published_at": "2026-11-12T00:20:45+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "专家：要真正结束乌克兰战争，中国可以发挥相当大的作用    美国之音",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "美国之音"
+      ],
+      "all_titles": {
+        "zh": "专家：要真正结束乌克兰战争，中国可以发挥相当大的作用"
+      }
+    },
+    {
+      "title_original": "10月企業物価指数 前年同月比7.1％上昇 中東背景に伸び率拡大",
+      "title_zh": "10月企業物価指数 前年同月比7.1％上昇 中東背景に伸び率拡大",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aZGZHSlJDa3VRbDVHRlJjbUpaYmxQQy11eXhVVXpIQzNXd1U3VFB0TXFSRmFad1hoVm9SZk5MU1BrOVRXcEd0b1AyRlVOUmk4VFJDN2I5c2VObUZOWno4?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-12T00:20:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "10月企業物価指数 前年同月比7.1％上昇 中東背景に伸び率拡大    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "10月企業物価指数 前年同月比7.1％上昇 中東背景に伸び率拡大"
+      }
+    },
+    {
+      "title_original": "India Ups Its Ukraine War Diplomacy",
+      "title_zh": "India Ups Its Ukraine War Diplomacy",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzdxcHdocUdCSDJUMWw5dmNJTG5UYXhaMjZtUFZSSWt5X21TdGNwdGNndFZycXJSODg1NEs2ak9CckRLZi1SeXBaa1FGc28zTWVsOWJLakw2a1BGS0ZMMXY1RjVDY0wzc2xmVUhXVjBfTFJFM3dRdG1HMFRTUHJXdkRxVmg3aEJoN1E?oc=5",
+      "source": "Foreign Policy",
+      "source_score": 75,
+      "published_at": "2026-11-11T23:25:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "India Ups Its Ukraine War Diplomacy    Foreign Policy",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Foreign Policy"
+      ],
+      "all_titles": {
+        "en": "India Ups Its Ukraine War Diplomacy"
+      }
+    },
+    {
+      "title_original": "Mississippi elects Democrat Scott Colom to Senate in massive upset",
+      "title_zh": "Mississippi elects Democrat Scott Colom to Senate in massive upset",
+      "url": "https://www.politico.com/news/2026/11/11/scott-colom-wins-mississippi-senate-01161555",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-11T18:01:13-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Colom's win is a boost to the Democratic Party as it seeks to gain a larger foothold in the South.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Mississippi elects Democrat Scott Colom to Senate in massive upset"
+      }
+    },
+    {
+      "title_original": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
+      "title_zh": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
+      "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-11T22:50:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but whose remains were taken to the United States and used in racist eugenics studies at Harvard University, were repatriated on Wednesday.",
+        "The remains had been outside Brazil since the 19th century.",
+        "One was taken about 190 years ago from Salvador, the capital of the state of Bahia; the other, about 160 years ago, from Rio de Janeiro – and were welcomed back in moving, subdued ceremonies in both cities."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー氏、年内の成果に期待 「米ロ協議の行方が鍵」",
+      "title_zh": "ゼレンスキー氏、年内の成果に期待 「米ロ協議の行方が鍵」",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcjc4bVFERUIyeHF0ZGV1b0tnMGpQb2FMTU1fQW43bFc4clBISktXNG5BSkxYa3hfbUFiRGRFN0lPTGhualR4ZW9neFllTk5ldkVkRnQxVmhJdFZFc2QxTlctU1M0Wm9jSDVwdlpLVFZ3WENZU25MaFB4SVREVUtWdU9mR2tFUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-11T22:13:15+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ゼレンスキー氏、年内の成果に期待 「米ロ協議の行方が鍵」    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー氏、年内の成果に期待 「米ロ協議の行方が鍵」"
+      }
+    },
+    {
+      "title_original": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "title_zh": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T22:07:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Clashes erupt in Barcelona after thousands join Spain general strike\n- Published\nClashes have broken out between groups of masked men and police in Barcelona after tens of thousands of people took part in Spain's first general strike for 14 years, called by the country's main unions over housing and the high cost of living.",
+        "Some 120,000 people joined a demonstration in the capital Madrid and more than 50,000 turned out in Barcelona, where footage showed masked men setting fire to rubbish bins and smashing shop windows as police fired tear gas.",
+        "Transport and other public services across Spain faced serious disruption."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Clashes erupt in Barcelona after thousands join Spain general strike"
+      }
+    },
+    {
+      "title_original": "OTAN asegura que Estados Unidos, Europa y Ucrania están \"completamente alineados y unidos\"",
+      "title_zh": "OTAN asegura que Estados Unidos, Europa y Ucrania están \"completamente alineados y unidos\"",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVpxRm5fRWpzUVlZbElLMEFUaEVLMmttTmtTNGpNUzhSbFRBZU5SWm1MdTVzblhESWdKeGVVelFnWkxrX1hxYk9mODk5ZHlyd0NwYjlyUTZHTlBaMkpMM2pJNzBWLWFYRUoxVHhxVnllYzYycmRlbk50dHRyNDFxYTQzQTJJbG9GUTI5NVl2NzF2ZUw4RTFtalE3djNZZ1Myd2dyejJLSDlLb01zVnBxVWpCbGwtSnR1dEg4SzZyWFNUTkHSAcMBQVVfeXFMTWJlSTFFaWpSODR4M0lVVjhsQ2JScW1tMTRSV21ydjVCQTI3QURWZllTcTBWNXprcHY4dHRnY1NQLVMtRURwMjhWSWZaUnotZXd6d213VjFWUnRHQVRURHIzVi1WRXpZNmFyY2VMZnVrSk1NcGNTemtqUkpUdklUa3ltaEttOWw4bW5aSU5Gb2RpT1BpWU54SVVkbE9ONzVvN08xVzBIVmVJbHQtQ3RVTFdHZC1IZ1ZNREpuNHF2YldQbmI0?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-11T22:06:10+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "OTAN asegura que Estados Unidos, Europa y Ucrania están \"completamente alineados y unidos\"    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "OTAN asegura que Estados Unidos, Europa y Ucrania están \"completamente alineados y unidos\""
+      }
+    },
+    {
+      "title_original": "Más lío en Oriente Medio: EEUU retira a su selección del Mundial sub-17 en Catar",
+      "title_zh": "Más lío en Oriente Medio: EEUU retira a su selección del Mundial sub-17 en Catar",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQk8yaWpEWU9CRmNYd29Va200MlY3MnlOS0pJSkJmUzFyQnFLMG1iR2pMLXkyOXhjYnRQbG5UNEh5akcxVmtVeWNESWRJMzdHQXpNZDBTODNXenAzWEE1Q2ZfYVA2aHB5LWV3MnZTUEVyU0tyN1k3MHRPUE5haFEtX01IamtINm1SVm1fVW00bzRsWlZaY3kwc9IBmAFBVV95cUxQRlRid1pqb0xKSUNhNGJGSUpfOER4a3d3b21FZkUwSVRKYkpPWkhLaGdfai1KT1lHblZzMXVkSk8xNlJPMUVfQ0lCNXBMdi03ZUZKQXQzWklEUC1NcFczd1dXVFdHZnNyZjMxWk1Fb3E3LU1qRmpOYTIxTnZHWkE0cU83YlRnd2RwM1FWWUxXemV1NzFEZWczcg?oc=5",
+      "source": "SPORT",
+      "source_score": 55,
+      "published_at": "2026-11-11T21:46:20+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Más lío en Oriente Medio: EEUU retira a su selección del Mundial sub-17 en Catar    SPORT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "SPORT"
+      ],
+      "all_titles": {
+        "es": "Más lío en Oriente Medio: EEUU retira a su selección del Mundial sub-17 en Catar"
+      }
+    },
+    {
+      "title_original": "ウクライナ・ロシア・アメリカの和平協議が終了 「大規模な捕虜交換」で合意",
+      "title_zh": "ウクライナ・ロシア・アメリカの和平協議が終了 「大規模な捕虜交換」で合意",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WXzIwVm12X1hEWHVBUGtwNHluLVhHemRITDA2QW5DSkRiNmtzbEhablNvRWxxcElNMHJMczhJRlhOcjNfMlAtZk9Rb01ZU0ZTa05qYjBUZw?oc=5",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-11-11T21:20:47+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ・ロシア・アメリカの和平協議が終了 「大規模な捕虜交換」で合意    TBS NEWS DIG",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ・ロシア・アメリカの和平協議が終了 「大規模な捕虜交換」で合意"
+      }
+    },
+    {
+      "title_original": "G7外相会合共同声明発表 ウクライナ支援継続を再確認 | NHKニュース | ウクライナ情勢、イラン情勢、ホルムズ海峡",
+      "title_zh": "G7外相会合共同声明発表 ウクライナ支援継続を再確認 | NHKニュース | ウクライナ情勢、イラン情勢、ホルムズ海峡",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DdkdHc29kWWtYVUJDa0E0OEEzSzB3enZoNTJRUkpkQXJXbzg2QTk1Q1lOZUItVXRGYTdsN3dmUGpzRnZFaGFBaDlhZ2pmOGo0dXpkWlN5Rk9xMjNPSmVR?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-11T21:06:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "G7外相会合共同声明発表 ウクライナ支援継続を再確認 | NHKニュース | ウクライナ情勢、イラン情勢、ホルムズ海峡    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "G7外相会合共同声明発表 ウクライナ支援継続を再確認 | NHKニュース | ウクライナ情勢、イラン情勢、ホルムズ海峡"
+      }
+    },
+    {
+      "title_original": "Les États-Unis, l'Ukraine et l'Europe sont \"complétement alignés\", estime le secrétaire général de l'Otan Mark Rutte",
+      "title_zh": "Les États-Unis, l'Ukraine et l'Europe sont \"complétement alignés\", estime le secrétaire général de l'Otan Mark Rutte",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQQnpBSkRSMFp2aXVJZVJqbm1Kb0lOMEJHN3dtbnJxRllsaU1iWkxtaENCcDBNeEZUQm9VdWVYZnhwb3d2Q2pRM2pMMzFLMTVhRjVUT05mOVdRSTB2cjFsX21md3F0dTFobVY3Y05wTWtIRjNxN01TeDZMemlFOGdTUXhma2YyMmlXQUxsb3plSDQtcWo3RHhQSUQ0a1YtQU5nbG5rNkhwaXNFNDBJSGJXWUZuRVRMMW9Gak1Rb3lhUi1kLWZSWTRON1hDSmJmd0RLZlJFeGVPQlVuQVhWMHRtSVVZNF95WlBCU0ZZbU9fWlFaWW56RkVBYWlqRFlzNjNxNmFYVFNEZ1BzUENvbjVpbzdQY2dhc2MtY2VUNzJORm1pZExvOE04?oc=5",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-11-11T20:05:43+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Les États-Unis, l'Ukraine et l'Europe sont \"complétement alignés\", estime le secrétaire général de l'Otan Mark Rutte    BFM",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Les États-Unis, l'Ukraine et l'Europe sont \"complétement alignés\", estime le secrétaire général de l'Otan Mark Rutte"
+      }
+    },
+    {
+      "title_original": "African writing award probe finds 'no evidence' winning story was AI generated",
+      "title_zh": "African writing award probe finds 'no evidence' winning story was AI generated",
+      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T20:00:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "African writing award probe finds 'no evidence' winning story was AI generated\n- Published\nThe Caine Prize for African Writing has said that after an internal review it has found no evidence that Zimbabwean writer Simbarashe Kundizeza had used generative AI to write his winning short story and confirmed him as the winner of this year's £10,000 ($13,000) award.",
+        "Ellah Wakatama, chair of the Caine Prize's board of trustees, said the matter had been investigated following an article in US magazine The Atlantic with the headline, Yet Another Literary Prizewinner Seems to Be AI.",
+        "\"From our detailed investigation, we feel the evidence is clear: The Blue Fighter was human written,\" she said in a video posted on X."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "African writing award probe finds 'no evidence' winning story was AI generated"
+      }
+    },
+    {
+      "title_original": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing am Abend fester",
+      "title_zh": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing am Abend fester",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORjNvWkZZVUk0dDlKNXJZS0czcm1vVjFNLTNBZzRGbXJyYWxuWklQVnlHb25sVkM0YlMtWjY4V05DZ3ZpSWJDMjdjVEFRbENmRzlzMkNFQUlDOFpYZVRrb1VNbG9PRmZOZFhrMV9TelZCQWpLTkdtS0xnOG4zRmlndFlNeTZjTWsxaGVXS0xlMnZ2Z3JuMjh1Vmd1c0IyN1NCU0c2cUZSdURtUEY4YVVFRWxuUnFlQQ?oc=5",
+      "source": "Finanzen.net",
+      "source_score": 40,
+      "published_at": "2026-11-11T19:25:05+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing am Abend fester    Finanzen.net",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Finanzen.net"
+      ],
+      "all_titles": {
+        "de": "Taiwan Semiconductor Manufacturing Aktie News: Taiwan Semiconductor Manufacturing am Abend fester"
+      }
+    },
+    {
+      "title_original": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+      "title_zh": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+      "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-11T19:00:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brigades has escaped from house arrest in Argentina , the country’s security ministry confirmed on Wednesday, after he reportedly hid his ankle monitor inside a tube of pork and lowered himself from a fifth-floor balcony.",
+        "Authorities placed Leonardo Bertulazzi under house arrest in Buenos Aires in 2024, prior to his extradition to Italy to serve a 27-year prison sentence.",
+        "He had received the sentence in 1987 for joining a subversive association and belonging to an armed group."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina"
+      }
+    },
+    {
+      "title_original": "中東湾岸の原油生産、衝突前水準に迫る シャトル運航や迂回路駆使",
+      "title_zh": "中東湾岸の原油生産、衝突前水準に迫る シャトル運航や迂回路駆使",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05YVlTQnBkZTFfREo5RzN0dmxvcC1hbEpMMlB1V204MnV6WnBHOFdrcG9EODZqQVA5aV95akczemRKRHo3MnZhbWh1MDhoUHFTWTlsVkZ0U0FfWjZiQkxiUkUyNVdUenRQYlNRZg?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-11T18:53:53+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中東湾岸の原油生産、衝突前水準に迫る シャトル運航や迂回路駆使    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "中東湾岸の原油生産、衝突前水準に迫る シャトル運航や迂回路駆使"
+      }
+    },
+    {
+      "title_original": "Famed ship SS United States to be sunk off coast of Florida",
+      "title_zh": "Famed ship SS United States to be sunk off coast of Florida",
+      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T18:42:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Famed ship SS United States to be sunk off coast of Florida"
+      }
+    },
     {
       "title_original": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
       "title_zh": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
@@ -26,6 +701,31 @@
       ],
       "all_titles": {
         "en": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax"
+      }
+    },
+    {
+      "title_original": "ロシア・ウクライナ協議、捕虜交換など一定の進展 領土問題では隔たり | ロイター",
+      "title_zh": "ロシア・ウクライナ協議、捕虜交換など一定の進展 領土問題では隔たり | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU2VUbjd6cTdFVjZrZWM1OEJfMjEwSXVvRHJmeEE2X19JMTJvRUV0U1lDUWR0cDRFVzFHQ1BITVhXeDdqczd0enQ0WUFZN25fYWlqbHE0ejFNcGVMUWlDS0xQam02d0Q2c2xVemlORmJQX1N1SjlJRk9SZEpWdjhkZFVDTFJoZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-11T18:01:35+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア・ウクライナ協議、捕虜交換など一定の進展 領土問題では隔たり | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア・ウクライナ協議、捕虜交換など一定の進展 領土問題では隔たり | ロイター"
       }
     },
     {
@@ -104,6 +804,31 @@
       }
     },
     {
+      "title_original": "Nato should take the ‘offensive’ against Russia, says Sedwill",
+      "title_zh": "Nato should take the ‘offensive’ against Russia, says Sedwill",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEpGUVVHdmVLcHlGQUtsR0JBSUIyN1Y2Wk9sVklrZk1HbUtyYm5veDRWZl9jRE5KenltVk1MQkI2MzZrU3FVemNFRzAyakw1YWVYY0FDT3RISHBaUHl4TERZRC01a2tvY0ZjeGh2czRtOFA2VlNJei1xMTBLZlRPdzB4amo?oc=5",
+      "source": "Financial Times",
+      "source_score": 75,
+      "published_at": "2026-11-11T17:28:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Nato should take the ‘offensive’ against Russia, says Sedwill    Financial Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Financial Times"
+      ],
+      "all_titles": {
+        "en": "Nato should take the ‘offensive’ against Russia, says Sedwill"
+      }
+    },
+    {
       "title_original": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
       "title_zh": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
       "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
@@ -126,6 +851,31 @@
       ],
       "all_titles": {
         "en": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says"
+      }
+    },
+    {
+      "title_original": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "title_zh": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-11T16:45:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats\n- Published\nUS Treasury Secretary Scott Bessent has been moved from his Washington DC home to a military base after Iran-linked threats to his life, according to US media reports.",
+        "CBS, the BBC's US partner, said the relocation came after a photo of Bessent's home was published in the Wall Street Journal.",
+        "Bessent has been at the forefront of efforts to isolate Iran economically through sanctions and a wider economic blockade."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats"
       }
     },
     {
