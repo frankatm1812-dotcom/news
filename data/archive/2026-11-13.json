@@ -1,8 +1,583 @@
 {
   "date": "2026-11-13",
-  "generated_at": "2026-11-12T18:54:10.070762+00:00",
-  "count": 35,
+  "generated_at": "2026-11-13T03:24:00.041053+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title_original": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
+      "title_zh": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj?oc=5",
+      "source": "The Washington Post",
+      "source_score": 75,
+      "published_at": "2026-11-13T03:15:08+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "After meeting Putin, U.S.",
+        "envoys say Europe to join talks on ending Ukraine war    The Washington Post",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Washington Post"
+      ],
+      "all_titles": {
+        "en": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war"
+      }
+    },
+    {
+      "title_original": "Australian footballers will not be charged after hotel incident, police say",
+      "title_zh": "Australian footballers will not be charged after hotel incident, police say",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-13T03:02:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Sydney Swans players will not be charged after hotel incident, police say\n- Published\nFour top Australian Football League (AFL) players who were investigated in relation to an alleged sexual assault at a hotel in Melbourne earlier this year will not be charged, police have said.",
+        "After a \"thorough investigation and based on legal advice\" police would not proceed with criminal charges due to \"insufficient evidence\", police said in a statement.",
+        "Four Sydney Swans players - Isaac Heeney, James Jordon, Chad Warner and Nick Blakey, who now plays for North Melbourne - had been suspended for the rest of the season over the incident in August."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Australian footballers will not be charged after hotel incident, police say"
+      }
+    },
+    {
+      "title_original": "ウクライナ戦争で「最大規模の捕虜交換」へ、クシュナー氏明かす",
+      "title_zh": "ウクライナ戦争で「最大規模の捕虜交換」へ、クシュナー氏明かす",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT3VXRTFDS0l1LWQ3RlZJUkFieFlJM1RXczZEQTZTNE8yeVhmTndBVHpDbGtOTVlpMUtoQkJkeWhGekRPcGRMZVFobS03djlfSTRxdTZzT1hXb3pjTUFQSUhQTnViQ2c2NlJYZ2x0X3RURjNGWGZsdUhNY19aNWFkeXBJU3BvUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-13T02:18:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ戦争で「最大規模の捕虜交換」へ、クシュナー氏明かす    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ戦争で「最大規模の捕虜交換」へ、クシュナー氏明かす"
+      }
+    },
+    {
+      "title_original": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+      "title_zh": "Albania’s PM says 2027 NATO summit will not be held in Tirana",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTFQQ3RYMy1hc1FxdTZrdXJiZDl3Z3hFUUhtbFg0djlhX2RQdUl5OHQxNFQ2elQ1cDFjMGpkUTZwQmZWb1RJZnVIVU5fMzNOaFhUNjcwMl9zR0JFaEFDYThKd3d5LVBXQ2loRWVsVEtCQlpxQmM2X0tRRF9hVGFpTXNJZ3dPT1VqYzhvSTBzYlFpaW1jZW1VSTI0NV9RUHVXZHdDOdIBqgFBVV95cUxPVkpweDh3NllXTEV5TUx5ckFFeEJkMFFFLXFtMTNlc2ZuN0NUb1dWZkZGWjFLNmZ3eXZYTl85QlZRcUEyemNqUnZXZlBsYWpTMEdUMzRFX1JLMjFWa0dqbzBRWkJwWW9rMXZpOXEtUVp2anpiQV90dVp0RTZ6alZQUm5fUnRBdTRmZnhrU0Yyc3RsZnFoWjF4ZjFHcnRUd21zbi0zQmJHc0dxZw?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-13T01:51:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Albania’s PM says 2027 NATO summit will not be held in Tirana    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Albania’s PM says 2027 NATO summit will not be held in Tirana"
+      }
+    },
+    {
+      "title_original": "中東情勢によるコストプッシュで需要の下押し考えられる＝需給ギャップで城内経財相",
+      "title_zh": "中東情勢によるコストプッシュで需要の下押し考えられる＝需給ギャップで城内経財相",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbnFPaXRxdUxCQ3hHVXBWa2lpYTVrV1QxcVhuMFNiTV8zVDRkLXVQbTdPbmhFSktuQmxydkRQMDdOVEk0Vzk0cEZhYmNEOGVfc1lWTGlkNVFvZFVoTUhjQkZCREdrN3hOS0h4YTR1c0dBUG5WVUZFNDNoN0lGWGZSTTZ1MTFpdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-13T01:38:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "中東情勢によるコストプッシュで需要の下押し考えられる＝需給ギャップで城内経財相    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "中東情勢によるコストプッシュで需要の下押し考えられる＝需給ギャップで城内経財相"
+      }
+    },
+    {
+      "title_original": "米和平特使ら、プーチン、ゼレンスキー両氏訪問 ウクライナ巡り",
+      "title_zh": "米和平特使ら、プーチン、ゼレンスキー両氏訪問 ウクライナ巡り",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00ek4ySVIwdmpWUVBPNTEzZDNQM09ReVVGWmVYX19yb09YMEdYZnhDdFVWdGRKV3hnd3JHVTFYcGhvOERKU0tjUV9ralNEM1ZWamM4NmVPVU9ZQVNMUUdrbHhHbjM3WnQ1?oc=5",
+      "source": "毎日新聞",
+      "source_score": 40,
+      "published_at": "2026-11-13T01:22:01+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "米和平特使ら、プーチン、ゼレンスキー両氏訪問 ウクライナ巡り    毎日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "毎日新聞"
+      ],
+      "all_titles": {
+        "ja": "米和平特使ら、プーチン、ゼレンスキー両氏訪問 ウクライナ巡り"
+      }
+    },
+    {
+      "title_original": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず（ＡＦＰ＝時事）",
+      "title_zh": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず（ＡＦＰ＝時事）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQbVQtQmtBWGtOb0ZMQkZRNDBXTlpSVXNvQ2ZuVnl2WHM2UDgyS1JRR2FrU3dWMDBWWV9hbWhZajZHdnhWb1BCeGUzZTFpdGttb0NHMXg3enFRZDljeWNKLU1kU2NSamVpeVNDdTZ4eTZEb2hIdDFmRlVDcEtNZzA?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-13T01:07:54+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず（ＡＦＰ＝時事）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "米国・ロシア・ウクライナ協議に欧州参加へ プーチン氏は強硬姿勢変えず（ＡＦＰ＝時事）"
+      }
+    },
+    {
+      "title_original": "Rutte niega haber criticado a Lisboa y Madrid y Portugal replica que está desconectado de la realidad",
+      "title_zh": "Rutte niega haber criticado a Lisboa y Madrid y Portugal replica que está desconectado de la realidad",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS2tCM3BZUGUtNzA4bXFiUWg2eWQtT29UYjJOQ2hvNjQ1OFNuY2s5V3ozU1ZlbDIwZ0ZTYmpCcVdldHVqbWFQVENUXzl3aWNsSzJVNHZTUnoxRDVCb21YSkVhZHVNZzJmcVp0c2xwXzBSMXRfamdqdkgyeXVsODNucTV6QUt0cHIzSFJRMWdweXc1Um5sWlQweEFRVEx0QVd5M1pUaGoxUQ?oc=5",
+      "source": "La Región",
+      "source_score": 40,
+      "published_at": "2026-11-13T01:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Rutte niega haber criticado a Lisboa y Madrid y Portugal replica que está desconectado de la realidad    La Región",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "La Región"
+      ],
+      "all_titles": {
+        "es": "Rutte niega haber criticado a Lisboa y Madrid y Portugal replica que está desconectado de la realidad"
+      }
+    },
+    {
+      "title_original": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "title_zh": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-13T00:20:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+        "- Published\nRunning a hair salon in Mekelle, capital of Ethiopia's troubled northern Tigray region, is not easy at the moment.",
+        "\"People can't prioritise beauty over daily basic needs."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?"
+      }
+    },
+    {
+      "title_original": "米特使、ウクライナ和平協議「次回から欧州が参加」 安保巡り議論へ",
+      "title_zh": "米特使、ウクライナ和平協議「次回から欧州が参加」 安保巡り議論へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5VW5rOXJNTU9nNjgtVHo0SUN4MUFJMzlCZHFRT1VnRktUVEFGWmwzX1hqRmlaaTFEZVdDNkdvYy1lZ1N4R1VQTlRNTDY3ZWFSVXlvdkNFR1daMjVJQVJPdC1uTjdQYmpCSTNvQw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-13T00:15:46+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "米特使、ウクライナ和平協議「次回から欧州が参加」 安保巡り議論へ    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "米特使、ウクライナ和平協議「次回から欧州が参加」 安保巡り議論へ"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー氏、対ロ協議で「停戦を議題に」 欧州の参加歓迎",
+      "title_zh": "ゼレンスキー氏、対ロ協議で「停戦を議題に」 欧州の参加歓迎",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZkJWZE52U0tBaWNPQmlCeTN4TUh2MEUwZE43Y2lrdDZ1eXBWeTRJclgtcS11MHNPNnN2bkNxcklJYUVzdGhaOV80X3Y4QTk0UDNpNVA0YklVb0pITjhiTUlpZmJfbEhSZXhkUkwtbDRhcG1yMTM4V1dLTVVhM2RFUWRtRnBTdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-12T23:57:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ゼレンスキー氏、対ロ協議で「停戦を議題に」 欧州の参加歓迎    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー氏、対ロ協議で「停戦を議題に」 欧州の参加歓迎"
+      }
+    },
+    {
+      "title_original": "Sortir de l'OTAN? \"Je ne pense pas que ce soit le moment\", défend Marine Tondelier",
+      "title_zh": "Sortir de l'OTAN? \"Je ne pense pas que ce soit le moment\", défend Marine Tondelier",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY2k5YXJWUDBxamtkU3k5UkV0WU93MkhiSXllN3BRSG9fc015dkozZHpTVzl5UkU5Slc2ekRMNzI5V1RDLWdKNWRjS3YzN3F5QnYxbWVzU25VeS1jWmFWalpwcUNPdkswMW9HLUJWUWppTE53c0FVak9fZTJUdkVQTUdHbW9IdVpVWG1zMVdHMUZvMXBYeV9yenN3SFVab3dqdWJmQ3BLS3Z2RUF4SUdFWkVEMC1rM3JYSC1RRzV1RzBncGdWR3lqR0xaNWRJNTd6bmt3UUVWUkpiUzV0Tm1yTndpOTFIeWk1d1pJRklicTVQY0Zi?oc=5",
+      "source": "BFM",
+      "source_score": 40,
+      "published_at": "2026-11-12T23:01:36+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Sortir de l'OTAN?",
+        "\"Je ne pense pas que ce soit le moment\", défend Marine Tondelier    BFM",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BFM"
+      ],
+      "all_titles": {
+        "fr": "Sortir de l'OTAN? \"Je ne pense pas que ce soit le moment\", défend Marine Tondelier"
+      }
+    },
+    {
+      "title_original": "COP31首脳級会合 英首相が中東情勢念頭に脱化石燃料訴え",
+      "title_zh": "COP31首脳級会合 英首相が中東情勢念頭に脱化石燃料訴え",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5odmFrUXViWEZxLXBETllSalY1ei1KMnViSEFQWkJoU1FKajR0X1ljMmw1ZHlGdHlJWXlvV0pJRUVzdmlsdVBNc0xQMzVLVEF5OFJzdGZCOWZRZmlwZjVN?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-12T22:37:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "COP31首脳級会合 英首相が中東情勢念頭に脱化石燃料訴え    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "COP31首脳級会合 英首相が中東情勢念頭に脱化石燃料訴え"
+      }
+    },
+    {
+      "title_original": "Meet the 27-year old behind the protein ad that helped flip Mississippi",
+      "title_zh": "Meet the 27-year old behind the protein ad that helped flip Mississippi",
+      "url": "https://www.politico.com/news/2026/11/12/ryan-sayles-scott-colom-viral-protein-ad-01163508",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-12T17:34:55-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "One of this cycle’s biggest viral hits offers Democrats a potential blueprint as they think about competing in the South — and their digital strategy ahead of 2028.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Meet the 27-year old behind the protein ad that helped flip Mississippi"
+      }
+    },
+    {
+      "title_original": "China rules out hosting Cop33 climate summit in 2028",
+      "title_zh": "China rules out hosting Cop33 climate summit in 2028",
+      "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-12T22:00:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, leaving the field open for other Asian countries to hold it, the Guardian understands.",
+        "The decision will disappoint many countries and climate experts, who had hoped the world’s biggest emitter would take the lead on the global stage, as the US under Donald Trump has vacated all forms of international cooperation on the climate .",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "China rules out hosting Cop33 climate summit in 2028"
+      }
+    },
+    {
+      "title_original": "Ukrainekrieg: Witkoff kündigt Beteiligung Europas an Verhandlungen an",
+      "title_zh": "Ukrainekrieg: Witkoff kündigt Beteiligung Europas an Verhandlungen an",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR3dYeThnZUw4THBid040WmxSMlVaRmRPMXNBMlRBVEo5c3JzRXMtS3pFSEhCNFhGcjR4U0lVbi1sY3JUUzZGajhfbjRFeW12WUl4LVpOSlF3dUtOLTNzSmR3c3oxM0tFNVVCLVR2UEMxYkhLXzlOQ2JaaXZYaUo0TTRfQ0FqbVJ0NVhaSTI4bnkzMWpNb1RrOTNjeTlQbDY5SlYxY0FjUlduQ01hd3VnUnNyR2RNcWpIS3Jrd1BIMUJwSWQ1SnIwNDhWTmZvNDc3ZDVEbjh3?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-11-12T21:46:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukrainekrieg: Witkoff kündigt Beteiligung Europas an Verhandlungen an    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukrainekrieg: Witkoff kündigt Beteiligung Europas an Verhandlungen an"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : 11 morts, un hôpital bombardé… Gaza a vécu la journée la plus meurtrière depuis les élections en Israël",
+      "title_zh": "Guerre au Moyen-Orient : 11 morts, un hôpital bombardé… Gaza a vécu la journée la plus meurtrière depuis les élections en Israël",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNclZmdTAwSjhRTXExSGxrX3VmQnF1RG1yekRRbFZEYVJ0UGNGWk9NU1ZXUU1zejZ2SG5aeDBfNnFtd1gyM2hPN0FIVzFoVVpzS2hhMEg0WkJtZ1NUS0Q2RVpPQ2djWlp4UEdneVlfeG81aWRYZWxGbFQ5Ykl0bXJfemR0TDFpMGhHMkxjVmhtSzBBZVpVZ3BNczNfVnFZRmIyRS1Eb1VjemRMRVc5RC1mUGlrLWNrWE9QRjk3NHZiRGlFQTVNWnZrLVc4cmw0WXh4czRKTm1VV29maGtORkpEbVFWNHFyT2NkbE13OHRpQ3FoNGd1UWd2OVZPdXRvcnoyR1BBNXltYU85REdTX0pnNVh2bU54V0YyWWlBeUlB?oc=5",
+      "source": "Sud Ouest",
+      "source_score": 40,
+      "published_at": "2026-11-12T21:18:49+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : 11 morts, un hôpital bombardé… Gaza a vécu la journée la plus meurtrière depuis les élections en Israël    Sud Ouest",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Sud Ouest"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : 11 morts, un hôpital bombardé… Gaza a vécu la journée la plus meurtrière depuis les élections en Israël"
+      }
+    },
+    {
+      "title_original": "Alexander Stubb y el nuevo orden mundial: tres bloques que decidirán el futuro de la geopolítica",
+      "title_zh": "Alexander Stubb y el nuevo orden mundial: tres bloques que decidirán el futuro de la geopolítica",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb1pWanYwS2wwRXJBY1RuZTlTRlJTUmVuQ3Z5UDlZSW1xUHlnaFVJT0U1cm5LT3lzMUtvVm1xNlctTGZGbEFYNjJEYXlQX2ZidE9fUGZEQ3dhLWgxZ2xmV19DUmEyWGEweHBqY0h4dkN6cG9QaU43SldCNEhyVzFCb3FyR1J3U3dvbkR1OFV0MENxcV9OalItNkV1aHdGWEpWd3pIREJJN2ZBbktSaXBkQjdIekpXNVlHUmo5cWtsWWJKWVp4bF8xVUNJTHM5aUxxcGVnUnhxNm5UdmRqOXBWRNIB5gFBVV95cUxOZmp6WUc5ZWRseTNoSlFqalY4azhxYmdRSExUVGViZm9VaWVYMEQzUHBZaEFqdW5IS1FrdnhQV2JRRDNObENzUy1xTnpBcU85UDNRSDFlaHZ5VFBWby1BUWtoMXNhaGxGaldmdlBXS3ZBUFpNOC1jNW9JLS1JZHRNNFJGaTIxNmhnN21GdEh2Y210OGJUUmpXTmt6aE5GMW1VSkVEeU1GaEZaRkExNS14SFBXcE1yMmlRbm9TZlpacGFYSjVYemZOQVlfMy00SXVCeEtHNFFub2c1WlVUNnVKVGpnY1ZNZw?oc=5",
+      "source": "MUNDIARIO",
+      "source_score": 40,
+      "published_at": "2026-11-12T21:02:29+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Alexander Stubb y el nuevo orden mundial: tres bloques que decidirán el futuro de la geopolítica    MUNDIARIO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "MUNDIARIO"
+      ],
+      "all_titles": {
+        "es": "Alexander Stubb y el nuevo orden mundial: tres bloques que decidirán el futuro de la geopolítica"
+      }
+    },
+    {
+      "title_original": "米特使、プーチン氏と会談 ウクライナ和平協議に欧州の参加求める [アジア太平洋経済協力会議][トランプ米大統領]",
+      "title_zh": "米特使、プーチン氏と会談 ウクライナ和平協議に欧州の参加求める [アジア太平洋経済協力会議][トランプ米大統領]",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0VUQ1TkYtWER5UUQ4NGhFSHphRGl6cXVvMGhLaVBUTjJIeTBqRmtpSXcxWE0wS1NOcDhHemJvam5YTXJfMVd5aDFmd0NoVVF1a285R1pjRzFSTms2dHJSYTZPdXowQmM?oc=5",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-11-12T21:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "米特使、プーチン氏と会談 ウクライナ和平協議に欧州の参加求める [アジア太平洋経済協力会議][トランプ米大統領]    朝日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "米特使、プーチン氏と会談 ウクライナ和平協議に欧州の参加求める [アジア太平洋経済協力会議][トランプ米大統領]"
+      }
+    },
+    {
+      "title_original": "プーチン氏、ウクライナ東部で人道支援を提案 「誰の支配下か明らかに」",
+      "title_zh": "プーチン氏、ウクライナ東部で人道支援を提案 「誰の支配下か明らかに」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iY1czcmV5QldLRm80bWxSQTB5Z3htbElOUzl2ak0wUEIyZUxEWWZRZ3FIc0VINDk5STVkak5TeVFScXQzWmt3NkFheDZVbU5pNHBvbnoxdEZtSEhsZFFOaDdmTnY1akdlZEszWQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-12T20:20:56+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "プーチン氏、ウクライナ東部で人道支援を提案 「誰の支配下か明らかに」    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏、ウクライナ東部で人道支援を提案 「誰の支配下か明らかに」"
+      }
+    },
+    {
+      "title_original": "【随時更新】ロシア ウクライナに軍事侵攻（11月13日の動き）",
+      "title_zh": "【随時更新】ロシア ウクライナに軍事侵攻（11月13日の動き）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XeXhQS2k1X0haQ0tBdk9UVkpMTFBQQ1R3VFdLRjlsck1IQ1lGTG1mdjNibnNhYktSdEkzRzhGRXpUVUo2TERkUmllZG5iNGktNm1KbkdqbXFBcUZQWlhr?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-12T19:45:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【随時更新】ロシア ウクライナに軍事侵攻（11月13日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【随時更新】ロシア ウクライナに軍事侵攻（11月13日の動き）"
+      }
+    },
+    {
+      "title_original": "ウクライナ軍の衛星通信網に再び制限 ゼレンスキー氏「計画的だ」",
+      "title_zh": "ウクライナ軍の衛星通信網に再び制限 ゼレンスキー氏「計画的だ」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzV3dSZmY3UkxqZ0pzLTR2OHV4UW1LWXgwc25QNlotUVdrempBQmNYRlh1SC1fRmFUUDE1RUdnVHVnUmRDaHQtS2lJTkdjQVQwVUsyVzhMazlyMWxrSVlxMHhYcUo3WHVYdVhBdA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-12T19:42:27+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ軍の衛星通信網に再び制限 ゼレンスキー氏「計画的だ」    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ軍の衛星通信網に再び制限 ゼレンスキー氏「計画的だ」"
+      }
+    },
+    {
+      "title_original": "زعيم الديمقراطيين بالنواب الأمريكي يريد \"تغييرا جذريا\" بالشرق الأوسط",
+      "title_zh": "زعيم الديمقراطيين بالنواب الأمريكي يريد \"تغييرا جذريا\" بالشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ga3BkSlZ1aGxEb2VoSmtpSGJvYmZOVlUxYU41NjFUREt6Y1ZJOEdJMFpXRW1sQlR4QVZfUXItYkhtY2lGTU1JMFlHa0RIbFo1RlJwYS1YSm51cVd0eXVtc0s0VkRJVEdyRnFkQnN6MnFjUm5uaWtNRDdVWQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-12T19:15:43+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "زعيم الديمقراطيين بالنواب الأمريكي يريد \"تغييرا جذريا\" بالشرق الأوسط    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "زعيم الديمقراطيين بالنواب الأمريكي يريد \"تغييرا جذريا\" بالشرق الأوسط"
+      }
+    },
     {
       "title_original": "جيفريز: حرب إيران كارثية وعبثية وجعلت أمريكا أقل أمانا",
       "title_zh": "جيفريز: حرب إيران كارثية وعبثية وجعلت أمريكا أقل أمانا",
@@ -51,6 +626,31 @@
       ],
       "all_titles": {
         "en": "Hegseth awards medal to war memorial guard who reprimanded him and group"
+      }
+    },
+    {
+      "title_original": "¿Qué implica la dimisión del CEO de Nvidia para el desarrollo de la inteligencia artificial en Oriente Medio?",
+      "title_zh": "¿Qué implica la dimisión del CEO de Nvidia para el desarrollo de la inteligencia artificial en Oriente Medio?",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWRYeFAwWjVELVNpYkRGek5GRjNrcDgtaVowN0RiUFdLai1zajRNZS1NNnNBWDQ2a3U5ckJUeDNLeFlKWWwzRmc0UFNDdU9fUzhUcHoyZlUtYm13NjB5SkhRRDBrclJrVGVWa2F2WG1lUzR4NkJEYXFiUEFyTHBZa0NjRW5rLXFCZF9SX2t4U0owWjF3ckI4QmVvQjcwVU1NeW10Ykl3Nm5TS2xSeXVUOHBlb2tkSVRVR1pWd3lqYXc0bHFqbkE?oc=5",
+      "source": "Al-Monitor",
+      "source_score": 40,
+      "published_at": "2026-11-12T17:58:32+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "¿Qué implica la dimisión del CEO de Nvidia para el desarrollo de la inteligencia artificial en Oriente Medio?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Al-Monitor"
+      ],
+      "all_titles": {
+        "es": "¿Qué implica la dimisión del CEO de Nvidia para el desarrollo de la inteligencia artificial en Oriente Medio?"
       }
     },
     {
@@ -129,6 +729,56 @@
       }
     },
     {
+      "title_original": "Entre Tokyo et Moscou, le début d’une crise diplomatique ?",
+      "title_zh": "Entre Tokyo et Moscou, le début d’une crise diplomatique ?",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdVE1MlRGUWVJMXdOcWV4c3RSVjc0cUZxTkhZSDZKS2xqcHAzLUJjdkFVanpDOXFsYjlmRGFBelZ3a0Myd0FuZU5sQnNxY0pvLU9YZ1RPdjU4dWRPU2taU1JSUDZRVGd3ZVRmY1NyOWp0eEZLWmZNUTZ1WU5rWGtSOHVoeXJTZVQxdXBsbm9TS25sY214Q2dLYi1uYXhQVV9kNms4V0l4eTR6SzJtcUtTSUtHQUdUZUtKV0lnMFl3?oc=5",
+      "source": "Courrier international",
+      "source_score": 40,
+      "published_at": "2026-11-12T17:15:15+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Entre Tokyo et Moscou, le début d’une crise diplomatique ?",
+        "Courrier international",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Courrier international"
+      ],
+      "all_titles": {
+        "fr": "Entre Tokyo et Moscou, le début d’une crise diplomatique ?"
+      }
+    },
+    {
+      "title_original": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "title_zh": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-12T16:54:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Israeli strike on Gaza hospital kills six Palestinians, health ministry says\n- Published\nSix people have been killed and about 30 injured in an Israeli air strike on Nasser hospital in the southern Gaza Strip, the Hamas-run health ministry says.",
+        "The hospital's director said two missiles hit a building containing surgical wards and intensive care units overnight, but that one of the missiles did not explode.",
+        "The health ministry said medical staff, patients and companions were killed, among them surgeon Dr Rizq Abu Shaira."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says"
+      }
+    },
+    {
       "title_original": "الصقيع يودي بحياة طفله داخل خيمة النزوح بغزة، والده يحكي لنا",
       "title_zh": "الصقيع يودي بحياة طفله داخل خيمة النزوح بغزة، والده يحكي لنا",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ESHhXbHBQcDdFQmNPQ01vNXFQdEhMdE0wRVhkZDJWTHh2b1NKYUROTDFONTAxZ0ZNVzlMMWRXQkRXSHpMeUhfdU5jTEZxYl9TSDAxNHpuLWxyNDgxN2dBOXJYUnNIZGxxT0Jz?oc=5",
@@ -179,6 +829,31 @@
       }
     },
     {
+      "title_original": "普京与美总统特使会谈阐述解决俄乌冲突立场",
+      "title_zh": "普京与美总统特使会谈阐述解决俄乌冲突立场",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xWVc3YVNqMGJ2YlZIN21HLWNBaFBSMlN5WWFJaG95OHoydFdLS1ZPTGU4VVNFRmgxaTkydWNYZVVMWDh2ZUNxMUNyZ2dLM0xxcmdodDF6S09QaVRlNlJQUw?oc=5",
+      "source": "ThePaper.cn",
+      "source_score": 40,
+      "published_at": "2026-11-12T16:11:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "普京与美总统特使会谈阐述解决俄乌冲突立场    ThePaper.cn",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "ThePaper.cn"
+      ],
+      "all_titles": {
+        "zh": "普京与美总统特使会谈阐述解决俄乌冲突立场"
+      }
+    },
+    {
       "title_original": "النفط يرتفع وبرنت قرب 94 دولارا وسط تصاعد التوترات في الشرق الأوسط",
       "title_zh": "النفط يرتفع وبرنت قرب 94 دولارا وسط تصاعد التوترات في الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOc0tfM0gzS0hpc2lzemZtSkFMcW9KLUVBUWVhYVliN3hKOUJHWVNMYW1Nc21VdFVQRjBFc01ZWHc0TGpFa25QeGwzLUJNS29xYng5ZDREWTFxVkM4c0lJTndaSEhvTmVJSmpLU0NSaWlIMHhwTEhMNVA5TVpvRVRpRm90Tk84dkxhQkF0Ul90OUVSbVRUeFpOc2ZPV1dpU0FSdDM3UGNDcW95Y2V0R2JQdTJjTTRSQ0FybU5kS3ptUUtMaU8xbXJQSElzdFBqb0tJbkk5OUlsQUZucVRxX3JKQ2IxbzdETTQxRDFFT0hzYmdfamdVVTdNMlZSVHJhY0ktVDZEVXRSU0I3RmpGWjkwZWN3dHNRVC00eGMtUVBNaWhDRUN1YUphYXEyc3EzOG5YVzk5N1YxblpfeWxUYnc?oc=5",
@@ -201,6 +876,31 @@
       ],
       "all_titles": {
         "ar": "النفط يرتفع وبرنت قرب 94 دولارا وسط تصاعد التوترات في الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "US cannot reach a deal to end Ukraine war without Europe, says Kushner",
+      "title_zh": "US cannot reach a deal to end Ukraine war without Europe, says Kushner",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVpqd3F6djk1S1p5c0NvX01Id3BJLWNKZ0k1Z2xCSkl5YnVaU0NzeTA5RGFsU0x0am5BWVNWaFBoNnhxZlJpdVB2LUJqcTdCSWhDR0JtczFZMVpzdXFUcGRCSEF2UE0yY0ZxSUo0YlpmLUNsNGhCT0w0QUZLNlViQ2NVdzU?oc=5",
+      "source": "Financial Times",
+      "source_score": 75,
+      "published_at": "2026-11-12T15:30:49+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "US cannot reach a deal to end Ukraine war without Europe, says Kushner    Financial Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Financial Times"
+      ],
+      "all_titles": {
+        "en": "US cannot reach a deal to end Ukraine war without Europe, says Kushner"
       }
     },
     {
