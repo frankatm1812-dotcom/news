@@ -1,8 +1,558 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-13T18:31:19.503387+00:00",
-  "count": 35,
+  "generated_at": "2026-11-14T03:09:45.233649+00:00",
+  "count": 60,
   "articles": [
+    {
+      "title_original": "ウクライナの無人機迎撃に支障──ゼレンスキー、軍用「スターシールド」の制限を巡り米国に説明要求",
+      "title_zh": "ウクライナの無人機迎撃に支障──ゼレンスキー、軍用「スターシールド」の制限を巡り米国に説明要求",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MVy0yeDdGSU90aDVvM0RBeWxTeEloaW1NZk8tUTgyWFU3SzQxOFA3Qll1UEhCa0pSX0hfVWZNRTFNOFRRcHhyLXRWNjVIUS1UMlp3WnF0ZWN5ZTZwSUtSLVRJZTlMSC04Vm4yU3dGc3FSTFJOaVhpM2V1NmdZM00?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-14T03:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ウクライナの無人機迎撃に支障──ゼレンスキー、軍用「スターシールド」の制限を巡り米国に説明要求    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナの無人機迎撃に支障──ゼレンスキー、軍用「スターシールド」の制限を巡り米国に説明要求"
+      }
+    },
+    {
+      "title_original": "ウクライナ和平協議にヨーロッパ代表も 英仏独など5か国",
+      "title_zh": "ウクライナ和平協議にヨーロッパ代表も 英仏独など5か国",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BX2RPdHh6OGJ3VU5TYXRMeE5qMmsxV1lLQUh5QmM3OFpmcHJfb2d6LWR1bzFJNUMtTEotU01rYk5hLW5kM201Z1V3X1Q4VUczMGx2WWxBX2JNenZqR2Ew?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-14T02:24:33+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ和平協議にヨーロッパ代表も 英仏独など5か国    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ和平協議にヨーロッパ代表も 英仏独など5か国"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’",
+      "title_zh": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcVdEX2ZlWUE5cElsRnRQOWw4LWJHV3lJR1VJVmNGZXZCMGlJY0poV1JjM0FBZUYwclRucS1CRjIydUpMQ1prSXJTSkVHZkZOVFE2bU14bmpvWUNmZVdXanJWcUVVd2VNdVVvY3lrRDc4eTdvc2RFemRDMXd5c1Y1cGl4OXBYeEJOZU1pWWw5VkRCVVhLaUVKVGcwZm50WjM5cVl2QnhaZVdxTDBHOGZ6eEpFQnB0NTZVSUtfSXczYkNxRndpX25nb0ZzeGh4ekhC?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-14T02:08:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’"
+      }
+    },
+    {
+      "title_original": "次回の和平交渉に欧州5ヵ国参加へ ウクライナ情勢 EUカラス氏「停戦が最優先」訴え",
+      "title_zh": "次回の和平交渉に欧州5ヵ国参加へ ウクライナ情勢 EUカラス氏「停戦が最優先」訴え",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wSEZHQlgyazRMcU1hWW5PQUx5R2RQbnFKQ3hEN05UWDNhRkQ5bndDNWtjcTJ6MHdBZk9ic193MWE0U1N1RGFSWEVwVUpwRWlyU2RrdGo5b3JjWTh3ZXU2TnhQbUxsdEtVZVdQbUh0ZEZoU3g4bGF6NzZB?oc=5",
+      "source": "テレ朝NEWS",
+      "source_score": 40,
+      "published_at": "2026-11-14T02:06:35+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "次回の和平交渉に欧州5ヵ国参加へ ウクライナ情勢 EUカラス氏「停戦が最優先」訴え    テレ朝NEWS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "テレ朝NEWS"
+      ],
+      "all_titles": {
+        "ja": "次回の和平交渉に欧州5ヵ国参加へ ウクライナ情勢 EUカラス氏「停戦が最優先」訴え"
+      }
+    },
+    {
+      "title_original": "欧州５カ国が和平交渉参加へ＝ウクライナ巡り首脳合意",
+      "title_zh": "欧州５カ国が和平交渉参加へ＝ウクライナ巡り首脳合意",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51UkZHV3FKcWp2TzJHb1lET3VoTVVOMS1zamExdWthSk1GUzV2VExxQzZXN3RRTV9lbEU3aDc2NnRVUUtGNmZtRDVwLVZldDROTW9tVg?oc=5",
+      "source": "時事通信ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-14T02:04:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧州５カ国が和平交渉参加へ＝ウクライナ巡り首脳合意    時事通信ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "時事通信ニュース"
+      ],
+      "all_titles": {
+        "ja": "欧州５カ国が和平交渉参加へ＝ウクライナ巡り首脳合意"
+      }
+    },
+    {
+      "title_original": "حرب أوكرانيا ـ محادثات أبوظبي واختبار فرص إنهاء الحرب",
+      "title_zh": "حرب أوكرانيا ـ محادثات أبوظبي واختبار فرص إنهاء الحرب",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPQ1d6RFV2VzBoUTZhRzk5d051QUpLdW9MYy1nWWJwZUp2eWxPdUliWWVJZGZRZVdtaVhFVVAyTlJlYm1FZHNwTGI3enh0U3VlMVRvMnk4M1VTRkpDRTliSnRFMGY3cE93ckRGRzFiWnNkZWp4UkJFajhjWkFZbXhhdl93VkZQVzJlWEg3OG9MMHdSWFhWbVlIekhwd0phR0pqR2M1R3I1cS1naTVycEJXTWU3WFhwUHRxRFJkTlJwVkREc2UwcXRsWEFQbU5xN1lSaWxqSERzeE9tMmhfZkJIdnFITXB1RDgtMWVLNVpiR1g5LUZXc2tuSHF0b2pocmJzMC1ZbDUxWUlkOExNdDJPcWpaX2dmdEdVR2NTZFV2amN1VnlsSmtSQ1JWM0U5dXMtNjhSR29aek81Y1M2MnJ2UE1CYkZaZENQdlE?oc=5",
+      "source": "المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات",
+      "source_score": 40,
+      "published_at": "2026-11-14T01:04:28+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "حرب أوكرانيا ـ محادثات أبوظبي واختبار فرص إنهاء الحرب    المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات"
+      ],
+      "all_titles": {
+        "ar": "حرب أوكرانيا ـ محادثات أبوظبي واختبار فرص إنهاء الحرب"
+      }
+    },
+    {
+      "title_original": "「民家を荒らし、食料を略奪」ウクライナ派兵の北朝鮮精鋭部隊につきまとう悪評（金賢） - エキスパート",
+      "title_zh": "「民家を荒らし、食料を略奪」ウクライナ派兵の北朝鮮精鋭部隊につきまとう悪評（金賢） - エキスパート",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZTI5UzlmaWJpZWlKa3FSbzBiZ0NxNEluUnQ2Y2ZrWGNBQzdaRldjOEpNVzRWdE5yeVR5elN6NzdjWmN2cGZQaG9VbmFkYldMLU0yLU9hZXNYSmptUHEwNG0xd1ktNk8zU2hrdklEUnRSYXR6S1NNZkFDaW5kTF9ESG94TmF2RE1D?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-14T00:42:48+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "「民家を荒らし、食料を略奪」ウクライナ派兵の北朝鮮精鋭部隊につきまとう悪評（金賢） - エキスパート    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "「民家を荒らし、食料を略奪」ウクライナ派兵の北朝鮮精鋭部隊につきまとう悪評（金賢） - エキスパート"
+      }
+    },
+    {
+      "title_original": "ロシア首都で車爆発、ウクライナ親ロ派政治家の元側近が負傷 前日にも爆発で軍人死亡",
+      "title_zh": "ロシア首都で車爆発、ウクライナ親ロ派政治家の元側近が負傷 前日にも爆発で軍人死亡",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tVl9xMkxORVFyVWx6cUV2V2JER1kzdVExRWIzQmRaQzJodmQ0Z1ZrbnVQUXQ4YnoyTGdZcW9nUGoyV2tkWmM1RDJIamJ0SzhLT3lj?oc=5",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-11-14T00:39:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア首都で車爆発、ウクライナ親ロ派政治家の元側近が負傷 前日にも爆発で軍人死亡    CNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "ja": "ロシア首都で車爆発、ウクライナ親ロ派政治家の元側近が負傷 前日にも爆発で軍人死亡"
+      }
+    },
+    {
+      "title_original": "Setback for SpaceX Starship rocket's double-catch test",
+      "title_zh": "Setback for SpaceX Starship rocket's double-catch test",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-14T00:01:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Setback for SpaceX Starship rocket's double-catch test\n- Published\nSpaceX aborted its attempt to catch the bottom part of its huge Starship rocket during its latest test flight.",
+        "The aim was to catch it using the mechanical arms - nicknamed chopsticks - on the launch tower as it returned to Earth, but instead it was diverted to the ocean, bursting into flames as it came down.",
+        "The top part of the rocket is now continuing its journey to space, and SpaceX will decide whether it will try to catch this rocket stage - at about 1515 local time (2115 GMT) on Saturday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Setback for SpaceX Starship rocket's double-catch test"
+      }
+    },
+    {
+      "title_original": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "title_zh": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-13T23:40:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision\n- Published\nSome 130 people on a cruise ship docked in New Orleans have been rescued after it was struck by a tanker.",
+        "The cruise ship, American Heritage, was left lying on its side in the Mississippi River after it was hit by the cargo vessel, Atlantic Asphalt.",
+        "The collision left 32 people from the stricken riverboat in hospital with non-critical injuries, but no-one unaccounted for."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision"
+      }
+    },
+    {
+      "title_original": "La 'ciberguerra' llega a Europa",
+      "title_zh": "La 'ciberguerra' llega a Europa",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM3lRLURkQWhNdFBXQzVsX19TQk51SVlqV2FoQmpITEYtOUtoSXA5dUZVcFV6M0FDYkhXZ01HOURjTHhWdXZWb3JtR1dCOFBxZi1Xb00tc3hJS29zNjFpQ1dVYWYtaTlkdm54ZUdVTzg1ZkpvNWlMU254LXRSOWFmTmxBc9IBgwFBVV95cUxPV3pXeFF4blhJNGlwRy1ORnlBTEFxVnZRVVp6bDNMX19BN1VXMURmZWdxaTBwOEVzNFp0RmdyM0pLLUJ5dVphZkJxWThLOTZpZVE4YXVGT3JLQjAteHdvN19NLWV0VkphenBxX2puTGo1M2VzQnNUdFpZNWpvdENLcnlLUQ?oc=5",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-11-13T23:00:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La 'ciberguerra' llega a Europa    El Mundo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "La 'ciberguerra' llega a Europa"
+      }
+    },
+    {
+      "title_original": "ウクライナ和平交渉の欧州代表、EUと英仏独伊ポーランドで合意（朝日新聞）",
+      "title_zh": "ウクライナ和平交渉の欧州代表、EUと英仏独伊ポーランドで合意（朝日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lZ3NzQjVWTmlEeklwbDlPTENDUUkzR0F2bVAxSHhnSXI3dzJOaHg3al9WeWdBLXYxNW5LSTkwRWNMNzh1SXRYZE5scVhNN1h5dUtMd1pGdEJBNEhGT3dMTVQyaTdRbGJnWHBtckhpUjAzOEw1UTlsYm5FVDNGRTA?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-13T23:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ和平交渉の欧州代表、EUと英仏独伊ポーランドで合意（朝日新聞）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ和平交渉の欧州代表、EUと英仏独伊ポーランドで合意（朝日新聞）"
+      }
+    },
+    {
+      "title_original": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+      "title_zh": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNejhEQXBBR0FQS3VnT01VYUsxOTVLejRFTm1WMGtzQUc5OER5dW5yZ3ZOQUdCRFFaVXRjNVotNkNNc2hLSTR5Q0V2MGV5REJZQ2RRRE1yaXRXbGxscGhub3F1dVBueTR2dVViNlkxN1hRNC1iczRQSlNpSGdmelhxai1SLUw?oc=5",
+      "source": "The New York Times",
+      "source_score": 95,
+      "published_at": "2026-11-13T22:18:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal    The New York Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "The New York Times"
+      ],
+      "all_titles": {
+        "en": "Russia Revives Demand That NATO Retrench to Secure Ukraine Deal"
+      }
+    },
+    {
+      "title_original": "Trump and Zohran sitting in a tree…",
+      "title_zh": "Trump and Zohran sitting in a tree…",
+      "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/11/13/trump-and-zohran-sitting-in-a-tree-01166061",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-13T16:55:50-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Trump and Zohran sitting in a tree…",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Trump and Zohran sitting in a tree…"
+      }
+    },
+    {
+      "title_original": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "title_zh": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-13T21:15:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans\nA cargo ship has collided with a docked cruise ship in New Orleans, Louisiana, with reports suggesting more than 120 people were on board the cruise ship.",
+        "Eyewitness video shows the moment the cruise ship is seen sinking and the aftermath of the collision as rescue efforts are under way.",
+        "New Orleans mayor Helena Moreno has said all passengers have been accounted for."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans"
+      }
+    },
+    {
+      "title_original": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+      "title_zh": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-13T21:14:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Microsoft 'deeply sorry' for global outage as it reports broad recovery\n- Published\nMicrosoft has said it is \"deeply sorry\" for the service outage to its products, including Outlook and Teams, which has caused disruption around the world.",
+        "Services were broadly recovering by Friday afternoon, nearly 24 hours after issues began.",
+        "Microsoft said it was making \"encouraging progress\", but added it does not know when services will fully recover."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Microsoft 'deeply sorry' for global outage as it reports broad recovery"
+      }
+    },
+    {
+      "title_original": "イラン、ウクライナの戦争を縛り始めた世界経済の限界 戦争にブレーキをかけたのは「油」だった",
+      "title_zh": "イラン、ウクライナの戦争を縛り始めた世界経済の限界 戦争にブレーキをかけたのは「油」だった",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZMkZnWGp2SXB1bjZNRVRhdEdzdlJBSXdCdWk4Q3g1Q3pURHBmOU14dUtpNjRKTnFmWWpTOUZyLUNRZ2NtdUJWOW04T3lFU2pmWnAwcnVB?oc=5",
+      "source": "JBpress",
+      "source_score": 40,
+      "published_at": "2026-11-13T21:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "イラン、ウクライナの戦争を縛り始めた世界経済の限界 戦争にブレーキをかけたのは「油」だった    JBpress",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "JBpress"
+      ],
+      "all_titles": {
+        "ja": "イラン、ウクライナの戦争を縛り始めた世界経済の限界 戦争にブレーキをかけたのは「油」だった"
+      }
+    },
+    {
+      "title_original": "Europe Must Step Up to Settle the Russia-Ukraine War",
+      "title_zh": "Europe Must Step Up to Settle the Russia-Ukraine War",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQklHM0IxVjFxSFA4Z1lIWUhqd09VSDhPeTM3ME4xTWs1NGNCMlBSN3hiUWNmWklGYkh2VzdsQk5Pbl80TUVDX3pJYy13Y3dCNlp3NUVzTzhCRkVqT2NTMUw3dXluaXZuNmF1WlhfU1pFQk5JNFRCT3h6VmxOWTdqYXNhQVRUaUtm?oc=5",
+      "source": "Council on Foreign Relations",
+      "source_score": 40,
+      "published_at": "2026-11-13T20:41:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Europe Must Step Up to Settle the Russia-Ukraine War    Council on Foreign Relations",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Council on Foreign Relations"
+      ],
+      "all_titles": {
+        "en": "Europe Must Step Up to Settle the Russia-Ukraine War"
+      }
+    },
+    {
+      "title_original": "مجلس الأمن يناقش وضع الشرق الأوسط ومطالبات خليجية بتحرك دولي",
+      "title_zh": "مجلس الأمن يناقش وضع الشرق الأوسط ومطالبات خليجية بتحرك دولي",
+      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQNlA4OXVhOXdxaDhienlZdkxaTFotVVZ4bG1OcnFEMEZVaXh6cnlsbmxoMWd5NVBYT1V3MEY3cjV4RTdaTnlRM1VpX2YycVpMM1VDRTl0NTdud3NOMUFBZ2F0QWIzY3R4TlhuS3dHZlhqSjRCdWtYbk82MXJhbTRwNTlnd1BXNVlXT2ptVzYyWFBkWDBmSXk1dnZOaUhHX3NxVlNVcy1qS19JZlkwaFZVNG14SEtscE9taWxGU3pnb1BfYmV5SUptRWNPbi1hTGNYZFF5bkJsWjBsdkV4akRfZGpfVkpxZTZhNUhXdWpnNFh0OGN0Y0tMODdKQzN2enNVc3BEZDZpcDNKWUExaWdiUnlWaWRNbHFSbW5LUlVYSFluWHJwdWxmVDVWWWk1cnNNUHcwYXozNGtHR2VrZGdJVmRPT25BYXRXZVdCRlhiXy1QQVR3Ym1Uam1HUEtKR3VPcEIyR0xQVmtRVGpIQlBGQTVmeEp1VE83Zy1sd0UtRUIxYVFhQ3V0ZWFsOFRNNGEwajJpVG9nZnNQd3h6UlZVXzRRQzJJdnMxTTB3NzQyWGxDUUVCYzB6T1dtOHpDZ3pSanBlYThVTFBpTmI5TEctTkN4REYybmlkdlBEUmM4UWJLNDhLVFY1czBlbHMxWFA4WDNoVDM0S0FtRnNhYm55bXI5amhmdmdGTkE?oc=5",
+      "source": "annahar.com",
+      "source_score": 40,
+      "published_at": "2026-11-13T20:33:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "مجلس الأمن يناقش وضع الشرق الأوسط ومطالبات خليجية بتحرك دولي    annahar.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "annahar.com"
+      ],
+      "all_titles": {
+        "ar": "مجلس الأمن يناقش وضع الشرق الأوسط ومطالبات خليجية بتحرك دولي"
+      }
+    },
+    {
+      "title_original": "英仏独など欧州5カ国とＥＵ、ウクライナ和平交渉に参加へ",
+      "title_zh": "英仏独など欧州5カ国とＥＵ、ウクライナ和平交渉に参加へ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQTY1dWQ4WU1EMzFNcndxUEtUR2tIdXZCZjNjNHdpRUlWaVJ3N3FGV2V0cUp6eWhscExzWVpZdFI4TGEtcE96SE11bmE3cUs4dGppQ3dpazFxN1k2YTJGWFR4SUhpejhlTGxxS3FVVVdPcjctcHV5Ym5jZGhLNXk5T3F6MG9EQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-13T19:59:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "英仏独など欧州5カ国とＥＵ、ウクライナ和平交渉に参加へ    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "英仏独など欧州5カ国とＥＵ、ウクライナ和平交渉に参加へ"
+      }
+    },
+    {
+      "title_original": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "title_zh": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-13T19:53:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal\n- Published\nUS Treasury Secretary Scott Bessent has blamed Howard Lutnick's Commerce Department for failing to properly oversee the export of high-spec AI chips, as the fallout from the Nvidia scandal widens to President Donald Trump's cabinet.",
+        "Pressure is building on Lutnick from across the political spectrum to explain his department's actions.",
+        "Jensen Huang was ousted as Nvidia CEO after revelations he had an affair with a businesswoman who was also allegedly a Chinese spy."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague"
+      }
+    },
+    {
+      "title_original": "EUと仏独など5カ国、ウクライナ和平協議に参加へ 首脳会議で合意",
+      "title_zh": "EUと仏独など5カ国、ウクライナ和平協議に参加へ 首脳会議で合意",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCNVVwc19fcE02bEFXbktkT1pQblNId0NnNFpscnR6d2JRWWdzc3hXWkFBVUVEQTJ3LUw3VnA4T29UTkN6VFZJMERqUE01d2VJTUZUQUdJbWtFMFhLZkVjWVRXazJ0RXFaRkVJRw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-13T19:28:22+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "EUと仏独など5カ国、ウクライナ和平協議に参加へ 首脳会議で合意    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "EUと仏独など5カ国、ウクライナ和平協議に参加へ 首脳会議で合意"
+      }
+    },
     {
       "title_original": "قراءة روسية.. هل تريد واشنطن إنهاء حرب أوكرانيا للتفرغ للصين؟",
       "title_zh": "قراءة روسية.. هل تريد واشنطن إنهاء حرب أوكرانيا للتفرغ للصين؟",
@@ -29,6 +579,31 @@
       }
     },
     {
+      "title_original": "Die Aufregung ist groß: Welche Forderungen stellt Putin im Ukraine-Krieg wirklich?",
+      "title_zh": "Die Aufregung ist groß: Welche Forderungen stellt Putin im Ukraine-Krieg wirklich?",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV2FYWmJWTFNYeHFVVFlpMGNrT2xsdkUzV2ktUHpITzNyaGRjVEp5d21GbC12SFlJR2RId2ZZTG5nTGdzT2puT3N6N3NLNWtLTXV2TjVHTENhaGo1b2FVRW5XVFVpN0VEZDhZMFpZSFRMMHh1QWwyenZkVHRUdGl0RUdTTE0yZjQ2UlNRYzdEWkF3QU1Wb1ZtcFNoQVlYOGN1NmhiWTBBVW15RVpmTUxYNExDc0RTY0xEd25laUxB?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-11-13T17:56:06+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Die Aufregung ist groß: Welche Forderungen stellt Putin im Ukraine-Krieg wirklich?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Die Aufregung ist groß: Welche Forderungen stellt Putin im Ukraine-Krieg wirklich?"
+      }
+    },
+    {
       "title_original": "»Ich gehe davon aus, dass sich die Zahl der russischen Kriegstoten zwischen 500.000 und 600.000 bewegt«",
       "title_zh": "»Ich gehe davon aus, dass sich die Zahl der russischen Kriegstoten zwischen 500.000 und 600.000 bewegt«",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVmNSTV9EWGJLbVR5VGJHdTBhaDJkYU9SMW1OOG5NY1o2RU8tRlV0NlozY1RMYnFkVjdKTllMb21kN1BxSlVOVnU0X1BreXVwNktaQVF3Y0tjUGJTMEVwbk14bzdyaERLem5DeWUwMm9JS3MzU0hiWjZRMlBVM09WZVZ3MjBYUnktY3F6cThyYWhXWGFwUXNmSjNycGx0Z1o1UFBGcTI2ZEpnVkNMQm5weTRNSmc1X25HbS1STHc3UE8zVUdVS0o2VXZ2UjExUldkYWpKQXkwMGx0cVdBVmVqQXNPckZaWlU?oc=5",
@@ -51,6 +626,31 @@
       ],
       "all_titles": {
         "de": "»Ich gehe davon aus, dass sich die Zahl der russischen Kriegstoten zwischen 500.000 und 600.000 bewegt«"
+      }
+    },
+    {
+      "title_original": "La secrétaire générale déléguée de l’OTAN se rend à l’ACT, aux États-Unis, pour des échanges sur la transformation et l’état de préparation",
+      "title_zh": "La secrétaire générale déléguée de l’OTAN se rend à l’ACT, aux États-Unis, pour des échanges sur la transformation et l’état de préparation",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNOVFvREpBUW4tTDNYNTZzODNqckdWSkZNUHYweDBjMzFyQTkyM28taFliTFl0NEhuNHM4LXBYUzM1cFhuYVZNV2tXRk8wX1NMMDZlZlVpQlJILWV6dVc2YzJQN0lFN3kxQWV1NkVrTms0SzQ3QzRPNGxSVFlHS00tVG01eDRtcUZQUllsUV9BMmRsV1pSNHBWRzFOa0U3SURBak02OTl2THlVXzNYRVRaRTEyRnZDSEFIY3NzWlAzTl9SMDhrbTlXSFd2cFRsZ0lmMC1YWVVzMHJoQkdfU3NrQ19Ec0l1bmwtb0M2VmU0OF9LRW1PWnFRdjVlYWdqczY1ZjVPbDBZX3c?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-13T17:42:21+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La secrétaire générale déléguée de l’OTAN se rend à l’ACT, aux États-Unis, pour des échanges sur la transformation et l’état de préparation    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "fr": "La secrétaire générale déléguée de l’OTAN se rend à l’ACT, aux États-Unis, pour des échanges sur la transformation et l’état de préparation"
       }
     },
     {
@@ -101,6 +701,31 @@
       ],
       "all_titles": {
         "en": "Why is Microsoft's outage lasting so long and will emails be lost?"
+      }
+    },
+    {
+      "title_original": "Le secrétaire général de l’OTAN : il est primordial de développer la coopération transatlantique en matière de défense",
+      "title_zh": "Le secrétaire général de l’OTAN : il est primordial de développer la coopération transatlantique en matière de défense",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX251eFNRMmoydGlGVlExcUJ0Ylp6SjFHaXp5TURUY1F2NUVlUlA4MGltcVBwbERINnhlUFFQOEpMMkZkVHZiXzM0cEtVcEw5MzlFLUE5VkpjMVg5MjlCYkZjQi1PZU10OXp6OTFhaEJ3NHVmMTROSHZQam1mN0xGbnZVUTJlekJlU2wySFlZMXJISjUyeEh6TlN5R25VRmpFQkZ5RFoyY1h0cy1GbXdMSktZcVF4NkUySkQ2UURUVXZTeVRJWVdJeVdSemY1cC1NRUNUU1B1Zmtvdw?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-13T16:52:10+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Le secrétaire général de l’OTAN : il est primordial de développer la coopération transatlantique en matière de défense    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "fr": "Le secrétaire général de l’OTAN : il est primordial de développer la coopération transatlantique en matière de défense"
       }
     },
     {
