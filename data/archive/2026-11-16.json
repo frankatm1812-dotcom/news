@@ -1,0 +1,882 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-15T17:42:49.848002+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Czechs rally against plan to switch funding of public media",
+      "title_zh": "Czechs rally against plan to switch funding of public media",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T17:23:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Czechs rally against plan to switch funding of public media\n- Published\nThousands of people have gathered in central Prague to protest against the Czech government's plans to scrap the licence fee and use the state budget to fund public media.",
+        "Critics say the plans would allow politicians to stifle media freedom.",
+        "The coalition government - which consists of the populist ANO party and two right-wing Eurosceptic parties - insists the change will not affect editorial independence, but wants broadcasters to cut costs."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Czechs rally against plan to switch funding of public media"
+      }
+    },
+    {
+      "title_original": "Otan : «La France n'existe pas militairement face à la Chine, à la Russie et aux États-Unis», estime Arno Klarsfeld",
+      "title_zh": "Otan : «La France n'existe pas militairement face à la Chine, à la Russie et aux États-Unis», estime Arno Klarsfeld",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUk1lTHVaLXdrMF83dGt4OElYejRWX2M1QkdtT3hqazd2VVBabFBIX29NLW12RndOdG1qYTFta3gySmR0TW5hN2RHTnlOOTAxUnVtcWhfRlRNcVluWFB0ZmVCSzhWZVZTcm95N282Z0EySkNrY3lWTW5xX2ZGR3M2SlVVNzQ2c2lqcmwxSUMyd05wcVlSTVlsalZ6TUcwbEdEV3VYaFhWMHE0Tnp3dzZSWjBBTU5iZDDSAbwBQVVfeXFMUF9FY280Y1RLYklqLVdPdEVJc0x5eGc5UEJxN29WM3piQm5fTEpXczZkRHdMQkt4cE90RHI5RUJlSEtLcjVibkxHQUdUR3FiMzJDaUd3a0Q5RW5BX281dHJoRS1KS19UanozYUtDZXdtX2hzZWNBeGtPV2R0amdHZjJZcmo2akVUX21KUmZWYklJUGlzMDgzdmNfV0JESFhZUDlOZVkxVmhQQXllR19WdVFuYngzYXAydlQwUFQ?oc=5",
+      "source": "CNews",
+      "source_score": 40,
+      "published_at": "2026-11-15T17:16:26+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Otan : «La France n'existe pas militairement face à la Chine, à la Russie et aux États-Unis», estime Arno Klarsfeld    CNews",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "CNews"
+      ],
+      "all_titles": {
+        "fr": "Otan : «La France n'existe pas militairement face à la Chine, à la Russie et aux États-Unis», estime Arno Klarsfeld"
+      }
+    },
+    {
+      "title_original": "يوميات الشرق الأوسط 15/11/2026 GMT",
+      "title_zh": "يوميات الشرق الأوسط 15/11/2026 GMT",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RVDFXQTJKOTJDd19uTl92Zk5FZHVzcjdZb250TnhaQ3Z4UzN4d0ZoS1YxdUxJczM1ZndBNC1yOVVoWm9XQUQyUE9tQXlmN0R6a2JkcHpoQm1oMWRrUVpLT3NibjFwdFhfWFQ4?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-15T16:35:09+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "يوميات الشرق الأوسط 15/11/2026 GMT    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "يوميات الشرق الأوسط 15/11/2026 GMT"
+      }
+    },
+    {
+      "title_original": "برنامج الشرق الأوسط 15.11.2026",
+      "title_zh": "برنامج الشرق الأوسط 15.11.2026",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNallSOXRNOENZbzM2SWNSVS1tXzZpVWpuclJpOVZYdy1QVFlSdFUxdzhTcUhYSlE3b0NydjJSNXNkSVpmSU5tTVExRkVvdGdmLVdqWWhHbGR0YUVJSXZtOF9wVEp0cmFEOEVsQ0g5MUdRQ2RPYko0elFpOGlBSEprU0g4MkxaXzdzbW1FSWs1UmtackZwNU9DR25PeWJyTHBr?oc=5",
+      "source": "Vatican News",
+      "source_score": 40,
+      "published_at": "2026-11-15T16:30:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "برنامج الشرق الأوسط 15.11.2026    Vatican News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Vatican News"
+      ],
+      "all_titles": {
+        "ar": "برنامج الشرق الأوسط 15.11.2026"
+      }
+    },
+    {
+      "title_original": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "title_zh": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T15:57:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday\n- Published\nA federal judge has temporarily blocked the US government's closure of an historic golf course and park in Washington DC.",
+        "US District Judge Ana Reyes has been overseeing a months-long challenge to the president's plans for East Potomac Golf Links, which he said would be closed from 15 November for extensive renovations.",
+        "Reyes has said President Donald Trump cannot close the park nor its golf course, but added that his administration was not required to actively manage either."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday"
+      }
+    },
+    {
+      "title_original": "Brisantes NATO-Angebot der USA: Selenskyj berichtet von Premiere vor Ukraine-Verhandlungen",
+      "title_zh": "Brisantes NATO-Angebot der USA: Selenskyj berichtet von Premiere vor Ukraine-Verhandlungen",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTBhczd5MXlJblhDWHlUVDY4ZjRRaDFGUGhXcmkxVW9waURlTEE1R0RnblctUU9qc1VDcXRHYksyem9jWXVGcXNHRl9Qd1Rid0N1b0xxM29JMVRmWVFfLXR6LWo5akRaejNraEVNaTV1dW9OeUZ0b1VWZFI3bUp0dEQ1X19TZVFIRWotSzkyQ2xpeWtrUUp5UUM1VHFCTnNHY3NKUjg5czBHaUVrSlRmbQ?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-11-15T15:40:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Brisantes NATO-Angebot der USA: Selenskyj berichtet von Premiere vor Ukraine-Verhandlungen    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "Brisantes NATO-Angebot der USA: Selenskyj berichtet von Premiere vor Ukraine-Verhandlungen"
+      }
+    },
+    {
+      "title_original": "Poll: Midterm losses deepen divide between MAGA and non-MAGA Trump voters",
+      "title_zh": "Poll: Midterm losses deepen divide between MAGA and non-MAGA Trump voters",
+      "url": "https://www.politico.com/news/2026/11/15/tpp-trump-coalition-maga-breaks-01164574",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-15T10:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "For a party that has spent the last decade united around a singular figure, new results from The POLITICO Poll reveal tension over where it should go next.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Poll: Midterm losses deepen divide between MAGA and non-MAGA Trump voters"
+      }
+    },
+    {
+      "title_original": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "title_zh": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T14:56:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says\n- Published\nAlice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the company says.",
+        "Jensen Huang resigned as chief executive of the AI chip-making giant Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees.",
+        "Megaspeed is the biggest buyer of Nvidia chips in south-east Asia and the scandal at Nvidia has raised questions about the possibility that high-end AI chips may have ended up in China despite US export restrictions."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says"
+      }
+    },
+    {
+      "title_original": "Xi Jinping invoque Sun Yat-sen, Taïwan en ligne de mire",
+      "title_zh": "Xi Jinping invoque Sun Yat-sen, Taïwan en ligne de mire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVdkVGdTVUpLVHBrd3Q0al9GNzZQbm53WHR6RlY5Rjd3M2JtdmxqMGR3OWJLc1pZT1hMc0xmTml2M2NCMUJLZUhEQnQ1Y1JKZkJFUklFYks1bVNxVkJMdGdsME5rNWVPSmhlMXY1LWxpWXFEZW91QWtaZVYtTXZnb3RQOFFWQUhza2cxZTlETVVEZ0RjaHRvNVRiTEJVa1dVYzBmRW1ETjBsY3NtT0dVeUJhNA?oc=5",
+      "source": "Le Vent de la Chine",
+      "source_score": 40,
+      "published_at": "2026-11-15T14:34:02+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Xi Jinping invoque Sun Yat-sen, Taïwan en ligne de mire    Le Vent de la Chine",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Le Vent de la Chine"
+      ],
+      "all_titles": {
+        "fr": "Xi Jinping invoque Sun Yat-sen, Taïwan en ligne de mire"
+      }
+    },
+    {
+      "title_original": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "title_zh": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T14:33:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision"
+      }
+    },
+    {
+      "title_original": "Iran targets US military base in Bahrain with drone attack",
+      "title_zh": "Iran targets US military base in Bahrain with drone attack",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T13:42:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Iran targets US military base in Bahrain with drone attack\n- Published\nIran launched a drone attack against a US military base in Bahrain on Sunday, its second attempt to target the country in three days.",
+        "The country's Islamic Revolutionary Guard Corps (IRGC) said it targeted the US air defence radar facility at al-Riffa air base in Bahrain using six drones.",
+        "Bahrain's military said its air defence systems intercepted and destroyed the Iranian air attacks \"before they could achieve their objectives\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Iran targets US military base in Bahrain with drone attack"
+      }
+    },
+    {
+      "title_original": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "title_zh": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T13:37:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "South Korea's top scorer in tax accountancy exam admits cheating\n- Published\nA candidate who came first in South Korea's certified tax accountancy exam has admitted cheating by using a miniature camera, mobile phone and AI tools.",
+        "Han Won-seok confessed in a video on the YouTube account of his lawyer, Lee Don-Ho, adding that he had confessed to the Seoul Metropolitan Police Agency and offered details on how he cheated.",
+        "The 34-year-old scored 397.5 out of 400 points in the first round, getting just one of 160 questions wrong, which initially raised suspicions and sparked online speculation."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "South Korea's top scorer in tax accountancy exam admits cheating"
+      }
+    },
+    {
+      "title_original": "Bei Verzicht auf Donbass: USA bieten Ukraine offenbar die Nato‑Mitgliedschaft an",
+      "title_zh": "Bei Verzicht auf Donbass: USA bieten Ukraine offenbar die Nato‑Mitgliedschaft an",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR2tGenVFZ24wY3FmQ2x6SGt0dVNwblBBTVhFSVdNdmRTUHBxaVVsMExaTXpSZlllZ2gtYTc1YTQ0OHdheE01U0tJVjBiYzYyQ2U5aFFlSWJ4b3VyMFNtaDA3alBEbktSWmpPakZBYlIwdVlmeFByZFJzNXpPdVhDZjc4bTVsNEZGVjJNdlNhcG5rOWZnSF84ZXdxeVNEMjZvaWkyZHMwaXlfY1B5bUV6UHlCWEctTUc5bEdpa2NhWG9fcUFLc0ZTSjljc01RWWFuSnc?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-11-15T13:35:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Bei Verzicht auf Donbass: USA bieten Ukraine offenbar die Nato‑Mitgliedschaft an    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Bei Verzicht auf Donbass: USA bieten Ukraine offenbar die Nato‑Mitgliedschaft an"
+      }
+    },
+    {
+      "title_original": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+      "title_zh": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOFZxYzB6N3djaUJMOWI1QW1oaTFhLVc1bDZXNVlEMERPNlR5Z2FSMl9rdnJJSkNnVVhQclUteWJYWE1rM1F4amRadVRJQk1YZHNHU2UxcmtFYTRqNWk4eXhLTjhNWlBPbE1uNU1zMzFWMWJaZGpDUFgzSml5V29ZeVgwQUFuNzZMaXpWQVV2YUxaQ0wwckNfLWR4a3pYV3ROSjVHcVhCTnlEQlItWFBuctIBtgFBVV95cUxOV2YtTEY4U180dER0UjRwQUFDdUhDWVRLTnpMVzhJVkdJUTlhbXc0UEVvaHN1cnV3bWJud2FDZldDZ2h2WEtlVG9uWWlfZEI2OF82M05oMlRzUUxRaUg5cGgxM19acGEyeVpkMnNrcDZxaS1NTFQzdXNoZUJyVk9iUnFfTHQyeHZ6Nmc5cWtPcGM0LWpqVDcwUG9RNEExV0h5cEJwNXNVMzVZQ0hkM245SUdjM0F2QQ?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-15T12:55:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?"
+      }
+    },
+    {
+      "title_original": "Für Ende des Ukraine-Kriegs Putin fordert offenbar Rückbau der Nato auf Stand von 1997 – und noch mehr",
+      "title_zh": "Für Ende des Ukraine-Kriegs Putin fordert offenbar Rückbau der Nato auf Stand von 1997 – und noch mehr",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOU50c1RHUmpXVVhwTzF0X0szS1p6M0h2NGd1TkdwWGNybXVXS1l3X0FMTUcwZHNCZnpwTWU5UnA4UTBCaXI4cXdMQmVhQWZma0I4d0xVRlRxbEw5OXg2a1R0UDBxa2plVUp2eDdGTjB5MmUxNHZGNWJlNEVQN1pmZ2dFcF9aejFLUGhQdGdVNXFPMTA5bHBxbHNGcEVRSzZqT3lXcVFJQ21HMVhaWUJwM1ZHOTNjLU95bWRLQ2xhWlpnbmpRUUo1Y0w2SXVKTkFtN0RjcnhQRHliTjAzRTlsZUdoclkxNFRCZFdNaGhmZ0s?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-11-15T12:40:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Für Ende des Ukraine-Kriegs Putin fordert offenbar Rückbau der Nato auf Stand von 1997 – und noch mehr    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Für Ende des Ukraine-Kriegs Putin fordert offenbar Rückbau der Nato auf Stand von 1997 – und noch mehr"
+      }
+    },
+    {
+      "title_original": "泽连斯基：美提议乌撤出顿巴斯换加入北约",
+      "title_zh": "泽连斯基：美提议乌撤出顿巴斯换加入北约",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IazZaQUNJUGVaQnhrYy1aVWFUMW1VWWdCTTFlTlJDSkN2dXZUdUplSTdKTHQ0WTZ5UXpkTThWZlUxMFhSUkQ5OFlNWTlwUUs1Y3JKQkJNS3dMRHc3ME1aX1JsQjJQNExDSThN?oc=5",
+      "source": "联合早报",
+      "source_score": 40,
+      "published_at": "2026-11-15T12:27:03+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "泽连斯基：美提议乌撤出顿巴斯换加入北约    联合早报",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "联合早报"
+      ],
+      "all_titles": {
+        "zh": "泽连斯基：美提议乌撤出顿巴斯换加入北约"
+      }
+    },
+    {
+      "title_original": "Will Ukraine make territorial concessions for NATO membership?",
+      "title_zh": "Will Ukraine make territorial concessions for NATO membership?",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc25uRjVTb3pPd3FjenUzV0VaRFdBQ2g3ZkNINFlfLVprUzNkWFlqNGVNSjFyUU5WOXlValYtZVpqSHpfbENGaXlKal9HWUlzTm1SWk9RcWtTMW03cmlMM2REV2MzbVZ1dzFlN2kzbVVWQU8zbnJoc3RiT3lQT0FaMlFlNDRBenVneXBTdmg0SldkUVE?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-15T12:11:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Will Ukraine make territorial concessions for NATO membership?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "en": "Will Ukraine make territorial concessions for NATO membership?"
+      }
+    },
+    {
+      "title_original": "扎哈罗娃：北约像“蛀牙”，削弱了欧洲乃至全球的免疫力",
+      "title_zh": "扎哈罗娃：北约像“蛀牙”，削弱了欧洲乃至全球的免疫力",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzdDWHFSUGlzMXRod0Rvbms0M2RKVm9XWXVfdVRWd3JPS190YVRQYWE4WkY1NzNfQjRra2RNV1ZOVU41bjR0em1lSFJ1UGk4d1JhbHhoMTZDaHNVNzRiUnhTV3J2RUVNRks4dHJ6ajhwOHVUdm5FNzZ0SHFQMFY2YjdVZ1BVUS1n?oc=5",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-11-15T11:25:10+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "扎哈罗娃：北约像“蛀牙”，削弱了欧洲乃至全球的免疫力    Sohu",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "扎哈罗娃：北约像“蛀牙”，削弱了欧洲乃至全球的免疫力"
+      }
+    },
+    {
+      "title_original": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "title_zh": "Three men sentenced to death in Jordan over fatal church mass shooting",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T11:06:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Three men sentenced to death in Jordan over fatal church mass shooting\n- Published\nA Jordanian court has sentenced three men to death by hanging for carrying out a fatal mass shooting on a church last month.",
+        "The attack on 23 October killed nine people and injured 34 others who had been attending a Christian funeral at a Greek Orthodox church in Karak governorate.",
+        "Jordan's Armed Forces said in a statement on Sunday that the men had been convicted of committing \"terrorist acts\", as well as possessing weapons, \"promoting the ideas of a terrorist organisation\" and \"conspiracy to commit terrorist acts\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Three men sentenced to death in Jordan over fatal church mass shooting"
+      }
+    },
+    {
+      "title_original": "报道称俄要求乌和谈中芬兰退出北约，芬兰防长：这种要求令人愤慨",
+      "title_zh": "报道称俄要求乌和谈中芬兰退出北约，芬兰防长：这种要求令人愤慨",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYnpwNTcwVUFOa3ZoRmFxLU8ydHBDX0xNSElrTXc3OVlsRzFXdzBQbVlNVGJfbzdFQ3NDdGREWFA0X01tdWxsaWtYSnhTc1doU3haMUVZMF84Q0NMUDZTVEF4Z2pnSC01a2pHZlRxN3RJeWtmSEJNMG9XX0trZk43Z1hDZ21Fbk1vSHBoZw?oc=5",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-11-15T10:57:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "报道称俄要求乌和谈中芬兰退出北约，芬兰防长：这种要求令人愤慨    Sohu",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "报道称俄要求乌和谈中芬兰退出北约，芬兰防长：这种要求令人愤慨"
+      }
+    },
+    {
+      "title_original": "「ＮＡＴＯ加盟と引き換えにドンバス撤退」米側が打診とゼレンスキー氏…正式提案なら国民投票の考え",
+      "title_zh": "「ＮＡＴＯ加盟と引き換えにドンバス撤退」米側が打診とゼレンスキー氏…正式提案なら国民投票の考え",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLZlA5ZlRlOS1lbFhuMmM0aHVWazgtRTJZWUE1QjBMbzBEOHhtX0hBZk1BdFBSWUNtaWpyOTBNMklfbXdoU2FzcGp5V0RDNVhOQWlfcUVxSUFXWC1BU1A3cGVB?oc=5",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-11-15T10:02:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "「ＮＡＴＯ加盟と引き換えにドンバス撤退」米側が打診とゼレンスキー氏…正式提案なら国民投票の考え    読売新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "「ＮＡＴＯ加盟と引き換えにドンバス撤退」米側が打診とゼレンスキー氏…正式提案なら国民投票の考え"
+      }
+    },
+    {
+      "title_original": "Atomschutz-Ende und Nato-Rückzug: Russische Forderungen stoßen auf Widerstand",
+      "title_zh": "Atomschutz-Ende und Nato-Rückzug: Russische Forderungen stoßen auf Widerstand",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcm5WQUVPRk5BTU81M0wxcTF3WmppbkRtcUhHZTZFQVliQ1c0YXZiTXZ5dUczWHUtX2RjLTZnMjBpNkZqMEhJd1lfYTdwYUg0aDhqRFlQUnBtbGRIU2JlYzJPSldxMXVoVU1ienJGVmhuekFqVVkwdmNPU1ZBbmlIQUl5VmhTcTNFa0pENlJEZUE2ZHA5OWtWT0ZoeGs3R2pjZzIzWE85eVAxbkE?oc=5",
+      "source": "Berliner Zeitung",
+      "source_score": 40,
+      "published_at": "2026-11-15T09:57:37+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Atomschutz-Ende und Nato-Rückzug: Russische Forderungen stoßen auf Widerstand    Berliner Zeitung",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Berliner Zeitung"
+      ],
+      "all_titles": {
+        "de": "Atomschutz-Ende und Nato-Rückzug: Russische Forderungen stoßen auf Widerstand"
+      }
+    },
+    {
+      "title_original": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "title_zh": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T09:57:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Pope Leo speaks of community 'suffering' on visit to remote Andes town\n- Published\nPope Leo XIV has spoken about the \"suffering of those who are forced to leave their homeland in search of a better future\", which he said had left communities under threat, during a visit to an isolated Andean village in his former diocese.",
+        "About 6,000 people live in Santa Cruz de Succhabamba, located in a remote part of the Andes mountains of northern Peru, but the Pope's visit still drew a crowd of about 20,000, according to the Vatican.",
+        "At an outdoor Mass, the Pope spoke of \"declining birth rates that are emptying villages\" and the unequal distribution of the land's resources."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Pope Leo speaks of community 'suffering' on visit to remote Andes town"
+      }
+    },
+    {
+      "title_original": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "title_zh": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T09:26:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Fifth Canadian soldier dies from injuries caused by large fire at military base\n- Published\nA fifth Canadian soldier has died from injuries he suffered when a grass fire swept through a military training area last month.",
+        "Four people were killed initially and dozens were injured when the fire, which ignited during a live fire training exercise, spread rapidly through Canadian Forces Base Wainwright carried by strong winds on 17 October.",
+        "Pte William Douglas Dal Bianco, who had been receiving medical care in Ontario, died on Friday, the Canadian Armed Forces said in a statement."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Fifth Canadian soldier dies from injuries caused by large fire at military base"
+      }
+    },
+    {
+      "title_original": "Zelensky says U.S.proposed swapping Donbas for NATO membership",
+      "title_zh": "Zelensky says U.S.proposed swapping Donbas for NATO membership",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU1p3WjB2RG5BQ1prMGNudXFPWkVQVVNvUUkxUVhNdXg5ZVNhRW9aanh3SGpKeFNqbktxUmhUUTE1M3Fxbmw2MktNR216cUdybzJqMkNadHZBdm5xeUdOUWFRTjRtN01ud2FDRGgzVW92V2k2TUk2eThiTGFCMDdENEhZWHdMa1IxUFdyb0NlVEhEVG1WRjkteG9lZl9fV0diT1hZR3hBMTdBcWp0dXdNUGFvREhneVloZDNUUXVCNXlDc3FtbWxxbnNveFlJWXM0R2tDdjZubGRZQ0NN?oc=5",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-11-15T09:16:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Zelensky says U.S.proposed swapping Donbas for NATO membership    CNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "en": "Zelensky says U.S.proposed swapping Donbas for NATO membership"
+      }
+    },
+    {
+      "title_original": "Zelenskyy Says US Floats NATO for Ukraine in Exchange for Donbas",
+      "title_zh": "Zelenskyy Says US Floats NATO for Ukraine in Exchange for Donbas",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnU2bWVzWEppMldUY3MzMlhnMVhZb24tZzYzc2sxQ0VRUDV2dVlfM2taWnJXOXF6bHpOTXVXUGQ1QXI1TjRFWDhTeUFkTEJWMU5EbHFzeE5fX19OWmZKakRsdDhfdjZraFdxWjlHSUdaSzRPNVFjV1dkYTYteXRTd0hpM0tYeGl3cVgyWm16allXZjR0bG41YkE4M1dGckoyUUxLWTAzY3diRzQxSHF5OVctVEtpdw?oc=5",
+      "source": "Bloomberg.com",
+      "source_score": 95,
+      "published_at": "2026-11-15T08:51:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Zelenskyy Says US Floats NATO for Ukraine in Exchange for Donbas    Bloomberg.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Bloomberg.com"
+      ],
+      "all_titles": {
+        "en": "Zelenskyy Says US Floats NATO for Ukraine in Exchange for Donbas"
+      }
+    },
+    {
+      "title_original": "À Taïwan, le retour d'une céréale ancestrale résistante au changement climatique",
+      "title_zh": "À Taïwan, le retour d'une céréale ancestrale résistante au changement climatique",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNV2l6Q1gtWDJWUzR5NHRzZFh6Vzdqb0h3Y2UwNHlMSkN3VFhzdDZXOGp1S3NJVWNLQkozNUZLbWVIa3RKNVB6OWJwRjgyRFlxWjhhalFwVUdMN2owcGlDRUZhUXNNN3JuRWhyZjRRSlhlaGItWVpXYTR3aF81V3RqcllVLUJlTjB2d2ZLMERIT1pudXV3WkVER3FIM01zLXk0YUpKUW9Gc3Zsc3c3Z0dIbURLQ2c2cXR1ZjBWd1hFWW9nNzE1bFo4Yzc4UmJKNnlnWHdPRkoyYWlTZzhmVnIzcnFNOXEyVmY4S2hmZXR3?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-15T08:29:33+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "À Taïwan, le retour d'une céréale ancestrale résistante au changement climatique    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "À Taïwan, le retour d'une céréale ancestrale résistante au changement climatique"
+      }
+    },
+    {
+      "title_original": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "title_zh": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T08:17:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Israel kills Hamas commander in strike on Gaza camp, officials say\n- Published\nA senior Hamas figure who helped plan and oversee the 7 October 2023 attack on Israel has been killed in an Israeli airstrike, officials in Israel and Gaza have said.",
+        "Samir Abu Younis, the newly appointed commander of the Rafah Brigade, was killed on Saturday in Al-Mawasi in the southern Gaza Strip, according to Hamas's Al-Qassam Brigades military wing.",
+        "A local Hamas official confirmed Younis's death."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Israel kills Hamas commander in strike on Gaza camp, officials say"
+      }
+    },
+    {
+      "title_original": "泽连斯基：美国提出乌克兰让出顿巴斯以换取加入北约",
+      "title_zh": "泽连斯基：美国提出乌克兰让出顿巴斯以换取加入北约",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JMHQzeWZ5SF9mOW5XbmluMmZ0dEFWVW5UbUdqMDFwRTBvalNYblM1Z3lwN1d6aENpczRWaGRLcUpWWGpzMDlmY0RBNzdZcEJzb3ZuVk1ia0NYaEd4ZG05VVJQQnFKNUXSAWxBVV95cUxQM3l0UVpkdER5WG0za2VvWndOLXREcEZ0TU5oczdHUXFfY0hReHZrS3dMQmNwVEtKa1JjRk50U1hadFlzUWJ6QWhZRFY0dDIzam1TNTc5U0J2RTJ1MF9kQTh1bFBNamxwS0kxNUE?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-15T07:44:30+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "泽连斯基：美国提出乌克兰让出顿巴斯以换取加入北约    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "zh": "泽连斯基：美国提出乌克兰让出顿巴斯以换取加入北约"
+      }
+    },
+    {
+      "title_original": "انفجارات في البحرين وإيران تعلن استهداف قاعدة أمريكية بست مسيّرات",
+      "title_zh": "انفجارات في البحرين وإيران تعلن استهداف قاعدة أمريكية بست مسيّرات",
+      "url": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxNNUI4V3ZjSVdOR0pZZlBlbk9SUDFIdFFSdTNiaVh1UlVZTkZtNkFzSDNoUjZJdkoyZTFtenFvU3dYREE2Tk14Ti1Mell4QVBQcWE1TDdDMU9nelVNMDBkSXJIaGNiZEZjZ1pSODluZDRRYlg3S2dnTzdqSXlVWVNJdzJQMjJ1MHNVYTJnYXVQYV9mLTNlLVY3V0ZZNVNLcHpEalY3d0dsbkdUVUR1R0xUTm8zUld6bkJyZ3AyRDFsRTFqdW5oZGN5ZFR1cGloTnZaRUEtQ09KemlHTmpsc2FncjEtcm9PVmpLdlloTlljRXBsQ2wwS0dJdTItX1pjR3ZRd19FSUFUN2FTSHlDU2E2MGtSQjFUUzdQU0JIbVlieEVJVXU0azVwZHctbW5OUVN5Z0FXRDJSa2NOdkYwSjhIRHlDNGw4YXFFZ3NwYnpyU1Y3REQzc0pOYmRzRHZxcnBoajBYTkRFeFJkRU9Uall0ZjY2OFhkWURkNVJnWUNfYmRDei03dFhCLVR2YVI3WkxEOGhMbmdiQnhCS0ItQ3J1Y29mTFhuOWlmZm9rZlg3cnUwejZYb1U2SE02WEZwU0RGeHJDZkRCRlNOaUlFZkhrU0hfbVdhVW9odHV1TnVlREVUUk4yZlBmVVJFbUR6ZXdXSEczeTluekM0ODdRbFRIaDhjRzgwVUxNbUhZbnNBQkMxVFpUc2QxU1QxNkNfUFpWRlZkRVJlQnRZcnhYMEdYRktmb3Bub1R1Z2NqUkJNSklNN2xJQU5td2JWMHNIb21QSTNZUG84MVZiNWRxbEhNOW5EM1ZCZUVRN2Q5N044X0ZRMGNu?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-15T07:30:04+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "انفجارات في البحرين وإيران تعلن استهداف قاعدة أمريكية بست مسيّرات    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "ar": "انفجارات في البحرين وإيران تعلن استهداف قاعدة أمريكية بست مسيّرات"
+      }
+    },
+    {
+      "title_original": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "title_zh": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T07:10:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Copper wire upgrade behind US flight suspension, transport secretary says\n- Published\nA nationwide US ground stop that caused thousands of flight cancellations and prompted travel chaos was caused by a technical issue following a copper wire upgrade, the transport secretary has said.",
+        "Sean Duffy told a news conference that the government was trying to find out whether the problem that led to air traffic controllers suspending take-offs for four hours on Friday had been caused by \"incompetence\" on the part of the company doing the upgrades or faulty equipment.",
+        "Though the ground stop was lifted on Friday evening, it had a knock-on effect on air travel on Saturday as airlines attempted to clear a backlog of flights."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Copper wire upgrade behind US flight suspension, transport secretary says"
+      }
+    },
+    {
+      "title_original": "Ukraine's Zelenskyy ready to put NATO security deal to referendum",
+      "title_zh": "Ukraine's Zelenskyy ready to put NATO security deal to referendum",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ18wRnh5dElHdEFBakZMZHBmUG0yVGlacjVEckswemNSWmVLN2tRVndscG84SnlzTWlqb3VvcXdSZ0lUbkJWYU90TGlJblFFOVE4Vk50c2xVaHBDSkZhbmZWX1JoQUJyUEI2QmQ0cGdKUW0zeGVEa0dXbkFCb1NfYmNYOS1uc25pRXhXa0dtRTJhOVc1bG9z0gGXAUFVX3lxTE9ybDdSR08wdldkTzdYUlhvTWkyTEpnMEFHM2VobUl6Z3NfVW11V0dZOGRjWWtSRjRMczRiaHBoRUFOM095d3pIOXhrOWd5eEZEa202UU5HSFZ0LXFIZE04Wk9oamNSNUVRTkFuOHIzSEdFTXNFUTdrYVBTVF9YeUJYWG43d0hXajV0WjRRa1k1OFNiTnBTOG8?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-15T07:03:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine's Zelenskyy ready to put NATO security deal to referendum    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "en": "Ukraine's Zelenskyy ready to put NATO security deal to referendum"
+      }
+    },
+    {
+      "title_original": "صهر ترامب يرد على زيلينسكي بشأن مقترح انضمام أوكرانيا لحلف الناتو",
+      "title_zh": "صهر ترامب يرد على زيلينسكي بشأن مقترح انضمام أوكرانيا لحلف الناتو",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVWhJNDA0aW5qZDh0WTJlLWU4STVCV3RjR2JyRzVUSFhpZUYtY3ZfRVN0ajhSV21zRlZraTlyQzhuV0FxWThLSVlhaVhZUnd0WDZfXzRVYUpWeGJwOFEzdjcya2ZHdWRfSHZRbVJUcUdFbkJlY3p5bnM3RjRFNVBRRHdwZ0xObEdGZ2MyU0R2ZVFvMjJYbUZHZHpzRlJBWk04QWxR?oc=5",
+      "source": "CNN Arabic",
+      "source_score": 95,
+      "published_at": "2026-11-15T06:37:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "صهر ترامب يرد على زيلينسكي بشأن مقترح انضمام أوكرانيا لحلف الناتو    CNN Arabic",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "CNN Arabic"
+      ],
+      "all_titles": {
+        "ar": "صهر ترامب يرد على زيلينسكي بشأن مقترح انضمام أوكرانيا لحلف الناتو"
+      }
+    },
+    {
+      "title_original": "La OTAN suspende una cumbre de líderes en Albania en 2027 y reduce sus reuniones de alto nivel",
+      "title_zh": "La OTAN suspende una cumbre de líderes en Albania en 2027 y reduce sus reuniones de alto nivel",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSmdmcXZ4RXQyTFdkTzA0OUZ5b2Zoc05rZXVFWUtTZ21hSnVuZGhzUEhjM3pUR2FhbTRtVmdyUjN4S1lfMHBBYkpGQjJWNFVSUUpJa2JnRUtYNUp3a2xIS2FoZjM5ekljWlg5c1hCU192Q0ozRVlQV2NYZnFSMGh1WktHQ2ExMTRjdjNDOEJoYk9XdXROclhOTDRSM19Xbm9lNks2MXAzc3Job2s2eFFuMUFDSXpDY09nX2ViZXhoSC1fZi1WRnB5eWVqRmpveE9SenV4enhqTHFqWFp5WUpXM0JKWWw1bDRDa1pRUTBSRFdFcGdFa3RDTw?oc=5",
+      "source": "Independent en Español",
+      "source_score": 40,
+      "published_at": "2026-11-15T06:21:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La OTAN suspende una cumbre de líderes en Albania en 2027 y reduce sus reuniones de alto nivel    Independent en Español",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Independent en Español"
+      ],
+      "all_titles": {
+        "es": "La OTAN suspende una cumbre de líderes en Albania en 2027 y reduce sus reuniones de alto nivel"
+      }
+    },
+    {
+      "title_original": "Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory",
+      "title_zh": "Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVB5QVo4WFV2TFBGRnF1ZXFya3RmSGJtZzlDWVRZcTdzVTlLUTZIUEpzdWNXTUNjX3U3RzJoamhfaWZXRGc3M2RDay1hWVItdGRVdm1DVVFid256SEk2RGVGRnhsUm9fc2dHTTB0R190UzZ4SVhqZjFqeEdqLVZOcEZOYXFhNlV3QW1KaTNTX1pQdURhY3FCb1RQQ1BiOXI0cTY5QVlyN1hRZ2l4a2FjeXY3TldiNkY0ejlDc3hR?oc=5",
+      "source": "The Washington Post",
+      "source_score": 75,
+      "published_at": "2026-11-15T06:17:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Russia seeks NATO pullback; Zelensky says U.S.",
+        "asked about ceding territory    The Washington Post",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "The Washington Post"
+      ],
+      "all_titles": {
+        "en": "Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory"
+      }
+    }
+  ]
+}
