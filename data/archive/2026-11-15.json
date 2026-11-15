@@ -1,8 +1,683 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-14T17:04:46.153589+00:00",
-  "count": 35,
+  "generated_at": "2026-11-15T02:37:44.314054+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title_original": "Russlands Kriegswirtschaft drohen Probleme: Putin verwaltet den Niedergang",
+      "title_zh": "Russlands Kriegswirtschaft drohen Probleme: Putin verwaltet den Niedergang",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU2JkUkhudWIwWXZseUZVNFphS3RONmwyd1Q2QUFraHBCdkZ6NUY4dHFXU3cyUnZ2N1RzdDIwd2NGZHFvY1JscUpDQ3p4U2Z2Z21faEtwcWtCb2k0bmlLS1czcFFjR2I1d2NBcjVId095eW9DVzdwMkwzRFI4VzNhekdzdzdwc19UUlJUQ0R6LVV3Z2ExOVV4VExtX3hpRTlxajJjb29RVmJyVkZ3cERoZUxtTW0tT0lJdXQtLUdUeXphMXgySG0zTURaZ0tuTEdtVlRj?oc=5",
+      "source": "T-Online",
+      "source_score": 40,
+      "published_at": "2026-11-15T02:12:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russlands Kriegswirtschaft drohen Probleme: Putin verwaltet den Niedergang    T-Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "T-Online"
+      ],
+      "all_titles": {
+        "de": "Russlands Kriegswirtschaft drohen Probleme: Putin verwaltet den Niedergang"
+      }
+    },
+    {
+      "title_original": "Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory",
+      "title_zh": "Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeVB5QVo4WFV2TFBGRnF1ZXFya3RmSGJtZzlDWVRZcTdzVTlLUTZIUEpzdWNXTUNjX3U3RzJoamhfaWZXRGc3M2RDay1hWVItdGRVdm1DVVFid256SEk2RGVGRnhsUm9fc2dHTTB0R190UzZ4SVhqZjFqeEdqLVZOcEZOYXFhNlV3QW1KaTNTX1pQdURhY3FCb1RQQ1BiOXI0cTY5QVlyN1hRZ2l4a2FjeXY3TldiNkY0ejlDc3hR?oc=5",
+      "source": "The Washington Post",
+      "source_score": 75,
+      "published_at": "2026-11-15T01:37:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Russia seeks NATO pullback; Zelensky says U.S.",
+        "asked about ceding territory    The Washington Post",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "The Washington Post"
+      ],
+      "all_titles": {
+        "en": "Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory"
+      }
+    },
+    {
+      "title_original": "حرب أوكرانيا ـ تحول الموقف الأوروبي تجاه موسكو؟",
+      "title_zh": "حرب أوكرانيا ـ تحول الموقف الأوروبي تجاه موسكو؟",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPN3F6QmhpbE9EQ0hNaGhEQUlaVzQtd3FLb1BoR1FkVUdOcDUxcUx1Z3BZamNUWjVwQmhvdElNdWFQMlBPS2tROGlWSW1qbXRsbE01UFdHWmhFbzZXU2hxRi04Z182SjY4eVFWcEtBTmhKMm9WQkNTVG5FUkJ1bWxlSENUR0h2bEtFNTdlTHVxUlZKWGVIQXZJRlZDX01FYjdZVjJ4dzI5TDZFaVZKRFZzZE5tb2lDMlMySm02eTNvZ285N0VxTWN2YVJ6bkpSblR0UUg3UlQ5RXVLakRxOGh5bmk5VUJEX1owaEt2VjF2RnBFRWoyZzh3TThac19DUGR6MENvYU5jSXVYY1NEQkx4b3luRVFRNk03STdOc083MXRuWWZJbmRZTl9GdFlxNDhsd2FaYXBYaFB6cU51N0NmZTBkUmF5SUszczVIOQ?oc=5",
+      "source": "المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات",
+      "source_score": 40,
+      "published_at": "2026-11-15T01:10:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "حرب أوكرانيا ـ تحول الموقف الأوروبي تجاه موسكو؟    المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "المركز الأوروبي لدراسات مكافحة الإرهاب والاستخبارات"
+      ],
+      "all_titles": {
+        "ar": "حرب أوكرانيا ـ تحول الموقف الأوروبي تجاه موسكو؟"
+      }
+    },
+    {
+      "title_original": "نظام أمنيّ أوروبيّ جديد لمرحلة ما بعد حرب أوكرانيا",
+      "title_zh": "نظام أمنيّ أوروبيّ جديد لمرحلة ما بعد حرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOV3laazl6ZzZHWUFpZWx2RVJYOHJ3b1Z2bW12M0pVbFBrT0EtVUp4YlZEU0hYVUtxZGhUM3IwSVNOQi11Tm04RnVmeFRaMkxzdDVOa2duZkl0Q1pKNFhnZ1VMcXlRWDlJY3JSeXQ5TnJXTDAySFFhQWEyYWpEQ25NT2o5Y05iTkxjYVBjRnpMRzBIYTVONnFaS2pULUZJY3dKelBfbzY1RXJHZUNteGRqN0J4Y1FFei01ZFRVR1JMeVNrbmNBaTVuUjhKWEhXVW93eWpvcnVYSnEwa3BiVEdsajB0NlY5RTdTMXhBanRkb1dxQnJNQU5KeFM4UTl4eXpZWmpSS3NYWHVKZjBGLU0xQ0NRazdzcEhWRWhsN1ZIM3lsMDBkSm1RSVZ3dnJJSDh5YWVVNHh4Q2xvYlJTOFFOaTFsN3FTZldKVk9KdE1iNzhheTJxTElVaHR3aGhwX09BUGFSZzNTSlowMkVGNERtU1p6ZHBnbUhtV3ktUGlLLUl0Z0QzZzM3QXFobzZnQUwtS1k1bUp3SW1hdjFMU2tleVp2U2pWcmh0QjAyRHNubUYtZGNGSVc0MGZlV2FEZXNEa19VSDUwblBfeGlPYXVveGFJWC1lYlRhMmlkTUQ2OUN6SUhVLWhUQmtST2JJVjloenpZRk9XdklZUW5Xcmc?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-15T00:55:20+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "نظام أمنيّ أوروبيّ جديد لمرحلة ما بعد حرب أوكرانيا    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "نظام أمنيّ أوروبيّ جديد لمرحلة ما بعد حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "¿Zelenski estaría considerando ceder territorio a cambio de entrar a la OTAN?",
+      "title_zh": "¿Zelenski estaría considerando ceder territorio a cambio de entrar a la OTAN?",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTTY2VXc4N1Y5WVpMai1QbVMybzRZel9qSk9CVlFVLUgwa0tGd2lzeXM3eEFBOUxfVUFfV0pqV29ycnA1TmpZeUN1TXdoZGtud2luMElDcHliOFJZZ3Zfd2d1TjFrNW5DUjNydUtJWGFhdXRaZ3E2dmNOd3RYUnltcVpnQnZzeWVpRGd5eHJBRnRLdHFOb3JTMi1BTnFGRjdYNlhRNjhYM3VSdkdua1ZiX2pncGxKZkFPZ0FBM0E1VUM?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-15T00:41:15+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "¿Zelenski estaría considerando ceder territorio a cambio de entrar a la OTAN?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "es": "¿Zelenski estaría considerando ceder territorio a cambio de entrar a la OTAN?"
+      }
+    },
+    {
+      "title_original": "La guerra invisible contra Occidente",
+      "title_zh": "La guerra invisible contra Occidente",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVNQQi1TN0xKU1J1ZFFMRzRCeU5MRENsbi1UMGZGbkRpalptMVp6T3AxVmVBcVVBd1dUbC1LcU9scmRuRnV4SFExclIycUF6SnNVYVhRa3NIeG5TNWYyY1QtZy1zdDZKSHowa1dEc08wWF9wOTUyVF82SGRNa1Q3QTNHb9IBgwFBVV95cUxPVl9oaG9TX1B3dmVCeDJQVnIxSVBOV3ZrbVVOYndiZmpTV3RSR0l6MGlXVTBKbXhMVnFTa01SWlZmeGxnaTc4VnVyT1NZaDJpTzBXSFdrbU5RdnZkSjV3LW51bk9MTFNvYzR0bU5WQlB1SE5sWk1JOE5TZDd1Z2FEcHRhMA?oc=5",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-11-15T00:01:29+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La guerra invisible contra Occidente    El Mundo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "La guerra invisible contra Occidente"
+      }
+    },
+    {
+      "title_original": "米国がウクライナによる領土割譲を提案、NATO加盟と引き替えに ゼレンスキー氏明かす",
+      "title_zh": "米国がウクライナによる領土割譲を提案、NATO加盟と引き替えに ゼレンスキー氏明かす",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tV0FzM3p1T3RuR3gxaVVqMDhCUTg1TGluZzlVSXdaNzgwbGFvYU83WW14QnZPTGk0aFJFOFBxckg4dzJ1dl8xX010QTFEbDlKbGRz?oc=5",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-11-15T00:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米国がウクライナによる領土割譲を提案、NATO加盟と引き替えに ゼレンスキー氏明かす    CNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "ja": "米国がウクライナによる領土割譲を提案、NATO加盟と引き替えに ゼレンスキー氏明かす"
+      }
+    },
+    {
+      "title_original": "Ukraine : Volodymyr Zelensky évoque l’hypothèse américaine d’une adhésion de son pays à l’OTAN contre la cession du Donbass",
+      "title_zh": "Ukraine : Volodymyr Zelensky évoque l’hypothèse américaine d’une adhésion de son pays à l’OTAN contre la cession du Donbass",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNazBhdXJ4d2FPd2c5QXZqVDNJMFAyRnRISnFaOE56R0hyOXAwSXpSUEJiblR6ajNJSUJVdlVUaUZjUWM0anJaeHFSYVJOTmNRQk5sTE9BcTFMWEQyaGdtcVRQV1lDdG1fZFlqd2dhdlVWOHpGbGhyS2otTW44ZmFnNHFCU0xZdkVQQmJQcTl6ZmtrOElZeENaczJzU3N5RVlhc2o1ZWZqdEpMNFl1N0JrYlVtcVdNSEJraFc1RjRqTjRRd1RrODJ6S1VLc1preUl3bVNraUZPYUc1aEowbWFkLWp4bnNVLXl4ZzM5b3lMM25obVVwTmpMRHB4RFcxMi1nUWRqLXJsTmVMZlh6VTRsZHhOcF9pU0pJMjQ3TmtySFQ?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-11-14T23:49:29+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine : Volodymyr Zelensky évoque l’hypothèse américaine d’une adhésion de son pays à l’OTAN contre la cession du Donbass    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "Ukraine : Volodymyr Zelensky évoque l’hypothèse américaine d’une adhésion de son pays à l’OTAN contre la cession du Donbass"
+      }
+    },
+    {
+      "title_original": "Zelensky: US floated idea of Ukraine swapping land for NATO membership",
+      "title_zh": "Zelensky: US floated idea of Ukraine swapping land for NATO membership",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnBJSVdsRS1QWWJDQUdWZHN6SFhTcTg1TlNfSm8wTEQ2NGV4aHpqLS1lQVVCT29EdUZJMmNoSFZtbzRRZ2hYeFlvbndWMXFxTjBRZTRNbllTNXQ3TFJKWUxuQkEtSEw5ZnMteXdOS3V5WERSNklISXJKSGZSRmdCQVZPem43RThxcUphU3Nodk5aenRycmhV?oc=5",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-11-14T23:30:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Zelensky: US floated idea of Ukraine swapping land for NATO membership    CNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "en": "Zelensky: US floated idea of Ukraine swapping land for NATO membership"
+      }
+    },
+    {
+      "title_original": "米国、NATO加盟と引き換えに領土割譲を提案 ゼレンスキー氏",
+      "title_zh": "米国、NATO加盟と引き換えに領土割譲を提案 ゼレンスキー氏",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lWVpJUFllWXdGbWRRS3NaWWQzeGVFMzNZeGxrQ01qcFRNeHlpZEdlSnZ5TVN2YTFrcTUtb0FtRTBiNThzY1IyeUZsYW91d3UzZmfSAVRBVV95cUxQOVI1c0hiSVJ2bUNFMy1PTzNmZlpDQkNVT2haWmlBTFNnNGV0dDdMVGE1c0dVWjJIRW5OV1BzQnRuOEhwWkZCdUR2S01uN25Bb2VNUWs?oc=5",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-11-14T23:13:29+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米国、NATO加盟と引き換えに領土割譲を提案 ゼレンスキー氏    AFPBB News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "米国、NATO加盟と引き換えに領土割譲を提案 ゼレンスキー氏"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”",
+      "title_zh": "ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iVFM5RnU1cXBMTVIteE94cUxqUFdzV0NxUHFOdDZUdzhDbE0zdUhuQVF6Z1lrdXpLcWJKbjJnZlBLT2MwUzVoQVBLY20tVXB1MGZtVWdpNGMzN2FDU1pN?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-14T22:59:38+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”"
+      }
+    },
+    {
+      "title_original": "「NATO加盟条件にドンバス放棄」米がウクライナに可否質問 ゼレンスキー氏公表",
+      "title_zh": "「NATO加盟条件にドンバス放棄」米がウクライナに可否質問 ゼレンスキー氏公表",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQlM0YXIteXgyaGpnclNVdHRJY1dyNk9CQ1JRM3FqbTVJZXF2ZEN4UE0zTmdTSGxSMTJjSEs5MDYyRzZJdWg0TlFJMWk1QlBKNFgtU05NTk1pMTFuUzVQYlBwMDlQeHVXUXhGdm9QSFNISXV1enZBSjJvRi1ucjhSMWxKandZOWlvVXo4OA?oc=5",
+      "source": "産経ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-14T22:33:56+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "「NATO加盟条件にドンバス放棄」米がウクライナに可否質問 ゼレンスキー氏公表    産経ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "産経ニュース"
+      ],
+      "all_titles": {
+        "ja": "「NATO加盟条件にドンバス放棄」米がウクライナに可否質問 ゼレンスキー氏公表"
+      }
+    },
+    {
+      "title_original": "泽连斯基：美国首次提出，若乌克兰加入北约，是否会撤出顿巴斯？",
+      "title_zh": "泽连斯基：美国首次提出，若乌克兰加入北约，是否会撤出顿巴斯？",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ2h1Ylljdzk1TEt2Z2p5dzAxd3NBTWJnUThNWXZRaUhSRk5ZNWx3UXRZeGFkVnMtU1MyU0Z2UGFyRFM1VVkySVB6V3BhN09LUmYtS3cyLVFmc0N0bzB4LXZ4ckdnVU1Ddk42Vy1lbW5Hci1zY1FQMEp4MHBlek8zOXpINDVzYy0wNHdIRw?oc=5",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-11-14T22:10:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "泽连斯基：美国首次提出，若乌克兰加入北约，是否会撤出顿巴斯？",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "泽连斯基：美国首次提出，若乌克兰加入北约，是否会撤出顿巴斯？"
+      }
+    },
+    {
+      "title_original": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "title_zh": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-14T22:09:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth\nSpaceX has successfully caught the top part of its huge Starship rocket on its return to Earth for the first time.",
+        "\"Can you believe it?,\" a commentator said as large crowds cheered at the launch site in Texas.",
+        "The company had hoped to catch both the bottom and upper stages of the rocket using mechanical arms - nicknamed chopsticks - on its launch tower."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth"
+      }
+    },
+    {
+      "title_original": "Florian Kellermann, ARD Kiew, über das US-Angebot an die Ukraine zum NATO-Beitritt bei Gebietsverzicht",
+      "title_zh": "Florian Kellermann, ARD Kiew, über das US-Angebot an die Ukraine zum NATO-Beitritt bei Gebietsverzicht",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fRktHYl81WlIyQ21UaFFvbGF2MUFSZjV2MnRDOFN0dHA1ejZPOUx6TzVsNEtJdFhKQWd0dUtxSkZHS29YVUxYenBVbHg5VzRaTVFQdUVLRjBsa1diS3QweVNvY2syczg?oc=5",
+      "source": "tagesschau.de",
+      "source_score": 40,
+      "published_at": "2026-11-14T21:20:43+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Florian Kellermann, ARD Kiew, über das US-Angebot an die Ukraine zum NATO-Beitritt bei Gebietsverzicht    tagesschau.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "tagesschau.de"
+      ],
+      "all_titles": {
+        "de": "Florian Kellermann, ARD Kiew, über das US-Angebot an die Ukraine zum NATO-Beitritt bei Gebietsverzicht"
+      }
+    },
+    {
+      "title_original": "U.S. suggested Kyiv cede land for NATO membership, Zelenskyy says",
+      "title_zh": "U.S. suggested Kyiv cede land for NATO membership, Zelenskyy says",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZDVZbXFBcFprd2tmWDl1N3A5QmdzTmUtaUhPbXlLbk9aUFZxZ2VUei1jWUdaQmFNWk9SZV9EQzJmcFdrR3d2LVhEREVxOHJTRjR1amlUc19ndG5VclVrS0E0dGRZYzVhRzNybDVGckhqZ3h3V3llSldCMHZqWnhyaGZTSVoxRU1FNTQzdEtaMzlocGd4aGF2YmxKanllSTFEYnYxNA?oc=5",
+      "source": "Japan Today",
+      "source_score": 40,
+      "published_at": "2026-11-14T21:05:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "suggested Kyiv cede land for NATO membership, Zelenskyy says    Japan Today",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Japan Today"
+      ],
+      "all_titles": {
+        "en": "U.S. suggested Kyiv cede land for NATO membership, Zelenskyy says"
+      }
+    },
+    {
+      "title_original": "Zelenski desvela la propuesta de EEUU: Ucrania entraría en la OTAN si cede el Donbás a Rusia",
+      "title_zh": "Zelenski desvela la propuesta de EEUU: Ucrania entraría en la OTAN si cede el Donbás a Rusia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0FsZEVjSEtvOWpleWZZekE3Mzlzc2dYOU9FMUpuWkstMHdJRzBEVkJYQTlPNTQxYmlibFYwTF93V3N5SU1adVBJcWVzZEhZckRfUXlBZGRlYnhncDdEWVNmX2g0UnVqYk5wVG5qMkcxTHVsYzBydGt4Ymd6ZzRyQVFSN3ZBTktSX3BDeDlaaFRleTQwNlJtampjQTFHcjdSQXNpODZyVXZKZ2JEeWFHNWoybEFyajdaNlHSAb8BQVVfeXFMTzB5OW9BYThsZXExd3A3N1BFdzI3RTRLdEg2NjlEbEdxSnljNXluY18xa241SVlobG1IOVNRR2xKLXNhbFlfSXpYMXNua2ZCUC1QTDNyZXVaU1M4RlZNenN5ZDVfODdGOUV6UzlKZV9FRzFtbnN5dlJsR244NElEU2ZNT05BVlg1ZUxyc3c2Ynp1aTBldXBUY2EyREpPRWVWTjRjZUNzMWVrQmtweUtLbzVTaFByR2dVNllMcmZxTVU?oc=5",
+      "source": "OkDiario",
+      "source_score": 40,
+      "published_at": "2026-11-14T20:35:24+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Zelenski desvela la propuesta de EEUU: Ucrania entraría en la OTAN si cede el Donbás a Rusia    OkDiario",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "OkDiario"
+      ],
+      "all_titles": {
+        "es": "Zelenski desvela la propuesta de EEUU: Ucrania entraría en la OTAN si cede el Donbás a Rusia"
+      }
+    },
+    {
+      "title_original": "泽连斯基称，美方提出乌克兰撤出頓巴斯　换取加入北约",
+      "title_zh": "泽连斯基称，美方提出乌克兰撤出頓巴斯　换取加入北约",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON3pRamRsMmZiaV8yclludVh3bHNzNnlnOTdLclIwbDFsMHphbGI5WEgxWmI0QkM4aHFhYlNsdTZUU2ZSVWs2QTB2aDJmS3hub2EtTmxKLW13RnRqOTcxRWZ6VUg3WldNX3Nza2tJWk9RRjIzSE9OSE1fQmVabGV6d2VtZHhuc1U2aHVNYWZlUWJmcEtwVkxKQ201T19jMk8zWmFfSEdnUXI1eHMxNXVmQXBFck5sY2N1TVJWZnhkY1FKV05P0gHHAUFVX3lxTE5EWmM2UDFsckZvZUotak5oT2p6OHpZUjIyNmRoVGtqQklJVlBXZFlFZW5RMi1UR2Jfb3NmZGdLS3ZlZXc5bUN0d2w4VDM3QmFGWGhFZ3F5WC15TTZJcXFvMjZQSVRzNVEyZXlVNVBJWTZ3SDYyZ2dpbXV6X2xRZFpGNUl3d0tUYnc0VzdZNkx4czJReVZ0UDJEVXFlc1RuR1pBMWxabjMyNWxLSjBFeHdBR0lBRVBJX2szaWhBYnRyWDE3emlIaTA?oc=5",
+      "source": "美国之音",
+      "source_score": 40,
+      "published_at": "2026-11-14T20:26:57+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "泽连斯基称，美方提出乌克兰撤出頓巴斯 换取加入北约    美国之音",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "美国之音"
+      ],
+      "all_titles": {
+        "zh": "泽连斯基称，美方提出乌克兰撤出頓巴斯　换取加入北约"
+      }
+    },
+    {
+      "title_original": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "title_zh": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-14T20:23:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision\n- Published\nSome 130 people on a cruise ship docked in New Orleans have been rescued after it was struck by a tanker.",
+        "The cruise ship, American Heritage, was left lying on its side in the Mississippi River after it was hit by the cargo vessel Atlantic Asphalt.",
+        "The collision left 32 people from the stricken riverboat in hospital with non-critical injuries, but no-one unaccounted for."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision"
+      }
+    },
+    {
+      "title_original": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "title_zh": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-14T19:14:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Watch: Cruise ship overturns after collision with tanker in New Orleans\nAbout 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+        "Footage shows the American Heritage taking on water following the collision, which left 32 people in hospital with non-critical injuries.",
+        "\"We have zero people unaccounted for, which truly is a miracle on the Mississippi,\" New Orleans Mayor Helena Moreno told reporters during a press conference."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Watch: Cruise ship overturns after collision with tanker in New Orleans"
+      }
+    },
+    {
+      "title_original": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "title_zh": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-14T19:12:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Copper wire upgrade caused nationwide flight suspension, US transport secretary says\n- Published\nA nationwide US ground stop that caused thousands of flight cancellations was caused by an issue following a copper wire upgrade, Transport Secretary Sean Duffy said.",
+        "Duffy told a news conference that the government was trying to find out whether the problem was caused by \"incompetence\" on the part of the company doing the upgrades, or faulty equipment.",
+        "The US government does not believe it was as a result of a cyber-attack, although an investigation is still under way, Duffy said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says"
+      }
+    },
+    {
+      "title_original": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+      "title_zh": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-14T19:01:32+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the first regional edition of the contest to be staged outside Europe.",
+        "Eleven countries competed at the One Bangkok Forum in central Bangkok, and the show ran for two and a half hours including advertising.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Philippines’ Carmelle wins first Eurovision contest in Asia"
+      }
+    },
+    {
+      "title_original": "Italy fines Meta €805m over accessing users' photos",
+      "title_zh": "Italy fines Meta €805m over accessing users' photos",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-14T18:28:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Italy fines Meta €805m over accessing users' photos\n- Published\nItalian regulators have fined social media giant Meta €805m (£670m; $887m) for accessing Android users' photos without their specific consent.",
+        "Italy's Data Protection Authority said Meta did not properly inform about 20 million smartphone users that it had access to their photos and videos via a feature of the Facebook app.",
+        "It has given Meta 60 days to disable the feature by default and seek users' consent separately."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Italy fines Meta €805m over accessing users' photos"
+      }
+    },
+    {
+      "title_original": "Philippines wins first Eurovision Song Contest Asia",
+      "title_zh": "Philippines wins first Eurovision Song Contest Asia",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-14T18:17:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Philippines wins first Eurovision Song Contest Asia\n- Published\nThe Philippines have won the very first Eurovision Song Contest Asia, hosted in Bangkok and with 11 countries vying for the title.",
+        "Nineteen-year-old singer Carmelle was always a front runner with her women's empowerment anthem Sobra-Sobra, complete with its catchy rap section.",
+        "She earned 211 points in total - 93 from the jury and 118 from the public vote - ahead of Thailand's MANG x DAOU in second place with 170 points."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Philippines wins first Eurovision Song Contest Asia"
+      }
+    },
+    {
+      "title_original": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "title_zh": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-14T18:00:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'\n- Published\nAuction house Sotheby's says it is working to resolve a dispute over the intended sale of a painting by Vincent van Gogh.",
+        "Châtaigniers en Fleurs, which carries an estimate of $180m (£136m), is due to go under the hammer in New York on Wednesday.",
+        "But representatives acting for heirs of the Fischer family - earlier German owners of the work - say it may have been sold under duress during the rise of the Nazis."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'"
+      }
+    },
+    {
+      "title_original": "„Die Nato ist wie ein schmerzender Zahn“ – Moskau will Neuausrichtung der europäischen Verteidigung",
+      "title_zh": "„Die Nato ist wie ein schmerzender Zahn“ – Moskau will Neuausrichtung der europäischen Verteidigung",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNcXZXMlI2cExvQnRwMnhYMzNjWkRnRHVfM1JnbGp4OU1Da3hmbk5yTGNxVlVJYkRPM2M1V09yY1RPVjd5Njl0bzZERkI1WGE4Z0JYSU5CUmZsdmNWSzFxVG95LTJUTktQalltLU9kRGZXdWFZWHhNTURoVFR4UHFhUlQ0WEpnR0VwQ1V1dm50c2dqbUVXWU4zVGJza2RHd0VDRVg3YW83RS03R0VEWE02dy14NlZnUzRZRXhhQ21pMnE2UDlfZngtS1haVHNfckx5aHJ5aGEyQnBkTXJYVVNTNThqNzRIVUlSY3lNNTdMNS1LRHNJYUExTHdYTlczNXRKZ0laUGVSa2NvRnowLXJoenlsUWczQTg?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-11-14T17:28:22+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "„Die Nato ist wie ein schmerzender Zahn“ – Moskau will Neuausrichtung der europäischen Verteidigung    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "„Die Nato ist wie ein schmerzender Zahn“ – Moskau will Neuausrichtung der europäischen Verteidigung"
+      }
+    },
+    {
+      "title_original": "Bei Verzicht auf Donbass: USA bieten Ukraine offenbar die Nato‑Mitgliedschaft an",
+      "title_zh": "Bei Verzicht auf Donbass: USA bieten Ukraine offenbar die Nato‑Mitgliedschaft an",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR2tGenVFZ24wY3FmQ2x6SGt0dVNwblBBTVhFSVdNdmRTUHBxaVVsMExaTXpSZlllZ2gtYTc1YTQ0OHdheE01U0tJVjBiYzYyQ2U5aFFlSWJ4b3VyMFNtaDA3alBEbktSWmpPakZBYlIwdVlmeFByZFJzNXpPdVhDZjc4bTVsNEZGVjJNdlNhcG5rOWZnSF84ZXdxeVNEMjZvaWkyZHMwaXlfY1B5bUV6UHlCWEctTUc5bEdpa2NhWG9fcUFLc0ZTSjljc01RWWFuSnc?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-11-14T17:20:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Bei Verzicht auf Donbass: USA bieten Ukraine offenbar die Nato‑Mitgliedschaft an    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Bei Verzicht auf Donbass: USA bieten Ukraine offenbar die Nato‑Mitgliedschaft an"
+      }
+    },
     {
       "title_original": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
       "title_zh": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
@@ -104,6 +779,31 @@
       }
     },
     {
+      "title_original": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "title_zh": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-14T15:53:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump, Putin and Xi plan historic joint meeting in China next week, White House says\n- Published\nDonald Trump, Vladimir Putin and Xi Jinping are planning to meet on the sidelines of a summit in China next week, the White House has said.",
+        "The historic meeting between the respective leaders of the US, Russia and China will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen, spokeswoman Olivia Wales told reporters.",
+        "\"The president has made it clear that, among other topics, he will discuss the reduction of nuclear weapons in the world, whose proliferation President Trump believes is very dangerous,\" she said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says"
+      }
+    },
+    {
       "title_original": "美方问乌克兰：若加入北约，是否撤出顿巴斯？泽连斯基称全面协议可交全民公投",
       "title_zh": "美方问乌克兰：若加入北约，是否撤出顿巴斯？泽连斯基称全面协议可交全民公投",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQNHNfMTV0OWU3NVp1bktJeDJKWk41SjhKZjNBLVp2dmp6Wm1sZDNQeDhQdWpobExvSHpHblRleGxZd2dSTGVHZTd0bnE1VVN5bjd1OFExY1l3TWhTSnNBcFNzNzh4UjkwMXh0Rk5vbUs4TXhsRmVCSDYxazZwZGEzNkFBeDNtckRHYmk2dzg0aTdxWTBwbVdjT0loZnl3b2hnblV5TVF2UGNzNVFKcVU2bDN1T0YxTWExTEFsZjBKYkluX2hQRGIxMGhLeHNJVTFQZExEeHZpeEZNM1BDWFVYSGpSZ0o4dlZONDVSbzV5NTYwM3VXUHRvTmpJQ1NqalduUFZWcW9oSkl1VzVfcUZXc0NfVDTSAZQCQVVfeXFMTXRvRHh5Z1MyQ1NaOEJBSmRna2QtamFnX3RVN0duZ3F6NUZxdGFOVjdHVkNUb2hZVkJvdTZBN1pfN0Y1Nnd6MEI3R1NxNzB2b0RQdUpicVlDTzBWOXFkRURMNzBtYzZjX2RYZnI4a2VEbkNER1l1Q2dGcmlpTjhwVEQyRlk1SXNUb0xVTVJZb3lJajJUNENwNjFDUVRoTEZUUnlfZzY3b1U0aUFvYVhQUFVFcEoxaVFOQlVyVGRpWW5Icl94VE9ob1ZEaVdCVE1kNk5TWU1oODhLbnJPOEtVWGJpZHI5T0M5LXdta3RUV3N4b01EVzloNjh5cDZLS3hwSmVBMzhqMzdkQy1feWJPdFV1UnE0?oc=5",
@@ -126,6 +826,31 @@
       ],
       "all_titles": {
         "zh": "美方问乌克兰：若加入北约，是否撤出顿巴斯？泽连斯基称全面协议可交全民公投"
+      }
+    },
+    {
+      "title_original": "Según Zelensky, EE.UU. planteó que Ucrania entregue el Donbás a cambio de su ingreso a la OTAN",
+      "title_zh": "Según Zelensky, EE.UU. planteó que Ucrania entregue el Donbás a cambio de su ingreso a la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDQ1M0c1TDJBSXdLQ1VWc1RXQ1h2TDF1UnVnUm1vaHRGemNQTGoxTWZOT2RjSlQ0VW5qTkc4OFJYTS0ybFAtbEd6MFRUX25fbUNyREZXLXpiUlNXZi1UQWM0a28zOGpCaUJSbDNxMVJwQnQxbVNXR1g2LU41WERfQjdqbFZiX2Nfcmc?oc=5",
+      "source": "CNN en Español",
+      "source_score": 95,
+      "published_at": "2026-11-14T15:20:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Según Zelensky, EE.UU.",
+        "planteó que Ucrania entregue el Donbás a cambio de su ingreso a la OTAN    CNN en Español",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "CNN en Español"
+      ],
+      "all_titles": {
+        "es": "Según Zelensky, EE.UU. planteó que Ucrania entregue el Donbás a cambio de su ingreso a la OTAN"
       }
     },
     {
