@@ -1,8 +1,633 @@
 {
   "date": "2026-11-16",
-  "generated_at": "2026-11-15T17:42:49.848002+00:00",
-  "count": 35,
+  "generated_at": "2026-11-16T02:43:27.786122+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title_original": "原油先物下落、供給過剰見通しで 中東からの輸送回復",
+      "title_zh": "原油先物下落、供給過剰見通しで 中東からの輸送回復",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ReEpDTUt3N2dNeExKZldqMGs2TEk1b2xObk1seVIwUDM3cW5RV3lmZUc3SE00Sk52Vy0wcmlVZzRzNnhBU3E3aGFBOF9KbDlHUC1hUGdyRXZCTUFpenktMVExcThlSmRsbVZzQzRGXzRObURJV0FiTE02ZkxXMVk?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-16T02:29:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物下落、供給過剰見通しで 中東からの輸送回復    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物下落、供給過剰見通しで 中東からの輸送回復"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー氏、スターリンクの制限解除を米国とマスク氏に要請　「歴史の正しい側に立つ」よう訴え",
+      "title_zh": "ゼレンスキー氏、スターリンクの制限解除を米国とマスク氏に要請　「歴史の正しい側に立つ」よう訴え",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GRXZoWWUtNGdiZUFjNFpfSkJ4QmJvcEh2Ml91aGRsMDc5UWxJQ0M5MEtLcEYxYlY2T3ZxT0lyRTNyTXp3MkdzT25Udk9XWHhjeFdvejRNOG9haDhDb3NUcNIBZkFVX3lxTE9WRFhkcFg3ZGZiMkItbVhSTnEtUGRZSHlVY2VaVXRocDlRVkhrUml2eWlNcHJlRmxKYXFHMkItb1F1NUNCLTc4eG5CdkVoUHVlcmVXS25BbmlrSS1QckwweV9KVjRLQQ?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-16T01:59:07+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ゼレンスキー氏、スターリンクの制限解除を米国とマスク氏に要請 「歴史の正しい側に立つ」よう訴え    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー氏、スターリンクの制限解除を米国とマスク氏に要請　「歴史の正しい側に立つ」よう訴え"
+      }
+    },
+    {
+      "title_original": "【詳細】ロシア ウクライナに軍事侵攻（11月15日の動き）",
+      "title_zh": "【詳細】ロシア ウクライナに軍事侵攻（11月15日の動き）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RdG1OQlVTc2dxV3lwcWRnZFVQRC15SzVGNGJoNG5paFFZWXA4WUFGb0R0ZXFBeEVYbU9xb3podzFwaEZXREhHV0RkNlRLdDNXQU1wVFZlOTF4Mnd3WUNN?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-16T01:40:21+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【詳細】ロシア ウクライナに軍事侵攻（11月15日の動き）    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "【詳細】ロシア ウクライナに軍事侵攻（11月15日の動き）"
+      }
+    },
+    {
+      "title_original": "ウクライナ8地域でエネ施設など攻撃、衛星通信制限が一因と大統領",
+      "title_zh": "ウクライナ8地域でエネ施設など攻撃、衛星通信制限が一因と大統領",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVVg0M0l1VFY5SmU5ZGgyRzZHYVdwYW5yZGd3WU43S2xPWlFrVjRZeFAtd1hRMFF3bEhFVWJWY3c4S3VsQ3JFZTdKSkhfNUlURHZ2ek5jQWg2bzk2b1ZVV01INHNtTEdIbTluNEQtMDlfZWlvbEVWTG5PTVNvMEZlZGgxRWlBdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-16T01:29:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ8地域でエネ施設など攻撃、衛星通信制限が一因と大統領    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ8地域でエネ施設など攻撃、衛星通信制限が一因と大統領"
+      }
+    },
+    {
+      "title_original": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+      "title_zh": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-16T01:17:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025 Get our breaking news email , free app or daily news podcast Megaspeed International, the company linked to the downfall of the Nvidia chief, Jensen Huang , says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025.",
+        "The Singapore-based cloud computing company on the weekend said it was “aware of recent media reports containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence”.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’"
+      }
+    },
+    {
+      "title_original": "مبعوث أميركي إلى لبنان لبحث آلية بديلة لـ«يونيفيل»",
+      "title_zh": "مبعوث أميركي إلى لبنان لبحث آلية بديلة لـ«يونيفيل»",
+      "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxOZjBsZThockx1VlJ1MnRVcXp6cFpTMDVMYk01Xy1YQzJBeHRDMk9kYXd5WTcycWJOU1NyUDZRR2tHTFZrMUpLV29XQndNVk9aeHFjLUZfVHd5dE82cUpnaGczbC1xUDZJd2Nlc0dTdXE5MFZ3RGIxbmtJc21ycDBxSFQ2bmRGZjVRRzEzQ3JKNDZTU0pmLWIwenRvWVo0YUVxbjNDbE9PcjBQRUttWlEyRmZxNlpsUjFrdy1IdW1uQTdPVDl2ejlMTHVGWnBCbU5FNWJnUktZQWIyeEFaSWZEQ1pWc3h0b1FKa2lmTDNnd045ZnFjYmJNQnVoT3NBVlhnX0hBSU5uMmJ3ZVE3Z1ZHYk4wUDVmMTFtOUhrRl9FWjcyaG5BeWpPZmw1LWw5V3RXSG9aSl8wUEV6RnNPczcxS3RpTjFrc2dwbnlXVlYyUUROWlN4T3BWQjNxZHZjZ1kxQXI1ZUFBNEtOOEJ1Sk1Zd3AyYTZvSmd6cjliRkZWdmhiUGtnd3NnZFlXVnpna0tuS1kzQjNmZnNVZ3BYZVR3Z1hPOUpmLTFtbnNraHFqc3VvQmVzRFkyNmxLOVBTVERQMURmdWREQ3diU0c5SmlyeEdFNlROR0doengxZ2JMdHc2QXgyNGRfUl8yWXlhcDhNczR6dk9aUFI0Rkt0RjdsblRvdXAzSnEzcnpXaDNtQksxMFV4Sy05aTd2Z05pLU5GRFZfRHZYR3NmN0lIMlVCTnFmVUN5dWZaVGY2VFg4eHZJckNnNWVGY3BVUUQ3TnRweVYxR2NqYw?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-16T00:37:09+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "مبعوث أميركي إلى لبنان لبحث آلية بديلة لـ«يونيفيل»    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مبعوث أميركي إلى لبنان لبحث آلية بديلة لـ«يونيفيل»"
+      }
+    },
+    {
+      "title_original": "FCAS europeo y F-35 estadounidense: el Gobierno que viene ante la geopolítica militar",
+      "title_zh": "FCAS europeo y F-35 estadounidense: el Gobierno que viene ante la geopolítica militar",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQlJEa1RUZXY1UHhFbWVQUUtmbUV1b0p5NlZMN3hkT0thOFdrSWdhU1JIYkc0aVdUMFdHXzZjWWpnVHJObkVzR1VLWndzb050VVNDeTdIV2dBaVlkVUV2bFdmM1NPSmVBelJaVm5FazBISWhXTkYzNjBMdlJrOE1aLTFEaVdPTWtjTWVOd05OdXY3THBfYVo1UVVRRDBDT1lvN1HSAacBQVVfeXFMT0FUS1RZMmFqYTh0VndBRTVTdmNXZ1RUMFhPQWtTenlxVGdUOXFwYlNoQ2Z3OHc3MmUyMVpLNFdmTDJJUTB5RzcyNllQbzdEM1k2cE1KN2twZm5pNFcxbThXbVF5YkgwUmZ4b3F4SXdKQ0djSkQ3eUlFSFNPc3pDbVpiM1c3aHY3V2pzcEZHZlFKc0RvN0pPTGRtVEtvZVJXV2NYX0hsbzg?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-11-16T00:00:38+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "FCAS europeo y F-35 estadounidense: el Gobierno que viene ante la geopolítica militar    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "FCAS europeo y F-35 estadounidense: el Gobierno que viene ante la geopolítica militar"
+      }
+    },
+    {
+      "title_original": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "title_zh": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T23:52:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Mexican drug lord Miguel Angel Felix Gallardo dies age 80\n- Published\nNotorious Mexican drug lord Miguel Ángel Félix Gallardo has died in hospital aged 80.",
+        "Félix Gallardo was widely considered one of the biggest drug smugglers in history and is credited with building an alliance between criminal groups in Colombia and his own Mexican cartel.",
+        "Known as The Godfather or the 'Boss of Bosses', Félix Gallardo was the head of the all-powerful Guadalajara Cartel, which reigned over Mexican drug trafficking at the height of the cocaine boom of the 1980s."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80"
+      }
+    },
+    {
+      "title_original": "乌克兰总统泽连斯基：美方提出乌克兰撤出顿巴斯换取加入北约",
+      "title_zh": "乌克兰总统泽连斯基：美方提出乌克兰撤出顿巴斯换取加入北约",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwYjlPSExQT25ZdTF2SFNmLVZUNC1KZHVSd0xrRC1wWWZjejNNTkR0N04wd0tBVGkxNTdyMmZITVkzQndxZ2p3QVMybw?oc=5",
+      "source": "新浪网",
+      "source_score": 40,
+      "published_at": "2026-11-15T23:40:17+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "乌克兰总统泽连斯基：美方提出乌克兰撤出顿巴斯换取加入北约    新浪网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "新浪网"
+      ],
+      "all_titles": {
+        "zh": "乌克兰总统泽连斯基：美方提出乌克兰撤出顿巴斯换取加入北约"
+      }
+    },
+    {
+      "title_original": "ヘンリー英王子、ウクライナで負傷兵と面会 「あなた方は戦争に勝つ」 写真8枚 国際ニュース",
+      "title_zh": "ヘンリー英王子、ウクライナで負傷兵と面会 「あなた方は戦争に勝つ」 写真8枚 国際ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5RmViUk5ZekpiQzFiR196dFBLb1FXYVZuY0N2eV8wV3puZldTeUZGX0p2X1RfcEdicXJheGNYaS1uZFgwV3plTFByR0dGZGhwWEE?oc=5",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-11-15T23:08:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ヘンリー英王子、ウクライナで負傷兵と面会 「あなた方は戦争に勝つ」 写真8枚 国際ニュース    AFPBB News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ヘンリー英王子、ウクライナで負傷兵と面会 「あなた方は戦争に勝つ」 写真8枚 国際ニュース"
+      }
+    },
+    {
+      "title_original": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "title_zh": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T22:57:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Steering failure preceded New Orleans cruise ship collision, says NTSB"
+      }
+    },
+    {
+      "title_original": "حاملة طائرات أميركية ثالثة تصل إلى الشرق الأوسط",
+      "title_zh": "حاملة طائرات أميركية ثالثة تصل إلى الشرق الأوسط",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOMVdEQ1BDSUpjR18tQlUxV0JTUEd3ZVZPaVlibE1ZejJZZi0tek9sc2kyYUJLbzhZY1lrN1NhR25zV3J3VEFWcUdfZ0Y3TWFZWDBLUDVkNjl2Z2VNSUtETjhma21VN1lycGxTcEtTSHZYb2lwc2htN2JEem4yN0FweWp3aERrS19pazdPVHdzWExzNERVQWIxV0Y5aVhFY3RSZVppdlp6MV9tT1U1VUR0bjJiSHBlNmJ6UTNlUzBtVkozNDJHOEcxb2JKdDJNQ01IUkJfVUhiakM1b2ladU5YdS1WN3d1N2NGMUREU1VOT05PeGpReWF3SWlpdF96dmhReVRtM2ttTkVCRzZuTG45dGJJVWRHMVRBclhiU3lrMU5HOHdZZkl2ZTc2cU85Uk5xQUItTTRXSW82M3YweGJyRUh2WDkzMndWc0NhVXZGeWZqV0tnQ18xVFBMbXpILTlaSDBSMExNaVprYnpFNHRfLXY5bXJpY0tjVkRraDFiTExGT1pFcWhnbHBSaGkxdWPSAZQDQVVfeXFMTXFXeWRZdEZfUnc1cXJYUFFBa1FaWTBLVFVVUDBtWWp4TVUtTE1PZ1plVWtzc0xoNjRUQ1dOeldGSWZ1WDlERnlsblZJcl9oVG12NzA0Uk9UdmNQaFlNNnA1YWJ2UzNrMzNNenFLS1JSdkhNYkY5WVVRZVZQN2s1bGJkVnFTRlNMWWhjUmtpSWJ1UTNDQ1VkS0JLcHdZUnA2LVVXYXlJNTE4eTluQVRZcThXblVhUENRR0o3d01sTEdJUmYtYXNTQjIzQnpZdWJob0tzMXpOanhTMW9rbWpFZHBJM1ZsV29jc0t0eS1hSi03MzM5VmF3ek5saVZUM25DNFBlU09PQzdmOUtKc1lxN0s3S2RDWEJBeFUwMHo1djVlRUQ2UHFrTzJlaVVtTUIzSWlzanVjZEliWl9WczkwcUZmc2x5bk9od0ZlSXRDSkM5dmxTaXVoS0RSeU5GOFlEOVhIdVFwclpMMzNyVXdxeG9qZnZrT00wWl90OVl0X2tvSUJESTFlSTVMTk1IU2VnZk1JSGw?oc=5",
+      "source": "سكاي نيوز عربية",
+      "source_score": 40,
+      "published_at": "2026-11-15T22:31:56+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "حاملة طائرات أميركية ثالثة تصل إلى الشرق الأوسط    سكاي نيوز عربية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "سكاي نيوز عربية"
+      ],
+      "all_titles": {
+        "ar": "حاملة طائرات أميركية ثالثة تصل إلى الشرق الأوسط"
+      }
+    },
+    {
+      "title_original": "Police ban protests near 10 schools and five universities in Paris",
+      "title_zh": "Police ban protests near 10 schools and five universities in Paris",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T22:28:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Police ban protests near 10 schools and five universities in Paris\n- Published\nPolice in Paris have issued a five-day ban on protests near 10 secondary schools and five universities as authorities try to control weeks of blockades and violence at educational venues in France.",
+        "The order prohibits unauthorised gatherings or marches within 100m of the sites from 16 to 20 November.",
+        "Paris police chief Patrice Faure said the ban was necessary due to \"numerous disruptions and blockades around certain secondary schools and establishments of higher learning\" and \"persistent violence\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Police ban protests near 10 schools and five universities in Paris"
+      }
+    },
+    {
+      "title_original": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "title_zh": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T22:00:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Prince Harry praises war veterans on surprise visit to Ukraine\n- Published\nThe Duke of Sussex has received an enthusiastic welcome in a surprise visit to Ukraine to support injured war veterans, meeting Ukrainian competitors taking part in his Invictus Games.",
+        "There were emotional scenes as he was applauded by injured service men and women in Lviv, where he told his audience: \"You're going to win the war.\"\nPrince Harry spent two days at events for veterans, with a press blackout for security reasons until he had left Ukraine, as the country continues to face missile attacks from Russia.",
+        "Ukraine has more than 150,000 injured war veterans and the prince visited projects supporting their treatment and rehabilitation."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Prince Harry praises war veterans on surprise visit to Ukraine"
+      }
+    },
+    {
+      "title_original": "Rumanía denuncia ataques con drones en sus aguas y pide refuerzos a la OTAN",
+      "title_zh": "Rumanía denuncia ataques con drones en sus aguas y pide refuerzos a la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQlZDRy1YUXF1WWVwZDc1U0JfbEdCVE1OTy1oV2JjUUwtd1BacGhUOFNxcXZ2NHJEdmJDWnE1Vi1DRkpOTF9qcnlmaDhWTk5UM1FFR0VWcmE2cjZBemowOHZMVWNkS2p1VlEyR09xSXNhdFRoRm9WX0dBOWtXME1nT1ZOMm56ZTdFVmJzSnZ3UXBaVXI5N1NWc0RNdGlSRzNZMGFXdW9WYjFUaGdNZC0yUDkwR000Rm9GeHJNN0p2ZlJiOU5UNHBCUWw2aGUwbGMwNGFDZmpMd191Z9IB3wFBVV95cUxPWmJDMTQ0eEdOU0JZRkFWdU0zQmJqVkVSWHI3azhkZGhCX0ZUR0hGSlVGbFA1ZnhVdUZ1alRSek5FbzBxY19CQkNrd0ZtWkI5M05sbllSS25UanF2SGJNd3NnVTNYNDBaMzNfb3VXUkg5dWI0amRXdE5mU0JneGZrdENreG1ZNW9VVHBtUDkzcU5NUS1pRXBOeTZXUlB6MUVVRF9SRkIyUTdVNTIwTkxCSzNGLXREa3R0cHFZZ3hlVS1zVzNfUFFyZG1GdWpPcnVCazZXaGJpcjk3Tk5IR2RJ?oc=5",
+      "source": "MUNDIARIO",
+      "source_score": 40,
+      "published_at": "2026-11-15T21:39:09+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Rumanía denuncia ataques con drones en sus aguas y pide refuerzos a la OTAN    MUNDIARIO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "MUNDIARIO"
+      ],
+      "all_titles": {
+        "es": "Rumanía denuncia ataques con drones en sus aguas y pide refuerzos a la OTAN"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - Ukrainische Armee greift großes Chemie-Werk in Russland mit Drohnen an",
+      "title_zh": "Ukraine-Krieg - Ukrainische Armee greift großes Chemie-Werk in Russland mit Drohnen an",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeDcwdGJJaWVZZUFWWGFVQ0t5eXFWczN1ZjNkcjhsVnJLMmxVcDZOMVIwTktBMVVEN3VybkpRek95bENoVndlTXdSM29kLWs2Vy1Ua2pXQVFPaDVobVZvZU55azJxemM3VVRXQi1xX04za2szWXhOSHlrQ0M1OUg1Ulo0aGRiNW5ySGVOelJYbGJvVmJDQ3gyUzVvOUVyN1o0ZWg2eG51UFVDeThqRF93WA?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-11-15T21:21:03+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg - Ukrainische Armee greift großes Chemie-Werk in Russland mit Drohnen an    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - Ukrainische Armee greift großes Chemie-Werk in Russland mit Drohnen an"
+      }
+    },
+    {
+      "title_original": "ウクライナ 重機遠隔操作してがれき処理 日本の支援で実証実験 | NHKニュース | ウクライナ情勢",
+      "title_zh": "ウクライナ 重機遠隔操作してがれき処理 日本の支援で実証実験 | NHKニュース | ウクライナ情勢",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zQkFYVUZFWHFxYVFWaXR5d0VrbVY0OWNVcFMyWWE1ZkxhNnVDLVU1aHh0djFVWFdUY2Rqc2hqaVF1UF9wSUFFNW1raTBIOHozODl3N0RFam9YMDNuRGRv?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-15T20:40:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ 重機遠隔操作してがれき処理 日本の支援で実証実験 | NHKニュース | ウクライナ情勢    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ 重機遠隔操作してがれき処理 日本の支援で実証実験 | NHKニュース | ウクライナ情勢"
+      }
+    },
+    {
+      "title_original": "„Wie ein schmerzender Zahn“: Geheim-Dokument zeigt, was Russland jetzt von Europa und NATO verlangt",
+      "title_zh": "„Wie ein schmerzender Zahn“: Geheim-Dokument zeigt, was Russland jetzt von Europa und NATO verlangt",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXRod2dpUnNfTHdXTkJjWkk5MS0wU25zVnJzNGpfWE1WUEFRcUlMZzZZdHlDcjlXTlROelg1d0E0a28tblF3UHhjSzI3UnBaMDJWTTZBb0pMYkNoNTcwQ1JpR1hORFUtS3FPd2ZfcVF0czNMQUEzVFlXUUdJSTA2bWpDYUZ2QmxQMktKWTFFYmE2anpjUXNNR0d2ZnY?oc=5",
+      "source": "Frankfurter Rundschau",
+      "source_score": 55,
+      "published_at": "2026-11-15T20:09:15+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "„Wie ein schmerzender Zahn“: Geheim-Dokument zeigt, was Russland jetzt von Europa und NATO verlangt    Frankfurter Rundschau",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Frankfurter Rundschau"
+      ],
+      "all_titles": {
+        "de": "„Wie ein schmerzender Zahn“: Geheim-Dokument zeigt, was Russland jetzt von Europa und NATO verlangt"
+      }
+    },
+    {
+      "title_original": "ウクライナ発の防衛ユニコーン、台湾・日本と連携へ",
+      "title_zh": "ウクライナ発の防衛ユニコーン、台湾・日本と連携へ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LVFdER0xHR1IzSW5TaF8xY19ITTIyT2ZDbDJLenY3WmtPdUZsRXF5WTh2R2NNbGJRd3MyYnV4X0JjR0t5SjBGaG1iZ3ZDeDVuRm9lazlDeXJrVjJsV3FiSDRZeHpTWUJHRlJBMw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-15T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ウクライナ発の防衛ユニコーン、台湾・日本と連携へ    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ発の防衛ユニコーン、台湾・日本と連携へ"
+      }
+    },
+    {
+      "title_original": "Israel mata a un líder de Hamás, Jordania condena a 3 por ataque y otras noticias de Oriente Medio",
+      "title_zh": "Israel mata a un líder de Hamás, Jordania condena a 3 por ataque y otras noticias de Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTFhuQ2N1X0JCZllON3NtZWhTUlZQeWFMQUxITXFMZE0zRG5pcFF4MXhjMmVfb2U4UkFzMGdpRWoxcUpqVVZEYUVxanVGZ1ZUZlRWZEowbDdELU1vR0ZsdTBXNnd0TEY5VTYzamd3azJ6VjBXWWYzQldCU1EyM1ZjRlR5ZTcwWkczdmJLZmQzT29jZVBTNTE2SVFKZkV3bGNPLXVnaHF5MHU4ZXJhUUlnempoUEpIeXNncFkyT3NpQ2FqWXJkRVFFSTgtNTVrSWMyOWNzVDA3Rmpqd0xqcHFSSzEwWDR3WjMwaVZyQmFHNUs?oc=5",
+      "source": "Los Angeles Times",
+      "source_score": 40,
+      "published_at": "2026-11-15T19:41:34+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Israel mata a un líder de Hamás, Jordania condena a 3 por ataque y otras noticias de Oriente Medio    Los Angeles Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Los Angeles Times"
+      ],
+      "all_titles": {
+        "es": "Israel mata a un líder de Hamás, Jordania condena a 3 por ataque y otras noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "title_zh": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T19:32:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'\n- Published\nA crucial US satellite internet service is still operating too slowly and affecting Ukraine's ability to stop Russian attacks, President Volodymyr Zelensky has said.",
+        "\"We are counting on these restrictions being lifted.",
+        "The protection of lives and Ukraine's energy infrastructure ahead of winter directly depends on this,\" he said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'"
+      }
+    },
+    {
+      "title_original": "نظام أمنيّ أوروبيّ جديد لمرحلة ما بعد حرب أوكرانيا",
+      "title_zh": "نظام أمنيّ أوروبيّ جديد لمرحلة ما بعد حرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxOV3laazl6ZzZHWUFpZWx2RVJYOHJ3b1Z2bW12M0pVbFBrT0EtVUp4YlZEU0hYVUtxZGhUM3IwSVNOQi11Tm04RnVmeFRaMkxzdDVOa2duZkl0Q1pKNFhnZ1VMcXlRWDlJY3JSeXQ5TnJXTDAySFFhQWEyYWpEQ25NT2o5Y05iTkxjYVBjRnpMRzBIYTVONnFaS2pULUZJY3dKelBfbzY1RXJHZUNteGRqN0J4Y1FFei01ZFRVR1JMeVNrbmNBaTVuUjhKWEhXVW93eWpvcnVYSnEwa3BiVEdsajB0NlY5RTdTMXhBanRkb1dxQnJNQU5KeFM4UTl4eXpZWmpSS3NYWHVKZjBGLU0xQ0NRazdzcEhWRWhsN1ZIM3lsMDBkSm1RSVZ3dnJJSDh5YWVVNHh4Q2xvYlJTOFFOaTFsN3FTZldKVk9KdE1iNzhheTJxTElVaHR3aGhwX09BUGFSZzNTSlowMkVGNERtU1p6ZHBnbUhtV3ktUGlLLUl0Z0QzZzM3QXFobzZnQUwtS1k1bUp3SW1hdjFMU2tleVp2U2pWcmh0QjAyRHNubUYtZGNGSVc0MGZlV2FEZXNEa19VSDUwblBfeGlPYXVveGFJWC1lYlRhMmlkTUQ2OUN6SUhVLWhUQmtST2JJVjloenpZRk9XdklZUW5Xcmc?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-15T19:28:01+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "نظام أمنيّ أوروبيّ جديد لمرحلة ما بعد حرب أوكرانيا    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "نظام أمنيّ أوروبيّ جديد لمرحلة ما بعد حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "title_zh": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-15T18:38:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Pope Leo rides in helicopter cockpit during Peru trip\nPope Leo XIV shared a cockpit with pilots from the Peruvian Air Force during his tour of Latin America.",
+        "Sharing the video to social media, the force said having the Pope join its pilots on Saturday was \"an honour and an unforgettable memory\".",
+        "On Sunday, the pontiff arrived in Cusco, a southern Andes Mountains city that was once the heart of the Inca empire."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Pope Leo rides in helicopter cockpit during Peru trip"
+      }
+    },
+    {
+      "title_original": "Putin’s unrealistic conditions to end Ukraine’s war",
+      "title_zh": "Putin’s unrealistic conditions to end Ukraine’s war",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdW44aDBjRUs0UHNsbDdueXNyMzVxdnB1YWszSldaYTl1SVNNVUN1OW82Z0ZjQ1lFcGMtak5yVFJ3Z25jVmwzMGp6Zk9BSGRBTldGSDJoQzBCUnRzdm41bmppN0UxNTJZZlB3VVJtOGVCY3dwRW9PQVg2azhVRkRmXzZGRHUydTRWakE?oc=5",
+      "source": "European Interest",
+      "source_score": 40,
+      "published_at": "2026-11-15T18:31:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Putin’s unrealistic conditions to end Ukraine’s war    European Interest",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "European Interest"
+      ],
+      "all_titles": {
+        "en": "Putin’s unrealistic conditions to end Ukraine’s war"
+      }
+    },
+    {
+      "title_original": "Sommet Trump-Xi-Poutine jeudi prochain en Chine: le Moyen-Orient à l’agenda, l’Ukraine écartée des discussions",
+      "title_zh": "Sommet Trump-Xi-Poutine jeudi prochain en Chine: le Moyen-Orient à l’agenda, l’Ukraine écartée des discussions",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOejNBRHpVbzNxSVlYTFRoWXVfSUt4Uk0xY1BoeWZzWTUyNmx1UE9fdVlxV0VwTGJxcjZCRWo2VHdzNmNOSGd1Y1VEYzJGODNxb1RxUmV2Y1RRUk9za3VJUGxxV1d1a2g2cHBVME1CNVZ1MENKRFBGb3VUOXMtUVMzZHYtLVJwaVJpaEtBS2JuWjdJRzRKdEI1NnJqTVBpMFJSMEZIempLZm9sVnRpZS15cERwRDZWZHhvSEJ2alZWY0tCblNVd0E4RTdpM2hLWnpqR3Vr?oc=5",
+      "source": "Le Temps",
+      "source_score": 40,
+      "published_at": "2026-11-15T18:24:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Sommet Trump-Xi-Poutine jeudi prochain en Chine: le Moyen-Orient à l’agenda, l’Ukraine écartée des discussions    Le Temps",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Le Temps"
+      ],
+      "all_titles": {
+        "fr": "Sommet Trump-Xi-Poutine jeudi prochain en Chine: le Moyen-Orient à l’agenda, l’Ukraine écartée des discussions"
+      }
+    },
     {
       "title_original": "Czechs rally against plan to switch funding of public media",
       "title_zh": "Czechs rally against plan to switch funding of public media",
@@ -51,6 +676,56 @@
       ],
       "all_titles": {
         "fr": "Otan : «La France n'existe pas militairement face à la Chine, à la Russie et aux États-Unis», estime Arno Klarsfeld"
+      }
+    },
+    {
+      "title_original": "NATO-Mitgliedschaft der Ukraine: Der US-Vorschlag ist unrealistisch",
+      "title_zh": "NATO-Mitgliedschaft der Ukraine: Der US-Vorschlag ist unrealistisch",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnlLdlFhZU9mMFZtekFubi05Slgtenl3WjY3d0EwanNVV2JYeTlZTnpiTkFta3Bmdk8zYlRwOWFJZS00S0VHT3docWJLUDBEZFdYd2lkT1ZTbHd1RTRRRnVKY0htbTBXLTIweUJ0cTBrVlJrQzJDWXFiWFNjcm9VNVQzVHZBUWlxRDhBbTJHb2xTMkFicTRLeVJna2FacnJhVms0bTk0N19TZUwxQjVUV2wxUTdZbC13ejRJbWJESHhiWms?oc=5",
+      "source": "FAZ",
+      "source_score": 40,
+      "published_at": "2026-11-15T16:52:11+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO-Mitgliedschaft der Ukraine: Der US-Vorschlag ist unrealistisch    FAZ",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "FAZ"
+      ],
+      "all_titles": {
+        "de": "NATO-Mitgliedschaft der Ukraine: Der US-Vorschlag ist unrealistisch"
+      }
+    },
+    {
+      "title_original": "Géopolitique | Macron appelle les Européens à maintenir leur soutien à l’Ukraine",
+      "title_zh": "Géopolitique | Macron appelle les Européens à maintenir leur soutien à l’Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZmM2TzdGT2FweFJuQjZOQkpxUlV2NThTUDFROEV3VFNBSXM3WmZ4Qlhtbkw5cEtSelAyMUxQdklfRlhKeHdDV1BsZXZhVDBlZnM5LWw1Z1ZBVFRsMmQ4N1dlVGpZNzZsbkRPR2xGYkk1VjdPV21ncS1YdktOeF9RUlROSzV0bml0cENVVVNUOHBmWjJLcHc5WWh0N1JXdktrYkE?oc=5",
+      "source": "Action agricole Picarde",
+      "source_score": 40,
+      "published_at": "2026-11-15T16:50:48+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Géopolitique | Macron appelle les Européens à maintenir leur soutien à l’Ukraine    Action agricole Picarde",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Action agricole Picarde"
+      ],
+      "all_titles": {
+        "fr": "Géopolitique | Macron appelle les Européens à maintenir leur soutien à l’Ukraine"
       }
     },
     {
@@ -104,6 +779,31 @@
       }
     },
     {
+      "title_original": "Géopolitique des mers. Les câbles sous-marins : piliers de l’économie mondiale",
+      "title_zh": "Géopolitique des mers. Les câbles sous-marins : piliers de l’économie mondiale",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOanhkQV9najRNZldOSF96bGczVE1iYWdublZXMEI3T1p0M2xxc0kwaWM0cDFGSTBkR2FiV3JJRDFuU055RnE0N0VHRFh3VV9pNnFxcW85Q0RWeDl2V0JNXzBxUXk4Y0k0M1FEVko0ckdnb0NnY3AyYzdiRDNidV82MEw2cGRZQnY3NGo5ZHI5Y3Z6ajJUWXJEcDI0dDdoeXZHekpMMThrRUUxenloT05zbVkyUU1aOHJVd0h0OHRtVFVJbS02b01vdXUwWWtfdDlfRTdIQ0xQS0RBM3BmUWNrQWNRZ21IaU0?oc=5",
+      "source": "Le marin",
+      "source_score": 40,
+      "published_at": "2026-11-15T16:29:03+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Géopolitique des mers.",
+        "Les câbles sous-marins : piliers de l’économie mondiale    Le marin",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "Le marin"
+      ],
+      "all_titles": {
+        "fr": "Géopolitique des mers. Les câbles sous-marins : piliers de l’économie mondiale"
+      }
+    },
+    {
       "title_original": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
       "title_zh": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
       "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
@@ -151,6 +851,31 @@
       ],
       "all_titles": {
         "de": "Brisantes NATO-Angebot der USA: Selenskyj berichtet von Premiere vor Ukraine-Verhandlungen"
+      }
+    },
+    {
+      "title_original": "Le Donbass contre l'Otan : Zelensky dévoile l'offre de Trump à l'Ukraine",
+      "title_zh": "Le Donbass contre l'Otan : Zelensky dévoile l'offre de Trump à l'Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTFROSXYxWDJzeWFvb1J0X1Bjd0JsdW9BVkJ6TC1mOHQ2OG9UYUVQR0FJUHczc2NZdFF0Rlp1b0E4dnFibjFsZnNONmZ2eXZNTTU4WTh2RWFpNHIxREtMdF9Ld2FVbnNjMTRiZU90QVl6RXpmV3BHUk5KWko2cXdRMW1OWmpOZVF5aThzd3RERnQzNE9zdE9hRl9QbnJKeE1XTzVzUWFmdFNwTUV5UlhxbnV3?oc=5",
+      "source": "Les Echos",
+      "source_score": 40,
+      "published_at": "2026-11-15T15:21:21+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Le Donbass contre l'Otan : Zelensky dévoile l'offre de Trump à l'Ukraine    Les Echos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Les Echos"
+      ],
+      "all_titles": {
+        "fr": "Le Donbass contre l'Otan : Zelensky dévoile l'offre de Trump à l'Ukraine"
       }
     },
     {
