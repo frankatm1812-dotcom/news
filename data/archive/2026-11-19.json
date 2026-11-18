@@ -1,0 +1,882 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-18T19:24:44.180562+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "This new early-state governor has advice for 2028 Democratic hopefuls",
+      "title_zh": "This new early-state governor has advice for 2028 Democratic hopefuls",
+      "url": "https://www.politico.com/news/2026/11/18/haaland-new-mexico-2028-primary-01173200",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-18T13:51:26-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "New Mexico Gov.-elect Deb Haaland told POLITICO she would 'love' to endorse in her state’s newly-minted early primary.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "This new early-state governor has advice for 2028 Democratic hopefuls"
+      }
+    },
+    {
+      "title_original": "Would Ukraine trade land for NATO membership or protection?",
+      "title_zh": "Would Ukraine trade land for NATO membership or protection?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNblRSejV5eEZvNHpub09xb182RHp0STNYckt6YmkzcWpEcnc2SGRPVFc5LWVIcVdIZkZBRS0zYzVXR2ZWc21hX19mLXpHUGVra2F3TkZXM29KSWRIckM4ckNDaVpyUU1pOG1Dc3RBZk00UjU3LVBlMFlpazczSUtEU1B0RTRyM1JyUUxNWVVDcHc2NzMtdHc?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-18T18:42:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Would Ukraine trade land for NATO membership or protection?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "en": "Would Ukraine trade land for NATO membership or protection?"
+      }
+    },
+    {
+      "title_original": "トランプ氏、プーチン氏と19日個別会談 ＡＰＥＣ開催中＝当局者",
+      "title_zh": "トランプ氏、プーチン氏と19日個別会談 ＡＰＥＣ開催中＝当局者",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNjlvaVNYX2tBcHBVRWlJdG03TU9mSXJtemEwTFN6ZUs3em04Ymh1U2NQNTN5dW0tUnUxSkhoam1Oa3huWGR1R3lVOG9SVDZmSWhQNlBwbWI4aHNKd0xaWG5TSWV3UVhydnQwWVQwbmNzUmFmWGFWTGtyZk84bjRVc2NZdkVUQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-18T18:14:51+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "トランプ氏、プーチン氏と19日個別会談 ＡＰＥＣ開催中＝当局者    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、プーチン氏と19日個別会談 ＡＰＥＣ開催中＝当局者"
+      }
+    },
+    {
+      "title_original": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+      "title_zh": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+      "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-18T17:51:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "William and Kate reflect on 'enduring' UK-India ties with Modi"
+      }
+    },
+    {
+      "title_original": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+      "title_zh": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-18T17:48:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "This blog is now closed, you can read more on this story here Yalta became a byword for betrayal.",
+        "Will Trump, Xi and Putin enact another carve-up?",
+        "That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’"
+      }
+    },
+    {
+      "title_original": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "title_zh": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-18T17:00:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia\nFor the past seven months Ukrainian forces have been living and fighting Russian troops in an old Soviet gas pipeline in the Kharkiv region.",
+        "The BBC is the first international broadcaster to enter the pipeline where this subterranean battle is taking place.",
+        "With a diameter of just over a metre there's enough room only to crawl."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia"
+      }
+    },
+    {
+      "title_original": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "title_zh": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-18T17:00:04+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Inside the old gas pipeline where Ukraine is fighting an underground war\n- Published\nThere's a new front in the war in Ukraine, and it is underground.",
+        "For the past seven months Ukrainian forces have been living and fighting Russian troops in an old Soviet gas pipeline in the north-eastern Kharkiv region.",
+        "With a diameter of just over a metre there is enough room only to crawl."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'The drones don't fly here' - BBC reports from Ukraine's new front line"
+      }
+    },
+    {
+      "title_original": "Julio Iglesias facing court investigation over alleged sexual offences",
+      "title_zh": "Julio Iglesias facing court investigation over alleged sexual offences",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-18T16:33:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Julio Iglesias facing court investigation over alleged sexual offences\n- Published\nSinger Julio Iglesias is facing an investigation by Spain's national court over allegations he sexually abused and assaulted two female former staff members\nTwo women, who worked for the 83-year-old in the Caribbean, have accused him of abuse which they say took place in the Bahamas and the Dominican Republic in 2021.",
+        "The announcement comes after Spanish prosecutors dropped an inquiry into the claims earlier this year after concluding that they lacked jurisdiction because the alleged crimes took place abroad.",
+        "Iglesias, who has been a household name in Spain since the 1960s and has sold millions of records worldwide, has previously denied the allegations."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Julio Iglesias facing court investigation over alleged sexual offences"
+      }
+    },
+    {
+      "title_original": "日ロ首脳が対話、ウクライナ侵略以降初 首相は邦人記者解放など要求",
+      "title_zh": "日ロ首脳が対話、ウクライナ侵略以降初 首相は邦人記者解放など要求",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmY0JyUXBVbGM3YUNIaURfd080cE5obUNSSW40WFhOS3ozQmJQMXgzOGJvS0lUaVZFdkEydDRYd1hTRExLX3hEWl9nYlg3M1lvNnZCaTFVbU5yS0xjM2hBR01YckJpZHVLeGg3dQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-18T15:53:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "日ロ首脳が対話、ウクライナ侵略以降初 首相は邦人記者解放など要求    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "日ロ首脳が対話、ウクライナ侵略以降初 首相は邦人記者解放など要求"
+      }
+    },
+    {
+      "title_original": "Russian attacks on Ukraine kill at least five people",
+      "title_zh": "Russian attacks on Ukraine kill at least five people",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVjFqR2o5RHdGai01ai14Q3FpTGpLdHd2aklKSlhYcVVCZzVxbVFmVGlRNEc1cDhuc0hQbzNLYjBzUzN4cjlFaTFHbTA2aHVtNGxjV2pWWk9xNE0tRnVQZ1hwMTBHUHhxU3UyOVRFV2hpMmNqcVRHdV95OHpTRGt4SEhNQUxJaF9LR3pLMGVvTllRT2RiTU5GOWJ30gGfAUFVX3lxTFBZZDlyVFcxWlUzLWpYck5BeVI5ZG5nVEwzZVRVWHdUNWxrT3RybHYweFY3V0taU3VIRDkwYmdPM1VaRzRSRnBPN0JabTh2SzhjT0RDYWJNTXpzSTJmOE9BYUh1ckhTNlBJUW9HNFY4NHFYekYxcmJXaGs5TlhEODlZRnU2OUxmTDB5VXkxWlZWUjhzNk41RDh3YnozWkFVbw?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-18T15:39:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian attacks on Ukraine kill at least five people    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russian attacks on Ukraine kill at least five people"
+      }
+    },
+    {
+      "title_original": "ウィットコフ米特使、19日にベルリン訪問 ウクライナ・欧州と協議＝当局者",
+      "title_zh": "ウィットコフ米特使、19日にベルリン訪問 ウクライナ・欧州と協議＝当局者",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRHFfNWplR3Y1ak51MGdyWk1WTVotT1hkQlZkNjFTZEVnUjNMbDRZZ1JDTE93X2VHUzVxVkZqTWwyU3FMdGpZbkpMUF9ia0tKV0JzbkZWQWtmWWRESFJ3Q1NQMEozWEhMVmUwNGhWVXhfcDR5aXlqZTVtZ2pQTW03SUFRR3BRUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-18T15:39:44+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウィットコフ米特使、19日にベルリン訪問 ウクライナ・欧州と協議＝当局者    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウィットコフ米特使、19日にベルリン訪問 ウクライナ・欧州と協議＝当局者"
+      }
+    },
+    {
+      "title_original": "Ukraine-Friedenstruppe übt Nachkriegseinsatz – welche Rolle spielt die Bundeswehr?",
+      "title_zh": "Ukraine-Friedenstruppe übt Nachkriegseinsatz – welche Rolle spielt die Bundeswehr?",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzcwM1pZeU1fUERCOXE1czBMUHlhWUU4cEttS2dzc2R2STBsQXhyMDlyWEhmZ0pVVmpIa2VSR211QVpjMmFaeU0tZlYzN3NvMEVCWk9Qak9SbmZQMkVoVTRLMlk4M0QtOGdmaGJRcmhWcldqaFdQOXF2Y21CMEw2UHVlMjhib3JOcFZGUE9mYm1hTldRV2xJdl9aTnBMWjlWUmZtZ0J3VURJOTZzU0NkWWZiWVlxMmk3TXo3ZWNPeUV0QjkzbURjZ1g5Z0VGWVVI?oc=5",
+      "source": "Berliner Morgenpost",
+      "source_score": 40,
+      "published_at": "2026-11-18T15:16:07+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Friedenstruppe übt Nachkriegseinsatz – welche Rolle spielt die Bundeswehr?",
+        "Berliner Morgenpost",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Berliner Morgenpost"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Friedenstruppe übt Nachkriegseinsatz – welche Rolle spielt die Bundeswehr?"
+      }
+    },
+    {
+      "title_original": "Ukraine: Mit welchem Team Europa bei Verhandlungen auftreten könnte",
+      "title_zh": "Ukraine: Mit welchem Team Europa bei Verhandlungen auftreten könnte",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEdWcWVIaGxGNnpXSzB5R1h5OVdmNWo4elVvdFhBNnptUkx3VUtGcS1NbU9EMjAzZ1dnSnMwV0M2d1hwMHVMQk9JRTBvUldDajFfeVJUWWUxQ2xQRHh1X0NpeWxRYUxpV1NYYThONUk2YXBzMEg0LXNhX2pOVXpDYk0yc3gyMFdXblJUR3ZIMnR5WXI1ZFc0MHExTXkzVXRqQ0xZYVpn?oc=5",
+      "source": "ZDFheute",
+      "source_score": 40,
+      "published_at": "2026-11-18T15:15:30+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine: Mit welchem Team Europa bei Verhandlungen auftreten könnte    ZDFheute",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "ZDFheute"
+      ],
+      "all_titles": {
+        "de": "Ukraine: Mit welchem Team Europa bei Verhandlungen auftreten könnte"
+      }
+    },
+    {
+      "title_original": "La tensión geopolítica y el descenso de la superficie mundial de siembra presionan al alza el cereal",
+      "title_zh": "La tensión geopolítica y el descenso de la superficie mundial de siembra presionan al alza el cereal",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQmpKQllHNE5tRkw0RElXdGdoN2NoeDEwWmRpcm5oRjJfZHZyUjZLX3I1bnB3ZXhiazdrd0FmQWV6S3daMU03OHBOTjFQaHRsNTJQRkRQUTdMWkRGVUtTUTFpVVA3YWRIdnpqT0NlTUxPQnV0TG96ZVVmalJ2WHdlNmcwUWg5SjV5NDkwLXVrd1pqWlYwa3RIZTUxM241c2FxT1pneVdVWVlHYUd3R0NIRXRQSHpTeGFlVFlHVXloQnlQNGQyWDhiRWQzbFVKX3ZPVHhqeA?oc=5",
+      "source": "Sahagún Digital",
+      "source_score": 40,
+      "published_at": "2026-11-18T15:09:43+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "La tensión geopolítica y el descenso de la superficie mundial de siembra presionan al alza el cereal    Sahagún Digital",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Sahagún Digital"
+      ],
+      "all_titles": {
+        "es": "La tensión geopolítica y el descenso de la superficie mundial de siembra presionan al alza el cereal"
+      }
+    },
+    {
+      "title_original": "Fuerzas apoyadas por Arabia Saudí lanzan ataque contra los hutíes y otras noticias de Oriente Medio",
+      "title_zh": "Fuerzas apoyadas por Arabia Saudí lanzan ataque contra los hutíes y otras noticias de Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGt3b3RQbXdJS2ZZSjhXY2FtQlV2ejluekpLQ3R3S25lNXZMek9hM1RLSkduUEMwRlE0SUUyQnVkb2xmeTBWbmo0di1BczlYQ0FqQzJCa1ZGV2NIanJXMTg3emJZbWZodjdWZDBnZE9SWHRLdVNjWTJ3ZTM1dVRDNzRteWRETVpPU1JiLWg4cHhVU2ZselJoRnZwNllaZm1aR1VlcFIzWUM0ZklIcmNzSHQ2QzNiVTlSUl8xb2MyZEs?oc=5",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-11-18T14:18:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Fuerzas apoyadas por Arabia Saudí lanzan ataque contra los hutíes y otras noticias de Oriente Medio    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "es": "Fuerzas apoyadas por Arabia Saudí lanzan ataque contra los hutíes y otras noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Trump et Poutine à Shenzhen, la “ville miracle”, vitrine de la prospérité chinoise",
+      "title_zh": "Trump et Poutine à Shenzhen, la “ville miracle”, vitrine de la prospérité chinoise",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTnZ6UUliQk10VXNHOEl5UzRTLWhfeTIxdkFiZlBzRHgwTmpTVVRKdHVQMlY1N1VpT0Nhby0wMjBxYWRZeGh6Szd3VmJiN1dwNHlWOWlJd3ZoMUFjNnBNd2swUGZHMnJBRXRGNGtaRHUyci1TZ0ctcW9fV2p6bnlrMFMyQm1tdFRpX3lZN3ExUkhLbURCQmZJSjQycnhkUmYwemI5M0lqbGYycWJzdnA2VXhOTkpCZnc2SjlUc1hKaGFyUmVicjBXcXdnS1B4TXAta2VVcEtSeXc1bE0?oc=5",
+      "source": "Courrier international",
+      "source_score": 40,
+      "published_at": "2026-11-18T14:09:35+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Trump et Poutine à Shenzhen, la “ville miracle”, vitrine de la prospérité chinoise    Courrier international",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Courrier international"
+      ],
+      "all_titles": {
+        "fr": "Trump et Poutine à Shenzhen, la “ville miracle”, vitrine de la prospérité chinoise"
+      }
+    },
+    {
+      "title_original": "La OTAN da un giro histórico: 10 aliados financiarán lanzamientos militares al espacio",
+      "title_zh": "La OTAN da un giro histórico: 10 aliados financiarán lanzamientos militares al espacio",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWkVFX2lvSlpTT1lERWkyQzZUOHBuWHVKWXlWd1ZwNktVMWJQN1ZORWw5S2pxa0VzRXhBNEljTHB3TlZ3UzNUTS1meFdqS25TWm9ydXdVdWY5Nm11a3BhaEhLTVZLdnVOUHlqSUZjaC1VSnVNeEg1amhPTk1ZaDNocEI1LVBiLWZKei1FODdqNG9LV3d1a0ZwTWRyVzFfUzJ2Rk1Bdk9rX3YtOE1DaVNYNHE5SnNUNGNSRjlPTmFKMFQ3V092WDN5Q2F6a2RHcWV4LXJ6MkcwS0YzaUszZksw0gHkAUFVX3lxTE5xS3VGaFlpZ1p4WW1mVmFRRVlia3ZrTXJVcUg1SE1fSmlQSUtxZzRhYkx4dHA0ZkxadWcycmMyYWd4bXgySTNOUkUzbVpZeXA2U3A5WHRsS1ZGNVhzUXVNMmM1dVNiYUo0X0RkR0xmYzh2RFNIVUo1WDkwanRXRjVubk9ReDNObXNUR0lmVzZXRGZJS3M0UXNuRmFhWjRsS1gyYnAzY2RNajJ1dDNSOUVRRHlUWEFkWFM0dlFELU44cS1LSVpPMmVwTVJObmdURUdhYTNPT04tNEtlc1lic2l1VGY4RQ?oc=5",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-11-18T14:09:12+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La OTAN da un giro histórico: 10 aliados financiarán lanzamientos militares al espacio    Negocios.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "La OTAN da un giro histórico: 10 aliados financiarán lanzamientos militares al espacio"
+      }
+    },
+    {
+      "title_original": "Nordkorea testet seine Raketen im Ukraine-Krieg – Selenskyj warnt vor den Folgen",
+      "title_zh": "Nordkorea testet seine Raketen im Ukraine-Krieg – Selenskyj warnt vor den Folgen",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVzZYR1g0cmNyUElkTGNQeTdXbDVnQkNkWjRHRXRNY2JtckhOTVZ6cGhaZXdnUXo2aWNVWUdsN2ppaXplWWZtZTNxZHUtMGVSdFFuS3N3OExpNmlod3QwM1JFTlBvMFZhanNzM3NTdk4zeXZwNTRpb3M5N3U2dXRjYksza0w4cDdoNjgzZTdfWjZyelA1ZUg0QnRkSDhwLXprZEtYbk40STNHSkRwZkZNOVdreTV4V05BX04zMHh6NHEzVTZk?oc=5",
+      "source": "Business Insider Deutschland",
+      "source_score": 55,
+      "published_at": "2026-11-18T13:13:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nordkorea testet seine Raketen im Ukraine-Krieg – Selenskyj warnt vor den Folgen    Business Insider Deutschland",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Business Insider Deutschland"
+      ],
+      "all_titles": {
+        "de": "Nordkorea testet seine Raketen im Ukraine-Krieg – Selenskyj warnt vor den Folgen"
+      }
+    },
+    {
+      "title_original": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "title_zh": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-18T13:04:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Kuwait says it repelled first Iranian attack in two months after US strikes island\n- Published\nKuwait and Bahrain have said they repelled Iranian air attacks overnight as hostilities between Iran and the United States rise.",
+        "The drone attack on Kuwait was the first in more than two months.",
+        "The Iranian army said it had targeted the Ali Al Salem Airbase, which hosts US forces, but Kuwaiti authorities did not report any damage."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Kuwait says it repelled first Iranian attack in two months after US strikes island"
+      }
+    },
+    {
+      "title_original": "(S+) Ukraine-Krieg: Warum die EU über weitere 45 Milliarden Euro für Kyjiw streitet",
+      "title_zh": "(S+) Ukraine-Krieg: Warum die EU über weitere 45 Milliarden Euro für Kyjiw streitet",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN0tYTnBTcmJYNUJiTlh3cmFpQUZuMkhDSmJmX2Zzdk5YajJJRzdzZjhTOEhDYmw0ODlKZkFTYmstdGZROU53Wmh4bUhiR1dyemhva3liWldxTG44X0xsS0dVVFBNQWdUWHF5QkNuZkZkRFYxMS1HSUJ5c1JqVE1DaXZoejJsWHFjcXlocHVjNVduNWpTWW44SkNCeVBzUHJsZEI0MkZFcE0zSUswZUFoVnFKX3dxRTRrcVg2WGYxQ1Nsai1DcGFYZEhrbXlSMGZ0V0pJNy1SREtzM1JRdEJLYnZIZnBjZkk?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-11-18T12:29:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "(S+) Ukraine-Krieg: Warum die EU über weitere 45 Milliarden Euro für Kyjiw streitet    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "(S+) Ukraine-Krieg: Warum die EU über weitere 45 Milliarden Euro für Kyjiw streitet"
+      }
+    },
+    {
+      "title_original": "ウクライナがクリミア大橋を攻撃、一部崩落し物資調達に影響する可能性…ミサイルやドローン使い１か月準備",
+      "title_zh": "ウクライナがクリミア大橋を攻撃、一部崩落し物資調達に影響する可能性…ミサイルやドローン使い１か月準備",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwcFFuQkxQSlZSeXE0NmJ6blV4c1VMUVRMZEE4Y2JPUlNRQ0d1YlpUbFFHc19jWEI5ZmZ0MWxENlhEWkhueXp4UW1BTC1iS1Exdm1WLUFMXzRkUWpoR05NMzNB?oc=5",
+      "source": "読売新聞",
+      "source_score": 40,
+      "published_at": "2026-11-18T12:23:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナがクリミア大橋を攻撃、一部崩落し物資調達に影響する可能性…ミサイルやドローン使い１か月準備    読売新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "読売新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナがクリミア大橋を攻撃、一部崩落し物資調達に影響する可能性…ミサイルやドローン使い１か月準備"
+      }
+    },
+    {
+      "title_original": "Ukraine War, Day 1,728: \"Quite A Stupid Thing\" - European Allies on US Criticism of Kyiv's Strikes Inside Russia",
+      "title_zh": "Ukraine War, Day 1,728: \"Quite A Stupid Thing\" - European Allies on US Criticism of Kyiv's Strikes Inside Russia",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01NlNqczl3Y3FGeVN3eU9LeU9QMVNTSFd0Z3ZHcmZBUlFyc1JRN3dnalZ1Unp4NUkzakdsTlM5NkJWSnE5RnFBWG5RU1lQcGVqQ1BLUkQtZ01NOEkwYXJyNE1iRmNxTG1LTDJQNzBJN05DMldtT0RTMFduQWU?oc=5",
+      "source": "EA WorldView",
+      "source_score": 40,
+      "published_at": "2026-11-18T12:19:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine War, Day 1,728: \"Quite A Stupid Thing\" - European Allies on US Criticism of Kyiv's Strikes Inside Russia    EA WorldView",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "EA WorldView"
+      ],
+      "all_titles": {
+        "en": "Ukraine War, Day 1,728: \"Quite A Stupid Thing\" - European Allies on US Criticism of Kyiv's Strikes Inside Russia"
+      }
+    },
+    {
+      "title_original": "‘A savagely brutal map’: Senate GOP braces for 2028",
+      "title_zh": "‘A savagely brutal map’: Senate GOP braces for 2028",
+      "url": "https://www.politico.com/news/2026/11/18/senate-map-2028-bernie-moreno-01170846",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-18T07:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Bernie Moreno, the incoming chair of the National Republican Senatorial Committee, is clear-eyed on the challenges ahead as the party reckons with midterm losses.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "‘A savagely brutal map’: Senate GOP braces for 2028"
+      }
+    },
+    {
+      "title_original": "Bancroft sandpaper claims heap pressure on Cummins",
+      "title_zh": "Bancroft sandpaper claims heap pressure on Cummins",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-18T11:12:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Bancroft sandpaper claims heap pressure on Cummins"
+      }
+    },
+    {
+      "title_original": "Washington, disconnected",
+      "title_zh": "Washington, disconnected",
+      "url": "https://www.politico.com/video/2026/11/18/washington-disconnected-2231620",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-18T05:45:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Washington, disconnected",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Washington, disconnected"
+      }
+    },
+    {
+      "title_original": "OpenAI ayuda a la OTAN a combatir los ciberataques",
+      "title_zh": "OpenAI ayuda a la OTAN a combatir los ciberataques",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGx0cE5HN3JwSXBXQ2Y0c2RONkJvdlBHaHpoY2N5Wm1rclhTR2xNbjFDNDYxODVQZnBQOWp3WWpHVG1PSU9vT0t1cVBmVE1XN1ByaTh1VGhxbGk1VDdBcFllNXU1NnQ3cG5icG0zaW01aWd2MDRkUU1FRFEwYkhjUGc5UlhfMzFkUmZzTmNUdmY2OFVXM3gtN2Z6OXoyTERPQV8zb0pQblpodDRxMi1aaXRNNnY?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-11-18T10:35:51+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "OpenAI ayuda a la OTAN a combatir los ciberataques    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "OpenAI ayuda a la OTAN a combatir los ciberataques"
+      }
+    },
+    {
+      "title_original": "حاملة الطائرات ثيودور روزفلت في الشرق الأوسط، فماذا نعرف عنها؟",
+      "title_zh": "حاملة الطائرات ثيودور روزفلت في الشرق الأوسط، فماذا نعرف عنها؟",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54UW44QWRPcnA4S3RUTFdva2VLV2pkUTYtOGYxeWk5dlBwdkVfSXI2R2doSGV4MnJQVzZRUkNrbHVsMDNIRWxMSDFRVnJVT0Y3a1FvLVdOcTZvQQ?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-18T10:12:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "حاملة الطائرات ثيودور روزفلت في الشرق الأوسط، فماذا نعرف عنها؟    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "حاملة الطائرات ثيودور روزفلت في الشرق الأوسط، فماذا نعرف عنها؟"
+      }
+    },
+    {
+      "title_original": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
+      "title_zh": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMnVuNkc1OXlhc1RYRmEwZTZIRDF6TmVMY2pTdnE4clplaDBDTmwzMkxFZVl1MmxRc2JBV0stQzFVR3gtMVl3TVhVOEh4TVF3aDR3aEZoT2NQQTZPazZPZEU3ZFU2MWFCVjFidXRIT2FFcHd2NFZzRTdyczNnY0M2Yg?oc=5",
+      "source": "The New York Times",
+      "source_score": 95,
+      "published_at": "2026-11-18T10:03:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says    The New York Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "The New York Times"
+      ],
+      "all_titles": {
+        "en": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says"
+      }
+    },
+    {
+      "title_original": "Poll: Most Americans think a Democrat will be the next president",
+      "title_zh": "Poll: Most Americans think a Democrat will be the next president",
+      "url": "https://www.politico.com/news/2026/11/18/poll-2028-expectations-democrat-president-01169826",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-18T05:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Republicans and Democrats are split over the future direction of their parties, but Americans broadly agree the GOP’s prospects are in doubt, a new POLITICO Poll shows.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Poll: Most Americans think a Democrat will be the next president"
+      }
+    },
+    {
+      "title_original": "When AI collides with geopolitics",
+      "title_zh": "When AI collides with geopolitics",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcTljWHRKMjVNblRWU3I4M2l6bFJQZmt5SV9ZaUFnY0xNLTRmYkRJdFJKcXN4b1V2amF4WjVuelB3OVFwVGZZdG5Cd3I3Z1A5U0RQMHJfaVMxT01Ga0dpWEdleFYwVmJiVHRqS3RGSGdFai1SNTR5TjAzbmZIeGVEUzdCdENJOW1XMzNsN3lIOA?oc=5",
+      "source": "The Economist",
+      "source_score": 75,
+      "published_at": "2026-11-18T09:02:17+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "When AI collides with geopolitics    The Economist",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "The Economist"
+      ],
+      "all_titles": {
+        "en": "When AI collides with geopolitics"
+      }
+    },
+    {
+      "title_original": "إيكونوميست: الشرق الأوسط 2027.. حروب أقل ولا سلام حقيقيا",
+      "title_zh": "إيكونوميست: الشرق الأوسط 2027.. حروب أقل ولا سلام حقيقيا",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNQ0ZpYUF3Q3JxVkx3SE9WNDB5a0RJdGEzdlhTMUl2VHl3VFltQzE0QkVwRG5WcDJyRXJFZ3ZlZEhfMklWTE5oOE1TOVBBM0dzc19WOTBLOXl0aU9NNmFEamRHeC1CSWk0YU85SjJWbFFWVWNiWDdZZV9lSGFKNkRGSTRYS2FHRTJua2tpVllkSDh6Z0RVWEh6QW1XOEJKVklQSEl4RURTS0F3Tm4xaUFsN0ZQaDhqQ29TS1c4T29CMGNNOFVWYjJuV0I3YlczZWJnWC13NTFDOUdfYWJMTVEwZGV6WGVHSkpoclJZYlRJdkpRT0pBNExvQmE2MEFPTGNzSzVjZG1CWFhkNWNPbGhFR2Uzc1lTVmF1b3YzamF5XzdTRVBrSTlUTmZHQjJHYVBfSU10VDhHdTNOUktzVFE0SA?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-11-18T08:45:44+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "إيكونوميست: الشرق الأوسط 2027..",
+        "حروب أقل ولا سلام حقيقيا    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "إيكونوميست: الشرق الأوسط 2027.. حروب أقل ولا سلام حقيقيا"
+      }
+    },
+    {
+      "title_original": "NATO releases first-ever Alliance-wide Next Generation Communication Networks Strategy",
+      "title_zh": "NATO releases first-ever Alliance-wide Next Generation Communication Networks Strategy",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVTd3ZHhyZUZUeUl4R1FZNktoTGY2d2I1NmV0R2poREYwSEhsTnJLekU4RHJoS3Z2dzFURGwxVEFSNGgwUmNoV19OWnVLNklPQkw2dlVrbXV3YXcwMm1CUHkwTzR4ZkJyMEt4dXNLUUhMdnBhVjNBU2pZdE1IenQ4TWZuVklYRmhnVnZmY3FqWl9PN291UDRaZjdZOHRQajBDVUZseXcyZTB5UUFjT1BIbE5sOUFOcVFsZWYxZFcxc2xKQW9Od29Sam9SQjZDQk5mbDkybG5oNlNXcHRja2FnUDdnOGFlZw?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-18T08:31:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO releases first-ever Alliance-wide Next Generation Communication Networks Strategy    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO releases first-ever Alliance-wide Next Generation Communication Networks Strategy"
+      }
+    },
+    {
+      "title_original": "La OTAN lanza Global Data Marketplace para adquirir datos comerciales de vigilancia espacial, con 222 empresas de 17 países participantes",
+      "title_zh": "La OTAN lanza Global Data Marketplace para adquirir datos comerciales de vigilancia espacial, con 222 empresas de 17 países participantes",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KRmt1V1FLUlViNlhFdVpFU3kyOFAtaGFCV1FYcHZ6RkxWR0prdV81dHFGS3BlV3RYSzN4ZzRaZFNwMEFyeUhpdXJZeEExRUgzQ0ViTXBMNDJ2XzlvWHI0YU9OYVN4R2hxVVY2VDJDTmlFQQ?oc=5",
+      "source": "Ejércitos",
+      "source_score": 40,
+      "published_at": "2026-11-18T08:09:52+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La OTAN lanza Global Data Marketplace para adquirir datos comerciales de vigilancia espacial, con 222 empresas de 17 países participantes    Ejércitos",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Ejércitos"
+      ],
+      "all_titles": {
+        "es": "La OTAN lanza Global Data Marketplace para adquirir datos comerciales de vigilancia espacial, con 222 empresas de 17 países participantes"
+      }
+    },
+    {
+      "title_original": "ウクライナは２か月連続でロシアの占領面積を上回る領土を解放＝コルビー米戦争次官",
+      "title_zh": "ウクライナは２か月連続でロシアの占領面積を上回る領土を解放＝コルビー米戦争次官",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaTRpWXR0LVM1VEo3T2VmQWJuWUlHS0FXQVRFZVlPN3VibGdWTWJWTHFwNHRVUHNzZVBtRkRTTjNTckFDaEVlTHB1UEVOSVNnY3VEV2ktUTNqT0hfN25fM09lVEVlQ182MHNsSVZTbmgtVERSWWkxZUg2a00tWk1mTkZ1emZvTjVWeTF1WWtwa2dWSnBUdFpiZkp0TENCYW1jMVpNdVNOX2RoZHlSSjVlRDcwdHZBWkVVWHZOWHFXOWtvWHMyUm5HQ3RSR2M1R001OTdMSVdQSXFMUUFkdEVmemJhbnlfSTc3ZkRwTGtIalVncllOQ2hvSk930gH_AUFVX3lxTFAwUHpJcU9pcENfbHZLdjhjYmVOY3A5U1p2QzdUeGNXQWhmSDk1LWpmakFlbU9uV2hvcG4wZ2VCVzlTN04zVUhHbDFLWDdfWFdUQkszYnU5a2JqUlpFVk9oN184ZUJqYm5PcnhTWFJwSEY4enhVLWdfLTJiWTdQdFdTMDE3dC1jWXpJY29FcGdPd3NOQWpNTm1jQkRTUGFHendNaHpaRHdfSDEyWVByUFJrc090SzhuSFJXMDlTTFpJaF9zLTdyX3ZZX2hGdUVzZm1iVFVVTWxDTmxTbU16dHdSWGt1Q3NaQ1VFNmNTRGtWRjdPMS1FUldEeFZDZDlfRQ?oc=5",
+      "source": "ウクルインフォルム通信",
+      "source_score": 40,
+      "published_at": "2026-11-18T07:53:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ウクライナは２か月連続でロシアの占領面積を上回る領土を解放＝コルビー米戦争次官    ウクルインフォルム通信",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "ウクルインフォルム通信"
+      ],
+      "all_titles": {
+        "ja": "ウクライナは２か月連続でロシアの占領面積を上回る領土を解放＝コルビー米戦争次官"
+      }
+    },
+    {
+      "title_original": "曾毓群在企业做大之后的自问：为什么要如此努力地工作，为什么要努力说服那么多人，为什么要应对地缘政治问题",
+      "title_zh": "曾毓群在企业做大之后的自问：为什么要如此努力地工作，为什么要努力说服那么多人，为什么要应对地缘政治问题",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sY2V1WWs1QlVIY3dQRnVOWkI3dXBHU2lxLThhWW9QaWJ0dEhlTWVsNVREb0UyQzJTeVY0Rkp4M3pFdWZZanhNWHMteGw4dlNxOVlwZklrWHpqREF3YnpYUA?oc=5",
+      "source": "ThePaper.cn",
+      "source_score": 40,
+      "published_at": "2026-11-18T07:51:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "曾毓群在企业做大之后的自问：为什么要如此努力地工作，为什么要努力说服那么多人，为什么要应对地缘政治问题    ThePaper.cn",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "ThePaper.cn"
+      ],
+      "all_titles": {
+        "zh": "曾毓群在企业做大之后的自问：为什么要如此努力地工作，为什么要努力说服那么多人，为什么要应对地缘政治问题"
+      }
+    }
+  ]
+}
