@@ -1,8 +1,583 @@
 {
   "date": "2026-11-18",
-  "generated_at": "2026-11-17T19:50:46.054655+00:00",
-  "count": 35,
+  "generated_at": "2026-11-18T04:14:53.905370+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title_original": "Apec summit live: Xi and Putin give opening speeches as world leaders gather in China",
+      "title_zh": "Apec summit live: Xi and Putin give opening speeches as world leaders gather in China",
+      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-18T04:08:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec?",
+        "Explained in 30 seconds President Xi Jinping addressed the Apec CEO summit this morning.",
+        "His speech called for the elimination of trade and investment barriers, as well as greater cooperation around artificial intelligence."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Apec summit live: Xi and Putin give opening speeches as world leaders gather in China"
+      }
+    },
+    {
+      "title_original": "Mary Peltola unseats Sen. Dan Sullivan, giving Dems a 56-seat Senate majority",
+      "title_zh": "Mary Peltola unseats Sen. Dan Sullivan, giving Dems a 56-seat Senate majority",
+      "url": "https://www.politico.com/news/2026/11/17/mary-peltola-wins-alaska-senate-01172129",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-17T22:24:10-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "It's the first time in 18 years a Democrat has won a Senate race in the state.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Mary Peltola unseats Sen. Dan Sullivan, giving Dems a 56-seat Senate majority"
+      }
+    },
+    {
+      "title_original": "تحطم طائرة نقل عسكرية في سيبيريا ومقتل ركابها الـ19",
+      "title_zh": "تحطم طائرة نقل عسكرية في سيبيريا ومقتل ركابها الـ19",
+      "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxOSlFQY0V5aFd5NWFTZ193ckhudkpjdDhxdVJHQnpjaG1hNG9FOTRQYVZ5WFZEeXJOR05jR0JTZ0RfRGJKY3ZaZW9HekVTYS1CMEtVTFIwcFZHT2ZCbU9JaXplRTNRTjhEbUZkRlJxeVlLTW5NNzhVZ0hHT3ItUkhob21wa0xTTnA1RkJBUFdETFZNbGM3eW1xbE1pcnMwZ3R4M1NUQjJXS3hZRlZaWEpVUGFfY2N5dml0T19ZOEdncThXWGlqLVJ0NncxVndNa1puMnB3eEJsMnN4aTAwTG9wbWp3MVB0aFU4NXFFRW5lZ2FsSVp0ZlBSUUwxSzRUb0NlZW1PUld0cG5ZaUZ5Z1J1SnlhUkZiY1FxTGkzR0RyamlRZ2ozT1ppTUtvYVBTSjAzTFVyZmozSS03UjRqSFladU85ald4VERZZERERE9ZMHpwNE9WbUpHUHdYT1Frd3pwTm82aXlEblJ2T09ZWWxDWUdwSEo5VU84b1YzdVAteWdkYnVzRFhjazRJTnc3aTlZTWhVTG96TUpIcGJRUDQzaUUxaWVtME9UeUd6a3BlZ3o5NFcwbnRCOG1ZTXhtWDkteUZMc0JOaXRBVzd4aXNSZmZxeVRwcERKVjBOODJiUDNyTlV0OVFacg?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-18T03:00:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تحطم طائرة نقل عسكرية في سيبيريا ومقتل ركابها الـ19    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "تحطم طائرة نقل عسكرية في سيبيريا ومقتل ركابها الـ19"
+      }
+    },
+    {
+      "title_original": "الرئيس الصيني يدعو لتعزيز التعاون الدولي في مجال الذكاء الاصطناعي",
+      "title_zh": "الرئيس الصيني يدعو لتعزيز التعاون الدولي في مجال الذكاء الاصطناعي",
+      "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxQaUk2VnViUkhTbC1ZRDItRXh0SXBOYV9ZUXpLWG9NWjEzZllfbWdnQU40ekQ2eEtwb01kWF93T0dMQnlnOHlXaWFsRmZGeHB2elFwb0lIbXYxSkxGSzkxVmFSU2pCZXNkOS11UXliVUtZcmRVRG9kY2xmZ2NaQ0J3blN2MkxVQUpTNnFXYnlJS0dlRm9CejEtWlMzNGJ2Y25nUWJQSFg0RC1LT2RQbTlaQkJmSnFSakZrTC1sX0stNUFOZFNQcnd1N25RSVRocWhJSm9qQ3ljZHJDZi1id0hkOHZqNGd6WGZNZC0xeGVETUlvS095ZXlDUm95NExUcURNcEJVelJSSUZ2WWpuZkZiZFA5ZDRvQlk5bjRoZ3FmdUU0N2FNLXgxb3ZLcmExZDhvMUY5WDVDeDJQTjJHbzFjcXhzNzB6Mlh2RkkwYXFMSFN6YWZjQnRhUi00Z3ZXbU1CZEpnOGRfUDZfYUdsVFJsNmVxdjJuQ0hkY1pOTGxBT1NzYTd4c2dDZHdDZEhia05lUGJUSWFnX3lQWTZlNDgyNzhLUjNzNm5YenlFTlJyTlV3dUI0d0dZSzJlWTcwaHJpOENEMTd1cW50eTFxZVBoRWR4UFE5R0p1dVZTbFJ3M0tmMHhrZkJWN3lrSWNSUHpDSUFwbWMtTHlZS0xyNjY0dGhwRUptakJWMUFmekZHdzM1T2ZFN0c3bnRuZ0stWWpxU1dybkE3NW5ib1dJbmN0TE52OFc0cVV4bnVuc2paRHBZVmhjQm0tTGdoSjlhcDdRMXdSN3JTN3NaOW5ROXJZ?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-18T02:47:47+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "الرئيس الصيني يدعو لتعزيز التعاون الدولي في مجال الذكاء الاصطناعي    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "الرئيس الصيني يدعو لتعزيز التعاون الدولي في مجال الذكاء الاصطناعي"
+      }
+    },
+    {
+      "title_original": "原油先物下落、米在庫増で 中東情勢が下支え",
+      "title_zh": "原油先物下落、米在庫増で 中東情勢が下支え",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Zbm9Tc21hSVh4MmMtQ0ZoamtkVDJrODlRdXRGcUJDMUFaMFR6YXRxWGY3MHB5bER2TjBVaHRpbVc2MzFfRjZOaU1raU5SQ0xKa1dKc1UwaURRc05CVWJ0U2VHNlNJcGRGazJ4T0lPYjRZX3BnZHFleV8tZy1kZjg?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-18T02:32:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物下落、米在庫増で 中東情勢が下支え    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物下落、米在庫増で 中東情勢が下支え"
+      }
+    },
+    {
+      "title_original": "Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI",
+      "title_zh": "Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI",
+      "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-18T02:03:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams The integrity of South Korea’s career-defining university entrance exam has been thrown into doubt after the top scorer in a recent professional exam admitted using a concealed camera and AI to cheat.",
+        "On Thursday, more than half a million people, mostly school students, are due to sit the exam, known as the suneung, at 1,312 centres across the country.",
+        "The exam runs for a gruelling eight hours over a single day and determines which university a candidate can attend and, in turn, their future prospects."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany",
+      "title_zh": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU1EdklyeEdxbTVJV280d3ZRYWVNamFOSjJiY0Z2SHVaVVlKZW9sa3FMQUVHMU5VSWgyWVZhQmVaUmZmdnNvbUxxUzU0aTVRMFkydGs5V1FLME5YeFNVcXAzVEFjcmVxajJmLW1xZGhGbngzcV8xWnJvWnlCdEFydVE0akFHbk9qd0tjTUNPckdhem5DMi1fellPV1Q3ejY3NWpHLU92LVg?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-18T01:51:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany"
+      }
+    },
+    {
+      "title_original": "ロシアとクリミアを結ぶ橋が一部崩落　ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
+      "title_zh": "ロシアとクリミアを結ぶ橋が一部崩落　ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VWGVSbUR4WkVvT3hVZExIYU15TWJCTkpYRnpHQ3ZvbHJtY1BDVDFPNzhySW5RZjhUUEFleDdteFBHUVJ3VVg5Sk1ndlg1M0RSdmRaaXN4S0VzQVNWYUJfR9IBZkFVX3lxTE9hQWwtRWNzNGJWQ1dwSmt6RDkwTloxZGszZFlzVy02TjhyQUNMYk5tNDFrS0FPdkxhU3plUWtTUUtDX0VFdVFhMVdFc2JhdGlBaHJMOENLOG03Z1BWYXRWcTUzNmZEZw?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-18T01:41:47+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシアとクリミアを結ぶ橋が一部崩落 ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ロシアとクリミアを結ぶ橋が一部崩落　ゼレンスキー氏はウクライナの「前例のない」攻撃を称賛"
+      }
+    },
+    {
+      "title_original": "ロシア「ウクライナのNATO加盟は受け入れない」…米国はドンバスからの撤退意向を打診（中央日報日本語版）",
+      "title_zh": "ロシア「ウクライナのNATO加盟は受け入れない」…米国はドンバスからの撤退意向を打診（中央日報日本語版）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xeEJHcWk0OXZNdlBxT2RpYy11YjFhbFFwYmNkdWwxaW5Pb2hKRnlQbmpDSC10WHJaLXFwbmF0N3pVeC1RVVRscE5oRm5FVno1OS1zblB2YVEwNjUyNWN6SXhoazVEbUE2QndCbER4Xy11LVlrdTYzejV1dE5YYVU?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-18T01:06:49+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ロシア「ウクライナのNATO加盟は受け入れない」…米国はドンバスからの撤退意向を打診（中央日報日本語版）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ロシア「ウクライナのNATO加盟は受け入れない」…米国はドンバスからの撤退意向を打診（中央日報日本語版）"
+      }
+    },
+    {
+      "title_original": "Trump’s Ukraine-War Realpolitik Isn’t Realistic",
+      "title_zh": "Trump’s Ukraine-War Realpolitik Isn’t Realistic",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYnFteEVlT2VNWWlUWHVGeVBTUkZrRGhoMEdkX2ZSQWpYY3A3MHlnWVc3VUE2SEN6ZWRMbWFtZzJmM2JhNXVVMjQ5ejRNbmR2eXE4TDZhRTZXY3NBN21wNDVUVE5yaFlCN3pROG1XanhVZG15S2NvZm0waHdtcGdqejVSNDNiUHhqeG1FRFNJbw?oc=5",
+      "source": "National Review",
+      "source_score": 40,
+      "published_at": "2026-11-18T01:06:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump’s Ukraine-War Realpolitik Isn’t Realistic    National Review",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "National Review"
+      ],
+      "all_titles": {
+        "en": "Trump’s Ukraine-War Realpolitik Isn’t Realistic"
+      }
+    },
+    {
+      "title_original": "仏政府、ウクライナへの軍派遣認める 整備要員など「戦闘意図なし」",
+      "title_zh": "仏政府、ウクライナへの軍派遣認める 整備要員など「戦闘意図なし」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00dHV4V0J2OWhVc1ppWngwRU9KdTlmLVBUZ3ctMG5YdWxzUG8wMndfOV8tLVktU1psekRmSVR6dVNWZ1RCbE1HY3JQT1pRbFN4ZU9BTmgwWlNlV2NQdERTYk1NUnpNZnhXVkpsNA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-18T01:02:48+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "仏政府、ウクライナへの軍派遣認める 整備要員など「戦闘意図なし」    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "仏政府、ウクライナへの軍派遣認める 整備要員など「戦闘意図なし」"
+      }
+    },
+    {
+      "title_original": "L’Iran a « utilisé le prétexte » de la guerre au Moyen-Orient pour « intensifier la répression », dénonce Amnesty International",
+      "title_zh": "L’Iran a « utilisé le prétexte » de la guerre au Moyen-Orient pour « intensifier la répression », dénonce Amnesty International",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOcjdwdy1HSUtmRk1uWWRlb2lfOTFLQTNIeDIzYXB0dVI5S1N4UVRfMXk4Y0x3MUhSbkU0R3hwU2dWX2lVU1p2ZG8yWllrV2dWeERUajNnX2hiLXRxTExaRU1yNDBoWTFnMTQyT0IyMGthVzNqXzM1ZHg1YnJPUUo5NjJ0ekRnb2JVYmdhdXExYUg5RjhYZUtmZHl1T0N6b0NTLVcwazBUSXdUQXpMZ2duOFJ5NDhyYldiTndqMlJUUTM5LU1adlIyNGNYcl9udFlvdkZ3ZHYtYkk2enNEbFhaRDJnY094LXoxalZfdzBWUURzc3hhZzEzRGdTdmFkbENETUEtZGpUUk45R09DamoyRFlzTmRNaWh4OHlVcQ?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-11-18T00:05:56+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "L’Iran a « utilisé le prétexte » de la guerre au Moyen-Orient pour « intensifier la répression », dénonce Amnesty International    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "L’Iran a « utilisé le prétexte » de la guerre au Moyen-Orient pour « intensifier la répression », dénonce Amnesty International"
+      }
+    },
+    {
+      "title_original": "ＮＡＴＯ同盟国に武器調達で米企業を排除しないよう要求＝米国防次官",
+      "title_zh": "ＮＡＴＯ同盟国に武器調達で米企業を排除しないよう要求＝米国防次官",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX2ljYVhmbVhXd2pfZ1dhdkdfOXR5OE91MzJuZG1QWnZUWG5iZDdmc1J5VFBkT0RpSGV3UDBjck5mVTN3TldnYU9QV3dGZXp4ZWJrc200bnJZOV9IT1NJMUJoVG5fa0dINjB6dlN3QUdSaTFMRjRRaWRSSnZ3V2pNMHQ0UnNFdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-17T23:29:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ＮＡＴＯ同盟国に武器調達で米企業を排除しないよう要求＝米国防次官    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ＮＡＴＯ同盟国に武器調達で米企業を排除しないよう要求＝米国防次官"
+      }
+    },
+    {
+      "title_original": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "title_zh": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-17T22:46:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "American soldier arrested by UK police on suspicion of spying taken into US military custody\n- Published\nA US Army officer arrested in the UK on suspicion of spying for Russia earlier this month has been taken into US military custody, British counter-terror police have said.",
+        "The serviceman has been identified as Lt Col Brandon Carroll Tyner, BBC News understands.",
+        "The 41-year-old - who served in the US Army since 2008 - was arrested near Gloucester last week by British counter-terror police."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "American soldier arrested by UK police on suspicion of spying taken into US military custody"
+      }
+    },
+    {
+      "title_original": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "title_zh": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-17T22:44:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material\n- Published\nPolice in the Philippines have asked prosecutors to charge Thomas Markle Sr, the father of Meghan, Duchess of Sussex, with possession of and intent to distribute child sexual abuse material.",
+        "Cebu province prosecutor Graeme Elmido told the BBC that police had filed documents requesting that Markle be charged on Monday.",
+        "Earlier this month, Markle, 82, was separately arrested and charged in the US with possession of child sexual abuse material."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material"
+      }
+    },
+    {
+      "title_original": "Cardinal Parolin: 'Climate crisis is getting worse' as geopolitics overshadow it",
+      "title_zh": "Cardinal Parolin: 'Climate crisis is getting worse' as geopolitics overshadow it",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUV9wdE9sc0t3VWl6YUFYd1Rvc3loNEZweXdmeTY4d2tfYU1mZEdtbDRoZ2tFZ0xjUHp6SGstdGZSbF9ab3dwU0RXODh3bEZqQklZdlFDNmx5X2lSdy1Ham96QkEzdFUzcjVsMGdyR3d0d3p4NGM4b095SXRMMlV6QnFsZXNtdWZGamdpMmxPeWl2NVAySHhCaHhRQTVnR0ROTE90Zg?oc=5",
+      "source": "National Catholic Reporter",
+      "source_score": 55,
+      "published_at": "2026-11-17T22:34:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Cardinal Parolin: 'Climate crisis is getting worse' as geopolitics overshadow it    National Catholic Reporter",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "National Catholic Reporter"
+      ],
+      "all_titles": {
+        "en": "Cardinal Parolin: 'Climate crisis is getting worse' as geopolitics overshadow it"
+      }
+    },
+    {
+      "title_original": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+      "title_zh": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+      "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-17T21:49:29+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support people in need, the premier of the island of Nevis has warned.",
+        "On Friday, Terrance Drew, the prime minister of the twin-island Caribbean nation, announced he would wind down the citizenship-by-investment (CBI) programme, after the European Union threatened to end visa-free access for St Kitts and Nevis.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats"
+      }
+    },
+    {
+      "title_original": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+      "title_zh": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeG1nTVJCSWdrQ3ZnTVhwRTVwSnM4QmRpQkg3bnpLMC11ODR1c0hvQXl2c010MWlvekoxMWdkWGhyeDVNZTNteHJpalE1a1Qxdk1BTF9jeHMyNFNhRWJ1cm02RzFWSTV5Y1RtcEVncWFDTVJfRHJhTnJLYzNPaEk3ZElCZkZRbkF4YXE2dnNrak9WdzZha1BCRFlyaWVJYWIxMEg4YkM3eVdydFJkNzFCUl9UbXVJd9IBuwFBVV95cUxOM2c1Y3h6ckFMeEdkQm5Xd2J2X19lQ1VEWTZNVk1kX3E4QjVpV2VwMVloSnhtWjBnc3JTMlVFaGV3dFRJRU5WM2F0dER4bW9acFhSM3EtRjdpeVktRjA4T09LQjJLTjF1VTlVeGZ2RUdOcFVBOEZZMjUyRHZwQUZJVW5iaUFFOWVybVh5WG1lYzdTazZTS25BNkdLUV9TR2dMZWJnM2p6M0I3YVpSMl80eUN4QnNEWkwtY2NR?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-17T21:41:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "UK hands NATO-assigned US soldier accused of Russia spying to US military    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "UK hands NATO-assigned US soldier accused of Russia spying to US military"
+      }
+    },
+    {
+      "title_original": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+      "title_zh": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+      "url": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-17T21:40:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory About 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased invasions into the tribe’s territory.",
+        "According to the NGO Survival International, members of the Awá people, who live in voluntary isolation, arrived on Monday in a village and made contact with a government team in a “historic encounter”.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life"
+      }
+    },
+    {
+      "title_original": "US loses measles elimination status after 26 years amid record case numbers",
+      "title_zh": "US loses measles elimination status after 26 years amid record case numbers",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-17T21:04:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US loses measles elimination status after 26 years amid record case numbers\n- Published\nAfter more than two decades, the US has lost its measles-free status, following two years of record case numbers and deaths.",
+        "The Pan American Health Organization (PAHO), a specialised service of the United Nations, determined the US has had uninterrupted transmission of the same strain of measles for more than 12 months.",
+        "Dr Jarbas Barbosa, director of PAHO, announced that Mexico and Bolivia have also lost their measles elimination status, attributing the resurgence in the region to persistent \"gaps in vaccination\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US loses measles elimination status after 26 years amid record case numbers"
+      }
+    },
+    {
+      "title_original": "Eight-year-old Haitian boy returns home after release from ICE custody",
+      "title_zh": "Eight-year-old Haitian boy returns home after release from ICE custody",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-17T20:59:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in Texas has been reunited with his family in California .",
+        "Representative Juan Vargas shared a photograph of the boy and his family in a social media post on Monda, writing: “11 days ago, an 8-year-old in San Diego was taken into federal custody during an immigration check-in.",
+        "He was separated from his loved ones and held in a facility in Texas."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Eight-year-old Haitian boy returns home after release from ICE custody"
+      }
+    },
+    {
+      "title_original": "フランス、水面下でウクライナ派兵か ロシア反発「もはや直接参戦」",
+      "title_zh": "フランス、水面下でウクライナ派兵か ロシア反発「もはや直接参戦」",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EckFUWmxOUWVfaGxXc1lPXy1ucml5VVJRQThBdXhGNVJfd3luQTBxOFhnN3BvaHU2eks0RVNsWHc4b0RzWmk3bFF0UVo3VWd1Y1hOcXpja3MyQnlaVm8tRVVnTEstMzA?oc=5",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-11-17T20:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "フランス、水面下でウクライナ派兵か ロシア反発「もはや直接参戦」    朝日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "フランス、水面下でウクライナ派兵か ロシア反発「もはや直接参戦」"
+      }
+    },
+    {
+      "title_original": "Otan: Londres remet à Washington un soldat accusé d’espionner pour la Russie",
+      "title_zh": "Otan: Londres remet à Washington un soldat accusé d’espionner pour la Russie",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaklJOEp2Z0JOYS1fVjVIQ2J3TTVTTWdud2dmMC1Hb3VSX0doUFhCSmtSZUY3ZngtTDdNU0ZlYVRXeGdFZ1dWNFdfeDFWdTVnNHNLTnpuY2VTSTEyYjZUQkFkdFI2aE1vNGRKaVRYaDlfb1JCckxRV1N0NzVOWWs3RWNFLWIxQnVHNkpzM0NkeG9jOHZ1OGx3d2xFLWRFMllZbzBTd3N3S203dHN0aXNoX1cwTmczdw?oc=5",
+      "source": "Ici Beyrouth",
+      "source_score": 40,
+      "published_at": "2026-11-17T19:55:36+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Otan: Londres remet à Washington un soldat accusé d’espionner pour la Russie    Ici Beyrouth",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Ici Beyrouth"
+      ],
+      "all_titles": {
+        "fr": "Otan: Londres remet à Washington un soldat accusé d’espionner pour la Russie"
+      }
+    },
     {
       "title_original": "Ukraine-Krieg: USA kritisieren ukrainische Angriffe im inneren Russlands",
       "title_zh": "Ukraine-Krieg: USA kritisieren ukrainische Angriffe im inneren Russlands",
@@ -51,6 +626,31 @@
       ],
       "all_titles": {
         "en": "Russian military plane crashes killing all 19 on board"
+      }
+    },
+    {
+      "title_original": "Cornyn links Nvidia scandal to perception of Trump admin corruption",
+      "title_zh": "Cornyn links Nvidia scandal to perception of Trump admin corruption",
+      "url": "https://www.politico.com/news/2026/11/17/cornyn-trump-nvidia-corruption-perceptions-01170190",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-17T14:13:36-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The outgoing Texas Republican senator said “the buck stops with [Trump]” when pressed on whether the White House plays a role in the appearance of corruption and self-dealing.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Cornyn links Nvidia scandal to perception of Trump admin corruption"
       }
     },
     {
@@ -129,6 +729,31 @@
       }
     },
     {
+      "title_original": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "title_zh": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-17T18:20:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "William and Kate celebrate Earthshot Prize winners in Mumbai\n- Published\nThe Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winners of the Earthshot Prize.",
+        "Five award-winners were named at a ceremony in Mumbai, India, and will each receive £1m to scale up their projects.",
+        "One of the winners was a country - with Bhutan being recognised for its environmental policies that help to safeguard water supplies for nearly a fifth of the world's population."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "William and Kate celebrate Earthshot Prize winners in Mumbai"
+      }
+    },
+    {
       "title_original": "Trump says US taking 'very seriously' any Iranian plot against Washington",
       "title_zh": "Trump says US taking 'very seriously' any Iranian plot against Washington",
       "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
@@ -201,6 +826,56 @@
       ],
       "all_titles": {
         "en": "Costa Rican journalist shot dead in first such killing in 25 years"
+      }
+    },
+    {
+      "title_original": "NATO shares resilience requirements for the first time, including stockpiling blood, food and water",
+      "title_zh": "NATO shares resilience requirements for the first time, including stockpiling blood, food and water",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHZ4bmRVLW0tNFFNSERHRmlxNWFkaDVLZVJPeXFTdkQ3RGpoZDBWS3BDNGh0QTZlRTRHRnk3QXNlYjVDX3YzZ1pvRkwyejFCSXl3bm5acDA2SVNnbmNOZmNOOS1kRFBPcFgwM211RjBMSTJMT050TVl4Um1OSnNZYWhobzc4UUlPOUJYcGx6djV1UEc3WnhWV3F3d2dXWUlvSDhKQ25iaUhWWkk?oc=5",
+      "source": "Fortune",
+      "source_score": 55,
+      "published_at": "2026-11-17T17:06:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO shares resilience requirements for the first time, including stockpiling blood, food and water    Fortune",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Fortune"
+      ],
+      "all_titles": {
+        "en": "NATO shares resilience requirements for the first time, including stockpiling blood, food and water"
+      }
+    },
+    {
+      "title_original": "NATO Secretary General meets with the Minister of Defence of Ukraine",
+      "title_zh": "NATO Secretary General meets with the Minister of Defence of Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZEFTTC1lOXFqUU04WFJCeXR2RWU5RU9WVVZQRGduMDBoNGRhTno4MjBJb2NJa256ckJYWXVsWnRsQkNQSTZzYzdCZWdxX3dpUzQwV0N1c1FtRHZmTTItRHl5cDJVVkc1NnVIZ0dpRGVUUHRkenN2NWEwcGt5V2FBUUNBVjQtdkdhSlUyYk0tcnpoZTc4ZDFRbnh5a1ZPQkFDMWV6TkxrRHdpM0ZLcEJSSkdLLWI5V09JUGpVQkVGcVc3T1lhZ0xnQ3dkcTA?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-17T16:49:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO Secretary General meets with the Minister of Defence of Ukraine    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO Secretary General meets with the Minister of Defence of Ukraine"
       }
     },
     {
