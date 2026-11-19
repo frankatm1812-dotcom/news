@@ -1,0 +1,882 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-19T19:29:34.722188+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Nevada's new governor promises legislative blitz on affordability",
+      "title_zh": "Nevada's new governor promises legislative blitz on affordability",
+      "url": "https://www.politico.com/news/2026/11/19/nevada-aaron-ford-promises-legislative-blitz-on-affordability-01175985",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-19T14:19:11-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Democrat Aaron Ford promised to lower prescription drug prices and rein in corporations’ role in the housing market.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Nevada's new governor promises legislative blitz on affordability"
+      }
+    },
+    {
+      "title_original": "Ukraine's NATO membership is relevant for European security, Macron says",
+      "title_zh": "Ukraine's NATO membership is relevant for European security, Macron says",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2RPY2RXb1I0aGpycUdTNHMtZk1aVDBfandNSWtfd2VNcll1UzhYUWpOVm9haTJ4b0tnY3NTeXA5eVZKWVBkbGp0eFlLc3hfdTRLMGRVbktKN3hrRmZpUEQ5M1ljeTV3LVE3eFZJeG01dURZa1pMLWxwaHRXM1NyVE14Y05CM2dNV19qQmE4NEhidW40ZlltY3IxYjRrY1EzcnlJaE1LdnVaeWNr?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-19T18:52:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine's NATO membership is relevant for European security, Macron says    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Ukraine's NATO membership is relevant for European security, Macron says"
+      }
+    },
+    {
+      "title_original": "« La Bataille de Kinmen » : Stéphane Malsagne revient sur les premiers jours du conflit entre la Chine et Taïwan",
+      "title_zh": "« La Bataille de Kinmen » : Stéphane Malsagne revient sur les premiers jours du conflit entre la Chine et Taïwan",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQ2hxUFUxc2tMRHZrN1JBU0pjbnZGM3pZdGF0NFViX01Odlc4elJ5XzJBZ1Z0U3h1UmEycks5UmYwT0dOVnhFbEpnTGpzTzROOExfRk15d2F6dmZnMnhQLXVhbS1SUmRDSHpsTS0zSnpUMmhlWWZtM0hlWlZ1ZmQ3U2ZBYTd6MlpVbGQ1VGdYY1o3cUpsNVhoZEcxUkkwTkdiQnhVYlJ4cUZxMW1wZkxjRGVkeUp0Zms4bmhUa1d1WFdRb0NINlFhLUFCRnZ2OWx6a0lwbFJkaWlrSk9Bd3NUVXA1aWMzd2pIVjg4bG42Vzdvb1QxUUwyNGZkQmQ4WTctY3c?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-11-19T18:00:07+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "« La Bataille de Kinmen » : Stéphane Malsagne revient sur les premiers jours du conflit entre la Chine et Taïwan    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "« La Bataille de Kinmen » : Stéphane Malsagne revient sur les premiers jours du conflit entre la Chine et Taïwan"
+      }
+    },
+    {
+      "title_original": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war",
+      "title_zh": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEt0ZktCOUozOEtFTk1MODdLN3J2bXRkRUhxbEdseHJWVUdBd1FsTlozdFc3RVAzZnA0TE1TRUt0YV9yXzBZYm5kbE1yeGpmOTNKVUFVREdoeVJ5TThzT1pROW1WX2VlbG9tOUtsVVdWYWNQZEY5WThXTUxEQWg4a3NEeUdGcThVSXUwX251ZmNoMEtPd0NKN0lsYUxwcXIyOFJaMy1Ucw?oc=5",
+      "source": "AP News",
+      "source_score": 95,
+      "published_at": "2026-11-19T18:00:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war    AP News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "AP News"
+      ],
+      "all_titles": {
+        "en": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war"
+      }
+    },
+    {
+      "title_original": "ゼレンスキー氏「前線陣地は堅固」、ロシアが制圧主張の東部2都市で応戦と強調",
+      "title_zh": "ゼレンスキー氏「前線陣地は堅固」、ロシアが制圧主張の東部2都市で応戦と強調",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWTlSTjBNWXluaHlmVXNHNGRzRXJ2dEprOFliWl9ldTdscVdXNW9EZGlQeHNOZHg5RWdkNlRQeEJGVGdDQ3pYcmFzZFVLVlB2WjQ2Z24tLWptVThENGFWMFZYZUtveVp1elE3c1VKRkZjTjZ1dnpyQzljeW5vMjJnbU5xenNFQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-19T17:33:20+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ゼレンスキー氏「前線陣地は堅固」、ロシアが制圧主張の東部2都市で応戦と強調    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ゼレンスキー氏「前線陣地は堅固」、ロシアが制圧主張の東部2都市で応戦と強調"
+      }
+    },
+    {
+      "title_original": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "title_zh": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T17:23:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Susan Smith denied parole again 32 years after drowning her two sons\n- Published\nA South Carolina woman who admitted to drowning her two sons 32 years ago has been denied parole for a second time.",
+        "Susan Smith, 55, was convicted of killing her boys by strapping them into their car seats and rolling her vehicle into a lake in 1994.",
+        "\"I got to my lowest when I let that car go into that lake,\" Smith said during a hearing on Thursday with the state board that decides whether to release those in prison on parole."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Susan Smith denied parole again 32 years after drowning her two sons"
+      }
+    },
+    {
+      "title_original": "JD Vance slams GOP governor’s call for immigration reform as ‘morally and electorally disastrous’",
+      "title_zh": "JD Vance slams GOP governor’s call for immigration reform as ‘morally and electorally disastrous’",
+      "url": "https://www.politico.com/news/2026/11/19/jd-vance-slams-republican-governor-immigration-01175617",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-19T12:14:06-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "The vice president took aim at Oklahoma Republican Kevin Stitt’s comments at the POLITICO Pub.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "JD Vance slams GOP governor’s call for immigration reform as ‘morally and electorally disastrous’"
+      }
+    },
+    {
+      "title_original": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "title_zh": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-19T17:13:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ China, Russia and the US say they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no mention of the wars in Ukraine and Iran caused by two of the participants.",
+        "The declaration on Thursday also outlined a set of priorities that included changing the UN, boosting oil supplies and what it said was the protection of diplomatic immunity.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars"
+      }
+    },
+    {
+      "title_original": "NATO and Moldova establish framework on exchange of classified information",
+      "title_zh": "NATO and Moldova establish framework on exchange of classified information",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNXzIteHhLZHpnZ09hX01oTnplTWQ3T1VyTk9IanY1Mk9qa2wwZS1uUVdtM2ZfMG1zbGpJUWxoS1V4clNITzY3dldUNTg0WG1zUTVGbnRMWU9Ma2RteE5ETGU0N21vdXhBZk5VQ210eDQxLUJucGt0N1NQalgxQ2ZaX0t0cXU4U19qQVVZdHpGandmTWZQZl8wOHdNNWFOMXktbG9rVXhKUlQtalJRUGU5Rng0dWstcXFiaU1YOVVEV0lEMm5ud2xhaExNcFp2QnQyMFBBbUJR?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-19T16:24:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO and Moldova establish framework on exchange of classified information    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO and Moldova establish framework on exchange of classified information"
+      }
+    },
+    {
+      "title_original": "Conflicto en Oriente Medio dejará un impacto duradero en el sector energético, advierte la AIE",
+      "title_zh": "Conflicto en Oriente Medio dejará un impacto duradero en el sector energético, advierte la AIE",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3dJM1dLTEVaeW55V2FHODVTX01oRm84ZWIwdC1jcEMwblg4dkNUekx4cmVTcmpIOXBGdmRsSHA0bGYzbnltSnREdUlaTVh3b1YwbFlOZC1tNW5NajBETEFZX1lDaUhOSFh5M1hEYl9QdnVCNXA0dTNsR0hVSVpUcHZ2djQtSGNfWV9ocGl0czg?oc=5",
+      "source": "UDG TV",
+      "source_score": 40,
+      "published_at": "2026-11-19T16:15:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Conflicto en Oriente Medio dejará un impacto duradero en el sector energético, advierte la AIE    UDG TV",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "UDG TV"
+      ],
+      "all_titles": {
+        "es": "Conflicto en Oriente Medio dejará un impacto duradero en el sector energético, advierte la AIE"
+      }
+    },
+    {
+      "title_original": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "title_zh": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T15:52:26+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Dozens missing after boat carrying migrants sinks off Senegal's coast\n- Published\nSenegalese authorities are continuing search operations after a boat said to be carrying between 50 and 100 migrants capsized in the Atlantic Ocean.",
+        "Four bodies have reportedly been recovered so far.",
+        "Dozens of people are still missing."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Dozens missing after boat carrying migrants sinks off Senegal's coast"
+      }
+    },
+    {
+      "title_original": "الاتحاد الأوروبي: وضع باب المندب نشعر به في الموانئ والمصانع والمتاجر",
+      "title_zh": "الاتحاد الأوروبي: وضع باب المندب نشعر به في الموانئ والمصانع والمتاجر",
+      "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxQM3pib3hrTTZUR2g2TVZST1k1cjZZS0pYdjRacWtIWmlYOFdtZUNhMDA2enRjX1VydnppbTdCM0RLZ2ZfSDRCcWN1V2JoR25ITUpUN0dTaktGcXRpMVgtMjFSZlA2eVhLaF9yM2pfbERpZ014VmpTc0NNNmRpa2l5eFlOUlJMR1lUZEl2UlNVbGhFbHRSazA4UG9MRlRyMllNTEV1MGtTVlkxZXZUblNpRTBnRjAwemFFVWR2WDVXUFVRZVNQOHZ4MnBxb19pZjNGY2FGZ25jYWlQTFdVS3o2LTRqTmRkX2pRWWktMkhENlRjOVJkNDJKWE9RcXctWDhieW14ZG1nZ1pXbGtvemZNaFBGWFJvbTJCVUZ2a1RiM2Z0ek5ScnNpOXQydU9SMGJfVDBrVDdRRmx6aUw3dHEyWm4yblhXQnFXRm1uVVNONFlCWFU4d1ZfdGRfNlhsRWpIY2xBbGtWYW1TZnNMckk4aDgzeEl6OHVzaktJckZOemFSTEVvMHk4RW9YcWY1X3JCdWNSdXp0d2ZzS1lPdy1QeUlEVWlQV3dpMmdBM0F1U0RTcm1GYWRHNWtaM0J3bmwtYll6Y1ZiM0JnWmI4T0dxQ3BsVG1aYVU0eElQR3lhMlNTOXFtUS11cnMxS3RhQ3dZem1HaWtqTnBFQ1B3QVZNaFQ4WlpETkw2WUR1SW9kREtpbUtkYXhldzdMR1Z1OGw4WS1NWTNKYWR0Yy1QM3p1N1FrbG94RXRWWTBCRVFldzBJZzJhSTJKZnlsWmE4cTlEemhxX2lXc1NUa0JMUFp1d0Z2dlY3TDVfSDBkTFdZLXpKUTRqTks5NUFRdURiMWFkdlFxN3R2ZDJJZ0lPeUZ3S3Nsd2ZsUUVLbGJPOWNCSlZHNE8zVzE3TGFTUjIzemRhZVE?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-19T15:15:05+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "الاتحاد الأوروبي: وضع باب المندب نشعر به في الموانئ والمصانع والمتاجر    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "الاتحاد الأوروبي: وضع باب المندب نشعر به في الموانئ والمصانع والمتاجر"
+      }
+    },
+    {
+      "title_original": "OTAN : Patrouille en mer Baltique",
+      "title_zh": "OTAN : Patrouille en mer Baltique",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OZUJDaGNySVlndGt6VzV1Q0ZuTDFwaWw2YmhoSUZiMWNtUWJCNkNGYTdhd3ptV19VNlFhemRxVGFtVVFFZlB5ZDl2N0dxUE5UQ0tBSVNmSnhhUEhIRjlvRUNsUEctYnpEV0d6TXk3bDQ0Wkp4OHZNQ292UlVVa00?oc=5",
+      "source": "Ministère des Armées",
+      "source_score": 40,
+      "published_at": "2026-11-19T15:04:17+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "OTAN : Patrouille en mer Baltique    Ministère des Armées",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Ministère des Armées"
+      ],
+      "all_titles": {
+        "fr": "OTAN : Patrouille en mer Baltique"
+      }
+    },
+    {
+      "title_original": "プーチン氏、欧州特使にモスクワ訪問提案 ウクライナ協議での立場明確化求める",
+      "title_zh": "プーチン氏、欧州特使にモスクワ訪問提案 ウクライナ協議での立場明確化求める",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMkQtLV9tMXBHQVBBdWo5OVYwbXhXc3JGd1lRMFQ0Q0RzbHJ2U0wwTWZuRDAwbk5YWHBrU1doOVRjdXJISmhFUmFKdjZ6b2NoY3RuTGlpNUFZMGtWZFBpX1p4NEtrWkhmTVljenQtRUNmTERER2JkV1p4eFBlR21xWDZuamtZQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-19T14:37:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "プーチン氏、欧州特使にモスクワ訪問提案 ウクライナ協議での立場明確化求める    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏、欧州特使にモスクワ訪問提案 ウクライナ協議での立場明確化求める"
+      }
+    },
+    {
+      "title_original": "« En attaquant l’Iran, Trump voulait se dégager du Moyen-Orient, il s’y installe »",
+      "title_zh": "« En attaquant l’Iran, Trump voulait se dégager du Moyen-Orient, il s’y installe »",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPM1Bnb3dGUHhkY3hWdGg1cXJ3TmV5UWFzd2M1dFhuY25NWW1jV050Qk1KSXIyS3V5Mk9KNjZKdkJjT2ZSWGQtbmRKRDgwY3BtcUg3QURmdFgtamZlUmt2dVN2ZGVma21feFJWaS1LWXpHRXdxUHdSMW50Q1M2eDRIWDRWcDZUbnkxVHNaNlhTeUpLam9pNlUxTm9hc1JveEhpSHBDTmZ1TlFnWm9xU1lWc1ZBSjc1eE9UUkdHeDJEZXdlYkRUNGp1NHdyR1Z4VG1pMG5jLXZqUVVHdw?oc=5",
+      "source": "Le Monde.fr",
+      "source_score": 95,
+      "published_at": "2026-11-19T14:00:10+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "« En attaquant l’Iran, Trump voulait se dégager du Moyen-Orient, il s’y installe »    Le Monde.fr",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Le Monde.fr"
+      ],
+      "all_titles": {
+        "fr": "« En attaquant l’Iran, Trump voulait se dégager du Moyen-Orient, il s’y installe »"
+      }
+    },
+    {
+      "title_original": "Zelenski revela que EE.UU. preguntó si Ucrania cedería parte de Donetsk a cambio de entrar en la OTAN",
+      "title_zh": "Zelenski revela que EE.UU. preguntó si Ucrania cedería parte de Donetsk a cambio de entrar en la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzFMZDNBOFRhM2YxZE0zSXpRY2pyOWRVQ0wyRGhRTVNpbkhyeV9ka1U2WnVGcVZneDN4cjJsQ3NhSGJTRDMxRERXakJrM2tNX3VCbm1xdmNZR2I1MS1zOFphdDhtc2RTaGpzUUR3WFpaQXUxODJzTVNyamRjdUEzeU5iOXFTVF9EVVdBWDl3TmZvVHMyZzRoeEo5ZzF5T0F1UDJLUkJHb9IBpwFBVV95cUxQUkloZGgwenFqZENTRkVQX0pwMUVqVEFhUGV6U2xLbk5pZzhGZzB6RFVxem1rOXV6bDFBRWg2MU5xQXlfRlFSUFY3dEZfaEh0a0xUQzRCc2RBTHdVYzZQOEk0TUdndVM2bkZzOGl4YnJ5WTd0WFlYS1FwSnMzQlVGUnpyd3ZzdzI4S01jM1ZKVmNjeVo3SEhfVWY3RVlZQkpyOW1QOE5RMA?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-19T13:47:52+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Zelenski revela que EE.UU.",
+        "preguntó si Ucrania cedería parte de Donetsk a cambio de entrar en la OTAN    DW.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Zelenski revela que EE.UU. preguntó si Ucrania cedería parte de Donetsk a cambio de entrar en la OTAN"
+      }
+    },
+    {
+      "title_original": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "title_zh": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T13:31:23+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Venezuela signs military deal with US less than a year after Maduro's removal\n- Published\nThe United States and Venezuela have re-established military ties less than a year after US forces seized the then-leader of the South American country, Nicolás Maduro, in a raid on the capital, Caracas.",
+        "The interim government led by Delcy Rodríguez, Maduro's former vice-president, signed a military co-operation agreement with US Secretary of Defence Pete Hegseth on Wednesday.",
+        "Few details about the deal have been released so far but Hegseth said that Venezuela had \"gone from our most aggressive regional threat to a compliant security partner\" in less than 12 months."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Venezuela signs military deal with US less than a year after Maduro's removal"
+      }
+    },
+    {
+      "title_original": "ウクライナに「報復する」 クリミア橋攻撃、ロ大統領（共同通信）",
+      "title_zh": "ウクライナに「報復する」 クリミア橋攻撃、ロ大統領（共同通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xTThKYld2Vl9LZWJfdUpPV3U2Rm1NV0tJNTFtTWFkVzdVREtPcDE4aXlVVkV2a3FoMFBaX0huRnpUQ2g2RVFpUjVVNTdyaHV6X1VwWExGREZTR3dCdldEQ2pUZ0VPZ1UzWHhDQVljMnNBSnJPRld0bVBRbkxvT0U?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-19T13:25:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナに「報復する」 クリミア橋攻撃、ロ大統領（共同通信）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナに「報復する」 クリミア橋攻撃、ロ大統領（共同通信）"
+      }
+    },
+    {
+      "title_original": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "title_zh": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T13:07:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge"
+      }
+    },
+    {
+      "title_original": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "title_zh": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T12:56:30+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "US consortium wins huge Kenya mining deal, beating Chinese rivals\n- Published\nA US-led consortium, Frontier Minerals, has won the tender to develop Kenya's Mrima Hill mining project, beating seven bidders, including companies from China and Australia.",
+        "The site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn), including niobium, used in electric vehicles, aerospace and defence technology.",
+        "Frontier Minerals says its proposal aims to keep more of the economic benefits in Kenya through \"processing and refining of minerals in-country\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US consortium wins huge Kenya mining deal, beating Chinese rivals"
+      }
+    },
+    {
+      "title_original": "米中ロ首脳の冒頭発言要旨 トランプ氏「ウクライナの戦争終結を期待」",
+      "title_zh": "米中ロ首脳の冒頭発言要旨 トランプ氏「ウクライナの戦争終結を期待」",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NZC1Lb0lCRFdLUnZUOXNOR01ncDlKSHI0ZG1vV1ZpOGJBaFd3RVViLTRVQ282NHNpb21aY1Z1MWtjb0RCUlZOVElMZmx5Ty05OE4zVGJERzc4eW9odFpORWVta3JKSUdVN0Zsaw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-19T12:09:52+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "米中ロ首脳の冒頭発言要旨 トランプ氏「ウクライナの戦争終結を期待」    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "米中ロ首脳の冒頭発言要旨 トランプ氏「ウクライナの戦争終結を期待」"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Selenskyj zu Treffen mit Koalition der Willigen eingetroffen",
+      "title_zh": "Ukraine-Krieg: Selenskyj zu Treffen mit Koalition der Willigen eingetroffen",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWXhMYzRUaEh2Xzlud0FQcG9PYzZtWGozay1icXJfellfWXFEV1JMMzFxdGxXcnNkX09XMFZrSTl1UVFRR2E1NlBYSFFOaXc0MlIyaW5lVnZMNGJWZUhUR3NKM0JyaHZhRlNjb1llMkFBQ2M3Z29odTNOQW5ROF9IZld3UUIyT3ZrUmJsaU5KRmlNYnNiMmRnN0dUcEdoR1pBRG1SWkNzVWVXZWphVEh0MXlnNDNHcjZPaXlNcWd5eGR1dm9rbXc?oc=5",
+      "source": "Tagesspiegel",
+      "source_score": 75,
+      "published_at": "2026-11-19T11:54:53+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg: Selenskyj zu Treffen mit Koalition der Willigen eingetroffen    Tagesspiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Tagesspiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Selenskyj zu Treffen mit Koalition der Willigen eingetroffen"
+      }
+    },
+    {
+      "title_original": "Florida pastor found guilty over role in assassination of Haitian president",
+      "title_zh": "Florida pastor found guilty over role in assassination of Haitian president",
+      "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T11:44:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Florida pastor found guilty over role in assassination of Haitian president\n- Published\nA Florida pastor has been found guilty of a number of charges relating to the assassination of the Haitian President Jovenel Moïse.",
+        "Christian Emmanuel Sanon, a dual US-Haitian national, was convicted of all eight charges against him, including conspiracy to kill or kidnap a person.",
+        "He faces a potential sentence of life in prison."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Florida pastor found guilty over role in assassination of Haitian president"
+      }
+    },
+    {
+      "title_original": "Race to replant five South African baobabs after export blocked",
+      "title_zh": "Race to replant five South African baobabs after export blocked",
+      "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-19T11:03:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "非洲",
+      "facts_zh": [
+        "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne trees were dug up by an exporter, who tried to ship them thousands of miles to Georgia.",
+        "The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and supported by cables to help them recover.",
+        "The trees had been stranded at a warehouse in Durban since July, when they were intercepted by authorities who said they had been moved without the necessary permissions."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Race to replant five South African baobabs after export blocked"
+      }
+    },
+    {
+      "title_original": "Buttigieg allies launch effort to back another presidential run",
+      "title_zh": "Buttigieg allies launch effort to back another presidential run",
+      "url": "https://www.politico.com/news/2026/11/19/buttigieg-allies-2028-campaign-01174766",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-19T06:00:08-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The independent Team Pete PAC is aiming to bring together volunteers and grassroots donors who backed Pete Buttigieg’s 2020 presidential bid.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Buttigieg allies launch effort to back another presidential run"
+      }
+    },
+    {
+      "title_original": "A week of White House static",
+      "title_zh": "A week of White House static",
+      "url": "https://www.politico.com/video/2026/11/19/a-week-of-white-house-static-2233252",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-19T05:45:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "A week of White House static",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "A week of White House static"
+      }
+    },
+    {
+      "title_original": "Apagón crítico en la NSA deja incomunicada a la inteligencia de EE.UU. en Oriente Medio",
+      "title_zh": "Apagón crítico en la NSA deja incomunicada a la inteligencia de EE.UU. en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0h2SnRfemZ0dDVjZjFseVdTcEliVlNVWmMwZmFjMGNsLVRFRm0xdU1lWmJSM0NwT1FmN0didTdMQXZHT1lYeDBwcDlnbkM3RVZTSDBpdmFBc3duN1lxNGJJbFdOZEhmQTk4eURSRzFKY051Ui1PbnRJeDBhTkRXc2pWVENlY3lDdVNMZTBfQWF0RWk5bzk4N2FnYzI0RTNFVXowQ0J5SEhPRGtrb3BDSmhENzlkYmt1ZGpkcjlhaDRCNWZpOW1Ma1FwcHHSAdIBQVVfeXFMT01Vclo3d3hjTE1pSnBtczJ6VUhpcTU3bzAxeDV4eTZFTlkzT2JRZU44bTlTeGNibE5BVHhzMHYxV1hPSlgtbjhzb1UzTWRGTzlOSlN2UEx1dlVSeUdJeDdadmQ5Vkc1Yy1VVElmdXVFNnQ3Ty15SzFRRlI0LW03em9NUzkxMmNjSFVlb1I2THZkOG9jYWItUUJCTDNMb01DZFJhdXpjMW5SakpxT250RDhiaDA1bGE4S0tSSHNsdHNsYlRkUkJfNkRaTzBpTldDcTlR?oc=5",
+      "source": "Negocios.com",
+      "source_score": 40,
+      "published_at": "2026-11-19T10:28:04+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Apagón crítico en la NSA deja incomunicada a la inteligencia de EE.UU.",
+        "en Oriente Medio    Negocios.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Negocios.com"
+      ],
+      "all_titles": {
+        "es": "Apagón crítico en la NSA deja incomunicada a la inteligencia de EE.UU. en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "Crudo sube; ataques a buques en Oriente Medio contrarrestan perspectivas de exceso de oferta",
+      "title_zh": "Crudo sube; ataques a buques en Oriente Medio contrarrestan perspectivas de exceso de oferta",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvSTFSWnp4NGJiUGN1SEE1TDEwZ2Zaa3dmVHVsRmNPRlAxTlZtNm81dU12Qk9sVEM2YkI1RDBOSkJCNVJvWXAxN3U1YnlsVXdsZkhoVzd5alpadDgtd3hZYjY2VTZyaFZRVjVHVlVVR19JS2VuV1BZ?oc=5",
+      "source": "TradingView",
+      "source_score": 40,
+      "published_at": "2026-11-19T10:20:09+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Crudo sube; ataques a buques en Oriente Medio contrarrestan perspectivas de exceso de oferta    TradingView",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "TradingView"
+      ],
+      "all_titles": {
+        "es": "Crudo sube; ataques a buques en Oriente Medio contrarrestan perspectivas de exceso de oferta"
+      }
+    },
+    {
+      "title_original": "プーチン氏、ウクライナ紛争解決で米中ロに共通の「利益」（ＡＦＰ＝時事）",
+      "title_zh": "プーチン氏、ウクライナ紛争解決で米中ロに共通の「利益」（ＡＦＰ＝時事）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IMGJ6NHA3NVkzQzExWjd6RGR6OEFGV1RoRkgtTTZmY0hfZWlXZ1ZoQkxpX0tzSnZhTHpsUS0yc0lCYjg2aXAtNnhPMVlMRjJfUm1oaVo5a3ktRVdOdTJNR2M4NVJZYTJYY3VFWTRDNkluRkg0M2xrZ1lMZGhBUTg?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-19T10:13:39+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "プーチン氏、ウクライナ紛争解決で米中ロに共通の「利益」（ＡＦＰ＝時事）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏、ウクライナ紛争解決で米中ロに共通の「利益」（ＡＦＰ＝時事）"
+      }
+    },
+    {
+      "title_original": "Middle East conflict triggers biggest disruption ever to global oil trade, IEA warns",
+      "title_zh": "Middle East conflict triggers biggest disruption ever to global oil trade, IEA warns",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWlk0OG5fSFVxS01zQmJQZ2t6SmN4R2JsZ2lDdi16QXJRQnY2b3p6ZmpJZ3pmWFFDU3dKMXJiSTRXb0JISm43VVlBWUpfbDFXeXlxSE80SktiQzY2MDczdW8wRTNpcF91TVNmSG9Kc1V2RHlubzlzTlRmdGJwMEYweW1vZjdxSEpPY0RIbFRPOHdHWlBkM3lBMURLUDVxZk9EQWJ2aDRoYlZfTHN0RlpVOVVWWW52d0tUN1NreXp2aHQ?oc=5",
+      "source": "NBC News",
+      "source_score": 75,
+      "published_at": "2026-11-19T09:26:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Middle East conflict triggers biggest disruption ever to global oil trade, IEA warns    NBC News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "NBC News"
+      ],
+      "all_titles": {
+        "en": "Middle East conflict triggers biggest disruption ever to global oil trade, IEA warns"
+      }
+    },
+    {
+      "title_original": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "title_zh": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T09:21:54+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Survivors of Uganda's deadly landslide seek justice at the UN\n- Published\nSurvivors of a 2019 landslide in eastern Uganda that killed more than 50 people have taken their fight for relocation and compensation to the United Nations.",
+        "The 48 complainants accuse the government of violating Uganda's constitution by failing to put effective disaster management measures in Bududa, a mountainous district prone to landslides.",
+        "Their case comes as heavy rains raise the risk of further landslides."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Survivors of Uganda's deadly landslide seek justice at the UN"
+      }
+    },
+    {
+      "title_original": "法国军事专家：俄乌战争陷入“斯大林格勒式”惨烈消耗战，难以通过谈判结束: 中国·国际",
+      "title_zh": "法国军事专家：俄乌战争陷入“斯大林格勒式”惨烈消耗战，难以通过谈判结束: 中国·国际",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jVTFMcGFsb2dLcmlHUlNaUl9rRnZqM0R5WVJmVldEbDBTM01hdkUxVFl3MldVelNnb0pvMVUxSWhsRUJQQzhqbEgzOVhwc0FNbzZuQ3RlbmlHZEtHSTU2cWZiUVY?oc=5",
+      "source": "韩民族日报",
+      "source_score": 40,
+      "published_at": "2026-11-19T09:21:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "法国军事专家：俄乌战争陷入“斯大林格勒式”惨烈消耗战，难以通过谈判结束: 中国·国际    韩民族日报",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "韩民族日报"
+      ],
+      "all_titles": {
+        "zh": "法国军事专家：俄乌战争陷入“斯大林格勒式”惨烈消耗战，难以通过谈判结束: 中国·国际"
+      }
+    },
+    {
+      "title_original": "深圳APEC｜习近平称要延续中美关系目前稳定向好势头",
+      "title_zh": "深圳APEC｜习近平称要延续中美关系目前稳定向好势头",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbmRiRmZyTGlINzM0QWI3QjlLbWFrNUdyWnF1Wm9JVDJXend6bmNtdUoxX3o1WW04TWprYWxYWWlQYll4UzRGcUVjUm92M3dMUmdKNUh3MXVqeUFjTmhZVGREV0hYekZRRm5JVG1ZOXRLbjlZLU84MG9XYWJSaFA1a25Za1lrQUEtcEtv?oc=5",
+      "source": "香港電台",
+      "source_score": 40,
+      "published_at": "2026-11-19T08:23:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "深圳APEC｜习近平称要延续中美关系目前稳定向好势头    香港電台",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "香港電台"
+      ],
+      "all_titles": {
+        "zh": "深圳APEC｜习近平称要延续中美关系目前稳定向好势头"
+      }
+    },
+    {
+      "title_original": "主力艦を失ったウクライナ海軍“待望の戦闘艦”就役間近だが引き渡しが困難な理由とは（1/2 ページ）",
+      "title_zh": "主力艦を失ったウクライナ海軍“待望の戦闘艦”就役間近だが引き渡しが困難な理由とは（1/2 ページ）",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ob2RsMGJUb1QwRzJHVDNuUTVQQVBCdElDT3RkNUxPRkpTTlA1VE9LVXJtcGFTU1ZBVEtvRkNQXzcyTTBwYzcwT3hR?oc=5",
+      "source": "乗りものニュース",
+      "source_score": 40,
+      "published_at": "2026-11-19T08:12:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "主力艦を失ったウクライナ海軍“待望の戦闘艦”就役間近だが引き渡しが困難な理由とは（1/2 ページ）    乗りものニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "乗りものニュース"
+      ],
+      "all_titles": {
+        "ja": "主力艦を失ったウクライナ海軍“待望の戦闘艦”就役間近だが引き渡しが困難な理由とは（1/2 ページ）"
+      }
+    },
+    {
+      "title_original": "Putin exhibe dos bombarderos nucleares en el espacio aéreo de Taiwán",
+      "title_zh": "Putin exhibe dos bombarderos nucleares en el espacio aéreo de Taiwán",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTEdIa0lQZU5NV1RtZUV3Q3c2QzIwS29iRVotRHgyRmY2V1hGcDl4WWFBSmJ1SjI3aTlUakNwSk1aclVlUlJQN2VubGhCMW1fc2ZmRVhqOExKUzdUcGFjeEpORUVRS0dqZ09oQjllam1VNXo5SVNxM0U3UzAwcXFqZUlVdlVZNldwOURwamxKRFh4TFUwWUpfY2FIdHFqOUNzVV93STNFdjdiaFBDd3hia0pLVDJzTUxQUVBROEZR?oc=5",
+      "source": "El Imparcial - Diario liberal e independiente",
+      "source_score": 40,
+      "published_at": "2026-11-19T08:05:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Putin exhibe dos bombarderos nucleares en el espacio aéreo de Taiwán    El Imparcial - Diario liberal e independiente",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "El Imparcial - Diario liberal e independiente"
+      ],
+      "all_titles": {
+        "es": "Putin exhibe dos bombarderos nucleares en el espacio aéreo de Taiwán"
+      }
+    }
+  ]
+}
