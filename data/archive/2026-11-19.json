@@ -1,8 +1,633 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-18T19:24:44.180562+00:00",
-  "count": 35,
+  "generated_at": "2026-11-19T04:08:54.083757+00:00",
+  "count": 62,
   "articles": [
+    {
+      "title_original": "Las refinerías de Taiwán y Japón compran crudo estadounidense para entrega en febrero, según fuentes del mercado",
+      "title_zh": "Las refinerías de Taiwán y Japón compran crudo estadounidense para entrega en febrero, según fuentes del mercado",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbm4yTF9DX0ptYnFQVnlTMlV2ZG1laWkzOXZ6MHc2QWE0SmQySU9TbTd1dm1fbW5oZWhURm85T0RUbFhlZ05BVWItSk9xOUFvSDl4SFpKQmtFM2lPUGcxY2ktVjA4ZWRLeWRSSHQ5eTFBN1hSS1JTLTkya3pxZm1QclRoMTBxR2ZFdlMtZTZjOVBUT3N5RjlWcTVJWWNFdG5nYmF6RXpTdGFrWVBJZnU2cTFZc2FUZ1JpVmRhRzZiLThwSkswWDBJbnNlLXRQaGQxNjY5dHpUckw2Z0pJTTVvalRPdkpndm1qMXZF?oc=5",
+      "source": "MarketScreener España",
+      "source_score": 40,
+      "published_at": "2026-11-19T04:02:26+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Las refinerías de Taiwán y Japón compran crudo estadounidense para entrega en febrero, según fuentes del mercado    MarketScreener España",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "MarketScreener España"
+      ],
+      "all_titles": {
+        "es": "Las refinerías de Taiwán y Japón compran crudo estadounidense para entrega en febrero, según fuentes del mercado"
+      }
+    },
+    {
+      "title_original": "【解説】 プーチン氏にとって米中ロ首脳会談は快挙＝BBCロシア編集長",
+      "title_zh": "【解説】 プーチン氏にとって米中ロ首脳会談は快挙＝BBCロシア編集長",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FR05DWnUzWlRNNXBUTTl5N1BvbG9tNVktMmNRZkZFaU1FTTF5Y2JGVTU2NDV6NHE4VGhLb1FIZUo2enk4UWN5M3oxMklndmFfNXAzRjB6dUVYMVFWOGU0ddIBZkFVX3lxTE5OVFlINHlmNmhGUUQxRzNaRHl5d25POXVsckFBdndNaU55VUZrY2dZZWlTS3hNTmtrRlRPZVNsa3RJVXRhTjVLSWMyd1VIY1gzeV83TzFHNTVrbUZneVFZQTJoYW1UUQ?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-19T03:31:47+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "【解説】 プーチン氏にとって米中ロ首脳会談は快挙＝BBCロシア編集長    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "【解説】 プーチン氏にとって米中ロ首脳会談は快挙＝BBCロシア編集長"
+      }
+    },
+    {
+      "title_original": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "title_zh": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T02:59:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Elon Musk says record spending on US midterms was 'pretty foolish'\n- Published\nElon Musk said on Wednesday that he felt \"pretty foolish\" about the record sum he spent on the US midterm elections, following sweeping Republican defeats.",
+        "The Tesla and SpaceX CEO was the election's top individual donor, giving $446m (£339m) to support President Donald Trump's party, particularly in Texas where many of Musk's firms are based.",
+        "Musk, who had backed Trump's second White House bid, also said he was \"not Maga\" - the Make America Great Again movement associated with the president."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Elon Musk says record spending on US midterms was 'pretty foolish'"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike",
+      "title_zh": "Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOENUX1hEa09FRkEySGhZbmYtbDJrNE8zQmg5WWswbGpBTGhPZEF5YWxtU1laU1F0SFU4Y2Izd1NYcDhlaWF2cGNwMWZuYmh5bUVRdlFnNWI3alp0Y0tpYnJ4am5TcW1RVE9oNm82UXJhc3h6NE5ZcXd2RHhvV21wSGJNLW5rSlVuV3JWR2JsdG12Y00wak9NUG9ST1UyMHl6Z3RDZ3dsSEZHRDh6Q0MteWkxT0dWUGU1ZHRHYjNXM3dBT2Y3UlhUNzMzd0FmSFpDQkFZQg?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-19T02:59:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike"
+      }
+    },
+    {
+      "title_original": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "title_zh": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T02:20:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut\n- Published\nAnthropic has seen its value jump to as much as $1.5tn (£1.14tn) as its shares are set to start trading on the stock market on Thursday.",
+        "The artificial intelligence (AI) company behind the popular chatbot Claude said its shares will be priced at $83 each when it lists on the Nasdaq, a tech-focused stock exchange based in New York.",
+        "That will make it one of the most valuable companies in the world."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut"
+      }
+    },
+    {
+      "title_original": "NATO Military Committee visits MARCOM and United Kingdom",
+      "title_zh": "NATO Military Committee visits MARCOM and United Kingdom",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1Y1cXJiSkFTMG43OE9IaHdDZ09VT3NrUV9XM3plR3ZlZHVSUXZBQWw5d3Vsa3FDalJHR1BzMi1LQTVFN1RMenF5OE5JZS1KX3gyb2p2VVpLSDZxTENxbFRaMkk1c2dLUmFfWGZ2QjdnbVA0UGFCa3dldlB2Q0l4UldCOTZjMG8zZHdUMzBibHRCWGRac2lBLTZ5blptOEhrUWtCSXpwckJfSUZSS3o5SU1ITDNVR2dYNE51NEh3?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-19T01:51:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO Military Committee visits MARCOM and United Kingdom    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO Military Committee visits MARCOM and United Kingdom"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg: Nach erneutem Angriff steht Zugverkehr auf Krimbrücke still",
+      "title_zh": "Ukraine-Krieg: Nach erneutem Angriff steht Zugverkehr auf Krimbrücke still",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOM3haNmFJQkV4Y09ySDJzOEl2QnRVYURZcDZOeWIwVU94M0owWUVzd3NWVURvTThtNHVyNi1Ydm9zdVp6ZjF3dzZfdmd2TGtTRE1RNHkwaVVhWWVSYkVoQTUyczNYSWNLcVVYbVdlXzZfd3dfcFJ2a0VBOFFCZ2hnbHpFYlUwUW1iTjBiSlZULVRQU25lTU1jcElka2NlaVVYcmVORlNPU25HTzFlbVRLdU9zV0RPRDFVcGFxTEo4elJCel9MZEczSWx2d3loNlU1Nk11RHdDQU94aUNW?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-11-19T01:50:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg: Nach erneutem Angriff steht Zugverkehr auf Krimbrücke still    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg: Nach erneutem Angriff steht Zugverkehr auf Krimbrücke still"
+      }
+    },
+    {
+      "title_original": "米中ロ3首脳、顔を合わせ握手　中国での歴史的会談を前に",
+      "title_zh": "米中ロ3首脳、顔を合わせ握手　中国での歴史的会談を前に",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByT1Y5dmpUYlIwLWRHWHF2bHpjVlVTcmJSeTgzOWV6d0ZYNnFtamhBc0xLcmR1a3UySEV1VTR2enNDaUFLZGphcVlZZzVhUUF2VG1MdXprbXN1a2stMlZUN9IBZkFVX3lxTFAtMnJUdEpmS2ZPM041ai1DUUlrUEdCekM0NUJCZThLemg1SW1SbVlMTmktOExybG4ta2pSSlRZUUZ2LUgtQWphb2xpamM4M2diajZxUEhTU1RBVjgteldfeW9qaTlTdw?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-19T01:46:47+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "米中ロ3首脳、顔を合わせ握手 中国での歴史的会談を前に    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "米中ロ3首脳、顔を合わせ握手　中国での歴史的会談を前に"
+      }
+    },
+    {
+      "title_original": "Crimean Bridge attacked again, Russian official says",
+      "title_zh": "Crimean Bridge attacked again, Russian official says",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T01:05:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Crimean Bridge attacked again, Russian official says\n- Published\nThe Crimean Bridge has been attacked by Ukraine for the third time this week, a Russian official has said.",
+        "The Moscow-installed head of Crimea, Sergei Aksyonov, confirmed that traffic was temporarily suspended following another strike on the bridge connecting Russia to occupied Crimea.",
+        "The critical bridge had already been hit twice earlier in the week resulting in severe damage and part of the bridge collapsing into the water."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Crimean Bridge attacked again, Russian official says"
+      }
+    },
+    {
+      "title_original": "Oklahoma GOP governor warns of growing socialist tendencies on the right",
+      "title_zh": "Oklahoma GOP governor warns of growing socialist tendencies on the right",
+      "url": "https://www.politico.com/news/2026/11/18/oklahoma-gop-governor-warns-of-growing-socialist-tendencies-on-the-right-01174411",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-18T20:00:53-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Oklahoma Gov.",
+        "Kevin Stitt said populist economics are \"not American\" and warned against Republicans who want to ban data centers.",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Oklahoma GOP governor warns of growing socialist tendencies on the right"
+      }
+    },
+    {
+      "title_original": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "title_zh": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T00:49:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Van Gogh painting sells for record $190.4m after row over its Nazi history\n- Published\nAuction house Sotheby's has sold a painting by Vincent van Gogh for a record $190.4m (£144.8m).",
+        "The sale of Châtaigniers en fleurs (\"Chestnut Trees in Blossom\") shatters the renowned artist's previous auction record of $117.2 million set in 2022.",
+        "The historic sale in New York on Wednesday comes after an eleventh-hour agreement was reached to resolve a dispute regarding claims the art piece was previously sold under duress during the rise of the Nazis."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Van Gogh painting sells for record $190.4m after row over its Nazi history"
+      }
+    },
+    {
+      "title_original": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "title_zh": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-18T23:28:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian arrested for spying on US defence company Palantir over Ukraine support\n- Published\nA Russian man has been arrested in California's Silicon Valley for allegedly attempting to spy on employees of a technology and defence firm that supports the Ukrainian military.",
+        "Igor D'iu is accused of acting as an agent of a foreign government to conduct a covert operation in Palo Alto, near San Francisco.",
+        "The BBC understands that the company targeted was Palantir Technologies."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russian arrested for spying on US defence company Palantir over Ukraine support"
+      }
+    },
+    {
+      "title_original": "ロシア製油所の処理量、10月下旬以降に半減 ウクライナのドローン攻撃で",
+      "title_zh": "ロシア製油所の処理量、10月下旬以降に半減 ウクライナのドローン攻撃で",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa1oxV2xaVFcwVXFVdWZvOVlNUks1dVV3WXJ0bWU0YzNONjZOakZjRl8zSkZRXzRwZU9lcGh3ek5YUFdqZk1qZ19aRzhwLWxEc2hacDRWVmZLZV9RVldObEhzMnEyQ1o4LXpkWE81bnhPRkxHWnBkN1dkRG9wMWxaYm1UMEV3UQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-18T23:26:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア製油所の処理量、10月下旬以降に半減 ウクライナのドローン攻撃で    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア製油所の処理量、10月下旬以降に半減 ウクライナのドローン攻撃で"
+      }
+    },
+    {
+      "title_original": "トランプ氏、プーチン氏と19日に個別会談へ 米特使はドイツでウクライナ協議",
+      "title_zh": "トランプ氏、プーチン氏と19日に個別会談へ 米特使はドイツでウクライナ協議",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Nem1IaWF3QnJ0ZUt1SXYyb29wQ1pEMkpHemx6b3dxVEV1LW80NkRIaVk2QWtVWjhXLTNFMk9vRVVIclE5V3NjN01QYWNFMDhJ?oc=5",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-11-18T23:19:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "トランプ氏、プーチン氏と19日に個別会談へ 米特使はドイツでウクライナ協議    CNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、プーチン氏と19日に個別会談へ 米特使はドイツでウクライナ協議"
+      }
+    },
+    {
+      "title_original": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "title_zh": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-18T23:04:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Myanmar faces historic genocide verdict at UN court over Rohingya massacres\n- Published\nWhen the judges of the International Court of Justice read out their verdict in the seven-year-old genocide case filed by The Gambia against Myanmar on Thursday, they could make history.",
+        "In the years since the Genocide Convention was signed in 1948, after the Nazi Holocaust, dozens of individuals have been successfully prosecuted for the crime of genocide, in conflicts such as those in Rwanda and the former Yugoslavia.",
+        "But no state has ever been found guilty by an international court of committing genocide."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres"
+      }
+    },
+    {
+      "title_original": "ウクライナ、米中首脳にロシアへの「圧力」要請 3者会談を前に",
+      "title_zh": "ウクライナ、米中首脳にロシアへの「圧力」要請 3者会談を前に",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmVzZPd3hjNmpRZFkxai05Sm85QVQ5ajg2QUtnbmQ1dWxNcjdKbmJTdGJxckpkNG9PQ2JfemVETUZkSGFnbWsxemhOM1dBWVZJcXfSAVRBVV95cUxQa1RHeDAyU2NiZzdnTFNaQ2lwMmxfM0JRNkRFeVFIZkx3SHlFczVkZGlJTmU5MHRZM0k0aGs5TU5tckc1YzcwU0had2M1NjNGZEYtQlY?oc=5",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-11-18T22:12:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ、米中首脳にロシアへの「圧力」要請 3者会談を前に    AFPBB News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、米中首脳にロシアへの「圧力」要請 3者会談を前に"
+      }
+    },
+    {
+      "title_original": "Would Ukraine trade land for NATO membership or protection?",
+      "title_zh": "Would Ukraine trade land for NATO membership or protection?",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNblRSejV5eEZvNHpub09xb182RHp0STNYckt6YmkzcWpEcnc2SGRPVFc5LWVIcVdIZkZBRS0zYzVXR2ZWc21hX19mLXpHUGVra2F3TkZXM29KSWRIckM4ckNDaVpyUU1pOG1Dc3RBZk00UjU3LVBlMFlpazczSUtEU1B0RTRyM1JyUUxNWVVDcHc2NzMtdHfSAZYBQVVfeXFMT2hsekNwaDUta05jZWt5aS04WjJiaklpaDIyZFhRRDdNb1oxZ2Z2eWZoUnQ1OWRGVmE4dU51bEQ0QjZ5LXJpLXU5U1VYOHVQcUFOMUl2YnFNMFJpSGxSVHlUWHlPcy02blNtc0hSdXlvU0J5Qm0wT1pMS3hNalNEajZReVl3WlViN3RJM0JCMi1fbEg5V1VR?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-18T21:32:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Would Ukraine trade land for NATO membership or protection?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "en": "Would Ukraine trade land for NATO membership or protection?"
+      }
+    },
+    {
+      "title_original": "Zelenski revela que EE.UU. preguntó si Ucrania cedería parte de Donetsk a cambio de entrar en la OTAN",
+      "title_zh": "Zelenski revela que EE.UU. preguntó si Ucrania cedería parte de Donetsk a cambio de entrar en la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzFMZDNBOFRhM2YxZE0zSXpRY2pyOWRVQ0wyRGhRTVNpbkhyeV9ka1U2WnVGcVZneDN4cjJsQ3NhSGJTRDMxRERXakJrM2tNX3VCbm1xdmNZR2I1MS1zOFphdDhtc2RTaGpzUUR3WFpaQXUxODJzTVNyamRjdUEzeU5iOXFTVF9EVVdBWDl3TmZvVHMyZzRoeEo5ZzF5T0F1UDJLUkJHb9IBpwFBVV95cUxQUkloZGgwenFqZENTRkVQX0pwMUVqVEFhUGV6U2xLbk5pZzhGZzB6RFVxem1rOXV6bDFBRWg2MU5xQXlfRlFSUFY3dEZfaEh0a0xUQzRCc2RBTHdVYzZQOEk0TUdndVM2bkZzOGl4YnJ5WTd0WFlYS1FwSnMzQlVGUnpyd3ZzdzI4S01jM1ZKVmNjeVo3SEhfVWY3RVlZQkpyOW1QOE5RMA?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-18T21:31:54+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Zelenski revela que EE.UU.",
+        "preguntó si Ucrania cedería parte de Donetsk a cambio de entrar en la OTAN    DW.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Zelenski revela que EE.UU. preguntó si Ucrania cedería parte de Donetsk a cambio de entrar en la OTAN"
+      }
+    },
+    {
+      "title_original": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "title_zh": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-18T21:13:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Democrats nominate Hakeem Jeffries to be US Speaker of the House\n- Published\nDemocrats in the US House of Representatives officially nominated Hakeem Jeffries to be Speaker, setting him on the path to become the first black lawmaker to lead the chamber.",
+        "The House will elect its new Speaker on 3 January, when the next term begins and Democrats will be in the majority.",
+        "His election to the powerful position - the Speaker is in line to succeed the president after the vice-president - is widely expected."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Democrats nominate Hakeem Jeffries to be US Speaker of the House"
+      }
+    },
+    {
+      "title_original": "Plus de 50 représentants de l’OTAN visitent le monastère de Visoki Dečani",
+      "title_zh": "Plus de 50 représentants de l’OTAN visitent le monastère de Visoki Dečani",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV2VtQ19IdVRoWFFuOFFvM2RIOVBzM1Q0VEdsQVpxellpMmdqT2otb0hpWkpqSWxhX0RGN21YWV9xcVdUb3Vrb0labDg2bnZBNkVzeHJ3ZVc2bXd1WUxPcTNOZUc5RlVGMXBITnJjQXZ5bEJqTUxtUkFYRzlVRkdsZS1XM1BhQWRxSFVTMnRZX1JJOHpIeUxvamxxUnE?oc=5",
+      "source": "Orthodoxie.com",
+      "source_score": 55,
+      "published_at": "2026-11-18T20:31:55+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Plus de 50 représentants de l’OTAN visitent le monastère de Visoki Dečani    Orthodoxie.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Orthodoxie.com"
+      ],
+      "all_titles": {
+        "fr": "Plus de 50 représentants de l’OTAN visitent le monastère de Visoki Dečani"
+      }
+    },
+    {
+      "title_original": "ARTE Journal - 18/11/2026 - Regain de tensions au Moyen-Orient - Regarder l’émission complète",
+      "title_zh": "ARTE Journal - 18/11/2026 - Regain de tensions au Moyen-Orient - Regarder l’émission complète",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5UFNkeG5Fb2VaeFpZSEQwczVMRkREWGRUMHVieHJrWWVHNWNUT1BZVWVfaW9LMGFmTmhlTERmdEhhanNsdlV5TmZtdmVfbWdWLUZDU080clAwRlNmck94UUx2eE1LcExoUkVmTUNpbmh6dUpPUXc?oc=5",
+      "source": "Arte.tv",
+      "source_score": 55,
+      "published_at": "2026-11-18T20:31:42+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ARTE Journal - 18/11/2026 - Regain de tensions au Moyen-Orient - Regarder l’émission complète    Arte.tv",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Arte.tv"
+      ],
+      "all_titles": {
+        "fr": "ARTE Journal - 18/11/2026 - Regain de tensions au Moyen-Orient - Regarder l’émission complète"
+      }
+    },
+    {
+      "title_original": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+      "title_zh": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+      "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-18T20:24:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”.",
+        "Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement between Washington and Venezuela’s anti-imperialist “Chavista” regime, which has ruled since 1999.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military"
+      }
+    },
+    {
+      "title_original": "Utah GOP governor on Trump and 2028: ‘It’s time for the next thing’",
+      "title_zh": "Utah GOP governor on Trump and 2028: ‘It’s time for the next thing’",
+      "url": "https://www.politico.com/news/2026/11/18/spencer-cox-trump-time-for-the-next-thing-01173285",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-18T14:25:25-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Spencer Cox said he’s 'a fan of governors' as he eyes the party’s options for a 2028 nominee.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Utah GOP governor on Trump and 2028: ‘It’s time for the next thing’"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany",
+      "title_zh": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTU1EdklyeEdxbTVJV280d3ZRYWVNamFOSjJiY0Z2SHVaVVlKZW9sa3FMQUVHMU5VSWgyWVZhQmVaUmZmdnNvbUxxUzU0aTVRMFkydGs5V1FLME5YeFNVcXAzVEFjcmVxajJmLW1xZGhGbngzcV8xWnJvWnlCdEFydVE0akFHbk9qd0tjTUNPckdhem5DMi1fellPV1Q3ejY3NWpHLU92LVg?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-18T19:15:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: US criticism of Kyiv’s deep strikes in Russia is ‘quite stupid’, says Germany"
+      }
+    },
+    {
+      "title_original": "«أدنوك»: فقدان أحد أفراد طاقم سفينة تعرضت لهجوم في مضيق هرمز",
+      "title_zh": "«أدنوك»: فقدان أحد أفراد طاقم سفينة تعرضت لهجوم في مضيق هرمز",
+      "url": "https://news.google.com/rss/articles/CBMi2gRBVV95cUxObnJxVlhaamZkWU9Halo3Qi0tTjBiejJTdWpqeHVUNWFWaG5WQVRRTlBtZUhsX05LYmdWQ3oxbEozMzB4NWF6MXRPTEhmWEJYOXJWdzI2Tjl6RUw5WDdPZng4MjVIZ3pvSWRpZ0xIX3NzUFRlNXc1Qkx4Q2tDdXhwc3lXSkk1Q0U2bklsZDltY2luZ3RndnhHSmF0aTZKWHFHQUY2UEFLN1kzZEE5UW5YV04yTWlNb3plaDBIR2ZXZlVsYXU0dURsTzNvLW5DSWlTclFRbmxhU1VONGxvTG5nX21XOEI3cmctVHFnQ3ZReVkybTZvMnVQdTFIZ0xzVHRTWG1BQVU3MUtCd0k2d0lTUEFEOGlPaTM2aktLUmx4aEEyNFRxei1TcC1kUlJCRGRxd0NTZmF2NUpicGVRcklhRk1iLWJ3eFRGV0s1NURRbVdPWFAxQXVoWW1kUFh3S2pHbkZ3ZHhkdDN3aFZRUUM3ZkxRdERDVERNVkpSTU1qeER4N3hGZHhMdlpYdGxtOUltYlRsYTRxWXNTaF9rMzN4Y0x6X2JreFlxWDh4TnhaV3BnTXlLR0dfYU5NN2FrOFBGNndickxzWWRZYXZoUHhBN0N2RmU2TGx5NE9fLWloWVVYUWV2Q0xKVXNUMW9ldEVSSzQtZHNHOThVeXY1cWg5ellHV2VfOHItUzVZQk9QN3JXNGhha0xmSGt4Zk9jTk5pZm1sdDBZbTlyM1ZBOUhLdUFZUkx5TmhlYzliSDJ3VE5ybEhWVmE2SWphOE0xeVhvMHMzRE1wYlo4Zw?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-18T18:57:01+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "«أدنوك»: فقدان أحد أفراد طاقم سفينة تعرضت لهجوم في مضيق هرمز    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«أدنوك»: فقدان أحد أفراد طاقم سفينة تعرضت لهجوم في مضيق هرمز"
+      }
+    },
     {
       "title_original": "This new early-state governor has advice for 2028 Democratic hopefuls",
       "title_zh": "This new early-state governor has advice for 2028 Democratic hopefuls",
@@ -51,6 +676,31 @@
       ],
       "all_titles": {
         "en": "Would Ukraine trade land for NATO membership or protection?"
+      }
+    },
+    {
+      "title_original": "Bo French loses Texas country club membership",
+      "title_zh": "Bo French loses Texas country club membership",
+      "url": "https://www.politico.com/news/2026/11/18/bo-french-texas-country-club-membership-01173063",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-18T13:37:15-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The anti-immigrant Texas Republican had his membership at a historic Fort Worth country club terminated days after a bruising electoral defeat.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Bo French loses Texas country club membership"
       }
     },
     {
@@ -126,6 +776,31 @@
       ],
       "all_titles": {
         "en": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’"
+      }
+    },
+    {
+      "title_original": "Trump and Xi could pressure Putin into ending Ukraine war if they want to, Zelenskyy says ahead of China summit",
+      "title_zh": "Trump and Xi could pressure Putin into ending Ukraine war if they want to, Zelenskyy says ahead of China summit",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXJnU09ZWHl2TjE0d2U4Nm1PUGZqTk9TcThHRm5KVmFhaVVTQkhwdU9NTTdYQTFGRS13c2dqTHZFU09ZTldSYnR4UUdPdlhRMDgzYmJodWZKT3VXUXNmZXFJYjdac1lHRnpRWEVDNDZPZVVvT0dVOHdYRk5oeWtkc0pMOUJsOFZUZzlnUnAyWkZTbDJOZzlfN2hnTC1fa21rNlVTTE5abzBvQQ?oc=5",
+      "source": "NBC News",
+      "source_score": 75,
+      "published_at": "2026-11-18T17:25:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump and Xi could pressure Putin into ending Ukraine war if they want to, Zelenskyy says ahead of China summit    NBC News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "NBC News"
+      ],
+      "all_titles": {
+        "en": "Trump and Xi could pressure Putin into ending Ukraine war if they want to, Zelenskyy says ahead of China summit"
       }
     },
     {
