@@ -1,8 +1,608 @@
 {
   "date": "2026-11-20",
-  "generated_at": "2026-11-19T19:29:34.722188+00:00",
-  "count": 35,
+  "generated_at": "2026-11-20T03:58:26.768357+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title_original": "首相「ウクライナ支援、揺るぎなく」 有志国会合にメッセージ",
+      "title_zh": "首相「ウクライナ支援、揺るぎなく」 有志国会合にメッセージ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wSzVZY0Y0YzNwN3B0TU9XN3ZVZDlCelpJWlVIRFRDUEd2cEV1enBoOGlSbFE4QnhwaTNETUdqSEhqQVVOQ1Bnd28zdktVSDhCTTBQNGJuN2Z4NlRhVjFmYl82c2d6ZFVOcFJ2OA?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-20T03:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "首相「ウクライナ支援、揺るぎなく」 有志国会合にメッセージ    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "首相「ウクライナ支援、揺るぎなく」 有志国会合にメッセージ"
+      }
+    },
+    {
+      "title_original": "美国在近期会谈中提出让乌克兰加入北约的设想",
+      "title_zh": "美国在近期会谈中提出让乌克兰加入北约的设想",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZEJzckp2dVUxMmQzWllGbXlfVTFYZE00QnEtaGppNWVrUzZPYWJ3dzdrQVY5bF82TTUtYVllS0YxRXpxV0JaMmN6OW1JSXhfZVZLc1BwNGRxNElkN1hKU1A2VThJVnRUbkdFMzVybnVnRmxUR1BaM2g0djhuSUV5Q2FIMEdYbEV2Qmg2TzYwQ2lKNmlMSGtwQmJKZEwzQ2hF?oc=5",
+      "source": "华尔街日报中文网",
+      "source_score": 95,
+      "published_at": "2026-11-20T03:21:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "美国在近期会谈中提出让乌克兰加入北约的设想    华尔街日报中文网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "华尔街日报中文网"
+      ],
+      "all_titles": {
+        "zh": "美国在近期会谈中提出让乌克兰加入北约的设想"
+      }
+    },
+    {
+      "title_original": "米検察、ロシア人をスパイ罪で起訴　ウクライナ支援する米企業を狙ったか",
+      "title_zh": "米検察、ロシア人をスパイ罪で起訴　ウクライナ支援する米企業を狙ったか",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpcm9vVFpRM21LREhpcHZ0R3JSR09za1B0a204aDNmdHB6eldrcUdpTGVpRFRHVF9UTmF0bmg1ZWRITl9kMnVUaTg0S3lQeUwyWnhHY3dSMlRtdjd4Unh6Z9IBZkFVX3lxTFBERl9DWkY1TXNJVGVNemJWNzhPX253M0N2MS0yLXUzeTk2aklnOWcySTk2ejlUVVNyQ0RPSUU3TDk2UkE3QkJkSUtYUjU3ZHZydDZzNmI2dWFYU252M1lxODFXN3BIUQ?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-20T02:34:50+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米検察、ロシア人をスパイ罪で起訴 ウクライナ支援する米企業を狙ったか    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "米検察、ロシア人をスパイ罪で起訴　ウクライナ支援する米企業を狙ったか"
+      }
+    },
+    {
+      "title_original": "中東衝突によるエネルギー混乱、解決の道筋は 主要企業・団体に聞く",
+      "title_zh": "中東衝突によるエネルギー混乱、解決の道筋は 主要企業・団体に聞く",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhT0YzSlp5VkMwTVFJcFhwTWdldmJvQUNzekhRNGRFdU51aDh4Qnl6SWdlbE1QSVFraVlSTUpYSVRUWWtlX1BYYjlLNVdRSEVSMUc5azBac3M0X3VWcEF0dXE1QXdEb09SNTNRMQ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-20T02:00:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "中東衝突によるエネルギー混乱、解決の道筋は 主要企業・団体に聞く    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "中東衝突によるエネルギー混乱、解決の道筋は 主要企業・団体に聞く"
+      }
+    },
+    {
+      "title_original": "Where U.S.-China relations stand after APEC summit",
+      "title_zh": "Where U.S.-China relations stand after APEC summit",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNelYtMklUV205R2Vtbnl0UTJQMWtIcUtKeWRBNFRPOXZndFZSLXowOUctTE9QYXQzS2lLak1uTDYwSVNLcHQ0eGNyUFVERWIyRW5BOHAzS1cyQk95T1ByRWRkd183SGVBaTRCamN4djRfODJiZHJTenk4SFE3NXBYakxVRnRHa0YwZVNxajRpWFVxOUVRc1RuVGtHaGs5QQ?oc=5",
+      "source": "CNBC",
+      "source_score": 75,
+      "published_at": "2026-11-20T01:54:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Where U.S.-China relations stand after APEC summit    CNBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "CNBC"
+      ],
+      "all_titles": {
+        "en": "Where U.S.-China relations stand after APEC summit"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner",
+      "title_zh": "Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0NBME5lcEdSYzBycGFKdDhzaHJ2MU5iU1RsYnlxaFRYaHc4SU1YU0s3bTZyd3EwNHItMTBSY2FvOHBjaW9pcjRxNkRBVWRISk1YYUNHcHAwZXJ4MHBxZU5TUzJoTFhMbTZUSzJSckpFS3NqcGhBXzNpb21scGc4Y3hQSjFsTFpkWVllREUwSkJ2TGhmck91dl92aVRtWi1lSjBNUE9wVUQzZHIyREdIZkFSOGVra01RWUVPaGk1SFdRZk1FZkRwaU5tYmJNcE91el81QXduSjg?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-20T01:38:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner"
+      }
+    },
+    {
+      "title_original": "米中ロ3首脳が「平和宣言」を発表、歴史的な会談後",
+      "title_zh": "米中ロ3首脳が「平和宣言」を発表、歴史的な会談後",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BTHdGOGk0NTNsUW1IWjRNOHdoMkFHTmhRYm0wdktNU1VIMGZUUDlsS3B0aWhBekFlRnY1dEFUakl5VjBTUzlXV3VjNUd6NnkzWnJJdm5IMFBHSUlSTU0xdNIBZkFVX3lxTE5KbDlPajhXdmVxNXYta3JDTWNOSmZBRG9VQUU5RXU1Mk1aTExMWlV6NW5rNlNVT00tb1RITzZSUnlMeDZwRDNHMHlOMjdNQVJULUE1TlNhd0pWbUh4bnBzSkhqZDBfdw?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-20T01:22:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "米中ロ3首脳が「平和宣言」を発表、歴史的な会談後    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "米中ロ3首脳が「平和宣言」を発表、歴史的な会談後"
+      }
+    },
+    {
+      "title_original": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "title_zh": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-20T00:50:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Europe ready for talks with Russia on ending war in Ukraine, leaders say\n- Published\nEuropean leaders have said they are ready for negotiations with Russia on ending the war in Ukraine, in a strong show of support for Kyiv.",
+        "\"Europe has a clear and consistent and united negotiating position,\" UK Prime Minister Andy Burnham said, while German Chancellor Friedrich Merz stressed that Moscow's \"maximalist demands are not realistic\".",
+        "They were speaking at Berlin's summit of Ukraine's allies known as the Coalition of the Willing."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Europe ready for talks with Russia on ending war in Ukraine, leaders say"
+      }
+    },
+    {
+      "title_original": "سحب هواتف الصحافيين على متن طائرة ترمب في إجراء أمني غير معتاد",
+      "title_zh": "سحب هواتف الصحافيين على متن طائرة ترمب في إجراء أمني غير معتاد",
+      "url": "https://news.google.com/rss/articles/CBMinwVBVV95cUxPRFFJenN5NFQzcHJyVXZFMi1wcW5VdlNYT2hVY0hoczU2TWs1Y2hscm1qdE5aaDZuYWw1cTRxZHBxTWRTMW0tM0JmeXhZNHBHcjhJcE5WVFRfNWR1OTBIdW9DdlUwSmU3ampPLVlNRG1icm56cDF3UjVlVkZVd3FlU0sxVnh0SFMzUzZyWnFCOE5hSF9jUEZadU00VWFUTVdIVjRlR2pqSFVGWUdrWnJVTVhTQXNmUXdTX2Fwa3NySVZ2MEpQMFZaSEhIazJtcXpfV0RWcTVIVjJUelhLeTd1X3lkSjZVNVRFZ1d3ckltdkhBZHB0NmhwbEVzUHVyWTU5Z1JLd1ZsU1BOQnBQcmVQZ0ZIQTZNNjVhYnZ2aXB4dDJLMGptemkzaXA3TVJzQ2k1S1lVNWR6VHpabEpQUHVPQkREQmNGLXUwSzYyb0xCX0FNZ1IzZzBPOXVGU3RKZlhoa0RFakJHeDVkXzJyb1lXTUxXaURmaGhqWWtoUkJMTEJMX21DUGduTFE4RUdNdGpCcUs5cnZDR2VYVnBRa05oNHd4UlBLb1NpYkRCTzJfb0hESVYzVy01WkRaejJFUUlGYmVQbElYUWFTaXFyTzYxM1JyYzZnZ0p1MlNoS2xSdGphSUFHNEJOOW9WWmlIZXZUZTBzV196UE9NZWM4U2pnZC1KV05KNzFlNDNwb0xsbjBUazYyNUJtU0NqZW1RcG1sR180eHNaYVRFeXp4V3V3a2s3VzJQYlh2TkpLajZrZmU4X3RLbWxiQjhqTjJGTDJzVXN6T0d2Vk9CYlJja05zNThNS0xoWF8tcWJRXzctdkhiQ2hjVDVzcTE4NHMxaTlHdkh0UHg5RWwyYTdOT0dtVHRUdjVkN052aVNkREtTbw?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-20T00:36:32+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "سحب هواتف الصحافيين على متن طائرة ترمب في إجراء أمني غير معتاد    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "سحب هواتف الصحافيين على متن طائرة ترمب في إجراء أمني غير معتاد"
+      }
+    },
+    {
+      "title_original": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "title_zh": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-20T00:13:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC\n- Published\nIn the Yemeni city of Taiz, ringed by jagged mountains and Houthi rebel fighters, Ashwaq has only one way to try to soothe her frightened child - lie.",
+        "\"When my 11-year-old son hears a loud sound, I tell him, 'Don't be afraid, it's just fireworks',\" she says.",
+        "\"I don't want him to panic, but deep down I know he is old enough to understand what is happening around him."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC"
+      }
+    },
+    {
+      "title_original": "欧州、頭越しのウクライナ和平容認せず 「ヤルタ方式」に批判 | ロイター",
+      "title_zh": "欧州、頭越しのウクライナ和平容認せず 「ヤルタ方式」に批判 | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaS1qYXJmNU84MjJ0R0xMd21jV3FUNGx2WWlGaV81Tk91clFpLWJTTVFXZm85RXdMZWpUYnZPU1gtMG9mUTFWa1NPTEJIUW5OSEpjLXl0RHBWSDR1UVctSjk1a1Z2OFltRUN5Q2RNMW15U2dfWkZFVlRhWFBxV3lDcG4tT1R6Zw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-19T23:46:16+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "欧州、頭越しのウクライナ和平容認せず 「ヤルタ方式」に批判 | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "欧州、頭越しのウクライナ和平容認せず 「ヤルタ方式」に批判 | ロイター"
+      }
+    },
+    {
+      "title_original": "プーチン氏、ウクライナのクリミア橋攻撃に報復表明「はるかに痛烈なものになる」",
+      "title_zh": "プーチン氏、ウクライナのクリミア橋攻撃に報復表明「はるかに痛烈なものになる」",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WdlZ1S0JEc1pySHdFbXNoZWMtSjVIcDljdzM0QlNmclYzTjNGclhDWlctQ1JNLThGQXpISjhGcHFCZ2FoY1VBV3FETWVsc012OEHSAVRBVV95cUxNV3g0Yk9pM0g0S0hFbDZqOVlPRG9FZ1FpeUE3SjNiYm16VkE3VlItTDFrcHREb2YzVy0zejdoLW16eTdtZ3hDRGdTVU1HNVhDWkFVSW8?oc=5",
+      "source": "AFPBB News",
+      "source_score": 95,
+      "published_at": "2026-11-19T23:15:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "プーチン氏、ウクライナのクリミア橋攻撃に報復表明「はるかに痛烈なものになる」    AFPBB News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "AFPBB News"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏、ウクライナのクリミア橋攻撃に報復表明「はるかに痛烈なものになる」"
+      }
+    },
+    {
+      "title_original": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "title_zh": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T22:48:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges\n- Published\nA judge in Florida has declared Thomas Markle Sr, the father of Meghan, Duchess of Sussex, to be mentally competent to stand trial for possessing indecent images of children.",
+        "The hearing came after an evaluation by a court-appointed psychiatrist conducted on Prince Harry's 82-year-old father-in-law.",
+        "Markle, who has denied possessing images of child sex abuse, was ordered to stay in jail pending trial earlier this month after allegedly removing a location monitoring device."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges"
+      }
+    },
+    {
+      "title_original": "Beshear defends Texas strategy",
+      "title_zh": "Beshear defends Texas strategy",
+      "url": "https://www.politico.com/news/2026/11/19/beshear-texas-strategy-hinojosa-01176684",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-19T17:34:48-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "The chair of the Democratic Governors Association has taken fire for not spending enough on Gov.-elect Gina Hinojosa’s race in Texas",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Beshear defends Texas strategy"
+      }
+    },
+    {
+      "title_original": "トランプ氏、ウクライナへの安全の保証に前向き＝クシュナー氏",
+      "title_zh": "トランプ氏、ウクライナへの安全の保証に前向き＝クシュナー氏",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWhtSWY1eE1NdW9Oa2tkc0FLRzFINHdXekI4MGhobHZyTVpZc3lYOWhnNlYwcGRwb2hvbEpXQlVLYUNJVEJ2amhEeEpBUDZSU2o4MHhjaUs0ejNVMW9waC1ZTFowMHFGNWl0c2dkNFN4TXFqSHdFaGtteFhUWVlRNVJ4dWFSdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-19T22:33:45+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "トランプ氏、ウクライナへの安全の保証に前向き＝クシュナー氏    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、ウクライナへの安全の保証に前向き＝クシュナー氏"
+      }
+    },
+    {
+      "title_original": "美国特使库什纳：俄罗斯对向乌克兰提供类似北约的安全保障持“可接受”态度",
+      "title_zh": "美国特使库什纳：俄罗斯对向乌克兰提供类似北约的安全保障持“可接受”态度",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSEhKa1luaEY3dERyTlhUOGJZak9rN29YN0ZUbW5LREpneUY0ZW9mSVVtS3NoY0NPaDgyNTBTTVMtNmgwOXdOVW1lZTZxUUw2YU03RGdLSWx5NTZHbDVYaTQxX0VKUmJrTUE5TGFfbFlzNGltRnhDdy1xUDRSOEZ6ZjUyQmw5SHFlazVDY0FrTmNXcHc4bERtZFN2MmNtbDJHUE5qcXFKNzhlS05Dem1fX0ZiRDFsMkFVcjh2cGJIMWY5MmxITG80YtIBywFBVV95cUxPTXpFaW12QWpRY29JTVlmdEpTaGJTRlNsOURCZHVPS1BJajAxdkVSZ1FrUndLNmFTR095U1lYZWp0QzJUZmNJV1BCdWYwMnVtb21QMlBUZVROWlJDR3RVb21oLUpMT2k2TklJQlVTYXdKSjFiQU4tWE5JcHJhR0dpMjVCOU1kdFk1UlhneFVPVVUtQ0pHRE5oVUZkdl9DNUo3X1g0amNEdzJMZ3lZTGpXZTJ4ZHdnZnZYZkpFVjY0VktwTEhDV3RJdy1lSQ?oc=5",
+      "source": "美国之音",
+      "source_score": 40,
+      "published_at": "2026-11-19T21:49:06+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国特使库什纳：俄罗斯对向乌克兰提供类似北约的安全保障持“可接受”态度    美国之音",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "美国之音"
+      ],
+      "all_titles": {
+        "zh": "美国特使库什纳：俄罗斯对向乌克兰提供类似北约的安全保障持“可接受”态度"
+      }
+    },
+    {
+      "title_original": "Leader of Democratic AG group to step down after Texas triumph",
+      "title_zh": "Leader of Democratic AG group to step down after Texas triumph",
+      "url": "https://www.politico.com/news/2026/11/19/after-texas-triumph-daga-chief-steps-aside-01176340",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-19T16:37:28-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Sean Rankin led DAGA for a decade, helping Democrats flip five GOP-held attorney general offices.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "Leader of Democratic AG group to step down after Texas triumph"
+      }
+    },
+    {
+      "title_original": "ترامب: حرب أوكرانيا والذكاء الاصطناعي تصدرا مباحثاتي مع شي وبوتين",
+      "title_zh": "ترامب: حرب أوكرانيا والذكاء الاصطناعي تصدرا مباحثاتي مع شي وبوتين",
+      "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxOQUNTdFNYUUxYMkdvZ1lZTDUyanlrT1Z5ZHpGSDZGQXdCNVpILXF2RVJzSDNfb1MxSW95MzY4TVh3TnUzMzdITDl3elRnYXMyQ0NkS2cwNmVHZFR3MDVwN0xqV1J2MV9IaVhoT2lYXzRPLVgwclEyeFJxaE9mVnFxZ3BtS3A3WElvVmhxX0dVSGtzVDkxdW9XN01jYW9Xb1UwVEZlQk5BSjJjdE5DczVzdVQ1bE51U1liYndQbHpyNG1OVGY5dHJYYlNwckxvTXVtS0xLMTl4dlVjRl9iZnQ3X2FvQmpSRGk0LURDSEtKQ2R6SkhBOXJ6cU11N2JXVlhFZ0hQYzE1Qm5MT3g2NzJ4MXhiNHRpMV84ZHRvRHlnWEFjU2JKcG1PMEhxeW9GOWtIalYtSFVETFhmX2tMby1jSG5OYkswX2xuU0hKaENRS3lqVE9tSkttclNfdVpHbXM3SWpLNWxIRGtFblQzNDlSN2xDRV9CQ2lTaGRzRUtKUTFGT1JId2RQTS1vak1mdWtQYUx2WG1ZNFptT2NPa2dNenFvNUlpUEpTRERYc3V4MVZ1aDdEMTJRYkIzbXVtdlpjV1Z3T3ROMW5CMjFObXpWMVRLRnhXUVlYTDBWcm9XMHEzTU9UdDkyYWt4MzVSMEtyNnpZdUVaeDdfcWFZRHNlN2dDc3FndEpHSDdVLVlGSXZ1U1RvY3ZORGZndnAtdGRyYVhISkUtN0JOanhpWFE?oc=5",
+      "source": "Anadolu Ajansı",
+      "source_score": 40,
+      "published_at": "2026-11-19T21:30:49+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ترامب: حرب أوكرانيا والذكاء الاصطناعي تصدرا مباحثاتي مع شي وبوتين    Anadolu Ajansı",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Anadolu Ajansı"
+      ],
+      "all_titles": {
+        "ar": "ترامب: حرب أوكرانيا والذكاء الاصطناعي تصدرا مباحثاتي مع شي وبوتين"
+      }
+    },
+    {
+      "title_original": "Macron pide reabrir la cuestión de la adhesión de Ucrania a la OTAN",
+      "title_zh": "Macron pide reabrir la cuestión de la adhesión de Ucrania a la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVXdnenZ6dEYxdlpoQkplSlZoV29UeGRBTHpyaDNJSlVBZ0JmRVk1cngzMnBBXzZ6WGJhNU8ySjNPQXROYmtRT0diMDZFWkUzZ3Yxd01BNHU0RjFCVEd2bnNEc3BKT2hUWVhSQTBxLUlFX0FGM2NxLXdJZnRGWk9VSHY2eHVqNVpidGw3bjVSX2FoQnVVZTk2VGFPbDNSYmctTnAtbjNocnJSRG8?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-11-19T20:32:53+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Macron pide reabrir la cuestión de la adhesión de Ucrania a la OTAN    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "Macron pide reabrir la cuestión de la adhesión de Ucrania a la OTAN"
+      }
+    },
+    {
+      "title_original": "欧州首脳「ヤルタ方式で平和訪れぬ」 ウクライナ巡り米中ロ会談に警戒",
+      "title_zh": "欧州首脳「ヤルタ方式で平和訪れぬ」 ウクライナ巡り米中ロ会談に警戒",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UQ2hTektVTGpBVHpoWG9XbkFFNFlra2ExYUpEdWJTeGxMNWJ5Ulc1WG0yTGlXU1FRUm1kLUNXNUw2QzZzTXAtMEpxaUlrUzgwamFpUGZfblRJR2xFWjlHMl9FWHBTN1JsTU9oXw?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-19T20:23:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "欧州首脳「ヤルタ方式で平和訪れぬ」 ウクライナ巡り米中ロ会談に警戒    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "欧州首脳「ヤルタ方式で平和訪れぬ」 ウクライナ巡り米中ロ会談に警戒"
+      }
+    },
+    {
+      "title_original": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "title_zh": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T20:07:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Myanmar committed genocide against Rohingya minority, top UN court rules\n- Published\nMyanmar has been found guilty of committing genocide against its Rohingya minority by the International Court of Justice (ICJ).",
+        "The verdict marks the first time a state has ever been found to have committed genocide by an international court.",
+        "Yuji Iwasawa, president of the UN's top court, said Myanmar had the \"intention to destroy\" a substantial part of the Rohingya population and engaged in \"extensive destruction of evidence\" to hide its crimes."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Myanmar committed genocide against Rohingya minority, top UN court rules"
+      }
+    },
+    {
+      "title_original": "Macron demande aux alliés de l'Ukraine de \"rouvrir la question de son adhésion à l'Otan\"",
+      "title_zh": "Macron demande aux alliés de l'Ukraine de \"rouvrir la question de son adhésion à l'Otan\"",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZklYMFNjWmdFU01uNzhrUGhRTnZBUHQxa0x5alNvQm5OeGdfOV9NaVdiQzZRZTlnYW1QamFFeEVLb2g3T1FDbVJZUUJxbElFeGtSdkVVeFZtRTI4TVZJRDVGMmdWeElmSmVac0dZVDNRa0dJQ2pRR0dfTDNFdWppek5ZQkM1d2ltTGxNbnpNSHV1eTBmTTFkcGhhRGZtV3pERmsxYWJDTFU3RHQteDNwUUtIT2RQZnVRdGc?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-19T19:49:02+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Macron demande aux alliés de l'Ukraine de \"rouvrir la question de son adhésion à l'Otan\"    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Macron demande aux alliés de l'Ukraine de \"rouvrir la question de son adhésion à l'Otan\""
+      }
+    },
+    {
+      "title_original": "Kushner says Trump 'open' to extend NATO mutual defense-type clause to Ukraine",
+      "title_zh": "Kushner says Trump 'open' to extend NATO mutual defense-type clause to Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTXFhaHdpdUN2U0E1VDlJbTdqXzJmR3hTaVZvWVFIN2k0TTBrN1gwMlFNSF92ODBXZXFCVGJjRFBjZGN1bjdVbTN3Z3lxSkx5YUNQM3pGZE1tTVd4OXdoNFFOM1VjZTZ0YmlYV1RGa01DUVUtbFFudDZCcWdpUlltWTV1d1BPei1OTEI4TnB6cVp1SlZuTFdiX2dSZFQySjdfU2pWT0FEWQ?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-19T19:47:56+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Kushner says Trump 'open' to extend NATO mutual defense-type clause to Ukraine    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "en": "Kushner says Trump 'open' to extend NATO mutual defense-type clause to Ukraine"
+      }
+    },
+    {
+      "title_original": "Ukraine-Russland-Verhandlungen: Wer spricht für Europa und wer nicht?",
+      "title_zh": "Ukraine-Russland-Verhandlungen: Wer spricht für Europa und wer nicht?",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWVROVVFvMUJxUEw3MmpvdjJqSm4yNmRRUWQ3cDRMTmNLT0R0UUhESEQ3WUViOER1b0VjQmNJMG5TdjlieVpZYVhFQWpqMjBZTXAxaGoteU1BTDZOWW44VnFKbzJXX2RpVV9HRlc2OVNvMFRzTC1PeER2ek1LQ0d1SlduS01vdG0tZWx4ZW95ZlM5YTZKM0ZZNDhhLW9Wb1NHeXdlZDMwV3rSAagBQVVfeXFMUFNoX2VKNV94TmtBZlZCSVV1SzN1clI4d1dIeDRMYWNDajdtbjFOQnU3dzdKSXB0bFpoNjdUaHBoWEw0clhzMFhCRnZ0cTJZQzZobEtsUnV1QTRSNHlpRW0xbFF4NWtta3hscC0wV1BjODFQNkJEci16aHJOdlJsTTJpMlRyb1M0UGY3QkphWUZhRk5JZllGbUdmX01sWnpHV3BoQ19lMjF2?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-19T19:32:34+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Russland-Verhandlungen: Wer spricht für Europa und wer nicht?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Russland-Verhandlungen: Wer spricht für Europa und wer nicht?"
+      }
+    },
     {
       "title_original": "Nevada's new governor promises legislative blitz on affordability",
       "title_zh": "Nevada's new governor promises legislative blitz on affordability",
@@ -29,6 +629,31 @@
       }
     },
     {
+      "title_original": "Coalición de Voluntarios: Macron plantea reabrir el debate sobre el ingreso de Ucrania a la OTAN",
+      "title_zh": "Coalición de Voluntarios: Macron plantea reabrir el debate sobre el ingreso de Ucrania a la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY005QVhuVWhlWGlYUE12UFd6djh3Mm5SNWt2MVJERXM2Y20yRnJ5WV9MZlRoQ1lXS0puRmEtNWc0Wkw3aTZYU3BUTW0xM3RyQ2ZKZXlXdzJySTNEbGdmWVJHa2ExLWJISi1kM1JoaWdMT2V2dXhUSDA4MmhqekJ3SkZ1d2p5TS1sMTl4NVNfRVFVaFZpTWF5YmF0M2hRYlZDRUNhaDgyeHhMVWFxOWNGb3RkbU9fOEVUTWtjZmt2Y1BhU1V1c1JnZ29nbGRPbzFiZ0Jia3ptWlUwWDhDaEE?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-19T18:52:46+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Coalición de Voluntarios: Macron plantea reabrir el debate sobre el ingreso de Ucrania a la OTAN    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "es": "Coalición de Voluntarios: Macron plantea reabrir el debate sobre el ingreso de Ucrania a la OTAN"
+      }
+    },
+    {
       "title_original": "Ukraine's NATO membership is relevant for European security, Macron says",
       "title_zh": "Ukraine's NATO membership is relevant for European security, Macron says",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2RPY2RXb1I0aGpycUdTNHMtZk1aVDBfandNSWtfd2VNcll1UzhYUWpOVm9haTJ4b0tnY3NTeXA5eVZKWVBkbGp0eFlLc3hfdTRLMGRVbktKN3hrRmZpUEQ5M1ljeTV3LVE3eFZJeG01dURZa1pMLWxwaHRXM1NyVE14Y05CM2dNV19qQmE4NEhidW40ZlltY3IxYjRrY1EzcnlJaE1LdnVaeWNr?oc=5",
@@ -51,6 +676,31 @@
       ],
       "all_titles": {
         "en": "Ukraine's NATO membership is relevant for European security, Macron says"
+      }
+    },
+    {
+      "title_original": "NATO Secretary General attends meeting of the Coalition of the Willing in Berlin",
+      "title_zh": "NATO Secretary General attends meeting of the Coalition of the Willing in Berlin",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR1RRWmVUUlpPV1dIdjRTV24tOG9RejFPRndybUJMNnZISG9UT3pPVVlnaFMtdXVhekJXNFVtQWU4dTZVSDQ0UFM2cXlueG1PQWZkVnF5Q1hlQ0IwZkY1RHpEMXIxcEVCMDBGUzcxVGg1WVY2cjFydkxnUVh1RkE1U19FbUZFYVdIZjdpekJfZ2VwOTRPekpEaThEa2hSMzBCclg5QWJYNGlZdzNRV2hXTmFtRkNPdnJCRno2bGlfbjFVdUo3blFfejlRUmdCWjVuRmVTTElPMjB3RkY3dWc?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-19T18:39:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO Secretary General attends meeting of the Coalition of the Willing in Berlin    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO Secretary General attends meeting of the Coalition of the Willing in Berlin"
       }
     },
     {
@@ -101,6 +751,31 @@
       ],
       "all_titles": {
         "en": "Kushner says Russia is ‘comfortable’ with NATO-like security guarantees for Ukraine to end war"
+      }
+    },
+    {
+      "title_original": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "title_zh": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-19T17:38:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump, Putin and Xi release 'peace declaration' after historic meeting\n- Published\nUS President Donald Trump and his Russian and Chinese counterparts Vladimir Putin and Xi Jinping have issued a \"joint declaration of peace\" following historic trilateral talks.",
+        "The three leaders met for 90 minutes in China's south-eastern city of Shenzhen, on the sidelines of the Asia-Pacific Economic Cooperation (APEC) summit.",
+        "While the presidents have previously had one-on-one meetings, these are their first trilateral talks."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump, Putin and Xi release 'peace declaration' after historic meeting"
       }
     },
     {
@@ -201,6 +876,56 @@
       ],
       "all_titles": {
         "en": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars"
+      }
+    },
+    {
+      "title_original": "Allies strengthen medical support for NATO’s collective defence",
+      "title_zh": "Allies strengthen medical support for NATO’s collective defence",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUlPNnBsb0FWZENvekMtWjUzbjF4WXNteDNpVVhNdG5MNkxlTXZ6LTFUY2JCSjdTNkpSaWxmTVRZSVVyTVNLTk9IbXZRYVdDcEZHcHhwNnF1Z0R0NV9oYjdKY0IxUmdRNlNVbjNPeG8tSWIwMlZWVm03QmtGSGVrUkhWaHdxTkplU2FUTERXd2xQcmZfMXFpQkZPamwtb2JzSXNaVFc0NlFVZURJcThTVldWVkJnWTViRzZQNTVjNXNCdWJIV3c?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-19T16:39:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Allies strengthen medical support for NATO’s collective defence    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "Allies strengthen medical support for NATO’s collective defence"
+      }
+    },
+    {
+      "title_original": "Établissement d’un cadre pour l’échange d’informations classifiées entre l’OTAN et la République de Moldova",
+      "title_zh": "Établissement d’un cadre pour l’échange d’informations classifiées entre l’OTAN et la République de Moldova",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhqR0EzR2FQUXVmNHZRNEFHenJTcnpHbHV6R1BfVTZiMm1GWXNsZDU4U3VPaURGTTdqaVE5SVJyckNOeFA1cmozb3U4MWZCTlFOT2JJYVVNMGZFYk0zeHhwb3dsVHJPbXd2R3FBbkNGOHZKQ0xXcXV3eGFGR2RDcEZ3cEloV2RiOFl6djc3eWVVWExicVVCN2dsZncwRW9ldDZUM1dMTy1DV3FoOVU3bkNVZmFpZktYRWlpLUhsclRXWWMxUGZENXVuMVl5eXcxd0ZXS19n?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-19T16:24:53+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Établissement d’un cadre pour l’échange d’informations classifiées entre l’OTAN et la République de Moldova    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "fr": "Établissement d’un cadre pour l’échange d’informations classifiées entre l’OTAN et la République de Moldova"
       }
     },
     {
