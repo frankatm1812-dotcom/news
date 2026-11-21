@@ -1,8 +1,558 @@
 {
   "date": "2026-11-21",
-  "generated_at": "2026-11-20T19:06:30.761092+00:00",
-  "count": 35,
+  "generated_at": "2026-11-21T03:56:57.957093+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title_original": "美国一直抛“乌克兰割地换入北约”，默茨扬言：想都别想",
+      "title_zh": "美国一直抛“乌克兰割地换入北约”，默茨扬言：想都别想",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT2t6QlVSSklNSWdfbUxiX2ttQ2ZBajFTM2I1Y1lwVzBzTnQxbG5SQ2xRS2t2OVR3NlhBWDE4Y21ZTDF2Y0J3aVhjeFpwWGZwakVybE13Rjdvakp0dWhvNGlYQk9QSzJnTGtVR0tFaEFVSkhzQTJzekM0bHhlT18xRVFmcERWV3IxYlc0OQ?oc=5",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-11-21T03:53:50+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "美国一直抛“乌克兰割地换入北约”，默茨扬言：想都别想    Sohu",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "美国一直抛“乌克兰割地换入北约”，默茨扬言：想都别想"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg im Liveticker: +++ 21:41 Viele Verletzte nach Raketenangriff auf Selenskyjs Heimatstadt +++",
+      "title_zh": "Ukraine-Krieg im Liveticker: +++ 21:41 Viele Verletzte nach Raketenangriff auf Selenskyjs Heimatstadt +++",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDhpeVlqWTJqRmtDemgxUWY3U0J0N3VsRGFmbXdUTFBNYTJ5QkVKR1ZucEgxMnU3OTBSV0VLTFktQlRHTWVvOWl3SG1aMUlWZXRNalF1c3FmakVpcW15VTE5Zy0wR2hUSkcwRnJDcUlZMGFhLW9IT0ZhMjdzX0lzYnY5MEZOb21aQmwwUF9uYkVlTi1SSjk2czZlZnJhYUNSazJ5eGk0NWpyWXNnaVFXY19B?oc=5",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-11-21T03:45:17+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine-Krieg im Liveticker: +++ 21:41 Viele Verletzte nach Raketenangriff auf Selenskyjs Heimatstadt +++    n-tv.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg im Liveticker: +++ 21:41 Viele Verletzte nach Raketenangriff auf Selenskyjs Heimatstadt +++"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
+      "title_zh": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV3ZsTlVPVEN2STFrWVYtZFA1eWpCd3BxdHhwU1U5Zm5JeFdTVXJmUXYyamFEZklBdGZxVE1rN3VtSDZLWDhzNGVnT294RkxVbGEwc1lVc1ViZ3Q3QVJYMG53bVNaeVNSbEVscnh1di1vNDBDQ0h1TkpGek00Y1BjeUJ2YVktZkYxcDdyVGZyalhkUkNob0FOejNCM0laNy04Mm1BUmtjR2dZa1dkdnBjRVEyZXRmdWNYODU2bnNkUnZNNndCb3N1NGpSNTEwRHR1VmN4dWs0ZDRhTDZvM3Bwak85Zw?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-21T02:41:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland"
+      }
+    },
+    {
+      "title_original": "ポーランドにロシアのミサイル着弾とトゥスク首相　近くでウクライナの同盟国が演習中",
+      "title_zh": "ポーランドにロシアのミサイル着弾とトゥスク首相　近くでウクライナの同盟国が演習中",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhcWtwNXEybEd0S2N1OFV1d1E2WVE1dU5zQVFXZWx3NXVWU0FNVWZGeUhDbV9SZUx1NTRQZHVLMlRIdmEwblpQOGZZM0pkel9BR0dHdWl2aVlZQmhPbzJyaNIBZkFVX3lxTE9SaWNNRTJ0NF9lVnFzNWZYQkJ1Z2RkeHhHQlgzd2pqcmJ0MmZ0VUFvb0RQS0tBWVl4VWVMeVdwT2RwdktfVjl4TEZXaWt5OWQ5c20xc1NKWFIyc0lVNjZsclUzcXBqUQ?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-21T02:12:58+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ポーランドにロシアのミサイル着弾とトゥスク首相 近くでウクライナの同盟国が演習中    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ポーランドにロシアのミサイル着弾とトゥスク首相　近くでウクライナの同盟国が演習中"
+      }
+    },
+    {
+      "title_original": "特朗普：普京愿意结束俄乌冲突，但他和泽连斯基有“深仇大恨”让事情难办",
+      "title_zh": "特朗普：普京愿意结束俄乌冲突，但他和泽连斯基有“深仇大恨”让事情难办",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJZGYyMkhsY0RUcFBMenlSV2pCQWJEdnVEd3pEa3pyTzd0MDFCZmRuODBoa1RVaEtXT3FMZlg5ME9GS1RBdEUzN1pZT3o?oc=5",
+      "source": "凤凰网",
+      "source_score": 40,
+      "published_at": "2026-11-21T01:23:56+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "特朗普：普京愿意结束俄乌冲突，但他和泽连斯基有“深仇大恨”让事情难办    凤凰网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "凤凰网"
+      ],
+      "all_titles": {
+        "zh": "特朗普：普京愿意结束俄乌冲突，但他和泽连斯基有“深仇大恨”让事情难办"
+      }
+    },
+    {
+      "title_original": "روسيا لمحادثات حول أوكرانيا مع الثلاثي الأوروبي",
+      "title_zh": "روسيا لمحادثات حول أوكرانيا مع الثلاثي الأوروبي",
+      "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxNSkxPWVJnNmFJaEJjU1o2cU1xMVUwc2NWSkppeTBiQVVod0JzQ2pRMEVheWE0aUVmalBoNXNUUFQwdDB6TVpwblJKTjBGenYzUm1URXpDOEFJcFZWTHp3N3AtN3ZqLVc0OVNXVDl4emx2X0xBVmpNanE5akczLUZTTy0wX1FWVEcyd1lCaGZZM0VLNG1USEEwYUN0Y0FyQ0FJdk9mYXpPRFBSTnB2UTlIR0UxdWxRTDAtNm5GM05NOElKVU9MaTh6NmhvTlYwUC10M0FXRUNIOG9wM3BySmZGWGk0b1daT2g3cXlaQmV5LWs5cWhiczhZY194OVdoVmFmcXczZWRfcEdULUFvOUJpdjZ3QU9lY3JwWHl0bVNuZEZCNENDWnFlaDg5aVlSS013dFdJSFdjUGVZMllsYnhIZXhqT2V6WUh6b0ZqMWdQblZsMTNLNUlNd3EwakRxSVJHRE5UNFozSTF1elZ1bU8xVWRRQjU3SGJJZW9UX0dGQXRma00tQ3BvWjg3TnAxdG1OSkRpeDNOX0RDUm5hUVBjM1ljT1RmVDRYNklEbTdST0hQLThfWTFRWjZTMHlBQ2tqU1M2dVFJT0RfcmVsRW9mUmlOV08xMHUtdUFidUN5amVHb0RpZnRuVVFkUkRXODlxVW9j?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-21T01:21:30+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "روسيا لمحادثات حول أوكرانيا مع الثلاثي الأوروبي    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "روسيا لمحادثات حول أوكرانيا مع الثلاثي الأوروبي"
+      }
+    },
+    {
+      "title_original": "زيلينسكي معلقاً على وصف ترمب للرئيس الروسي بـ«الصديق»: بوتين «قاتل»",
+      "title_zh": "زيلينسكي معلقاً على وصف ترمب للرئيس الروسي بـ«الصديق»: بوتين «قاتل»",
+      "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxNVkVIUFlVZ24tbUpxQlBtNUZQdkY2SFJJUHVLaFVnbzlRWHZJN1pRelM4Smw2TVVHWkluTzJMWDJseE9zODZRRTZjMk5jVzFKWjFCNTBJcUc0cE1Na1NRaXRYM3FHZ2lIWUUyOWlzb2NKMFl1UFV5LVQ5UTBKQ3BPcnJfc1ZKS0szeW9uNUduUVJzY29ucFBDM012aXJGR0t4NVZMWC1xV2ZocEJOUHN5dDhvSVh4cHpCYm1LSDBJWk5iM0xVdHpCTHNIdGRSeTVkWlJOUk9MS2dWczFXZENoemozZGNlMTViMHVLX3RDbUg5Ql9FSktFVDVxakltQzNOZFZxamY2cUJrendKMG0xNTN5a2VsbXEycmY2eVctSnh0RFc3a0FpaXFVOGF6ZmY4MzJ1UzBDUEpNcDk0MjR4Mnp2LUJFLW43WkVYb1VaUjNjTGsyT0hwaUlUTkFINElXb1ZwUWRLYXd4a24wb3o2YTNXUGRSN3Bac2NxQ2ZyMnZyX2pzX0w1WDU1M1VZdEgwbExuU1ZaaGVuM1hmRlZJLWdWcllCTGlYaFJnUlUtTzR5T1ZNX1lkNkVNcWhZcXdXTUxWa3dnaURLU3VnbEZNMDJGeUtJSDMzRXlsQ0lUazFtLXExMUhlLTNkOVA1S19uNTk1SmhkajR4U3BiWXp5RmlzLWhVbTVXa2pSZm5tby1VZXhoQTBBTzhuQnNKYktJaGpxUzhNdW1jZ0NsVUU5Z1AtTmRqYUFDZjZnbVJtZXRwcURXTWU4b1lZaGNhTHRxUEQ0dUZjSQ?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-21T01:21:18+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "زيلينسكي معلقاً على وصف ترمب للرئيس الروسي بـ«الصديق»: بوتين «قاتل»    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "زيلينسكي معلقاً على وصف ترمب للرئيس الروسي بـ«الصديق»: بوتين «قاتل»"
+      }
+    },
+    {
+      "title_original": "إيران تسعى لكسر الحصار البحري الأميركي",
+      "title_zh": "إيران تسعى لكسر الحصار البحري الأميركي",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOMUlRU1k0RkNiRjBtNGY1cjhPNWltVFNIbFVMenhhblUyajFFRVpoeDdycjY2THNxZERibDZpVXJCRzhibUd4aC12Z3lfaTl3WHBjYWpXMGFiczluVm80cWpzU2FOSXNjc1hhNV9DdTVjYUNOSmdTWHBGMWxBWG4tMVB1amZkeG41dTcxUGcxQjZKRC1HUjRiSW5WTDd4VTdSaHBoV2Q1YnJnVm9fam9ta3VHelR4VXZBUkctdmE3X1NyYzRGcVA5X2YwNlhYM3R3cmw4NUQwaUlCQzl3eDZlMVhjRDVyZkdiVVo2Y2VybkNwM25fcVhKTzc2VU1XUUp0SGkySnRYMWphQWpqUkFpUml1SFVIYzd5UFdwNjVLRGE3blFjelp6RXVFQW9YQTRMaHJMZDliemR2eWtVSWhEaTZ1TEtnaldHQmNOWGxhWUNWcEVQVHFQZ05kN2kwYktKU21lZWZHYVhlTF80Tm14TV9mVU16YXZNVzFyLTc1bGRiRVZvZmtMS0NGelpQYVpTZmdoeDBuR3BDRDA2S2ZfSm8ta180ZUtkX2c?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-21T00:50:38+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "إيران تسعى لكسر الحصار البحري الأميركي    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "إيران تسعى لكسر الحصار البحري الأميركي"
+      }
+    },
+    {
+      "title_original": "デンマーク「ロシアの犯行」 ウクライナ系米国人の暗殺未遂巡り",
+      "title_zh": "デンマーク「ロシアの犯行」 ウクライナ系米国人の暗殺未遂巡り",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oUi1nYzNPVVpMY3pwUllOOVdZSVQ5ZXR5enFjYzljTkh5SkJKQmpQZUx6MERJb0hTMmdCQWxmRnl2X1hCQzZ0YzJKbF9mWkpzTHVLR0ZQUjl4UHZMUlVMVEJmNnBNUjZ2YjlLdg?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-21T00:02:56+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "デンマーク「ロシアの犯行」 ウクライナ系米国人の暗殺未遂巡り    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "デンマーク「ロシアの犯行」 ウクライナ系米国人の暗殺未遂巡り"
+      }
+    },
+    {
+      "title_original": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "title_zh": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-21T00:01:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Mamdani announces plan to close New York's Rikers Island jail by 2032\n- Published\nNew York City's official overseeing the closure of the city's most notorious jail hopes a new plan from Mayor Zohran Mamdani will lead to \"a moment of transformation\" for how people are detained in the largest US city.",
+        "Mamdani on Friday unveiled a plan to close the Rikers Island complex by 2032, to build four new jails and drastically reduce the city's detainee population.",
+        "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it by this year."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Mamdani announces plan to close New York's Rikers Island jail by 2032"
+      }
+    },
+    {
+      "title_original": "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means",
+      "title_zh": "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdjlTOElmbFJzU0xsLWxIOXZFMnRscy1EV054VXBZWEVvd0UxbUxkcG8xNlpSVW4yYkNwdTZ4OGp1WVczalh6NTVUM1EyUkZza2RBY0pfSmxHZEVXVjFKT1JBSHNfM1pTQmp2cVdSX3U4OVFvQnZzd2ZrdEpMMnJiZlpTX05Cb0o4dmFvbXhKYVZ2aldsOGczWnRrdzRpU05yRWtnRWNQcUJyd1NyckgzZ0RjRXBkTWxINk1iaDZTYThhTXZRZTBhcHdvVXVYVlduLVE?oc=5",
+      "source": "NBC News",
+      "source_score": 75,
+      "published_at": "2026-11-20T23:28:37+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means    NBC News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "NBC News"
+      ],
+      "all_titles": {
+        "en": "Trump says Putin 'clearly expressed' a desire to end Russia-Ukraine war by diplomatic means"
+      }
+    },
+    {
+      "title_original": "焦点：無人兵器と兵士が共同戦線、ウクライナ「ビバルディ作戦」の内幕",
+      "title_zh": "焦点：無人兵器と兵士が共同戦線、ウクライナ「ビバルディ作戦」の内幕",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSUducmxnTjNfTVJ1WWZBdTdBYkhjc3lCSlZLUkFqbFp6RDByeHBYTEg1ckFVYlNRNmVMWTB4dkljUEJkd09PZVdoa0hxQ3Z2Um1xbzdHZ0pFTUlIeXcwR2lNWHd2cFdzcEdGOWROQ1N4TDREZmNOUDAyMTYxUDNPektjREVOUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-20T23:13:27+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "焦点：無人兵器と兵士が共同戦線、ウクライナ「ビバルディ作戦」の内幕    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "焦点：無人兵器と兵士が共同戦線、ウクライナ「ビバルディ作戦」の内幕"
+      }
+    },
+    {
+      "title_original": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "title_zh": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-20T23:08:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "In a year of AI solving maths problems, Anthropic may have just solved the biggest\n- Published\nAn Anthropic employee and mathematician claims to have used the company's artificial intelligence (AI) chatbot to prove the famed Riemann hypothesis.",
+        "Levent Alpöge said, external on Friday, a day after Anthropic made its US stock market debut, that over the course of about six weeks, he used the Claude chatbot to create a detailed proof of the maths problem.",
+        "If found to be correct, the proof would be among the most significant in history."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "In a year of AI solving maths problems, Anthropic may have just solved the biggest"
+      }
+    },
+    {
+      "title_original": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "title_zh": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-20T22:42:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Tech stock sell-off drags markets down as Anthropic shares slide\n- Published\nAnthropic's shares have dropped back towards their initial price after a soaring first day on the stock market, as a wider tech sell-off dragged markets down.",
+        "The sell-off comes as concerns remain over the speed and size of artificial intelligence investment, but also as some large companies including Nvidia and SpaceX faced specific issues that worried investors.",
+        "Those pressures combined to weigh on US markets through Friday, with all key US indexes closing sharply down on the day, furthering earlier falls over the week."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Tech stock sell-off drags markets down as Anthropic shares slide"
+      }
+    },
+    {
+      "title_original": "French police officers sentenced for beating of music producer Michel Zecler",
+      "title_zh": "French police officers sentenced for beating of music producer Michel Zecler",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-20T22:37:09+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "French police officers sentenced for beating of music producer Michel Zecler\n- Published\nThree French police officers have been convicted of beating up a black music producer six years ago in Paris in what the court upheld as an aggravated circumstance of racism.",
+        "The three were also found guilty of signing a falsified police report stating that the producer - Michel Zecler, 47 - had violently resisted their attempt to arrest him.",
+        "Their lies were exposed because the whole scene at Zecler's recording studio was caught on CCTV, revealing the producer had suffered some 30 punches, kicks and baton strikes while offering little resistance at all."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "French police officers sentenced for beating of music producer Michel Zecler"
+      }
+    },
+    {
+      "title_original": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "title_zh": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-20T21:57:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper\n- Published\nDenmark has accused Russian intelligence services of plotting to assassinate a Ukrainian-American near Copenhagen, saying they had \"planned\" and \"initiated\" the attempt.",
+        "Denmark's security and intelligence agency said it had stopped individuals who were intending to kill the person, named by Danish media as rapper Kyivstoner, at a concert in September.",
+        "Two people were charged with attempted murder and assisting a foreign intelligence service, and pleaded not guilty."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper"
+      }
+    },
+    {
+      "title_original": "حرب أوكرانيا.. هل تحجز أوروبا مقعداً على طاولة السلام؟",
+      "title_zh": "حرب أوكرانيا.. هل تحجز أوروبا مقعداً على طاولة السلام؟",
+      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxQcktWU01tZXJQaWNQRTFISWluQUdpTS1qLUpPSTlpck9fUms0SHJxTzdHM0N2NnU1VVFVZmVhR2kybzZVZHNDajZkZmxuN3p1VV83ODU2ZnlsR3VDd05jT1U5UWVUeWNHTF9HbFFzNGtsMGFnUkwxcUpkSkhwbU9LSW9PNWZWVkw4WmhHN1ZHeXpvaEhaZkdidDFidy1pMjFJYU9aT25VRk9uYVBGOUtiU2pKb1dBb3FJWmlmaFV6WVlpYU1tQVZzVm9jUmg1TEw4Z0UwVDJER1JxSVktZWxmS1hIQU1Sdy1VMmR6TUJYV0gxaTBWU3piSE9mSkpKa0JVc0pDZWlmTGY3aFVFb3RxQkQtZ3lmRXp0bWZLQ2tTWmJTVl9Md3J5cWxaN2lnTUNtZ2dBTUw4QkV6VWVITTF5cmlXc0dYMmUwU2UwYXJyYjVuMURaVzNtdDZNX0J6SW1WWGI1MGstTzl0MTNqZDltNnVWLXlVRmt0M2tNVndtT1VQVzdHTzB0YUJUUk5RWHEwbXdCWXRFM0hSOFZzelBhQVZvcXIwNHFZNHdzRlBWeU4?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-20T21:53:27+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "حرب أوكرانيا..",
+        "هل تحجز أوروبا مقعداً على طاولة السلام؟    DW.com",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "ar": "حرب أوكرانيا.. هل تحجز أوروبا مقعداً على طاولة السلام؟"
+      }
+    },
+    {
+      "title_original": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+      "title_zh": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-20T21:47:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan.",
+        "In a discursive press conference from the White House briefing room, Trump also said he would “look into” the report that Iran had been planning to possibly detonate a “dirty bomb” in Washington DC, and backed JD Vance over comments the vice-president made blaming Republican midterm losses on the Iran war.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad"
+      }
+    },
+    {
+      "title_original": "Trump threatens ban on US firms building AI data centres overseas",
+      "title_zh": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-20T20:54:12+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump threatens ban on US firms building AI data centres overseas\n- Published\nDonald Trump has said he will ban US companies from building AI data centres overseas, threatening a \"tremendous tax\" for tech firms who do so.",
+        "\"We're going to keep it all in this country,\" the US president said, while providing little detail on the potential policy he said others in his cabinet were hearing about for the first time.",
+        "Data centres were a central issue in the midterm elections earlier in November, with many Democratic candidates promising tougher regulation on their construction."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trump threatens ban on US firms building AI data centres overseas"
+      }
+    },
+    {
+      "title_original": "トランプ大統領 ウクライナ和平「成し遂げられる可能性が十分ある」と主張 プーチン大統領との首脳会談を受けて",
+      "title_zh": "トランプ大統領 ウクライナ和平「成し遂げられる可能性が十分ある」と主張 プーチン大統領との首脳会談を受けて",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnODlpMEFLNmtxZHVvTWYtRzUtc2R6ZUtlWGxvaUZOZ1c4VnZsUWZETV9fb3dlSVlGUDRZMGtiNVdaczlpQ3RsT3NpN1JFQ3gyTUtUWGFVcw?oc=5",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-11-20T20:35:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "トランプ大統領 ウクライナ和平「成し遂げられる可能性が十分ある」と主張 プーチン大統領との首脳会談を受けて    TBS NEWS DIG",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "トランプ大統領 ウクライナ和平「成し遂げられる可能性が十分ある」と主張 プーチン大統領との首脳会談を受けて"
+      }
+    },
+    {
+      "title_original": "ドイツ国防相「ばかげている」発言で米次官に謝罪 ウクライナ巡り",
+      "title_zh": "ドイツ国防相「ばかげている」発言で米次官に謝罪 ウクライナ巡り",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ubDlfaURIUGJkZV96cWZVVWpWbVFrdXlrMXpKN2VUMV9ZakdVTmUyRU03cnZDdjNhXzNUSnZyVUcxVFVQZ21VdjhWR3hyc0U1aGRBZ213WU5Ecl85bmtHRnBwV3JvUjAzb1ptSg?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-20T20:01:32+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "ドイツ国防相「ばかげている」発言で米次官に謝罪 ウクライナ巡り    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "ドイツ国防相「ばかげている」発言で米次官に謝罪 ウクライナ巡り"
+      }
+    },
+    {
+      "title_original": "Gérard Depardieu and French author investigated over sexual allegations",
+      "title_zh": "Gérard Depardieu and French author investigated over sexual allegations",
+      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-20T19:45:20+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Gérard Depardieu and French author investigated over sexual allegations\n- Published\nWarning: this story contains graphic content\nFrench authorities are investigating disgraced actor Gérard Depardieu and the author Michel Houellebecq over \"allegations of a sexual nature\", a source with knowledge of the investigation says.",
+        "The confirmation comes after reports in French media that the two were accused of being involved in a \"gang rape\" on the set of the film Thalasso in 2018 by an actress.",
+        "The source told the BBC that a judicial investigation was launched after a complaint was filed in May 2025."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Gérard Depardieu and French author investigated over sexual allegations"
+      }
+    },
     {
       "title_original": "White House removes cyber-security chief after series of tech outages",
       "title_zh": "White House removes cyber-security chief after series of tech outages",
@@ -54,6 +604,56 @@
       }
     },
     {
+      "title_original": "ウクライナに“過去最大規模”の攻撃 8人死亡 ロシア報復警告後…首都の橋にも被害",
+      "title_zh": "ウクライナに“過去最大規模”の攻撃 8人死亡 ロシア報復警告後…首都の橋にも被害",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yM3c2ZGpGMGZraGhZUzBVOEdWZlhJME1aM2wtQV94OHpCcURVc0tpNjNyTi1NOU1tTV9tSWRDYWFWdmZoSmI4TjY3ajlManZuN0oydlFVNS1LQ0NqOGxaVnBGOUpTT2k1SFR3V0NsTUFRNVFwLU82S0l3?oc=5",
+      "source": "テレ朝NEWS",
+      "source_score": 40,
+      "published_at": "2026-11-20T18:44:23+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナに“過去最大規模”の攻撃 8人死亡 ロシア報復警告後…首都の橋にも被害    テレ朝NEWS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "テレ朝NEWS"
+      ],
+      "all_titles": {
+        "ja": "ウクライナに“過去最大規模”の攻撃 8人死亡 ロシア報復警告後…首都の橋にも被害"
+      }
+    },
+    {
+      "title_original": "ترامب يؤكد رغبة بوتين في إنهاء حرب أوكرانيا دبلوماسيا",
+      "title_zh": "ترامب يؤكد رغبة بوتين في إنهاء حرب أوكرانيا دبلوماسيا",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNWG9oZ0FTd2tRY2FXeloxbW0tdVNKdGtWYk94WGg3YWtYMHNJWWN4bE1zZ25lWEhCZy1jWEpxOTFnWWZPWVBQdHg4TDRzdVlxUGk3d2RHanhrTDc1d00xVWhOUW1zVHk3U2NEd0N0OHhRekdNeEkycE9wUUJJY1RhRG9kMzh4ZFpjWS10alBlemlYY1YzdnNWUjFwRko0U2RiWnJVWTAxMXc4QjM3VjIxOWtEOVZ5bW5TSlo3Rnc0Tm5oUDlWRFN1WC1GdFdLQ3VvUl9ZbmZ4WlRNSC11Z1ZqcmNCYTF4WVVXcXZKbDVHMVUyZVI5V3BuVk1xcXBEQmZTeGF4Y1E5b3ZLbkVRUE5VMHJSLXJaVXliMndMTGVjem1qV0gtQ1NQalRnb1FCOFdfMllVVWlGYlBBSXF4al9tZDJSdTVBOFhucy1na25pRl9OWVFzZkY0MmtWLXd4MlptamUxMUdlM3VISmhVbDliTjVNTzNYa0NDWEt0OEEwZU9xTS03OW85Z2h5M1d3RjVTYzVteXhsbnBneWJnYTU3ajRoSXljdWRXaF9VQ0pVYzlsRHZhQ2Y1btIBvgNBVV95cUxNTXZDQ2todlNuS2p6bVo0SWJVbEdmVVlxcFNUYzBXV1dFV1RnV3VLNDVCdnA3LTQzLWVDdlZmM3JQZ202UG5GWFhtSGFEcjl1cURBZ212SEdORzlxU2FJZEhqZDg1anRBaFRPek50TlBFLTVSQVhQRmN4RXV1Q1drd3FsSWZBU0N1WkhKUnFWNnhlRVFxeEJ5cHpBTEZLZHl2Wjhxc1B6S0hJbnJVMHNZU3UxdWZXcHNLc1RxcDNjT0ktaUdEWlB4Ul80RG9XRW5pYmhsd2RhR1N5cjJFeFJVSWdTTWNUUFRWaHhIcWN3RFVFb2lieGVhUUJKdEZNdzBibWQ5YUpjd1pob0ExTWhST1FDNHlOX05IZkVBSWFyUzktWVlvZHk0WWM2bTVXYlBuRm96TDhIY0x1WVZaS3Z5YUZQQkZYbFNSek5XSHV0OGhycS1uU3JMT0JMalhtNUdvU01Fc0tSbWZVb1FuZWhhRVhCSkNoYnY4OU1faDNnMkx1aDMydnNmY1dFTlY3M296MEJNWnh1ajJ0eVpwcHV0RmQwLUZxQXV3eGZOVzY4Z2dNb2l6OUJJNl9nMnd6Zw?oc=5",
+      "source": "سكاي نيوز عربية",
+      "source_score": 40,
+      "published_at": "2026-11-20T18:30:34+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ترامب يؤكد رغبة بوتين في إنهاء حرب أوكرانيا دبلوماسيا    سكاي نيوز عربية",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "سكاي نيوز عربية"
+      ],
+      "all_titles": {
+        "ar": "ترامب يؤكد رغبة بوتين في إنهاء حرب أوكرانيا دبلوماسيا"
+      }
+    },
+    {
       "title_original": "Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine",
       "title_zh": "Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUFSTWdxSVdBMEtrN1RpU2F0eTZuOTVQV0lSQ1hsWERjY25VLWV2d1hlZHluaWZOeklXRWhaN3NrSmMtWjhFY2VKU0lWbU9FWndENldZU0owa1BaQ3N2eWN4WE9xOXhkNjlLMmxxb3AycE5sRHZqVnpXLTFnN1daRGh3MDh2cFR1RVBYLTNoMXdMbTZWSURtQQ?oc=5",
@@ -76,6 +676,31 @@
       ],
       "all_titles": {
         "en": "Poland accuses Russia of \"intentional provocation\" as missiles hit NATO soil, kill at least 8 in Ukraine"
+      }
+    },
+    {
+      "title_original": "Trump regresa de Asia mientras persisten tensiones con China por comercio, Taiwán y tecnología",
+      "title_zh": "Trump regresa de Asia mientras persisten tensiones con China por comercio, Taiwán y tecnología",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BcnZvbmtib25kTk1aU2VTZy16akoydWN3YWpSU0RwNU1VRktDcGtFZWUtZjB4NURYM0JsWHk3Y0hCNTRrOFFWbExFM2t0ZGhGc1c3VFZkVnBMeE5wZk00RUdVdkoxdw?oc=5",
+      "source": "Bitfinanzas",
+      "source_score": 40,
+      "published_at": "2026-11-20T18:15:12+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Trump regresa de Asia mientras persisten tensiones con China por comercio, Taiwán y tecnología    Bitfinanzas",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Bitfinanzas"
+      ],
+      "all_titles": {
+        "es": "Trump regresa de Asia mientras persisten tensiones con China por comercio, Taiwán y tecnología"
       }
     },
     {
@@ -104,6 +729,31 @@
       }
     },
     {
+      "title_original": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "title_zh": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-20T17:49:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "UK to explore even closer ties with EU after agreeing deal, says Burnham\n- Published\nAndy Burnham said the UK will discuss possible options for even closer ties with the EU, after agreeing a deal covering British food exports, emissions trading and a youth experience scheme.",
+        "The prime minister said it was a \"good day\" for Britain and Europe, adding the Treasury believes the deal could boost the UK economy by up to £17bn a year.",
+        "European Council President António Costa said the EU remains \"open to have the closest possible relationship\" with the UK."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "UK to explore even closer ties with EU after agreeing deal, says Burnham"
+      }
+    },
+    {
       "title_original": "البركة واللعنة والشرق الأوسط الجديد.. لماذا يحب نتنياهو رسم الخرائط؟",
       "title_zh": "البركة واللعنة والشرق الأوسط الجديد.. لماذا يحب نتنياهو رسم الخرائط؟",
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNRExPNTNqd2o3ZkN5RDBhaUhzMmNzTkF5ZzRUYjk3VUFuWnF4ZVcyR1BKanVqM3RHQW5DVng5UlB2c25OaVFpUzF5c1FpRXpiOEdmVXdDbXFHeDQ5SHZrb3dIbHh4bVhLQktpcE9QaTFaWlE3Zzg2M2FIZ3QwU1ZiMHBKNUYxaHhLVFh4N2Yybkp6a2VubkViQktXQWY2UWJzLWNYeGZZY2hPTDZMZDlnZ1lPRmlfbkhJQTQ3d2NYMmcwOGM3bUVjTTExZlh2RDdIUDc3Z3E2TGMtcDhwRnh3LXU3Y0tnMGVqOFFIaTF1QnNJWXVzRFI1eDlVRWtfTExxQnZhZk1vLVJLU1pOeEF1ZmZBTjFadVR4TnNVUG9iaHBRVGtoeTltT21ZUkQzTGROQm9UR196YnlhNzk1SkdYUWRBUTZ5N3ZyOE9tcTdsR2ctb0hsb05J?oc=5",
@@ -126,6 +776,31 @@
       ],
       "all_titles": {
         "ar": "البركة واللعنة والشرق الأوسط الجديد.. لماذا يحب نتنياهو رسم الخرائط؟"
+      }
+    },
+    {
+      "title_original": "Ventana a Europa - Rusia exige una OTAN con fronteras de 1997: ¿qué busca Putin?",
+      "title_zh": "Ventana a Europa - Rusia exige una OTAN con fronteras de 1997: ¿qué busca Putin?",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOUNQVU1pazdMcDNva0tWbDVKbzRGRzZDaXYtSzZDQmtYRVRvUW13aDBoNXU0OEVFTGFQRVRKZU5tS3o2NlBfYzFOOXFxY0tWTE1peUhyTHloQ0FyeVpOU0daUnZUMWpIcS0zbHJQYmZwckNlU3YxajlNMjdRQzdyUTltMWthSHRBSDdtZmdwbUNqZEh4c016MHV3dlVqV0pvWjJOZU1LVnh5dGdkbnZLdXN0OGhKOHNtSWFzTWZ3ZmlzR0ZXREE?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-20T17:24:59+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ventana a Europa - Rusia exige una OTAN con fronteras de 1997: ¿qué busca Putin?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "es": "Ventana a Europa - Rusia exige una OTAN con fronteras de 1997: ¿qué busca Putin?"
       }
     },
     {
@@ -179,6 +854,56 @@
       }
     },
     {
+      "title_original": "أمريكا تعرض خيارَين لإنهاء حرب أوكرانيا",
+      "title_zh": "أمريكا تعرض خيارَين لإنهاء حرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11aDhOSGU0RnV2SGxzVkRHaTdfX0lTOHlhY3RMektZbmZZUU9JYkl0VWVoVmVXVHR1RmNFSTJEaEJyQTY5cDhlWmx3TQ?oc=5",
+      "source": "البيان",
+      "source_score": 40,
+      "published_at": "2026-11-20T16:53:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "أمريكا تعرض خيارَين لإنهاء حرب أوكرانيا    البيان",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "البيان"
+      ],
+      "all_titles": {
+        "ar": "أمريكا تعرض خيارَين لإنهاء حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "Trümmerteile in Polen: Moskaus Strategie, die Reaktionszeiten und Systeme der Nato zu testen",
+      "title_zh": "Trümmerteile in Polen: Moskaus Strategie, die Reaktionszeiten und Systeme der Nato zu testen",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZENQTlBwZTJITVV1bXJ5TW1kcDA1TktCNWJ1ZmI4Ui1ubEZKVk9YcGVYNUNGOTJTSk5qWkZoZXpUR2NiT3Q2NW1iTXdPWHZ6MDczTmY3bjRIdVUxYldmelFSd0dlSzVfdHlQVmZ2WWRUbFZZbXFRMkpqR29KcWFkMzh6VTZpOGtYekFmblFRTTV6T0NGVW9vYkR3ZDMwLTY3RHA5enhESEd4bldSVzg4eEtPZHdIMUctbTh1dHZwS2hHOEhRRWFYUDVTY2daaU8wZFI5d21BWG0wb3NUN2FFQnY3Q3Y3dC1YMXVWX2JWaE1neWs?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-11-20T16:47:06+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trümmerteile in Polen: Moskaus Strategie, die Reaktionszeiten und Systeme der Nato zu testen    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Trümmerteile in Polen: Moskaus Strategie, die Reaktionszeiten und Systeme der Nato zu testen"
+      }
+    },
+    {
       "title_original": "Cost of living protests sweep across Europe",
       "title_zh": "Cost of living protests sweep across Europe",
       "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
@@ -226,6 +951,31 @@
       ],
       "all_titles": {
         "en": "Anthropic shares slump on second day of trading as markets reel from AI sell-off"
+      }
+    },
+    {
+      "title_original": "Polonia denuncia la caída de dos misiles rusos en su territorio coincidiendo con unos ejercicios militares de los aliados",
+      "title_zh": "Polonia denuncia la caída de dos misiles rusos en su territorio coincidiendo con unos ejercicios militares de los aliados",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTm5Uay1JbXk2dVFfbmlJczAwU21zaW4yZ2xXbC15dFI5UW9lUVFXN3QxNmZ0VENQdkozenIyaFVleWhXUTdYdUtYazNqYkNNOU1URzZ6WUZkSkdRV0VGcEFEUGJLRVRoXzVzNElCRjFBcWtGYTkwWDJVZ2cwLWlWelRFbWkxbGNzT25RdnM0UTNERURnSFh1SkY5LThhZF9vbkVfVnRKNlgzQ1ZXdC1r?oc=5",
+      "source": "RTVE.es",
+      "source_score": 55,
+      "published_at": "2026-11-20T16:04:03+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Polonia denuncia la caída de dos misiles rusos en su territorio coincidiendo con unos ejercicios militares de los aliados    RTVE.es",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "RTVE.es"
+      ],
+      "all_titles": {
+        "es": "Polonia denuncia la caída de dos misiles rusos en su territorio coincidiendo con unos ejercicios militares de los aliados"
       }
     },
     {
