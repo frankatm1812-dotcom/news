@@ -1,0 +1,882 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-21T17:58:14.368601+00:00",
+  "count": 35,
+  "articles": [
+    {
+      "title_original": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+      "title_zh": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0hQZ19MeU5Jc2FhSmswLUJ4V202NlpfZjNFTllYa21DVi1BTzYwWXQycnM5UHFVM21LWWpoalFGWHMxbkFoV0JNUDllY1hyWUVaMU5fNmJVeGVVUUJLaXdTbnpBdFFFTkZBUnpQX0xyb0d6Tm5JQ25qelMyeU50T1hpZFNtR3hXN1JpcWRQSldicWtjR1ZDSVBoYkdjbDZV0gGmAUFVX3lxTE1XQk01eDBoOEd5Wm8wXzVORXd2Y1VRS1hWRjJ2NC1mZldyQjlNcnZMT1FsLUp6cXV6YjJFeWd4WGNoZGE4WTVYR0NnLUJ1SXVQVDRZWjdQbjc2V01OengzbkE0QjdBcnNoTERDbnA1X3pBNFptMjNfUkVzZnQ5dUM2VXBveTV4bERieXpxZDJLV2VvRG4wdWV2NzVLX3JUTE54TnlZNWc?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-21T17:26:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian strike kills two, wounds 60, in Zelenskyy’s hometown    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown"
+      }
+    },
+    {
+      "title_original": "Zelenski, en medio de los intentos de negociaciones sobre la guerra: \"Ucrania desea encarecidamente estar en la OTAN\"",
+      "title_zh": "Zelenski, en medio de los intentos de negociaciones sobre la guerra: \"Ucrania desea encarecidamente estar en la OTAN\"",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbi1MU0poc0JxNTRDaTFfWDdVcmRoOWJENkhscHR6bDdWZmJwbVI1MlBoaVBXMWhmZVo0VkFMbF9LWmt6bVMyd1NmcU82LUc1OGIxLTZaVTZYODVkSXRzc1owellYcWxITmJTR2RpZkgwU1NDSGhkMng3UjZVYXlsQ3ozSdIBgwFBVV95cUxNNzJzNG9TQ3BxeUN2Vmp3NXR2V1l5OHpFbXlkNW5yZ1VsMUFhT3g1d3VTejZ4SGFGU2l1NExNMWplNDNRc1Y4elZMZmZSMHZhQ2IzUmtHQVByWG9HODBSNGxTTHYxYkswcEdEakxPdWgtUDlBVTdURkFSb3N3bkdjY2lZaw?oc=5",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-11-21T17:00:18+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Zelenski, en medio de los intentos de negociaciones sobre la guerra: \"Ucrania desea encarecidamente estar en la OTAN\"    El Mundo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "Zelenski, en medio de los intentos de negociaciones sobre la guerra: \"Ucrania desea encarecidamente estar en la OTAN\""
+      }
+    },
+    {
+      "title_original": "زيلينسكي: قمة الصين «فاشلة للغاية» بالنسبة لبوتين",
+      "title_zh": "زيلينسكي: قمة الصين «فاشلة للغاية» بالنسبة لبوتين",
+      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxOYVZBLWVWNnBsQ1RPc2xUUDlXeExEVnVwc0UtcjFpUUVSZUlLbFhXdGpzejAxRWJScDd6Umt3TFpqRU5XMXVzM0lmMThrcXpsdk1VMTlrMC0yZWo3SVJ1S1M0ZmRNODNyeXVvQV8zUURUbzk5Y0lZOW53blhGMWYxMWVOM0lyTzZjVlotYkxRdjIwY1pYY2FKMTBHclViUkRaSTZXNWZDVmlyN09xYWg5aUdneHpjbEVJSmNVR2NaeWZhQmd5OWFFYzRRWHVZakRGcEpTQVJQaEt3NEpoYm1JZTJSdDVkektPU2JYaWptbGFqYy1jbGlLMzV4eFNJT2w1UGlCSEMyVmJXbEpoZ0xHRTUxX3V0ZzNPUDkxc3FkNWdCVGxJWVV3SjlsMERmTHpRUmZkcldCcnJqY2NmZ1dmOWRnQmxxRFd5VUlxTlRyYXQwZTR4bDdJZzhzM0dyVHNqMmpWMVVDdWJTV2FkamthZDkwdnMxUk5jMFh3YS1WdTJIcHBhVUROMzZITUVLaWZEM3ZNUnRzTk9aWVJaVEd3UEotclRaN25ueEc2WWkzTEg4YTFjbHR2T2JLV2dFNVp1WHhoS0VCS2Z3MXhsRlR3UjJlQ0JGd1RZdkYwX3ZyMnZRd3MzZjM5a3Vycw?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-21T16:53:04+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "زيلينسكي: قمة الصين «فاشلة للغاية» بالنسبة لبوتين    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "زيلينسكي: قمة الصين «فاشلة للغاية» بالنسبة لبوتين"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - Polen-Beauftragter Abraham: Absturz russischer Flugobjekte ist Provokation Russlands",
+      "title_zh": "Ukraine-Krieg - Polen-Beauftragter Abraham: Absturz russischer Flugobjekte ist Provokation Russlands",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaWstOFdjNm9QVTMwMTRXc0hJekpOMUJManZvN3hhelZDT1BhcVFfUzNyTUFjNklTRHY5S3YzWExId3NPV3cwVkdrRjZRS3lENWVrdERuMy1GVUl6LS1BZ2xWTXpxdzZpU05sWXdPSC1sWnZyRVByeHdaVnhLLXhEaVcxbWpjem1GZmtrcFBCbC1BZGRhRzJBUEt0cXdIbnJxV2xPeE1hM2E0Vnh3S1ktb1BFVUEwWTRlUDM1R3hudlg?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-11-21T16:52:31+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg - Polen-Beauftragter Abraham: Absturz russischer Flugobjekte ist Provokation Russlands    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - Polen-Beauftragter Abraham: Absturz russischer Flugobjekte ist Provokation Russlands"
+      }
+    },
+    {
+      "title_original": "FBI reportedly investigating apparent hack of its criminal database",
+      "title_zh": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-21T16:35:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "FBI reportedly investigating apparent hack of its criminal database\n- Published\nThe FBI is investigating an apparent breach of its criminal information database, US media reports, citing two people briefed on the issue.",
+        "The National Crime Information Center (NCIC) database is used by federal and local law enforcement to share information on warrants and background checks.",
+        "It would not be the first time hackers have targeted the FBI, the domestic intelligence and security service of the US."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "FBI reportedly investigating apparent hack of its criminal database"
+      }
+    },
+    {
+      "title_original": "إسرائيل تكتشف أنفاقاً جديدة في غزة بعد أعوام من حرب مدمرة",
+      "title_zh": "إسرائيل تكتشف أنفاقاً جديدة في غزة بعد أعوام من حرب مدمرة",
+      "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxNZVBlSWpRM2M0OG1Qd1pPcHd4LUZHc3RPcFJhbmlPWW15TFZxdFhCT091QnZtTzAxWWhlX1BUTmpHNHlxVFRwYjI0bUwzTjNRUmZpWXllRXEzbDJlY0t6SGFhbE5sQ1AycDhGMTBsY18yNkIxSk5qRDJjTWF1eW83SFhUQ0J2YnhDYXhpOWxzUmhXZ1NRcURIeEcybE1sNXhtZzMwdkQ4bHNKQlBYNFdEaFI2eGRpdTBCMHlUYVlDSU1VYXVjTlRWZzJwZzJSMlJ2cUhWUzlwc3l4UlRpY3dVN3ZIaVJMV0JaR1ltbG9TVVN1RHdWS2dicm16MDF1djl5dGJRQV9PQ2l6RXh0S0RoLTM5OVFhd1VuRVVGYUdNX1duU0JKV25vdnhtckh5WVh1ZTdrZXdHX1p3aW8xUFA5RElhSExnSjRsVnBTYllrNlJBcjh1czktNmlfNUQ2UFVnNGM4cENtZkg0R1FMWkw0M08tbENTWEVZYmlYTThNNWdBLTBmeXV6UDIwSmU4M21iUUtxbFBEWkpNUmpPWkw5Vk1Ta2ZmVXlDVWt1MEhEWWhoZU4yLWszRHl6bTFPX01HaEl2TnlXaWZBWV9nSTFENzN0b1FjRE1LSzIxTm1Td2JSd0pzeEl4T2E0V1hDdG1rRFRicmhFcXlBcExKY0tzN2h1djl0VjlsV2FFQWpyMUVLdmxndnJUVnBUMUtONHp6aE9Dakw5MlBiM0Q2WWs5TGdBcGV6WjNCWkRKVEE0UkVuWl80YmtmTlJoWkZXU29mMENGUnRFS2pvUHFTcTZJNlFfbXpOdVpTMWRuV19nR2xRNjhTWEw4T29ZWHo3RC12cXVXVktlcjR1SDA?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-21T15:55:30+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "إسرائيل تكتشف أنفاقاً جديدة في غزة بعد أعوام من حرب مدمرة    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "إسرائيل تكتشف أنفاقاً جديدة في غزة بعد أعوام من حرب مدمرة"
+      }
+    },
+    {
+      "title_original": "زيلينسكي يهدد بتدمير كامل لجسر القرم... ويقول: لن يبقى قائماً",
+      "title_zh": "زيلينسكي يهدد بتدمير كامل لجسر القرم... ويقول: لن يبقى قائماً",
+      "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxNbzJPT3VBNml4QUlnd2t4bF9TN3VTaEdSWG13M1E2NnZTQm1wZFZUWnh3YlNSX2s0Qkc0Z3NxTWNIOWZlXzg2UFV6N3JHb21NdHRLYXN2bV9SM21EMkR2YlZwZlhpQU9jT2o3YkxDNDVvRzlRSkdEM0NWQ0pFUGpfQVN2S0VKek1qVUN6OUFEQ2psdUowNC16UGRRNXR5OTZ6WF9JUU9xRFJ2eUxPb3h0SEdtbWlULTRHSlFnV2JwZkg5eHRvVXhWZ2tUcmM5bVRkWmVfNWIyX3ozcG81NVRDRGg2ZjVlLTBvWnFRTFVTX1k2cE5pMUdaMlpra0hWUnV4ZlQteXZxZV9ld1ZaczJUNEpWT1VSRWJvX0xOdzNYdTJIMFBGVUpPVzZHcG1xX1RiSm04QzBSRmpvM2luaWw3a25Bdno5QURUanl0ajlxa3JTYVBHc29mYjFEaDFGTFFVeXZTOE9nczZvOVJXdmFOSnp2N2Y5TFBocmtiOTUySmlaVXlLcm9QdlMtZWhWOEVOeWtTSk5ER0ozVkVIRUM0dXV6NDNLOHRxd0ZGTnJfVEpSQmEzVEo5bVQ4dFdiT2l3Ujl2cHNrS0dDN2NTX0dCaTN1WHhtaDNsWC1ZOGFmWGdrM1FSU2xVNUZxNkFiVVE0Q1lsQkN3Z1U0UHB0LWctUnRKWkVJa2ZGdHV0dGt0MDBKZVcwTHNUUTFSZndXWlBOLUVPZ3ZPTzR0MFNYaUdn?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-21T15:53:36+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "زيلينسكي يهدد بتدمير كامل لجسر القرم...",
+        "ويقول: لن يبقى قائماً    الشرق الأوسط",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "زيلينسكي يهدد بتدمير كامل لجسر القرم... ويقول: لن يبقى قائماً"
+      }
+    },
+    {
+      "title_original": "Rutte in Warschau: Nato wird \"jeden Zentimeter\" Polens verteidigen",
+      "title_zh": "Rutte in Warschau: Nato wird \"jeden Zentimeter\" Polens verteidigen",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVNESWFsU2NpQXZvWk5rMHZPRDk1OW02Wk5uWU1uVHg1N3FVYTZ4enVsQzQ1MTR3QmlPQnRwQU5GakRBNEVJWHhEWDNHSFRJSUlQYXZUWkZzVDR2ODlCNmFpaUtVYUZmZ29YSFZlRFo5ZEZmaXpPU25WVzhPQ0Z6elZ5QU95SHVKZ09PRjRkcUE5azRZU0dYelY5dUJIcnNBVnpDSkY0YWFNMFAzaU52NC1lZw?oc=5",
+      "source": "WEB.DE",
+      "source_score": 40,
+      "published_at": "2026-11-21T15:50:01+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Rutte in Warschau: Nato wird \"jeden Zentimeter\" Polens verteidigen    WEB.DE",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "WEB.DE"
+      ],
+      "all_titles": {
+        "de": "Rutte in Warschau: Nato wird \"jeden Zentimeter\" Polens verteidigen"
+      }
+    },
+    {
+      "title_original": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "title_zh": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-21T14:54:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Fight over fossil fuels leaves COP31 climate talks in deadlock\n- Published\nNegotiations at the COP31 UN climate summit in Turkey are in deadlock, having run more than 24 hours into overtime as countries remain unable to agree on a new global climate deal.",
+        "In a late intervention on Friday, a group of countries led by France and Panama pushed back against the draft agreement which included no reference to reducing the world's demand for fossil fuels.",
+        "This still remains the main sticking point, along with a push from the Africa Group to get commitments on more money for adaptation - but the EU has previously said it would not support this."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Fight over fossil fuels leaves COP31 climate talks in deadlock"
+      }
+    },
+    {
+      "title_original": "Ilurco mira a Estados Unidos, Brasil y Oriente Medio en su plan de exportación",
+      "title_zh": "Ilurco mira a Estados Unidos, Brasil y Oriente Medio en su plan de exportación",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2FYODlTNG94OHR6UDVHWkpEaXlxLW9PQW9iY2ZKTW1VSWhCSFZIRV80S3BpTk9fNXZVUEVralFvd3pqU2V6WU8wTTlnTHVLU2xFX3h1eUZ0WkpyNWtweU1YeXFrYW1BUDJVb1JwOXR0YXZsb1k2WW5Bb05aVk5vNFNOdk10YlpyVS1TYkpqdFd2UHZZODFqcGJZUEtPVXPSAaQBQVVfeXFMT0dQYmx1d1ljY2RJZnF6VUdfN0JaWTBRV0Z5WjZlUHlvM0VDbHpnWUhEc1ZqUmxTNU9pYkwySGZBODJhN3VBVGdPTVFiLXBUY0JzZTItMkpadzVTdFVEQWlEV2V0VDBYQ3h4RERtWUNGWnFqT0tpenF1Tk1JakxRVnpZcFZHa0loRVlJR001M0ZOTG5ISkh1UzFkdDdhRGp0WnVPUUg?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-11-21T14:28:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ilurco mira a Estados Unidos, Brasil y Oriente Medio en su plan de exportación    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Ilurco mira a Estados Unidos, Brasil y Oriente Medio en su plan de exportación"
+      }
+    },
+    {
+      "title_original": "NATO will defend every inch of Polish territory, Rutte says",
+      "title_zh": "NATO will defend every inch of Polish territory, Rutte says",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWXlDbDhlc09IVzVHS0dKcmt0cDVXd3ZRYUtWTkpDOU5IMlVfdUZsWWFqblljVXBPbG5pd1A3TTRDZkJQaFR3YXZHWHJETUk3OUhDLUw4b2dmZXZJYkhKRGdrMjFXcHJMYmt3MzRYU09OR0xkd3ZUbWNjMGhoRzhhR2NucjZaQjgyVGFqOXZ4Mm5vVUhWS3NQZHZvd0J1dw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-21T14:03:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO will defend every inch of Polish territory, Rutte says    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "NATO will defend every inch of Polish territory, Rutte says"
+      }
+    },
+    {
+      "title_original": "Zelensky says Ukraine has yet to see written commitments on NATO-style security guarantees",
+      "title_zh": "Zelensky says Ukraine has yet to see written commitments on NATO-style security guarantees",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzcwMUZCTmxVczBvcnZrb3JHcHFscEhwbjNWNlQ5MUUzWXZYZU02UHRVU2pUa1ZscThvMlhQWUI1QzlxM3Fvc1VqVmJSVWd6N3VTN3ZPbHM4bjN5QmtFajdLSkJzckRvQnRBUmY2R3V6eXBjTGJfM2pacEVYdk80dl9pTXJfNVMyaVJ1eVJlb1JidnNYTi1rT2RtOGljRjJrODZTU0VhcFNENzNOOXR2N1VzY1M0STNFV2Nn?oc=5",
+      "source": "The Kyiv Independent",
+      "source_score": 40,
+      "published_at": "2026-11-21T13:50:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Zelensky says Ukraine has yet to see written commitments on NATO-style security guarantees    The Kyiv Independent",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "The Kyiv Independent"
+      ],
+      "all_titles": {
+        "en": "Zelensky says Ukraine has yet to see written commitments on NATO-style security guarantees"
+      }
+    },
+    {
+      "title_original": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "title_zh": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-21T13:17:38+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting\n- Published\nUkrainian President Volodymyr Zelensky has justified Kyiv's repeated attacks on a critical bridge linking Russia to occupied Crimea, calling it a \"fair response\" to 109 separate Russian attacks on bridges in Ukraine.",
+        "In comments to the BBC in Kyiv, Zelensky said the intense attacks on Ukraine by Russia that have followed the strikes on the Crimean Bridge were only a \"signal that Vladimir Putin does not want to stop.",
+        "He wants a reason to escalate\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting"
+      }
+    },
+    {
+      "title_original": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "title_zh": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-21T13:15:21+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out\n- Published\nA Mexican drug lord who was on the FBI's 10 most wanted list has been arrested following a shoot-out with Mexican authorities.",
+        "Fausto Isidro \"Chapo Isidro\" Meza Flores was detained along with his lieutenant by Mexican special forces in Guasave, Sinaloa on Friday, Mexico's defence secretariat said.",
+        "Meza Flores was wanted in Mexico on organised crime charges, while he has been accused of \"flooding the US with fentanyl, cocaine, heroin and other deadly drugs\" by the FBI."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out"
+      }
+    },
+    {
+      "title_original": "Russia's Reported NATO Demands Raise Alarm In Central Asia, Caucasus",
+      "title_zh": "Russia's Reported NATO Demands Raise Alarm In Central Asia, Caucasus",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdzVXRHNGbXZINC16Y2wycC03WE1RNDhVV2VUbWc0S05kTkwtQkpsdHkwWm1jajNYanRxX3hJLTJGa003c1VrLWU0SlBWZVplU1p5RF83c3dHcUNCRFFLRHhHU2ZFbDQ3QkpSVDNJUFpwVjhfYW12cTYtM3NydXBVUUFnbHFfRE9YU1pHOXl30gGQAUFVX3lxTE9LUG96SFdVNjZCUVg5MFpraDVORXFkR2Z3WDBJRUE4WTVJRzA2QndFMWo5bFJ6SXZrcFJJa2Y4a3ZzUzhPbnAxMnhUVVVCbE5MZHlQa0VqaGRzQmxYakZaeEZXem5KdzVPZDRGZlFqdXJEQVFYekZlQkxyUkpGc0haaE0tUE9yckNCWlVoTHcwWg?oc=5",
+      "source": "Radio Free Europe/Radio Liberty",
+      "source_score": 55,
+      "published_at": "2026-11-21T12:31:01+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russia's Reported NATO Demands Raise Alarm In Central Asia, Caucasus    Radio Free Europe/Radio Liberty",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Radio Free Europe/Radio Liberty"
+      ],
+      "all_titles": {
+        "en": "Russia's Reported NATO Demands Raise Alarm In Central Asia, Caucasus"
+      }
+    },
+    {
+      "title_original": "Russia tests NATO’s eastern defences",
+      "title_zh": "Russia tests NATO’s eastern defences",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zMDBvbnFVNW1DeDY3OThwLW5BckhnMVgxdlVyYU9JbGFDcmxDc3JySGV6OXNTcHNBcXlzZVVhLU5fNUc5bzJ4Qk1IVXM5bmxWTE9aSF85MHNYeHdqeEI3MURtZ19NYUx2WTkxX0dEOENDdw?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-21T12:29:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russia tests NATO’s eastern defences    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "en": "Russia tests NATO’s eastern defences"
+      }
+    },
+    {
+      "title_original": "‘Grandfather’ or ‘godfather’? Republicans know they’re stuck with Trump",
+      "title_zh": "‘Grandfather’ or ‘godfather’? Republicans know they’re stuck with Trump",
+      "url": "https://www.politico.com/news/2026/11/21/republican-chairs-know-stuck-with-trump-2028-01179393",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-21T07:00:00-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Some grassroots GOP leaders want Trump to stay out of 2028 — even though they know he won’t.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "‘Grandfather’ or ‘godfather’? Republicans know they’re stuck with Trump"
+      }
+    },
+    {
+      "title_original": "+++ Nachrichten im Ukrainekrieg +++: EU kündigt neue Sicherheitsstrategie an",
+      "title_zh": "+++ Nachrichten im Ukrainekrieg +++: EU kündigt neue Sicherheitsstrategie an",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56TmpzaEVDYTZjUlBuWWkxY3I0VS1xM3FFaXdWT3FfWWFodGYzS3o4MU5qRlNpeDVaTHFkMy1PMk0tRU43ZW5lYldqSm9nZ1dURW15MVM2YW5icEwwS0doNzNEY0U?oc=5",
+      "source": "taz.de",
+      "source_score": 40,
+      "published_at": "2026-11-21T11:46:58+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "+++ Nachrichten im Ukrainekrieg +++: EU kündigt neue Sicherheitsstrategie an    taz.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "taz.de"
+      ],
+      "all_titles": {
+        "de": "+++ Nachrichten im Ukrainekrieg +++: EU kündigt neue Sicherheitsstrategie an"
+      }
+    },
+    {
+      "title_original": "Russian missiles hit Poland: What happened, and could NATO respond?",
+      "title_zh": "Russian missiles hit Poland: What happened, and could NATO respond?",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXJxS0Y2ZWlaREQtbEtfbmhwcFJibU9pOTdCalNJNGhlTElNSmFMZXN0Sy1YYTlVN2VfcGRpbFgtNFlKM0I3ZEtILWk1TTRTVG1KYkp1VmJqcldtNG1rVnY1cG5rMUppb29kekNKazBGUy1LMVRKeEtOcmd2cTdFNUQxVl9mS3Zld0VqbEpiSU9nQU82bGdqUUN3c0JlMHR6VHB4UHlxU2Fod9IBrwFBVV95cUxPWS1tWElsbWdpWUFTN3VyamFlYTd5UXhMLTI1R0NKa1NzamV5WVIwRndZRm5qOWgxclQwOEprdi1tb290VHFnZWZHMGtSTVJidmFZT3RJVWpKS3lscFl6N244akRLQ29UeDZGcVBiZjR4MkthYkdCRUxCdmhtZnd0eFl2ZWtaWDdEN3Ridy1nLUgzN2E3LXI1MnEyb2NxTHlMUllZcnd2MUlHYXIwS2tr?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-21T11:06:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russian missiles hit Poland: What happened, and could NATO respond?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russian missiles hit Poland: What happened, and could NATO respond?"
+      }
+    },
+    {
+      "title_original": "Haitians excited but uneasy as El Salvador troops fight gangs",
+      "title_zh": "Haitians excited but uneasy as El Salvador troops fight gangs",
+      "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-21T11:00:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Foreign combatants in Port-au-Prince welcomed by many after years of gang control but some fear offensive could exacerbate volatile situation A bullet-peppered mural of the Haitian striker Emmanuel Sanon covers the facade of Port-au-Prince’s main football ground.",
+        "But more than two years have passed since any sports stars graced the pitch.",
+        "In 2024, as the surrounding city was almost entirely captured by heavily armed gangs , Sylvio Cator stadium – where football greats including Brazil’s Ronaldo and Roberto Carlos once played – also fell under criminal control, its dilapidated red and blue stands used as an outpost by fighters working for a gang boss called Izo."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Haitians excited but uneasy as El Salvador troops fight gangs"
+      }
+    },
+    {
+      "title_original": "ウクライナ南部クリヴィー・リフでロシア軍攻撃により２名死亡、６０名負傷",
+      "title_zh": "ウクライナ南部クリヴィー・リフでロシア軍攻撃により２名死亡、６０名負傷",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdExCSVQxbkU4YUhpdEZuV0kwcm1ITWd4SHJ4bzRIOW04cFZyc09QWERUemRDSmJ0NjVPZGVPU2pkX194S0daSXUxN1BZYjlUTGxZNnpTUXE3UDUweTNfSU5mbS14NE1LRlpaX0dfczRUUGpRNWdzU3Rhb1J1bEFXd3c0R3Jhb21VUVJqWmhTTXNEWWJ4YUhpM1EzZ3kxNUhYMEtOa09RVFVBQWZtLVlWYi1yVWktdWtEWk5Vd0I4Tk9wLUpS0gHKAUFVX3lxTE1RUHVnNVg0QWdCU01wRC1pd29SSzlTaHJlVkN0V2lyekVRYXJCeUg0TkRqT1RvMlFzZ3lRRHNiZHdPamJORGtfajd0SjdRV0l5WVRLZTJNUU4zLTlHRUdBVVotSFozRXkzME5oVk52c2gyOXp0c0pPR3lYcXc4Q1YtTHNLVXpFZHVhdFVIdnY4TmpUd2tCSlJtdEZfREF3YWtZaXU1YUpDZFR3TkNvc19UNDBQeUJFUXlZeV9PX3Z5aG1zTzlHYzdfVmc?oc=5",
+      "source": "ウクルインフォルム通信",
+      "source_score": 40,
+      "published_at": "2026-11-21T10:55:13+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ南部クリヴィー・リフでロシア軍攻撃により２名死亡、６０名負傷    ウクルインフォルム通信",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "ウクルインフォルム通信"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ南部クリヴィー・リフでロシア軍攻撃により２名死亡、６０名負傷"
+      }
+    },
+    {
+      "title_original": "俄罗斯导弹落入波兰 事发时多国正在波兰进行大规模军演 这会触发北约集体防御机制吗？",
+      "title_zh": "俄罗斯导弹落入波兰 事发时多国正在波兰进行大规模军演 这会触发北约集体防御机制吗？",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPbHc5dHpqbkFOcU5lbWRaTmNOZkIxemdQQkFRangtcUsyMERmaTViZ1g5SlJHLUE3dDhfQUZxNFl6QXhrQzk3SVBqUUtIb2tUODVEbTZmWm1QZFh0NzRONUxWa1R6LUNCOWQtMGZqa3ItbHJLd2F0SzRWOTF0cG9mVGRqcGRwVXZBWEo5aWdPX3YyU3Bya21ZRkwzZFRTTHAyNHpuMEFxVXpmWXpQSlc5YlBYTkxpNm1kSUJxMDNOMU1lcTdCbWkzdzJyWUtORWlLMGxqaERxWWtuMDdQSWwyMGZsVDN2YTlZRG5SZ2xMNThFTWRlbVhXdEZjZUNaeld6amd5Y2pvZUd4RVdTU3RpSU83T3pKbE5BRzVXLU9MSWtQZUoybjJkVFZnS053TGVCeWpUM25mNHRnZ9IBugJBVV95cUxNSFltZTVZRjI4ZXFHdzkxc2FHOFhxY0ZybVBESlU2MXFLMmpSSG9oOUlYQkJoNjh1SjNfbzNUNHhJRjYxWDVfYUZCZEZkNkRrOGVEcURpN29qVzI0Zkhmd2hnMkY5VVZsaXZFYWQxOWgtdmdZalVMNE1pMXNhbUVEZkpqakx1cDRTT0hhVDRMb3NCUGx5aGp2Rm1JRGpLcVZaYThnYTJySy1LUkZaUjZEY3BHbDA3WkRuNWphRE9LWmlac2FVLURFNUJfdEpFOFVOeVNuNFp5Rm9ZTjhObzM3ckJISTVxTkN4dllIQmwtX2RTcWJSdHZmdGdSR09CWl9aN0tkWHNZVzNtV0RGZmlBT3QyOE9WUTZQRktfY0ROYkRXVHowbFJkVDFCNjJwNElmUTB2VnRXdG92UQ?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-21T10:42:47+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "俄罗斯导弹落入波兰 事发时多国正在波兰进行大规模军演 这会触发北约集体防御机制吗？",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "zh": "俄罗斯导弹落入波兰 事发时多国正在波兰进行大规模军演 这会触发北约集体防御机制吗？"
+      }
+    },
+    {
+      "title_original": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "title_zh": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-21T10:26:36+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper\n- Published\nDenmark has accused Russian intelligence services of plotting to assassinate a Ukrainian-American near Copenhagen, saying they had \"planned\" and \"initiated\" the attempt.",
+        "Denmark's security and intelligence agency (PET) said it had stopped individuals who were intending to kill the person, named by Danish media as rapper Kyivstoner, at a concert in September.",
+        "Two people were charged with attempted murder and assisting a foreign intelligence service, and pleaded not guilty."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper"
+      }
+    },
+    {
+      "title_original": "China commits to low-carbon electrification and help for others to improve",
+      "title_zh": "China commits to low-carbon electrification and help for others to improve",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-21T09:47:57+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035 Cop31 live – latest updates China is pushing for rapid electrification of its economy using low-carbon energy and will help other countries do the same, a senior member of the Chinese delegation at the Cop31 UN climate summit has said.",
+        "Wang Yi, a professor of energy and environment policy at the Chinese Academy of Sciences and a senior adviser to China’s government, said: “End-use electrification is a very clear direction.",
+        "We can follow this direction while making the source of electricity clean."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "China commits to low-carbon electrification and help for others to improve"
+      }
+    },
+    {
+      "title_original": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "title_zh": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-21T09:40:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Deal with EU not dependent on tuition fees agreement, Miliband says\n- Published\nA deal agreed between the UK and the European Union on Friday will come into force regardless of whether the two sides can negotiate a separate tuition fees agreement, Foreign Secretary Ed Miliband has told the BBC.",
+        "The measures agreed in Brussels include scrapping most checks on British food exports in return for the UK following some EU regulations from 2028, and a new youth mobility scheme.",
+        "However, a proposal from the bloc to lower the level of tuition fees paid by EU students in the UK has not been agreed."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Deal with EU not dependent on tuition fees agreement, Miliband says"
+      }
+    },
+    {
+      "title_original": "Russian projectiles hit Poland as NATO tensions rise",
+      "title_zh": "Russian projectiles hit Poland as NATO tensions rise",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHVieU1qbnhvZGhnMW5IdTRSbC1YVFNyUlJTWl9CVlhsVWltb3dvNTlCdjNQVXVZVDN4LV9VYjZscVdDa0l0cDEwOWhDWGY2OHZVcE9Sa2FQcW1Ia3hUOEhtXzNNR2xVRHl4Yzlrd0hYMjVfM0FFc0xzdFllTk53Wm1MUnhhTWc?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-21T09:35:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Russian projectiles hit Poland as NATO tensions rise    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "en": "Russian projectiles hit Poland as NATO tensions rise"
+      }
+    },
+    {
+      "title_original": "以后的中美关系会怎样？美国只剩下这最后一条路了",
+      "title_zh": "以后的中美关系会怎样？美国只剩下这最后一条路了",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NTlZmTnhGRFJPbjZUUlhHZkpOMS1TWDctdDNfVkVLTkk3RVh0LUdENm95a2hONzF1YklVUjFtTk9qS3M3RlRpRFpHdk43M3ZkUDg4N0JLNFFUaWM?oc=5",
+      "source": "风闻",
+      "source_score": 40,
+      "published_at": "2026-11-21T08:37:41+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "以后的中美关系会怎样？美国只剩下这最后一条路了    风闻",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "风闻"
+      ],
+      "all_titles": {
+        "zh": "以后的中美关系会怎样？美国只剩下这最后一条路了"
+      }
+    },
+    {
+      "title_original": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "title_zh": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-21T08:10:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend\n- Published\nUkraine's President Volodymyr Zelensky has said Vladimir Putin is a \"killer\" in response to Donald Trump referring to the Russian leader as his \"friend\" in China this week.",
+        "Speaking to CNN, Zelensky said it was up to the US president \"how to call Putin\" but \"for us, he is an enemy...",
+        "for us, he's a killer\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend"
+      }
+    },
+    {
+      "title_original": "Trafalgar Square Christmas tree felled in Norway",
+      "title_zh": "Trafalgar Square Christmas tree felled in Norway",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-21T08:10:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Trafalgar Square Christmas tree felled in Norway\n- Published\nThis year's Trafalgar Square Christmas tree has been cut down in a forest outside Oslo, ready to begin its journey to London.",
+        "The 21m (69ft) tree, nicknamed Jolly Cheery, is about 75 years old.",
+        "It was felled on Friday by the Lord Mayor of Westminster, Karen Scarborough, and the Mayor of Oslo, Anne Lindboe."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Trafalgar Square Christmas tree felled in Norway"
+      }
+    },
+    {
+      "title_original": "ウクライナで今年1144人の子どもが死傷 1日平均3人 ユニセフ（ＡＦＰ＝時事）",
+      "title_zh": "ウクライナで今年1144人の子どもが死傷 1日平均3人 ユニセフ（ＡＦＰ＝時事）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zTGVQbmVYMXpWSWxRem4yWkxsd19ia0N3Zl9kNlpQbC1iWmpEOW5NTkVfNEhQMklMVkE2LWRwNndsOE1CQlhoQ2VkY2JtS0UydVVVYVc0ZW5aZlhHNnhZcjZqTmlkcUtlek1KUm01dWxsYXhJbXZGampFcU9Jakk?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-21T07:34:38+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナで今年1144人の子どもが死傷 1日平均3人 ユニセフ（ＡＦＰ＝時事）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナで今年1144人の子どもが死傷 1日平均3人 ユニセフ（ＡＦＰ＝時事）"
+      }
+    },
+    {
+      "title_original": "Cinq navires de l’Otan sont à la base navale de Brest jusqu’à lundi 23 novembre",
+      "title_zh": "Cinq navires de l’Otan sont à la base navale de Brest jusqu’à lundi 23 novembre",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVUEtXzJnRUpJWnYwR3dKMDA1RGN4eHQ0Qng2VjZvZW5zeUhKajR4S3pjQ1N6dmVWTnh4bHNqd2ZrNXhDLWRIeTgzR3Ewa1EyVmRqc2QwajNuTDhHVG9EYldpODJQREZDSVlENnBlTzloTmJMMlRpazZYcGV1cTRzb1dkeExoVkMzcGNuUDZicEl2TEtuYW1hSTRUSlI4eUMwblROc2dPMW9sMWNOZ25Ydnd4eVkxVFpGT0FJTV8ydEs1Y2hWVHVzdXdlWUlSeHFhNXp0VWdYSExUNXlQdjgyQU50ZEFVQjg4S0c0dlBQVEVKSnlReHc?oc=5",
+      "source": "Ouest-France",
+      "source_score": 40,
+      "published_at": "2026-11-21T07:30:22+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Cinq navires de l’Otan sont à la base navale de Brest jusqu’à lundi 23 novembre    Ouest-France",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Ouest-France"
+      ],
+      "all_titles": {
+        "fr": "Cinq navires de l’Otan sont à la base navale de Brest jusqu’à lundi 23 novembre"
+      }
+    },
+    {
+      "title_original": "ウクライナ支援の有志連合、初の軍事演習 高官ら視察直前に領空侵犯",
+      "title_zh": "ウクライナ支援の有志連合、初の軍事演習 高官ら視察直前に領空侵犯",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3TkpjdXBMajJsVWtNSWJlckZRQm0xNHJOMVRPS3dVcl9aN0U2MzMxYjZoMkZERWFNdDJiZzEwMUNPd05ldXRfa2pSR3NQWmdIaU41ak5RR1ZHZW5DUml1Y2t0cjBUbVk?oc=5",
+      "source": "朝日新聞",
+      "source_score": 40,
+      "published_at": "2026-11-21T07:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナ支援の有志連合、初の軍事演習 高官ら視察直前に領空侵犯    朝日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "朝日新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ支援の有志連合、初の軍事演習 高官ら視察直前に領空侵犯"
+      }
+    },
+    {
+      "title_original": "Caos en Oriente Medio y el ciclismo WorldTeam: AlUla suspende la carrera y el patrocinio de Jayco",
+      "title_zh": "Caos en Oriente Medio y el ciclismo WorldTeam: AlUla suspende la carrera y el patrocinio de Jayco",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1lwR1NWR3kxMDkyODluaTd3MHd4OER1SzlUX1JWYnFJOE5ublB0VkZudUdwY0NqQlROVHQtTVlKYVd0dDEwWm9JNHdfcE1SWXZZSWlQdE5fODRVU2h3MUFuV0xBbXQxM3NsRF9PbnBlQXBGektfM0dHU2RVLVRKc3FGcUpGQjhoUUJJZWt0OEpPMWc4RXdSbTFKcVJJS1NDM1ZUUWxHM245NmlGQXJqbnA4a2UzaTJERmNPck1zenk?oc=5",
+      "source": "Zikloland",
+      "source_score": 40,
+      "published_at": "2026-11-21T06:46:50+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Caos en Oriente Medio y el ciclismo WorldTeam: AlUla suspende la carrera y el patrocinio de Jayco    Zikloland",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Zikloland"
+      ],
+      "all_titles": {
+        "es": "Caos en Oriente Medio y el ciclismo WorldTeam: AlUla suspende la carrera y el patrocinio de Jayco"
+      }
+    },
+    {
+      "title_original": "La UE y Reino Unido piden rebajar la tensión en Oriente Medio",
+      "title_zh": "La UE y Reino Unido piden rebajar la tensión en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RaVI2MTdjY004VERRZUduRUxUVlBtcHZza2pmRjdKbTh6LUM2WU9RTVFPWWU0SlhXU1lqTGF4bmxrelE4RGhpNQ?oc=5",
+      "source": "سانا",
+      "source_score": 40,
+      "published_at": "2026-11-21T06:36:47+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "La UE y Reino Unido piden rebajar la tensión en Oriente Medio    سانا",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "سانا"
+      ],
+      "all_titles": {
+        "es": "La UE y Reino Unido piden rebajar la tensión en Oriente Medio"
+      }
+    },
+    {
+      "title_original": "北约没想到，普京出手就是狠招，俄罗斯导弹打到波兰，特朗普紧急出面，一枚俄制导弹落进北约国家，普京到底想敲打谁？",
+      "title_zh": "北约没想到，普京出手就是狠招，俄罗斯导弹打到波兰，特朗普紧急出面，一枚俄制导弹落进北约国家，普京到底想敲打谁？",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWnFGZ3dOenA4SUcxOG5zdWNlLWRkTm1yTHI5TUhnQldmN210OFhsV21lRk9fallQRkVaMXpRdFJ1RWF3QldaNnN6dGdweUFmbWVXYjRvNEhmMnluSi1QUTFvWlNfaFg3UWVUY1cyYjVSSVc4SWw0Tlo5UDdORUF2LWFDcDJPdllXMi1Jbg?oc=5",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-11-21T06:22:54+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约没想到，普京出手就是狠招，俄罗斯导弹打到波兰，特朗普紧急出面，一枚俄制导弹落进北约国家，普京到底想敲打谁？",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "北约没想到，普京出手就是狠招，俄罗斯导弹打到波兰，特朗普紧急出面，一枚俄制导弹落进北约国家，普京到底想敲打谁？"
+      }
+    }
+  ]
+}
