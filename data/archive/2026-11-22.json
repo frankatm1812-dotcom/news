@@ -1,8 +1,633 @@
 {
   "date": "2026-11-22",
-  "generated_at": "2026-11-21T17:58:14.368601+00:00",
-  "count": 35,
+  "generated_at": "2026-11-22T03:04:25.422348+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title_original": "La OTAN reafirma su compromiso de defender «cada centímetro» de Polonia tras nuevas denuncias por incursión aérea rusa",
+      "title_zh": "La OTAN reafirma su compromiso de defender «cada centímetro» de Polonia tras nuevas denuncias por incursión aérea rusa",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdHhIS1JmWENsR0VYXzcwMk5Cd2dLT0NnZ2hLQ0JxSnpYSmI1ZThVTGoyTTMxcXlOMHMxWkZuZW4wTEJYWjRYb0d3UWRNelFfMHZpeVo3UGpkUU5QODZoeWhQcmJTRzlBVkNjU2FIcUVSUG1uNTdPMXJsSzZhb2VwU01UMHNMcDh4VHhhZlFtal9RQ3F1a2h3a19JV2dRSkhZZmFjVDJjQ182WWM5QWljdkl0UE5YZE9DRF9EUXdVNTJQbFpsRkV0M1RYRXpNOVZocy1xbXV3?oc=5",
+      "source": "laconexion.cl",
+      "source_score": 40,
+      "published_at": "2026-11-22T02:58:30+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La OTAN reafirma su compromiso de defender «cada centímetro» de Polonia tras nuevas denuncias por incursión aérea rusa    laconexion.cl",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "laconexion.cl"
+      ],
+      "all_titles": {
+        "es": "La OTAN reafirma su compromiso de defender «cada centímetro» de Polonia tras nuevas denuncias por incursión aérea rusa"
+      }
+    },
+    {
+      "title_original": "ロシア貨物船、フィンランド湾で炎上し漂流 ウクライナによる無人機攻撃か（2026年11月21日掲載）｜日テレNEWS NNN",
+      "title_zh": "ロシア貨物船、フィンランド湾で炎上し漂流 ウクライナによる無人機攻撃か（2026年11月21日掲載）｜日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSC1pRHhJNGdfZFR6YmVSODZlbjgtU1dpTFBQRm1hWXRHbUNDWEJVdWk5V1Rha0lPZkptRUFqQUZKcURDMmd4ZmktUGlOLV8ta3ZabF9IV01mVUdNWDlRVXY2UzhhT0hQd3JNZzdMb25jN0xmaDd4anU1QUt6cUtlcElEelg?oc=5",
+      "source": "日テレNEWS NNN",
+      "source_score": 40,
+      "published_at": "2026-11-22T02:52:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシア貨物船、フィンランド湾で炎上し漂流 ウクライナによる無人機攻撃か（2026年11月21日掲載）｜日テレNEWS NNN    日テレNEWS NNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "日テレNEWS NNN"
+      ],
+      "all_titles": {
+        "ja": "ロシア貨物船、フィンランド湾で炎上し漂流 ウクライナによる無人機攻撃か（2026年11月21日掲載）｜日テレNEWS NNN"
+      }
+    },
+    {
+      "title_original": "Taiwán advirtió a Canadá que su acercamiento comercial a China puede derivar en presiones económicas",
+      "title_zh": "Taiwán advirtió a Canadá que su acercamiento comercial a China puede derivar en presiones económicas",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdkhjajBLV1hXY2J2Tk4wM3pmeFZieF9PSkp0OXotV0UzcDZPeWZsRkVIRDl3WWxKSm1GSDQ2eGNmWExWMHdyd2V1MXl3YTJxUVFZRTZrQTUtZ0RPZWJ6eUxVNUJwYUxaLWFRQzFDMUVBMFRxcUx0Mmd4M0FnNm52X3pOeHBPcldOS3NyX3d3bjJrQ2JBUjd2NDhDNDBBdy0wUXJDWmNhUnpnQ2t3UEEwMkY3ejRUdHVhYWc1QU8wYjdXbXM1TG9aLTg1QWFjQlBXX2JZUmgwRUFlREFBS1VITGhLTGPSAf8BQVVfeXFMT3d2aXdkWWJkS2l3RjJSN2tXRnl3NFBzNXQ0Q0pGQzFxblR2MVRUa0hNZkVIRXFPOUtRbUNuNG1WdVBIZmhmWE1NTUJSQ1dhZU12Z1pIejlDTDBzTlFUV3hSMU1rNXJzZ0dsSlNJVDRLTW5EcHUtOGZzbTFYT1VaMHJyYmdnN29zaDhnSzlVRG9ta1owSkx3TlJUVFFUV3RHdGNtSGdjVkFRN3YzYVo3TThDZUVJTUl4RGlpaVZhSEU0d1ZqMjVweUFhZFh2aDgtUml4Rklqd0JOM3kzRzA4ZXM3TUJXbG5FZUlUT1NUc1JRTFhmeWNTV3lzRWxIR3JF?oc=5",
+      "source": "Infobae",
+      "source_score": 40,
+      "published_at": "2026-11-22T02:40:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Taiwán advirtió a Canadá que su acercamiento comercial a China puede derivar en presiones económicas    Infobae",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "Infobae"
+      ],
+      "all_titles": {
+        "es": "Taiwán advirtió a Canadá que su acercamiento comercial a China puede derivar en presiones económicas"
+      }
+    },
+    {
+      "title_original": "زيلينسكي مهدداً: جسر القرم لن يبقى قائماً",
+      "title_zh": "زيلينسكي مهدداً: جسر القرم لن يبقى قائماً",
+      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNUXJxQWxEaWRIUFB2THhkVUpRRU5HZTVQbzhrQlJhMVBBRUVab3lfWW9TSDJJOXNWbmZFNXVyZWJVdzM3VV9ycHZJVEpVeFBNZ1hNSnBfaWtyTVJZVFNIc0t1eG43VEYxak5NSGtOZ25GeThvRkFtRHBuT3NFZzF0QTgwb2thVEpiY2tRMGdHSVl0VE5uM3RITklsZXgxTnRaU0c2ZUJXY3VxZDFzQWVQWEJ0R3hzbkd0WDhrdXRnaXJNMDdZNThGUFVQckpIZWNZZ1BneDF6S3Nlb1pXa2JsMWdfT196TlEtekFJSWtTZ1hJak96eHhwQ3ZJWmlUamVYU0hkZmJtRkZBUlFjaTMxZS1MeTd0LURpTTdIek1OLWM4SWxwbUxFNWlKeHJ1bUo0T1pBSFdvX3NtVENIeHc5ZjJ0cllCTThLcWk5S3ZCbW5xODVOaWNmVndvdXJJYW9YeW95WFk3RUFSV0Fqem1jOUxhQ04waGgtQ21FT0RVUXA1WDExNlpYZ1U2MFJpdnhWSnQxaUVueU9qZXRva3VPSGp6d2VYWWJUM1NMT3JTNEhyXzFZYjlGc0piaw?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-22T01:51:01+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "زيلينسكي مهدداً: جسر القرم لن يبقى قائماً    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "زيلينسكي مهدداً: جسر القرم لن يبقى قائماً"
+      }
+    },
+    {
+      "title_original": "加拿大正式加入北约创新基金-36氪",
+      "title_zh": "加拿大正式加入北约创新基金-36氪",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94eGhmb0lRbHlYSFV4NUxVX1h1aF9NbWJXN1pCbHQyWUVJa2ZwbVAwNWw3TEcwanJ0Q3Bqb0ljN3h0clVpR0xIUFlmck1mVGlrakhYaHg1TTg?oc=5",
+      "source": "36kr.com",
+      "source_score": 40,
+      "published_at": "2026-11-22T01:02:11+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "加拿大正式加入北约创新基金-36氪    36kr.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "36kr.com"
+      ],
+      "all_titles": {
+        "zh": "加拿大正式加入北约创新基金-36氪"
+      }
+    },
+    {
+      "title_original": "せんだいメディアテークでウクライナ映画祭「現状を知るきっかけに」（朝日新聞）",
+      "title_zh": "せんだいメディアテークでウクライナ映画祭「現状を知るきっかけに」（朝日新聞）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNnpZZXR3TG5uX203a0huVzlCRHU2SU5pZWh4VzRJQ3JkRldhbEhTckZSbmJjMDBrNmE4czFpQTVfenIza1I3dF9IUGZPVXdnZExUclc1THVUWHNqX3djYV9ndlhKR3R2cHVoSm0tSnhpMHdJMzJUZ3VGLTdUb2s?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-22T01:00:01+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "せんだいメディアテークでウクライナ映画祭「現状を知るきっかけに」（朝日新聞）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "せんだいメディアテークでウクライナ映画祭「現状を知るきっかけに」（朝日新聞）"
+      }
+    },
+    {
+      "title_original": "Café para todos en Berlín; té para tres en Shenzhen",
+      "title_zh": "Café para todos en Berlín; té para tres en Shenzhen",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdnhVWlFjTDZQOVhPams3MkJHWFdENkRDVEhsTUdXRllkcjM2dTBMdW9FNGlyM0RUSHBTV01zSjZkTUF1UklJdWdpZmRNZ0h4WU1aZExsaHhDUFpwczI1VUwzcDd5VmxqdUNXNklpMkJvdDB0Y1hIZzJ2MUxrV2RPOFV1Y9IBgwFBVV95cUxNamY1NUI4T00xTkZRcVZBM2J3WHNRblgxMzBTV283UW1EX3NNRldsZDJrYzZfanpMUVVNSjBVZGFNREwwVGNMVHh4LWhRbGM3MngwckxXN2JpX0JxaVN6amZEVXRMRy1zOHNDX21SVWkzWTRaN1l5REgyZnFxUXlmMmE4RQ?oc=5",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-11-22T00:02:14+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Café para todos en Berlín; té para tres en Shenzhen    El Mundo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "Café para todos en Berlín; té para tres en Shenzhen"
+      }
+    },
+    {
+      "title_original": "La OTAN dice que defenderá Polonia tras una invasión a su espacio aéreo por parte de Rusia",
+      "title_zh": "La OTAN dice que defenderá Polonia tras una invasión a su espacio aéreo por parte de Rusia",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWxJdV9nNWE3T29kcXphNGYycDVHTlR1bmYxLV9UNDJ3ODkzWEx1bEczdTlORVJCQlpNQ0pGQV9OWjFrMFcwN2puSDhKdjZLWDViWmtOaEtpR0NuSGFoUWM4c1ViNDg0MlZNNjJyLUphTlU2SHVzMTJpM2d0dUdyc1J0bUVZdVhsZTQtc05R?oc=5",
+      "source": "CNN en Español",
+      "source_score": 95,
+      "published_at": "2026-11-21T23:55:57+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La OTAN dice que defenderá Polonia tras una invasión a su espacio aéreo por parte de Rusia    CNN en Español",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "CNN en Español"
+      ],
+      "all_titles": {
+        "es": "La OTAN dice que defenderá Polonia tras una invasión a su espacio aéreo por parte de Rusia"
+      }
+    },
+    {
+      "title_original": "Rutte promete la defensa de Polonia por parte de la OTAN tras la incursión de misiles rusos",
+      "title_zh": "Rutte promete la defensa de Polonia por parte de la OTAN tras la incursión de misiles rusos",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV25oMkp0ZlR2Z1piT19zMzdLcWFucGFjQzVlZlZTb3VQZE40M0FjMjFjejMydXpZYjMxT1J5d3JjdGxyY3JzNFpyZExjYXE3U09VaFBXNG1BV1NJYzJoLVhUWDUtNGZUdFFTd28wNTRPUlZBYjV1M1FUM2s3UDFHRkpkR3IzSGx3R1FEc25ERFBOMWFPd1VpNTMwckw3SkpxekN0dG05b20wVENqaUtmMXBrajlsWnRjdlVPbmZyT09HeERw0gHEAUFVX3lxTE1KRDY3WlVLVEVBYkFqTUpkM2pSbmNac19TRGk2bTRpaGN6dHpoQ19kaG84Y0pHTzctVkdpakNWRFNqNGpvdk9tYU5qMldJRVZ1THNUaUlDcF9lRmROUlZNcHMwSE94YjdwR3JKNDFJQ0tUWTZRbmZkQl9pVGpMVXBWeDl0ZXA3U25HajBZTWZGaTljR1FFUEtmU2FKX2U5N2kwTTVZVk5ZYzJfcTg3R2IwYVNGQUNCOTU5SVBYZkxrMzBCTWw?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-21T23:23:30+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Rutte promete la defensa de Polonia por parte de la OTAN tras la incursión de misiles rusos    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Rutte promete la defensa de Polonia por parte de la OTAN tras la incursión de misiles rusos"
+      }
+    },
+    {
+      "title_original": "Ukraine-Krieg - Selenskyj: \"Krimbrücke wird nicht stehen bleiben\"",
+      "title_zh": "Ukraine-Krieg - Selenskyj: \"Krimbrücke wird nicht stehen bleiben\"",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRG1iUXhhMVNjTkxpN3VfSFNNVkdlWVA1dWRtejVzVDV2NmszZThoblJ6S2xyMzRqb0g5MWdtYUhWN2txdWtkckM0bVZUYkY5Y0VfaU1uZVlySk83TXlkX2hxQ1ZCbnpSc2Z6WUxodFN1d3hESHBUU3BjbjVDeF9ld21oVmxBdGxtMjJRdlFSZHU?oc=5",
+      "source": "Deutschlandfunk",
+      "source_score": 40,
+      "published_at": "2026-11-21T23:00:29+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine-Krieg - Selenskyj: \"Krimbrücke wird nicht stehen bleiben\"    Deutschlandfunk",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "Deutschlandfunk"
+      ],
+      "all_titles": {
+        "de": "Ukraine-Krieg - Selenskyj: \"Krimbrücke wird nicht stehen bleiben\""
+      }
+    },
+    {
+      "title_original": "爱沙尼亚发布无人机威胁预警,北约盟国战机(含土耳其战斗机)升空",
+      "title_zh": "爱沙尼亚发布无人机威胁预警,北约盟国战机(含土耳其战斗机)升空",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84aThYUXdZYXJ0WGdLUXhXZjVmby03eEM3MlVOR3FReFlxVXN3Rk5ubjhyTGNseGlwUjJKak9YX2tuWGpfRV81aldPLWctY1hfVTg0VldObFZCX0xjVjNVanF2MVNtcnNCSjZEbzJoTFh6UHptU1N6NzJYQXBrZw?oc=5",
+      "source": "Avi-Go",
+      "source_score": 40,
+      "published_at": "2026-11-21T22:59:38+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "爱沙尼亚发布无人机威胁预警,北约盟国战机(含土耳其战斗机)升空    Avi-Go",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "Avi-Go"
+      ],
+      "all_titles": {
+        "zh": "爱沙尼亚发布无人机威胁预警,北约盟国战机(含土耳其战斗机)升空"
+      }
+    },
+    {
+      "title_original": "Lock of former US President George Washington's hair sells for $4,000",
+      "title_zh": "Lock of former US President George Washington's hair sells for $4,000",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-21T22:01:19+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Lock of former US President George Washington's hair sells for $4,000\n- Published\nA framed lock of hair from America's first president, George Washington, has been sold at auction for $4,000 (£3,058).",
+        "The hair once belonged to John Gadsby, who entertained Washington in 1799 just before the latter's death the same year, and was later obtained by a collector called John K Lattimer from a descendent of Gadsby's, according to Richmond Auctions, which sold the item.",
+        "Its new owner has not been named."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Lock of former US President George Washington's hair sells for $4,000"
+      }
+    },
+    {
+      "title_original": "ロシア貨物船に無人機攻撃、フィンランド領海に漂流 ウクライナ関与か | ロイター",
+      "title_zh": "ロシア貨物船に無人機攻撃、フィンランド領海に漂流 ウクライナ関与か | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVDZlamRvbXJrZGR5cU00MEphNEVSYThKMEdDYXNwbjIwUUtmYlVJRGFIY3FMR09KZnN0dkFnaXFvUzQtOUNCYm0wNF9nV2FidEZSS0lwWkhFc092azVfLS0tdmlpMi1GMlFwNjR2OWQwUmJWcm1HYm5TOHg3Wm9PSlFnUXoydw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-21T21:25:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア貨物船に無人機攻撃、フィンランド領海に漂流 ウクライナ関与か | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア貨物船に無人機攻撃、フィンランド領海に漂流 ウクライナ関与か | ロイター"
+      }
+    },
+    {
+      "title_original": "Finland warns Ukraine war ‘spilling over’ after Baltic Sea drone strike on Russian cargo ship",
+      "title_zh": "Finland warns Ukraine war ‘spilling over’ after Baltic Sea drone strike on Russian cargo ship",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03c0w4dmN2aEdLWTBCeTR6eEFtZ1BkSi1SQlV5NS1WVExuUnZJTjFxZDlCRU13U1dmc1lkdjNwM3pVUjJjTktDOU81Qy0yaEVHS2JlVFlnUVRVRWlQbnM1WEQtX0pqYWI0VmJaV2UySkxaTFZuS09XV094R1huQQ?oc=5",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-11-21T21:23:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Finland warns Ukraine war ‘spilling over’ after Baltic Sea drone strike on Russian cargo ship    CNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "en": "Finland warns Ukraine war ‘spilling over’ after Baltic Sea drone strike on Russian cargo ship"
+      }
+    },
+    {
+      "title_original": "البحرين تتصدى لاعتداءات إيرانية... وأضرار بمنشأة صناعية مدنية",
+      "title_zh": "البحرين تتصدى لاعتداءات إيرانية... وأضرار بمنشأة صناعية مدنية",
+      "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxNYkxDQ2d2UFJtbE41YVk5bDN6OFdneWItSnl5bThGZFlvdjNvNW1fbmo2a21RUXM1c2kxWlZiX0NJTVM4dVNYWlBoUU40LS01VFhydHRiVnNSanNibk1iTlVGdjZXSUlUYkJISEdUNEZweWVXTHVmVU1TaGRxQTVZeThjNHRDbzVLXzlXVTVMTW1HcnJXYnZNclpaRVppR1ZZcUxibHltWDdqZHJ6RTBwdGxJRnBENHJCRnBXZkhnZDZvMEZLcWpzLXVfdDlsQ1IwbWlpaVBHQzJwalhETlFhNi1GbFZnOWhueGw5d2hGbGJrQktubUNxOU5abXhCaC1peGd3Y3d6MVBrd0J2c2d0NVc2b1lGWm16d3A0eHhrVEEySERUQ09LNG1BSEY0UmhUaFl3TzVJb0pDVDFaZFJHUkZ5VFZjaFNTdE1JeF9udnE3VmRpa3ZLOUhVTUpjLUthWXlpeDRtVklvN1ltVU8wTVVKcElPdFIzdVZQa2pLbmFpck55bzF0Mjhub2tOREpnXzI5MzUwOVkwaVhhQlBfTklMZzhWeTgyekpzQWh0ZTRpQ3BiNVpSaldYUVQtdjNIMUY4M3hscTlpd2U5QUZadWVUXzc2dGtvOXNtcDFkN1hOMkszMUxuOXViWGx5Q3IzVXJuYmdlRnM4eHpIcDRHTzB4U244NnZhNWwzRzUzUWpEYmsyZ2s2NDI2YWJTWTdsbWJUbXRFTVdVNzlDelliU01hdERyY0tRVlIzVzFyMnpCRTZjeEZXdEJ2UEpneGVKQkVlSmhqUksteWtibkwzdkUydlFEUW0yREhER1YwZWlhb2RPZ2c?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-21T20:59:02+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "البحرين تتصدى لاعتداءات إيرانية...",
+        "وأضرار بمنشأة صناعية مدنية    الشرق الأوسط",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "البحرين تتصدى لاعتداءات إيرانية... وأضرار بمنشأة صناعية مدنية"
+      }
+    },
+    {
+      "title_original": "La OTAN advierte que defenderá \"cada pulgada\" de Polonia tras la incursión de misiles y dron ruso",
+      "title_zh": "La OTAN advierte que defenderá \"cada pulgada\" de Polonia tras la incursión de misiles y dron ruso",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEttb2FVQlp2YnVQek9QdWdzMGVHYUxsOF9vOXZyaE5MQWhVaG1CZTU0UzBWVkFXUFVxbG1fbFFRd3FLRXlWc0loTGVCX3VVclMzc0NWenBHMTk3X1JzLVlSUUYzM05lTWotTzZXb016RW0zZnEyZjV3bnh1NU91R0RDT3FuNHdOSDhnSnZiM29DSXpRYlBQNThwLTl3bEFLdktPZ1BsX2dOWmxsSkpLNGZ4UXZIMGltbzA2VFFmc2dzVGNkVm5ZUnVzcTVCQdIB0wFBVV95cUxPUHhBUF9VR1FMeDFLcUZ0NWRsdVV0NlFrMVRDT1F5SlBRQzBVbjhkU0tpX09KUTd5M1h6ZGo4QkhRdkFlTGFtWmoycTNTR2ZMdUxyTURENjU1RTgtZUdOamdJcVVfaTdWVmZka2dFTUV2d2dScHRJZGl6dmV4Qk9teGVpWkNFV1BFUENidVo0ZGJGU3FSeS13bkVvN0pJb1VCZlZHNTQ3TFJ6REw1VXpvWUJxVTF6TXU1emV4U2w0OVMyTjFDbXcwUFFpeVVDa0xCMkNN?oc=5",
+      "source": "Diario Las Américas",
+      "source_score": 40,
+      "published_at": "2026-11-21T20:40:00+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La OTAN advierte que defenderá \"cada pulgada\" de Polonia tras la incursión de misiles y dron ruso    Diario Las Américas",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "Diario Las Américas"
+      ],
+      "all_titles": {
+        "es": "La OTAN advierte que defenderá \"cada pulgada\" de Polonia tras la incursión de misiles y dron ruso"
+      }
+    },
+    {
+      "title_original": "Le secrétaire général de l’OTAN, Mark Rutte : « L’OTAN défendra chaque centimètre du territoire polonais »",
+      "title_zh": "Le secrétaire général de l’OTAN, Mark Rutte : « L’OTAN défendra chaque centimètre du territoire polonais »",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOX3BhLVpqNTQ3U3c3UDVFQXBrQnZzWEE5a1o2cHBjQ2M5ZmxFS2YzeWNNdVFTWm56OEZwM0pDS1ppSXJ2eGMyenpIQ0tEWmdDb09PcDVxcDZWbjVkNHdJWU81ZHJvOTVPYUpMQ1hSZldSajMtWEJuVm5HeS00bDFZSnJnZDZUTnJKWTBDOFotSHRLbjdhVDdnOWEyRUpVMllJRDIxaU15Yk8yWWFWS2RsUUNITFVtN0YtaGtYVDVyb21yaWRfcklsQ1ZkVFA1d2dVRjJRcW1kZk1mNk14ZWxOd1k4ODkwNjNOa2tudjJndDNqUzhxNWtOdmpJV0I?oc=5",
+      "source": "Anadolu Ajansı",
+      "source_score": 40,
+      "published_at": "2026-11-21T20:37:48+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Le secrétaire général de l’OTAN, Mark Rutte : « L’OTAN défendra chaque centimètre du territoire polonais »    Anadolu Ajansı",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Anadolu Ajansı"
+      ],
+      "all_titles": {
+        "fr": "Le secrétaire général de l’OTAN, Mark Rutte : « L’OTAN défendra chaque centimètre du territoire polonais »"
+      }
+    },
+    {
+      "title_original": "Russia attacks Zelensky's hometown, Ukraine reaffirms wish to join NATO",
+      "title_zh": "Russia attacks Zelensky's hometown, Ukraine reaffirms wish to join NATO",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDhLUU5jQVF4RExKLWJkTmVqTlEzMXh2QXFyZDBsYkhtUXlJOTZGX29jcGFxN2NLeTFkSVhXaTFub1RCR29EajZpdlB4OWdPRHdBSWhRc3kteWZGMjRSSFpORVhEZDhCanV1a3lyenRWOVVVOG9aeGdvQ0FDa192dFJ0SmpOaFpnQXRfMWlCRncxczNKYkZ2RVRUUExjaWNXZUwxQzV2TW1sVmtyRG5YSWdlc0w?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-21T19:56:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia attacks Zelensky's hometown, Ukraine reaffirms wish to join NATO    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "en": "Russia attacks Zelensky's hometown, Ukraine reaffirms wish to join NATO"
+      }
+    },
+    {
+      "title_original": "Polen: Abgestürztes Flugobjekt war russische Rakete",
+      "title_zh": "Polen: Abgestürztes Flugobjekt war russische Rakete",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONnFTR0otcG9zUGNLanA4QzZFajhmUEFFV0hmSzIzdlp5MTZVS04tcDNES0dtRksxNzNFZ29YUG8wbkVDYnVWSUEwVUh4MG40ME1scUtYOHFiUnp2ejA3ZFlGTnZsR0ladXB5eElSTXlnZzZncWZMQW1UZi12MWd5TVJ0OU56NnNlWUVTN3hPQU4xZXZWUi1nNzY3Ti1KbXZtNmZTTXZWd09KTTFVTXh4UWkyOE01ckEtc3dHV3dyVFZmZnFubmRuMVBua2JCWFRNYlpXYl93V0NNcDhsSXZyWmxIai1JT1hUQ1hPa3djV3JkVkk?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-11-21T19:50:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Polen: Abgestürztes Flugobjekt war russische Rakete    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "Polen: Abgestürztes Flugobjekt war russische Rakete"
+      }
+    },
+    {
+      "title_original": "Nach Einschlag russischer Rakete: Nato will \"jeden Zentimeter polnischen Territoriums\" verteidigen",
+      "title_zh": "Nach Einschlag russischer Rakete: Nato will \"jeden Zentimeter polnischen Territoriums\" verteidigen",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdmlKODdkOWdmTnFOY2VYWnNNX3kxYUVsWThZbzl5WTg0WEZvRHM4UU1PTFpRX2hpYkt4XzFKbFhjMVNRNDh0V1FaVzZHZXc2T0JhbWZaMEVKeWE4ZmFYVThwa29iaGVzQmRSVGw2NHRLcHMtbWQ0N1pXTk5SVDJHSmRPQjQzXzZmSnp0eW5vWEIyY2F3NktxeWFHdHBaaDdXOFdMMVk2bE41Zw?oc=5",
+      "source": "n-tv.de",
+      "source_score": 40,
+      "published_at": "2026-11-21T18:48:24+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Nach Einschlag russischer Rakete: Nato will \"jeden Zentimeter polnischen Territoriums\" verteidigen    n-tv.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "n-tv.de"
+      ],
+      "all_titles": {
+        "de": "Nach Einschlag russischer Rakete: Nato will \"jeden Zentimeter polnischen Territoriums\" verteidigen"
+      }
+    },
+    {
+      "title_original": "Luftraum verletzt: Russische Rakete abgestürzt – „Nato wird jeden Zentimeter von Polen verteidigen“, betont Rutte",
+      "title_zh": "Luftraum verletzt: Russische Rakete abgestürzt – „Nato wird jeden Zentimeter von Polen verteidigen“, betont Rutte",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPRmNtajI0YXZadVZXMmJTYnJNaU5Tb2xhMTRKVndmOE9jd3FienJQU0pwX3JLcFhjZE1yUG1OUEFhMHJJVDJvSnJOUndKUDdhaDlQbjNVd3RqRDVlR1VQUnRiS0I3bUZXQzJUb3htYTluZE9XQ01CVVRmWDRsN0ttUWQ1THpwSmg1MEI5THBjMGVaYUFFNTFmREwtcnVtMWxCaWFJWVhyV3g4NU4zM0p4NlFsWHR0M1JaV1hnaElGZ3FwTVBWbmVDdnhlcTkwN05vQXVrMk41VVp6QlZMWVZRT3JBNjlQLVJrMXd3VXFPOFRKdmNVeVdoWmtpdGxtTGlCaWxMUG5QN01PNDllYUE?oc=5",
+      "source": "WELT",
+      "source_score": 40,
+      "published_at": "2026-11-21T18:27:15+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Luftraum verletzt: Russische Rakete abgestürzt – „Nato wird jeden Zentimeter von Polen verteidigen“, betont Rutte    WELT",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "WELT"
+      ],
+      "all_titles": {
+        "de": "Luftraum verletzt: Russische Rakete abgestürzt – „Nato wird jeden Zentimeter von Polen verteidigen“, betont Rutte"
+      }
+    },
+    {
+      "title_original": "Guerre en Ukraine : L'Otan défendra « chaque pouce de territoire polonais »",
+      "title_zh": "Guerre en Ukraine : L'Otan défendra « chaque pouce de territoire polonais »",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYm9aZW11ZWNKMmVuYnBvZnpfR1RFbEdhcWdIWUdmb0NCZmJHZ1JVVWhONlVZeHZwUU90MndrYnhaVWtFOWRiLXoyNk5GczRrcVVfX09LVkMzeGMtYWlOekVXLUVlZ0ZmZVk5aXphWXVtTGpLZjRJRnVaMzNjRGVHTWRpQ0luQ0dBS1E?oc=5",
+      "source": "Yahoo Actualités",
+      "source_score": 40,
+      "published_at": "2026-11-21T18:02:11+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Guerre en Ukraine : L'Otan défendra « chaque pouce de territoire polonais »    Yahoo Actualités",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Yahoo Actualités"
+      ],
+      "all_titles": {
+        "fr": "Guerre en Ukraine : L'Otan défendra « chaque pouce de territoire polonais »"
+      }
+    },
+    {
+      "title_original": "Rutte in Warschau: \"Jeden Zentimeter\" Polens verteidigen",
+      "title_zh": "Rutte in Warschau: \"Jeden Zentimeter\" Polens verteidigen",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IOTEyRnA5bXBFNWFsZG9qZzlTZXZ6dE01QUVvTE9SV1o0dkNtb041RXBvbElyUjJLdGw3LWRrQ21xSUh3WXJEMVRvTFdzWWlzUTRlMkM5U1dyTWR1TzJPb1R2X0lPekd4emZ5QWd0Y2ExRDhfODBsVWtWY3hLQWc?oc=5",
+      "source": "ZDFheute",
+      "source_score": 40,
+      "published_at": "2026-11-21T18:00:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Rutte in Warschau: \"Jeden Zentimeter\" Polens verteidigen    ZDFheute",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "ZDFheute"
+      ],
+      "all_titles": {
+        "de": "Rutte in Warschau: \"Jeden Zentimeter\" Polens verteidigen"
+      }
+    },
+    {
+      "title_original": "«الاتفاق قبل الضمانات الأمنية».. ترامب يؤكد رغبة بوتين في إنهاء حرب أوكرانيا",
+      "title_zh": "«الاتفاق قبل الضمانات الأمنية».. ترامب يؤكد رغبة بوتين في إنهاء حرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMitwVBVV95cUxQUHJDVDRuQjBhcDR1ejNZb2xMQVFQOVpGQnhKSlg5bUFrYUZCd2VMZTM0LXpVV1liRXZzV3YwNXNVQ3BGSl85MWlxU2Qzd3JZNXpLRXlWbjl4Q292aDlDT2J4TEhCbDVjMklFWUI1dGY5MjUzc3R6RkN2VXFrdGRvSUw1MU9pS25OamdOZ2dyelg1RWdWU1hQbU1BcVV4dXFCc2JjcTdoYnBMd0NkcEFNa2FDT2s2TTlDTzc3cnh3Zmo3WFpzNk5mSVVTUkpnWi1VTFVOS3hyVmhEMkwzOWs3NWxIS2xQUzV6MVNqb204WVV3aFNtb2xvdGNaa09ENFJ2NkRBYzNWVlBja1FMVm9HLUxxUGFXaWVWWTlSa3N2SXdtNl9LdWxEZW5XOG41SS1XNnVJaTNDSFFTVWVvWE9XRzkzSkdBZkhCVk56eE5YallXLTFTM0dEOHhrZTFROWQtdXFXTzdGSjItTHctTHM2SFdkelZEUzZxcjhXLXpTMDdoTVRhaHNHOXZqMXFqWjQwZ09MSmhiUXJQeGY5MmlOSERkc0ZGWHhZZlpzWXZjUzUxVjZXd0xGLUhpeU5Cb0ZPdFNzbXpVRDY2S21xLWR6bEFFekJFYTE4NnN0T1Y1dWh1cXhEM1Z1dGticC1GQndfRWxxNUhDMHFmMWh5NzRwMS1NTFg3eWtucDFUT1pKU3RQTEJUUDJMTERDZ1NNRDJYQXdEd2RKaXJ0dGNPOXI0OUhiQW0wZnBrZnNteER2ZTZUakk2dDNTLXVCVWN2LW8wSkxsaVU0cEFZazh4cXM3WmpoMWxVN3dMczRNb2VRM3NXdWhtbjlOS0FhakM5S0pVbmpVTFZYNmtPdW9WQmVERXNuQU1JcXc1MkVldERvc3k0UVcyd1QtZnVMdnp5ZHR1WXJjU0tpWQ?oc=5",
+      "source": "صحيفة الخليج",
+      "source_score": 40,
+      "published_at": "2026-11-21T17:56:34+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "«الاتفاق قبل الضمانات الأمنية»..",
+        "ترامب يؤكد رغبة بوتين في إنهاء حرب أوكرانيا    صحيفة الخليج",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "صحيفة الخليج"
+      ],
+      "all_titles": {
+        "ar": "«الاتفاق قبل الضمانات الأمنية».. ترامب يؤكد رغبة بوتين في إنهاء حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "title_zh": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-21T17:46:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night.",
+        "Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leaders of his gang after a gun battle that triggered widespread panic in the city of Guasave.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid"
+      }
+    },
     {
       "title_original": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
       "title_zh": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
@@ -129,6 +754,31 @@
       }
     },
     {
+      "title_original": "De los satélites a los drones interceptores: Madrid pone a sus startups tecnológicas en el radar de la OTAN",
+      "title_zh": "De los satélites a los drones interceptores: Madrid pone a sus startups tecnológicas en el radar de la OTAN",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc1h6UDh4Vmo4cl9tVEx2am11Q0FJTmhhT3FRYW1GTHprVWpMbjZrUVRhTUtGRGY2aW9hcU9DU0FreVlnVmRid3ZXR1FITUNIMUZSekx2dlE1alUwc3Q3MDlEQzkzcHJGclA0cS1qUUpNZW1pcFB6V0JIZm5MNGRIVmN2TC1OZng2QXFDUWVlMXQ0WmtyVnpkRHRQWmxlVWZ1cERiRUxld1hnRlczcUpWNi12UkpyRjlFeEdHSUgtaVRqdU41dnBaS3ctbFUwaU1Lenc?oc=5",
+      "source": "Infodefensa",
+      "source_score": 40,
+      "published_at": "2026-11-21T16:24:15+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "De los satélites a los drones interceptores: Madrid pone a sus startups tecnológicas en el radar de la OTAN    Infodefensa",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Infodefensa"
+      ],
+      "all_titles": {
+        "es": "De los satélites a los drones interceptores: Madrid pone a sus startups tecnológicas en el radar de la OTAN"
+      }
+    },
+    {
       "title_original": "إسرائيل تكتشف أنفاقاً جديدة في غزة بعد أعوام من حرب مدمرة",
       "title_zh": "إسرائيل تكتشف أنفاقاً جديدة في غزة بعد أعوام من حرب مدمرة",
       "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxNZVBlSWpRM2M0OG1Qd1pPcHd4LUZHc3RPcFJhbmlPWW15TFZxdFhCT091QnZtTzAxWWhlX1BUTmpHNHlxVFRwYjI0bUwzTjNRUmZpWXllRXEzbDJlY0t6SGFhbE5sQ1AycDhGMTBsY18yNkIxSk5qRDJjTWF1eW83SFhUQ0J2YnhDYXhpOWxzUmhXZ1NRcURIeEcybE1sNXhtZzMwdkQ4bHNKQlBYNFdEaFI2eGRpdTBCMHlUYVlDSU1VYXVjTlRWZzJwZzJSMlJ2cUhWUzlwc3l4UlRpY3dVN3ZIaVJMV0JaR1ltbG9TVVN1RHdWS2dicm16MDF1djl5dGJRQV9PQ2l6RXh0S0RoLTM5OVFhd1VuRVVGYUdNX1duU0JKV25vdnhtckh5WVh1ZTdrZXdHX1p3aW8xUFA5RElhSExnSjRsVnBTYllrNlJBcjh1czktNmlfNUQ2UFVnNGM4cENtZkg0R1FMWkw0M08tbENTWEVZYmlYTThNNWdBLTBmeXV6UDIwSmU4M21iUUtxbFBEWkpNUmpPWkw5Vk1Ta2ZmVXlDVWt1MEhEWWhoZU4yLWszRHl6bTFPX01HaEl2TnlXaWZBWV9nSTFENzN0b1FjRE1LSzIxTm1Td2JSd0pzeEl4T2E0V1hDdG1rRFRicmhFcXlBcExKY0tzN2h1djl0VjlsV2FFQWpyMUVLdmxndnJUVnBUMUtONHp6aE9Dakw5MlBiM0Q2WWs5TGdBcGV6WjNCWkRKVEE0UkVuWl80YmtmTlJoWkZXU29mMENGUnRFS2pvUHFTcTZJNlFfbXpOdVpTMWRuV19nR2xRNjhTWEw4T29ZWHo3RC12cXVXVktlcjR1SDA?oc=5",
@@ -201,6 +851,106 @@
       ],
       "all_titles": {
         "de": "Rutte in Warschau: Nato wird \"jeden Zentimeter\" Polens verteidigen"
+      }
+    },
+    {
+      "title_original": "北约秘书长：北约将保卫波兰的每一寸土地",
+      "title_zh": "北约秘书长：北约将保卫波兰的每一寸土地",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjFKVUdUbVptY3FwVGFDZjRoTFdvSmoyUzRsX1pSakZISi1VVDh2WTVRRmotZFlBc2dYUDQ2ZndGM0RYN1NwOVZRNnd5SWlTdldMMHZ0ZjU0bTVZbkp0LVA5bEtPeXhoZTRiSk5sby1LTUM2X2ZIQlA1NzRuTS1sZV82XzJCYmJTMG1pWVZhbkgtbDdubmQ3Q0dlTkhQTjlQN2FuNDhKeXFpR1NReEtFbdIBsAFBVV95cUxQbjFKVUdUbVptY3FwVGFDZjRoTFdvSmoyUzRsX1pSakZISi1VVDh2WTVRRmotZFlBc2dYUDQ2ZndGM0RYN1NwOVZRNnd5SWlTdldMMHZ0ZjU0bTVZbkp0LVA5bEtPeXhoZTRiSk5sby1LTUM2X2ZIQlA1NzRuTS1sZV82XzJCYmJTMG1pWVZhbkgtbDdubmQ3Q0dlTkhQTjlQN2FuNDhKeXFpR1NReEtFbQ?oc=5",
+      "source": "美国之音",
+      "source_score": 40,
+      "published_at": "2026-11-21T15:49:18+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约秘书长：北约将保卫波兰的每一寸土地    美国之音",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "美国之音"
+      ],
+      "all_titles": {
+        "zh": "北约秘书长：北约将保卫波兰的每一寸土地"
+      }
+    },
+    {
+      "title_original": "Guerre au Moyen-Orient : une délégation qatarie à Téhéran pour des négociations entre l’Iran et les États-Unis",
+      "title_zh": "Guerre au Moyen-Orient : une délégation qatarie à Téhéran pour des négociations entre l’Iran et les États-Unis",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOVF5SmJhRnF6bm1fdWxqeFpGS2pUT3hTMVNGOUtHRW9HX2xXdGFyYmFsNFdrWVpLb3hWME1OTUFnRXZEM1JZZmRwczVaWTU5U1BBdWtpak45WHdRS29HM2MxbnpweTM2TGhKYTRkamJqZXhEYzg0clJ4ZkxTUnFxZ3BTakd0R3RqSy0xcDV2ZmJ0cENyTDViWnFxVElYdjU3c0FSdi1YUEVGLVFNaEtDV3I2REpqeGZWUnI3RHFCaTk1R01UUXhMM1VWSkxmbk9pd1NZOWgwZF9pcXRmNUlEX1I1Z1NsbDg?oc=5",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-11-21T15:36:26+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "中东",
+      "facts_zh": [
+        "Guerre au Moyen-Orient : une délégation qatarie à Téhéran pour des négociations entre l’Iran et les États-Unis    Le Figaro",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "Guerre au Moyen-Orient : une délégation qatarie à Téhéran pour des négociations entre l’Iran et les États-Unis"
+      }
+    },
+    {
+      "title_original": "NATO Secretary General pledges solidarity with Poland after missile incursion",
+      "title_zh": "NATO Secretary General pledges solidarity with Poland after missile incursion",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2NEV1JYcmtCMEJ0SjZnZVB6R2dGX3BkUURKSDNOVC1sdklBa0JXWlY2Q3YtbG1VMlZjYkF3dHFwOXo0bnVvVDlGSFM0M0tXbkJuQmNrWTJLUExFR2RpN0JYMmp6cUtYN21DWm9ROUpPSklkcmFham1fbzZNeVBoR3kyTGhNRGlOeHlYTXl0US1PS2hGUExyOF83T3Q0dEtRcjhUY1pMWmN1Um9Nc1l5eXhWMkl1emlqZ0E?oc=5",
+      "source": "Vatican News",
+      "source_score": 40,
+      "published_at": "2026-11-21T15:35:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO Secretary General pledges solidarity with Poland after missile incursion    Vatican News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "Vatican News"
+      ],
+      "all_titles": {
+        "en": "NATO Secretary General pledges solidarity with Poland after missile incursion"
+      }
+    },
+    {
+      "title_original": "Diez aliados de la OTAN unen fuerzas para acelerar el lanzamiento de satélites militares",
+      "title_zh": "Diez aliados de la OTAN unen fuerzas para acelerar el lanzamiento de satélites militares",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2FjQVE0STNxOWlQNk5tN3M5RmlIQjRoOHBybmsyS2tITU9mMnhQdE9QRk5ldHQ4cWUxb2Q5QnktSXp2TnoxbHJFRS0xeUtqazVLbzBoZUJkLUxxZEtHcXFXTDRaeDFDVHZKTWZKRlRFWXFFQ3o5ZGM5di1QWmMwd0J1WWM5VlRFb3VZUVhYdElCR2paWXBRTEloOTZMMXhjcmltNHY4Rk1wQWd4cjF4UXhCNFV3RnlLd05FMk8teFgyMkxIYklj?oc=5",
+      "source": "Infodefensa",
+      "source_score": 40,
+      "published_at": "2026-11-21T15:29:09+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Diez aliados de la OTAN unen fuerzas para acelerar el lanzamiento de satélites militares    Infodefensa",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Infodefensa"
+      ],
+      "all_titles": {
+        "es": "Diez aliados de la OTAN unen fuerzas para acelerar el lanzamiento de satélites militares"
       }
     },
     {
