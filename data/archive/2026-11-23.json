@@ -1,8 +1,658 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-22T18:30:27.362832+00:00",
-  "count": 35,
+  "generated_at": "2026-11-23T03:42:15.607320+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title_original": "リビアの港でロシア船が爆発、ドローン攻撃とみられると当局",
+      "title_zh": "リビアの港でロシア船が爆発、ドローン攻撃とみられると当局",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CeUdCQ2h6UTBjT0R2N0dzTDJSeGhxVXZ6SEtNZlA3c1hudUdGTUticnNheUJMdnRVUUJsbWxJZmRURDhOcy1MM0ZySzZVbGtWN1p1SGRGcktBdWd6b2E1a9IBZkFVX3lxTE9SOHJNblljZWxqVHctdjk3YjFCVmVmaTNFVFM4VVU1ZFVuTFFray1WUjdMbVNENDk0Ty10TThVWFVMOGtCS1M1eUVZSlFtaWNWVHVabmJOUm9CS0VDeXBJUEdhNk51Zw?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-23T03:33:45+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "リビアの港でロシア船が爆発、ドローン攻撃とみられると当局    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "リビアの港でロシア船が爆発、ドローン攻撃とみられると当局"
+      }
+    },
+    {
+      "title_original": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "title_zh": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-23T02:37:02+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say\n- Published\nA seven-year-old boy has been rescued from the rubble of a residential building in Dymer after 14 hours, in overnight Russian strikes on Dymer, in the Kyiv region, that killed nine people, Ukrainian officials have said.",
+        "The attack occurred in the early hours of Sunday.",
+        "A 79-year-old woman was also rescued alive from the collapsed building, Kyiv's regional head Tymur Tkachenko said."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Race to find survivors after Russian attack on apartment block kills at least nine",
+      "title_zh": "Ukraine war briefing: Race to find survivors after Russian attack on apartment block kills at least nine",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM0o3bHlPSG5VTk5id1NhTHhCeXVJbmIxTzJ2bVVfdVBLeldIUm1aZXdmbjA4Ry1aWWt5UUFYNUtJRWlCcTJiSVFzMTFteDUzSHBrXzBtR3hWUDdlRE5ZWl9pQWZSNUNndnVBbGJhNGp1bzFPTXM2ZlNlRkhzRmVNeU5OQ2NjUTVmWkxibmZFemNEdUl4RmRjWjRGMXpZUVUwTGF5NkdHQndaU2IzbWpxamthM2RzRVF3M0pNYXNZX2JHeTdILW5GUEZHOHhZeE8yVGZLUEdvTjFXLXUwdUNENnIwUQ?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-23T02:10:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Race to find survivors after Russian attack on apartment block kills at least nine    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Race to find survivors after Russian attack on apartment block kills at least nine"
+      }
+    },
+    {
+      "title_original": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+      "title_zh": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSGt3S3pPSmc3REtpQ0NRR3VpbDY0ZDRoNkF0V1pMcmNLUmpab2w3cUx4T2hoa0UyX05YLTh4ckZsTlJ6UnpySGFTUHhMN2Y1MjczZE1wdzd4NDhFbmp2b3VONHBaNk9CY0U5czNHZ09YQnZURkZteXM5bzFnSEdUdmZXU1lRVzdvc3RNRXRTVXV3aFZaREk2Q0ZPa0xUUzJDSnpRUkUwUdIBrAFBVV95cUxPYktDalVTajJJMndDT3MtakhWUGxMZmc0Tmk5bjlTVnNPTzJHbmFha2V0LW1JUk9IcEZEWmMyZUhXUGhHX3RxMnljRDFFUWRVOFdONXRERWo2QjQyd25IUlR5UmNyLVlCZGpBODNGZTNyS3ZvaTBDYmNQbm8wX3AwejI1cDIzUjBuVk1EeXNhQ1lkMW9jazRmRU9Ia2NXZW55WGFqN0xsN2x0QTgt?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-23T01:53:42+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Poland says Russia tried to assassinate Ukrainian rapper twice    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Poland says Russia tried to assassinate Ukrainian rapper twice"
+      }
+    },
+    {
+      "title_original": "ベンガジ海軍基地で露軍艦損傷 ウクライナ軍の無人水上艇攻撃か（AP通信）",
+      "title_zh": "ベンガジ海軍基地で露軍艦損傷 ウクライナ軍の無人水上艇攻撃か（AP通信）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOSnp2TDczOTVBbWJkcWFKWXY0czNreFZaQXFXUWdxNDg1SGJSRXFfOHFSeDJKN1NjMmg4TGxVVG91WXRkU3NfTVltZlBRUHlNT2g4cnNaLU1hZnBCNUJDRHR2Uy1lYl9DalFNRTlBQmZ5Qjc2MFR3bktoTm13N1k?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-23T01:36:42+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ベンガジ海軍基地で露軍艦損傷 ウクライナ軍の無人水上艇攻撃か（AP通信）    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "ベンガジ海軍基地で露軍艦損傷 ウクライナ軍の無人水上艇攻撃か（AP通信）"
+      }
+    },
+    {
+      "title_original": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "title_zh": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-23T01:23:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Democrats win largest House majority since 1992 after flipping North Carolina seat\n- Published\nThe Democratic Party has won the largest majority in the US House of Representatives since 1992, after Democrat Chuck Hubbard unseated Republican Representative Virginia Foxx in North Carolina.",
+        "The race was called on Sunday, with Hubbard beating Foxx by 330 votes with 99% counted.",
+        "It was one of the closest contests of the recent midterm elections, in which Democrats also secured the Senate."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Democrats win largest House majority since 1992 after flipping North Carolina seat"
+      }
+    },
+    {
+      "title_original": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "title_zh": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-23T00:50:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "COP31 fails to reach major climate deal as talks expose deep divisions\n- Published\nCountries have failed to reach a major new deal to tackle climate change after deep divisions over fossil fuels and money emerged at the UN COP31 talks in Turkey.",
+        "Negotiations were due to finish on Friday but ran late into Sunday in search of common ground, becoming the longest UN climate conference in history.",
+        "But the final deal proved unacceptable to the EU, Pacific island nations and others because it failed to directly mention fossil fuels, the main cause of global warming."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "COP31 fails to reach major climate deal as talks expose deep divisions"
+      }
+    },
+    {
+      "title_original": "«الحرس الثوري» يزعم إسقاط مسيّرة أميركية في «هرمز»",
+      "title_zh": "«الحرس الثوري» يزعم إسقاط مسيّرة أميركية في «هرمز»",
+      "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQWnJhOEFhZjN1RVhiLWszVGkxN1JIYk1Jc2RzRHpZRGkzNkFWVWV6NHhTUldXNkw2ZDYxZGVVOXdmbGdWcWdxc19CWXZTNnROTXlleHFkT01BMnlRSGo4Q3JtU0ljTURTb09PUmJkUGNpZm5ldDhmWnd5eEJJOW1XcnBLQmE1OTM2Skp6LW1LcTd3NkVLdUhFa3N2M3p2d2FHc0M0QXNZMVJ2aHlDcWJYZG9OeFFHcXZOTWpqb09nZWVhVFJ5dFpQb2xXZGplMlJQSUxGRHBYdWNNOHhxOE1DbUlsYWU2MUVnZlBUY2JfQWpRLWQ4ZTg5UWxNODJZUXJpb090UVlIOXFKN3BweDNpWHU1ekxTM0dPcndZU0NaTHRUM09zZEY3NmJ6c0JEMlg5V2l1dVRyTnBjeW1id3c0X3RUeHpzUWd5dnVLS1AwdGJTaW5vR2RDa1Y2cHRPbjI4cHlkeXVyZEQxWFRPbzRqeG45YWxmZS0wTUxJV0RrY3c4M1VaOE1qZDhvZTI2LVVOQy1XMkYwVFo3c3dsTkF4T2cxUTE0SlVSQWdvWlVJUVMwU2VsaVVBM1BNbFQtMDNZZFMyT3NZNVFPbjZxNlp4SDNHck1sRzBuRzlvNg?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-23T00:25:03+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "«الحرس الثوري» يزعم إسقاط مسيّرة أميركية في «هرمز»    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«الحرس الثوري» يزعم إسقاط مسيّرة أميركية في «هرمز»"
+      }
+    },
+    {
+      "title_original": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "title_zh": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-23T00:08:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "San Francisco is enjoying an AI boom, but worries about a crash are growing\n- Published\nLauren Goldboss is busy.",
+        "The owner of a small San Francisco dog-walking company, she has been hiring staff and buying vans.",
+        "Fuelling the growth is her new office dog-walking service Paw Perk, popular with some local AI start-ups."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "San Francisco is enjoying an AI boom, but worries about a crash are growing"
+      }
+    },
+    {
+      "title_original": "البحرين: إصابة مواطن من ذوي الهمم ومقيم باكستاني بشظايا اعتراض هجوم إيراني",
+      "title_zh": "البحرين: إصابة مواطن من ذوي الهمم ومقيم باكستاني بشظايا اعتراض هجوم إيراني",
+      "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxOLWJKVWZMVUF2MXM4dDRySjNGTTZzU0V0c0k5VzBFRGhvSzNXYWRLOWhCdzJEVndnSWpwWEFaTFgyNFpoTGRpTWUtZVVjRnJrNndNbTFvdXlOODUtRVAtVzhKSTZERldEbXRrbFZRSmZ4X0xCckFvYkwyQXhyT2FiWmljT1M4VlpTeTBzZld6QU9VcXNOX0E4WVZzb0VaWk9NVjJsMXAzUnFqSzMyVF9GU2VTMEN5eXYtcXlYT1B4MXZuRVBXYmNMV3NtUS1US3ZkRkJPdV80S0x2UlRlZ0gwVy1DVjFhbzBWSE5WUm5wUTdicTJoZ2JOMjluOFAwdF9KMFp1ZmQ3a3BaamRvbjc5NnhLaExkSkJackNydU5LS0trdC13dFFPdkxuNXFUa2xHR1dUZnVPNFpOMl9iSV9OR0dfcHVzdVROVFJaSzA1VC14ektwRGpGUkkzR1F5MUQyR2pQQVZHNC0zd0VwVTNJb1BOWC14dDk2aVNKTjZtLVlUZkZGQVE4Uk4yNGJ2RGpyWUJtYzlGTGhwY2l6LVhOT0wyTGNwY3pQZnp3RTNSQ1l6cjFPN2tGWnM3YnEwekQ0ekhCZE5tb2NwUHB4TkhqNWZfOGRBVDQ1TUNDNFJsVTJoa0ZxZ1Vvc1JqRmNTTEtGYWxicVhRbUNNV25CaEJhV1UwNldtNWNMOEpBam1ZMHY3Wmp3R2ZOeW5GeTg1SVpPQmZMcmd4aEw1cUp5V2Fxa2hLWHowVEpXbTljMEpyX3BLaVhoNE5KM0oyRFVheXh1VjNwclRqdE83WV9OQUxSMWhMMGtnSnQ3VWh5cnRBa1lnTS1GeGpDUGk3am5ZeDM3b3Z6MjBFeTJoWEdoeVZUX3N6aVk2bHByWDlKaFBJdWtpdw?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-22T23:39:38+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "البحرين: إصابة مواطن من ذوي الهمم ومقيم باكستاني بشظايا اعتراض هجوم إيراني    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "البحرين: إصابة مواطن من ذوي الهمم ومقيم باكستاني بشظايا اعتراض هجوم إيراني"
+      }
+    },
+    {
+      "title_original": "تأكيد سعودي على تعزيز صمود الخدمات الرقمية أمام المخاطر",
+      "title_zh": "تأكيد سعودي على تعزيز صمود الخدمات الرقمية أمام المخاطر",
+      "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxQNEVydHNUN0xISE9Eb1VvTzRkWDJ1aHRrekxlZXBzdi1GclVRd1pMTEZBWWhScTY4YlVJT3FMZXVfbG9ZdndmMno1czBLXzFfNDVIamRwVVhDeU15bmh0ai1DczZ0cmRkTC1kNEw0ZXBhYVdFWTZrYlBpSlBkekNRcHJZb2lzNGdqdVY3RjFseDl1QnNEcHFJeWNpU09yakFXMFQ0ZmFDaXdNQVBiSUdOcWg4Tm5HSGtwdzg4MHNsQTFjUV9PNVhkWmxpWkFTUWs4WFBkWTdCUElsWDMtVXFsaW13WExKdEtzVFV3VDR3RTljTkUxOWk4STFMZG51Rm5aQ0trSGQ0dUJPSTBLT2lUVl94dzl3WndjN3AyZEVYRE5DRzE0cVhNX3lGdXJiZ2pGUXVnTHkzOU1xekNURWs4RG5jZTNjRGtCdzlqdHZEOFFGb0hCRnJEeFludGR4dTExWUxmM2ZqZXc2OFJPcFdTR1lhVklINktWek5SZkdoYkI2TWtkaHdKOEpKZFVFbmQyMkU2RW42bEV0VG95RzZ6eml2ZVMwcU9peVhBLVA2SUpyTFJvNjZZNGQ3c25lT2xsU0tTNXJ5MXlabE85WWV6SkRpOHZwVmVUUkRKbzdnbjdnUERDSXNZemZxcUk1MVU3NDFPSk9lbUpfU2QtWDY5dnNIMEhsc2dZUThJUGZvcmhSOW1oNGJ3X0R5ODJHVGhnRHh4S1ROUTNiV0trbmZibEtGTE54cWZYNU80ck4tQ2hwZHBEblE3Vm8zdzdjVmJKc2hmaXFYcw?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-22T23:36:32+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "تأكيد سعودي على تعزيز صمود الخدمات الرقمية أمام المخاطر    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "تأكيد سعودي على تعزيز صمود الخدمات الرقمية أمام المخاطر"
+      }
+    },
+    {
+      "title_original": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "title_zh": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-22T22:49:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'\n- Published\nThe prime minister will tell Parliament on Monday the \"landmark\" deal struck with the EU means there is a \"very real prospect\" the next decade can be \"much better\" than the last one.",
+        "The deal is a \"choice between a broken status quo or change\", Andy Burnham will tell MPs.",
+        "He will also call it \"the single biggest growth measure to be delivered in this parliament\" - repeating his claim it could add £17bn to the British economy."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'"
+      }
+    },
+    {
+      "title_original": "Ukraine war spilling into NATO territory",
+      "title_zh": "Ukraine war spilling into NATO territory",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFRDMDZFOVFwdGd6UWJxTW9EeVdKN29TR0ZNZk9ISEdpUFpPZTBaQUhBYlZFUDBRNkNrTkJQWDBZeWFMMURYSm9MZkdLZEp0R2tFN0ZEVVRmT0ZqMW1hczVENlYtM0U1am1vcHA2dEx3ek4xdjBYUi1KMDlpVGhyWFZTTE5fX1VtZm9FMHlR?oc=5",
+      "source": "NPR",
+      "source_score": 40,
+      "published_at": "2026-11-22T22:40:22+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Ukraine war spilling into NATO territory    NPR",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "NPR"
+      ],
+      "all_titles": {
+        "en": "Ukraine war spilling into NATO territory"
+      }
+    },
+    {
+      "title_original": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "title_zh": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-22T22:37:43+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes\nSeveral bodies have been recovered from the site of a residential building that was hit by a Russian strike in the Kyiv region, Ukraine's State Emergency Services said.",
+        "The attack early on Sunday morning in the village of Dymer killed six people, Kyiv's regional head Tymur Tkachenko said.",
+        "Six people were injured, while others are still missing."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes"
+      }
+    },
+    {
+      "title_original": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+      "title_zh": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-22T21:33:44+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the sinking of the vessel.",
+        "The strike severely damaged the Merkury, a Russian navy corvette that had stopped to refuel and take on supplies, according to Libyan officials from the country’s eastern government.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack"
+      }
+    },
+    {
+      "title_original": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "title_zh": "Miley Cyrus marries Maxx Morando in California ceremony",
+      "url": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-22T21:22:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Miley Cyrus marries Maxx Morando in California ceremony\n- Published\nMiley Cyrus has married her partner of four years Maxx Morando during a ceremony in Palm Springs, California.",
+        "A string of black and white photos shared by the Flowers singer on Instagram showed the pair kissing while surrounded by white roses.",
+        "Her mother, Trisha Cyrus, and sister, Noah Cyrus, could be seen in the background of one image."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Miley Cyrus marries Maxx Morando in California ceremony"
+      }
+    },
+    {
+      "title_original": "Alemania pone a prueba sus drones kamikaze en Lituania",
+      "title_zh": "Alemania pone a prueba sus drones kamikaze en Lituania",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTDdxeWJhR0tlZXlzN2g3R3l1T2h6d1VjWmtUdDhzTmtzX3lrNkJuVXBuVzRaRWN5WEo5WVZGZ0hiRlJLYS1zLW9BYU9vaFpraVJ6QmkwN09yeXZzRmdqYmdkRmZ5WFp3Tml1dkFwTE9ZZktJZ2VNVVR2VmxEdWItdTk1LXY2X3cxZzFEQTVrZlpGdjE5ZTdzd1hmQUM?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-11-22T20:48:08+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Alemania pone a prueba sus drones kamikaze en Lituania    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "es": "Alemania pone a prueba sus drones kamikaze en Lituania"
+      }
+    },
+    {
+      "title_original": "Israël: pas d'avancée entre les partis d'Eisenkot et de Netanyahu pour la formation d'un gouvernement",
+      "title_zh": "Israël: pas d'avancée entre les partis d'Eisenkot et de Netanyahu pour la formation d'un gouvernement",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeXU1cHpsQUVXV2p0QUJXYVZfaFFJZ3lXQXVhaEhvNGVlREpEa1YxOWFRcXIyVE9HeDhScTlBR2phYnNhY3JtZ291Q2VHd1NHY3plMDhkY29nSWRyTDFkbDZfaVRxSlNEclRvVHh2SWxhUlVLMjI2a0EzaTljOTRHbmU5MmY0bk8tMXA4VkRKcG1LNDhUUS1GXzhtaWRkUEEwakdGRTZxelFFcXFmMFdlcUdVYnBNUGtHYnNfcklGYXJFMVlZRnppckwtUE91SFNUZmVnZU5DSU5ZdVpDTTlfRi1JVkxNSzFGUEE?oc=5",
+      "source": "RFI",
+      "source_score": 40,
+      "published_at": "2026-11-22T20:34:07+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Israël: pas d'avancée entre les partis d'Eisenkot et de Netanyahu pour la formation d'un gouvernement    RFI",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "RFI"
+      ],
+      "all_titles": {
+        "fr": "Israël: pas d'avancée entre les partis d'Eisenkot et de Netanyahu pour la formation d'un gouvernement"
+      }
+    },
+    {
+      "title_original": "ضمانة \"المادة 5\" مقابل دونباس.. ماذا نعرف عن الصفقة المحتملة لإنهاء حرب أوكرانيا؟",
+      "title_zh": "ضمانة \"المادة 5\" مقابل دونباس.. ماذا نعرف عن الصفقة المحتملة لإنهاء حرب أوكرانيا؟",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQaTNsQ2w4ZktSNXYwQ0g3a2hLY1ZMbHJFckxkUVV3bTB1N2syQTNNX0FyTDRvckRYS0hwN3NCaGhwMWhRTFhzRXRqQ1ZoYTVKbHpRQ3dtMWRTRjdya000d1BwcU9UNHVUOEpfdVJfNEdUdVNveGdJVm5aVU9zb1ZUaTZVVVlxQkxQeTlZYk5INkpoWjdkU0ZrLTFpdHJ1VF8zT09WazNFQmFFdGg4VmNEal8yT3dxZnp5Y3Ewd0FEbjgwSG9FamRqckpEM1BqWTFpOTcyT2tZSWRBT2l3UkhiRXR3eUszRFFyMThuM0pTLTh3T09weVhSeG5pZDM4R2ZFVDE0UkNlcDM3bzZGN2wtZERpNmxON2lQWVZRX0VEbzQ1UFVlVWVrRmFIZjBNcXhFUWJqaURoRF9FTlAtR0c3ag?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-11-22T20:21:46+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ضمانة \"المادة 5\" مقابل دونباس..",
+        "ماذا نعرف عن الصفقة المحتملة لإنهاء حرب أوكرانيا؟    الجزيرة نت",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "ضمانة \"المادة 5\" مقابل دونباس.. ماذا نعرف عن الصفقة المحتملة لإنهاء حرب أوكرانيا؟"
+      }
+    },
+    {
+      "title_original": "Russian cargo ship leaves Finland’s territorial waters after drone attack",
+      "title_zh": "Russian cargo ship leaves Finland’s territorial waters after drone attack",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-22T19:55:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russian cargo ship leaves Finland’s territorial waters after drone attack    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Russian cargo ship leaves Finland’s territorial waters after drone attack"
+      }
+    },
+    {
+      "title_original": ":nestime – Ukraine-Krieg erreicht die Ostsee",
+      "title_zh": ":nestime – Ukraine-Krieg erreicht die Ostsee",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR2QzSmRlSTlOZ2hudktSN0FDc1ZMSGFGRExXMFUyVkdDWjNYMEJUQmN1QkVhOU42cUF1d1FZOU5ENklLRDFVOXkwWTA1WTdsWUNtVm9Pb3BxT2NjMmhOWjVuTUY5SC1BdVJiM3JBaEJmdnBkQV91cWJWOVB5VFpTaVNESzluR3F4bWplRVlvWjJGQjA?oc=5",
+      "source": "Joyn",
+      "source_score": 40,
+      "published_at": "2026-11-22T19:33:32+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        ":nestime – Ukraine-Krieg erreicht die Ostsee    Joyn",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Joyn"
+      ],
+      "all_titles": {
+        "de": ":nestime – Ukraine-Krieg erreicht die Ostsee"
+      }
+    },
+    {
+      "title_original": "»Der Ukraine steht der härteste Kriegswinter bevor«",
+      "title_zh": "»Der Ukraine steht der härteste Kriegswinter bevor«",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNDh2MjhLemtTbVFVTVVIM0I4OXpZb2tuQXpjSldsRWNUN3ZwUzIyTG41VzFNYnlQNV9MaGdkQ19hOG8wc3hSSng2ZzZQeDE3dW5BMzJORklzRC1Kd0xqSy0wa2N4QjM5NFU4SmpzLTRxNVJZbUJ0Rk93XzdTakdaTlFJd3hzUTBWSDB4emNPeFBEeUs5U3hpZ3c1WE5JVzdSUXNaaUlleXk2Vkpya3FRWDVLSzFSaG5EUXI5Sy1hTWZkR2hzU09jM2VUT3YxYWNSX0tXUjhKbWJjQ0x3SW5xTG0weFgyeW0tNDdRZXM1ck9ldTI0MTg2UHpZRXY?oc=5",
+      "source": "Spiegel",
+      "source_score": 75,
+      "published_at": "2026-11-22T19:13:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "»Der Ukraine steht der härteste Kriegswinter bevor«    Spiegel",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "Spiegel"
+      ],
+      "all_titles": {
+        "de": "»Der Ukraine steht der härteste Kriegswinter bevor«"
+      }
+    },
+    {
+      "title_original": "What's next after no deal at COP31 climate talks?",
+      "title_zh": "What's next after no deal at COP31 climate talks?",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-22T18:57:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "What's next after no deal at COP31 climate talks?",
+        "The COP31 climate summit in Turkey has officially come to an end after countries failed to come to a consensus on a new deal.",
+        "The European Union and some other countries rejected a fourth draft agreement over its failure to mention a need to phase out fossil fuels, the largest driver of global climate change."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "What's next after no deal at COP31 climate talks?"
+      }
+    },
+    {
+      "title_original": "Rutte bei Kanzler Merz: Nato berät über russische Luftraumverletzungen in Polen",
+      "title_zh": "Rutte bei Kanzler Merz: Nato berät über russische Luftraumverletzungen in Polen",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ1dJam9fYXBiSkt6LXRkQWczRG5tbzFTSC1zdWdWT0JDVTVqcjFpTVJzY2NOOTRFQXl1SDdwYlZzMkZyaDVGUkRETzN0N0NYNFBYOVVJc3ViX2tDUXpWTnd0bUNoOXlvWUxYa2ZfODV3amFkTENFeVotZ0p4N29jUU9uakVISGV5LXNlbDB4bHZ1cDZBbU15ZFJVd21rNERIbm0zS2loOWM1RDBSRGZ2TmVMc1Bzd011Vi00UWlwWQ?oc=5",
+      "source": "RP Online",
+      "source_score": 40,
+      "published_at": "2026-11-22T18:37:00+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Rutte bei Kanzler Merz: Nato berät über russische Luftraumverletzungen in Polen    RP Online",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "RP Online"
+      ],
+      "all_titles": {
+        "de": "Rutte bei Kanzler Merz: Nato berät über russische Luftraumverletzungen in Polen"
+      }
+    },
+    {
+      "title_original": "« Pourquoi les Russes nous tourmentent-ils ainsi ? » : la Pologne compte sur le soutien de l’Otan après une nouvelle incursion de missiles sur son territoire",
+      "title_zh": "« Pourquoi les Russes nous tourmentent-ils ainsi ? » : la Pologne compte sur le soutien de l’Otan après une nouvelle incursion de missiles sur son territoire",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOaFF5SFNObmp3NnFLbGxMVlFuRVVlSG9fbGRhSDU5OWVyMFdSdGhBZzk1V2gzTEhpQ1NRVTRlQkwtYm9HZUNPOGRyY2dOQ3pWSWdnRjNGLUl1U0tMNnFHc2xSWFh2X0pKVGVMcWlBNWFSTXlmazdLcmtoN1JHX0lHWXdGYnROX1dibkRPOG9qNEYxNFFBdnZfQUlyck9BTGNHM0phOXpYbVY2U0Fvd1VmUTNHZTdNcXhqWUs4ZjNtVE5JUFkyVjN3eHhxbG1rUHRxSlJSNWY4Q0FIbGJwamE5aXZUTjBwNGp3LWY0LUJkam1PUGhQajhLdnFpdnU3ZTJvMEtidDZBM0hPbTNHbE1xNU1IMTRreGd4dXNVSHVLMUxMdw?oc=5",
+      "source": "Le Figaro",
+      "source_score": 40,
+      "published_at": "2026-11-22T18:30:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "« Pourquoi les Russes nous tourmentent-ils ainsi ?",
+        "» : la Pologne compte sur le soutien de l’Otan après une nouvelle incursion de missiles sur son territoire    Le Figaro",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Le Figaro"
+      ],
+      "all_titles": {
+        "fr": "« Pourquoi les Russes nous tourmentent-ils ainsi ? » : la Pologne compte sur le soutien de l’Otan après une nouvelle incursion de missiles sur son territoire"
+      }
+    },
+    {
+      "title_original": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "title_zh": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-22T18:29:46+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US Army to detonate tonnes of unstable explosives in Iowa despite court order\n- Published\nThe US Army plans to move ahead with detonating five tonnes of degraded explosives in Iowa despite a ruling to halt it indefinitely, a new court filing shows.",
+        "\"To protect its personnel and the surrounding communities, the Army needs to take swift action,\" the justice department notified the court on Saturday.",
+        "\"Protection of human health and the environment demand action now, not delay.\"\nThe court had ordered a pause after environmental groups sued to stop the detonation, arguing the army failed to consider safer alternatives."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US Army to detonate tonnes of unstable explosives in Iowa despite court order"
+      }
+    },
     {
       "title_original": "Trümmerteile in Polen: Moskaus Strategie, die Reaktionszeiten und Systeme der Nato zu testen",
       "title_zh": "Trümmerteile in Polen: Moskaus Strategie, die Reaktionszeiten und Systeme der Nato zu testen",
@@ -51,6 +701,31 @@
       ],
       "all_titles": {
         "ar": "ضغوط حقوقية على «فيفا» لمعاقبة إيران بسبب حظر الرجال في مباريات السيدات"
+      }
+    },
+    {
+      "title_original": "L’expertise médicale dans les turbulences de la guerre aux Moyen-Orient",
+      "title_zh": "L’expertise médicale dans les turbulences de la guerre aux Moyen-Orient",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjBvREtEcjh6dGFsQklTa3Qya1M4Q041dWk2R0RYc0wzVFduV05pNldyMldCYVlfUjBZTlJGcWJHQ3I1RzNmeGlmOGdvNU1DeFU1dTFuc2RNZmRKUzJ6Q19DakNNN2E1MlRqY1FuaUZJMmEtZy0wWnc5VFV5Uk9KZFlSSkdwNlh5V2ZhdUI5MjJ3UEgtREhRbmluLTRSREsxRkE?oc=5",
+      "source": "Ministère des Armées",
+      "source_score": 40,
+      "published_at": "2026-11-22T17:35:24+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "L’expertise médicale dans les turbulences de la guerre aux Moyen-Orient    Ministère des Armées",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "Ministère des Armées"
+      ],
+      "all_titles": {
+        "fr": "L’expertise médicale dans les turbulences de la guerre aux Moyen-Orient"
       }
     },
     {
@@ -176,6 +851,31 @@
       ],
       "all_titles": {
         "fr": "Guerre Russie-Ukraine : la «zone grise» rétrécit pour les pays de l’Otan"
+      }
+    },
+    {
+      "title_original": "\"Le maritime n’a jamais été aussi central dans la géopolitique actuelle\" : les assises nationales de la mer au coeur des enjeux littoraux",
+      "title_zh": "\"Le maritime n’a jamais été aussi central dans la géopolitique actuelle\" : les assises nationales de la mer au coeur des enjeux littoraux",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNMDNlUl9tVFdNOWduRG1XbThTX09sc2ZTbmVLZVpCX090Und0QXA4SFR6VzJ4dWduUE1SUk5XQS1LeFVLcndFT0dFa2lFMW40Z0lYSzN5cl9OR0JVVkhOdFJOMVVWcU51T2JJOUFXekVaYVdRM2pEZ1FkdmJYalR6dUJGVHRWWHp6NHVsZF9MNHJUeFYxc1VOUXp5MHdza082V1hCTTMxdEFkY1dheHAxRndJamNGSlVHTWVlU3VhVEhIWWQ3RkFUcFNPTS1fazBMNEc0ZmdYOW5XUkJHa21laVNrVGFhYng0aC1jT0dmTUNpQXkxSWhPRjJSSDJ2V2tWNEpJVU1DTFR2TWFtV1E?oc=5",
+      "source": "Midi Libre",
+      "source_score": 40,
+      "published_at": "2026-11-22T16:01:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "\"Le maritime n’a jamais été aussi central dans la géopolitique actuelle\" : les assises nationales de la mer au coeur des enjeux littoraux    Midi Libre",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "Midi Libre"
+      ],
+      "all_titles": {
+        "fr": "\"Le maritime n’a jamais été aussi central dans la géopolitique actuelle\" : les assises nationales de la mer au coeur des enjeux littoraux"
       }
     },
     {
