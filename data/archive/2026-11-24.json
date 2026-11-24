@@ -1,8 +1,583 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-23T22:38:11.845131+00:00",
-  "count": 35,
+  "generated_at": "2026-11-24T06:56:56.566175+00:00",
+  "count": 63,
   "articles": [
+    {
+      "title_original": "ウクライナ向けパトリオット約60発、米国防長官の承認下りず ＦＴ報道",
+      "title_zh": "ウクライナ向けパトリオット約60発、米国防長官の承認下りず ＦＴ報道",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWDRtVjN4UFAwYjFmRkdURnF0R2pBeWxUTVlncDZWcHZiZVNCR2RXeUlRLUx6ODdNcVNMMllETTFmNExzWkg2bDcxWUplYlpwRE82OVpnQ1Y3akpnU25uaXV3aV9UeTdKbUo4WW5tbFZMel9jTUF5dUxYWkV6ZXFSOWo1TnpRdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-24T06:41:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ向けパトリオット約60発、米国防長官の承認下りず ＦＴ報道    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ向けパトリオット約60発、米国防長官の承認下りず ＦＴ報道"
+      }
+    },
+    {
+      "title_original": "決済網、地政学的影響力の手段に 伊中銀総裁が「分断」警告",
+      "title_zh": "決済網、地政学的影響力の手段に 伊中銀総裁が「分断」警告",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTk8zVy1HT0hjWXQtaWFNZFphd3pveU9aUDduVEhkYUVQWEdwNjhnVEtHQ1dkWUN2Y0t2aEtyTzFKMkVMV1ZDZ1luTWM0YzBJNzQ4OWwzUk1nbmlrdzFQTGQtdEJsUm5ZY2VxMUY0akw0WW5faHhzWUhiTWtld0dRbGREeFBmZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-24T06:01:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "決済網、地政学的影響力の手段に 伊中銀総裁が「分断」警告    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "決済網、地政学的影響力の手段に 伊中銀総裁が「分断」警告"
+      }
+    },
+    {
+      "title_original": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
+      "title_zh": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
+      "url": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-24T05:54:14+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Prime minister Anwar Ibrahim’s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority Malaysia says it will send thousands of migrants and refugees back to Myanmar, despite acknowledging that many asylum seekers in the country had been victims of “atrocities” carried ​out by the junta in Naypyidaw.",
+        "The announcement comes just days after the UN’s highest court ruled Myanmar had committed genocide against its Rohingya minority.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’"
+      }
+    },
+    {
+      "title_original": "La embajada de China en Colombia protesta por una visita de congresistas a Taiwán",
+      "title_zh": "La embajada de China en Colombia protesta por una visita de congresistas a Taiwán",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXNIdklFZGJyNWNxR1Z2SU5HczZPVzFPODZSZl9NSlR4UmdNeEc3eW5KTWZyWUl2N2lDc2pMc21kMGZScllIYktXbUIyOHlwM1pXMGc4R3k5MWFpY1oxSnA0YkF4M3VfRmFvYlloejkyTG9uR2ViaGEwV05GZU1ob05uTWZEdVFpazhob2Z1ZUpHMTM4SVNDV01JeUVzN1gxY3hDN0hGWjVweGZUZVhrSl9KQmxyZGdvMGlFQVVXR1lXcWl6TnNGaDJwcGFBQdIB4gFBVV95cUxPZk9TTTJESnE2OTAzaXRhMklRU0gyRVlLdzJkTW1YWU5XSjBDXzQybjNkcG1RcGowRG1RNTg2SUhQOFh3TFFQLVRkWG9OVmlmVTZ5S19sdTFaTE9MOTc4ejhxbFd5b1otX2JRMDRzTGhEYXBNZjlpZ1NEVlNId0FONk5yWDlhX09IUmlKcVhoSVlGRlg1Um9QNUNCaU5WY0lTVHNQcVFNUE5HUlZLMHZOMmtuMmRaal9rSVNzZWNibXE3MzlvZDJzeV92NHlBNzh6QnRzTUJPd0JOVG9sNjNmRmxB?oc=5",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-11-24T05:28:37+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "La embajada de China en Colombia protesta por una visita de congresistas a Taiwán    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "La embajada de China en Colombia protesta por una visita de congresistas a Taiwán"
+      }
+    },
+    {
+      "title_original": "حلف الناتو يتعهد بردع التهديدات الفضائية وسط تقارير استخباراتية عن سلاح نووي روسي مداري",
+      "title_zh": "حلف الناتو يتعهد بردع التهديدات الفضائية وسط تقارير استخباراتية عن سلاح نووي روسي مداري",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jSmVTOWk3TkN3THRUMk1JUUxJajZSNlFJZjhlS2dGM2FsOWYtLUY2ZmJjOGpfWTZmUFBDMHZ5T1NlOWtONllYVjFNNXFSTkpFdnVMT1RNeENzajZndEHSAWNBVV95cUxPdUk0eno1NGdaYUp6Qkh1Vy0waUV3MFVjXzJhNV9LaEJ1bXBWWms1TXpZY3YzVmUzaFJtNldkNEI0cWU4X2tYcWdHVTlmYVJJZ2NGNG4zNEZ3M1NHZjhTYVNZQlU?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-24T05:22:29+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "حلف الناتو يتعهد بردع التهديدات الفضائية وسط تقارير استخباراتية عن سلاح نووي روسي مداري    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ar": "حلف الناتو يتعهد بردع التهديدات الفضائية وسط تقارير استخباراتية عن سلاح نووي روسي مداري"
+      }
+    },
+    {
+      "title_original": "ザポリージャ州にロシア攻撃、2人死亡・22人負傷＝当局者",
+      "title_zh": "ザポリージャ州にロシア攻撃、2人死亡・22人負傷＝当局者",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjNwaF9hX3BpQUdBNEUyZ19xbTN5UjJFZF9OSWNETjRBSkdMbF9MM3U0cnFyLWNXWGs2dHVCZkpWR3ROYWJNU1NtVWRzOFRQclpDTEtNUmU0UC1FM0tKMVA2SzMwMG1xY0lRR2p5bEFPdTVLY05QakEtMktwQkRkaFNBSmlpdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-24T04:53:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ザポリージャ州にロシア攻撃、2人死亡・22人負傷＝当局者    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ザポリージャ州にロシア攻撃、2人死亡・22人負傷＝当局者"
+      }
+    },
+    {
+      "title_original": "ウクライナがロシア艦船をドローン攻撃、 動画や衛星画像で分かること",
+      "title_zh": "ウクライナがロシア艦船をドローン攻撃、 動画や衛星画像で分かること",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5WW5WNmFycTFIWlo4MURhckRrTllncWJaTlFzbm5zNm1Hei12ZFFfYXg0U2VuWVZOLWEtb3VHZlltRmwzcFJoTUtzNXptc3FtV2xPUUJaQWRrVUJG?oc=5",
+      "source": "BBC",
+      "source_score": 95,
+      "published_at": "2026-11-24T04:47:28+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ウクライナがロシア艦船をドローン攻撃、 動画や衛星画像で分かること    BBC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "BBC"
+      ],
+      "all_titles": {
+        "ja": "ウクライナがロシア艦船をドローン攻撃、 動画や衛星画像で分かること"
+      }
+    },
+    {
+      "title_original": "トランプ氏、ＮＡＴＯ事務総長と25日会談へ",
+      "title_zh": "トランプ氏、ＮＡＴＯ事務総長と25日会談へ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV0VyTDkwRUdjR1dfc0Jaa3JVcFI1MTlqYWJrNS1GVjZucDFMdFdpWHhTczBVNVB4Vk1hbEctYzI2dFU3NnE0MXpNUTZLSmpSV1hieW1rMFpWZENNZDRtRmNya1NQUmlOT0M1Ulp4eVBBaXBYQ2tDeF9INy1OcG14RWROZHZydw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-24T04:12:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "トランプ氏、ＮＡＴＯ事務総長と25日会談へ    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "トランプ氏、ＮＡＴＯ事務総長と25日会談へ"
+      }
+    },
+    {
+      "title_original": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says",
+      "title_zh": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnFJU2tabWVwRnU2YnozaFFRTWZ4VWc4TmNseXdPRGZoa25Zc0RXZ251ODdJQ3ZxYl9fWVhlSkwtU0xhajZpeHNRSXQyclM0WUdKT1Y2cHh1OExteDRnVUlfcFVMaXc1X3NnNk15QTczVklYMHR5dVZldGJBcGtnRjhlaDczNFQ0RnZoMWFlRC1rZ1pfWGUwYlNGMmNuNVlXam9peE5xb0NKWTQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-24T03:48:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Trump to meet NATO chief ​Mark Rutte on Wednesday, White House says"
+      }
+    },
+    {
+      "title_original": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudiennes",
+      "title_zh": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudiennes",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb3VLekc3S3pYaGtua19hMllyZmtsSjAyUW0tUlRkNG84QjR5bzBaR2hHRVFMcmk2dWFHUTZjNGpZLThmN1JFeDYxMVpHVlBneHFtVXQ1cFJHRW80TmNrU0ptTnVERGY1dkhuRmpSa3BhRGxxUXJxWnVwR3BjVVNBTkdRVmNMTldVdmFLeE5tRklmRWhhdVdHVnNmWUZjNWtLa0Y2X2g5Y1hkVnR1SF9Qbg?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-24T03:30:10+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudiennes    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Au Yémen, les Houthis déplorent 25 morts ou disparus dans des frappes saoudiennes"
+      }
+    },
+    {
+      "title_original": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
+      "title_zh": "NATO calls urgent meeting as string of incidents escalates Russia tensions",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeTBzUEtPZ3RHS2tpdjlJNXRLMmVneUVHeWNmRC1IRWUzb3RCUk15alZwc1hvZ1Z2czFOZDV0YldySll3N1dLQU84YjlqN2VvVTVzeHY3TDRLbjM2dkNGZGxkSkpBb1Y0a0NTWlgtQmtvSVcyS1Q3NUZaZmwzd1NYd25JNUdneER3N181RUJzUzU1Zm80R0w5VjdieFRDTUtpalhHVWgzWjZCLXJwbUpZUVRkVUExajNy?oc=5",
+      "source": "The Washington Post",
+      "source_score": 75,
+      "published_at": "2026-11-24T02:58:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO calls urgent meeting as string of incidents escalates Russia tensions    The Washington Post",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "The Washington Post"
+      ],
+      "all_titles": {
+        "en": "NATO calls urgent meeting as string of incidents escalates Russia tensions"
+      }
+    },
+    {
+      "title_original": "بيانات مسربة تكشف مقتل نحو 500 ألف جندي روسي في حرب أوكرانيا",
+      "title_zh": "بيانات مسربة تكشف مقتل نحو 500 ألف جندي روسي في حرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxPWlhUcWllNzNGOUdhUFFBQnpQSDZRbzVYWmR5bDdyc2hyYjBnWS1QU3k1RTJFVGI0UG91OVpvczZHTG9Gd0Q3aDBXNklJbmZJd1p5MVh4UUY4OXJiWlg5bV95Rko4amNiQkFYOUNqUGZzUXpJRGllNzViYzVYLVhyNXoyeXlPbi1xT21FTkFlMzRGcDhIRFM3MWo0UzBfcTRwbDJfLTZ6bFZtbEdHaFRkeXAwaGhHTlB0M0podkhJVF8yM2xBSllTZjIxeC1OWHlMSEIzN3pJQ2xqdWFQbjJMb3V0b0UtMGI2ZThfQnRRbjJpWlZLWE1JQUhkUU1Kc2ZqdldYcXFpekdGOTlTVHM2MjNzc0R1aUdLay1jdjlKcVZmcmhNdXQyX2ZTcEtvTUNOMFRBRTlzQmtpaXhIRnVTOUFZZjFwYWpPaWJHb1V3TnZfM2Y3T0l4ckxJXzVsT2h6RS0wZDE1RzhuSVk5aldyYmxWenpvZmIxZFpVM2RWSjcxYnhfNUIycnlQUEZiOXJqX0dFQTA4eUpEdFJ0dE5ZUWowMFQzd0ZDbVMyVzBhSHo5aFNLb20zd09ZVkhHOUVrWFhPb3dNUkJ1X3dHdkNXckJ3NzBwZS1OOVVmZzJ4MUh5dkw5RzFKWkloUTBpQ1laZ0Z2aTRLYUdtR0FYZGF5V3hLT2V5UWJ2R25ZbXdBVklJMVF6UG9tLWNqbkhCaGFHM2JISGZR?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-24T02:49:16+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "بيانات مسربة تكشف مقتل نحو 500 ألف جندي روسي في حرب أوكرانيا    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "بيانات مسربة تكشف مقتل نحو 500 ألف جندي روسي في حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "title_zh": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-24T02:15:59+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Nato chief vows defence against space threat after Russian nuclear satellite reports\n- Published\nNato chief Mark Rutte has said the alliance will defend against any threats in space after reports that Russia was preparing to launch a nuclear-armed satellite.",
+        "Intelligence reports about a possible launch in the next 60 days had been shared among Nato countries this month, according to German media outlets.",
+        "It was not clear which country had authored the reports."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nato chief vows defence against space threat after Russian nuclear satellite reports"
+      }
+    },
+    {
+      "title_original": "英、ウクライナでのスペースＸ利用制限巡り懸念表明 「信頼損なわれた」",
+      "title_zh": "英、ウクライナでのスペースＸ利用制限巡り懸念表明 「信頼損なわれた」",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTjhWeGlMZ0pCZ3NHWnNUdlFIYVVOZU9rcEZaTGQ5YlBHMERtVjR5bmdvbXo5Y0xreG4wWGRqNXgtZnFVM2NiSnJYc0plQmJnak4tUnNsa1BON2dzOXBINk9HSXBYaUxvY0UxdXJ4TUVjMGc0RXgwbk1zTHpFWmc0bWJPVmpDdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-24T01:31:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "英、ウクライナでのスペースＸ利用制限巡り懸念表明 「信頼損なわれた」    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "英、ウクライナでのスペースＸ利用制限巡り懸念表明 「信頼損なわれた」"
+      }
+    },
+    {
+      "title_original": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "title_zh": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-24T01:21:41+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "How Nvidia is reacting to Jensen Huang's return as CEO\nNvidia's board unanimously voted to reinstate Jensen Huang as CEO and president on Monday.",
+        "President Trump has claimed credit for brokering the deal.",
+        "What is the mood at Nvidia following the announcement?"
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "How Nvidia is reacting to Jensen Huang's return as CEO"
+      }
+    },
+    {
+      "title_original": "Brest : la force navale de l’OTAN a repris la mer",
+      "title_zh": "Brest : la force navale de l’OTAN a repris la mer",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdy1IVW9aY3RRMHNJNGtrbW4wcDU4amNEbEtSOWRFdUgtYjBteFpXMk5oS0NrWHB3Z19SOXRtSmV0dVlobjVTYmo1eGhVclcxV0xrdXZvSDQyNzJ6N3dIWUk1WkRtVDFOTnFxS2tWOVBzTnBWWlM3U1Z2dFhNa0UxeDZSb3g2VTFaUXo1YmZ4OA?oc=5",
+      "source": "Mer et Marine",
+      "source_score": 40,
+      "published_at": "2026-11-24T00:58:00+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Brest : la force navale de l’OTAN a repris la mer    Mer et Marine",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "Mer et Marine"
+      ],
+      "all_titles": {
+        "fr": "Brest : la force navale de l’OTAN a repris la mer"
+      }
+    },
+    {
+      "title_original": "ARTE Journal - 23.11.2026 - NATO-Treffen in Berlin",
+      "title_zh": "ARTE Journal - 23.11.2026 - NATO-Treffen in Berlin",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQY3VUWEZwcEdiVjFUekU4cWhGVzJHNk9uYl82RE9WVm52NmxOZlpPV2JibmxXcTZNSXBKLU1VU05xeFFsNVdtbzJnZnU5YmtDNTRiQzFsak5jRUg3U0tHc1JSd0VqdEw1SUVZQTJjeC05NllyRTRIaHI4aWRnb2NMcXZnb05FT1U0OWdvM1dtQkQ3TUhmNnJZS2ZFWmM2LUxsMlRSMl81Ml81NUFvanNYbFl6S0NZcEdzY2NLd2NYbl9KSTlZX3B0M0ZTWXBKNWh0V0JST2MycjBNWk5XeVVUbkdSZjR6NlhTOXZtbFBzbGIwZnk1WjJrUnZSRQ?oc=5",
+      "source": "ZDF",
+      "source_score": 40,
+      "published_at": "2026-11-24T00:41:51+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ARTE Journal - 23.11.2026 - NATO-Treffen in Berlin    ZDF",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "ZDF"
+      ],
+      "all_titles": {
+        "de": "ARTE Journal - 23.11.2026 - NATO-Treffen in Berlin"
+      }
+    },
+    {
+      "title_original": "德总理默茨会见北约秘书长吕特 重点讨论乌克兰问题",
+      "title_zh": "德总理默茨会见北约秘书长吕特 重点讨论乌克兰问题",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JSjM4X3VuSk1zcEZvdGlpRmYwY0NEUE1mbW5yclFXUGdLbnpBMmhzSlptSll4QWxqRlF0eHR6aDdrdTJ4dGNNLUM3TG9iV2RUQmlKTFdIb3czRG9VUm80SWRzSUlsaVU2?oc=5",
+      "source": "中国新闻网",
+      "source_score": 40,
+      "published_at": "2026-11-24T00:25:53+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德总理默茨会见北约秘书长吕特 重点讨论乌克兰问题    中国新闻网",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "中国新闻网"
+      ],
+      "all_titles": {
+        "zh": "德总理默茨会见北约秘书长吕特 重点讨论乌克兰问题"
+      }
+    },
+    {
+      "title_original": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "title_zh": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-24T00:23:25+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum\n- Published\nKing Charles and Elton John have paid tribute to Australian music industry legend Molly Meldrum, who died aged 83 after a long illness.",
+        "Meldrum's family said he \"passed away peacefully\" at a hospital in Melbourne in the early hours of Monday morning.",
+        "The music promoter and broadcaster, born Ian Alexander Meldrum, helped define the nation's music tastes for decades, championing local artists like INXS and Kylie Minogue and global acts like Abba."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum"
+      }
+    },
+    {
+      "title_original": "2028 Democrats say Nvidia news is another example of corruption in government",
+      "title_zh": "2028 Democrats say Nvidia news is another example of corruption in government",
+      "url": "https://www.politico.com/news/2026/11/23/democrats-2028-nvidia-trump-corruption-message-01181056",
+      "source": "Politico",
+      "source_score": 75,
+      "published_at": "2026-11-23T18:45:51-05:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Potential Democratic presidential candidates are slamming the reinstatement of Nvidia’s CEO by leaning into a theme that carried them through the midterms.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "Politico"
+      ],
+      "all_titles": {
+        "en": "2028 Democrats say Nvidia news is another example of corruption in government"
+      }
+    },
+    {
+      "title_original": "Rutte: retirada de la OTAN del flanco este es “inaceptable”",
+      "title_zh": "Rutte: retirada de la OTAN del flanco este es “inaceptable”",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSENqU0R5b0RpRldheUpya1pJbE9rUFRCVDBLOWxzeDdMZUd3dTdPNFhscG5oYmcxMExkdVNacV81WmhoTkRHa2ZfR2RVbzJsNmZzdFBnVnlLeGRLNTd2M0MxcmRvZlBJUlNoMklUWTFTaWlrT3hzMEZGdUJ0UmVfakVSeU1POVBvZWozbFlzaU8zS1l2N1dzQTJ4UUFFVnFMaUVZcVBNWHVGQdIBqgFBVV95cUxPQURRZW84eVNOUUQ4dFRxWWxxU0NqOFpEZkd1OGNkdTJDZl90SHRrbENWVU85VzVqamp4alJMMzJud21KbFVTdktlQjUwWVhOdTU0UWRSMk83am5aaHQzUTN1NlVYSGJxamQyNWd4UTRiMGFYWTk5cVEtajAwNnR6LUh2cndoWXByRDFfZjc1OG15YWxqTXAwSHdVb1VHMmhIeml5ZFBtMElBUQ?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-23T23:11:41+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Rutte: retirada de la OTAN del flanco este es “inaceptable”    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "Rutte: retirada de la OTAN del flanco este es “inaceptable”"
+      }
+    },
+    {
+      "title_original": "NATO witnesses a surge of airspace violations by Russia as Moscow seeks to test alliance",
+      "title_zh": "NATO witnesses a surge of airspace violations by Russia as Moscow seeks to test alliance",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbUJZS0hKQ21jQnhUYVRJcHUtbVh6MzBYNVZiTnRGb0tEX2NLYV9Pd0VxbXNjMmY0ZmxZS2FrM3dnSkNrQ2NSSGxZSzlQdjY4ZEZjS0RkbW51dW9fY0NqT0hVdjlHSkhrLU1IZXBNWmU2enhVSDVWZzNXYkJ3TmhVQ2FVSUtybXBkQkRhN0RjZWIxQl8tNHBTS0lXbDYxcDFsQ1JkN2p2Vzl5aC1NRkV2ZkEzU1dvcVJWMkZsYzJCYzY?oc=5",
+      "source": "The Conversation",
+      "source_score": 40,
+      "published_at": "2026-11-23T22:52:03+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "NATO witnesses a surge of airspace violations by Russia as Moscow seeks to test alliance    The Conversation",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "The Conversation"
+      ],
+      "all_titles": {
+        "en": "NATO witnesses a surge of airspace violations by Russia as Moscow seeks to test alliance"
+      }
+    },
+    {
+      "title_original": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+      "title_zh": "Butt of the joke: Trump impersonator mocks president at Canada press dinner",
+      "url": "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-23T22:41:48+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Carney watches on as comedian lampoons US leader and his interest in men’s backsides at correspondents’ event Ottawa Canada’s prime minister, Mark Carney, was joined on stage in Ottawa by a Donald Trump impersonator who mocked the US president to raucous laughter from a crowd of politicians and journalists at a parliamentary press gallery dinner on Saturday.",
+        "With coiffed hair and an ill-fitting suit, comedian Mark Critch – who portrays the president on the sketch show This Hour Has 22 Minutes – danced on to the stage and lampooned the trade war Trump started as well as the president’s threats to annex Canada.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Butt of the joke: Trump impersonator mocks president at Canada press dinner"
+      }
+    },
     {
       "title_original": "原油先物3％超安、3カ月ぶり安値 中東からの供給増などで",
       "title_zh": "原油先物3％超安、3カ月ぶり安値 中東からの供給増などで",
@@ -54,6 +629,56 @@
       }
     },
     {
+      "title_original": "俄乌冲突进一步外溢！泽连斯基证实乌军在利比亚击沉俄罗斯护卫舰",
+      "title_zh": "俄乌冲突进一步外溢！泽连斯基证实乌军在利比亚击沉俄罗斯护卫舰",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MR0x6cTlpODh4SXNzTFlfZXJkaVh0Wm91MjlkMTNCOUNtakRHcTRKbDRYWk93UXk3UEhZV0Q4SHZVa1pqY1JXRg?oc=5",
+      "source": "财联社",
+      "source_score": 40,
+      "published_at": "2026-11-23T22:03:32+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "俄乌冲突进一步外溢！泽连斯基证实乌军在利比亚击沉俄罗斯护卫舰    财联社",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "财联社"
+      ],
+      "all_titles": {
+        "zh": "俄乌冲突进一步外溢！泽连斯基证实乌军在利比亚击沉俄罗斯护卫舰"
+      }
+    },
+    {
+      "title_original": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "title_zh": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-23T21:24:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book\n- Published\nGisèle Pelicot has said she has been \"once again humiliated\" after nude images of her were sent to the media to promote a book about coercive control.",
+        "The 73-year-old told French broadcaster BFM TV she would take legal action against the publisher and author of the essay.",
+        "Pelicot made headlines across the world when she waived her right to anonymity in the trial of her then-husband Dominique, who was jailed for 20 years for drugging and raping her, as well as allowing other men to rape her while she was unconscious."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book"
+      }
+    },
+    {
       "title_original": "Drones navales ucranianos atacan un nuevo buque ruso en Libia y otras noticias de Oriente Medio",
       "title_zh": "Drones navales ucranianos atacan un nuevo buque ruso en Libia y otras noticias de Oriente Medio",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWExTMk51TUQxbkxvSVRRU0tDU2pjY090UUhqbGUweFpDejBKQy1yaVN6THcxa1laNEVONkZPbjRTNDNkc2J2NEJhQ3ZvVk5ySEhrdVQxNThlM3QzdmozRGVIdWtPNllsUlJXb1lGRWhJY1pyTEExd1dCazlxMWotNUt2ZU5SeXVaRVg3NGdsNVljb05DUGRNZVoyVjdYbkFhNHBkQWlMX3V4Y2dMYVlzUEhHbWZBeFBOTFZrTF9zWVV0UUtHdElLU09CVQ?oc=5",
@@ -76,6 +701,31 @@
       ],
       "all_titles": {
         "es": "Drones navales ucranianos atacan un nuevo buque ruso en Libia y otras noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+      "title_zh": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-23T21:03:34+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "UK sanctions top Myanmar military leaders after Rohingya genocide ruling\n- Published\nThe UK has sanctioned five senior Myanmar military leaders after the International Court of Justice (ICJ) ruled that the country had carried out genocide against the Rohingya minority – marking the first time a state has been found guilty of the crime.",
+        "A military crackdown in 2017 killed thousands of Rohingya and forced more than 700,000 to flee Buddhist-majority Myanmar, formerly known as Burma.",
+        "The UK is joined by several other countries, external in acknowledging the ICJ ruling, including Australia, Belgium, Portugal, Spain and Canada."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling"
       }
     },
     {
@@ -154,6 +804,31 @@
       }
     },
     {
+      "title_original": "Merz : ne pas avoir intégré l'Ukraine à l'OTAN en 2008 était une \"erreur\"",
+      "title_zh": "Merz : ne pas avoir intégré l'Ukraine à l'OTAN en 2008 était une \"erreur\"",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFZ0THRqRGhjZlRBSWctMTBQNmdXdGU2ZzdwdHlXcDdlU0NIbHNwYjZmbGZnZlVZSDBONDVfRng4YkJvVWZnZ0w5eVoweWNBNVYxWE9YdkhQeFZnZ1JHemY0a1g0NTRfck0yd1Q2aldETmphekVaSlVfWHl6dEZxeXo3ZVR1N3BSbHdHX3JzTmRpYS1qdEkzUktYTFVwVFZ5ZXBnRA?oc=5",
+      "source": "Euronews.com",
+      "source_score": 75,
+      "published_at": "2026-11-23T20:14:19+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Merz : ne pas avoir intégré l'Ukraine à l'OTAN en 2008 était une \"erreur\"    Euronews.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "Euronews.com"
+      ],
+      "all_titles": {
+        "fr": "Merz : ne pas avoir intégré l'Ukraine à l'OTAN en 2008 était une \"erreur\""
+      }
+    },
+    {
       "title_original": "ＮＡＴＯ、ポーランドに警戒管制機派遣へ ロシア製ミサイル着弾受け",
       "title_zh": "ＮＡＴＯ、ポーランドに警戒管制機派遣へ ロシア製ミサイル着弾受け",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMHV4Z0lpN1FQWFh0ZENscHJLLVU3UXNWTU1xeE81RGJadVhfN0Jqc3BIWmVDR0VaRkZrQjkyaDRkbDJob3c0dDVMOEJhNExVYXdPMXYtQklOaDVVUE0zRUVUNWxHUUhES1F0WG5OZ21Sd3ZaZ2VtUkdRVERmN2NGdHVfaGJUQQ?oc=5",
@@ -201,6 +876,31 @@
       ],
       "all_titles": {
         "ja": "ＮＡＴＯ、対ロ抑止・防衛を常時検証 ロシア核搭載衛星報道受け＝事務総長 | ロイター"
+      }
+    },
+    {
+      "title_original": "La Inteligencia de la OTAN advierte de que Rusia planea poner en órbita un satélite equipado con armas nucleares",
+      "title_zh": "La Inteligencia de la OTAN advierte de que Rusia planea poner en órbita un satélite equipado con armas nucleares",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdzVsZEFoRkFxOC0xeTNmSG5FSzM5ZzR2NXU0cHBsMzBKeUF3azZCZzI2ZEpENE43aWF1Zlh2RV9oVTJwOGp0Z21SbU5lN2RDcHVFUUNCNmVYMFFvcEVhRE9sVEZoUXdQeHBwR3RvNHNEZU9nNmdldXFMWjJ6am1vSFdseE81MFpNbFlGY1dCOVptYjZibmdIV2hFdGtKS1FyczdrQjRsNGRCQmI3X2dEckhqRGk1dG9mRS1nd1pldXdvQXlOUnE3a2hiSDBQWXRKVnU4bjhTTVdiNXJMdnZXdzd4dWRzM1ZZSjl3X1Jzc3o3VWNwc1F5OUUxaFpFaGwySFJiUGJB0gGGAkFVX3lxTFB3T1gtbU1Lbm9IUEN4OGNPTHE1YUM5cHdqT2ZwWUVZalM5cVkwTzlIQXl2alpjUFRkSmp1SlNDX0dzbG45TlF4S203b1VUT1p6b0Y1XzlGcVpQeXVwR3NHeWVoaEs4YXhUZG83eVg4aEhFWmh6cWpzWmlLUGVoQ3A4YXpNYXVSUlVuNV9rQmQwMy1WSGpoX1F1empJc0t1cVJXYWRGVkx3b2dmcXdzTDRUSjJRckdaMVZYdjk5ZjhTdk9uM2dBbGRPR3JUUTZ0T1FGc1F3SlVIMnlfek9ZV3h3VC0xSnUtdWxvNkxLQWVLZ1pYc1J2MkNPdzB6WW4xTm9mSVdhdlE?oc=5",
+      "source": "LaSexta",
+      "source_score": 40,
+      "published_at": "2026-11-23T19:40:36+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "La Inteligencia de la OTAN advierte de que Rusia planea poner en órbita un satélite equipado con armas nucleares    LaSexta",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "LaSexta"
+      ],
+      "all_titles": {
+        "es": "La Inteligencia de la OTAN advierte de que Rusia planea poner en órbita un satélite equipado con armas nucleares"
       }
     },
     {
