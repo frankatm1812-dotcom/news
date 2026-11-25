@@ -1,8 +1,608 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-24T21:10:31.650617+00:00",
-  "count": 35,
+  "generated_at": "2026-11-25T05:24:57.403913+00:00",
+  "count": 64,
   "articles": [
+    {
+      "title_original": "US shelves proposals to use business deals with Russia to end Ukraine war, FT reports",
+      "title_zh": "US shelves proposals to use business deals with Russia to end Ukraine war, FT reports",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-25T05:16:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "US shelves proposals to use business deals with Russia to end Ukraine war, FT reports    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "US shelves proposals to use business deals with Russia to end Ukraine war, FT reports"
+      }
+    },
+    {
+      "title_original": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "title_zh": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-25T04:49:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle\n- Published\nKilmar Ábrego García, whose deportation last year to El Salvador sparked a bitter deportation battle, is leaving the US for Spain.",
+        "He is set to take a commercial flight to the country on Tuesday, according to CBS News, the BBC's US partner.",
+        "After the government admitted it had wrongfully sent Ábrego García to his home country, he was returned to the US to face human trafficking charges, which were later dropped."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle"
+      }
+    },
+    {
+      "title_original": "Merz y Rutte impulsan la escalada de la guerra contra Rusia",
+      "title_zh": "Merz y Rutte impulsan la escalada de la guerra contra Rusia",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rZ1ZtT0VJVXJObDFSdnk3aDBiQWhqclJ3YWM0dVh6RU8tWWdUYWdUM3lua1kxMTJxcVhVVlJ0ZkQ2cWxMa2hEYUdCcFNobkU5eHpSamlGUlYwSDBvMkxualYtcVdpb2dM?oc=5",
+      "source": "World Socialist Web Site",
+      "source_score": 40,
+      "published_at": "2026-11-25T04:16:23+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Merz y Rutte impulsan la escalada de la guerra contra Rusia    World Socialist Web Site",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "World Socialist Web Site"
+      ],
+      "all_titles": {
+        "es": "Merz y Rutte impulsan la escalada de la guerra contra Rusia"
+      }
+    },
+    {
+      "title_original": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+      "title_zh": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-25T03:57:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Abelardo de la Espriella to take control of an operation involving scores of security personnel trying to free at least 20 hostages Colombia’s president has arrived at the scene of an hours-long standoff between security services and gunmen holding at least 20 people hostage inside a supermarket in Cartagena, a popular tourist city.",
+        "Abelardo de la Espriella’s motorcade arrived in Cartagena on Tuesday night, Agence France-Presse reported, where he will ostensibly take control of a operation involving scores of officers, the navy and special forces.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city"
+      }
+    },
+    {
+      "title_original": "US attorney general dodges questions about Nvidia investigation",
+      "title_zh": "US attorney general dodges questions about Nvidia investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-25T03:44:07+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US attorney general dodges questions about Nvidia investigation\n- Published\nUS Attorney General Todd Blanche has backed Nvidia as a \"good corporate citizen\" while refusing to comment on whether the AI chipmaker was under federal investigation.",
+        "Blanche said he had no information about newly reinstated CEO Jensen Huang's security clearance status, as lawmakers demand answers about President Donald Trump's involvement in Huang's comeback.",
+        "Huang was given his job back less than two weeks after being forced to resign over revelations of extramarital affairs, including one with an alleged Chinese spy."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US attorney general dodges questions about Nvidia investigation"
+      }
+    },
+    {
+      "title_original": "داوتي لـ«الشرق الأوسط»: تصعيد الحوثيين استدعى إجراءات عقابية واسعة",
+      "title_zh": "داوتي لـ«الشرق الأوسط»: تصعيد الحوثيين استدعى إجراءات عقابية واسعة",
+      "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxPUnRkSVBDX3lpQ1M3VHhDWm5WNXNZcEItUFpta2RvaXZIUkJubmd0VEc4bUNYczl3OUJIcmZacW9XVEtOMHEwN3poejdiSU9EQjZLVE1uaW11dm04SFBPR1NBUVJNaHQwdk01dXRpbTJ6YmdwOHlzSjdiZFFJYUlVY09LNl9GTjd3N3BpUXNmQWNsaHA3dnZmOC1ja0U1NXV6U3lTTHIxckZuQmh2TGJaZm45X1dSQXlSNmxDQkJBbE1WTXNoMlVaMFFES1NnSzNGcVlQSWo2bWwyWHhuMU51bXpvbDF1djV2RkxMV2QtV01QWFFDZE0wZnMwX1pCQ3lwck5Mb3pFUm5Ld1lJeWNDdEdaMnBjTktaSGwxVWVqRjlsWWtfbEFEV3RvRDB6TEotQTJ1NmZtS1ZlTHkxNUtrc1IxOWpvcVdSdWZEWmktU1p6ZjdhZU1VY1RmQXJ2UjcxX1hiOXZlTDJJb2Z0ZkFHajlSYmIzMGlhbTVaRGRYbGthX2pveExCNldNeUNraGxod01CVzdTTG9ZZHo5ZDAtMGRMV1ZTT1R5YXhpb1pRdFZXSVdCeWFlbXFVV0w4RGVJTmppRElmN1RYNzI4UkZaLWd1TGVJaTZ3RWxCMDhpekJueEFQYWR1U05OeXJwdmRadVlnQ2NGQXBGdmhWeDBBdWZ1RDZOQzNWWTFSbm9UUTEydl9VZU84YklsYTdiZU1MdmtaSDNjc3M3VnRBbHFTcmdVR0ZRLW8xOVVKM2F6RnVhN0ZscFJtWERjeC0yN3FQQXhqQWRhUEt6cjNqdkYxamNyb014THUyVzhwQVhQdndGNkxJSzZ4V1hUMTFpbnZIMzhPUmZDRlFsem1mbHNTN1oyZWhHM3c?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-25T03:10:09+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "داوتي لـ«الشرق الأوسط»: تصعيد الحوثيين استدعى إجراءات عقابية واسعة    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "داوتي لـ«الشرق الأوسط»: تصعيد الحوثيين استدعى إجراءات عقابية واسعة"
+      }
+    },
+    {
+      "title_original": "ノルウェーとウクライナ、共同開発の防空システムで協力拡大へ",
+      "title_zh": "ノルウェーとウクライナ、共同開発の防空システムで協力拡大へ",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUxDcm51TVVBQmRLWklMRjM3aGEzZERDQzlWZEVwTlFCdUhRTENCVXM1VmxyZ0FndlBERnRwazgtQ2VWTjkyOFRpMjRJcERDNmdKOW9KY1BucmR0dDFzOTBjamdSeGN2X2stNm5sdzBHVkZXVG1IN0hrMWJUcmJnSExOWFlvUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-25T03:10:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ノルウェーとウクライナ、共同開発の防空システムで協力拡大へ    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ノルウェーとウクライナ、共同開発の防空システムで協力拡大へ"
+      }
+    },
+    {
+      "title_original": "原油先物1％超下落、供給過剰見通しが中東の供給不安を相殺",
+      "title_zh": "原油先物1％超下落、供給過剰見通しが中東の供給不安を相殺",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TMWp5UmZ4MzRVRFVVQzJkbWNvbjlUeDYxSlRTblZhVEN3SGZ4eW5YR21EeFVNS1dGeFNHYzV2SDZwUUpIS2hzbmdXTXZmTWZEX3RoTDhUNEZENFFtT1lUbC1kcTBJMjh3UWJveFdNLU0wdnVZWE9yUHdhSTNEWWs?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-25T02:12:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "原油先物1％超下落、供給過剰見通しが中東の供給不安を相殺    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "原油先物1％超下落、供給過剰見通しが中東の供給不安を相殺"
+      }
+    },
+    {
+      "title_original": "It is important for the US, China and Russia to discuss security issues as ‘big nuclear powers\", says NATO head",
+      "title_zh": "It is important for the US, China and Russia to discuss security issues as ‘big nuclear powers\", says NATO head",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ0ZBMGxwLTBmVGlkUlpwaGxXY2FiVUtMaWZSRjlLUnN0S2F4RGE5VVluUmdMci1mUUxQWmRmQXlpLTFzdTZRSGNneG5KZnlkVVlBZVIybGRZalFIeXlkS0duMnZTMUd2LTljQU1kSG5jVDZZLTk1WmxCQ3ZCdGRObFJvVXRKTk9wVzBGbXFURml5MUhGQmpKWlBGeEY?oc=5",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-11-25T02:09:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "It is important for the US, China and Russia to discuss security issues as ‘big nuclear powers\", says NATO head    CNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "en": "It is important for the US, China and Russia to discuss security issues as ‘big nuclear powers\", says NATO head"
+      }
+    },
+    {
+      "title_original": "4分に1人、ロシア兵72万人がウクライナ侵攻開始後に死亡か 流出データをもとに推計",
+      "title_zh": "4分に1人、ロシア兵72万人がウクライナ侵攻開始後に死亡か 流出データをもとに推計",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nRGlYdnNPaDBTUnoyZHhscXNGQlBJc0dub3cxbVpjU0gtUnY0Vl92TmRBYktlQW41VXlLOHQ1emxYUWJ5Vjh0RDJVSDFoMFFld0RZ?oc=5",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-11-25T01:46:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "4分に1人、ロシア兵72万人がウクライナ侵攻開始後に死亡か 流出データをもとに推計    CNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "ja": "4分に1人、ロシア兵72万人がウクライナ侵攻開始後に死亡か 流出データをもとに推計"
+      }
+    },
+    {
+      "title_original": "ウクライナ、フィンランド湾でロシア商船攻撃 海上での戦闘拡大",
+      "title_zh": "ウクライナ、フィンランド湾でロシア商船攻撃 海上での戦闘拡大",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBldVJ5aGd1Qk1vMmVFUE8xaWJ6ektzek45YnhrTkwzc1ktUUFPeW5NVDhWRFltN2FiSkFTb2MwV0dzNEladUJKOXcxdjVreVhnUklONkpzbUJPeGVUYkVsVnJ5c1A2ZDFX?oc=5",
+      "source": "毎日新聞",
+      "source_score": 40,
+      "published_at": "2026-11-25T01:08:54+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナ、フィンランド湾でロシア商船攻撃 海上での戦闘拡大    毎日新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "毎日新聞"
+      ],
+      "all_titles": {
+        "ja": "ウクライナ、フィンランド湾でロシア商船攻撃 海上での戦闘拡大"
+      }
+    },
+    {
+      "title_original": "The rising cost of putting food on the table in India",
+      "title_zh": "The rising cost of putting food on the table in India",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-25T01:02:13+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "The rising cost of putting food on the table in India\n- Published\nIndia's inflation is rising again.",
+        "And the biggest worry is what's happening to food prices.",
+        "The latest government data, external shows retail inflation climbed to 6.09% in October, up from 5.54% in September."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "The rising cost of putting food on the table in India"
+      }
+    },
+    {
+      "title_original": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "title_zh": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-25T00:56:51+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Russia's own figures show almost 500,000 deaths in war in Ukraine\n- Published\nAt least 490,334 Russian soldiers have died since the start of the war in Ukraine in 2022, according to Russian government statistics analysed by the BBC.",
+        "The leaked Rosstat data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia, and show the high cost paid in human life in a war that Vladimir Putin had assumed would last only days but is now almost five years old.",
+        "BBC Russian has had access to more than 11 million death records from 2021 to September 2026, after a hack by Belarusian group Cyber Partisans BY and Ukraine's Silent Crow."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Russia's own figures show almost 500,000 deaths in war in Ukraine"
+      }
+    },
+    {
+      "title_original": "NATO chief on reports Russia plans to launch a nuclear-armed satellite",
+      "title_zh": "NATO chief on reports Russia plans to launch a nuclear-armed satellite",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdU5yZ3ExMWhYS2NKQU9xRjhYZ1k3MGhxMG1GUEhtV2FwNS0wU0x6S2V6U3Y2M1BaeHdPRHNQNXlCYm81YnRMMHRTeHVBTTdfQ1Bvc2J0eDdyMEVINklQRlNsMUV3eXRWZEtMVmF5UmtmLTllR2xOUkxudTB5MGZILTRySFBwWjh4d3pFaWpSMGQ2QjdYWnNmYk5iQy1QYmMwUFo2bjR0TkFhdmhJLXRXTF95TEQ4VEJ3Sml4Ym1wZw?oc=5",
+      "source": "CNN",
+      "source_score": 95,
+      "published_at": "2026-11-24T23:55:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO chief on reports Russia plans to launch a nuclear-armed satellite    CNN",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "CNN"
+      ],
+      "all_titles": {
+        "en": "NATO chief on reports Russia plans to launch a nuclear-armed satellite"
+      }
+    },
+    {
+      "title_original": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+      "title_zh": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-24T23:50:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García has left the United States of his own volition, his lawyers confirmed on Tuesday, with the Department of Homeland Security confirming that he was travelling to Spain.",
+        "The Salvadorian immigrant was at the center of a months-long legal battle since he was deported to El Salvador in March 2025 by the Trump administration, in defiance of a court’s protection.",
+        "He was held in Cecot, a notorious anti-terrorism mega-prison ."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US"
+      }
+    },
+    {
+      "title_original": "US bomber aircraft arrive in Black Sea region",
+      "title_zh": "US bomber aircraft arrive in Black Sea region",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0M3TTBVR1AyNmRxcXU5SjlkZmdxYXBacVNvaDRJdFNuakp3WnlrV1dQN1BBQUliQjQzLUhlRnRqS1VUdjBTRzRmaUFJbDczVThyU3ktZmFBcXU5MklOaVNfR3lBaUlXYlRZUDhteFl1QWRzdUtFSDVSTVVXWEdPMmYtYWRaTWZmLUJkZGljQU1wdUZJTmpnVk44UkpLU3BBSUtIRlZrZ2MyNTBoMWc?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-24T23:32:39+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "US bomber aircraft arrive in Black Sea region    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "US bomber aircraft arrive in Black Sea region"
+      }
+    },
+    {
+      "title_original": "対ウクライナ軍事支援、独国民の過半数が反対 賛否逆転＝調査",
+      "title_zh": "対ウクライナ軍事支援、独国民の過半数が反対 賛否逆転＝調査",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZU10b2thdVBEclpXNkE0el9IcGE0RzluQmVRc2REU2F5Wjc3VUJocTB1aC1HMzBpR3VGd241cGROR3I2b0lqaFlFci1vRmJBbkZsN2ppTndfUjZJMU02Uk8tSmN3TEhLRE5mRTZWWU1SZ0xjQzNEMV9xcmlNT0lVUGcwQWRnZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-24T23:06:09+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "対ウクライナ軍事支援、独国民の過半数が反対 賛否逆転＝調査    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "対ウクライナ軍事支援、独国民の過半数が反対 賛否逆転＝調査"
+      }
+    },
+    {
+      "title_original": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "title_zh": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-24T23:05:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds\n- Published\nTaiwan's ruling party is being repeatedly targeted with AI videos spreading false claims about its leader and other key members ahead of crucial local elections, BBC Verify has found.",
+        "A China-linked network has pumped out more than 500 fake videos about the Democratic Progressive Party (DPP) in the past year, which experts suggest is part of a long-running campaign to influence the outcome of the elections.",
+        "The videos appear to try to smear President Lai Ching-te by claiming he holds a US green card - and would abandon Taiwan if war broke out with China - which Taiwan's presidential office says is completely false."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds"
+      }
+    },
+    {
+      "title_original": "リビアでのロシア船攻撃は正当な自衛行為、ウクライナ外相が主張",
+      "title_zh": "リビアでのロシア船攻撃は正当な自衛行為、ウクライナ外相が主張",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2lKanFGdmlLRjZhZ04ybTdXUHJJbWkwSDdEQ3Y4azlwQ25rdmZEYzFXT2tjbkJETnJsdVR6d1V1OS1aQ3RuLTMyN2VFcVNpNFRGMXZkcEwwNzZPd3NrQ2IycVl2dzFsckg5MnBMUUVQTWt5S21jMDNFQkZZT2JMQ3dPWVNjZw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-24T23:00:27+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "リビアでのロシア船攻撃は正当な自衛行為、ウクライナ外相が主張    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "リビアでのロシア船攻撃は正当な自衛行為、ウクライナ外相が主張"
+      }
+    },
+    {
+      "title_original": "«أبطال آسيا 2»: إيست بنغال الهندي ينعش آماله بفوز ثمين على الحسين إربد",
+      "title_zh": "«أبطال آسيا 2»: إيست بنغال الهندي ينعش آماله بفوز ثمين على الحسين إربد",
+      "url": "https://news.google.com/rss/articles/CBMijgVBVV95cUxPSkl2cGc1OTJoZ3JDN0p3ejBEY2J2a0JBQXlKaXRiYjZadVBXeVI2VXRwSlByWFFUYy14emlEa2dPZExJU1JTcjI1YmxLRHdhREZvRm9lUHVyUU5hVHRrT0xuT2E3eWdybE9wNUxsVGRVQlNad0hueVktaGItTjJmd0xUcmN0X0pQeUVtX21oOFlyNTJDNU5TLW10RnZJOGRQTU1BY0V2RnZkZ0ZTWXVwalpvdG44ZmZpX003UWN0blFhRzNxQ3dKak8tLUdpaEh1WElkelFweUN2NDBPLXo0c1QzczhWV3JjejZvU2lmb3lDaFhnRVpEMlgwMExGQVpJOWtpZDh6NElKR0EzNm1Ha0NoWThVdjkyNmtxYmdEeFI3UVk3cG12dVBnT3VvTGJQek5hbVRKOXZyQ3NYSTRZcHNjR1M3eE5mY0Z6Q1dmaFl5NUJxN1JOb1ZYRUNYV1ZHbGE4dmE3VmYtTUlTbWtmOVRFM21neGJxa29rUUtYRE1sVzdXd1hkYm93SHZjNzFrdElndjNzYmR4RUVJZWxyMGpSM2N5THJPNm9ld0EyTVZqUTc0Z0k5MFlVN3hkbGgzYU1JN3FZUml3RTNPMDEwUXpfa3U1VjVKdlBiSFc4dDI5WUNXZ01VOHRkZktCb2NNV2dfN09LbjN2bjRpUXVsNXUxUkFPRV81Nm11OHMtRk85R2JuVzA3aGlmTHhLM0toRFVxN0NTVXdJUnVzYXhKc1lqM0l0eHFQZGJ2bVhKVXpxVlJZY2QwQV9mUDZyOGkyZnRCeTdtMklpQXpYeEFOSllPZGt2TEpRZEQ2XzhkdEhLemh6LUMzWjM4VjlqVUtvSW80RkJoTjlOa21Fd3c?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-24T22:03:53+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "«أبطال آسيا 2»: إيست بنغال الهندي ينعش آماله بفوز ثمين على الحسين إربد    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«أبطال آسيا 2»: إيست بنغال الهندي ينعش آماله بفوز ثمين على الحسين إربد"
+      }
+    },
+    {
+      "title_original": "德外长：若俄要求北约回到1997年状态，就归还克里米亚和乌东领土",
+      "title_zh": "德外长：若俄要求北约回到1997年状态，就归还克里米亚和乌东领土",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONnl1VkV0YmNBNUxTYW1GQjFxLVdlV1BtcU5hR25sUEY3RkJMYkJ6TFhrcW1oZDJEUWRJWHFpWi1sZVlGSjNDMmJnTjdtV2YtZzNjdmhOdjlseXczbV9wY1pRYjh3TTJEM2xWS19RSGN6QVd2Zm81Rnp6VVVyLU9WY2dBWTNDM2IxdGYyeg?oc=5",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-11-24T22:00:00+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "德外长：若俄要求北约回到1997年状态，就归还克里米亚和乌东领土    Sohu",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "德外长：若俄要求北约回到1997年状态，就归还克里米亚和乌东领土"
+      }
+    },
+    {
+      "title_original": "Allocution de la secrétaire générale déléguée au symposium 2026 de l’OTAN sur la résilience",
+      "title_zh": "Allocution de la secrétaire générale déléguée au symposium 2026 de l’OTAN sur la résilience",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnFxQ1dSYzA2dFcyUXA5a3JqdmVKTFE1WjR0TlZzQ3lrU0lnT2c4Q0hIdmVGOWFwMm96bUYwbmFLdVJkRGlmX2RELUxSRFdPWDhCV3hOcDZsdnVTWVZwc29WeWtpUFN6d2dTMG0tSExWbUxKMzZBOTQ4UE1hdEtlanQwTGdxb0M3OGR3YTFtX2oycFdyd3ozSUVaM2JLOVZ6TGViTHNTaDJMOTg4V3pDR1RaLVpRTW9NMTlheExXcXVNSDh5YmgxYXdFT0ZWRGc?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-24T21:46:57+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Allocution de la secrétaire générale déléguée au symposium 2026 de l’OTAN sur la résilience    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "fr": "Allocution de la secrétaire générale déléguée au symposium 2026 de l’OTAN sur la résilience"
+      }
+    },
+    {
+      "title_original": "إصابة 23 شخصاً بانفجار سيارة مفخخة في كولومبيا",
+      "title_zh": "إصابة 23 شخصاً بانفجار سيارة مفخخة في كولومبيا",
+      "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxPT0VySHVybFA5cGYzOXI2V1VkQXJiZkpVeDE5RkwxdXNKS0RlNDRyX0VtMFdQangxWGI3cWt1UC1ub094YWxOeXNHMHlQYkJZVGt0UHkyM1hJbm1od25hUllndUJRbFVKNXA0OWRTeW04bklZTTk2TGU0V2x0V1p1cDdab3JkRWlhcWl3dVFZLTJpQlo1Rks2ZGY5dC01dTN6ZThLc1FOc0JpUDhEVEdpYlNnN0cyZ2k2NHViOG9SZXAzSk9IRkE2NjVGYTdhRUZUZHVtTG0yNHFHUGo2MXFaUW44dHhVRVh0RVlteHZSWEk4OTNySHBzeEo5UmNtQTNEelRENllHWTlyN1BfQ3gwblFEdDlaSFQ4YlVzZEpRWDFrSThkcTVmREh0eUFzTmdvRFZDUzQxOElqS1RZWkJxN1NCcEprS3FLY21pSGMtVUdhUWdkWU5pamhzcEwxNFhBdmNMbVhPdUZsYS11LTJtREtjZktlQkQyZ3IxU1NkRjdOU2R2MUhnR0ozRk51S3BfU1hrX281dUJfSWJ1TUpyRHR4aXhDcjM5Z3YydFlBNWd2aXc1cmZaQm5Edy1vNEVOU2tucnZfOVFQdTdBU2lJb0xXR3laTXNnUDd1OE5rT3VhTEFNSVhRX2J3cXRXblZDQUdpbS15cVpxeS1POF83Z0hkbjd2ZFc2ZFprRS0wWUQ4Z0k1QlptWE9ScHhVNWJM?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-24T21:08:21+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "إصابة 23 شخصاً بانفجار سيارة مفخخة في كولومبيا    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "إصابة 23 شخصاً بانفجار سيارة مفخخة في كولومبيا"
+      }
+    },
+    {
+      "title_original": "ハンガリー首相、ウクライナでゼレンスキー大統領と会談 両国の緊張緩和進む",
+      "title_zh": "ハンガリー首相、ウクライナでゼレンスキー大統領と会談 両国の緊張緩和進む",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd3hnTXhIbWF3TzQ5ZnpVN0l6bWJIel9LQlprQkR0cWZFbmFMc1NXSHcxaWNTZDNPX3oyaC0tSU5aYmNBR1EybGlvMTZIOU9NMDF3U1JXYTVySHFld0lwMU1vRWoxOG9rRlBMMjVNOVJlNnRDbGdMLWtya0F0LVUwcGltSzVwdw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-24T21:05:43+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ハンガリー首相、ウクライナでゼレンスキー大統領と会談 両国の緊張緩和進む    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ハンガリー首相、ウクライナでゼレンスキー大統領と会談 両国の緊張緩和進む"
+      }
+    },
     {
       "title_original": "Russland will ohne Starlink und mit dem eigenen Satelliten-System Rasswet den Ukraine-Krieg fortführen",
       "title_zh": "Russland will ohne Starlink und mit dem eigenen Satelliten-System Rasswet den Ukraine-Krieg fortführen",
@@ -54,6 +654,31 @@
       }
     },
     {
+      "title_original": "米中露首脳会談でウクライナ戦争が言及されなかった理由…トランプの焦りにつけこむ習近平とプーチンの思惑",
+      "title_zh": "米中露首脳会談でウクライナ戦争が言及されなかった理由…トランプの焦りにつけこむ習近平とプーチンの思惑",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnQ1Z4dFdpcURtQmg4NTY5VzFSOTB6UHlyVW9VQWE4REF1YXc3ZkZqSm9EZEJGUTd3d1VXb3RjU213c3RWVWFEUFcycGNReUlfN09SNm1BNU1xVkxmdDNPWnVLRmFhbjFPWmdRaVJlWXV5ZTVuNzNkTnlPRkE4QnM?oc=5",
+      "source": "Yahoo!ニュース",
+      "source_score": 40,
+      "published_at": "2026-11-24T20:00:37+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米中露首脳会談でウクライナ戦争が言及されなかった理由…トランプの焦りにつけこむ習近平とプーチンの思惑    Yahoo!ニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r26",
+      "cluster_sources": [
+        "Yahoo!ニュース"
+      ],
+      "all_titles": {
+        "ja": "米中露首脳会談でウクライナ戦争が言及されなかった理由…トランプの焦りにつけこむ習近平とプーチンの思惑"
+      }
+    },
+    {
       "title_original": "ハンガリー首相がウクライナ初訪問 関係修復へ「歴史的な日」",
       "title_zh": "ハンガリー首相がウクライナ初訪問 関係修復へ「歴史的な日」",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Jd2VEbFctSUZmYjJyMGRIYVFyV3BMb1pPSVk5T1RxZThnR0NRSnZFYXhFUjBBRTRBYzZJU3dKSHRhMy1HSTNDcFN6WXJrTEJDUTljZkxsWFVRWnlQc09HWFlyT2NsYTlGb2F3Uw?oc=5",
@@ -76,6 +701,31 @@
       ],
       "all_titles": {
         "ja": "ハンガリー首相がウクライナ初訪問 関係修復へ「歴史的な日」"
+      }
+    },
+    {
+      "title_original": "وساطة كمبالا... تحرك إقليمي لحلحلة الانسداد السياسي في الصومال",
+      "title_zh": "وساطة كمبالا... تحرك إقليمي لحلحلة الانسداد السياسي في الصومال",
+      "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxPNFQ3RmUxNFgzV0E5bVUwN3YwTDdQRS1KNFFmNDBoU3ltc0V4NUFCejlnOW1YM2hKZ0JERzJFbFF4cnotUHNfOVJkQ1Ffa2NBcVF2ZjlxaGxQVlpFM1hvY0xJQ2JBM1dxV0Fsd01CTTZTbC1iUzhDa1FscmhqX1BhckpWYmc2OEYtRXVtbElGaW1rck5xMms0d0xIZXpuWFlYcC1NXzRGQmlsdG9ZTVVJck9mODlMMkN6OHFhNzRORjhZdTQzeW02WW9fX0Fqejk3SEQwWGt3ZTNkNmdLdG96MTdfNk1vTWFIdDdfQy1IeXoyTWx4T0JNc0pGSk1Fa2Y1eXNQbUFNN1czNFVYQTU4aWd0UkprMWw2NDBuSXNfaVdyQngxNVlSRE01T1hGRGxRRHFTclJqRGtfX24xRXYwaTNiZjhKSEh3cmlIUFFnRnpPQUxOaFh5cUVqckFraTFhSWxhZTU2V3VTclFENmlITzE5dGloMXRyOVNTSVB1UVlBUndPOF9OYkpkenFxVEZxb2d0RklnODNtRDFUYk1xejVOOVQtZmJRVERrdzdlanRNVWZiU3I4TmlzWDJVc3ZFV0dtRDdNRzlKekhFTnZjako1UlNRaGZjanFFbUtaTTh2YnpNYXdjbkJQZWptMEVlLW9wbF9oWHp3LTNnWVptaGExM0pScTluTDNIbnRsUDZkS3pNTTJSN2JuOWdxUldnUlVBYThadGI4NEtIdlpBMElodHhmUXFCeTYzY2U1eWowNDJrVnc?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-24T19:40:59+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "وساطة كمبالا...",
+        "تحرك إقليمي لحلحلة الانسداد السياسي في الصومال    الشرق الأوسط",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "وساطة كمبالا... تحرك إقليمي لحلحلة الانسداد السياسي في الصومال"
       }
     },
     {
@@ -126,6 +776,56 @@
       ],
       "all_titles": {
         "en": "DR Congo says military aircraft missing as rebels claim to shoot down plane"
+      }
+    },
+    {
+      "title_original": "Stettiner NATO-Hauptquartier: Lage mit Blick auf Polen",
+      "title_zh": "Stettiner NATO-Hauptquartier: Lage mit Blick auf Polen",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM3B4NDFiRGZnWkhUVDBuRThwWlJHSzRQdU4zMWZMMTRfXzVQbjQ4ZHZFdFpta05XVVF3em9fUEpzVEVhODRPVTI2WE5fbDFJYmZaci1oN2RFcGNVcWtLTFQtYmxROEZPVktDdkZrVkc2ZjFKM0RNVlhZUm5FRkZsZ0x4TDlUY281UEJMdW11bTQzcHd4ZU9zcjY3aHVZNmVia1JpeHlUQm9BVEVCQlFPaDMtMndrc1p2TW1kZVNrQVVQV3VxQmc?oc=5",
+      "source": "NDR.de",
+      "source_score": 40,
+      "published_at": "2026-11-24T19:21:10+00:00",
+      "language": "de",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Stettiner NATO-Hauptquartier: Lage mit Blick auf Polen    NDR.de",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "NDR.de"
+      ],
+      "all_titles": {
+        "de": "Stettiner NATO-Hauptquartier: Lage mit Blick auf Polen"
+      }
+    },
+    {
+      "title_original": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "title_zh": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-24T19:10:31+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Nigerian monarch, 92, suspended after sexual assault claims\n- Published\nOne of Nigeria's best-known monarchs, the Emir of Daura, has been suspended from all official engagements and travel following allegations of sexual assault by a Polish tourist.",
+        "The visitor said Umar Farouk Umar, 92, had grabbed her chest during a tourism encounter and that she felt disgusted by the experience.",
+        "The allegation sparked widespread discussion across social media platforms, with many calling for the suspension of the emir and an investigation - calls the Katsina state government has now heeded."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Nigerian monarch, 92, suspended after sexual assault claims"
       }
     },
     {
@@ -201,6 +901,31 @@
       ],
       "all_titles": {
         "ja": "ウクライナがロシア製油所攻撃継続なら「報復不可避」＝プーチン氏"
+      }
+    },
+    {
+      "title_original": "Sputnik-S, el satélite ruso que amenaza con llevar la guerra nuclear al espacio",
+      "title_zh": "Sputnik-S, el satélite ruso que amenaza con llevar la guerra nuclear al espacio",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa0ttS3RpaFZwc2JvWTRLVEpOY0dKRk9uSHlBdHN6dzdZNjl5eVFSQ3pOU0JxbGt5SXJIaVY0WWRka3I1SW1tS0R6V25XdkpVRVN5YUdPS2JCM0dtTnk5WGdmaUNMNnVnVVN0ampKQUk1allqV01fVk1KQ1lmdThvXzBSaG1VSm96eWJaRFhub1hBMURxWEFrU090YVRNdWlPRnd1VktnbDRsdFI2cU9YbmNwQzM0R1ZTUWcyU3ctQ1ZsYjhLbnfSAdoBQVVfeXFMT2pOWnVnSk8yajliTnROa3g5SGdwUExzRDRCUk92ZWlhTUxnNmxvTDVzVWw2dmQwZ0NKWWEtSFZjX2UycEh5V2xDWS1HUThoZFRNYXYxR1hwankyb09CNDUwVUVtMUVNUkZ6YWladVEwaDZEc1pJZmlqMXRLek5jMjZmT0VXWUp3bXAydzJxMTEzX0cxMG9oVUlZVUFpR0Z6b3ByVjZETzRtemFCY0RwRW1tdlFWWGtpZ3NoQUJRUkVVMGdySTJ0dTF2OWFOSk5PMm1hazdMb2x4Vnc?oc=5",
+      "source": "EL PAÍS",
+      "source_score": 95,
+      "published_at": "2026-11-24T18:10:55+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Sputnik-S, el satélite ruso que amenaza con llevar la guerra nuclear al espacio    EL PAÍS",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "EL PAÍS"
+      ],
+      "all_titles": {
+        "es": "Sputnik-S, el satélite ruso que amenaza con llevar la guerra nuclear al espacio"
       }
     },
     {
