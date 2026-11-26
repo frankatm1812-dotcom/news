@@ -1,8 +1,583 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-25T20:28:43.741627+00:00",
-  "count": 35,
+  "generated_at": "2026-11-26T04:59:33.627629+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title_original": "EE.UU. y la OTAN instan a Rusia a abstenerse de “expandir la guerra” en Ucrania",
+      "title_zh": "EE.UU. y la OTAN instan a Rusia a abstenerse de “expandir la guerra” en Ucrania",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVDNlN0NWSTc5QWZ4UDgxN0c5WExaZXd2N2NudFNsOS01VVZPX09PbFd3WFUxUDBkcFI3aXlCOENrV2tmalBqcDl6QXJ2S0RBT3BvX25rbWFGeVE1d29ldlJFdktua2EzNUhOdVRHSDZIcFZVaXJQS3M2SUJybjNVRGtUMnIzVHlxOGhubi1jS2c3N1VRRjJ5TU1TSUNvOGdYMl9jSGQ4Q2xlYzhEUFZyeDh2WmNtT0tNSGpXYk5YSU1taVhrXzJDWWZhd1NxemVOT0Y2Tk82emd1RXRwTUx0MU1CNk5VX3fSAecBQVVfeXFMTkVOVmlfOFl6NTRkOXdWVWpSczBhVGVuYndjMmRLVUdRWXJGeUtOb0g2RWNUU3FJSkFHaThIUy1TVWNhb0tPdkx5M1lIMjEybHB6WjFJc2Y0VU1VbGtQWEcyQUlubnpIeDhhc1hnYWpGLXJNN3ZZOE04UUF5U0c1enZUbFE2Z3lGWWoyYkN2NUpiU2R5VVo3dk9ETXdKSHZEVWZPSmxaVWtIQW1WVXpqR3VQeGpVV2R2bnBHdXA4WTFBVFV4S2pzZHZ1MVRYeHR1VzZCNHdnZU1oMnNBT3NEcndwOEg0V1NN?oc=5",
+      "source": "DW.com",
+      "source_score": 95,
+      "published_at": "2026-11-26T04:50:18+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "y la OTAN instan a Rusia a abstenerse de “expandir la guerra” en Ucrania    DW.com",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "DW.com"
+      ],
+      "all_titles": {
+        "es": "EE.UU. y la OTAN instan a Rusia a abstenerse de “expandir la guerra” en Ucrania"
+      }
+    },
+    {
+      "title_original": "ترامب وأمين عام حلف الأطلسي يحثان روسيا على تجنب توسيع نطاق حرب أوكرانيا",
+      "title_zh": "ترامب وأمين عام حلف الأطلسي يحثان روسيا على تجنب توسيع نطاق حرب أوكرانيا",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNaGx4NEJ2RkF5OWxaWWtYRWp2SzNwUDJyWld1S2VzM2ZTcGFua2NYRUNpUDlRSWJUcVdDUWZBQTdYbWJMUlUtV3Y5ZkIxaXBZQ29iMGxINmNtN1llaVZPY3JnWHN3WmtGbC0tVHloRG5IWnhCVjlrYUxvcw?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-26T04:44:00+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ترامب وأمين عام حلف الأطلسي يحثان روسيا على تجنب توسيع نطاق حرب أوكرانيا    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ar": "ترامب وأمين عام حلف الأطلسي يحثان روسيا على تجنب توسيع نطاق حرب أوكرانيا"
+      }
+    },
+    {
+      "title_original": "米国、ウクライナ和平に向けたロシアへの商取引提案を棚上げ 反応薄く",
+      "title_zh": "米国、ウクライナ和平に向けたロシアへの商取引提案を棚上げ 反応薄く",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iRlozeWloNTNzWUhjS2ZSN2l1VF9uT3VGa3hVaUFtWi1GRmM3c0JFODJuVURFVHNhZGhBT3dxYmFPWFEwTDlPbDB3SFZoUjZKaXM1amRpMFlEeDBjSUh3ZzlWN2x0dDJkVWJROXYxSG40SXdMZ2tJ?oc=5",
+      "source": "日本経済新聞",
+      "source_score": 95,
+      "published_at": "2026-11-26T04:42:57+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "米国、ウクライナ和平に向けたロシアへの商取引提案を棚上げ 反応薄く    日本経済新聞",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "日本経済新聞"
+      ],
+      "all_titles": {
+        "ja": "米国、ウクライナ和平に向けたロシアへの商取引提案を棚上げ 反応薄く"
+      }
+    },
+    {
+      "title_original": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+      "title_zh": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-26T03:54:24+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "Brazil indignant about proposed tariffs on sugar and aircraft, while Beijing says new levies amount to ‘political manipulation’ Trump proposing new tariffs on 14 partners including China and EU Brazil has said it will not bend to the new US tariff “threat” and China accused Washington of “political manipulation” in the wake of Donald Trump’s latest economic salvo against 14 major trading partners.",
+        "Brazil’s government said on Wednesday: “Brazil will not yield to this type of threat”, adding in its statement that the “unilateral decision constitutes an unacceptable action within the framework of the ongoing bilateral negotiating process”.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "Trump tariff threat ‘unacceptable’, says Brazil, as China denounces levies as baseless"
+      }
+    },
+    {
+      "title_original": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+      "title_zh": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-26T03:27:33+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "FedEx plane overshoots Miami runway, with flights briefly suspended at airport\n- Published\nThe Federal Aviation Administration (FAA) has halted flights bound for Miami International Airport in Florida after a FedEx aircraft overran a runway on Wednesday evening.",
+        "Departures heading to Miami were grounded just after 20:15 local time (01:15 GMT) and all but one runway at the airport was closed, according to the FAA advisory.",
+        "Flights are expected to resume by around 22:00 local time, the FAA told the BBC."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport"
+      }
+    },
+    {
+      "title_original": "ロシア、冬のウクライナ無人機攻撃に警戒 副首相「最優先課題」",
+      "title_zh": "ロシア、冬のウクライナ無人機攻撃に警戒 副首相「最優先課題」",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWkotX2dXQnpjYkhSY1owYWluamhxTmNNYUVweU92NmtKRlR2RmhGRE1KZXlXZk1xZUR5aHhmQ3FSM2F5WEZSbi1xMnI5R3ZYaHlta2p5dnI0ZDBJNUUyZVdqXzBaZHBOdDFSZVhocUpVM3E1TTktRzBRcERlbUdNUktkQVFzUQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-26T02:59:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ロシア、冬のウクライナ無人機攻撃に警戒 副首相「最優先課題」    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "ロシア、冬のウクライナ無人機攻撃に警戒 副首相「最優先課題」"
+      }
+    },
+    {
+      "title_original": "北约盟友预计美国将推迟欧洲撤军决定，减员规模或大幅缩减",
+      "title_zh": "北约盟友预计美国将推迟欧洲撤军决定，减员规模或大幅缩减",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSzRIOXFtZzAtbGVHejJiYTFwVDZtWVQyT01hZWpOeDEyM3VHaEp2dGtRLTY0MGljelVhX242ZVVjLWRjanQ2enB1UVV4LXg0NjZHRFBQS2VqY2F3Q25aRGh5VmxPWHpqcU1zN2FGaHFzbG5sSVFOTTFvS2tSa1VxeUJFbDN5VVc4?oc=5",
+      "source": "Sohu",
+      "source_score": 40,
+      "published_at": "2026-11-26T02:54:22+00:00",
+      "language": "zh",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "北约盟友预计美国将推迟欧洲撤军决定，减员规模或大幅缩减    Sohu",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Sohu"
+      ],
+      "all_titles": {
+        "zh": "北约盟友预计美国将推迟欧洲撤军决定，减员规模或大幅缩减"
+      }
+    },
+    {
+      "title_original": "Ukraine’s Shadow War in Africa",
+      "title_zh": "Ukraine’s Shadow War in Africa",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSjV3dkloWC1YVnVUYjh4anRoazJpcndNQXNUejg0S1E3QlRmbU5qaEdYRER1NUg3YnVOWWdqa3dmZmVUZ0dsc2R1VGVKQlM5bHN6di1jMkZUZjh6UXpKQ2FTZ0RlckJkWENTdFRGalJPY2l6djdPQWhpWDA2RjJBQnBFT0VXR1lwVzZGN1dWTW0?oc=5",
+      "source": "Foreign Policy",
+      "source_score": 75,
+      "published_at": "2026-11-26T02:46:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine’s Shadow War in Africa    Foreign Policy",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Foreign Policy"
+      ],
+      "all_titles": {
+        "en": "Ukraine’s Shadow War in Africa"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia",
+      "title_zh": "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN3JxOXQ3SWhCN1U4OENUcVh1TmZLYXdLS2lHa1FIa01PR0JyaDctdHF6NjJVWmhPbWZ5N0pqeW90T01fQlo4a0EwaDE0Y1Z3dk9KNkE0Mml0QjdORmVrOW84bnBZRTg3dkRUeVpHRW5VMWxCcEJ4RGhQUVBtaWJpNnl1enNUd1V2RWpRSi1CME54NmFoRF9EenF6X1I1V3I4NGhnaTZFWFdvQUFxY0d2bllzaDFRWUE0N25zSTVYdkdpdUxRb2VldnZQM3oyUQ?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-26T02:35:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Stop using tear gas on battlefield, dozens of countries tell Russia"
+      }
+    },
+    {
+      "title_original": "Ukraine attacks Russian military base, says five planes struck",
+      "title_zh": "Ukraine attacks Russian military base, says five planes struck",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcnZLbDdzMzg2dFlMM0c3d2FkbHpsRTB5Uk1QampGSXI4Sk9lZDRxZDA1LWFBVDVtaGlFS0k0ajljeVBDbEhlS0YwZUQ3bkVDalhCREV3RkhoZEcxamNwMTI1c0E0RUhhdzhhX0h3cnFqOXp1UTNYemRUZ1RwUGFYelBnSlZhekZaeXU2WF9oNU1ja0kxV2hXOGd3V3FwN1dleGg5eGZR0gGrAUFVX3lxTE4xZ05BNnZGZ3J0QWtNeFJ0b0hOSXRkZEJDX2RhR3hNRjluNHFRNTQ2YmhaSFFPR3hCd1luNE1WYUhJaE5YWmFZX3hIcEJXQlJJc1JjdjJKTjYzdVdiUWJ1anBpVF9QaTZBNndlRDlNX0hWWDZaLUVuU2phSm9maVFST3lUNUxtTWJ0MTY1SV9fU0pVVVhYYW1UcU01bEd4WEhteURlMXVMQWxwNA?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-26T01:41:15+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine attacks Russian military base, says five planes struck    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Ukraine attacks Russian military base, says five planes struck"
+      }
+    },
+    {
+      "title_original": "California warns of flooding as King Tides peak over Thanksgiving",
+      "title_zh": "California warns of flooding as King Tides peak over Thanksgiving",
+      "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-26T01:22:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "California warns of flooding as King Tides peak over Thanksgiving"
+      }
+    },
+    {
+      "title_original": "¿Por qué no todo debería valer en la batalla geopolítica por la IA?",
+      "title_zh": "¿Por qué no todo debería valer en la batalla geopolítica por la IA?",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTBOTDFoY2FmUHF4cDZMaTVfQ05NTDAtcEJfbzJrS2pDVVlkSTN0aUU0dU9oOXVkQ0xfTkVKTVd3ZDd3bDVFSERpVjBQMUY3M2k0Q0RIVmxJTnVBUGVEVHEyQWEwWG9FYVhMalEtVmc4aXpuU1VNVENCMUhxUW9udWRCYWJIZ0FvUF9mZEMwMTNCTWZKRGlXaF9TYmJoWTYw0gGmAUFVX3lxTFBpSGZ1dkNhOERYLUtGM1FXbktmS0FBWlZabkZsd1FWWWJ4eFNfMlJ1S1l3RWhxNW9wbWVTQ2Q2QWVhTVNSd3U3cWFJMUNiLUhKMU80ZDFIVmt4cmREWURyWWI0NFhRSkF6R3h5NkZkaE1PT1lObUJQeGl4QlgtQThmVE1EWmFWcHFuNXlMWjhQbi10MExmRkxWX1I2M0tvZy1CMzBVeUE?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-11-26T01:11:32+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "¿Por qué no todo debería valer en la batalla geopolítica por la IA?",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "¿Por qué no todo debería valer en la batalla geopolítica por la IA?"
+      }
+    },
+    {
+      "title_original": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+      "title_zh": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+      "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-26T00:39:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Blaze on ring road surrounding Egyptian capital injures at least 21 people and leaves cars and motorcycles charred A crash involving a fuel tanker ignited a huge fire on a highway surrounding Cairo on Wednesday, killing at least 31 people, Egyptian authorities said.",
+        "The blaze on the ring road, a key artery that encircles the Egyptian capital, also injured at least 21 people and left more than two dozen cars and motorcycles charred, according to the latest figures released by the health ministry.",
+        "Continue reading..."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway"
+      }
+    },
+    {
+      "title_original": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "title_zh": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-26T00:23:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "US Army says controlled blast of explosives in Iowa was 'huge success'\n- Published\nThe US military has hailed as a \"huge success\" the detonation of nearly five tonnes of toxic explosives in Iowa, an operation that sparked fears of health and environmental problems across the region.",
+        "Smoke was seen rising into the sky shortly after 09:00 local time (14:00 GMT) following the explosion, as the Army declared the risk \"as close to zero as is absolutely humanly possible\".",
+        "Plans to detonate the lead azide, a volatile compound reportedly at risk of exploding on its own, were paused several times before the blast following public outcry and legal challenges."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "US Army says controlled blast of explosives in Iowa was 'huge success'"
+      }
+    },
+    {
+      "title_original": "Has global jihadism failed, or is it simply changing shape?",
+      "title_zh": "Has global jihadism failed, or is it simply changing shape?",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-26T00:22:18+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Rice, pasta, sugar, cooking oil and beans are hardly what you'd expect to see in jihadist propaganda.",
+        "Yet these were among the supplies that al-Qaeda's Somali branch, al-Shabab, said its \"charity\" had handed out to hundreds of struggling families in August, as it publicised the aid through its social media accounts and radio station.",
+        "The group, which controls large parts of rural southern and central Somalia, has been keen to show off its so-called humanitarian work throughout 2026."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Has global jihadism failed, or is it simply changing shape?"
+      }
+    },
+    {
+      "title_original": "ترمب يدافع عن وزير الأمن الداخلي وسط نقاشات حول إقالته",
+      "title_zh": "ترمب يدافع عن وزير الأمن الداخلي وسط نقاشات حول إقالته",
+      "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxNOGVmTVRtOFBYY1h4aWpzMlA4RW5USFhmb1pPZmREYk9lcWNOeGs3Sml2XzlTUUkzeHlNMGdEejBoc2tOckJZa3N1djRSX09na3BiUzM4RjRRUU9PZ0h4V2QwQXBHQmpuMlh5Vzh1NjV6T0RCTXNINm02XzNpRC1wRndoYUdrcFZnSjcwWl9JSm12MGczU2tQUGRSOVVlaWI4ZFpxOXR4WF9iVlUwb0dBOW11UE9XVFZsdVdDRndXemplVF8tX2xiS0RFYkFxRXlEZXNJU3hYU3pwckhVXzFlenhRRm04YkJNUWpOakRBNHVySGRfSUNneE05MFhjTFhRSzlJQTlneXZqSWduX1QxQ3hKQkR1dEs5aG9ZREJlZUNZeFhrQWFmQkNpdFVwOF9GLXA3U1VhNW40UG5sSldOLXBRM1ZRLUZlVWNLcFF2RElIT1ZoaE9fc1RGRzBTLTh6WjFQRHp5cUdtNkFsT3pjTi1acXVVU3hHeEhXU3RJcHdQeTVUQkVVWGZmT2o2UE01bHVqc0JZcjFjQ1p2aldtU3N2d01YaDVGa1pQN2pySlJPOU5HZFRkTUh1MGZXTHZ2bHdPNVJwamExMjNNUE1sMVpra1JEcEI5VEJNN0NXdFdBSU94Sm8xcmVjdmwxQ3M2Z0tkUlA1TFpDbENnUFY4eEhjNWlIUDA3QkJDWTBUS2tvcUljTDgyckdVblh0dEVHdWVlYTNiaXRfUDdUU25NZ1RPREIzUHZ0X3A3ZkNQWUJuWlU3MzUxUGJ5S3VsRDJuU2poNFdLZE4wQ2kzb0NTek5NT0NXOW9KS2k4aQ?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-25T23:56:38+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "ترمب يدافع عن وزير الأمن الداخلي وسط نقاشات حول إقالته    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "ترمب يدافع عن وزير الأمن الداخلي وسط نقاشات حول إقالته"
+      }
+    },
+    {
+      "title_original": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "title_zh": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-25T23:18:27+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Angelina Jolie and Brad Pitt settle legal battle over French winery\n- Published\nBrad Pitt and Angelina Jolie have settled a long-running legal battle over her sale of a stake in their French vineyard, which unfolded amid a bitter divorce.",
+        "\"We have settled out of court in the best interests of our family and will not be commenting further,\" said the Hollywood stars' representatives in a joint statement.",
+        "They bought a controlling interest in Château Miraval in 2008 and wed there six years later."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Angelina Jolie and Brad Pitt settle legal battle over French winery"
+      }
+    },
+    {
+      "title_original": "キーウにロシアの弾道ミサイル攻撃、商業施設など被害",
+      "title_zh": "キーウにロシアの弾道ミサイル攻撃、商業施設など被害",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM3JNX1VqSlFQWGJlVi1oa0pQcWtuS3A0aVNKZ1JOQlpaYmF2VlI0OHJKb1kxeGZRUml5Zi13ZGdGY3RqTmM0a09SZEc2Y0pMTHhySkM3NHlXX0ZUZHRMTUZOLTBsLV9zNFZhZEdiQWFTSU5CcDd1RHJpMGhnSVZRQ29PWXEtQQ?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-25T23:05:39+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "キーウにロシアの弾道ミサイル攻撃、商業施設など被害    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "キーウにロシアの弾道ミサイル攻撃、商業施設など被害"
+      }
+    },
+    {
+      "title_original": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "title_zh": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-25T22:18:06+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway\n- Published\nThirty-one people have been killed and 21 others injured in a large fire on a busy highway in Cairo after a fuel tanker crashed, Egypt's health ministry says.",
+        "Hospitals nearby treated patients suffering burns and smoke inhalation after the incident, which occurred on a section of a ring road in the Warraq neighbourhood, to the north of the old city centre, on Wednesday evening.",
+        "Footage circulating on social media showed billowing flames and black smoke towering high into the night sky, with multiple nearby vehicles torched."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway"
+      }
+    },
+    {
+      "title_original": "Oficiales navales libios mueren tras ataque de dron ucraniano y otras noticias de Oriente Medio",
+      "title_zh": "Oficiales navales libios mueren tras ataque de dron ucraniano y otras noticias de Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRTlaWmg4dlVtS0xaVjRMRE9CQ3VGZDhFbmZ3NWk1aHJxYW9HNmlMaXRIMWhYNHMtWnRpaHhfN291YXExRWVIdVFHTnhqaHMtdGRMT3c4YzNPY0JuaXJTc0ZuUEtCWlJZdHRkQ3JGMG9JUDIzTU5qOFhQSWFJYUFrLWRhMDRrNXJwWGFYUFJzdjFVQldpaEZpNnZ1OW11SDBqaUhGUmNXYUFzeGF4UEZFYjUxN2pQa1N4aVJPbFYzRFQ0YzZPNWo0WEplLVJBVDFnQWRJdURTSk9Yd2JnS05MZ2hCeUNjaGZkcElfei1sb3liVlU?oc=5",
+      "source": "Los Angeles Times",
+      "source_score": 40,
+      "published_at": "2026-11-25T22:02:30+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Oficiales navales libios mueren tras ataque de dron ucraniano y otras noticias de Oriente Medio    Los Angeles Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "Los Angeles Times"
+      ],
+      "all_titles": {
+        "es": "Oficiales navales libios mueren tras ataque de dron ucraniano y otras noticias de Oriente Medio"
+      }
+    },
+    {
+      "title_original": "トランプ政権 ウクライナへの対外有償軍事援助を承認 F16の整備や関連機器を提供",
+      "title_zh": "トランプ政権 ウクライナへの対外有償軍事援助を承認 F16の整備や関連機器を提供",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vQjNrZUlJN185eDV5bDl3VS1lVS13T1hWTmJYcWpxSVA0bHR5SVRwTUtWa1p3RW1iaHRSSnBiMVItSDFFMjhIQXpZU2RwM0JhaG9malVmT0FndUxObnVNdm4xYk1TUFVLZXUyYndmLUhTVGJs?oc=5",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-11-25T21:50:33+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "トランプ政権 ウクライナへの対外有償軍事援助を承認 F16の整備や関連機器を提供    TBS NEWS DIG",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "トランプ政権 ウクライナへの対外有償軍事援助を承認 F16の整備や関連機器を提供"
+      }
+    },
+    {
+      "title_original": "米、ウクライナ向けＦ１６整備と関連機器売却を承認 6.22億ドル規模 | ロイター",
+      "title_zh": "米、ウクライナ向けＦ１６整備と関連機器売却を承認 6.22億ドル規模 | ロイター",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnJRUXd6bFRjR3RGaTZ6VzVGVjRLVklWWDNoaVY1WW5LWUxWRXR4dGpOOXhMejNVcG1XZnhZUDB5MFhWMnVGcUZ5MlBnTmNYMEtZUVdncUtHdGRoeWJlSEpQSjhuQnV1RlZwLTEtdFlLMm93WVRncnRzdTg2bHZIeVBvMC10NDA?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-25T20:50:10+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "米、ウクライナ向けＦ１６整備と関連機器売却を承認 6.22億ドル規模 | ロイター    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "ja": "米、ウクライナ向けＦ１６整備と関連機器売却を承認 6.22億ドル規模 | ロイター"
+      }
+    },
+    {
+      "title_original": "ウクライナがロシア製油所攻撃 10月以降製油能力30％低下か",
+      "title_zh": "ウクライナがロシア製油所攻撃 10月以降製油能力30％低下か",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02bVRtRF91MVVOUDFCM09fQVFueTVQeXFTYnhRV3cwTDR0YkNtZmVYSG5tSTdXNzREVF93eU11UjhqNFY0ZG9MUEcxVTczdVJISnp3ZTgxMGUxYVM1dHN3?oc=5",
+      "source": "NHKニュース",
+      "source_score": 95,
+      "published_at": "2026-11-25T20:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "ウクライナがロシア製油所攻撃 10月以降製油能力30％低下か    NHKニュース",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "NHKニュース"
+      ],
+      "all_titles": {
+        "ja": "ウクライナがロシア製油所攻撃 10月以降製油能力30％低下か"
+      }
+    },
     {
       "title_original": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
       "title_zh": "Lululemon founder stuns Canadian women’s leadership conference with sexist comments",
@@ -51,6 +626,31 @@
       ],
       "all_titles": {
         "es": "China y Taiwán se enzarzan en un pleito por el viaje a Taipéi de una delegación de congresistas colombianos"
+      }
+    },
+    {
+      "title_original": "Belgian court orders electronic monitoring for Canadian NATO intern in espionage case",
+      "title_zh": "Belgian court orders electronic monitoring for Canadian NATO intern in espionage case",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTjRJOUl5Yk1OSUdKd3dLYjBPM2RXUVNkenNOM0h4a0RCd0FxUGZCMkZLRVJwWGw4ejAxcWRTSHd0VHNqd04xZVVHU2ZMS1Iya2tVVkFDN080LWNWUkpYeUJIV2I5aXFqM2JCRUs3cGhzdzRqQVZhYVc1bTZGWm83MGF5cE5PZnZzNENDejZOcXVzTXpVR1I3Nkp0ZE9weTd4S0VOYnJVSGhKWnMwWmdqM1duWWxMTmp0aGY0LXc5OEZWOVdv?oc=5",
+      "source": "Reuters",
+      "source_score": 95,
+      "published_at": "2026-11-25T19:21:35+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Belgian court orders electronic monitoring for Canadian NATO intern in espionage case    Reuters",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Reuters"
+      ],
+      "all_titles": {
+        "en": "Belgian court orders electronic monitoring for Canadian NATO intern in espionage case"
       }
     },
     {
@@ -104,6 +704,56 @@
       }
     },
     {
+      "title_original": "El jefe de la OTAN afirma que Trump estaba \"probando\" a Putin al llamarlo su \"amigo\" en China",
+      "title_zh": "El jefe de la OTAN afirma que Trump estaba \"probando\" a Putin al llamarlo su \"amigo\" en China",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX25iWWtEeXRTS25tUmtNdGV0U1NNLVpldjNMTXJqLV9Sa3d2OGlTaVR2dEF2RUl5OVo4NWNoaVMwTVZZc2I3WUFzR3hIenBuVE5TUnFPRGVBOG1YSTdFSkZDTHllbEkyWHk5cG9jMnpnRmhXUkh6R3lEREcxQU4wLUZacmI?oc=5",
+      "source": "EFE - Agencia de noticias",
+      "source_score": 40,
+      "published_at": "2026-11-25T18:56:49+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "El jefe de la OTAN afirma que Trump estaba \"probando\" a Putin al llamarlo su \"amigo\" en China    EFE - Agencia de noticias",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r29",
+      "cluster_sources": [
+        "EFE - Agencia de noticias"
+      ],
+      "all_titles": {
+        "es": "El jefe de la OTAN afirma que Trump estaba \"probando\" a Putin al llamarlo su \"amigo\" en China"
+      }
+    },
+    {
+      "title_original": "Ukraine War, Day 1,735: Kyiv Strikes 2 Russian Refineries as Putin Fumes",
+      "title_zh": "Ukraine War, Day 1,735: Kyiv Strikes 2 Russian Refineries as Putin Fumes",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSzZ5MWdLZmRmT3hENm8tZXh3ci1LbVJVVV9DNndKREFyeUYzVTljWUI0eEFWbjBhZVRmQjdVQzZNNUg3RUtoVHR4RUgxR0pyOE91YnBadHlYRkNONnB0Q3RkUXpwVVEwYXdmczhEcGpQZGtjb3RXQXlDa2VodnVyVnpTWDZtNk56?oc=5",
+      "source": "EA WorldView",
+      "source_score": 40,
+      "published_at": "2026-11-25T18:48:50+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine War, Day 1,735: Kyiv Strikes 2 Russian Refineries as Putin Fumes    EA WorldView",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "EA WorldView"
+      ],
+      "all_titles": {
+        "en": "Ukraine War, Day 1,735: Kyiv Strikes 2 Russian Refineries as Putin Fumes"
+      }
+    },
+    {
       "title_original": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
       "title_zh": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
       "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
@@ -126,6 +776,31 @@
       ],
       "all_titles": {
         "en": "Colombian police storm supermarket to free 76 held hostage for 17 hours"
+      }
+    },
+    {
+      "title_original": "NATO’s Special Representative for the Southern Neighbourhood visits Egypt",
+      "title_zh": "NATO’s Special Representative for the Southern Neighbourhood visits Egypt",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZllGaW1xaVZlZUVLSmYxbnpVczRVUWFLREtMVC1tMll5VktVVnliWU5rY2xsOWZKbkYzbTI4S1JIcUlDTmkxYjRGeG4yLTVWQjZjVWQ2RFp6bzhJNXFtckFCMThpemNMbzJJVW5Dc1FzbkVqc3l1blVIVjMxSXd6NE14VzJ2X3lQZE9sSmxxT19rN0pGY0lGOGQxOHZvcDJOem5Zdlg1RjVaMVpWenQ1ZEthVWlTcEk0ZzNBM2tuLXg5MzIwRXFhSWY3ZGdFNl9GUkd3?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-25T18:29:58+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO’s Special Representative for the Southern Neighbourhood visits Egypt    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r31",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO’s Special Representative for the Southern Neighbourhood visits Egypt"
       }
     },
     {
@@ -179,6 +854,31 @@
       }
     },
     {
+      "title_original": "NATO sees no Russian naval buildup in the Med after strike near Libya, but analysts warn of wider risks",
+      "title_zh": "NATO sees no Russian naval buildup in the Med after strike near Libya, but analysts warn of wider risks",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdHNMczd1R3lyeFBwTkk4NXZ1dVJVSnc2QzZtX29yMXM3MFVNQWFJRFhoNk1ZUWJBU1pPYmVCbWZRc1lFcy0yTjJVS3V4ZHF5YzF2X29tRkRLSW5FWUJNbFo0RV9MV3pDSWJoRE5MQjl0VVNjQUg2d1B2THhjZm9BZlU4RFl4ZUZ0YjJHR2pyeWt6TkdTVXY3eWV5TW00MVZYSk1VZGRyRTNtaURLQVh0U2txR0FqY3ZmUTQ3UVMtalFMSF81Q2t6cXA3MDBwaHVaS1NGVmxR?oc=5",
+      "source": "Breaking Defense",
+      "source_score": 40,
+      "published_at": "2026-11-25T17:50:05+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "NATO sees no Russian naval buildup in the Med after strike near Libya, but analysts warn of wider risks    Breaking Defense",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r32",
+      "cluster_sources": [
+        "Breaking Defense"
+      ],
+      "all_titles": {
+        "en": "NATO sees no Russian naval buildup in the Med after strike near Libya, but analysts warn of wider risks"
+      }
+    },
+    {
       "title_original": "US stocks fall further as fears over AI intensify",
       "title_zh": "US stocks fall further as fears over AI intensify",
       "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
@@ -201,6 +901,56 @@
       ],
       "all_titles": {
         "en": "US stocks fall further as fears over AI intensify"
+      }
+    },
+    {
+      "title_original": "L'IA, qui bouleverse déjà la façon de faire la guerre, va aussi aider l'Otan à parler la même langue",
+      "title_zh": "L'IA, qui bouleverse déjà la façon de faire la guerre, va aussi aider l'Otan à parler la même langue",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOT05qME5WMFE5S0JJc1JLcHI0WExqY2NlZmtjWVNCMWZmUlUtU0tGNjdVWk5WOUtQQ0ZBY0dZVXNYSEEwcWNSMWJiYXkzOS1nRHp5UHN2aW9qcWMydVhfanFVTnZnYjY5X1VwZWFEcHVyWkNYdVJ0X2UxYy1UWVJha3RaekFaTDJPMHlmUFpaRFZRYzU0T0NWYS1ETTRrWjdxS1N1cHoydHNGbVBLSVRBVFlTV3VIeUZxWnc4Z3kwM1R6YlJ5aTZ2U0tQQ3JRU3JIZk9Mc1hya3JSdXplYzEzTTFlWUpZZ2hfbGM1QS1xTWFGQ3oySVE1N0VOOFJPdU9mQ3lBclpDaw?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-25T17:31:28+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "L'IA, qui bouleverse déjà la façon de faire la guerre, va aussi aider l'Otan à parler la même langue    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r33",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "L'IA, qui bouleverse déjà la façon de faire la guerre, va aussi aider l'Otan à parler la même langue"
+      }
+    },
+    {
+      "title_original": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "title_zh": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-25T17:30:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater\n- Published\nThe first images of an asteroid that Nasa deliberately crashed into have revealed a stadium-sized crater on its surface.",
+        "The extensive damage was caused when a Nasa spacecraft hit the asteroid Dimorphos in 2022.",
+        "The asteroid posed no threat, but this was a test of our planetary defences to see if it was possible to knock a space rock off course."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater"
       }
     },
     {
