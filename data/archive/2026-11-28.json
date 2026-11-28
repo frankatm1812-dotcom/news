@@ -1,8 +1,683 @@
 {
   "date": "2026-11-28",
-  "generated_at": "2026-11-27T19:56:59.736945+00:00",
-  "count": 35,
+  "generated_at": "2026-11-28T04:43:39.930761+00:00",
+  "count": 65,
   "articles": [
+    {
+      "title_original": "Eight killed in Peruvian military helicopter crash",
+      "title_zh": "Eight killed in Peruvian military helicopter crash",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-28T04:19:16+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Eight killed in Peruvian military helicopter crash\n- Published\nEight military personnel have been killed in a helicopter crash in a remote area of Peru known for growing and trafficking drugs.",
+        "Authorities say the aircraft came down near the town of Sanabamba during a mission to evacuate an army patrol in the valley of the Apurimac, Ene, and Mantaro rivers, known by its Spanish acronym VRAEM.",
+        "Often referred to as 'Cocaine Valley', the area is Peru's largest coca-growing valley where gangs and the remnants of the former Shining Path rebel group operate."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r0",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Eight killed in Peruvian military helicopter crash"
+      }
+    },
+    {
+      "title_original": "Grupo Alonso refuerza su expansión en Oriente Medio con la incorporación de la compañía emiratí Cargo Line Freight and Logistics",
+      "title_zh": "Grupo Alonso refuerza su expansión en Oriente Medio con la incorporación de la compañía emiratí Cargo Line Freight and Logistics",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2tqOW9acXF1NjdKTHBmdG5JZEJ1U3N1UElZS292WTdGeFIzdFlZZGNPbkFfT0stNTBHZTI0SkNqUEN2Vmt1THpsTEcza2V3dUMtT1lrVTFZMnEzQmlOSVExT2NRUm5tUmozeUlaaGVQYjhVU1FoOFBMdTlydnJ4UjEwSU9qMnJMb2lrVjRzbDlWajBWYTQ3aElDMG9tZw?oc=5",
+      "source": "Puente de Mando",
+      "source_score": 40,
+      "published_at": "2026-11-28T04:16:58+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Grupo Alonso refuerza su expansión en Oriente Medio con la incorporación de la compañía emiratí Cargo Line Freight and Logistics    Puente de Mando",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r1",
+      "cluster_sources": [
+        "Puente de Mando"
+      ],
+      "all_titles": {
+        "es": "Grupo Alonso refuerza su expansión en Oriente Medio con la incorporación de la compañía emiratí Cargo Line Freight and Logistics"
+      }
+    },
+    {
+      "title_original": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "title_zh": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-28T04:13:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC\n- Published\nTurkish authorities have \"destroyed\" one of the country's most-watched news channels, its London-based owner has told the BBC.",
+        "Speaking to the BBC's Newshour, Cafer Mahiroğlu said that nine people connected to Halk TV were arrested this week on charges including money laundering, bribery and spreading misleading information.",
+        "Mahiroğlu said that several of his family members were among those arrested when the pro-opposition channel was taken into government control last month, adding that the allegations against him and Halk TV are \"completely wrong\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r2",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC"
+      }
+    },
+    {
+      "title_original": "Elections municipales à Taïwan, la Chine déploie des avions militaires",
+      "title_zh": "Elections municipales à Taïwan, la Chine déploie des avions militaires",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTXdiZktmZFZUMWlmWU5iZjdpU1BPcDFEZzZoOW80Um9kSzRtRENSVnNoM0tXQkwtVDd2bHRFaXpPREpnNTl5WVBkclU3NjVDdzhIWHV0dkxuRDMxcWx2bU91bGI0S0xOWEZEUEJDcGRFR0NLOWV3RVV0TjRvTkNqOFRiZGZJZ01HTE5Ed2dpY01HUnNOQ3pYRTF5clFpSTY1emliMXg3TWJvSEMzcWM1M0FnQjhSVk91ck1UMzFPMWJtQWV3NXlkR285MGRmeEtGQkhTZzBJSEpnVm9KYVdSeTZWTllybHE1Sm80TEpmbGVoVkHSAfgBQVVfeXFMTXBXUHFnYXE5Uk1makF5b3hTUGFyVDNRdE05ZFRPUUw5Z1pxUzJLVXNwcjdScENPOVgtcEczVDU3elozb2I1YWlaQnEyMUROdEUxeFRXbVhBRVY5bjY0TzFYRFJxXzJjbHdiR2xGa0ZMV1paaC00VUtReXI4Q2wtODBwYTdYc2NtaFM0RjBZN25VMHZWSS13M2tOWXZKN0NkR1JoNWZnaXkxVTNqR25GRWFCcExQSWpfdUJGTExFNU0zTG1yOVNSRE5vZG56ajFZLUduS24xMzdYWVN5ZTk0aTBOUmlJbXBvSFJja3JkMTM1NGcydG1kU1Y?oc=5",
+      "source": "Boursorama",
+      "source_score": 40,
+      "published_at": "2026-11-28T03:40:56+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Elections municipales à Taïwan, la Chine déploie des avions militaires    Boursorama",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r3",
+      "cluster_sources": [
+        "Boursorama"
+      ],
+      "all_titles": {
+        "fr": "Elections municipales à Taïwan, la Chine déploie des avions militaires"
+      }
+    },
+    {
+      "title_original": "تايوان ترصد تحركات عسكرية صينية مكثفة في محيطها",
+      "title_zh": "تايوان ترصد تحركات عسكرية صينية مكثفة في محيطها",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPSzEzaFJYSVpuS0pCX1V4ZkIwWHBjTmpkaWJhdVN2bXpYSTctM21OLURWNHp1LUpGc244bmh6WFJqeXN0ejdMbFg4YnNlcVBaakVnUUszbHJEMTJ5V0hPZGxGMVNiM2U3cnBJdkNfYVYzakpVemdBUXg2WGdYcEdrU1VPLW9IZ0RqUG9iNXhMTTkyOVdRSkVzN2ZtRzlkWUdpVk1RaEVqbVpBY2pIN25PN2ZVeGlzazBBX3RLSFlIamdKTXI1RmdBNmVrQmk0WGVkN1JsSUpvNFhPWHF1eVBzWXRadGo2UXk1NXAxMS1lVDVGYm5qd0EyMk5MeEJUdnl5dW9BTm5hemJVZ2JZaG8xRmRidm5oNU8xR0w1V21VZWxsUXV4dm5hYXlIZTkyQ3lhVERjRzNFNGhsS2NmTTBpYzRINjdzeFV2ZUpz?oc=5",
+      "source": "الجزيرة نت",
+      "source_score": 95,
+      "published_at": "2026-11-28T03:27:49+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "تايوان ترصد تحركات عسكرية صينية مكثفة في محيطها    الجزيرة نت",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r4",
+      "cluster_sources": [
+        "الجزيرة نت"
+      ],
+      "all_titles": {
+        "ar": "تايوان ترصد تحركات عسكرية صينية مكثفة في محيطها"
+      }
+    },
+    {
+      "title_original": "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon",
+      "title_zh": "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcDZrYTlOdTVmYnJEelBReDNXdF9CRXAyZHUyVlhQNjczRTk0Q0RNM0FYdWlHY3RQc3RZTVZPQ0MwOWZLSExFczk2cGlhMXMyNk81dVVVNGZfUHozUDhCV2xaaEZlNGh1ZmtkeFlsTE94dGhzVEp1UGJKOEg4Si1WdnhqVUNKcFlnTm4wd2NBZDc5TzZDeGh0c1F0OUhEcUxLUjJQSjBVVHp0MFpIay1jZXVUZmNSNXAxb3RJNTU1SkJad3VEWVRwRUhyWUNNRmtXdEJQbmtLWjNMN0NTbWhWdXZhbkUtUzQ?oc=5",
+      "source": "The Guardian",
+      "source_score": 75,
+      "published_at": "2026-11-28T03:22:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon    The Guardian",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r5",
+      "cluster_sources": [
+        "The Guardian"
+      ],
+      "all_titles": {
+        "en": "Ukraine war briefing: Zelenskyy criticises Trump for calling Putin his ‘friend’; Kyiv deploys new laser weapon"
+      }
+    },
+    {
+      "title_original": "Trump meets NATO chief Mark Rutte privately as Ukraine, troop levels and defense spending strain the alliance",
+      "title_zh": "Trump meets NATO chief Mark Rutte privately as Ukraine, troop levels and defense spending strain the alliance",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPejNaMzNPRHZsMHJOMGllenlPck5oQnRsT1FmYjRwYTRxUE5KSkhobEZ3N3hRaEdnWkZtN0tDOU1Bc2RsdVhkRWN5aS12OHdGaDM2dHkybWdrLVY3SEg1REFXQnVKdjRsMGtHYk4wQjBZQjZVZXIxdV9MbGNPVkI5MWotOWpGZDlSQ3R3bw?oc=5",
+      "source": "Latin Times",
+      "source_score": 40,
+      "published_at": "2026-11-28T02:39:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Trump meets NATO chief Mark Rutte privately as Ukraine, troop levels and defense spending strain the alliance    Latin Times",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r6",
+      "cluster_sources": [
+        "Latin Times"
+      ],
+      "all_titles": {
+        "en": "Trump meets NATO chief Mark Rutte privately as Ukraine, troop levels and defense spending strain the alliance"
+      }
+    },
+    {
+      "title_original": "La France agricole, une puissance européenne qui vacille",
+      "title_zh": "La France agricole, une puissance européenne qui vacille",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNkpGTF96YmpwOVk3REROWDdoOGlBVGRzN19nNFpEckVDTnZPdGk0V1lFaDZhb2FMenIwYm5seGNLZkN6M1dVU3FncGNEcWVJdWVkNkljQlU5VUIxT0U4aGV1cTNEQ2k0TUFBdWNNR2prZHB0QWUyLW5lQXFieFZvVmh4M042S1Rzb0ZiUDVHdw?oc=5",
+      "source": "Conflits : Revue de Géopolitique",
+      "source_score": 40,
+      "published_at": "2026-11-28T02:24:30+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "La France agricole, une puissance européenne qui vacille    Conflits : Revue de Géopolitique",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r7",
+      "cluster_sources": [
+        "Conflits : Revue de Géopolitique"
+      ],
+      "all_titles": {
+        "fr": "La France agricole, une puissance européenne qui vacille"
+      }
+    },
+    {
+      "title_original": "مقتل حارسين يعملان لدى منظمة أطباء بلا حدود في غارة إسرائيلية على غزة",
+      "title_zh": "مقتل حارسين يعملان لدى منظمة أطباء بلا حدود في غارة إسرائيلية على غزة",
+      "url": "https://news.google.com/rss/articles/CBMiqwVBVV95cUxNZWhiYy1tSENJVU5VVnZFRGlpS1luTXZQRzFOMnZxSTFDSGc3d2FXX0tCc3BVZjl4cnR3aE5MQ3FXRVBIWW8tUHc3cWdYVFZQWmN6bXJEMl9US0MtZF8tOElmSmswRjZtZERHNU1RZW1NNE5BWFEzYzhsZVFBdkJYcHg3WDMzcV93V1c0MS1QeGdNOEIxV1RQbFVrVXU5ZmdMN1dGMjU4bG8wS1JMNEk4dGFiN3NMblNKbmhlWTdHQ1I1U3R5NU9jVXBSdFFQaGdtZGNUeFZEaWRVZGtHbFE2ak9CY05MTWFtaWYzUkxPNmZ6QUplTHJDNk9UeElzU3JSUkNOSEVmVTZrbHVBMUF0TGFlR1VoMGc0S1JlSlVVYW1jY0w5dUhLYTFwM1FaYlg5UEZHUzFXSmQ4dzU2QmZLZkgyUDJqVFJETmktRUlEN21QWHRPdHU0cXBJMnNpMnV1cWxxekhyem1MT0RLMjFERHpUZE5ONkdxY01Rc1BnSzJ1akwyRmY2TFd0eFVydU84d09zNUh6aFlwWXkzR2R2cVJXNm91TDN4bmxmNkFnWTd2SEN6Z1NDRloyTWRMRUc3SURPaV9HSE93TUprWVdwTlg0Z1BkM3BGeHhrNGtWMl9PUWZLdV9WV3AySjhhMFVGT0k2TlRSS0Q5Y2pVeWFGVjFkYVZUUXE0Rm1FSnBtRlNmNjI5TWpsMGdVSXdWckZTT2t5Z2UyQWQ4alRSNms1V1NhbTNVcXpIUk01cjFZdEVEbUl1U0xHNlN5RXlpVFlSZ29QV0VHUG9GNFlSc0M0YTdvWnY5MDhTV1JLcFZ3S1piY2h6b2VfbEhteGVZd19wU3pfdW91NWJyWmpWN1ZWWEd0ZGZBX3NIZ3lEQmcyZ2JTRU1CWXBybEk1MA?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-28T02:08:37+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "مقتل حارسين يعملان لدى منظمة أطباء بلا حدود في غارة إسرائيلية على غزة    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r8",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مقتل حارسين يعملان لدى منظمة أطباء بلا حدود في غارة إسرائيلية على غزة"
+      }
+    },
+    {
+      "title_original": "Eurofighter y Rafale contra F-35 y Harrier: los mejores pilotos de combate de la OTAN se forman en Albacete",
+      "title_zh": "Eurofighter y Rafale contra F-35 y Harrier: los mejores pilotos de combate de la OTAN se forman en Albacete",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd09UaGpGck4xSl9qeDlmWHkxb3paTEI0SEtpMWVrNWhET1huZXFHd2tiQWFIcDBFd2ZDbTU5M0VHYmNqejFBbTJZdjVPX2RBeWVYUEFzWDdRRld0QTVUNnJ1czVsZTBrajBmNy1JV1hGU3hDY1gxSjNZLTlrb3VzUk9pTGg0MkZsbW9WUENvQjV5bzdyajlaYjBHd3J4emJmVGpSdFR30gGrAUFVX3lxTFA5NDRBLTFZRndQdnprdGJKRmNyWTR5d0lydGZsS2RRUWdjN2pRYTcwQS1GOWd6V19fOXMyV1F1Wi1uM01rYkhWS1c1aW9OckZkUUluc0ZPOU10cVY2RzZOVGRvRmE0VFpzNU84SmpEVGhiTWluQkJldVIyQUh6N2NJd05xdklZem5maVJVVlAySFctR0VabzhSTHpEOFozN3JJamNhUEd3dmpHVQ?oc=5",
+      "source": "ABC",
+      "source_score": 75,
+      "published_at": "2026-11-28T01:32:01+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Eurofighter y Rafale contra F-35 y Harrier: los mejores pilotos de combate de la OTAN se forman en Albacete    ABC",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r9",
+      "cluster_sources": [
+        "ABC"
+      ],
+      "all_titles": {
+        "es": "Eurofighter y Rafale contra F-35 y Harrier: los mejores pilotos de combate de la OTAN se forman en Albacete"
+      }
+    },
+    {
+      "title_original": "NATO Allies deploy for biggest exercise in decades",
+      "title_zh": "NATO Allies deploy for biggest exercise in decades",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSk5lMTVCOFh5TW9DS1RhZ296Z2gwMUxiN2xNaDRDeFI0UzRJeHRYRWJfNkVSSlVHOVNrN2ZPYWZncE9LT3dEbnVmYmZYR2l5V29XM0lqVXR4LXFERXhETTNJUXZLd0dMek9vbm83ZnBONTlONlRhSmRsRkxOOXRJOFB6bnAyaVNIeFE2WHF2U2xWQTFiaGRyNW5Uc21PaXhyN1VkUFZlTjNDWm5scUNLcWpvRHE?oc=5",
+      "source": "North Atlantic Treaty Organization | NATO",
+      "source_score": 55,
+      "published_at": "2026-11-28T01:24:11+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "NATO Allies deploy for biggest exercise in decades    North Atlantic Treaty Organization | NATO",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r10",
+      "cluster_sources": [
+        "North Atlantic Treaty Organization | NATO"
+      ],
+      "all_titles": {
+        "en": "NATO Allies deploy for biggest exercise in decades"
+      }
+    },
+    {
+      "title_original": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "title_zh": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-28T00:56:55+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "'Poison seller' Kenneth Law apologises in court to the families of his victims\n- Published\nThe Canadian man who sold toxic chemicals through online suicide forums in 40 countries apologised in court to the families of the victims, saying he deeply regrets his actions and will never repeat them.",
+        "Kenneth Law made the remarks on Friday during a sentencing hearing where prosecutors asked a judge to give him a 25-year prison term.",
+        "The 61-year-old pleaded guilty in May to 14 counts of aiding the suicide deaths of 14 people in Ontario, Canada, though he has admitted to causing the deaths of dozens of victims in England and Wales."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r11",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "'Poison seller' Kenneth Law apologises in court to the families of his victims"
+      }
+    },
+    {
+      "title_original": "プーチン氏の盟友ルカシェンコ氏、ウクライナの領土巡るロシアの主張に疑問符 「その理屈ならロシアはモンゴルに」",
+      "title_zh": "プーチン氏の盟友ルカシェンコ氏、ウクライナの領土巡るロシアの主張に疑問符 「その理屈ならロシアはモンゴルに」",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WaU5scHZYYmNzQ3ZwczBjMlBneS05djNUZlpuaXdONVZjNUttZllhc0xwRTdUbHppSnNrMy1SVlNRcm9pT1JoQTFKZ3U3MDg5NzF3?oc=5",
+      "source": "CNN.co.jp",
+      "source_score": 95,
+      "published_at": "2026-11-28T00:30:00+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "プーチン氏の盟友ルカシェンコ氏、ウクライナの領土巡るロシアの主張に疑問符 「その理屈ならロシアはモンゴルに」    CNN.co.jp",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r12",
+      "cluster_sources": [
+        "CNN.co.jp"
+      ],
+      "all_titles": {
+        "ja": "プーチン氏の盟友ルカシェンコ氏、ウクライナの領土巡るロシアの主張に疑問符 「その理屈ならロシアはモンゴルに」"
+      }
+    },
+    {
+      "title_original": "ロシアとロシア占領地域からウクライナの子ども9人が帰還 アメリカのメラニア大統領夫人が仲介 ゼレンスキー大統領が謝意",
+      "title_zh": "ロシアとロシア占領地域からウクライナの子ども9人が帰還 アメリカのメラニア大統領夫人が仲介 ゼレンスキー大統領が謝意",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBueFlSM05KZXM1X2ozNHU0a3FVSVNXMHpJdzhwbFZWNnZtRVBYX0ZHLWVPQjRNTUp6MXdVYjJwWDctamY3VDA1cW5kZlNnc3ZzRmdlcGdOcw?oc=5",
+      "source": "TBS NEWS DIG",
+      "source_score": 40,
+      "published_at": "2026-11-28T00:29:20+00:00",
+      "language": "ja",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "ロシアとロシア占領地域からウクライナの子ども9人が帰還 アメリカのメラニア大統領夫人が仲介 ゼレンスキー大統領が謝意    TBS NEWS DIG",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r13",
+      "cluster_sources": [
+        "TBS NEWS DIG"
+      ],
+      "all_titles": {
+        "ja": "ロシアとロシア占領地域からウクライナの子ども9人が帰還 アメリカのメラニア大統領夫人が仲介 ゼレンスキー大統領が謝意"
+      }
+    },
+    {
+      "title_original": "«الحرس الثوري» يهدد بالتصعيد بحراً وجواً",
+      "title_zh": "«الحرس الثوري» يهدد بالتصعيد بحراً وجواً",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOMDQzc29iRWRiUHJzTmdmSERrUS05cWlZTV9UTDZSdG0xeExTX1duR01lVlozMFloU1VNbzhuV0d1UHRubl9aWWwyZTFfRW52WlpvMVRpNVluajFtT2UycUdoTVFoMlBtbEtBZ1c2a0RDbW1vb2p6WjBiWmtBYWJmRXJneXZ6aEs3MWZhT1l0akFhc0FfN2xUVE1lSDhlMVRMUlJfdHVFWE9talBva3JoZDRENHRiVFVDOWlTN3hwQmRZQlctWU1rdVNSMnVBTVVzeFB2MkJFaTRpeThYRVN1a0NhZ3VKQnM3V0J0RUtPTlRfU2lwTXl4TUY3OF80SElkY3AyQURVdkxscE5mVi1PZFRINGQtbmZfdXU3MERMbUNoU3FSUzVkc1gwVUpsNjVyVzJOWmJsTjNYeGlwY0M3bENjLXcyRThONkNqT3M0YnVPdGdqcFY3ZU5mNm4zZVF2TTRGQ1JreEJCV1hFYVExSjV5MUhYR25zZ3pLbll0VWx5QzZLWXNiOTVKel9MbmltMWRoc3BrUzBJTS1SV3N0VWhQcmpyV001RXc?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-28T00:28:17+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "«الحرس الثوري» يهدد بالتصعيد بحراً وجواً    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r14",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«الحرس الثوري» يهدد بالتصعيد بحراً وجواً"
+      }
+    },
+    {
+      "title_original": "«الحرس الثوري» يتوعد بتحرك «في الجو والبحر» لكسر الحصار",
+      "title_zh": "«الحرس الثوري» يتوعد بتحرك «في الجو والبحر» لكسر الحصار",
+      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxPVXBIVG8wM3I1S1JWVjR3R3llMVVIaEMzOHV5Qk9HakFkSjlCYjFHbW0zRk5ZbFhZbW1wUWlBYUdyeVlQOVlCSlNZWHplUWJfTjhnOWdlS3Q3QXVpdDFNWEM5VmRqUDZwd1M4cEkwRzlaTU4yVjN3RzRxMlFLZ0JVQnFTZnF1TGJMNmM3ZEpPdkN3OUY2MVBqMU53ekxJMDFxVk13aTFrelk1TlVQX3g2cW05SFV5VjJEcGpKMDdGLUQ3MEx5WFZhdjVLR2J0T3QwSUdsVVRZTEc1OUlvU1VzVnF6NWg2bmJHb25FYWVNclpnYnBBaHk1M1g1SWhNV0RDcEhRbXFOTU5wcUc2eGM0UFJ0Y1pwemJHd0l3RU82VVNETGRVZFowdUlxNG9JUF92ZjROMnlOMTlFaG5EQlFyalpNZWZ5N2xWdlZfVVZKdnh2TWlPOW5DOERhUnJYRkNoM0FzaEFMMC01M283NGNjazlNQ05FYnp2UzZ5VU1DaUYzemswYWhQalduN21TYkVTYzRITTEwTnExU0VZM0lWck1qZDZoeFc2ZWRKU3ZiOXh1NmFBYmwwQTc2RnQwamRGZVRUUzFGdW56M2V1aTFnWk1fVklEeXA4a0tHcV9OVG9hZzBEa3lESlRfM0IxM1J5U0xSQWx6ZmpheE1vbUE?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-27T23:42:38+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "«الحرس الثوري» يتوعد بتحرك «في الجو والبحر» لكسر الحصار    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r15",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«الحرس الثوري» يتوعد بتحرك «في الجو والبحر» لكسر الحصار"
+      }
+    },
+    {
+      "title_original": "مصادر لـ«الشرق الأوسط»: غياب صورة مدرب الأهلي عن التصاميم «سياسة إعلامية»",
+      "title_zh": "مصادر لـ«الشرق الأوسط»: غياب صورة مدرب الأهلي عن التصاميم «سياسة إعلامية»",
+      "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxOV0xUWTJ5SmxScDQ1Q3d6WElfcURUQ0RxLXp2d294elNNR1VEcXNQT0xOZ0dJcXE5MUZSSTI2REZSbk5DNUFtbTRaME10cHZCSEpFQk51ZlVoTU16bVI0Z0NQX1hnN05kall4cHp4OEppUnZndmNlSExTTXZ2N21yTFNHQTItTHV0MV8yYTZ6M0xDeWRzcnM0MDg4dHNEXzdtR2RMR1RnOVFfejlVZmNoNW5vdjRFQXB6SVN3LWZ3NzRjVFBUaW1HNFlxOV84eUtRWFNOLWZyb3llbjZGZUdKTzFDTG55ZWFsVnRuQ28zcHozUFhpbXZxbFlQdllzYkRGQzdKU2lIdG01Y0pEOEtqRzB4WTJpcy1kQzNzME1QOVhXSFZBV0JxUGpWTXM1YUNWNkdCdk16SFRYaEJBV242ZXdjOFlBc1R1M2p0VG9qUmxnRHE3bE1EaTAtMm5vSG4zVGdUZ1V5dl9tbUxxbDdqWUp2b2IyalI3NVdYV3NfNVJDTVN5S3NueEM2MkZFRE9rSkZkVFBRVzlCVnY2VzBwTkZVYldqVW5MZ2FSVVNjLTNNQVRHUFR2NmZSMzNQYTg1QWRlMFRvTkNRU3Z4amdQNVdsYy1YVkpnNG5QN29pMm15VjZHRVNIdDB5R1FUdVdQZGp1aGgxY08wQVJpOWZMdGM3RkNVTmpwemtmbHJGOXJHVnVTdjlYeHZLWl9KRkRPRmIwYUZhMlFRcWthcnd6aXFoVmI2QzE3TG5tdUNFRElKaEdUNm8zNVZYQTVyTTQwTEk1ZEI2ampaTmpfcWYyMzN5MjZ5aXlBa1JpWWI1RTVYTjJXZFZXZ1gyU0JweDRoTzg1T2ZSWFY0V3l6ZE02Ny10NF9TZ2U4dDJUa3lLWFNkZDF4bTZwUk1hMm9CWTJFdWc?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-27T23:36:40+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "مصادر لـ«الشرق الأوسط»: غياب صورة مدرب الأهلي عن التصاميم «سياسة إعلامية»    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r16",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "مصادر لـ«الشرق الأوسط»: غياب صورة مدرب الأهلي عن التصاميم «سياسة إعلامية»"
+      }
+    },
+    {
+      "title_original": "Un análisis de las claves de los mercados, la geopolítica y las rutas marítimas",
+      "title_zh": "Un análisis de las claves de los mercados, la geopolítica y las rutas marítimas",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTEhlZmJ3czh3dlJaZlktLWY0ZmtUUGxCS0VZNk0xclk4Z2ZlSDRmbnFCaHU4a0VpUG5fQ3pFSjdWVEN1LVdWb2RrYUNkZkhNNHZiZGNneGNjcEZ2S1VJQ1B3Y3pkWHNkeDRBeG9nYTBwWEFJYzlvU1BzSnE2UW1wTi0yM05IdEhVWDhnNmRiYlNOa3FGbVluR3NkNVhQZXFiWUhHbWRSMHdkb3E2Ni1laVM4c9IBuAFBVV95cUxPX2xwa0lncWJ3anlrNG55MEl4U3BtNHFDRmRDbFAzalFxeFFBUTlnTjhyQWRkTWlBdnFuTGlKdXIxTUJrRGhmQkhLeFhieE11TS1LekhMdEV1Z2RsaFZkUWVNZGZ4djF1blI2T1BrUW5jYmxUX1ptSi1nRXlWQ29ITFdSc2hFeFNZMVc3NV94enV4UExfSnZjWGNQSElXUVJUZHdTSG5Cb3o0U1NtZUtFUjlkeFVZdzN5?oc=5",
+      "source": "Las Provincias",
+      "source_score": 40,
+      "published_at": "2026-11-27T23:25:02+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "Un análisis de las claves de los mercados, la geopolítica y las rutas marítimas    Las Provincias",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r17",
+      "cluster_sources": [
+        "Las Provincias"
+      ],
+      "all_titles": {
+        "es": "Un análisis de las claves de los mercados, la geopolítica y las rutas marítimas"
+      }
+    },
+    {
+      "title_original": "إسرائيل تحاول اغتيال النجل الأخير للحية وتصعد في غزة",
+      "title_zh": "إسرائيل تحاول اغتيال النجل الأخير للحية وتصعد في غزة",
+      "url": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxOdUlxWWh3MmI2Mm9UeWxKSmx4blIyRWp4STJTLTZVZDF5YThISF9oTXJvd3l1ZTBLakZzTlByZEZTbTZKdGdYNkJYdG1ZempYYmQ1WVEzR2c4cWl1aUdXeXJydUd3eGFMUHRNV0dibE03cmJTRXNIcTljUXlua1pPV2NTOFdwM1NiVXlNbWJ5N3ZBNERxbzIyRW54Y2V5alhIWGRyVjhUeHBsejRnNnNXdDFfS2RqYnEzV0NnQlJ5SWFNVE9lUXVQMWJPZWZhNmJMcWpYeG1CZy14bDNFa1gyUUtHTUxVLVkyclFYa1FKZEFsbW9nRUNXOW5KSUU2aF9vaWNhM01Ib0dwQnRwOUpvaEVpSzk4ME14OThrVDF1UkFSYTdCdF94NURZdzJWQzlKZ05rUV9KNWpnMzh3WU5CYktjeEpsNGluVXllaWxGOHg3U1JtbEh5LVlBQmc3akpONkMwZ3VwaTVxWlcySUg3ZW9ZU0x5M0RWbUhYSlN6MDdnQURKNEdGbE5uZkJtWnZqWWVlVmpPVFlDcGhYMngyZ1VOdTJSWVNRcDA4VDhOemMyOTNDZHZiRkU3YldNOGwxQkVuUEF2YURod2RxRGQ0X1VEamUyaVBvU0pNTGZRVDlYX2lXYnZwbDh0dXk5Q3hleGJSTENmUFdlM19TTWRfeFA2NVl6TU1iUWtGRE54d2ZRMl9tSV9MTEduMDQ2YUNoNmhiMGFVbm1WeUcxMXBRa0Jyc3RaUEdKVVd4aHJMUGlOVDg1WWxFclRwUEtpT0p4UElkUFZ1bEtadXhqdHJ5MVJXMENmVUtiTDlja3VfTk4?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-27T22:17:07+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "إسرائيل تحاول اغتيال النجل الأخير للحية وتصعد في غزة    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r18",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "إسرائيل تحاول اغتيال النجل الأخير للحية وتصعد في غزة"
+      }
+    },
+    {
+      "title_original": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "title_zh": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-27T21:55:53+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Spanish PM and rivals rally supporters in final pitch for votes\n- Published\nSpain's main party leaders have held their final rallies ahead of Sunday's election, with Socialist Prime Minister Pedro Sánchez saying he is confident of defying the polls.",
+        "\"I cannot imagine us losing,\" he said, posing for selfies with supporters in red T-shirts and accusing conservative rival Alberto Núñez Feijóo of planning a coalition with the far right.",
+        "Feijóo's People's Party (PP) is narrowly ahead in the polls, and in the final hours of the campaign he travelled first to Barcelona and then Seville, promising voters a new political era of \"truth, decency and good governance\"."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r19",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Spanish PM and rivals rally supporters in final pitch for votes"
+      }
+    },
+    {
+      "title_original": "China ensaya el desembarco en Taiwán y estrecha el cerco militar sobre la isla en vísperas de las elecciones locales",
+      "title_zh": "China ensaya el desembarco en Taiwán y estrecha el cerco militar sobre la isla en vísperas de las elecciones locales",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdFNtcU5CZE1tbG1IV21vSEdOVWRMd3RSWVBrOWh3aEhLbElMSEhjWklwb3lPWllza3NCZ09LSHFDWEM1WVFiVTh0ODkxMHBZQzFnd0MtODFfOE5sVDJ3MUxsUUEyVk0zTFhqMmRpX1k4bE1HM3RyclpIeWQwS2d4UXF1Y9IBgwFBVV95cUxNY0otbmhKQzA1b1VxX285dGtzd3pUR2ZBYkJ1OWtJbEhnZHN4YzRfc3dXdDBwTTN4U0hHTVZGSE5USklUVUJCcGVJcUlhNnhTbnJsVjdneUppbmI0MEszaFBrTUxReVdsRmFKTlQ2VlNLN0ZOU0pJYWF4Zmx3Nm5vX2p1Yw?oc=5",
+      "source": "El Mundo",
+      "source_score": 75,
+      "published_at": "2026-11-27T21:44:13+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "东亚",
+      "facts_zh": [
+        "China ensaya el desembarco en Taiwán y estrecha el cerco militar sobre la isla en vísperas de las elecciones locales    El Mundo",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r20",
+      "cluster_sources": [
+        "El Mundo"
+      ],
+      "all_titles": {
+        "es": "China ensaya el desembarco en Taiwán y estrecha el cerco militar sobre la isla en vísperas de las elecciones locales"
+      }
+    },
+    {
+      "title_original": "Trump addresses Nvidia, Russia-Ukraine war, friendship with Putin",
+      "title_zh": "Trump addresses Nvidia, Russia-Ukraine war, friendship with Putin",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaGhIVXJjbC02M0NnSGVLSUduR0FScEVzalF3OEFGMndxTk1pNU1iOGpnUkpFR0xWd3hsTFFndEtGSkJUaXYydkxJMGNZcEFtNkVJNUVBMmc5MWpKa3FiZlNCbXdFaFh0ZHNqSzQ4OHVVbURjM2I0bHBHRzFGRkZyYmlhZjB1anh2Nzl3RDR3ZEVieWhjYXFaUGhaQWRIcXpTVEFXNg?oc=5",
+      "source": "CBS News",
+      "source_score": 75,
+      "published_at": "2026-11-27T21:42:00+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Trump addresses Nvidia, Russia-Ukraine war, friendship with Putin    CBS News",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r21",
+      "cluster_sources": [
+        "CBS News"
+      ],
+      "all_titles": {
+        "en": "Trump addresses Nvidia, Russia-Ukraine war, friendship with Putin"
+      }
+    },
+    {
+      "title_original": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
+      "title_zh": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
+      "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+      "source": "The Guardian World",
+      "source_score": 75,
+      "published_at": "2026-11-27T21:24:10+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on Thursday, a sign of the strained relations between the neighboring countries.",
+        "Elizabeth May, a Canadian Green party member, originally opened the petition for signatures in July 2026 after a woman from Calgary sponsored it.",
+        "The petition requests that the Canadian government declare Hoekstra “persona non grata” due to his “US” diplomatic interference in Canadian domestic affairs”."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r22",
+      "cluster_sources": [
+        "The Guardian World"
+      ],
+      "all_titles": {
+        "en": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament"
+      }
+    },
+    {
+      "title_original": "Kyiv offers Black Sea ceasefire to protect grain exports",
+      "title_zh": "Kyiv offers Black Sea ceasefire to protect grain exports",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWW9taURHbFpkMjd6YkFzNEliSVpaOW5zal9CUEY1R0kyS3NWVU9HbkIzRkNhcWtoOWgxUi02WWdWN1dpQTU5UVVpc3dGa04yVVBQbk1NQVMzSFBLVmxvUllTNTVwVEdwR1FtdGI3Nnppb0lvNjNRMUZwYl9EaXI1akI0VE5SRGcxVkxzVzNZbFM2S0RCc2JOdi05R2s1dlg4eVZIdDBB0gGrAUFVX3lxTFB6OWM4c1NpYjVhZUp2MVV1eUppS1lVLW1lNjIwaktRN1lWUDlGOG5meWIySTByVVhUQ2tnSGh4d05pVXN0SWxnSFlFc0lzVzhmQzlWaFRZTW5ELU0yWUpNYTIwVV8tQmhqODBCVzhQMjBseHVydHcydEJya3lJREtMbFd2aW0zMmlndy1oV2M2RHZPbzh2V3FQcV8tNE5xMmx1S3Jfb1NXNXdHVQ?oc=5",
+      "source": "Al Jazeera",
+      "source_score": 95,
+      "published_at": "2026-11-27T21:17:40+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "俄乌",
+      "facts_zh": [
+        "Kyiv offers Black Sea ceasefire to protect grain exports    Al Jazeera",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r23",
+      "cluster_sources": [
+        "Al Jazeera"
+      ],
+      "all_titles": {
+        "en": "Kyiv offers Black Sea ceasefire to protect grain exports"
+      }
+    },
+    {
+      "title_original": "«الحرس الثوري»: ناقلة اصطدمت بلغم قرب مضيق هرمز",
+      "title_zh": "«الحرس الثوري»: ناقلة اصطدمت بلغم قرب مضيق هرمز",
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxNbkFRcERodEhoZmQyU2FhZGVYN2JQZHNFUVVoSzM3WnEzcHdMM0dJQzlTOWJFamhNeFVfYjQxVFM2OElxRVFZUzMtN09KbDBmc0o5Vks3aHNTOTRhaFhDTlZUOGp3U0J2NlJRMkFuZ183LVJxaWc2dWhERWJDTjJuSE5sUVVXLTQwQVFXTVdBOGlUbVVyd2twUXAzWGFUZ2lzRENONTQ5T2MxY0wwRlhtSkRMb1Q3eU54cUUwNjFJYURfZ2RNLVNERmJIN3o2akVPRkd1YXZ2UTJNcmVXMkJiZFBEamdsY0l4OFByeDB1N3ZoSkpOcDVNclBFQndhdG16alByWkFvcE1DVDkyX05nREZiRWNURUtXOWN2bUQwTGRXMV9LN085ejBMYXU4RmhGMWNublZfRDhPR0hLV2RrR0hSeVZiMm5KNUZWSW5pRWtRTTJ0X3M3QXVmaGpZQ1lEU0hZS0U0Wi1jNTlNUXpDZlpCQnAyUUgzdG9XTTBOczhYMEtMZlVuWVc2Nm5VOGJyYk9GOFc1NlhIT2lQeWNqVE02LTlXOTkxOFEzMDBfYW5xazVXbzQ0VUtmcTVPQlQyM2YwYzBjdEhjVktK?oc=5",
+      "source": "الشرق الأوسط",
+      "source_score": 40,
+      "published_at": "2026-11-27T20:33:03+00:00",
+      "language": "ar",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "«الحرس الثوري»: ناقلة اصطدمت بلغم قرب مضيق هرمز    الشرق الأوسط",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r24",
+      "cluster_sources": [
+        "الشرق الأوسط"
+      ],
+      "all_titles": {
+        "ar": "«الحرس الثوري»: ناقلة اصطدمت بلغم قرب مضيق هرمز"
+      }
+    },
+    {
+      "title_original": "Elections locales à Taïwan, bataille serrée pour la mairie de Taipei",
+      "title_zh": "Elections locales à Taïwan, bataille serrée pour la mairie de Taipei",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQc0I3UnU2ODFhTlRDV29EbWVBUnVuWXB1a2JRVWV6dDcyWGxHWHlWZlFYQ1BCcnBMSElhdnUzQUhpajFwYjN4VzRUaExKS2dqU0VlZTZ1NXljVnNDM2hqU0NfZ01Vd1ZnSl9QN2txdHUxZHBQUFlQUjltUDZ6Z0tYbVIyX2s5cTVCeE5GYTYyNTB6dnBodXQwRTRqRHNLUUI2M1R6XzdRdVRlQjJWYk5GcW1ybS01S3BIVHd3elVqTjNodlRXUUhfWldhcUFkR0ctMlEwME5YVWZBZXZhMjZud29aNXdZc01sanZ4NzZDbkVDczJqNEE?oc=5",
+      "source": "France 24",
+      "source_score": 75,
+      "published_at": "2026-11-27T20:19:27+00:00",
+      "language": "fr",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "Elections locales à Taïwan, bataille serrée pour la mairie de Taipei    France 24",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r25",
+      "cluster_sources": [
+        "France 24"
+      ],
+      "all_titles": {
+        "fr": "Elections locales à Taïwan, bataille serrée pour la mairie de Taipei"
+      }
+    },
+    {
+      "title_original": "BAE Hägglunds lands record $6B deal for 400+ CV90s from five NATO nations",
+      "title_zh": "BAE Hägglunds lands record $6B deal for 400+ CV90s from five NATO nations",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzVSN0tkM3d1eWhtOVFlUnZwM0p5U2ZCUms1d0RoSXAwWXZrNlBtQkJNQVZpeWFhS1RhYWVQV1VITnBWRlBJZlZrdWdtWjNKYTkzbjlOMXN6UXRtbUFzMjZPQm14THotLTdiVGV4elBiSnk2bG4tR2VrZDZvdWtpNUZxTDNvWEpWVDdSVl9JRV9Ya2V6dEtiQkhSZGJsQm1TUjQyNldEZXJzY1dI?oc=5",
+      "source": "Breaking Defense",
+      "source_score": 40,
+      "published_at": "2026-11-27T20:02:45+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "欧洲",
+      "facts_zh": [
+        "BAE Hägglunds lands record $6B deal for 400+ CV90s from five NATO nations    Breaking Defense",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r27",
+      "cluster_sources": [
+        "Breaking Defense"
+      ],
+      "all_titles": {
+        "en": "BAE Hägglunds lands record $6B deal for 400+ CV90s from five NATO nations"
+      }
+    },
     {
       "title_original": "Why the Russian Exclave of Kaliningrad Is at the Center of a NATO Row",
       "title_zh": "Why the Russian Exclave of Kaliningrad Is at the Center of a NATO Row",
@@ -104,6 +779,31 @@
       }
     },
     {
+      "title_original": "Un misil llamado Mercedes en Qatar: Kimi Antonelli y George Russell, imbatibles en Oriente Medio",
+      "title_zh": "Un misil llamado Mercedes en Qatar: Kimi Antonelli y George Russell, imbatibles en Oriente Medio",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbVp6OUdYblpWb19kQlJvWmMxbFh0RjBjTjlyc1h6WFAyRWxUVkxkNDhmNGd3Ynh4RGVmMVJmQURBSDJwQVBiR1dDQlBheEhlNGpUc0p5RnhEZzl4amJyOHh4cm9DRFVFOWRvM19WYThCR2c2ekNCZXU5Qy13cmpKZ1NfVVoxTTdydzAzQURhU2d0dU9VZ2lreGtFR3F4S3RQTWNsMllsa1k0YzZPaXFNbFZ0Nk50bnRwTExFbUF0ZW5oVGFjV2NWVUl2WnA4UDZIQkE?oc=5",
+      "source": "Car and Driver",
+      "source_score": 40,
+      "published_at": "2026-11-27T18:18:37+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Un misil llamado Mercedes en Qatar: Kimi Antonelli y George Russell, imbatibles en Oriente Medio    Car and Driver",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r28",
+      "cluster_sources": [
+        "Car and Driver"
+      ],
+      "all_titles": {
+        "es": "Un misil llamado Mercedes en Qatar: Kimi Antonelli y George Russell, imbatibles en Oriente Medio"
+      }
+    },
+    {
       "title_original": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "title_zh": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
@@ -151,6 +851,31 @@
       ],
       "all_titles": {
         "en": "Video New questions over Trump-Putin ties amid Ukraine war"
+      }
+    },
+    {
+      "title_original": "La Brigada Extremadura XI despide en Bótoa a los 630 militares que participarán en la misión de la OTAN en Letonia",
+      "title_zh": "La Brigada Extremadura XI despide en Bótoa a los 630 militares que participarán en la misión de la OTAN en Letonia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2tEbDNZVVY5a25uWFMtalpVZjZ0WWQtQjRpcnBXdldjN2NvNnZubTd3UTJuRHVqckp2cHNoZGVBaTVBWElGcTJOdW1XdXBfZDVCMW1NNjB4SnJTZUFLZFdJUWFVX0RSNDBWaFUteVI4THhsUlYwTk1WamRubGhhMjNzNGxxY3BCdUc0SnZmNGdyT2ZjTmxoTkFQeHZoZ2ZmSXdlTzFR?oc=5",
+      "source": "La Crónica de Badajoz",
+      "source_score": 40,
+      "published_at": "2026-11-27T17:45:10+00:00",
+      "language": "es",
+      "topic": "地缘政治",
+      "region": "其他",
+      "facts_zh": [
+        "La Brigada Extremadura XI despide en Bótoa a los 630 militares que participarán en la misión de la OTAN en Letonia    La Crónica de Badajoz",
+        "",
+        ""
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r30",
+      "cluster_sources": [
+        "La Crónica de Badajoz"
+      ],
+      "all_titles": {
+        "es": "La Brigada Extremadura XI despide en Bótoa a los 630 militares que participarán en la misión de la OTAN en Letonia"
       }
     },
     {
@@ -251,6 +976,31 @@
       ],
       "all_titles": {
         "ja": "ウクライナ、ロシアのミサイル製造施設攻撃と表明 モスクワ南方トゥーラ州"
+      }
+    },
+    {
+      "title_original": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "title_zh": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_score": 75,
+      "published_at": "2026-11-27T16:46:47+00:00",
+      "language": "en",
+      "topic": "地缘政治",
+      "region": "美国",
+      "facts_zh": [
+        "Severe Thanksgiving storms leave roads flooded and trees fallen\nBoth US coasts have been battered by severe Thanksgiving storms, leaving behind flooded roads, fallen trees, and widespread power outages for hundreds of thousands of people.",
+        "Although the weather is expected to improve, hundreds of flights remain delayed or cancelled on Friday.",
+        "Beyond the travel disruption, impacts were widespread across the east Coast, and US President Donald Trump said he would consider releasing emergency funds."
+      ],
+      "credibility": "red",
+      "credibility_label": "🔴 单一来源",
+      "cluster_id": "r34",
+      "cluster_sources": [
+        "BBC World"
+      ],
+      "all_titles": {
+        "en": "Severe Thanksgiving storms leave roads flooded and trees fallen"
       }
     },
     {
